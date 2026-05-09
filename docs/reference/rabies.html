@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rabies | The Patogen Dispatch</title>
+    <style>
+      :root { --bg: #e8e1d3; --bg-deep: #d8cebc; --surface: #f8f4ea; --surface-alt: #f2ebde; --paper: #fffdf8; --ink: #1b2836; --ink-soft: #42515e; --line: #d6cab7; --accent: #8d3f2f; --accent-soft: rgba(141,63,47,0.10); --signal: #1f5b89; --signal-soft: rgba(31,91,137,0.12); --shadow: 0 24px 56px rgba(49, 36, 22, 0.10); }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: radial-gradient(circle at top left, rgba(181,138,49,0.10), transparent 28%), radial-gradient(circle at bottom right, rgba(31,91,137,0.12), transparent 24%), linear-gradient(180deg, #f2ede3 0%, var(--bg) 40%, var(--bg-deep) 100%); color: var(--ink); font-family: "Iowan Old Style", Georgia, serif; line-height: 1.58; }
+      a { color: var(--signal); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      .page { max-width: 1240px; margin: 0 auto; padding: 28px 22px 64px; display: grid; gap: 22px; }
+      .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
+      .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; }
+      .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
+      .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
+      .site-nav-link, .section-nav-link { border-radius: 999px; padding: 9px 14px; border: 1px solid rgba(187,169,143,0.78); background: rgba(255,252,245,0.94); color: var(--ink); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.92rem; white-space: nowrap; }
+      .site-nav-link:hover, .section-nav-link:hover { text-decoration: none; background: var(--accent-soft); }
+      .site-nav-link.active { background: rgba(31,91,137,0.10); color: var(--signal); border-color: rgba(31,91,137,0.22); }
+      .section-nav { padding: 16px 18px; display: grid; gap: 10px; }
+      .section-nav-label { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; text-transform: uppercase; letter-spacing: 0.14em; color: var(--accent); font-size: 0.74rem; }
+      .hero, .panel { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 28px; box-shadow: var(--shadow); padding: 24px; }
+      .hero { background: linear-gradient(180deg, rgba(255,255,255,0.42), rgba(255,255,255,0)), linear-gradient(135deg, rgba(248,244,234,0.98), rgba(242,235,222,0.98)); position: relative; overflow: hidden; }
+      .hero::before { content: ""; position: absolute; inset: 0; background-image: linear-gradient(rgba(23,48,70,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(23,48,70,0.04) 1px, transparent 1px); background-size: 28px 28px; opacity: 0.35; pointer-events: none; }
+      .hero > * { position: relative; z-index: 1; }
+      .panel-grid { display: grid; gap: 22px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .story-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+      .card-grid { display: grid; gap: 14px; }
+      .archive-table { display: grid; gap: 12px; }
+      .archive-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 16px; background: rgba(255,252,247,0.9); border: 1px solid rgba(187,169,143,0.68); border-radius: 18px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .archive-row-meta { color: var(--ink-soft); font-size: 0.92rem; }
+      .sort-bar { display: flex; justify-content: flex-end; margin: 10px 0 14px; }
+      .sort-control { display: inline-flex; align-items: center; gap: 8px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; color: var(--ink-soft); font-size: 0.88rem; }
+      .sort-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 999px; padding: 8px 12px; color: var(--ink); font: inherit; }
+      .sort-select:hover { background: var(--accent-soft); }
+      .story-filter-shell { display: grid; gap: 10px; }
+      .story-filter-grid { display: grid; grid-template-columns: minmax(0, 1.8fr) repeat(4, minmax(150px, 1fr)); gap: 10px; align-items: end; }
+      .filter-group { display: grid; gap: 6px; }
+      .filter-search-wide { min-width: 0; }
+      .filter-label { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-soft); }
+      .filter-input, .filter-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 14px; padding: 10px 12px; color: var(--ink); font: inherit; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .filter-input::placeholder { color: var(--ink-soft); }
+      .utility-panel { background: linear-gradient(180deg, rgba(248,243,233,0.98), rgba(240,232,220,0.96)); }
+      .site-card, .timeline-row { background: var(--paper); border: 1px solid rgba(187,169,143,0.68); border-radius: 22px; padding: 18px 18px 16px; box-shadow: 0 12px 26px rgba(49, 36, 22, 0.06); }
+      .feature-card { background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(245,239,228,0.98)); }
+      .compact-card { padding-top: 16px; padding-bottom: 14px; }
+      .meta-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .badge, .link-pill { border-radius: 999px; padding: 6px 10px; font-size: 0.78rem; line-height: 1; border: 1px solid rgba(187,169,143,0.72); background: rgba(255,252,245,0.94); color: var(--ink-soft); display: inline-flex; align-items: center; }
+      .badge.accent { background: var(--accent-soft); color: var(--accent); border-color: rgba(141,63,47,0.24); }
+      .badge.tone-official { background: rgba(31,91,137,0.12); color: #1f5b89; border-color: rgba(31,91,137,0.24); }
+      .badge.tone-wire { background: rgba(60,88,48,0.10); color: #35552b; border-color: rgba(60,88,48,0.20); }
+      .badge.tone-major { background: rgba(181,138,49,0.12); color: #8c6a17; border-color: rgba(181,138,49,0.22); }
+      .badge.tone-specialist { background: rgba(141,63,47,0.10); color: #8d3f2f; border-color: rgba(141,63,47,0.20); }
+      .kicker { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; text-transform: uppercase; letter-spacing: 0.16em; color: var(--accent); font-size: 0.74rem; margin: 0 0 10px; }
+      .subtitle, .empty-note, .muted-note { color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .section-note { margin: 0 0 10px; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.95rem; }
+      .lede { font-size: 1.06rem; }
+      .hero-subhead { margin: 16px 0 8px; font-size: 1.08rem; }
+      .bullet-list { margin: 10px 0 0; padding-left: 18px; }
+      h1, h2, h3 { margin: 0; color: #173046; }
+      h1 { font-size: clamp(2.4rem, 4.8vw, 4.4rem); line-height: 0.94; letter-spacing: -0.03em; }
+      h2 { font-size: 1.4rem; }
+      h3 { font-size: 1.06rem; }
+      .site-card h3 { line-height: 1.12; }
+      @media (max-width: 1100px) { .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } }
+      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Patogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
+      <section class="hero" id="story-overview">
+        <p class="kicker">Disease intelligence sheet</p>
+        <h1>Rabies</h1>
+        <p class="subtitle">Curated desk background for reporters who need the pathogen, transmission, and outbreak frame fast.</p>
+        <div class="meta-row"><span class="badge">Zoonotic</span><span class="badge">High-fatality</span><span class="badge">Neglected tropical</span><span class="badge">Rural dog-bite exposure</span><span class="badge">Wildlife interfaces</span><span class="badge">Areas with weak post-exposure prophylaxis access</span></div>
+        <p><strong>Pathogen / agent:</strong> Rabies virus and related lyssaviruses</p>
+        <p><strong>Transmission:</strong> Animal bites and saliva exposure</p>
+        <p><strong>Reservoir / vector:</strong> Dogs remain the main source of human rabies globally, though wildlife reservoirs matter regionally.</p>
+        <p><strong>Incubation:</strong> Usually weeks to months, but highly variable.</p>
+        <p><strong>Severity:</strong> Essentially universally fatal once symptomatic, which is why exposure response is the real public-health battleground.</p>
+        <p><strong>Diagnostics:</strong> Exposure assessment is central; laboratory confirmation often comes late and may require specialized testing.</p>
+        <p><strong>Treatment:</strong> Post-exposure prophylaxis before symptoms; supportive care after disease onset.</p>
+        <p><strong>Prevention:</strong> Dog vaccination, bite prevention, and rapid access to post-exposure prophylaxis.</p>
+        <p><strong>Vaccine / prevention status:</strong> Pre-exposure vaccination is selective, but the real population-level control tool is dog vaccination plus reliable access to post-exposure prophylaxis.</p>
+      </section>
+
+      <nav class="section-nav panel utility-panel" aria-label="Section navigation"><div class="section-nav-label">On this page</div><div class="section-nav-links"><a class="section-nav-link" href="#story-overview">Overview</a><a class="section-nav-link" href="#clinical-pattern">Clinical Pattern</a><a class="section-nav-link" href="#current-story-files">Current Story Files</a><a class="section-nav-link" href="#why-reporters-care">Why Reporters Care</a><a class="section-nav-link" href="#desk-notes">Desk Notes</a></div></nav>
+
+      <section class="panel-grid">
+        <section class="panel" id="clinical-pattern">
+          <h2>Symptoms And Clinical Pattern</h2>
+          <ul class="bullet-list"><li>Early fever and paresthesia at the bite site can precede neurologic illness.</li><li>Hydrophobia, aerophobia, agitation, or paralysis mark advanced disease.</li><li>Once clinical disease begins, the prognosis is overwhelmingly poor.</li></ul>
+        </section>
+        <section class="panel">
+          <h2>Official Background Links</h2>
+          <div class="meta-row"><a class="link-pill" href="https://www.cdc.gov/rabies/about/index.html">CDC overview</a><a class="link-pill" href="https://www.who.int/news-room/fact-sheets/detail/rabies">WHO fact sheet</a></div>
+        </section>
+      </section>
+
+      <section class="panel" id="current-story-files">
+        <h2>Current Story Files</h2>
+        <div class="card-grid"><p class="empty-note">No active tracked stories are linked to this disease in the current run.</p></div>
+      </section>
+
+      <section class="panel" id="why-reporters-care">
+        <h2>Why Reporters Care</h2>
+        <p><strong>Why this keeps becoming news:</strong> Rabies remains one of the starkest diseases in communications because nearly every symptomatic human case is a preventable systems failure.</p>
+        <p><strong>What journalists often get wrong:</strong> Coverage often fixates on the horror of symptomatic disease and underreports the policy issue that actually matters: whether bite victims can get prompt prophylaxis.</p>
+        <ul class="bullet-list"><li>Access to post-exposure prophylaxis and immunoglobulin.</li><li>Dog vaccination coverage and bite-source ecology.</li><li>Whether cases are clustered in rural underserved areas.</li></ul>
+      </section>
+
+      <section class="panel">
+        <h2>Last Major Outbreak On File</h2>
+        <p><strong>Persistent rural dog-mediated burden</strong> | Africa and Asia | Ongoing</p>
+        <p>WHO continues to frame rabies as a preventable but still deadly disease concentrated in underserved settings where dog vaccination and post-exposure prophylaxis access remain inadequate.</p>
+        <p><strong>Source:</strong> <a href="https://www.who.int/news-room/fact-sheets/detail/rabies">WHO fact sheet</a> (WHO fact sheet)</p>
+      </section>
+
+      <section class="panel" id="desk-notes">
+        <h2>Desk Notes And Historical Signals</h2>
+        <p><strong>Desk note:</strong> This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.</p>
+        <p><strong>Research caveats:</strong> Human case counts are often severe underestimates because diagnostic confirmation is limited where burden is highest.</p>
+        <ul class="bullet-list"><li>For desk purposes, rabies matters because devastating local stories keep happening even when rich-country editors barely notice.</li></ul>
+      </section>
+    </main>
+  </body>
+</html>

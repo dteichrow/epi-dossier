@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Local caches and machine state
+/data/*.sqlite
+/data/http_cache/
+/data/source_items/
+/logs/*.log
+/app_exports/
+/briefings/
+/snapshots/
+
+# Local-only reader surface; public deploy artifacts live in docs/
+/Daily Dossiers/

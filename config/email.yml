@@ -1,0 +1,10 @@
+email:
+  enabled: false
+  smtp_host: smtp.gmail.com
+  smtp_port: 465
+  use_ssl: true
+  username: devinteichrow@gmail.com
+  from_email: devinteichrow@gmail.com
+  to_email: devinteichrow@gmail.com
+  password_env: EPI_DOSSIER_EMAIL_APP_PASSWORD
+  subject_prefix: Daily Epidemiology Dossier

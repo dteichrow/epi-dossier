@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1528" viewBox="0 0 1080 1528">
+  <defs>
+    <style>
+      .sans { font-family: Arial, Helvetica, sans-serif; }
+      .serif { font-family: Georgia, 'Times New Roman', serif; }
+      .head { font-family: Arial, Helvetica, sans-serif; font-weight: 900; letter-spacing: 0.5px; }
+      .label { font-family: Arial, Helvetica, sans-serif; font-weight: 900; }
+      .bullet { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill: #101418; }
+    </style>
+    <filter id="photoShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#111111" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1528" fill="#ffffff"/>
+
+  <!-- Header -->
+  <g transform="translate(0 0)">
+    <rect x="18" y="24" width="254" height="138" fill="#c90000"/>
+    <rect x="18" y="24" width="98" height="70" fill="#ffffff"/>
+    <rect x="48" y="43" width="17" height="52" fill="#c90000"/>
+    <rect x="31" y="60" width="52" height="17" fill="#c90000"/>
+    <text x="140" y="26" text-anchor="middle" class="head" font-size="28" fill="#c90000">MV HONDIUS</text>
+    <text x="145" y="118" text-anchor="middle" class="head" font-size="18" fill="#ffffff">ATLANTIC</text>
+    <text x="145" y="142" text-anchor="middle" class="head" font-size="18" fill="#ffffff">CRUISE CLUSTER</text>
+
+    <rect x="292" y="18" width="576" height="150" fill="#dedede"/>
+    <text x="580" y="64" text-anchor="middle" class="head" font-size="38" fill="#1e5d6d">HANTAVIRUS OUTBREAK</text>
+    <text x="580" y="110" text-anchor="middle" class="head" font-size="38" fill="#1e5d6d">SITUATION REPORT #1</text>
+    <text x="580" y="151" text-anchor="middle" class="head" font-size="34" fill="#1e5d6d">4 May 2026</text>
+
+    <g transform="translate(902 32)">
+      <circle cx="60" cy="38" r="34" fill="#f4efe7" stroke="#1e5d6d" stroke-width="3"/>
+      <path d="M36 76 C52 52, 73 52, 88 76" fill="none" stroke="#1e5d6d" stroke-width="5"/>
+      <text x="60" y="117" text-anchor="middle" class="head" font-size="20" fill="#101418">The Edge</text>
+      <text x="60" y="139" text-anchor="middle" class="sans" font-size="16" fill="#101418">of Epidemiology</text>
+    </g>
+  </g>
+
+  <!-- Left stats -->
+  <g transform="translate(18 188)">
+    <rect width="192" height="220" fill="#9bbb59"/>
+    <text x="96" y="92" text-anchor="middle" class="head" font-size="70" fill="#ffffff">1</text>
+    <text x="96" y="142" text-anchor="middle" class="head" font-size="25" fill="#ffffff">CONFIRMED</text>
+    <text x="96" y="179" text-anchor="middle" class="head" font-size="29" fill="#ffffff">CASE</text>
+
+    <rect y="244" width="192" height="204" fill="#358fa3"/>
+    <text x="96" y="331" text-anchor="middle" class="head" font-size="70" fill="#ffffff">5</text>
+    <text x="96" y="380" text-anchor="middle" class="head" font-size="25" fill="#ffffff">SUSPECTED</text>
+    <text x="96" y="416" text-anchor="middle" class="head" font-size="28" fill="#ffffff">CASES</text>
+
+    <rect y="472" width="192" height="216" fill="#f79646"/>
+    <text x="96" y="562" text-anchor="middle" class="head" font-size="70" fill="#ffffff">3</text>
+    <text x="96" y="611" text-anchor="middle" class="head" font-size="27" fill="#ffffff">DEATHS</text>
+    <text x="96" y="646" text-anchor="middle" class="head" font-size="23" fill="#ffffff">REPORTED</text>
+
+    <rect y="712" width="192" height="210" fill="#c43b38"/>
+    <text x="96" y="801" text-anchor="middle" class="head" font-size="70" fill="#ffffff">1</text>
+    <text x="96" y="850" text-anchor="middle" class="head" font-size="27" fill="#ffffff">IN ICU</text>
+    <text x="96" y="885" text-anchor="middle" class="head" font-size="19" fill="#ffffff">SOUTH AFRICA</text>
+  </g>
+
+  <!-- Highlights -->
+  <g transform="translate(236 190)">
+    <text x="0" y="22" class="label" font-size="21" text-decoration="underline" fill="#101418">HIGHLIGHTS:</text>
+    <text x="0" y="52" class="bullet">• WHO reports one lab-confirmed hantavirus case and five suspected cases.</text>
+    <text x="0" y="82" class="bullet">• Of six affected people, three have died; one person is in intensive care in South Africa.</text>
+    <text x="0" y="112" class="bullet">• The cluster is associated with the MV Hondius, travelling from Ushuaia, Argentina, to Cabo Verde.</text>
+    <text x="0" y="142" class="bullet">• ECDC is monitoring and coordinating with national public health authorities and WHO.</text>
+    <text x="0" y="172" class="bullet">• Sequencing is ongoing; the specific hantavirus strain has not yet been publicly clarified.</text>
+  </g>
+
+  <!-- Chart 1 -->
+  <g transform="translate(252 380)">
+    <rect x="0" y="0" width="690" height="224" fill="#ffffff" stroke="#c90000" stroke-width="4"/>
+    <text x="345" y="25" text-anchor="middle" class="label" font-size="17" text-decoration="underline" fill="#555555">Reported Hantavirus-Associated Illness Status, MV Hondius 2026</text>
+    <line x1="72" y1="178" x2="642" y2="178" stroke="#999999"/>
+    <line x1="72" y1="138" x2="642" y2="138" stroke="#e0e0e0"/>
+    <line x1="72" y1="98" x2="642" y2="98" stroke="#e0e0e0"/>
+    <line x1="72" y1="58" x2="642" y2="58" stroke="#e0e0e0"/>
+    <text x="48" y="183" text-anchor="end" class="sans" font-size="13" fill="#555555">0</text>
+    <text x="48" y="143" text-anchor="end" class="sans" font-size="13" fill="#555555">1</text>
+    <text x="48" y="103" text-anchor="end" class="sans" font-size="13" fill="#555555">3</text>
+    <text x="48" y="63" text-anchor="end" class="sans" font-size="13" fill="#555555">5</text>
+    <rect x="116" y="138" width="70" height="40" fill="#9bbb59"/>
+    <rect x="254" y="58" width="70" height="120" fill="#358fa3"/>
+    <rect x="392" y="98" width="70" height="80" fill="#f79646"/>
+    <rect x="530" y="138" width="70" height="40" fill="#c43b38"/>
+    <text x="151" y="200" text-anchor="middle" class="sans" font-size="14" fill="#333333">confirmed</text>
+    <text x="289" y="200" text-anchor="middle" class="sans" font-size="14" fill="#333333">suspected</text>
+    <text x="427" y="200" text-anchor="middle" class="sans" font-size="14" fill="#333333">deaths</text>
+    <text x="565" y="200" text-anchor="middle" class="sans" font-size="14" fill="#333333">ICU</text>
+  </g>
+
+  <!-- Chart 2 -->
+  <g transform="translate(252 604)">
+    <rect x="0" y="0" width="690" height="224" fill="#ffffff" stroke="#c90000" stroke-width="4"/>
+    <text x="345" y="25" text-anchor="middle" class="label" font-size="17" text-decoration="underline" fill="#555555">Investigation Questions to Resolve, MV Hondius Hantavirus Cluster</text>
+    <line x1="74" y1="178" x2="642" y2="178" stroke="#999999"/>
+    <line x1="74" y1="132" x2="642" y2="132" stroke="#e0e0e0"/>
+    <line x1="74" y1="86" x2="642" y2="86" stroke="#e0e0e0"/>
+    <rect x="104" y="78" width="62" height="100" fill="#9ecae1"/>
+    <rect x="184" y="52" width="62" height="126" fill="#fdd0a2"/>
+    <rect x="264" y="104" width="62" height="74" fill="#fb6a4a"/>
+    <rect x="344" y="67" width="62" height="111" fill="#9ecae1"/>
+    <rect x="424" y="120" width="62" height="58" fill="#fdd0a2"/>
+    <rect x="504" y="92" width="62" height="86" fill="#fb6a4a"/>
+    <text x="135" y="200" text-anchor="middle" class="sans" font-size="13" fill="#333333">strain</text>
+    <text x="215" y="200" text-anchor="middle" class="sans" font-size="13" fill="#333333">source</text>
+    <text x="295" y="200" text-anchor="middle" class="sans" font-size="13" fill="#333333">crew</text>
+    <text x="375" y="200" text-anchor="middle" class="sans" font-size="13" fill="#333333">timeline</text>
+    <text x="455" y="200" text-anchor="middle" class="sans" font-size="13" fill="#333333">contacts</text>
+    <text x="535" y="200" text-anchor="middle" class="sans" font-size="13" fill="#333333">rodents</text>
+    <rect x="74" y="34" width="14" height="14" fill="#9ecae1"/>
+    <text x="94" y="47" class="sans" font-size="13" fill="#555555">sequencing</text>
+    <rect x="190" y="34" width="14" height="14" fill="#fdd0a2"/>
+    <text x="210" y="47" class="sans" font-size="13" fill="#555555">environment</text>
+    <rect x="320" y="34" width="14" height="14" fill="#fb6a4a"/>
+    <text x="340" y="47" class="sans" font-size="13" fill="#555555">transmission</text>
+  </g>
+
+  <!-- Text sections -->
+  <g transform="translate(236 858)">
+    <text x="0" y="0" class="label" font-size="21" text-decoration="underline" fill="#101418">RESPONSE ACTIVITIES:</text>
+    <text x="0" y="30" class="bullet">• Medical care, evacuation planning, and support for affected passengers and crew are ongoing.</text>
+    <text x="0" y="58" class="bullet">• Public health authorities are assessing shipboard risk, exposure history, and possible source.</text>
+    <text x="0" y="86" class="bullet">• Laboratory testing and sequencing are expected to clarify the virus and containment needs.</text>
+    <text x="0" y="114" class="bullet">• Contact tracing should focus on symptom timing, close contacts, and shared exposure spaces.</text>
+
+    <text x="0" y="158" class="label" font-size="21" text-decoration="underline" fill="#101418">PUBLIC RECOMMENDATIONS:</text>
+    <text x="0" y="188" class="bullet">• Wider public risk has been described by WHO Europe as low; no panic or broad travel restrictions.</text>
+    <text x="0" y="216" class="bullet">• Avoid exposure to rodent urine, feces, saliva, and dust in enclosed or poorly ventilated spaces.</text>
+    <text x="0" y="244" class="bullet">• Seek urgent medical care for fever plus worsening respiratory symptoms after possible exposure.</text>
+    <text x="0" y="272" class="bullet">• Watch for updates on sequencing: Andes virus would raise different transmission concerns.</text>
+  </g>
+
+  <!-- Bottom panels -->
+  <g transform="translate(18 1166)">
+    <rect x="0" y="0" width="470" height="206" fill="#eeeeee" filter="url(#photoShadow)"/>
+    <image href="sin_nombre_hantavirus_cdc_phil_1136.jpg" x="0" y="0" width="470" height="206" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="0" y="0" width="470" height="206" fill="#12323a" opacity="0.08"/>
+    <text x="16" y="184" class="sans" font-size="15" font-weight="700" fill="#ffffff">CDC PHIL #1136: Sin Nombre hantavirus TEM</text>
+
+    <rect x="504" y="0" width="250" height="206" fill="#f4efe7" filter="url(#photoShadow)"/>
+    <ellipse cx="622" cy="127" rx="90" ry="34" fill="#101418"/>
+    <circle cx="542" cy="105" r="30" fill="#101418"/>
+    <path d="M536 81 l-18 -18 l5 28z" fill="#101418"/>
+    <path d="M557 80 l20 -17 l-8 28z" fill="#101418"/>
+    <path d="M700 128 C742 122, 762 134, 790 154" fill="none" stroke="#101418" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="552" cy="113" r="3" fill="#ffffff"/>
+    <circle cx="530" cy="137" r="4" fill="#c43b38"/>
+    <circle cx="520" cy="150" r="3" fill="#c43b38"/>
+    <circle cx="546" cy="160" r="3" fill="#c43b38"/>
+    <circle cx="578" cy="151" r="4" fill="#c43b38"/>
+    <text x="540" y="184" class="sans" font-size="14" font-weight="700" fill="#12323a">Rodent-contaminated spaces</text>
+
+    <rect x="776" y="0" width="286" height="206" fill="#ffffff" stroke="#101418" stroke-width="2"/>
+    <text x="790" y="26" class="label" font-size="17" text-decoration="underline" fill="#101418">HANTAVIRUS SYMPTOMS:</text>
+    <text x="790" y="55" class="sans" font-size="15" fill="#101418">• Fever, chills, muscle aches</text>
+    <text x="790" y="78" class="sans" font-size="15" fill="#101418">• Headache, nausea, vomiting</text>
+    <text x="790" y="101" class="sans" font-size="15" fill="#101418">• Cough or shortness of breath</text>
+    <text x="790" y="124" class="sans" font-size="15" fill="#101418">• Rapidly worsening breathing</text>
+    <text x="790" y="154" class="label" font-size="15" fill="#c90000">SEVERE WARNING SIGNS:</text>
+    <text x="790" y="178" class="sans" font-size="15" font-weight="700" fill="#101418">Trouble breathing, low oxygen, shock</text>
+  </g>
+
+  <!-- Footer -->
+  <rect x="0" y="1400" width="1080" height="128" fill="#cfe3ff"/>
+  <text x="540" y="1439" text-anchor="middle" class="head" font-size="24" fill="#101418">For suspected exposure with respiratory symptoms, seek medical care urgently.</text>
+  <text x="540" y="1476" text-anchor="middle" class="sans" font-size="18" font-weight="700" fill="#101418">Sources: WHO reporting via UN Geneva; ECDC news release; CDC hantavirus guidance and PHIL image library.</text>
+  <text x="540" y="1502" text-anchor="middle" class="sans" font-size="15" fill="#101418">Numbers reflect public reporting available on 4 May 2026 and may change as the investigation develops.</text>
+</svg>

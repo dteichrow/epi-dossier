@@ -1,0 +1,125 @@
+editions:
+  - key: index
+    label: Home
+    page: index.html
+    description: The main front page with the strongest outbreak files, the most important new developments, and fast paths into the rest of the desk.
+    max_items: 8
+    max_stories: 4
+
+  - key: watch
+    label: Global Watch
+    page: watch.html
+    description: Major outbreaks, regional developments, and cross-border signals worth following now.
+    evidence_types:
+      - news_report
+      - official_update
+      - mixed_reporting
+    story_statuses:
+      - expanding_coverage
+      - active_investigation
+      - official_follow_up_only
+      - quiet_retained
+    exclude_terms:
+      - workforce
+      - health workforce
+      - health system
+      - burden study
+      - what to know
+      - fact check
+      - explainer
+    max_items: 14
+    max_stories: 6
+
+  - key: africa
+    label: Africa Watch
+    page: africa.html
+    description: Outbreak developments across Africa, with regional signal prioritized over generic system context.
+    regions:
+      - Africa
+    evidence_types:
+      - news_report
+      - official_update
+      - mixed_reporting
+    exclude_terms:
+      - workforce
+      - health workforce
+      - burden study
+      - what to know
+      - fact check
+      - explainer
+      - cruise ship
+    max_items: 12
+    max_stories: 4
+
+  - key: asia
+    label: Asia Watch
+    page: asia.html
+    description: South Asia, Southeast Asia, and East Asia outbreak monitoring with broader horizon than the front page.
+    regions:
+      - South Asia
+      - Southeast Asia
+      - East Asia
+    evidence_types:
+      - news_report
+      - official_update
+      - mixed_reporting
+    exclude_terms:
+      - workforce
+      - burden study
+      - what to know
+      - fact check
+      - explainer
+    max_items: 12
+    max_stories: 5
+
+  - key: research
+    label: Research Brief
+    page: research.html
+    description: Papers, preprints, and research-linked reporting that adds context beyond the daily outbreak stream.
+    evidence_types:
+      - journal_article
+      - preprint
+      - research_linked
+    categories:
+      - Major epidemiology studies
+      - Virology and pathogen evolution
+    max_items: 12
+    max_stories: 4
+
+  - key: official
+    label: Official Alerts
+    page: official.html
+    description: Agency updates, surveillance reports, travel notices, investigations, and official follow-up worth scanning directly.
+    official_only: true
+    evidence_types:
+      - official_update
+      - mixed_reporting
+      - news_report
+    sources:
+      - CDC MMWR
+      - CDC Travel Health Notices
+      - WHO Regional Office for Africa
+      - WHO Disease Outbreak News
+      - ECDC News
+      - California Department of Public Health News
+      - New York State Department of Health Press Releases
+      - USDA APHIS Avian Influenza
+    max_items: 14
+    max_stories: 4
+
+  - key: historical
+    label: Historical Desk
+    page: historical.html
+    description: Slow-moving historical epidemiology and ancient pathogen context that belongs beside, not inside, the live outbreak watch.
+    categories:
+      - Historical epidemiology
+      - Virology and pathogen evolution
+    include_terms:
+      - historical
+      - ancient
+      - archaeology
+      - origins
+      - medieval
+      - plague
+    max_items: 10
+    max_stories: 3

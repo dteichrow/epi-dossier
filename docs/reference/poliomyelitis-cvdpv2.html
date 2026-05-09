@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Poliomyelitis / cVDPV2 | The Patogen Dispatch</title>
+    <style>
+      :root { --bg: #e8e1d3; --bg-deep: #d8cebc; --surface: #f8f4ea; --surface-alt: #f2ebde; --paper: #fffdf8; --ink: #1b2836; --ink-soft: #42515e; --line: #d6cab7; --accent: #8d3f2f; --accent-soft: rgba(141,63,47,0.10); --signal: #1f5b89; --signal-soft: rgba(31,91,137,0.12); --shadow: 0 24px 56px rgba(49, 36, 22, 0.10); }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: radial-gradient(circle at top left, rgba(181,138,49,0.10), transparent 28%), radial-gradient(circle at bottom right, rgba(31,91,137,0.12), transparent 24%), linear-gradient(180deg, #f2ede3 0%, var(--bg) 40%, var(--bg-deep) 100%); color: var(--ink); font-family: "Iowan Old Style", Georgia, serif; line-height: 1.58; }
+      a { color: var(--signal); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      .page { max-width: 1240px; margin: 0 auto; padding: 28px 22px 64px; display: grid; gap: 22px; }
+      .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
+      .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; }
+      .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
+      .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
+      .site-nav-link, .section-nav-link { border-radius: 999px; padding: 9px 14px; border: 1px solid rgba(187,169,143,0.78); background: rgba(255,252,245,0.94); color: var(--ink); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.92rem; white-space: nowrap; }
+      .site-nav-link:hover, .section-nav-link:hover { text-decoration: none; background: var(--accent-soft); }
+      .site-nav-link.active { background: rgba(31,91,137,0.10); color: var(--signal); border-color: rgba(31,91,137,0.22); }
+      .section-nav { padding: 16px 18px; display: grid; gap: 10px; }
+      .section-nav-label { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; text-transform: uppercase; letter-spacing: 0.14em; color: var(--accent); font-size: 0.74rem; }
+      .hero, .panel { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 28px; box-shadow: var(--shadow); padding: 24px; }
+      .hero { background: linear-gradient(180deg, rgba(255,255,255,0.42), rgba(255,255,255,0)), linear-gradient(135deg, rgba(248,244,234,0.98), rgba(242,235,222,0.98)); position: relative; overflow: hidden; }
+      .hero::before { content: ""; position: absolute; inset: 0; background-image: linear-gradient(rgba(23,48,70,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(23,48,70,0.04) 1px, transparent 1px); background-size: 28px 28px; opacity: 0.35; pointer-events: none; }
+      .hero > * { position: relative; z-index: 1; }
+      .panel-grid { display: grid; gap: 22px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .story-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+      .card-grid { display: grid; gap: 14px; }
+      .archive-table { display: grid; gap: 12px; }
+      .archive-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 16px; background: rgba(255,252,247,0.9); border: 1px solid rgba(187,169,143,0.68); border-radius: 18px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .archive-row-meta { color: var(--ink-soft); font-size: 0.92rem; }
+      .sort-bar { display: flex; justify-content: flex-end; margin: 10px 0 14px; }
+      .sort-control { display: inline-flex; align-items: center; gap: 8px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; color: var(--ink-soft); font-size: 0.88rem; }
+      .sort-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 999px; padding: 8px 12px; color: var(--ink); font: inherit; }
+      .sort-select:hover { background: var(--accent-soft); }
+      .story-filter-shell { display: grid; gap: 10px; }
+      .story-filter-grid { display: grid; grid-template-columns: minmax(0, 1.8fr) repeat(4, minmax(150px, 1fr)); gap: 10px; align-items: end; }
+      .filter-group { display: grid; gap: 6px; }
+      .filter-search-wide { min-width: 0; }
+      .filter-label { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-soft); }
+      .filter-input, .filter-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 14px; padding: 10px 12px; color: var(--ink); font: inherit; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .filter-input::placeholder { color: var(--ink-soft); }
+      .utility-panel { background: linear-gradient(180deg, rgba(248,243,233,0.98), rgba(240,232,220,0.96)); }
+      .site-card, .timeline-row { background: var(--paper); border: 1px solid rgba(187,169,143,0.68); border-radius: 22px; padding: 18px 18px 16px; box-shadow: 0 12px 26px rgba(49, 36, 22, 0.06); }
+      .feature-card { background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(245,239,228,0.98)); }
+      .compact-card { padding-top: 16px; padding-bottom: 14px; }
+      .meta-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .badge, .link-pill { border-radius: 999px; padding: 6px 10px; font-size: 0.78rem; line-height: 1; border: 1px solid rgba(187,169,143,0.72); background: rgba(255,252,245,0.94); color: var(--ink-soft); display: inline-flex; align-items: center; }
+      .badge.accent { background: var(--accent-soft); color: var(--accent); border-color: rgba(141,63,47,0.24); }
+      .badge.tone-official { background: rgba(31,91,137,0.12); color: #1f5b89; border-color: rgba(31,91,137,0.24); }
+      .badge.tone-wire { background: rgba(60,88,48,0.10); color: #35552b; border-color: rgba(60,88,48,0.20); }
+      .badge.tone-major { background: rgba(181,138,49,0.12); color: #8c6a17; border-color: rgba(181,138,49,0.22); }
+      .badge.tone-specialist { background: rgba(141,63,47,0.10); color: #8d3f2f; border-color: rgba(141,63,47,0.20); }
+      .kicker { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; text-transform: uppercase; letter-spacing: 0.16em; color: var(--accent); font-size: 0.74rem; margin: 0 0 10px; }
+      .subtitle, .empty-note, .muted-note { color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .section-note { margin: 0 0 10px; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.95rem; }
+      .lede { font-size: 1.06rem; }
+      .hero-subhead { margin: 16px 0 8px; font-size: 1.08rem; }
+      .bullet-list { margin: 10px 0 0; padding-left: 18px; }
+      h1, h2, h3 { margin: 0; color: #173046; }
+      h1 { font-size: clamp(2.4rem, 4.8vw, 4.4rem); line-height: 0.94; letter-spacing: -0.03em; }
+      h2 { font-size: 1.4rem; }
+      h3 { font-size: 1.06rem; }
+      .site-card h3 { line-height: 1.12; }
+      @media (max-width: 1100px) { .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } }
+      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Patogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
+      <section class="hero" id="story-overview">
+        <p class="kicker">Disease intelligence sheet</p>
+        <h1>Poliomyelitis / cVDPV2</h1>
+        <p class="subtitle">Curated desk background for reporters who need the pathogen, transmission, and outbreak frame fast.</p>
+        <div class="meta-row"><span class="badge">Vaccine-preventable</span><span class="badge">Enteric</span><span class="badge">Eradication target</span><span class="badge">Areas with low vaccination coverage</span><span class="badge">Environmental sewage surveillance</span><span class="badge">Conflict or weak infrastructure settings</span></div>
+        <p><strong>Pathogen / agent:</strong> Poliovirus, especially circulating vaccine-derived poliovirus type 2 in the cited event</p>
+        <p><strong>Transmission:</strong> Fecal-oral, water and sanitation linked</p>
+        <p><strong>Reservoir / vector:</strong> Humans are the reservoir; transmission is tightly linked to sanitation and immunity gaps.</p>
+        <p><strong>Incubation:</strong> Often 7 to 21 days for paralytic disease, though infection may be silent.</p>
+        <p><strong>Severity:</strong> The surveillance burden is driven by silent spread plus the catastrophic consequence of paralytic disease.</p>
+        <p><strong>Diagnostics:</strong> Stool testing, environmental surveillance, and genomic linkage are central.</p>
+        <p><strong>Treatment:</strong> Supportive care only.</p>
+        <p><strong>Prevention:</strong> Vaccination, sanitation, and aggressive outbreak response immunization.</p>
+        <p><strong>Vaccine / prevention status:</strong> Vaccination remains the decisive preventive tool, but the key reporting distinction is wild poliovirus versus vaccine-derived poliovirus.</p>
+      </section>
+
+      <nav class="section-nav panel utility-panel" aria-label="Section navigation"><div class="section-nav-label">On this page</div><div class="section-nav-links"><a class="section-nav-link" href="#story-overview">Overview</a><a class="section-nav-link" href="#clinical-pattern">Clinical Pattern</a><a class="section-nav-link" href="#current-story-files">Current Story Files</a><a class="section-nav-link" href="#why-reporters-care">Why Reporters Care</a><a class="section-nav-link" href="#desk-notes">Desk Notes</a></div></nav>
+
+      <section class="panel-grid">
+        <section class="panel" id="clinical-pattern">
+          <h2>Symptoms And Clinical Pattern</h2>
+          <ul class="bullet-list"><li>Most infections are asymptomatic.</li><li>Mild febrile or gastrointestinal illness can occur.</li><li>A small proportion progress to acute flaccid paralysis.</li></ul>
+        </section>
+        <section class="panel">
+          <h2>Official Background Links</h2>
+          <div class="meta-row"><a class="link-pill" href="https://www.cdc.gov/polio/about/index.html">CDC overview</a><a class="link-pill" href="https://www.who.int/news-room/fact-sheets/detail/poliomyelitis">WHO fact sheet</a></div>
+        </section>
+      </section>
+
+      <section class="panel" id="current-story-files">
+        <h2>Current Story Files</h2>
+        <div class="card-grid"><p class="empty-note">No active tracked stories are linked to this disease in the current run.</p></div>
+      </section>
+
+      <section class="panel" id="why-reporters-care">
+        <h2>Why Reporters Care</h2>
+        <p><strong>Why this keeps becoming news:</strong> Polio is a near-eradication story where environmental detections, asymptomatic carriage, and vaccination politics matter as much as paralytic disease.</p>
+        <p><strong>What journalists often get wrong:</strong> Coverage often waits for paralysis, when the actual public-health story is usually the silent circulation signal that appears first in sewage or healthy children.</p>
+        <ul class="bullet-list"><li>Environmental detections and genomic linkage across sites.</li><li>Whether any acute flaccid paralysis cases have been confirmed.</li><li>Vaccination campaign scope, immunity gaps, and cross-border spread risk.</li></ul>
+      </section>
+
+      <section class="panel">
+        <h2>Last Major Outbreak On File</h2>
+        <p><strong>cVDPV2 detection in healthy children and environment</strong> | Papua New Guinea | 2025</p>
+        <p>WHO classified the Papua New Guinea cVDPV2 detections as a polio outbreak after linked type 2 poliovirus was found in environmental samples and in stool specimens from two healthy children in Morobe province.</p>
+        <p><strong>Source:</strong> <a href="https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON571">WHO Disease Outbreak News</a> (2025-05-20)</p>
+      </section>
+
+      <section class="panel" id="desk-notes">
+        <h2>Desk Notes And Historical Signals</h2>
+        <p><strong>Desk note:</strong> Environmental detections matter here even when paralytic disease is not yet evident.</p>
+        <p><strong>Research caveats:</strong> A single detection can matter a great deal, but risk interpretation depends on sequencing context and surveillance quality.</p>
+        <ul class="bullet-list"><li>Papua New Guinea also experienced a cVDPV1 outbreak in 2018.</li></ul>
+      </section>
+    </main>
+  </body>
+</html>

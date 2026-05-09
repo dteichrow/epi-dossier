@@ -1,0 +1,30 @@
+editorial:
+  pinned_story_topics:
+    - Hantavirus and cruise-ship outbreak
+    - Measles transmission and vaccination
+    - Avian influenza and H5N1
+  forced_story_retention_days:
+    Hantavirus and cruise-ship outbreak: 30
+    Measles transmission and vaccination: 21
+    Avian influenza and H5N1: 21
+  suppressed_story_ids: []
+  story_aliases: {}
+  promoted_publishers:
+    - Reuters
+    - Associated Press
+    - BBC
+    - Sky News
+    - New York Times
+    - Guardian
+    - NPR
+    - PBS
+    - CNN
+    - NBC News
+    - CBS News
+    - ABC News
+    - STAT
+    - CIDRAP
+  spotlight_reference_names:
+    - Hantavirus syndrome
+    - Measles
+    - Avian influenza and H5N1

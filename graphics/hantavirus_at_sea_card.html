@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hantavirus at Sea card</title>
+  <style>
+    :root {
+      --ink: #101418;
+      --paper: #f4efe7;
+      --sea: #0e6f83;
+      --deep: #12323a;
+      --amber: #d59b3d;
+      --red: #b84842;
+      --muted: #64737a;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: #d7dde0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+    }
+
+    .frame {
+      width: 1200px;
+      height: 630px;
+      position: relative;
+      overflow: hidden;
+      background:
+        linear-gradient(90deg, rgba(244, 239, 231, 0.98) 0 53%, rgba(244, 239, 231, 0.84) 62%, rgba(18, 50, 58, 0.86) 100%),
+        url("sin_nombre_hantavirus_cdc_phil_1136.jpg") right center / 56% auto no-repeat;
+      isolation: isolate;
+    }
+
+    .frame::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(16, 20, 24, 0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(16, 20, 24, 0.06) 1px, transparent 1px);
+      background-size: 40px 40px;
+      opacity: 0.42;
+      z-index: -1;
+    }
+
+    .topline {
+      position: absolute;
+      top: 42px;
+      left: 56px;
+      right: 56px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 19px;
+      font-weight: 750;
+      letter-spacing: 0;
+      color: var(--deep);
+    }
+
+    .segment {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      text-transform: uppercase;
+    }
+
+    .segment::before {
+      content: "";
+      width: 38px;
+      height: 6px;
+      background: var(--red);
+    }
+
+    .date {
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .content {
+      position: absolute;
+      left: 56px;
+      top: 118px;
+      width: 594px;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 560px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 78px;
+      line-height: 0.9;
+      font-weight: 800;
+      letter-spacing: 0;
+      color: var(--ink);
+    }
+
+    .dek {
+      margin: 26px 0 0;
+      width: 510px;
+      font-size: 26px;
+      line-height: 1.18;
+      font-weight: 650;
+      color: #1b3f47;
+    }
+
+    .watch {
+      position: absolute;
+      left: 56px;
+      bottom: 52px;
+      display: grid;
+      grid-template-columns: 144px 152px 148px;
+      gap: 14px;
+    }
+
+    .metric {
+      min-height: 84px;
+      padding: 13px 15px;
+      border-top: 5px solid var(--sea);
+      background: rgba(255, 255, 255, 0.56);
+      box-shadow: 0 1px 0 rgba(16, 20, 24, 0.08);
+    }
+
+    .metric strong {
+      display: block;
+      font-size: 30px;
+      line-height: 1;
+      color: var(--deep);
+    }
+
+    .metric span {
+      display: block;
+      margin-top: 8px;
+      font-size: 13px;
+      line-height: 1.12;
+      font-weight: 760;
+      color: #51636a;
+      text-transform: uppercase;
+    }
+
+    .route {
+      position: absolute;
+      right: 52px;
+      bottom: 52px;
+      width: 404px;
+      height: 180px;
+      color: white;
+    }
+
+    .route svg {
+      display: block;
+      width: 100%;
+      height: 100%;
+      overflow: visible;
+    }
+
+    .route-label {
+      font: 750 18px Inter, system-ui, sans-serif;
+      fill: #f8f4eb;
+    }
+
+    .route-small {
+      font: 700 13px Inter, system-ui, sans-serif;
+      fill: rgba(248, 244, 235, 0.82);
+      text-transform: uppercase;
+    }
+
+    .caption {
+      position: absolute;
+      right: 48px;
+      top: 42px;
+      width: 336px;
+      font-size: 15px;
+      line-height: 1.25;
+      font-weight: 700;
+      color: rgba(248, 244, 235, 0.88);
+      text-align: right;
+    }
+
+    .caption span {
+      color: #ffd485;
+    }
+
+    .badge {
+      position: absolute;
+      right: 56px;
+      top: 146px;
+      width: 168px;
+      height: 168px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      background: rgba(184, 72, 66, 0.94);
+      color: #fff8ed;
+      box-shadow: 0 18px 42px rgba(0, 0, 0, 0.28);
+      transform: rotate(4deg);
+    }
+
+    .badge b {
+      display: block;
+      font-size: 35px;
+      line-height: 0.95;
+      font-family: Georgia, "Times New Roman", serif;
+    }
+
+    .badge span {
+      display: block;
+      margin-top: 7px;
+      width: 118px;
+      font-size: 13px;
+      line-height: 1.05;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+  </style>
+</head>
+<body>
+  <main class="frame" aria-label="Editorial card for Hantavirus at Sea">
+    <div class="topline">
+      <div class="segment">Infectious Disease News</div>
+      <div class="date">May 4, 2026</div>
+    </div>
+
+    <section class="content">
+      <h1>Hantavirus at Sea</h1>
+      <p class="dek">A rare cruise-ship outbreak turns a rodent-borne virus into a containment question.</p>
+    </section>
+
+    <section class="watch" aria-label="Key story signals">
+      <div class="metric">
+        <strong>6+</strong>
+        <span>reported cases or deaths</span>
+      </div>
+      <div class="metric">
+        <strong>3</strong>
+        <span>fatalities reported so far</span>
+      </div>
+      <div class="metric">
+        <strong>ANDV?</strong>
+        <span>sequencing result to watch</span>
+      </div>
+    </section>
+
+    <p class="caption"><span>Image:</span> CDC PHIL #1136, Sin Nombre hantavirus TEM. Used here as a public-domain hantavirus visual reference.</p>
+
+    <div class="badge" aria-label="Epidemiology question">
+      <div>
+        <b>spillover<br>or spread?</b>
+        <span>The epidemiology fork</span>
+      </div>
+    </div>
+
+    <div class="route" aria-hidden="true">
+      <svg viewBox="0 0 404 180" role="img">
+        <path d="M28 125 C92 44, 169 52, 222 91 S326 144, 376 54" fill="none" stroke="#ffd485" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 12"/>
+        <circle cx="28" cy="125" r="9" fill="#ffd485"/>
+        <circle cx="376" cy="54" r="9" fill="#ffd485"/>
+        <path d="M214 84 l31 16 l-29 14 l6 -13 l-35 -9 z" fill="#f8f4eb"/>
+        <text x="0" y="160" class="route-label">Ushuaia</text>
+        <text x="294" y="34" class="route-label">Cabo Verde</text>
+        <text x="128" y="24" class="route-small">MV Hondius</text>
+      </svg>
+    </div>
+  </main>
+</body>
+</html>

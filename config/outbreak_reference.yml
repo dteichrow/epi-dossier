@@ -1,0 +1,1026 @@
+diseases:
+  - name: Hantavirus syndrome
+    pathogen: Hantaviruses, including Andes virus in the Americas
+    transmission: Rodent exposure; limited person-to-person transmission has been documented for Andes virus
+    categories: ["Zoonotic", "Hemorrhagic / cardiopulmonary", "Emerging"]
+    aliases: ["hantavirus", "andes virus", "hantavirus pulmonary syndrome", "hps"]
+    reservoir_or_vector: "Wild rodents; Andes virus is especially associated with sigmodontine rodents in South America."
+    incubation: "Usually 1 to 8 weeks after exposure."
+    symptoms:
+      - "Fever and severe myalgias after a prodromal phase."
+      - "Rapid progression to cough, pulmonary edema, and cardiopulmonary compromise in severe cases."
+      - "Thrombocytopenia and shock can appear in the more fulminant presentations."
+    severity: "Potentially high fatality once cardiopulmonary syndrome develops."
+    diagnostics: "PCR, serology, and exposure history are central; timing matters."
+    treatment: "Supportive critical care, oxygenation, and hemodynamic support."
+    prevention: "Rodent control, avoiding aerosolized rodent excreta, and close-contact precautions for suspected Andes virus clusters."
+    vaccine_status: "No licensed routine human vaccine is in general public-health use."
+    why_reporters_care: "This is a rare but frightening severe-disease story where a single unusual cluster can force questions about travel safety, rodent exposure, and whether Andes-virus-style person-to-person spread is in play."
+    what_reporters_get_wrong: "Coverage often treats all hantaviruses as one epidemiologic problem, when the key distinction is whether the event looks like classic rodent exposure or the much rarer Andes-virus pattern with limited human-to-human spread."
+    metrics_that_matter:
+      - "Confirmed versus suspected cases, because panic often outruns laboratory certainty."
+      - "Whether exposure points to rodents, enclosed lodging, or close-contact transmission."
+      - "Severity markers such as ICU care, pulmonary edema, shock, and deaths."
+    research_caveats: "Small case counts and heterogeneous hantavirus species mean early claims about transmission mode can be unstable."
+    outbreak_settings: ["Rural rodent exposure", "Cabins and enclosed travel settings", "Field and agricultural work"]
+    latest_outbreak:
+      label: Cruise-ship linked cluster
+      period: "April-May 2026"
+      location: "Multi-country / maritime"
+      summary: "WHO reported seven cases, including two laboratory-confirmed infections, three deaths, one critically ill patient and three mild suspected cases linked to cruise-ship travel."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599"
+      as_of: "2026-05-04"
+    field_guide_links:
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/hantavirus"
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/hantavirus/"
+    notable_outbreaks:
+      - "Andes virus outbreaks in Argentina and Chile remain the canonical example of limited person-to-person hantavirus transmission."
+    surveillance_note: "Useful for rare severe respiratory clusters with rodent ecology or unusual travel-linked spread."
+
+  - name: Measles
+    pathogen: Measles virus
+    transmission: Airborne and respiratory
+    categories: ["Vaccine-preventable", "Respiratory", "High-R0"]
+    aliases: ["rubeola"]
+    reservoir_or_vector: "Humans are the only reservoir."
+    incubation: "Usually 7 to 14 days from exposure to rash onset."
+    symptoms:
+      - "Fever, cough, coryza, and conjunctivitis."
+      - "Koplik spots can appear before rash."
+      - "A descending maculopapular rash follows the prodrome."
+    severity: "Can lead to pneumonia, encephalitis, and death, especially in under-immunized populations."
+    diagnostics: "PCR and serology, paired with travel and exposure tracing."
+    treatment: "Supportive care; vitamin A is relevant in specific clinical settings."
+    prevention: "Two-dose measles vaccination and rapid outbreak control around exposed contacts."
+    vaccine_status: "Highly effective routine vaccination exists; most outbreak stories are really immunity-gap stories."
+    why_reporters_care: "Measles is a clean reporter desk disease because it reveals vaccination gaps, school and household spread, travel-linked importation, and public-health capacity all at once."
+    what_reporters_get_wrong: "Reporters often overfocus on raw case counts and underplay outbreak size, exposure settings, and vaccination status, which are usually the more informative signals."
+    metrics_that_matter:
+      - "Confirmed cases and outbreak-associated cases rather than rumor-level totals."
+      - "Vaccination status of cases and affected communities."
+      - "School, childcare, household, and travel links that show whether containment is failing."
+    research_caveats: "Administrative case totals and media tallies can lag or mix confirmed and probable cases across jurisdictions."
+    outbreak_settings: ["Schools", "Households", "Travel-linked spread", "Under-immunized communities"]
+    latest_outbreak:
+      label: United States resurgence
+      period: "2025"
+      location: "United States, including major Texas-New Mexico spread"
+      summary: "CDC's national measles summary reported 2,288 confirmed U.S. measles cases in 2025, with most cases outbreak-associated and many linked to outbreaks that crossed jurisdictions."
+      source_name: "CDC Measles Cases and Outbreaks"
+      source_url: "https://www.cdc.gov/measles/data-research/index.html"
+      as_of: "2026-04-24 page update covering 2025 totals"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/measles/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/measles"
+    notable_outbreaks:
+      - "2019 Democratic Republic of the Congo epidemic."
+      - "2019 Samoa outbreak."
+    surveillance_note: "This is the disease to watch when vaccination gaps, school clusters, or travel-linked introductions begin to stack."
+
+  - name: Avian influenza A(H5N1)
+    pathogen: Influenza A(H5N1)
+    transmission: Animal-to-human exposure; no sustained person-to-person spread identified in the cited U.S. outbreak
+    categories: ["Zoonotic", "Respiratory", "One Health"]
+    aliases: ["h5n1", "bird flu", "avian flu"]
+    reservoir_or_vector: "Wild birds, poultry, and now mammalian agricultural systems are central reservoirs and interfaces."
+    incubation: "Usually a few days after exposure, though exact timing varies with exposure intensity."
+    symptoms:
+      - "Fever and respiratory illness."
+      - "Conjunctivitis has been a recurring feature in some U.S. human cases."
+      - "Severe pneumonia can develop in more serious infections."
+    severity: "Severity ranges from mild conjunctivitis to severe respiratory disease with pandemic concern."
+    diagnostics: "Influenza PCR with subtype characterization and exposure history are critical."
+    treatment: "Antivirals such as oseltamivir remain important when indicated, alongside supportive care."
+    prevention: "PPE for exposed workers, farm biosecurity, and aggressive animal surveillance."
+    vaccine_status: "Human seasonal flu vaccines do not solve this problem; candidate H5 vaccines and animal-control measures matter more."
+    why_reporters_care: "H5N1 is one of the few diseases where occupational exposure, food systems, animal surveillance, and pandemic-risk communications all converge in the same file."
+    what_reporters_get_wrong: "Coverage often jumps straight to pandemic rhetoric without separating animal spillover, isolated human infection, and evidence of sustained person-to-person transmission."
+    metrics_that_matter:
+      - "Human case count and whether cases are mild, severe, or fatal."
+      - "Exposure setting, especially dairy, poultry, culling work, and wild-bird interfaces."
+      - "Any sign of household, healthcare, or unexplained transmission beyond direct animal exposure."
+    research_caveats: "Risk estimates change fast because surveillance intensity varies by farm system, species, and jurisdiction."
+    outbreak_settings: ["Dairy farms", "Poultry operations", "Culling and animal-handling work", "Wild-bird interfaces"]
+    latest_outbreak:
+      label: Multistate U.S. dairy and poultry outbreak
+      period: "2024-2025"
+      location: "United States"
+      summary: "CDC described an ongoing multistate H5N1 outbreak in dairy cows, poultry and other animals, with 70 confirmed human infections in the United States since April 2024 and no identified person-to-person spread."
+      source_name: "CDC Bird Flu Response Update"
+      source_url: "https://www.cdc.gov/bird-flu/spotlights/h5n1-response-02262025.html"
+      as_of: "2025-02-26"
+    field_guide_links:
+      - label: "CDC bird flu overview"
+        url: "https://www.cdc.gov/bird-flu/about/index.html"
+      - label: "WHO avian influenza fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/avian-and-other-zoonotic-influenza"
+    notable_outbreaks:
+      - "The current U.S. dairy-cattle episode changed the global H5N1 surveillance frame by moving the story deeper into mammalian agriculture."
+    surveillance_note: "A top-tier reporter desk disease because animal, occupational, food-system and pandemic-risk lines all converge here."
+
+  - name: Mpox
+    pathogen: Monkeypox virus, including clade Ib and clade IIb
+    transmission: Close physical contact, including sexual contact; household and healthcare transmission also occur
+    categories: ["Emerging", "Contact transmission", "Global surveillance"]
+    aliases: ["monkeypox", "clade ib mpox", "clade iib mpox"]
+    reservoir_or_vector: "Animal reservoir remains incompletely defined; human-to-human transmission is central in current surveillance."
+    incubation: "Often about 1 to 2 weeks, but can vary."
+    symptoms:
+      - "Fever, malaise, lymphadenopathy, and rash."
+      - "Painful mucosal or genital lesions may dominate some current outbreak presentations."
+      - "Rash burden and lesion distribution vary by clade and transmission network."
+    severity: "Usually self-limited but can be severe in vulnerable patients and in settings with delayed diagnosis."
+    diagnostics: "Lesion-based PCR is the practical core diagnostic tool."
+    treatment: "Supportive care, infection control, and antivirals in selected higher-risk cases."
+    prevention: "Risk communication, contact precautions, vaccination in defined settings, and rapid case finding."
+    vaccine_status: "Vaccination exists but use is targeted, supply and strategy depend on context, and clade-specific framing still matters."
+    why_reporters_care: "Mpox keeps generating news because social transmission networks, travel, stigma, clade differences, and global inequity collide in a single outbreak story."
+    what_reporters_get_wrong: "The central mistake is flattening clade, route of spread, and affected networks into one undifferentiated global mpox narrative."
+    metrics_that_matter:
+      - "Clade and whether cases are imported or locally acquired."
+      - "Household, healthcare, sexual-network, or congregate-setting transmission."
+      - "Severity, pediatric involvement, and evidence of sustained spread outside the initial network."
+    research_caveats: "Case ascertainment varies heavily with access to testing and with how stigmatized the exposed population is."
+    outbreak_settings: ["Households", "Sexual networks", "Healthcare settings", "Congregate settings"]
+    latest_outbreak:
+      label: Broader clade Ib transmission
+      period: "Late 2025"
+      location: "Global"
+      summary: "WHO reported broader transmission of clade Ib mpox, including locally acquired infections in multiple WHO regions and continued substantial outbreaks in African countries."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON587"
+      as_of: "2025-12-05"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/mpox/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/monkeypox"
+    notable_outbreaks:
+      - "The 2022 multi-country clade IIb outbreak remains the watershed event for modern global mpox reporting."
+    surveillance_note: "The key distinction to preserve is clade, mode of spread, and whether cases are travel-linked or locally acquired."
+
+  - name: Poliomyelitis / cVDPV2
+    pathogen: Poliovirus, especially circulating vaccine-derived poliovirus type 2 in the cited event
+    transmission: Fecal-oral, water and sanitation linked
+    categories: ["Vaccine-preventable", "Enteric", "Eradication target"]
+    aliases: ["polio", "cvdpv2", "vaccine-derived poliovirus"]
+    reservoir_or_vector: "Humans are the reservoir; transmission is tightly linked to sanitation and immunity gaps."
+    incubation: "Often 7 to 21 days for paralytic disease, though infection may be silent."
+    symptoms:
+      - "Most infections are asymptomatic."
+      - "Mild febrile or gastrointestinal illness can occur."
+      - "A small proportion progress to acute flaccid paralysis."
+    severity: "The surveillance burden is driven by silent spread plus the catastrophic consequence of paralytic disease."
+    diagnostics: "Stool testing, environmental surveillance, and genomic linkage are central."
+    treatment: "Supportive care only."
+    prevention: "Vaccination, sanitation, and aggressive outbreak response immunization."
+    vaccine_status: "Vaccination remains the decisive preventive tool, but the key reporting distinction is wild poliovirus versus vaccine-derived poliovirus."
+    why_reporters_care: "Polio is a near-eradication story where environmental detections, asymptomatic carriage, and vaccination politics matter as much as paralytic disease."
+    what_reporters_get_wrong: "Coverage often waits for paralysis, when the actual public-health story is usually the silent circulation signal that appears first in sewage or healthy children."
+    metrics_that_matter:
+      - "Environmental detections and genomic linkage across sites."
+      - "Whether any acute flaccid paralysis cases have been confirmed."
+      - "Vaccination campaign scope, immunity gaps, and cross-border spread risk."
+    research_caveats: "A single detection can matter a great deal, but risk interpretation depends on sequencing context and surveillance quality."
+    outbreak_settings: ["Areas with low vaccination coverage", "Environmental sewage surveillance", "Conflict or weak infrastructure settings"]
+    latest_outbreak:
+      label: cVDPV2 detection in healthy children and environment
+      period: "2025"
+      location: "Papua New Guinea"
+      summary: "WHO classified the Papua New Guinea cVDPV2 detections as a polio outbreak after linked type 2 poliovirus was found in environmental samples and in stool specimens from two healthy children in Morobe province."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON571"
+      as_of: "2025-05-20"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/polio/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis"
+    notable_outbreaks:
+      - "Papua New Guinea also experienced a cVDPV1 outbreak in 2018."
+    surveillance_note: "Environmental detections matter here even when paralytic disease is not yet evident."
+
+  - name: Cholera
+    pathogen: Vibrio cholerae
+    transmission: Waterborne and sanitation linked
+    categories: ["Waterborne", "Enteric", "Humanitarian settings"]
+    aliases: ["acute watery diarrhea"]
+    reservoir_or_vector: "Aquatic environments and contaminated water systems are the main ecological frame."
+    incubation: "Usually hours to 5 days."
+    symptoms:
+      - "Profuse watery diarrhea."
+      - "Vomiting and rapid dehydration."
+      - "Shock can develop quickly without treatment."
+    severity: "High mortality is preventable, but only if rehydration is rapid and accessible."
+    diagnostics: "Clinical recognition in outbreak settings plus stool culture or rapid tests where available."
+    treatment: "Aggressive oral or IV rehydration; antibiotics in selected cases."
+    prevention: "Safe water, sanitation, hygiene, and oral cholera vaccine in appropriate campaigns."
+    vaccine_status: "Oral cholera vaccines are important tools, but most reporting value still comes from infrastructure, access, and mortality context."
+    why_reporters_care: "Cholera is one of the clearest diseases for showing how water, war, displacement, climate shocks, and state capacity become mortality."
+    what_reporters_get_wrong: "Media often reduce cholera to a simple contamination story and miss the fact that treatment access and infrastructure collapse are what turn cases into mass death."
+    metrics_that_matter:
+      - "Cases, deaths, and case fatality ratio."
+      - "Water-system failure, displacement, flooding, or conflict context."
+      - "Treatment-center access and whether oral cholera vaccine campaigns are reaching the right places."
+    research_caveats: "Counts are often underestimates, and suspected-case definitions can vary sharply across humanitarian settings."
+    outbreak_settings: ["Refugee and displacement settings", "Flooding or infrastructure failure", "Urban water-system breakdown"]
+    latest_outbreak:
+      label: Ongoing global cholera upsurge
+      period: "2026"
+      location: "Multi-country"
+      summary: "WHO's epidemiological update #36 reported 18,715 new cholera and acute watery diarrhoea cases and 269 deaths in February 2026 across 17 countries, with the highest burden in the African Region."
+      source_name: "WHO Cholera Epidemiological Update #36"
+      source_url: "https://www.who.int/publications/m/item/multi-country-outbreak-of-cholera--epidemiological-update--36--30-april-2026"
+      as_of: "2026-04-30"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/cholera/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/cholera"
+    notable_outbreaks:
+      - "The current WHO framing treats cholera as a prolonged global upsurge rather than a single isolated event."
+    surveillance_note: "One of the clearest diseases where fragile infrastructure, displacement and mortality can move fast enough to outrun media attention."
+
+  - name: Dengue
+    pathogen: Dengue virus
+    transmission: Aedes mosquitoes
+    categories: ["Vector-borne", "Arbovirus", "Urban transmission"]
+    aliases: ["severe dengue"]
+    reservoir_or_vector: "Aedes aegypti and Aedes albopictus mosquitoes drive transmission."
+    incubation: "Usually 4 to 10 days after an infectious mosquito bite."
+    symptoms:
+      - "Fever, headache, retro-orbital pain, and myalgias."
+      - "Rash and leukopenia are common."
+      - "A subset progress to severe dengue with plasma leakage or bleeding."
+    severity: "Most illness is self-limited, but severe dengue can decompensate quickly."
+    diagnostics: "PCR or antigen testing early, serology later, plus attention to exposure geography."
+    treatment: "Supportive care with careful fluid management."
+    prevention: "Mosquito control, bite avoidance, and vaccine policy where appropriate."
+    vaccine_status: "Vaccines exist in a limited and policy-contingent way; most outbreak control still depends on vector ecology and clinical recognition."
+    why_reporters_care: "Dengue is now one of the best climate-and-city disease stories on earth because mosquito range, urban crowding, and health-system stress all show up in it."
+    what_reporters_get_wrong: "Coverage frequently treats dengue as a generic tropical fever and underplays serotype history, hospitalization pressure, and the difference between routine seasonal burden and exceptional surge."
+    metrics_that_matter:
+      - "Cases, severe dengue, hospitalizations, and deaths."
+      - "Serotype shifts, if reported, because they can change severity expectations."
+      - "Urban mosquito control failure and the pace of geographic expansion."
+    research_caveats: "Reported case totals can surge when testing changes, and severity comparisons across countries are often not apples to apples."
+    outbreak_settings: ["Dense urban settings", "Rainy seasons", "Expanding mosquito ranges"]
+    latest_outbreak:
+      label: Unprecedented global 2024 surge
+      period: "2024"
+      location: "Global, especially the Americas"
+      summary: "WHO's 2024 update recorded 14,434,584 dengue cases worldwide, including 11,201 deaths, with more than 90% of reported cases coming from the Region of the Americas."
+      source_name: "WHO Weekly Epidemiological Record"
+      source_url: "https://www.who.int/publications/i/item/who-wer10052-665-678"
+      as_of: "2025-12-26 publication covering 2024"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/dengue/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+    notable_outbreaks:
+      - "Brazil alone reported more than 10 million cases in the cited WHO 2024 update."
+    surveillance_note: "This belongs near the top of any global outbreak desk because climate, vector range and urban vulnerability all keep widening the playing field."
+
+  - name: Yellow fever
+    pathogen: Yellow fever virus
+    transmission: Mosquito-borne
+    categories: ["Vector-borne", "Vaccine-preventable", "Sylvatic spillover"]
+    aliases: ["yellow fever virus"]
+    reservoir_or_vector: "Mosquito cycles involving non-human primates and humans define the classic ecology."
+    incubation: "Usually 3 to 6 days."
+    symptoms:
+      - "Fever, headache, and myalgias in the early phase."
+      - "A toxic phase can bring jaundice, bleeding, and organ failure."
+      - "Not every case progresses to severe disease, but the severe end is dramatic."
+    severity: "Potentially high fatality in the toxic phase."
+    diagnostics: "PCR and serology, interpreted with vaccination history and geography."
+    treatment: "Supportive care only."
+    prevention: "Vaccination remains the decisive preventive tool."
+    vaccine_status: "Vaccination is highly effective, so outbreaks are usually surveillance-and-coverage failures rather than biomedical mysteries."
+    why_reporters_care: "Yellow fever matters because a rise in sylvatic spillover, urban encroachment, or vaccine gaps can turn a seemingly remote arbovirus story into a major regional emergency."
+    what_reporters_get_wrong: "The common mistake is failing to distinguish forest-cycle spillover from the much scarier possibility of wider urban transmission."
+    metrics_that_matter:
+      - "Confirmed cases and deaths, especially in newly affected geography."
+      - "Whether transmission remains sylvatic or shows signs of urban spread."
+      - "Vaccination coverage, campaign timing, and traveler risk messaging."
+    research_caveats: "Small outbreaks can still matter a lot, and cross-country comparisons are complicated by uneven surveillance and vaccination histories."
+    outbreak_settings: ["Forest-edge exposure", "Mosquito-heavy tropical regions", "Areas with vaccine gaps"]
+    latest_outbreak:
+      label: Americas resurgence
+      period: "2025"
+      location: "Bolivia, Brazil, Colombia, Ecuador and Peru"
+      summary: "WHO reported 212 confirmed yellow fever cases and 85 deaths in the Americas as of late April 2025, a threefold increase over 2024 totals."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON570"
+      as_of: "2025-05-16"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/yellow-fever/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/yellow-fever"
+    notable_outbreaks:
+      - "The cited WHO update notes spread beyond the Amazon region into places such as Sao Paulo and Tolima."
+    surveillance_note: "When sylvatic transmission escapes its expected geography, this deserves very fast escalation."
+
+  - name: Chikungunya
+    pathogen: Chikungunya virus
+    transmission: Aedes mosquitoes
+    categories: ["Vector-borne", "Arbovirus", "Resurgent"]
+    aliases: ["chikungunya virus"]
+    reservoir_or_vector: "Aedes mosquitoes are central to transmission."
+    incubation: "Typically 3 to 7 days."
+    symptoms:
+      - "Abrupt fever."
+      - "Severe polyarthralgia or arthritis-like pain."
+      - "Rash and prolonged joint symptoms can follow."
+    severity: "Mortality is usually low, but disability burden can be substantial."
+    diagnostics: "PCR early and serology later in the course."
+    treatment: "Supportive care with pain control."
+    prevention: "Vector control and bite avoidance remain central."
+    vaccine_status: "No broadly used routine control vaccine anchors current outbreak response; vector control and public messaging remain central."
+    why_reporters_care: "Chikungunya is a high-quality reporter disease because explosive outbreaks can be large, visually obvious, and politically disruptive even when mortality stays low."
+    what_reporters_get_wrong: "It is often dismissed as a dengue-like illness, when the chronic joint-pain burden and workforce impact are a big part of the story."
+    metrics_that_matter:
+      - "Outbreak size and geographic spread."
+      - "Vector range and travel-linked seeding into new places."
+      - "Persistent disability burden, not just deaths."
+    research_caveats: "Many surveillance systems blur suspected and confirmed cases, and long-term symptom burden is often undercounted."
+    outbreak_settings: ["Urban mosquito transmission", "Tropical and subtropical outbreaks", "Travel-linked introductions"]
+    latest_outbreak:
+      label: 2025 global resurgence
+      period: "2025"
+      location: "Global"
+      summary: "WHO reported 445,271 suspected and confirmed chikungunya cases and 155 deaths globally between 1 January and 30 September 2025, with outbreaks and resurgence across 40 countries."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON581"
+      as_of: "2025-10-03"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/chikungunya/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/chikungunya"
+    notable_outbreaks:
+      - "The 2005-2006 La Reunion epidemic remains one of the signature modern chikungunya reference points."
+    surveillance_note: "A good desk will watch chikungunya alongside dengue because the vectors, differential and public-health burden overlap."
+
+  - name: Ebola virus disease
+    pathogen: Ebola virus
+    transmission: Direct contact with blood, body fluids or contaminated materials
+    categories: ["Hemorrhagic fever", "High-fatality", "Outbreak containment"]
+    aliases: ["ebola"]
+    reservoir_or_vector: "Fruit bats are the leading reservoir hypothesis; human amplification is contact-driven."
+    incubation: "Usually 2 to 21 days."
+    symptoms:
+      - "Fever, weakness, gastrointestinal symptoms, and severe malaise."
+      - "Bleeding is not universal but remains part of the classic frame."
+      - "Rapid systemic deterioration can occur."
+    severity: "High fatality potential and intense healthcare-system stress."
+    diagnostics: "PCR with strict biosafety and rapid isolation protocols."
+    treatment: "Supportive care plus specific therapeutics in eligible Ebola virus settings."
+    prevention: "Isolation, PPE, safe burials, contact tracing, and vaccination where available."
+    vaccine_status: "Vaccination can be decisive in some Ebola contexts, but access, deployment speed, and species-specific framing still matter."
+    why_reporters_care: "Ebola remains a defining outbreak-desk disease because healthcare transmission, funeral practices, state trust, and international alarm all move quickly around it."
+    what_reporters_get_wrong: "Coverage often defaults to cinematic fatality framing and misses the operational details that actually determine outbreak control: isolation delays, healthcare spread, burial practices, and community trust."
+    metrics_that_matter:
+      - "Confirmed versus probable cases and deaths."
+      - "Healthcare-associated transmission and contact-tracing performance."
+      - "Vaccination and therapeutic deployment, plus time since last confirmed case."
+    research_caveats: "Early outbreak counts can be highly unstable, especially when access and laboratory confirmation are limited."
+    outbreak_settings: ["Healthcare settings", "Households", "Funeral transmission chains", "Forest spillover zones"]
+    latest_outbreak:
+      label: Kasai Province outbreak
+      period: "September-December 2025"
+      location: "Democratic Republic of the Congo"
+      summary: "WHO reported 64 Ebola cases, including 45 deaths, in the Democratic Republic of the Congo outbreak that ended on 1 December 2025 after 42 days without a new confirmed case."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON589"
+      as_of: "2025-12-01"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/ebola/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/ebola-disease"
+    notable_outbreaks:
+      - "West Africa 2014-2016 remains the defining modern Ebola catastrophe."
+    surveillance_note: "Nosocomial spread and funeral amplification remain crucial reporting clues."
+
+  - name: Marburg virus disease
+    pathogen: Marburg virus
+    transmission: Direct contact with body fluids, contaminated materials and infected animal reservoirs
+    categories: ["Hemorrhagic fever", "High-fatality", "Emerging"]
+    aliases: ["marburg"]
+    reservoir_or_vector: "Rousettus fruit bats are the key reservoir signal in classic framing."
+    incubation: "Usually 2 to 21 days."
+    symptoms:
+      - "Abrupt fever and severe constitutional illness."
+      - "Gastrointestinal symptoms and hemorrhagic features can follow."
+      - "Severe multi-organ disease can develop quickly."
+    severity: "High fatality potential with major outbreak-control implications."
+    diagnostics: "PCR and strict containment-oriented laboratory workflows."
+    treatment: "Supportive care; no routine curative therapy is the default public-health frame."
+    prevention: "Isolation, PPE, contact tracing, and reservoir-exposure awareness."
+    vaccine_status: "No routine widely deployed preventive vaccine anchors most Marburg responses."
+    why_reporters_care: "Marburg matters because even small clusters can force rapid reassessment of differential diagnosis, hospital preparedness, and regional spillover risk."
+    what_reporters_get_wrong: "Media often treat Marburg as interchangeable with Ebola, when geography, reservoir context, and outbreak scale still matter a great deal."
+    metrics_that_matter:
+      - "Confirmed cases and deaths."
+      - "Mine, cave, bat, household, or healthcare exposure context."
+      - "Any sign of spread beyond the initial district or healthcare setting."
+    research_caveats: "Outbreaks are usually small, so it is easy to overinterpret noisy early severity estimates."
+    outbreak_settings: ["Mine and cave exposure", "Healthcare transmission", "Household caregiving"]
+    latest_outbreak:
+      label: First recorded Ethiopian outbreak
+      period: "October 2025-January 2026"
+      location: "South Ethiopia Region and Sidama Region, Ethiopia"
+      summary: "WHO reported 19 total Marburg cases, including 14 confirmed and 14 deaths overall when probable cases are included, in Ethiopia's first recognized Marburg outbreak."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON592"
+      as_of: "2026-01-26"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/marburg/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease"
+    notable_outbreaks:
+      - "The first recognized Ethiopian outbreak widened the modern Marburg geography."
+    surveillance_note: "Any unexplained hemorrhagic fever cluster in East Africa now has a slightly wider differential than it did a few years ago."
+
+  - name: Middle East respiratory syndrome (MERS)
+    pathogen: MERS-CoV
+    transmission: Camel-to-human spillover and close-contact spread, especially in healthcare settings
+    categories: ["Respiratory", "Zoonotic", "Healthcare-associated"]
+    aliases: ["mers", "mers-cov", "middle east respiratory syndrome"]
+    reservoir_or_vector: "Dromedary camels are the key animal reservoir in current public-health framing."
+    incubation: "Often about 2 to 14 days."
+    symptoms:
+      - "Fever, cough, and shortness of breath."
+      - "Pneumonia is common in more serious cases."
+      - "Healthcare-associated clusters can include milder and asymptomatic infections."
+    severity: "Can be severe, especially in older or medically vulnerable patients."
+    diagnostics: "PCR and careful exposure or travel history remain central."
+    treatment: "Supportive care."
+    prevention: "Infection control in hospitals and reducing risky camel-related exposure."
+    vaccine_status: "No routine public vaccine is the core control tool; hospital infection control and camel-exposure context still dominate."
+    why_reporters_care: "MERS remains a prototype hospital-cluster and travel-linked importation story where a modest case count can still matter a lot."
+    what_reporters_get_wrong: "Coverage often treats MERS as a dead coronavirus relic, when the operational question is whether hospital amplification is recurring and whether imported cases change risk elsewhere."
+    metrics_that_matter:
+      - "Healthcare-linked cases and deaths."
+      - "Travel-associated exportation beyond the Arabian Peninsula."
+      - "Camel exposure versus healthcare exposure, because that changes the control story."
+    research_caveats: "Severe-case bias can distort apparent fatality and make mild transmission less visible."
+    outbreak_settings: ["Hospitals", "Camel exposure settings", "Travel-associated healthcare clusters"]
+    latest_outbreak:
+      label: Global update with Saudi and travel-associated French cases
+      period: "2025"
+      location: "Saudi Arabia and travel-associated cases in France"
+      summary: "WHO reported 19 MERS cases and four deaths globally in 2025 through 21 December, including healthcare-linked transmission in Saudi Arabia and imported cases in France."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/southeastasia/outbreaks-and-emergencies/disease-outbreak-news/item/2025-DON591"
+      as_of: "2025-12-24"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/mers/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-%28mers-cov%29"
+    notable_outbreaks:
+      - "The 2015 Republic of Korea outbreak remains the classic reminder that travel-linked hospital amplification can globalize a regional virus."
+    surveillance_note: "For newsroom use, the hospital-cluster angle is often more important than the raw case count."
+
+  - name: Anthrax
+    pathogen: Bacillus anthracis
+    transmission: Contact with infected animals or contaminated animal products
+    categories: ["Zoonotic", "Bacterial", "Occupational exposure"]
+    aliases: ["bacillus anthracis", "cutaneous anthrax"]
+    reservoir_or_vector: "Spores persist in soil and livestock environments; infected animals drive many human exposures."
+    incubation: "Usually a few days, but depends on exposure route."
+    symptoms:
+      - "Cutaneous anthrax causes a characteristic black eschar after papule and vesicle stages."
+      - "Inhalational and gastrointestinal disease are much more severe."
+      - "Exposure context matters heavily for clinical suspicion."
+    severity: "Route-dependent, ranging from treatable cutaneous disease to life-threatening systemic infection."
+    diagnostics: "Culture, PCR, and exposure history are key."
+    treatment: "Prompt antibiotics and supportive care; severe cases may need antitoxin strategies."
+    prevention: "Livestock control, safe animal handling, and occupational protection."
+    vaccine_status: "Human vaccination is not the standard public-health frame for most natural outbreaks; animal control and rapid treatment matter more."
+    why_reporters_care: "Anthrax is a strong local accountability story because livestock practices, slaughter exposure, and rural reporting gaps can hide serious outbreaks in plain sight."
+    what_reporters_get_wrong: "Coverage often jumps to bioterror associations and misses that most real-world human anthrax stories are agricultural, occupational, and deeply local."
+    metrics_that_matter:
+      - "Route of exposure, because cutaneous and inhalational stories are not equivalent."
+      - "Animal deaths, slaughter events, and occupational links."
+      - "Whether antibiotics, antitoxin, and veterinary control arrived quickly enough."
+    research_caveats: "Early reports may not separate suspected cutaneous lesions from confirmed systemic disease."
+    outbreak_settings: ["Livestock slaughter", "Hide and wool handling", "Rural agricultural settings"]
+    latest_outbreak:
+      label: Cattle-linked cutaneous anthrax cluster
+      period: "May 2025"
+      location: "Mukdahan Province, Thailand"
+      summary: "WHO reported confirmed human anthrax cases linked to cattle slaughter in Thailand, including at least one death and multiple hospitalized cutaneous anthrax cases."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON573"
+      as_of: "2025-05-29"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/anthrax/about/index.html"
+      - label: "WHO clinician guidance"
+        url: "https://www.who.int/publications/i/item/B09539"
+    notable_outbreaks:
+      - "This was the first reported anthrax death in Thailand since 1994, according to WHO."
+    surveillance_note: "Anthrax belongs in the desk because agricultural exposure clusters are often deeply local and easy to miss."
+
+  - name: Rift Valley fever
+    pathogen: Rift Valley fever virus
+    transmission: Mosquito-borne and direct animal exposure
+    categories: ["Zoonotic", "Vector-borne", "Livestock-linked"]
+    aliases: ["rvf", "rift valley fever virus"]
+    reservoir_or_vector: "Mosquito vectors and infected livestock are both central."
+    incubation: "Usually 2 to 6 days."
+    symptoms:
+      - "Fever and flu-like illness in many cases."
+      - "Some patients develop ocular, hemorrhagic, or encephalitic complications."
+      - "Animal abortion storms are part of the wider outbreak signal."
+    severity: "Often mild in humans but capable of severe complications and major livestock disruption."
+    diagnostics: "PCR or serology interpreted with animal and vector context."
+    treatment: "Supportive care."
+    prevention: "Mosquito control, livestock vaccination policy, and safer animal-handling practices."
+    vaccine_status: "Human vaccination is not the routine anchor; livestock policy and vector ecology drive most prevention decisions."
+    why_reporters_care: "Rift Valley fever is one of the best One Health reporting files because rainfall, livestock, mosquitoes, and human disease all move together."
+    what_reporters_get_wrong: "It is often framed as just another mosquito story, when livestock abortion storms and animal-trade movement are usually central to the real outbreak picture."
+    metrics_that_matter:
+      - "Human cases and deaths."
+      - "Animal illness, abortion storms, and livestock movement."
+      - "Flooding, mosquito surges, and cross-border spread."
+    research_caveats: "Human and animal surveillance rarely line up perfectly, so early burden estimates can understate the scale."
+    outbreak_settings: ["Flooding-linked mosquito surges", "Livestock markets", "Pastoral and agro-pastoral regions"]
+    latest_outbreak:
+      label: West African cross-border outbreak
+      period: "September-October 2025"
+      location: "Mauritania and Senegal"
+      summary: "WHO reported 404 confirmed human Rift Valley fever cases and 42 deaths across Mauritania and Senegal, with continued concern about mosquito ecology and livestock movement."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON584"
+      as_of: "2025-11-05"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/rift-valley-fever/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/rift-valley-fever"
+    notable_outbreaks:
+      - "Cross-border livestock movement is one of the recurring reasons RVF repeatedly defeats narrow national framing."
+    surveillance_note: "This is classic One Health territory: weather, vectors, herds and human illness all move together."
+
+  - name: Oropouche virus disease
+    pathogen: Oropouche virus
+    transmission: Midge and mosquito bites
+    categories: ["Vector-borne", "Arbovirus", "Emerging Americas signal"]
+    aliases: ["oropouche", "oropouche fever"]
+    reservoir_or_vector: "Biting midges are a core transmission vector; mosquito involvement also matters in public-health framing."
+    incubation: "Usually several days after exposure."
+    symptoms:
+      - "Acute febrile illness with headache and myalgias."
+      - "Clinical presentation can overlap heavily with dengue-like syndromes."
+      - "Some patients experience recurrent symptoms."
+    severity: "Usually non-fatal but epidemiologically important because it can hide inside broader arboviral surveillance."
+    diagnostics: "PCR and arboviral differential testing where available."
+    treatment: "Supportive care."
+    prevention: "Vector control and bite avoidance."
+    vaccine_status: "No routine vaccine anchors public-health control; differential testing and vector surveillance matter more."
+    why_reporters_care: "Oropouche deserves attention because it can masquerade as dengue-like illness while signaling that arboviral ecology is shifting into new places."
+    what_reporters_get_wrong: "It is often covered as an obscure tropical curiosity rather than as a surveillance-classification problem that can distort broader arbovirus reporting."
+    metrics_that_matter:
+      - "Confirmed cases and newly affected countries or regions."
+      - "Whether clinicians are distinguishing it from dengue and other arboviruses."
+      - "Pregnancy, neurologic, or unusually severe presentations if they emerge."
+    research_caveats: "Because testing is patchy, apparent expansion can reflect both true spread and better recognition."
+    outbreak_settings: ["Tropical arbovirus zones", "Urban-periurban spread", "Areas already tracking dengue-like illness"]
+    latest_outbreak:
+      label: Americas expansion
+      period: "2024"
+      location: "Region of the Americas"
+      summary: "WHO reported 11,634 confirmed Oropouche cases and two deaths across ten countries and one territory as of 25 November 2024, with regional spread into places not previously reporting cases."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON545"
+      as_of: "2024-12-05"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/oropouche/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/oropouche-virus-disease"
+    notable_outbreaks:
+      - "The 2024 expansion mattered because it turned Oropouche from a niche arbovirus story into a continental surveillance story."
+    surveillance_note: "Worth keeping visible because it can hide inside dengue-like syndrome surveillance."
+
+  - name: Diphtheria
+    pathogen: Corynebacterium diphtheriae
+    transmission: Respiratory droplets and close contact
+    categories: ["Vaccine-preventable", "Respiratory", "Health-system stress signal"]
+    aliases: ["corynebacterium diphtheriae"]
+    reservoir_or_vector: "Humans are the reservoir."
+    incubation: "Usually 2 to 5 days."
+    symptoms:
+      - "Sore throat, fever, and cervical swelling."
+      - "A gray pseudomembrane is the classic severe respiratory sign."
+      - "Toxin-mediated cardiac and neurologic complications drive much of the danger."
+    severity: "Can be fatal without antitoxin, antibiotics, and strong clinical support."
+    diagnostics: "Clinical suspicion plus culture or PCR and toxin-focused confirmation when available."
+    treatment: "Antitoxin, antibiotics, and airway management when needed."
+    prevention: "Routine vaccination and rapid outbreak control around cases and carriers."
+    vaccine_status: "Routine vaccination works, so major diphtheria stories usually reflect immunization failure, conflict, or system breakdown."
+    why_reporters_care: "Diphtheria is a strong communications disease because it turns abstract vaccination decline into immediately legible airway and mortality risk."
+    what_reporters_get_wrong: "Coverage often treats it as an antique disease reappearing out of nowhere rather than as a predictable sign of low coverage and disrupted health systems."
+    metrics_that_matter:
+      - "Suspected and confirmed cases, deaths, and age groups."
+      - "Antitoxin availability and outbreak-control capacity."
+      - "Vaccination coverage and whether the outbreak is concentrated in one displaced or under-served population."
+    research_caveats: "Case definitions and laboratory confirmation can lag badly in large, stressed outbreaks."
+    outbreak_settings: ["Under-immunized populations", "Crowded settings", "Health-system disruption"]
+    latest_outbreak:
+      label: African Region multi-country outbreak
+      period: "2025"
+      location: "Eight WHO African Region member states"
+      summary: "WHO reported 20,412 suspected diphtheria cases and 1,252 deaths across eight African countries in 2025, with Nigeria carrying the largest share of the burden."
+      source_name: "WHO Disease Outbreak News"
+      source_url: "https://www.who.int/southeastasia/outbreaks-and-emergencies/disease-outbreak-news/item/DON588"
+      as_of: "2025-11-21"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/diphtheria/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/diphtheria"
+    notable_outbreaks:
+      - "The scale and prolonged under-immunized burden make this more than a one-country story."
+    surveillance_note: "Diphtheria should function as a vaccination-systems alarm bell in this product."
+
+  - name: Zika virus disease
+    pathogen: Zika virus
+    transmission: Aedes mosquitoes; vertical and sexual transmission also documented
+    categories: ["Vector-borne", "Congenital risk", "Emerging"]
+    aliases: ["zika"]
+    reservoir_or_vector: "Aedes mosquitoes are central; congenital and sexual transmission matter for public-health framing."
+    incubation: "Usually a few days to about two weeks."
+    symptoms:
+      - "Often mild or asymptomatic."
+      - "Fever, rash, arthralgia, and conjunctivitis are classic when symptomatic."
+      - "Pregnancy-related fetal risk is the defining severity concern."
+    severity: "Usually mild in the adult host but potentially severe in fetal and congenital outcomes."
+    diagnostics: "PCR and serology interpreted cautiously because of cross-reactive flavivirus issues."
+    treatment: "Supportive care."
+    prevention: "Mosquito control, bite avoidance, and pregnancy-focused travel and exposure guidance."
+    vaccine_status: "No broadly deployed routine vaccine anchors present-day public-health response."
+    why_reporters_care: "Zika matters because congenital outcomes, pregnancy guidance, travel messaging, and mosquito ecology can turn a mild-adult disease story into a major public-health communications event."
+    what_reporters_get_wrong: "Coverage often focuses only on the mild adult syndrome and underweights the pregnancy and congenital surveillance stakes."
+    metrics_that_matter:
+      - "Transmission geography and whether local mosquito spread is occurring."
+      - "Pregnancy-related surveillance and congenital outcomes."
+      - "Travel guidance and vector-control failures."
+    research_caveats: "Serology is messy because of flavivirus cross-reactivity, so burden estimates and exposure histories can be difficult to interpret cleanly."
+    outbreak_settings: ["Aedes-endemic regions", "Pregnancy surveillance", "Travel-linked introductions"]
+    latest_outbreak:
+      label: Brazil-centered Americas epidemic
+      period: "2015-2016"
+      location: "Brazil and the wider Americas"
+      summary: "WHO's fact sheet still anchors the defining recent major Zika outbreak in the Brazil-led 2015 epidemic that triggered the 2016 PHEIC over microcephaly and congenital abnormalities."
+      source_name: "WHO Fact Sheet"
+      source_url: "https://www.who.int/news-room/fact-sheets/detail/zika-virus"
+      as_of: "2025-11-06"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/zika/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/zika-virus"
+    notable_outbreaks:
+      - "WHO notes that transmission persists at low levels in several countries even after the peak epidemic passed."
+    surveillance_note: "For a reporter desk, congenital impact matters as much as raw incident case counts."
+
+  - name: Nipah virus disease
+    pathogen: Nipah virus
+    transmission: Bat spillover, contaminated food exposure, and person-to-person spread in close-contact settings
+    categories: ["Zoonotic", "High-fatality", "Emerging"]
+    aliases: ["nipah"]
+    reservoir_or_vector: "Fruit bats are the key reservoir in the standard public-health frame."
+    incubation: "Often 4 to 14 days, though longer intervals have been reported."
+    symptoms:
+      - "Fever, headache, and rapidly progressive encephalitic illness."
+      - "Respiratory symptoms can also be prominent."
+      - "Neurologic deterioration is a major red-flag feature."
+    severity: "High fatality potential and intense concern for hospital and household amplification."
+    diagnostics: "PCR and high-containment laboratory workflows are central."
+    treatment: "Supportive care."
+    prevention: "Avoiding bat-contaminated food exposures, infection control, and rapid contact tracing."
+    vaccine_status: "No routine vaccine is currently the practical outbreak tool; surveillance and infection control are doing the heavy lifting."
+    why_reporters_care: "Nipah is one of the few pathogens where even a small cluster can raise immediate questions about encephalitis, respiratory spread, hospital amplification, and pandemic risk."
+    what_reporters_get_wrong: "Coverage often leans into apocalypse language without separating bat spillover, contaminated food exposure, and the much more consequential question of documented person-to-person spread."
+    metrics_that_matter:
+      - "Hospital-linked and household-linked transmission."
+      - "Respiratory involvement versus mainly encephalitic presentation."
+      - "Case fatality and whether contact tracing is staying ahead of the cluster."
+    research_caveats: "Nipah outbreaks are often small and intensely scrutinized, which makes early severity and transmission claims prone to swing."
+    outbreak_settings: ["Date palm sap exposure", "Household clusters", "Hospital transmission chains"]
+    latest_outbreak:
+      label: Kerala cluster
+      period: "2024"
+      location: "Kerala, India"
+      summary: "Recent South Asian Nipah reporting has continued to center on Kerala, where public-health responses have emphasized rapid contact tracing, hospital precautions, and fruit-bat spillover concern."
+      source_name: "WHO disease information"
+      source_url: "https://www.who.int/news-room/fact-sheets/detail/nipah-virus-infection"
+      as_of: "2024 WHO fact sheet"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/vhf/nipah/"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/nipah-virus-infection"
+    notable_outbreaks:
+      - "Bangladesh and India outbreaks remain the core modern human-to-human Nipah reference points."
+    surveillance_note: "Nipah deserves special attention because respiratory and encephalitic framing can shift fast, and hospital spread matters."
+
+  - name: Legionnaires' disease
+    pathogen: Legionella bacteria, especially Legionella pneumophila
+    transmission: Aerosolized contaminated water; not usually person-to-person
+    categories: ["Environmental", "Water systems", "Facility outbreak risk"]
+    aliases: ["legionella", "legionella pneumophila", "legionnaires"]
+    reservoir_or_vector: "Built water systems, cooling towers, plumbing, and aerosol-generating water infrastructure."
+    incubation: "Usually 2 to 10 days."
+    symptoms:
+      - "Pneumonia with fever, cough, and shortness of breath."
+      - "GI symptoms and confusion can be part of the picture."
+      - "Exposure clusters often emerge around facilities or buildings."
+    severity: "Can be severe, particularly in older or medically vulnerable patients."
+    diagnostics: "Urinary antigen testing, PCR, culture, and environmental investigation."
+    treatment: "Appropriate antibiotics plus supportive care."
+    prevention: "Water-system maintenance, cooling-tower control, and environmental remediation."
+    vaccine_status: "No vaccine; the control story is environmental accountability and water-system management."
+    why_reporters_care: "Legionnaires' is a very good local-news and accountability disease because buildings, hospitals, hotels, and cooling towers turn infrastructure failure into human pneumonia clusters."
+    what_reporters_get_wrong: "Coverage often centers only on a building scare and misses the bigger environmental-investigation and public-accountability story."
+    metrics_that_matter:
+      - "Cases, deaths, and affected facility types."
+      - "Cooling-tower, plumbing, or hospital-system findings."
+      - "Whether the cluster is ongoing or tied to a remediated source."
+    research_caveats: "Outbreak attribution can change as environmental testing catches up, so early blame assignment is often noisy."
+    outbreak_settings: ["Hospitals", "Hotels", "Long-term care", "Large building water systems"]
+    latest_outbreak:
+      label: Building and facility clusters
+      period: "Ongoing recurring pattern"
+      location: "Global"
+      summary: "Legionnaires' disease remains a recurring built-environment outbreak problem, with cases often linked to cooling towers, healthcare facilities, hotels, and complex water systems rather than a single modern global event."
+      source_name: "CDC overview"
+      source_url: "https://www.cdc.gov/legionella/about/index.html"
+      as_of: "CDC overview"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/legionella/about/index.html"
+      - label: "WHO guidance"
+        url: "https://www.who.int/publications/i/item/9241545617"
+    notable_outbreaks:
+      - "Facility-linked outbreaks are often underappreciated until environmental investigation catches up."
+    surveillance_note: "This is a strong reporter-desk disease because it sits at the intersection of environmental systems, hospitals, and local accountability."
+
+  - name: Pertussis
+    pathogen: Bordetella pertussis
+    transmission: Respiratory droplets
+    categories: ["Vaccine-preventable", "Respiratory", "Recurring resurgence"]
+    aliases: ["whooping cough", "bordetella pertussis"]
+    reservoir_or_vector: "Humans are the reservoir."
+    incubation: "Usually 5 to 10 days, though it can be longer."
+    symptoms:
+      - "Catarrhal illness early, followed by paroxysmal cough."
+      - "Classic whoop is not universal, especially in adults."
+      - "Infants face the greatest severe-disease risk."
+    severity: "Often prolonged and disruptive, with severe risk concentrated in infants."
+    diagnostics: "PCR, culture, and careful clinical timing."
+    treatment: "Macrolides and supportive care, with prophylaxis for defined contacts."
+    prevention: "Vaccination, booster policy, and protecting infants through maternal immunization and rapid case recognition."
+    vaccine_status: "Vaccination exists, but waning immunity, booster policy, and infant protection remain live public-health issues."
+    why_reporters_care: "Pertussis repeatedly becomes news because it combines school spread, infant risk, vaccine debates, and underrecognized adult transmission."
+    what_reporters_get_wrong: "Coverage often assumes a classic whooping presentation, when many adolescent and adult cases are clinically subtler but epidemiologically important."
+    metrics_that_matter:
+      - "Infant cases, hospitalizations, and deaths."
+      - "School or household cluster growth."
+      - "Maternal immunization, booster uptake, and timing of diagnosis."
+    research_caveats: "Reported burden depends heavily on testing intensity and clinical suspicion, so many systems still undercount adult disease."
+    outbreak_settings: ["Schools", "Households", "Communities with waning immunity or low uptake"]
+    latest_outbreak:
+      label: Post-pandemic resurgence pattern
+      period: "2024-2026"
+      location: "Multi-country"
+      summary: "Recent pertussis reporting has reflected broader post-pandemic resurgence patterns, with public-health attention on school clusters, infant protection, and under-recognition in older age groups."
+      source_name: "CDC overview"
+      source_url: "https://www.cdc.gov/pertussis/about/index.html"
+      as_of: "CDC overview"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/pertussis/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/pertussis"
+    notable_outbreaks:
+      - "Pertussis repeatedly reminds reporters that vaccine-preventable does not mean epidemiologically solved."
+    surveillance_note: "Worth keeping on the desk because infant risk, school spread, and booster debates all make it newsy."
+
+  - name: Meningococcal disease
+    pathogen: Neisseria meningitidis
+    transmission: Respiratory and close-contact spread
+    categories: ["Bacterial", "Respiratory", "Meningitis belt"]
+    aliases: ["meningococcal", "meningococcal meningitis", "meningococcemia"]
+    reservoir_or_vector: "Humans are the reservoir; transmission often intensifies in crowded settings."
+    incubation: "Usually 3 to 4 days, with a broader range of about 2 to 10 days."
+    symptoms:
+      - "Abrupt fever, headache, and neck stiffness in meningitis presentations."
+      - "Petechial or purpuric rash can signal invasive bloodstream disease."
+      - "Clinical deterioration can be rapid enough to make same-day recognition decisive."
+    severity: "High-stakes disease because fulminant sepsis and meningitis can progress quickly and kill rapidly."
+    diagnostics: "Blood culture, CSF evaluation, PCR, and public-health serogrouping are all important."
+    treatment: "Immediate empiric antibiotics and intensive supportive care."
+    prevention: "Vaccination, chemoprophylaxis for close contacts, and fast cluster investigation."
+    vaccine_status: "Vaccination is central, but the real desk issue is which serogroup is circulating and how quickly control measures are moving."
+    why_reporters_care: "Meningococcal disease is intensely newsworthy because it is fast, terrifying, often affects schools or young adults, and can force rapid public-health action."
+    what_reporters_get_wrong: "Coverage often treats every case as a generic meningitis story and misses the importance of invasive disease, serogroup, and contact prophylaxis."
+    metrics_that_matter:
+      - "Confirmed invasive cases and deaths."
+      - "Serogroup, because it changes vaccine and response implications."
+      - "Dormitory, campus, military, or meningitis-belt cluster context."
+    research_caveats: "Single severe cases attract huge attention, but outbreak significance depends on linkage, serogroup, and public-health confirmation."
+    outbreak_settings: ["Dormitories", "Military settings", "Crowded communities", "Sahel meningitis belt"]
+    latest_outbreak:
+      label: Expanding meningitis belt pressure
+      period: "2024-2025"
+      location: "West and Central Africa"
+      summary: "WHO and regional reporting have continued to emphasize recurrent meningococcal meningitis pressure across meningitis-belt countries, where serogroup shifts and strained health systems can rapidly change outbreak control needs."
+      source_name: "WHO meningitis fact sheet"
+      source_url: "https://www.who.int/news-room/fact-sheets/detail/meningitis"
+      as_of: "WHO fact sheet"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/meningococcal/about/index.html"
+      - label: "WHO meningitis fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/meningitis"
+    notable_outbreaks:
+      - "Serogroup changes have repeatedly altered the control picture across the African meningitis belt."
+    surveillance_note: "This belongs on the desk because local clusters can become national panic stories very quickly."
+
+  - name: Malaria
+    pathogen: Plasmodium parasites, especially Plasmodium falciparum and Plasmodium vivax
+    transmission: Anopheles mosquitoes
+    categories: ["Vector-borne", "Parasitic", "Endemic burden"]
+    aliases: ["plasmodium falciparum", "plasmodium vivax"]
+    reservoir_or_vector: "Anopheles mosquitoes are the transmission vector; humans are the main reservoir in most settings."
+    incubation: "Often 7 to 30 days, depending on species and immunity."
+    symptoms:
+      - "Fever, chills, headache, and malaise."
+      - "Severe malaria can involve anemia, cerebral disease, acidosis, or organ failure."
+      - "Travel history and exposure ecology remain fundamental to suspicion."
+    severity: "A chronic global emergency with severe disease and death concentrated in young children and vulnerable populations."
+    diagnostics: "Rapid diagnostic tests and microscopy remain the field core, with PCR for selected contexts."
+    treatment: "Artemisinin-based combination therapy for uncomplicated malaria; IV artesunate for severe disease."
+    prevention: "Bed nets, vector control, chemoprevention, seasonal prevention strategies, and vaccination in some settings."
+    vaccine_status: "Vaccination is now part of the toolkit in some settings, but nets, vector control, and treatment access still dominate the burden story."
+    why_reporters_care: "Malaria is a foundational global-health reporting file because it links endemic burden, climate, resistance, conflict, childhood mortality, and rural neglect."
+    what_reporters_get_wrong: "Coverage often waits for a spectacular outbreak frame and misses the fact that routine seasonal or conflict-linked surges are already major epidemiologic events."
+    metrics_that_matter:
+      - "Cases, deaths, and severe disease burden in children."
+      - "Rainfall, displacement, stock-outs, and vector-control breakdown."
+      - "Drug and insecticide resistance signals."
+    research_caveats: "Routine surveillance often underestimates burden, and comparisons across countries depend heavily on testing access and reporting completeness."
+    outbreak_settings: ["Rural endemic districts", "Rainy-season surges", "Conflict and displacement settings"]
+    latest_outbreak:
+      label: Persistent high-burden global transmission
+      period: "2024-2025"
+      location: "Sub-Saharan Africa and beyond"
+      summary: "WHO's recent malaria reporting continues to frame malaria less as a single outbreak than as a persistent high-burden transmission crisis shaped by insecticide resistance, climate variability, and health-system fragility."
+      source_name: "WHO malaria fact sheet"
+      source_url: "https://www.who.int/news-room/fact-sheets/detail/malaria"
+      as_of: "WHO fact sheet"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/malaria/about/index.html"
+      - label: "WHO malaria fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/malaria"
+    notable_outbreaks:
+      - "For a desk product, seasonal or conflict-linked malaria spikes matter even when they are under-covered as news."
+    surveillance_note: "Malaria deserves broader retrieval because a lot of important rural transmission news never gets framed as a headline outbreak."
+
+  - name: Norovirus
+    pathogen: Norovirus
+    transmission: Fecal-oral, foodborne, waterborne, and environmental contamination
+    categories: ["Enteric", "Foodborne", "Cruise and congregate settings"]
+    aliases: ["stomach bug", "viral gastroenteritis", "cruise ship norovirus"]
+    reservoir_or_vector: "Humans and contaminated environments are the practical outbreak reservoir frame."
+    incubation: "Usually 12 to 48 hours."
+    symptoms:
+      - "Abrupt vomiting and diarrhea."
+      - "Abdominal cramps and low-grade fever are common."
+      - "Explosive facility outbreaks are typical."
+    severity: "Usually self-limited but highly disruptive, especially for institutions and travel settings."
+    diagnostics: "PCR panels, outbreak epidemiology, and facility investigation."
+    treatment: "Supportive care and rehydration."
+    prevention: "Hand hygiene, environmental cleaning, exclusion of ill food handlers, and rapid institution-level control."
+    vaccine_status: "No routine population vaccine drives present-day outbreak control."
+    why_reporters_care: "Norovirus is highly useful for a desk because it produces the kind of explosive local outbreak that readers immediately understand, especially on cruise ships and in institutions."
+    what_reporters_get_wrong: "It is often treated as trivial because mortality is low, but the real story is rapid attack rate, institutional disruption, and public confidence."
+    metrics_that_matter:
+      - "Attack rate and facility type."
+      - "Cruise, school, long-term-care, or food-service setting."
+      - "Whether the source is environmental, person-to-person, or foodborne."
+    research_caveats: "Local outbreaks are numerous and inconsistently reported, so media visibility can badly misrepresent actual burden."
+    outbreak_settings: ["Cruise ships", "Long-term care", "Schools", "Food-service outbreaks"]
+    latest_outbreak:
+      label: Recurring cruise and institutional outbreaks
+      period: "Ongoing"
+      location: "Global"
+      summary: "Norovirus remains one of the most recurrent outbreak categories for cruise ships, schools, and long-term-care facilities, with rapid attack rates and heavy local reporting but inconsistent national attention."
+      source_name: "CDC overview"
+      source_url: "https://www.cdc.gov/norovirus/about/index.html"
+      as_of: "CDC overview"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/norovirus/about/index.html"
+      - label: "WHO outbreak resources"
+        url: "https://www.who.int/teams/integrated-health-services/food-safety"
+    notable_outbreaks:
+      - "Cruise-ship outbreaks keep reminding editors that enormous audience interest can attach to pathogens that are usually medically self-limited."
+    surveillance_note: "This is one of the most reliable high-volume local outbreak categories and should be surfaced more aggressively."
+
+  - name: Hepatitis A
+    pathogen: Hepatitis A virus
+    transmission: Fecal-oral, foodborne, and close-contact spread
+    categories: ["Enteric", "Vaccine-preventable", "Foodborne"]
+    aliases: ["hepatitis a virus", "hav"]
+    reservoir_or_vector: "Humans are the reservoir; sanitation and food handling drive much of the outbreak frame."
+    incubation: "Usually 15 to 50 days."
+    symptoms:
+      - "Fever, malaise, nausea, abdominal discomfort, and jaundice."
+      - "Children can have milder or asymptomatic infection."
+      - "Large foodborne and community outbreaks remain classic scenarios."
+    severity: "Often self-limited but can be severe, especially in older adults or those with liver disease."
+    diagnostics: "Serologic confirmation with IgM plus outbreak tracing."
+    treatment: "Supportive care."
+    prevention: "Vaccination, sanitation, food-safety control, and post-exposure prophylaxis where indicated."
+    vaccine_status: "Vaccination is effective, but outbreak stories often hinge on whether local policy actually reached at-risk adults and unstable living settings."
+    why_reporters_care: "Hepatitis A is useful because it can move between foodborne recall, encampment, homelessness, travel, and sanitation stories without changing pathogen."
+    what_reporters_get_wrong: "Coverage often assumes every hepatitis A event is a restaurant or food-recall story, when prolonged person-to-person transmission can be the bigger issue."
+    metrics_that_matter:
+      - "Confirmed cases, hospitalizations, and deaths."
+      - "Foodborne versus community transmission setting."
+      - "Vaccination and post-exposure response among high-risk contacts."
+    research_caveats: "Long incubation makes exposure reconstruction difficult, so early source attribution can be shaky."
+    outbreak_settings: ["Food-service settings", "Encampments and homelessness-related outbreaks", "Travel-linked foodborne clusters"]
+    latest_outbreak:
+      label: Recurrent foodborne and community outbreaks
+      period: "Ongoing"
+      location: "Global"
+      summary: "Modern hepatitis A reporting repeatedly centers on foodborne clusters and prolonged community transmission in settings with sanitation stress or low vaccination coverage."
+      source_name: "CDC overview"
+      source_url: "https://www.cdc.gov/hepatitis-a/about/index.html"
+      as_of: "CDC overview"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/hepatitis-a/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a"
+    notable_outbreaks:
+      - "Large U.S. person-to-person outbreaks in the late 2010s remain an important recent reference point."
+    surveillance_note: "Hepatitis A is a good example of a disease that toggles between local sanitation story, foodborne recall story, and vaccination story."
+
+  - name: Rabies
+    pathogen: Rabies virus and related lyssaviruses
+    transmission: Animal bites and saliva exposure
+    categories: ["Zoonotic", "High-fatality", "Neglected tropical"]
+    aliases: ["dog rabies", "lyssavirus"]
+    reservoir_or_vector: "Dogs remain the main source of human rabies globally, though wildlife reservoirs matter regionally."
+    incubation: "Usually weeks to months, but highly variable."
+    symptoms:
+      - "Early fever and paresthesia at the bite site can precede neurologic illness."
+      - "Hydrophobia, aerophobia, agitation, or paralysis mark advanced disease."
+      - "Once clinical disease begins, the prognosis is overwhelmingly poor."
+    severity: "Essentially universally fatal once symptomatic, which is why exposure response is the real public-health battleground."
+    diagnostics: "Exposure assessment is central; laboratory confirmation often comes late and may require specialized testing."
+    treatment: "Post-exposure prophylaxis before symptoms; supportive care after disease onset."
+    prevention: "Dog vaccination, bite prevention, and rapid access to post-exposure prophylaxis."
+    vaccine_status: "Pre-exposure vaccination is selective, but the real population-level control tool is dog vaccination plus reliable access to post-exposure prophylaxis."
+    why_reporters_care: "Rabies remains one of the starkest diseases in communications because nearly every symptomatic human case is a preventable systems failure."
+    what_reporters_get_wrong: "Coverage often fixates on the horror of symptomatic disease and underreports the policy issue that actually matters: whether bite victims can get prompt prophylaxis."
+    metrics_that_matter:
+      - "Access to post-exposure prophylaxis and immunoglobulin."
+      - "Dog vaccination coverage and bite-source ecology."
+      - "Whether cases are clustered in rural underserved areas."
+    research_caveats: "Human case counts are often severe underestimates because diagnostic confirmation is limited where burden is highest."
+    outbreak_settings: ["Rural dog-bite exposure", "Wildlife interfaces", "Areas with weak post-exposure prophylaxis access"]
+    latest_outbreak:
+      label: Persistent rural dog-mediated burden
+      period: "Ongoing"
+      location: "Africa and Asia"
+      summary: "WHO continues to frame rabies as a preventable but still deadly disease concentrated in underserved settings where dog vaccination and post-exposure prophylaxis access remain inadequate."
+      source_name: "WHO fact sheet"
+      source_url: "https://www.who.int/news-room/fact-sheets/detail/rabies"
+      as_of: "WHO fact sheet"
+    field_guide_links:
+      - label: "CDC overview"
+        url: "https://www.cdc.gov/rabies/about/index.html"
+      - label: "WHO fact sheet"
+        url: "https://www.who.int/news-room/fact-sheets/detail/rabies"
+    notable_outbreaks:
+      - "For desk purposes, rabies matters because devastating local stories keep happening even when rich-country editors barely notice."
+    surveillance_note: "This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent."

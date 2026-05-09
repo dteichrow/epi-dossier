@@ -1,0 +1,99 @@
+imagery_sources:
+  - name: Phylopic
+    url: https://www.phylopic.org/
+    asset_type: silhouettes
+    use_cases:
+      - taxonomy
+      - animal reservoirs
+      - vectors
+    note: Confirm attribution and per-asset license before publication use.
+
+  - name: NIH BioArt
+    url: https://bioart.niaid.nih.gov/
+    asset_type: biomedical illustrations
+    use_cases:
+      - pathogens
+      - cell biology
+      - immune system diagrams
+    note: Prefer for NIH-hosted scientific diagram assets when publication terms are clear.
+
+  - name: Bioicons
+    url: https://bioicons.com/
+    asset_type: scientific icons
+    use_cases:
+      - pathogen classes
+      - lab methods
+      - host and vector visuals
+    note: Useful for lightweight scientific iconography without cartoon clip art.
+
+  - name: Scidraw
+    url: https://scidraw.io/
+    asset_type: scientific illustration assets
+    use_cases:
+      - figures
+      - explainers
+      - presentations
+    note: Confirm licensing per library element before using in a published dossier surface.
+
+  - name: Open Science Art
+    url: https://openscienceart.com/
+    asset_type: open scientific illustrations
+    use_cases:
+      - pathogens
+      - anatomy
+      - lab visuals
+    note: Good candidate for curated disease-sheet art when license checks pass.
+
+  - name: Health Icons
+    url: https://healthicons.org/
+    asset_type: health icon set
+    use_cases:
+      - UI iconography
+      - public-health workflows
+      - medical concepts
+    note: Better for interface accents than for lead editorial imagery.
+
+  - name: Servier Medical Art
+    url: https://smart.servier.com/
+    asset_type: medical illustration library
+    use_cases:
+      - syndromes
+      - anatomy
+      - clinical visuals
+    note: Verify attribution and reuse rules asset by asset.
+
+  - name: Biodiversity Heritage Library Flickr
+    url: https://www.flickr.com/photos/biodivlibrary/
+    asset_type: historical images
+    use_cases:
+      - historical desk
+      - archival outbreak context
+      - public-domain natural history visuals
+    note: Strong fit for historical epidemiology surfaces when provenance is documented.
+
+  - name: The Noun Project
+    url: https://thenounproject.com/
+    asset_type: icons
+    use_cases:
+      - interface symbols
+      - compact topic markers
+    note: Use only when the specific asset license supports the publication surface.
+
+imagery_tools:
+  - name: Segment Anything
+    url: https://aidemos.meta.com/segment-anything/
+    use_cases:
+      - cutouts
+      - background removal
+
+  - name: Excalidraw
+    url: https://excalidraw.com/
+    use_cases:
+      - rapid schematics
+      - custom desk diagrams
+
+  - name: Draw.io
+    url: https://www.drawio.com/
+    use_cases:
+      - flowcharts
+      - outbreak process maps

@@ -1,0 +1,7 @@
+beautifulsoup4==4.13.4
+feedparser==6.0.11
+polars==1.29.0
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+requests==2.32.3
+pytest==8.3.5

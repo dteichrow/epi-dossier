@@ -1,0 +1,472 @@
+from __future__ import annotations
+
+import argparse
+from copy import deepcopy
+from datetime import datetime
+from pathlib import Path
+from typing import Any
+
+from .database import SeenItemsDB
+from .main import parse_target_date, run_once
+from .render_html import render_html
+from .render_site import (
+    items_for_edition,
+    render_public_archive_page,
+    render_public_desk_page,
+    render_public_homepage,
+    render_reference_page,
+    render_site_index,
+    render_story_page,
+    stories_for_edition,
+)
+from .utils import (
+    EditionConfig,
+    app_exports_dir,
+    atomic_write_json,
+    archive_relpath,
+    docs_archive_filename,
+    docs_archive_index_filename,
+    docs_desk_filename,
+    docs_dir,
+    docs_index_filename,
+    docs_reference_filename,
+    docs_story_filename,
+    format_timestamp,
+    latest_filename,
+    latest_html_filename,
+    list_briefing_archives,
+    load_editions_config,
+    reference_filename,
+    safe_html_filename,
+    setup_logging,
+    site_index_filename,
+    story_filename,
+)
+
+
+SITE_BUILD_LOG = Path(__file__).resolve().parent.parent / "logs" / "site-build.log"
+
+
+def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Build the Patogen Dispatch static site surfaces.")
+    parser.add_argument("--days", type=int, default=7, help="Search window in days ending at the target date.")
+    parser.add_argument("--date", type=str, help="Target date in YYYY-MM-DD format.")
+    parser.add_argument("--output-mode", choices=("local", "web", "both"), default="local", help="Choose whether to write local reader files, docs/ web files, or both.")
+    parser.add_argument("--deploy-dir", type=str, default="docs", help="Deploy directory for public web output.")
+    parser.add_argument("--site-base-url", type=str, default="/", help="Reserved for future base-path aware deployments.")
+    return parser.parse_args(argv)
+
+
+def main(argv: list[str] | None = None) -> int:
+    args = parse_args(argv)
+    logger = setup_logging()
+    target_date = parse_target_date(args.date)
+    write_local = args.output_mode in {"local", "both"}
+    write_web = args.output_mode in {"web", "both"}
+
+    payload = run_once(
+        target_date,
+        args.days,
+        False,
+        logger,
+        return_payload=True,
+        write_local_artifacts=write_local,
+    )
+    if not payload:
+        return 1
+
+    latest_snapshot = payload["latest_snapshot"]
+    story_records = latest_snapshot.get("stories", [])
+    reference_records = latest_snapshot.get("reference", [])
+    db = SeenItemsDB()
+    try:
+        items_by_id = build_story_items_index(latest_snapshot, story_records, db)
+    finally:
+        db.close()
+
+    archive_entries = list_briefing_archives(include_date=target_date)
+    archive_payload = build_archive_payload(archive_entries)
+    editions = load_editions_config()
+
+    if write_local:
+        write_local_surfaces(payload, latest_snapshot, story_records, reference_records, items_by_id, archive_entries, archive_payload)
+    if write_web:
+        write_public_surfaces(
+            payload,
+            latest_snapshot,
+            story_records,
+            reference_records,
+            items_by_id,
+            archive_entries,
+            archive_payload,
+            editions,
+            args.deploy_dir,
+        )
+
+    append_site_build_log(
+        target_date=payload["target_date"].isoformat(),
+        generated_at=payload["generated_at"],
+        latest_snapshot=latest_snapshot,
+        promoted=payload["promote_latest"],
+        source_failures=payload["source_failures"],
+        docs_refreshed=write_web,
+    )
+    write_overnight_summary(latest_snapshot, archive_payload, editions, args.deploy_dir, write_web)
+    logger.info(
+        "Built site surfaces for %s: %s story page(s), %s reference page(s), local=%s web=%s promoted latest=%s",
+        payload["target_date"].isoformat(),
+        len(story_records),
+        len(reference_records),
+        write_local,
+        write_web,
+        payload["promote_latest"],
+    )
+    return 0
+
+
+def write_local_surfaces(
+    payload: dict[str, Any],
+    latest_snapshot: dict[str, Any],
+    story_records: list[dict[str, Any]],
+    reference_records: list[dict[str, Any]],
+    items_by_id: dict[str, dict[str, Any]],
+    archive_entries: list,
+    archive_payload: list[dict[str, Any]],
+) -> None:
+    for story in story_records:
+        story_path = story_filename(story["story_id"], story["topic_name"])
+        story_path.parent.mkdir(parents=True, exist_ok=True)
+        story_path.write_text(
+            render_story_page(story, items_by_id, payload["target_date"], payload["generated_at"]),
+            encoding="utf-8",
+        )
+
+    for reference in reference_records:
+        reference_path = reference_filename(reference["name"])
+        reference_path.parent.mkdir(parents=True, exist_ok=True)
+        reference_path.write_text(
+            render_reference_page(reference, payload["target_date"], payload["generated_at"]),
+            encoding="utf-8",
+        )
+
+    enhanced_html = render_html(
+        payload["processed"],
+        target_date=payload["target_date"],
+        generated_at=payload["generated_at"],
+        search_window=f'{payload["window_days"]} day(s) ending {payload["target_date"].isoformat()}',
+        outbreak_reference=payload["outbreak_reference"],
+        story_updates=payload["story_updates"],
+        archive_entries=archive_entries,
+        source_failures=payload["source_failures"],
+        source_health=payload.get("source_health", []),
+        story_records=story_records,
+        reference_records=reference_records,
+    )
+    payload["paths"]["dated_html"].parent.mkdir(parents=True, exist_ok=True)
+    payload["paths"]["legacy_html"].parent.mkdir(parents=True, exist_ok=True)
+    payload["paths"]["dated_html"].write_text(enhanced_html, encoding="utf-8")
+    payload["paths"]["legacy_html"].write_text(enhanced_html, encoding="utf-8")
+    if payload["promote_latest"]:
+        payload["paths"]["latest_html"].parent.mkdir(parents=True, exist_ok=True)
+        payload["paths"]["latest_html"].write_text(enhanced_html, encoding="utf-8")
+
+    site_index_filename().write_text(
+        render_site_index(
+            latest_snapshot,
+            archive_payload,
+            reference_records,
+        ),
+        encoding="utf-8",
+    )
+
+
+def write_public_surfaces(
+    payload: dict[str, Any],
+    latest_snapshot: dict[str, Any],
+    story_records: list[dict[str, Any]],
+    reference_records: list[dict[str, Any]],
+    items_by_id: dict[str, dict[str, Any]],
+    archive_entries: list,
+    archive_payload: list[dict[str, Any]],
+    editions: list[EditionConfig],
+    deploy_dir: str,
+) -> None:
+    docs_root = Path(docs_dir(deploy_dir))
+    docs_root.mkdir(parents=True, exist_ok=True)
+    prune_generated_public_pages(
+        docs_root / "stories",
+        {Path(story.get("story_web_path", "")).name for story in story_records if story.get("story_web_path")},
+    )
+    prune_generated_public_pages(
+        docs_root / "reference",
+        {Path(reference.get("reference_web_path", "")).name for reference in reference_records if reference.get("reference_web_path")},
+    )
+
+    docs_latest_html = docs_root / "latest.html"
+    docs_latest_html.write_text(rewrite_local_reader_links(payload["html_output"], "."), encoding="utf-8")
+    (docs_root / "latest.md").write_text(payload["markdown_output"], encoding="utf-8")
+
+    current_archive_html = docs_archive_filename(payload["target_date"], deploy_dir=deploy_dir, suffix=".html")
+    current_archive_html.parent.mkdir(parents=True, exist_ok=True)
+    current_archive_html.write_text(rewrite_local_reader_links(payload["html_output"], "../.."), encoding="utf-8")
+    docs_archive_filename(payload["target_date"], deploy_dir=deploy_dir, suffix=".md").write_text(payload["markdown_output"], encoding="utf-8")
+
+    for entry in archive_entries:
+        if entry.target_date == payload["target_date"]:
+            continue
+        archive_target_html = docs_archive_filename(entry.target_date, deploy_dir=deploy_dir, suffix=".html")
+        archive_target_html.parent.mkdir(parents=True, exist_ok=True)
+        if entry.html_path.exists():
+            archive_target_html.write_text(rewrite_local_reader_links(entry.html_path.read_text(encoding="utf-8"), "../.."), encoding="utf-8")
+        archive_target_md = docs_archive_filename(entry.target_date, deploy_dir=deploy_dir, suffix=".md")
+        if entry.markdown_path.exists():
+            archive_target_md.write_text(entry.markdown_path.read_text(encoding="utf-8"), encoding="utf-8")
+
+    for story in story_records:
+        story_path = docs_story_filename(story["story_id"], story["topic_name"], deploy_dir=deploy_dir)
+        story_path.parent.mkdir(parents=True, exist_ok=True)
+        story_path.write_text(
+            render_story_page(story, items_by_id, payload["target_date"], payload["generated_at"], web_mode=True),
+            encoding="utf-8",
+        )
+
+    for reference in reference_records:
+        reference_path = docs_reference_filename(reference["name"], deploy_dir=deploy_dir)
+        reference_path.parent.mkdir(parents=True, exist_ok=True)
+        reference_path.write_text(
+            render_reference_page(reference, payload["target_date"], payload["generated_at"], web_mode=True),
+            encoding="utf-8",
+        )
+
+    docs_index_filename(deploy_dir).write_text(
+        render_public_homepage(latest_snapshot, archive_payload, reference_records),
+        encoding="utf-8",
+    )
+
+    for edition in editions:
+        if edition.key == "index":
+            continue
+        desk_path = docs_desk_filename(Path(edition.page).stem, deploy_dir)
+        desk_path.write_text(
+            render_public_desk_page(
+                edition.label,
+                edition.description,
+                edition.key,
+                stories_for_edition(story_records, edition.key)[: edition.max_stories],
+                items_for_edition(latest_snapshot.get("items", []), edition.key)[: edition.max_items],
+                related_references_for_edition(reference_records, edition.key),
+                archive_payload,
+            ),
+            encoding="utf-8",
+        )
+
+    archive_index_path = docs_archive_index_filename(deploy_dir)
+    archive_index_path.parent.mkdir(parents=True, exist_ok=True)
+    archive_index_path.write_text(
+        render_public_archive_page(archive_payload, latest_snapshot, reference_records),
+        encoding="utf-8",
+    )
+    write_public_exports(latest_snapshot, archive_payload, deploy_dir)
+
+
+def rewrite_local_reader_links(html_text: str, relative_prefix: str) -> str:
+    local_prefix = latest_html_filename().parent.resolve().as_uri()
+    return html_text.replace(local_prefix, relative_prefix)
+
+
+def related_references_for_edition(reference_records: list[dict[str, Any]], edition_key: str) -> list[dict[str, Any]]:
+    return [reference for reference in reference_records if edition_key in reference.get("editions", [])][:6] or reference_records[:4]
+
+
+def build_story_items_index(latest_snapshot: dict, story_records: list[dict], db: SeenItemsDB) -> dict[str, dict]:
+    items_by_id = {item["item_id"]: item for item in latest_snapshot.get("items", []) if item.get("item_id")}
+    live_item_ids = set(items_by_id)
+    required_item_ids: set[str] = set()
+    for story in story_records:
+        required_item_ids.update(story.get("item_ids", []))
+        required_item_ids.update(story.get("official_item_ids", []))
+        required_item_ids.update(story.get("press_item_ids", []))
+    if required_item_ids.difference(items_by_id):
+        stored_items = db.load_app_feed_items()
+        for item_id in required_item_ids:
+            if item_id in items_by_id:
+                continue
+            stored = stored_items.get(item_id)
+            if stored:
+                retained = dict(stored)
+                retained["freshness_state"] = retained.get("freshness_state") or "retained"
+                items_by_id[item_id] = retained
+    for item_id in live_item_ids:
+        items_by_id[item_id]["freshness_state"] = items_by_id[item_id].get("freshness_state") or "live"
+    return items_by_id
+
+
+def build_archive_payload(entries: list) -> list[dict[str, Any]]:
+    return [
+        {
+            "date": entry.target_date.isoformat(),
+            "year": entry.target_date.year,
+            "month": f"{entry.target_date:%m}",
+            "month_name": entry.target_date.strftime("%B"),
+            "day": f"{entry.target_date:%d}",
+            "html_url": entry.html_path.resolve().as_uri(),
+            "html_web_path": archive_relpath(entry.target_date, suffix=".html").as_posix(),
+            "markdown_web_path": archive_relpath(entry.target_date, suffix=".md").as_posix(),
+        }
+        for entry in entries
+    ]
+
+
+def append_site_build_log(
+    target_date: str,
+    generated_at: datetime,
+    latest_snapshot: dict,
+    promoted: bool,
+    source_failures: list[dict[str, str]],
+    *,
+    docs_refreshed: bool,
+) -> None:
+    SITE_BUILD_LOG.parent.mkdir(parents=True, exist_ok=True)
+    freshness = latest_snapshot.get("freshness_summary", {})
+    source_health = latest_snapshot.get("source_health", [])
+    cache_sources = sum(1 for entry in source_health if entry.get("mode") in {"refresh_cache", "fallback_cache"})
+    failed_sources = sum(1 for entry in source_health if entry.get("mode") == "failed")
+    wrapper_only = sum(1 for item in latest_snapshot.get("items", []) if item.get("link_quality") == "wrapper_only")
+    metadata_only = sum(1 for item in latest_snapshot.get("items", []) if item.get("link_quality") == "metadata_only")
+    line = (
+        f"{generated_at.isoformat(timespec='seconds')} "
+        f"target_date={target_date} items={latest_snapshot.get('item_count', 0)} "
+        f"stories={latest_snapshot.get('story_count', 0)} reference={len(latest_snapshot.get('reference', []))} "
+        f"live_items={freshness.get('live', 0)} refresh_cache_items={freshness.get('refresh_cache', 0)} "
+        f"fallback_cache_items={freshness.get('fallback_cache', 0)} retained_items={freshness.get('retained', 0)} "
+        f"cache_sources={cache_sources} failed_sources={failed_sources} "
+        f"wrapper_only={wrapper_only} metadata_only={metadata_only} "
+        f"degraded={bool(source_failures)} promoted_latest={promoted} docs_refreshed={docs_refreshed}\n"
+    )
+    with SITE_BUILD_LOG.open("a", encoding="utf-8") as handle:
+        handle.write(line)
+
+
+def write_public_exports(latest_snapshot: dict[str, Any], archive_payload: list[dict[str, Any]], deploy_dir: str) -> None:
+    public_dir = Path(docs_dir(deploy_dir)) / "app_exports"
+    public_dir.mkdir(parents=True, exist_ok=True)
+    public_latest = transform_public_payload(deepcopy(latest_snapshot))
+    atomic_write_json(public_dir / "latest.json", public_latest)
+    atomic_write_json(
+        public_dir / "archive.json",
+        {
+            "generated_at": latest_snapshot.get("generated_at"),
+            "latest": {"html_url": "latest.html", "public_home": "index.html", "html_web_path": "latest.html"},
+            "entries": [
+                {
+                    **entry,
+                    "html_url": entry.get("html_web_path", ""),
+                    "markdown_url": entry.get("markdown_web_path", ""),
+                }
+                for entry in archive_payload
+            ],
+        },
+    )
+    atomic_write_json(
+        public_dir / "health.json",
+        {
+            "generated_at": latest_snapshot.get("generated_at"),
+            "degraded": latest_snapshot.get("degraded", False),
+            "source_failures": latest_snapshot.get("source_failures", []),
+            "freshness_summary": latest_snapshot.get("freshness_summary", {}),
+            "editor_summary": latest_snapshot.get("editor_summary") or {},
+        },
+    )
+    atomic_write_json(
+        public_dir / "manifest.json",
+        {
+            "latest_run_id": latest_snapshot.get("run_id"),
+            "generated_at": latest_snapshot.get("generated_at"),
+            "files": {
+                "home": "index.html",
+                "latest": "latest.json",
+                "archive": "archive.json",
+                "health": "health.json",
+            },
+        },
+    )
+
+
+def prune_generated_public_pages(directory: Path, expected_filenames: set[str]) -> None:
+    if not directory.exists():
+        return
+    for candidate in directory.glob("*.html"):
+        if candidate.name not in expected_filenames:
+            candidate.unlink()
+
+
+def transform_public_payload(payload: Any) -> Any:
+    local_prefix = latest_html_filename().parent.resolve().as_uri() + "/"
+    if isinstance(payload, str) and payload.startswith(local_prefix):
+        return payload.removeprefix(local_prefix)
+    if isinstance(payload, list):
+        return [transform_public_payload(value) for value in payload]
+    if not isinstance(payload, dict):
+        return payload
+
+    transformed = {}
+    for key, value in payload.items():
+        if key == "story_url" and payload.get("story_web_path"):
+            transformed[key] = payload.get("story_web_path")
+            continue
+        if key == "reference_url" and payload.get("reference_web_path"):
+            transformed[key] = payload.get("reference_web_path")
+            continue
+        if key == "html_url" and payload.get("html_web_path"):
+            transformed[key] = payload.get("html_web_path")
+            continue
+        if key == "markdown_url" and payload.get("markdown_web_path"):
+            transformed[key] = payload.get("markdown_web_path")
+            continue
+        transformed[key] = transform_public_payload(value)
+    return transformed
+
+
+def write_overnight_summary(
+    latest_snapshot: dict[str, Any],
+    archive_payload: list[dict[str, Any]],
+    editions: list[EditionConfig],
+    deploy_dir: str,
+    docs_refreshed: bool,
+) -> None:
+    summary = {
+        "generated_at": latest_snapshot.get("generated_at"),
+        "run_id": latest_snapshot.get("run_id"),
+        "attempted_sources": [entry.get("source") for entry in latest_snapshot.get("source_health", [])],
+        "attempted_source_count": len(latest_snapshot.get("source_health", [])),
+        "desk_counts": {
+            edition.key: {
+                "items": len(items_for_edition(latest_snapshot.get("items", []), edition.key)),
+                "stories": len(stories_for_edition(latest_snapshot.get("stories", []), edition.key)),
+            }
+            for edition in editions
+        },
+        "regional_coverage_counts": build_region_counts(latest_snapshot.get("items", [])),
+        "wrapper_only_count": sum(1 for item in latest_snapshot.get("items", []) if item.get("link_quality") == "wrapper_only"),
+        "metadata_only_count": sum(1 for item in latest_snapshot.get("items", []) if item.get("link_quality") == "metadata_only"),
+        "failed_sources": latest_snapshot.get("source_failures", []),
+        "promoted_lead_stories": [story.get("display_title") for story in latest_snapshot.get("stories", [])[:4]],
+        "docs_refreshed": docs_refreshed,
+        "public_deploy_dir": deploy_dir,
+        "archive_days_available": len(archive_payload),
+    }
+    atomic_write_json(app_exports_dir() / "overnight_summary.json", summary)
+
+
+def build_region_counts(items: list[dict[str, Any]]) -> dict[str, int]:
+    counts: dict[str, int] = {}
+    for item in items:
+        region = item.get("region", "")
+        if not region:
+            continue
+        counts[region] = counts.get(region, 0) + 1
+    return counts
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

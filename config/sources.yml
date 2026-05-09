@@ -1,0 +1,419 @@
+sources:
+  - name: CDC Newsroom
+    type: rss
+    category: Policy, surveillance, and public health infrastructure
+    url: https://tools.cdc.gov/api/v2/resources/media/403372.rss
+    official: true
+    outbreak_signal: true
+    max_items: 80
+    terms_hint:
+      - outbreak
+      - surveillance
+      - public health
+
+  - name: CDC MMWR
+    type: rss
+    category: Occupational and environmental epidemiology
+    url: https://tools.cdc.gov/api/v2/resources/media/342778.rss
+    official: true
+    occupational_relevance: true
+    max_items: 300
+    terms_hint:
+      - mmwr
+      - exposure
+      - surveillance
+
+  - name: CDC Travel Health Notices
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://tools.cdc.gov/api/v2/resources/media/316422.rss
+    official: true
+    outbreak_signal: true
+    max_items: 80
+
+  - name: WHO Disease Outbreak News
+    type: html_list
+    category: Outbreaks and emerging infections
+    url: https://www.who.int/emergencies/emergency-events
+    official: true
+    outbreak_signal: true
+    item_selector: "a[href*='/emergencies/disease-outbreak-news/item/']"
+
+  - name: WHO Regional Office for Africa
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://www.afro.who.int/rss.xml
+    official: true
+    outbreak_signal: true
+    max_items: 120
+
+  - name: Africa CDC
+    type: rss
+    category: Policy, surveillance, and public health infrastructure
+    url: https://africacdc.org/feed/
+    official: true
+    outbreak_signal: true
+    max_items: 120
+
+  - name: Nigeria Centre for Disease Control
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://ncdc.gov.ng/feed/
+    official: true
+    outbreak_signal: true
+    max_items: 120
+
+  - name: ECDC News
+    type: rss
+    category: Policy, surveillance, and public health infrastructure
+    url: https://www.ecdc.europa.eu/en/taxonomy/term/1307/feed
+    official: true
+    outbreak_signal: true
+    max_items: 100
+
+  - name: CIDRAP
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://www.cidrap.umn.edu/news/91/rss
+    official: false
+    outbreak_signal: true
+    max_items: 150
+
+  - name: Sky News World
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://feeds.skynews.com/feeds/rss/world.xml
+    official: false
+    outbreak_signal: true
+    max_items: 120
+
+  - name: FDA Foodborne Outbreaks
+    type: html_list
+    category: Outbreaks and emerging infections
+    url: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+    official: true
+    outbreak_signal: true
+    item_selector: "a[href*='/outbreak-investigation-']"
+
+  - name: USDA APHIS Avian Influenza
+    type: html_list
+    category: Virology and pathogen evolution
+    url: https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza
+    official: true
+    outbreak_signal: true
+    item_selector: "a[href*='/news/'], a[href*='/node/']"
+    timeout_seconds: 8
+    max_attempts: 1
+
+  - name: PubMed Infectious Disease Search
+    type: pubmed
+    category: Major epidemiology studies
+    official: true
+    search: "(infectious disease OR epidemiology OR outbreak OR surveillance OR virology OR occupational exposure OR historical epidemiology OR paleopathology) AND (\"last 7 days\"[PDat])"
+    max_items: 25
+
+  - name: PubMed Historical Epidemiology
+    type: pubmed
+    category: Historical epidemiology / ancient disease / paleopathology
+    official: true
+    historical_relevance: true
+    refresh_hours: 12
+    search: "((paleopathology[Title/Abstract] OR paleomicrobiology[Title/Abstract] OR archaeogenetics[Title/Abstract] OR paleogenomics[Title/Abstract] OR \"historical epidemiology\"[Title/Abstract] OR \"ancient disease\"[Title/Abstract] OR \"ancient pathogen\"[Title/Abstract]) AND (infectious[Title/Abstract] OR pathogen[Title/Abstract] OR epidemic[Title/Abstract] OR plague[Title/Abstract] OR tuberculosis[Title/Abstract] OR leprosy[Title/Abstract] OR treponemal[Title/Abstract] OR syphilis[Title/Abstract] OR cholera[Title/Abstract] OR smallpox[Title/Abstract] OR variola[Title/Abstract] OR salmonella[Title/Abstract]))"
+    max_items: 30
+
+  - name: PubMed Ancient Pathogen Genomics
+    type: pubmed
+    category: Historical epidemiology / ancient disease / paleopathology
+    official: true
+    historical_relevance: true
+    refresh_hours: 12
+    search: "(((\"ancient DNA\"[Title/Abstract] OR \"ancient genome\"[Title/Abstract] OR \"pathogen aDNA\"[Title/Abstract] OR \"ancient metagenomics\"[Title/Abstract]) AND (pathogen[Title/Abstract] OR pathogens[Title/Abstract] OR Yersinia[Title/Abstract] OR tuberculosis[Title/Abstract] OR leprosy[Title/Abstract] OR treponema[Title/Abstract] OR plague[Title/Abstract] OR variola[Title/Abstract] OR \"hepatitis B\"[Title/Abstract] OR Salmonella[Title/Abstract])) OR (\"ancient pathogen\"[Title/Abstract]))"
+    max_items: 30
+
+  - name: PubMed Historical Pathogen Case Studies
+    type: pubmed
+    category: Historical epidemiology / ancient disease / paleopathology
+    official: true
+    historical_relevance: true
+    refresh_hours: 12
+    search: "(((\"Yersinia pestis\"[Title/Abstract]) OR plague[Title/Abstract] OR smallpox[Title/Abstract] OR variola[Title/Abstract] OR leprosy[Title/Abstract] OR \"Mycobacterium leprae\"[Title/Abstract] OR \"Mycobacterium tuberculosis\"[Title/Abstract] OR treponemal[Title/Abstract] OR syphilis[Title/Abstract] OR tuberculosis[Title/Abstract]) AND ((\"ancient DNA\"[Title/Abstract]) OR paleopathology[Title/Abstract] OR archaeology[Title/Abstract] OR skeletal[Title/Abstract] OR burial[Title/Abstract] OR cemetery[Title/Abstract] OR mummified[Title/Abstract] OR medieval[Title/Abstract] OR prehistoric[Title/Abstract] OR historical[Title/Abstract]))"
+    max_items: 30
+
+  - name: medRxiv Infectious Disease
+    type: medrxiv
+    category: Major epidemiology studies
+    official: false
+    search: "infectious disease OR epidemiology OR outbreak OR surveillance OR public health"
+    max_items: 40
+
+  - name: bioRxiv Infectious Disease
+    type: biorxiv
+    category: Virology and pathogen evolution
+    official: false
+    search: "infectious disease OR virology OR pathogen evolution OR ancient DNA pathogen"
+    max_items: 40
+
+  - name: bioRxiv Ancient Pathogen and Archaeogenetics
+    type: biorxiv
+    category: Historical epidemiology / ancient disease / paleopathology
+    official: false
+    historical_relevance: true
+    search: "ancient DNA pathogen OR ancient pathogen OR paleogenomics OR archaeogenetics OR paleomicrobiology OR pathogen aDNA OR ancient genome"
+    max_items: 40
+
+  - name: California Department of Public Health News
+    type: html_list
+    category: Policy, surveillance, and public health infrastructure
+    url: https://www.cdph.ca.gov/Programs/OPA
+    official: true
+    outbreak_signal: true
+    item_selector: "a[href*='/Programs/OPA/Pages/NR'], a[href*='/Programs/OPA/Pages/CAHAN/']"
+    refresh_hours: 6
+    max_items: 80
+    timeout_seconds: 8
+    max_attempts: 1
+    verify_ssl: false
+
+  - name: New York State Department of Health Press Releases
+    type: html_list
+    category: Policy, surveillance, and public health infrastructure
+    url: https://healthweb-back.health.ny.gov/press/releases/
+    official: true
+    outbreak_signal: true
+    item_selector: "a[href*='/press/releases/']"
+    refresh_hours: 6
+    max_items: 80
+    timeout_seconds: 8
+    max_attempts: 1
+
+  - name: Google News Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=outbreak+OR+%22infectious+disease%22+OR+hantavirus+OR+measles+OR+norovirus+OR+dengue+OR+cholera+OR+mpox+OR+polio+OR+tuberculosis&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Major Outbreak Desks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28outbreak+OR+%22infectious+disease%22+OR+hantavirus+OR+measles+OR+cholera+OR+mpox+OR+polio+OR+tuberculosis+OR+H5N1+OR+dengue%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+%22Sky+News%22+OR+STAT+OR+NPR+OR+CBC+OR+%22Washington+Post%22+OR+%22Wall+Street+Journal%22+OR+Guardian+OR+%22Financial+Times%22+OR+Bloomberg+OR+NBC+OR+CBS+OR+ABC+OR+Axios+OR+Politico%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 120
+
+  - name: Google News Global Health Reporting
+    type: rss
+    category: Policy, surveillance, and public health infrastructure
+    url: https://news.google.com/rss/search?q=%28public+health+OR+surveillance+OR+outbreak+OR+vaccine+policy+OR+wastewater+OR+antimicrobial+resistance%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+STAT+OR+NPR+OR+CBC+OR+%22Washington+Post%22+OR+%22Wall+Street+Journal%22+OR+Guardian+OR+%22Financial+Times%22+OR+Bloomberg+OR+NBC+OR+CBS+OR+ABC+OR+Axios+OR+Politico%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Hantavirus and Cruise Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28hantavirus+OR+%22andes+virus%22%29+OR+%28%22cruise+ship%22+AND+%28outbreak+OR+quarantine+OR+evacuation+OR+transmission%29%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 80
+
+  - name: Google News Hantavirus Major Publisher Watch
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28hantavirus+OR+%22andes+virus%22+OR+%22cruise+ship%22+OR+Hondius%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+%22Sky+News%22+OR+Guardian+OR+NPR+OR+PBS+OR+Euronews+OR+CNN+OR+NBC+OR+ABC+OR+CBS+OR+CP24+OR+CIDRAP%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 120
+
+  - name: Google News Sky Hantavirus Watch
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28hantavirus+OR+%22andes+virus%22+OR+Hondius+OR+%22cruise+ship%22%29+%28%22Sky+News%22+OR+site%3Anews.sky.com%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 60
+
+  - name: Google News Virology
+    type: rss
+    category: Virology and pathogen evolution
+    url: https://news.google.com/rss/search?q=%22avian+influenza%22+OR+H5N1+OR+%22SARS-CoV-2%22+OR+virology+OR+%22genomic+surveillance%22+OR+wastewater&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Vector-borne Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28dengue+OR+chikungunya+OR+%22yellow+fever%22+OR+Oropouche+OR+malaria+OR+%22Rift+Valley+fever%22%29+%28outbreak+OR+surge+OR+cluster+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Hemorrhagic Fever and Zoonoses
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28hantavirus+OR+Ebola+OR+Marburg+OR+Lassa+OR+Nipah+OR+anthrax+OR+%22Rift+Valley+fever%22%29+%28outbreak+OR+cluster+OR+spillover+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Vaccine-preventable Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28measles+OR+polio+OR+pertussis+OR+diphtheria+OR+%22meningococcal+disease%22%29+%28outbreak+OR+cluster+OR+vaccination+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Foodborne and Enteric Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28norovirus+OR+salmonella+OR+listeria+OR+shigella+OR+cholera+OR+hepatitis+A+OR+%22E.+coli%22%29+%28outbreak+OR+recall+OR+cluster+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Hospital and Facility Clusters
+    type: rss
+    category: Occupational and environmental epidemiology
+    url: https://news.google.com/rss/search?q=%28hospital+OR+clinic+OR+nursing+home+OR+ward+OR+facility%29+%28outbreak+OR+cluster+OR+transmission+OR+Legionnaires%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    occupational_relevance: true
+    max_items: 100
+
+  - name: Google News Occupational and Public Health
+    type: rss
+    category: Occupational and environmental epidemiology
+    url: https://news.google.com/rss/search?q=%22occupational+exposure%22+OR+NIOSH+OR+OSHA+OR+%22disease+cluster%22+OR+%22public+health+surveillance%22&hl=en-US&gl=US&ceid=US:en
+    official: false
+    occupational_relevance: true
+    max_items: 100
+
+  - name: Google News Rural Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28outbreak+OR+infectious+disease+OR+cholera+OR+measles+OR+dengue+OR+anthrax+OR+plague%29+%28rural+OR+village+OR+district+OR+province+OR+county+OR+governorate+OR+remote%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Africa Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28outbreak+OR+cholera+OR+measles+OR+mpox+OR+marburg+OR+ebola+OR+anthrax+OR+yellow+fever+OR+polio+OR+malaria+OR+dengue%29+%28Africa+OR+Uganda+OR+Kenya+OR+Tanzania+OR+Ethiopia+OR+Nigeria+OR+Sudan+OR+DRC+OR+Malawi+OR+Zambia+OR+Zimbabwe%29+-hantavirus+-cruise+-ship+when:7d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News West Africa Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28cholera+OR+lassa+OR+yellow+fever+OR+measles+OR+polio+OR+mpox+OR+dengue%29+%28Nigeria+OR+Ghana+OR+Sierra+Leone+OR+Liberia+OR+Senegal+OR+Mali+OR+Niger%29+-hantavirus+-cruise+-ship+when:14d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News East Africa Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28cholera+OR+mpox+OR+marburg+OR+ebola+OR+measles+OR+polio+OR+dengue+OR+anthrax%29+%28Uganda+OR+Kenya+OR+Tanzania+OR+Ethiopia+OR+Somalia+OR+South+Sudan+OR+Rwanda%29+-hantavirus+-cruise+-ship+when:14d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Central Africa Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28cholera+OR+mpox+OR+marburg+OR+ebola+OR+measles+OR+polio%29+%28DRC+OR+Congo+OR+Cameroon+OR+Chad+OR+Central+African+Republic%29+-hantavirus+-cruise+-ship+when:14d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Southern Africa Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28cholera+OR+measles+OR+dengue+OR+malaria+OR+polio+OR+anthrax%29+%28Zimbabwe+OR+Zambia+OR+Mozambique+OR+Malawi+OR+Botswana+OR+Namibia+OR+South+Africa%29+-hantavirus+-cruise+-ship+when:14d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News South Asia Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28outbreak+OR+cholera+OR+dengue+OR+measles+OR+nipah+OR+polio+OR+avian+influenza+OR+h5n1+OR+tuberculosis+OR+chikungunya%29+%28India+OR+Pakistan+OR+Bangladesh+OR+Nepal+OR+Sri+Lanka+OR+Afghanistan%29+-hantavirus+-cruise+-ship+when:7d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News India Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28outbreak+OR+cholera+OR+dengue+OR+measles+OR+nipah+OR+polio+OR+avian+influenza+OR+h5n1+OR+tuberculosis+OR+health+alert%29+India+-hantavirus+-cruise+-ship+when:7d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Southeast Asia Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28outbreak+OR+dengue+OR+measles+OR+cholera+OR+avian+influenza+OR+h5n1+OR+polio+OR+nipah%29+%28Indonesia+OR+Philippines+OR+Vietnam+OR+Thailand+OR+Cambodia+OR+Myanmar+OR+Malaysia+OR+Laos%29+-hantavirus+-cruise+-ship+when:7d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Latin America Outbreaks
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28outbreak+OR+infectious+disease+OR+dengue+OR+measles+OR+cholera+OR+yellow+fever%29+%28Brazil+OR+Mexico+OR+Peru+OR+Colombia+OR+Argentina+OR+Bolivia+OR+Ecuador+OR+Haiti+OR+Guatemala%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News California Public Health
+    type: rss
+    category: Policy, surveillance, and public health infrastructure
+    url: https://news.google.com/rss/search?q=%28California+OR+CDPH+OR+%22California+Department+of+Public+Health%22%29+%28outbreak+OR+avian+influenza+OR+measles+OR+recall+OR+public+health+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 80
+
+  - name: Google News New York Public Health
+    type: rss
+    category: Policy, surveillance, and public health infrastructure
+    url: https://news.google.com/rss/search?q=%28%22New+York+State+Department+of+Health%22+OR+NYSDOH+OR+%22New+York+health+department%22%29+%28outbreak+OR+measles+OR+polio+OR+avian+influenza+OR+wastewater+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 80
+
+  - name: Google News Historical Epi
+    type: rss
+    category: Historical epidemiology / ancient disease / paleopathology
+    url: https://news.google.com/rss/search?q=%22ancient+DNA+pathogen%22+OR+paleopathology+OR+%22historical+epidemiology%22+OR+%22ancient+pathogen%22&hl=en-US&gl=US&ceid=US:en
+    official: false
+    historical_relevance: true
+    max_items: 80
+
+  - name: Google News Ancient DNA and Archaeology
+    type: rss
+    category: Historical epidemiology / ancient disease / paleopathology
+    url: https://news.google.com/rss/search?q=%22ancient+DNA%22+pathogen+OR+archaeogenetics+OR+paleogenomics+OR+paleomicrobiology+OR+%22ancient+genome%22+pathogen+OR+%22pathogen+aDNA%22&hl=en-US&gl=US&ceid=US:en
+    official: false
+    historical_relevance: true
+    max_items: 80
+
+  - name: Google News Historical Disease Cases
+    type: rss
+    category: Historical epidemiology / ancient disease / paleopathology
+    url: https://news.google.com/rss/search?q=%22Yersinia+pestis%22+OR+plague+archaeology+OR+smallpox+history+OR+variola+ancient+OR+leprosy+archaeology+OR+%22Mycobacterium+leprae%22+OR+treponemal+archaeology+OR+syphilis+archaeology&hl=en-US&gl=US&ceid=US:en
+    official: false
+    historical_relevance: true
+    max_items: 80
+
+  - name: Google News Historical Public Health
+    type: rss
+    category: Historical epidemiology / ancient disease / paleopathology
+    url: https://news.google.com/rss/search?q=%22history+of+medicine%22+disease+OR+%22historical+outbreak%22+OR+%22historical+public+health%22+OR+%22epidemic+history%22+OR+%22disease+history%22+archaeology&hl=en-US&gl=US&ceid=US:en
+    official: false
+    historical_relevance: true
+    max_items: 60

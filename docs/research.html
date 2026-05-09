@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Research Brief | The Patogen Dispatch</title>
+    <style>
+      :root { --bg: #e8e1d3; --bg-deep: #d8cebc; --surface: #f8f4ea; --surface-alt: #f2ebde; --paper: #fffdf8; --ink: #1b2836; --ink-soft: #42515e; --line: #d6cab7; --accent: #8d3f2f; --accent-soft: rgba(141,63,47,0.10); --signal: #1f5b89; --signal-soft: rgba(31,91,137,0.12); --shadow: 0 24px 56px rgba(49, 36, 22, 0.10); }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: radial-gradient(circle at top left, rgba(181,138,49,0.10), transparent 28%), radial-gradient(circle at bottom right, rgba(31,91,137,0.12), transparent 24%), linear-gradient(180deg, #f2ede3 0%, var(--bg) 40%, var(--bg-deep) 100%); color: var(--ink); font-family: "Iowan Old Style", Georgia, serif; line-height: 1.58; }
+      a { color: var(--signal); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      .page { max-width: 1240px; margin: 0 auto; padding: 28px 22px 64px; display: grid; gap: 22px; }
+      .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
+      .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; }
+      .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
+      .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
+      .site-nav-link, .section-nav-link { border-radius: 999px; padding: 9px 14px; border: 1px solid rgba(187,169,143,0.78); background: rgba(255,252,245,0.94); color: var(--ink); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.92rem; white-space: nowrap; }
+      .site-nav-link:hover, .section-nav-link:hover { text-decoration: none; background: var(--accent-soft); }
+      .site-nav-link.active { background: rgba(31,91,137,0.10); color: var(--signal); border-color: rgba(31,91,137,0.22); }
+      .section-nav { padding: 16px 18px; display: grid; gap: 10px; }
+      .section-nav-label { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; text-transform: uppercase; letter-spacing: 0.14em; color: var(--accent); font-size: 0.74rem; }
+      .hero, .panel { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 28px; box-shadow: var(--shadow); padding: 24px; }
+      .hero { background: linear-gradient(180deg, rgba(255,255,255,0.42), rgba(255,255,255,0)), linear-gradient(135deg, rgba(248,244,234,0.98), rgba(242,235,222,0.98)); position: relative; overflow: hidden; }
+      .hero::before { content: ""; position: absolute; inset: 0; background-image: linear-gradient(rgba(23,48,70,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(23,48,70,0.04) 1px, transparent 1px); background-size: 28px 28px; opacity: 0.35; pointer-events: none; }
+      .hero > * { position: relative; z-index: 1; }
+      .panel-grid { display: grid; gap: 22px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .story-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+      .card-grid { display: grid; gap: 14px; }
+      .archive-table { display: grid; gap: 12px; }
+      .archive-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 16px; background: rgba(255,252,247,0.9); border: 1px solid rgba(187,169,143,0.68); border-radius: 18px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .archive-row-meta { color: var(--ink-soft); font-size: 0.92rem; }
+      .sort-bar { display: flex; justify-content: flex-end; margin: 10px 0 14px; }
+      .sort-control { display: inline-flex; align-items: center; gap: 8px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; color: var(--ink-soft); font-size: 0.88rem; }
+      .sort-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 999px; padding: 8px 12px; color: var(--ink); font: inherit; }
+      .sort-select:hover { background: var(--accent-soft); }
+      .story-filter-shell { display: grid; gap: 10px; }
+      .story-filter-grid { display: grid; grid-template-columns: minmax(0, 1.8fr) repeat(4, minmax(150px, 1fr)); gap: 10px; align-items: end; }
+      .filter-group { display: grid; gap: 6px; }
+      .filter-search-wide { min-width: 0; }
+      .filter-label { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-soft); }
+      .filter-input, .filter-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 14px; padding: 10px 12px; color: var(--ink); font: inherit; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .filter-input::placeholder { color: var(--ink-soft); }
+      .utility-panel { background: linear-gradient(180deg, rgba(248,243,233,0.98), rgba(240,232,220,0.96)); }
+      .site-card, .timeline-row { background: var(--paper); border: 1px solid rgba(187,169,143,0.68); border-radius: 22px; padding: 18px 18px 16px; box-shadow: 0 12px 26px rgba(49, 36, 22, 0.06); }
+      .feature-card { background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(245,239,228,0.98)); }
+      .compact-card { padding-top: 16px; padding-bottom: 14px; }
+      .meta-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .badge, .link-pill { border-radius: 999px; padding: 6px 10px; font-size: 0.78rem; line-height: 1; border: 1px solid rgba(187,169,143,0.72); background: rgba(255,252,245,0.94); color: var(--ink-soft); display: inline-flex; align-items: center; }
+      .badge.accent { background: var(--accent-soft); color: var(--accent); border-color: rgba(141,63,47,0.24); }
+      .badge.tone-official { background: rgba(31,91,137,0.12); color: #1f5b89; border-color: rgba(31,91,137,0.24); }
+      .badge.tone-wire { background: rgba(60,88,48,0.10); color: #35552b; border-color: rgba(60,88,48,0.20); }
+      .badge.tone-major { background: rgba(181,138,49,0.12); color: #8c6a17; border-color: rgba(181,138,49,0.22); }
+      .badge.tone-specialist { background: rgba(141,63,47,0.10); color: #8d3f2f; border-color: rgba(141,63,47,0.20); }
+      .kicker { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; text-transform: uppercase; letter-spacing: 0.16em; color: var(--accent); font-size: 0.74rem; margin: 0 0 10px; }
+      .subtitle, .empty-note, .muted-note { color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .section-note { margin: 0 0 10px; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.95rem; }
+      .lede { font-size: 1.06rem; }
+      .hero-subhead { margin: 16px 0 8px; font-size: 1.08rem; }
+      .bullet-list { margin: 10px 0 0; padding-left: 18px; }
+      h1, h2, h3 { margin: 0; color: #173046; }
+      h1 { font-size: clamp(2.4rem, 4.8vw, 4.4rem); line-height: 0.94; letter-spacing: -0.03em; }
+      h2 { font-size: 1.4rem; }
+      h3 { font-size: 1.06rem; }
+      .site-card h3 { line-height: 1.12; }
+      @media (max-width: 1100px) { .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } }
+      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Patogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="./index.html">Home</a><a class="site-nav-link" href="./watch.html">Global watch</a><a class="site-nav-link" href="./africa.html">Africa</a><a class="site-nav-link" href="./asia.html">Asia</a><a class="site-nav-link active" href="./research.html" aria-current="page">Research</a><a class="site-nav-link" href="./official.html">Official alerts</a><a class="site-nav-link" href="./archive/index.html">Archive</a></nav></header>
+      <section class="hero" id="desk-top">
+        <p class="kicker">Source-first desk</p>
+        <h1>Research Brief</h1>
+        <p class="subtitle">Papers, preprints, and research-linked reporting that adds context beyond the daily outbreak stream.</p>
+      </section>
+      <nav class="section-nav panel utility-panel" aria-label="Section navigation"><div class="section-nav-label">On this page</div><div class="section-nav-links"><a class="section-nav-link" href="#tracked-files">Tracked Files</a><a class="section-nav-link" href="#latest-signals">Latest Signals</a><a class="section-nav-link" href="#reference-links">Reference</a><a class="section-nav-link" href="#archive-links">Archive</a></div></nav>
+      <section class="panel" id="tracked-files">
+        <h2>Tracked Files</h2>
+        <div class="story-grid"><p class="empty-note">No tracked story files matched this desk in the current run.</p></div>
+      </section>
+      <section class="panel" id="latest-signals">
+        <h2>Latest Signals</h2>
+        <div class="card-grid"><article class="site-card"><div class="kicker">Official update</div><h3><a href="https://pubmed.ncbi.nlm.nih.gov/42093542/">Sustained reduction in program-reported TB death rate in six districts following Tamil Nadu Kasanoi Erappila Thittam in southern India.</a></h3><p>Routine aggregate data showed a reduction in the July 2022-June 2024 cohort when compared to July 2021-June 2022 cohort: Dharmapuri (from 12.6% to 4.8%), Karur (from 7.0% to 4.7%), Villupuram (from 6.1% to 4.6%), Kanniyakumari (from 10.4% to 8.1%), Cuddalore (from 6.7% to 4.1%), and Salem (from 7.8% to 4.9%). TN-KET not only worked in districts with relatively higher TB death burden (SMR &gt; 1) but also in districts with relatively lower TB death burden (SMR &lt; 1). Tamil Nadu Kasanoi Erappila Thittam (TN-KET) is India's first statewide and state-specific differentiated TB care initiative to reduce TB deaths.</p><div class="meta-row"><span class="badge">PubMed Infectious Disease Search</span><span class="badge">South Asia</span><span class="badge">2026-05-07T00:00</span><span class="badge">Official agency</span><span class="badge">Live fetch</span><span class="badge">Direct article</span></div></article></div>
+      </section>
+      <section class="panel-grid">
+        <section class="panel" id="reference-links">
+          <h2>Related Disease Sheets</h2>
+          <div class="card-grid"><article class="site-card"><div class="kicker">Reference</div><h3><a href="./reference/hantavirus-syndrome.html">Hantavirus syndrome</a></h3><p><strong>Pathogen:</strong> Hantaviruses, including Andes virus in the Americas</p><p>This is a rare but frightening severe-disease story where a single unusual cluster can force questions about travel safety, rodent exposure, and whether Andes-virus-style person-to-person spread is in play.</p></article><article class="site-card"><div class="kicker">Reference</div><h3><a href="./reference/measles.html">Measles</a></h3><p><strong>Pathogen:</strong> Measles virus</p><p>Measles is a clean reporter desk disease because it reveals vaccination gaps, school and household spread, travel-linked importation, and public-health capacity all at once.</p></article><article class="site-card"><div class="kicker">Reference</div><h3><a href="./reference/anthrax.html">Anthrax</a></h3><p><strong>Pathogen:</strong> Bacillus anthracis</p><p>Anthrax is a strong local accountability story because livestock practices, slaughter exposure, and rural reporting gaps can hide serious outbreaks in plain sight.</p></article><article class="site-card"><div class="kicker">Reference</div><h3><a href="./reference/avian-influenza-a-h5n1.html">Avian influenza A(H5N1)</a></h3><p><strong>Pathogen:</strong> Influenza A(H5N1)</p><p>H5N1 is one of the few diseases where occupational exposure, food systems, animal surveillance, and pandemic-risk communications all converge in the same file.</p></article></div>
+        </section>
+        <section class="panel" id="archive-links">
+          <h2>Recent Archive Days</h2>
+          <div class="archive-table"><article class="archive-row"><a href="./2026/05/2026-05-09.html"><strong>2026-05-09</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-08.html"><strong>2026-05-08</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-07.html"><strong>2026-05-07</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-06.html"><strong>2026-05-06</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-05.html"><strong>2026-05-05</strong></a><span class="archive-row-meta">May 2026</span></article></div>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="wash" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f4efe7" stop-opacity="0.99"/>
+      <stop offset="0.52" stop-color="#f4efe7" stop-opacity="0.96"/>
+      <stop offset="0.68" stop-color="#173d46" stop-opacity="0.74"/>
+      <stop offset="1" stop-color="#12323a" stop-opacity="0.95"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#101418" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="#f4efe7"/>
+  <image href="sin_nombre_hantavirus_cdc_phil_1136.jpg" x="518" y="-8" width="742" height="646" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="0" width="650" height="630" fill="#f4efe7"/>
+  <rect x="650" y="0" width="550" height="630" fill="#f4efe7" opacity="0.28"/>
+
+  <rect x="56" y="49" width="38" height="6" fill="#b84842"/>
+  <text x="108" y="58" font-family="Arial" font-size="19" font-weight="800" fill="#12323a">INFECTIOUS DISEASE NEWS</text>
+  <text x="592" y="58" text-anchor="end" font-family="Arial" font-size="19" font-weight="750" fill="#64737a">May 4, 2026</text>
+
+  <text x="56" y="186" font-family="Georgia" font-size="82" font-weight="800" fill="#101418">Hantavirus</text>
+  <text x="56" y="260" font-family="Georgia" font-size="82" font-weight="800" fill="#101418">at Sea</text>
+  <text x="58" y="326" font-family="Arial" font-size="26" font-weight="700" fill="#1b3f47">A rare cruise-ship outbreak turns a</text>
+  <text x="58" y="358" font-family="Arial" font-size="26" font-weight="700" fill="#1b3f47">rodent-borne virus into a containment</text>
+  <text x="58" y="390" font-family="Arial" font-size="26" font-weight="700" fill="#1b3f47">question.</text>
+
+  <g transform="translate(56 494)">
+    <rect width="144" height="84" fill="#ffffff" opacity="0.58"/>
+    <rect width="144" height="5" fill="#0e6f83"/>
+    <text x="15" y="43" font-family="Arial" font-size="30" font-weight="850" fill="#12323a">6+</text>
+    <text x="15" y="65" font-family="Arial" font-size="13" font-weight="800" fill="#51636a">REPORTED CASES</text>
+    <text x="15" y="80" font-family="Arial" font-size="13" font-weight="800" fill="#51636a">OR DEATHS</text>
+  </g>
+  <g transform="translate(214 494)">
+    <rect width="152" height="84" fill="#ffffff" opacity="0.58"/>
+    <rect width="152" height="5" fill="#0e6f83"/>
+    <text x="15" y="43" font-family="Arial" font-size="30" font-weight="850" fill="#12323a">3</text>
+    <text x="15" y="65" font-family="Arial" font-size="13" font-weight="800" fill="#51636a">FATALITIES</text>
+    <text x="15" y="80" font-family="Arial" font-size="13" font-weight="800" fill="#51636a">REPORTED</text>
+  </g>
+  <g transform="translate(380 494)">
+    <rect width="148" height="84" fill="#ffffff" opacity="0.58"/>
+    <rect width="148" height="5" fill="#0e6f83"/>
+    <text x="15" y="43" font-family="Arial" font-size="30" font-weight="850" fill="#12323a">ANDV?</text>
+    <text x="15" y="65" font-family="Arial" font-size="13" font-weight="800" fill="#51636a">SEQUENCING</text>
+    <text x="15" y="80" font-family="Arial" font-size="13" font-weight="800" fill="#51636a">TO WATCH</text>
+  </g>
+
+  <text x="1112" y="584" text-anchor="end" font-family="Arial" font-size="14" font-weight="700" fill="#12323a" opacity="0.78">Image: CDC PHIL #1136, Sin Nombre hantavirus TEM</text>
+</svg>

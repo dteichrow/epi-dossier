@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daily Infectious Disease &amp; Epidemiology Dossier</title>
+    <style>
+      :root {
+        --bg: #eef3f7;
+        --paper: #fbfaf6;
+        --ink: #15324f;
+        --muted: #5f6b75;
+        --line: #cfdae5;
+        --accent: #2774ae;
+        --accent-soft: #dbe9f6;
+        --signal: #1b365d;
+        --gold: #ffd24a;
+        --gold-soft: #fff1b8;
+        --shadow: 0 18px 50px rgba(20, 41, 67, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background:
+          radial-gradient(circle at top left, rgba(39, 116, 174, 0.14), transparent 28%),
+          radial-gradient(circle at bottom right, rgba(255, 210, 74, 0.14), transparent 28%),
+          linear-gradient(180deg, #f7f9fb 0%, var(--bg) 42%, #f4efe2 100%);
+        color: var(--ink);
+        font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+        line-height: 1.55;
+      }
+      a { color: var(--accent); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      .page {
+        max-width: 1220px;
+        margin: 0 auto;
+        padding: 28px 18px 64px;
+      }
+      .hero {
+        background: linear-gradient(135deg, rgba(251, 250, 246, 0.98), rgba(239, 245, 250, 0.94));
+        border: 1px solid rgba(39, 116, 174, 0.12);
+        border-radius: 28px;
+        box-shadow: var(--shadow);
+        padding: 26px 28px;
+        position: relative;
+        overflow: hidden;
+      }
+      .hero::after {
+        content: "";
+        position: absolute;
+        right: -80px;
+        top: -60px;
+        width: 220px;
+        height: 220px;
+        background: radial-gradient(circle, rgba(255, 210, 74, 0.2), transparent 65%);
+      }
+      .brand-row {
+        display: flex;
+        gap: 18px;
+        align-items: center;
+        margin-bottom: 14px;
+      }
+      .brand-lockup {
+        width: 102px;
+        min-width: 102px;
+        height: 102px;
+        border-radius: 26px;
+        background: linear-gradient(145deg, rgba(255,255,255,0.92), rgba(232, 240, 248, 0.94));
+        border: 1px solid rgba(39, 116, 174, 0.16);
+        display: grid;
+        place-items: center;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.8);
+      }
+      .brand-lockup svg {
+        width: 82px;
+        height: 82px;
+      }
+      .brand-text {
+        min-width: 0;
+      }
+      .kicker {
+        font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: var(--accent);
+        font-size: 0.84rem;
+        margin: 0 0 10px;
+      }
+      h1, h2, h3 {
+        margin: 0;
+        font-weight: 700;
+      }
+      h1 {
+        font-size: clamp(2.1rem, 5vw, 3.4rem);
+        line-height: 0.98;
+        max-width: 820px;
+      }
+      .hero-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 18px;
+      }
+      .freshness-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        background: linear-gradient(135deg, rgba(39, 116, 174, 0.12), rgba(255, 210, 74, 0.22));
+        border: 1px solid rgba(39, 116, 174, 0.18);
+        border-radius: 16px;
+        padding: 11px 14px;
+        margin-top: 16px;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.68);
+        color: var(--signal);
+      }
+      .freshness-dot {
+        width: 11px;
+        height: 11px;
+        border-radius: 999px;
+        background: var(--accent);
+        box-shadow: 0 0 0 5px rgba(39, 116, 174, 0.12);
+        flex: 0 0 auto;
+      }
+      .freshness-label {
+        font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+        font-size: 0.78rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--accent);
+      }
+      .freshness-time {
+        font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+        font-weight: 700;
+        font-size: 0.98rem;
+        color: var(--signal);
+      }
+      .meta-pill {
+        background: rgba(255, 255, 255, 0.82);
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 8px 12px;
+        font-size: 0.92rem;
+        color: var(--muted);
+      }
+      .layout {
+        display: grid;
+        grid-template-columns: minmax(0, 1.9fr) minmax(300px, 0.95fr);
+        gap: 22px;
+        margin-top: 24px;
+      }
+      .stack {
+        display: grid;
+        gap: 18px;
+      }
+      .panel {
+        background: rgba(251, 248, 242, 0.96);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        box-shadow: var(--shadow);
+        padding: 22px;
+      }
+      .panel h2 {
+        font-size: 1.28rem;
+        margin-bottom: 14px;
+      }
+      .executive-list {
+        margin: 0;
+        padding-left: 20px;
+        display: grid;
+        gap: 10px;
+      }
+      .executive-list li {
+        padding-left: 4px;
+      }
+      .story-grid, .topic-grid, .priority-grid, .compact-grid, .paper-grid, .historical-grid {
+        display: grid;
+        gap: 14px;
+      }
+      .story-card, .topic-card, .priority-card, .compact-card, .paper-card, .historical-card {
+        background: var(--paper);
+        border: 1px solid rgba(31, 42, 45, 0.08);
+        border-radius: 18px;
+        padding: 16px 16px 15px;
+      }
+      .story-card {
+        border-left: 6px solid var(--signal);
+      }
+      .topic-card {
+        border-left: 6px solid rgba(141, 43, 31, 0.75);
+      }
+      .priority-card {
+        border-left: 6px solid var(--accent);
+      }
+      .eyebrow {
+        font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        font-size: 0.76rem;
+        color: var(--muted);
+        margin-bottom: 8px;
+      }
+      .story-card h3, .topic-card h3, .priority-card h3, .paper-card h3 {
+        font-size: 1.05rem;
+        margin-bottom: 8px;
+      }
+      .item-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 10px 0 0;
+      }
+      .badge {
+        border-radius: 999px;
+        padding: 5px 10px;
+        font-size: 0.76rem;
+        line-height: 1;
+        border: 1px solid var(--line);
+        background: #fff;
+        color: var(--muted);
+      }
+      .badge.accent { background: var(--accent-soft); color: var(--accent); border-color: rgba(141, 43, 31, 0.18); }
+      .badge.signal { background: rgba(27, 54, 93, 0.12); color: var(--signal); border-color: rgba(27, 54, 93, 0.18); }
+      .badge.gold { background: var(--gold-soft); color: #8a6400; border-color: rgba(255, 210, 74, 0.35); }
+      .bullet-list {
+        margin: 10px 0 0;
+        padding-left: 18px;
+      }
+      .bullet-list li + li { margin-top: 6px; }
+      .compact-card p, .paper-card p, .historical-card p, .priority-card p, .topic-card p, .story-card p {
+        margin: 8px 0 0;
+      }
+      .side-section + .side-section {
+        margin-top: 18px;
+      }
+      .empty-note {
+        margin: 0;
+        color: var(--muted);
+      }
+      .footer-note {
+        margin-top: 24px;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+      @media (max-width: 920px) {
+        .layout {
+          grid-template-columns: 1fr;
+        }
+        .page {
+          padding: 16px 14px 40px;
+        }
+        .hero, .panel {
+          padding: 18px;
+          border-radius: 20px;
+        }
+        .brand-row {
+          align-items: flex-start;
+        }
+        .brand-lockup {
+          width: 84px;
+          min-width: 84px;
+          height: 84px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <div class="brand-row">
+          <div class="brand-lockup">
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Edge of Epidemiology mark">
+  <defs>
+    <linearGradient id="ringFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2774AE"/>
+      <stop offset="100%" stop-color="#1B365D"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="44" fill="none" stroke="url(#ringFill)" stroke-width="8"/>
+  <circle cx="60" cy="60" r="31" fill="none" stroke="#FFD24A" stroke-width="5" stroke-dasharray="4 8"/>
+  <path d="M26 72 C38 44, 50 84, 63 54 C71 38, 82 66, 93 42" fill="none" stroke="#15324F" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="26" cy="72" r="5" fill="#15324F"/>
+  <circle cx="38" cy="44" r="5" fill="#2774AE"/>
+  <circle cx="50" cy="84" r="5" fill="#FFD24A"/>
+  <circle cx="63" cy="54" r="5" fill="#15324F"/>
+  <circle cx="71" cy="38" r="5" fill="#2774AE"/>
+  <circle cx="82" cy="66" r="5" fill="#FFD24A"/>
+  <circle cx="93" cy="42" r="5" fill="#15324F"/>
+</svg>
+</div>
+          <div class="brand-text">
+            <p class="kicker">The Edge of Epidemiology • Daily Reader</p>
+            <h1>Infectious Disease &amp; Epidemiology Dossier</h1>
+            <div class="freshness-pill" aria-label="Last updated">
+              <span class="freshness-dot"></span>
+              <div>
+                <div class="freshness-label">Last Updated</div>
+                <div class="freshness-time">May 5, 2026 at 6:00:45 PM</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="hero-meta">
+          <span class="meta-pill">Date: 2026-05-05</span>
+          <span class="meta-pill">Generated: 2026-05-05T18:00</span>
+          <span class="meta-pill">Search window: 2 day(s) ending 2026-05-05</span>
+          <span class="meta-pill">Items rendered: 8</span>
+        </div>
+      </section>
+
+      <section class="layout">
+        <div class="stack">
+          <section class="panel">
+            <h2>Executive Scan</h2>
+            <ol class="executive-list"><li><a href="https://www.ecdc.europa.eu/en/news-events/after-action-review-slovakia-following-2025-hepatitis-outbreak">After-action review in Slovakia, following 2025 hepatitis A outbreak</a> <span class="meta-inline">(ECDC News; 2026-05-05T14:46+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)</span></li><li><a href="https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low">Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low</a> <span class="meta-inline">(ECDC News; 2026-05-04T19:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)</span></li><li><a href="https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship">ECDC monitoring outbreak associated with cruise ship</a> <span class="meta-inline">(ECDC News; 2026-05-04T11:42+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)</span></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/42081288/">Incidence of Bacille Calmette-Guérin associated lymphadenitis in healthy children: A systematic review and meta-analysis.</a> <span class="meta-inline">(PubMed Infectious Disease Search; 2026-05-04T00:00; Major epidemiology studies; relevance 5/5)</span></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/42059835/">COVID-19 in pediatrics in Latin America: six years later.</a> <span class="meta-inline">(PubMed Infectious Disease Search; 2026-05-04T00:00; Major epidemiology studies; relevance 5/5)</span></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/42081432/">Editorial Note: Immuno-PCR - A New Tool for Paleomicrobiology: The Plague Paradigm.</a> <span class="meta-inline">(PubMed Historical Epidemiology; 2026-05-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)</span></li><li><a href="https://pubmed.ncbi.nlm.nih.gov/42085680/">Remote Monitoring of Bioelectrical Impedance in Patients With Breast Cancer-Related Lymphedema: 1-Year Pilot Longitudinal Study.</a> <span class="meta-inline">(PubMed Infectious Disease Search; 2026-05-05T00:00; Major epidemiology studies; relevance 3/5)</span></li><li><a href="https://www.cidrap.umn.edu/public-health/quick-takes-biontech-closures-texas-alarm-new-world-screwworm-mexico-second-saluda">Quick takes: BioNTech closures; Texas alarm on New World screwworm in Mexico; second Saluda County, South Carolina, measles case</a> <span class="meta-inline">(CIDRAP; 2026-05-05T15:46-05:00; Outbreaks and emerging infections; relevance 3/5)</span></li></ol>
+          </section>
+
+          <section class="panel">
+            <h2>Ongoing Stories And What Changed</h2>
+            <div class="story-grid"><p class="empty-note">No multi-item story clusters produced concrete update bullets in this run.</p></div>
+          </section>
+
+          <section class="panel">
+            <h2>Highest Priority Items</h2>
+            <div class="priority-grid"><article class="priority-card"><div class="eyebrow">Policy, surveillance, and public health infrastructure</div><h3><a href="https://www.ecdc.europa.eu/en/news-events/after-action-review-slovakia-following-2025-hepatitis-outbreak">After-action review in Slovakia, following 2025 hepatitis A outbreak</a></h3><div class="item-meta"><span class="badge accent">5/5</span><span class="badge">ECDC News</span><span class="badge">2026-05-05T14:46+02:00</span></div><p>The outbreak of hepatitis A virus, which peaked in 2025, affected several EU countries, and disproportionately impacted vulnerable groups. These included ethnic minorities, particularly Roma communities in Slovakia and Czechia, people experiencing homelessness, people who use or inject drugs, and people living in poor sanitary conditions.</p><p><strong>Why it matters:</strong> Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.</p><p><strong>Caveats:</strong> Summary stays within source text and metadata; no outside facts were added.</p></article><article class="priority-card"><div class="eyebrow">Policy, surveillance, and public health infrastructure</div><h3><a href="https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low">Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low</a></h3><div class="item-meta"><span class="badge accent">5/5</span><span class="badge">ECDC News</span><span class="badge">2026-05-04T19:33+02:00</span></div><p>A cluster of severe acute respiratory illness, including three deaths and one severely ill individual, has been reported among passengers on a cruise ship travelling in the Atlantic and registered in the Netherlands. The ship is currently located off the coast of Cabo Verde, with 149 people on board.</p><p><strong>Why it matters:</strong> Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.</p><p><strong>Caveats:</strong> Summary stays within source text and metadata; no outside facts were added.</p></article><article class="priority-card"><div class="eyebrow">Policy, surveillance, and public health infrastructure</div><h3><a href="https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship">ECDC monitoring outbreak associated with cruise ship</a></h3><div class="item-meta"><span class="badge accent">5/5</span><span class="badge">ECDC News</span><span class="badge">2026-05-04T11:42+02:00</span></div><p>ECDC is aware of suspected cases of hantavirus infection, including three deaths, associated with a cruise ship travelling in the Atlantic. ECDC will provide updates as more information becomes available.</p><p><strong>Why it matters:</strong> Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.</p><p><strong>Caveats:</strong> Summary stays within source text and metadata; no outside facts were added.</p></article><article class="priority-card"><div class="eyebrow">Major epidemiology studies</div><h3><a href="https://pubmed.ncbi.nlm.nih.gov/42081288/">Incidence of Bacille Calmette-Guérin associated lymphadenitis in healthy children: A systematic review and meta-analysis.</a></h3><div class="item-meta"><span class="badge accent">5/5</span><span class="badge">PubMed Infectious Disease Search</span><span class="badge">2026-05-04T00:00</span></div><p>The pooled incidence proportion was 2.5% (95% CI, 1.6-3.6; I 2 = 99%). A total of 52 peer-reviewed journal articles (about 1.8 million children) were included in meta-analyses. This study highlights substantial variability in the incidence of BCG lymphadenitis among diverse studies and underscores the influence of surveillance methods, study design, and vaccine strain on reported outcomes.</p><p><strong>Why it matters:</strong> Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.</p><p><strong>Caveats:</strong> Summary stays within source text and metadata; no outside facts were added.</p><p><strong>DOI:</strong> 10.1080/21645515.2026.2662756</p></article><article class="priority-card"><div class="eyebrow">Major epidemiology studies</div><h3><a href="https://pubmed.ncbi.nlm.nih.gov/42059835/">COVID-19 in pediatrics in Latin America: six years later.</a></h3><div class="item-meta"><span class="badge accent">5/5</span><span class="badge">PubMed Infectious Disease Search</span><span class="badge">2026-05-04T00:00</span></div><p>Vaccination coverage against COVID-19 in children is suboptimal, particularly among those with high-risk underlying conditions, and the disruption of routine immunization programs has led to outbreaks of vaccine preventable diseases in the region. Addressing these challenges requires strengthening both COVID-19 vaccination strategies for high-risk pediatric populations and routine childhood immunization programs, along with effective communication to combat misinformation, prioritization of educational recovery, social protection, and resilient health systems. This paper is presented as a perspective from SLIPE on COVID-19, providing expert insight into the current epidemiological situation in the region.</p><p><strong>Why it matters:</strong> Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.</p><p><strong>Caveats:</strong> Summary stays within source text and metadata; no outside facts were added.</p><p><strong>DOI:</strong> 10.1080/14760584.2026.2667741</p></article><article class="priority-card"><div class="eyebrow">Historical epidemiology / ancient disease / paleopathology</div><h3><a href="https://pubmed.ncbi.nlm.nih.gov/42081432/">Editorial Note: Immuno-PCR - A New Tool for Paleomicrobiology: The Plague Paradigm.</a></h3><div class="item-meta"><span class="badge accent">5/5</span><span class="badge">PubMed Historical Epidemiology</span><span class="badge">2026-05-04T00:00</span></div><p>Publication type: Journal Article, Comment.</p><p><strong>Why it matters:</strong> Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.</p><p><strong>Caveats:</strong> Summary stays within source text and metadata; no outside facts were added.</p><p><strong>DOI:</strong> 10.1371/journal.pone.0348536</p></article></div>
+          </section>
+
+          <section class="panel">
+            <h2>Other Notable Readings</h2>
+            <div class="compact-grid"><article class="compact-card"><div class="eyebrow">PubMed Infectious Disease Search | 2026-05-05T00:00</div><p><a href="https://pubmed.ncbi.nlm.nih.gov/42085680/">Remote Monitoring of Bioelectrical Impedance in Patients With Breast Cancer-Related Lymphedema: 1-Year Pilot Longitudinal Study.</a></p><p>This prospective, patient-driven, 12-month observational study enrolled breast cancer survivors at risk for lymphedema. Longitudinal home-based ECW/TBW measurements were analyzed using linear mixed-effects models to evaluate diurnal differences (before-noon vs after-noon) across groups defined by limb dominance and BCRL status (International Society of Lymphology [ISL] stage 0 vs stage 1). Diurnal analysis identified a small but statistically significant decrease in ECW/TBW ratios in the afternoon (P&lt;.001).</p></article><article class="compact-card"><div class="eyebrow">CIDRAP | 2026-05-05T15:46-05:00</div><p><a href="https://www.cidrap.umn.edu/public-health/quick-takes-biontech-closures-texas-alarm-new-world-screwworm-mexico-second-saluda">Quick takes: BioNTech closures; Texas alarm on New World screwworm in Mexico; second Saluda County, South Carolina, measles case</a></p><p>Topics &amp; Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About BioNTech announced today it would close sites in Germany and Singapore, affecting up to 1,860 jobs, and buy back up to $1 billion of its shares, as the COVID ‑ 19 vaccine maker is transitioning away from pandemic-era manufacturing and prepares for a leadership transition. The South Carolina Department of Public Health (DPH) has confirmed a second measles case in a Saluda County adult, which is related to the other case in the county reported April 17. There are currently 39 people in quarantine through May 9.</p></article></div>
+          </section>
+        </div>
+
+        <aside class="stack">
+          <section class="panel side-section">
+            <h2>Major Topics</h2>
+            <div class="topic-grid"><article class="topic-card"><div class="eyebrow">Topic Cluster</div><h3>Miscellaneous signals</h3><p><a href="https://www.ecdc.europa.eu/en/news-events/after-action-review-slovakia-following-2025-hepatitis-outbreak">After-action review in Slovakia, following 2025 hepatitis A outbreak</a></p><div class="item-meta"><span class="badge">3 item(s)</span><span class="badge">2 source(s)</span><span class="badge">3 official</span></div><p>The pooled incidence proportion was 2.5% (95% CI, 1.6-3.6; I 2 = 99%). A total of 52 peer-reviewed journal articles (about 1.8 million children) were included in meta-analyses. This prospective, patient-driven, 12-month observational study enrolled breast cancer survivors at risk for lymphedema.</p></article><article class="topic-card"><div class="eyebrow">Topic Cluster</div><h3>Hantavirus and cruise-ship outbreak</h3><p><a href="https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low">Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low</a></p><div class="item-meta"><span class="badge">2 item(s)</span><span class="badge">1 source(s)</span><span class="badge">2 official</span></div><p>ECDC is aware of suspected cases of hantavirus infection, including three deaths, associated with a cruise ship travelling in the Atlantic. A cluster of severe acute respiratory illness, including three deaths and one severely ill individual, has been reported among passengers on a cruise ship travelling in the Atlantic and registered in the Netherlands. The ship is currently located off the coast of Cabo Verde,...</p></article><article class="topic-card"><div class="eyebrow">Topic Cluster</div><h3>COVID-19 and SARS-CoV-2</h3><p><a href="https://pubmed.ncbi.nlm.nih.gov/42059835/">COVID-19 in pediatrics in Latin America: six years later.</a></p><div class="item-meta"><span class="badge">1 item(s)</span><span class="badge">1 source(s)</span><span class="badge">1 official</span></div><p>Vaccination coverage against COVID-19 in children is suboptimal, particularly among those with high-risk underlying conditions, and the disruption of routine immunization programs has led to outbreaks of vaccine preventable diseases in the region. Addressing these challenges requires strengthening both COVID-19 vaccination strategies for high-risk pediatric populations and routine childhood immunization programs,...</p></article><article class="topic-card"><div class="eyebrow">Topic Cluster</div><h3>Historical epidemiology and ancient pathogens</h3><p><a href="https://pubmed.ncbi.nlm.nih.gov/42081432/">Editorial Note: Immuno-PCR - A New Tool for Paleomicrobiology: The Plague Paradigm.</a></p><div class="item-meta"><span class="badge">1 item(s)</span><span class="badge">1 source(s)</span><span class="badge">1 official</span></div><p>Publication type: Journal Article, Comment.</p></article><article class="topic-card"><div class="eyebrow">Topic Cluster</div><h3>Measles transmission and vaccination</h3><p><a href="https://www.cidrap.umn.edu/public-health/quick-takes-biontech-closures-texas-alarm-new-world-screwworm-mexico-second-saluda">Quick takes: BioNTech closures; Texas alarm on New World screwworm in Mexico; second Saluda County, South Carolina, measles case</a></p><div class="item-meta"><span class="badge">1 item(s)</span><span class="badge">1 source(s)</span><span class="badge">0 official</span></div><p>Topics &amp; Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About BioNTech announced today it would close sites in Germany and Singapore, affecting up to 1,860 jobs, and buy back up to $1 billion of its shares, as the COVID ‑ 19 vaccine maker is transitioning away from...</p></article></div>
+          </section>
+
+          <section class="panel side-section">
+            <h2>Papers Worth Saving</h2>
+            <div class="paper-grid"><article class="paper-card"><div class="eyebrow">Human vaccines &amp; immunotherapeutics</div><h3><a href="https://pubmed.ncbi.nlm.nih.gov/42081288/">Incidence of Bacille Calmette-Guérin associated lymphadenitis in healthy children: A systematic review and meta-analysis.</a></h3><p><strong>DOI:</strong> 10.1080/21645515.2026.2662756</p><p><strong>Abstract:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/42081288/">https://pubmed.ncbi.nlm.nih.gov/42081288/</a></p><p>The pooled incidence proportion was 2.5% (95% CI, 1.6-3.6; I 2 = 99%). A total of 52 peer-reviewed journal articles (about 1.8 million children) were included in meta-analyses. This study highlights substantial variability in the incidence of BCG lymphadenitis among diverse studies and underscores the influence of surveillance methods, study design, and vaccine strain on reported outcomes.</p></article><article class="paper-card"><div class="eyebrow">Expert review of vaccines</div><h3><a href="https://pubmed.ncbi.nlm.nih.gov/42059835/">COVID-19 in pediatrics in Latin America: six years later.</a></h3><p><strong>DOI:</strong> 10.1080/14760584.2026.2667741</p><p><strong>Abstract:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/42059835/">https://pubmed.ncbi.nlm.nih.gov/42059835/</a></p><p>Vaccination coverage against COVID-19 in children is suboptimal, particularly among those with high-risk underlying conditions, and the disruption of routine immunization programs has led to outbreaks of vaccine preventable diseases in the region. Addressing these challenges requires strengthening both COVID-19 vaccination strategies for high-risk pediatric populations and routine childhood immunization programs, along with effective communication to combat misinformation, prioritization of educational recovery, social protection, and resilient health systems. This paper is presented as a perspective from SLIPE on COVID-19, providing expert insight into the current epidemiological situation in the region.</p></article><article class="paper-card"><div class="eyebrow">PloS one</div><h3><a href="https://pubmed.ncbi.nlm.nih.gov/42081432/">Editorial Note: Immuno-PCR - A New Tool for Paleomicrobiology: The Plague Paradigm.</a></h3><p><strong>DOI:</strong> 10.1371/journal.pone.0348536</p><p><strong>Abstract:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/42081432/">https://pubmed.ncbi.nlm.nih.gov/42081432/</a></p><p>Publication type: Journal Article, Comment.</p></article><article class="paper-card"><div class="eyebrow">JMIR biomedical engineering</div><h3><a href="https://pubmed.ncbi.nlm.nih.gov/42085680/">Remote Monitoring of Bioelectrical Impedance in Patients With Breast Cancer-Related Lymphedema: 1-Year Pilot Longitudinal Study.</a></h3><p><strong>DOI:</strong> 10.2196/86624</p><p><strong>Abstract:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/42085680/">https://pubmed.ncbi.nlm.nih.gov/42085680/</a></p><p>This prospective, patient-driven, 12-month observational study enrolled breast cancer survivors at risk for lymphedema. Longitudinal home-based ECW/TBW measurements were analyzed using linear mixed-effects models to evaluate diurnal differences (before-noon vs after-noon) across groups defined by limb dominance and BCRL status (International Society of Lymphology [ISL] stage 0 vs stage 1). Diurnal analysis identified a small but statistically significant decrease in ECW/TBW ratios in the afternoon (P&lt;.001).</p></article></div>
+          </section>
+
+          <section class="panel side-section">
+            <h2>Historical Epi / Weird Corner</h2>
+            <div class="historical-grid"><article class="historical-card"><div class="eyebrow">PubMed Historical Epidemiology</div><p><a href="https://pubmed.ncbi.nlm.nih.gov/42081432/">Editorial Note: Immuno-PCR - A New Tool for Paleomicrobiology: The Plague Paradigm.</a></p><p>Publication type: Journal Article, Comment.</p></article></div>
+          </section>
+        </aside>
+      </section>
+
+      <p class="footer-note">This HTML briefing is generated locally from the same canonical data used for the Markdown dossier and app exports.</p>
+    </main>
+  </body>
+</html>

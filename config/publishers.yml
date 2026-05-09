@@ -1,0 +1,175 @@
+publishers:
+  - key: reuters
+    name: Reuters
+    domains: ["reuters.com"]
+    aliases: ["Reuters"]
+    tier: wire
+    access: open
+
+  - key: associated_press
+    name: Associated Press
+    domains: ["apnews.com"]
+    aliases: ["AP", "Associated Press"]
+    tier: wire
+    access: open
+
+  - key: new_york_times
+    name: New York Times
+    domains: ["nytimes.com"]
+    aliases: ["New York Times", "NYT", "The New York Times"]
+    tier: major_newsroom
+    access: subscription
+
+  - key: wall_street_journal
+    name: Wall Street Journal
+    domains: ["wsj.com"]
+    aliases: ["Wall Street Journal", "WSJ", "The Wall Street Journal"]
+    tier: major_newsroom
+    access: subscription
+
+  - key: financial_times
+    name: Financial Times
+    domains: ["ft.com"]
+    aliases: ["Financial Times", "FT"]
+    tier: major_newsroom
+    access: subscription
+
+  - key: washington_post
+    name: Washington Post
+    domains: ["washingtonpost.com"]
+    aliases: ["Washington Post", "The Washington Post"]
+    tier: major_newsroom
+    access: subscription
+
+  - key: bbc
+    name: BBC
+    domains: ["bbc.com", "bbc.co.uk"]
+    aliases: ["BBC", "BBC News"]
+    tier: major_newsroom
+    access: open
+
+  - key: sky_news
+    name: Sky News
+    domains: ["news.sky.com", "sky.com"]
+    aliases: ["Sky News"]
+    tier: major_newsroom
+    access: open
+
+  - key: stat
+    name: STAT
+    domains: ["statnews.com"]
+    aliases: ["STAT", "STAT News"]
+    tier: specialist_health
+    access: mixed
+
+  - key: npr
+    name: NPR
+    domains: ["npr.org"]
+    aliases: ["NPR"]
+    tier: major_newsroom
+    access: open
+
+  - key: pbs
+    name: PBS
+    domains: ["pbs.org"]
+    aliases: ["PBS", "PBS News", "PBS NewsHour"]
+    tier: major_newsroom
+    access: open
+
+  - key: cbc
+    name: CBC
+    domains: ["cbc.ca"]
+    aliases: ["CBC", "CBC News"]
+    tier: major_newsroom
+    access: open
+
+  - key: cp24
+    name: CP24
+    domains: ["cp24.com"]
+    aliases: ["CP24"]
+    tier: major_newsroom
+    access: open
+
+  - key: guardian
+    name: Guardian
+    domains: ["theguardian.com", "guardian.co.uk"]
+    aliases: ["Guardian", "The Guardian"]
+    tier: major_newsroom
+    access: open
+
+  - key: euronews
+    name: Euronews
+    domains: ["euronews.com"]
+    aliases: ["Euronews", "Euronews.com"]
+    tier: major_newsroom
+    access: open
+
+  - key: bloomberg
+    name: Bloomberg
+    domains: ["bloomberg.com"]
+    aliases: ["Bloomberg", "Bloomberg News"]
+    tier: major_newsroom
+    access: mixed
+
+  - key: nbc_news
+    name: NBC News
+    domains: ["nbcnews.com"]
+    aliases: ["NBC", "NBC News"]
+    tier: major_newsroom
+    access: open
+
+  - key: cbs_news
+    name: CBS News
+    domains: ["cbsnews.com"]
+    aliases: ["CBS", "CBS News"]
+    tier: major_newsroom
+    access: open
+
+  - key: cnn
+    name: CNN
+    domains: ["cnn.com"]
+    aliases: ["CNN", "CNN Health"]
+    tier: major_newsroom
+    access: open
+
+  - key: abc_news
+    name: ABC News
+    domains: ["abcnews.go.com", "abcnews.com"]
+    aliases: ["ABC", "ABC News"]
+    tier: major_newsroom
+    access: open
+
+  - key: newsnation
+    name: NewsNation
+    domains: ["newsnationnow.com"]
+    aliases: ["NewsNation"]
+    tier: major_newsroom
+    access: open
+
+  - key: politico
+    name: Politico
+    domains: ["politico.com"]
+    aliases: ["Politico"]
+    tier: major_newsroom
+    access: mixed
+
+  - key: axios
+    name: Axios
+    domains: ["axios.com"]
+    aliases: ["Axios"]
+    tier: major_newsroom
+    access: open
+
+  - key: cidrap
+    name: CIDRAP
+    domains: ["cidrap.umn.edu"]
+    aliases: ["CIDRAP"]
+    tier: specialist_health
+    access: open
+
+  - key: promed
+    name: ProMED
+    domains: ["promedmail.org", "promedmail.com"]
+    aliases: ["ProMED", "ProMED-mail"]
+    tier: specialist_health
+    access: open
