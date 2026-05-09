@@ -233,9 +233,12 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     assert "file:///" not in latest_html_text
     assert "public-live-update-banner" in latest_html_text
     assert "./app_exports/manifest.json" in latest_html_text
+    assert "Load latest" in latest_html_text
+    assert "Keep reading" in latest_html_text
     public_story_text = (deploy_dir / "stories" / "story_1-measles-transmission-and-vaccination.html").read_text()
     assert "../app_exports/manifest.json" in public_story_text
-    assert "Refresh now" in public_story_text
+    assert "Load latest" in public_story_text
+    assert "Keep reading" in public_story_text
     research_text = (deploy_dir / "research.html").read_text()
     assert "Latest Papers And Preprints" in research_text
 

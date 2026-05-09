@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Measles transmission and vaccination | The Patogen Dispatch</title>
+    <title>Measles transmission and vaccination | The Pathogen Dispatch</title>
     <style>
       :root { --bg: #e8e1d3; --bg-deep: #d8cebc; --surface: #f8f4ea; --surface-alt: #f2ebde; --paper: #fffdf8; --ink: #1b2836; --ink-soft: #42515e; --line: #d6cab7; --accent: #8d3f2f; --accent-soft: rgba(141,63,47,0.10); --signal: #1f5b89; --signal-soft: rgba(31,91,137,0.12); --shadow: 0 24px 56px rgba(49, 36, 22, 0.10); }
       * { box-sizing: border-box; }
@@ -16,9 +16,12 @@
       .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
       .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; flex-wrap: wrap; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
-      .live-update-banner { padding: 14px 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+      .live-update-banner { position: fixed; right: 18px; bottom: 18px; width: min(420px, calc(100vw - 28px)); padding: 14px 16px; display: grid; gap: 12px; z-index: 40; box-shadow: 0 18px 36px rgba(29, 24, 18, 0.16); }
       .live-update-copy { min-width: 0; display: grid; gap: 4px; }
       .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .live-update-actions { display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap; }
+      .live-update-dismiss { border: 0; background: transparent; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 600; cursor: pointer; padding: 10px 4px; }
+      .live-update-dismiss:hover { color: var(--ink); }
       .live-update-button { border-radius: 999px; padding: 10px 14px; border: 1px solid rgba(31,91,137,0.26); background: rgba(31,91,137,0.12); color: var(--signal); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 700; cursor: pointer; white-space: nowrap; }
       .live-update-button:hover { background: rgba(31,91,137,0.18); }
       .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
@@ -71,14 +74,14 @@
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
       @media (max-width: 1180px) { .panel-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } .live-update-banner { flex-direction: column; align-items: flex-start; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
-      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
+      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
+      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } .live-update-banner { right: 12px; bottom: 12px; width: calc(100vw - 24px); } .live-update-actions { justify-content: space-between; } }
     </style>
   </head>
   <body>
     <main class="page">
-      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Patogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
-      <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite"><div class="live-update-copy"><div class="section-nav-label">Live update</div><p class="live-update-text" id="live-update-text">A newer edition has been published. Refresh to load the latest story set.</p></div><button class="live-update-button" id="live-update-refresh" type="button">Refresh now</button></section>
+      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Pathogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
+      <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite" role="status"><div class="live-update-copy"><div class="section-nav-label">New edition available</div><p class="live-update-text" id="live-update-text">An updated edition is available. Load the latest run when you are ready.</p></div><div class="live-update-actions"><button class="live-update-dismiss" id="live-update-dismiss" type="button">Keep reading</button><button class="live-update-button" id="live-update-refresh" type="button">Load latest</button></div></section>
       <section class="hero" id="story-overview">
         <p class="kicker">Tracked outbreak file</p>
         <h1>Measles transmission and vaccination</h1>
@@ -112,7 +115,7 @@
       <section class="panel utility-panel" id="story-filters">
         <h2>Filter This Story File</h2>
         <p class="muted-note">Use this desk bar to cut the outbreak file down by source quality, freshness, region, or link fidelity before you scan the cards.</p>
-        <div class="story-filter-shell"><div class="story-filter-grid"><label class="filter-group filter-search-wide"><span class="filter-label">Search</span><input id="story-filter-search" class="filter-input" type="search" placeholder="Search titles, publishers, places, or phrases" /></label><label class="filter-group"><span class="filter-label">Source type</span><select class="filter-select" data-story-filter="source-kind"><option value="all">All</option><option value="metadata_only_signal">Metadata-only signal</option></select></label><label class="filter-group"><span class="filter-label">Freshness</span><select class="filter-select" data-story-filter="freshness"><option value="all">All</option><option value="live">Live fetch</option></select></label><label class="filter-group"><span class="filter-label">Link quality</span><select class="filter-select" data-story-filter="link-quality"><option value="all">All</option><option value="metadata_only">Metadata only</option></select></label><label class="filter-group"><span class="filter-label">Region</span><select class="filter-select" data-story-filter="region"><option value="all">All</option><option value="africa">Africa</option><option value="east_asia">East Asia</option><option value="middle_east">Middle East</option><option value="south_asia">South Asia</option></select></label><label class="filter-group"><span class="filter-label">Access</span><select class="filter-select" data-story-filter="access"><option value="all">All</option><option value="unknown">Access unknown</option></select></label><label class="filter-group"><span class="filter-label">Date range</span><select class="filter-select" data-story-filter="date-window"><option value="all">All</option><option value="1">Past 24 hours</option></select></label><label class="filter-group"><span class="filter-label">Story status</span><select class="filter-select" data-story-filter="story-status"><option value="all">All</option><option value="expanding_coverage">Expanding coverage</option></select></label><label class="filter-group"><span class="filter-label">Claim type</span><select class="filter-select" data-story-filter="claim-type"><option value="all">All</option><option value="confirmed_case">Confirmed case</option><option value="general_update">General update</option></select></label></div><p id="story-filter-status" class="muted-note">Showing all story-file cards.</p></div>
+        <div class="story-filter-shell"><div class="story-filter-grid"><label class="filter-group filter-search-wide"><span class="filter-label">Search</span><input id="story-filter-search" class="filter-input" type="search" placeholder="Search titles, publishers, places, or phrases" /></label><label class="filter-group"><span class="filter-label">Source type</span><select class="filter-select" data-story-filter="source-kind"><option value="all">All</option><option value="metadata_only_signal">Metadata-only signal</option></select></label><label class="filter-group"><span class="filter-label">Freshness</span><select class="filter-select" data-story-filter="freshness"><option value="all">All</option><option value="live">Live fetch</option></select></label><label class="filter-group"><span class="filter-label">Link quality</span><select class="filter-select" data-story-filter="link-quality"><option value="all">All</option><option value="metadata_only">Metadata only</option></select></label><label class="filter-group"><span class="filter-label">Region</span><select class="filter-select" data-story-filter="region"><option value="all">All</option><option value="africa">Africa</option><option value="east_asia">East Asia</option><option value="middle_east">Middle East</option><option value="south_asia">South Asia</option></select></label><label class="filter-group"><span class="filter-label">Access</span><select class="filter-select" data-story-filter="access"><option value="all">All</option><option value="unknown">Access unknown</option></select></label><label class="filter-group"><span class="filter-label">Date range</span><select class="filter-select" data-story-filter="date-window"><option value="all">All</option><option value="1">Past 24 hours</option><option value="3">Past 3 days</option></select></label><label class="filter-group"><span class="filter-label">Story status</span><select class="filter-select" data-story-filter="story-status"><option value="all">All</option><option value="expanding_coverage">Expanding coverage</option></select></label><label class="filter-group"><span class="filter-label">Claim type</span><select class="filter-select" data-story-filter="claim-type"><option value="all">All</option><option value="confirmed_case">Confirmed case</option><option value="general_update">General update</option></select></label></div><p id="story-filter-status" class="muted-note">Showing all story-file cards.</p></div>
       </section>
 
       <section class="panel-grid">
@@ -126,7 +129,7 @@
           <h2>Publisher Coverage</h2>
           
           <div class="sort-bar"><label class="sort-control">Sort by <select class="sort-select" data-sort-target="publisher-coverage"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="source">Source A-Z</option></select></label></div>
-          <div id="publisher-coverage" class="card-grid sortable-grid" data-default-sort="newest"><article class="site-card sortable-card compact-card searchable-card" data-sort-ts="1778299200" data-sort-source="The Standard (HK)" data-sort-title="Japan&#x27;s measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit" data-search="Japan&#x27;s measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit Limited detail was available from feed metadata alone. The Standard (HK) East Asia https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGZNVngzSUJRSno3bmpxMkR6MC1HcHNNWnBraGtTRE0yZXN3TGFwNDQ3RTJsYzg5dHE1T2xRd2JvWEZ4dk9VU3QtWUdraWJCNk1lWmd6T3J0VmtOT2praGNkUjUtTWdzUGc1VG5SX1VWUXdRcGdyaDVNV0F0VnM3am5TTkt3SzI1SXBZQ2txMy03VDNhMDdSTHFZTnBVOU1saC0zbUdmdVJGcGRzTk5uRkN2TFU3ZVNxWjFicEk2LW5QTXZXRm9qYVF1b2NKdw?oc=5" data-source-kind="metadata_only_signal" data-freshness="live" data-link-quality="metadata_only" data-region="East Asia" data-access="unknown" data-date-window="1" data-scope="publisher" data-official="false" data-story-status="expanding_coverage" data-claim-type="general_update"><div class="kicker">Publisher coverage</div><h3><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGZNVngzSUJRSno3bmpxMkR6MC1HcHNNWnBraGtTRE0yZXN3TGFwNDQ3RTJsYzg5dHE1T2xRd2JvWEZ4dk9VU3QtWUdraWJCNk1lWmd6T3J0VmtOT2praGNkUjUtTWdzUGc1VG5SX1VWUXdRcGdyaDVNV0F0VnM3am5TTkt3SzI1SXBZQ2txMy03VDNhMDdSTHFZTnBVOU1saC0zbUdmdVJGcGRzTk5uRkN2TFU3ZVNxWjFicEk2LW5QTXZXRm9qYVF1b2NKdw?oc=5">Japan's measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit</a></h3><div class="meta-row"><span class="badge">The Standard (HK)</span><span class="badge">Metadata-only</span><span class="badge">Metadata-only signal</span><span class="badge">Live</span><span class="badge">East Asia</span><span class="badge">2026-05-09T04:00+00:00</span><span class="badge">Metadata only</span><span class="badge">Metadata only</span></div></article><article class="site-card sortable-card compact-card searchable-card" data-sort-ts="1778295420" data-sort-source="CBS 19 News" data-sort-title="Officials investigate case of measles in the Central Region" data-search="Officials investigate case of measles in the Central Region Limited detail was available from feed metadata alone. CBS 19 News Africa https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5" data-source-kind="metadata_only_signal" data-freshness="live" data-link-quality="metadata_only" data-region="Africa" data-access="unknown" data-date-window="1" data-scope="publisher" data-official="false" data-story-status="expanding_coverage" data-claim-type="general_update"><div class="kicker">Publisher coverage</div><h3><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5">Officials investigate case of measles in the Central Region</a></h3><div class="meta-row"><span class="badge">CBS 19 News</span><span class="badge">Metadata-only</span><span class="badge">Metadata-only signal</span><span class="badge">Live</span><span class="badge">Africa</span><span class="badge">2026-05-09T02:57+00:00</span><span class="badge">Metadata only</span><span class="badge">Metadata only</span></div></article><article class="site-card sortable-card compact-card searchable-card" data-sort-ts="1778290020" data-sort-source="The Daily Progress" data-sort-title="Measles case confirmed in Buckingham County" data-search="Measles case confirmed in Buckingham County Limited detail was available from feed metadata alone. The Daily Progress South Asia https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakt0SjBhU2kyRDNFenJfdHlLV25waUgycTJqZkNvRnpiMjNOZWwzT3ZFXzkxWlNPT0dqYU1nV2NmbVVzNmEwQUM3ZHAxVXdFZlVpM2RBNEpaRF8zTl9NeC1PM042VTY3ZllDd3E0Qm9KdEZrQVVXWFRBZDBDM0p0aW53QkRqbmsyY1A4OTRGcEtqWnhyLW9vbllETS0wWndqZ0RpZjRUd2tRVFE?oc=5" data-source-kind="metadata_only_signal" data-freshness="live" data-link-quality="metadata_only" data-region="South Asia" data-access="unknown" data-date-window="1" data-scope="publisher" data-official="false" data-story-status="expanding_coverage" data-claim-type="confirmed_case"><div class="kicker">Publisher coverage</div><h3><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakt0SjBhU2kyRDNFenJfdHlLV25waUgycTJqZkNvRnpiMjNOZWwzT3ZFXzkxWlNPT0dqYU1nV2NmbVVzNmEwQUM3ZHAxVXdFZlVpM2RBNEpaRF8zTl9NeC1PM042VTY3ZllDd3E0Qm9KdEZrQVVXWFRBZDBDM0p0aW53QkRqbmsyY1A4OTRGcEtqWnhyLW9vbllETS0wWndqZ0RpZjRUd2tRVFE?oc=5">Measles case confirmed in Buckingham County</a></h3><div class="meta-row"><span class="badge">The Daily Progress</span><span class="badge">Metadata-only</span><span class="badge">Metadata-only signal</span><span class="badge">Live</span><span class="badge">South Asia</span><span class="badge">2026-05-09T01:27+00:00</span><span class="badge">Metadata only</span><span class="badge">Metadata only</span></div></article><article class="site-card sortable-card compact-card searchable-card" data-sort-ts="1778260080" data-sort-source="LebTown" data-sort-title="Lebanon city and county officials await more information on measles outbreak" data-search="Lebanon city and county officials await more information on measles outbreak Limited detail was available from feed metadata alone. LebTown Middle East https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkpFZHRxYnVzLS1fODdrSlJGX3gtdGtnNU5DN2xIUDRSZmVWV3VrMTczVWFMUFVKaGtwY2JqZmhlN0RrbTEtR0lTSVRwNDQyc3g3QXF3WmdqaTNMc1c1T1U1QTBYNEgxOG1FbGU3eDJodmQxcXBvV1Z3Q0pJVHZsanpWOGtrSXYxRnpReDh4dWtwa2JaNjF6eEdnaXBJZFFJc2g3anlwY00yMERL?oc=5" data-source-kind="metadata_only_signal" data-freshness="live" data-link-quality="metadata_only" data-region="Middle East" data-access="unknown" data-date-window="1" data-scope="publisher" data-official="false" data-story-status="expanding_coverage" data-claim-type="general_update"><div class="kicker">Publisher coverage</div><h3><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkpFZHRxYnVzLS1fODdrSlJGX3gtdGtnNU5DN2xIUDRSZmVWV3VrMTczVWFMUFVKaGtwY2JqZmhlN0RrbTEtR0lTSVRwNDQyc3g3QXF3WmdqaTNMc1c1T1U1QTBYNEgxOG1FbGU3eDJodmQxcXBvV1Z3Q0pJVHZsanpWOGtrSXYxRnpReDh4dWtwa2JaNjF6eEdnaXBJZFFJc2g3anlwY00yMERL?oc=5">Lebanon city and county officials await more information on measles outbreak</a></h3><div class="meta-row"><span class="badge">LebTown</span><span class="badge">Metadata-only</span><span class="badge">Metadata-only signal</span><span class="badge">Live</span><span class="badge">Middle East</span><span class="badge">2026-05-08T17:08+00:00</span><span class="badge">Metadata only</span><span class="badge">Metadata only</span></div></article></div>
+          <div id="publisher-coverage" class="card-grid sortable-grid" data-default-sort="newest"><article class="site-card sortable-card compact-card searchable-card" data-sort-ts="1778299200" data-sort-source="The Standard (HK)" data-sort-title="Japan&#x27;s measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit" data-search="Japan&#x27;s measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit Limited detail was available from feed metadata alone. The Standard (HK) East Asia https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGZNVngzSUJRSno3bmpxMkR6MC1HcHNNWnBraGtTRE0yZXN3TGFwNDQ3RTJsYzg5dHE1T2xRd2JvWEZ4dk9VU3QtWUdraWJCNk1lWmd6T3J0VmtOT2praGNkUjUtTWdzUGc1VG5SX1VWUXdRcGdyaDVNV0F0VnM3am5TTkt3SzI1SXBZQ2txMy03VDNhMDdSTHFZTnBVOU1saC0zbUdmdVJGcGRzTk5uRkN2TFU3ZVNxWjFicEk2LW5QTXZXRm9qYVF1b2NKdw?oc=5" data-source-kind="metadata_only_signal" data-freshness="live" data-link-quality="metadata_only" data-region="East Asia" data-access="unknown" data-date-window="1" data-scope="publisher" data-official="false" data-story-status="expanding_coverage" data-claim-type="general_update"><div class="kicker">Publisher coverage</div><h3><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGZNVngzSUJRSno3bmpxMkR6MC1HcHNNWnBraGtTRE0yZXN3TGFwNDQ3RTJsYzg5dHE1T2xRd2JvWEZ4dk9VU3QtWUdraWJCNk1lWmd6T3J0VmtOT2praGNkUjUtTWdzUGc1VG5SX1VWUXdRcGdyaDVNV0F0VnM3am5TTkt3SzI1SXBZQ2txMy03VDNhMDdSTHFZTnBVOU1saC0zbUdmdVJGcGRzTk5uRkN2TFU3ZVNxWjFicEk2LW5QTXZXRm9qYVF1b2NKdw?oc=5">Japan's measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit</a></h3><div class="meta-row"><span class="badge">The Standard (HK)</span><span class="badge">Metadata-only</span><span class="badge">Metadata-only signal</span><span class="badge">Live</span><span class="badge">East Asia</span><span class="badge">2026-05-09T04:00+00:00</span><span class="badge">Metadata only</span><span class="badge">Metadata only</span></div></article><article class="site-card sortable-card compact-card searchable-card" data-sort-ts="1778295420" data-sort-source="CBS 19 News" data-sort-title="Officials investigate case of measles in the Central Region" data-search="Officials investigate case of measles in the Central Region Limited detail was available from feed metadata alone. CBS 19 News Africa https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5" data-source-kind="metadata_only_signal" data-freshness="live" data-link-quality="metadata_only" data-region="Africa" data-access="unknown" data-date-window="1" data-scope="publisher" data-official="false" data-story-status="expanding_coverage" data-claim-type="general_update"><div class="kicker">Publisher coverage</div><h3><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5">Officials investigate case of measles in the Central Region</a></h3><div class="meta-row"><span class="badge">CBS 19 News</span><span class="badge">Metadata-only</span><span class="badge">Metadata-only signal</span><span class="badge">Live</span><span class="badge">Africa</span><span class="badge">2026-05-09T02:57+00:00</span><span class="badge">Metadata only</span><span class="badge">Metadata only</span></div></article><article class="site-card sortable-card compact-card searchable-card" data-sort-ts="1778290020" data-sort-source="The Daily Progress" data-sort-title="Measles case confirmed in Buckingham County" data-search="Measles case confirmed in Buckingham County Limited detail was available from feed metadata alone. The Daily Progress South Asia https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakt0SjBhU2kyRDNFenJfdHlLV25waUgycTJqZkNvRnpiMjNOZWwzT3ZFXzkxWlNPT0dqYU1nV2NmbVVzNmEwQUM3ZHAxVXdFZlVpM2RBNEpaRF8zTl9NeC1PM042VTY3ZllDd3E0Qm9KdEZrQVVXWFRBZDBDM0p0aW53QkRqbmsyY1A4OTRGcEtqWnhyLW9vbllETS0wWndqZ0RpZjRUd2tRVFE?oc=5" data-source-kind="metadata_only_signal" data-freshness="live" data-link-quality="metadata_only" data-region="South Asia" data-access="unknown" data-date-window="1" data-scope="publisher" data-official="false" data-story-status="expanding_coverage" data-claim-type="confirmed_case"><div class="kicker">Publisher coverage</div><h3><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakt0SjBhU2kyRDNFenJfdHlLV25waUgycTJqZkNvRnpiMjNOZWwzT3ZFXzkxWlNPT0dqYU1nV2NmbVVzNmEwQUM3ZHAxVXdFZlVpM2RBNEpaRF8zTl9NeC1PM042VTY3ZllDd3E0Qm9KdEZrQVVXWFRBZDBDM0p0aW53QkRqbmsyY1A4OTRGcEtqWnhyLW9vbllETS0wWndqZ0RpZjRUd2tRVFE?oc=5">Measles case confirmed in Buckingham County</a></h3><div class="meta-row"><span class="badge">The Daily Progress</span><span class="badge">Metadata-only</span><span class="badge">Metadata-only signal</span><span class="badge">Live</span><span class="badge">South Asia</span><span class="badge">2026-05-09T01:27+00:00</span><span class="badge">Metadata only</span><span class="badge">Metadata only</span></div></article><article class="site-card sortable-card compact-card searchable-card" data-sort-ts="1778260080" data-sort-source="LebTown" data-sort-title="Lebanon city and county officials await more information on measles outbreak" data-search="Lebanon city and county officials await more information on measles outbreak Limited detail was available from feed metadata alone. LebTown Middle East https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkpFZHRxYnVzLS1fODdrSlJGX3gtdGtnNU5DN2xIUDRSZmVWV3VrMTczVWFMUFVKaGtwY2JqZmhlN0RrbTEtR0lTSVRwNDQyc3g3QXF3WmdqaTNMc1c1T1U1QTBYNEgxOG1FbGU3eDJodmQxcXBvV1Z3Q0pJVHZsanpWOGtrSXYxRnpReDh4dWtwa2JaNjF6eEdnaXBJZFFJc2g3anlwY00yMERL?oc=5" data-source-kind="metadata_only_signal" data-freshness="live" data-link-quality="metadata_only" data-region="Middle East" data-access="unknown" data-date-window="3" data-scope="publisher" data-official="false" data-story-status="expanding_coverage" data-claim-type="general_update"><div class="kicker">Publisher coverage</div><h3><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkpFZHRxYnVzLS1fODdrSlJGX3gtdGtnNU5DN2xIUDRSZmVWV3VrMTczVWFMUFVKaGtwY2JqZmhlN0RrbTEtR0lTSVRwNDQyc3g3QXF3WmdqaTNMc1c1T1U1QTBYNEgxOG1FbGU3eDJodmQxcXBvV1Z3Q0pJVHZsanpWOGtrSXYxRnpReDh4dWtwa2JaNjF6eEdnaXBJZFFJc2g3anlwY00yMERL?oc=5">Lebanon city and county officials await more information on measles outbreak</a></h3><div class="meta-row"><span class="badge">LebTown</span><span class="badge">Metadata-only</span><span class="badge">Metadata-only signal</span><span class="badge">Live</span><span class="badge">Middle East</span><span class="badge">2026-05-08T17:08+00:00</span><span class="badge">Metadata only</span><span class="badge">Metadata only</span></div></article></div>
         </section>
       </section>
 
@@ -216,21 +219,71 @@
     <script>
       const liveUpdateBanner = document.getElementById("live-update-banner");
       const liveUpdateButton = document.getElementById("live-update-refresh");
+      const liveUpdateDismiss = document.getElementById("live-update-dismiss");
       const liveUpdateText = document.getElementById("live-update-text");
-      const currentRunId = 'run_fae30c1a97ed0f94';
-      const currentGeneratedAt = '2026-05-09T09:03:41';
+      const currentRunId = 'run_0b476f6e541a4309';
+      const currentGeneratedAt = '2026-05-09T12:03:03';
       const manifestPath = '../app_exports/manifest.json';
+      const liveUpdateStorageKey = `pathogen-dispatch-live-update-dismissed:${window.location.pathname}`;
+      const liveUpdateStart = Date.now();
+      let pendingLiveUpdateRunId = "";
 
       function liveUpdateShouldRun() {
         return window.location.protocol === "https:" || window.location.protocol === "http:";
       }
 
+      function getManifestRunId(manifest) {
+        return String(manifest.latest_run_id || manifest.run_id || "").trim();
+      }
+
+      function liveUpdateDismissValue(runId) {
+        return `${window.location.pathname}::${runId || "unknown"}`;
+      }
+
+      function isLiveUpdateDismissed(runId) {
+        try {
+          return window.sessionStorage.getItem(liveUpdateStorageKey) === liveUpdateDismissValue(runId);
+        } catch (error) {
+          return false;
+        }
+      }
+
+      function dismissLiveUpdate(runId) {
+        if (!liveUpdateBanner) return;
+        liveUpdateBanner.hidden = true;
+        pendingLiveUpdateRunId = "";
+        try {
+          window.sessionStorage.setItem(liveUpdateStorageKey, liveUpdateDismissValue(runId));
+        } catch (error) {
+          // Ignore storage failures and simply hide the notice for this page view.
+        }
+      }
+
+      function formatManifestTime(generatedAt) {
+        const parsed = new Date(generatedAt);
+        if (Number.isNaN(parsed.getTime())) {
+          return "";
+        }
+        return parsed.toLocaleString([], {
+          month: "short",
+          day: "numeric",
+          hour: "numeric",
+          minute: "2-digit",
+        });
+      }
+
       function markLiveUpdateAvailable(manifest) {
         if (!liveUpdateBanner) return;
+        const nextRunId = getManifestRunId(manifest);
+        if (isLiveUpdateDismissed(nextRunId)) {
+          return;
+        }
+        pendingLiveUpdateRunId = nextRunId;
         if (liveUpdateText) {
-          const nextRun = manifest.generated_at ? `New edition published ${
-            manifest.generated_at
-          }. Refresh to load it.` : "A newer edition has been published. Refresh to load the latest story set.";
+          const publishedAt = formatManifestTime(manifest.generated_at);
+          const nextRun = publishedAt
+            ? `Updated edition available from ${publishedAt}. Load the latest run when you are ready.`
+            : "An updated edition is available. Load the latest run when you are ready.";
           liveUpdateText.textContent = nextRun;
         }
         liveUpdateBanner.hidden = false;
@@ -248,8 +301,13 @@
         return false;
       }
 
+      function liveUpdatePageHasAged() {
+        return Date.now() - liveUpdateStart >= 360000;
+      }
+
       async function checkForLiveUpdate() {
         if (!liveUpdateShouldRun()) return;
+        if (!liveUpdatePageHasAged()) return;
         try {
           const response = await fetch(`${manifestPath}?ts=${Date.now()}`, { cache: "no-store" });
           if (!response.ok) return;
@@ -265,9 +323,12 @@
       if (liveUpdateButton) {
         liveUpdateButton.addEventListener("click", () => window.location.reload());
       }
+      if (liveUpdateDismiss) {
+        liveUpdateDismiss.addEventListener("click", () => dismissLiveUpdate(pendingLiveUpdateRunId));
+      }
       if (liveUpdateShouldRun()) {
-        window.setTimeout(checkForLiveUpdate, 45000);
-        window.setInterval(checkForLiveUpdate, 300000);
+        window.setTimeout(checkForLiveUpdate, 360000);
+        window.setInterval(checkForLiveUpdate, 600000);
       }
     </script>
   </body>

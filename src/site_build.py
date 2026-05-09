@@ -48,7 +48,7 @@ SITE_BUILD_LOG = Path(__file__).resolve().parent.parent / "logs" / "site-build.l
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Build the Patogen Dispatch static site surfaces.")
+    parser = argparse.ArgumentParser(description="Build the Pathogen Dispatch static site surfaces.")
     parser.add_argument("--days", type=int, default=7, help="Search window in days ending at the target date.")
     parser.add_argument("--date", type=str, help="Target date in YYYY-MM-DD format.")
     parser.add_argument("--output-mode", choices=("local", "web", "both"), default="local", help="Choose whether to write local reader files, docs/ web files, or both.")
@@ -376,6 +376,24 @@ def inject_public_live_update_support(
     font-family: "Avenir Next", "Helvetica Neue", sans-serif;
     color: #42515e;
   }}
+  .public-live-update-actions {{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    flex-wrap: wrap;
+  }}
+  .public-live-update-dismiss {{
+    border: 0;
+    background: transparent;
+    color: #42515e;
+    font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 10px 4px;
+  }}
+  .public-live-update-dismiss:hover {{
+    color: #1b2836;
+  }}
   .public-live-update-button {{
     justify-self: start;
     border-radius: 999px;
@@ -392,39 +410,85 @@ def inject_public_live_update_support(
   }}
   @media (max-width: 700px) {{
     .public-live-update-banner {{
-      left: 14px;
-      right: 14px;
-      bottom: 14px;
+      right: 12px;
+      bottom: 12px;
+      width: calc(100vw - 24px);
       max-width: none;
     }}
-    .public-live-update-button {{
-      width: 100%;
-      justify-self: stretch;
+    .public-live-update-actions {{
+      justify-content: space-between;
     }}
   }}
 </style>
 <section class="public-live-update-banner" id="public-live-update-banner" hidden aria-live="polite">
   <div class="public-live-update-copy">
-    <p class="public-live-update-label">Live update</p>
-    <p class="public-live-update-text" id="public-live-update-text">A newer edition has been published. Refresh to load the latest stories.</p>
+    <p class="public-live-update-label">New edition available</p>
+    <p class="public-live-update-text" id="public-live-update-text">An updated edition is available. Load the latest run when you are ready.</p>
   </div>
-  <button class="public-live-update-button" id="public-live-update-refresh" type="button">Refresh now</button>
+  <div class="public-live-update-actions">
+    <button class="public-live-update-dismiss" id="public-live-update-dismiss" type="button">Keep reading</button>
+    <button class="public-live-update-button" id="public-live-update-refresh" type="button">Load latest</button>
+  </div>
 </section>
 <script>
   (function () {{
     const banner = document.getElementById("public-live-update-banner");
     const button = document.getElementById("public-live-update-refresh");
+    const dismiss = document.getElementById("public-live-update-dismiss");
     const text = document.getElementById("public-live-update-text");
     const currentRunId = {current_run_id!r};
     const currentGeneratedAt = {current_generated_at!r};
     const manifestPath = {manifest_path!r};
+    const storageKey = `pathogen-dispatch-live-update-dismissed:${{window.location.pathname}}`;
+    const liveUpdateStart = Date.now();
+    let pendingRunId = "";
 
     function shouldCheckForUpdates() {{
       return window.location.protocol === "https:" || window.location.protocol === "http:";
     }}
 
+    function getManifestRunId(manifest) {{
+      return String(manifest.latest_run_id || manifest.run_id || "").trim();
+    }}
+
+    function dismissValue(runId) {{
+      return `${{window.location.pathname}}::${{runId || "unknown"}}`;
+    }}
+
+    function isDismissed(runId) {{
+      try {{
+        return window.sessionStorage.getItem(storageKey) === dismissValue(runId);
+      }} catch (error) {{
+        return false;
+      }}
+    }}
+
+    function dismissNotice(runId) {{
+      if (!banner) return;
+      banner.hidden = true;
+      pendingRunId = "";
+      try {{
+        window.sessionStorage.setItem(storageKey, dismissValue(runId));
+      }} catch (error) {{
+        // Ignore storage failures and just hide the notice for this page view.
+      }}
+    }}
+
+    function formatManifestTime(generatedAt) {{
+      const parsed = new Date(generatedAt);
+      if (Number.isNaN(parsed.getTime())) {{
+        return "";
+      }}
+      return parsed.toLocaleString([], {{
+        month: "short",
+        day: "numeric",
+        hour: "numeric",
+        minute: "2-digit",
+      }});
+    }}
+
     function newerManifest(manifest) {{
-      const nextRunId = String(manifest.latest_run_id || "").trim();
+      const nextRunId = getManifestRunId(manifest);
       const nextGeneratedAt = String(manifest.generated_at || "").trim();
       if (currentRunId && nextRunId) {{
         return nextRunId !== currentRunId;
@@ -435,15 +499,26 @@ def inject_public_live_update_support(
       return false;
     }}
 
+    function pageHasAged() {{
+      return Date.now() - liveUpdateStart >= 360000;
+    }}
+
     async function checkForUpdates() {{
       if (!shouldCheckForUpdates()) return;
+      if (!pageHasAged()) return;
       try {{
         const response = await fetch(`${{manifestPath}}?ts=${{Date.now()}}`, {{ cache: "no-store" }});
         if (!response.ok) return;
         const manifest = await response.json();
         if (!newerManifest(manifest)) return;
-        if (text && manifest.generated_at) {{
-          text.textContent = `New edition published ${{manifest.generated_at}}. Refresh to load it.`;
+        const nextRunId = getManifestRunId(manifest);
+        if (isDismissed(nextRunId)) return;
+        pendingRunId = nextRunId;
+        if (text) {{
+          const publishedAt = formatManifestTime(manifest.generated_at);
+          text.textContent = publishedAt
+            ? `Updated edition available from ${{publishedAt}}. Load the latest run when you are ready.`
+            : "An updated edition is available. Load the latest run when you are ready.";
         }}
         if (banner) banner.hidden = false;
       }} catch (error) {{
@@ -454,9 +529,12 @@ def inject_public_live_update_support(
     if (button) {{
       button.addEventListener("click", () => window.location.reload());
     }}
+    if (dismiss) {{
+      dismiss.addEventListener("click", () => dismissNotice(pendingRunId));
+    }}
     if (shouldCheckForUpdates()) {{
-      window.setTimeout(checkForUpdates, 45000);
-      window.setInterval(checkForUpdates, 300000);
+      window.setTimeout(checkForUpdates, 360000);
+      window.setInterval(checkForUpdates, 600000);
     }}
   }})();
 </script>

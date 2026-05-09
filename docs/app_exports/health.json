@@ -15,7 +15,7 @@
     ],
     "metadata_only_count": 53,
     "sources_cached": 0,
-    "sources_failed": 2,
+    "sources_failed": 3,
     "sources_live": 66,
     "story_count_change": 0,
     "wrapper_only_count": 10
@@ -27,7 +27,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-09T09:03:41",
+  "generated_at": "2026-05-09T12:03:03",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='ncdc.gov.ng', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='ncdc.gov.ng', port=443): Failed to resolve 'ncdc.gov.ng' ([Errno 8] nodename nor servname provided, or not known)\"))",
@@ -38,6 +38,11 @@
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Max retries exceeded with url: /livestock-poultry-disease/avian/avian-influenza (Caused by NameResolutionError(\"HTTPSConnection(host='www.aphis.usda.gov', port=443): Failed to resolve 'www.aphis.usda.gov' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=30&sort=pub+date&term=%28%28%28%22Yersinia+pestis%22%5BTitle%2FAbstract%5D%29+OR+plague%5BTitle%2FAbstract%5D+OR+smallpox%5BTitle%2FAbstract%5D+OR+variola%5BTitle%2FAbstract%5D+OR+leprosy%5BTitle%2FAbstract%5D+OR+%22Mycobacterium+leprae%22%5BTitle%2FAbstract%5D+OR+%22Mycobacterium+tuberculosis%22%5BTitle%2FAbstract%5D+OR+treponemal%5BTitle%2FAbstract%5D+OR+syphilis%5BTitle%2FAbstract%5D+OR+tuberculosis%5BTitle%2FAbstract%5D%29+AND+%28%28%22ancient+DNA%22%5BTitle%2FAbstract%5D%29+OR+paleopathology%5BTitle%2FAbstract%5D+OR+archaeology%5BTitle%2FAbstract%5D+OR+skeletal%5BTitle%2FAbstract%5D+OR+burial%5BTitle%2FAbstract%5D+OR+cemetery%5BTitle%2FAbstract%5D+OR+mummified%5BTitle%2FAbstract%5D+OR+medieval%5BTitle%2FAbstract%5D+OR+prehistoric%5BTitle%2FAbstract%5D+OR+historical%5BTitle%2FAbstract%5D%29%29&datetype=pdat&mindate=2026-05-03&maxdate=2026-05-09 (Caused by NameResolutionError(\"HTTPSConnection(host='eutils.ncbi.nlm.nih.gov', port=443): Failed to resolve 'eutils.ncbi.nlm.nih.gov' ([Errno 8] nodename nor servname provided, or not known)\")) [cache fallback used]",
+      "source": "PubMed Historical Pathogen Case Studies",
+      "source_type": "pubmed"
     }
   ]
 }

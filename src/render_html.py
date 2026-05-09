@@ -141,7 +141,7 @@ def render_html(
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>The Patogen Dispatch by The Edge of Epidemiology</title>
+    <title>The Pathogen Dispatch by The Edge of Epidemiology</title>
     <style>
       :root {{
         --bg: #e8e1d3;
@@ -1085,7 +1085,7 @@ def render_html(
           <div class="brand-lockup">{render_logo_mark()}</div>
           <div class="brand-text brand-deck">
             <p class="kicker">The Edge of Epidemiology • Infectious disease intelligence desk</p>
-            <h1>The Patogen Dispatch</h1>
+            <h1>The Pathogen Dispatch</h1>
             <p class="subtitle">by The Edge of Epidemiology</p>
           </div>
         </div>
@@ -1441,7 +1441,7 @@ def render_global_site_nav() -> str:
     return (
         '<header class="site-nav-shell">'
         '<div class="site-nav-brand">'
-        '<div class="eyebrow">The Patogen Dispatch</div>'
+        '<div class="eyebrow">The Pathogen Dispatch</div>'
         '<p class="site-nav-note">Unified desk navigation</p>'
         '</div>'
         '<nav class="site-nav-links" aria-label="Site navigation">'
@@ -2514,7 +2514,7 @@ def render_logo_mark() -> str:
 
 def render_banner_mark() -> str:
     return """
-<svg viewBox="0 0 1280 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Patogen Dispatch banner">
+<svg viewBox="0 0 1280 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Pathogen Dispatch banner">
   <defs>
     <linearGradient id="dispatchBannerBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0C1F30"/>

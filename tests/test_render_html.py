@@ -173,8 +173,8 @@ def test_render_html_contains_core_sections_and_links():
         ],
     )
     assert "<!DOCTYPE html>" in content
-    assert "The Patogen Dispatch" in content
-    assert "The Patogen Dispatch by The Edge of Epidemiology" in content
+    assert "The Pathogen Dispatch" in content
+    assert "The Pathogen Dispatch by The Edge of Epidemiology" in content
     assert "Unified desk navigation" in content
     assert "Latest briefing" in content
     assert "Site index" in content

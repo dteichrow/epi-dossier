@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Pertussis | The Patogen Dispatch</title>
+    <title>Pertussis | The Pathogen Dispatch</title>
     <style>
       :root { --bg: #e8e1d3; --bg-deep: #d8cebc; --surface: #f8f4ea; --surface-alt: #f2ebde; --paper: #fffdf8; --ink: #1b2836; --ink-soft: #42515e; --line: #d6cab7; --accent: #8d3f2f; --accent-soft: rgba(141,63,47,0.10); --signal: #1f5b89; --signal-soft: rgba(31,91,137,0.12); --shadow: 0 24px 56px rgba(49, 36, 22, 0.10); }
       * { box-sizing: border-box; }
@@ -16,9 +16,12 @@
       .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
       .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; flex-wrap: wrap; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
-      .live-update-banner { padding: 14px 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+      .live-update-banner { position: fixed; right: 18px; bottom: 18px; width: min(420px, calc(100vw - 28px)); padding: 14px 16px; display: grid; gap: 12px; z-index: 40; box-shadow: 0 18px 36px rgba(29, 24, 18, 0.16); }
       .live-update-copy { min-width: 0; display: grid; gap: 4px; }
       .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .live-update-actions { display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap; }
+      .live-update-dismiss { border: 0; background: transparent; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 600; cursor: pointer; padding: 10px 4px; }
+      .live-update-dismiss:hover { color: var(--ink); }
       .live-update-button { border-radius: 999px; padding: 10px 14px; border: 1px solid rgba(31,91,137,0.26); background: rgba(31,91,137,0.12); color: var(--signal); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 700; cursor: pointer; white-space: nowrap; }
       .live-update-button:hover { background: rgba(31,91,137,0.18); }
       .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
@@ -71,14 +74,14 @@
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
       @media (max-width: 1180px) { .panel-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } .live-update-banner { flex-direction: column; align-items: flex-start; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
-      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
+      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
+      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } .live-update-banner { right: 12px; bottom: 12px; width: calc(100vw - 24px); } .live-update-actions { justify-content: space-between; } }
     </style>
   </head>
   <body>
     <main class="page">
-      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Patogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
-      <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite"><div class="live-update-copy"><div class="section-nav-label">Live update</div><p class="live-update-text" id="live-update-text">A newer edition has been published. Refresh to load the latest story set.</p></div><button class="live-update-button" id="live-update-refresh" type="button">Refresh now</button></section>
+      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Pathogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
+      <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite" role="status"><div class="live-update-copy"><div class="section-nav-label">New edition available</div><p class="live-update-text" id="live-update-text">An updated edition is available. Load the latest run when you are ready.</p></div><div class="live-update-actions"><button class="live-update-dismiss" id="live-update-dismiss" type="button">Keep reading</button><button class="live-update-button" id="live-update-refresh" type="button">Load latest</button></div></section>
       <section class="hero" id="story-overview">
         <p class="kicker">Disease intelligence sheet</p>
         <h1>Pertussis</h1>
@@ -137,21 +140,71 @@
     <script>
       const liveUpdateBanner = document.getElementById("live-update-banner");
       const liveUpdateButton = document.getElementById("live-update-refresh");
+      const liveUpdateDismiss = document.getElementById("live-update-dismiss");
       const liveUpdateText = document.getElementById("live-update-text");
-      const currentRunId = 'run_fae30c1a97ed0f94';
-      const currentGeneratedAt = '2026-05-09T09:03:41';
+      const currentRunId = 'run_0b476f6e541a4309';
+      const currentGeneratedAt = '2026-05-09T12:03:03';
       const manifestPath = '../app_exports/manifest.json';
+      const liveUpdateStorageKey = `pathogen-dispatch-live-update-dismissed:${window.location.pathname}`;
+      const liveUpdateStart = Date.now();
+      let pendingLiveUpdateRunId = "";
 
       function liveUpdateShouldRun() {
         return window.location.protocol === "https:" || window.location.protocol === "http:";
       }
 
+      function getManifestRunId(manifest) {
+        return String(manifest.latest_run_id || manifest.run_id || "").trim();
+      }
+
+      function liveUpdateDismissValue(runId) {
+        return `${window.location.pathname}::${runId || "unknown"}`;
+      }
+
+      function isLiveUpdateDismissed(runId) {
+        try {
+          return window.sessionStorage.getItem(liveUpdateStorageKey) === liveUpdateDismissValue(runId);
+        } catch (error) {
+          return false;
+        }
+      }
+
+      function dismissLiveUpdate(runId) {
+        if (!liveUpdateBanner) return;
+        liveUpdateBanner.hidden = true;
+        pendingLiveUpdateRunId = "";
+        try {
+          window.sessionStorage.setItem(liveUpdateStorageKey, liveUpdateDismissValue(runId));
+        } catch (error) {
+          // Ignore storage failures and simply hide the notice for this page view.
+        }
+      }
+
+      function formatManifestTime(generatedAt) {
+        const parsed = new Date(generatedAt);
+        if (Number.isNaN(parsed.getTime())) {
+          return "";
+        }
+        return parsed.toLocaleString([], {
+          month: "short",
+          day: "numeric",
+          hour: "numeric",
+          minute: "2-digit",
+        });
+      }
+
       function markLiveUpdateAvailable(manifest) {
         if (!liveUpdateBanner) return;
+        const nextRunId = getManifestRunId(manifest);
+        if (isLiveUpdateDismissed(nextRunId)) {
+          return;
+        }
+        pendingLiveUpdateRunId = nextRunId;
         if (liveUpdateText) {
-          const nextRun = manifest.generated_at ? `New edition published ${
-            manifest.generated_at
-          }. Refresh to load it.` : "A newer edition has been published. Refresh to load the latest story set.";
+          const publishedAt = formatManifestTime(manifest.generated_at);
+          const nextRun = publishedAt
+            ? `Updated edition available from ${publishedAt}. Load the latest run when you are ready.`
+            : "An updated edition is available. Load the latest run when you are ready.";
           liveUpdateText.textContent = nextRun;
         }
         liveUpdateBanner.hidden = false;
@@ -169,8 +222,13 @@
         return false;
       }
 
+      function liveUpdatePageHasAged() {
+        return Date.now() - liveUpdateStart >= 360000;
+      }
+
       async function checkForLiveUpdate() {
         if (!liveUpdateShouldRun()) return;
+        if (!liveUpdatePageHasAged()) return;
         try {
           const response = await fetch(`${manifestPath}?ts=${Date.now()}`, { cache: "no-store" });
           if (!response.ok) return;
@@ -186,9 +244,12 @@
       if (liveUpdateButton) {
         liveUpdateButton.addEventListener("click", () => window.location.reload());
       }
+      if (liveUpdateDismiss) {
+        liveUpdateDismiss.addEventListener("click", () => dismissLiveUpdate(pendingLiveUpdateRunId));
+      }
       if (liveUpdateShouldRun()) {
-        window.setTimeout(checkForLiveUpdate, 45000);
-        window.setInterval(checkForLiveUpdate, 300000);
+        window.setTimeout(checkForLiveUpdate, 360000);
+        window.setInterval(checkForLiveUpdate, 600000);
       }
     </script>
   </body>
