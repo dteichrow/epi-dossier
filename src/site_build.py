@@ -420,14 +420,14 @@ def inject_public_live_update_support(
     }}
   }}
 </style>
-<section class="public-live-update-banner" id="public-live-update-banner" hidden aria-live="polite">
+<section class="public-live-update-banner" id="public-live-update-banner" hidden aria-live="polite" data-live-update-banner="true">
   <div class="public-live-update-copy">
     <p class="public-live-update-label">New edition available</p>
     <p class="public-live-update-text" id="public-live-update-text">An updated edition is available. Load the latest run when you are ready.</p>
   </div>
   <div class="public-live-update-actions">
-    <button class="public-live-update-dismiss" id="public-live-update-dismiss" type="button">Keep reading</button>
-    <button class="public-live-update-button" id="public-live-update-refresh" type="button">Load latest</button>
+    <button class="public-live-update-dismiss" id="public-live-update-dismiss" type="button" onclick="window.__pathogenDismissPublicUpdate && window.__pathogenDismissPublicUpdate(this)">Keep reading</button>
+    <button class="public-live-update-button" id="public-live-update-refresh" type="button" onclick="window.__pathogenLoadPublicLatest && window.__pathogenLoadPublicLatest(this)">Load latest</button>
   </div>
 </section>
 <script>
@@ -466,6 +466,7 @@ def inject_public_live_update_support(
     function dismissNotice(runId) {{
       if (!banner) return;
       banner.hidden = true;
+      banner.dataset.pendingRunId = "";
       pendingRunId = "";
       try {{
         window.sessionStorage.setItem(storageKey, dismissValue(runId));
@@ -514,6 +515,10 @@ def inject_public_live_update_support(
         const nextRunId = getManifestRunId(manifest);
         if (isDismissed(nextRunId)) return;
         pendingRunId = nextRunId;
+        if (banner) {{
+          banner.dataset.pendingRunId = nextRunId;
+          banner.dataset.dismissKey = storageKey;
+        }}
         if (text) {{
           const publishedAt = formatManifestTime(manifest.generated_at);
           text.textContent = publishedAt
@@ -526,11 +531,33 @@ def inject_public_live_update_support(
       }}
     }}
 
+    window.__pathogenDismissPublicUpdate = function (button) {{
+      const currentBanner = button && button.closest ? button.closest("[data-live-update-banner]") : banner;
+      const runId = currentBanner && currentBanner.dataset ? currentBanner.dataset.pendingRunId || "" : "";
+      dismissNotice(runId);
+    }};
+
+    window.__pathogenLoadPublicLatest = function (button) {{
+      const currentBanner = button && button.closest ? button.closest("[data-live-update-banner]") : banner;
+      if (currentBanner) {{
+        currentBanner.hidden = true;
+      }}
+      const url = new URL(window.location.href);
+      url.searchParams.set("_edition", String(Date.now()));
+      window.location.replace(url.toString());
+    }};
+
     if (button) {{
-      button.addEventListener("click", () => window.location.reload());
+      button.addEventListener("click", (event) => {{
+        event.preventDefault();
+        window.__pathogenLoadPublicLatest(button);
+      }});
     }}
     if (dismiss) {{
-      dismiss.addEventListener("click", () => dismissNotice(pendingRunId));
+      dismiss.addEventListener("click", (event) => {{
+        event.preventDefault();
+        window.__pathogenDismissPublicUpdate(dismiss);
+      }});
     }}
     if (shouldCheckForUpdates()) {{
       window.setTimeout(checkForUpdates, 360000);

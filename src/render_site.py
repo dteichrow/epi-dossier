@@ -1213,14 +1213,14 @@ def render_page_section_nav(links: list[tuple[str, str]]) -> str:
 
 def render_live_update_banner() -> str:
     return (
-        '<section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite" role="status">'
+        '<section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite" role="status" data-live-update-banner="true">'
         '<div class="live-update-copy">'
         '<div class="section-nav-label">New edition available</div>'
         '<p class="live-update-text" id="live-update-text">An updated edition is available. Load the latest run when you are ready.</p>'
         '</div>'
         '<div class="live-update-actions">'
-        '<button class="live-update-dismiss" id="live-update-dismiss" type="button">Keep reading</button>'
-        '<button class="live-update-button" id="live-update-refresh" type="button">Load latest</button>'
+        '<button class="live-update-dismiss" id="live-update-dismiss" type="button" onclick="window.__pathogenDismissLiveUpdate && window.__pathogenDismissLiveUpdate(this)">Keep reading</button>'
+        '<button class="live-update-button" id="live-update-refresh" type="button" onclick="window.__pathogenLoadLatest && window.__pathogenLoadLatest(this)">Load latest</button>'
         "</div>"
         '</section>'
     )
@@ -1262,6 +1262,7 @@ def live_update_script(manifest_path: str, current_run_id: str, current_generate
       function dismissLiveUpdate(runId) {{
         if (!liveUpdateBanner) return;
         liveUpdateBanner.hidden = true;
+        liveUpdateBanner.dataset.pendingRunId = "";
         pendingLiveUpdateRunId = "";
         try {{
           window.sessionStorage.setItem(liveUpdateStorageKey, liveUpdateDismissValue(runId));
@@ -1290,6 +1291,8 @@ def live_update_script(manifest_path: str, current_run_id: str, current_generate
           return;
         }}
         pendingLiveUpdateRunId = nextRunId;
+        liveUpdateBanner.dataset.pendingRunId = nextRunId;
+        liveUpdateBanner.dataset.dismissKey = liveUpdateStorageKey;
         if (liveUpdateText) {{
           const publishedAt = formatManifestTime(manifest.generated_at);
           const nextRun = publishedAt
@@ -1331,11 +1334,33 @@ def live_update_script(manifest_path: str, current_run_id: str, current_generate
         }}
       }}
 
+      window.__pathogenDismissLiveUpdate = function (button) {{
+        const banner = button && button.closest ? button.closest("[data-live-update-banner]") : liveUpdateBanner;
+        const pendingRunId = banner && banner.dataset ? banner.dataset.pendingRunId || "" : "";
+        dismissLiveUpdate(pendingRunId);
+      }};
+
+      window.__pathogenLoadLatest = function (button) {{
+        const banner = button && button.closest ? button.closest("[data-live-update-banner]") : liveUpdateBanner;
+        if (banner) {{
+          banner.hidden = true;
+        }}
+        const url = new URL(window.location.href);
+        url.searchParams.set("_edition", String(Date.now()));
+        window.location.replace(url.toString());
+      }};
+
       if (liveUpdateButton) {{
-        liveUpdateButton.addEventListener("click", () => window.location.reload());
+        liveUpdateButton.addEventListener("click", (event) => {{
+          event.preventDefault();
+          window.__pathogenLoadLatest(liveUpdateButton);
+        }});
       }}
       if (liveUpdateDismiss) {{
-        liveUpdateDismiss.addEventListener("click", () => dismissLiveUpdate(pendingLiveUpdateRunId));
+        liveUpdateDismiss.addEventListener("click", (event) => {{
+          event.preventDefault();
+          window.__pathogenDismissLiveUpdate(liveUpdateDismiss);
+        }});
       }}
       if (liveUpdateShouldRun()) {{
         window.setTimeout(checkForLiveUpdate, 360000);

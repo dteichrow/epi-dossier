@@ -274,6 +274,10 @@ def test_render_story_page_web_mode_includes_live_update_polling():
     assert "window.sessionStorage" in content
     assert "360000" in content
     assert "600000" in content
+    assert "__pathogenLoadLatest" in content
+    assert "__pathogenDismissLiveUpdate" in content
+    assert 'data-live-update-banner="true"' in content
+    assert "_edition" in content
 
 
 def test_render_story_page_strips_markdown_links_from_bullets_and_timeline():
@@ -371,6 +375,8 @@ def test_render_public_homepage_includes_live_update_banner():
     assert "Load latest" in content
     assert "Keep reading" in content
     assert "An updated edition is available. Load the latest run when you are ready." in content
+    assert "__pathogenLoadLatest" in content
+    assert "__pathogenDismissLiveUpdate" in content
 
 
 def test_render_public_research_page_uses_research_specific_sections():
