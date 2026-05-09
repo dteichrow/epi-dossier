@@ -3,10 +3,14 @@ from __future__ import annotations
 import html
 from collections import defaultdict
 from datetime import date, datetime
+import re
 from typing import Any
 
 from .dedupe import titles_similar
 from .utils import format_timestamp, normalize_whitespace
+
+
+MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 
 def render_story_page(
@@ -35,7 +39,7 @@ def render_story_page(
     official_note = render_story_section_note(len(official_items_raw), len(official_items))
     press_note = render_story_section_note(len(press_items_raw), len(press_items))
     timeline_rows = "".join(render_timeline_row(entry) for entry in timeline) or '<p class="empty-note">No prior update timeline has been recorded yet.</p>'
-    bullet_rows = "".join(f"<li>{escape(bullet)}</li>" for bullet in story.get("latest_update_bullets", [])) or "<li>No new delta bullets were generated in this run.</li>"
+    bullet_rows = "".join(f"<li>{escape(clean_story_text(bullet))}</li>" for bullet in story.get("latest_update_bullets", [])) or "<li>No new delta bullets were generated in this run.</li>"
     related_reference_cards = "".join(
         render_related_reference_card(reference, web_mode=web_mode, link_prefix="../") for reference in story.get("related_references", [])
     ) or '<p class="empty-note">No disease intelligence sheets were linked to this story yet.</p>'
@@ -87,7 +91,7 @@ def render_story_page(
         <h2 class="hero-subhead">Why it matters</h2>
         <p>{escape(story.get("why_it_matters", "No why-it-matters note is available yet."))}</p>
         <h2 class="hero-subhead">What changed in this run</h2>
-        <p><strong>Latest summary:</strong> {escape(story.get("latest_update_summary", "No update summary available."))}</p>
+        <p><strong>Latest summary:</strong> {escape(clean_story_text(story.get("latest_update_summary", "No update summary available.")))}</p>
         <ul class="bullet-list">{bullet_rows}</ul>
       </section>
 
@@ -327,7 +331,7 @@ def render_public_homepage(
     lead_story_cards = "".join(render_public_story_card(story, link_prefix="./") for story in lead_stories) or '<p class="empty-note">No active outbreak files are available in this run.</p>'
     changed_cards = "".join(render_public_item_card(item) for item in changed_today) or '<p class="empty-note">No major changed items were surfaced in this run.</p>'
     watch_cards = "".join(render_public_item_card(item) for item in watch_followups) or '<p class="empty-note">No additional watch items were surfaced in this run.</p>'
-    research_cards = "".join(render_public_item_card(item) for item in research_items) or '<p class="empty-note">No research-linked items were surfaced in this run.</p>'
+    research_cards = "".join(render_public_research_card(item) for item in research_items) or '<p class="empty-note">No research-linked items were surfaced in this run.</p>'
     reference_cards = "".join(render_public_reference_card(reference, link_prefix="./") for reference in reference_spotlight) or '<p class="empty-note">No reference sheets were spotlighted in this run.</p>'
     archive_rows = "".join(render_public_archive_row(entry, link_prefix="./") for entry in archive_cards) or '<p class="empty-note">No archive days are available yet.</p>'
     live_update_banner = render_live_update_banner()
@@ -404,6 +408,17 @@ def render_public_desk_page(
     current_run_id: str = "",
     current_generated_at: str = "",
 ) -> str:
+    if active_page == "research":
+        return render_public_research_page(
+            title,
+            description,
+            stories,
+            items,
+            reference_records,
+            archive_entries,
+            current_run_id=current_run_id,
+            current_generated_at=current_generated_at,
+        )
     story_cards = "".join(render_public_story_card(story, link_prefix="./") for story in stories) or '<p class="empty-note">No tracked story files matched this desk in the current run.</p>'
     item_cards = "".join(render_public_item_card(item) for item in items) or '<p class="empty-note">No item cards matched this desk in the current run.</p>'
     reference_cards = "".join(render_public_reference_card(reference, link_prefix="./") for reference in reference_records[:4]) or '<p class="empty-note">No related disease sheets are linked here yet.</p>'
@@ -439,6 +454,81 @@ def render_public_desk_page(
       <section class="panel-grid">
         <section class="panel" id="reference-links">
           <h2>Related Disease Sheets</h2>
+          <div class="card-grid">{reference_cards}</div>
+        </section>
+        <section class="panel" id="archive-links">
+          <h2>Recent Archive Days</h2>
+          <div class="archive-table">{archive_rows}</div>
+        </section>
+      </section>
+    </main>
+    <script>{live_update_js}</script>
+  </body>
+</html>
+"""
+
+
+def render_public_research_page(
+    title: str,
+    description: str,
+    stories: list[dict[str, Any]],
+    items: list[dict[str, Any]],
+    reference_records: list[dict[str, Any]],
+    archive_entries: list[dict[str, Any]],
+    *,
+    current_run_id: str = "",
+    current_generated_at: str = "",
+) -> str:
+    research_briefs = [
+        item
+        for item in items
+        if item.get("evidence_type") in {"journal_article", "preprint", "research_linked"}
+        and item.get("category") != "Virology and pathogen evolution"
+    ]
+    evolution_briefs = [item for item in items if item.get("category") == "Virology and pathogen evolution"]
+    related_story_cards = collect_related_stories_from_references(reference_records, stories)
+    research_cards = "".join(render_public_research_card(item) for item in research_briefs) or '<p class="empty-note">No current papers or preprints cleared the desk filters in this run.</p>'
+    evolution_cards = "".join(render_public_research_card(item) for item in evolution_briefs) or '<p class="empty-note">No virology or pathogen-evolution briefs were surfaced in this run.</p>'
+    story_cards = "".join(render_public_story_card(story, link_prefix="./") for story in related_story_cards) or '<p class="empty-note">No active outbreak files were directly touched by the current research set.</p>'
+    reference_cards = "".join(render_public_reference_card(reference, link_prefix="./") for reference in reference_records[:6]) or '<p class="empty-note">No disease sheets are linked to the current research set yet.</p>'
+    archive_rows = "".join(render_public_archive_row(entry, link_prefix="./") for entry in archive_entries[:8]) or '<p class="empty-note">No archive days are available yet.</p>'
+    live_update_banner = render_live_update_banner()
+    live_update_js = live_update_script("./app_exports/manifest.json", current_run_id, current_generated_at)
+    return f"""<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{escape(title)} | The Patogen Dispatch</title>
+    <style>{base_styles()}</style>
+  </head>
+  <body>
+    <main class="page">
+      {render_site_header_mode("./", nav_mode="web", active_page="research")}
+      {live_update_banner}
+      <section class="hero" id="desk-top">
+        <p class="kicker">Source-first desk</p>
+        <h1>{escape(title)}</h1>
+        <p class="subtitle">{escape(description)}</p>
+      </section>
+      {render_page_section_nav([("Latest Papers And Preprints", "#latest-papers"), ("Virology + Evolution", "#virology-evolution"), ("Research-Linked Active Files", "#research-linked-files"), ("Disease Sheets", "#reference-links"), ("Archive", "#archive-links")])}
+      <section class="panel" id="latest-papers">
+        <h2>Latest Papers And Preprints</h2>
+        <p class="muted-note">Research that adds mechanism, surveillance, transmission, or outbreak context beyond the daily news stream.</p>
+        <div class="card-grid">{research_cards}</div>
+      </section>
+      <section class="panel" id="virology-evolution">
+        <h2>Virology + Pathogen Evolution</h2>
+        <p class="muted-note">Genomics, evolution, and laboratory-linked findings that shape how the desk should interpret the current signal environment.</p>
+        <div class="card-grid">{evolution_cards}</div>
+      </section>
+      <section class="panel" id="research-linked-files">
+        <h2>Research-Linked Active Files</h2>
+        <div class="story-grid">{story_cards}</div>
+      </section>
+      <section class="panel-grid">
+        <section class="panel" id="reference-links">
+          <h2>Disease Sheets</h2>
           <div class="card-grid">{reference_cards}</div>
         </section>
         <section class="panel" id="archive-links">
@@ -519,7 +609,14 @@ def stories_for_edition(stories: list[dict[str, Any]], edition_key: str) -> list
 
 def render_public_story_card(story: dict[str, Any], *, link_prefix: str) -> str:
     href = f'{link_prefix}{story.get("story_web_path", "")}'
-    badges = "".join(
+    badges = []
+    item_count = story.get("item_count")
+    source_count = story.get("source_count")
+    if item_count is not None:
+        badges.append(f'<span class="badge accent">{item_count} item(s)</span>')
+    if source_count is not None:
+        badges.append(f'<span class="badge">{source_count} source(s)</span>')
+    badges.extend(
         f'<span class="badge">{escape(label)}</span>'
         for label in [story.get("current_status_summary", ""), story.get("primary_region", ""), story.get("country", "")]
         if label
@@ -529,7 +626,7 @@ def render_public_story_card(story: dict[str, Any], *, link_prefix: str) -> str:
         f'<div class="kicker">Outbreak file</div>'
         f'<h3><a href="{escape_attr(href)}">{escape(story.get("display_title", ""))}</a></h3>'
         f'<p>{escape(story.get("latest_update_summary", ""))}</p>'
-        f'<div class="meta-row"><span class="badge accent">{story.get("item_count", 0)} item(s)</span><span class="badge">{story.get("source_count", 0)} source(s)</span>{badges}</div>'
+        f'{"<div class=\"meta-row\">" + "".join(badges) + "</div>" if badges else ""}'
         f"</article>"
     )
 
@@ -544,6 +641,41 @@ def render_public_reference_card(reference: dict[str, Any], *, link_prefix: str)
         f'<p>{escape(reference.get("why_reporters_care", ""))}</p>'
         f"</article>"
     )
+
+
+def render_public_research_card(item: dict[str, Any]) -> str:
+    evidence_label = public_research_evidence_label(str(item.get("evidence_type", "")))
+    source_label = item.get("journal") or item.get("publisher_name") or item.get("source", "Unknown source")
+    freshness = humanize_data_value("freshness", str(item.get("freshness_state", "live")))
+    why_it_matters = research_why_it_matters(item)
+    caveats = research_evidence_caveat(item)
+    doi = normalize_whitespace(str(item.get("doi", "")))
+    abstract_url = item.get("abstract_url") or item.get("preferred_url") or item.get("source_url", "")
+    return (
+        f'<article class="site-card">'
+        f'<div class="kicker">{escape(evidence_label)}</div>'
+        f'<h3><a href="{escape_attr(item.get("preferred_url") or item.get("source_url", ""))}">{escape(item.get("title", ""))}</a></h3>'
+        f'<p>{escape(item.get("summary", ""))}</p>'
+        f'<p><strong>Source:</strong> {escape(source_label)}</p>'
+        f'{f"<p><strong>Why it matters:</strong> {escape(why_it_matters)}</p>" if why_it_matters else ""}'
+        f'{f"<p><strong>Evidence caveat:</strong> {escape(caveats)}</p>" if caveats else ""}'
+        f'<div class="meta-row"><span class="badge">{escape(item.get("published_at", "Unknown"))}</span><span class="badge">{escape(freshness)}</span>{f"<span class=\"badge\">DOI: {escape(doi)}</span>" if doi else ""}{f"<a class=\"link-pill\" href=\"{escape_attr(abstract_url)}\">Abstract</a>" if abstract_url else ""}</div>'
+        f"</article>"
+    )
+
+
+def collect_related_stories_from_references(reference_records: list[dict[str, Any]], stories: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    story_map: dict[str, dict[str, Any]] = {}
+    for story in stories:
+        story_key = str(story.get("story_id") or story.get("display_title") or "")
+        if story_key and story_key not in story_map:
+            story_map[story_key] = story
+    for reference in reference_records:
+        for story in reference.get("related_stories", []):
+            story_key = str(story.get("story_id") or story.get("display_title") or "")
+            if story_key and story_key not in story_map:
+                story_map[story_key] = story
+    return list(story_map.values())[:6]
 
 
 def render_public_item_card(item: dict[str, Any]) -> str:
@@ -571,13 +703,40 @@ def render_public_archive_row(entry: dict[str, Any], *, link_prefix: str) -> str
 
 
 def public_item_kicker(item: dict[str, Any]) -> str:
-    if item.get("official"):
-        return "Official update"
     if item.get("content_class") == "research_context":
         return "Research"
+    if item.get("official"):
+        return "Official update"
     if item.get("content_class") == "metadata_only_signal":
         return "Metadata-only signal"
     return "Publisher coverage"
+
+
+def public_research_evidence_label(value: str) -> str:
+    labels = {
+        "journal_article": "Journal article",
+        "preprint": "Preprint",
+        "research_linked": "Research-linked reporting",
+    }
+    return labels.get(value, "Research brief")
+
+
+def research_why_it_matters(item: dict[str, Any]) -> str:
+    why_it_matters = normalize_whitespace(str(item.get("why_it_matters", "")))
+    if why_it_matters and why_it_matters != "Comes from an official or primary-source channel.":
+        return why_it_matters
+    if item.get("evidence_type") in {"journal_article", "preprint"}:
+        return "Useful for mechanism, transmission, or surveillance context beyond the daily story file."
+    return "Reporter-facing research coverage that can sharpen how the desk reads the broader outbreak signal."
+
+
+def research_evidence_caveat(item: dict[str, Any]) -> str:
+    caveat = normalize_whitespace(str(item.get("caveats", "")))
+    if caveat and caveat != "Summary stays within source text and metadata; no outside facts were added.":
+        return caveat
+    if item.get("evidence_type") in {"journal_article", "preprint"}:
+        return "Interpret in light of study design, setting, sample size, and how directly the findings travel to the current outbreak picture."
+    return "Useful context, but it should not be treated as equivalent to a primary paper or formal preprint."
 
 
 def humanize_data_value(key: str, value: str) -> str:
@@ -984,7 +1143,7 @@ def story_item_date_bucket(published_at: str | None) -> str:
 
 
 def render_timeline_row(entry: dict[str, Any]) -> str:
-    bullets = "".join(f"<li>{escape(bullet)}</li>" for bullet in entry.get("bullets", [])) or "<li>No bullet text captured.</li>"
+    bullets = "".join(f"<li>{escape(clean_story_text(bullet))}</li>" for bullet in entry.get("bullets", [])) or "<li>No bullet text captured.</li>"
     return (
         f'<article class="timeline-row sortable-card" data-sort-ts="{sort_timestamp_value(entry.get("generated_at", ""))}" data-sort-title="{escape_attr(str(entry.get("generated_at", "Unknown")))}">'
         f'<div class="meta-row"><span class="badge accent">{escape(entry.get("generated_at", "Unknown"))}</span>'
@@ -1205,16 +1364,23 @@ def story_item_is_low_detail(item: dict[str, Any]) -> bool:
     return bool(item.get("low_detail")) or summary == "limited detail was available from feed metadata alone."
 
 
+def clean_story_text(value: str) -> str:
+    cleaned = MARKDOWN_LINK_RE.sub(r"\1", str(value or ""))
+    return normalize_whitespace(cleaned)
+
+
 def base_styles() -> str:
     return """
       :root { --bg: #e8e1d3; --bg-deep: #d8cebc; --surface: #f8f4ea; --surface-alt: #f2ebde; --paper: #fffdf8; --ink: #1b2836; --ink-soft: #42515e; --line: #d6cab7; --accent: #8d3f2f; --accent-soft: rgba(141,63,47,0.10); --signal: #1f5b89; --signal-soft: rgba(31,91,137,0.12); --shadow: 0 24px 56px rgba(49, 36, 22, 0.10); }
       * { box-sizing: border-box; }
-      body { margin: 0; background: radial-gradient(circle at top left, rgba(181,138,49,0.10), transparent 28%), radial-gradient(circle at bottom right, rgba(31,91,137,0.12), transparent 24%), linear-gradient(180deg, #f2ede3 0%, var(--bg) 40%, var(--bg-deep) 100%); color: var(--ink); font-family: "Iowan Old Style", Georgia, serif; line-height: 1.58; }
+      body { margin: 0; background: radial-gradient(circle at top left, rgba(181,138,49,0.10), transparent 28%), radial-gradient(circle at bottom right, rgba(31,91,137,0.12), transparent 24%), linear-gradient(180deg, #f2ede3 0%, var(--bg) 40%, var(--bg-deep) 100%); color: var(--ink); font-family: "Iowan Old Style", Georgia, serif; line-height: 1.58; overflow-x: hidden; }
       a { color: var(--signal); text-decoration: none; }
       a:hover { text-decoration: underline; }
-      .page { max-width: 1240px; margin: 0 auto; padding: 28px 22px 64px; display: grid; gap: 22px; }
+      .page { width: 100%; max-width: 1120px; margin: 0 auto; padding: 24px 16px 56px; display: grid; gap: 20px; overflow-x: clip; }
+      .page > *, .hero > *, .panel > *, .site-header > *, .section-nav > *, .live-update-banner > * { min-width: 0; }
+      h1, h2, h3, p, li, .subtitle, .empty-note, .muted-note, .section-note, .live-update-text, .site-header-title, .archive-row, .lede { overflow-wrap: anywhere; word-break: break-word; }
       .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
-      .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; }
+      .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; flex-wrap: wrap; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
       .live-update-banner { padding: 14px 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
       .live-update-copy { min-width: 0; display: grid; gap: 4px; }
@@ -1232,7 +1398,7 @@ def base_styles() -> str:
       .hero::before { content: ""; position: absolute; inset: 0; background-image: linear-gradient(rgba(23,48,70,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(23,48,70,0.04) 1px, transparent 1px); background-size: 28px 28px; opacity: 0.35; pointer-events: none; }
       .hero > * { position: relative; z-index: 1; }
       .panel-grid { display: grid; gap: 22px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
-      .story-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+      .story-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); }
       .card-grid { display: grid; gap: 14px; }
       .archive-table { display: grid; gap: 12px; }
       .archive-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 16px; background: rgba(255,252,247,0.9); border: 1px solid rgba(187,169,143,0.68); border-radius: 18px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
@@ -1242,7 +1408,7 @@ def base_styles() -> str:
       .sort-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 999px; padding: 8px 12px; color: var(--ink); font: inherit; }
       .sort-select:hover { background: var(--accent-soft); }
       .story-filter-shell { display: grid; gap: 10px; }
-      .story-filter-grid { display: grid; grid-template-columns: minmax(0, 1.8fr) repeat(4, minmax(150px, 1fr)); gap: 10px; align-items: end; }
+      .story-filter-grid { display: grid; grid-template-columns: minmax(0, 1.6fr) repeat(4, minmax(130px, 1fr)); gap: 10px; align-items: end; }
       .filter-group { display: grid; gap: 6px; }
       .filter-search-wide { min-width: 0; }
       .filter-label { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-soft); }
@@ -1252,8 +1418,8 @@ def base_styles() -> str:
       .site-card, .timeline-row { background: var(--paper); border: 1px solid rgba(187,169,143,0.68); border-radius: 22px; padding: 18px 18px 16px; box-shadow: 0 12px 26px rgba(49, 36, 22, 0.06); }
       .feature-card { background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(245,239,228,0.98)); }
       .compact-card { padding-top: 16px; padding-bottom: 14px; }
-      .meta-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
-      .badge, .link-pill { border-radius: 999px; padding: 6px 10px; font-size: 0.78rem; line-height: 1; border: 1px solid rgba(187,169,143,0.72); background: rgba(255,252,245,0.94); color: var(--ink-soft); display: inline-flex; align-items: center; }
+      .meta-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; min-width: 0; }
+      .badge, .link-pill { border-radius: 999px; padding: 6px 10px; font-size: 0.78rem; line-height: 1.2; border: 1px solid rgba(187,169,143,0.72); background: rgba(255,252,245,0.94); color: var(--ink-soft); display: inline-flex; align-items: center; max-width: 100%; }
       .badge.accent { background: var(--accent-soft); color: var(--accent); border-color: rgba(141,63,47,0.24); }
       .badge.tone-official { background: rgba(31,91,137,0.12); color: #1f5b89; border-color: rgba(31,91,137,0.24); }
       .badge.tone-wire { background: rgba(60,88,48,0.10); color: #35552b; border-color: rgba(60,88,48,0.20); }
@@ -1266,12 +1432,12 @@ def base_styles() -> str:
       .hero-subhead { margin: 16px 0 8px; font-size: 1.08rem; }
       .bullet-list { margin: 10px 0 0; padding-left: 18px; }
       h1, h2, h3 { margin: 0; color: #173046; }
-      h1 { font-size: clamp(2.4rem, 4.8vw, 4.4rem); line-height: 0.94; letter-spacing: -0.03em; }
+      h1 { font-size: clamp(2rem, 4.2vw, 4rem); line-height: 0.98; letter-spacing: -0.03em; }
       h2 { font-size: 1.4rem; }
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
-      @media (max-width: 1100px) { .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } .live-update-banner { flex-direction: column; align-items: flex-start; } }
+      @media (max-width: 1180px) { .panel-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } .live-update-banner { flex-direction: column; align-items: flex-start; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
       @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
     """
 

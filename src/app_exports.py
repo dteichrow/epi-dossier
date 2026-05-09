@@ -53,6 +53,30 @@ HIGH_SIGNAL_PUBLISHER_FAMILIES = {
     "CIDRAP",
 }
 
+ACADEMIC_SOURCE_TYPES = {"pubmed", "medrxiv", "biorxiv"}
+RESEARCH_NEWS_CATEGORIES = {"Major epidemiology studies", "Virology and pathogen evolution"}
+RESEARCH_REPORTING_TERMS = (
+    "study",
+    "studies",
+    "paper",
+    "preprint",
+    "analysis",
+    "analyses",
+    "review",
+    "cohort",
+    "trial",
+    "retrospective",
+    "case series",
+    "genomic",
+    "genome",
+    "phylogen",
+    "seroepidemi",
+    "neutralizing",
+    "metagenom",
+    "modeling",
+    "model",
+)
+
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 
@@ -152,6 +176,8 @@ def build_item_records(items: list[Item], exported_at: str) -> list[dict[str, An
         topic_id = stable_id("topic", topic_name)
         story_id = stable_id("story", topic_name) if topic_name != "Miscellaneous signals" else None
         item_id = stable_id("item", item.canonical_url)
+        item_evidence_type = infer_item_evidence_type(item)
+        item_is_public_official = is_public_official_item(item)
         records.append(
             {
                 "item_id": item_id,
@@ -174,8 +200,8 @@ def build_item_records(items: list[Item], exported_at: str) -> list[dict[str, An
                 "aggregator_source": item.aggregator_source,
                 "link_quality": item.link_quality,
                 "preferred_url_kind": item.preferred_url_kind,
-                "source_confidence": item.source_confidence,
-                "evidence_type": item.evidence_type,
+                "source_confidence": infer_item_source_confidence(item),
+                "evidence_type": item_evidence_type,
                 "freshness_state": str(item.metadata.get("source_freshness", "live")),
                 "source_cached_at": item.metadata.get("source_cached_at"),
                 "source_cache_age_hours": item.metadata.get("source_cache_age_hours"),
@@ -189,7 +215,7 @@ def build_item_records(items: list[Item], exported_at: str) -> list[dict[str, An
                 "story_id": story_id,
                 "story_status": "",
                 "relevance_score": item.relevance_score,
-                "official": item.official,
+                "official": item_is_public_official,
                 "doi": item.doi,
                 "journal": item.journal,
                 "abstract_url": item.abstract_url,
@@ -659,12 +685,50 @@ def infer_story_primary_country(items: list[Item]) -> str:
 
 
 def infer_story_evidence_type(items: list[Item]) -> str:
-    evidence_types = {item.evidence_type for item in items}
+    evidence_types = {infer_item_evidence_type(item) for item in items}
     if "official_update" in evidence_types and "news_report" in evidence_types:
         return "mixed_reporting"
     if "journal_article" in evidence_types or "preprint" in evidence_types:
         return "research_linked"
     return next(iter(evidence_types), "news_report")
+
+
+def infer_item_evidence_type(item: Item) -> str:
+    if item.source_type == "pubmed":
+        return "journal_article"
+    if item.source_type in {"medrxiv", "biorxiv"}:
+        return "preprint"
+    if item.category in RESEARCH_NEWS_CATEGORIES and item_is_research_linked_reporting(item):
+        return "research_linked"
+    return item.evidence_type
+
+
+def infer_item_source_confidence(item: Item) -> str:
+    if item.source_type in ACADEMIC_SOURCE_TYPES:
+        return "specialist_health"
+    return item.source_confidence
+
+
+def is_public_official_item(item: Item) -> bool:
+    return bool(item.official and item.source_type not in ACADEMIC_SOURCE_TYPES)
+
+
+def item_is_research_linked_reporting(item: Item) -> bool:
+    if item.source_type in ACADEMIC_SOURCE_TYPES:
+        return False
+    text = normalize_text_for_match(
+        " ".join(
+            [
+                item.title,
+                item.summary,
+                item.category,
+                item.source,
+                item.publisher_name,
+                item.journal or "",
+            ]
+        )
+    )
+    return any(term in text for term in RESEARCH_REPORTING_TERMS)
 
 
 def classify_item_content_class(item: Item) -> str:
@@ -673,7 +737,7 @@ def classify_item_content_class(item: Item) -> str:
     text = " ".join([title, summary, item.category.lower(), item.source.lower(), (item.publisher_name or "").lower()])
     if item.link_quality == "metadata_only":
         return "metadata_only_signal"
-    if item.evidence_type in {"journal_article", "preprint"} or item.category == "Major epidemiology studies":
+    if infer_item_evidence_type(item) in {"journal_article", "preprint", "research_linked"} or item.category in RESEARCH_NEWS_CATEGORIES:
         return "research_context"
     if any(term in text for term in ("workforce", "health system", "healthcare system", "burden", "what to know", "fact check", "explainer")):
         return "background_system_policy"

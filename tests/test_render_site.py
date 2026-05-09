@@ -1,6 +1,6 @@
 from datetime import date, datetime
 
-from src.render_site import render_public_homepage, render_reference_page, render_story_page
+from src.render_site import render_public_desk_page, render_public_homepage, render_reference_page, render_story_page
 
 
 def test_render_story_page_separates_official_and_press_sections():
@@ -272,6 +272,57 @@ def test_render_story_page_web_mode_includes_live_update_polling():
     assert "Refresh now" in content
 
 
+def test_render_story_page_strips_markdown_links_from_bullets_and_timeline():
+    story = {
+        "display_title": "Hantavirus and cruise-ship outbreak",
+        "lead_title": "Official investigation continues",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "ECDC",
+        "item_count": 1,
+        "source_count": 1,
+        "official_item_ids": [],
+        "press_item_ids": ["press_1"],
+        "publisher_names": ["Reuters"],
+        "freshness_counts": {"live": 1, "refresh_cache": 0, "fallback_cache": 0, "retained": 0},
+        "latest_update_summary": "The lead item has changed to [Official investigation continues](https://example.com/lead) from ECDC.",
+        "latest_update_bullets": [
+            "The lead item has changed to [Official investigation continues](https://example.com/lead) from ECDC.",
+        ],
+        "related_references": [],
+        "first_seen_at": "2026-05-07T06:30:00",
+        "latest_updated_at": "2026-05-07T07:30:00",
+        "timeline": [
+            {
+                "generated_at": "2026-05-07T07:30:00",
+                "item_count": 1,
+                "source_count": 1,
+                "bullets": [
+                    "The lead item has changed to [Official investigation continues](https://example.com/lead) from ECDC.",
+                ],
+            }
+        ],
+    }
+    items_by_id = {
+        "press_1": {
+            "title": "Reuters follow-up",
+            "preferred_url": "https://example.com/reuters",
+            "publisher_name": "Reuters",
+            "published_at": "2026-05-07T06:30",
+            "summary": "Publisher follow-up adds evacuation details.",
+            "link_quality": "resolved_article",
+            "publisher_tier": "wire",
+            "publisher_access": "open",
+            "region": "Global / Maritime",
+            "freshness_state": "live",
+        }
+    }
+
+    content = render_story_page(story, items_by_id, date(2026, 5, 7), datetime(2026, 5, 7, 7, 30))
+    assert "[Official investigation continues]" not in content
+    assert "(https://example.com/lead)" not in content
+    assert "The lead item has changed to Official investigation continues from ECDC." in content
+
+
 def test_render_public_homepage_includes_live_update_banner():
     latest_snapshot = {
         "run_id": "run_1",
@@ -314,6 +365,90 @@ def test_render_public_homepage_includes_live_update_banner():
     assert 'id="live-update-banner"' in content
     assert "./app_exports/manifest.json" in content
     assert "Refresh now" in content
+
+
+def test_render_public_research_page_uses_research_specific_sections():
+    items = [
+        {
+            "title": "Genomic analyses identify nosocomial transmission of ST23 carbapenem-resistant hypervirulent Klebsiella pneumoniae.",
+            "summary": "A hospital-transmission paper with antimicrobial resistance implications.",
+            "why_it_matters": "It shows how resistance and transmission can move together inside a facility.",
+            "caveats": "Single-setting findings should not be overgeneralized.",
+            "journal": "Clinical Infectious Diseases",
+            "publisher_name": "PubMed",
+            "published_at": "2026-05-09T06:15:00",
+            "preferred_url": "https://pubmed.ncbi.nlm.nih.gov/42000001/",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42000001/",
+            "abstract_url": "https://pubmed.ncbi.nlm.nih.gov/42000001/",
+            "doi": "10.1000/example",
+            "link_quality": "direct_article",
+            "source_confidence": "specialist_health",
+            "freshness_state": "live",
+            "region": "Africa",
+            "content_class": "research_context",
+            "evidence_type": "journal_article",
+            "category": "Major epidemiology studies",
+            "official": False,
+        },
+        {
+            "title": "Neutralizing epitope mapping for deltacoronavirus receptor-binding domain.",
+            "summary": "A virology-focused brief with cross-species implications.",
+            "journal": "Virology",
+            "publisher_name": "PubMed",
+            "published_at": "2026-05-09T05:15:00",
+            "preferred_url": "https://pubmed.ncbi.nlm.nih.gov/42000003/",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42000003/",
+            "link_quality": "direct_article",
+            "source_confidence": "specialist_health",
+            "freshness_state": "live",
+            "region": "Global / Maritime",
+            "content_class": "research_context",
+            "evidence_type": "journal_article",
+            "category": "Virology and pathogen evolution",
+            "official": False,
+        },
+    ]
+    references = [
+        {
+            "name": "Schistosomiasis",
+            "reference_web_path": "reference/schistosomiasis.html",
+            "pathogen": "Schistosoma species",
+            "why_reporters_care": "It connects ecology, water systems, and chronic infection.",
+            "related_stories": [
+                {
+                    "story_id": "story_1",
+                    "display_title": "Schistosomiasis resurgence and water exposure",
+                    "story_web_path": "stories/story_1.html",
+                    "latest_update_summary": "Fresh local exposure reporting is expanding.",
+                }
+            ],
+        }
+    ]
+    archive_entries = [{"date": "2026-05-09", "month_name": "May", "year": 2026, "html_web_path": "2026/05/2026-05-09.html"}]
+
+    content = render_public_desk_page(
+        "Research Brief",
+        "Papers, preprints, and research-linked reporting that adds context beyond the daily outbreak stream.",
+        "research",
+        [],
+        items,
+        references,
+        archive_entries,
+        current_run_id="run_1",
+        current_generated_at="2026-05-09T06:30:00",
+    )
+
+    assert "Latest Papers And Preprints" in content
+    assert "Virology + Pathogen Evolution" in content
+    assert "Research-Linked Active Files" in content
+    assert "Disease Sheets" in content
+    assert "Research-linked reporting" not in content or "Journal article" in content
+    assert "Tracked Files" not in content
+    assert "Latest Signals" not in content
+    assert "Schistosomiasis resurgence and water exposure" in content
+    assert "Why it matters:" in content
+    assert "0 item(s)" not in content
+    assert "./app_exports/manifest.json" in content
 
 
 def test_render_reference_page_renders_curated_fields_and_links():

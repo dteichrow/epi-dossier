@@ -29,6 +29,23 @@ def validate_reader_story_sections(html_text: str, story_records: list[dict] | N
     return issues
 
 
+ACADEMIC_SOURCE_TYPES = {"pubmed", "medrxiv", "biorxiv"}
+
+
+def item_is_research_item(item: Item) -> bool:
+    source_type = (item.source_type or "").lower()
+    source_candidates = {
+        normalize_whitespace(item.source).lower(),
+        normalize_whitespace(item.display_source).lower(),
+    }
+    research_sources = {
+        "pubmed infectious disease search",
+        "medrxiv",
+        "biorxiv",
+    }
+    return source_type in ACADEMIC_SOURCE_TYPES or any(candidate in research_sources for candidate in source_candidates)
+
+
 def render_html(
     items: list[Item],
     target_date: date,
@@ -50,12 +67,13 @@ def render_html(
     front_page_items = [
         item
         for item in sorted_items
+        if not item_is_research_item(item)
         if not item_is_background_system_report(item) and not item_is_background_context_piece(item)
     ]
     executive = front_page_items[:8]
     highest_priority = [item for item in front_page_items if item.relevance_score >= 4][:10]
     others = [item for item in front_page_items if item not in highest_priority][:20]
-    papers = [item for item in sorted_items if item.source_type in {"pubmed", "medrxiv", "biorxiv"}][:12]
+    papers = [item for item in sorted_items if item_is_research_item(item) and not item_is_historical(item)][:12]
     historical = [item for item in sorted_items if item_is_historical(item)][:10]
     topic_groups = build_topic_groups(sorted_items)
 
@@ -156,14 +174,28 @@ def render_html(
         color: var(--ink);
         font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
         line-height: 1.58;
+        overflow-x: hidden;
       }}
       a {{ color: var(--signal); text-decoration: none; }}
       a:hover {{ text-decoration: underline; }}
       [hidden] {{ display: none !important; }}
       .page {{
-        max-width: 1400px;
+        width: 100%;
+        max-width: 1180px;
         margin: 0 auto;
-        padding: 28px 22px 72px;
+        padding: 24px 16px 56px;
+        overflow-x: clip;
+      }}
+      .page > *,
+      .hero > *,
+      .panel > *,
+      .lead-story-card > *,
+      .site-nav-shell > * {{
+        min-width: 0;
+      }}
+      h1, h2, h3, p, li, .subtitle, .desk-note, .site-nav-note, .view-caption, .empty-note, .footer-note, .meta-inline {{
+        overflow-wrap: anywhere;
+        word-break: break-word;
       }}
       .site-nav-shell {{
         background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98));
@@ -303,8 +335,8 @@ def render_html(
         font-weight: 700;
       }}
       h1 {{
-        font-size: clamp(2.5rem, 5vw, 5rem);
-        line-height: 0.94;
+        font-size: clamp(2.25rem, 4.6vw, 4.4rem);
+        line-height: 0.98;
         letter-spacing: -0.03em;
         color: var(--surface-ink);
         max-width: 980px;
@@ -318,6 +350,7 @@ def render_html(
         flex-wrap: wrap;
         gap: 10px;
         margin-top: 16px;
+        min-width: 0;
       }}
       .freshness-pill {{
         display: inline-flex;
@@ -583,7 +616,7 @@ def render_html(
       }}
       .lead-rail-cards {{
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr));
         gap: 16px;
       }}
       .lead-story-card {{
@@ -722,7 +755,7 @@ def render_html(
       }}
       .story-grid,
       .reference-grid {{
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr));
       }}
       .story-card,
       .topic-card,
@@ -948,6 +981,14 @@ def render_html(
         font-size: 0.92rem;
         text-align: center;
       }}
+      @media (max-width: 1240px) {{
+        .briefing-grid,
+        .lead-briefing-grid,
+        .panel-grid,
+        .layout {{
+          grid-template-columns: 1fr;
+        }}
+      }}
       @media (max-width: 1100px) {{
         .briefing-grid,
         .lead-briefing-grid,
@@ -979,7 +1020,7 @@ def render_html(
           height: 88px;
         }}
         h1 {{
-          font-size: clamp(2.3rem, 14vw, 3.7rem);
+          font-size: clamp(2rem, 12vw, 3.2rem);
         }}
         .desk-bar,
         .desk-tools {{
@@ -1636,8 +1677,8 @@ def render_paper_card(item: Item) -> str:
         f'<p><strong>Evidence type:</strong> {escape(label_for_evidence_type(item.evidence_type))}</p>'
         f'<p><strong>Study design / source:</strong> {escape(item.journal or item.display_source)}</p>'
         f'<p><strong>Main claim:</strong> {escape(item.summary)}</p>'
-        f'<p><strong>Why it matters:</strong> {escape(item.why_it_matters or "Useful outbreak desk background or mechanism context.")}</p>'
-        f'<p><strong>Evidence caveat:</strong> {escape(item.caveats or "Interpret in light of study design and population limits.")}</p>'
+        f'<p><strong>Why it matters:</strong> {escape(paper_why_it_matters(item))}</p>'
+        f'<p><strong>Evidence caveat:</strong> {escape(paper_evidence_caveat(item))}</p>'
         f'<p><strong>DOI:</strong> {escape(item.doi or "Unknown")}</p>'
         f'<p><strong>Abstract:</strong> <a href="{escape_attr(item.abstract_url or item.url)}">{escape(item.abstract_url or item.url)}</a></p></article>'
     )
@@ -2109,6 +2150,20 @@ def label_for_evidence_type(evidence_type: str) -> str:
     }.get(evidence_type, normalize_whitespace(evidence_type.replace("_", " ")).title())
 
 
+def paper_why_it_matters(item: Item) -> str:
+    why = normalize_whitespace(item.why_it_matters)
+    if not why or why == "Comes from an official or primary-source channel.":
+        return "Useful for mechanism, transmission, or surveillance context beyond the daily outbreak file."
+    return why
+
+
+def paper_evidence_caveat(item: Item) -> str:
+    caveat = normalize_whitespace(item.caveats)
+    if not caveat or caveat == "Summary stays within source text and metadata; no outside facts were added.":
+        return "Interpret in light of study design, setting, sample size, and how directly the findings travel to the current outbreak picture."
+    return caveat
+
+
 PATHOGEN_TAG_RULES = {
     "hantavirus": ("hantavirus", "andes virus"),
     "measles": ("measles",),
@@ -2141,6 +2196,7 @@ def build_filter_options(
     regions = sorted({infer_region(item) for item in items if infer_region(item)})
     source_kinds = {
         "official": "Official",
+        "research": "Research",
         "wire": "Wire",
         "major_newsroom": "Major newsroom",
         "specialist_health": "Specialist health",
@@ -2230,7 +2286,7 @@ def render_filter_attrs_for_item(item: Item) -> str:
         source_kind=item_source_kind(item),
         pathogen_tags=detect_pathogen_tags(item.title, item.summary, item.category),
         setting_tags=detect_setting_tags(item.title, item.summary, item.category),
-        official=item.official,
+        official=item.official and not item_is_research_item(item),
         age_days=item_age_days(item.published_at),
         link_quality=item.link_quality,
         access=item.publisher_access,
@@ -2334,6 +2390,8 @@ def render_filter_attrs(
 
 
 def item_source_kind(item: Item) -> str:
+    if item_is_research_item(item):
+        return "research"
     if item.official:
         return "official"
     if item.source_confidence == "aggregator_only":

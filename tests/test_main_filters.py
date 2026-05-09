@@ -25,6 +25,23 @@ def test_filter_by_terms_does_not_keep_generic_epidemiology_paper():
     assert filtered == []
 
 
+def test_filter_by_terms_keeps_infectious_pubmed_paper_for_research_layer():
+    items = [
+        Item(
+            title="Genomic analyses identify nosocomial transmission of ST23 carbapenem-resistant hypervirulent Klebsiella pneumoniae mediated by a conjugative IncFII(K2) NDM-1 plasmid.",
+            source="PubMed Infectious Disease Search",
+            url="https://pubmed.ncbi.nlm.nih.gov/42000001/",
+            category="Major epidemiology studies",
+            source_type="pubmed",
+            official=True,
+            summary="Hospital-linked transmission and antimicrobial resistance are central to the paper.",
+        )
+    ]
+
+    filtered = filter_by_terms(items, ["outbreak", "infectious disease", "hantavirus", "measles"])
+    assert len(filtered) == 1
+
+
 def test_filter_by_terms_keeps_official_outbreak_item_from_content():
     items = [
         Item(
@@ -68,6 +85,20 @@ def test_item_should_drop_official_undated_non_disease_signal():
     )
 
     assert item_should_drop(item) is True
+
+
+def test_item_should_not_drop_research_item_that_matches_scope():
+    item = Item(
+        title="Exploring community perceptions of gender roles as a predisposing factor in schistosomiasis infection in southwestern Uganda.",
+        source="PubMed Infectious Disease Search",
+        url="https://pubmed.ncbi.nlm.nih.gov/42000002/",
+        category="Major epidemiology studies",
+        source_type="pubmed",
+        official=True,
+        summary="The study examines schistosomiasis infection risk and transmission context in Uganda.",
+    )
+
+    assert item_should_drop(item) is False
 
 
 def test_should_promote_latest_false_for_zero_item_failed_run_with_existing_latest():

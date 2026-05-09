@@ -40,6 +40,7 @@ from .utils import (
 MAX_ITEMS_TO_RENDER = 40
 MAX_ITEMS_TO_ENRICH = 18
 MAX_HISTORICAL_ITEMS_TO_RENDER = 8
+MAX_RESEARCH_ITEMS = 6
 MIN_RENDERABLE_RELEVANCE = 2
 MAX_PER_SOURCE = 4
 MAX_PUBMED_ITEMS = 6
@@ -86,6 +87,83 @@ HISTORICAL_TERMS = (
     "cemetery",
     "mummified",
     "skeletal",
+)
+
+RESEARCH_SOURCE_TYPES = {"pubmed", "medrxiv", "biorxiv"}
+RESEARCH_CATEGORIES = {
+    "Major epidemiology studies",
+    "Virology and pathogen evolution",
+    "Historical epidemiology / ancient disease / paleopathology",
+}
+RESEARCH_SCOPE_TERMS = (
+    "infectious",
+    "infection",
+    "pathogen",
+    "pathogens",
+    "virolog",
+    "viral",
+    "bacter",
+    "parasit",
+    "fung",
+    "antimicrobial resistance",
+    "antibiotic resistance",
+    "carbapenem",
+    "nosocomial",
+    "outbreak",
+    "surveillance",
+    "transmission",
+    "seroepidemi",
+    "vaccine",
+    "vaccination",
+    "zoonotic",
+    "spillover",
+    "reservoir",
+    "vector",
+    "wastewater",
+    "h5n1",
+    "avian influenza",
+    "influenza",
+    "covid",
+    "sars-cov-2",
+    "coronavirus",
+    "rsv",
+    "hantavirus",
+    "measles",
+    "mpox",
+    "dengue",
+    "malaria",
+    "cholera",
+    "polio",
+    "tuberculosis",
+    "mycobacterium tuberculosis",
+    "salmonella",
+    "e. coli",
+    "listeria",
+    "norovirus",
+    "hepatitis",
+    "yellow fever",
+    "chikungunya",
+    "oropouche",
+    "rift valley fever",
+    "anthrax",
+    "ebola",
+    "marburg",
+    "lassa",
+    "nipah",
+    "rabies",
+    "schistosomiasis",
+    "klebsiella pneumoniae",
+    "plague",
+    "variola",
+    "smallpox",
+    "leprosy",
+    "syphilis",
+    "ancient dna",
+    "ancient pathogen",
+    "archaeogenetics",
+    "paleopathology",
+    "paleogenomics",
+    "paleomicrobiology",
 )
 
 LOW_VALUE_TITLE_PATTERNS = (
@@ -498,9 +576,10 @@ def build_balanced_shortlist(items: list[Item]) -> list[Item]:
     per_source_counts: dict[str, int] = {}
     major_study_count = 0
     pubmed_count = 0
+    research_item_count = 0
 
     def can_add(item: Item) -> bool:
-        nonlocal major_study_count, pubmed_count
+        nonlocal major_study_count, pubmed_count, research_item_count
         if item.canonical_url in used_urls:
             return False
         if per_source_counts.get(item.source, 0) >= source_cap(item):
@@ -509,10 +588,12 @@ def build_balanced_shortlist(items: list[Item]) -> list[Item]:
             return False
         if item.category == "Major epidemiology studies" and major_study_count >= MAX_MAJOR_STUDY_ITEMS:
             return False
+        if item_is_research_item(item) and not item_is_historical(item) and research_item_count >= MAX_RESEARCH_ITEMS:
+            return False
         return True
 
     def add(item: Item) -> bool:
-        nonlocal major_study_count, pubmed_count
+        nonlocal major_study_count, pubmed_count, research_item_count
         if not can_add(item):
             return False
         selected.append(item)
@@ -522,6 +603,8 @@ def build_balanced_shortlist(items: list[Item]) -> list[Item]:
             pubmed_count += 1
         if item.category == "Major epidemiology studies":
             major_study_count += 1
+        if item_is_research_item(item) and not item_is_historical(item):
+            research_item_count += 1
         return True
 
     official_priority = [item for item in items if is_official_signal_item(item)]
@@ -556,6 +639,25 @@ def build_balanced_shortlist(items: list[Item]) -> list[Item]:
                 break
             if add(item):
                 continue
+
+    research_items = [
+        item
+        for item in items
+        if item_is_research_item(item) and not item_is_historical(item)
+    ]
+    research_items = sorted(
+        research_items,
+        key=lambda item: (
+            1 if item.source_type in RESEARCH_SOURCE_TYPES else 0,
+            item.relevance_score,
+            sortable_datetime(item.published_at),
+        ),
+        reverse=True,
+    )
+    for item in research_items:
+        if len(selected) >= MAX_ITEMS_TO_RENDER:
+            break
+        add(item)
 
     ongoing_story_items = [item for item in items if is_storyworthy_signal(item)]
     for item in ongoing_story_items:
@@ -747,6 +849,12 @@ def item_should_drop(item: Item) -> bool:
         if not item.official and low_detail:
             return True
         return False
+    if item_is_research_item(item):
+        if not item_matches_research_scope(item):
+            return True
+        if low_detail:
+            return True
+        return False
     if not item_matches_briefing_scope(item):
         return True
     if item.official:
@@ -910,6 +1018,26 @@ def item_has_concrete_signal(item: Item) -> bool:
     return bool(re.search(r"\b\d+\b", text))
 
 
+def item_is_research_item(item: Item) -> bool:
+    return (item.source_type or "") in RESEARCH_SOURCE_TYPES or item.category in RESEARCH_CATEGORIES
+
+
+def item_matches_research_scope(item: Item) -> bool:
+    if item_is_historical(item):
+        return True
+    text = " ".join(
+        [
+            item.title.lower(),
+            item.summary.lower(),
+            item.url.lower(),
+            item.extracted_text.lower(),
+            item.category.lower(),
+            (item.journal or "").lower(),
+        ]
+    )
+    return any(term in text for term in RESEARCH_SCOPE_TERMS)
+
+
 def item_matches_briefing_scope(item: Item) -> bool:
     text = " ".join(
         [
@@ -1067,6 +1195,9 @@ def filter_by_terms(items, search_terms: list[str]):
     for item in items:
         haystack = item_content_haystack(item)
         if any(term in haystack for term in specific_terms):
+            kept.append(item)
+            continue
+        if item_is_research_item(item) and item_matches_research_scope(item):
             kept.append(item)
             continue
         if item.official and any(

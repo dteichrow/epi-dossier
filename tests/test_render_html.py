@@ -248,6 +248,8 @@ def test_render_html_contains_core_sections_and_links():
     assert 'data-pathogen="hantavirus"' in content
     assert 'data-link-quality="' in content
     assert 'data-evidence-type="' in content
+    assert "Publisher coverage • PubMed Infectious Disease Search" not in content
+    assert 'data-source-kind="research"' in content
 
 
 def test_validate_reader_story_sections_flags_empty_story_surfaces():

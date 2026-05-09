@@ -171,6 +171,80 @@ def test_export_app_data_delta_and_failure_metadata(tmp_path, monkeypatch):
     db.close()
 
 
+def test_export_app_data_marks_pubmed_as_research_not_official(tmp_path, monkeypatch):
+    monkeypatch.setattr("src.utils.APP_EXPORTS_DIR", tmp_path / "exports")
+    db = SeenItemsDB(tmp_path / "test.sqlite")
+    items = [
+        Item(
+            title="Genomic analyses identify nosocomial transmission of ST23 carbapenem-resistant hypervirulent Klebsiella pneumoniae.",
+            source="PubMed Infectious Disease Search",
+            url="https://pubmed.ncbi.nlm.nih.gov/42000001/",
+            category="Major epidemiology studies",
+            source_type="pubmed",
+            official=True,
+            journal="Clinical Infectious Diseases",
+            summary="Hospital transmission and resistance are central to the paper.",
+        )
+    ]
+    updates, snapshots = analyze_story_updates(items, {})
+
+    snapshot = export_app_data(
+        db=db,
+        items=items,
+        story_updates=updates,
+        story_snapshots=snapshots,
+        outbreak_reference=make_reference(),
+        target_date=date(2026, 5, 9),
+        generated_at=datetime(2026, 5, 9, 7, 0),
+        search_window="7 day(s) ending 2026-05-09",
+        source_failures=[],
+        source_health=[],
+    )
+
+    exported_item = snapshot["items"][0]
+    assert exported_item["evidence_type"] == "journal_article"
+    assert exported_item["content_class"] == "research_context"
+    assert exported_item["official"] is False
+    assert exported_item["source_confidence"] == "specialist_health"
+    assert "research" in exported_item["editions"]
+    db.close()
+
+
+def test_export_app_data_does_not_mark_plain_virology_news_as_research(tmp_path, monkeypatch):
+    monkeypatch.setattr("src.utils.APP_EXPORTS_DIR", tmp_path / "exports")
+    db = SeenItemsDB(tmp_path / "test.sqlite")
+    items = [
+        Item(
+            title="Fox Tests Positive for Avian Influenza in Tioga County",
+            source="Google News Major Outbreak Desks",
+            url="https://news.google.com/example",
+            category="Virology and pathogen evolution",
+            source_type="rss",
+            official=False,
+            summary="Limited detail was available from feed metadata alone.",
+        )
+    ]
+    updates, snapshots = analyze_story_updates(items, {})
+
+    snapshot = export_app_data(
+        db=db,
+        items=items,
+        story_updates=updates,
+        story_snapshots=snapshots,
+        outbreak_reference=make_reference(),
+        target_date=date(2026, 5, 9),
+        generated_at=datetime(2026, 5, 9, 7, 5),
+        search_window="7 day(s) ending 2026-05-09",
+        source_failures=[],
+        source_health=[],
+    )
+
+    exported_item = snapshot["items"][0]
+    assert exported_item["evidence_type"] == "news_report"
+    assert "research" not in exported_item["editions"]
+    db.close()
+
+
 def test_export_app_data_does_not_append_story_timeline_for_noop_refresh(tmp_path, monkeypatch):
     monkeypatch.setattr("src.utils.APP_EXPORTS_DIR", tmp_path / "exports")
     db = SeenItemsDB(tmp_path / "test.sqlite")

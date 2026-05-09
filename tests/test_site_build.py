@@ -223,6 +223,7 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     assert site_build.main(["--date", "2026-05-07", "--output-mode", "both", "--deploy-dir", str(deploy_dir)]) == 0
     assert (deploy_dir / "index.html").exists()
     assert (deploy_dir / "watch.html").exists()
+    assert (deploy_dir / "research.html").exists()
     assert (deploy_dir / "stories" / "story_1-measles-transmission-and-vaccination.html").exists()
     assert (deploy_dir / "reference" / "measles.html").exists()
     assert (deploy_dir / "archive" / "index.html").exists()
@@ -235,6 +236,8 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     public_story_text = (deploy_dir / "stories" / "story_1-measles-transmission-and-vaccination.html").read_text()
     assert "../app_exports/manifest.json" in public_story_text
     assert "Refresh now" in public_story_text
+    research_text = (deploy_dir / "research.html").read_text()
+    assert "Latest Papers And Preprints" in research_text
 
 
 def test_site_build_preserves_existing_reader_html_when_reader_guard_blocks(tmp_path, monkeypatch):
