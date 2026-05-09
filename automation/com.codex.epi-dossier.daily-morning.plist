@@ -7,9 +7,8 @@
 
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/.venv/bin/python</string>
-      <string>-m</string>
-      <string>src.main</string>
+      <string>/bin/zsh</string>
+      <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/scripts/publish_public_site.sh</string>
     </array>
 
     <key>WorkingDirectory</key>

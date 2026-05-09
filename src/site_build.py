@@ -223,13 +223,29 @@ def write_public_surfaces(
 
     if not html_validation_issues:
         docs_latest_html = docs_root / "latest.html"
-        docs_latest_html.write_text(rewrite_local_reader_links(reader_html, "."), encoding="utf-8")
+        docs_latest_html.write_text(
+            inject_public_live_update_support(
+                rewrite_local_reader_links(reader_html, "."),
+                "./app_exports/manifest.json",
+                str(publication_snapshot.get("run_id", "")),
+                str(publication_snapshot.get("generated_at", "")),
+            ),
+            encoding="utf-8",
+        )
     (docs_root / "latest.md").write_text(payload["markdown_output"], encoding="utf-8")
 
     current_archive_html = docs_archive_filename(payload["target_date"], deploy_dir=deploy_dir, suffix=".html")
     current_archive_html.parent.mkdir(parents=True, exist_ok=True)
     if not html_validation_issues:
-        current_archive_html.write_text(rewrite_local_reader_links(reader_html, "../.."), encoding="utf-8")
+        current_archive_html.write_text(
+            inject_public_live_update_support(
+                rewrite_local_reader_links(reader_html, "../.."),
+                "../../app_exports/manifest.json",
+                str(publication_snapshot.get("run_id", "")),
+                str(publication_snapshot.get("generated_at", "")),
+            ),
+            encoding="utf-8",
+        )
     docs_archive_filename(payload["target_date"], deploy_dir=deploy_dir, suffix=".md").write_text(payload["markdown_output"], encoding="utf-8")
 
     for entry in archive_entries:
@@ -238,7 +254,15 @@ def write_public_surfaces(
         archive_target_html = docs_archive_filename(entry.target_date, deploy_dir=deploy_dir, suffix=".html")
         archive_target_html.parent.mkdir(parents=True, exist_ok=True)
         if entry.html_path.exists():
-            archive_target_html.write_text(rewrite_local_reader_links(entry.html_path.read_text(encoding="utf-8"), "../.."), encoding="utf-8")
+            archive_target_html.write_text(
+                inject_public_live_update_support(
+                    rewrite_local_reader_links(entry.html_path.read_text(encoding="utf-8"), "../.."),
+                    "../../app_exports/manifest.json",
+                    str(publication_snapshot.get("run_id", "")),
+                    str(publication_snapshot.get("generated_at", "")),
+                ),
+                encoding="utf-8",
+            )
         archive_target_md = docs_archive_filename(entry.target_date, deploy_dir=deploy_dir, suffix=".md")
         if entry.markdown_path.exists():
             archive_target_md.write_text(entry.markdown_path.read_text(encoding="utf-8"), encoding="utf-8")
@@ -247,7 +271,14 @@ def write_public_surfaces(
         story_path = docs_story_filename(story["story_id"], story["topic_name"], deploy_dir=deploy_dir)
         story_path.parent.mkdir(parents=True, exist_ok=True)
         story_path.write_text(
-            render_story_page(story, items_by_id, payload["target_date"], payload["generated_at"], web_mode=True),
+            render_story_page(
+                story,
+                items_by_id,
+                payload["target_date"],
+                payload["generated_at"],
+                web_mode=True,
+                current_run_id=str(publication_snapshot.get("run_id", "")),
+            ),
             encoding="utf-8",
         )
 
@@ -255,7 +286,13 @@ def write_public_surfaces(
         reference_path = docs_reference_filename(reference["name"], deploy_dir=deploy_dir)
         reference_path.parent.mkdir(parents=True, exist_ok=True)
         reference_path.write_text(
-            render_reference_page(reference, payload["target_date"], payload["generated_at"], web_mode=True),
+            render_reference_page(
+                reference,
+                payload["target_date"],
+                payload["generated_at"],
+                web_mode=True,
+                current_run_id=str(publication_snapshot.get("run_id", "")),
+            ),
             encoding="utf-8",
         )
 
@@ -277,6 +314,8 @@ def write_public_surfaces(
                 items_for_edition(publication_snapshot.get("items", []), edition.key)[: edition.max_items],
                 related_references_for_edition(reference_records, edition.key),
                 archive_payload,
+                current_run_id=str(publication_snapshot.get("run_id", "")),
+                current_generated_at=str(publication_snapshot.get("generated_at", "")),
             ),
             encoding="utf-8",
         )
@@ -293,6 +332,138 @@ def write_public_surfaces(
 def rewrite_local_reader_links(html_text: str, relative_prefix: str) -> str:
     local_prefix = latest_html_filename().parent.resolve().as_uri()
     return html_text.replace(local_prefix, relative_prefix)
+
+
+def inject_public_live_update_support(
+    html_text: str,
+    manifest_path: str,
+    current_run_id: str,
+    current_generated_at: str,
+) -> str:
+    snippet = f"""
+<style>
+  .public-live-update-banner {{
+    position: fixed;
+    right: 18px;
+    bottom: 18px;
+    z-index: 9999;
+    max-width: min(420px, calc(100vw - 28px));
+    border-radius: 18px;
+    border: 1px solid rgba(31, 91, 137, 0.24);
+    background: rgba(255, 252, 247, 0.98);
+    box-shadow: 0 18px 42px rgba(28, 20, 12, 0.18);
+    padding: 14px 16px;
+    display: grid;
+    gap: 10px;
+  }}
+  .public-live-update-banner[hidden] {{
+    display: none !important;
+  }}
+  .public-live-update-copy {{
+    display: grid;
+    gap: 6px;
+  }}
+  .public-live-update-label {{
+    margin: 0;
+    font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 0.74rem;
+    color: #8d3f2f;
+  }}
+  .public-live-update-text {{
+    margin: 0;
+    font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+    color: #42515e;
+  }}
+  .public-live-update-button {{
+    justify-self: start;
+    border-radius: 999px;
+    padding: 10px 14px;
+    border: 1px solid rgba(31, 91, 137, 0.26);
+    background: rgba(31, 91, 137, 0.12);
+    color: #1f5b89;
+    font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+  }}
+  .public-live-update-button:hover {{
+    background: rgba(31, 91, 137, 0.18);
+  }}
+  @media (max-width: 700px) {{
+    .public-live-update-banner {{
+      left: 14px;
+      right: 14px;
+      bottom: 14px;
+      max-width: none;
+    }}
+    .public-live-update-button {{
+      width: 100%;
+      justify-self: stretch;
+    }}
+  }}
+</style>
+<section class="public-live-update-banner" id="public-live-update-banner" hidden aria-live="polite">
+  <div class="public-live-update-copy">
+    <p class="public-live-update-label">Live update</p>
+    <p class="public-live-update-text" id="public-live-update-text">A newer edition has been published. Refresh to load the latest stories.</p>
+  </div>
+  <button class="public-live-update-button" id="public-live-update-refresh" type="button">Refresh now</button>
+</section>
+<script>
+  (function () {{
+    const banner = document.getElementById("public-live-update-banner");
+    const button = document.getElementById("public-live-update-refresh");
+    const text = document.getElementById("public-live-update-text");
+    const currentRunId = {current_run_id!r};
+    const currentGeneratedAt = {current_generated_at!r};
+    const manifestPath = {manifest_path!r};
+
+    function shouldCheckForUpdates() {{
+      return window.location.protocol === "https:" || window.location.protocol === "http:";
+    }}
+
+    function newerManifest(manifest) {{
+      const nextRunId = String(manifest.latest_run_id || "").trim();
+      const nextGeneratedAt = String(manifest.generated_at || "").trim();
+      if (currentRunId && nextRunId) {{
+        return nextRunId !== currentRunId;
+      }}
+      if (currentGeneratedAt && nextGeneratedAt) {{
+        return nextGeneratedAt !== currentGeneratedAt;
+      }}
+      return false;
+    }}
+
+    async function checkForUpdates() {{
+      if (!shouldCheckForUpdates()) return;
+      try {{
+        const response = await fetch(`${{manifestPath}}?ts=${{Date.now()}}`, {{ cache: "no-store" }});
+        if (!response.ok) return;
+        const manifest = await response.json();
+        if (!newerManifest(manifest)) return;
+        if (text && manifest.generated_at) {{
+          text.textContent = `New edition published ${{manifest.generated_at}}. Refresh to load it.`;
+        }}
+        if (banner) banner.hidden = false;
+      }} catch (error) {{
+        // Ignore update-check failures to keep the reader surface quiet.
+      }}
+    }}
+
+    if (button) {{
+      button.addEventListener("click", () => window.location.reload());
+    }}
+    if (shouldCheckForUpdates()) {{
+      window.setTimeout(checkForUpdates, 45000);
+      window.setInterval(checkForUpdates, 300000);
+    }}
+  }})();
+</script>
+"""
+    if "</body>" not in html_text:
+        return f"{html_text}\n{snippet}"
+    return html_text.replace("</body>", f"{snippet}\n</body>", 1)
 
 
 def related_references_for_edition(reference_records: list[dict[str, Any]], edition_key: str) -> list[dict[str, Any]]:

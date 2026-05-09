@@ -148,6 +148,12 @@ python -m src.site_build --days 7 --output-mode web --deploy-dir docs
 python -m src.site_build --days 7 --output-mode both --deploy-dir docs
 ```
 
+Build, commit, and push the public site when generated `docs/` files changed:
+
+```bash
+./scripts/publish_public_site.sh
+```
+
 ## CLI notes
 
 `src.main`
@@ -215,6 +221,9 @@ The project now treats local and public output as parallel surfaces from the sam
 - `docs/latest.html` is the web-safe public copy of the briefing view
 - story pages and disease sheets are written to both local and public trees
 - public exports use web-safe relative paths instead of `file:///` URLs
+- the live GitHub Pages site updates only after a newer `docs/` build has been pushed
+- `scripts/publish_public_site.sh` is the guarded public publish path; it rebuilds the site, refuses to auto-publish if non-generated repo files are dirty, and pushes only generated `docs/` changes
+- public pages poll `docs/app_exports/manifest.json` and show a refresh prompt when a newer run has landed while a reader is still on the page
 
 ## Scheduling
 
@@ -244,9 +253,9 @@ Repo file:
 
 Purpose:
 
-- runs `python -m src.main`
-- writes `briefings/YYYY-MM-DD_epi_dossier.md` and `briefings/YYYY-MM-DD_epi_dossier.html`
-- refreshes `Daily Dossiers/latest.md` and `Daily Dossiers/latest.html`
+- runs `./scripts/publish_public_site.sh`
+- rebuilds the local reader and the public `docs/` tree
+- pushes public `docs/` changes to GitHub when the generated site changed
 - starts at `06:30` local time every day
 
 Install it:
@@ -258,7 +267,7 @@ launchctl load ~/Library/LaunchAgents/com.codex.epi-dossier.daily-morning.plist
 launchctl start com.codex.epi-dossier.daily-morning
 ```
 
-### Workday heartbeat
+### Workday heartbeat launchd job
 
 Repo file:
 
@@ -266,10 +275,20 @@ Repo file:
 
 Purpose:
 
-- runs the full site builder during the workday
-- keeps local reader surfaces current
+- runs `./scripts/publish_public_site.sh`
+- acts as the canonical live-site updater
+- rebuilds and republishes the public site hourly
 
-### Overnight iteration
+Install it:
+
+```bash
+cp automation/com.codex.epi-dossier.workday-heartbeat.plist ~/Library/LaunchAgents/com.codex.epi-dossier.workday-heartbeat.plist
+launchctl unload ~/Library/LaunchAgents/com.codex.epi-dossier.workday-heartbeat.plist 2>/dev/null || true
+launchctl load ~/Library/LaunchAgents/com.codex.epi-dossier.workday-heartbeat.plist
+launchctl start com.codex.epi-dossier.workday-heartbeat
+```
+
+### Overnight build launchd job
 
 Repo file:
 
@@ -277,26 +296,8 @@ Repo file:
 
 Purpose:
 
-- runs the full site builder
-- writes both local and `docs/` surfaces
-- refreshes hourly from `22:00` through `06:00`
-
-Program:
-
-```bash
-python -m src.site_build --days 7 --output-mode both --deploy-dir docs
-```
-
-### launchd install
-
-Install a plist into `~/Library/LaunchAgents/`, then reload:
-
-```bash
-cp automation/com.codex.epi-dossier.overnight-build.plist ~/Library/LaunchAgents/com.codex.epi-dossier.overnight-build.plist
-launchctl unload ~/Library/LaunchAgents/com.codex.epi-dossier.overnight-build.plist 2>/dev/null || true
-launchctl load ~/Library/LaunchAgents/com.codex.epi-dossier.overnight-build.plist
-launchctl start com.codex.epi-dossier.overnight-build
-```
+- runs `./scripts/publish_public_site.sh`
+- gives the public site extra overnight refresh passes while sources and clustering continue to evolve
 
 ## GitHub Pages
 

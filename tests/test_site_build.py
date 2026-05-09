@@ -228,7 +228,13 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     assert (deploy_dir / "archive" / "index.html").exists()
     latest_json = json.loads((deploy_dir / "app_exports" / "latest.json").read_text())
     assert latest_json["stories"][0]["story_url"] == "stories/story_1-measles-transmission-and-vaccination.html"
-    assert "file:///" not in (deploy_dir / "latest.html").read_text()
+    latest_html_text = (deploy_dir / "latest.html").read_text()
+    assert "file:///" not in latest_html_text
+    assert "public-live-update-banner" in latest_html_text
+    assert "./app_exports/manifest.json" in latest_html_text
+    public_story_text = (deploy_dir / "stories" / "story_1-measles-transmission-and-vaccination.html").read_text()
+    assert "../app_exports/manifest.json" in public_story_text
+    assert "Refresh now" in public_story_text
 
 
 def test_site_build_preserves_existing_reader_html_when_reader_guard_blocks(tmp_path, monkeypatch):

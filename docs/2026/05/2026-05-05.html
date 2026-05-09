@@ -350,5 +350,126 @@
 
       <p class="footer-note">This HTML briefing is generated locally from the same canonical data used for the Markdown dossier and app exports.</p>
     </main>
-  </body>
+  
+<style>
+  .public-live-update-banner {
+    position: fixed;
+    right: 18px;
+    bottom: 18px;
+    z-index: 9999;
+    max-width: min(420px, calc(100vw - 28px));
+    border-radius: 18px;
+    border: 1px solid rgba(31, 91, 137, 0.24);
+    background: rgba(255, 252, 247, 0.98);
+    box-shadow: 0 18px 42px rgba(28, 20, 12, 0.18);
+    padding: 14px 16px;
+    display: grid;
+    gap: 10px;
+  }
+  .public-live-update-banner[hidden] {
+    display: none !important;
+  }
+  .public-live-update-copy {
+    display: grid;
+    gap: 6px;
+  }
+  .public-live-update-label {
+    margin: 0;
+    font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 0.74rem;
+    color: #8d3f2f;
+  }
+  .public-live-update-text {
+    margin: 0;
+    font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+    color: #42515e;
+  }
+  .public-live-update-button {
+    justify-self: start;
+    border-radius: 999px;
+    padding: 10px 14px;
+    border: 1px solid rgba(31, 91, 137, 0.26);
+    background: rgba(31, 91, 137, 0.12);
+    color: #1f5b89;
+    font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .public-live-update-button:hover {
+    background: rgba(31, 91, 137, 0.18);
+  }
+  @media (max-width: 700px) {
+    .public-live-update-banner {
+      left: 14px;
+      right: 14px;
+      bottom: 14px;
+      max-width: none;
+    }
+    .public-live-update-button {
+      width: 100%;
+      justify-self: stretch;
+    }
+  }
+</style>
+<section class="public-live-update-banner" id="public-live-update-banner" hidden aria-live="polite">
+  <div class="public-live-update-copy">
+    <p class="public-live-update-label">Live update</p>
+    <p class="public-live-update-text" id="public-live-update-text">A newer edition has been published. Refresh to load the latest stories.</p>
+  </div>
+  <button class="public-live-update-button" id="public-live-update-refresh" type="button">Refresh now</button>
+</section>
+<script>
+  (function () {
+    const banner = document.getElementById("public-live-update-banner");
+    const button = document.getElementById("public-live-update-refresh");
+    const text = document.getElementById("public-live-update-text");
+    const currentRunId = 'run_64efbff34b803116';
+    const currentGeneratedAt = '2026-05-09T07:54:33';
+    const manifestPath = '../../app_exports/manifest.json';
+
+    function shouldCheckForUpdates() {
+      return window.location.protocol === "https:" || window.location.protocol === "http:";
+    }
+
+    function newerManifest(manifest) {
+      const nextRunId = String(manifest.latest_run_id || "").trim();
+      const nextGeneratedAt = String(manifest.generated_at || "").trim();
+      if (currentRunId && nextRunId) {
+        return nextRunId !== currentRunId;
+      }
+      if (currentGeneratedAt && nextGeneratedAt) {
+        return nextGeneratedAt !== currentGeneratedAt;
+      }
+      return false;
+    }
+
+    async function checkForUpdates() {
+      if (!shouldCheckForUpdates()) return;
+      try {
+        const response = await fetch(`${manifestPath}?ts=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) return;
+        const manifest = await response.json();
+        if (!newerManifest(manifest)) return;
+        if (text && manifest.generated_at) {
+          text.textContent = `New edition published ${manifest.generated_at}. Refresh to load it.`;
+        }
+        if (banner) banner.hidden = false;
+      } catch (error) {
+        // Ignore update-check failures to keep the reader surface quiet.
+      }
+    }
+
+    if (button) {
+      button.addEventListener("click", () => window.location.reload());
+    }
+    if (shouldCheckForUpdates()) {
+      window.setTimeout(checkForUpdates, 45000);
+      window.setInterval(checkForUpdates, 300000);
+    }
+  })();
+</script>
+
+</body>
 </html>

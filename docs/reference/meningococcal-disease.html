@@ -14,6 +14,11 @@
       .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
       .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
+      .live-update-banner { padding: 14px 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+      .live-update-copy { min-width: 0; display: grid; gap: 4px; }
+      .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .live-update-button { border-radius: 999px; padding: 10px 14px; border: 1px solid rgba(31,91,137,0.26); background: rgba(31,91,137,0.12); color: var(--signal); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 700; cursor: pointer; white-space: nowrap; }
+      .live-update-button:hover { background: rgba(31,91,137,0.18); }
       .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
       .site-nav-link, .section-nav-link { border-radius: 999px; padding: 9px 14px; border: 1px solid rgba(187,169,143,0.78); background: rgba(255,252,245,0.94); color: var(--ink); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.92rem; white-space: nowrap; }
       .site-nav-link:hover, .section-nav-link:hover { text-decoration: none; background: var(--accent-soft); }
@@ -64,13 +69,14 @@
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
       @media (max-width: 1100px) { .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } }
+      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } .live-update-banner { flex-direction: column; align-items: flex-start; } }
       @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
     </style>
   </head>
   <body>
     <main class="page">
       <header class="site-header"><div class="site-header-copy"><div class="kicker">The Patogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
+      <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite"><div class="live-update-copy"><div class="section-nav-label">Live update</div><p class="live-update-text" id="live-update-text">A newer edition has been published. Refresh to load the latest story set.</p></div><button class="live-update-button" id="live-update-refresh" type="button">Refresh now</button></section>
       <section class="hero" id="story-overview">
         <p class="kicker">Disease intelligence sheet</p>
         <h1>Meningococcal disease</h1>
@@ -126,5 +132,62 @@
         <ul class="bullet-list"><li>Serogroup changes have repeatedly altered the control picture across the African meningitis belt.</li></ul>
       </section>
     </main>
+    <script>
+      const liveUpdateBanner = document.getElementById("live-update-banner");
+      const liveUpdateButton = document.getElementById("live-update-refresh");
+      const liveUpdateText = document.getElementById("live-update-text");
+      const currentRunId = 'run_64efbff34b803116';
+      const currentGeneratedAt = '2026-05-09T07:54:33';
+      const manifestPath = '../app_exports/manifest.json';
+
+      function liveUpdateShouldRun() {
+        return window.location.protocol === "https:" || window.location.protocol === "http:";
+      }
+
+      function markLiveUpdateAvailable(manifest) {
+        if (!liveUpdateBanner) return;
+        if (liveUpdateText) {
+          const nextRun = manifest.generated_at ? `New edition published ${
+            manifest.generated_at
+          }. Refresh to load it.` : "A newer edition has been published. Refresh to load the latest story set.";
+          liveUpdateText.textContent = nextRun;
+        }
+        liveUpdateBanner.hidden = false;
+      }
+
+      function isNewerManifest(manifest) {
+        const nextRunId = String(manifest.latest_run_id || "").trim();
+        const nextGeneratedAt = String(manifest.generated_at || "").trim();
+        if (currentRunId && nextRunId) {
+          return nextRunId !== currentRunId;
+        }
+        if (currentGeneratedAt && nextGeneratedAt) {
+          return nextGeneratedAt !== currentGeneratedAt;
+        }
+        return false;
+      }
+
+      async function checkForLiveUpdate() {
+        if (!liveUpdateShouldRun()) return;
+        try {
+          const response = await fetch(`${manifestPath}?ts=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) return;
+          const manifest = await response.json();
+          if (isNewerManifest(manifest)) {
+            markLiveUpdateAvailable(manifest);
+          }
+        } catch (error) {
+          // Ignore polling failures; readers should never see an error state for this.
+        }
+      }
+
+      if (liveUpdateButton) {
+        liveUpdateButton.addEventListener("click", () => window.location.reload());
+      }
+      if (liveUpdateShouldRun()) {
+        window.setTimeout(checkForLiveUpdate, 45000);
+        window.setInterval(checkForLiveUpdate, 300000);
+      }
+    </script>
   </body>
 </html>

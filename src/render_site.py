@@ -16,6 +16,7 @@ def render_story_page(
     generated_at: datetime,
     *,
     web_mode: bool = False,
+    current_run_id: str | None = None,
 ) -> str:
     official_items_raw = [items_by_id[item_id] for item_id in story.get("official_item_ids", []) if item_id in items_by_id]
     press_items_raw = [items_by_id[item_id] for item_id in story.get("press_item_ids", []) if item_id in items_by_id]
@@ -43,6 +44,12 @@ def render_story_page(
         for item in dedupe_dicts_by_key([items_by_id[item_id] for item_id in story.get("item_ids", []) if item_id in items_by_id], "region")
         if item.get("region")
     )
+    live_update_banner = render_live_update_banner() if web_mode else ""
+    live_update_js = (
+        live_update_script("../app_exports/manifest.json", current_run_id or str(story.get("run_id", "")), generated_at.isoformat(timespec="seconds"))
+        if web_mode
+        else ""
+    )
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -55,6 +62,7 @@ def render_story_page(
   <body>
     <main class="page">
       {render_site_header_mode("../", nav_mode="web" if web_mode else "local", active_page="story")}
+      {live_update_banner}
       <section class="hero" id="story-overview">
         <p class="kicker">Tracked outbreak file</p>
         <h1>{escape(story.get("display_title", "Story"))}</h1>
@@ -128,6 +136,7 @@ def render_story_page(
     </main>
     <script>{sort_script()}</script>
     <script>{story_filter_script()}</script>
+    {f'<script>{live_update_js}</script>' if live_update_js else ''}
   </body>
 </html>
 """
@@ -139,6 +148,7 @@ def render_reference_page(
     generated_at: datetime,
     *,
     web_mode: bool = False,
+    current_run_id: str | None = None,
 ) -> str:
     symptom_list = "".join(f"<li>{escape(symptom)}</li>" for symptom in reference.get("symptoms", []))
     field_guide_links = "".join(
@@ -153,6 +163,12 @@ def render_reference_page(
     related_story_cards = "".join(
         render_related_story_card(story, web_mode=web_mode, link_prefix="../") for story in reference.get("related_stories", [])
     ) or '<p class="empty-note">No active tracked stories are linked to this disease in the current run.</p>'
+    live_update_banner = render_live_update_banner() if web_mode else ""
+    live_update_js = (
+        live_update_script("../app_exports/manifest.json", current_run_id or str(reference.get("run_id", "")), generated_at.isoformat(timespec="seconds"))
+        if web_mode
+        else ""
+    )
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -165,6 +181,7 @@ def render_reference_page(
   <body>
     <main class="page">
       {render_site_header_mode("../", nav_mode="web" if web_mode else "local", active_page="reference")}
+      {live_update_banner}
       <section class="hero" id="story-overview">
         <p class="kicker">Disease intelligence sheet</p>
         <h1>{escape(reference.get("name", "Reference"))}</h1>
@@ -228,6 +245,7 @@ def render_reference_page(
         <ul class="bullet-list">{notable or '<li>No notable earlier outbreaks have been curated yet.</li>'}</ul>
       </section>
     </main>
+    {f'<script>{live_update_js}</script>' if live_update_js else ''}
   </body>
 </html>
 """
@@ -312,6 +330,8 @@ def render_public_homepage(
     research_cards = "".join(render_public_item_card(item) for item in research_items) or '<p class="empty-note">No research-linked items were surfaced in this run.</p>'
     reference_cards = "".join(render_public_reference_card(reference, link_prefix="./") for reference in reference_spotlight) or '<p class="empty-note">No reference sheets were spotlighted in this run.</p>'
     archive_rows = "".join(render_public_archive_row(entry, link_prefix="./") for entry in archive_cards) or '<p class="empty-note">No archive days are available yet.</p>'
+    live_update_banner = render_live_update_banner()
+    live_update_js = live_update_script("./app_exports/manifest.json", str(latest_snapshot.get("run_id", "")), str(latest_snapshot.get("generated_at", "")))
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -324,6 +344,7 @@ def render_public_homepage(
   <body>
     <main class="page">
       {render_site_header_mode("./", nav_mode="web", active_page="home")}
+      {live_update_banner}
       <section class="hero" id="top">
         <p class="kicker">The Edge of Epidemiology</p>
         <h1>The Patogen Dispatch</h1>
@@ -365,6 +386,7 @@ def render_public_homepage(
         <div class="archive-table">{archive_rows}</div>
       </section>
     </main>
+    <script>{live_update_js}</script>
   </body>
 </html>
 """
@@ -378,11 +400,16 @@ def render_public_desk_page(
     items: list[dict[str, Any]],
     reference_records: list[dict[str, Any]],
     archive_entries: list[dict[str, Any]],
+    *,
+    current_run_id: str = "",
+    current_generated_at: str = "",
 ) -> str:
     story_cards = "".join(render_public_story_card(story, link_prefix="./") for story in stories) or '<p class="empty-note">No tracked story files matched this desk in the current run.</p>'
     item_cards = "".join(render_public_item_card(item) for item in items) or '<p class="empty-note">No item cards matched this desk in the current run.</p>'
     reference_cards = "".join(render_public_reference_card(reference, link_prefix="./") for reference in reference_records[:4]) or '<p class="empty-note">No related disease sheets are linked here yet.</p>'
     archive_rows = "".join(render_public_archive_row(entry, link_prefix="./") for entry in archive_entries[:8]) or '<p class="empty-note">No archive days are available yet.</p>'
+    live_update_banner = render_live_update_banner()
+    live_update_js = live_update_script("./app_exports/manifest.json", current_run_id, current_generated_at)
     return f"""<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -394,6 +421,7 @@ def render_public_desk_page(
   <body>
     <main class="page">
       {render_site_header_mode("./", nav_mode="web", active_page=active_page)}
+      {live_update_banner}
       <section class="hero" id="desk-top">
         <p class="kicker">Source-first desk</p>
         <h1>{escape(title)}</h1>
@@ -419,6 +447,7 @@ def render_public_desk_page(
         </section>
       </section>
     </main>
+    <script>{live_update_js}</script>
   </body>
 </html>
 """
@@ -444,6 +473,8 @@ def render_public_archive_page(
         )
     story_cards = "".join(render_public_story_card(story, link_prefix="../") for story in latest_snapshot.get("stories", [])[:5])
     reference_cards = "".join(render_public_reference_card(reference, link_prefix="../") for reference in reference_records[:6])
+    live_update_banner = render_live_update_banner()
+    live_update_js = live_update_script("../app_exports/manifest.json", str(latest_snapshot.get("run_id", "")), str(latest_snapshot.get("generated_at", "")))
     return f"""<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -455,6 +486,7 @@ def render_public_archive_page(
   <body>
     <main class="page">
       {render_site_header_mode("../", nav_mode="web", active_page="archive")}
+      {live_update_banner}
       <section class="hero">
         <p class="kicker">Archive + Backfile</p>
         <h1>Archive</h1>
@@ -471,6 +503,7 @@ def render_public_archive_page(
         <div class="card-grid">{reference_cards}</div>
       </section>
     </main>
+    <script>{live_update_js}</script>
   </body>
 </html>
 """
@@ -1019,6 +1052,78 @@ def render_page_section_nav(links: list[tuple[str, str]]) -> str:
     )
 
 
+def render_live_update_banner() -> str:
+    return (
+        '<section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite">'
+        '<div class="live-update-copy">'
+        '<div class="section-nav-label">Live update</div>'
+        '<p class="live-update-text" id="live-update-text">A newer edition has been published. Refresh to load the latest story set.</p>'
+        '</div>'
+        '<button class="live-update-button" id="live-update-refresh" type="button">Refresh now</button>'
+        '</section>'
+    )
+
+
+def live_update_script(manifest_path: str, current_run_id: str, current_generated_at: str) -> str:
+    return f"""
+      const liveUpdateBanner = document.getElementById("live-update-banner");
+      const liveUpdateButton = document.getElementById("live-update-refresh");
+      const liveUpdateText = document.getElementById("live-update-text");
+      const currentRunId = {current_run_id!r};
+      const currentGeneratedAt = {current_generated_at!r};
+      const manifestPath = {manifest_path!r};
+
+      function liveUpdateShouldRun() {{
+        return window.location.protocol === "https:" || window.location.protocol === "http:";
+      }}
+
+      function markLiveUpdateAvailable(manifest) {{
+        if (!liveUpdateBanner) return;
+        if (liveUpdateText) {{
+          const nextRun = manifest.generated_at ? `New edition published ${{
+            manifest.generated_at
+          }}. Refresh to load it.` : "A newer edition has been published. Refresh to load the latest story set.";
+          liveUpdateText.textContent = nextRun;
+        }}
+        liveUpdateBanner.hidden = false;
+      }}
+
+      function isNewerManifest(manifest) {{
+        const nextRunId = String(manifest.latest_run_id || "").trim();
+        const nextGeneratedAt = String(manifest.generated_at || "").trim();
+        if (currentRunId && nextRunId) {{
+          return nextRunId !== currentRunId;
+        }}
+        if (currentGeneratedAt && nextGeneratedAt) {{
+          return nextGeneratedAt !== currentGeneratedAt;
+        }}
+        return false;
+      }}
+
+      async function checkForLiveUpdate() {{
+        if (!liveUpdateShouldRun()) return;
+        try {{
+          const response = await fetch(`${{manifestPath}}?ts=${{Date.now()}}`, {{ cache: "no-store" }});
+          if (!response.ok) return;
+          const manifest = await response.json();
+          if (isNewerManifest(manifest)) {{
+            markLiveUpdateAvailable(manifest);
+          }}
+        }} catch (error) {{
+          // Ignore polling failures; readers should never see an error state for this.
+        }}
+      }}
+
+      if (liveUpdateButton) {{
+        liveUpdateButton.addEventListener("click", () => window.location.reload());
+      }}
+      if (liveUpdateShouldRun()) {{
+        window.setTimeout(checkForLiveUpdate, 45000);
+        window.setInterval(checkForLiveUpdate, 300000);
+      }}
+    """
+
+
 def render_related_reference_card(reference: dict[str, Any], *, web_mode: bool = False, link_prefix: str = "./") -> str:
     href = f"{link_prefix}{reference.get('reference_web_path', '')}" if web_mode else reference.get("reference_url", "")
     return (
@@ -1111,6 +1216,11 @@ def base_styles() -> str:
       .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
       .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
+      .live-update-banner { padding: 14px 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+      .live-update-copy { min-width: 0; display: grid; gap: 4px; }
+      .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .live-update-button { border-radius: 999px; padding: 10px 14px; border: 1px solid rgba(31,91,137,0.26); background: rgba(31,91,137,0.12); color: var(--signal); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 700; cursor: pointer; white-space: nowrap; }
+      .live-update-button:hover { background: rgba(31,91,137,0.18); }
       .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
       .site-nav-link, .section-nav-link { border-radius: 999px; padding: 9px 14px; border: 1px solid rgba(187,169,143,0.78); background: rgba(255,252,245,0.94); color: var(--ink); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.92rem; white-space: nowrap; }
       .site-nav-link:hover, .section-nav-link:hover { text-decoration: none; background: var(--accent-soft); }
@@ -1161,7 +1271,7 @@ def base_styles() -> str:
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
       @media (max-width: 1100px) { .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } }
+      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } .live-update-banner { flex-direction: column; align-items: flex-start; } }
       @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
     """
 

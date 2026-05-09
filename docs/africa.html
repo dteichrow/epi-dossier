@@ -14,6 +14,11 @@
       .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
       .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
+      .live-update-banner { padding: 14px 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+      .live-update-copy { min-width: 0; display: grid; gap: 4px; }
+      .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .live-update-button { border-radius: 999px; padding: 10px 14px; border: 1px solid rgba(31,91,137,0.26); background: rgba(31,91,137,0.12); color: var(--signal); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 700; cursor: pointer; white-space: nowrap; }
+      .live-update-button:hover { background: rgba(31,91,137,0.18); }
       .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
       .site-nav-link, .section-nav-link { border-radius: 999px; padding: 9px 14px; border: 1px solid rgba(187,169,143,0.78); background: rgba(255,252,245,0.94); color: var(--ink); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.92rem; white-space: nowrap; }
       .site-nav-link:hover, .section-nav-link:hover { text-decoration: none; background: var(--accent-soft); }
@@ -64,13 +69,14 @@
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
       @media (max-width: 1100px) { .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } }
+      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } .live-update-banner { flex-direction: column; align-items: flex-start; } }
       @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
     </style>
   </head>
   <body>
     <main class="page">
       <header class="site-header"><div class="site-header-copy"><div class="kicker">The Patogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="./index.html">Home</a><a class="site-nav-link" href="./watch.html">Global watch</a><a class="site-nav-link active" href="./africa.html" aria-current="page">Africa</a><a class="site-nav-link" href="./asia.html">Asia</a><a class="site-nav-link" href="./research.html">Research</a><a class="site-nav-link" href="./official.html">Official alerts</a><a class="site-nav-link" href="./archive/index.html">Archive</a></nav></header>
+      <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite"><div class="live-update-copy"><div class="section-nav-label">Live update</div><p class="live-update-text" id="live-update-text">A newer edition has been published. Refresh to load the latest story set.</p></div><button class="live-update-button" id="live-update-refresh" type="button">Refresh now</button></section>
       <section class="hero" id="desk-top">
         <p class="kicker">Source-first desk</p>
         <h1>Africa Watch</h1>
@@ -83,7 +89,7 @@
       </section>
       <section class="panel" id="latest-signals">
         <h2>Latest Signals</h2>
-        <div class="card-grid"><article class="site-card"><div class="kicker">Official update</div><h3><a href="https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response">Webinar | Listening to communities through AI for cholera response</a></h3><p>During this session, AIRA will share how AI-supported social listening is used to: Track infodemic trends across countries Identify key drivers such as trust, water and sanitation concerns, and vaccine perceptions Inform evidence-based risk communication and community engagement (RCCE) strategies Support countries with actionable insights and ready-to-use content This webinar will also highlight experiences from country and regional levels, demonstrating how data-driven listening can strengthen public health responses . 👉 Join us and be part of the conversation.</p><div class="meta-row"><span class="badge">WHO Regional Office for Africa</span><span class="badge">Africa</span><span class="badge">2026-05-05T10:17+00:00</span><span class="badge">Official agency</span><span class="badge">Live fetch</span><span class="badge">Wrapper only</span></div></article><article class="site-card"><div class="kicker">Metadata-only signal</div><h3><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEg3RFRhT3U2SjZiazh3eEJpNmNtT01ieV9SNjVzbGZnQmREWkFpelpNV2E0Mktza0wxcU1nbURMY0xGbEJtbTFzaWg3RVBBaTRQU2JuOGU3MW93cWdvV2FHdy1Hd2E4S2RqbTBnajJvMFVDanVOWnhQS21GOHdReXRNZmxaQWJUcHc?oc=5">WHO confirms malaria vaccine impact across Ghana, Kenya, Malawi</a></h3><p>Limited detail was available from feed metadata alone.</p><div class="meta-row"><span class="badge">Punch Newspapers</span><span class="badge">Africa</span><span class="badge">2026-05-09T08:46+00:00</span><span class="badge">Metadata-only signal</span><span class="badge">Live fetch</span><span class="badge">Metadata only</span></div></article><article class="site-card"><div class="kicker">Metadata-only signal</div><h3><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5">Officials investigate case of measles in the Central Region</a></h3><p>Limited detail was available from feed metadata alone.</p><div class="meta-row"><span class="badge">CBS 19 News</span><span class="badge">Africa</span><span class="badge">2026-05-09T02:57+00:00</span><span class="badge">Metadata-only signal</span><span class="badge">Live fetch</span><span class="badge">Metadata only</span></div></article><article class="site-card"><div class="kicker">Metadata-only signal</div><h3><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQRG1vR01JUFNkQV84V1dUdDRnWUZVTlkzaHNFX0tmWWlPeTFvZF9GdW93d1ZHZVhKeDd3UFhZV3phbGVRX1lZbjF4VmZUY2pSSVU5WkRuSVVBc01Oa3hCMVNIWVBMVGxCR0lHei01NnJXNURPWmJfa29vcjUtenBHalFFU0M4dlN0TVhqZjBqd2hhYXZLd3N4YmIxY3V2b0NES2tFR2kxODZDT2NiakJoWUJZcmNNQnJOeWc?oc=5">Ebola outbreak reported in Uganda, WHO says "in close contact to provide rapid response"</a></h3><p>Limited detail was available from feed metadata alone.</p><div class="meta-row"><span class="badge">The News Mill</span><span class="badge">Africa</span><span class="badge">2026-05-06T09:47+00:00</span><span class="badge">Metadata-only signal</span><span class="badge">Live fetch</span><span class="badge">Metadata only</span></div></article><article class="site-card"><div class="kicker">Metadata-only signal</div><h3><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PYkFpZ2hCV012U2ZoalM5bFBIcndBd2UtRHdwUEM2c0Zjb3dRNkRWSXBpbjF3MDhaTkFFVUxuZGZlTEswclpERndSRTgyZXhOUVBTc2lHNEtIUjRFUmd1Qm4yczhkMFJI?oc=5">Sky's Yousra Elbagir has been closely following South Africa's response to a suspected outbreak of hantavirus. Three people who were on board the MV Hondius have died, while a British man has been evacuated to Johannesburg to be treated. #hantavirus #</a></h3><p>Limited detail was available from feed metadata alone.</p><div class="meta-row"><span class="badge">TikTok</span><span class="badge">Africa</span><span class="badge">2026-05-04T14:29+00:00</span><span class="badge">Metadata-only signal</span><span class="badge">Live fetch</span><span class="badge">Metadata only</span></div></article></div>
+        <div class="card-grid"><article class="site-card"><div class="kicker">Official update</div><h3><a href="https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response">Webinar | Listening to communities through AI for cholera response</a></h3><p>During this session, AIRA will share how AI-supported social listening is used to: Track infodemic trends across countries Identify key drivers such as trust, water and sanitation concerns, and vaccine perceptions Inform evidence-based risk communication and community engagement (RCCE) strategies Support countries with actionable insights and ready-to-use content This webinar will also highlight experiences from country and regional levels, demonstrating how data-driven listening can strengthen public health responses . 👉 Join us and be part of the conversation.</p><div class="meta-row"><span class="badge">WHO Regional Office for Africa</span><span class="badge">Africa</span><span class="badge">2026-05-05T10:17+00:00</span><span class="badge">Official agency</span><span class="badge">Live fetch</span><span class="badge">Wrapper only</span></div></article><article class="site-card"><div class="kicker">Metadata-only signal</div><h3><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxORkxCQ1BXXzNpSllQczBzX1oxejFPOVJGa1NsY1VlTWlYLTB0VE1nYVdaV0NCTzRjQlBUekM3YkRLdGpDUFFQdDdrM3Z3YjYwVWgyQ3BZX1FURFVLWks5QUc4cFRVSVRoN1FudUFlS0lWcXZSY25GSXpVMUNMZDRUQVlXME9jdXVfSHU4dlBIQQ?oc=5">WHO confirms malaria vaccine impact across Ghana, Kenya, Malawi</a></h3><p>Limited detail was available from feed metadata alone.</p><div class="meta-row"><span class="badge">Punch Newspapers</span><span class="badge">Africa</span><span class="badge">2026-05-09T08:47+00:00</span><span class="badge">Metadata-only signal</span><span class="badge">Live fetch</span><span class="badge">Metadata only</span></div></article><article class="site-card"><div class="kicker">Metadata-only signal</div><h3><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5">Officials investigate case of measles in the Central Region</a></h3><p>Limited detail was available from feed metadata alone.</p><div class="meta-row"><span class="badge">CBS 19 News</span><span class="badge">Africa</span><span class="badge">2026-05-09T02:57+00:00</span><span class="badge">Metadata-only signal</span><span class="badge">Live fetch</span><span class="badge">Metadata only</span></div></article><article class="site-card"><div class="kicker">Metadata-only signal</div><h3><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWp0TkUzZHU5cllIR3J3Vzc2dTY1RWhHazRCQXRhMUVGMFM4aVVpNjVNU2wxbF9YbTN0WjNLTjJEeDZhd2xKS1ZZT2lQVGhOY20yX2hLNUZxTUVOa3FBV2JkclZxUWVNQnJ3aTdCY0pGTEVLM3hrNWVHZ1N2OGdQVC1UYVV0REprYkxTeGhIY3FDT1ExY0tYQ1JTOTF3N1JW?oc=5">Ilemela Polio Vaccination Drive Targets 170,000 Children in Mwanza</a></h3><p>Limited detail was available from feed metadata alone.</p><div class="meta-row"><span class="badge">streamlinefeed.co.ke</span><span class="badge">Africa</span><span class="badge">2026-05-07T11:12+00:00</span><span class="badge">Metadata-only signal</span><span class="badge">Live fetch</span><span class="badge">Metadata only</span></div></article><article class="site-card"><div class="kicker">Metadata-only signal</div><h3><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PYkFpZ2hCV012U2ZoalM5bFBIcndBd2UtRHdwUEM2c0Zjb3dRNkRWSXBpbjF3MDhaTkFFVUxuZGZlTEswclpERndSRTgyZXhOUVBTc2lHNEtIUjRFUmd1Qm4yczhkMFJI?oc=5">Sky's Yousra Elbagir has been closely following South Africa's response to a suspected outbreak of hantavirus. Three people who were on board the MV Hondius have died, while a British man has been evacuated to Johannesburg to be treated. #hantavirus #</a></h3><p>Limited detail was available from feed metadata alone.</p><div class="meta-row"><span class="badge">TikTok</span><span class="badge">Africa</span><span class="badge">2026-05-04T14:29+00:00</span><span class="badge">Metadata-only signal</span><span class="badge">Live fetch</span><span class="badge">Metadata only</span></div></article></div>
       </section>
       <section class="panel-grid">
         <section class="panel" id="reference-links">
@@ -96,5 +102,62 @@
         </section>
       </section>
     </main>
+    <script>
+      const liveUpdateBanner = document.getElementById("live-update-banner");
+      const liveUpdateButton = document.getElementById("live-update-refresh");
+      const liveUpdateText = document.getElementById("live-update-text");
+      const currentRunId = 'run_64efbff34b803116';
+      const currentGeneratedAt = '2026-05-09T07:54:33';
+      const manifestPath = './app_exports/manifest.json';
+
+      function liveUpdateShouldRun() {
+        return window.location.protocol === "https:" || window.location.protocol === "http:";
+      }
+
+      function markLiveUpdateAvailable(manifest) {
+        if (!liveUpdateBanner) return;
+        if (liveUpdateText) {
+          const nextRun = manifest.generated_at ? `New edition published ${
+            manifest.generated_at
+          }. Refresh to load it.` : "A newer edition has been published. Refresh to load the latest story set.";
+          liveUpdateText.textContent = nextRun;
+        }
+        liveUpdateBanner.hidden = false;
+      }
+
+      function isNewerManifest(manifest) {
+        const nextRunId = String(manifest.latest_run_id || "").trim();
+        const nextGeneratedAt = String(manifest.generated_at || "").trim();
+        if (currentRunId && nextRunId) {
+          return nextRunId !== currentRunId;
+        }
+        if (currentGeneratedAt && nextGeneratedAt) {
+          return nextGeneratedAt !== currentGeneratedAt;
+        }
+        return false;
+      }
+
+      async function checkForLiveUpdate() {
+        if (!liveUpdateShouldRun()) return;
+        try {
+          const response = await fetch(`${manifestPath}?ts=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) return;
+          const manifest = await response.json();
+          if (isNewerManifest(manifest)) {
+            markLiveUpdateAvailable(manifest);
+          }
+        } catch (error) {
+          // Ignore polling failures; readers should never see an error state for this.
+        }
+      }
+
+      if (liveUpdateButton) {
+        liveUpdateButton.addEventListener("click", () => window.location.reload());
+      }
+      if (liveUpdateShouldRun()) {
+        window.setTimeout(checkForLiveUpdate, 45000);
+        window.setInterval(checkForLiveUpdate, 300000);
+      }
+    </script>
   </body>
 </html>

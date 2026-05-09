@@ -1,6 +1,6 @@
 from datetime import date, datetime
 
-from src.render_site import render_reference_page, render_story_page
+from src.render_site import render_public_homepage, render_reference_page, render_story_page
 
 
 def test_render_story_page_separates_official_and_press_sections():
@@ -223,6 +223,97 @@ def test_render_story_page_collapses_near_duplicate_same_publisher_followups():
 
     content = render_story_page(story, items_by_id, date(2026, 5, 7), datetime(2026, 5, 7, 7, 30))
     assert "Showing 4 of 5 items after collapsing 1 near-duplicate follow-up." in content
+
+
+def test_render_story_page_web_mode_includes_live_update_polling():
+    story = {
+        "display_title": "Hantavirus and cruise-ship outbreak",
+        "lead_title": "Official investigation continues",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "ECDC",
+        "item_count": 1,
+        "source_count": 1,
+        "official_item_ids": [],
+        "press_item_ids": ["press_1"],
+        "publisher_names": ["Reuters"],
+        "freshness_counts": {"live": 1, "refresh_cache": 0, "fallback_cache": 0, "retained": 0},
+        "latest_update_summary": "Story remains active.",
+        "latest_update_bullets": [],
+        "related_references": [],
+        "first_seen_at": "2026-05-07T06:30:00",
+        "latest_updated_at": "2026-05-07T07:30:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "press_1": {
+            "title": "Reuters follow-up",
+            "preferred_url": "https://example.com/reuters",
+            "publisher_name": "Reuters",
+            "published_at": "2026-05-07T06:30",
+            "summary": "Publisher follow-up adds evacuation details.",
+            "link_quality": "resolved_article",
+            "publisher_tier": "wire",
+            "publisher_access": "open",
+            "region": "Global / Maritime",
+            "freshness_state": "live",
+        }
+    }
+
+    content = render_story_page(
+        story,
+        items_by_id,
+        date(2026, 5, 7),
+        datetime(2026, 5, 7, 7, 30),
+        web_mode=True,
+        current_run_id="run_1",
+    )
+    assert 'id="live-update-banner"' in content
+    assert "../app_exports/manifest.json" in content
+    assert "Refresh now" in content
+
+
+def test_render_public_homepage_includes_live_update_banner():
+    latest_snapshot = {
+        "run_id": "run_1",
+        "generated_at": "2026-05-07T08:00:00",
+        "story_count": 1,
+        "item_count": 1,
+        "stories": [
+            {
+                "display_title": "Measles transmission and vaccination",
+                "story_web_path": "stories/story_1.html",
+                "latest_update_summary": "Measles coverage is still expanding.",
+                "item_count": 3,
+                "source_count": 2,
+                "current_status_summary": "Expanding coverage",
+                "primary_region": "North America",
+                "country": "United States",
+            }
+        ],
+        "items": [
+            {
+                "title": "CDC update",
+                "summary": "Official measles update.",
+                "publisher_name": "CDC",
+                "published_at": "2026-05-07T08:00",
+                "preferred_url": "https://example.com/cdc",
+                "link_quality": "direct_article",
+                "source_confidence": "official_agency",
+                "freshness_state": "live",
+                "region": "North America",
+                "content_class": "official_update",
+                "official": True,
+                "editions": ["watch", "research"],
+            }
+        ],
+    }
+    archive_entries = [{"date": "2026-05-07", "month_name": "May", "year": 2026, "html_web_path": "2026/05/2026-05-07.html"}]
+    reference_records = [{"name": "Measles", "reference_web_path": "reference/measles.html", "pathogen": "Measles virus", "why_reporters_care": "High transmissibility exposes immunity gaps.", "spotlight": True}]
+
+    content = render_public_homepage(latest_snapshot, archive_entries, reference_records)
+    assert 'id="live-update-banner"' in content
+    assert "./app_exports/manifest.json" in content
+    assert "Refresh now" in content
 
 
 def test_render_reference_page_renders_curated_fields_and_links():

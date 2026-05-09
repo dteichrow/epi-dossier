@@ -14,6 +14,11 @@
       .site-header, .section-nav { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(248,243,233,0.98)); border: 1px solid rgba(187,169,143,0.85); border-radius: 24px; box-shadow: var(--shadow); }
       .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
+      .live-update-banner { padding: 14px 18px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+      .live-update-copy { min-width: 0; display: grid; gap: 4px; }
+      .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .live-update-button { border-radius: 999px; padding: 10px 14px; border: 1px solid rgba(31,91,137,0.26); background: rgba(31,91,137,0.12); color: var(--signal); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 700; cursor: pointer; white-space: nowrap; }
+      .live-update-button:hover { background: rgba(31,91,137,0.18); }
       .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
       .site-nav-link, .section-nav-link { border-radius: 999px; padding: 9px 14px; border: 1px solid rgba(187,169,143,0.78); background: rgba(255,252,245,0.94); color: var(--ink); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.92rem; white-space: nowrap; }
       .site-nav-link:hover, .section-nav-link:hover { text-decoration: none; background: var(--accent-soft); }
@@ -64,13 +69,14 @@
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
       @media (max-width: 1100px) { .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } }
+      @media (max-width: 900px) { .panel-grid { grid-template-columns: 1fr; } .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } .live-update-banner { flex-direction: column; align-items: flex-start; } }
       @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } }
     </style>
   </head>
   <body>
     <main class="page">
       <header class="site-header"><div class="site-header-copy"><div class="kicker">The Patogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link active" href="../archive/index.html" aria-current="page">Archive</a></nav></header>
+      <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite"><div class="live-update-copy"><div class="section-nav-label">Live update</div><p class="live-update-text" id="live-update-text">A newer edition has been published. Refresh to load the latest story set.</p></div><button class="live-update-button" id="live-update-refresh" type="button">Refresh now</button></section>
       <section class="hero">
         <p class="kicker">Archive + Backfile</p>
         <h1>Archive</h1>
@@ -80,12 +86,69 @@
       <div id="archive-days"><section class="panel"><h2>May 2026</h2><div class="archive-table"><article class="archive-row"><a href="../2026/05/2026-05-09.html"><strong>2026-05-09</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="../2026/05/2026-05-08.html"><strong>2026-05-08</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="../2026/05/2026-05-07.html"><strong>2026-05-07</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="../2026/05/2026-05-06.html"><strong>2026-05-06</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="../2026/05/2026-05-05.html"><strong>2026-05-05</strong></a><span class="archive-row-meta">May 2026</span></article></div></section></div>
       <section class="panel" id="active-files">
         <h2>Active Files</h2>
-        <div class="story-grid"><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="../stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html">Hantavirus and cruise-ship outbreak</a></h3><p>ECDC News now explicitly uses investigation or monitoring language.</p><div class="meta-row"><span class="badge accent">46 item(s)</span><span class="badge">20 source(s)</span><span class="badge">Expanding coverage</span><span class="badge">Global / Maritime</span><span class="badge">United Kingdom</span></div></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="../stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html">Measles transmission and vaccination</a></h3><p>The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.</p><div class="meta-row"><span class="badge accent">5 item(s)</span><span class="badge">5 source(s)</span><span class="badge">Expanding coverage</span><span class="badge">East Asia</span><span class="badge">United Kingdom</span></div></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="../stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html">Avian influenza and H5N1</a></h3><p>New publisher/source coverage joined this story cluster: Outbreak News Today.</p><div class="meta-row"><span class="badge accent">4 item(s)</span><span class="badge">3 source(s)</span><span class="badge">Active investigation</span><span class="badge">North America</span><span class="badge">United States</span></div></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="../stories/story_afd8f5934e291e02-covid-19-and-sars-cov-2.html">COVID-19 and SARS-CoV-2</a></h3><p>New source(s) joined this story cluster: CIDRAP.</p><div class="meta-row"><span class="badge accent">5 item(s)</span><span class="badge">2 source(s)</span></div></article></div>
+        <div class="story-grid"><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="../stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html">Hantavirus and cruise-ship outbreak</a></h3><p>6 newly observed linked item(s) were added since the last saved snapshot.</p><div class="meta-row"><span class="badge accent">49 item(s)</span><span class="badge">20 source(s)</span><span class="badge">Expanding coverage</span><span class="badge">Global / Maritime</span><span class="badge">United Kingdom</span></div></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="../stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html">Measles transmission and vaccination</a></h3><p>The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.</p><div class="meta-row"><span class="badge accent">5 item(s)</span><span class="badge">5 source(s)</span><span class="badge">Expanding coverage</span><span class="badge">East Asia</span><span class="badge">United Kingdom</span></div></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="../stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html">Avian influenza and H5N1</a></h3><p>2 newly observed linked item(s) were added since the last saved snapshot.</p><div class="meta-row"><span class="badge accent">4 item(s)</span><span class="badge">3 source(s)</span><span class="badge">Active investigation</span><span class="badge">North America</span><span class="badge">United States</span></div></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="../stories/story_afd8f5934e291e02-covid-19-and-sars-cov-2.html">COVID-19 and SARS-CoV-2</a></h3><p>New source(s) joined this story cluster: CIDRAP.</p><div class="meta-row"><span class="badge accent">5 item(s)</span><span class="badge">2 source(s)</span></div></article></div>
       </section>
       <section class="panel" id="reference-directory">
         <h2>Reference Directory</h2>
         <div class="card-grid"><article class="site-card"><div class="kicker">Reference</div><h3><a href="../reference/hantavirus-syndrome.html">Hantavirus syndrome</a></h3><p><strong>Pathogen:</strong> Hantaviruses, including Andes virus in the Americas</p><p>This is a rare but frightening severe-disease story where a single unusual cluster can force questions about travel safety, rodent exposure, and whether Andes-virus-style person-to-person spread is in play.</p></article><article class="site-card"><div class="kicker">Reference</div><h3><a href="../reference/measles.html">Measles</a></h3><p><strong>Pathogen:</strong> Measles virus</p><p>Measles is a clean reporter desk disease because it reveals vaccination gaps, school and household spread, travel-linked importation, and public-health capacity all at once.</p></article><article class="site-card"><div class="kicker">Reference</div><h3><a href="../reference/anthrax.html">Anthrax</a></h3><p><strong>Pathogen:</strong> Bacillus anthracis</p><p>Anthrax is a strong local accountability story because livestock practices, slaughter exposure, and rural reporting gaps can hide serious outbreaks in plain sight.</p></article><article class="site-card"><div class="kicker">Reference</div><h3><a href="../reference/avian-influenza-a-h5n1.html">Avian influenza A(H5N1)</a></h3><p><strong>Pathogen:</strong> Influenza A(H5N1)</p><p>H5N1 is one of the few diseases where occupational exposure, food systems, animal surveillance, and pandemic-risk communications all converge in the same file.</p></article><article class="site-card"><div class="kicker">Reference</div><h3><a href="../reference/chikungunya.html">Chikungunya</a></h3><p><strong>Pathogen:</strong> Chikungunya virus</p><p>Chikungunya is a high-quality reporter disease because explosive outbreaks can be large, visually obvious, and politically disruptive even when mortality stays low.</p></article><article class="site-card"><div class="kicker">Reference</div><h3><a href="../reference/cholera.html">Cholera</a></h3><p><strong>Pathogen:</strong> Vibrio cholerae</p><p>Cholera is one of the clearest diseases for showing how water, war, displacement, climate shocks, and state capacity become mortality.</p></article></div>
       </section>
     </main>
+    <script>
+      const liveUpdateBanner = document.getElementById("live-update-banner");
+      const liveUpdateButton = document.getElementById("live-update-refresh");
+      const liveUpdateText = document.getElementById("live-update-text");
+      const currentRunId = 'run_64efbff34b803116';
+      const currentGeneratedAt = '2026-05-09T07:54:33';
+      const manifestPath = '../app_exports/manifest.json';
+
+      function liveUpdateShouldRun() {
+        return window.location.protocol === "https:" || window.location.protocol === "http:";
+      }
+
+      function markLiveUpdateAvailable(manifest) {
+        if (!liveUpdateBanner) return;
+        if (liveUpdateText) {
+          const nextRun = manifest.generated_at ? `New edition published ${
+            manifest.generated_at
+          }. Refresh to load it.` : "A newer edition has been published. Refresh to load the latest story set.";
+          liveUpdateText.textContent = nextRun;
+        }
+        liveUpdateBanner.hidden = false;
+      }
+
+      function isNewerManifest(manifest) {
+        const nextRunId = String(manifest.latest_run_id || "").trim();
+        const nextGeneratedAt = String(manifest.generated_at || "").trim();
+        if (currentRunId && nextRunId) {
+          return nextRunId !== currentRunId;
+        }
+        if (currentGeneratedAt && nextGeneratedAt) {
+          return nextGeneratedAt !== currentGeneratedAt;
+        }
+        return false;
+      }
+
+      async function checkForLiveUpdate() {
+        if (!liveUpdateShouldRun()) return;
+        try {
+          const response = await fetch(`${manifestPath}?ts=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) return;
+          const manifest = await response.json();
+          if (isNewerManifest(manifest)) {
+            markLiveUpdateAvailable(manifest);
+          }
+        } catch (error) {
+          // Ignore polling failures; readers should never see an error state for this.
+        }
+      }
+
+      if (liveUpdateButton) {
+        liveUpdateButton.addEventListener("click", () => window.location.reload());
+      }
+      if (liveUpdateShouldRun()) {
+        window.setTimeout(checkForLiveUpdate, 45000);
+        window.setInterval(checkForLiveUpdate, 300000);
+      }
+    </script>
   </body>
 </html>
