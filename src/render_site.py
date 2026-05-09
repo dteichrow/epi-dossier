@@ -1471,6 +1471,7 @@ def base_styles() -> str:
       .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; flex-wrap: wrap; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
       .live-update-banner { position: fixed; right: 18px; bottom: 18px; width: min(420px, calc(100vw - 28px)); padding: 14px 16px; display: grid; gap: 12px; z-index: 40; box-shadow: 0 18px 36px rgba(29, 24, 18, 0.16); }
+      .live-update-banner[hidden] { display: none !important; }
       .live-update-copy { min-width: 0; display: grid; gap: 4px; }
       .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
       .live-update-actions { display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap; }

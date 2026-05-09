@@ -17,6 +17,7 @@
       .site-header { padding: 16px 20px; display: flex; justify-content: space-between; gap: 18px; align-items: center; flex-wrap: wrap; }
       .site-header-title { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.96rem; }
       .live-update-banner { position: fixed; right: 18px; bottom: 18px; width: min(420px, calc(100vw - 28px)); padding: 14px 16px; display: grid; gap: 12px; z-index: 40; box-shadow: 0 18px 36px rgba(29, 24, 18, 0.16); }
+      .live-update-banner[hidden] { display: none !important; }
       .live-update-copy { min-width: 0; display: grid; gap: 4px; }
       .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
       .live-update-actions { display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap; }
@@ -89,7 +90,7 @@
         <div class="meta-row">
           <span class="badge accent">4 active file(s)</span>
           <span class="badge">66 current item(s)</span>
-          <span class="badge">Updated 2026-05-09T15:18:48</span>
+          <span class="badge">Updated 2026-05-09T15:27:43</span>
         </div>
       </section>
       <nav class="section-nav panel utility-panel" aria-label="Section navigation"><div class="section-nav-label">On this page</div><div class="section-nav-links"><a class="section-nav-link" href="#lead-outbreak-files">Lead Outbreak Files</a><a class="section-nav-link" href="#what-changed-today">What Changed Today</a><a class="section-nav-link" href="#global-watch">Global Watch</a><a class="section-nav-link" href="#research-reference">Research + Reference</a><a class="section-nav-link" href="#archive-backfile">Archive + Backfile</a></div></nav>
@@ -128,8 +129,8 @@
       const liveUpdateButton = document.getElementById("live-update-refresh");
       const liveUpdateDismiss = document.getElementById("live-update-dismiss");
       const liveUpdateText = document.getElementById("live-update-text");
-      const currentRunId = 'run_ea2a3a690227403c';
-      const currentGeneratedAt = '2026-05-09T15:18:48';
+      const currentRunId = 'run_5698888a202645b3';
+      const currentGeneratedAt = '2026-05-09T15:27:43';
       const manifestPath = './app_exports/manifest.json';
       const liveUpdateStorageKey = `pathogen-dispatch-live-update-dismissed:${window.location.pathname}`;
       const liveUpdateStart = Date.now();

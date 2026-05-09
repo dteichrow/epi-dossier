@@ -277,6 +277,7 @@ def test_render_story_page_web_mode_includes_live_update_polling():
     assert "__pathogenLoadLatest" in content
     assert "__pathogenDismissLiveUpdate" in content
     assert 'data-live-update-banner="true"' in content
+    assert ".live-update-banner[hidden] { display: none !important; }" in content
     assert "_edition" in content
     assert "banner.style.display='none'" in content
     assert "window.sessionStorage.setItem" in content
@@ -379,6 +380,7 @@ def test_render_public_homepage_includes_live_update_banner():
     assert "An updated edition is available. Load the latest run when you are ready." in content
     assert "__pathogenLoadLatest" in content
     assert "__pathogenDismissLiveUpdate" in content
+    assert ".live-update-banner[hidden] { display: none !important; }" in content
     assert "banner.style.display='none'" in content
 
 
