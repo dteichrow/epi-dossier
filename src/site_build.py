@@ -390,6 +390,8 @@ def inject_public_live_update_support(
     font-weight: 600;
     cursor: pointer;
     padding: 10px 4px;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
   }}
   .public-live-update-dismiss:hover {{
     color: #1b2836;
@@ -404,6 +406,8 @@ def inject_public_live_update_support(
     font-family: "Avenir Next", "Helvetica Neue", sans-serif;
     font-weight: 700;
     cursor: pointer;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
   }}
   .public-live-update-button:hover {{
     background: rgba(31, 91, 137, 0.18);
@@ -426,8 +430,8 @@ def inject_public_live_update_support(
     <p class="public-live-update-text" id="public-live-update-text">An updated edition is available. Load the latest run when you are ready.</p>
   </div>
   <div class="public-live-update-actions">
-    <button class="public-live-update-dismiss" id="public-live-update-dismiss" type="button" onclick="window.__pathogenDismissPublicUpdate && window.__pathogenDismissPublicUpdate(this)">Keep reading</button>
-    <button class="public-live-update-button" id="public-live-update-refresh" type="button" onclick="window.__pathogenLoadPublicLatest && window.__pathogenLoadPublicLatest(this)">Load latest</button>
+    <button class="public-live-update-dismiss" id="public-live-update-dismiss" type="button" onclick="(function(btn){{const banner=btn.closest('[data-live-update-banner]');if(banner){{banner.hidden=true;banner.style.display='none';const runId=(banner.dataset&&banner.dataset.pendingRunId)||'';const key=(banner.dataset&&banner.dataset.dismissKey)||('pathogen-dispatch-live-update-dismissed:'+window.location.pathname);try{{window.sessionStorage.setItem(key, window.location.pathname+'::'+(runId||'unknown'));}}catch(error){{}}}}return false;}})(this)">Keep reading</button>
+    <button class="public-live-update-button" id="public-live-update-refresh" type="button" onclick="(function(btn){{const banner=btn.closest('[data-live-update-banner]');if(banner){{banner.hidden=true;banner.style.display='none';}}const url=new URL(window.location.href);url.searchParams.set('_edition', String(Date.now()));window.location.replace(url.toString());return false;}})(this)">Load latest</button>
   </div>
 </section>
 <script>

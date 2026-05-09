@@ -938,7 +938,7 @@
               <span class="freshness-dot"></span>
               <div>
                 <div class="freshness-label">Last Updated</div>
-                <div class="freshness-time">May 9, 2026 at 3:04:12 PM</div>
+                <div class="freshness-time">May 9, 2026 at 3:18:48 PM</div>
               </div>
             </div>
           </div>
@@ -980,7 +980,7 @@
         </div>
         <div class="hero-meta">
           <span class="meta-pill">Date: 2026-05-09</span>
-          <span class="meta-pill">Generated: 2026-05-09T15:04</span>
+          <span class="meta-pill">Generated: 2026-05-09T15:18</span>
           <span class="meta-pill">Search window: 7 day(s) ending 2026-05-09</span>
           <span class="meta-pill">Items rendered: 66</span>
           <span class="meta-pill">Sources: 44 live · 3 refresh cache · 1 fallback cache · 2 failed</span>
@@ -1361,6 +1361,8 @@
     font-weight: 600;
     cursor: pointer;
     padding: 10px 4px;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
   }
   .public-live-update-dismiss:hover {
     color: #1b2836;
@@ -1375,6 +1377,8 @@
     font-family: "Avenir Next", "Helvetica Neue", sans-serif;
     font-weight: 700;
     cursor: pointer;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
   }
   .public-live-update-button:hover {
     background: rgba(31, 91, 137, 0.18);
@@ -1397,8 +1401,8 @@
     <p class="public-live-update-text" id="public-live-update-text">An updated edition is available. Load the latest run when you are ready.</p>
   </div>
   <div class="public-live-update-actions">
-    <button class="public-live-update-dismiss" id="public-live-update-dismiss" type="button" onclick="window.__pathogenDismissPublicUpdate && window.__pathogenDismissPublicUpdate(this)">Keep reading</button>
-    <button class="public-live-update-button" id="public-live-update-refresh" type="button" onclick="window.__pathogenLoadPublicLatest && window.__pathogenLoadPublicLatest(this)">Load latest</button>
+    <button class="public-live-update-dismiss" id="public-live-update-dismiss" type="button" onclick="(function(btn){const banner=btn.closest('[data-live-update-banner]');if(banner){banner.hidden=true;banner.style.display='none';const runId=(banner.dataset&&banner.dataset.pendingRunId)||'';const key=(banner.dataset&&banner.dataset.dismissKey)||('pathogen-dispatch-live-update-dismissed:'+window.location.pathname);try{window.sessionStorage.setItem(key, window.location.pathname+'::'+(runId||'unknown'));}catch(error){}}return false;})(this)">Keep reading</button>
+    <button class="public-live-update-button" id="public-live-update-refresh" type="button" onclick="(function(btn){const banner=btn.closest('[data-live-update-banner]');if(banner){banner.hidden=true;banner.style.display='none';}const url=new URL(window.location.href);url.searchParams.set('_edition', String(Date.now()));window.location.replace(url.toString());return false;})(this)">Load latest</button>
   </div>
 </section>
 <script>
@@ -1407,8 +1411,8 @@
     const button = document.getElementById("public-live-update-refresh");
     const dismiss = document.getElementById("public-live-update-dismiss");
     const text = document.getElementById("public-live-update-text");
-    const currentRunId = 'run_047739a350fd9e43';
-    const currentGeneratedAt = '2026-05-09T15:04:12';
+    const currentRunId = 'run_ea2a3a690227403c';
+    const currentGeneratedAt = '2026-05-09T15:18:48';
     const manifestPath = '../../app_exports/manifest.json';
     const storageKey = `pathogen-dispatch-live-update-dismissed:${window.location.pathname}`;
     const liveUpdateStart = Date.now();

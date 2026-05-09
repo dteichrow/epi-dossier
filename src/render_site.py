@@ -1219,8 +1219,10 @@ def render_live_update_banner() -> str:
         '<p class="live-update-text" id="live-update-text">An updated edition is available. Load the latest run when you are ready.</p>'
         '</div>'
         '<div class="live-update-actions">'
-        '<button class="live-update-dismiss" id="live-update-dismiss" type="button" onclick="window.__pathogenDismissLiveUpdate && window.__pathogenDismissLiveUpdate(this)">Keep reading</button>'
-        '<button class="live-update-button" id="live-update-refresh" type="button" onclick="window.__pathogenLoadLatest && window.__pathogenLoadLatest(this)">Load latest</button>'
+        '<button class="live-update-dismiss" id="live-update-dismiss" type="button" '
+        "onclick=\"(function(btn){const banner=btn.closest('[data-live-update-banner]');if(banner){banner.hidden=true;banner.style.display='none';const runId=(banner.dataset&&banner.dataset.pendingRunId)||'';const key=(banner.dataset&&banner.dataset.dismissKey)||('pathogen-dispatch-live-update-dismissed:'+window.location.pathname);try{window.sessionStorage.setItem(key, window.location.pathname+'::'+(runId||'unknown'));}catch(error){}}return false;})(this)\">Keep reading</button>"
+        '<button class="live-update-button" id="live-update-refresh" type="button" '
+        "onclick=\"(function(btn){const banner=btn.closest('[data-live-update-banner]');if(banner){banner.hidden=true;banner.style.display='none';}const url=new URL(window.location.href);url.searchParams.set('_edition', String(Date.now()));window.location.replace(url.toString());return false;})(this)\">Load latest</button>"
         "</div>"
         '</section>'
     )
@@ -1472,9 +1474,9 @@ def base_styles() -> str:
       .live-update-copy { min-width: 0; display: grid; gap: 4px; }
       .live-update-text { margin: 0; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
       .live-update-actions { display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap; }
-      .live-update-dismiss { border: 0; background: transparent; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 600; cursor: pointer; padding: 10px 4px; }
+      .live-update-dismiss { border: 0; background: transparent; color: var(--ink-soft); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 600; cursor: pointer; padding: 10px 4px; touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
       .live-update-dismiss:hover { color: var(--ink); }
-      .live-update-button { border-radius: 999px; padding: 10px 14px; border: 1px solid rgba(31,91,137,0.26); background: rgba(31,91,137,0.12); color: var(--signal); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 700; cursor: pointer; white-space: nowrap; }
+      .live-update-button { border-radius: 999px; padding: 10px 14px; border: 1px solid rgba(31,91,137,0.26); background: rgba(31,91,137,0.12); color: var(--signal); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-weight: 700; cursor: pointer; white-space: nowrap; touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
       .live-update-button:hover { background: rgba(31,91,137,0.18); }
       .site-nav, .section-nav-links { display: flex; flex-wrap: wrap; gap: 10px; }
       .site-nav-link, .section-nav-link { border-radius: 999px; padding: 9px 14px; border: 1px solid rgba(187,169,143,0.78); background: rgba(255,252,245,0.94); color: var(--ink); font-family: "Avenir Next", "Helvetica Neue", sans-serif; font-size: 0.92rem; white-space: nowrap; }
