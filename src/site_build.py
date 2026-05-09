@@ -8,7 +8,7 @@ from typing import Any
 
 from .database import SeenItemsDB
 from .main import parse_target_date, run_once
-from .render_html import render_html
+from .render_html import validate_reader_story_sections
 from .render_site import (
     items_for_edition,
     render_public_archive_page,
@@ -76,11 +76,17 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     latest_snapshot = payload["latest_snapshot"]
-    story_records = latest_snapshot.get("stories", [])
-    reference_records = latest_snapshot.get("reference", [])
+    story_records = payload.get("render_story_records") or latest_snapshot.get("stories", [])
+    reference_records = payload.get("render_reference_records") or latest_snapshot.get("reference", [])
+    publication_snapshot = deepcopy(latest_snapshot)
+    publication_snapshot["stories"] = deepcopy(story_records)
+    publication_snapshot["story_count"] = len(story_records)
+    publication_snapshot["reference"] = deepcopy(reference_records)
+    reader_html = payload["html_output"]
+    html_validation_issues = payload.get("html_validation_issues") or validate_reader_story_sections(reader_html, story_records)
     db = SeenItemsDB()
     try:
-        items_by_id = build_story_items_index(latest_snapshot, story_records, db)
+        items_by_id = build_story_items_index(publication_snapshot, story_records, db)
     finally:
         db.close()
 
@@ -89,11 +95,20 @@ def main(argv: list[str] | None = None) -> int:
     editions = load_editions_config()
 
     if write_local:
-        write_local_surfaces(payload, latest_snapshot, story_records, reference_records, items_by_id, archive_entries, archive_payload)
+        write_local_surfaces(
+            payload,
+            publication_snapshot,
+            story_records,
+            reference_records,
+            items_by_id,
+            archive_payload,
+            reader_html,
+            html_validation_issues,
+        )
     if write_web:
         write_public_surfaces(
             payload,
-            latest_snapshot,
+            publication_snapshot,
             story_records,
             reference_records,
             items_by_id,
@@ -101,17 +116,29 @@ def main(argv: list[str] | None = None) -> int:
             archive_payload,
             editions,
             args.deploy_dir,
+            reader_html,
+            html_validation_issues,
         )
 
     append_site_build_log(
         target_date=payload["target_date"].isoformat(),
         generated_at=payload["generated_at"],
-        latest_snapshot=latest_snapshot,
+        latest_snapshot=publication_snapshot,
         promoted=payload["promote_latest"],
         source_failures=payload["source_failures"],
         docs_refreshed=write_web,
+        reader_guard_ok=not html_validation_issues,
+        story_render_fallback_used=bool(payload.get("story_render_fallback_used")),
     )
-    write_overnight_summary(latest_snapshot, archive_payload, editions, args.deploy_dir, write_web)
+    write_overnight_summary(
+        publication_snapshot,
+        archive_payload,
+        editions,
+        args.deploy_dir,
+        write_web,
+        reader_guard_ok=not html_validation_issues,
+        story_render_fallback_used=bool(payload.get("story_render_fallback_used")),
+    )
     logger.info(
         "Built site surfaces for %s: %s story page(s), %s reference page(s), local=%s web=%s promoted latest=%s",
         payload["target_date"].isoformat(),
@@ -126,12 +153,13 @@ def main(argv: list[str] | None = None) -> int:
 
 def write_local_surfaces(
     payload: dict[str, Any],
-    latest_snapshot: dict[str, Any],
+    publication_snapshot: dict[str, Any],
     story_records: list[dict[str, Any]],
     reference_records: list[dict[str, Any]],
     items_by_id: dict[str, dict[str, Any]],
-    archive_entries: list,
     archive_payload: list[dict[str, Any]],
+    reader_html: str,
+    html_validation_issues: list[str],
 ) -> None:
     for story in story_records:
         story_path = story_filename(story["story_id"], story["topic_name"])
@@ -149,30 +177,18 @@ def write_local_surfaces(
             encoding="utf-8",
         )
 
-    enhanced_html = render_html(
-        payload["processed"],
-        target_date=payload["target_date"],
-        generated_at=payload["generated_at"],
-        search_window=f'{payload["window_days"]} day(s) ending {payload["target_date"].isoformat()}',
-        outbreak_reference=payload["outbreak_reference"],
-        story_updates=payload["story_updates"],
-        archive_entries=archive_entries,
-        source_failures=payload["source_failures"],
-        source_health=payload.get("source_health", []),
-        story_records=story_records,
-        reference_records=reference_records,
-    )
-    payload["paths"]["dated_html"].parent.mkdir(parents=True, exist_ok=True)
-    payload["paths"]["legacy_html"].parent.mkdir(parents=True, exist_ok=True)
-    payload["paths"]["dated_html"].write_text(enhanced_html, encoding="utf-8")
-    payload["paths"]["legacy_html"].write_text(enhanced_html, encoding="utf-8")
-    if payload["promote_latest"]:
-        payload["paths"]["latest_html"].parent.mkdir(parents=True, exist_ok=True)
-        payload["paths"]["latest_html"].write_text(enhanced_html, encoding="utf-8")
+    if not html_validation_issues:
+        payload["paths"]["dated_html"].parent.mkdir(parents=True, exist_ok=True)
+        payload["paths"]["legacy_html"].parent.mkdir(parents=True, exist_ok=True)
+        payload["paths"]["dated_html"].write_text(reader_html, encoding="utf-8")
+        payload["paths"]["legacy_html"].write_text(reader_html, encoding="utf-8")
+        if payload["promote_latest"]:
+            payload["paths"]["latest_html"].parent.mkdir(parents=True, exist_ok=True)
+            payload["paths"]["latest_html"].write_text(reader_html, encoding="utf-8")
 
     site_index_filename().write_text(
         render_site_index(
-            latest_snapshot,
+            publication_snapshot,
             archive_payload,
             reference_records,
         ),
@@ -182,7 +198,7 @@ def write_local_surfaces(
 
 def write_public_surfaces(
     payload: dict[str, Any],
-    latest_snapshot: dict[str, Any],
+    publication_snapshot: dict[str, Any],
     story_records: list[dict[str, Any]],
     reference_records: list[dict[str, Any]],
     items_by_id: dict[str, dict[str, Any]],
@@ -190,25 +206,30 @@ def write_public_surfaces(
     archive_payload: list[dict[str, Any]],
     editions: list[EditionConfig],
     deploy_dir: str,
+    reader_html: str,
+    html_validation_issues: list[str],
 ) -> None:
     docs_root = Path(docs_dir(deploy_dir))
     docs_root.mkdir(parents=True, exist_ok=True)
-    prune_generated_public_pages(
-        docs_root / "stories",
-        {Path(story.get("story_web_path", "")).name for story in story_records if story.get("story_web_path")},
-    )
+    if story_records:
+        prune_generated_public_pages(
+            docs_root / "stories",
+            {Path(story.get("story_web_path", "")).name for story in story_records if story.get("story_web_path")},
+        )
     prune_generated_public_pages(
         docs_root / "reference",
         {Path(reference.get("reference_web_path", "")).name for reference in reference_records if reference.get("reference_web_path")},
     )
 
-    docs_latest_html = docs_root / "latest.html"
-    docs_latest_html.write_text(rewrite_local_reader_links(payload["html_output"], "."), encoding="utf-8")
+    if not html_validation_issues:
+        docs_latest_html = docs_root / "latest.html"
+        docs_latest_html.write_text(rewrite_local_reader_links(reader_html, "."), encoding="utf-8")
     (docs_root / "latest.md").write_text(payload["markdown_output"], encoding="utf-8")
 
     current_archive_html = docs_archive_filename(payload["target_date"], deploy_dir=deploy_dir, suffix=".html")
     current_archive_html.parent.mkdir(parents=True, exist_ok=True)
-    current_archive_html.write_text(rewrite_local_reader_links(payload["html_output"], "../.."), encoding="utf-8")
+    if not html_validation_issues:
+        current_archive_html.write_text(rewrite_local_reader_links(reader_html, "../.."), encoding="utf-8")
     docs_archive_filename(payload["target_date"], deploy_dir=deploy_dir, suffix=".md").write_text(payload["markdown_output"], encoding="utf-8")
 
     for entry in archive_entries:
@@ -239,7 +260,7 @@ def write_public_surfaces(
         )
 
     docs_index_filename(deploy_dir).write_text(
-        render_public_homepage(latest_snapshot, archive_payload, reference_records),
+        render_public_homepage(publication_snapshot, archive_payload, reference_records),
         encoding="utf-8",
     )
 
@@ -253,7 +274,7 @@ def write_public_surfaces(
                 edition.description,
                 edition.key,
                 stories_for_edition(story_records, edition.key)[: edition.max_stories],
-                items_for_edition(latest_snapshot.get("items", []), edition.key)[: edition.max_items],
+                items_for_edition(publication_snapshot.get("items", []), edition.key)[: edition.max_items],
                 related_references_for_edition(reference_records, edition.key),
                 archive_payload,
             ),
@@ -263,10 +284,10 @@ def write_public_surfaces(
     archive_index_path = docs_archive_index_filename(deploy_dir)
     archive_index_path.parent.mkdir(parents=True, exist_ok=True)
     archive_index_path.write_text(
-        render_public_archive_page(archive_payload, latest_snapshot, reference_records),
+        render_public_archive_page(archive_payload, publication_snapshot, reference_records),
         encoding="utf-8",
     )
-    write_public_exports(latest_snapshot, archive_payload, deploy_dir)
+    write_public_exports(publication_snapshot, archive_payload, deploy_dir)
 
 
 def rewrite_local_reader_links(html_text: str, relative_prefix: str) -> str:
@@ -325,6 +346,8 @@ def append_site_build_log(
     source_failures: list[dict[str, str]],
     *,
     docs_refreshed: bool,
+    reader_guard_ok: bool,
+    story_render_fallback_used: bool,
 ) -> None:
     SITE_BUILD_LOG.parent.mkdir(parents=True, exist_ok=True)
     freshness = latest_snapshot.get("freshness_summary", {})
@@ -341,7 +364,9 @@ def append_site_build_log(
         f"fallback_cache_items={freshness.get('fallback_cache', 0)} retained_items={freshness.get('retained', 0)} "
         f"cache_sources={cache_sources} failed_sources={failed_sources} "
         f"wrapper_only={wrapper_only} metadata_only={metadata_only} "
-        f"degraded={bool(source_failures)} promoted_latest={promoted} docs_refreshed={docs_refreshed}\n"
+        f"degraded={bool(source_failures)} promoted_latest={promoted} docs_refreshed={docs_refreshed} "
+        f"reader_guard={'ok' if reader_guard_ok else 'blocked'} "
+        f"story_fallback={'yes' if story_render_fallback_used else 'no'}\n"
     )
     with SITE_BUILD_LOG.open("a", encoding="utf-8") as handle:
         handle.write(line)
@@ -433,6 +458,9 @@ def write_overnight_summary(
     editions: list[EditionConfig],
     deploy_dir: str,
     docs_refreshed: bool,
+    *,
+    reader_guard_ok: bool,
+    story_render_fallback_used: bool,
 ) -> None:
     summary = {
         "generated_at": latest_snapshot.get("generated_at"),
@@ -452,6 +480,8 @@ def write_overnight_summary(
         "failed_sources": latest_snapshot.get("source_failures", []),
         "promoted_lead_stories": [story.get("display_title") for story in latest_snapshot.get("stories", [])[:4]],
         "docs_refreshed": docs_refreshed,
+        "reader_guard_ok": reader_guard_ok,
+        "story_render_fallback_used": story_render_fallback_used,
         "public_deploy_dir": deploy_dir,
         "archive_days_available": len(archive_payload),
     }

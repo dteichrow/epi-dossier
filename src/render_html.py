@@ -9,6 +9,26 @@ from .render_markdown import StoryUpdate, build_topic_groups, build_topic_synops
 from .utils import ArchiveEntry, DiseaseReference, Item, format_timestamp, has_local_signal, infer_region, latest_html_filename, normalize_whitespace, sortable_datetime
 
 
+def validate_reader_story_sections(html_text: str, story_records: list[dict] | None = None) -> list[str]:
+    story_records = story_records or []
+    if not story_records:
+        return []
+
+    issues: list[str] = []
+    if "No lead outbreak files are featured in this edition." in html_text:
+        issues.append("Lead outbreak files rendered as empty despite active story records.")
+    if "No major story files are featured in this edition." in html_text:
+        issues.append("Major story files rendered as empty despite active story records.")
+
+    expected_titles = [
+        (story.get("display_title") or story.get("topic_name") or "").strip()
+        for story in story_records[:3]
+    ]
+    if expected_titles and not any(title and title in html_text for title in expected_titles):
+        issues.append("Rendered reader HTML omitted the expected lead story titles.")
+    return issues
+
+
 def render_html(
     items: list[Item],
     target_date: date,
@@ -499,10 +519,10 @@ def render_html(
         top: 12px;
         z-index: 20;
         margin-top: 16px;
-        background: rgba(20, 33, 48, 0.92);
-        border: 1px solid rgba(19, 35, 49, 0.95);
+        background: rgba(255, 252, 247, 0.96);
+        border: 1px solid rgba(187, 169, 143, 0.88);
         border-radius: 22px;
-        box-shadow: 0 18px 36px rgba(28, 20, 12, 0.16);
+        box-shadow: 0 18px 36px rgba(28, 20, 12, 0.10);
         padding: 12px 14px;
       }}
       .view-switcher {{
@@ -519,21 +539,21 @@ def render_html(
         gap: 8px;
         border-radius: 999px;
         padding: 9px 14px;
-        background: rgba(255,255,255,0.07);
-        border: 1px solid rgba(255,255,255,0.08);
-        color: rgba(245, 240, 232, 0.86);
+        background: rgba(255, 255, 255, 0.76);
+        border: 1px solid rgba(187, 169, 143, 0.76);
+        color: var(--ink-soft);
         font-weight: 700;
         white-space: nowrap;
         cursor: pointer;
       }}
       .view-button.active {{
-        background: rgba(255, 252, 245, 0.96);
-        color: var(--surface-ink);
-        border-color: rgba(255,255,255,0.18);
+        background: rgba(31, 91, 137, 0.12);
+        color: var(--signal);
+        border-color: rgba(31, 91, 137, 0.28);
       }}
       .view-caption {{
         margin: 10px 2px 0;
-        color: rgba(243, 237, 228, 0.68);
+        color: var(--muted);
         font-size: 0.84rem;
       }}
       .lead-rail {{
@@ -1076,10 +1096,9 @@ def render_html(
         </div>
       </section>
 
-      <section class="view-shell" aria-label="Reader sections">
+      <nav class="view-shell" aria-label="Reader sections">
         <div class="view-switcher">{view_switcher}</div>
-        <p class="view-caption">Move between the main desk, active outbreak files, the reference layer, and the backfile.</p>
-      </section>
+      </nav>
 
       <section class="reader-views">
         <section class="reader-view" id="view-briefing" data-view="briefing">

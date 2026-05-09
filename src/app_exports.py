@@ -25,6 +25,7 @@ from .utils import (
     list_briefing_archives,
     load_editions_config,
     load_editorial_config,
+    normalize_whitespace,
     reference_filename,
     reference_relpath,
     stable_id,
@@ -51,6 +52,8 @@ HIGH_SIGNAL_PUBLISHER_FAMILIES = {
     "STAT",
     "CIDRAP",
 }
+
+MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 
 def export_app_data(
@@ -135,6 +138,11 @@ def export_app_data(
     db.save_app_run(run_record)
     write_export_files(latest_snapshot, delta_snapshot)
     return latest_snapshot
+
+
+def clean_story_delta_text(text: str) -> str:
+    cleaned = MARKDOWN_LINK_RE.sub(r"\1", str(text or ""))
+    return normalize_whitespace(cleaned)
 
 
 def build_item_records(items: list[Item], exported_at: str) -> list[dict[str, Any]]:
@@ -405,9 +413,11 @@ def build_story_records(
         canonical_topic_name = editorial.story_aliases.get(topic_name, topic_name)
         story_id = stable_id("story", canonical_topic_name)
         update = updates_by_topic.get(topic_name)
-        latest_update_bullets = update.bullets if update else []
+        latest_update_bullets = [clean_story_delta_text(bullet) for bullet in update.bullets] if update else []
         latest_update_summary = latest_update_bullets[0] if latest_update_bullets else "No new story delta in this run."
         previous_story = previous_stories.get(story_id, {})
+        previous_story_summary = clean_story_delta_text(previous_story.get("latest_update_summary", latest_update_summary))
+        previous_story_bullets = [clean_story_delta_text(bullet) for bullet in previous_story.get("latest_update_bullets", [])]
         if update:
             timeline_entry = {
                 "update_id": stable_id("story_update", story_id, run_id),
@@ -437,8 +447,8 @@ def build_story_records(
                 "lead_url": snapshot["lead_url"],
                 "lead_source": snapshot["lead_source"],
                 "latest_timestamp": snapshot["latest_timestamp"],
-                "latest_update_summary": latest_update_summary if update else previous_story.get("latest_update_summary", latest_update_summary),
-                "latest_update_bullets": latest_update_bullets if update else previous_story.get("latest_update_bullets", []),
+                "latest_update_summary": latest_update_summary if update else previous_story_summary,
+                "latest_update_bullets": latest_update_bullets if update else previous_story_bullets,
                 "new_since_last_refresh": bool(update and update.bullets),
                 "source_count": len(snapshot["source_names"]),
                 "item_count": snapshot["cluster_size"],

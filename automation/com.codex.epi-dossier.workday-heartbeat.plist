@@ -12,6 +12,10 @@
       <string>src.site_build</string>
       <string>--days</string>
       <string>7</string>
+      <string>--output-mode</string>
+      <string>both</string>
+      <string>--deploy-dir</string>
+      <string>docs</string>
     </array>
 
     <key>WorkingDirectory</key>

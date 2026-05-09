@@ -1,7 +1,7 @@
 from datetime import date, datetime
 from pathlib import Path
 
-from src.render_html import render_html, render_region_watch
+from src.render_html import render_html, render_region_watch, validate_reader_story_sections
 from src.render_markdown import StoryUpdate
 from src.utils import ArchiveEntry, DiseaseReference, Item, OutbreakEventReference, ReferenceLink
 
@@ -187,7 +187,6 @@ def test_render_html_contains_core_sections_and_links():
     assert 'data-view="briefing"' in content
     assert 'data-view="tracking"' in content
     assert "Front-Page Scan" in content
-    assert "Move between the main desk, active outbreak files, the reference layer, and the backfile." in content
     assert "What Changed In Active Files" in content
     assert "Major Story Files" in content
     assert "Regional Watch" in content
@@ -249,6 +248,22 @@ def test_render_html_contains_core_sections_and_links():
     assert 'data-pathogen="hantavirus"' in content
     assert 'data-link-quality="' in content
     assert 'data-evidence-type="' in content
+
+
+def test_validate_reader_story_sections_flags_empty_story_surfaces():
+    issues = validate_reader_story_sections(
+        '<p class="empty-note">No lead outbreak files are featured in this edition.</p>'
+        '<p class="empty-note">No major story files are featured in this edition.</p>',
+        [
+            {
+                "topic_name": "Hantavirus and cruise-ship outbreak",
+                "display_title": "Hantavirus and cruise-ship outbreak",
+            }
+        ],
+    )
+    assert issues
+    assert any("Lead outbreak files" in issue for issue in issues)
+    assert any("Major story files" in issue for issue in issues)
 
 
 def test_render_html_surfaces_source_failures_in_empty_runs():

@@ -1,74 +1,71 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-09
-Generated at: 2026-05-09T06:01
+Generated at: 2026-05-09T07:23
 Search window: 7 day(s) ending 2026-05-09
 
 ## Executive scan
-- [State of the health workforce in Africa 2026: Plan, train and retain](https://www.afro.who.int/publications/state-health-workforce-africa-2026-plan-train-and-retain) (WHO Regional Office for Africa; 2026-05-08T08:20+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765407) (CDC Travel Health Notices; 2026-05-07T20:18+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR; 2026-05-07T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Serologic Evidence of Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Veterinary Professional Exposed to an Infected Domestic Cat - Los Angeles County, California, December 2024-January 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765372) (CDC MMWR; 2026-05-07T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News; 2026-05-07T09:57+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [JCB Flavors, LLC Issues Voluntary Recall of Topical Seasonings Due to Potential Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765408) (CDC Travel Health Notices; 2026-05-06T18:50+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [WHO confirms malaria vaccine impact across Ghana, Kenya, Malawi](https://punchng.com/who-confirms-malaria-vaccine-impact-across-ghana-kenya-malawi/) (Punch Newspapers; 2026-05-09T08:46+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Ebola outbreak reported in Uganda, WHO says "in close contact to provide rapid response"](https://thenewsmill.com/2022/09/ebola-outbreak-reported-in-uganda-who-says-in-close-contact-to-provide-rapid-response/) (The News Mill; 2026-05-06T09:47+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Occupational and environmental epidemiology (2), Policy, surveillance, and public health infrastructure (2)
+- [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News; 2026-05-06T18:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa; 2026-05-05T10:17+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low](https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low) (ECDC News; 2026-05-04T19:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (56), Policy, surveillance, and public health infrastructure (4), Occupational and environmental epidemiology (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [May 8: Hantavirus, Iran-U.S. Ceasefire, UFOs](https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-may-8-263027269693) (NBC News)
-- 4 newly observed linked item(s) were added since the last saved snapshot.
-
+- No multi-item story clusters produced concrete update bullets in this run.
 
 ## Major topics
+### Hantavirus and cruise-ship outbreak
+- Topic size: 46 item(s) across 20 source(s); 3 official/primary-source item(s).
+- Lead item: [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News, 2026-05-06T18:39+02:00)
+- Detailed note: ECDC is aware of suspected cases of hantavirus infection, including three deaths, associated with a cruise ship travelling in the Atlantic. A cluster of severe acute respiratory illness, including three deaths and one severely ill individual, has been reported among passengers on a cruise ship travelling in the Atlantic and registered in the Netherlands. The ship is currently located off the coast of Cabo Verde,...
+- Evidence notes: [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News); [Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low](https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low) (ECDC News); [ECDC monitoring outbreak associated with cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship) (ECDC News); [European states to send planes to evacuate citizens from hantavirus-hit cruise ship](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1ZNUnJYSkpRM29CTFFRNzJrejhzQlBhTzlUWWFzUFZ4cUQ5dFlBQ05WSWlxNzJJRlM4YUR4Q0dqZnpWNXZQY3JWaTBJSG1BeUk3c21nanJZTktGWU50S0M4aWJlaE1XdXA3SGlxNDlkMk8xVF9nLWhiT2NjYjhiOVVZeEduR2xCSGRuMVhacmxSSlpkbWRWUDQ3a0Fhc0tBOWNxTlIxVElkY1pqbmFBamFLNlZ2Zm91a1NUMUd5TzV4emNiSnNRUw?oc=5) (Reuters); [Hantavirus figures updated - as cruise ship at centre of outbreak nears the Canary Islands](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzVsdjZOamZfNzMyT1BZeF81ZXZtNVJBRkQ0YjMzcmtKeVFpZFVZUFVSUlF6X20yNnh2LWJaX2JRWEFxMnlYeHBWOS1QS2h0dDhRRklnNHpENnJLdl9CcXdzMVJmWkIxcDYtdWFnVGFpNF9CWkVjQVo0OWxoSjZ4UjdiRE9mNmprQ0lUYVJoSjdWQUUyVnROaW1DdFEyNFNVS09YckJocGlkUlpiQWdETl9RdjNFMzJENk50a2JLcmJKZw?oc=5) (Sky News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Miscellaneous signals
-- Topic size: 7 item(s) across 6 source(s); 4 official/primary-source item(s).
-- Lead item: [State of the health workforce in Africa 2026: Plan, train and retain](https://www.afro.who.int/publications/state-health-workforce-africa-2026-plan-train-and-retain) (WHO Regional Office for Africa, 2026-05-08T08:20+00:00)
-- Detailed note: Publications elombatd@who.int Fri, 08/05/2026 - 09:20 The health workforce is the backbone of resilient health systems, universal health coverage (UHC) and health security in Africa. In 2024 alone, an estimated 438,000 African children died from the disease. A new study has confirmed that the RTS,S malaria vaccine significantly reduced child deaths in the first three African countries to deploy it.
-- Evidence notes: [State of the health workforce in Africa 2026: Plan, train and retain](https://www.afro.who.int/publications/state-health-workforce-africa-2026-plan-train-and-retain) (WHO Regional Office for Africa); [Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765407) (CDC Travel Health Notices); [JCB Flavors, LLC Issues Voluntary Recall of Topical Seasonings Due to Potential Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765408) (CDC Travel Health Notices); [WHO confirms malaria vaccine impact across Ghana, Kenya, Malawi](https://punchng.com/who-confirms-malaria-vaccine-impact-across-ghana-kenya-malawi/) (Punch Newspapers); [Ebola outbreak reported in Uganda, WHO says "in close contact to provide rapid response"](https://thenewsmill.com/2022/09/ebola-outbreak-reported-in-uganda-who-says-in-close-contact-to-provide-rapid-response/) (The News Mill)
+- Topic size: 6 item(s) across 5 source(s); 3 official/primary-source item(s).
+- Lead item: [Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765407) (CDC Travel Health Notices, 2026-05-07T20:18+00:00)
+- Detailed note: During this session, AIRA will share how AI-supported social listening is used to: Track infodemic trends across countries Identify key drivers such as trust, water and sanitation concerns, and vaccine perceptions Inform evidence-based risk communication and community engagement (RCCE) strategies Support countries with actionable insights and ready-to-use content This webinar will also highlight experiences from...
+- Evidence notes: [Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765407) (CDC Travel Health Notices); [JCB Flavors, LLC Issues Voluntary Recall of Topical Seasonings Due to Potential Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765408) (CDC Travel Health Notices); [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa); [WHO confirms malaria vaccine impact across Ghana, Kenya, Malawi](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEg3RFRhT3U2SjZiazh3eEJpNmNtT01ieV9SNjVzbGZnQmREWkFpelpNV2E0Mktza0wxcU1nbURMY0xGbEJtbTFzaWg3RVBBaTRQU2JuOGU3MW93cWdvV2FHdy1Hd2E4S2RqbTBnajJvMFVDanVOWnhQS21GOHdReXRNZmxaQWJUcHc?oc=5) (Punch Newspapers); [Ebola outbreak reported in Uganda, WHO says "in close contact to provide rapid response"](https://news.google.com/rss/articles/CBMiugFBVV95cUxQRG1vR01JUFNkQV84V1dUdDRnWUZVTlkzaHNFX0tmWWlPeTFvZF9GdW93d1ZHZVhKeDd3UFhZV3phbGVRX1lZbjF4VmZUY2pSSVU5WkRuSVVBc01Oa3hCMVNIWVBMVGxCR0lHei01NnJXNURPWmJfa29vcjUtenBHalFFU0M4dlN0TVhqZjBqd2hhYXZLd3N4YmIxY3V2b0NES2tFR2kxODZDT2NiakJoWUJZcmNNQnJOeWc?oc=5) (The News Mill)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Avian influenza and H5N1
-- Topic size: 3 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Topic size: 4 item(s) across 3 source(s); 2 official/primary-source item(s).
 - Lead item: [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR, 2026-05-07T17:00+00:00)
-- Detailed note: Oltean, PhD 1 ,2 ; Lisa Leitz 3 ; Emma Krause 3 ; Debra Barrett 3 ; Anna Halloran, MHPA 1 ; Kyle Yomogida, PhD 1 ; Beth Lipton, DVM 1 ; Keely Paris, MPH 1 ; Jared Keirn, MS 1 ; Minden Buswell, DVM 1 ; Allison Black, PhD 1 ; Pauline Trinh, PhD 1 ; Theresa Murray, MT 1 ; Roberto Bonaccorso 1 ; Leticia Banuelos 1 ; Ethan Dieringer 1 ; Jennifer Lenahan, MPH 4 ; Emily Spence Davizon, MPH 4 ; Ellyn P. Greninger, MD,...
-- Evidence notes: [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR); [Serologic Evidence of Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Veterinary Professional Exposed to an Infected Domestic Cat - Los Angeles County, California, December 2024-January 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765372) (CDC MMWR); [Fox Tests Positive for Avian Influenza in Tioga County - WIVT](https://www.binghamtonhomepage.com/news/top-stories/fox-tests-positive-for-avian-influenza-in-tioga-county/) (WIVT - News 34)
-- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
+- Detailed note: This report describes a fatal human case of highly pathogenic avian influenza in Washington. This report describes 139 human exposures to cats infected with A(H5N1) in Los Angeles, California.
+- Evidence notes: [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR); [Serologic Evidence of Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Veterinary Professional Exposed to an Infected Domestic Cat - Los Angeles County, California, December 2024-January 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765372) (CDC MMWR); [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjEzVzBGaUtVWWpxbndHQ3dzR3NCbUpzWE5vZU1WN1ViYnNQWDF3c0JaNmQ0LWluOW5zVzBVbVJMeUxlSjVzeXpkZnpHeDhpNmltS0htdmJCTDZBMEN1dEZhMDZVcmhFcGR4a1dibjhhM0p3X2pROFAwSHpIOGQwZDVHSjFleFZh?oc=5) (Outbreak News Today); [Fox Tests Positive for Avian Influenza in Tioga County - WIVT](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX21oZVlDOTFBcVgxeHhzYktnVXFfZHBHSm1iWVhleEFSU0lGeVJGUlliMVFvOEZ6NXhxbldqdkVRRXhMb3lDekRfdGFFQjd2SXl3S0dreWtjVzZ1cFhNSlVZWThMMnhGY3paWVU2a3BHeFVGNHd3N0VFa2U0QUpZbU1nVXZpYjljbG05cExIUWVBTHlKZW5NX1NEODhkX0hnTmdaZS1SUktYU0HSAbABQVVfeXFMUDY2SS1RNVhQVTFxLWlOMWhSbVVoSFg0OVg4NU82VFc4VVFCWE1vaFRoalN5ck5sdDRKempoMnlmSmRLX3d6WXYzcjF2bWpwRFJVQUxsd2xxZWh4TzZ6REl4d3dzYmpXTFJSOFBCY1RGNTFOVWNiSXMxb2c1S1ZoM0RwbGJlZGlsZXAxcl9vdTAwNDFUQ2pxSmZsc2FxYUpxWUFhb3FIbHZrcGpFRmRsM0o?oc=5) (WIVT - News 34)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
 - Lead item: [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News, 2026-05-07T09:57+02:00)
-- Detailed note: Routine aggregate data showed a reduction in the July 2022-June 2024 cohort when compared to July 2021-June 2022 cohort: Dharmapuri (from 12.6% to 4.8%), Karur (from 7.0% to 4.7%), Villupuram (from 6.1% to 4.6%), Kanniyakumari (from 10.4% to 8.1%), Cuddalore (from 6.7% to 4.1%), and Salem (from 7.8% to 4.9%). TN-KET not only worked in districts with relatively higher TB death burden (SMR > 1) but also in...
-- Evidence notes: [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News); [Sustained reduction in program-reported TB death rate in six districts following Tamil Nadu Kasanoi Erappila Thittam in southern India.](https://pubmed.ncbi.nlm.nih.gov/42093542/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Dengue and arboviruses
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today, 2026-05-02T15:24+00:00)
-- Detailed note: In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026.
-- Evidence notes: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today)
+- Detailed note: More action remains necessary to prevent thousands of annual deaths and slow the rising number of STI diagnoses across Europe. Despite advancements in detection and treatment, a new report reveals severe shortfalls in reaching the indicators for the Sustainable Development Goal target for HIV, tuberculosis, viral hepatitis and sexually transmitted infections (STIs) by 2030.
+- Evidence notes: [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Hantavirus and cruise-ship outbreak
-- Topic size: 21 item(s) across 9 source(s); 0 official/primary-source item(s).
-- Lead item: [May 8: Hantavirus, Iran-U.S. Ceasefire, UFOs](https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-may-8-263027269693) (NBC News, 2026-05-09T01:44+00:00)
-- Detailed note: Cluster remains active across 21 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [May 8: Hantavirus, Iran-U.S. Ceasefire, UFOs](https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-may-8-263027269693) (NBC News); [From US to Singapore, countries race to track hantavirus](https://edition.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) (CNN); [European states to send planes to evacuate citizens from hantavirus-hit cruise ship](https://www.reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09/) (Reuters); [Hantavirus figures updated - as cruise ship at centre of outbreak nears the Canary Islands](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzVsdjZOamZfNzMyT1BZeF81ZXZtNVJBRkQ0YjMzcmtKeVFpZFVZUFVSUlF6X20yNnh2LWJaX2JRWEFxMnlYeHBWOS1QS2h0dDhRRklnNHpENnJLdl9CcXdzMVJmWkIxcDYtdWFnVGFpNF9CWkVjQVo0OWxoSjZ4UjdiRE9mNmprQ0lUYVJoSjdWQUUyVnROaW1DdFEyNFNVS09YckJocGlkUlpiQWdETl9RdjNFMzJENk50a2JLcmJKZw?oc=5) (Sky News); [WHO reports six confirmed hantavirus cases tied to Spain-bound cruise](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlhZbnAwT2xINWtCUElnZkVyQVNKWkZFMXM1MlFEajRiT1h3T2VaMC1HN0twNURQYkNqdjIzYWZIQl9EYmZvSW9RRjM2ZWk0SEpZUTlZRTQtOVBwZHBZUTB5bmdvMlRUdWw3am03cWw2d1B1RW8yRmVMRTN6alJxMnpWaE5URGF0UkFFRENVcmFrZ3k3cFIwaEg2S1FjWFZYeWpYZVZPNUhSUkVnUFNjTkNlVnZtX2p6SXVMbmJEazJET1hOOHh6Snozc2lMUndsckpMbw?oc=5) (Reuters)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Measles transmission and vaccination
 - Topic size: 5 item(s) across 5 source(s); 0 official/primary-source item(s).
-- Lead item: [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) (CBS 19 News, 2026-05-09T02:57+00:00)
-- Detailed note: "However, in cases in Yamanashi Prefecture, the patients were all people whose history of having received two vaccine doses could not be confirmed." Professor Tsuyoshi Terashima from Tokyo Dental University points out that the measles virus is extremely contagious, with one infected person potentially spreading it to 12-14 others, compared to influenza which typically spreads to only 2-3 people. Updated: May 9,...
-- Evidence notes: [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) (CBS 19 News); [Japan's measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit](https://www.thestandard.com.hk/wellness/article/330831/Japans-measles-outbreak-surges-past-360-cases-Tokyo-and-Kanto-region-worst-hit) (The Standard (HK)); [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) (Outbreak News Today); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress); [Lebanon city and county officials await more information on measles outbreak](https://lebtown.com/2026/05/08/lebanon-city-and-county-officials-await-more-information-on-measles-outbreak/) (LebTown)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Lead item: [Officials investigate case of measles in the Central Region](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5) (CBS 19 News, 2026-05-09T02:57+00:00)
+- Detailed note: Cluster remains active across 5 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Officials investigate case of measles in the Central Region](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5) (CBS 19 News); [Japan's measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGZNVngzSUJRSno3bmpxMkR6MC1HcHNNWnBraGtTRE0yZXN3TGFwNDQ3RTJsYzg5dHE1T2xRd2JvWEZ4dk9VU3QtWUdraWJCNk1lWmd6T3J0VmtOT2praGNkUjUtTWdzUGc1VG5SX1VWUXdRcGdyaDVNV0F0VnM3am5TTkt3SzI1SXBZQ2txMy03VDNhMDdSTHFZTnBVOU1saC0zbUdmdVJGcGRzTk5uRkN2TFU3ZVNxWjFicEk2LW5QTXZXRm9qYVF1b2NKdw?oc=5) (The Standard (HK)); [Measles case confirmed in Buckingham County](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakt0SjBhU2kyRDNFenJfdHlLV25waUgycTJqZkNvRnpiMjNOZWwzT3ZFXzkxWlNPT0dqYU1nV2NmbVVzNmEwQUM3ZHAxVXdFZlVpM2RBNEpaRF8zTl9NeC1PM042VTY3ZllDd3E0Qm9KdEZrQVVXWFRBZDBDM0p0aW53QkRqbmsyY1A4OTRGcEtqWnhyLW9vbllETS0wWndqZ0RpZjRUd2tRVFE?oc=5) (The Daily Progress); [Japan reports more than 400 measles cases in first four months of 2026](https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1BCQkhzZlFDOVYyS01xUXAzeW1DZ01xem1rQi1hLXk4dVRSeWxqaVN6b0JrNVVFeklhQlpQbUhaam9EQWg4X3ozQnU5cjBCOU5fUkxlMkZjczFtQ2t3aVNwMXZ3Rk43RWZfTk1CYmZWdUpHMFlxSHpUQkV2Q3BaNExR?oc=5) (Outbreak News Today); [Lebanon city and county officials await more information on measles outbreak](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkpFZHRxYnVzLS1fODdrSlJGX3gtdGtnNU5DN2xIUDRSZmVWV3VrMTczVWFMUFVKaGtwY2JqZmhlN0RrbTEtR0lTSVRwNDQyc3g3QXF3WmdqaTNMc1c1T1U1QTBYNEgxOG1FbGU3eDJodmQxcXBvV1Z3Q0pJVHZsanpWOGtrSXYxRnpReDh4dWtwa2JaNjF6eEdnaXBJZFFJc2g3anlwY00yMERL?oc=5) (LebTown)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFhzWGZXNnRfTkQ3a3hMY2ZwNkZoY0YwMnJOeUpLaU9JdE85M1dRYWx3ZWktTE5TekU3eFRmNFdnMy1ZUGlVbzZrUVlqYTdsUmFDUTdTeEJjSm5pb0J6ZjRka3d1LXRRSnF3T2hzVnhxMkJDdnBnQVZ4VnhWSlViZVpn?oc=5) (Outbreak News Today, 2026-05-02T15:24+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFhzWGZXNnRfTkQ3a3hMY2ZwNkZoY0YwMnJOeUpLaU9JdE85M1dRYWx3ZWktTE5TekU3eFRmNFdnMy1ZUGlVbzZrUVlqYTdsUmFDUTdTeEJjSm5pb0J6ZjRka3d1LXRRSnF3T2hzVnhxMkJDdnBnQVZ4VnhWSlViZVpn?oc=5) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -299,16 +296,6 @@ Search window: 7 day(s) ending 2026-05-09
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
-### State of the health workforce in Africa 2026: Plan, train and retain
-- Source: WHO Regional Office for Africa
-- Date: 2026-05-08T08:20+00:00
-- URL: https://www.afro.who.int/publications/state-health-workforce-africa-2026-plan-train-and-retain
-- Category: Outbreaks and emerging infections
-- Summary: Publications elombatd@who.int Fri, 08/05/2026 - 09:20 The health workforce is the backbone of resilient health systems, universal health coverage (UHC) and health security in Africa. The 2026 report on the State of the Health Workforce in Africa builds on earlier regional analyses while introducing a stronger health labour market (HLM) and investment perspective. It is the first report on the workforce to be published following the adoption of the Africa Health Workforce Investment Charter, and its purpose is to support the monitoring of workforce financing and policy commitments in the Charter.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk
 - Source: CDC Travel Health Notices
 - Date: 2026-05-07T20:18+00:00
@@ -324,7 +311,7 @@ Search window: 7 day(s) ending 2026-05-09
 - Date: 2026-05-07T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373
 - Category: Occupational and environmental epidemiology
-- Summary: Oltean, PhD 1 ,2 ; Lisa Leitz 3 ; Emma Krause 3 ; Debra Barrett 3 ; Anna Halloran, MHPA 1 ; Kyle Yomogida, PhD 1 ; Beth Lipton, DVM 1 ; Keely Paris, MPH 1 ; Jared Keirn, MS 1 ; Minden Buswell, DVM 1 ; Allison Black, PhD 1 ; Pauline Trinh, PhD 1 ; Theresa Murray, MT 1 ; Roberto Bonaccorso 1 ; Leticia Banuelos 1 ; Ethan Dieringer 1 ; Jennifer Lenahan, MPH 4 ; Emily Spence Davizon, MPH 4 ; Ellyn P. Greninger, MD, PhD 8 ; Stephanie Goya, PhD 8 ; Sierra Gulla 9 ; Jennifer Young, MPH 9 ; Sierra Kerns-Funk, MPH 10 ; Brianna da Silva Bhatia, MD 10 ; Hollianne Bruce, MPH 11 ; Krista Kniss, MPH 12 ; Katie Reinhart, PhD 12 ; Rachel Ohlstein 13 ; Shannon Johnson 13 ; Christina Schofield, MD 14 ; Patrick Smith, DO 14 ; Amber Itle, VMD 15 ; Maura Gibson, DVM 16 ; Brandi Torrevillas 17 ; Azeza Falghoush, PhD 17 ; Thomas B. Valenciano, MD 4 ; John Lynch, MD 5 ,7 ; Vanessa Makarewicz, MN 7 ; Chloe Bryson-Cahn, MD 5 ,7 ; Jennifer Hernandez 7 ; Kyla Haggith 7 ; Valicia Linn 7 ; Alex L.
+- Summary: This report describes a fatal human case of highly pathogenic avian influenza in Washington.
 - Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -334,7 +321,7 @@ Search window: 7 day(s) ending 2026-05-09
 - Date: 2026-05-07T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765372
 - Category: Occupational and environmental epidemiology
-- Summary: During November 2024–January 2025, a total of 139 persons exposed to 19 A(H5N1)-infected domestic cats that consumed raw animal products were identified in Los Angeles County, California. Levine 4 ; Jamie Middleton 3, *; Annabelle de St. Maurice 2, * ( View author affiliations ) Transmission of influenza A(H5N1) viruses from domestic cats to humans has not been documented.
+- Summary: This report describes 139 human exposures to cats infected with A(H5N1) in Los Angeles, California.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -359,68 +346,62 @@ Search window: 7 day(s) ending 2026-05-09
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### WHO confirms malaria vaccine impact across Ghana, Kenya, Malawi
-- Source: Punch Newspapers
-- Date: 2026-05-09T08:46+00:00
-- URL: https://punchng.com/who-confirms-malaria-vaccine-impact-across-ghana-kenya-malawi/
-- Category: Outbreaks and emerging infections
-- Summary: In 2024 alone, an estimated 438,000 African children died from the disease. A new study has confirmed that the RTS,S malaria vaccine significantly reduced child deaths in the first three African countries to deploy it. “Demand is high and supply is sufficient, but more financing is needed so that countries can purchase enough vaccine, along with other malaria prevention tools, to reach all the kids most at risk of serious disease or death,” O’Brien said.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+### Cruise ship hantavirus outbreak: ECDC response activated
+- Source: ECDC News
+- Date: 2026-05-06T18:39+02:00
+- URL: https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: ECDC has deployed an expert from the EU Health Task Force to the cruise ship affected by the Andes hantavirus outbreak, as part of a joint effort to investigate the outbreak...
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Ebola outbreak reported in Uganda, WHO says "in close contact to provide rapid response"
-- Source: The News Mill
-- Date: 2026-05-06T09:47+00:00
-- URL: https://thenewsmill.com/2022/09/ebola-outbreak-reported-in-uganda-who-says-in-close-contact-to-provide-rapid-response/
+### Webinar | Listening to communities through AI for cholera response
+- Source: WHO Regional Office for Africa
+- Date: 2026-05-05T10:17+00:00
+- URL: https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response
 - Category: Outbreaks and emerging infections
-- Summary: Earlier, in the day, the Health Ministry of Uganda said in a series of tweets that a confirmed case of Ebola virus was reported in the Mubende District in the Central Region of Uganda. “WHO is in close touch with the Ministry of Health Uganda and is providing support to mount a rapid response and engage communities,” the Director-General of the World Health Organization, Tedros Adhanom Ghebreyesus tweeted. The patients diagnosed with the symptoms later succumbed, the health ministry said.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Summary: During this session, AIRA will share how AI-supported social listening is used to: Track infodemic trends across countries Identify key drivers such as trust, water and sanitation concerns, and vaccine perceptions Inform evidence-based risk communication and community engagement (RCCE) strategies Support countries with actionable insights and ready-to-use content This webinar will also highlight experiences from country and regional levels, demonstrating how data-driven listening can strengthen public health responses . 👉 Join us and be part of the conversation.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date
-- Source: Outbreak News Today
-- Date: 2026-05-02T15:24+00:00
-- URL: https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than
-- Category: Outbreaks and emerging infections
-- Summary: In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+### Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low
+- Source: ECDC News
+- Date: 2026-05-04T19:33+02:00
+- URL: https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: A cluster of severe acute respiratory illness, including three deaths and one severely ill individual, has been reported among passengers on a cruise ship travelling in the Atlantic and registered in the Netherlands. The ship is currently located off the coast of Cabo Verde, with 149 people on board.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Sustained reduction in program-reported TB death rate in six districts following Tamil Nadu Kasanoi Erappila Thittam in southern India.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-05-07T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42093542/
-- Category: Major epidemiology studies
-- Summary: Routine aggregate data showed a reduction in the July 2022-June 2024 cohort when compared to July 2021-June 2022 cohort: Dharmapuri (from 12.6% to 4.8%), Karur (from 7.0% to 4.7%), Villupuram (from 6.1% to 4.6%), Kanniyakumari (from 10.4% to 8.1%), Cuddalore (from 6.7% to 4.1%), and Salem (from 7.8% to 4.9%). TN-KET not only worked in districts with relatively higher TB death burden (SMR > 1) but also in districts with relatively lower TB death burden (SMR < 1). Tamil Nadu Kasanoi Erappila Thittam (TN-KET) is India's first statewide and state-specific differentiated TB care initiative to reduce TB deaths.
-- Why it matters: Comes from an official or primary-source channel.
+### ECDC monitoring outbreak associated with cruise ship
+- Source: ECDC News
+- Date: 2026-05-04T11:42+02:00
+- URL: https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: ECDC is aware of suspected cases of hantavirus infection, including three deaths, associated with a cruise ship travelling in the Atlantic.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 4/5
+- Relevance score: 5/5
 
 
 ## Other notable readings
-- [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) | CBS 19 News | 2026-05-09T02:57+00:00 | Outbreaks and emerging infections
-  Updated: May 9, 2026 @ 8:42 am Full Forecast Charlottesville, VA (22901) Today Clouds and some sun this morning with more clouds for this afternoon. Limited detail was available from feed metadata alone.
-- [May 8: Hantavirus, Iran-U.S. Ceasefire, UFOs](https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-may-8-263027269693) | NBC News | 2026-05-09T01:44+00:00 | Outbreaks and emerging infections
+- [European states to send planes to evacuate citizens from hantavirus-hit cruise ship](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1ZNUnJYSkpRM29CTFFRNzJrejhzQlBhTzlUWWFzUFZ4cUQ5dFlBQ05WSWlxNzJJRlM4YUR4Q0dqZnpWNXZQY3JWaTBJSG1BeUk3c21nanJZTktGWU50S0M4aWJlaE1XdXA3SGlxNDlkMk8xVF9nLWhiT2NjYjhiOVVZeEduR2xCSGRuMVhacmxSSlpkbWRWUDQ3a0Fhc0tBOWNxTlIxVElkY1pqbmFBamFLNlZ2Zm91a1NUMUd5TzV4emNiSnNRUw?oc=5) | Reuters | 2026-05-09T12:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [From US to Singapore, countries race to track hantavirus](https://edition.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) | CNN | 2026-05-07T12:53+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Local Transmission Confirmed in Ensenada, Mexico](https://www.cdph.ca.gov/Programs/OPA/Pages/NR17-021.aspx) | California Department of Public Health News | Unknown | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [European states to send planes to evacuate citizens from hantavirus-hit cruise ship](https://www.reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09/) | Reuters | 2026-05-09T12:18+00:00 | Outbreaks and emerging infections
+- [WHO confirms malaria vaccine impact across Ghana, Kenya, Malawi](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEg3RFRhT3U2SjZiazh3eEJpNmNtT01ieV9SNjVzbGZnQmREWkFpelpNV2E0Mktza0wxcU1nbURMY0xGbEJtbTFzaWg3RVBBaTRQU2JuOGU3MW93cWdvV2FHdy1Hd2E4S2RqbTBnajJvMFVDanVOWnhQS21GOHdReXRNZmxaQWJUcHc?oc=5) | Punch Newspapers | 2026-05-09T08:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus figures updated - as cruise ship at centre of outbreak nears the Canary Islands](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzVsdjZOamZfNzMyT1BZeF81ZXZtNVJBRkQ0YjMzcmtKeVFpZFVZUFVSUlF6X20yNnh2LWJaX2JRWEFxMnlYeHBWOS1QS2h0dDhRRklnNHpENnJLdl9CcXdzMVJmWkIxcDYtdWFnVGFpNF9CWkVjQVo0OWxoSjZ4UjdiRE9mNmprQ0lUYVJoSjdWQUUyVnROaW1DdFEyNFNVS09YckJocGlkUlpiQWdETl9RdjNFMzJENk50a2JLcmJKZw?oc=5) | Sky News | 2026-05-09T04:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Japan's measles outbreak surges past 360 cases - Tokyo and Kanto region worst hit](https://www.thestandard.com.hk/wellness/article/330831/Japans-measles-outbreak-surges-past-360-cases-Tokyo-and-Kanto-region-worst-hit) | The Standard (HK) | 2026-05-09T04:00+00:00 | Outbreaks and emerging infections
-  "However, in cases in Yamanashi Prefecture, the patients were all people whose history of having received two vaccine doses could not be confirmed." Professor Tsuyoshi Terashima from Tokyo Dental University points out that the measles virus is extremely contagious, with one infected person potentially spreading it to 12-14 others, compared to influenza which typically spreads to only 2-3 people. Of the 57 new cases reported this week, Tokyo accounted for 40, with the remaining sporadic cases in Kagoshima, Kanagawa, and other areas. As of mid-April, the cumulative number of infections nationwide had already surpassed 299, exceeding the total of 265 cases for all of last year.
+- [Officials investigate case of measles in the Central Region](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5) | CBS 19 News | 2026-05-09T02:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [May 8: Hantavirus, Iran-U.S. Ceasefire, UFOs](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDZ0VnJ6b1VkNXg0bVpzUFJhVHIwaHVpVE4ta3ZPWl8xdGl3dGpma091b21wUDVKUlB0ZmZBc1dLSlFYQmNsVkxWUEtGbElzeFlUcWFwTTduQU4yM0Z5WmE0Y3RIS0FReWVuMjlrdXlnZGZwUVNwVnJyeXlQVlVXdWU0OENBb1I5dndqTl9IU2w3OEpjSUw0aFJ4VWloYlM0?oc=5) | NBC News | 2026-05-09T01:44+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO reports six confirmed hantavirus cases tied to Spain-bound cruise](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlhZbnAwT2xINWtCUElnZkVyQVNKWkZFMXM1MlFEajRiT1h3T2VaMC1HN0twNURQYkNqdjIzYWZIQl9EYmZvSW9RRjM2ZWk0SEpZUTlZRTQtOVBwZHBZUTB5bmdvMlRUdWw3am03cWw2d1B1RW8yRmVMRTN6alJxMnpWaE5URGF0UkFFRENVcmFrZ3k3cFIwaEg2S1FjWFZYeWpYZVZPNUhSUkVnUFNjTkNlVnZtX2p6SXVMbmJEazJET1hOOHh6Snozc2lMUndsckpMbw?oc=5) | Reuters | 2026-05-08T22:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus ship sparks protests in Canary Islands, as cases around the world mapped](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWFSV1pGYTdEY0l3aGwtZlktWnF2MTRTRjRhcjVER1B2RkljYmJxYUw3Q21vdW5hRklfdU5wOGpmSWE4bmdXbFlIbDdfSE44b3Z3Z0VydmJMbzh5ZkY5Q3lkWjgybnBhMWRDMnZGUU9YX2RUdlVUXzB2ZzYyWE1uc0pDZ2tzQWtOaGNuUGN2Vld0UjZ1ZUlrVDNPRHBERzVMRF9ZOXJ2Ymd3R25IaDEyVlFOREQwblhQQ3c?oc=5) | Sky News | 2026-05-08T22:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) | Outbreak News Today | 2026-05-08T21:52+00:00 | Outbreaks and emerging infections
-  Japan health officials reported 74 additional measles cases since our last report , bringing the total cases to 436 as of April 30. This is a 354 percent increase compared to the same time in 2025 when 96 measles cases were reported. But according to the Ministry of Health, Labor and Welfare, the rate of second-dose measles vaccination has not exceeded 95% since the COVID-19 pandemic and has declined year by year, falling to 91% in fiscal 2024.
 - [Canary Islands residents not happy about arrival of hantavirus cruise ship](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnBXSFh2ZjhHVGpHYVFEUGJWdWRjYkR4aWtzQWs4eEg5Y1JVZzR5Q2hyZEhoX29hNXZGcHNSVGF0LTJtR1d3ckpwaUpKVHRhZVhhdE1zelMteFVYdmJzUVliZk01YWhaMFhGcTNtUGJXdEJxaEw1cnpxQnFfeWlFR2VfMXZlcUhsZTEtY0gxT2VaQ0ZraThNd1Z5UlRTWnVrcndTcDZjV3ZxQlRVRTM4dWZB?oc=5) | CBS News | 2026-05-08T21:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [In the Canary Islands, anxious locals protest the arrival of hantavirus-hit cruise ship](https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2ZXQWE5dDBBTDV1SkFTVS00VGhUR3N6NWQ0dWZFVUpaaFEyeXdZVGJNRlJsRmdxdVVVcVRyd202aUhWclZnLTRlQlB1Y0tVT0JiLUZZSFFCbVhqaTVneGxqTXJXZk84SGZ2ZjZNYmFodmVqb0g4d1NHajBFVmpWcy03dGFZOVBkS2puNFhUSTM5dm5yZk41dmhjWTBpNW96UE5wdDRWNGdOdkpjZExtVjJ5NA?oc=5) | NBC News | 2026-05-08T18:29+00:00 | Outbreaks and emerging infections
@@ -437,18 +418,19 @@ Search window: 7 day(s) ending 2026-05-09
   Limited detail was available from feed metadata alone.
 - [Number of confirmed hantavirus cases rises and more may be reported, says WHO](https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3k5SnotMkxUUlJuVVBRRVJuQkgwOTJRS3MzZ1oxbi0xUHFaM1BjTVd1dlUyellnSndqaHdFWXMxMnAyRnViVmlXVFhIMXludzhraVJIVmtSODFEUWtsaTNpLVpGNXhiaTJwc0lVOTJKaFhrNnpHaVFqVXBWUUtDc0cxamlYdGdDNmZPaTV6aW9aS0ZiTXFIVzhLeE5tM2pPRmkzdzl6ZWtaVUhiQm1OcExR?oc=5) | Sky News | 2026-05-07T15:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [From US to Singapore, countries race to track hantavirus](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0E2U1QzRnBWdTVVelFZT3ZxdTVQSFFhY1hXZEJyX0M5TTVwQUU0eGRHZ1hRb1pCVE9ZLUg1Q2lUbFZvR0dCMDA5bjRQVXJyMmE3VklHMGwtUzFmTUNZVDV1XzF5TWxyZFBMdVo1YS13LVBSeW1OeTU3SEFTdjBod3dhN1VPUQ?oc=5) | CNN | 2026-05-07T12:53+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Tenerife resident calls docking of hantavirus ship 'reckless'](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mVGVRcURzLWYtMm1ud1RzTkxhTTg5djdNNHRZbWtIZ2xlSTFrc001blpYU0MzX01DVFRHWEVpU1pPX1NfakdBS2RLajM2WHliVC1KS2RHWQ?oc=5) | BBC | 2026-05-07T12:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus-hit cruise ship on way to Canary Islands after three evacuated](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ejFDMy1sV3hqYUU2M0t4ck90UDdqLTU0V2dmWjZxYTRnaVJoeDdOcFlkMGZ6MlVBWVpCTVBXVTE1R2ZubVRCY0FhWDJDNHVSby1QUUp1ZV9PUQ?oc=5) | BBC | 2026-05-07T09:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Hantavirus: British ex-police officer isolating in hospital after evacuation from cruise ship](https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3UwWWM4bmhVOEpDNDBBX0k1ZHJVcTl1RFVXUkVaTnM5Z0VGREs2bmVsME9OUWZYUFVFcDh4TEM4Q3RyNVh3czdBa0oxWFM1N2RUVGVWVVllcnpzTEhZWXhtNEwtVEw4Qll0WndTMlpIMU9xUmNtX21VMUh4U0FZSW91YXdhRWJha1V5MTEwemUxWGN2bGMyUmFCNU5oTkJZTHRjSGpGNXZJaFhSVUREdHdmcUV0cEhfTE9FWDJLLVNlOXNZWnc?oc=5) | Sky News | 2026-05-07T09:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamd6dTB2Q2QzNUF2SVpfaExYY2k2N21hRWxJOVd0WVNKTzUxUWdkZ25xaVpmYW5rdFBVbEVxMlRTNHY2VUdBanVkRHFQck03dkFDN1cyUXRYNl81YURCdVVtZFdBd3U2MlZ5NlQ4MmVLa2ZuMzE5RTRtUkZRMW40SlliNElXSTlHeTFvUkpLRDRkbEhBWEM3aUpGeWQ0TDUxeWQ1aDU3Q2dnc09rTGhfbXk1cnhDVm1a?oc=5) | CIDRAP | 2026-05-06T20:47+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
-- [Sustained reduction in program-reported TB death rate in six districts following Tamil Nadu Kasanoi Erappila Thittam in southern India.](https://pubmed.ncbi.nlm.nih.gov/42093542/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/16549716.2026.2666490
-  Journal/preprint server: Global health action
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42093542/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42093542/
+- No papers met the current filter.
 
 ## Historical epi / weird epi corner
 - No dedicated historical or paleopathology items stood out today.

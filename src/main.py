@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import sys
 from datetime import date, datetime, timedelta
@@ -11,10 +12,11 @@ from .dedupe import deduplicate_items
 from .emailer import send_dossier_email
 from .fetchers import enrich_item_text, fetch_all_sources
 from .render_markdown import analyze_story_updates, classify_topic, render_markdown
-from .render_html import render_html
+from .render_html import render_html, validate_reader_story_sections
 from .scoring import score_item
 from .summarize import summarize_item
 from .utils import (
+    app_exports_dir,
     ensure_directories,
     has_local_signal,
     infer_region,
@@ -46,6 +48,7 @@ MIN_OFFICIAL_SIGNAL_ITEMS = 6
 MAX_POSTMERGE_ENRICH = 12
 MAX_ACTIVE_STORY_POSTMERGE_ENRICH = 40
 REGIONAL_MONITORING_WINDOW_DAYS = 14
+STORY_RENDER_FALLBACK_MIN_ITEMS = 8
 
 GENERIC_PRIORITY_TERMS = {
     "cluster",
@@ -215,6 +218,35 @@ def parse_target_date(raw: str | None) -> date:
     return parsed.date()
 
 
+def load_previous_latest_snapshot() -> dict:
+    latest_snapshot_path = app_exports_dir() / "latest.json"
+    if not latest_snapshot_path.exists():
+        return {}
+    try:
+        return json.loads(latest_snapshot_path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def select_story_records_for_render(
+    latest_snapshot: dict,
+    previous_snapshot: dict,
+    processed_count: int,
+) -> tuple[list[dict], bool]:
+    current_story_records = latest_snapshot.get("stories", [])
+    if current_story_records:
+        return current_story_records, False
+
+    previous_story_records = previous_snapshot.get("stories", []) if previous_snapshot else []
+    if previous_story_records and processed_count >= STORY_RENDER_FALLBACK_MIN_ITEMS:
+        return previous_story_records, True
+    return current_story_records, False
+
+
+def select_reference_records_for_render(latest_snapshot: dict, previous_snapshot: dict) -> list[dict]:
+    return latest_snapshot.get("reference", []) or previous_snapshot.get("reference", []) or []
+
+
 def run_once(
     target_date: date,
     window_days: int,
@@ -230,6 +262,7 @@ def run_once(
         sources = load_sources()
         search_terms = load_search_terms()
         outbreak_reference = load_outbreak_reference()
+        previous_published_snapshot = load_previous_latest_snapshot()
         start_date = target_date - timedelta(days=max(window_days - 1, 0))
         raw_items, source_failures, source_health = fetch_all_sources(sources, logger, start_date=start_date, end_date=target_date)
         filtered = filter_by_date(raw_items, target_date, window_days)
@@ -282,17 +315,6 @@ def run_once(
             source_failures=source_failures,
             source_health=source_health,
         )
-        html_output = render_html(
-            processed,
-            target_date=target_date,
-            generated_at=generated_at,
-            search_window=f"{window_days} day(s) ending {target_date.isoformat()}",
-            outbreak_reference=outbreak_reference,
-            story_updates=story_updates,
-            archive_entries=archive_entries,
-            source_failures=source_failures,
-            source_health=source_health,
-        )
         latest_snapshot = export_app_data(
             db=db,
             items=processed,
@@ -305,6 +327,34 @@ def run_once(
             source_failures=source_failures,
             source_health=source_health,
         )
+        render_story_records, used_story_render_fallback = select_story_records_for_render(
+            latest_snapshot,
+            previous_published_snapshot,
+            len(processed),
+        )
+        render_reference_records = select_reference_records_for_render(latest_snapshot, previous_published_snapshot)
+        if used_story_render_fallback:
+            logger.warning(
+                "Using the prior published story records for reader HTML because the current snapshot produced zero active stories across %s rendered items.",
+                len(processed),
+            )
+        html_output = render_html(
+            processed,
+            target_date=target_date,
+            generated_at=generated_at,
+            search_window=f"{window_days} day(s) ending {target_date.isoformat()}",
+            outbreak_reference=outbreak_reference,
+            story_updates=story_updates,
+            archive_entries=archive_entries,
+            source_failures=source_failures,
+            source_health=source_health,
+            story_records=render_story_records,
+            reference_records=render_reference_records,
+        )
+        html_validation_issues = validate_reader_story_sections(html_output, render_story_records)
+        html_writable = not html_validation_issues
+        if html_validation_issues:
+            logger.error("Skipping HTML artifact writes because reader validation failed: %s", "; ".join(html_validation_issues))
         latest_path = latest_filename()
         latest_html_path = latest_html_filename()
         promote_latest = should_promote_latest(
@@ -315,12 +365,14 @@ def run_once(
         )
         if write_local_artifacts:
             output_path.write_text(markdown, encoding="utf-8")
-            html_path.write_text(html_output, encoding="utf-8")
             legacy_output_path.write_text(markdown, encoding="utf-8")
-            legacy_html_output_path.write_text(html_output, encoding="utf-8")
+            if html_writable:
+                html_path.write_text(html_output, encoding="utf-8")
+                legacy_html_output_path.write_text(html_output, encoding="utf-8")
             if promote_latest:
                 latest_path.write_text(markdown, encoding="utf-8")
-                latest_html_path.write_text(html_output, encoding="utf-8")
+                if html_writable:
+                    latest_html_path.write_text(html_output, encoding="utf-8")
             else:
                 logger.warning(
                     "Skipping latest dossier promotion because the run fetched zero raw items and logged source failures; preserving the previous latest briefing."
@@ -340,9 +392,13 @@ def run_once(
         elif write_local_artifacts:
             logger.warning("Skipping dossier email because latest briefing promotion was skipped.")
         if write_local_artifacts:
-            written_paths = [output_path, html_path, legacy_output_path, legacy_html_output_path]
+            written_paths = [output_path, legacy_output_path]
+            if html_writable:
+                written_paths.extend([html_path, legacy_html_output_path])
             if promote_latest:
-                written_paths.extend([latest_path, latest_html_path])
+                written_paths.append(latest_path)
+                if html_writable:
+                    written_paths.append(latest_html_path)
             logger.info(
                 "Wrote dossier artifacts to %s with %s rendered items (%s new, %s fetched, %s date-filtered, %s deduped)%s",
                 ", ".join(str(path) for path in written_paths),
@@ -378,6 +434,10 @@ def run_once(
                 "source_failures": source_failures,
                 "source_health": source_health,
                 "latest_snapshot": latest_snapshot,
+                "render_story_records": render_story_records,
+                "render_reference_records": render_reference_records,
+                "html_validation_issues": html_validation_issues,
+                "story_render_fallback_used": used_story_render_fallback,
                 "promote_latest": promote_latest,
                 "write_local_artifacts": write_local_artifacts,
                 "paths": {
