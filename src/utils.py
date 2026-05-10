@@ -430,57 +430,94 @@ def _normalize_coordinates(value: Any, *, field_name: str) -> list[float]:
     return [float(value[0]), float(value[1])]
 
 
+def _normalize_atlas_entry(raw: dict[str, Any], *, field_prefix: str) -> dict[str, Any]:
+    slug = slugify(str(raw["slug"]))
+    origin_claim = dict(raw["origin_claim"])
+    origin_claim["coordinates"] = _normalize_coordinates(
+        origin_claim.get("coordinates"),
+        field_name=f"{field_prefix}.{slug}.origin_claim.coordinates",
+    )
+    routes: list[dict[str, Any]] = []
+    for route in raw.get("spread_routes", []):
+        routes.append(
+            {
+                "route_id": str(route["route_id"]),
+                "from_label": str(route["from_label"]),
+                "to_label": str(route["to_label"]),
+                "from_coordinates": _normalize_coordinates(
+                    route.get("from_coordinates"),
+                    field_name=f"{field_prefix}.{slug}.{route['route_id']}.from_coordinates",
+                ),
+                "to_coordinates": _normalize_coordinates(
+                    route.get("to_coordinates"),
+                    field_name=f"{field_prefix}.{slug}.{route['route_id']}.to_coordinates",
+                ),
+                "date_or_era": str(route["date_or_era"]),
+                "route_type": str(route["route_type"]),
+                "confidence": str(route["confidence"]),
+                "narrative": str(route["narrative"]),
+                "citation_ids": [str(value) for value in route.get("citation_ids", [])],
+            }
+        )
+    citations = [dict(citation) for citation in raw.get("citations", [])]
+    if not citations:
+        raise ValueError(f"{field_prefix}.{slug} must define at least one citation")
+    entry = {
+        "slug": slug,
+        "name": str(raw["name"]),
+        "subtitle": str(raw.get("subtitle", "")),
+        "status": str(raw.get("status", "mixed")),
+        "pathogen_type": str(raw.get("pathogen_type", "")),
+        "summary": str(raw.get("summary", "")),
+        "why_it_matters": str(raw.get("why_it_matters", "")),
+        "atlas_scope": str(raw.get("atlas_scope", "")),
+        "origin_claim": origin_claim,
+        "spread_routes": routes,
+        "modern_echoes": [str(value) for value in raw.get("modern_echoes", [])],
+        "framing_traps": [str(value) for value in raw.get("framing_traps", [])],
+        "linked_reference_slug": slugify(str(raw.get("linked_reference_slug", ""))),
+        "linked_story_ids": [str(value) for value in raw.get("linked_story_ids", [])],
+        "linked_blog_posts": [dict(post) for post in raw.get("linked_blog_posts", [])],
+        "citations": citations,
+        "visual_asset_id": str(raw.get("visual_asset_id", "")),
+    }
+    variants: list[dict[str, Any]] = []
+    for raw_variant in raw.get("variants", []):
+        variant_payload = {
+            "pathogen_type": entry["pathogen_type"],
+            "atlas_scope": entry["atlas_scope"],
+            "linked_reference_slug": entry["linked_reference_slug"],
+            "linked_story_ids": list(entry["linked_story_ids"]),
+            "linked_blog_posts": [dict(post) for post in entry["linked_blog_posts"]],
+            "visual_asset_id": entry["visual_asset_id"],
+            **dict(raw_variant),
+        }
+        variants.append(
+            _normalize_atlas_entry(
+                variant_payload,
+                field_prefix=f"{field_prefix}.{slug}.variants",
+            )
+        )
+    if variants:
+        variant_slugs = {variant["slug"] for variant in variants}
+        default_variant_slug = slugify(str(raw.get("default_variant_slug", variants[0]["slug"])))
+        if default_variant_slug not in variant_slugs:
+            raise ValueError(f"{field_prefix}.{slug}.default_variant_slug must match a variant slug")
+        entry["default_variant_slug"] = default_variant_slug
+        entry["variants"] = variants
+    else:
+        entry["default_variant_slug"] = ""
+        entry["variants"] = []
+    return entry
+
+
 @lru_cache(maxsize=1)
 def load_pathogen_atlas() -> tuple[dict[str, Any], ...]:
     path = CONFIG_DIR / "pathogen_atlas.yml"
     if not path.exists():
         return tuple()
     raw_entries = load_yaml(path).get("pathogens", [])
-    entries: list[dict[str, Any]] = []
-    for raw in raw_entries:
-        slug = slugify(str(raw["slug"]))
-        origin_claim = dict(raw["origin_claim"])
-        origin_claim["coordinates"] = _normalize_coordinates(origin_claim.get("coordinates"), field_name=f"{slug}.origin_claim.coordinates")
-        routes: list[dict[str, Any]] = []
-        for route in raw.get("spread_routes", []):
-            routes.append(
-                {
-                    "route_id": str(route["route_id"]),
-                    "from_label": str(route["from_label"]),
-                    "to_label": str(route["to_label"]),
-                    "from_coordinates": _normalize_coordinates(route.get("from_coordinates"), field_name=f"{slug}.{route['route_id']}.from_coordinates"),
-                    "to_coordinates": _normalize_coordinates(route.get("to_coordinates"), field_name=f"{slug}.{route['route_id']}.to_coordinates"),
-                    "date_or_era": str(route["date_or_era"]),
-                    "route_type": str(route["route_type"]),
-                    "confidence": str(route["confidence"]),
-                    "narrative": str(route["narrative"]),
-                    "citation_ids": [str(value) for value in route.get("citation_ids", [])],
-                }
-            )
-        citations = [dict(citation) for citation in raw.get("citations", [])]
-        if not citations:
-            raise ValueError(f"{slug} must define at least one citation")
-        entries.append(
-            {
-                "slug": slug,
-                "name": str(raw["name"]),
-                "subtitle": str(raw.get("subtitle", "")),
-                "status": str(raw.get("status", "mixed")),
-                "pathogen_type": str(raw.get("pathogen_type", "")),
-                "summary": str(raw.get("summary", "")),
-                "why_it_matters": str(raw.get("why_it_matters", "")),
-                "atlas_scope": str(raw.get("atlas_scope", "")),
-                "origin_claim": origin_claim,
-                "spread_routes": routes,
-                "modern_echoes": [str(value) for value in raw.get("modern_echoes", [])],
-                "framing_traps": [str(value) for value in raw.get("framing_traps", [])],
-                "linked_reference_slug": slugify(str(raw.get("linked_reference_slug", ""))),
-                "linked_story_ids": [str(value) for value in raw.get("linked_story_ids", [])],
-                "linked_blog_posts": [dict(post) for post in raw.get("linked_blog_posts", [])],
-                "citations": citations,
-                "visual_asset_id": str(raw.get("visual_asset_id", "")),
-            }
-        )
+    entries = [_normalize_atlas_entry(dict(raw), field_prefix="pathogens") for raw in raw_entries]
     return tuple(entries)
 
 

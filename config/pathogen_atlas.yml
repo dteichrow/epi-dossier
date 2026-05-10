@@ -381,56 +381,70 @@ pathogens:
     visual_asset_id: atlas-h5n1-hero
 
   - slug: hantavirus
-    name: Hantavirus syndrome
-    subtitle: Rodent ecologies, Andes-virus exceptions, and climate-linked exposure zones
+    name: Hantaviruses
+    subtitle: Rodent-host lineages, hemorrhagic fever versus cardiopulmonary syndromes, and one crucial Andes-virus exception
     status: mixed
     pathogen_type: Virus
-    summary: "Hantavirus deserves atlas treatment not because it has one clean colonial route, but because it is a good counterexample: multiple rodent-linked ecologies, geographically distinct syndromes, and one especially important Andes-virus exception."
-    why_it_matters: It prevents the atlas from becoming a simplistic shipping story and forces us to represent ecology, exposure setting, and uncertainty honestly.
-    atlas_scope: American rodent-borne ecologies with Andes-virus person-to-person concern
+    summary: Hantaviruses belong in the atlas because they break the habit of pretending every pathogen has one clean human-travel route. The real map is rodent-host biogeography, ecological exposure settings, and the split between Old World hemorrhagic-fever viruses and New World cardiopulmonary viruses.
+    why_it_matters: It forces the atlas to behave like an encyclopedia rather than a single-route animation and keeps us honest about host ecology, geography, and syndrome differences.
+    atlas_scope: Family-level rodent-host geography with variant-specific human disease lenses
     origin_claim:
-      label: Multiple rodent-host lineages across Eurasia and the Americas
-      coordinates: [-71.0, -41.5]
-      date_or_era: Twentieth-century recognition, older rodent-host evolution
+      label: Eurasian and American rodent-host lineages
+      coordinates: [111.0, 41.0]
+      date_or_era: Twentieth-century human recognition layered on much older rodent-virus evolution
       confidence: moderate
-      narrative: There is no single simple modern origin pin for all hantaviruses; the atlas entry instead foregrounds the American rodent ecologies relevant to severe cardiopulmonary disease and the Andes-virus exception.
+      narrative: There is no honest single origin pin for all hantaviruses. The stronger atlas frame is family-level rodent-host evolution across Eurasia and the Americas, then variant-specific human syndromes with distinct geographic signatures.
     spread_routes:
-      - route_id: hantavirus-andes-cone
-        from_label: Southern Andes rodent ecologies
-        to_label: Argentina and Chile cluster zones
-        from_coordinates: [-71.0, -41.5]
-        to_coordinates: [-70.7, -42.9]
-        date_or_era: Late twentieth century to present
-        route_type: ecological
+      - route_id: hantavirus-old-world-lineages
+        from_label: Eurasian murid-rodent host zones
+        to_label: Korea, China, and the Russian Far East
+        from_coordinates: [111.0, 41.0]
+        to_coordinates: [127.0, 40.2]
+        date_or_era: Twentieth-century recognition of hemorrhagic fever with renal syndrome
+        route_type: rodent_host_ecology
         confidence: strong
-        narrative: Andes virus clusters in southern South America remain the most important person-to-person exception within hantavirus reporting.
-        citation_ids: [hanta-review, hanta-nejm]
-      - route_id: hantavirus-rural-latin-america
-        from_label: Rural Latin American rodent exposure settings
-        to_label: Cabin, field, and enclosed-travel outbreaks
-        from_coordinates: [-63.0, -17.0]
-        to_coordinates: [-72.0, -13.0]
-        date_or_era: Contemporary rural and travel-linked events
-        route_type: exposure_setting
-        confidence: moderate
-        narrative: The practical route is often less about human travel chains than about where rodent exposure becomes intense enough to generate severe disease clusters.
-        citation_ids: [hanta-review, hanta-climate]
+        narrative: The classical Old World hantavirus story is not a traveler chain but a host-and-landscape pattern tied to murid rodents and hemorrhagic fever with renal syndrome.
+        citation_ids: [hanta-family-review, hanta-hfrs]
+      - route_id: hantavirus-new-world-lineages
+        from_label: North and South American sigmodontine rodent zones
+        to_label: Four Corners and southern cone exposure settings
+        from_coordinates: [-108.0, 37.0]
+        to_coordinates: [-71.0, -41.5]
+        date_or_era: 1990s emergence framing and later regional expansion
+        route_type: rodent_host_ecology
+        confidence: strong
+        narrative: New World hantaviruses became a major public story after cardiopulmonary syndromes were recognized in the Americas, but the real map remains rodent-host geography plus human disturbance and exposure.
+        citation_ids: [hanta-family-review, hanta-americas]
     modern_echoes:
-      - Travelers, field workers, and rural residents encounter the map through cabins, farm structures, and rodent disturbance rather than metropolitan corridors.
-      - Andes-virus concern makes it one of the rare stories where a hantavirus map may suddenly become a transmission map.
+      - Travelers, field workers, rural residents, and military trainees usually encounter hantavirus risk through disturbed rodent habitat rather than crowded metropolitan spread.
+      - The one question that changes media framing fast is whether the story points to Andes virus or another person-to-person concern rather than a standard rodent-exposure event.
     framing_traps:
-      - Do not write all hantaviruses as though they shared the same transmission pattern.
-      - Do not overclaim person-to-person spread unless the evidence really points to Andes virus or a closely analogous setting.
+      - Do not write all hantaviruses as though they share one syndrome, one rodent host, or one transmission pattern.
+      - Do not let the Andes-virus exception overwrite the much larger family-level geography.
     linked_reference_slug: hantavirus-syndrome
     linked_story_ids: []
-    linked_blog_posts: []
+    linked_blog_posts:
+      - title: "Hantavirus at Sea: What We Know About the MV Hondius Outbreak (The Pathogen Dispatch #2)"
+        url: https://theedgeofepidemiology.substack.com/p/hantavirus-at-sea-what-we-know-about
+        published_at: 2026-05-04
+        relation: deep_dive
     citations:
-      - id: hanta-review
+      - id: hanta-family-review
+        short_citation: Jonsson CB, Figueiredo LTM, Vapalahti O. A global perspective on hantavirus ecology, epidemiology, and disease. Clin Microbiol Rev. 2010.
+        url: https://doi.org/10.1128/CMR.00062-09
+        claim_supported: Family-level hantavirus ecology, rodent-host associations, and the division between Old World and New World disease patterns.
+        note: Best broad synthesis source for a family-level atlas entry.
+      - id: hanta-americas
         short_citation: Hjelle B, Torres-Pérez F. Hantaviruses in the Americas and their role as emerging pathogens. Viruses. 2010.
         url: https://doi.org/10.3390/v2032559
-        claim_supported: American hantavirus ecology and the importance of rodent-host geography.
+        claim_supported: American hantavirus ecology, cardiopulmonary syndromes, and host-geography framing.
         note: Broad review of hantavirus emergence in the Americas.
-      - id: hanta-nejm
+      - id: hanta-hfrs
+        short_citation: "Bi Z, Formenty PBH, Roth CE. Hantavirus infection: A review and global update. J Infect Dev Ctries. 2008."
+        url: https://doi.org/10.3855/jidc.317
+        claim_supported: Global hantavirus distribution and the Old World hemorrhagic-fever geography.
+        note: Useful bridge between HFRS and broader global distribution.
+      - id: hanta-andes
         short_citation: Martínez-Valdebenito C, Calvo M, Vial C et al. Person-to-person household and nosocomial transmission of Andes hantavirus, southern Chile, 2011. Emerg Infect Dis. 2014.
         url: https://doi.org/10.3201/eid2008.131936
         claim_supported: Andes-virus person-to-person transmission as the key exception.
@@ -441,6 +455,158 @@ pathogens:
         claim_supported: Climate and landscape conditions affecting hantavirus geography in Latin America and the Caribbean.
         note: Useful for the ecology panel.
     visual_asset_id: atlas-hantavirus-hero
+    default_variant_slug: hantaan-virus
+    variants:
+      - slug: hantaan-virus
+        name: Hantaan orthohantavirus
+        subtitle: Old World hemorrhagic fever with renal syndrome centered on Korean and northeast Asian rodent ecologies
+        status: consensus
+        summary: Hantaan virus is the classic Old World hantavirus frame and the right default for an encyclopedia view because it grounds the family in the hemorrhagic-fever geography that defined early recognition.
+        why_it_matters: It restores the older and broader hantavirus story that gets erased when modern news cycles jump straight to Andes virus.
+        origin_claim:
+          label: Korean peninsula and adjacent northeast Asian rodent zones
+          coordinates: [127.0, 40.2]
+          date_or_era: Recognized during the Korean War, with older endemic circulation
+          confidence: strong
+          narrative: Hantaan virus is tied to striped field-mouse ecologies in Korea, China, and nearby parts of Eurasia and became globally legible during Korean War hemorrhagic-fever outbreaks.
+        spread_routes:
+          - route_id: hantaan-korea-war-zones
+            from_label: Murid rodent habitats in Korea
+            to_label: Military and rural exposure zones
+            from_coordinates: [127.0, 40.2]
+            to_coordinates: [127.4, 38.2]
+            date_or_era: 1950s recognition through wartime outbreaks
+            route_type: exposure_setting
+            confidence: strong
+            narrative: The decisive map for Hantaan virus is rodent habitat intersecting with soldiers, farmers, and disturbed field settings rather than civilian travel chains.
+            citation_ids: [hanta-hfrs, hantaan-korean-war]
+          - route_id: hantaan-east-asia-endemicity
+            from_label: Northeast Asian endemic belt
+            to_label: China and Russian Far East
+            from_coordinates: [127.0, 40.2]
+            to_coordinates: [131.0, 47.0]
+            date_or_era: Twentieth century to present
+            route_type: endemic_zone
+            confidence: moderate
+            narrative: The wider HFRS map extends across East Asia where related rodent hosts and agricultural exposure sustain recurring transmission.
+            citation_ids: [hanta-hfrs, hanta-family-review]
+        modern_echoes:
+          - HFRS reporting still turns on seasonality, rodent exposure, and occupational setting more than cross-border passenger travel.
+          - A family-level atlas needs this variant because it anchors hantavirus outside the news-driven Americas frame.
+        framing_traps:
+          - Do not collapse HFRS and cardiopulmonary syndromes into one undifferentiated clinical map.
+          - Do not start the family story in South America just because Andes virus is narratively dramatic.
+        citations:
+          - id: hantaan-korean-war
+            short_citation: Lee HW, Lee PW, Johnson KM. Isolation of the etiologic agent of Korean hemorrhagic fever. J Infect Dis. 1978.
+            url: https://doi.org/10.1093/infdis/137.3.298
+            claim_supported: Recognition of Hantaan virus as the etiologic agent of Korean hemorrhagic fever.
+            note: Landmark identification paper.
+          - id: hanta-hfrs
+            short_citation: "Bi Z, Formenty PBH, Roth CE. Hantavirus infection: A review and global update. J Infect Dev Ctries. 2008."
+            url: https://doi.org/10.3855/jidc.317
+            claim_supported: East Asian HFRS geography and broader Old World distribution.
+            note: Practical global review.
+      - slug: sin-nombre-virus
+        name: Sin Nombre orthohantavirus
+        subtitle: Four Corners emergence, deer-mouse ecology, and the New World cardiopulmonary turn
+        status: consensus
+        summary: Sin Nombre virus changed how many readers understand hantaviruses by making a rodent-borne ecological disease look suddenly emergent in the American Southwest.
+        why_it_matters: It explains why U.S. readers often think hantavirus starts in the Four Corners when that is really the start of one major New World recognition event.
+        origin_claim:
+          label: Deer-mouse ecologies in the U.S. Southwest
+          coordinates: [-108.0, 37.0]
+          date_or_era: Recognized in 1993, with older enzootic circulation
+          confidence: strong
+          narrative: Sin Nombre virus was recognized after the Four Corners outbreak, but the ecology was already present in deer-mouse populations before the human cluster made it visible.
+        spread_routes:
+          - route_id: sin-nombre-four-corners
+            from_label: Deer-mouse habitat
+            to_label: Four Corners household and peridomestic exposure settings
+            from_coordinates: [-108.0, 37.0]
+            to_coordinates: [-109.0, 36.5]
+            date_or_era: 1993 emergence recognition
+            route_type: exposure_setting
+            confidence: strong
+            narrative: The famous Four Corners outbreak reflects rodent population dynamics, human dwellings, and aerosolized exposure during cleanup rather than human-to-human spread.
+            citation_ids: [hanta-americas, sin-nombre-four-corners]
+          - route_id: sin-nombre-western-us
+            from_label: Southwestern U.S. rodent ecologies
+            to_label: Wider western North American risk zone
+            from_coordinates: [-108.0, 37.0]
+            to_coordinates: [-120.5, 44.0]
+            date_or_era: 1990s to present
+            route_type: endemic_zone
+            confidence: moderate
+            narrative: Once recognized, related western U.S. exposures showed that the disease map followed reservoir ecology and building conditions more than any passenger network.
+            citation_ids: [hanta-family-review, hanta-americas]
+        modern_echoes:
+          - Cabin cleanup, rodent infestation, and environmental disturbance remain the operative map categories.
+          - Climate-linked rodent booms still matter more than international travel in most Sin Nombre reporting.
+        framing_traps:
+          - Do not call Sin Nombre a mysterious new spillover just because the 1993 cluster was the first dramatic public recognition.
+          - Do not imply routine person-to-person spread.
+        citations:
+          - id: sin-nombre-four-corners
+            short_citation: Nichol ST, Spiropoulou CF, Morzunov S et al. Genetic identification of a hantavirus associated with an outbreak of acute respiratory illness. Science. 1993.
+            url: https://doi.org/10.1126/science.8390689
+            claim_supported: Identification of the Four Corners-associated hantavirus and cardiopulmonary outbreak framing.
+            note: Landmark emergence paper.
+          - id: hanta-americas
+            short_citation: Hjelle B, Torres-Pérez F. Hantaviruses in the Americas and their role as emerging pathogens. Viruses. 2010.
+            url: https://doi.org/10.3390/v2032559
+            claim_supported: North American ecology and New World hantavirus patterns.
+            note: Broad Americas review.
+      - slug: andes-virus
+        name: Andes orthohantavirus
+        subtitle: Southern cone rodent ecologies and the major person-to-person exception inside the hantavirus family
+        status: mixed
+        summary: Andes virus matters because it is the exception journalists remember, not the family baseline they should begin with.
+        why_it_matters: It is the variant that turns a rodent-exposure story into a transmission-story question.
+        origin_claim:
+          label: Southern Andes rodent ecologies
+          coordinates: [-71.0, -41.5]
+          date_or_era: Late twentieth century recognition with older enzootic circulation
+          confidence: moderate
+          narrative: Andes virus is associated with southern South American rodent ecologies and gained outsized attention because of evidence for person-to-person transmission in specific settings.
+        spread_routes:
+          - route_id: andes-southern-cone
+            from_label: Southern Andes rodent habitats
+            to_label: Argentina and Chile cluster zones
+            from_coordinates: [-71.0, -41.5]
+            to_coordinates: [-70.7, -42.9]
+            date_or_era: Late twentieth century to present
+            route_type: ecological
+            confidence: strong
+            narrative: Andes virus clusters in southern South America remain the most important person-to-person exception within hantavirus reporting.
+            citation_ids: [hanta-andes, hanta-climate]
+          - route_id: andes-rural-travel
+            from_label: Rural southern cone exposure settings
+            to_label: Cabin, field, and enclosed-travel outbreaks
+            from_coordinates: [-72.0, -39.0]
+            to_coordinates: [-72.0, -13.0]
+            date_or_era: Contemporary travel-linked episodes
+            route_type: exposure_setting
+            confidence: moderate
+            narrative: The practical route is still rodent-linked exposure, but once Andes virus is implicated the reporting stakes shift toward cluster transmission and close-contact investigation.
+            citation_ids: [hanta-andes, hanta-climate]
+        modern_echoes:
+          - This is the strain that most readily turns a countryside exposure story into an urgent transmission story.
+          - Travel and expedition reporting tends to overfocus on Andes virus precisely because it is the exception.
+        framing_traps:
+          - Do not project Andes-virus person-to-person concerns onto the rest of the family.
+          - Do not forget that rodent ecology still sits underneath the exceptional transmission narrative.
+        citations:
+          - id: hanta-andes
+            short_citation: Martínez-Valdebenito C, Calvo M, Vial C et al. Person-to-person household and nosocomial transmission of Andes hantavirus, southern Chile, 2011. Emerg Infect Dis. 2014.
+            url: https://doi.org/10.3201/eid2008.131936
+            claim_supported: Andes-virus person-to-person transmission and southern cone cluster interpretation.
+            note: Key exception paper for the family.
+          - id: hanta-climate
+            short_citation: "Douglas KO, Payne K, Sabino-Santos G et al. Influence of climatic factors on human hantavirus infections in Latin America and the Caribbean: A systematic review. Pathogens. 2022."
+            url: https://doi.org/10.3390/pathogens11010015
+            claim_supported: Climatic and landscape context for Latin American hantavirus geography.
+            note: Useful ecology and context source.
 
   - slug: dengue
     name: Dengue
@@ -513,3 +679,255 @@ pathogens:
         claim_supported: Modern geographic spread and population-at-risk framing.
         note: Strong for the modern echo layer.
     visual_asset_id: atlas-dengue-hero
+
+  - slug: malaria
+    name: Malaria
+    subtitle: Anopheles ecologies, empire, labor, and the long retreat and return of a mosquito-borne world disease
+    status: mixed
+    pathogen_type: Protozoan parasite
+    summary: Malaria belongs in the atlas because it shows how vector ecology, land use, labor systems, altitude, war, and climate can redraw disease geography across centuries without one neat origin story doing all the work.
+    why_it_matters: It keeps the atlas from becoming virus-only and forces a map grammar built around mosquitoes, species differences, and ecological receptivity.
+    atlas_scope: Ancient African-rooted burden with colonial and modern climate-vector redistribution
+    origin_claim:
+      label: Deep African and Old World malaria ecologies
+      coordinates: [20.0, 2.0]
+      date_or_era: Ancient human-parasite history with later species-specific dispersal
+      confidence: moderate
+      narrative: The broadest consensus places the deepest burden and evolutionary importance of falciparum malaria in Africa, while the wider human malaria story includes multiple Plasmodium species with different dispersal histories.
+    spread_routes:
+      - route_id: malaria-africa-atlantic
+        from_label: African malaria ecologies
+        to_label: Caribbean and American plantation zones
+        from_coordinates: [1.0, 6.0]
+        to_coordinates: [-75.0, 18.0]
+        date_or_era: Early modern Atlantic world
+        route_type: maritime_vector_human
+        confidence: moderate
+        narrative: Enslavement, shipping, and mosquito-suitable plantation ecologies helped entrench malaria across the Atlantic world.
+        citation_ids: [malaria-handbook, malaria-carter]
+      - route_id: malaria-colonial-lowlands-highlands
+        from_label: Tropical and subtropical lowland zones
+        to_label: Highland and frontier expansion areas
+        from_coordinates: [38.7, 8.9]
+        to_coordinates: [39.7, 13.5]
+        date_or_era: Colonial and modern settlement shifts
+        route_type: vector_ecology
+        confidence: moderate
+        narrative: Malaria repeatedly advanced or retreated with irrigation, settlement, transport, and temperature, making altitude and land-use change central to its map.
+        citation_ids: [malaria-handbook, malaria-mordecai]
+      - route_id: malaria-endemic-nonendemic-travel
+        from_label: Endemic African and Asian transmission zones
+        to_label: Europe and North America reintroduction risk
+        from_coordinates: [32.5, 0.3]
+        to_coordinates: [10.0, 48.0]
+        date_or_era: Contemporary travel and migration era
+        route_type: travel_and_receptivity
+        confidence: moderate
+        narrative: Modern malaria news often turns on imported cases, airport malaria, or local receptivity where competent Anopheles mosquitoes still exist.
+        citation_ids: [malaria-handbook, malaria-airport]
+    modern_echoes:
+      - Malaria maps are always partly maps of vectors, prophylaxis, and health-system reach rather than just case counts.
+      - The contemporary question is often reintroduction or shifting suitability, not simply ancient endemic burden.
+    framing_traps:
+      - Do not write malaria as one organism with one stable global route.
+      - Do not confuse imported malaria with reestablished local transmission.
+    linked_reference_slug: malaria
+    linked_story_ids: []
+    linked_blog_posts:
+      - title: "Disease in the Early Colonies: Pre-Revolutionary War Disease Ecology and Outbreaks"
+        url: https://theedgeofepidemiology.substack.com/p/disease-in-the-early-colonies-pre
+        published_at: 2026-02-14
+        relation: historical_essay
+      - title: "Humanity’s Deadliest Companions: Checking the Till on the Deadliest Microbes in History"
+        url: https://theedgeofepidemiology.substack.com/p/humanitys-deadliest-companions-checking
+        published_at: 2025-10-28
+        relation: adjacent_context
+    citations:
+      - id: malaria-handbook
+        short_citation: "Tuan JJ, Cox FEG, Bia FJ; Wilson ME, Petersen E, Koopmans MP; Khatib AN, Matsee W, Semenza JC. Historical overview, emerging infections, and climate change chapters. In Routledge Handbook of Infectious Diseases: A Geographical Guide. 2025."
+        url: https://doi.org/10.4324/9781003531425
+        claim_supported: Historical global spread, colonial and travel-linked malaria geography, and climate-linked transmission shifts.
+        note: Core geography-first secondary source.
+      - id: malaria-carter
+        short_citation: Carter R, Mendis KN. Evolutionary and historical aspects of the burden of malaria. Clin Microbiol Rev. 2002.
+        url: https://doi.org/10.1128/CMR.15.4.564-594.2002
+        claim_supported: Deep historical burden and long-run geographic framing of malaria.
+        note: Standard historical review.
+      - id: malaria-airport
+        short_citation: Van den Ende J, Lynen L, Elsen P et al. A cluster of airport malaria in Belgium in 1995. Acta Clin Belg. 1998.
+        url: https://pubmed.ncbi.nlm.nih.gov/9581493/
+        claim_supported: Reintroduction and airport-malaria framing in nonendemic settings.
+        note: Useful for modern travel-linked route interpretation.
+      - id: malaria-mordecai
+        short_citation: Mordecai EA, Ryan SJ, Caldwell JM et al. Climate change could shift disease burden from malaria to arboviruses in Africa. Lancet Planet Health. 2020.
+        url: https://doi.org/10.1016/S2542-5196(20)30178-9
+        claim_supported: Climatic suitability shifts and future geographic redistribution.
+        note: Strong modern climate-geography framing.
+    visual_asset_id: atlas-malaria-hero
+
+  - slug: tuberculosis
+    name: Tuberculosis
+    subtitle: Human coexpansion, crowding, industry, migration, and the stubborn durability of airborne inequality
+    status: mixed
+    pathogen_type: Bacterium
+    summary: "Tuberculosis belongs in the atlas because it is both ancient and modern at once: a human co-traveler that thrives in crowding, poverty, institutional confinement, and uneven public health capacity."
+    why_it_matters: It turns the atlas toward chronic structural transmission instead of one spectacular frontier jump.
+    atlas_scope: Deep human coexpansion with industrial, colonial, and migration-linked redistribution
+    origin_claim:
+      label: African human-associated origin with later Eurasian and global coexpansion
+      coordinates: [25.0, 3.0]
+      date_or_era: Deep premodern origin with Neolithic and later human dispersal
+      confidence: moderate
+      narrative: Modern genomic work supports an African origin for the MTBC followed by dispersal with human populations, but the later epidemiologic story is built in cities, mines, barracks, prisons, and migration corridors.
+    spread_routes:
+      - route_id: tb-out-of-africa
+        from_label: Early African human populations
+        to_label: Eurasian settlement zones
+        from_coordinates: [25.0, 3.0]
+        to_coordinates: [35.0, 39.0]
+        date_or_era: Prehistory to Neolithic coexpansion
+        route_type: human_migration
+        confidence: moderate
+        narrative: Tuberculosis did not need empire to spread the first time; it rode with human movement and settlement long before modern surveillance existed.
+        citation_ids: [tb-comas, tb-handbook]
+      - route_id: tb-industrial-europe
+        from_label: Rural-to-urban migration
+        to_label: Industrial European and North American cities
+        from_coordinates: [7.0, 48.0]
+        to_coordinates: [-0.1, 51.5]
+        date_or_era: Eighteenth to twentieth centuries
+        route_type: crowding_and_industry
+        confidence: strong
+        narrative: "The white-plague map is a crowding map: factories, tenements, prisons, workhouses, and other poorly ventilated spaces turned tuberculosis into a signature disease of industrial inequality."
+        citation_ids: [tb-handbook, tb-white-plague]
+      - route_id: tb-migration-modern
+        from_label: High-burden transmission regions
+        to_label: Europe and North America migration and screening corridors
+        from_coordinates: [78.9, 22.0]
+        to_coordinates: [8.5, 50.0]
+        date_or_era: Contemporary era
+        route_type: migration_and_health_system
+        confidence: moderate
+        narrative: Modern tuberculosis geography is shaped by migration, HIV, drug resistance, and whether receiving health systems can diagnose and sustain treatment.
+        citation_ids: [tb-handbook, tb-migration, tb-who]
+    modern_echoes:
+      - A TB map is usually a map of crowding, incarceration, poverty, migration screening, and treatment failure rather than a map of dramatic emergence.
+      - MDR and XDR TB turn ordinary travel and migration corridors into policy flashpoints.
+    framing_traps:
+      - Do not write tuberculosis as a disease of the past just because its nineteenth-century urban iconography is familiar.
+      - Do not reduce TB geography to migrants while ignoring prisons, mines, homelessness, and weak treatment systems.
+    linked_reference_slug: ''
+    linked_story_ids: []
+    linked_blog_posts:
+      - title: "The White Plague Returns?: Tuberculosis and the Fragility of Public Health (The Pathogen Dispatch)"
+        url: https://theedgeofepidemiology.substack.com/p/the-white-plague-returns-tuberculosis
+        published_at: 2026-03-27
+        relation: deep_dive
+    citations:
+      - id: tb-handbook
+        short_citation: "Tuan JJ, Cox FEG, Bia FJ. Historical overview of global infectious diseases and geopolitics. In Routledge Handbook of Infectious Diseases: A Geographical Guide. 2025."
+        url: https://doi.org/10.4324/9781003531425
+        claim_supported: Historical burden, industrial-era spread, and geopolitical significance of tuberculosis.
+        note: Geography-first anchor source.
+      - id: tb-comas
+        short_citation: Comas I, Coscolla M, Luo T et al. Out-of-Africa migration and Neolithic coexpansion of Mycobacterium tuberculosis with modern humans. Nat Genet. 2013.
+        url: https://doi.org/10.1038/ng.2744
+        claim_supported: Deep origin and coexpansion framework for MTBC.
+        note: Core genomic origin paper.
+      - id: tb-migration
+        short_citation: Hargreaves S, Lönnroth K, Nellums LB et al. Multidrug-resistant tuberculosis and migration to Europe. Clin Microbiol Infect. 2017.
+        url: https://doi.org/10.1016/j.cmi.2017.02.010
+        claim_supported: Migration-linked modern European TB policy and MDR concerns.
+        note: Good modern route/policy bridge.
+      - id: tb-who
+        short_citation: "World Health Organization. Global tuberculosis report 2025."
+        url: https://www.who.int/teams/global-tuberculosis-programme/tb-reports
+        claim_supported: Contemporary burden and global control context.
+        note: Official baseline for current burden.
+      - id: tb-white-plague
+        short_citation: "Dubos R, Dubos J. The White Plague: Tuberculosis, Man, and Society. Rutgers University Press. 1952."
+        url: https://archive.org/details/whiteplaguetuber0000dubo
+        claim_supported: Industrial-era urban tuberculosis and social framing.
+        note: Historical context source for the white-plague period.
+    visual_asset_id: atlas-tuberculosis-hero
+
+  - slug: plague
+    name: Plague
+    subtitle: Steppe reservoirs, siege and shipping, and the repeated collision of rodents, fleas, and empire
+    status: mixed
+    pathogen_type: Bacterium
+    summary: Plague belongs in the atlas because it is one of the clearest historical demonstrations that reservoir ecology, trade corridors, warfare, and maritime ports can repeatedly rewire a continent.
+    why_it_matters: It lets the atlas bridge deep historical fear, genomic reconstruction, and the very practical map logic of rodents, fleas, and ports.
+    atlas_scope: Central Asian reservoir framing with Justinianic, Black Death, and third-pandemic routes
+    origin_claim:
+      label: Central Asian rodent-reservoir zone
+      coordinates: [74.0, 43.0]
+      date_or_era: Deep zoonotic reservoir history with repeated later human pandemic spillovers
+      confidence: moderate
+      narrative: The strongest broad frame places plague in Central Asian rodent reservoirs, with later eruptions into human trade and military networks rather than one single human-origin event.
+    spread_routes:
+      - route_id: plague-steppe-black-sea
+        from_label: Central Asian reservoir and caravan zones
+        to_label: Crimea and Black Sea trade ports
+        from_coordinates: [74.0, 43.0]
+        to_coordinates: [35.4, 45.0]
+        date_or_era: Fourteenth century pre-Black Death movement
+        route_type: caravan_and_port
+        confidence: moderate
+        narrative: Plague moved westward through overland and maritime trade interfaces before exploding into Mediterranean port cities.
+        citation_ids: [plague-handbook, plague-stenseth]
+      - route_id: plague-kaffa-mediterranean
+        from_label: Kaffa / Black Sea
+        to_label: Mediterranean ports and western Europe
+        from_coordinates: [35.4, 45.0]
+        to_coordinates: [12.3, 45.4]
+        date_or_era: 1347 to 1353 Black Death
+        route_type: maritime
+        confidence: strong
+        narrative: "The Black Death route remains the most famous plague map: port to port, ship to city, then inland through dense human settlement."
+        citation_ids: [plague-handbook, plague-bos, plague-stenseth]
+      - route_id: plague-third-pandemic
+        from_label: South China and Hong Kong
+        to_label: Bombay, San Francisco, Sydney, and other global ports
+        from_coordinates: [114.2, 22.3]
+        to_coordinates: [72.88, 19.08]
+        date_or_era: Late nineteenth to early twentieth century third pandemic
+        route_type: steamship_and_port
+        confidence: strong
+        narrative: The third pandemic made plague legible as a modern port disease moving through rats, ships, and urban infrastructure.
+        citation_ids: [plague-handbook, plague-stenseth, plague-third-pandemic]
+    modern_echoes:
+      - Plague still matters because reservoir ecology in places like Madagascar and the western United States can still produce real outbreaks.
+      - The modern lesson is less apocalypse than the durability of zoonotic reservoirs and infrastructural vulnerability.
+    framing_traps:
+      - Do not write every historical plague narrative as equally well established; the genomic and documentary evidence is uneven across pandemics.
+      - Do not turn plague into pure medieval theater and ignore reservoir ecology.
+    linked_reference_slug: ''
+    linked_story_ids: []
+    linked_blog_posts:
+      - title: Did the Vikings Bring Plague Across the North Sea? Norse Voyages, Infectious Disease, and the North Atlantic
+        url: https://theedgeofepidemiology.substack.com/p/did-the-vikings-bring-plague-across
+        published_at: 2026-04-01
+        relation: historical_essay
+    citations:
+      - id: plague-handbook
+        short_citation: "Tuan JJ, Cox FEG, Bia FJ. Historical overview of global infectious diseases and geopolitics. In Routledge Handbook of Infectious Diseases: A Geographical Guide. 2025."
+        url: https://doi.org/10.4324/9781003531425
+        claim_supported: Justinianic plague, Black Death, Greenland, and the later port-disease framing.
+        note: Geography-first historical synthesis.
+      - id: plague-stenseth
+        short_citation: "Stenseth NC, Atshabar BB, Begon M et al. Plague: Past, present, and future. PLoS Med. 2008."
+        url: https://doi.org/10.1371/journal.pmed.0050003
+        claim_supported: Reservoir ecology, transmission mechanisms, and long-run plague history.
+        note: Broad modern synthesis.
+      - id: plague-bos
+        short_citation: Bos KI, Schuenemann VJ, Golding GB et al. A draft genome of Yersinia pestis from victims of the Black Death. Nature. 2011.
+        url: https://doi.org/10.1038/nature10549
+        claim_supported: Genomic confirmation and modern reconstruction of Black Death plague.
+        note: Landmark ancient-DNA paper.
+      - id: plague-third-pandemic
+        short_citation: Frith J. The history of plague - Part 1. The three great pandemics. J Mil Vet Health. 2012.
+        url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3679557/
+        claim_supported: Third-pandemic port spread and the broader narrative of recurring plague waves.
+        note: Useful summary source for the later port era.
+    visual_asset_id: atlas-plague-hero

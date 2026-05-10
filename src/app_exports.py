@@ -398,8 +398,13 @@ def build_atlas_records(
     asset_by_id = {str(asset.get("asset_id")): dict(asset) for asset in visual_assets}
     atlas_records: list[dict[str, Any]] = []
 
-    for entry in atlas_entries:
-        record = json_safe_value(dict(entry))
+    def decorate_record(
+        raw_record: dict[str, Any],
+        *,
+        atlas_slug: str,
+        attach_reference: bool,
+    ) -> dict[str, Any]:
+        record = json_safe_value(dict(raw_record))
         reference = reference_by_slug.get(record.get("linked_reference_slug", ""))
         linked_stories = [
             {
@@ -425,7 +430,10 @@ def build_atlas_records(
             else "not_yet_written"
         )
         record["writing_state"] = writing_state
-        record["atlas_url"] = f"atlas.html?pathogen={record['slug']}"
+        variant_suffix = ""
+        if record.get("slug") and record.get("slug") != atlas_slug:
+            variant_suffix = f"&variant={record['slug']}"
+        record["atlas_url"] = f"atlas.html?pathogen={atlas_slug}{variant_suffix}"
         record["reference_name"] = reference.get("name", "") if reference else ""
         record["reference_url"] = reference.get("reference_url", "") if reference else ""
         record["reference_web_path"] = reference.get("reference_web_path", "") if reference else ""
@@ -434,11 +442,21 @@ def build_atlas_records(
         record["citation_count"] = len(record.get("citations", []))
         record["route_count"] = len(record.get("spread_routes", []))
         record["visual_asset"] = asset_by_id.get(str(record.get("visual_asset_id", "")), {})
-        if reference is not None:
-            reference["atlas_entry_slug"] = record["slug"]
-            reference["atlas_url"] = record["atlas_url"]
+        if attach_reference and reference is not None:
+            reference["atlas_entry_slug"] = atlas_slug
+            reference["atlas_url"] = f"atlas.html?pathogen={atlas_slug}"
             reference["atlas_status"] = record.get("status", "mixed")
-            reference["atlas_summary"] = record.get("summary", "")
+            reference["atlas_summary"] = raw_record.get("summary", "")
+        return record
+
+    for entry in atlas_entries:
+        record = decorate_record(entry, atlas_slug=entry["slug"], attach_reference=True)
+        variants = [
+            decorate_record(variant, atlas_slug=entry["slug"], attach_reference=False)
+            for variant in entry.get("variants", [])
+        ]
+        record["variants"] = variants
+        record["variant_count"] = len(variants)
         atlas_records.append(record)
 
     return atlas_records
