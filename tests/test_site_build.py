@@ -316,8 +316,9 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     atlas_html_text = (deploy_dir / "atlas.html").read_text()
     assert "file:///" not in latest_html_text
     assert "file:///" not in atlas_html_text
-    assert "reference/measles.html" in atlas_html_text
-    assert "stories/story_1-measles-transmission-and-vaccination.html" in atlas_html_text
+    assert "/atlases/pathogen/" in atlas_html_text
+    assert "window.location.search" in atlas_html_text
+    assert "window.location.hash" in atlas_html_text
     assert "public-live-update-banner" in latest_html_text
     assert "./app_exports/manifest.json" in latest_html_text
     assert "Load latest" in latest_html_text

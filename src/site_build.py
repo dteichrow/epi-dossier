@@ -350,6 +350,8 @@ def write_public_surfaces(
             encoding="utf-8",
         )
 
+    (docs_root / "atlas.html").write_text(render_legacy_atlas_redirect_html(), encoding="utf-8")
+
     archive_index_path = docs_archive_index_filename(deploy_dir)
     archive_index_path.parent.mkdir(parents=True, exist_ok=True)
     archive_index_path.write_text(
@@ -357,6 +359,53 @@ def write_public_surfaces(
         encoding="utf-8",
     )
     write_public_exports(publication_snapshot, archive_payload, deploy_dir)
+
+
+def render_legacy_atlas_redirect_html() -> str:
+    return """<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Redirecting to Pathogen Atlas</title>
+    <meta http-equiv="refresh" content="0; url=/atlases/pathogen/" />
+    <script>
+      (function () {
+        const target = new URL("/atlases/pathogen/", window.location.origin);
+        target.search = window.location.search;
+        target.hash = window.location.hash;
+        window.location.replace(target.toString());
+      })();
+    </script>
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: #f7f2e8;
+        color: #1f2f42;
+        font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+      }
+      main {
+        max-width: 38rem;
+        padding: 2rem;
+        text-align: center;
+      }
+      a {
+        color: #1f5b89;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Redirecting to the Pathogen Atlas</h1>
+      <p>The public atlas now lives in the unified Edge of Epidemiology site.</p>
+      <p><a href="/atlases/pathogen/">Continue to the atlas</a></p>
+    </main>
+  </body>
+</html>
+"""
 
 
 def rewrite_local_reader_links(html_text: str, relative_prefix: str) -> str:
