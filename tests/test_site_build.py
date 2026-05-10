@@ -97,6 +97,7 @@ def test_site_build_writes_story_reference_and_index_files(tmp_path, monkeypatch
     assert reference_path.exists()
     assert index_path.exists()
     assert latest_html.exists()
+    assert (latest_html.parent / "notebook.html").exists()
 
 
 def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch):
@@ -222,6 +223,7 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
 
     assert site_build.main(["--date", "2026-05-07", "--output-mode", "both", "--deploy-dir", str(deploy_dir)]) == 0
     assert (deploy_dir / "index.html").exists()
+    assert (deploy_dir / "notebook.html").exists()
     assert (deploy_dir / "watch.html").exists()
     assert (deploy_dir / "research.html").exists()
     assert (deploy_dir / "stories" / "story_1-measles-transmission-and-vaccination.html").exists()
@@ -245,6 +247,9 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     assert "Keep reading" in public_story_text
     research_text = (deploy_dir / "research.html").read_text()
     assert "Latest Papers And Preprints" in research_text
+    notebook_text = (deploy_dir / "notebook.html").read_text()
+    assert "Call Sheet" in notebook_text
+    assert "Questions To Chase" in notebook_text
 
 
 def test_site_build_preserves_existing_reader_html_when_reader_guard_blocks(tmp_path, monkeypatch):

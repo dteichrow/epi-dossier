@@ -11,6 +11,7 @@ from .main import parse_target_date, run_once
 from .render_html import validate_reader_story_sections
 from .render_site import (
     items_for_edition,
+    render_notebook_page,
     render_public_archive_page,
     render_public_desk_page,
     render_public_homepage,
@@ -191,6 +192,17 @@ def write_local_surfaces(
             publication_snapshot,
             archive_payload,
             reference_records,
+        ),
+        encoding="utf-8",
+    )
+    (payload["paths"]["latest_html"].parent / "notebook.html").write_text(
+        render_notebook_page(
+            "Reporter's Notebook",
+            "A working layer for reporters: what to ask next, which numbers matter, and which framing traps to avoid before writing.",
+            story_records,
+            reference_records,
+            archive_payload,
+            web_mode=False,
         ),
         encoding="utf-8",
     )
@@ -576,6 +588,8 @@ def inject_public_live_update_support(
 
 
 def related_references_for_edition(reference_records: list[dict[str, Any]], edition_key: str) -> list[dict[str, Any]]:
+    if edition_key == "notebook":
+        return reference_records[:10]
     return [reference for reference in reference_records if edition_key in reference.get("editions", [])][:6] or reference_records[:4]
 
 

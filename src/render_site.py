@@ -260,6 +260,7 @@ def render_site_index(
     archive_entries: list[dict[str, Any]],
     reference_records: list[dict[str, Any]],
 ) -> str:
+    notebook_entries = build_notebook_entries(latest_snapshot.get("stories", []), reference_records)
     story_cards = "".join(
         f'<article class="site-card"><div class="kicker">Active outbreak file</div><h3><a href="{escape_attr(story["story_url"])}">{escape(story["display_title"])}</a></h3><p><strong>Status:</strong> {escape(story.get("current_status_summary", "Unknown"))}</p><p>{escape(story.get("latest_update_summary", ""))}</p></article>'
         for story in latest_snapshot.get("stories", [])[:10]
@@ -272,6 +273,7 @@ def render_site_index(
         f'<li><a href="{escape_attr(entry["html_url"])}">{escape(entry["date"])}</a></li>'
         for entry in archive_entries[:14]
     )
+    notebook_cards = "".join(render_notebook_teaser_card(entry, web_mode=False, link_prefix="./") for entry in notebook_entries[:4]) or '<p class="empty-note">No notebook assignments are available in the current snapshot.</p>'
     return f"""<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -291,10 +293,17 @@ def render_site_index(
       {render_page_section_nav(
           [
               ("Active Outbreak Files", "#active-outbreak-files"),
+              ("Reporter's Notebook", "#reporters-notebook"),
               ("Disease Reference Directory", "#disease-reference-directory"),
               ("Recent Archive Days", "#recent-archive-days"),
           ]
       )}
+      <section class="panel" id="reporters-notebook">
+        <h2>Reporter's Notebook</h2>
+        <p class="muted-note">What to ask next, what numbers matter, and what framing mistakes to avoid before you write.</p>
+        <p><a class="link-pill" href="./notebook.html">Open the full notebook</a></p>
+        <div class="card-grid">{notebook_cards}</div>
+      </section>
       <section class="panel-grid">
         <section class="panel" id="active-outbreak-files">
           <h2>Active Outbreak Files</h2>
@@ -327,10 +336,12 @@ def render_public_homepage(
     research_items = items_for_edition(latest_snapshot.get("items", []), "research")[:6]
     reference_spotlight = [record for record in reference_records if record.get("spotlight")] or reference_records[:6]
     archive_cards = archive_entries[:10]
+    notebook_entries = build_notebook_entries(latest_snapshot.get("stories", []), reference_records)
 
     lead_story_cards = "".join(render_public_story_card(story, link_prefix="./") for story in lead_stories) or '<p class="empty-note">No active outbreak files are available in this run.</p>'
     changed_cards = "".join(render_public_item_card(item) for item in changed_today) or '<p class="empty-note">No major changed items were surfaced in this run.</p>'
     watch_cards = "".join(render_public_item_card(item) for item in watch_followups) or '<p class="empty-note">No additional watch items were surfaced in this run.</p>'
+    notebook_cards = "".join(render_notebook_teaser_card(entry, web_mode=True, link_prefix="./") for entry in notebook_entries[:4]) or '<p class="empty-note">No notebook assignments were generated in this run.</p>'
     research_cards = "".join(render_public_research_card(item) for item in research_items) or '<p class="empty-note">No research-linked items were surfaced in this run.</p>'
     reference_cards = "".join(render_public_reference_card(reference, link_prefix="./") for reference in reference_spotlight) or '<p class="empty-note">No reference sheets were spotlighted in this run.</p>'
     archive_rows = "".join(render_public_archive_row(entry, link_prefix="./") for entry in archive_cards) or '<p class="empty-note">No archive days are available yet.</p>'
@@ -359,7 +370,7 @@ def render_public_homepage(
           <span class="badge">Updated {escape(latest_snapshot.get("generated_at", "Unknown"))}</span>
         </div>
       </section>
-      {render_page_section_nav([("Lead Outbreak Files", "#lead-outbreak-files"), ("What Changed Today", "#what-changed-today"), ("Global Watch", "#global-watch"), ("Research + Reference", "#research-reference"), ("Archive + Backfile", "#archive-backfile")])}
+      {render_page_section_nav([("Lead Outbreak Files", "#lead-outbreak-files"), ("What Changed Today", "#what-changed-today"), ("Reporter's Notebook", "#reporters-notebook"), ("Global Watch", "#global-watch"), ("Research + Reference", "#research-reference"), ("Archive + Backfile", "#archive-backfile")])}
       <section class="panel" id="lead-outbreak-files">
         <h2>Lead Outbreak Files</h2>
         <p class="muted-note">The core live files that deserve attention before the wider desk.</p>
@@ -369,6 +380,12 @@ def render_public_homepage(
         <h2>What Changed Today</h2>
         <p class="muted-note">New developments that move the reporting picture rather than simply repeat it.</p>
         <div class="card-grid">{changed_cards}</div>
+      </section>
+      <section class="panel" id="reporters-notebook">
+        <h2>Reporter's Notebook</h2>
+        <p class="muted-note">A working layer for reporters: what to ask next, which numbers matter, and which framing traps to avoid before you write.</p>
+        <p><a class="link-pill" href="./notebook.html">Open the full notebook</a></p>
+        <div class="card-grid">{notebook_cards}</div>
       </section>
       <section class="panel" id="global-watch">
         <h2>Global Watch</h2>
@@ -408,6 +425,17 @@ def render_public_desk_page(
     current_run_id: str = "",
     current_generated_at: str = "",
 ) -> str:
+    if active_page == "notebook":
+        return render_notebook_page(
+            title,
+            description,
+            stories,
+            reference_records,
+            archive_entries,
+            web_mode=True,
+            current_run_id=current_run_id,
+            current_generated_at=current_generated_at,
+        )
     if active_page == "research":
         return render_public_research_page(
             title,
@@ -539,8 +567,358 @@ def render_public_research_page(
     </main>
     <script>{live_update_js}</script>
   </body>
+    </html>
+"""
+
+
+def render_notebook_page(
+    title: str,
+    description: str,
+    stories: list[dict[str, Any]],
+    reference_records: list[dict[str, Any]],
+    archive_entries: list[dict[str, Any]],
+    *,
+    web_mode: bool,
+    current_run_id: str = "",
+    current_generated_at: str = "",
+) -> str:
+    notebook_entries = build_notebook_entries(stories, reference_records)
+    notebook_reference_cards = "".join(
+        render_notebook_reference_card(reference, web_mode=web_mode, link_prefix="./")
+        for reference in collect_notebook_references(notebook_entries)[:8]
+    ) or '<p class="empty-note">No linked disease sheets were attached to the current notebook run.</p>'
+    call_sheet_cards = "".join(
+        render_notebook_call_card(entry, web_mode=web_mode, link_prefix="./") for entry in notebook_entries
+    ) or '<p class="empty-note">No active outbreak files are available for the notebook right now.</p>'
+    question_cards = "".join(render_notebook_question_card(entry) for entry in notebook_entries) or '<p class="empty-note">No reporting questions were generated in this run.</p>'
+    metric_cards = "".join(render_notebook_metric_card(entry) for entry in notebook_entries) or '<p class="empty-note">No metrics were generated in this run.</p>'
+    trap_cards = "".join(render_notebook_trap_card(entry) for entry in notebook_entries) or '<p class="empty-note">No framing traps were generated in this run.</p>'
+    archive_rows = "".join(render_notebook_archive_row(entry, web_mode=web_mode, link_prefix="./") for entry in archive_entries[:8]) or '<p class="empty-note">No archive days are available yet.</p>'
+    live_update_banner = render_live_update_banner() if web_mode else ""
+    live_update_js = live_update_script("./app_exports/manifest.json", current_run_id, current_generated_at) if web_mode else ""
+    nav_mode = "web" if web_mode else "local"
+    return f"""<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{escape(title)} | The Pathogen Dispatch</title>
+    <style>{base_styles()}</style>
+  </head>
+  <body>
+    <main class="page">
+      {render_site_header_mode("./", nav_mode=nav_mode, active_page="notebook")}
+      {live_update_banner}
+      <section class="hero" id="desk-top">
+        <p class="kicker">Working layer</p>
+        <h1>{escape(title)}</h1>
+        <p class="subtitle">{escape(description)}</p>
+        <div class="meta-row"><span class="badge accent">{len(notebook_entries)} active assignment(s)</span><span class="badge">{len(collect_notebook_references(notebook_entries))} linked disease sheet(s)</span></div>
+      </section>
+      {render_page_section_nav([("Call Sheet", "#call-sheet"), ("Questions To Chase", "#questions-to-chase"), ("Numbers To Watch", "#numbers-to-watch"), ("Framing Traps", "#framing-traps"), ("Disease Sheets", "#disease-sheets"), ("Archive", "#archive-links")])}
+      <section class="panel" id="call-sheet">
+        <h2>Call Sheet</h2>
+        <p class="muted-note">The current live files, why they matter, and the next move that would make the reporting stronger.</p>
+        <div class="story-grid">{call_sheet_cards}</div>
+      </section>
+      <section class="panel" id="questions-to-chase">
+        <h2>Questions To Chase</h2>
+        <p class="muted-note">The fastest routes to turning the current story stack into a cleaner reported file.</p>
+        <div class="card-grid">{question_cards}</div>
+      </section>
+      <section class="panel-grid">
+        <section class="panel" id="numbers-to-watch">
+          <h2>Numbers To Watch</h2>
+          <div class="card-grid">{metric_cards}</div>
+        </section>
+        <section class="panel" id="framing-traps">
+          <h2>Framing Traps</h2>
+          <div class="card-grid">{trap_cards}</div>
+        </section>
+      </section>
+      <section class="panel-grid">
+        <section class="panel" id="disease-sheets">
+          <h2>Disease Sheets</h2>
+          <div class="card-grid">{notebook_reference_cards}</div>
+        </section>
+        <section class="panel" id="archive-links">
+          <h2>Recent Archive Days</h2>
+          <div class="archive-table">{archive_rows}</div>
+        </section>
+      </section>
+    </main>
+    {f'<script>{live_update_js}</script>' if live_update_js else ''}
+  </body>
 </html>
 """
+
+
+def build_notebook_entries(stories: list[dict[str, Any]], reference_records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    reference_lookup = {reference.get("name", ""): reference for reference in reference_records}
+    entries: list[dict[str, Any]] = []
+    for story in stories:
+        linked_references = []
+        for reference_stub in story.get("related_references", []):
+            name = str(reference_stub.get("name", ""))
+            linked_references.append(reference_lookup.get(name, reference_stub))
+        entries.append(
+            {
+                "story": story,
+                "references": linked_references,
+                "next_move": notebook_next_move(story, linked_references),
+                "questions": notebook_reporting_questions(story, linked_references),
+                "metrics": notebook_reporting_metrics(story, linked_references),
+                "traps": notebook_framing_traps(story, linked_references),
+                "care_note": notebook_care_note(story, linked_references),
+            }
+        )
+    return entries
+
+
+def collect_notebook_references(entries: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    seen: set[str] = set()
+    ordered: list[dict[str, Any]] = []
+    for entry in entries:
+        for reference in entry.get("references", []):
+            name = str(reference.get("name", "")).strip()
+            if not name or name in seen:
+                continue
+            seen.add(name)
+            ordered.append(reference)
+    return ordered
+
+
+def notebook_story_href(story: dict[str, Any], *, web_mode: bool, link_prefix: str) -> str:
+    if web_mode:
+        story_web_path = normalize_whitespace(str(story.get("story_web_path", "")))
+        if story_web_path:
+            return f"{link_prefix}{story_web_path}"
+    return str(story.get("story_url") or "")
+
+
+def notebook_reference_href(reference: dict[str, Any], *, web_mode: bool, link_prefix: str) -> str:
+    if web_mode:
+        reference_web_path = normalize_whitespace(str(reference.get("reference_web_path", "")))
+        if reference_web_path:
+            return f"{link_prefix}{reference_web_path}"
+    return str(reference.get("reference_url") or "")
+
+
+def notebook_archive_href(entry: dict[str, Any], *, web_mode: bool, link_prefix: str) -> str:
+    if web_mode:
+        archive_web_path = normalize_whitespace(str(entry.get("html_web_path", "")))
+        if archive_web_path:
+            return f"{link_prefix}{archive_web_path}"
+    return str(entry.get("html_url") or "")
+
+
+def notebook_care_note(story: dict[str, Any], references: list[dict[str, Any]]) -> str:
+    for reference in references:
+        note = normalize_whitespace(str(reference.get("why_reporters_care", "")))
+        if note:
+            return note
+    return normalize_whitespace(str(story.get("why_it_matters", "This file remains useful because the outbreak is still moving.")))
+
+
+def notebook_next_move(story: dict[str, Any], references: list[dict[str, Any]]) -> str:
+    claim_types = set(story.get("claim_types", []))
+    official_count = len(story.get("official_item_ids", []))
+    metadata_count = int((story.get("source_kind_counts") or {}).get("metadata_only_signal", 0))
+    if official_count == 0:
+        return "Get a direct official confirmation or denial before the next write-through."
+    if "transmission_change" in claim_types:
+        return "Pin down whether the transmission language reflects evidence, concern, or pure precaution."
+    if "policy_or_travel" in claim_types:
+        return "Separate the operational move from the underlying epidemiology before you frame the story."
+    if "suspected_case" in claim_types and "confirmed_case" in claim_types:
+        return "Keep the suspected and confirmed lines clean, and find out what testing still has not come back."
+    if "new_geography" in claim_types:
+        return "Figure out whether the new place is a site of transmission, a site of care, or simply a site of detection."
+    if metadata_count >= max(4, official_count + 3):
+        return "Push past the thin metadata layer and anchor the story to at least one fully reported or direct-source piece."
+    if references and normalize_whitespace(str(references[0].get("surveillance_note", ""))):
+        return normalize_whitespace(str(references[0]["surveillance_note"]))
+    return "Compare the newest follow-up against the first official line and isolate what actually changed."
+
+
+def notebook_reporting_questions(story: dict[str, Any], references: list[dict[str, Any]]) -> list[str]:
+    claim_types = set(story.get("claim_types", []))
+    official_count = len(story.get("official_item_ids", []))
+    metadata_count = int((story.get("source_kind_counts") or {}).get("metadata_only_signal", 0))
+    questions = []
+    if official_count == 0:
+        questions.append("Which public-health or government source has still not spoken on the record, and who should be pressed first?")
+    else:
+        questions.append("What does the official source actually confirm, and where are follow-up reports going beyond that line?")
+    if "suspected_case" in claim_types:
+        questions.append("How many cases are still suspected, under what case definition, and when will testing resolve them?")
+    if "confirmed_case" in claim_types:
+        questions.append("How many cases are laboratory confirmed, by which assay, and how recent is that count?")
+    if "severity_or_death" in claim_types:
+        questions.append("How many hospitalizations, ICU admissions, or deaths are confirmed, and do they cluster in one exposure group?")
+    if "transmission_change" in claim_types:
+        questions.append("Is there evidence of human-to-human spread, or only precautionary language around the possibility?")
+    if "policy_or_travel" in claim_types:
+        questions.append("What operational change actually took effect: evacuation, quarantine, travel notice, screening, or something narrower?")
+    if "new_geography" in claim_types:
+        questions.append("Is the new geography a place of transmission, a place of care, or just where exposed travelers were identified?")
+    if metadata_count:
+        questions.append("Which of today's links are still thin metadata signals, and what direct or fully reported piece should anchor the file instead?")
+    return unique_notebook_lines(questions, limit=6)
+
+
+def notebook_reporting_metrics(story: dict[str, Any], references: list[dict[str, Any]]) -> list[str]:
+    metrics: list[str] = []
+    for reference in references:
+        metrics.extend(reference.get("metrics_that_matter", []))
+    if not metrics:
+        claim_types = set(story.get("claim_types", []))
+        if "confirmed_case" in claim_types:
+            metrics.append("Confirmed case counts by report date and jurisdiction, not just the biggest headline total.")
+        if "suspected_case" in claim_types:
+            metrics.append("Suspected versus ruled-out counts, because early rumor totals drift fast.")
+        if "severity_or_death" in claim_types:
+            metrics.append("Severity markers such as hospitalization, ICU care, shock, ventilation, or deaths.")
+        if "transmission_change" in claim_types:
+            metrics.append("Exposure chains, close-contact links, and whether secondary transmission is actually documented.")
+        if "policy_or_travel" in claim_types:
+            metrics.append("How many people are subject to evacuation, quarantine, travel guidance, or monitoring, and for how long.")
+        if "new_geography" in claim_types:
+            metrics.append("Whether the geography count reflects new transmission, imported detection, or patient transfer.")
+    return unique_notebook_lines(metrics, limit=3)
+
+
+def notebook_framing_traps(story: dict[str, Any], references: list[dict[str, Any]]) -> list[str]:
+    traps: list[str] = [str(reference.get("what_reporters_get_wrong", "")) for reference in references if reference.get("what_reporters_get_wrong")]
+    claim_types = set(story.get("claim_types", []))
+    metadata_count = int((story.get("source_kind_counts") or {}).get("metadata_only_signal", 0))
+    if "new_geography" in claim_types:
+        traps.append("Do not confuse place of care, evacuation, or detection with place of transmission.")
+    if "suspected_case" in claim_types and "confirmed_case" in claim_types:
+        traps.append("Do not blur suspected and confirmed cases in the headline or lead.")
+    if "policy_or_travel" in claim_types:
+        traps.append("Do not treat evacuation, quarantine, or travel action as automatic proof that the underlying epidemiology has worsened.")
+    if metadata_count:
+        traps.append("Do not let thin metadata-only follow-ups outrun what direct or fully reported sources actually establish.")
+    if not traps:
+        traps.append("Do not let the newest angle bury the basic accounting of who is confirmed, where exposure happened, and what officials have actually said.")
+    return unique_notebook_lines(traps, limit=3)
+
+
+def unique_notebook_lines(values: list[str], *, limit: int) -> list[str]:
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for value in values:
+        cleaned = normalize_whitespace(str(value))
+        if not cleaned:
+            continue
+        if cleaned in seen:
+            continue
+        seen.add(cleaned)
+        ordered.append(cleaned)
+        if len(ordered) >= limit:
+            break
+    return ordered
+
+
+def render_notebook_call_card(entry: dict[str, Any], *, web_mode: bool, link_prefix: str) -> str:
+    story = entry["story"]
+    href = notebook_story_href(story, web_mode=web_mode, link_prefix=link_prefix)
+    badges = [
+        f'<span class="badge accent">{story.get("item_count", 0)} item(s)</span>',
+        f'<span class="badge">{story.get("source_count", 0)} source(s)</span>',
+    ]
+    for label in [story.get("current_status_summary", ""), story.get("primary_region", ""), story.get("country", "")]:
+        if label:
+            badges.append(f'<span class="badge">{escape(label)}</span>')
+    reference_links = "".join(
+        f'<a class="link-pill" href="{escape_attr(notebook_reference_href(reference, web_mode=web_mode, link_prefix=link_prefix))}">Field guide: {escape(reference.get("name", ""))}</a>'
+        for reference in entry.get("references", [])[:2]
+    )
+    return (
+        '<article class="site-card feature-card">'
+        '<div class="kicker">Call sheet</div>'
+        f'<h3><a href="{escape_attr(href)}">{escape(story.get("display_title", ""))}</a></h3>'
+        f'<p>{escape(entry.get("care_note", ""))}</p>'
+        f'<p><strong>Next move:</strong> {escape(entry.get("next_move", ""))}</p>'
+        f'<p>{escape(story.get("latest_update_summary", ""))}</p>'
+        f'<div class="meta-row">{"".join(badges)}</div>'
+        f'{f"<div class=\"meta-row\">{reference_links}</div>" if reference_links else ""}'
+        '</article>'
+    )
+
+
+def render_notebook_question_card(entry: dict[str, Any]) -> str:
+    story = entry["story"]
+    bullets = "".join(f"<li>{escape(question)}</li>" for question in entry.get("questions", [])) or "<li>No reporting questions were generated yet.</li>"
+    return (
+        '<article class="site-card">'
+        '<div class="kicker">Questions to chase</div>'
+        f'<h3>{escape(story.get("display_title", ""))}</h3>'
+        f'<ul class="bullet-list">{bullets}</ul>'
+        '</article>'
+    )
+
+
+def render_notebook_metric_card(entry: dict[str, Any]) -> str:
+    story = entry["story"]
+    bullets = "".join(f"<li>{escape(metric)}</li>" for metric in entry.get("metrics", [])) or "<li>No metrics were generated yet.</li>"
+    return (
+        '<article class="site-card">'
+        '<div class="kicker">Numbers to watch</div>'
+        f'<h3>{escape(story.get("display_title", ""))}</h3>'
+        f'<ul class="bullet-list">{bullets}</ul>'
+        '</article>'
+    )
+
+
+def render_notebook_trap_card(entry: dict[str, Any]) -> str:
+    story = entry["story"]
+    bullets = "".join(f"<li>{escape(trap)}</li>" for trap in entry.get("traps", [])) or "<li>No framing traps were generated yet.</li>"
+    return (
+        '<article class="site-card">'
+        '<div class="kicker">Framing trap</div>'
+        f'<h3>{escape(story.get("display_title", ""))}</h3>'
+        f'<ul class="bullet-list">{bullets}</ul>'
+        '</article>'
+    )
+
+
+def render_notebook_reference_card(reference: dict[str, Any], *, web_mode: bool, link_prefix: str) -> str:
+    href = notebook_reference_href(reference, web_mode=web_mode, link_prefix=link_prefix)
+    metrics = "".join(f"<li>{escape(metric)}</li>" for metric in reference.get("metrics_that_matter", [])[:2])
+    return (
+        '<article class="site-card">'
+        '<div class="kicker">Disease sheet</div>'
+        f'<h3><a href="{escape_attr(href)}">{escape(reference.get("name", ""))}</a></h3>'
+        f'<p>{escape(reference.get("why_reporters_care", ""))}</p>'
+        f'{f"<ul class=\"bullet-list\">{metrics}</ul>" if metrics else ""}'
+        '</article>'
+    )
+
+
+def render_notebook_archive_row(entry: dict[str, Any], *, web_mode: bool, link_prefix: str) -> str:
+    href = notebook_archive_href(entry, web_mode=web_mode, link_prefix=link_prefix)
+    return (
+        '<article class="archive-row">'
+        f'<a href="{escape_attr(href)}"><strong>{escape(entry.get("date", ""))}</strong></a>'
+        f'<span class="archive-row-meta">{escape(entry.get("month_name", ""))} {escape(str(entry.get("year", "")))}</span>'
+        '</article>'
+    )
+
+
+def render_notebook_teaser_card(entry: dict[str, Any], *, web_mode: bool, link_prefix: str) -> str:
+    story = entry["story"]
+    href = notebook_story_href(story, web_mode=web_mode, link_prefix=link_prefix)
+    first_question = next(iter(entry.get("questions", [])), "")
+    return (
+        '<article class="site-card">'
+        '<div class="kicker">Notebook line</div>'
+        f'<h3><a href="{escape_attr(href)}">{escape(story.get("display_title", ""))}</a></h3>'
+        f'<p><strong>Next move:</strong> {escape(entry.get("next_move", ""))}</p>'
+        f'{f"<p><strong>Question:</strong> {escape(first_question)}</p>" if first_question else ""}'
+        '</article>'
+    )
 
 
 def render_public_archive_page(
@@ -1161,6 +1539,7 @@ def render_site_header_mode(base_path: str, *, nav_mode: str, active_page: str) 
     if nav_mode == "web":
         nav_items = [
             ("home", "Home", f"{base_path}index.html"),
+            ("notebook", "Notebook", f"{base_path}notebook.html"),
             ("watch", "Global watch", f"{base_path}watch.html"),
             ("africa", "Africa", f"{base_path}africa.html"),
             ("asia", "Asia", f"{base_path}asia.html"),
@@ -1174,6 +1553,7 @@ def render_site_header_mode(base_path: str, *, nav_mode: str, active_page: str) 
             ("briefing", "Latest briefing", f"{base_path}latest.html#view-briefing"),
             ("tracking", "Global watch", f"{base_path}latest.html#view-tracking"),
             ("reference", "Research + reference", f"{base_path}latest.html#view-reference"),
+            ("notebook", "Notebook", f"{base_path}notebook.html"),
             ("archive", "Archive + backfile", f"{base_path}latest.html#view-archive"),
             ("index", "Site index", f"{base_path}index.html"),
         ]

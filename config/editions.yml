@@ -6,6 +6,13 @@ editions:
     max_items: 8
     max_stories: 4
 
+  - key: notebook
+    label: Reporter's Notebook
+    page: notebook.html
+    description: "A working layer for reporters: what to ask next, which numbers matter, and which framing traps to avoid before writing."
+    max_items: 24
+    max_stories: 8
+
   - key: watch
     label: Global Watch
     page: watch.html

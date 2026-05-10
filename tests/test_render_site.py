@@ -468,6 +468,80 @@ def test_render_public_research_page_uses_research_specific_sections():
     assert "./app_exports/manifest.json" in content
 
 
+def test_render_public_notebook_page_builds_reporting_layers():
+    stories = [
+        {
+            "story_id": "story_hanta",
+            "display_title": "Hantavirus and cruise-ship outbreak",
+            "story_web_path": "stories/story_hanta.html",
+            "status": "expanding_coverage",
+            "current_status_summary": "Expanding coverage",
+            "claim_types": [
+                "suspected_case",
+                "confirmed_case",
+                "policy_or_travel",
+                "new_geography",
+            ],
+            "latest_update_summary": "6 newly observed linked item(s) were added since the last saved snapshot.",
+            "why_it_matters": "This story has both official follow-up and broad publisher corroboration.",
+            "item_count": 12,
+            "source_count": 8,
+            "official_item_ids": ["official_1"],
+            "press_item_ids": ["press_1", "press_2"],
+            "source_kind_counts": {"metadata_only_signal": 5},
+            "primary_region": "Global / Maritime",
+            "country": "Spain",
+            "related_references": [
+                {
+                    "name": "Hantavirus syndrome",
+                    "reference_web_path": "reference/hantavirus-syndrome.html",
+                }
+            ],
+        }
+    ]
+    references = [
+        {
+            "name": "Hantavirus syndrome",
+            "reference_web_path": "reference/hantavirus-syndrome.html",
+            "pathogen": "Hantaviruses",
+            "why_reporters_care": "A rare but severe cluster can force rapid questions about exposure and spread.",
+            "what_reporters_get_wrong": "Coverage often blurs classic rodent exposure with the much rarer Andes-style person-to-person concern.",
+            "metrics_that_matter": [
+                "Confirmed versus suspected cases.",
+                "Whether exposure points to rodents or close-contact transmission.",
+            ],
+            "surveillance_note": "Useful for rare severe respiratory clusters with rodent ecology or unusual travel-linked spread.",
+        }
+    ]
+    archive_entries = [{"date": "2026-05-09", "month_name": "May", "year": 2026, "html_web_path": "2026/05/2026-05-09.html"}]
+
+    content = render_public_desk_page(
+        "Reporter's Notebook",
+        "A working layer for reporters: what to ask next, which numbers matter, and which framing traps to avoid before writing.",
+        "notebook",
+        stories,
+        [],
+        references,
+        archive_entries,
+        current_run_id="run_1",
+        current_generated_at="2026-05-09T06:30:00",
+    )
+
+    assert "Call Sheet" in content
+    assert "Questions To Chase" in content
+    assert "Numbers To Watch" in content
+    assert "Framing Traps" in content
+    assert "Disease Sheets" in content
+    assert "Next move:" in content
+    assert "Confirmed versus suspected cases." in content
+    assert "Do not blur suspected and confirmed cases in the headline or lead." in content
+    assert "Which of today's links are still thin metadata signals" in content
+    assert "stories/story_hanta.html" in content
+    assert "reference/hantavirus-syndrome.html" in content
+    assert "Tracked Files" not in content
+    assert "Latest Signals" not in content
+
+
 def test_render_reference_page_renders_curated_fields_and_links():
     reference = {
         "name": "Measles",
