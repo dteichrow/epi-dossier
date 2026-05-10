@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import html
+import json
 from collections import defaultdict
 from datetime import date, datetime
 import re
@@ -164,6 +165,11 @@ def render_reference_page(
     notable = "".join(f"<li>{escape(item)}</li>" for item in reference.get("notable_outbreaks", []))
     metrics = "".join(f"<li>{escape(item)}</li>" for item in reference.get("metrics_that_matter", []))
     latest = reference.get("latest_outbreak", {})
+    atlas_link = (
+        f'<a class="link-pill" href="../atlas.html?pathogen={escape_attr(reference.get("atlas_entry_slug", ""))}">View in Atlas</a>'
+        if reference.get("atlas_entry_slug")
+        else ""
+    )
     related_story_cards = "".join(
         render_related_story_card(story, web_mode=web_mode, link_prefix="../") for story in reference.get("related_stories", [])
     ) or '<p class="empty-note">No active tracked stories are linked to this disease in the current run.</p>'
@@ -191,6 +197,7 @@ def render_reference_page(
         <h1>{escape(reference.get("name", "Reference"))}</h1>
         <p class="subtitle">Curated desk background for reporters who need the pathogen, transmission, and outbreak frame fast.</p>
         <div class="meta-row">{categories}{settings}</div>
+        {f'<div class="meta-row">{atlas_link}</div>' if atlas_link else ''}
         <p><strong>Pathogen / agent:</strong> {escape(reference.get("pathogen", "Unknown"))}</p>
         <p><strong>Transmission:</strong> {escape(reference.get("transmission", "Unknown"))}</p>
         {optional_line("Reservoir / vector", reference.get("reservoir_or_vector"))}
@@ -261,6 +268,7 @@ def render_site_index(
     reference_records: list[dict[str, Any]],
 ) -> str:
     notebook_entries = build_notebook_entries(latest_snapshot.get("stories", []), reference_records)
+    atlas_entries = latest_snapshot.get("atlas", [])[:4]
     story_cards = "".join(
         f'<article class="site-card"><div class="kicker">Active outbreak file</div><h3><a href="{escape_attr(story["story_url"])}">{escape(story["display_title"])}</a></h3><p><strong>Status:</strong> {escape(story.get("current_status_summary", "Unknown"))}</p><p>{escape(story.get("latest_update_summary", ""))}</p></article>'
         for story in latest_snapshot.get("stories", [])[:10]
@@ -274,6 +282,7 @@ def render_site_index(
         for entry in archive_entries[:14]
     )
     notebook_cards = "".join(render_notebook_teaser_card(entry, web_mode=False, link_prefix="./") for entry in notebook_entries[:4]) or '<p class="empty-note">No notebook assignments are available in the current snapshot.</p>'
+    atlas_cards = "".join(render_atlas_teaser_card(entry, link_prefix="./") for entry in atlas_entries) or '<p class="empty-note">No atlas entries have been curated yet.</p>'
     return f"""<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -294,6 +303,7 @@ def render_site_index(
           [
               ("Active Outbreak Files", "#active-outbreak-files"),
               ("Reporter's Notebook", "#reporters-notebook"),
+              ("Pathogen Atlas", "#pathogen-atlas"),
               ("Disease Reference Directory", "#disease-reference-directory"),
               ("Recent Archive Days", "#recent-archive-days"),
           ]
@@ -313,6 +323,12 @@ def render_site_index(
           <h2>Disease Reference Directory</h2>
           <div class="card-grid">{reference_cards}</div>
         </section>
+      </section>
+      <section class="panel" id="pathogen-atlas">
+        <h2>Pathogen Atlas</h2>
+        <p class="muted-note">A separate geography-and-evidence layer for origin zones, route logic, and linked writing.</p>
+        <p><a class="link-pill" href="./atlas.html">Open the atlas</a></p>
+        <div class="card-grid">{atlas_cards}</div>
       </section>
       <section class="panel" id="recent-archive-days">
         <h2>Recent Archive Days</h2>
@@ -337,11 +353,13 @@ def render_public_homepage(
     reference_spotlight = [record for record in reference_records if record.get("spotlight")] or reference_records[:6]
     archive_cards = archive_entries[:10]
     notebook_entries = build_notebook_entries(latest_snapshot.get("stories", []), reference_records)
+    atlas_entries = latest_snapshot.get("atlas", [])[:4]
 
     lead_story_cards = "".join(render_public_story_card(story, link_prefix="./") for story in lead_stories) or '<p class="empty-note">No active outbreak files are available in this run.</p>'
     changed_cards = "".join(render_public_item_card(item) for item in changed_today) or '<p class="empty-note">No major changed items were surfaced in this run.</p>'
     watch_cards = "".join(render_public_item_card(item) for item in watch_followups) or '<p class="empty-note">No additional watch items were surfaced in this run.</p>'
     notebook_cards = "".join(render_notebook_teaser_card(entry, web_mode=True, link_prefix="./") for entry in notebook_entries[:4]) or '<p class="empty-note">No notebook assignments were generated in this run.</p>'
+    atlas_cards = "".join(render_atlas_teaser_card(entry, link_prefix="./") for entry in atlas_entries) or '<p class="empty-note">No atlas dossiers were curated in this run.</p>'
     research_cards = "".join(render_public_research_card(item) for item in research_items) or '<p class="empty-note">No research-linked items were surfaced in this run.</p>'
     reference_cards = "".join(render_public_reference_card(reference, link_prefix="./") for reference in reference_spotlight) or '<p class="empty-note">No reference sheets were spotlighted in this run.</p>'
     archive_rows = "".join(render_public_archive_row(entry, link_prefix="./") for entry in archive_cards) or '<p class="empty-note">No archive days are available yet.</p>'
@@ -370,7 +388,7 @@ def render_public_homepage(
           <span class="badge">Updated {escape(latest_snapshot.get("generated_at", "Unknown"))}</span>
         </div>
       </section>
-      {render_page_section_nav([("Lead Outbreak Files", "#lead-outbreak-files"), ("What Changed Today", "#what-changed-today"), ("Reporter's Notebook", "#reporters-notebook"), ("Global Watch", "#global-watch"), ("Research + Reference", "#research-reference"), ("Archive + Backfile", "#archive-backfile")])}
+      {render_page_section_nav([("Lead Outbreak Files", "#lead-outbreak-files"), ("What Changed Today", "#what-changed-today"), ("Reporter's Notebook", "#reporters-notebook"), ("Pathogen Atlas", "#pathogen-atlas"), ("Global Watch", "#global-watch"), ("Research + Reference", "#research-reference"), ("Archive + Backfile", "#archive-backfile")])}
       <section class="panel" id="lead-outbreak-files">
         <h2>Lead Outbreak Files</h2>
         <p class="muted-note">The core live files that deserve attention before the wider desk.</p>
@@ -386,6 +404,12 @@ def render_public_homepage(
         <p class="muted-note">A working layer for reporters: what to ask next, which numbers matter, and which framing traps to avoid before you write.</p>
         <p><a class="link-pill" href="./notebook.html">Open the full notebook</a></p>
         <div class="card-grid">{notebook_cards}</div>
+      </section>
+      <section class="panel" id="pathogen-atlas">
+        <h2>Pathogen Atlas</h2>
+        <p class="muted-note">A separate evidence-and-geography layer for where selected pathogens likely emerged, how they traveled, and where they intersect your own writing.</p>
+        <p><a class="link-pill" href="./atlas.html">Open the atlas</a></p>
+        <div class="card-grid">{atlas_cards}</div>
       </section>
       <section class="panel" id="global-watch">
         <h2>Global Watch</h2>
@@ -422,6 +446,7 @@ def render_public_desk_page(
     reference_records: list[dict[str, Any]],
     archive_entries: list[dict[str, Any]],
     *,
+    atlas_entries: list[dict[str, Any]] | None = None,
     current_run_id: str = "",
     current_generated_at: str = "",
 ) -> str:
@@ -444,6 +469,16 @@ def render_public_desk_page(
             items,
             reference_records,
             archive_entries,
+            current_run_id=current_run_id,
+            current_generated_at=current_generated_at,
+        )
+    if active_page == "atlas":
+        return render_atlas_page(
+            title,
+            description,
+            atlas_entries or [],
+            archive_entries,
+            web_mode=True,
             current_run_id=current_run_id,
             current_generated_at=current_generated_at,
         )
@@ -569,6 +604,400 @@ def render_public_research_page(
   </body>
     </html>
 """
+
+
+def render_atlas_teaser_card(entry: dict[str, Any], *, link_prefix: str) -> str:
+    atlas_href = f"{link_prefix}atlas.html?pathogen={escape_attr(entry.get('slug', ''))}"
+    status = atlas_status_label(str(entry.get("status", "mixed")))
+    writing_state = atlas_writing_state_label(str(entry.get("writing_state", "not_yet_written")))
+    return (
+        '<article class="site-card feature-card atlas-teaser-card">'
+        '<div class="kicker">Pathogen atlas</div>'
+        f'<h3><a href="{atlas_href}">{escape(entry.get("name", "Untitled atlas entry"))}</a></h3>'
+        f'<p>{escape(entry.get("subtitle", ""))}</p>'
+        f'<p>{escape(entry.get("summary", ""))}</p>'
+        f'<div class="meta-row"><span class="badge accent">{escape(status)}</span><span class="badge">{entry.get("route_count", 0)} route(s)</span><span class="badge">{entry.get("citation_count", 0)} citation(s)</span></div>'
+        f'<div class="meta-row"><span class="badge">{escape(writing_state)}</span></div>'
+        '</article>'
+    )
+
+
+def render_atlas_hero_plate(entry: dict[str, Any]) -> str:
+    visual_asset = entry.get("visual_asset") or {}
+    status = atlas_status_label(str(entry.get("status", "mixed")))
+    visual_status = str(visual_asset.get("status", "pending")).replace("_", " ").title()
+    return (
+        '<div class="atlas-plate-shell">'
+        '<div class="atlas-plate-kicker">Editorial plate</div>'
+        f'<h3>{escape(entry.get("name", ""))}</h3>'
+        f'<p class="atlas-plate-subtitle">{escape(entry.get("subtitle", ""))}</p>'
+        f'<div class="meta-row"><span class="badge accent">{escape(status)}</span><span class="badge">{escape(entry.get("atlas_scope", ""))}</span></div>'
+        f'<p class="muted-note">{escape(entry.get("why_it_matters", ""))}</p>'
+        f'<p class="atlas-plate-note">Visual asset pipeline: {escape(visual_status)}</p>'
+        '</div>'
+    )
+
+
+def render_atlas_evidence_content(entry: dict[str, Any], *, link_prefix: str) -> str:
+    origin = entry.get("origin_claim", {})
+    routes = entry.get("spread_routes", [])
+    route_rows = "".join(
+        (
+            '<article class="atlas-route-row">'
+            f'<div class="atlas-route-head"><span class="badge">{escape(route.get("date_or_era", ""))}</span><span class="badge">{escape(route_confidence_label(str(route.get("confidence", ""))))}</span></div>'
+            f'<h3>{escape(route.get("from_label", ""))} to {escape(route.get("to_label", ""))}</h3>'
+            f'<p>{escape(route.get("narrative", ""))}</p>'
+            '</article>'
+        )
+        for route in routes
+    ) or '<p class="empty-note">No spread routes have been curated yet.</p>'
+    citation_rows = "".join(
+        (
+            '<li>'
+            f'<a href="{escape_attr(citation.get("url", ""))}">{escape(citation.get("short_citation", ""))}</a>'
+            f'<div class="muted-note">{escape(citation.get("claim_supported", ""))}</div>'
+            '</li>'
+        )
+        for citation in entry.get("citations", [])
+    ) or '<li>No citations are attached to this entry yet.</li>'
+    blog_posts = entry.get("linked_blog_posts", [])
+    blog_rows = "".join(
+        (
+            '<li>'
+            f'<a href="{escape_attr(post.get("url", ""))}">{escape(post.get("title", ""))}</a>'
+            f' <span class="muted-note">({escape(post.get("published_at", ""))}; {escape(post.get("relation", "").replace("_", " "))})</span>'
+            '</li>'
+        )
+        for post in blog_posts
+    ) or '<li>No dedicated Edge of Epidemiology post is linked yet.</li>'
+    story_rows = "".join(
+        (
+            '<li>'
+            f'<a href="{escape_attr((link_prefix + story.get("story_web_path", "")) if story.get("story_web_path") else story.get("story_url", ""))}">{escape(story.get("display_title", ""))}</a>'
+            f'<div class="muted-note">{escape(story.get("latest_update_summary", ""))}</div>'
+            '</li>'
+        )
+        for story in entry.get("related_stories", [])
+    ) or '<li>No active outbreak file is linked to this atlas entry right now.</li>'
+    reference_link = (
+        f'<a class="link-pill" href="{escape_attr(link_prefix + entry.get("reference_web_path", ""))}">Open disease sheet</a>'
+        if entry.get("reference_web_path")
+        else ""
+    )
+    writing_state = atlas_writing_state_label(str(entry.get("writing_state", "not_yet_written")))
+    return f"""
+      <div class="atlas-evidence-stack">
+        <div class="meta-row">
+          <span class="badge accent">{escape(atlas_status_label(str(entry.get("status", "mixed"))))}</span>
+          <span class="badge">{escape(entry.get("pathogen_type", ""))}</span>
+          <span class="badge">{escape(writing_state)}</span>
+        </div>
+        <div class="meta-row">{reference_link}</div>
+        <section class="atlas-evidence-section">
+          <div class="section-nav-label">Origin claim</div>
+          <h3>{escape(origin.get("label", ""))}</h3>
+          <p>{escape(origin.get("narrative", ""))}</p>
+          <div class="meta-row"><span class="badge">{escape(origin.get("date_or_era", ""))}</span><span class="badge">{escape(route_confidence_label(str(origin.get("confidence", ""))))}</span></div>
+        </section>
+        <section class="atlas-evidence-section">
+          <div class="section-nav-label">Route timeline</div>
+          <div class="atlas-route-list">{route_rows}</div>
+        </section>
+        <section class="atlas-evidence-section">
+          <div class="section-nav-label">What is unsettled</div>
+          <ul class="bullet-list">{''.join(f'<li>{escape(item)}</li>' for item in entry.get("framing_traps", [])) or '<li>No uncertainty notes are attached yet.</li>'}</ul>
+        </section>
+        <section class="atlas-evidence-section">
+          <div class="section-nav-label">Modern echoes</div>
+          <ul class="bullet-list">{''.join(f'<li>{escape(item)}</li>' for item in entry.get("modern_echoes", [])) or '<li>No modern echoes were curated yet.</li>'}</ul>
+        </section>
+        <section class="atlas-evidence-section">
+          <div class="section-nav-label">Supporting papers and source notes</div>
+          <ul class="bullet-list atlas-citation-list">{citation_rows}</ul>
+        </section>
+        <section class="atlas-evidence-section">
+          <div class="section-nav-label">Written at The Edge of Epidemiology</div>
+          <ul class="bullet-list atlas-blog-list">{blog_rows}</ul>
+        </section>
+        <section class="atlas-evidence-section">
+          <div class="section-nav-label">Linked live files</div>
+          <ul class="bullet-list atlas-story-list">{story_rows}</ul>
+        </section>
+      </div>
+    """
+
+
+def render_atlas_page(
+    title: str,
+    description: str,
+    atlas_entries: list[dict[str, Any]],
+    archive_entries: list[dict[str, Any]],
+    *,
+    web_mode: bool,
+    current_run_id: str = "",
+    current_generated_at: str = "",
+) -> str:
+    selected = atlas_entries[0] if atlas_entries else {}
+    link_prefix = "./"
+    live_update_banner = render_live_update_banner() if web_mode else ""
+    live_update_js = (
+        live_update_script("./app_exports/manifest.json", current_run_id, current_generated_at)
+        if web_mode
+        else ""
+    )
+    atlas_cards = "".join(
+        (
+            '<button class="site-card atlas-selector-card" type="button" '
+            f'data-atlas-select="{escape_attr(entry.get("slug", ""))}" '
+            f'data-atlas-search="{escape_attr((entry.get("name", "") + " " + entry.get("subtitle", "") + " " + entry.get("summary", "")).lower())}">'
+            f'<div class="kicker">{escape(entry.get("pathogen_type", "Pathogen"))}</div>'
+            f'<h3>{escape(entry.get("name", ""))}</h3>'
+            f'<p>{escape(entry.get("subtitle", ""))}</p>'
+            f'<div class="meta-row"><span class="badge accent">{escape(atlas_status_label(str(entry.get("status", "mixed"))))}</span><span class="badge">{entry.get("route_count", 0)} route(s)</span></div>'
+            '</button>'
+        )
+        for entry in atlas_entries
+    ) or '<p class="empty-note">No atlas entries are available yet.</p>'
+    archive_rows = "".join(render_public_archive_row(entry, link_prefix="./") for entry in archive_entries[:8]) or '<p class="empty-note">No archive days are available yet.</p>'
+    evidence_templates = "".join(
+        f'<template id="atlas-evidence-{escape_attr(entry.get("slug", ""))}">{render_atlas_evidence_content(entry, link_prefix=link_prefix)}</template>'
+        for entry in atlas_entries
+    )
+    hero_templates = "".join(
+        f'<template id="atlas-hero-{escape_attr(entry.get("slug", ""))}">{render_atlas_hero_plate(entry)}</template>'
+        for entry in atlas_entries
+    )
+    atlas_json = json.dumps(atlas_entries, ensure_ascii=True)
+    fallback_rows = "".join(
+        (
+            '<article class="site-card atlas-fallback-card">'
+            f'<h3>{escape(entry.get("name", ""))}</h3>'
+            f'<p>{escape(entry.get("summary", ""))}</p>'
+            f'<p><strong>Origin:</strong> {escape(entry.get("origin_claim", {}).get("label", ""))}</p>'
+            '</article>'
+        )
+        for entry in atlas_entries
+    )
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{escape(title)} | The Pathogen Dispatch</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+    <style>{base_styles()}</style>
+  </head>
+  <body>
+    <main class="page">
+      {render_site_header_mode("./" if web_mode else "./", nav_mode="web" if web_mode else "local", active_page="atlas")}
+      {live_update_banner}
+      <section class="hero atlas-hero" id="atlas-top">
+        <p class="kicker">Source-first atlas</p>
+        <h1>{escape(title)}</h1>
+        <p class="subtitle">{escape(description)}</p>
+        <div class="meta-row">
+          <span class="badge accent">Consensus</span>
+          <span class="badge">Mixed / debated</span>
+          <span class="badge">Route confidence is explicit</span>
+        </div>
+        <div class="atlas-hero-grid">
+          <div>
+            <p class="muted-note">This desk is separate from the daily outbreak stream. It maps selected pathogens as geography problems: where the evidence places likely origin zones, which routes matter, what remains unsettled, and where your own writing already intersects the record.</p>
+          </div>
+          <div class="atlas-plate" id="atlas-hero-plate">{render_atlas_hero_plate(selected) if selected else '<p class="empty-note">No atlas plates are loaded yet.</p>'}</div>
+        </div>
+      </section>
+      {render_page_section_nav([("Atlas Map", "#atlas-map-panel"), ("Pathogens", "#atlas-pathogens"), ("Evidence", "#atlas-evidence-panel"), ("Archive", "#atlas-archive-links")])}
+      <section class="panel-grid atlas-layout">
+        <section class="panel" id="atlas-map-panel">
+          <h2>Global Atlas Map</h2>
+          <p class="muted-note">The map shows the selected pathogen's origin zone plus curated route segments. Geometry comes from atlas data, not from generated imagery.</p>
+          <div id="atlas-map" class="atlas-map">Loading map...</div>
+          <div class="meta-row atlas-legend">
+            <span class="badge accent">Origin marker</span>
+            <span class="badge">Strong route</span>
+            <span class="badge">Moderate route</span>
+            <span class="badge">Debated route</span>
+          </div>
+        </section>
+        <aside class="panel" id="atlas-evidence-panel">
+          <h2>Evidence Panel</h2>
+          <div id="atlas-evidence-content">{render_atlas_evidence_content(selected, link_prefix=link_prefix) if selected else '<p class="empty-note">No evidence panel is available yet.</p>'}</div>
+        </aside>
+      </section>
+      <section class="panel" id="atlas-pathogens">
+        <h2>Pathogen Selector</h2>
+        <p class="muted-note">Start with a flagship pathogen whose route story is worth mapping. This is intentionally curated, not an automated everything-map.</p>
+        <div class="story-filter-shell">
+          <div class="filter-group">
+            <label class="filter-label" for="atlas-search">Search atlas pathogens</label>
+            <input class="filter-input" id="atlas-search" type="search" placeholder="Search pathogens, route ideas, or historical hooks" />
+          </div>
+        </div>
+        <div class="atlas-selector-grid" id="atlas-selector-grid">{atlas_cards}</div>
+        <p class="empty-note" id="atlas-selector-empty" hidden>No atlas pathogens match this search yet.</p>
+      </section>
+      <section class="panel" id="atlas-archive-links">
+        <h2>Recent Archive Days</h2>
+        <div class="archive-table">{archive_rows}</div>
+      </section>
+      <noscript>
+        <section class="panel">
+          <h2>Atlas Entries</h2>
+          <div class="card-grid">{fallback_rows}</div>
+        </section>
+      </noscript>
+    </main>
+    {evidence_templates}
+    {hero_templates}
+    <script id="atlas-data" type="application/json">{atlas_json}</script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <script>{atlas_page_script()}</script>
+    {f'<script>{live_update_js}</script>' if live_update_js else ''}
+  </body>
+</html>
+"""
+
+
+def atlas_page_script() -> str:
+    return """
+      const atlasEntries = JSON.parse(document.getElementById("atlas-data")?.textContent || "[]");
+      const atlasSelectorGrid = document.getElementById("atlas-selector-grid");
+      const atlasSelectorButtons = Array.from(document.querySelectorAll("[data-atlas-select]"));
+      const atlasSearch = document.getElementById("atlas-search");
+      const atlasEmpty = document.getElementById("atlas-selector-empty");
+      const atlasEvidence = document.getElementById("atlas-evidence-content");
+      const atlasHeroPlate = document.getElementById("atlas-hero-plate");
+      const atlasBySlug = Object.fromEntries(atlasEntries.map((entry) => [entry.slug, entry]));
+      let atlasMap = null;
+      let atlasLayerGroup = null;
+      let atlasUserInteracted = false;
+      let atlasRotateIndex = 0;
+
+      function atlasSelectedSlug() {
+        const params = new URLSearchParams(window.location.search);
+        const requested = params.get("pathogen");
+        if (requested && atlasBySlug[requested]) return requested;
+        return atlasEntries[0] ? atlasEntries[0].slug : "";
+      }
+
+      function atlasTemplateHtml(prefix, slug) {
+        return document.getElementById(`${prefix}-${slug}`)?.innerHTML || "";
+      }
+
+      function atlasRouteStyle(confidence) {
+        if (confidence === "strong") return {color: "#8d3f2f", weight: 4, opacity: 0.88, dashArray: ""};
+        if (confidence === "moderate") return {color: "#1f5b89", weight: 3, opacity: 0.82, dashArray: "8 6"};
+        return {color: "#5f6a73", weight: 2.5, opacity: 0.76, dashArray: "3 7"};
+      }
+
+      function initAtlasMap() {
+        const mapNode = document.getElementById("atlas-map");
+        if (!mapNode || !window.L || atlasMap) return;
+        atlasMap = L.map(mapNode, {zoomControl: true, attributionControl: true}).setView([15, 10], 2);
+        L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+          maxZoom: 6,
+          minZoom: 2,
+          attribution: "&copy; OpenStreetMap &copy; CARTO"
+        }).addTo(atlasMap);
+        atlasLayerGroup = L.layerGroup().addTo(atlasMap);
+      }
+
+      function renderAtlasMap(entry, shouldFit) {
+        if (!atlasMap || !atlasLayerGroup || !entry) return;
+        atlasLayerGroup.clearLayers();
+        const bounds = [];
+        const origin = entry.origin_claim || {};
+        const originCoords = origin.coordinates || [];
+        if (originCoords.length === 2) {
+          const originLatLng = [originCoords[1], originCoords[0]];
+          bounds.push(originLatLng);
+          L.circleMarker(originLatLng, {
+            radius: 8,
+            color: "#8d3f2f",
+            weight: 2,
+            fillColor: "#8d3f2f",
+            fillOpacity: 0.92
+          }).bindPopup(`<strong>${origin.label || entry.name}</strong><br>${origin.date_or_era || ""}`).addTo(atlasLayerGroup);
+        }
+        (entry.spread_routes || []).forEach((route) => {
+          const fromCoords = route.from_coordinates || [];
+          const toCoords = route.to_coordinates || [];
+          if (fromCoords.length !== 2 || toCoords.length !== 2) return;
+          const fromLatLng = [fromCoords[1], fromCoords[0]];
+          const toLatLng = [toCoords[1], toCoords[0]];
+          bounds.push(fromLatLng, toLatLng);
+          L.polyline([fromLatLng, toLatLng], atlasRouteStyle(route.confidence || "")).bindPopup(
+            `<strong>${route.from_label || ""} to ${route.to_label || ""}</strong><br>${route.date_or_era || ""}<br>${route.narrative || ""}`
+          ).addTo(atlasLayerGroup);
+          L.circleMarker(toLatLng, {
+            radius: 5,
+            color: "#1b2836",
+            weight: 1,
+            fillColor: "#f8f4ea",
+            fillOpacity: 0.95
+          }).addTo(atlasLayerGroup);
+        });
+        if (shouldFit && bounds.length > 1) {
+          atlasMap.fitBounds(bounds, {padding: [24, 24], maxZoom: 4});
+        }
+      }
+
+      function setAtlasSelection(slug, options = {}) {
+        const entry = atlasBySlug[slug];
+        if (!entry) return;
+        atlasSelectorButtons.forEach((button) => {
+          button.classList.toggle("atlas-selector-active", button.dataset.atlasSelect === slug);
+        });
+        if (atlasEvidence) atlasEvidence.innerHTML = atlasTemplateHtml("atlas-evidence", slug);
+        if (atlasHeroPlate) atlasHeroPlate.innerHTML = atlasTemplateHtml("atlas-hero", slug);
+        renderAtlasMap(entry, options.fitMap !== false);
+        if (options.updateUrl !== false) {
+          const url = new URL(window.location.href);
+          url.searchParams.set("pathogen", slug);
+          window.history.replaceState({}, "", url.toString());
+        }
+      }
+
+      function filterAtlasSelectors() {
+        const query = String(atlasSearch?.value || "").trim().toLowerCase();
+        let visible = 0;
+        atlasSelectorButtons.forEach((button) => {
+          const matches = !query || String(button.dataset.atlasSearch || "").includes(query);
+          button.hidden = !matches;
+          if (matches) visible += 1;
+        });
+        if (atlasEmpty) atlasEmpty.hidden = visible !== 0;
+      }
+
+      initAtlasMap();
+      const initialSlug = atlasSelectedSlug();
+      setAtlasSelection(initialSlug, {updateUrl: false});
+      filterAtlasSelectors();
+
+      atlasSelectorButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+          atlasUserInteracted = true;
+          setAtlasSelection(button.dataset.atlasSelect || "");
+        });
+      });
+
+      if (atlasSearch) {
+        atlasSearch.addEventListener("input", () => {
+          atlasUserInteracted = true;
+          filterAtlasSelectors();
+        });
+      }
+
+      if (atlasEntries.length > 1) {
+        window.setInterval(() => {
+          if (atlasUserInteracted) return;
+          atlasRotateIndex = (atlasRotateIndex + 1) % atlasEntries.length;
+          setAtlasSelection(atlasEntries[atlasRotateIndex].slug, {updateUrl: false});
+        }, 7000);
+      }
+    """
 
 
 def render_notebook_page(
@@ -1011,12 +1440,14 @@ def render_public_story_card(story: dict[str, Any], *, link_prefix: str) -> str:
 
 def render_public_reference_card(reference: dict[str, Any], *, link_prefix: str) -> str:
     href = f'{link_prefix}{reference.get("reference_web_path", "")}'
+    atlas_href = f'{link_prefix}atlas.html?pathogen={reference.get("atlas_entry_slug", "")}' if reference.get("atlas_entry_slug") else ""
     return (
         f'<article class="site-card">'
         f'<div class="kicker">Reference</div>'
         f'<h3><a href="{escape_attr(href)}">{escape(reference.get("name", ""))}</a></h3>'
         f'<p><strong>Pathogen:</strong> {escape(reference.get("pathogen", ""))}</p>'
         f'<p>{escape(reference.get("why_reporters_care", ""))}</p>'
+        f'{f"<div class=\"meta-row\"><a class=\"link-pill\" href=\"{escape_attr(atlas_href)}\">View in Atlas</a></div>" if atlas_href else ""}'
         f"</article>"
     )
 
@@ -1540,6 +1971,7 @@ def render_site_header_mode(base_path: str, *, nav_mode: str, active_page: str) 
         nav_items = [
             ("home", "Home", f"{base_path}index.html"),
             ("notebook", "Notebook", f"{base_path}notebook.html"),
+            ("atlas", "Atlas", f"{base_path}atlas.html"),
             ("watch", "Global watch", f"{base_path}watch.html"),
             ("africa", "Africa", f"{base_path}africa.html"),
             ("asia", "Asia", f"{base_path}asia.html"),
@@ -1552,6 +1984,7 @@ def render_site_header_mode(base_path: str, *, nav_mode: str, active_page: str) 
         nav_items = [
             ("briefing", "Latest briefing", f"{base_path}latest.html#view-briefing"),
             ("tracking", "Global watch", f"{base_path}latest.html#view-tracking"),
+            ("atlas", "Atlas", f"{base_path}atlas.html"),
             ("reference", "Research + reference", f"{base_path}latest.html#view-reference"),
             ("notebook", "Notebook", f"{base_path}notebook.html"),
             ("archive", "Archive + backfile", f"{base_path}latest.html#view-archive"),
@@ -1753,11 +2186,13 @@ def live_update_script(manifest_path: str, current_run_id: str, current_generate
 
 def render_related_reference_card(reference: dict[str, Any], *, web_mode: bool = False, link_prefix: str = "./") -> str:
     href = f"{link_prefix}{reference.get('reference_web_path', '')}" if web_mode else reference.get("reference_url", "")
+    atlas_href = f"{link_prefix}atlas.html?pathogen={reference.get('atlas_entry_slug', '')}" if web_mode and reference.get("atlas_entry_slug") else ""
     return (
         f'<article class="site-card">'
         f'<div class="kicker">Disease sheet</div>'
         f'<h3><a href="{escape_attr(href)}">{escape(reference.get("name", ""))}</a></h3>'
         f'<p><strong>Pathogen:</strong> {escape(reference.get("pathogen", ""))}</p>'
+        f'{f"<div class=\"meta-row\"><a class=\"link-pill\" href=\"{escape_attr(atlas_href)}\">View in Atlas</a></div>" if atlas_href else ""}'
         f"</article>"
     )
 
@@ -1869,6 +2304,25 @@ def base_styles() -> str:
       .hero { background: linear-gradient(180deg, rgba(255,255,255,0.42), rgba(255,255,255,0)), linear-gradient(135deg, rgba(248,244,234,0.98), rgba(242,235,222,0.98)); position: relative; overflow: hidden; }
       .hero::before { content: ""; position: absolute; inset: 0; background-image: linear-gradient(rgba(23,48,70,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(23,48,70,0.04) 1px, transparent 1px); background-size: 28px 28px; opacity: 0.35; pointer-events: none; }
       .hero > * { position: relative; z-index: 1; }
+      .atlas-hero-grid { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.95fr); gap: 18px; align-items: stretch; }
+      .atlas-layout { align-items: start; grid-template-columns: minmax(0, 1.55fr) minmax(280px, 0.95fr); }
+      .atlas-map { min-height: 460px; border-radius: 22px; overflow: hidden; border: 1px solid rgba(187,169,143,0.74); background: linear-gradient(180deg, rgba(223,231,236,0.92), rgba(214,223,228,0.92)); }
+      .atlas-legend { margin-top: 14px; }
+      .atlas-selector-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); }
+      .atlas-selector-card { text-align: left; cursor: pointer; width: 100%; }
+      .atlas-selector-card.atlas-selector-active { border-color: rgba(31,91,137,0.32); box-shadow: inset 0 0 0 2px rgba(31,91,137,0.14); background: linear-gradient(180deg, rgba(245,250,255,0.96), rgba(239,246,252,0.96)); }
+      .atlas-plate { background: linear-gradient(160deg, rgba(24,43,60,0.96), rgba(48,69,93,0.94)); color: #f2ebde; border-radius: 24px; padding: 20px; min-height: 220px; box-shadow: 0 18px 36px rgba(29, 24, 18, 0.14); }
+      .atlas-plate h3, .atlas-plate p, .atlas-plate .muted-note { color: inherit; }
+      .atlas-plate-kicker, .atlas-plate-note { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; letter-spacing: 0.12em; text-transform: uppercase; }
+      .atlas-plate-kicker { color: rgba(248,244,234,0.88); font-size: 0.74rem; }
+      .atlas-plate-note { color: rgba(248,244,234,0.72); font-size: 0.72rem; }
+      .atlas-plate-subtitle { font-size: 1rem; margin: 8px 0 12px; }
+      .atlas-evidence-stack, .atlas-route-list { display: grid; gap: 14px; }
+      .atlas-evidence-section { display: grid; gap: 8px; }
+      .atlas-route-row { background: rgba(255,252,247,0.92); border: 1px solid rgba(187,169,143,0.64); border-radius: 18px; padding: 14px; }
+      .atlas-route-head { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+      .atlas-teaser-card p:last-child { margin-bottom: 0; }
+      .atlas-citation-list li, .atlas-blog-list li, .atlas-story-list li { margin-bottom: 10px; }
       .panel-grid { display: grid; gap: 22px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .story-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); }
       .card-grid { display: grid; gap: 14px; }
@@ -1908,8 +2362,8 @@ def base_styles() -> str:
       h2 { font-size: 1.4rem; }
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
-      @media (max-width: 1180px) { .panel-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
+      @media (max-width: 1180px) { .panel-grid, .atlas-layout, .atlas-hero-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid, .atlas-selector-grid { grid-template-columns: 1fr; } .atlas-map { min-height: 340px; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
       @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } .live-update-banner { right: 12px; bottom: 12px; width: calc(100vw - 24px); } .live-update-actions { justify-content: space-between; } }
     """
 
@@ -2016,6 +2470,38 @@ def humanize_story_status(value: str) -> str:
         "official_follow_up_only": "Official follow-up only",
         "quiet_retained": "Quiet but retained",
         "archival_watch": "Archival watch",
+    }
+    return labels.get(normalized, value.replace("_", " ").title())
+
+
+def atlas_status_label(value: str) -> str:
+    normalized = normalize_whitespace(str(value)).lower().replace(" ", "_")
+    labels = {
+        "consensus": "Consensus",
+        "mixed": "Mixed / debated",
+        "contested": "Contested",
+        "weakly_supported": "Weakly supported",
+    }
+    return labels.get(normalized, value.replace("_", " ").title())
+
+
+def atlas_writing_state_label(value: str) -> str:
+    normalized = normalize_whitespace(str(value)).lower().replace(" ", "_")
+    labels = {
+        "direct": "Written here directly",
+        "adjacent": "Adjacent writing exists",
+        "not_yet_written": "No dedicated post yet",
+    }
+    return labels.get(normalized, value.replace("_", " ").title())
+
+
+def route_confidence_label(value: str) -> str:
+    normalized = normalize_whitespace(str(value)).lower().replace(" ", "_")
+    labels = {
+        "strong": "Strong support",
+        "moderate": "Moderate support",
+        "weak": "Weak support",
+        "debated": "Debated",
     }
     return labels.get(normalized, value.replace("_", " ").title())
 

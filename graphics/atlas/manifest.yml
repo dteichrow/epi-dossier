@@ -1,0 +1,71 @@
+assets:
+  - asset_id: atlas-yellow-fever-hero
+    pathogen_slug: yellow-fever
+    surface: hero
+    prompt: Museum-drawer style editorial specimen plate for yellow fever, maritime disease atlas aesthetic, Atlantic shipping traces, mosquito ecology motifs, aged cartographic paper, restrained epidemiology newsroom palette, no fantasy, no cartoon pathogen, no glossy stock-art look.
+    negative_prompt: sci-fi planet, cartoon virus mascot, fake microscope render, glowing neon, purple gradient app art, childish medical icon set
+    output_path: graphics/atlas/generated/yellow-fever-hero.png
+    alt_text: Editorial specimen plate for yellow fever showing Atlantic route and mosquito-ecology motifs.
+    source_mode: gpt-image-2
+    status: pending
+    editorial_note: Prioritize Atlantic route mood and mosquito-port ecology over clinical illustration.
+  - asset_id: atlas-cholera-hero
+    pathogen_slug: cholera
+    surface: hero
+    prompt: Evidence-board style cholera atlas plate, Bay of Bengal delta, river networks, shipping routes, nineteenth-century epidemic cartography, clean editorial layout, public-health newsroom design, no cartooning.
+    negative_prompt: fantasy map, pirate cartoon, generic blue medical infographic, shiny dashboard look
+    output_path: graphics/atlas/generated/cholera-hero.png
+    alt_text: Editorial cholera plate centered on delta, river, and shipping-route geography.
+    source_mode: gpt-image-2
+    status: pending
+    editorial_note: Focus on water systems and imperial routes rather than laboratory motifs.
+  - asset_id: atlas-measles-hero
+    pathogen_slug: measles
+    surface: hero
+    prompt: Measles atlas specimen plate with dense-settlement texture, route lines across colonial sea lanes, historical paper collage, epidemiology atlas aesthetic, subtle cattle-lineage cue, not cartoonish.
+    negative_prompt: smiling characters, clinic poster, purple vaporwave, children illustration
+    output_path: graphics/atlas/generated/measles-hero.png
+    alt_text: Editorial measles plate linking dense-settlement history and colonial spread.
+    source_mode: gpt-image-2
+    status: pending
+    editorial_note: Keep the divergence-from-rinderpest cue subtle, not literal.
+  - asset_id: atlas-mpox-hero
+    pathogen_slug: mpox
+    surface: hero
+    prompt: Mpox atlas editorial plate, Central and West African forest textures, travel-linked outbreak geometry, dossier board aesthetic, muted earth palette, evidence-focused, no stigma cues.
+    negative_prompt: sensational skin closeup, warning poster, biohazard slop, flashy app chrome
+    output_path: graphics/atlas/generated/mpox-hero.png
+    alt_text: Editorial mpox plate showing forest-zone history and later export routes.
+    source_mode: gpt-image-2
+    status: pending
+    editorial_note: Avoid sensational lesion imagery; this should read like a serious atlas.
+  - asset_id: atlas-h5n1-hero
+    pathogen_slug: avian-influenza-h5n1
+    surface: hero
+    prompt: H5N1 atlas plate with migratory flyway overlays, poultry and dairy interface cues, field-notebook and surveillance-board look, serious public-health editorial style, no mascot birds.
+    negative_prompt: cute poultry cartoon, disaster movie poster, sci-fi plague orb
+    output_path: graphics/atlas/generated/h5n1-hero.png
+    alt_text: Editorial H5N1 plate emphasizing flyways and farm-interface surveillance.
+    source_mode: gpt-image-2
+    status: pending
+    editorial_note: Keep it more surveillance map than dramatic outbreak art.
+  - asset_id: atlas-hantavirus-hero
+    pathogen_slug: hantavirus
+    surface: hero
+    prompt: Hantavirus atlas plate with Andean landscape textures, rodent-ecology cues, cabin and rural exposure motifs, scientific editorial collage, restrained and eerie, not horror.
+    negative_prompt: horror movie poster, dripping blood, cartoon rat, glossy medical brochure
+    output_path: graphics/atlas/generated/hantavirus-hero.png
+    alt_text: Editorial hantavirus plate focused on Andean ecology and exposure settings.
+    source_mode: gpt-image-2
+    status: pending
+    editorial_note: Emphasize ecology and uncertainty instead of fear-bait.
+  - asset_id: atlas-dengue-hero
+    pathogen_slug: dengue
+    surface: hero
+    prompt: Dengue atlas editorial plate with urban heat, Aedes route overlays, shipping and used-tire transport cues, clean museum-atlas style, sophisticated newspaper graphic look.
+    negative_prompt: mosquito cartoon, tropical travel ad, overbright app mockup
+    output_path: graphics/atlas/generated/dengue-hero.png
+    alt_text: Editorial dengue plate connecting vector spread, shipping, and urban risk.
+    source_mode: gpt-image-2
+    status: pending
+    editorial_note: Make the vector and urban systems feel structural rather than decorative.

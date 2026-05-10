@@ -282,6 +282,41 @@ class DiseaseReference:
 
 
 @dataclass
+class PathogenAtlasRoute:
+    route_id: str
+    from_label: str
+    to_label: str
+    from_coordinates: list[float]
+    to_coordinates: list[float]
+    date_or_era: str
+    route_type: str
+    confidence: str
+    narrative: str
+    citation_ids: list[str] = field(default_factory=list)
+
+
+@dataclass
+class PathogenAtlasEntry:
+    slug: str
+    name: str
+    subtitle: str
+    status: str
+    pathogen_type: str
+    summary: str
+    why_it_matters: str
+    atlas_scope: str
+    origin_claim: dict[str, Any]
+    spread_routes: list[PathogenAtlasRoute] = field(default_factory=list)
+    modern_echoes: list[str] = field(default_factory=list)
+    framing_traps: list[str] = field(default_factory=list)
+    linked_reference_slug: str = ""
+    linked_story_ids: list[str] = field(default_factory=list)
+    linked_blog_posts: list[dict[str, str]] = field(default_factory=list)
+    citations: list[dict[str, str]] = field(default_factory=list)
+    visual_asset_id: str = ""
+
+
+@dataclass
 class EditorialConfig:
     pinned_story_topics: list[str] = field(default_factory=list)
     forced_story_retention_days: dict[str, int] = field(default_factory=dict)
@@ -387,6 +422,75 @@ def load_outbreak_reference() -> list[DiseaseReference]:
             )
         )
     return entries
+
+
+def _normalize_coordinates(value: Any, *, field_name: str) -> list[float]:
+    if not isinstance(value, (list, tuple)) or len(value) != 2:
+        raise ValueError(f"{field_name} must be a two-item coordinate list")
+    return [float(value[0]), float(value[1])]
+
+
+@lru_cache(maxsize=1)
+def load_pathogen_atlas() -> tuple[dict[str, Any], ...]:
+    path = CONFIG_DIR / "pathogen_atlas.yml"
+    if not path.exists():
+        return tuple()
+    raw_entries = load_yaml(path).get("pathogens", [])
+    entries: list[dict[str, Any]] = []
+    for raw in raw_entries:
+        slug = slugify(str(raw["slug"]))
+        origin_claim = dict(raw["origin_claim"])
+        origin_claim["coordinates"] = _normalize_coordinates(origin_claim.get("coordinates"), field_name=f"{slug}.origin_claim.coordinates")
+        routes: list[dict[str, Any]] = []
+        for route in raw.get("spread_routes", []):
+            routes.append(
+                {
+                    "route_id": str(route["route_id"]),
+                    "from_label": str(route["from_label"]),
+                    "to_label": str(route["to_label"]),
+                    "from_coordinates": _normalize_coordinates(route.get("from_coordinates"), field_name=f"{slug}.{route['route_id']}.from_coordinates"),
+                    "to_coordinates": _normalize_coordinates(route.get("to_coordinates"), field_name=f"{slug}.{route['route_id']}.to_coordinates"),
+                    "date_or_era": str(route["date_or_era"]),
+                    "route_type": str(route["route_type"]),
+                    "confidence": str(route["confidence"]),
+                    "narrative": str(route["narrative"]),
+                    "citation_ids": [str(value) for value in route.get("citation_ids", [])],
+                }
+            )
+        citations = [dict(citation) for citation in raw.get("citations", [])]
+        if not citations:
+            raise ValueError(f"{slug} must define at least one citation")
+        entries.append(
+            {
+                "slug": slug,
+                "name": str(raw["name"]),
+                "subtitle": str(raw.get("subtitle", "")),
+                "status": str(raw.get("status", "mixed")),
+                "pathogen_type": str(raw.get("pathogen_type", "")),
+                "summary": str(raw.get("summary", "")),
+                "why_it_matters": str(raw.get("why_it_matters", "")),
+                "atlas_scope": str(raw.get("atlas_scope", "")),
+                "origin_claim": origin_claim,
+                "spread_routes": routes,
+                "modern_echoes": [str(value) for value in raw.get("modern_echoes", [])],
+                "framing_traps": [str(value) for value in raw.get("framing_traps", [])],
+                "linked_reference_slug": slugify(str(raw.get("linked_reference_slug", ""))),
+                "linked_story_ids": [str(value) for value in raw.get("linked_story_ids", [])],
+                "linked_blog_posts": [dict(post) for post in raw.get("linked_blog_posts", [])],
+                "citations": citations,
+                "visual_asset_id": str(raw.get("visual_asset_id", "")),
+            }
+        )
+    return tuple(entries)
+
+
+@lru_cache(maxsize=1)
+def load_atlas_visual_manifest() -> tuple[dict[str, Any], ...]:
+    path = ROOT_DIR / "graphics" / "atlas" / "manifest.yml"
+    if not path.exists():
+        return tuple()
+    raw = load_yaml(path).get("assets", [])
+    return tuple(dict(entry) for entry in raw)
 
 
 def load_editorial_config() -> EditorialConfig:

@@ -98,6 +98,7 @@ def test_site_build_writes_story_reference_and_index_files(tmp_path, monkeypatch
     assert index_path.exists()
     assert latest_html.exists()
     assert (latest_html.parent / "notebook.html").exists()
+    assert (latest_html.parent / "atlas.html").exists()
 
 
 def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch):
@@ -175,6 +176,83 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
                     "related_stories": [],
                 }
             ],
+            "atlas": [
+                {
+                    "slug": "measles",
+                    "name": "Measles",
+                    "subtitle": "Colonial spread and immunity gaps",
+                    "status": "mixed",
+                    "pathogen_type": "Virus",
+                    "summary": "A test atlas entry.",
+                    "why_it_matters": "A test atlas entry matters.",
+                    "atlas_scope": "Test scope",
+                    "origin_claim": {
+                        "label": "Eurasian origin zone",
+                        "coordinates": [35.5, 32.0],
+                        "date_or_era": "Antiquity",
+                        "confidence": "moderate",
+                        "narrative": "A test origin narrative.",
+                    },
+                    "spread_routes": [
+                        {
+                            "route_id": "measles-test-route",
+                            "from_label": "Origin",
+                            "to_label": "Americas",
+                            "from_coordinates": [35.5, 32.0],
+                            "to_coordinates": [-76.0, 18.5],
+                            "date_or_era": "Colonial era",
+                            "route_type": "maritime",
+                            "confidence": "strong",
+                            "narrative": "A test route.",
+                            "citation_ids": ["measles-test-citation"],
+                        }
+                    ],
+                    "modern_echoes": ["Immunity gaps still matter."],
+                    "framing_traps": ["Do not overstate certainty."],
+                    "linked_reference_slug": "measles",
+                    "linked_story_ids": ["story_1"],
+                    "linked_blog_posts": [],
+                    "citations": [
+                        {
+                            "id": "measles-test-citation",
+                            "short_citation": "Test citation.",
+                            "url": "https://example.com/paper",
+                            "claim_supported": "Route history.",
+                            "note": "Testing.",
+                        }
+                    ],
+                    "visual_asset_id": "atlas-measles-hero",
+                    "atlas_url": "atlas.html?pathogen=measles",
+                    "reference_name": "Measles",
+                    "reference_url": reference_path.resolve().as_uri(),
+                    "reference_web_path": "reference/measles.html",
+                    "related_stories": [
+                        {
+                            "story_id": "story_1",
+                            "display_title": "Measles transmission and vaccination",
+                            "story_url": story_path.resolve().as_uri(),
+                            "story_web_path": "stories/story_1-measles-transmission-and-vaccination.html",
+                            "latest_update_summary": "CDC still frames this as a vaccination-gap story.",
+                        }
+                    ],
+                    "story_count": 1,
+                    "citation_count": 1,
+                    "route_count": 1,
+                    "visual_asset": {
+                        "asset_id": "atlas-measles-hero",
+                        "pathogen_slug": "measles",
+                        "surface": "hero",
+                        "prompt": "Test prompt.",
+                        "negative_prompt": "Test negative prompt.",
+                        "output_path": "graphics/atlas/generated/measles-hero.png",
+                        "alt_text": "Test atlas art.",
+                        "source_mode": "gpt-image-2",
+                        "status": "pending",
+                        "editorial_note": "Testing.",
+                    },
+                    "writing_state": "not_yet_written",
+                }
+            ],
             "items": [
                 {
                     "item_id": "item_1",
@@ -224,15 +302,22 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     assert site_build.main(["--date", "2026-05-07", "--output-mode", "both", "--deploy-dir", str(deploy_dir)]) == 0
     assert (deploy_dir / "index.html").exists()
     assert (deploy_dir / "notebook.html").exists()
+    assert (deploy_dir / "atlas.html").exists()
     assert (deploy_dir / "watch.html").exists()
     assert (deploy_dir / "research.html").exists()
     assert (deploy_dir / "stories" / "story_1-measles-transmission-and-vaccination.html").exists()
     assert (deploy_dir / "reference" / "measles.html").exists()
     assert (deploy_dir / "archive" / "index.html").exists()
     latest_json = json.loads((deploy_dir / "app_exports" / "latest.json").read_text())
+    atlas_json = json.loads((deploy_dir / "app_exports" / "atlas.json").read_text())
     assert latest_json["stories"][0]["story_url"] == "stories/story_1-measles-transmission-and-vaccination.html"
+    assert "atlas" in atlas_json
     latest_html_text = (deploy_dir / "latest.html").read_text()
+    atlas_html_text = (deploy_dir / "atlas.html").read_text()
     assert "file:///" not in latest_html_text
+    assert "file:///" not in atlas_html_text
+    assert "reference/measles.html" in atlas_html_text
+    assert "stories/story_1-measles-transmission-and-vaccination.html" in atlas_html_text
     assert "public-live-update-banner" in latest_html_text
     assert "./app_exports/manifest.json" in latest_html_text
     assert "Load latest" in latest_html_text

@@ -11,6 +11,7 @@ from .main import parse_target_date, run_once
 from .render_html import validate_reader_story_sections
 from .render_site import (
     items_for_edition,
+    render_atlas_page,
     render_notebook_page,
     render_public_archive_page,
     render_public_desk_page,
@@ -206,6 +207,18 @@ def write_local_surfaces(
         ),
         encoding="utf-8",
     )
+    (payload["paths"]["latest_html"].parent / "atlas.html").write_text(
+        render_atlas_page(
+            "Pathogen Atlas",
+            "A curated origin-and-spread atlas that links geography, evidence, uncertainty, and prior Edge of Epidemiology writing.",
+            publication_snapshot.get("atlas", []),
+            archive_payload,
+            web_mode=False,
+            current_run_id=str(publication_snapshot.get("run_id", "")),
+            current_generated_at=str(publication_snapshot.get("generated_at", "")),
+        ),
+        encoding="utf-8",
+    )
 
 
 def write_public_surfaces(
@@ -223,14 +236,18 @@ def write_public_surfaces(
 ) -> None:
     docs_root = Path(docs_dir(deploy_dir))
     docs_root.mkdir(parents=True, exist_ok=True)
-    if story_records:
+    public_snapshot = transform_public_payload(deepcopy(publication_snapshot))
+    public_story_records = public_snapshot.get("stories", [])
+    public_reference_records = public_snapshot.get("reference", [])
+
+    if public_story_records:
         prune_generated_public_pages(
             docs_root / "stories",
-            {Path(story.get("story_web_path", "")).name for story in story_records if story.get("story_web_path")},
+            {Path(story.get("story_web_path", "")).name for story in public_story_records if story.get("story_web_path")},
         )
     prune_generated_public_pages(
         docs_root / "reference",
-        {Path(reference.get("reference_web_path", "")).name for reference in reference_records if reference.get("reference_web_path")},
+        {Path(reference.get("reference_web_path", "")).name for reference in public_reference_records if reference.get("reference_web_path")},
     )
 
     if not html_validation_issues:
@@ -279,7 +296,7 @@ def write_public_surfaces(
         if entry.markdown_path.exists():
             archive_target_md.write_text(entry.markdown_path.read_text(encoding="utf-8"), encoding="utf-8")
 
-    for story in story_records:
+    for story in public_story_records:
         story_path = docs_story_filename(story["story_id"], story["topic_name"], deploy_dir=deploy_dir)
         story_path.parent.mkdir(parents=True, exist_ok=True)
         story_path.write_text(
@@ -294,7 +311,7 @@ def write_public_surfaces(
             encoding="utf-8",
         )
 
-    for reference in reference_records:
+    for reference in public_reference_records:
         reference_path = docs_reference_filename(reference["name"], deploy_dir=deploy_dir)
         reference_path.parent.mkdir(parents=True, exist_ok=True)
         reference_path.write_text(
@@ -309,7 +326,7 @@ def write_public_surfaces(
         )
 
     docs_index_filename(deploy_dir).write_text(
-        render_public_homepage(publication_snapshot, archive_payload, reference_records),
+        render_public_homepage(public_snapshot, archive_payload, public_reference_records),
         encoding="utf-8",
     )
 
@@ -322,12 +339,13 @@ def write_public_surfaces(
                 edition.label,
                 edition.description,
                 edition.key,
-                stories_for_edition(story_records, edition.key)[: edition.max_stories],
-                items_for_edition(publication_snapshot.get("items", []), edition.key)[: edition.max_items],
-                related_references_for_edition(reference_records, edition.key),
+                stories_for_edition(public_story_records, edition.key)[: edition.max_stories],
+                items_for_edition(public_snapshot.get("items", []), edition.key)[: edition.max_items],
+                related_references_for_edition(public_reference_records, edition.key),
                 archive_payload,
-                current_run_id=str(publication_snapshot.get("run_id", "")),
-                current_generated_at=str(publication_snapshot.get("generated_at", "")),
+                atlas_entries=public_snapshot.get("atlas", []),
+                current_run_id=str(public_snapshot.get("run_id", "")),
+                current_generated_at=str(public_snapshot.get("generated_at", "")),
             ),
             encoding="utf-8",
         )
@@ -335,7 +353,7 @@ def write_public_surfaces(
     archive_index_path = docs_archive_index_filename(deploy_dir)
     archive_index_path.parent.mkdir(parents=True, exist_ok=True)
     archive_index_path.write_text(
-        render_public_archive_page(archive_payload, publication_snapshot, reference_records),
+        render_public_archive_page(archive_payload, public_snapshot, public_reference_records),
         encoding="utf-8",
     )
     write_public_exports(publication_snapshot, archive_payload, deploy_dir)
@@ -590,6 +608,8 @@ def inject_public_live_update_support(
 def related_references_for_edition(reference_records: list[dict[str, Any]], edition_key: str) -> list[dict[str, Any]]:
     if edition_key == "notebook":
         return reference_records[:10]
+    if edition_key == "atlas":
+        return [reference for reference in reference_records if reference.get("atlas_entry_slug")][:8] or reference_records[:6]
     return [reference for reference in reference_records if edition_key in reference.get("editions", [])][:6] or reference_records[:4]
 
 
@@ -671,6 +691,7 @@ def write_public_exports(latest_snapshot: dict[str, Any], archive_payload: list[
     public_dir.mkdir(parents=True, exist_ok=True)
     public_latest = transform_public_payload(deepcopy(latest_snapshot))
     atomic_write_json(public_dir / "latest.json", public_latest)
+    atomic_write_json(public_dir / "atlas.json", {"atlas": public_latest.get("atlas", []), "generated_at": latest_snapshot.get("generated_at"), "run_id": latest_snapshot.get("run_id")})
     atomic_write_json(
         public_dir / "archive.json",
         {
@@ -704,6 +725,7 @@ def write_public_exports(latest_snapshot: dict[str, Any], archive_payload: list[
             "files": {
                 "home": "index.html",
                 "latest": "latest.json",
+                "atlas": "atlas.json",
                 "archive": "archive.json",
                 "health": "health.json",
             },

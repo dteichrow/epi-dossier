@@ -16,18 +16,18 @@
     "metadata_only_count": 54,
     "sources_cached": 2,
     "sources_failed": 9,
-    "sources_live": 64,
+    "sources_live": 62,
     "story_count_change": 0,
-    "wrapper_only_count": 10
+    "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 2,
-    "live": 64,
+    "live": 62,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-10T02:34:50",
+  "generated_at": "2026-05-10T07:24:34",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='ncdc.gov.ng', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='ncdc.gov.ng', port=443): Failed to resolve 'ncdc.gov.ng' ([Errno 8] nodename nor servname provided, or not known)\"))",

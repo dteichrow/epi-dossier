@@ -35,6 +35,25 @@
       .hero { background: linear-gradient(180deg, rgba(255,255,255,0.42), rgba(255,255,255,0)), linear-gradient(135deg, rgba(248,244,234,0.98), rgba(242,235,222,0.98)); position: relative; overflow: hidden; }
       .hero::before { content: ""; position: absolute; inset: 0; background-image: linear-gradient(rgba(23,48,70,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(23,48,70,0.04) 1px, transparent 1px); background-size: 28px 28px; opacity: 0.35; pointer-events: none; }
       .hero > * { position: relative; z-index: 1; }
+      .atlas-hero-grid { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.95fr); gap: 18px; align-items: stretch; }
+      .atlas-layout { align-items: start; grid-template-columns: minmax(0, 1.55fr) minmax(280px, 0.95fr); }
+      .atlas-map { min-height: 460px; border-radius: 22px; overflow: hidden; border: 1px solid rgba(187,169,143,0.74); background: linear-gradient(180deg, rgba(223,231,236,0.92), rgba(214,223,228,0.92)); }
+      .atlas-legend { margin-top: 14px; }
+      .atlas-selector-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); }
+      .atlas-selector-card { text-align: left; cursor: pointer; width: 100%; }
+      .atlas-selector-card.atlas-selector-active { border-color: rgba(31,91,137,0.32); box-shadow: inset 0 0 0 2px rgba(31,91,137,0.14); background: linear-gradient(180deg, rgba(245,250,255,0.96), rgba(239,246,252,0.96)); }
+      .atlas-plate { background: linear-gradient(160deg, rgba(24,43,60,0.96), rgba(48,69,93,0.94)); color: #f2ebde; border-radius: 24px; padding: 20px; min-height: 220px; box-shadow: 0 18px 36px rgba(29, 24, 18, 0.14); }
+      .atlas-plate h3, .atlas-plate p, .atlas-plate .muted-note { color: inherit; }
+      .atlas-plate-kicker, .atlas-plate-note { font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif; letter-spacing: 0.12em; text-transform: uppercase; }
+      .atlas-plate-kicker { color: rgba(248,244,234,0.88); font-size: 0.74rem; }
+      .atlas-plate-note { color: rgba(248,244,234,0.72); font-size: 0.72rem; }
+      .atlas-plate-subtitle { font-size: 1rem; margin: 8px 0 12px; }
+      .atlas-evidence-stack, .atlas-route-list { display: grid; gap: 14px; }
+      .atlas-evidence-section { display: grid; gap: 8px; }
+      .atlas-route-row { background: rgba(255,252,247,0.92); border: 1px solid rgba(187,169,143,0.64); border-radius: 18px; padding: 14px; }
+      .atlas-route-head { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+      .atlas-teaser-card p:last-child { margin-bottom: 0; }
+      .atlas-citation-list li, .atlas-blog-list li, .atlas-story-list li { margin-bottom: 10px; }
       .panel-grid { display: grid; gap: 22px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .story-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); }
       .card-grid { display: grid; gap: 14px; }
@@ -74,20 +93,21 @@
       h2 { font-size: 1.4rem; }
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
-      @media (max-width: 1180px) { .panel-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid { grid-template-columns: 1fr; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
+      @media (max-width: 1180px) { .panel-grid, .atlas-layout, .atlas-hero-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid, .atlas-selector-grid { grid-template-columns: 1fr; } .atlas-map { min-height: 340px; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
       @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } .live-update-banner { right: 12px; bottom: 12px; width: calc(100vw - 24px); } .live-update-actions { justify-content: space-between; } }
     </style>
   </head>
   <body>
     <main class="page">
-      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Pathogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../notebook.html">Notebook</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
+      <header class="site-header"><div class="site-header-copy"><div class="kicker">The Pathogen Dispatch</div><p class="site-header-title">Source-first newsroom desks</p></div><nav class="site-nav" aria-label="Site navigation"><a class="site-nav-link" href="../index.html">Home</a><a class="site-nav-link" href="../notebook.html">Notebook</a><a class="site-nav-link" href="../atlas.html">Atlas</a><a class="site-nav-link" href="../watch.html">Global watch</a><a class="site-nav-link" href="../africa.html">Africa</a><a class="site-nav-link" href="../asia.html">Asia</a><a class="site-nav-link" href="../research.html">Research</a><a class="site-nav-link" href="../official.html">Official alerts</a><a class="site-nav-link" href="../archive/index.html">Archive</a></nav></header>
       <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite" role="status" data-live-update-banner="true"><div class="live-update-copy"><div class="section-nav-label">New edition available</div><p class="live-update-text" id="live-update-text">An updated edition is available. Load the latest run when you are ready.</p></div><div class="live-update-actions"><button class="live-update-dismiss" id="live-update-dismiss" type="button" onclick="(function(btn){const banner=btn.closest('[data-live-update-banner]');if(banner){banner.hidden=true;banner.style.display='none';const runId=(banner.dataset&&banner.dataset.pendingRunId)||'';const key=(banner.dataset&&banner.dataset.dismissKey)||('pathogen-dispatch-live-update-dismissed:'+window.location.pathname);try{window.sessionStorage.setItem(key, window.location.pathname+'::'+(runId||'unknown'));}catch(error){}}return false;})(this)">Keep reading</button><button class="live-update-button" id="live-update-refresh" type="button" onclick="(function(btn){const banner=btn.closest('[data-live-update-banner]');if(banner){banner.hidden=true;banner.style.display='none';}const url=new URL(window.location.href);url.searchParams.set('_edition', String(Date.now()));window.location.replace(url.toString());return false;})(this)">Load latest</button></div></section>
       <section class="hero" id="story-overview">
         <p class="kicker">Disease intelligence sheet</p>
         <h1>Pertussis</h1>
         <p class="subtitle">Curated desk background for reporters who need the pathogen, transmission, and outbreak frame fast.</p>
         <div class="meta-row"><span class="badge">Vaccine-preventable</span><span class="badge">Respiratory</span><span class="badge">Recurring resurgence</span><span class="badge">Schools</span><span class="badge">Households</span><span class="badge">Communities with waning immunity or low uptake</span></div>
+        
         <p><strong>Pathogen / agent:</strong> Bordetella pertussis</p>
         <p><strong>Transmission:</strong> Respiratory droplets</p>
         <p><strong>Reservoir / vector:</strong> Humans are the reservoir.</p>
@@ -143,8 +163,8 @@
       const liveUpdateButton = document.getElementById("live-update-refresh");
       const liveUpdateDismiss = document.getElementById("live-update-dismiss");
       const liveUpdateText = document.getElementById("live-update-text");
-      const currentRunId = 'run_5a8e7896ed66f6f3';
-      const currentGeneratedAt = '2026-05-10T02:34:50';
+      const currentRunId = 'run_fefa441d9960399a';
+      const currentGeneratedAt = '2026-05-10T07:24:34';
       const manifestPath = '../app_exports/manifest.json';
       const liveUpdateStorageKey = `pathogen-dispatch-live-update-dismissed:${window.location.pathname}`;
       const liveUpdateStart = Date.now();

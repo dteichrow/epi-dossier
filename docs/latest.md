@@ -1,18 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-10
-Generated at: 2026-05-10T02:34
+Generated at: 2026-05-10T07:24
 Search window: 7 day(s) ending 2026-05-10
 
 ## Executive scan
 - [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News; 2026-05-09T15:10+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765407) (CDC Travel Health Notices; 2026-05-07T20:18+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR; 2026-05-07T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Serologic Evidence of Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Veterinary Professional Exposed to an Infected Domestic Cat - Los Angeles County, California, December 2024-January 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765372) (CDC MMWR; 2026-05-07T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News; 2026-05-07T09:57+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [JCB Flavors, LLC Issues Voluntary Recall of Topical Seasonings Due to Potential Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765408) (CDC Travel Health Notices; 2026-05-06T18:50+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News; 2026-05-06T18:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa; 2026-05-05T10:17+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (56), Policy, surveillance, and public health infrastructure (5), Occupational and environmental epidemiology (2)
+- [Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low](https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low) (ECDC News; 2026-05-04T19:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [ECDC monitoring outbreak associated with cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship) (ECDC News; 2026-05-04T11:42+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (54), Policy, surveillance, and public health infrastructure (5), Occupational and environmental epidemiology (2)
 - Source health: 9 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza, PubMed Infectious Disease Search, PubMed Historical Epidemiology, PubMed Ancient Pathogen Genomics, plus 4 more.
 
 ## Ongoing stories and what changed
@@ -28,10 +28,10 @@ Search window: 7 day(s) ending 2026-05-10
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 7 item(s) across 5 source(s); 5 official/primary-source item(s).
-- Lead item: [Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765407) (CDC Travel Health Notices, 2026-05-07T20:18+00:00)
-- Detailed note: These gaps include the use of topical corticosteroids, lack of itraconazole use (100-200 mg/day for 6-8 weeks or longer) as first-line treatment, and prescribing fixed, short treatment durations. All patients (median age: 54; 3 males and 2 females) reported recent travel to India or Nepal, except one, who was the spouse of a patient who had traveled to India. During this session, AIRA will share how AI-supported...
-- Evidence notes: [Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765407) (CDC Travel Health Notices); [JCB Flavors, LLC Issues Voluntary Recall of Topical Seasonings Due to Potential Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765408) (CDC Travel Health Notices); [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa); [Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42089435/) (PubMed Infectious Disease Search); [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) (PubMed Infectious Disease Search)
+- Topic size: 5 item(s) across 4 source(s); 3 official/primary-source item(s).
+- Lead item: [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa, 2026-05-05T10:17+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa); [Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42089435/) (PubMed Infectious Disease Search); [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) (PubMed Infectious Disease Search); [WHO confirms malaria vaccine impact across Ghana, Kenya, Malawi](https://news.google.com/rss/articles/CBMijwFBVV95cUxORkxCQ1BXXzNpSllQczBzX1oxejFPOVJGa1NsY1VlTWlYLTB0VE1nYVdaV0NCTzRjQlBUekM3YkRLdGpDUFFQdDdrM3Z3YjYwVWgyQ3BZX1FURFVLWks5QUc4cFRVSVRoN1FudUFlS0lWcXZSY25GSXpVMUNMZDRUQVlXME9jdXVfSHU4dlBIQQ?oc=5) (Punch Newspapers); [Florida: Additional chikungunya case reported in Miami-Dade County, Country of origin is Bolivia](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS21fTEhicGJTUkFZcW1VVTBSOUdTWWRwdlRmZkYzM2Z6eV9naGJrNkpTQTNhT0VkdnVMYVpHNkN2OXlCX3Y0SkZKakpyOW04a09jaWpmQy1uakNHa2dHLWw5ejFuQ1QtbkctelNqc3ZlbTRjSjdQeG9iZ1JyOFlDYVlB?oc=5) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -306,16 +306,6 @@ Search window: 7 day(s) ending 2026-05-10
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Stoltzfus Family Dairy Recalls Sour Cream and Onion Cheese Curds Because of Possible Health Risk
-- Source: CDC Travel Health Notices
-- Date: 2026-05-07T20:18+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765407
-- Category: Outbreaks and emerging infections
-- Summary: Stoltzfus Family Dairy of Vernon Center, NY is recalling Sour Cream & Onion cheese curds because they have the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened immune
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner
 - Source: CDC MMWR
 - Date: 2026-05-07T17:00+00:00
@@ -342,16 +332,6 @@ Search window: 7 day(s) ending 2026-05-10
 - URL: https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: More action remains necessary to prevent thousands of annual deaths and slow the rising number of STI diagnoses across Europe. Despite advancements in detection and treatment, a new report reveals severe shortfalls in reaching the indicators for the Sustainable Development Goal target for HIV, tuberculosis, viral hepatitis and sexually transmitted infections (STIs) by 2030.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### JCB Flavors, LLC Issues Voluntary Recall of Topical Seasonings Due to Potential Health Risk
-- Source: CDC Travel Health Notices
-- Date: 2026-05-06T18:50+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765408
-- Category: Outbreaks and emerging infections
-- Summary: JCB Flavors, LLC of Watertown, Wisconsin, is voluntarily recalling select topical seasoning products due to the potential presence of Salmonella, an organism that can cause serious and sometimes fatal infections in young children, elderly individuals, and those with weakened immune systems.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -396,10 +376,18 @@ Search window: 7 day(s) ending 2026-05-10
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-05-06T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42089435/
+- Category: Major epidemiology studies
+- Summary: These gaps include the use of topical corticosteroids, lack of itraconazole use (100-200 mg/day for 6-8 weeks or longer) as first-line treatment, and prescribing fixed, short treatment durations. All patients (median age: 54; 3 males and 2 females) reported recent travel to India or Nepal, except one, who was the spouse of a patient who had traveled to India. Two different SQLE substitutions were detected, F397L ( N = 2) and L393F ( N = 1), which are common among terbinafine-resistant T.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 4/5
+
 
 ## Other notable readings
-- [Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42089435/) | PubMed Infectious Disease Search | 2026-05-06T00:00 | Major epidemiology studies
-  These gaps include the use of topical corticosteroids, lack of itraconazole use (100-200 mg/day for 6-8 weeks or longer) as first-line treatment, and prescribing fixed, short treatment durations. All patients (median age: 54; 3 males and 2 females) reported recent travel to India or Nepal, except one, who was the spouse of a patient who had traveled to India. Two different SQLE substitutions were detected, F397L ( N = 2) and L393F ( N = 1), which are common among terbinafine-resistant T.
 - [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) | PubMed Infectious Disease Search | 2026-05-08T00:00 | Major epidemiology studies
   This points to severe immune activation and a high risk of joint injury. Immunologically, genotypes I and IV triggered strong early pro-inflammatory cytokine responses and significantly upregulated MMP13 and Wnt14 at 7 dpi. Phylogenetic analysis of these isolates and field strains in China based on the σC gene revealed co-circulation of multiple genotypes (predominantly I and II), with epidemic strains actively evolving and genetically distant from the S1133 vaccine.
 - [WHO director says he will personally oversee hantavirus cruise evacuation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGx4QzFuRjhMaDFEOFhOWVYtUDlDSFI2VUpuT0IzYU5oUS1BenJNRFFzTmR1bTlYVmpfcEZjYTY4WEo3bDBqTFZUVTV2LXMtTFdjUHZDdW5qdTNyaFhLYmlPOEYwNzJsaXBjSFZtaEo0VlFVNEVSTFRrR2tVR1BjWGhna0ZLQzczbmNuTDFhaFc2N21xSkI2VjI4TUI3aHZMVFNCaE1mekFQYVXSAbABQVVfeXFMTnhDUDBPSGhveWVoemZfZFBlWDhsTXppcGpQXzFEeTBZdXlEX0FCbXdUbWRXZlo0MmVsU2wxN0VQeEs2a2lPaHgzTm4xLTVoazVwUVItdkZHeTR4aUEtV1FqRFoxV0FacXBOWTVSLWRVakNrWGMtU0t2YXhJQnlxVVg1TF9RRWJWT3Fxc2Z2eHVzSXdOeThsOUt0VUpFZXZCZWtNQnJoVy1uZnhBcThicks?oc=5) | CBS News | 2026-05-09T14:36+00:00 | Outbreaks and emerging infections
@@ -437,6 +425,8 @@ Search window: 7 day(s) ending 2026-05-10
 - [Tenerife resident calls docking of hantavirus ship 'reckless'](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mVGVRcURzLWYtMm1ud1RzTkxhTTg5djdNNHRZbWtIZ2xlSTFrc001blpYU0MzX01DVFRHWEVpU1pPX1NfakdBS2RLajM2WHliVC1KS2RHWQ?oc=5) | BBC | 2026-05-07T12:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ilemela Polio Vaccination Drive Targets 170,000 Children in Mwanza](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWp0TkUzZHU5cllIR3J3Vzc2dTY1RWhHazRCQXRhMUVGMFM4aVVpNjVNU2wxbF9YbTN0WjNLTjJEeDZhd2xKS1ZZT2lQVGhOY20yX2hLNUZxTUVOa3FBV2JkclZxUWVNQnJ3aTdCY0pGTEVLM3hrNWVHZ1N2OGdQVC1UYVV0REprYkxTeGhIY3FDT1ExY0tYQ1JTOTF3N1JW?oc=5) | streamlinefeed.co.ke | 2026-05-07T11:12+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Hantavirus-hit cruise ship on way to Canary Islands after three evacuated](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ejFDMy1sV3hqYUU2M0t4ck90UDdqLTU0V2dmWjZxYTRnaVJoeDdOcFlkMGZ6MlVBWVpCTVBXVTE1R2ZubVRCY0FhWDJDNHVSby1QUUp1ZV9PUQ?oc=5) | BBC | 2026-05-07T09:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving

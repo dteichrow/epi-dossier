@@ -23,11 +23,14 @@ from .utils import (
     latest_filename,
     latest_html_filename,
     list_briefing_archives,
+    load_atlas_visual_manifest,
     load_editions_config,
     load_editorial_config,
+    load_pathogen_atlas,
     normalize_whitespace,
     reference_filename,
     reference_relpath,
+    slugify,
     stable_id,
     story_filename,
     story_relpath,
@@ -107,6 +110,7 @@ def export_app_data(
     story_records = build_story_records(story_updates, story_snapshots, topic_groups, previous_stories, db, run_id, exported_at, editorial)
     reference_records = build_outbreak_reference_records(outbreak_reference, editorial)
     enrich_story_reference_links(story_records, reference_records)
+    atlas_records = build_atlas_records(load_pathogen_atlas(), story_records, reference_records, load_atlas_visual_manifest())
     annotate_story_status_on_items(item_records, story_records)
     annotate_edition_membership(item_records, story_records, reference_records, editions)
 
@@ -131,6 +135,7 @@ def export_app_data(
         "stories": story_records,
         "topics": topic_records,
         "reference": reference_records,
+        "atlas": atlas_records,
     }
     latest_snapshot["editor_summary"] = build_editor_summary(latest_snapshot)
 
@@ -167,6 +172,18 @@ def export_app_data(
 def clean_story_delta_text(text: str) -> str:
     cleaned = MARKDOWN_LINK_RE.sub(r"\1", str(text or ""))
     return normalize_whitespace(cleaned)
+
+
+def json_safe_value(value: Any) -> Any:
+    if isinstance(value, datetime):
+        return value.isoformat(timespec="seconds")
+    if isinstance(value, date):
+        return value.isoformat()
+    if isinstance(value, dict):
+        return {str(key): json_safe_value(item) for key, item in value.items()}
+    if isinstance(value, (list, tuple)):
+        return [json_safe_value(item) for item in value]
+    return value
 
 
 def build_item_records(items: list[Item], exported_at: str) -> list[dict[str, Any]]:
@@ -365,6 +382,66 @@ def enrich_story_reference_links(story_records: list[dict[str, Any]], reference_
         reference["related_story_ids"] = [story["story_id"] for story in related_stories]
         reference["related_story_urls"] = [story["story_url"] for story in related_stories]
         reference["related_stories"] = related_stories
+
+
+def build_atlas_records(
+    atlas_entries: tuple[dict[str, Any], ...],
+    story_records: list[dict[str, Any]],
+    reference_records: list[dict[str, Any]],
+    visual_assets: tuple[dict[str, Any], ...],
+) -> list[dict[str, Any]]:
+    if not atlas_entries:
+        return []
+
+    story_by_id = {story["story_id"]: story for story in story_records}
+    reference_by_slug = {slugify(reference["name"]): reference for reference in reference_records}
+    asset_by_id = {str(asset.get("asset_id")): dict(asset) for asset in visual_assets}
+    atlas_records: list[dict[str, Any]] = []
+
+    for entry in atlas_entries:
+        record = json_safe_value(dict(entry))
+        reference = reference_by_slug.get(record.get("linked_reference_slug", ""))
+        linked_stories = [
+            {
+                "story_id": story["story_id"],
+                "display_title": story["display_title"],
+                "story_url": story["story_url"],
+                "story_web_path": story.get("story_web_path", ""),
+                "latest_update_summary": story.get("latest_update_summary", ""),
+                "current_status_summary": story.get("current_status_summary", ""),
+            }
+            for story_id in record.get("linked_story_ids", [])
+            for story in [story_by_id.get(story_id)]
+            if story
+        ]
+        if not linked_stories and reference:
+            linked_stories = list(reference.get("related_stories", []))
+        blog_posts = json_safe_value(record.get("linked_blog_posts", []))
+        writing_state = (
+            "direct"
+            if any(post.get("relation") == "deep_dive" for post in blog_posts)
+            else "adjacent"
+            if blog_posts
+            else "not_yet_written"
+        )
+        record["writing_state"] = writing_state
+        record["atlas_url"] = f"atlas.html?pathogen={record['slug']}"
+        record["reference_name"] = reference.get("name", "") if reference else ""
+        record["reference_url"] = reference.get("reference_url", "") if reference else ""
+        record["reference_web_path"] = reference.get("reference_web_path", "") if reference else ""
+        record["related_stories"] = linked_stories
+        record["story_count"] = len(linked_stories)
+        record["citation_count"] = len(record.get("citations", []))
+        record["route_count"] = len(record.get("spread_routes", []))
+        record["visual_asset"] = asset_by_id.get(str(record.get("visual_asset_id", "")), {})
+        if reference is not None:
+            reference["atlas_entry_slug"] = record["slug"]
+            reference["atlas_url"] = record["atlas_url"]
+            reference["atlas_status"] = record.get("status", "mixed")
+            reference["atlas_summary"] = record.get("summary", "")
+        atlas_records.append(record)
+
+    return atlas_records
 
 
 def story_matches_reference(story_text: str, reference: dict[str, Any]) -> bool:
@@ -908,6 +985,7 @@ def write_export_files(latest_snapshot: dict[str, Any], delta_snapshot: dict[str
     atomic_write_json(export_dir / "story_pages.json", {"stories": latest_snapshot["stories"], "generated_at": latest_snapshot["generated_at"], "run_id": latest_snapshot["run_id"]})
     atomic_write_json(export_dir / "topics.json", {"topics": latest_snapshot["topics"], "generated_at": latest_snapshot["generated_at"], "run_id": latest_snapshot["run_id"]})
     atomic_write_json(export_dir / "reference.json", {"reference": latest_snapshot["reference"], "generated_at": latest_snapshot["generated_at"], "run_id": latest_snapshot["run_id"]})
+    atomic_write_json(export_dir / "atlas.json", {"atlas": latest_snapshot.get("atlas", []), "generated_at": latest_snapshot["generated_at"], "run_id": latest_snapshot["run_id"]})
     atomic_write_json(export_dir / "archive.json", archive_payload)
     atomic_write_json(
         export_dir / "health.json",
@@ -936,6 +1014,7 @@ def write_export_files(latest_snapshot: dict[str, Any], delta_snapshot: dict[str
                 "story_pages": "story_pages.json",
                 "topics": "topics.json",
                 "reference": "reference.json",
+                "atlas": "atlas.json",
                 "archive": "archive.json",
                 "health": "health.json",
                 "delta": f"deltas/{latest_snapshot['run_id']}.json",

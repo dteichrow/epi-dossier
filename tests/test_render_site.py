@@ -545,6 +545,7 @@ def test_render_public_notebook_page_builds_reporting_layers():
 def test_render_reference_page_renders_curated_fields_and_links():
     reference = {
         "name": "Measles",
+        "atlas_entry_slug": "measles",
         "pathogen": "Measles virus",
         "transmission": "Airborne and respiratory",
         "reservoir_or_vector": "Humans",
@@ -599,3 +600,100 @@ def test_render_reference_page_renders_curated_fields_and_links():
     assert "CDC overview" in content
     assert "2019 Samoa outbreak." in content
     assert "file:///tmp/measles-story.html" in content
+    assert "../atlas.html?pathogen=measles" in content
+
+
+def test_render_public_atlas_page_builds_map_selector_and_evidence_layers():
+    atlas_entries = [
+        {
+            "slug": "yellow-fever",
+            "name": "Yellow fever",
+            "subtitle": "Atlantic mosquito ecology, slavery, empire, and port-city mortality",
+            "status": "consensus",
+            "pathogen_type": "Virus",
+            "summary": "Yellow fever is one of the clearest examples of maritime disease geography.",
+            "why_it_matters": "It shows vectors, shipping, and imperial history in one file.",
+            "atlas_scope": "Historical-to-modern transatlantic spread",
+            "origin_claim": {
+                "label": "West and Central African transmission zone",
+                "coordinates": [-1.5, 6.2],
+                "date_or_era": "Pre-colonial circulation",
+                "confidence": "strong",
+                "narrative": "African endemic ecology predates Atlantic spread.",
+            },
+            "spread_routes": [
+                {
+                    "route_id": "yellow-west-africa-caribbean",
+                    "from_label": "West African coast",
+                    "to_label": "Caribbean ports",
+                    "from_coordinates": [-1.5, 6.2],
+                    "to_coordinates": [-72.3, 18.9],
+                    "date_or_era": "Seventeenth century Atlantic shipping",
+                    "route_type": "maritime",
+                    "confidence": "strong",
+                    "narrative": "Ships moved infected people and mosquito ecology into the Caribbean.",
+                    "citation_ids": ["yellow-handbook"],
+                }
+            ],
+            "modern_echoes": ["Vaccination policy and proof-of-entry rules still matter."],
+            "framing_traps": ["Do not write this as a purely human-travel story."],
+            "linked_reference_slug": "yellow-fever",
+            "reference_web_path": "reference/yellow-fever.html",
+            "reference_url": "file:///tmp/yellow-fever.html",
+            "linked_blog_posts": [
+                {
+                    "title": "The First American Epidemic",
+                    "url": "https://theedgeofepidemiology.substack.com/p/the-first-american-epidemic-how-yellow",
+                    "published_at": "2026-04-04",
+                    "relation": "deep_dive",
+                }
+            ],
+            "related_stories": [
+                {
+                    "story_id": "story_1",
+                    "display_title": "Yellow fever and Atlantic circulation",
+                    "story_web_path": "stories/story_1.html",
+                    "story_url": "file:///tmp/story_1.html",
+                    "latest_update_summary": "Historical framing remains stable.",
+                }
+            ],
+            "citations": [
+                {
+                    "id": "yellow-handbook",
+                    "short_citation": "Routledge handbook chapter.",
+                    "url": "https://doi.org/10.4324/9781003531425",
+                    "claim_supported": "Atlantic spread framing.",
+                }
+            ],
+            "visual_asset_id": "atlas-yellow-fever-hero",
+            "visual_asset": {"asset_id": "atlas-yellow-fever-hero", "status": "pending"},
+            "writing_state": "direct",
+            "route_count": 1,
+            "citation_count": 1,
+        }
+    ]
+    archive_entries = [{"date": "2026-05-09", "month_name": "May", "year": 2026, "html_web_path": "2026/05/2026-05-09.html"}]
+
+    content = render_public_desk_page(
+        "Pathogen Atlas",
+        "A curated origin-and-spread atlas that links geography, evidence, and prior writing.",
+        "atlas",
+        [],
+        [],
+        [],
+        archive_entries,
+        atlas_entries=atlas_entries,
+        current_run_id="run_1",
+        current_generated_at="2026-05-09T06:30:00",
+    )
+
+    assert "Global Atlas Map" in content
+    assert "Evidence Panel" in content
+    assert "Pathogen Selector" in content
+    assert "Written at The Edge of Epidemiology" in content
+    assert "leaflet" in content.lower()
+    assert "atlas-data" in content
+    assert "West and Central African transmission zone" in content
+    assert "The First American Epidemic" in content
+    assert "./reference/yellow-fever.html" in content
+    assert "Routledge handbook chapter." in content

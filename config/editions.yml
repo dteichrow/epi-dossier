@@ -13,6 +13,17 @@ editions:
     max_items: 24
     max_stories: 8
 
+  - key: atlas
+    label: Pathogen Atlas
+    page: atlas.html
+    description: A curated origin-and-spread atlas that links geography, evidence, and prior writing instead of flattening pathogens into another story stream.
+    categories:
+      - Atlas
+    include_story_items: false
+    include_story_cards: false
+    max_items: 0
+    max_stories: 0
+
   - key: watch
     label: Global Watch
     page: watch.html
