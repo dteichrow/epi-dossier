@@ -9,26 +9,27 @@
       "CNN",
       "Guardian",
       "NBC News",
+      "NPR",
       "New York Times",
       "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 66,
+    "metadata_only_count": 67,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 80,
-    "story_count_change": 3,
-    "wrapper_only_count": 7
+    "sources_live": 79,
+    "story_count_change": 2,
+    "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 80,
+    "live": 79,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-11T09:50:24",
+  "generated_at": "2026-05-11T10:50:41",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",

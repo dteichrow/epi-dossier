@@ -1,40 +1,37 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-11
-Generated at: 2026-05-11T09:50
+Generated at: 2026-05-11T10:50
 Search window: 7 day(s) ending 2026-05-11
 
 ## Executive scan
+- [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa; 2026-05-11T16:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News; 2026-05-11T16:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News; 2026-05-09T15:10+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR; 2026-05-07T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Serologic Evidence of Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Veterinary Professional Exposed to an Infected Domestic Cat - Los Angeles County, California, December 2024-January 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765372) (CDC MMWR; 2026-05-07T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News; 2026-05-06T18:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Hantavirus outbreak on cruise ship under investigation: risk for Europe very low](https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low) (ECDC News; 2026-05-05T15:17+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa; 2026-05-05T10:17+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health: Uganda to roll out fractional dosing of Mpox vaccine](https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026) (NewVision.co.ug; 2026-05-10T14:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (71), Policy, surveillance, and public health infrastructure (4), Occupational and environmental epidemiology (2)
+- [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T15:24+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (74), Policy, surveillance, and public health infrastructure (4), Major epidemiology studies (1)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Hantavirus and cruise-ship outbreak
+- Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News)
+- New publisher/source coverage joined this story cluster: Al Jazeera, NPR, TikTok.
+- Story volume increased from 65 to 67 clustered item(s) in the current window.
+- 6 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Measles transmission and vaccination
 - Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp)
 - arabnews.jp now foregrounds vaccination or vaccine policy in the story.
 - The lead item has changed to [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) from arabnews.jp.
 - 4 newly observed linked item(s) were added since the last saved snapshot.
 
-### Avian influenza and H5N1
-- Lead item: [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR)
-- CDC MMWR now explicitly uses investigation or monitoring language.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News)
-- 6 newly observed linked item(s) were added since the last saved snapshot.
-
 
 ## Major topics
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 65 item(s) across 36 source(s); 4 official/primary-source item(s).
+- Topic size: 67 item(s) across 35 source(s); 4 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News, 2026-05-11T16:39+02:00)
 - Detailed note: Hantavirus infection has been laboratory-confirmed in two individuals in connection with the cluster of illness reported on a cruise ship. Passengers and crew continue to disembark and to be medically evacuated to their countries of origin. On 10 May, the cruise ship MV Hondius arrived at the port of Granadilla, Tenerife, Canary Islands.
 - Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News); [Hantavirus outbreak on cruise ship under investigation: risk for Europe very low](https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low) (ECDC News); [From US to Singapore, countries race to track hantavirus](https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) (CNN)
@@ -42,19 +39,11 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 6 item(s) across 5 source(s); 3 official/primary-source item(s).
-- Lead item: [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa, 2026-05-05T10:17+00:00)
+- Topic size: 4 item(s) across 4 source(s); 2 official/primary-source item(s).
+- Lead item: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa, 2026-05-11T16:57+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa); [Health: Uganda to roll out fractional dosing of Mpox vaccine](https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026) (NewVision.co.ug); [Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42089435/) (PubMed Infectious Disease Search); [80% of areas free of malaria, Indonesia on track to achieve elimination target by 2030](https://observerid.com/80-of-areas-free-of-malaria-indonesia-on-track-to-achieve-elimination-target-by-2030/) (Independent Observer); [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) (PubMed Infectious Disease Search)
+- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Health: Uganda to roll out fractional dosing of Mpox vaccine](https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026) (NewVision.co.ug); [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) (PubMed Infectious Disease Search); [Florida: Additional chikungunya case reported in Miami-Dade County, Country of origin is Bolivia](https://outbreaknewstoday.substack.com/p/florida-additional-chikungunya-case) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Avian influenza and H5N1
-- Topic size: 3 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR, 2026-05-07T17:00+00:00)
-- Detailed note: Oltean, PhD 1 ,2 ; Lisa Leitz 3 ; Emma Krause 3 ; Debra Barrett 3 ; Anna Halloran, MHPA 1 ; Kyle Yomogida, PhD 1 ; Beth Lipton, DVM 1 ; Keely Paris, MPH 1 ; Jared Keirn, MS 1 ; Minden Buswell, DVM 1 ; Allison Black, PhD 1 ; Pauline Trinh, PhD 1 ; Theresa Murray, MT 1 ; Roberto Bonaccorso 1 ; Leticia Banuelos 1 ; Ethan Dieringer 1 ; Jennifer Lenahan, MPH 4 ; Emily Spence Davizon, MPH 4 ; Ellyn P. Greninger, MD,...
-- Evidence notes: [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) (CDC MMWR); [Serologic Evidence of Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Veterinary Professional Exposed to an Infected Domestic Cat - Los Angeles County, California, December 2024-January 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765372) (CDC MMWR); [LA Vet Tests Positive After Handling H5N1-Infected Cat](https://hoodline.com/2026/05/la-vet-tests-positive-after-treating-raw-milk-fed-cat-in-bird-flu-scare/) (Hoodline)
-- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
@@ -65,13 +54,21 @@ Search window: 7 day(s) ending 2026-05-11
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
+### Avian influenza and H5N1
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today, 2026-05-02T07:00+00:00)
+- Detailed note: Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was...
+- Evidence notes: [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
 ### Measles transmission and vaccination
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp, 2026-05-10T01:05+00:00)
 - Detailed note: Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths.
 - Evidence notes: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp); [Confirmed measles cases grow to 12 in Pa.’s Lebanon County](https://www.post-gazette.com/news/health/2026/05/06/lebanon-county-pa-measles/stories/202605060063) (Pittsburgh Post-Gazette); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress); [Lebanon city and county officials await more information on measles outbreak](https://lebtown.com/2026/05/08/lebanon-city-and-county-officials-await-more-information-on-measles-outbreak/) (LebTown)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Polio and wastewater surveillance
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -310,6 +307,16 @@ Search window: 7 day(s) ending 2026-05-11
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme
+- Source: WHO Regional Office for Africa
+- Date: 2026-05-11T16:57+00:00
+- URL: https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme
+- Category: Outbreaks and emerging infections
+- Summary: Publications ochembac@who.int Mon, 11/05/2026 - 17:57 Abuja, Nigeria | 11 May 2026 For immediate release The Federal Government and its partners have today taken a major step towards strengthening the capacity of Nigeria’s healthcare delivery system to deal with disease outbreaks, with the launch of a collaborative initiative targeting public health institutions. Noncommunicable diseases are rising and now account for 27% of deaths in Nigeria, whilst Malaria contributes 30% of global malaria deaths and recurrent outbreaks, like cholera, diphtheria, Lassa fever, meningitis, Mpox, remain a major cause of illness and death (WHO). The €4.2 million (N6, 791 billion) programme funded by the European Union, aims to help strengthen core functions of selected public health institutes to detect outbreaks earlier, share information faster, and reduce the negative impact of poor health outcomes nationwide.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States
 - Source: ECDC News
 - Date: 2026-05-11T16:39+02:00
@@ -326,26 +333,6 @@ Search window: 7 day(s) ending 2026-05-11
 - URL: https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: The guidance published today by ECDC provides advice for public health professionals in the EU/EEA managing individuals potentially exposed to Andes hantavirus from the M/V Hondius, and for healthcare professionals and transport personnel involved in the disembarkation, transfer, and care of passengers and crew.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner
-- Source: CDC MMWR
-- Date: 2026-05-07T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373
-- Category: Occupational and environmental epidemiology
-- Summary: Oltean, PhD 1 ,2 ; Lisa Leitz 3 ; Emma Krause 3 ; Debra Barrett 3 ; Anna Halloran, MHPA 1 ; Kyle Yomogida, PhD 1 ; Beth Lipton, DVM 1 ; Keely Paris, MPH 1 ; Jared Keirn, MS 1 ; Minden Buswell, DVM 1 ; Allison Black, PhD 1 ; Pauline Trinh, PhD 1 ; Theresa Murray, MT 1 ; Roberto Bonaccorso 1 ; Leticia Banuelos 1 ; Ethan Dieringer 1 ; Jennifer Lenahan, MPH 4 ; Emily Spence Davizon, MPH 4 ; Ellyn P. Greninger, MD, PhD 8 ; Stephanie Goya, PhD 8 ; Sierra Gulla 9 ; Jennifer Young, MPH 9 ; Sierra Kerns-Funk, MPH 10 ; Brianna da Silva Bhatia, MD 10 ; Hollianne Bruce, MPH 11 ; Krista Kniss, MPH 12 ; Katie Reinhart, PhD 12 ; Rachel Ohlstein 13 ; Shannon Johnson 13 ; Christina Schofield, MD 14 ; Patrick Smith, DO 14 ; Amber Itle, VMD 15 ; Maura Gibson, DVM 16 ; Brandi Torrevillas 17 ; Azeza Falghoush, PhD 17 ; Thomas B. Valenciano, MD 4 ; John Lynch, MD 5 ,7 ; Vanessa Makarewicz, MN 7 ; Chloe Bryson-Cahn, MD 5 ,7 ; Jennifer Hernandez 7 ; Kyla Haggith 7 ; Valicia Linn 7 ; Alex L.
-- Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Serologic Evidence of Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Veterinary Professional Exposed to an Infected Domestic Cat - Los Angeles County, California, December 2024-January 2025
-- Source: CDC MMWR
-- Date: 2026-05-07T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765372
-- Category: Occupational and environmental epidemiology
-- Summary: This report describes 139 human exposures to cats infected with A(H5N1) in Los Angeles, California.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -370,16 +357,6 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Webinar | Listening to communities through AI for cholera response
-- Source: WHO Regional Office for Africa
-- Date: 2026-05-05T10:17+00:00
-- URL: https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response
-- Category: Outbreaks and emerging infections
-- Summary: During this session, AIRA will share how AI-supported social listening is used to: Track infodemic trends across countries Identify key drivers such as trust, water and sanitation concerns, and vaccine perceptions Inform evidence-based risk communication and community engagement (RCCE) strategies Support countries with actionable insights and ready-to-use content This webinar will also highlight experiences from country and regional levels, demonstrating how data-driven listening can strengthen public health responses . 👉 Join us and be part of the conversation.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Health: Uganda to roll out fractional dosing of Mpox vaccine
 - Source: NewVision.co.ug
 - Date: 2026-05-10T14:00+00:00
@@ -400,39 +377,53 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-05-06T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42089435/
-- Category: Major epidemiology studies
-- Summary: These gaps include the use of topical corticosteroids, lack of itraconazole use (100-200 mg/day for 6-8 weeks or longer) as first-line treatment, and prescribing fixed, short treatment durations. All patients (median age: 54; 3 males and 2 females) reported recent travel to India or Nepal, except one, who was the spouse of a patient who had traveled to India. Two different SQLE substitutions were detected, F397L ( N = 2) and L393F ( N = 1), which are common among terbinafine-resistant T.
-- Why it matters: Comes from an official or primary-source channel.
+### Bangladesh: H5N1 avian influenza fatality in Chattogram child
+- Source: Outbreak News Today
+- Date: 2026-05-02T07:00+00:00
+- URL: https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality
+- Category: Outbreaks and emerging infections
+- Summary: Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### How conflict is driving measles outbreaks in the Middle East and North Africa
+- Source: arabnews.jp
+- Date: 2026-05-10T01:05+00:00
+- URL: https://www.arabnews.jp/en/middle-east/article_169830/
+- Category: Outbreaks and emerging infections
+- Summary: Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths. Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 4/5
+
+### From US to Singapore, countries race to track hantavirus
+- Source: CNN
+- Date: 2026-05-07T12:53+00:00
+- URL: https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 4/5
 
 
 ## Other notable readings
-- [80% of areas free of malaria, Indonesia on track to achieve elimination target by 2030](https://observerid.com/80-of-areas-free-of-malaria-indonesia-on-track-to-achieve-elimination-target-by-2030/) | Independent Observer | 2026-05-10T02:00+00:00 | Outbreaks and emerging infections
-  According to data from the Ministry of Health (Kemenkes), the number of reported malaria cases in 2025 was 706,297, marking a 30 percent increase compared to 2024, which recorded 543,965 cases. Jakarta, IO – By the end of 2025, 412 out of 514 regencies and cities (80 percent) and seven provinces in Indonesia are expected to be officially declared free of malaria transmission. “Regionally, 95 percent of all malaria cases in Indonesia—totaling 674,046 cases—were concentrated in Papua, which is composed of six provinces.
-- [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) | arabnews.jp | 2026-05-10T01:05+00:00 | Outbreaks and emerging infections
-  Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths. Limited detail was available from feed metadata alone.
-- [From US to Singapore, countries race to track hantavirus](https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) | CNN | 2026-05-07T12:53+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) | Scimex | 2026-05-01T02:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) | PubMed Infectious Disease Search | 2026-05-08T00:00 | Major epidemiology studies
   This points to severe immune activation and a high risk of joint injury. Immunologically, genotypes I and IV triggered strong early pro-inflammatory cytokine responses and significantly upregulated MMP13 and Wnt14 at 7 dpi. Phylogenetic analysis of these isolates and field strains in China based on the σC gene revealed co-circulation of multiple genotypes (predominantly I and II), with epidemic strains actively evolving and genetically distant from the S1133 vaccine.
-- [2 more passengers evacuated from cruise ship test positive for hantavirus](https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-df0e7e1fb9c7fd3e4092be06e684f644) | AP News | 2026-05-11T16:28+00:00 | Outbreaks and emerging infections
+- [One American tests positive for hantavirus as cruise ship passengers arrive in U.S.](https://www.washingtonpost.com/health/2026/05/09/hantavirus-us-cruise-cdc/) | The Washington Post | 2026-05-11T17:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [One American tests positive for hantavirus as cruise ship passengers arrive in U.S.](https://www.washingtonpost.com/health/2026/05/09/hantavirus-us-cruise-cdc/) | The Washington Post | 2026-05-11T16:09+00:00 | Outbreaks and emerging infections
+- [2 more passengers, French and American, evacuated from cruise ship test positive for hantavirus](https://www.cbc.ca/news/world/hantavirus-cruise-ship-evacuation-9.7194723) | CBC | 2026-05-11T15:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-11T15:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [American cruise ship passenger tests positive for hantavirus after evacuation](https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [3 passengers, French and American, test positive or have symptoms of hantavirus after evacuation](https://www.cbc.ca/news/world/hantavirus-cruise-ship-evacuation-9.7194723) | CBC | 2026-05-11T13:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO says seven cases of hantavirus confirmed from cruise ship](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/) | Reuters | 2026-05-11T12:25+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Americans evacuated from hantavirus cruise ship arrive back in U.S.](https://www.cbsnews.com/video/17-americans-evacuated-from-hantavirus-cruise-ship-arrive-back-in-us/) | CBS News | 2026-05-11T11:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Evacuated US and French MV Hondius passengers test positive for hantavirus](https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus) | The Guardian | 2026-05-11T09:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -440,7 +431,7 @@ Search window: 7 day(s) ending 2026-05-11
   Limited detail was available from feed metadata alone.
 - [Hantavirus outbreak latest: Two more cases confirmed amongst evacuees](https://www.euronews.com/health/2026/05/11/hantavirus-outbreak-latest-france-confirms-new-case-in-a-woman-evacuated-from-the-ship) | Euronews.com | 2026-05-11T08:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Americans evacuated from virus cruise ship arrive back in US](https://news.sky.com/video/americans-evacuated-from-virus-cruise-ship-arrive-back-in-us-13542606) | Sky News | 2026-05-11T06:12+00:00 | Outbreaks and emerging infections
+- [Passengers evacuated from hantavirus cruise ship](https://www.nbcnews.com/video/shorts/passengers-evacuated-from-hantavirus-cruise-ship-263088709635) | NBC News | 2026-05-11T07:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [One evacuated passenger tests positive for hantavirus and another develops symptoms on flight home](https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4) | AP News | 2026-05-11T04:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -452,14 +443,14 @@ Search window: 7 day(s) ending 2026-05-11
   Limited detail was available from feed metadata alone.
 - [Evacuations begin for passengers on MV Hondius cruise ship following hantavirus outbreak](https://www.pbs.org/newshour/world/evacuations-begin-for-passengers-on-mv-hondius-cruise-ship-following-hantavirus-outbreak) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive](https://www.theguardian.com/us-news/2026/may/10/americans-hantavirus-cruise-ship-repatriated) | The Guardian | 2026-05-10T16:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Evacuation flights leave Tenerife after cruise ship virus outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/cruise-ship-hit-by-hantavirus-outbreak-arrives-tenerife-2026-05-10/) | Reuters | 2026-05-10T04:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Countries prepare to evacuate hantavirus ship passengers](https://www.reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09/) | Reuters | 2026-05-09T22:38+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
-- [Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42089435/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/09546634.2026.2663646
-  Journal/preprint server: The Journal of dermatological treatment
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42089435/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42089435/
 - [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21505594.2026.2670070
@@ -473,5 +464,4 @@ Search window: 7 day(s) ending 2026-05-11
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
-- Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
