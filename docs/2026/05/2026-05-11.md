@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-11
-Generated at: 2026-05-11T08:53
+Generated at: 2026-05-11T09:50
 Search window: 7 day(s) ending 2026-05-11
 
 ## Executive scan
@@ -11,8 +11,8 @@ Search window: 7 day(s) ending 2026-05-11
 - [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News; 2026-05-06T18:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Hantavirus outbreak on cruise ship under investigation: risk for Europe very low](https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low) (ECDC News; 2026-05-05T15:17+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa; 2026-05-05T10:17+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Malaria vaccine cuts child deaths by 13% in Africa, offering fresh hope: The Lancet](https://indianexpress.com/article/health-wellness/malaria-vaccine-child-mortality-lancet-study-india-elimination-10683903/lite/) (The Indian Express; 2026-05-11T10:54+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (75), Policy, surveillance, and public health infrastructure (4), Major epidemiology studies (2)
+- [Health: Uganda to roll out fractional dosing of Mpox vaccine](https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026) (NewVision.co.ug; 2026-05-10T14:00+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (71), Policy, surveillance, and public health infrastructure (4), Occupational and environmental epidemiology (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -34,7 +34,7 @@ Search window: 7 day(s) ending 2026-05-11
 
 ## Major topics
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 69 item(s) across 38 source(s); 4 official/primary-source item(s).
+- Topic size: 65 item(s) across 36 source(s); 4 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News, 2026-05-11T16:39+02:00)
 - Detailed note: Hantavirus infection has been laboratory-confirmed in two individuals in connection with the cluster of illness reported on a cruise ship. Passengers and crew continue to disembark and to be medically evacuated to their countries of origin. On 10 May, the cruise ship MV Hondius arrived at the port of Granadilla, Tenerife, Canary Islands.
 - Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News); [Hantavirus outbreak on cruise ship under investigation: risk for Europe very low](https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low) (ECDC News); [From US to Singapore, countries race to track hantavirus](https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) (CNN)
@@ -42,10 +42,10 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 7 item(s) across 6 source(s); 3 official/primary-source item(s).
+- Topic size: 6 item(s) across 5 source(s); 3 official/primary-source item(s).
 - Lead item: [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa, 2026-05-05T10:17+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa); [Malaria vaccine cuts child deaths by 13% in Africa, offering fresh hope: The Lancet](https://indianexpress.com/article/health-wellness/malaria-vaccine-child-mortality-lancet-study-india-elimination-10683903/lite/) (The Indian Express); [Health: Uganda to roll out fractional dosing of Mpox vaccine](https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026) (NewVision.co.ug); [Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42089435/) (PubMed Infectious Disease Search); [80% of areas free of malaria, Indonesia on track to achieve elimination target by 2030](https://observerid.com/80-of-areas-free-of-malaria-indonesia-on-track-to-achieve-elimination-target-by-2030/) (Independent Observer)
+- Evidence notes: [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa); [Health: Uganda to roll out fractional dosing of Mpox vaccine](https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026) (NewVision.co.ug); [Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42089435/) (PubMed Infectious Disease Search); [80% of areas free of malaria, Indonesia on track to achieve elimination target by 2030](https://observerid.com/80-of-areas-free-of-malaria-indonesia-on-track-to-achieve-elimination-target-by-2030/) (Independent Observer); [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -72,6 +72,14 @@ Search window: 7 day(s) ending 2026-05-11
 - Evidence notes: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp); [Confirmed measles cases grow to 12 in Pa.’s Lebanon County](https://www.post-gazette.com/news/health/2026/05/06/lebanon-county-pa-measles/stories/202605060063) (Pittsburgh Post-Gazette); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress); [Lebanon city and county officials await more information on measles outbreak](https://lebtown.com/2026/05/08/lebanon-city-and-county-officials-await-more-information-on-measles-outbreak/) (LebTown)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Polio and wastewater surveillance
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex, 2026-05-01T02:44+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -372,16 +380,6 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Malaria vaccine cuts child deaths by 13% in Africa, offering fresh hope: The Lancet
-- Source: The Indian Express
-- Date: 2026-05-11T10:54+00:00
-- URL: https://indianexpress.com/article/health-wellness/malaria-vaccine-child-mortality-lancet-study-india-elimination-10683903/lite/
-- Category: Outbreaks and emerging infections
-- Summary: Children who received the full four-dose course experienced a 13 per cent reduction in all-cause mortality compared to children in areas where the vaccine was introduced later — effectively preventing one in every eight child deaths in high-transmission regions. Researchers used community-based death surveillance along with hospital monitoring to evaluate the vaccine’s impact.“This is powerful evidence that malaria vaccination can save thousands of young lives in endemic regions,” said Rafiq Okine, technical officer for malaria chemoprevention and vaccines at WHO’s Malaria and Neglected Tropical Diseases Department and co-author of the study. The findings are based on data from more than 1.2 million children across 158 communities, making it one of the largest real-world assessments of a malaria vaccine to date.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Health: Uganda to roll out fractional dosing of Mpox vaccine
 - Source: NewVision.co.ug
 - Date: 2026-05-10T14:00+00:00
@@ -402,33 +400,39 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-05-06T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42089435/
+- Category: Major epidemiology studies
+- Summary: These gaps include the use of topical corticosteroids, lack of itraconazole use (100-200 mg/day for 6-8 weeks or longer) as first-line treatment, and prescribing fixed, short treatment durations. All patients (median age: 54; 3 males and 2 females) reported recent travel to India or Nepal, except one, who was the spouse of a patient who had traveled to India. Two different SQLE substitutions were detected, F397L ( N = 2) and L393F ( N = 1), which are common among terbinafine-resistant T.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 4/5
+
 
 ## Other notable readings
-- [Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.](https://pubmed.ncbi.nlm.nih.gov/42089435/) | PubMed Infectious Disease Search | 2026-05-06T00:00 | Major epidemiology studies
-  These gaps include the use of topical corticosteroids, lack of itraconazole use (100-200 mg/day for 6-8 weeks or longer) as first-line treatment, and prescribing fixed, short treatment durations. All patients (median age: 54; 3 males and 2 females) reported recent travel to India or Nepal, except one, who was the spouse of a patient who had traveled to India. Two different SQLE substitutions were detected, F397L ( N = 2) and L393F ( N = 1), which are common among terbinafine-resistant T.
 - [80% of areas free of malaria, Indonesia on track to achieve elimination target by 2030](https://observerid.com/80-of-areas-free-of-malaria-indonesia-on-track-to-achieve-elimination-target-by-2030/) | Independent Observer | 2026-05-10T02:00+00:00 | Outbreaks and emerging infections
   According to data from the Ministry of Health (Kemenkes), the number of reported malaria cases in 2025 was 706,297, marking a 30 percent increase compared to 2024, which recorded 543,965 cases. Jakarta, IO – By the end of 2025, 412 out of 514 regencies and cities (80 percent) and seven provinces in Indonesia are expected to be officially declared free of malaria transmission. “Regionally, 95 percent of all malaria cases in Indonesia—totaling 674,046 cases—were concentrated in Papua, which is composed of six provinces.
 - [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) | arabnews.jp | 2026-05-10T01:05+00:00 | Outbreaks and emerging infections
   Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths. Limited detail was available from feed metadata alone.
 - [From US to Singapore, countries race to track hantavirus](https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) | CNN | 2026-05-07T12:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) | Scimex | 2026-05-01T02:44+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) | PubMed Infectious Disease Search | 2026-05-08T00:00 | Major epidemiology studies
   This points to severe immune activation and a high risk of joint injury. Immunologically, genotypes I and IV triggered strong early pro-inflammatory cytokine responses and significantly upregulated MMP13 and Wnt14 at 7 dpi. Phylogenetic analysis of these isolates and field strains in China based on the σC gene revealed co-circulation of multiple genotypes (predominantly I and II), with epidemic strains actively evolving and genetically distant from the S1133 vaccine.
-- [2 more passengers evacuated from cruise ship test positive for hantavirus](https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-df0e7e1fb9c7fd3e4092be06e684f644) | AP News | 2026-05-11T15:06+00:00 | Outbreaks and emerging infections
+- [2 more passengers evacuated from cruise ship test positive for hantavirus](https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-df0e7e1fb9c7fd3e4092be06e684f644) | AP News | 2026-05-11T16:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hantavirus-hit ship's captain praises passengers and crew as evacuations conclude](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-11T14:40+00:00 | Outbreaks and emerging infections
+- [One American tests positive for hantavirus as cruise ship passengers arrive in U.S.](https://www.washingtonpost.com/health/2026/05/09/hantavirus-us-cruise-cdc/) | The Washington Post | 2026-05-11T16:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [One American tests positive for hantavirus as cruise ship passengers arrive in U.S.](https://www.washingtonpost.com/health/2026/05/09/hantavirus-us-cruise-cdc/) | The Washington Post | 2026-05-11T14:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [An American tests positive for hantavirus](https://www.politico.com/newsletters/politico-pulse/2026/05/11/an-american-tests-positive-for-hantavirus-00913639) | Politico | 2026-05-11T14:00+00:00 | Outbreaks and emerging infections
+- [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-11T15:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [American cruise ship passenger tests positive for hantavirus after evacuation](https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [3 passengers, French and American, test positive or have symptoms of hantavirus after evacuation](https://www.cbc.ca/news/world/hantavirus-cruise-ship-evacuation-9.7194723) | CBC | 2026-05-11T13:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says seven cases of hantavirus confirmed from cruise ship](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/) | Reuters | 2026-05-11T12:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What comes next for US passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-11T10:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Evacuated US and French MV Hondius passengers test positive for hantavirus](https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus) | The Guardian | 2026-05-11T09:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -443,6 +447,10 @@ Search window: 7 day(s) ending 2026-05-11
 - [Americans evacuated from hantavirus-stricken cruise ship off Spanish island](https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318) | NBC News | 2026-05-11T02:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [May 10: Hantavirus cruise ship evacuated; Iran war](https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-may-10-263077957641) | NBC News | 2026-05-10T23:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking](https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html) | The New York Times | 2026-05-10T22:27+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Evacuations begin for passengers on MV Hondius cruise ship following hantavirus outbreak](https://www.pbs.org/newshour/world/evacuations-begin-for-passengers-on-mv-hondius-cruise-ship-following-hantavirus-outbreak) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
