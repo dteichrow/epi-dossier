@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-11
-Generated at: 2026-05-11T11:51
+Generated at: 2026-05-11T11:54
 Search window: 7 day(s) ending 2026-05-11
 
 ## Executive scan
@@ -9,24 +9,14 @@ Search window: 7 day(s) ending 2026-05-11
 - [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News; 2026-05-09T15:10+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News; 2026-05-06T18:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Hantavirus outbreak on cruise ship under investigation: risk for Europe very low](https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low) (ECDC News; 2026-05-05T15:17+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Malaria vaccine cuts child deaths by 13% in Africa, offering fresh hope: The Lancet](https://indianexpress.com/article/health-wellness/malaria-vaccine-child-mortality-lancet-study-india-elimination-10683903/) (The Indian Express; 2026-05-11T10:54+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Health: Uganda to roll out fractional dosing of Mpox vaccine](https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026) (NewVision.co.ug; 2026-05-10T14:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T15:24+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp; 2026-05-10T01:05+00:00; Outbreaks and emerging infections; relevance 4/5)
-- [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) (CBS 19 News; 2026-05-09T02:57+00:00; Outbreaks and emerging infections; relevance 4/5)
 - Category mix: Outbreaks and emerging infections (71), Policy, surveillance, and public health infrastructure (4), Major epidemiology studies (1)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Measles transmission and vaccination
-- Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp)
-- New publisher/source coverage joined this story cluster: CBS 19 News, National Catholic Reporter.
-- Story volume increased from 4 to 6 clustered item(s) in the current window.
-- 2 newly observed linked item(s) were added since the last saved snapshot.
-
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News)
-- New publisher/source coverage joined this story cluster: Atlanta News First.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
+- No multi-item story clusters produced concrete update bullets in this run.
 
 ## Major topics
 ### Hantavirus and cruise-ship outbreak
@@ -38,10 +28,10 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa, 2026-05-11T16:57+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) (PubMed Infectious Disease Search); [Florida: Additional chikungunya case reported in Miami-Dade County, Country of origin is Bolivia](https://outbreaknewstoday.substack.com/p/florida-additional-chikungunya-case) (Outbreak News Today)
+- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Malaria vaccine cuts child deaths by 13% in Africa, offering fresh hope: The Lancet](https://indianexpress.com/article/health-wellness/malaria-vaccine-child-mortality-lancet-study-india-elimination-10683903/) (The Indian Express); [Health: Uganda to roll out fractional dosing of Mpox vaccine](https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026) (NewVision.co.ug); [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) (PubMed Infectious Disease Search); [Florida: Additional chikungunya case reported in Miami-Dade County, Country of origin is Bolivia](https://outbreaknewstoday.substack.com/p/florida-additional-chikungunya-case) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -54,20 +44,12 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Measles transmission and vaccination
-- Topic size: 6 item(s) across 6 source(s); 0 official/primary-source item(s).
+- Topic size: 5 item(s) across 5 source(s); 0 official/primary-source item(s).
 - Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp, 2026-05-10T01:05+00:00)
-- Detailed note: Updated: May 11, 2026 @ 2:36 pm Full Forecast Charlottesville, VA (22901) Today Cloudy with occasional rain showers. Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths. Publications EarthBeat Stories of climate, crisis, faith and action Global Sisters Report Mission and ministry of...
-- Evidence notes: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp); [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) (CBS 19 News); [Catholic health centers respond to massive measles outbreak in Bangladesh](https://www.ncronline.org/news/catholic-health-centers-respond-massive-measles-outbreak-bangladesh) (National Catholic Reporter); [Confirmed measles cases grow to 12 in Pa.’s Lebanon County](https://www.post-gazette.com/news/health/2026/05/06/lebanon-county-pa-measles/stories/202605060063) (Pittsburgh Post-Gazette); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
+- Detailed note: Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths. Publications EarthBeat Stories of climate, crisis, faith and action Global Sisters Report Mission and ministry of Catholic women religious around the world GSR en español Comunicación al servicio de la vida religiosa EarthBeat Stories of...
+- Evidence notes: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp); [Catholic health centers respond to massive measles outbreak in Bangladesh](https://www.ncronline.org/news/catholic-health-centers-respond-massive-measles-outbreak-bangladesh) (National Catholic Reporter); [Confirmed measles cases grow to 12 in Pa.’s Lebanon County](https://www.post-gazette.com/news/health/2026/05/06/lebanon-county-pa-measles/stories/202605060063) (Pittsburgh Post-Gazette); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress); [Lebanon city and county officials await more information on measles outbreak](https://lebtown.com/2026/05/08/lebanon-city-and-county-officials-await-more-information-on-measles-outbreak/) (LebTown)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Polio and wastewater surveillance
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex, 2026-05-01T02:44+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -348,6 +330,26 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Malaria vaccine cuts child deaths by 13% in Africa, offering fresh hope: The Lancet
+- Source: The Indian Express
+- Date: 2026-05-11T10:54+00:00
+- URL: https://indianexpress.com/article/health-wellness/malaria-vaccine-child-mortality-lancet-study-india-elimination-10683903/
+- Category: Outbreaks and emerging infections
+- Summary: Children who received the full four-dose course experienced a 13 per cent reduction in all-cause mortality compared to children in areas where the vaccine was introduced later — effectively preventing one in every eight child deaths in high-transmission regions. Researchers used community-based death surveillance along with hospital monitoring to evaluate the vaccine’s impact.“This is powerful evidence that malaria vaccination can save thousands of young lives in endemic regions,” said Rafiq Okine, technical officer for malaria chemoprevention and vaccines at WHO’s Malaria and Neglected Tropical Diseases Department and co-author of the study. The findings are based on data from more than 1.2 million children across 158 communities, making it one of the largest real-world assessments of a malaria vaccine to date.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Health: Uganda to roll out fractional dosing of Mpox vaccine
+- Source: NewVision.co.ug
+- Date: 2026-05-10T14:00+00:00
+- URL: https://www.newvision.co.ug/category/health/uganda-to-roll-out-fractional-dosing-of-mpox-NV_216573_052026
+- Category: Outbreaks and emerging infections
+- Summary: The burden One year since the Mpox was declared a Public Health Emergence of Continental Security (PHECS), the continent has recorded 177,565 cumulative suspected Mpox cases, a total of 49,639 confirmed cases, 1,933 deaths from suspected cases, and 242 deaths from confirmed. Bringing it down to Uganda, the cumulative Mpox confirmed cases have risen to 7731 with 48 confirmed deaths, according to the National Mpox Situation Report of Epi week 31. Cumaulatively48 deaths have occurred among confirmed cases, half (47.9%) of whom were co-infected with HIV.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date
 - Source: Outbreak News Today
 - Date: 2026-05-02T15:24+00:00
@@ -368,16 +370,6 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 4/5
 
-### Officials investigate case of measles in the Central Region
-- Source: CBS 19 News
-- Date: 2026-05-09T02:57+00:00
-- URL: https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html
-- Category: Outbreaks and emerging infections
-- Summary: Updated: May 11, 2026 @ 2:36 pm Full Forecast Charlottesville, VA (22901) Today Cloudy with occasional rain showers. Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 4/5
-
 ### Catholic health centers respond to massive measles outbreak in Bangladesh
 - Source: National Catholic Reporter
 - Date: 2026-05-08T20:45+00:00
@@ -388,19 +380,9 @@ Search window: 7 day(s) ending 2026-05-11
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 4/5
 
-### From US to Singapore, countries race to track hantavirus
-- Source: CNN
-- Date: 2026-05-07T12:53+00:00
-- URL: https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 4/5
-
 
 ## Other notable readings
-- [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) | Scimex | 2026-05-01T02:44+00:00 | Outbreaks and emerging infections
+- [From US to Singapore, countries race to track hantavirus](https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) | CNN | 2026-05-07T12:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.](https://pubmed.ncbi.nlm.nih.gov/42100896/) | PubMed Infectious Disease Search | 2026-05-08T00:00 | Major epidemiology studies
   This points to severe immune activation and a high risk of joint injury. Immunologically, genotypes I and IV triggered strong early pro-inflammatory cytokine responses and significantly upregulated MMP13 and Wnt14 at 7 dpi. Phylogenetic analysis of these isolates and field strains in China based on the σC gene revealed co-circulation of multiple genotypes (predominantly I and II), with epidemic strains actively evolving and genetically distant from the S1133 vaccine.
