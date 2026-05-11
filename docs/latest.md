@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-10
-Generated at: 2026-05-10T22:14
+Generated at: 2026-05-10T22:21
 Search window: 7 day(s) ending 2026-05-10
 
 ## Executive scan
@@ -12,24 +12,18 @@ Search window: 7 day(s) ending 2026-05-10
 - [Webinar | Listening to communities through AI for cholera response](https://www.afro.who.int/publications/webinar-listening-communities-through-ai-cholera-response) (WHO Regional Office for Africa; 2026-05-05T10:17+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low](https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low) (ECDC News; 2026-05-04T19:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [ECDC monitoring outbreak associated with cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship) (ECDC News; 2026-05-04T11:42+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (59), Policy, surveillance, and public health infrastructure (5), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (60), Policy, surveillance, and public health infrastructure (5), Major epidemiology studies (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News)
-- New publisher/source coverage joined this story cluster: WOWT.
-- 3 newly observed linked item(s) were added since the last saved snapshot.
-
-### Measles transmission and vaccination
-- Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp)
-- New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
+- Story volume increased from 52 to 53 clustered item(s) in the current window.
 
 
 ## Major topics
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 52 item(s) across 23 source(s); 4 official/primary-source item(s).
+- Topic size: 53 item(s) across 23 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News, 2026-05-09T15:10+02:00)
 - Detailed note: ECDC is aware of suspected cases of hantavirus infection, including three deaths, associated with a cruise ship travelling in the Atlantic. A cluster of severe acute respiratory illness, including three deaths and one severely ill individual, has been reported among passengers on a cruise ship travelling in the Atlantic and registered in the Netherlands. The ship is currently located off the coast of Cabo Verde,...
 - Evidence notes: [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News); [Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low](https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low) (ECDC News); [ECDC monitoring outbreak associated with cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship) (ECDC News); [From US to Singapore, countries race to track hantavirus](https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) (CNN)
