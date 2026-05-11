@@ -87,6 +87,19 @@ def test_item_should_drop_official_undated_non_disease_signal():
     assert item_should_drop(item) is True
 
 
+def test_item_should_drop_misclassified_travel_notice_recall():
+    item = Item(
+        title="JCB Flavors, LLC Issues Voluntary Recall of Topical Seasonings Due to Potential Health Risk",
+        source="CDC Travel Health Notices",
+        url="https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765408",
+        category="Outbreaks and emerging infections",
+        summary="FDA recall notice about possible health risk.",
+        official=True,
+    )
+
+    assert item_should_drop(item) is True
+
+
 def test_item_should_not_drop_research_item_that_matches_scope():
     item = Item(
         title="Exploring community perceptions of gender roles as a predisposing factor in schistosomiasis infection in southwestern Uganda.",

@@ -253,9 +253,8 @@ Repo file:
 
 Purpose:
 
-- runs `./scripts/publish_public_site.sh`
-- rebuilds the local reader and the public `docs/` tree
-- pushes public `docs/` changes to GitHub when the generated site changed
+- runs `python -m src.main`
+- writes the dated local dossier plus refreshed `Daily Dossiers/latest.*`
 - starts at `06:30` local time every day
 
 Install it:
@@ -266,6 +265,8 @@ launchctl unload ~/Library/LaunchAgents/com.codex.epi-dossier.daily-morning.plis
 launchctl load ~/Library/LaunchAgents/com.codex.epi-dossier.daily-morning.plist
 launchctl start com.codex.epi-dossier.daily-morning
 ```
+
+This is the conservative local-first scheduler described in the original brief. It does not push anything to GitHub.
 
 ### Workday heartbeat launchd job
 

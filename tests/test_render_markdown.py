@@ -155,6 +155,33 @@ def test_render_markdown_topic_note_avoids_lead_signal_template_when_summary_ava
     assert "The lead signal is" not in content
 
 
+def test_render_markdown_miscellaneous_topic_uses_non_synthesis_note():
+    items = [
+        Item(
+            title="Webinar | Listening to communities through AI for cholera response",
+            source="WHO Regional Office for Africa",
+            url="https://example.com/cholera-webinar",
+            category="Outbreaks and emerging infections",
+            summary="Cholera response webinar.",
+            why_it_matters="It matters.",
+            caveats="Some uncertainty.",
+            relevance_score=4,
+        ),
+        Item(
+            title="Comparative analysis of viral biological characteristics and pathogenicity of representative prevalent avian reovirus strains from genotypes I to V.",
+            source="PubMed Infectious Disease Search",
+            url="https://example.com/reovirus-paper",
+            category="Major epidemiology studies",
+            summary="Avian reovirus paper.",
+            why_it_matters="It matters.",
+            caveats="Some uncertainty.",
+            relevance_score=4,
+        ),
+    ]
+    content = render_markdown(items, date(2026, 5, 3), datetime(2026, 5, 3, 6, 30), "2 day(s)")
+    assert "do not resolve into one coherent topic cluster" in content
+
+
 def test_render_markdown_surfaces_source_failures_in_executive_scan():
     content = render_markdown(
         [],

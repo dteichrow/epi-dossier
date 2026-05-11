@@ -365,7 +365,10 @@ def _render_topic(topic_name: str, items: list[Item]) -> list[str]:
     headline = top_items[0]
     official_count = sum(1 for item in items if item.official)
     source_count = len({item.display_source for item in items})
-    synopsis = build_topic_synopsis(topic_name, top_items)
+    if topic_name == "Miscellaneous signals":
+        synopsis = "Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story."
+    else:
+        synopsis = build_topic_synopsis(topic_name, top_items)
     evidence = build_topic_evidence(top_items[:5])
     implications = build_topic_implications(topic_name, top_items)
     caveats = build_topic_caveats(top_items)

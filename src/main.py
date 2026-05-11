@@ -176,6 +176,13 @@ LOW_VALUE_TITLE_PATTERNS = (
     "live updates",
 )
 
+MISCLASSIFIED_TRAVEL_NOTICE_PATTERNS = (
+    "voluntary recall",
+    "possible health risk",
+    "recalls ",
+    "issues voluntary recall",
+)
+
 LOW_DETAIL_MARKERS = (
     "limited detail was available from feed metadata alone.",
     "limited usable detail remained after boilerplate cleanup.",
@@ -839,6 +846,8 @@ def filter_renderable_items(items: list[Item]) -> list[Item]:
 def item_should_drop(item: Item) -> bool:
     low_detail = any(marker in item.summary.lower() for marker in LOW_DETAIL_MARKERS)
     source = item.source.lower()
+    if item_from_misclassified_travel_notice_feed(item):
+        return True
     if (
         "google news" in source
         and item.publisher_tier in {"wire", "major_newsroom", "specialist_health"}
@@ -1081,6 +1090,20 @@ def item_has_disease_specific_signal(item: Item) -> bool:
         }
     )
     return any(term in text for term in disease_terms)
+
+
+def item_from_misclassified_travel_notice_feed(item: Item) -> bool:
+    if item.source != "CDC Travel Health Notices":
+        return False
+    text = " ".join(
+        [
+            item.title.lower(),
+            item.summary.lower(),
+            item.url.lower(),
+            item.extracted_text.lower(),
+        ]
+    )
+    return any(pattern in text for pattern in MISCLASSIFIED_TRAVEL_NOTICE_PATTERNS)
 
 
 def regionally_undercovered_signal(item: Item) -> bool:
