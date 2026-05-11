@@ -19,6 +19,25 @@ cleanup() {
   "$RMDIR_BIN" "$LOCK_DIR" 2>/dev/null || true
 }
 
+push_commit_with_generated_docs_rebase() {
+  local repo_root="$1"
+  local remote_name="$2"
+  local branch_name="$3"
+  local success_message="$4"
+  local remote_ref="${remote_name}/${branch_name}"
+
+  if GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" push "$remote_name" "$branch_name"; then
+    echo "$success_message"
+    return 0
+  fi
+
+  echo "Push rejected for $repo_root; fetching and rebasing generated docs onto $remote_ref."
+  GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" fetch "$remote_name" "$branch_name"
+  "$GIT_BIN" -C "$repo_root" rebase "$remote_ref"
+  GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" push "$remote_name" "$branch_name"
+  echo "$success_message"
+}
+
 publish_umbrella_site() {
   if [[ ! -d "$EDGE_REPO_ROOT/.git" ]]; then
     echo "Skipping umbrella site refresh because edge-of-epidemiology-site was not found."
@@ -42,8 +61,11 @@ publish_umbrella_site() {
   local umbrella_commit_message
   umbrella_commit_message="Automated Newsdesk refresh $("$DATE_BIN" '+%Y-%m-%d %H:%M %Z')"
   "$GIT_BIN" -C "$EDGE_REPO_ROOT" commit -m "$umbrella_commit_message"
-  GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$EDGE_REPO_ROOT" push origin main
-  echo "Published umbrella-site Newsdesk refresh."
+  push_commit_with_generated_docs_rebase \
+    "$EDGE_REPO_ROOT" \
+    origin \
+    main \
+    "Published umbrella-site Newsdesk refresh."
   cd "$REPO_ROOT"
 }
 
@@ -95,6 +117,9 @@ fi
 
 commit_message="Automated public refresh $("$DATE_BIN" '+%Y-%m-%d %H:%M %Z')"
 "$GIT_BIN" commit -m "$commit_message"
-GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" push origin main
-echo "Published public site refresh."
+push_commit_with_generated_docs_rebase \
+  "$REPO_ROOT" \
+  origin \
+  main \
+  "Published public site refresh."
 publish_umbrella_site
