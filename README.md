@@ -13,6 +13,7 @@ The system is conservative, failure-tolerant, and built to keep writing useful s
 ## Features
 
 - source-driven collection from RSS, official HTML listing pages, and APIs
+- official intake coverage for CDC, WHO, ECDC, FDA, USDA APHIS, and state health departments including California, New York, Florida, Texas, Washington, and Oregon
 - conservative summaries with no invented claims
 - SQLite tracking for seen items, stories, topics, and story timelines
 - graceful failure and cache fallback when live sources wobble

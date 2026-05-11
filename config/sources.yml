@@ -31,6 +31,15 @@ sources:
     outbreak_signal: true
     max_items: 80
 
+  - name: CDC Current Outbreak List
+    type: html_list
+    category: Outbreaks and emerging infections
+    url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html
+    official: true
+    outbreak_signal: true
+    item_selector: "a"
+    max_items: 80
+
   - name: WHO Disease Outbreak News
     type: html_list
     category: Outbreaks and emerging infections
@@ -181,6 +190,54 @@ sources:
     official: true
     outbreak_signal: true
     item_selector: "a[href*='/press/releases/']"
+    refresh_hours: 6
+    max_items: 80
+    timeout_seconds: 8
+    max_attempts: 1
+
+  - name: Florida Department of Health Press Releases
+    type: html_list
+    category: Policy, surveillance, and public health infrastructure
+    url: https://www.floridahealth.gov/category/press-release/
+    official: true
+    outbreak_signal: true
+    item_selector: "h2 a"
+    refresh_hours: 6
+    max_items: 80
+    timeout_seconds: 8
+    max_attempts: 1
+
+  - name: Texas Department of State Health Services News
+    type: html_list
+    category: Policy, surveillance, and public health infrastructure
+    url: https://www.dshs.texas.gov/
+    official: true
+    outbreak_signal: true
+    item_selector: "a[href*='/news-alerts/']"
+    refresh_hours: 6
+    max_items: 80
+    timeout_seconds: 8
+    max_attempts: 1
+
+  - name: Washington State Department of Health Newsroom
+    type: html_list
+    category: Policy, surveillance, and public health infrastructure
+    url: https://doh.wa.gov/newsroom
+    official: true
+    outbreak_signal: true
+    item_selector: "a[href*='/Newsroom/Articles/ID/'], a[href*='/newsroom/'][href*='/articles/']"
+    refresh_hours: 6
+    max_items: 80
+    timeout_seconds: 8
+    max_attempts: 1
+
+  - name: Oregon Health Authority News Releases
+    type: html_list
+    category: Policy, surveillance, and public health infrastructure
+    url: https://www.oregon.gov/oha/erd/pages/news-releases.aspx
+    official: true
+    outbreak_signal: true
+    item_selector: "a[href*='/oha/erd/pages/'], a[href*='/OHA/ERD/Pages/']"
     refresh_hours: 6
     max_items: 80
     timeout_seconds: 8
