@@ -7,7 +7,6 @@
       "CBS News",
       "CIDRAP",
       "CNN",
-      "Guardian",
       "NBC News",
       "NPR",
       "New York Times",
@@ -15,21 +14,21 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 61,
+    "metadata_only_count": 54,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 76,
+    "sources_live": 69,
     "story_count_change": 2,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 76,
+    "live": 69,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-10T18:19:44",
+  "generated_at": "2026-05-10T22:14:42",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
