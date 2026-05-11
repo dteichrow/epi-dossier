@@ -8,7 +8,8 @@
     <key>ProgramArguments</key>
     <array>
       <string>/bin/zsh</string>
-      <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/scripts/publish_public_site.sh</string>
+      <string>-lc</string>
+      <string>cd '/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier' &amp;&amp; ./scripts/publish_public_site.sh</string>
     </array>
 
     <key>WorkingDirectory</key>
