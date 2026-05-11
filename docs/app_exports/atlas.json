@@ -373,7 +373,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+          "latest_update_summary": "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -670,7 +670,7 @@
       "related_stories": [
         {
           "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "1 newly observed linked item(s) were added since the last saved snapshot.",
+          "latest_update_summary": "CDC MMWR now explicitly uses investigation or monitoring language.",
           "story_id": "story_28a91c6d89267872",
           "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
           "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
@@ -1912,6 +1912,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-11T08:48:18",
-  "run_id": "run_dd4b58e8d5b250a5"
+  "generated_at": "2026-05-11T08:53:04",
+  "run_id": "run_23a8388018a202e1"
 }
