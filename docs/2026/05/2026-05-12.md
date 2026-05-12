@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-12
-Generated at: 2026-05-12T13:09
+Generated at: 2026-05-12T14:10
 Search window: 7 day(s) ending 2026-05-12
 
 ## Executive scan
@@ -11,21 +11,21 @@ Search window: 7 day(s) ending 2026-05-12
 - [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature; 2026-05-12T10:18+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) (Daily Tribune; 2026-05-12T16:01+00:00; Outbreaks and emerging infections; relevance 4/5)
+- [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) (Digital Journal; 2026-05-12T03:39+00:00; Outbreaks and emerging infections; relevance 4/5)
 - Category mix: Outbreaks and emerging infections (62), Policy, surveillance, and public health infrastructure (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
-- Lead item: [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) (Daily Tribune)
-- New publisher/source coverage joined this story cluster: Daily Tribune.
-- The lead item has changed to [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) from Daily Tribune.
+- Lead item: [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) (Digital Journal)
+- New publisher/source coverage joined this story cluster: Digital Journal.
+- The lead item has changed to [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) from Digital Journal.
 - 1 newly observed linked item(s) were added since the last saved snapshot.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News)
-- Story volume increased from 54 to 56 clustered item(s) in the current window.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: TODAY.com.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
@@ -33,7 +33,7 @@ Search window: 7 day(s) ending 2026-05-12
 - Topic size: 56 item(s) across 26 source(s); 3 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News, 2026-05-11T16:39+02:00)
 - Detailed note: World Health Organization chief says there is currently ‘no sign that we are seeing the start of a larger outbreak’ A Spanish passenger evacuated from the cruise ship at the centre of a hantavirus outbreak has tested positive for the virus, Spain’s health ministry announced on Tuesday as the World Health Organization said it has now confirmed 11 cases, including three people from the cruise who died. The...
-- Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News); [From US to Singapore, countries race to track hantavirus](https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) (CNN); [Hantavirus in the U.S.: How easily does the Andes strain spread?](https://www.nbcnews.com/health/health-news/hantavirus-us-andes-cruise-ship-2026-spread-symptoms-rcna344575) (NBC News)
+- Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [Spain reports new hantavirus case in passenger from cruise ship as confirmed infections grow to 9](https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-ac42357c5c3ae1694a93f1d43ba38bdb) (AP News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -63,9 +63,9 @@ Search window: 7 day(s) ending 2026-05-12
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) (Daily Tribune, 2026-05-12T16:01+00:00)
-- Detailed note: Indonesia reported over 63,000 cases and 69 deaths in 2025, making it one of the world’s worst-affected countries. More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, official data show.
-- Evidence notes: [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) (Daily Tribune); [Lebanon city and county officials await more information on measles outbreak](https://lebtown.com/2026/05/08/lebanon-city-and-county-officials-await-more-information-on-measles-outbreak/) (LebTown); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
+- Lead item: [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) (Digital Journal, 2026-05-12T03:39+00:00)
+- Detailed note: More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, according to official data. The 40-year-old is one of a growing number of parents in the world’s fourth most populous country to spurn infant inoculations, even as the government rushes to quell a public health crisis.
+- Evidence notes: [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) (Digital Journal); [Lebanon city and county officials await more information on measles outbreak](https://lebtown.com/2026/05/08/lebanon-city-and-county-officials-await-more-information-on-measles-outbreak/) (LebTown); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -376,24 +376,14 @@ Search window: 7 day(s) ending 2026-05-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Measles surge in Indonesia fueled by vaccine misinformation
-- Source: Daily Tribune
-- Date: 2026-05-12T16:01+00:00
-- URL: https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation
+### Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge
+- Source: Digital Journal
+- Date: 2026-05-12T03:39+00:00
+- URL: https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article
 - Category: Outbreaks and emerging infections
-- Summary: Indonesia reported over 63,000 cases and 69 deaths in 2025, making it one of the world’s worst-affected countries. More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, official data show. JAKARTA (AFP) — A rising measles outbreak in Indonesia is being driven in part by vaccine hesitancy linked to misinformation and religious concerns, even as authorities launch an emergency immunization campaign.
+- Summary: More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, according to official data. The 40-year-old is one of a growing number of parents in the world’s fourth most populous country to spurn infant inoculations, even as the government rushes to quell a public health crisis. The phenomenon has become an issue as the number of measles cases in Indonesia has soared, becoming the second-highest in the world behind only war-torn Yemen, according to the Indonesian Paediatrics Association.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 4/5
-
-### From US to Singapore, countries race to track hantavirus
-- Source: CNN
-- Date: 2026-05-07T12:53+00:00
-- URL: https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 4/5
 
 ### EXPERT REACTION: Poliovirus detected in WA wastewater
@@ -408,7 +398,9 @@ Search window: 7 day(s) ending 2026-05-12
 
 
 ## Other notable readings
-- [Hantavirus in the U.S.: How easily does the Andes strain spread?](https://www.nbcnews.com/health/health-news/hantavirus-us-andes-cruise-ship-2026-spread-symptoms-rcna344575) | NBC News | 2026-05-12T12:12+00:00 | Outbreaks and emerging infections
+- [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) | CIDRAP | 2026-05-12T20:31+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Spain reports new hantavirus case in passenger from cruise ship as confirmed infections grow to 9](https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-ac42357c5c3ae1694a93f1d43ba38bdb) | AP News | 2026-05-12T15:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Spain reports new hantavirus case as outbreak grows to 11](https://www.scmp.com/news/world/europe/article/3353299/spain-reports-new-hantavirus-case-outbreak-grows-11) | South China Morning Post | 2026-05-12T11:35+00:00 | Outbreaks and emerging infections
   World Health Organization chief says there is currently ‘no sign that we are seeing the start of a larger outbreak’ A Spanish passenger evacuated from the cruise ship at the centre of a hantavirus outbreak has tested positive for the virus, Spain’s health ministry announced on Tuesday as the World Health Organization said it has now confirmed 11 cases, including three people from the cruise who died. The passenger with the new confirmed case of hantavirus was in quarantine in a military hospital in Madrid, where 13 other Spanish nationals evacuated on Sunday – who all tested negative for the virus – also are staying. The director-general of the World Health Organization, who was in Madrid, said all 11 confirmed cases are among passengers or crew of the MV Hondius cruise ship, including three people who died.
@@ -425,8 +417,6 @@ Search window: 7 day(s) ending 2026-05-12
 - [Several cruise ship passengers monitors, one test positive for hantavirus](https://www.cbsnews.com/detroit/video/several-cruise-ship-passengers-monitors-one-test-positive-for-hantavirus/) | CBS News | 2026-05-12T03:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-12T01:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Americans evacuated from hantavirus cruise ship land](https://www.cbsnews.com/pittsburgh/video/americans-evacuated-from-hantavirus-cruise-ship-land/) | CBS News | 2026-05-11T23:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [American cruise ship passenger tests positive for hantavirus after evacuation](https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
