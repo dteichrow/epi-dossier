@@ -2,7 +2,6 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "Associated Press",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -15,24 +14,24 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 60,
+    "metadata_only_count": 63,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 72,
-    "story_count_change": 0,
+    "sources_live": 68,
+    "story_count_change": 1,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 72,
+    "live": 68,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-11T18:02:58",
+  "generated_at": "2026-05-12T06:00:33",
   "source_failures": [
     {
-      "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
+      "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Max retries exceeded with url: /livestock-poultry-disease/avian/avian-influenza (Caused by NameResolutionError(\"HTTPSConnection(host='www.aphis.usda.gov', port=443): Failed to resolve 'www.aphis.usda.gov' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
     }
