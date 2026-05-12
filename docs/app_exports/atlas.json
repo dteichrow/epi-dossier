@@ -373,7 +373,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Digital Journal now includes deaths or fatal cases in the story frame.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: LebTown.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1912,6 +1912,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-12T06:01:18",
-  "run_id": "run_4f01c9ecab189e65"
+  "generated_at": "2026-05-12T07:01:45",
+  "run_id": "run_fc2cdacf54aa39d3"
 }
