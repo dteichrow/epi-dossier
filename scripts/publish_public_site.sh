@@ -15,6 +15,7 @@ MKDIR_BIN="/bin/mkdir"
 RMDIR_BIN="/bin/rmdir"
 MKTEMP_BIN="/usr/bin/mktemp"
 RM_BIN="/bin/rm"
+RSYNC_BIN="/usr/bin/rsync"
 PUSH_SSH_COMMAND="$SSH_BIN -o StrictHostKeyChecking=accept-new -i $SSH_KEY"
 
 cleanup() {
@@ -39,10 +40,11 @@ push_from_clean_temp_worktree() {
   local branch_name="$3"
   local success_message="$4"
   local remote_ref="${remote_name}/${branch_name}"
-  local temp_worktree current_ref
+  local temp_worktree current_ref commit_subject
 
   temp_worktree="$("$MKTEMP_BIN" -d /private/tmp/epi-dossier-publish-rebase.XXXXXX)"
   current_ref="$("$GIT_BIN" -C "$repo_root" rev-parse HEAD)"
+  commit_subject="$("$GIT_BIN" -C "$repo_root" log -1 --format=%s HEAD)"
 
   "$GIT_BIN" -C "$repo_root" worktree add --detach "$temp_worktree" "$current_ref" >/dev/null
   if ! GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$temp_worktree" fetch "$remote_name" "$branch_name"; then
@@ -50,8 +52,27 @@ push_from_clean_temp_worktree() {
     return 1
   fi
   if ! "$GIT_BIN" -C "$temp_worktree" rebase "$remote_ref"; then
-    cleanup_worktree "$repo_root" "$temp_worktree"
-    return 1
+    "$GIT_BIN" -C "$temp_worktree" rebase --abort >/dev/null 2>&1 || true
+    if ! "$GIT_BIN" -C "$temp_worktree" reset --hard "$remote_ref" >/dev/null; then
+      cleanup_worktree "$repo_root" "$temp_worktree"
+      return 1
+    fi
+    # Generated site trees conflict often; rebuild the temp worktree from the
+    # current local docs snapshot on top of the latest remote branch instead.
+    if ! "$RSYNC_BIN" -a --delete "$repo_root/docs/" "$temp_worktree/docs/"; then
+      cleanup_worktree "$repo_root" "$temp_worktree"
+      return 1
+    fi
+    "$GIT_BIN" -C "$temp_worktree" add docs
+    if "$GIT_BIN" -C "$temp_worktree" diff --cached --quiet -- docs; then
+      cleanup_worktree "$repo_root" "$temp_worktree"
+      echo "$success_message"
+      return 0
+    fi
+    if ! "$GIT_BIN" -C "$temp_worktree" commit -m "$commit_subject" >/dev/null; then
+      cleanup_worktree "$repo_root" "$temp_worktree"
+      return 1
+    fi
   fi
   if ! GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$temp_worktree" push "$remote_name" HEAD:"$branch_name"; then
     cleanup_worktree "$repo_root" "$temp_worktree"
