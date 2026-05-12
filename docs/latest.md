@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-12
-Generated at: 2026-05-12T12:10
+Generated at: 2026-05-12T13:09
 Search window: 7 day(s) ending 2026-05-12
 
 ## Executive scan
@@ -8,44 +8,50 @@ Search window: 7 day(s) ending 2026-05-12
 - [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News; 2026-05-11T16:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News; 2026-05-09T15:10+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News; 2026-05-06T18:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature; 2026-05-12T10:18+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) (Digital Journal; 2026-05-12T03:39+00:00; Outbreaks and emerging infections; relevance 4/5)
-- [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex; 2026-05-01T02:44+00:00; Outbreaks and emerging infections; relevance 4/5)
-- Category mix: Outbreaks and emerging infections (61), Policy, surveillance, and public health infrastructure (3)
+- [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) (Daily Tribune; 2026-05-12T16:01+00:00; Outbreaks and emerging infections; relevance 4/5)
+- Category mix: Outbreaks and emerging infections (62), Policy, surveillance, and public health infrastructure (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) (Daily Tribune)
+- New publisher/source coverage joined this story cluster: Daily Tribune.
+- The lead item has changed to [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) from Daily Tribune.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News)
-- South China Morning Post now includes quarantine language.
-- 7 newly observed linked item(s) were added since the last saved snapshot.
+- Story volume increased from 54 to 56 clustered item(s) in the current window.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 54 item(s) across 26 source(s); 3 official/primary-source item(s).
+- Topic size: 56 item(s) across 26 source(s); 3 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News, 2026-05-11T16:39+02:00)
 - Detailed note: World Health Organization chief says there is currently ‘no sign that we are seeing the start of a larger outbreak’ A Spanish passenger evacuated from the cruise ship at the centre of a hantavirus outbreak has tested positive for the virus, Spain’s health ministry announced on Tuesday as the World Health Organization said it has now confirmed 11 cases, including three people from the cruise who died. The...
-- Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News); [Hantavirus in the U.S.: How easily does the Andes strain spread?](https://www.nbcnews.com/health/health-news/hantavirus-us-andes-cruise-ship-2026-spread-symptoms-rcna344575) (NBC News); [Spain reports new hantavirus case as outbreak grows to 11](https://www.scmp.com/news/world/europe/article/3353299/spain-reports-new-hantavirus-case-outbreak-grows-11) (South China Morning Post)
+- Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Cruise ship hantavirus outbreak: ECDC response activated](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated) (ECDC News); [From US to Singapore, countries race to track hantavirus](https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl) (CNN); [Hantavirus in the U.S.: How easily does the Andes strain spread?](https://www.nbcnews.com/health/health-news/hantavirus-us-andes-cruise-ship-2026-spread-symptoms-rcna344575) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa, 2026-05-11T16:57+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Nigeria reports 190 deaths from Lassa fever as outbreak spreads across 23 states](https://www.ilkha.com/english/health-life/nigeria-reports-190-deaths-from-lassa-fever-as-outbreak-spreads-across-23-states-532301) (İlke Haber Ajansı)
+- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature); [Nigeria reports 190 deaths from Lassa fever as outbreak spreads across 23 states](https://www.ilkha.com/english/health-life/nigeria-reports-190-deaths-from-lassa-fever-as-outbreak-spreads-across-23-states-532301) (İlke Haber Ajansı)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today, 2026-05-02T07:00+00:00)
 - Detailed note: In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026.
-- Evidence notes: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Malaria and Dengue Cases Recede in Khartoum State](https://sudanhorizon.com/malaria-and-dengue-cases-recede-in-khartoum-state/) (Sudan Horizon)
+- Evidence notes: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Avian influenza and H5N1
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -57,9 +63,9 @@ Search window: 7 day(s) ending 2026-05-12
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) (Digital Journal, 2026-05-12T03:39+00:00)
-- Detailed note: More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, according to official data. The 40-year-old is one of a growing number of parents in the world’s fourth most populous country to spurn infant inoculations, even as the government rushes to quell a public health crisis.
-- Evidence notes: [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) (Digital Journal); [Lebanon city and county officials await more information on measles outbreak](https://lebtown.com/2026/05/08/lebanon-city-and-county-officials-await-more-information-on-measles-outbreak/) (LebTown); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
+- Lead item: [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) (Daily Tribune, 2026-05-12T16:01+00:00)
+- Detailed note: Indonesia reported over 63,000 cases and 69 deaths in 2025, making it one of the world’s worst-affected countries. More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, official data show.
+- Evidence notes: [Measles surge in Indonesia fueled by vaccine misinformation](https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation) (Daily Tribune); [Lebanon city and county officials await more information on measles outbreak](https://lebtown.com/2026/05/08/lebanon-city-and-county-officials-await-more-information-on-measles-outbreak/) (LebTown); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -340,6 +346,16 @@ Search window: 7 day(s) ending 2026-05-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone
+- Source: Nature
+- Date: 2026-05-12T10:18+00:00
+- URL: https://www.nature.com/articles/s41591-026-04385-8
+- Category: Outbreaks and emerging infections
+- Summary: Campbell ORCID: orcid.org/0000-0002-9178-1556 1 , 2 , 3 na1 , Martin Faye ORCID: orcid.org/0000-0003-3207-6344 8 , Taylor Brock-Fisher ORCID: orcid.org/0009-0000-5388-9315 10 , Mouhamed Kane ORCID: orcid.org/0009-0009-6489-7244 8 , Tiangay Mariama Patience Sallay Kallon 4 , In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. You are using a browser version with limited support for CSS.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date
 - Source: Outbreak News Today
 - Date: 2026-05-02T07:00+00:00
@@ -360,14 +376,24 @@ Search window: 7 day(s) ending 2026-05-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge
-- Source: Digital Journal
-- Date: 2026-05-12T03:39+00:00
-- URL: https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article
+### Measles surge in Indonesia fueled by vaccine misinformation
+- Source: Daily Tribune
+- Date: 2026-05-12T16:01+00:00
+- URL: https://tribune.net.ph/2026/05/12/measles-surge-in-indonesia-fueled-by-vaccine-misinformation
 - Category: Outbreaks and emerging infections
-- Summary: More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, according to official data. The 40-year-old is one of a growing number of parents in the world’s fourth most populous country to spurn infant inoculations, even as the government rushes to quell a public health crisis. The phenomenon has become an issue as the number of measles cases in Indonesia has soared, becoming the second-highest in the world behind only war-torn Yemen, according to the Indonesian Paediatrics Association.
+- Summary: Indonesia reported over 63,000 cases and 69 deaths in 2025, making it one of the world’s worst-affected countries. More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, official data show. JAKARTA (AFP) — A rising measles outbreak in Indonesia is being driven in part by vaccine hesitancy linked to misinformation and religious concerns, even as authorities launch an emergency immunization campaign.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 4/5
+
+### From US to Singapore, countries race to track hantavirus
+- Source: CNN
+- Date: 2026-05-07T12:53+00:00
+- URL: https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 4/5
 
 ### EXPERT REACTION: Poliovirus detected in WA wastewater
@@ -406,8 +432,6 @@ Search window: 7 day(s) ending 2026-05-12
   Limited detail was available from feed metadata alone.
 - [WHO says seven cases of hantavirus confirmed from cruise ship](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/) | Reuters | 2026-05-11T12:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Malaria and Dengue Cases Recede in Khartoum State](https://sudanhorizon.com/malaria-and-dengue-cases-recede-in-khartoum-state/) | Sudan Horizon | 2026-05-11T10:55+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Evacuated US and French MV Hondius passengers test positive for hantavirus](https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus) | The Guardian | 2026-05-11T09:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-11T06:36+00:00 | Outbreaks and emerging infections
@@ -419,6 +443,8 @@ Search window: 7 day(s) ending 2026-05-12
 - [Americans evacuated from hantavirus-stricken cruise ship off Spanish island](https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318) | NBC News | 2026-05-11T02:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus](https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers) | NPR | 2026-05-11T01:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Evacuation flights leave Tenerife after cruise ship virus outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/cruise-ship-hit-by-hantavirus-outbreak-arrives-tenerife-2026-05-10/) | Reuters | 2026-05-10T23:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Evacuations begin for passengers on MV Hondius cruise ship following hantavirus outbreak](https://www.pbs.org/newshour/world/evacuations-begin-for-passengers-on-mv-hondius-cruise-ship-following-hantavirus-outbreak) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
