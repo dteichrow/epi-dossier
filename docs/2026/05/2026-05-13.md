@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-13
-Generated at: 2026-05-13T07:34
+Generated at: 2026-05-13T07:39
 Search window: 7 day(s) ending 2026-05-13
 
 ## Executive scan
@@ -12,19 +12,20 @@ Search window: 7 day(s) ending 2026-05-13
 - [Two geographies, one virus: What recurrent Nipah spillover in India reveals](https://www.nature.com/articles/s44298-026-00195-4) (Nature; 2026-05-13T13:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature; 2026-05-12T10:18+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (39), Policy, surveillance, and public health infrastructure (4)
+- Category mix: Outbreaks and emerging infections (42), Policy, surveillance, and public health infrastructure (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News)
-- New publisher/source coverage joined this story cluster: OregonLive.com.
+- New publisher/source coverage joined this story cluster: facebook.com.
+- Story volume increased from 34 to 37 clustered item(s) in the current window.
 - 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 34 item(s) across 20 source(s); 2 official/primary-source item(s).
+- Topic size: 37 item(s) across 21 source(s); 2 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News, 2026-05-11T16:39+02:00)
 - Detailed note: Passengers and crew continue to disembark and to be medically evacuated to their countries of origin. On 10 May, the cruise ship MV Hondius arrived at the port of Granadilla, Tenerife, Canary Islands. The guidance published today by ECDC provides advice for public health professionals in the EU/EEA managing individuals potentially exposed to Andes hantavirus from the M/V Hondius, and for healthcare professionals...
 - Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News); [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) (BBC)
@@ -416,6 +417,8 @@ Search window: 7 day(s) ending 2026-05-13
   Limited detail was available from feed metadata alone.
 - [Evacuated US and French MV Hondius passengers test positive for hantavirus](https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus) | The Guardian | 2026-05-11T09:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Hantavirus ship sparks protests in Canary Islands, as cases around the world mapped](https://news.sky.com/video/hantavirus-ship-sparks-protests-in-canary-islands-as-cases-around-the-world-mapped-13541757) | Sky News | 2026-05-11T07:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-11T06:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans evacuated from virus cruise ship arrive back in US](https://news.sky.com/video/americans-evacuated-from-virus-cruise-ship-arrive-back-in-us-13542606) | Sky News | 2026-05-11T06:12+00:00 | Outbreaks and emerging infections
@@ -436,11 +439,9 @@ Search window: 7 day(s) ending 2026-05-13
   Limited detail was available from feed metadata alone.
 - [Countries prepare to evacuate hantavirus ship passengers](https://www.reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09/) | Reuters | 2026-05-09T22:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [WHO director arrives in Canary Islands to oversee hantavirus cruise evacuation: "This disease is not COVID"](https://www.cbsnews.com/news/hantavirus-cruise-evacuation-world-health-organization-hondius-canary-islands/) | CBS News | 2026-05-09T14:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO reports six confirmed hantavirus cases tied to Spain-bound cruise](https://www.reuters.com/business/healthcare-pharmaceuticals/who-reports-six-confirmed-hantavirus-cases-tied-spain-bound-cruise-2026-05-08/) | Reuters | 2026-05-08T22:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [U.S. plans evacuation flight for Americans on cruise ship in hantavirus outbreak](https://www.cbsnews.com/news/hantavirus-cruise-ship-americans-us-evacuation-flight/) | CBS News | 2026-05-08T17:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO chief arrives in Tenerife to oversee evacuation of hantavirus cruise ship](https://www.cnn.com/2026/05/08/health/cruise-ship-hantavirus-passengers) | CNN | 2026-05-08T16:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
