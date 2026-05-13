@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-13
-Generated at: 2026-05-13T05:34
+Generated at: 2026-05-13T06:33
 Search window: 7 day(s) ending 2026-05-13
 
 ## Executive scan
@@ -9,10 +9,10 @@ Search window: 7 day(s) ending 2026-05-13
 - [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News; 2026-05-11T16:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News; 2026-05-09T15:10+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News; 2026-05-07T09:57+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Major study confirms impact of the malaria vaccine, saving lives and reducing hospitalisations](https://www.gavi.org/vaccineswork/major-study-confirms-impact-malaria-vaccine-saving-lives-and-reducing) (Gavi, the Vaccine Alliance; 2026-05-12T15:14+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature; 2026-05-12T10:18+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (43), Policy, surveillance, and public health infrastructure (4)
+- Category mix: Outbreaks and emerging infections (42), Policy, surveillance, and public health infrastructure (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -20,7 +20,7 @@ Search window: 7 day(s) ending 2026-05-13
 
 ## Major topics
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 38 item(s) across 21 source(s); 2 official/primary-source item(s).
+- Topic size: 37 item(s) across 19 source(s); 2 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News, 2026-05-11T16:39+02:00)
 - Detailed note: Passengers and crew continue to disembark and to be medically evacuated to their countries of origin. On 10 May, the cruise ship MV Hondius arrived at the port of Granadilla, Tenerife, Canary Islands. The guidance published today by ECDC provides advice for public health professionals in the EU/EEA managing individuals potentially exposed to Andes hantavirus from the M/V Hondius, and for healthcare professionals...
 - Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News); [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) (BBC)
@@ -28,10 +28,10 @@ Search window: 7 day(s) ending 2026-05-13
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa, 2026-05-11T16:57+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature); [RDF conducts third full scale Ebola simulation exercise in Rubavu](https://www.mod.gov.rw/docs-media/news-detail/rdf-conducts-third-full-scale-ebola-simulation-exercise-in-rubavu-3) (mod.gov.rw)
+- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Major study confirms impact of the malaria vaccine, saving lives and reducing hospitalisations](https://www.gavi.org/vaccineswork/major-study-confirms-impact-malaria-vaccine-saving-lives-and-reducing) (Gavi, the Vaccine Alliance); [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature); [RDF conducts third full scale Ebola simulation exercise in Rubavu](https://www.mod.gov.rw/docs-media/news-detail/rdf-conducts-third-full-scale-ebola-simulation-exercise-in-rubavu-3) (mod.gov.rw)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -59,11 +59,11 @@ Search window: 7 day(s) ending 2026-05-13
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### Polio and wastewater surveillance
+### Measles transmission and vaccination
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex, 2026-05-01T02:44+00:00)
+- Lead item: [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress, 2026-05-09T01:27+00:00)
 - Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex)
+- Evidence notes: [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -346,6 +346,16 @@ Search window: 7 day(s) ending 2026-05-13
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Major study confirms impact of the malaria vaccine, saving lives and reducing hospitalisations
+- Source: Gavi, the Vaccine Alliance
+- Date: 2026-05-12T15:14+00:00
+- URL: https://www.gavi.org/vaccineswork/major-study-confirms-impact-malaria-vaccine-saving-lives-and-reducing
+- Category: Outbreaks and emerging infections
+- Summary: Most hadn’t even reached their fifth birthday.</p><p>The majority of these deaths are in places where the disease has been a leading killer for generations and where families have long balanced bed-nets, repellents and antimalarials against a parasite that adapts faster than the tools used to fight it.</p><aside class="pquote"><blockquote><p>This is very solid evidence of the potential for malaria vaccines to change the trajectory of child mortality in Africa.</p></blockquote><p>- Dr Kate O’Brien, WHO Director of the Department of Immunization, Vaccines and Biologicals, and co-author of the evaluation</p></aside><p>The arrival of the RTS,S malaria vaccine was a landmark moment; Ghana, Kenya and Malawi were the first countries in the world to offer it to their populations as part of a pilot project launched in 2019, and the World Health Organization (WHO) recommended it for wider use in 2021.</p><p>Early studies indicated that the vaccine had a 13% drop in all-cause mortality, and a comprehensive new study of the last four years of vaccine roll-out published in <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00248-5/fulltext">The Lancet</a> has confirmed this figure. That translates to roughly one in eight deaths prevented.</p><p>“This is very solid evidence of the potential for malaria vaccines to change the trajectory of child mortality in Africa,” Dr Kate O’Brien, WHO Director of the Department of Immunization, Vaccines and Biologicals, and co-author of the evaluation, said in a <a href="https://www.who.int/news/item/08-05-2026-new-evidence-confirms-malaria-vaccine-saves-child-lives-and-will-have-high-impact-in-wider-rollout">WHO press release</a>.</p><h3>Measuring impact</h3><p>The study tracked 158 clusters across the three countries, with 79 areas introducing the vaccine in 2019 and 79 serving as comparison areas that received it later. We cannot afford to lose momentum</a></li></ul></div><p>This means, say the researchers, that the drop in deaths can be “confidently attributed” to the vaccine itself rather than to other shifts in malaria care.</p><p>Across the pilot countries, 1.29 million children received the first dose during the evaluation period, 1.07 million received the third dose and 436,527 received the fourth.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone
 - Source: Nature
 - Date: 2026-05-12T10:18+00:00
@@ -386,16 +396,6 @@ Search window: 7 day(s) ending 2026-05-13
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 4/5
 
-### EXPERT REACTION: Poliovirus detected in WA wastewater
-- Source: Scimex
-- Date: 2026-05-01T02:44+00:00
-- URL: https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 4/5
-
 
 ## Other notable readings
 - [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) | CIDRAP | 2026-05-12T20:31+00:00 | Outbreaks and emerging infections
@@ -404,13 +404,15 @@ Search window: 7 day(s) ending 2026-05-13
   Limited detail was available from feed metadata alone.
 - [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-12T01:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-12T00:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Cruise Ship Hit by Hantavirus Leaves Canary Islands and Sails Toward Netherlands](https://www.nytimes.com/2026/05/11/world/europe/hantavirus-cruise-ship-canary-islands.html) | The New York Times | 2026-05-11T19:10+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [American cruise ship passenger tests positive for hantavirus after evacuation](https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says seven cases of hantavirus confirmed from cruise ship](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/) | Reuters | 2026-05-11T12:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Evacuated US and French MV Hondius passengers test positive for hantavirus](https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus) | The Guardian | 2026-05-11T09:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-11T06:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans evacuated from virus cruise ship arrive back in US](https://news.sky.com/video/americans-evacuated-from-virus-cruise-ship-arrive-back-in-us-13542606) | Sky News | 2026-05-11T06:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -436,8 +438,6 @@ Search window: 7 day(s) ending 2026-05-13
   Limited detail was available from feed metadata alone.
 - [U.S. plans evacuation flight for Americans on cruise ship in hantavirus outbreak](https://www.cbsnews.com/news/hantavirus-cruise-ship-americans-us-evacuation-flight/) | CBS News | 2026-05-08T17:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO chief arrives in Tenerife to oversee evacuation of hantavirus cruise ship](https://www.cnn.com/2026/05/08/health/cruise-ship-hantavirus-passengers) | CNN | 2026-05-08T16:13+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - No papers met the current filter.
@@ -446,5 +446,6 @@ Search window: 7 day(s) ending 2026-05-13
 - No dedicated historical or paleopathology items stood out today.
 
 ## Possible blog/video angles
+- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
