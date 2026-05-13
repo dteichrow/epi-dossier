@@ -1,24 +1,35 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-13
-Generated at: 2026-05-13T03:29
+Generated at: 2026-05-13T04:31
 Search window: 7 day(s) ending 2026-05-13
 
 ## Executive scan
+- [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News; 2026-05-13T13:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa; 2026-05-11T16:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News; 2026-05-11T16:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News; 2026-05-09T15:10+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News; 2026-05-07T09:57+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature; 2026-05-12T10:18+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp; 2026-05-10T01:05+00:00; Outbreaks and emerging infections; relevance 4/5)
-- [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex; 2026-05-01T02:44+00:00; Outbreaks and emerging infections; relevance 4/5)
-- Category mix: Outbreaks and emerging infections (40), Policy, surveillance, and public health infrastructure (2)
+- Category mix: Outbreaks and emerging infections (41), Policy, surveillance, and public health infrastructure (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp)
+- New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.
+- The lead item has changed to [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) from arabnews.jp.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
+
+### Tuberculosis and antimicrobial resistance
+- Lead item: [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News)
+- The lead item has changed to [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) from ECDC News.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News)
-- 8 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: Facebook.
 
 
 ## Major topics
@@ -29,6 +40,14 @@ Search window: 7 day(s) ending 2026-05-13
 - Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News); [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Tuberculosis and antimicrobial resistance
+- Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
+- Lead item: [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News, 2026-05-13T13:00+02:00)
+- Detailed note: More action remains necessary to prevent thousands of annual deaths and slow the rising number of STI diagnoses across Europe. Despite advancements in detection and treatment, a new report reveals severe shortfalls in reaching the indicators for the Sustainable Development Goal target for HIV, tuberculosis, viral hepatitis and sexually transmitted infections (STIs) by 2030. A major European survey marks a...
+- Evidence notes: [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News); [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Miscellaneous signals
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
@@ -55,20 +74,12 @@ Search window: 7 day(s) ending 2026-05-13
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp, 2026-05-10T01:05+00:00)
-- Detailed note: Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths.
-- Evidence notes: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
+- Detailed note: Japan health officials reported 74 additional measles cases since our last report , bringing the total cases to 436 as of April 30. This is a 354 percent increase compared to the same time in 2025 when 96 measles cases were reported. Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths.
+- Evidence notes: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp); [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) (Outbreak News Today); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Polio and wastewater surveillance
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex, 2026-05-01T02:44+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -299,6 +310,16 @@ Search window: 7 day(s) ending 2026-05-13
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### Europe advances genomic surveillance of CCRE with landmark multi-country study
+- Source: ECDC News
+- Date: 2026-05-13T13:00+02:00
+- URL: https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: A major European survey marks a significant milestone in the effort to control antimicrobial resistance (AMR), providing the most comprehensive genomic picture to date of carbapenem- and/or colistin-resistant Enterobacterales (CCRE) across hospitals in Europe.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme
 - Source: WHO Regional Office for Africa
 - Date: 2026-05-11T16:57+00:00
@@ -325,6 +346,16 @@ Search window: 7 day(s) ending 2026-05-13
 - URL: https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: The guidance published today by ECDC provides advice for public health professionals in the EU/EEA managing individuals potentially exposed to Andes hantavirus from the M/V Hondius, and for healthcare professionals and transport personnel involved in the disembarkation, transfer, and care of passengers and crew.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### 59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs
+- Source: ECDC News
+- Date: 2026-05-07T09:57+02:00
+- URL: https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: More action remains necessary to prevent thousands of annual deaths and slow the rising number of STI diagnoses across Europe. Despite advancements in detection and treatment, a new report reveals severe shortfalls in reaching the indicators for the Sustainable Development Goal target for HIV, tuberculosis, viral hepatitis and sexually transmitted infections (STIs) by 2030.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -417,9 +448,9 @@ Search window: 7 day(s) ending 2026-05-13
   Limited detail was available from feed metadata alone.
 - [WHO reports six confirmed hantavirus cases tied to Spain-bound cruise](https://www.reuters.com/business/healthcare-pharmaceuticals/who-reports-six-confirmed-hantavirus-cases-tied-spain-bound-cruise-2026-05-08/) | Reuters | 2026-05-08T22:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) | Outbreak News Today | 2026-05-08T21:52+00:00 | Outbreaks and emerging infections
+  Japan health officials reported 74 additional measles cases since our last report , bringing the total cases to 436 as of April 30. This is a 354 percent increase compared to the same time in 2025 when 96 measles cases were reported. But according to the Ministry of Health, Labor and Welfare, the rate of second-dose measles vaccination has not exceeded 95% since the COVID-19 pandemic and has declined year by year, falling to 91% in fiscal 2024.
 - [U.S. plans evacuation flight for Americans on cruise ship in hantavirus outbreak](https://www.cbsnews.com/news/hantavirus-cruise-ship-americans-us-evacuation-flight/) | CBS News | 2026-05-08T17:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO chief arrives in Tenerife to oversee evacuation of hantavirus cruise ship](https://www.cnn.com/2026/05/08/health/cruise-ship-hantavirus-passengers) | CNN | 2026-05-08T16:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
