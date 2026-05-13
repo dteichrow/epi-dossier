@@ -53,7 +53,7 @@ push_from_clean_temp_worktree() {
   fi
   if ! "$GIT_BIN" -C "$temp_worktree" rebase "$remote_ref"; then
     "$GIT_BIN" -C "$temp_worktree" rebase --abort >/dev/null 2>&1 || true
-    if ! "$GIT_BIN" -C "$temp_worktree" reset --hard "$remote_ref" >/dev/null; then
+  if ! "$GIT_BIN" -C "$temp_worktree" reset --hard "$remote_ref" >/dev/null; then
       cleanup_worktree "$repo_root" "$temp_worktree"
       return 1
     fi
@@ -63,8 +63,15 @@ push_from_clean_temp_worktree() {
       cleanup_worktree "$repo_root" "$temp_worktree"
       return 1
     fi
+    if [[ -f "$repo_root/content/posts.yml" ]]; then
+      "$MKDIR_BIN" -p "$temp_worktree/content"
+      "$RSYNC_BIN" -a "$repo_root/content/posts.yml" "$temp_worktree/content/posts.yml"
+    fi
     "$GIT_BIN" -C "$temp_worktree" add docs
-    if "$GIT_BIN" -C "$temp_worktree" diff --cached --quiet -- docs; then
+    if [[ -f "$temp_worktree/content/posts.yml" ]]; then
+      "$GIT_BIN" -C "$temp_worktree" add content/posts.yml
+    fi
+    if "$GIT_BIN" -C "$temp_worktree" diff --cached --quiet -- docs content/posts.yml 2>/dev/null; then
       cleanup_worktree "$repo_root" "$temp_worktree"
       echo "$success_message"
       return 0
@@ -98,7 +105,7 @@ local_branch_is_ahead() {
   [[ -n "$("$GIT_BIN" -C "$repo_root" rev-list "${remote_ref}..HEAD")" ]]
 }
 
-ahead_commits_only_touch_docs() {
+ahead_commits_only_touch_generated_site() {
   local repo_root="$1"
   local remote_name="$2"
   local branch_name="$3"
@@ -108,7 +115,7 @@ ahead_commits_only_touch_docs() {
   [[ -n "$changed_paths" ]] || return 1
   while IFS= read -r path; do
     [[ -z "$path" ]] && continue
-    [[ "$path" == docs/* ]] || return 1
+    [[ "$path" == docs/* || "$path" == "content/posts.yml" ]] || return 1
   done <<< "$changed_paths"
 }
 
@@ -148,12 +155,14 @@ publish_umbrella_site() {
   fi
 
   cd "$EDGE_REPO_ROOT"
+  "$EDGE_PYTHON_BIN" -m src.substack_sync --mode incremental
   "$EDGE_PYTHON_BIN" -m src.build_site --site-base-url /
   "$GIT_BIN" -C "$EDGE_REPO_ROOT" add docs
+  "$GIT_BIN" -C "$EDGE_REPO_ROOT" add content/posts.yml
   fetch_remote_branch "$EDGE_REPO_ROOT" origin main
 
-  if "$GIT_BIN" -C "$EDGE_REPO_ROOT" diff --cached --quiet -- docs; then
-    if local_branch_is_ahead "$EDGE_REPO_ROOT" origin main && ahead_commits_only_touch_docs "$EDGE_REPO_ROOT" origin main; then
+  if "$GIT_BIN" -C "$EDGE_REPO_ROOT" diff --cached --quiet -- docs content/posts.yml; then
+    if local_branch_is_ahead "$EDGE_REPO_ROOT" origin main && ahead_commits_only_touch_generated_site "$EDGE_REPO_ROOT" origin main; then
       push_commit_with_generated_docs_rebase \
         "$EDGE_REPO_ROOT" \
         origin \
@@ -168,7 +177,7 @@ publish_umbrella_site() {
   fi
 
   local umbrella_commit_message
-  umbrella_commit_message="Automated Newsdesk refresh $("$DATE_BIN" '+%Y-%m-%d %H:%M %Z')"
+  umbrella_commit_message="Automated site refresh $("$DATE_BIN" '+%Y-%m-%d %H:%M %Z')"
   "$GIT_BIN" -C "$EDGE_REPO_ROOT" commit -m "$umbrella_commit_message"
   push_commit_with_generated_docs_rebase \
     "$EDGE_REPO_ROOT" \
