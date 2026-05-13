@@ -373,7 +373,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.",
+          "latest_update_summary": "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -844,7 +844,7 @@
       "related_stories": [
         {
           "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Facebook.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Al Jazeera.",
           "story_id": "story_f6d225b01f3f7094",
           "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
           "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -959,7 +959,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Facebook.",
+              "latest_update_summary": "New publisher/source coverage joined this story cluster: Al Jazeera.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1089,7 +1089,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Facebook.",
+              "latest_update_summary": "New publisher/source coverage joined this story cluster: Al Jazeera.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1219,7 +1219,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Facebook.",
+              "latest_update_summary": "New publisher/source coverage joined this story cluster: Al Jazeera.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1923,7 +1923,6 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "Associated Press",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -1936,21 +1935,21 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 35,
+    "metadata_only_count": 39,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 45,
-    "story_count_change": 3,
+    "sources_live": 47,
+    "story_count_change": 1,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 45,
+    "live": 47,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-13T04:31:21",
+  "generated_at": "2026-05-13T05:33:02",
   "high_priority_item_ids": [
     "item_cb3b16d17e16037b",
     "item_51efcc459d2e75f7",
@@ -1960,10 +1959,10 @@
     "item_e98c7c3180ed668f",
     "item_81ccc0c120d3b6a6",
     "item_f6dee92f8dea6316",
-    "item_aab4c4d1c8fdfd66",
+    "item_001e392210932c26",
     "item_ee836a1b29f4dec6"
   ],
-  "item_count": 45,
+  "item_count": 47,
   "items": [
     {
       "abstract_url": null,
@@ -2002,7 +2001,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:34.562754+00:00",
+      "source_cached_at": "2026-05-13T12:31:18.777141+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study",
@@ -2012,7 +2011,7 @@
       "title": "Europe advances genomic surveillance of CCRE with landmark multi-country study",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2052,7 +2051,7 @@
       "resolved_url": "https://www.nature.com/articles/s41591-026-04385-8",
       "source": "Google News West Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:03.847469+00:00",
+      "source_cached_at": "2026-05-13T12:31:47.252055+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://www.nature.com/articles/s41591-026-04385-8",
@@ -2062,7 +2061,7 @@
       "title": "Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2103,7 +2102,7 @@
       "resolved_url": null,
       "source": "WHO Regional Office for Africa",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:12.089670+00:00",
+      "source_cached_at": "2026-05-13T12:30:53.203293+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme",
@@ -2113,7 +2112,7 @@
       "title": "Nigeria strengthens outbreak preparedness through \u20ac4.2 million EU WHO programme",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2153,7 +2152,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:34.562754+00:00",
+      "source_cached_at": "2026-05-13T12:31:18.777141+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states",
@@ -2163,7 +2162,7 @@
       "title": "Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2203,7 +2202,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:34.562754+00:00",
+      "source_cached_at": "2026-05-13T12:31:18.777141+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise",
@@ -2213,7 +2212,7 @@
       "title": "ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2253,7 +2252,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:34.562754+00:00",
+      "source_cached_at": "2026-05-13T12:31:18.777141+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral",
@@ -2263,7 +2262,7 @@
       "title": "59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2303,7 +2302,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than",
       "source": "Google News South Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:06.369978+00:00",
+      "source_cached_at": "2026-05-13T12:31:49.612369+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than",
@@ -2313,7 +2312,7 @@
       "title": "Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2353,7 +2352,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality",
       "source": "Google News Southeast Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:07.611984+00:00",
+      "source_cached_at": "2026-05-13T12:31:50.623657+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality",
@@ -2363,18 +2362,18 @@
       "title": "Bangladesh: H5N1 avian influenza fatality in Chattogram child",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
       "abstract_url": null,
       "aggregator_source": "Google News East Africa Outbreaks",
-      "canonical_url": "https://arabnews.jp/en/middle-east/article_169830",
+      "canonical_url": "https://mod.gov.rw/docs-media/news-detail/rdf-conducts-third-full-scale-ebola-simulation-exercise-in-rubavu-3",
       "category": "Outbreaks and emerging infections",
       "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "live_outbreak_development",
+      "content_class": "metadata_only_signal",
       "country": "",
-      "display_source": "arabnews.jp",
+      "display_source": "mod.gov.rw",
       "doi": null,
       "editions": [
         "index",
@@ -2384,36 +2383,36 @@
       ],
       "evidence_type": "news_report",
       "freshness_state": "live",
-      "item_id": "item_aab4c4d1c8fdfd66",
+      "item_id": "item_001e392210932c26",
       "journal": null,
-      "link_quality": "resolved_article",
+      "link_quality": "metadata_only",
       "local_signal": false,
-      "low_detail": false,
+      "low_detail": true,
       "official": false,
-      "preferred_url": "https://www.arabnews.jp/en/middle-east/article_169830/",
-      "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-10T01:05+00:00",
-      "publisher": "arabnews.jp",
+      "preferred_url": "https://www.mod.gov.rw/docs-media/news-detail/rdf-conducts-third-full-scale-ebola-simulation-exercise-in-rubavu-3",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-11T07:00+00:00",
+      "publisher": "mod.gov.rw",
       "publisher_access": "unknown",
-      "publisher_name": "arabnews.jp",
+      "publisher_name": "mod.gov.rw",
       "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TTXpzeTdtb1prbHZrRTJhQlhCS1ZRUV92YnVmcDB6NWZ4bWhUanVscWJOQl9IRTNPb25KZVZDREx2bUM0YUN4RFExOW1lUkFVSmxScE9kSFo0UVlUeFpIRFZkb0M?oc=5",
+      "raw_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVklOV0RvbWR4SC1pNjVUWi04c0JyeFlubXVRd0JJZGxpMjRXTl9Yb2pIa3MxNEc5cXZtR1Z5SENBRmtPbmduYzZHZUppckx2TFFZekhUeUVTRnNNcHV1UjBsakpWaUFGVURPSUhwVXViTmkta3EyaHRSN0h6OGV3ZkxUamVYcVMwMlR2anRZVTV4YTctMElTYWphS2NoY3d2S3pxcDdSVHJaWkFqYW12RzRkWQ?oc=5",
       "region": "Africa",
       "relevance_score": 4,
-      "resolved_url": "https://www.arabnews.jp/en/middle-east/article_169830/",
+      "resolved_url": "https://www.mod.gov.rw/docs-media/news-detail/rdf-conducts-third-full-scale-ebola-simulation-exercise-in-rubavu-3",
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:04.620248+00:00",
-      "source_confidence": "general_outlet",
+      "source_cached_at": "2026-05-13T12:31:47.882325+00:00",
+      "source_confidence": "metadata_only_signal",
       "source_type": "rss",
-      "source_url": "https://www.arabnews.jp/en/middle-east/article_169830/",
-      "story_id": "story_0cc2d5322bc76f8f",
-      "story_status": "expanding_coverage",
-      "summary": "Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths. Limited detail was available from feed metadata alone.",
-      "title": "How conflict is driving measles outbreaks in the Middle East and North Africa",
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-13T04:31:21",
+      "source_url": "https://www.mod.gov.rw/docs-media/news-detail/rdf-conducts-third-full-scale-ebola-simulation-exercise-in-rubavu-3",
+      "story_id": null,
+      "story_status": "",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "RDF conducts third full scale Ebola simulation exercise in Rubavu",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2453,7 +2452,7 @@
       "resolved_url": "https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater",
       "source": "Google News Southern Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:05.738636+00:00",
+      "source_cached_at": "2026-05-13T12:31:48.985797+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater",
@@ -2463,7 +2462,7 @@
       "title": "EXPERT REACTION: Poliovirus detected in WA wastewater",
       "topic_id": "topic_9ccdd822481fa2b6",
       "topic_name": "Polio and wastewater surveillance",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2502,7 +2501,7 @@
       "resolved_url": "https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:53.410170+00:00",
+      "source_cached_at": "2026-05-13T12:31:37.478509+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed",
@@ -2512,7 +2511,7 @@
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2551,7 +2550,7 @@
       "resolved_url": "https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.248046+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/",
@@ -2561,7 +2560,7 @@
       "title": "WHO chief says \"work not over\" after evacuation of hantavirus-stricken cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2600,7 +2599,7 @@
       "resolved_url": "https://www.bbc.com/news/articles/cn4pq1y1zjgo",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:54.020459+00:00",
+      "source_cached_at": "2026-05-13T12:31:38.161312+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.bbc.com/news/articles/cn4pq1y1zjgo",
@@ -2610,7 +2609,7 @@
       "title": "What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2649,7 +2648,7 @@
       "resolved_url": "https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:53.410170+00:00",
+      "source_cached_at": "2026-05-13T12:31:37.478509+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation",
@@ -2659,7 +2658,7 @@
       "title": "American cruise ship passenger tests positive for hantavirus after evacuation",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2698,7 +2697,7 @@
       "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:54.020459+00:00",
+      "source_cached_at": "2026-05-13T12:31:38.161312+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/",
@@ -2708,7 +2707,7 @@
       "title": "WHO says seven cases of hantavirus confirmed from cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2747,7 +2746,7 @@
       "resolved_url": "https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.248046+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus",
@@ -2757,56 +2756,7 @@
       "title": "Evacuated US and French MV Hondius passengers test positive for hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Sky Hantavirus Watch",
-      "canonical_url": "https://news.sky.com/video/hantavirus-ship-sparks-protests-in-canary-islands-as-cases-around-the-world-mapped-13541757",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "Spain",
-      "display_source": "Sky News",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_0f0f502a31f780cb",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": false,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://news.sky.com/video/hantavirus-ship-sparks-protests-in-canary-islands-as-cases-around-the-world-mapped-13541757",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-11T07:00+00:00",
-      "publisher": "Sky News",
-      "publisher_access": "open",
-      "publisher_name": "Sky News",
-      "publisher_tier": "major_newsroom",
-      "raw_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWFSV1pGYTdEY0l3aGwtZlktWnF2MTRTRjRhcjVER1B2RkljYmJxYUw3Q21vdW5hRklfdU5wOGpmSWE4bmdXbFlIbDdfSE44b3Z3Z0VydmJMbzh5ZkY5Q3lkWjgybnBhMWRDMnZGUU9YX2RUdlVUXzB2ZzYyWE1uc0pDZ2tzQWtOaGNuUGN2Vld0UjZ1ZUlrVDNPRHBERzVMRF9ZOXJ2Ymd3R25IaDEyVlFOREQwblhQQ3c?oc=5",
-      "region": "Cross-region / unassigned",
-      "relevance_score": 3,
-      "resolved_url": "https://news.sky.com/video/hantavirus-ship-sparks-protests-in-canary-islands-as-cases-around-the-world-mapped-13541757",
-      "source": "Google News Sky Hantavirus Watch",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.954443+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://news.sky.com/video/hantavirus-ship-sparks-protests-in-canary-islands-as-cases-around-the-world-mapped-13541757",
-      "story_id": "story_f6d225b01f3f7094",
-      "story_status": "expanding_coverage",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "Hantavirus ship sparks protests in Canary Islands, as cases around the world mapped",
-      "topic_id": "topic_f6d225b01f3f7094",
-      "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2845,7 +2795,7 @@
       "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:54.020459+00:00",
+      "source_cached_at": "2026-05-13T12:31:38.161312+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/",
@@ -2855,7 +2805,7 @@
       "title": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2894,7 +2844,7 @@
       "resolved_url": "https://news.sky.com/video/americans-evacuated-from-virus-cruise-ship-arrive-back-in-us-13542606",
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.954443+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.878635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.sky.com/video/americans-evacuated-from-virus-cruise-ship-arrive-back-in-us-13542606",
@@ -2904,56 +2854,7 @@
       "title": "Americans evacuated from virus cruise ship arrive back in US",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Major Outbreak Desks",
-      "canonical_url": "https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "Spain",
-      "display_source": "AP News",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_03381b5eb15dccf6",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": false,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-11T04:32+00:00",
-      "publisher": "AP News",
-      "publisher_access": "open",
-      "publisher_name": "Associated Press",
-      "publisher_tier": "wire",
-      "raw_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclYyNXkyNDhFVjN0TlJIUzRTX1hzek04VE5mZWc4N2NhUGl3ZEZ1RXlVb0Z5RXdMTTE4TV9sUi1jR2hhdjlSdFB2OFBoTWNDTlNHRWhpajVrbmxGVU5Gakg3WUNjS0MxRUFRaldVUzJNZlNQRG1pTVY2bWh5ckFmeHJuRkhzTUVycENDVExxYUhEMlhCUzNPSVpsUTU2M0RF?oc=5",
-      "region": "Cross-region / unassigned",
-      "relevance_score": 3,
-      "resolved_url": "https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4",
-      "source": "Google News Major Outbreak Desks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:54.020459+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4",
-      "story_id": "story_f6d225b01f3f7094",
-      "story_status": "expanding_coverage",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "One evacuated passenger tests positive for hantavirus and another develops symptoms on flight home",
-      "topic_id": "topic_f6d225b01f3f7094",
-      "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2992,7 +2893,7 @@
       "resolved_url": "https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.248046+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318",
@@ -3002,7 +2903,7 @@
       "title": "Americans evacuated from hantavirus-stricken cruise ship off Spanish island",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3041,7 +2942,7 @@
       "resolved_url": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.248046+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
@@ -3051,7 +2952,7 @@
       "title": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3090,7 +2991,7 @@
       "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cruise-ship-hit-by-hantavirus-outbreak-arrives-tenerife-2026-05-10/",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:54.020459+00:00",
+      "source_cached_at": "2026-05-13T12:31:38.161312+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cruise-ship-hit-by-hantavirus-outbreak-arrives-tenerife-2026-05-10/",
@@ -3100,7 +3001,7 @@
       "title": "Evacuation flights leave Tenerife after cruise ship virus outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3139,7 +3040,7 @@
       "resolved_url": "https://www.pbs.org/newshour/world/evacuations-begin-for-passengers-on-mv-hondius-cruise-ship-following-hantavirus-outbreak",
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:59.043690+00:00",
+      "source_cached_at": "2026-05-13T12:31:42.745085+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.pbs.org/newshour/world/evacuations-begin-for-passengers-on-mv-hondius-cruise-ship-following-hantavirus-outbreak",
@@ -3149,12 +3050,61 @@
       "title": "Evacuations begin for passengers on MV Hondius cruise ship following hantavirus outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
       "abstract_url": null,
-      "aggregator_source": "Google News Outbreaks",
+      "aggregator_source": "Google News Hantavirus Major Publisher Watch",
+      "canonical_url": "https://theguardian.com/us-news/2026/may/10/americans-hantavirus-cruise-ship-repatriated",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "",
+      "display_source": "The Guardian",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_5c592939bc8b2d34",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://www.theguardian.com/us-news/2026/may/10/americans-hantavirus-cruise-ship-repatriated",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-10T16:20+00:00",
+      "publisher": "The Guardian",
+      "publisher_access": "open",
+      "publisher_name": "Guardian",
+      "publisher_tier": "major_newsroom",
+      "raw_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5",
+      "region": "Global / Maritime",
+      "relevance_score": 3,
+      "resolved_url": "https://www.theguardian.com/us-news/2026/may/10/americans-hantavirus-cruise-ship-repatriated",
+      "source": "Google News Hantavirus Major Publisher Watch",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://www.theguardian.com/us-news/2026/may/10/americans-hantavirus-cruise-ship-repatriated",
+      "story_id": "story_f6d225b01f3f7094",
+      "story_status": "expanding_coverage",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive",
+      "topic_id": "topic_f6d225b01f3f7094",
+      "topic_name": "Hantavirus and cruise-ship outbreak",
+      "updated_at": "2026-05-13T05:33:02",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Hemorrhagic Fever and Zoonoses",
       "canonical_url": "https://nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
       "category": "Outbreaks and emerging infections",
       "caveats": "Usable source detail was limited after cleanup.",
@@ -3186,9 +3136,9 @@
       "region": "Global / Maritime",
       "relevance_score": 3,
       "resolved_url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
-      "source": "Google News Outbreaks",
+      "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:53.410170+00:00",
+      "source_cached_at": "2026-05-13T12:31:42.745085+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
@@ -3198,7 +3148,7 @@
       "title": "Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3237,7 +3187,7 @@
       "resolved_url": "https://www.cnn.com/2026/05/10/europe/hantavirus-cruise-ship-tenerife-arrive-hnk-intl",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.248046+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cnn.com/2026/05/10/europe/hantavirus-cruise-ship-tenerife-arrive-hnk-intl",
@@ -3247,7 +3197,56 @@
       "title": "MV Hondius: All passengers evacuated from cruise ship hit by deadly hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Major Outbreak Desks",
+      "canonical_url": "https://reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "",
+      "display_source": "Reuters",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_ed38e4a57fbe1c36",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://www.reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09/",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-09T22:38+00:00",
+      "publisher": "Reuters",
+      "publisher_access": "open",
+      "publisher_name": "Reuters",
+      "publisher_tier": "wire",
+      "raw_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1ZNUnJYSkpRM29CTFFRNzJrejhzQlBhTzlUWWFzUFZ4cUQ5dFlBQ05WSWlxNzJJRlM4YUR4Q0dqZnpWNXZQY3JWaTBJSG1BeUk3c21nanJZTktGWU50S0M4aWJlaE1XdXA3SGlxNDlkMk8xVF9nLWhiT2NjYjhiOVVZeEduR2xCSGRuMVhacmxSSlpkbWRWUDQ3a0Fhc0tBOWNxTlIxVElkY1pqbmFBamFLNlZ2Zm91a1NUMUd5TzV4emNiSnNRUw?oc=5",
+      "region": "Europe",
+      "relevance_score": 3,
+      "resolved_url": "https://www.reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09/",
+      "source": "Google News Major Outbreak Desks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-13T12:31:38.161312+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://www.reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09/",
+      "story_id": "story_f6d225b01f3f7094",
+      "story_status": "expanding_coverage",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Countries prepare to evacuate hantavirus ship passengers",
+      "topic_id": "topic_f6d225b01f3f7094",
+      "topic_name": "Hantavirus and cruise-ship outbreak",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3286,7 +3285,7 @@
       "resolved_url": "https://www.cbsnews.com/news/hantavirus-cruise-evacuation-world-health-organization-hondius-canary-islands/",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.248046+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/news/hantavirus-cruise-evacuation-world-health-organization-hondius-canary-islands/",
@@ -3296,7 +3295,7 @@
       "title": "WHO director arrives in Canary Islands to oversee hantavirus cruise evacuation: \"This disease is not COVID\"",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3335,7 +3334,7 @@
       "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-reports-six-confirmed-hantavirus-cases-tied-spain-bound-cruise-2026-05-08/",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:54.020459+00:00",
+      "source_cached_at": "2026-05-13T12:31:38.161312+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-reports-six-confirmed-hantavirus-cases-tied-spain-bound-cruise-2026-05-08/",
@@ -3345,57 +3344,7 @@
       "title": "WHO reports six confirmed hantavirus cases tied to Spain-bound cruise",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Vaccine-preventable Outbreaks",
-      "canonical_url": "https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "live_outbreak_development",
-      "country": "",
-      "display_source": "Outbreak News Today",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "asia"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_4579e196aec776c1",
-      "journal": null,
-      "link_quality": "resolved_article",
-      "local_signal": false,
-      "low_detail": false,
-      "official": false,
-      "preferred_url": "https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles",
-      "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-08T21:52+00:00",
-      "publisher": "Outbreak News Today",
-      "publisher_access": "unknown",
-      "publisher_name": "Outbreak News Today",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1BCQkhzZlFDOVYyS01xUXAzeW1DZ01xem1rQi1hLXk4dVRSeWxqaVN6b0JrNVVFeklhQlpQbUhaam9EQWg4X3ozQnU5cjBCOU5fUkxlMkZjczFtQ2t3aVNwMXZ3Rk43RWZfTk1CYmZWdUpHMFlxSHpUQkV2Q3BaNExR?oc=5",
-      "region": "East Asia",
-      "relevance_score": 3,
-      "resolved_url": "https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles",
-      "source": "Google News Vaccine-preventable Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:59.827063+00:00",
-      "source_confidence": "general_outlet",
-      "source_type": "rss",
-      "source_url": "https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles",
-      "story_id": "story_0cc2d5322bc76f8f",
-      "story_status": "expanding_coverage",
-      "summary": "Japan health officials reported 74 additional measles cases since our last report , bringing the total cases to 436 as of April 30. This is a 354 percent increase compared to the same time in 2025 when 96 measles cases were reported. But according to the Ministry of Health, Labor and Welfare, the rate of second-dose measles vaccination has not exceeded 95% since the COVID-19 pandemic and has declined year by year, falling to 91% in fiscal 2024.",
-      "title": "Japan reports more than 400 measles cases in first four months of 2026",
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3434,7 +3383,7 @@
       "resolved_url": "https://www.cbsnews.com/news/hantavirus-cruise-ship-americans-us-evacuation-flight/",
       "source": "Google News Hantavirus and Cruise Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:55.509705+00:00",
+      "source_cached_at": "2026-05-13T12:31:39.380084+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/news/hantavirus-cruise-ship-americans-us-evacuation-flight/",
@@ -3444,7 +3393,7 @@
       "title": "U.S. plans evacuation flight for Americans on cruise ship in hantavirus outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3483,7 +3432,7 @@
       "resolved_url": "https://www.cnn.com/2026/05/08/health/cruise-ship-hantavirus-passengers",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.248046+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cnn.com/2026/05/08/health/cruise-ship-hantavirus-passengers",
@@ -3493,7 +3442,7 @@
       "title": "WHO chief arrives in Tenerife to oversee evacuation of hantavirus cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3532,7 +3481,7 @@
       "resolved_url": "https://www.pbs.org/newshour/world/spain-prepares-for-evacuations-as-a-hantavirus-hit-cruise-ship-heads-for-the-canary-islands",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.248046+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.184071+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.pbs.org/newshour/world/spain-prepares-for-evacuations-as-a-hantavirus-hit-cruise-ship-heads-for-the-canary-islands",
@@ -3542,7 +3491,7 @@
       "title": "Spain prepares for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3581,7 +3530,7 @@
       "resolved_url": "https://news.sky.com/video/number-of-confirmed-hantavirus-cases-rises-and-more-may-be-reported-says-who-13541089",
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.954443+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.878635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.sky.com/video/number-of-confirmed-hantavirus-cases-rises-and-more-may-be-reported-says-who-13541089",
@@ -3591,7 +3540,7 @@
       "title": "Number of confirmed hantavirus cases rises and more may be reported, says WHO",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3630,7 +3579,7 @@
       "resolved_url": "https://www.bbc.com/news/articles/c5y093d5n9ko",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:54.020459+00:00",
+      "source_cached_at": "2026-05-13T12:31:38.161312+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.bbc.com/news/articles/c5y093d5n9ko",
@@ -3640,7 +3589,56 @@
       "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Major Outbreak Desks",
+      "canonical_url": "https://reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "Spain",
+      "display_source": "Reuters",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_8a61282503bfc72e",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06/",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-07T09:03+00:00",
+      "publisher": "Reuters",
+      "publisher_access": "open",
+      "publisher_name": "Reuters",
+      "publisher_tier": "wire",
+      "raw_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVJHZXJiWk5zYlhSLTZ5d0hEaTYzeENvb2ZPMlRSRTJ4Vk81TWo4TjVxcHhtNHZ0UHlta3dEeWNiSFB0dk1FLTMyWVpiZUY5eHpjQXdTUmdnaGtRcHh1UXRucldMeXhGQzNJR2VBeHJzTVFLV1VVcDdXOTNmQ2VzTWlWUU5DbzZvUy1qQy1NUlZRV2hpTEQ1WTBNZ21VbnRtWlJKMWVZQktubUh1LXhqWHh1cmhIZjY1eDZfWjdvQ2xwbnNxa1ZOU2JEOUVCcWhrNHpIbGtDUnlFSVE1bHRCVk9saE5fUQ?oc=5",
+      "region": "Global / Maritime",
+      "relevance_score": 3,
+      "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06/",
+      "source": "Google News Major Outbreak Desks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-13T12:31:38.161312+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06/",
+      "story_id": "story_f6d225b01f3f7094",
+      "story_status": "expanding_coverage",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Hantavirus-hit cruise ship heads to Spain after three people evacuated",
+      "topic_id": "topic_f6d225b01f3f7094",
+      "topic_name": "Hantavirus and cruise-ship outbreak",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3679,7 +3677,7 @@
       "resolved_url": "https://news.sky.com/story/trump-says-war-will-be-over-quickly-hantavirus-cases-rise-iran-wants-no-insults-of-irgc-at-world-cup-13540944",
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.954443+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.878635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.sky.com/story/trump-says-war-will-be-over-quickly-hantavirus-cases-rise-iran-wants-no-insults-of-irgc-at-world-cup-13540944",
@@ -3689,7 +3687,7 @@
       "title": "Trump says war will be 'over quickly' | Hantavirus cases rise | Iran wants 'no insults' of IRGC at World Cup",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3728,7 +3726,7 @@
       "resolved_url": "https://nypost.com/2026/05/12/world-news/how-argentina-stopped-the-last-hantavirus-outbreak/",
       "source": "Google News Latin America Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:08.326261+00:00",
+      "source_cached_at": "2026-05-13T12:31:51.343885+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://nypost.com/2026/05/12/world-news/how-argentina-stopped-the-last-hantavirus-outbreak/",
@@ -3738,7 +3736,56 @@
       "title": "The last hantavirus outbreak devastated an entire village \u2014 here\u2019s how Argentina finally stopped it",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Outbreaks",
+      "canonical_url": "https://aljazeera.com/news/2026/5/12/spain-reports-new-hantavirus-case-in-passenger-evacuated-from-cruise-ship",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "Spain",
+      "display_source": "Al Jazeera",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_a61fd3f699ab9cdb",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://www.aljazeera.com/news/2026/5/12/spain-reports-new-hantavirus-case-in-passenger-evacuated-from-cruise-ship",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-12T13:46+00:00",
+      "publisher": "Al Jazeera",
+      "publisher_access": "unknown",
+      "publisher_name": "Al Jazeera",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNy1ZR1NBT29FazU3Ym1PcnFKY25MeTRVVjA4TmdudGxNaE1mMUFEakllaks3cFdEcmtFZlhnSFctN0tWdGQ1Q1FINlhlOWluV01qRm5rZnpMdzRubVp4YlNFeFpHYzF6M1hRZG4zUHdZdTc4TEFkU1lQT2tIWmhCSy1JalFsQVI0OUlwTXFPQVlkbHpjV2FDc3pTV0FORnBmbGo1R3dHYmRzTE1nU2lPYXA1d3rSAboBQVVfeXFMTlJkeF9BamVHN1Voc0V3bHFSOW1Ec2VpaWdHVUJvSE5Oa2ttdWlkMjc3VWFiSEplQVAzeWNBZWJfbTJpMnZoODg4c1planFjRi1OZHFGSTVZYnRxUElaOFJLRFQzMnNpMEhiUldMT25veVJBYUxVNU8zZ3VQMnd0blJyZ3pFZTA3cy1MeUtFN2lKbXBIYXZ3dEd0aWJBNDRwN1prNzlZQUpPU0dVQTY5eVJQQWdTVkJZczVn?oc=5",
+      "region": "Global / Maritime",
+      "relevance_score": 1,
+      "resolved_url": "https://www.aljazeera.com/news/2026/5/12/spain-reports-new-hantavirus-case-in-passenger-evacuated-from-cruise-ship",
+      "source": "Google News Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-13T12:31:37.478509+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://www.aljazeera.com/news/2026/5/12/spain-reports-new-hantavirus-case-in-passenger-evacuated-from-cruise-ship",
+      "story_id": "story_f6d225b01f3f7094",
+      "story_status": "expanding_coverage",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Spain reports new hantavirus case in passenger evacuated from cruise ship",
+      "topic_id": "topic_f6d225b01f3f7094",
+      "topic_name": "Hantavirus and cruise-ship outbreak",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3777,7 +3824,7 @@
       "resolved_url": "https://www.ntd.com/cruise-ship-docks-in-florida-after-norovirus-sickens-145-post_1144793.html",
       "source": "Google News Foodborne and Enteric Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:00.486048+00:00",
+      "source_cached_at": "2026-05-13T12:31:43.974186+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.ntd.com/cruise-ship-docks-in-florida-after-norovirus-sickens-145-post_1144793.html",
@@ -3787,7 +3834,7 @@
       "title": "Cruise Ship Docks in Florida After Norovirus Sickens 145",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3826,7 +3873,7 @@
       "resolved_url": "https://www.tiktok.com/@skynews/video/7638725105257827606",
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.954443+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.878635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.tiktok.com/@skynews/video/7638725105257827606",
@@ -3836,7 +3883,7 @@
       "title": "Watch the MV Hondius captain speak about the \"challenging\" weeks after the Hantavirus outbreak. Two people died on board the cruise ship during its voyage from southern Argentina to Tenerife, while other people were medically evacuated. #hantavirus #mv",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3875,7 +3922,7 @@
       "resolved_url": "https://respiratory-therapy.com/disorders-diseases/infectious-diseases/other-infections/hantavirus-outbreak-person-to-person-transmission/",
       "source": "Google News Hantavirus and Cruise Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:55.509705+00:00",
+      "source_cached_at": "2026-05-13T12:31:39.380084+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://respiratory-therapy.com/disorders-diseases/infectious-diseases/other-infections/hantavirus-outbreak-person-to-person-transmission/",
@@ -3885,7 +3932,7 @@
       "title": "Hantavirus Outbreak Highlights Person-to-Person Transmission Risks",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3924,7 +3971,7 @@
       "resolved_url": "https://www.floridatoday.com/story/news/2026/05/11/caribbean-princess-cruise-ship-port-canaveral-florida-norovirus/90025735007/",
       "source": "Google News Foodborne and Enteric Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:00.486048+00:00",
+      "source_cached_at": "2026-05-13T12:31:43.974186+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.floridatoday.com/story/news/2026/05/11/caribbean-princess-cruise-ship-port-canaveral-florida-norovirus/90025735007/",
@@ -3934,7 +3981,56 @@
       "title": "Cruise ship with norovirus outbreak docks in Florida. Illness facts",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Sky Hantavirus Watch",
+      "canonical_url": "https://youtube.com/watch?v\\=S89u_aPE2I8",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "",
+      "display_source": "YouTube",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_2bd76def910760bd",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://www.youtube.com/watch?v\\=S89u_aPE2I8",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-10T20:32+00:00",
+      "publisher": "YouTube",
+      "publisher_access": "unknown",
+      "publisher_name": "YouTube",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDZnBZOEhtVmpWUkZUcUxBUG1lWHZMRHV5Y3NJVXJPT2czS2w4a21KSVJTekFHOFJaMUxfOUtBRjB5MjRUVkhpWUlKMTlBd1kyMEUzQnNR?oc=5",
+      "region": "Global / Maritime",
+      "relevance_score": 1,
+      "resolved_url": "https://www.youtube.com/watch?v\\=S89u_aPE2I8",
+      "source": "Google News Sky Hantavirus Watch",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-13T12:31:40.878635+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://www.youtube.com/watch?v\\=S89u_aPE2I8",
+      "story_id": "story_f6d225b01f3f7094",
+      "story_status": "expanding_coverage",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Passengers evacuated from hantavirus-stricken cruise ship MV Hondius",
+      "topic_id": "topic_f6d225b01f3f7094",
+      "topic_name": "Hantavirus and cruise-ship outbreak",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3973,7 +4069,7 @@
       "resolved_url": "https://www.tiktok.com/@skynews/video/7638214617088396566",
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.954443+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.878635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.tiktok.com/@skynews/video/7638214617088396566",
@@ -3983,7 +4079,7 @@
       "title": "A British Army specialist team has parachuted onto Tristan da Cunha to deliver critical medical support after it was confirmed that one British national on the island was suspected of contracting Hantavirus #hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -4022,7 +4118,7 @@
       "resolved_url": "https://www.foxnews.com/health/cruise-ship-linked-deadly-hantavirus-outbreak-arrives-tenerife-passenger-evacuation-begins",
       "source": "Google News Hantavirus and Cruise Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:55.509705+00:00",
+      "source_cached_at": "2026-05-13T12:31:39.380084+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.foxnews.com/health/cruise-ship-linked-deadly-hantavirus-outbreak-arrives-tenerife-passenger-evacuation-begins",
@@ -4032,7 +4128,7 @@
       "title": "Cruise ship linked to deadly Hantavirus outbreak arrives off Tenerife as passenger evacuation begins",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -4071,7 +4167,7 @@
       "resolved_url": "https://www.facebook.com/SkyNewsAustralia/videos/cruise-ship-docks-in-tenerife-amid-deadly-hondavirus-outbreak/26360218360347009/",
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.954443+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.878635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.facebook.com/SkyNewsAustralia/videos/cruise-ship-docks-in-tenerife-amid-deadly-hondavirus-outbreak/26360218360347009/",
@@ -4081,7 +4177,7 @@
       "title": "Sky News Australia. . The cruise ship NV Honduras has docked at the Spanish island of Tenerife in the Canary Islands following a Hondavirus outbreak onboard.",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -4121,17 +4217,17 @@
       "resolved_url": "https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html",
       "source": "Google News India Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:30:06.826734+00:00",
+      "source_cached_at": "2026-05-13T12:31:50.060063+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html",
       "story_id": "story_0cc2d5322bc76f8f",
-      "story_status": "expanding_coverage",
+      "story_status": "quiet_retained",
       "summary": "Limited detail was available from feed metadata alone.",
       "title": "Measles case confirmed in Buckingham County",
       "topic_id": "topic_0cc2d5322bc76f8f",
       "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -4170,7 +4266,7 @@
       "resolved_url": "https://www.youtube.com/watch?v\\=rqA4Urv3jMU",
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-13T11:29:56.954443+00:00",
+      "source_cached_at": "2026-05-13T12:31:40.878635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.youtube.com/watch?v\\=rqA4Urv3jMU",
@@ -4180,7 +4276,7 @@
       "title": "Five confirmed hantavirus cases as scientists race to trace potentially infected | The World",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     }
   ],
@@ -4248,7 +4344,7 @@
       "related_stories": [
         {
           "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Facebook.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Al Jazeera.",
           "story_id": "story_f6d225b01f3f7094",
           "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
           "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -4338,7 +4434,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.",
+          "latest_update_summary": "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -6098,7 +6194,7 @@
       "why_reporters_care": "Zika matters because congenital outcomes, pregnancy guidance, travel messaging, and mosquito ecology can turn a mild-adult disease story into a major public-health communications event."
     }
   ],
-  "run_id": "run_f2fa6ae8ff9f7f06",
+  "run_id": "run_095071fe5a14a6ba",
   "search_window": "7 day(s) ending 2026-05-13",
   "source_failures": [
     {
@@ -6110,7 +6206,7 @@
   "source_health": [
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:09.609474+00:00",
+      "cached_at": "2026-05-13T12:30:45.657150+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6120,7 +6216,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:10.270074+00:00",
+      "cached_at": "2026-05-13T12:30:51.335642+00:00",
       "error": null,
       "item_count": 300,
       "mode": "live",
@@ -6130,7 +6226,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:10.402302+00:00",
+      "cached_at": "2026-05-13T12:30:51.592810+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -6140,7 +6236,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:10.670713+00:00",
+      "cached_at": "2026-05-13T12:30:51.897848+00:00",
       "error": null,
       "item_count": 6,
       "mode": "live",
@@ -6150,7 +6246,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:11.019659+00:00",
+      "cached_at": "2026-05-13T12:30:52.251892+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6160,7 +6256,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:12.089689+00:00",
+      "cached_at": "2026-05-13T12:30:53.203313+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -6170,7 +6266,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:13.659218+00:00",
+      "cached_at": "2026-05-13T12:30:57.735142+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6180,7 +6276,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:34.124777+00:00",
+      "cached_at": "2026-05-13T12:31:18.123569+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6190,7 +6286,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:34.562773+00:00",
+      "cached_at": "2026-05-13T12:31:18.777163+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -6200,7 +6296,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:34.651173+00:00",
+      "cached_at": "2026-05-13T12:31:19.014195+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -6210,9 +6306,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:35.286275+00:00",
+      "cached_at": "2026-05-13T12:31:19.406385+00:00",
       "error": null,
-      "item_count": 10,
+      "item_count": 9,
       "mode": "live",
       "official": false,
       "source": "Sky News World",
@@ -6220,7 +6316,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:35.743446+00:00",
+      "cached_at": "2026-05-13T12:31:20.869966+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -6240,7 +6336,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:45.324853+00:00",
+      "cached_at": "2026-05-13T12:31:30.407447+00:00",
       "error": null,
       "item_count": 25,
       "mode": "live",
@@ -6250,7 +6346,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:45.709849+00:00",
+      "cached_at": "2026-05-13T12:31:30.712578+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6260,7 +6356,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:46.643551+00:00",
+      "cached_at": "2026-05-13T12:31:31.229938+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6269,7 +6365,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 10.26,
+      "cache_age_hours": 11.29,
       "cached_at": "2026-05-13T01:14:16.999808+00:00",
       "error": null,
       "item_count": 1,
@@ -6280,7 +6376,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:47.750180+00:00",
+      "cached_at": "2026-05-13T12:31:31.908443+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6290,7 +6386,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:49.462250+00:00",
+      "cached_at": "2026-05-13T12:31:33.453035+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6300,7 +6396,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:50.950297+00:00",
+      "cached_at": "2026-05-13T12:31:34.978310+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6309,7 +6405,7 @@
       "source_type": "biorxiv"
     },
     {
-      "cache_age_hours": 4.12,
+      "cache_age_hours": 5.15,
       "cached_at": "2026-05-13T07:22:42.958179+00:00",
       "error": null,
       "item_count": 19,
@@ -6319,7 +6415,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 4.12,
+      "cache_age_hours": 5.15,
       "cached_at": "2026-05-13T07:22:43.437028+00:00",
       "error": null,
       "item_count": 16,
@@ -6329,7 +6425,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 4.12,
+      "cache_age_hours": 5.15,
       "cached_at": "2026-05-13T07:22:44.018650+00:00",
       "error": null,
       "item_count": 10,
@@ -6339,7 +6435,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 4.12,
+      "cache_age_hours": 5.15,
       "cached_at": "2026-05-13T07:22:44.519615+00:00",
       "error": null,
       "item_count": 6,
@@ -6350,7 +6446,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:52.273392+00:00",
+      "cached_at": "2026-05-13T12:31:36.339080+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6360,7 +6456,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:52.781586+00:00",
+      "cached_at": "2026-05-13T12:31:36.860063+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6370,7 +6466,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:53.410274+00:00",
+      "cached_at": "2026-05-13T12:31:37.478608+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6380,7 +6476,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:54.020579+00:00",
+      "cached_at": "2026-05-13T12:31:38.161416+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6390,9 +6486,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:54.896430+00:00",
+      "cached_at": "2026-05-13T12:31:38.830293+00:00",
       "error": null,
-      "item_count": 71,
+      "item_count": 79,
       "mode": "live",
       "official": false,
       "source": "Google News Global Health Reporting",
@@ -6400,9 +6496,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:55.509801+00:00",
+      "cached_at": "2026-05-13T12:31:39.380154+00:00",
       "error": null,
-      "item_count": 76,
+      "item_count": 70,
       "mode": "live",
       "official": false,
       "source": "Google News Hantavirus and Cruise Outbreaks",
@@ -6410,7 +6506,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:56.248170+00:00",
+      "cached_at": "2026-05-13T12:31:40.184171+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6420,7 +6516,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:56.954517+00:00",
+      "cached_at": "2026-05-13T12:31:40.878696+00:00",
       "error": null,
       "item_count": 60,
       "mode": "live",
@@ -6430,7 +6526,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:57.862925+00:00",
+      "cached_at": "2026-05-13T12:31:41.453900+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6440,7 +6536,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:58.406133+00:00",
+      "cached_at": "2026-05-13T12:31:42.058222+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6450,7 +6546,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:59.043845+00:00",
+      "cached_at": "2026-05-13T12:31:42.745188+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6460,7 +6556,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:29:59.827172+00:00",
+      "cached_at": "2026-05-13T12:31:43.275158+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6470,7 +6566,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:00.486164+00:00",
+      "cached_at": "2026-05-13T12:31:43.974306+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6480,7 +6576,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:01.089588+00:00",
+      "cached_at": "2026-05-13T12:31:44.592150+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6490,7 +6586,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:01.667147+00:00",
+      "cached_at": "2026-05-13T12:31:45.313812+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6500,7 +6596,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:02.595113+00:00",
+      "cached_at": "2026-05-13T12:31:45.917537+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6510,7 +6606,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:03.308628+00:00",
+      "cached_at": "2026-05-13T12:31:46.739803+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6520,9 +6616,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:03.847500+00:00",
+      "cached_at": "2026-05-13T12:31:47.252074+00:00",
       "error": null,
-      "item_count": 14,
+      "item_count": 15,
       "mode": "live",
       "official": false,
       "source": "Google News West Africa Outbreaks",
@@ -6530,9 +6626,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:04.620358+00:00",
+      "cached_at": "2026-05-13T12:31:47.882407+00:00",
       "error": null,
-      "item_count": 60,
+      "item_count": 61,
       "mode": "live",
       "official": false,
       "source": "Google News East Africa Outbreaks",
@@ -6540,7 +6636,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:05.035546+00:00",
+      "cached_at": "2026-05-13T12:31:48.343546+00:00",
       "error": null,
       "item_count": 31,
       "mode": "live",
@@ -6550,9 +6646,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:05.738731+00:00",
+      "cached_at": "2026-05-13T12:31:48.985874+00:00",
       "error": null,
-      "item_count": 54,
+      "item_count": 53,
       "mode": "live",
       "official": false,
       "source": "Google News Southern Africa Outbreaks",
@@ -6560,9 +6656,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:06.370069+00:00",
+      "cached_at": "2026-05-13T12:31:49.612453+00:00",
       "error": null,
-      "item_count": 70,
+      "item_count": 65,
       "mode": "live",
       "official": false,
       "source": "Google News South Asia Outbreaks",
@@ -6570,7 +6666,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:06.826778+00:00",
+      "cached_at": "2026-05-13T12:31:50.060103+00:00",
       "error": null,
       "item_count": 17,
       "mode": "live",
@@ -6580,7 +6676,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:07.612114+00:00",
+      "cached_at": "2026-05-13T12:31:50.623756+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6590,7 +6686,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:08.326383+00:00",
+      "cached_at": "2026-05-13T12:31:51.343976+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6600,7 +6696,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:08.943569+00:00",
+      "cached_at": "2026-05-13T12:31:52.058968+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6610,9 +6706,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:09.525078+00:00",
+      "cached_at": "2026-05-13T12:31:52.556180+00:00",
       "error": null,
-      "item_count": 49,
+      "item_count": 40,
       "mode": "live",
       "official": false,
       "source": "Google News New York Public Health",
@@ -6620,7 +6716,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:10.019923+00:00",
+      "cached_at": "2026-05-13T12:31:52.934687+00:00",
       "error": null,
       "item_count": 47,
       "mode": "live",
@@ -6630,7 +6726,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:10.423199+00:00",
+      "cached_at": "2026-05-13T12:31:53.371967+00:00",
       "error": null,
       "item_count": 41,
       "mode": "live",
@@ -6640,7 +6736,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:10.961864+00:00",
+      "cached_at": "2026-05-13T12:31:53.852688+00:00",
       "error": null,
       "item_count": 54,
       "mode": "live",
@@ -6650,7 +6746,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-13T11:30:11.332864+00:00",
+      "cached_at": "2026-05-13T12:31:54.214622+00:00",
       "error": null,
       "item_count": 16,
       "mode": "live",
@@ -6686,12 +6782,12 @@
       ],
       "freshness_counts": {
         "fallback_cache": 0,
-        "live": 35,
+        "live": 38,
         "refresh_cache": 0,
         "retained": 0,
         "unknown": 0
       },
-      "item_count": 35,
+      "item_count": 38,
       "item_ids": [
         "item_a99416d20dca0f9a",
         "item_fa5d8c0375666f05",
@@ -6701,20 +6797,22 @@
         "item_9963996f1568617a",
         "item_e27cdc952fe6954e",
         "item_ad7f97950604c964",
-        "item_0f0f502a31f780cb",
         "item_bf25b8abcbd4713b",
         "item_abff5ebe46f4da4b",
-        "item_03381b5eb15dccf6",
         "item_4581239508231218",
         "item_24525abaad4516a1",
-        "item_7b181576e8d3eb10"
+        "item_7b181576e8d3eb10",
+        "item_35f4466b9cd7ecd0",
+        "item_5c592939bc8b2d34"
       ],
       "latest_timestamp": "2026-05-11T16:39+02:00",
       "latest_update_bullets": [
-        "New publisher/source coverage joined this story cluster: Facebook."
+        "New publisher/source coverage joined this story cluster: Al Jazeera.",
+        "Story volume increased from 35 to 38 clustered item(s) in the current window.",
+        "8 newly observed linked item(s) were added since the last saved snapshot."
       ],
-      "latest_update_summary": "New publisher/source coverage joined this story cluster: Facebook.",
-      "latest_updated_at": "2026-05-13T04:31:21",
+      "latest_update_summary": "New publisher/source coverage joined this story cluster: Al Jazeera.",
+      "latest_updated_at": "2026-05-13T05:33:02",
       "lead_source": "ECDC News",
       "lead_title": "Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States",
       "lead_url": "https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states",
@@ -6730,16 +6828,16 @@
         "item_9963996f1568617a",
         "item_e27cdc952fe6954e",
         "item_ad7f97950604c964",
-        "item_0f0f502a31f780cb",
         "item_bf25b8abcbd4713b",
         "item_abff5ebe46f4da4b",
-        "item_03381b5eb15dccf6",
         "item_4581239508231218",
         "item_24525abaad4516a1",
         "item_7b181576e8d3eb10",
         "item_35f4466b9cd7ecd0",
+        "item_5c592939bc8b2d34",
         "item_2b06037eb9c6d1c9",
         "item_627b7007ef569fed",
+        "item_ed38e4a57fbe1c36",
         "item_8a41a447780cc277",
         "item_5e4dbc2468d64668",
         "item_a484c2a1c846372e",
@@ -6747,21 +6845,24 @@
         "item_b089c751dc45678c",
         "item_4decc6dc9acac71d",
         "item_000544952a1f264b",
+        "item_8a61282503bfc72e",
         "item_3103e4154f80d537",
         "item_2841e1fb8b264b94",
+        "item_a61fd3f699ab9cdb",
         "item_7c8fe12d8e9a25a1",
         "item_ebe8ddac96c53d82",
         "item_b2c0c1c073b558fb",
         "item_8d7843bdc55322ca",
+        "item_2bd76def910760bd",
         "item_f15e2b07c6f1fe54",
         "item_50a992037eb2c3be",
         "item_d48177c9f5d4c299",
         "item_1a758e99afcd32d5"
       ],
       "primary_region": "Global / Maritime",
-      "publisher_family_count": 12,
+      "publisher_family_count": 11,
       "publisher_names": [
-        "Associated Press",
+        "Al Jazeera",
         "BBC",
         "CBS News",
         "CIDRAP",
@@ -6801,7 +6902,7 @@
         "aggregator_only": 0,
         "general_outlet": 0,
         "major_newsroom": 0,
-        "metadata_only_signal": 33,
+        "metadata_only_signal": 36,
         "official_agency": 2,
         "specialist_health": 0,
         "wire": 0
@@ -6811,13 +6912,13 @@
         "aggregator_only": 0,
         "general_outlet": 0,
         "major_newsroom": 0,
-        "metadata_only_signal": 33,
+        "metadata_only_signal": 36,
         "official": 2,
         "specialist_health": 0,
         "wire": 0
       },
       "source_names": [
-        "AP News",
+        "Al Jazeera",
         "BBC",
         "CBS News",
         "CIDRAP",
@@ -8844,695 +8945,41 @@
           "story_id": "story_f6d225b01f3f7094",
           "topic_name": "Hantavirus and cruise-ship outbreak",
           "update_id": "story_update_339876fbd8290935"
+        },
+        {
+          "bullets": [
+            "8 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-13T05:31:51",
+          "is_new_story": false,
+          "item_count": 35,
+          "run_id": "run_d6ba19cac91ac333",
+          "source_count": 21,
+          "story_id": "story_f6d225b01f3f7094",
+          "topic_name": "Hantavirus and cruise-ship outbreak",
+          "update_id": "story_update_522d7040be07e992"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Al Jazeera.",
+            "Story volume increased from 35 to 38 clustered item(s) in the current window.",
+            "8 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-13T05:33:02",
+          "is_new_story": false,
+          "item_count": 38,
+          "run_id": "run_095071fe5a14a6ba",
+          "source_count": 21,
+          "story_id": "story_f6d225b01f3f7094",
+          "topic_name": "Hantavirus and cruise-ship outbreak",
+          "update_id": "story_update_e1bb086bb13a349f"
         }
       ],
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:33:02",
       "what_happened": "Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States",
       "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 20 newsroom source(s)."
-    },
-    {
-      "claim_types": [
-        "new_official_source",
-        "confirmed_case",
-        "severity_or_death",
-        "new_geography"
-      ],
-      "content_class": "tracked_outbreak_file",
-      "country": "",
-      "current_status_summary": "Expanding coverage",
-      "display_title": "Measles transmission and vaccination",
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "africa"
-      ],
-      "evidence_type": "news_report",
-      "first_seen_at": "2026-05-08T16:07:27",
-      "flags": [
-        "vaccine_signal"
-      ],
-      "freshness_counts": {
-        "fallback_cache": 0,
-        "live": 3,
-        "refresh_cache": 0,
-        "retained": 0,
-        "unknown": 0
-      },
-      "item_count": 3,
-      "item_ids": [
-        "item_aab4c4d1c8fdfd66",
-        "item_4579e196aec776c1",
-        "item_cd236f587fccbde6"
-      ],
-      "latest_timestamp": "2026-05-10T01:05+00:00",
-      "latest_update_bullets": [
-        "New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.",
-        "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-        "2 newly observed linked item(s) were added since the last saved snapshot."
-      ],
-      "latest_update_summary": "New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.",
-      "latest_updated_at": "2026-05-13T04:31:21",
-      "lead_source": "arabnews.jp",
-      "lead_title": "How conflict is driving measles outbreaks in the Middle East and North Africa",
-      "lead_url": "https://www.arabnews.jp/en/middle-east/article_169830/",
-      "new_since_last_refresh": true,
-      "official_item_ids": [],
-      "press_item_ids": [
-        "item_aab4c4d1c8fdfd66",
-        "item_4579e196aec776c1",
-        "item_cd236f587fccbde6"
-      ],
-      "primary_region": "Africa",
-      "publisher_family_count": 0,
-      "publisher_names": [
-        "Outbreak News Today",
-        "The Daily Progress",
-        "arabnews.jp"
-      ],
-      "related_reference_names": [
-        "Measles"
-      ],
-      "related_reference_urls": [
-        "reference/measles.html"
-      ],
-      "related_references": [
-        {
-          "name": "Measles",
-          "pathogen": "Measles virus",
-          "reference_url": "reference/measles.html",
-          "reference_web_path": "reference/measles.html"
-        }
-      ],
-      "source_confidence_counts": {
-        "aggregator_only": 0,
-        "general_outlet": 2,
-        "major_newsroom": 0,
-        "metadata_only_signal": 1,
-        "official_agency": 0,
-        "specialist_health": 0,
-        "wire": 0
-      },
-      "source_count": 3,
-      "source_kind_counts": {
-        "aggregator_only": 0,
-        "general_outlet": 2,
-        "major_newsroom": 0,
-        "metadata_only_signal": 1,
-        "official": 0,
-        "specialist_health": 0,
-        "wire": 0
-      },
-      "source_names": [
-        "Outbreak News Today",
-        "The Daily Progress",
-        "arabnews.jp"
-      ],
-      "status": "expanding_coverage",
-      "story_id": "story_0cc2d5322bc76f8f",
-      "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
-      "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
-      "timeline": [
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: LebTown, Outbreak News Today, \u6bce\u65e5\u65b0\u805e.",
-            "The lead item has changed to [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) from Outbreak News Today.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T16:07:27",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_ad6322253b5173c8",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_e68653bddc166af2"
-        },
-        {
-          "bullets": [
-            "The Eastleigh Voice now includes deaths or fatal cases in the story frame.",
-            "New publisher/source coverage joined this story cluster: The Eastleigh Voice.",
-            "The lead item has changed to [Lancet study finds significant child death reduction from malaria vaccine in Africa](https://eastleighvoice.co.ke/health/346943/lancet-study-finds-significant-child-death-reduction-from-malaria-vaccine-in-africa?amp\\=1) from The Eastleigh Voice.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window."
-          ],
-          "generated_at": "2026-05-08T22:34:54",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_c3eefbf24936e411",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_3e40e4fc5f5bc961"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) from Outbreak News Today."
-          ],
-          "generated_at": "2026-05-08T23:01:43",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_24ad039b5a4bd5b3",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_3ad138be734e15bc"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: CBS 19 News, The Daily Progress, The Standard (HK).",
-            "The lead item has changed to [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) from CBS 19 News.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T00:01:52",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_c2c9f85967f25df3",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_09e11f8b7066a316"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "Story volume increased from 4 to 5 clustered item(s) in the current window.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T04:02:10",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_bd124c2338217c9d",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_53d58ae49dc806fa"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to [Officials investigate case of measles in the Central Region](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5) from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T06:02:02",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_374784824ec37620",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_eaa88a88e1e92773"
-        },
-        {
-          "bullets": [
-            "The Standard (HK) now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T07:27:41",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_0ba114154e9e3061",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_406627c59d7c8696"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T07:54:33",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_64efbff34b803116",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_be008da0f86569e7"
-        },
-        {
-          "bullets": [
-            "The Standard (HK) now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T08:08:20",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_2e4316f0b5c25d78",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_4decec9ea6ce0e3c"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T08:19:06",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_d5667e38b111bd9b",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_2ba9cb135f89ae9d"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "New publisher/source coverage joined this story cluster: arabnews.jp.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "Story volume increased from 4 to 5 clustered item(s) in the current window."
-          ],
-          "generated_at": "2026-05-10T14:50:13",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_f1996c5d598f8746",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_626a30e26df98831"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-10T18:19:44",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_1832e05ef30c0c68",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_316482dd55f3296b"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-10T22:14:42",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_0bf447207e5e6af8",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_9076bc39d3acab18"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:02:30",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_3adee671def65457",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_469af966da49e1e4"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "New publisher/source coverage joined this story cluster: \u6bce\u65e5\u65b0\u805e.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:32:50",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_cec49e6ec8168b34",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_4c1973dd52dc5f1f"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:44:40",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_0ca73ff462b2e71c",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_fed88f4d207e1e13"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T08:48:18",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_dd4b58e8d5b250a5",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_6ff4d7dda18108a9"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T08:53:04",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_23a8388018a202e1",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_f6b12de55779684a"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T09:49:43",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_da55b013dbc18207",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_b9ed6ced4be99881"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T09:50:24",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_7f1588fee0f2b584",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_0cb26f03c77f1df2"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T10:49:28",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_23144609ed12b558",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_adbdab651cbd88fa"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T10:50:41",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_dbd172392e94838f",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_583581c03b85548d"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: CBS 19 News, National Catholic Reporter.",
-            "Story volume increased from 4 to 6 clustered item(s) in the current window.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T11:51:42",
-          "is_new_story": false,
-          "item_count": 6,
-          "run_id": "run_59bb77392a2862f3",
-          "source_count": 6,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_dbeca96f2e6ca30d"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: CBS 19 News.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T12:53:44",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_7c46451c42b7fba7",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_60c6b9a586dd2dea"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: cbs19news.com."
-          ],
-          "generated_at": "2026-05-11T13:54:48",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_7c58de027530a07e",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_e830e62a413ba786"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T13:55:13",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_4416c7fad5792dac",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_18cb4d6fbe75fa68"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Officials investigate case of measles in the Central Region from cbs19news.com.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T14:56:11",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_567a3cb151a90c88",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_a9f7bfb0f5d81c23"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "The lead item has changed to Officials investigate case of measles in the Central Region from cbs19news.com.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T15:57:18",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_c5af5467cde284f9",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_cb77876978d5c055"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette, arabnews.jp.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "Story volume increased from 4 to 5 clustered item(s) in the current window."
-          ],
-          "generated_at": "2026-05-11T15:58:26",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_cc79decd14aabe00",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_bc90c8087e9425e8"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Japan reports more than 400 measles cases in first four months of 2026 from Outbreak News Today."
-          ],
-          "generated_at": "2026-05-11T16:58:48",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_955e088ca57d25cd",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_3a3931021512d3ab"
-        },
-        {
-          "bullets": [
-            "Digital Journal now includes deaths or fatal cases in the story frame.",
-            "New publisher/source coverage joined this story cluster: Digital Journal.",
-            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T06:01:18",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_4f01c9ecab189e65",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_429b924fef3a2091"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: LebTown.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T07:01:45",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_fc2cdacf54aa39d3",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_7914f1a7bad8e2e9"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T07:14:13",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_d658d0c65c421f9a",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_773e72de0d34d1d9"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Daily Tribune.",
-            "The lead item has changed to Measles surge in Indonesia fueled by vaccine misinformation from Daily Tribune.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T13:09:48",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_3186a6e4c7fca1ca",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_e7e52f77da597fb7"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Digital Journal.",
-            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T14:10:50",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_4e1d3a42ccbced4b",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_f843c373542f4150"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "The lead item has changed to Bangladesh measles outbreak top 50,000 total cases since mid-March from Outbreak News Today.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T18:15:53",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_a2cb8d4ddfc9f4e0",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_d280c5e5ba73792d"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Japan reports more than 400 measles cases in first four months of 2026 from Outbreak News Today."
-          ],
-          "generated_at": "2026-05-12T19:17:17",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_1ab5a9347ae227fd",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_f237d212bf18684a"
-        },
-        {
-          "bullets": [
-            "Digital Journal now includes deaths or fatal cases in the story frame.",
-            "New publisher/source coverage joined this story cluster: Digital Journal, Pittsburgh Post-Gazette.",
-            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window."
-          ],
-          "generated_at": "2026-05-12T20:17:45",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_7df905afad3aa5e3",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_4ad573fc4bda6368"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-13T04:31:21",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_f2fa6ae8ff9f7f06",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_88ed933ea81eb908"
-        }
-      ],
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-13T04:31:21",
-      "what_happened": "How conflict is driving measles outbreaks in the Middle East and North Africa",
-      "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
     {
       "claim_types": [
@@ -10165,7 +9612,697 @@
     },
     {
       "claim_types": [
-        "new_official_source",
+        "confirmed_case",
+        "new_geography"
+      ],
+      "content_class": "tracked_outbreak_file",
+      "country": "United Kingdom",
+      "current_status_summary": "Expanding coverage",
+      "display_title": "Measles transmission and vaccination",
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "africa"
+      ],
+      "evidence_type": "news_report",
+      "first_seen_at": "2026-05-08T16:07:27",
+      "flags": [],
+      "freshness_counts": {
+        "fallback_cache": 0,
+        "live": 3,
+        "refresh_cache": 0,
+        "retained": 0,
+        "unknown": 0
+      },
+      "item_count": 3,
+      "item_ids": [
+        "item_35afe98fda68664e",
+        "item_16e119d6fc716960",
+        "item_5402305880d457b3"
+      ],
+      "latest_timestamp": "2026-05-10T01:05+00:00",
+      "latest_update_bullets": [
+        "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+        "3 newly observed linked item(s) were added since the last saved snapshot."
+      ],
+      "latest_update_summary": "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+      "latest_updated_at": "2026-05-13T05:31:51",
+      "lead_source": "arabnews.jp",
+      "lead_title": "How conflict is driving measles outbreaks in the Middle East and North Africa",
+      "lead_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TTXpzeTdtb1prbHZrRTJhQlhCS1ZRUV92YnVmcDB6NWZ4bWhUanVscWJOQl9IRTNPb25KZVZDREx2bUM0YUN4RFExOW1lUkFVSmxScE9kSFo0UVlUeFpIRFZkb0M?oc=5",
+      "new_since_last_refresh": false,
+      "official_item_ids": [],
+      "press_item_ids": [
+        "item_35afe98fda68664e",
+        "item_16e119d6fc716960",
+        "item_5402305880d457b3"
+      ],
+      "primary_region": "Africa",
+      "publisher_family_count": 0,
+      "publisher_names": [
+        "Outbreak News Today",
+        "The Daily Progress",
+        "arabnews.jp"
+      ],
+      "related_reference_names": [
+        "Measles"
+      ],
+      "related_reference_urls": [
+        "reference/measles.html"
+      ],
+      "related_references": [
+        {
+          "name": "Measles",
+          "pathogen": "Measles virus",
+          "reference_url": "reference/measles.html",
+          "reference_web_path": "reference/measles.html"
+        }
+      ],
+      "source_confidence_counts": {
+        "aggregator_only": 0,
+        "general_outlet": 0,
+        "major_newsroom": 0,
+        "metadata_only_signal": 3,
+        "official_agency": 0,
+        "specialist_health": 0,
+        "wire": 0
+      },
+      "source_count": 3,
+      "source_kind_counts": {
+        "aggregator_only": 0,
+        "general_outlet": 0,
+        "major_newsroom": 0,
+        "metadata_only_signal": 3,
+        "official": 0,
+        "specialist_health": 0,
+        "wire": 0
+      },
+      "source_names": [
+        "Outbreak News Today",
+        "The Daily Progress",
+        "arabnews.jp"
+      ],
+      "status": "quiet_retained",
+      "story_id": "story_0cc2d5322bc76f8f",
+      "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
+      "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
+      "timeline": [
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: LebTown, Outbreak News Today, \u6bce\u65e5\u65b0\u805e.",
+            "The lead item has changed to [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) from Outbreak News Today.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T16:07:27",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_ad6322253b5173c8",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_e68653bddc166af2"
+        },
+        {
+          "bullets": [
+            "The Eastleigh Voice now includes deaths or fatal cases in the story frame.",
+            "New publisher/source coverage joined this story cluster: The Eastleigh Voice.",
+            "The lead item has changed to [Lancet study finds significant child death reduction from malaria vaccine in Africa](https://eastleighvoice.co.ke/health/346943/lancet-study-finds-significant-child-death-reduction-from-malaria-vaccine-in-africa?amp\\=1) from The Eastleigh Voice.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window."
+          ],
+          "generated_at": "2026-05-08T22:34:54",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_c3eefbf24936e411",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_3e40e4fc5f5bc961"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) from Outbreak News Today."
+          ],
+          "generated_at": "2026-05-08T23:01:43",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_24ad039b5a4bd5b3",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_3ad138be734e15bc"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: CBS 19 News, The Daily Progress, The Standard (HK).",
+            "The lead item has changed to [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) from CBS 19 News.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T00:01:52",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_c2c9f85967f25df3",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_09e11f8b7066a316"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "Story volume increased from 4 to 5 clustered item(s) in the current window.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T04:02:10",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_bd124c2338217c9d",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_53d58ae49dc806fa"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to [Officials investigate case of measles in the Central Region](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5) from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T06:02:02",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_374784824ec37620",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_eaa88a88e1e92773"
+        },
+        {
+          "bullets": [
+            "The Standard (HK) now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T07:27:41",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_0ba114154e9e3061",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_406627c59d7c8696"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T07:54:33",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_64efbff34b803116",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_be008da0f86569e7"
+        },
+        {
+          "bullets": [
+            "The Standard (HK) now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T08:08:20",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_2e4316f0b5c25d78",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_4decec9ea6ce0e3c"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T08:19:06",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_d5667e38b111bd9b",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_2ba9cb135f89ae9d"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "New publisher/source coverage joined this story cluster: arabnews.jp.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "Story volume increased from 4 to 5 clustered item(s) in the current window."
+          ],
+          "generated_at": "2026-05-10T14:50:13",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_f1996c5d598f8746",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_626a30e26df98831"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-10T18:19:44",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_1832e05ef30c0c68",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_316482dd55f3296b"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-10T22:14:42",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_0bf447207e5e6af8",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_9076bc39d3acab18"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:02:30",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_3adee671def65457",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_469af966da49e1e4"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "New publisher/source coverage joined this story cluster: \u6bce\u65e5\u65b0\u805e.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:32:50",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_cec49e6ec8168b34",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_4c1973dd52dc5f1f"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:44:40",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_0ca73ff462b2e71c",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_fed88f4d207e1e13"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T08:48:18",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_dd4b58e8d5b250a5",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_6ff4d7dda18108a9"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T08:53:04",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_23a8388018a202e1",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_f6b12de55779684a"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T09:49:43",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_da55b013dbc18207",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_b9ed6ced4be99881"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T09:50:24",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_7f1588fee0f2b584",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_0cb26f03c77f1df2"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T10:49:28",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_23144609ed12b558",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_adbdab651cbd88fa"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T10:50:41",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_dbd172392e94838f",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_583581c03b85548d"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: CBS 19 News, National Catholic Reporter.",
+            "Story volume increased from 4 to 6 clustered item(s) in the current window.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T11:51:42",
+          "is_new_story": false,
+          "item_count": 6,
+          "run_id": "run_59bb77392a2862f3",
+          "source_count": 6,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_dbeca96f2e6ca30d"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: CBS 19 News.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T12:53:44",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_7c46451c42b7fba7",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_60c6b9a586dd2dea"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: cbs19news.com."
+          ],
+          "generated_at": "2026-05-11T13:54:48",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_7c58de027530a07e",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_e830e62a413ba786"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T13:55:13",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_4416c7fad5792dac",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_18cb4d6fbe75fa68"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Officials investigate case of measles in the Central Region from cbs19news.com.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T14:56:11",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_567a3cb151a90c88",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_a9f7bfb0f5d81c23"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "The lead item has changed to Officials investigate case of measles in the Central Region from cbs19news.com.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T15:57:18",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_c5af5467cde284f9",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_cb77876978d5c055"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette, arabnews.jp.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "Story volume increased from 4 to 5 clustered item(s) in the current window."
+          ],
+          "generated_at": "2026-05-11T15:58:26",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_cc79decd14aabe00",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_bc90c8087e9425e8"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Japan reports more than 400 measles cases in first four months of 2026 from Outbreak News Today."
+          ],
+          "generated_at": "2026-05-11T16:58:48",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_955e088ca57d25cd",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_3a3931021512d3ab"
+        },
+        {
+          "bullets": [
+            "Digital Journal now includes deaths or fatal cases in the story frame.",
+            "New publisher/source coverage joined this story cluster: Digital Journal.",
+            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T06:01:18",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_4f01c9ecab189e65",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_429b924fef3a2091"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: LebTown.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T07:01:45",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_fc2cdacf54aa39d3",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_7914f1a7bad8e2e9"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T07:14:13",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_d658d0c65c421f9a",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_773e72de0d34d1d9"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Daily Tribune.",
+            "The lead item has changed to Measles surge in Indonesia fueled by vaccine misinformation from Daily Tribune.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T13:09:48",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_3186a6e4c7fca1ca",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_e7e52f77da597fb7"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Digital Journal.",
+            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T14:10:50",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_4e1d3a42ccbced4b",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_f843c373542f4150"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "The lead item has changed to Bangladesh measles outbreak top 50,000 total cases since mid-March from Outbreak News Today.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T18:15:53",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_a2cb8d4ddfc9f4e0",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_d280c5e5ba73792d"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Japan reports more than 400 measles cases in first four months of 2026 from Outbreak News Today."
+          ],
+          "generated_at": "2026-05-12T19:17:17",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_1ab5a9347ae227fd",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_f237d212bf18684a"
+        },
+        {
+          "bullets": [
+            "Digital Journal now includes deaths or fatal cases in the story frame.",
+            "New publisher/source coverage joined this story cluster: Digital Journal, Pittsburgh Post-Gazette.",
+            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window."
+          ],
+          "generated_at": "2026-05-12T20:17:45",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_7df905afad3aa5e3",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_4ad573fc4bda6368"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-13T04:31:21",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_f2fa6ae8ff9f7f06",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_88ed933ea81eb908"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-13T05:31:51",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_d6ba19cac91ac333",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_6f1d5416410be07f"
+        }
+      ],
+      "topic_id": "topic_0cc2d5322bc76f8f",
+      "topic_name": "Measles transmission and vaccination",
+      "updated_at": "2026-05-13T05:33:02",
+      "what_happened": "How conflict is driving measles outbreaks in the Middle East and North Africa",
+      "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
+    },
+    {
+      "claim_types": [
         "severity_or_death",
         "new_geography"
       ],
@@ -10206,7 +10343,7 @@
       "lead_source": "ECDC News",
       "lead_title": "Europe advances genomic surveillance of CCRE with landmark multi-country study",
       "lead_url": "https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study",
-      "new_since_last_refresh": true,
+      "new_since_last_refresh": false,
       "official_item_ids": [
         "item_cb3b16d17e16037b",
         "item_e98c7c3180ed668f"
@@ -10405,7 +10542,7 @@
       ],
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-05-13T04:31:21",
+      "updated_at": "2026-05-13T05:31:51",
       "what_happened": "Europe advances genomic surveillance of CCRE with landmark multi-country study",
       "why_it_matters": "This file matters because official outbreak tracking remains active even if publisher coverage is thin."
     },
@@ -10537,7 +10674,7 @@
   "topics": [
     {
       "display_title": "Hantavirus and cruise-ship outbreak",
-      "item_count": 35,
+      "item_count": 38,
       "item_ids": [
         "item_a99416d20dca0f9a",
         "item_fa5d8c0375666f05",
@@ -10547,15 +10684,30 @@
         "item_9963996f1568617a",
         "item_e27cdc952fe6954e",
         "item_ad7f97950604c964",
-        "item_0f0f502a31f780cb",
-        "item_bf25b8abcbd4713b"
+        "item_bf25b8abcbd4713b",
+        "item_abff5ebe46f4da4b"
       ],
       "source_count": 21,
       "story_id": "story_f6d225b01f3f7094",
       "summary": "Passengers and crew continue to disembark and to be medically evacuated to their countries of origin. On 10 May, the cruise ship MV Hondius arrived at the port of Granadilla, Tenerife, Canary Islands. The guidance published today by ECDC provides advice for public health professionals in the EU/EEA managing individuals potentially exposed to Andes hantavirus from the M/V Hondius, and for healthcare professionals...",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-13T03:29:09"
+      "updated_at": "2026-05-13T05:33:02"
+    },
+    {
+      "display_title": "Miscellaneous signals",
+      "item_count": 3,
+      "item_ids": [
+        "item_51efcc459d2e75f7",
+        "item_c54a37742a2e29c4",
+        "item_001e392210932c26"
+      ],
+      "source_count": 3,
+      "story_id": null,
+      "summary": "Campbell ORCID: orcid.org/0000-0002-9178-1556 1 , 2 , 3 na1 , Martin Faye ORCID: orcid.org/0000-0003-3207-6344 8 , Taylor Brock-Fisher ORCID: orcid.org/0009-0000-5388-9315 10 , Mouhamed Kane ORCID: orcid.org/0009-0009-6489-7244 8 , Tiangay Mariama Patience Sallay Kallon 4 , Publications ochembac@who.int Mon, 11/05/2026 - 17:57 Abuja, Nigeria | 11 May 2026 For immediate release The Federal Government and its...",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-13T05:33:02"
     },
     {
       "display_title": "Tuberculosis and antimicrobial resistance",
@@ -10572,20 +10724,6 @@
       "updated_at": "2026-05-13T04:31:21"
     },
     {
-      "display_title": "Miscellaneous signals",
-      "item_count": 2,
-      "item_ids": [
-        "item_51efcc459d2e75f7",
-        "item_c54a37742a2e29c4"
-      ],
-      "source_count": 2,
-      "story_id": null,
-      "summary": "Campbell ORCID: orcid.org/0000-0002-9178-1556 1 , 2 , 3 na1 , Martin Faye ORCID: orcid.org/0000-0003-3207-6344 8 , Taylor Brock-Fisher ORCID: orcid.org/0009-0000-5388-9315 10 , Mouhamed Kane ORCID: orcid.org/0009-0009-6489-7244 8 , Tiangay Mariama Patience Sallay Kallon 4 , Publications ochembac@who.int Mon, 11/05/2026 - 17:57 Abuja, Nigeria | 11 May 2026 For immediate release The Federal Government and its...",
-      "topic_id": "topic_900601687147a144",
-      "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-13T03:29:09"
-    },
-    {
       "display_title": "Dengue and arboviruses",
       "item_count": 1,
       "item_ids": [
@@ -10596,7 +10734,7 @@
       "summary": "In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026.",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-13T03:29:09"
+      "updated_at": "2026-05-13T05:33:02"
     },
     {
       "display_title": "Avian influenza and H5N1",
@@ -10609,22 +10747,7 @@
       "summary": "Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was...",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-13T03:29:09"
-    },
-    {
-      "display_title": "Measles transmission and vaccination",
-      "item_count": 3,
-      "item_ids": [
-        "item_aab4c4d1c8fdfd66",
-        "item_4579e196aec776c1",
-        "item_cd236f587fccbde6"
-      ],
-      "source_count": 3,
-      "story_id": "story_0cc2d5322bc76f8f",
-      "summary": "Japan health officials reported 74 additional measles cases since our last report , bringing the total cases to 436 as of April 30. This is a 354 percent increase compared to the same time in 2025 when 96 measles cases were reported. Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths.",
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-13T04:31:21"
+      "updated_at": "2026-05-13T05:33:02"
     },
     {
       "display_title": "Polio and wastewater surveillance",
@@ -10637,7 +10760,20 @@
       "summary": "Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.",
       "topic_id": "topic_9ccdd822481fa2b6",
       "topic_name": "Polio and wastewater surveillance",
-      "updated_at": "2026-05-13T03:29:09"
+      "updated_at": "2026-05-13T05:33:02"
+    },
+    {
+      "display_title": "Measles transmission and vaccination",
+      "item_count": 1,
+      "item_ids": [
+        "item_cd236f587fccbde6"
+      ],
+      "source_count": 1,
+      "story_id": "story_0cc2d5322bc76f8f",
+      "summary": "Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.",
+      "topic_id": "topic_0cc2d5322bc76f8f",
+      "topic_name": "Measles transmission and vaccination",
+      "updated_at": "2026-05-13T05:33:02"
     }
   ]
 }

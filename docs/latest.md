@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-13
-Generated at: 2026-05-13T04:31
+Generated at: 2026-05-13T05:33
 Search window: 7 day(s) ending 2026-05-13
 
 ## Executive scan
@@ -12,34 +12,33 @@ Search window: 7 day(s) ending 2026-05-13
 - [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature; 2026-05-12T10:18+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (41), Policy, surveillance, and public health infrastructure (4)
+- Category mix: Outbreaks and emerging infections (43), Policy, surveillance, and public health infrastructure (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Measles transmission and vaccination
-- Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp)
-- New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.
-- The lead item has changed to [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) from arabnews.jp.
-- 2 newly observed linked item(s) were added since the last saved snapshot.
-
-### Tuberculosis and antimicrobial resistance
-- Lead item: [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News)
-- The lead item has changed to [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) from ECDC News.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News)
-- New publisher/source coverage joined this story cluster: Facebook.
+- New publisher/source coverage joined this story cluster: Al Jazeera.
+- Story volume increased from 35 to 38 clustered item(s) in the current window.
+- 8 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 35 item(s) across 21 source(s); 2 official/primary-source item(s).
+- Topic size: 38 item(s) across 21 source(s); 2 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News, 2026-05-11T16:39+02:00)
 - Detailed note: Passengers and crew continue to disembark and to be medically evacuated to their countries of origin. On 10 May, the cruise ship MV Hondius arrived at the port of Granadilla, Tenerife, Canary Islands. The guidance published today by ECDC provides advice for public health professionals in the EU/EEA managing individuals potentially exposed to Andes hantavirus from the M/V Hondius, and for healthcare professionals...
 - Evidence notes: [Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states) (ECDC News); [ECDC publishes guidance for the management of passengers linked to the Andes hantavirus outbreak on cruise ship](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-guidance-management-passengers-linked-andes-hantavirus-outbreak-cruise) (ECDC News); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News); [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Miscellaneous signals
+- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Lead item: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa, 2026-05-11T16:57+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature); [RDF conducts third full scale Ebola simulation exercise in Rubavu](https://www.mod.gov.rw/docs-media/news-detail/rdf-conducts-third-full-scale-ebola-simulation-exercise-in-rubavu-3) (mod.gov.rw)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
@@ -48,14 +47,6 @@ Search window: 7 day(s) ending 2026-05-13
 - Evidence notes: [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News); [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
-
-### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa, 2026-05-11T16:57+00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) (Nature)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Dengue and arboviruses
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -73,13 +64,13 @@ Search window: 7 day(s) ending 2026-05-13
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp, 2026-05-10T01:05+00:00)
-- Detailed note: Japan health officials reported 74 additional measles cases since our last report , bringing the total cases to 436 as of April 30. This is a 354 percent increase compared to the same time in 2025 when 96 measles cases were reported. Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths.
-- Evidence notes: [How conflict is driving measles outbreaks in the Middle East and North Africa](https://www.arabnews.jp/en/middle-east/article_169830/) (arabnews.jp); [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) (Outbreak News Today); [Measles case confirmed in Buckingham County](https://dailyprogress.com/news/local/business/health-care/article_5a28324d-d284-4675-b94a-3c51876cdeb2.html) (The Daily Progress)
+### Polio and wastewater surveillance
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex, 2026-05-01T02:44+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -390,12 +381,12 @@ Search window: 7 day(s) ending 2026-05-13
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### How conflict is driving measles outbreaks in the Middle East and North Africa
-- Source: arabnews.jp
-- Date: 2026-05-10T01:05+00:00
-- URL: https://www.arabnews.jp/en/middle-east/article_169830/
+### RDF conducts third full scale Ebola simulation exercise in Rubavu
+- Source: mod.gov.rw
+- Date: 2026-05-11T07:00+00:00
+- URL: https://www.mod.gov.rw/docs-media/news-detail/rdf-conducts-third-full-scale-ebola-simulation-exercise-in-rubavu-3
 - Category: Outbreaks and emerging infections
-- Summary: Save the Children says ongoing conflict across the Middle East and North Africa is pushing that number higher at a frightening rate and increasing the risk of preventable deaths. Limited detail was available from feed metadata alone.
+- Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 4/5
@@ -424,13 +415,9 @@ Search window: 7 day(s) ending 2026-05-13
   Limited detail was available from feed metadata alone.
 - [Evacuated US and French MV Hondius passengers test positive for hantavirus](https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus) | The Guardian | 2026-05-11T09:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hantavirus ship sparks protests in Canary Islands, as cases around the world mapped](https://news.sky.com/video/hantavirus-ship-sparks-protests-in-canary-islands-as-cases-around-the-world-mapped-13541757) | Sky News | 2026-05-11T07:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-11T06:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans evacuated from virus cruise ship arrive back in US](https://news.sky.com/video/americans-evacuated-from-virus-cruise-ship-arrive-back-in-us-13542606) | Sky News | 2026-05-11T06:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [One evacuated passenger tests positive for hantavirus and another develops symptoms on flight home](https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4) | AP News | 2026-05-11T04:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans evacuated from hantavirus-stricken cruise ship off Spanish island](https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318) | NBC News | 2026-05-11T02:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -440,17 +427,21 @@ Search window: 7 day(s) ending 2026-05-13
   Limited detail was available from feed metadata alone.
 - [Evacuations begin for passengers on MV Hondius cruise ship following hantavirus outbreak](https://www.pbs.org/newshour/world/evacuations-begin-for-passengers-on-mv-hondius-cruise-ship-following-hantavirus-outbreak) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive](https://www.theguardian.com/us-news/2026/may/10/americans-hantavirus-cruise-ship-repatriated) | The Guardian | 2026-05-10T16:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak](https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html) | The New York Times | 2026-05-10T06:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [MV Hondius: All passengers evacuated from cruise ship hit by deadly hantavirus](https://www.cnn.com/2026/05/10/europe/hantavirus-cruise-ship-tenerife-arrive-hnk-intl) | CNN | 2026-05-10T04:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Countries prepare to evacuate hantavirus ship passengers](https://www.reuters.com/world/europe/germany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09/) | Reuters | 2026-05-09T22:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO director arrives in Canary Islands to oversee hantavirus cruise evacuation: "This disease is not COVID"](https://www.cbsnews.com/news/hantavirus-cruise-evacuation-world-health-organization-hondius-canary-islands/) | CBS News | 2026-05-09T14:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO reports six confirmed hantavirus cases tied to Spain-bound cruise](https://www.reuters.com/business/healthcare-pharmaceuticals/who-reports-six-confirmed-hantavirus-cases-tied-spain-bound-cruise-2026-05-08/) | Reuters | 2026-05-08T22:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) | Outbreak News Today | 2026-05-08T21:52+00:00 | Outbreaks and emerging infections
-  Japan health officials reported 74 additional measles cases since our last report , bringing the total cases to 436 as of April 30. This is a 354 percent increase compared to the same time in 2025 when 96 measles cases were reported. But according to the Ministry of Health, Labor and Welfare, the rate of second-dose measles vaccination has not exceeded 95% since the COVID-19 pandemic and has declined year by year, falling to 91% in fiscal 2024.
 - [U.S. plans evacuation flight for Americans on cruise ship in hantavirus outbreak](https://www.cbsnews.com/news/hantavirus-cruise-ship-americans-us-evacuation-flight/) | CBS News | 2026-05-08T17:32+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO chief arrives in Tenerife to oversee evacuation of hantavirus cruise ship](https://www.cnn.com/2026/05/08/health/cruise-ship-hantavirus-passengers) | CNN | 2026-05-08T16:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -460,6 +451,5 @@ Search window: 7 day(s) ending 2026-05-13
 - No dedicated historical or paleopathology items stood out today.
 
 ## Possible blog/video angles
-- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
