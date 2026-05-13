@@ -373,7 +373,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Digital Journal.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Outbreak News Today.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1920,6 +1920,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-12T17:14:30",
-  "run_id": "run_6154c3023be842d2"
+  "generated_at": "2026-05-12T18:15:53",
+  "run_id": "run_a2cb8d4ddfc9f4e0"
 }
