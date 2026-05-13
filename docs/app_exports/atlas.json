@@ -844,7 +844,7 @@
       "related_stories": [
         {
           "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Fox News, The Stockton Record.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Statesman Journal.",
           "story_id": "story_f6d225b01f3f7094",
           "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
           "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -959,7 +959,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Fox News, The Stockton Record.",
+              "latest_update_summary": "New publisher/source coverage joined this story cluster: Statesman Journal.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1089,7 +1089,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Fox News, The Stockton Record.",
+              "latest_update_summary": "New publisher/source coverage joined this story cluster: Statesman Journal.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1219,7 +1219,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Fox News, The Stockton Record.",
+              "latest_update_summary": "New publisher/source coverage joined this story cluster: Statesman Journal.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1920,6 +1920,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-13T09:36:45",
-  "run_id": "run_d6fac29f36fc7190"
+  "generated_at": "2026-05-13T10:38:56",
+  "run_id": "run_1bc419ba569094b4"
 }
