@@ -81,6 +81,29 @@ RESEARCH_REPORTING_TERMS = (
 )
 
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+DOI_URL_RE = re.compile(r"(^|//)doi\.org/|/10\.\d{4,9}/", re.IGNORECASE)
+
+
+def is_doi_url(value: str) -> bool:
+    return bool(DOI_URL_RE.search(value or ""))
+
+
+def public_atlas_citations(record: dict[str, Any]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    public_citations: list[dict[str, Any]] = []
+    withheld_citations: list[dict[str, Any]] = []
+    for citation in record.get("citations", []):
+        citation_copy = dict(citation)
+        if is_doi_url(str(citation_copy.get("url", ""))) and not citation_copy.get("verified"):
+            withheld_citations.append(
+                {
+                    "id": citation_copy.get("id", ""),
+                    "short_citation": citation_copy.get("short_citation", ""),
+                    "reason": "DOI link withheld pending manual verification",
+                }
+            )
+            continue
+        public_citations.append(citation_copy)
+    return public_citations, withheld_citations
 
 
 def export_app_data(
@@ -439,7 +462,12 @@ def build_atlas_records(
         record["reference_web_path"] = reference.get("reference_web_path", "") if reference else ""
         record["related_stories"] = linked_stories
         record["story_count"] = len(linked_stories)
-        record["citation_count"] = len(record.get("citations", []))
+        public_citations, withheld_citations = public_atlas_citations(record)
+        record["citations"] = public_citations
+        record["citation_count"] = len(public_citations)
+        if withheld_citations:
+            record["withheld_citations"] = withheld_citations
+            record["citation_verification_note"] = "Some DOI citations are withheld from public exports until manually verified."
         record["route_count"] = len(record.get("spread_routes", []))
         record["visual_asset"] = asset_by_id.get(str(record.get("visual_asset_id", "")), {})
         if attach_reference and reference is not None:

@@ -42,7 +42,10 @@ def test_build_atlas_records_preserves_variant_specific_urls_and_family_referenc
             "linked_reference_slug": "hantavirus-syndrome",
             "linked_story_ids": [],
             "linked_blog_posts": [],
-            "citations": [{"id": "family", "short_citation": "Family citation", "url": "https://example.com/family"}],
+            "citations": [
+                {"id": "family", "short_citation": "Family citation", "url": "https://example.com/family"},
+                {"id": "unverified-doi", "short_citation": "Unverified DOI", "url": "https://doi.org/10.1234/fake"},
+            ],
             "visual_asset_id": "",
             "default_variant_slug": "andes-virus",
             "variants": [
@@ -74,7 +77,10 @@ def test_build_atlas_records_preserves_variant_specific_urls_and_family_referenc
                             "relation": "deep_dive",
                         }
                     ],
-                    "citations": [{"id": "variant", "short_citation": "Variant citation", "url": "https://example.com/variant"}],
+                    "citations": [
+                        {"id": "variant", "short_citation": "Variant citation", "url": "https://example.com/variant"},
+                        {"id": "variant-doi", "short_citation": "Variant DOI", "url": "https://doi.org/10.5678/fake"},
+                    ],
                     "visual_asset_id": "",
                     "default_variant_slug": "",
                     "variants": [],
@@ -105,6 +111,10 @@ def test_build_atlas_records_preserves_variant_specific_urls_and_family_referenc
 
     assert atlas[0]["atlas_url"] == "atlas.html?pathogen=hantavirus"
     assert atlas[0]["variant_count"] == 1
+    assert [citation["id"] for citation in atlas[0]["citations"]] == ["family"]
+    assert atlas[0]["withheld_citations"][0]["id"] == "unverified-doi"
     assert atlas[0]["variants"][0]["atlas_url"] == "atlas.html?pathogen=hantavirus&variant=andes-virus"
     assert atlas[0]["variants"][0]["writing_state"] == "direct"
+    assert [citation["id"] for citation in atlas[0]["variants"][0]["citations"]] == ["variant"]
+    assert atlas[0]["variants"][0]["withheld_citations"][0]["id"] == "variant-doi"
     assert reference_records[0]["atlas_url"] == "atlas.html?pathogen=hantavirus"
