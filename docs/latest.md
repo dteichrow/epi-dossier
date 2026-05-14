@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-14
-Generated at: 2026-05-14T06:11
+Generated at: 2026-05-14T07:11
 Search window: 7 day(s) ending 2026-05-14
 
 ## Executive scan
@@ -19,9 +19,8 @@ Search window: 7 day(s) ending 2026-05-14
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [France, Netherlands say all hantavirus contact cases negative](https://www.scmp.com/news/world/europe/article/3353595/france-netherlands-say-all-hantavirus-contact-cases-negative) (South China Morning Post)
 - South China Morning Post now explicitly uses investigation or monitoring language.
-- New publisher/source coverage joined this story cluster: South China Morning Post.
 - The lead item has changed to [France, Netherlands say all hantavirus contact cases negative](https://www.scmp.com/news/world/europe/article/3353595/france-netherlands-say-all-hantavirus-contact-cases-negative) from South China Morning Post.
-- 7 newly observed linked item(s) were added since the last saved snapshot.
+- 5 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
