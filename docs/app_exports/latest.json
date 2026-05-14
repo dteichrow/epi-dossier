@@ -1892,7 +1892,7 @@
     "sources_cached": 1,
     "sources_failed": 2,
     "sources_live": 34,
-    "story_count_change": 2,
+    "story_count_change": 0,
     "wrapper_only_count": 3
   },
   "freshness_summary": {
@@ -1902,7 +1902,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-14T15:28:36",
+  "generated_at": "2026-05-14T16:27:15",
   "high_priority_item_ids": [
     "item_73c7d9ee1e3265dd",
     "item_a25caf0fefe6941b",
@@ -1950,7 +1950,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:52.312489+00:00",
+      "source_cached_at": "2026-05-14T23:26:30.759097+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451",
@@ -1960,7 +1960,7 @@
       "title": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2000,7 +2000,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:52.312489+00:00",
+      "source_cached_at": "2026-05-14T23:26:30.759097+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
@@ -2010,7 +2010,7 @@
       "title": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2049,7 +2049,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:55.671282+00:00",
+      "source_cached_at": "2026-05-14T23:26:34.118985+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026",
@@ -2059,7 +2059,7 @@
       "title": "FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2098,7 +2098,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:55.671282+00:00",
+      "source_cached_at": "2026-05-14T23:26:34.118985+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026",
@@ -2108,7 +2108,7 @@
       "title": "FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2145,7 +2145,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Epidemiology",
-      "source_cache_age_hours": 10.32,
+      "source_cache_age_hours": 11.3,
       "source_cached_at": "2026-05-14T12:08:51.823880+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -2156,7 +2156,7 @@
       "title": "Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2197,7 +2197,7 @@
       "resolved_url": null,
       "source": "WHO Regional Office for Africa",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:52.397536+00:00",
+      "source_cached_at": "2026-05-14T23:26:30.844684+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme",
@@ -2207,7 +2207,7 @@
       "title": "Nigeria strengthens outbreak preparedness through \u20ac4.2 million EU WHO programme",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2247,7 +2247,7 @@
       "resolved_url": null,
       "source": "Google News Southern Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:58.205202+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.652607+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX1ZwU3lTa1ZfQWMyVHZ5bTg2OWFFOWdvSVEtaDhiOG9FZHdCdzdscEhXbmxIOU1hc2p4bGN1TXMwYUFtR2pTb1NGb0NNTnI3Wjg5cUhraG01VDhfeFFJMDlvV0pqQ0NyYmYtWjJRSDdkZl9UXzN5dm5CWFFVa2RyR2FhdktWTVJsa3FHVXc2amdfaGQ3d0xNRHZ6eE5yV1ZRdjdjRko2bWlMclRjNHdXbDhRcWN2ZUpNUTlON2VGcW53ZW9HejR2M3NUSmlLTHJzLUE?oc=5",
@@ -2257,7 +2257,7 @@
       "title": "In Sudan, a migrant community reveals a resistance to malaria: the genetic study helping shape medicine",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2297,7 +2297,7 @@
       "resolved_url": null,
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:58.161910+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.608034+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2txdlJSMmJRbmV1NDlkRWdPaVpkOWtmWEZVdXlFTzFWV2FmS2l4dHpBM3ZMekJIME5UNkpuTHY1S1pQUV9yREMwTXFaY245SmlBcjFqdU1QajNEVWp0ZHl4a0poM1NacVRnTzB2M0FhMUt2c2xKWnJWWWk2U1FmS2VlVF9SQmFOdFljWFlweGQ5bzZ5bk44MmlFNW9zdW0xRzZUaFZ30gGrAUFVX3lxTFBTUHhEclBYNUtYaV9oS3ZYV19zYm1lbnNub2JOVC1YZTdCQUtIN25YNWx4QVlVVEZOa2xBV25OOEJMM2lsMGFzQ2pTbzJFTGdYalhMVkxhcUExeUlLbTVPZG9NbTNhNDJVN0xZaHd3U3pkRXNpbi1sU3pJWThYeF9KWHdTV3BZT1pILTBjcmU5TVFQbkhpSHVscGVZT3pLUW5MMUlrZ3RBMjNFRQ?oc=5",
@@ -2307,7 +2307,7 @@
       "title": "Concerns raised over unsafe reuse of bottles in markets amid cholera outbreak",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2346,7 +2346,7 @@
       "resolved_url": null,
       "source": "Google News California Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:58.411227+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.862252+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzJVY2RnaWh2bXFqOXlIME5oQ0FtZDN3Qkp5WE9iY0ZUSU1zZmdqQm1uYmNLLXhCUlBZM1RkLUowWUxzRzhGeldsZlhiOFVoUUNhc05wSGU5c1FZdVo5cFBWa2ROd3M1ZTBvYWJZWFBSSnZBUHZyVGJxUFBlT01MM1lGNlpCS2JtTVRCQ28tWGNXbDAzMkx3TUVtSWZKTkpNUXdHX2xR?oc=5",
@@ -2356,7 +2356,7 @@
       "title": "5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2394,7 +2394,7 @@
       "resolved_url": null,
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.442931+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.877105+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGFndVREbXNxWWlvVC1faHJtY19kNDZndml2UW1tN21DMnBjTUY5Rm83ckVUcjBVOERMV0Z2NGlTTGhMZjFJcmtpaG1xVmpJc1dMUExYMl9VTVQxZWt5b2ljOGowQUNvYnduUTR6RU1Rb3R5MklCTjRBZmhFZmV6R0lZekg3OU0teEpRUHNyUWt6VEtvOTNlTEtB?oc=5",
@@ -2404,7 +2404,7 @@
       "title": "Fact Check: Andes strain of hantavirus is transmissible in humans",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2443,7 +2443,7 @@
       "resolved_url": null,
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.442931+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.877105+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUp6MTM5eGtaQkw5UFd3M2puM0lLWjlRMXhYTndmdmw1a2N4TVM2Y0xiVlBUODRhZC1Vb3Q1RmRUMHJ2Z3k0Rjg0djJyUm1xT201SjY3VVNlSGhFODg3YnNyZV85NWt3T0FvMjVHV25QeHpxcDlyZ1d2aG5GN0RsNFJ0RHhlQmFOeW50aF9Kd1ZsXzg?oc=5",
@@ -2453,7 +2453,7 @@
       "title": "Passengers evacuated from hantavirus-affected MV Hondius",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2492,7 +2492,7 @@
       "resolved_url": null,
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.389735+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.823281+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0JNSktqOUQxQXhoVnVXVE9ZTElDelV5Q0tLWG9UOEhWSWxTUGJJSkhjdXlXZ211VGRBU2JHUVA5NHlWY0dqWG5KY1J0R3hsaHlxTW9CamJjd09sdkJTakU0WFZxS0tHNndZVklHWk5aaW1GMmp0Zy01R05qd2tSTWl0TmFWdEd1dW10bXV2YkJzQkFLTmhOOW5R?oc=5",
@@ -2502,7 +2502,7 @@
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2541,7 +2541,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.580447+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.017471+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEU4Njh3UnhHV2tINmZYamhZNmNYR1VHbkNYY1hFeVQySTJ0Mk5DdHJFbGtMb2pKcmVvQkU0MWp1Wm1jTHp0VTl3LUJtY25wY1RJSTBpTFhsZDBrZk9pcEF2djNUMnBfM21RRWIyQ3JveWdtU1JZeHYzajFPdC1CNjNrekl5cmtOLUtNeEVXcXdiMGhhWnU3ZjlR0gGfAUFVX3lxTE1wQXdoWDZEbUZmVlkySU9TSTJMd0pLSXRXOHd5NVUzZ3V3STkzQkFCVkxQcm9YS1gyVnhiRUJSWVdpWWs5ek9aZmhZTjB0YUZJWlhwMXZ5Ul80blB4cmljaUV2SzlZNWp1ZDQ0bVVVRnozRXNpQzRSUVBfT3BHMUxzMUNmNEdJYk9oWGZHUkpiQ3pUeXY2U3FoOXBBUHNvQQ?oc=5",
@@ -2551,7 +2551,7 @@
       "title": "WHO chief says \"work not over\" after evacuation of hantavirus-stricken cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2590,7 +2590,7 @@
       "resolved_url": null,
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.442931+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.877105+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lWDIzcjV5WHlZZzFES0ZWSkY1ajVlUlFwaUxJZHdGb1RGcnhmcG5UWF9WbTJ1amYxTks3aHk1eDZBd2E2ZEpIQW8zbWl4aS1PM1Rvb2xSbFh1dw?oc=5",
@@ -2600,7 +2600,7 @@
       "title": "What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2639,7 +2639,7 @@
       "resolved_url": null,
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.442931+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.877105+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXhSWllhVGpLWXlNNEpYZ29fc3FPN0JZOWNQOTEtNjJwRWR0dEhFQ0N4WEJWS0tPdjFoRkpsY0hLUHVmSlhUbXFFa3hpTGtSdmhIZkhiOUFnQS14dDhGdWlVNDBFbkVvWVBvdnJ0RC1fN2VocV91WVpHb1NtQ0Z6eFlqR2hibjNBOWVNTGFiQ0ZkU3NJNjFCRFBLYTF0TkJCSDlyUENPSUZIOFNCMTFDemp3dVB1dVBWU0ZQNGlwejZINmdWVDhiQUNiQlM5RHZ2?oc=5",
@@ -2649,7 +2649,7 @@
       "title": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2688,7 +2688,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus and Cruise Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.525838+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.962569+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzlnN2lpZ2RyTVRjNXp4UGRyZmdCbVNwaHdsUlBUM3VOT2oybzZtNmI2REF4U0YzeGVVb1BPNTRmdG1WazhLZVV1WlJrakxIYjRnX2hOVmpIZkRIekVhWm9sN3RXVVdqZTVsRHllU3loOUdfSkNyRVBKZmkwZ1o0WDYzRWhkcm51bzRXRW9SbWFrOU1HcXptOXNYNGdpVFRCcHUyWFFBSHFqQW95Z2hhNmhydw?oc=5",
@@ -2698,7 +2698,7 @@
       "title": "American cruise ship passenger tests positive for hantavirus after evacuation",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2737,7 +2737,7 @@
       "resolved_url": null,
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.442931+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.877105+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEt6V1pkVVhfTFh2aUdqYkdDMHhTZ2tDUnlta05feGs3SDB3b2FuUl9oU3hnRFh3aEpkZVdCNnYzRVJSTEdUMW1WdENHX09oZWZtQVc5VWRfTDdVOFhHbUtsVGw5VlJsR3BYUldJMGFTT1FXeWVWM3pMVDVZNU1PTFdIem14Yl9pZ3g4QmRBa3V5U2FISjhka1l5cmFKQm1rUzJsLUVCNmJxNkJyVGR4blpIbE44dldDV3FxcEh1eHpSTG8?oc=5",
@@ -2747,7 +2747,7 @@
       "title": "WHO says seven cases of hantavirus confirmed from cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2786,7 +2786,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus and Cruise Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.525838+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.962569+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTZWRnJKRW80UDVpWnhYcjVURGlTaUxjZXlrUHIxY0hKeGIxZ0h0b2FjQTZoeGxqUlNmTjZoZXNDZzlPTXU2S1dmLS1PMnpoX2VhcUQ4UGR5RDJIaXJ1UnhhVmx1NDJBRWt5bzhPZURCV0s0dUZTejE0MHB3enRMSmxham9mNmdGUXRScTkxNWxXaFFLalEtY3ZKM2NlcEF1NDgxbzdxWENGZTh4RzRrQzJTNVRYY0ZweHdyTDdqX19Sal9VMFE?oc=5",
@@ -2796,7 +2796,7 @@
       "title": "Evacuation flights leave Tenerife after cruise ship virus outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2835,7 +2835,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.580447+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.017471+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkdZc2lRVkRBeHBQLVdvYkR5S3VvLXVLZ0NmNTlIb25IX01xOTV3WnFackFhenlnNGxaUzdDQ2hfdkxEVmthRTVaR1JKbi1BOWFQLVo4T3lrOERuTVBmc2FfYlZNSFdaZXE5dGpXdDQ4XzN4Qkc2TXFEMDlTQnNyR3ZCUGtkSjRBNnVmSl90eG1JQTZrN2RDMGUzSmlWZ0tFRTF4eWNaSzFJMHB1anN1Nkd4dHdVd0sxOVFtbFR1QThvLVlkTEtWM2QxQzU?oc=5",
@@ -2845,7 +2845,7 @@
       "title": "Evacuated US and French MV Hondius passengers test positive for hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2884,7 +2884,7 @@
       "resolved_url": null,
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.624133+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.061620+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWFSV1pGYTdEY0l3aGwtZlktWnF2MTRTRjRhcjVER1B2RkljYmJxYUw3Q21vdW5hRklfdU5wOGpmSWE4bmdXbFlIbDdfSE44b3Z3Z0VydmJMbzh5ZkY5Q3lkWjgybnBhMWRDMnZGUU9YX2RUdlVUXzB2ZzYyWE1uc0pDZ2tzQWtOaGNuUGN2Vld0UjZ1ZUlrVDNPRHBERzVMRF9ZOXJ2Ymd3R25IaDEyVlFOREQwblhQQ3c?oc=5",
@@ -2894,7 +2894,7 @@
       "title": "Hantavirus ship sparks protests in Canary Islands, as cases around the world mapped",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2933,7 +2933,7 @@
       "resolved_url": null,
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.624133+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.061620+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkRZbEdYRXZFaEtXTzUwSDI2ZlZTNUs4enFUb041N0g5QkZzN0d0MUtyeHprYVcyaldFeVZpdm1SVmpKYk1mWDd5OFNGeE1MYXFCU2VVd1NSTHVHN2k2UC1MWU5KVlVfTUFPYk1vZHR4STJhZ3RjQUZWVFpTRTJiNUY1dXRSV3VfQWxUbFpOa1ZDTE45d2NRckNhS3I?oc=5",
@@ -2943,7 +2943,7 @@
       "title": "Americans evacuated from virus cruise ship arrive back in US",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2982,7 +2982,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.580447+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.017471+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVoteDROS3dnNXhsOUI4Q2tGVVh1eW8ycGFSakt2b3RlXy1TRndyMVlFd3Y3SWpLVUphd2UzS3BnREZLZzFSTUQ4ZHlxcXF3UUlYZk0ya3Q0b0NTT3BxLWhLVC16bzhNMGt6akFfdmozRVo1OWhqRVNoTnUyblZvVnFIaHM0LWU5bnd1Zmd6NUtLUHVaSF8xSHltWE50WGw0eEk0dw?oc=5",
@@ -2992,7 +2992,7 @@
       "title": "Americans evacuated from hantavirus-stricken cruise ship off Spanish island",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3031,7 +3031,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.580447+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.017471+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5",
@@ -3041,7 +3041,7 @@
       "title": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3080,7 +3080,7 @@
       "resolved_url": null,
       "source": "Google News Sky Hantavirus Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.624133+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.061620+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5",
@@ -3090,7 +3090,7 @@
       "title": "Plane carrying Britons lands in UK after evacuation from hantavirus cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3129,7 +3129,7 @@
       "resolved_url": null,
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.442931+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.877105+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5",
@@ -3139,7 +3139,7 @@
       "title": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3178,7 +3178,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.580447+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.017471+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5",
@@ -3188,7 +3188,7 @@
       "title": "Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3227,7 +3227,7 @@
       "resolved_url": null,
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.787769+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.226453+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi?oc=5",
@@ -3237,7 +3237,7 @@
       "title": "Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3276,7 +3276,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.580447+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.017471+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWlQaHNoaWNyYk5NYjBWRFQyQ3VjdGR5QjJCNnJhSnZOYldPS2pzQnVCa1d0ZzRmRVVYWE9GeGJiUjltNXlULUpKT3RLZ3ZVVEZTMFBUamdEX3lZNVZhUzlBbnRfaHBVQ0pmOWx4LUZMRGE2cGVHcmkxSHdINWZYTEFqeGpxTTg5M1VzRXpB?oc=5",
@@ -3286,7 +3286,7 @@
       "title": "MV Hondius: All passengers evacuated from cruise ship hit by deadly hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3325,7 +3325,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.580447+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.017471+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1ZNUnJYSkpRM29CTFFRNzJrejhzQlBhTzlUWWFzUFZ4cUQ5dFlBQ05WSWlxNzJJRlM4YUR4Q0dqZnpWNXZQY3JWaTBJSG1BeUk3c21nanJZTktGWU50S0M4aWJlaE1XdXA3SGlxNDlkMk8xVF9nLWhiT2NjYjhiOVVZeEduR2xCSGRuMVhacmxSSlpkbWRWUDQ3a0Fhc0tBOWNxTlIxVElkY1pqbmFBamFLNlZ2Zm91a1NUMUd5TzV4emNiSnNRUw?oc=5",
@@ -3335,7 +3335,7 @@
       "title": "Countries prepare to evacuate hantavirus ship passengers",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3374,7 +3374,7 @@
       "resolved_url": null,
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.442931+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.877105+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlhZbnAwT2xINWtCUElnZkVyQVNKWkZFMXM1MlFEajRiT1h3T2VaMC1HN0twNURQYkNqdjIzYWZIQl9EYmZvSW9RRjM2ZWk0SEpZUTlZRTQtOVBwZHBZUTB5bmdvMlRUdWw3am03cWw2d1B1RW8yRmVMRTN6alJxMnpWaE5URGF0UkFFRENVcmFrZ3k3cFIwaEg2S1FjWFZYeWpYZVZPNUhSUkVnUFNjTkNlVnZtX2p6SXVMbmJEazJET1hOOHh6Snozc2lMUndsckpMbw?oc=5",
@@ -3384,7 +3384,7 @@
       "title": "WHO reports six confirmed hantavirus cases tied to Spain-bound cruise",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3423,7 +3423,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus and Cruise Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:57.525838+00:00",
+      "source_cached_at": "2026-05-14T23:26:35.962569+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3RMcTZYQmlxOGgzRm9DekVRVGhRU3k1dlk0ejZ4TExacEotdHZJbXpUd2VkZlJCY0ZOclFmSjdzZ0EtZ2YyY2Z0TlpvS2g1Nng0cXZtQmlJRjlmRWFGbXFZZUtzZmJOU21ZdmtlZVMwaUtadERUSElEeHNMYkRJUjJfMHBZalV1N0Rz0gGQAUFVX3lxTE5BZFNHRWVXa2w0ZkZJVWFfWmQ1RXR5eENYNXJldjRmWEtRRnZZbEdNMTY1VU8tMjIxRjI3QUp1V3hmSXp0aTlrai1HTDM3TnRKX28wdVBja1dzMUl0blJfTlJnSzNEclg3QVFobnRpSUc3Mkh3ZGthR3VwZHJPRnhLNHFQTnBWbzYteTdMZ0plQQ?oc=5",
@@ -3433,7 +3433,7 @@
       "title": "U.S. plans evacuation flight for Americans on cruise ship in hantavirus outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3473,7 +3473,7 @@
       "resolved_url": null,
       "source": "Google News South Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:58.243663+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.692446+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFhzWGZXNnRfTkQ3a3hMY2ZwNkZoY0YwMnJOeUpLaU9JdE85M1dRYWx3ZWktTE5TekU3eFRmNFdnMy1ZUGlVbzZrUVlqYTdsUmFDUTdTeEJjSm5pb0J6ZjRka3d1LXRRSnF3T2hzVnhxMkJDdnBnQVZ4VnhWSlViZVpn?oc=5",
@@ -3483,7 +3483,7 @@
       "title": "Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3523,7 +3523,7 @@
       "resolved_url": null,
       "source": "Google News Southeast Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:58.309991+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.757881+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjEzVzBGaUtVWWpxbndHQ3dzR3NCbUpzWE5vZU1WN1ViYnNQWDF3c0JaNmQ0LWluOW5zVzBVbVJMeUxlSjVzeXpkZnpHeDhpNmltS0htdmJCTDZBMEN1dEZhMDZVcmhFcGR4a1dibjhhM0p3X2pROFAwSHpIOGQwZDVHSjFleFZh?oc=5",
@@ -3533,7 +3533,7 @@
       "title": "Bangladesh: H5N1 avian influenza fatality in Chattogram child",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3573,7 +3573,7 @@
       "resolved_url": null,
       "source": "Google News India Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:58.255168+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.704084+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWJrMVdNMnhyLUpvUFlFN291Tm5rSHdDc3Z4aHlyVHBRYklHRnlTdGpVcmt6Z2JXekUyRmQ4VkcxcGRuNVljWGJLOEo3R3V3eXpCSjl6aXhSTXRzd3R4WWswMEpXX1NHUDVWQk1GbUFYYzNrdFM2UXkyOXI1aEgwdDFBWlEtbFdrUHRaRkxDSjZwSEF0YnlBOTdmVVhRRkZpc3pLUFVoUVR3OUJvWjUxMWVsU2licXYtR3N0a2RUYVVVUEVhZlRwbzdzUdIB0AFBVV95cUxPajF5UGZJMjY3N1NBRVQ0MUF2b2ZUc2psNkF3TkNISnpNYUdSd24xS1RmMjZqaDhpRk5JcWs3TU5yT3BVNDcycmRmaW0wQmUxek1ZQzVIeF9DMDVaTno3bHYtN2dpbFoycF9Mb21NUlRwb3daRUNia0hFblZKSGhYVlRaREFtV2xoVlZQazh1eEJ2bTdZZ29pd2R6OTFTMXlSTG5OMnRTQ0dnRTdDaTQzVGRlNkRROXlVcWhYbTBhXzRCNmFfMUkzTk91NVNIdEtB?oc=5",
@@ -3583,7 +3583,7 @@
       "title": "Maharashtra: Dengue Scare In Uran\u2019s Chanje Village After Woman\u2019s Death; Samples Sent For Testing",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3622,7 +3622,7 @@
       "resolved_url": null,
       "source": "Google News Latin America Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-14T22:27:58.363093+00:00",
+      "source_cached_at": "2026-05-14T23:26:36.813274+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2VXZ2JOU2VkVjhBS1dZNi1FcVYzUU1RdnRaWWU5OHZyNTBLeEZRMndNRTc3RmIwTHY1UHlEVjFtZGZCR2JjbmRHNmRtSUdCRjVRYzU5X3MxXy1wTEVleGplRjJ3MnhBR0RINDY5bHQ0YWlIU1VpdVJDbnA5QmR5cS1zU2ljNDNJZnFaMTA4OWUyTWVaOEs0WkFXV2hGcUQ2Qkx6ZEtvUDZmb0JCdzRR0gG0AUFVX3lxTFAwcUkxcVZUMXNLSXdYZG9FbFRhcUZraHl3Umw4RzBLQXZNU0IxaUVUUXJpVjJDZGhldnNiMmlKME1iU0I3dWw1d0ZYZVAzcXk0Tlh3UkNqbUtRdGJUclNCY3BJY1lTY1hRbFdmTjhNWHBzcDFRaGxfZmM0RzMyWmxLdHhlSm9IMk5EeGxWM0pPQnNjYmlRV2g0U3hfN09fYkJaMVhvNzZac1FLWDVEWmRPWTZIYw?oc=5",
@@ -3632,7 +3632,7 @@
       "title": "Hantavirus outbreak renews painful memories for Patagonian village",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:27:15",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     }
   ],
@@ -5550,7 +5550,7 @@
       "why_reporters_care": "Zika matters because congenital outcomes, pregnancy guidance, travel messaging, and mosquito ecology can turn a mild-adult disease story into a major public-health communications event."
     }
   ],
-  "run_id": "run_e93e49985f67328d",
+  "run_id": "run_46fab9f70d094a02",
   "search_window": "7 day(s) ending 2026-05-14",
   "source_failures": [
     {
@@ -5567,7 +5567,7 @@
   "source_health": [
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:51.818879+00:00",
+      "cached_at": "2026-05-14T23:26:30.245940+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5577,7 +5577,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:52.313090+00:00",
+      "cached_at": "2026-05-14T23:26:30.759354+00:00",
       "error": null,
       "item_count": 300,
       "mode": "live",
@@ -5587,7 +5587,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:52.349397+00:00",
+      "cached_at": "2026-05-14T23:26:30.796368+00:00",
       "error": null,
       "item_count": 66,
       "mode": "live",
@@ -5597,7 +5597,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:52.352265+00:00",
+      "cached_at": "2026-05-14T23:26:30.799088+00:00",
       "error": null,
       "item_count": 6,
       "mode": "live",
@@ -5607,7 +5607,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:52.372270+00:00",
+      "cached_at": "2026-05-14T23:26:30.819134+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5617,7 +5617,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:52.397561+00:00",
+      "cached_at": "2026-05-14T23:26:30.844696+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5627,7 +5627,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:52.399172+00:00",
+      "cached_at": "2026-05-14T23:26:30.846356+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5647,7 +5647,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:55.451768+00:00",
+      "cached_at": "2026-05-14T23:26:33.894040+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5657,7 +5657,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:55.469554+00:00",
+      "cached_at": "2026-05-14T23:26:33.910419+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -5667,7 +5667,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:55.479532+00:00",
+      "cached_at": "2026-05-14T23:26:33.919016+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5677,7 +5677,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:55.671329+00:00",
+      "cached_at": "2026-05-14T23:26:34.119039+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -5697,7 +5697,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:56.768110+00:00",
+      "cached_at": "2026-05-14T23:26:35.209726+00:00",
       "error": null,
       "item_count": 25,
       "mode": "live",
@@ -5706,7 +5706,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 10.32,
+      "cache_age_hours": 11.3,
       "cached_at": "2026-05-14T12:08:51.823880+00:00",
       "error": null,
       "item_count": 1,
@@ -5717,7 +5717,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.218175+00:00",
+      "cached_at": "2026-05-14T23:26:35.653990+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5726,7 +5726,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 10.32,
+      "cache_age_hours": 11.29,
       "cached_at": "2026-05-14T12:08:53.852192+00:00",
       "error": null,
       "item_count": 2,
@@ -5737,7 +5737,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.263755+00:00",
+      "cached_at": "2026-05-14T23:26:35.696779+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5747,7 +5747,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.284134+00:00",
+      "cached_at": "2026-05-14T23:26:35.717246+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5757,7 +5757,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.302116+00:00",
+      "cached_at": "2026-05-14T23:26:35.735096+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5766,7 +5766,7 @@
       "source_type": "biorxiv"
     },
     {
-      "cache_age_hours": 4.14,
+      "cache_age_hours": 5.12,
       "cached_at": "2026-05-14T18:19:41.102670+00:00",
       "error": null,
       "item_count": 19,
@@ -5776,7 +5776,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 4.14,
+      "cache_age_hours": 5.12,
       "cached_at": "2026-05-14T18:19:41.595325+00:00",
       "error": null,
       "item_count": 16,
@@ -5786,7 +5786,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 4.14,
+      "cache_age_hours": 5.11,
       "cached_at": "2026-05-14T18:19:42.459171+00:00",
       "error": null,
       "item_count": 10,
@@ -5796,7 +5796,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 4.14,
+      "cache_age_hours": 5.11,
       "cached_at": "2026-05-14T18:19:43.134625+00:00",
       "error": null,
       "item_count": 6,
@@ -5807,7 +5807,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.324840+00:00",
+      "cached_at": "2026-05-14T23:26:35.757734+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5817,7 +5817,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.336177+00:00",
+      "cached_at": "2026-05-14T23:26:35.768854+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5827,7 +5827,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.389838+00:00",
+      "cached_at": "2026-05-14T23:26:35.823368+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5837,7 +5837,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.443020+00:00",
+      "cached_at": "2026-05-14T23:26:35.877196+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5847,9 +5847,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.486755+00:00",
+      "cached_at": "2026-05-14T23:26:35.922475+00:00",
       "error": null,
-      "item_count": 81,
+      "item_count": 80,
       "mode": "live",
       "official": false,
       "source": "Google News Global Health Reporting",
@@ -5857,7 +5857,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.525921+00:00",
+      "cached_at": "2026-05-14T23:26:35.962637+00:00",
       "error": null,
       "item_count": 72,
       "mode": "live",
@@ -5867,7 +5867,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.580542+00:00",
+      "cached_at": "2026-05-14T23:26:36.017564+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5877,7 +5877,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.624202+00:00",
+      "cached_at": "2026-05-14T23:26:36.061685+00:00",
       "error": null,
       "item_count": 60,
       "mode": "live",
@@ -5887,7 +5887,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.677564+00:00",
+      "cached_at": "2026-05-14T23:26:36.116588+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5897,7 +5897,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.733760+00:00",
+      "cached_at": "2026-05-14T23:26:36.170793+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5907,7 +5907,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.787878+00:00",
+      "cached_at": "2026-05-14T23:26:36.226538+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5917,7 +5917,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.841481+00:00",
+      "cached_at": "2026-05-14T23:26:36.279933+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5927,7 +5927,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.895854+00:00",
+      "cached_at": "2026-05-14T23:26:36.335924+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5937,7 +5937,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:57.950392+00:00",
+      "cached_at": "2026-05-14T23:26:36.391882+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5947,7 +5947,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.004451+00:00",
+      "cached_at": "2026-05-14T23:26:36.447601+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5957,7 +5957,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.059209+00:00",
+      "cached_at": "2026-05-14T23:26:36.502942+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5967,7 +5967,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.112997+00:00",
+      "cached_at": "2026-05-14T23:26:36.557969+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5977,7 +5977,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.133476+00:00",
+      "cached_at": "2026-05-14T23:26:36.578965+00:00",
       "error": null,
       "item_count": 35,
       "mode": "live",
@@ -5987,7 +5987,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.161968+00:00",
+      "cached_at": "2026-05-14T23:26:36.608086+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -5997,7 +5997,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.174400+00:00",
+      "cached_at": "2026-05-14T23:26:36.620886+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -6007,7 +6007,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.205271+00:00",
+      "cached_at": "2026-05-14T23:26:36.652671+00:00",
       "error": null,
       "item_count": 56,
       "mode": "live",
@@ -6017,7 +6017,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.243745+00:00",
+      "cached_at": "2026-05-14T23:26:36.692530+00:00",
       "error": null,
       "item_count": 71,
       "mode": "live",
@@ -6027,7 +6027,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.255206+00:00",
+      "cached_at": "2026-05-14T23:26:36.704102+00:00",
       "error": null,
       "item_count": 17,
       "mode": "live",
@@ -6037,7 +6037,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.310104+00:00",
+      "cached_at": "2026-05-14T23:26:36.757969+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6047,7 +6047,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.363204+00:00",
+      "cached_at": "2026-05-14T23:26:36.813365+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6057,7 +6057,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.411312+00:00",
+      "cached_at": "2026-05-14T23:26:36.862336+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6067,7 +6067,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.440919+00:00",
+      "cached_at": "2026-05-14T23:26:36.892129+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -6077,7 +6077,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.463192+00:00",
+      "cached_at": "2026-05-14T23:26:36.914802+00:00",
       "error": null,
       "item_count": 39,
       "mode": "live",
@@ -6087,7 +6087,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.488018+00:00",
+      "cached_at": "2026-05-14T23:26:36.939752+00:00",
       "error": null,
       "item_count": 43,
       "mode": "live",
@@ -6097,7 +6097,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.518296+00:00",
+      "cached_at": "2026-05-14T23:26:36.970027+00:00",
       "error": null,
       "item_count": 54,
       "mode": "live",
@@ -6107,7 +6107,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-14T22:27:58.528878+00:00",
+      "cached_at": "2026-05-14T23:26:36.980671+00:00",
       "error": null,
       "item_count": 16,
       "mode": "live",
@@ -6173,7 +6173,7 @@
       "lead_source": "CBS News",
       "lead_title": "5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases",
       "lead_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzJVY2RnaWh2bXFqOXlIME5oQ0FtZDN3Qkp5WE9iY0ZUSU1zZmdqQm1uYmNLLXhCUlBZM1RkLUowWUxzRzhGeldsZlhiOFVoUUNhc05wSGU5c1FZdVo5cFBWa2ROd3M1ZTBvYWJZWFBSSnZBUHZyVGJxUFBlT01MM1lGNlpCS2JtTVRCQ28tWGNXbDAzMkx3TUVtSWZKTkpNUXdHX2xR?oc=5",
-      "new_since_last_refresh": true,
+      "new_since_last_refresh": false,
       "official_item_ids": [],
       "press_item_ids": [
         "item_0f27491ff144f049",
@@ -8939,7 +8939,7 @@
       ],
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:26:29",
       "what_happened": "5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases",
       "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
@@ -10305,7 +10305,7 @@
       "lead_source": "CDC MMWR",
       "lead_title": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "lead_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
-      "new_since_last_refresh": true,
+      "new_since_last_refresh": false,
       "official_item_ids": [
         "item_a25caf0fefe6941b"
       ],
@@ -10436,7 +10436,7 @@
       ],
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-14T15:28:36",
+      "updated_at": "2026-05-14T16:26:29",
       "what_happened": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 2 newsroom source(s)."
     }

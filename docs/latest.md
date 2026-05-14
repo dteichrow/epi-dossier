@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-14
-Generated at: 2026-05-14T15:28
+Generated at: 2026-05-14T16:27
 Search window: 7 day(s) ending 2026-05-14
 
 ## Executive scan
@@ -16,15 +16,7 @@ Search window: 7 day(s) ending 2026-05-14
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzJVY2RnaWh2bXFqOXlIME5oQ0FtZDN3Qkp5WE9iY0ZUSU1zZmdqQm1uYmNLLXhCUlBZM1RkLUowWUxzRzhGeldsZlhiOFVoUUNhc05wSGU5c1FZdVo5cFBWa2ROd3M1ZTBvYWJZWFBSSnZBUHZyVGJxUFBlT01MM1lGNlpCS2JtTVRCQ28tWGNXbDAzMkx3TUVtSWZKTkpNUXdHX2xR?oc=5) (CBS News)
-- The lead item has changed to [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzJVY2RnaWh2bXFqOXlIME5oQ0FtZDN3Qkp5WE9iY0ZUSU1zZmdqQm1uYmNLLXhCUlBZM1RkLUowWUxzRzhGeldsZlhiOFVoUUNhc05wSGU5c1FZdVo5cFBWa2ROd3M1ZTBvYWJZWFBSSnZBUHZyVGJxUFBlT01MM1lGNlpCS2JtTVRCQ28tWGNXbDAzMkx3TUVtSWZKTkpNUXdHX2xR?oc=5) from CBS News.
-- 10 newly observed linked item(s) were added since the last saved snapshot.
-
-### Dengue and arboviruses
-- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
-- 2 newly observed linked item(s) were added since the last saved snapshot.
-
+- No multi-item story clusters produced concrete update bullets in this run.
 
 ## Major topics
 ### Miscellaneous signals
