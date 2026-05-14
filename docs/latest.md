@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-13
-Generated at: 2026-05-13T20:51
+Generated at: 2026-05-13T21:51
 Search window: 7 day(s) ending 2026-05-13
 
 ## Executive scan
@@ -18,12 +18,13 @@ Search window: 7 day(s) ending 2026-05-13
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
-- 1 newly observed linked item(s) were added since the last saved snapshot.
+- The lead item has changed to [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) from Euronews.com.
+- 6 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 8 item(s) across 3 source(s); 6 official/primary-source item(s).
+- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-13T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1345: Salmonella Richmond linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025) (FDA Foodborne Outbreaks)
@@ -37,6 +38,14 @@ Search window: 7 day(s) ending 2026-05-13
 - Evidence notes: [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News); [59 000 deaths: Europe off track for Sustainable Development Goal targets for HIV, tuberculosis, viral hepatitis, and STIs](https://www.ecdc.europa.eu/en/news-events/59-000-deaths-europe-track-sustainable-development-goal-targets-hiv-tuberculosis-viral) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
+### Measles transmission and vaccination
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Sierra Leone declares measles outbreak amid rising cases](https://www.thehawk.in/news/world/sierra-leone-declares-measles-outbreak-amid-rising-cases) (thehawk.in, 2026-05-13T14:36+00:00)
+- Detailed note: The Western Area Urban District was identified as the hardest-hit district with 15 confirmed cases, including nine infections reported in April alone. A total of 41 confirmed measles cases were recorded across eight districts between January and April, according to the public notice issued by the National Public Health Agency in collaboration with the Health Ministry on Wednesday (local time).
+- Evidence notes: [Sierra Leone declares measles outbreak amid rising cases](https://www.thehawk.in/news/world/sierra-leone-declares-measles-outbreak-amid-rising-cases) (thehawk.in)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
@@ -61,14 +70,6 @@ Search window: 7 day(s) ending 2026-05-13
 - Evidence notes: [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Hantavirus and cruise-ship outbreak
-- Topic size: 24 item(s) across 13 source(s); 0 official/primary-source item(s).
-- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com, 2026-05-13T15:06+00:00)
-- Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.
-- Evidence notes: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News); [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) (BBC); [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) (Reuters)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -389,20 +390,20 @@ Search window: 7 day(s) ending 2026-05-13
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Two geographies, one virus: What recurrent Nipah spillover in India reveals
-- Source: Nature
-- Date: 2026-05-13T13:00+00:00
-- URL: https://www.nature.com/articles/s44298-026-00195-4
+### Sierra Leone declares measles outbreak amid rising cases
+- Source: thehawk.in
+- Date: 2026-05-13T14:36+00:00
+- URL: https://www.thehawk.in/news/world/sierra-leone-declares-measles-outbreak-amid-rising-cases
 - Category: Outbreaks and emerging infections
-- Summary: Kerala, on the other hand, has had recurring spill-over events since 2018, with outbreaks in 2019, 2021, 2023, 2024, and 2025, and has frequently been limited to single cases or small outbreaks with quick containment 5 , 6 , 7 , 8 , 9 , 10 . The history of the Nipah virus disease in India is unique: although its bat reservoir is widely distributed across the country, human cases have only been reported repeatedly in two states, namely, West Bengal in Eastern India and Kerala in the southwest coast 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 . Outbreaks were reported in West Bengal in 2001 and 2007, epidemiologically associated with Bangladesh 3 , 4 , and again in 2026, when two healthcare workers in Barasat, North 24 Parganas district were laboratory-confirmed for Nipah virus infection 11 .
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage.
+- Summary: The Western Area Urban District was identified as the hardest-hit district with 15 confirmed cases, including nine infections reported in April alone. A total of 41 confirmed measles cases were recorded across eight districts between January and April, according to the public notice issued by the National Public Health Agency in collaboration with the Health Ministry on Wednesday (local time). Freetown, May 14 (IANS) Sierra Leone has declared a measles outbreak amid increasing confirmed infections, with health authorities warning of active community transmission in its capital, Freetown.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone](https://www.nature.com/articles/s41591-026-04385-8) | Nature | 2026-05-12T10:18+00:00 | Outbreaks and emerging infections
-  Campbell ORCID: orcid.org/0000-0002-9178-1556 1 , 2 , 3 na1 , Martin Faye ORCID: orcid.org/0000-0003-3207-6344 8 , Taylor Brock-Fisher ORCID: orcid.org/0009-0000-5388-9315 10 , Mouhamed Kane ORCID: orcid.org/0009-0009-6489-7244 8 , Tiangay Mariama Patience Sallay Kallon 4 , In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. You are using a browser version with limited support for CSS.
+- [Two geographies, one virus: What recurrent Nipah spillover in India reveals](https://www.nature.com/articles/s44298-026-00195-4) | Nature | 2026-05-13T13:00+00:00 | Outbreaks and emerging infections
+  Kerala, on the other hand, has had recurring spill-over events since 2018, with outbreaks in 2019, 2021, 2023, 2024, and 2025, and has frequently been limited to single cases or small outbreaks with quick containment 5 , 6 , 7 , 8 , 9 , 10 . The history of the Nipah virus disease in India is unique: although its bat reservoir is widely distributed across the country, human cases have only been reported repeatedly in two states, namely, West Bengal in Eastern India and Kerala in the southwest coast 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 . Outbreaks were reported in West Bengal in 2001 and 2007, epidemiologically associated with Bangladesh 3 , 4 , and again in 2026, when two healthcare workers in Barasat, North 24 Parganas district were laboratory-confirmed for Nipah virus infection 11 .
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
   In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
@@ -418,6 +419,8 @@ Search window: 7 day(s) ending 2026-05-13
 - [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-12T01:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-12T00:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Cruise Ship Hit by Hantavirus Leaves Canary Islands and Sails Toward Netherlands](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWd4TGdRLWJhY0xZTDlhSGhDYW1KV3YwOE45XzBOenk4V0RyRkNpQVM0aDBxLTc2R0NJa0tISy1SelExTWtzckNhMmxRWHZ5ZldkN2dSZ0FUeWJmWjZqVnltY3F3VVR5RlplRFFHdjBkUlpEQk9sSklWeENmaFY1Z0NZR3JYMFdSME9OX203dURtTjlS?oc=5) | The New York Times | 2026-05-11T19:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [American cruise ship passenger tests positive for hantavirus after evacuation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzlnN2lpZ2RyTVRjNXp4UGRyZmdCbVNwaHdsUlBUM3VOT2oybzZtNmI2REF4U0YzeGVVb1BPNTRmdG1WazhLZVV1WlJrakxIYjRnX2hOVmpIZkRIekVhWm9sN3RXVVdqZTVsRHllU3loOUdfSkNyRVBKZmkwZ1o0WDYzRWhkcm51bzRXRW9SbWFrOU1HcXptOXNYNGdpVFRCcHUyWFFBSHFqQW95Z2hhNmhydw?oc=5) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -438,8 +441,6 @@ Search window: 7 day(s) ending 2026-05-13
 - [Passengers evacuate MV Hondius cruise ship following hantavirus outbreak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5) | The Guardian | 2026-05-10T16:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak](https://news.google.com/rss/articles/CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi?oc=5) | The New York Times | 2026-05-10T06:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
