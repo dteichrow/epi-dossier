@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-14
-Generated at: 2026-05-14T08:13
+Generated at: 2026-05-14T08:15
 Search window: 7 day(s) ending 2026-05-14
 
 ## Executive scan
@@ -12,15 +12,11 @@ Search window: 7 day(s) ending 2026-05-14
 - [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News; 2026-05-13T13:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Primary sternocostal tuberculosis in a young healthcare worker: a case report.](https://pubmed.ncbi.nlm.nih.gov/42129664/) (PubMed Historical Pathogen Case Studies; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Historical epidemiology / ancient disease / paleopathology (2), Policy, surveillance, and public health infrastructure (2)
+- Category mix: Outbreaks and emerging infections (33), Policy, surveillance, and public health infrastructure (2), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News)
-- The lead item has changed to [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) from CBS News.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
+- No multi-item story clusters produced concrete update bullets in this run.
 
 ## Major topics
 ### Miscellaneous signals
