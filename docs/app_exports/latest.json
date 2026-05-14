@@ -20,11 +20,11 @@
           "url": "https://doi.org/10.1016/j.tim.2018.05.012"
         },
         {
-          "claim_supported": "Port-city diffusion and the political consequences of yellow fever in the Atlantic world.",
+          "claim_supported": "Historical development of yellow fever epidemiology, including mosquito transmission, vertebrate hosts, and epidemic spacing.",
           "id": "yellow-history",
           "note": "Historical context source rather than a modern epidemiologic review.",
-          "short_citation": "Delaporte F. The history of yellow fever. MIT Press. 1991.",
-          "url": "https://mitpress.mit.edu/9780262541114/the-history-of-yellow-fever/"
+          "short_citation": "Downs WG. History of Epidemiological Aspects of Yellow Fever. Yale J Biol Med. 1982;55(3-4):179-185.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2596468/"
         }
       ],
       "default_variant_slug": "",
