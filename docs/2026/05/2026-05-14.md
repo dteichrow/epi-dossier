@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-14
-Generated at: 2026-05-14T13:23
+Generated at: 2026-05-14T14:24
 Search window: 7 day(s) ending 2026-05-14
 
 ## Executive scan
@@ -8,32 +8,42 @@ Search window: 7 day(s) ending 2026-05-14
 - [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-05-13T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-13T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-05-13T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa; 2026-05-11T16:57+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [In Sudan, a migrant community reveals a resistance to malaria: the genetic study helping shape medicine](https://theconversation.com/in-sudan-a-migrant-community-reveals-a-resistance-to-malaria-the-genetic-study-helping-shape-medicine-278806) (The Conversation; 2026-05-14T14:15+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Concerns raised over unsafe reuse of bottles in markets amid cholera outbreak](https://www.eyeradio.org/concerns-raised-over-unsafe-reuse-of-bottles-in-markets-amid-cholera-outbreak/) (Eye Radio; 2026-05-14T13:25+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (31), Occupational and environmental epidemiology (2), Policy, surveillance, and public health infrastructure (1)
+- Category mix: Outbreaks and emerging infections (30), Occupational and environmental epidemiology (2), Policy, surveillance, and public health infrastructure (1)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-- No multi-item story clusters produced concrete update bullets in this run.
+### Hantavirus and cruise-ship outbreak
+- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News)
+- The lead item has changed to [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) from CBS News.
+- Story volume increased from 21 to 22 clustered item(s) in the current window.
+- 10 newly observed linked item(s) were added since the last saved snapshot.
+
+### Dengue and arboviruses
+- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
+
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 5 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Topic size: 5 item(s) across 4 source(s); 3 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-13T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks); [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [Concerns raised over unsafe reuse of bottles in markets amid cholera outbreak](https://www.eyeradio.org/concerns-raised-over-unsafe-reuse-of-bottles-in-markets-amid-cholera-outbreak/) (Eye Radio)
+- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [In Sudan, a migrant community reveals a resistance to malaria: the genetic study helping shape medicine](https://theconversation.com/in-sudan-a-migrant-community-reveals-a-resistance-to-malaria-the-genetic-study-helping-shape-medicine-278806) (The Conversation); [Concerns raised over unsafe reuse of bottles in markets amid cholera outbreak](https://www.eyeradio.org/concerns-raised-over-unsafe-reuse-of-bottles-in-markets-amid-cholera-outbreak/) (Eye Radio)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Dengue and arboviruses
-- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
 - Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of...
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal); [60 cases of dengue confirmed to date](https://matangitonga.to/2026/05/12/60-cases-dengue-confirmed-date) (Matangi Tonga)
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
@@ -59,13 +69,13 @@ Search window: 7 day(s) ending 2026-05-14
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### Polio and wastewater surveillance
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex, 2026-05-01T02:44+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+### Hantavirus and cruise-ship outbreak
+- Topic size: 22 item(s) across 11 source(s); 0 official/primary-source item(s).
+- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News, 2026-05-14T00:49+00:00)
+- Detailed note: Cluster remains active across 22 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News); [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) (Reuters); [Passengers evacuated from hantavirus-affected MV Hondius](https://www.bbc.co.uk/learningenglish/features/learning-english-from-the-news_2026/260513) (BBC); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -336,16 +346,6 @@ Search window: 7 day(s) ending 2026-05-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-05-13T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1365 with date posted 2/11/2026. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Moringa Powder.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.
 - Source: PubMed Historical Epidemiology
 - Date: 2026-05-13T00:00
@@ -366,12 +366,22 @@ Search window: 7 day(s) ending 2026-05-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### In Sudan, a migrant community reveals a resistance to malaria: the genetic study helping shape medicine
+- Source: The Conversation
+- Date: 2026-05-14T14:15+00:00
+- URL: https://theconversation.com/in-sudan-a-migrant-community-reveals-a-resistance-to-malaria-the-genetic-study-helping-shape-medicine-278806
+- Category: Outbreaks and emerging infections
+- Summary: This is a method scientists use to read and analyse a person’s complete DNA, the full set of genetic instructions, to understand traits, ancestry and disease risk. Our research covered a total of 125 individuals from five population groups, defined by their language and cultural identity, known as ethnicity. This makes Sudan a valuable place to study human genetic diversity and evolutionary history, which has important implications for understanding population-specific adaptation and health.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Concerns raised over unsafe reuse of bottles in markets amid cholera outbreak
 - Source: Eye Radio
 - Date: 2026-05-14T13:25+00:00
 - URL: https://www.eyeradio.org/concerns-raised-over-unsafe-reuse-of-bottles-in-markets-amid-cholera-outbreak/
 - Category: Outbreaks and emerging infections
-- Summary: Andrew | Published: 7 hours ago A man pushing sacks of empty plastic bottles pauses for a drink of water. Across markets in Juba, empty plastic bottles are reportedly being collected from streets and garbage sites, then reused to package and sell local soft drinks, juice, and cooking oil, raising serious public health concerns. The concerns were raised during a public awareness programme under the “Cholera Free Payam Juba” campaign, which is being implemented by ForAfrika South Sudan with support from UNICEF on the Dawn Show.
+- Summary: Andrew | Published: 8 hours ago A man pushing sacks of empty plastic bottles pauses for a drink of water. Across markets in Juba, empty plastic bottles are reportedly being collected from streets and garbage sites, then reused to package and sell local soft drinks, juice, and cooking oil, raising serious public health concerns. The concerns were raised during a public awareness programme under the “Cholera Free Payam Juba” campaign, which is being implemented by ForAfrika South Sudan with support from UNICEF on the Dawn Show.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -400,14 +410,10 @@ Search window: 7 day(s) ending 2026-05-14
 ## Other notable readings
 - [Measles case counts mount in Utah, Arizona, while Bangladesh, Guatemala battle deadly outbreaks](https://www.cidrap.umn.edu/measles/measles-case-counts-mount-utah-arizona-while-bangladesh-guatemala-battle-deadly-outbreaks) | CIDRAP | 2026-05-01T07:00+00:00 | Outbreaks and emerging infections
   While South Carolina’s measles outbreak has been declared over, Utah this week added 18 more measles cases to its 2026 tally, for a total of 428, while Arizona posted two new cases in its ongoing outbreak, for 93 so far this year, according to their respective state health departments. The nationwide measles infection total for the year to date stands at 1,814, up from 1,792 last week, the Centers for Disease Control and Prevention said today in its weekly update . The outbreak in Utah is currently the largest in the nation.
-- [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
-  Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
-- [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) | Scimex | 2026-05-01T02:44+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) | Reuters | 2026-05-14T15:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
+  Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
 - [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) | Reuters | 2026-05-13T15:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Passengers evacuated from hantavirus-affected MV Hondius](https://www.bbc.co.uk/learningenglish/features/learning-english-from-the-news_2026/260513) | BBC | 2026-05-13T11:54+00:00 | Outbreaks and emerging infections
@@ -422,7 +428,7 @@ Search window: 7 day(s) ending 2026-05-14
   Limited detail was available from feed metadata alone.
 - [American cruise ship passenger tests positive for hantavirus after evacuation](https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO says seven cases of hantavirus confirmed from cruise ship](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEt6V1pkVVhfTFh2aUdqYkdDMHhTZ2tDUnlta05feGs3SDB3b2FuUl9oU3hnRFh3aEpkZVdCNnYzRVJSTEdUMW1WdENHX09oZWZtQVc5VWRfTDdVOFhHbUtsVGw5VlJsR3BYUldJMGFTT1FXeWVWM3pMVDVZNU1PTFdIem14Yl9pZ3g4QmRBa3V5U2FISjhka1l5cmFKQm1rUzJsLUVCNmJxNkJyVGR4blpIbE44dldDV3FxcEh1eHpSTG8?oc=5) | Reuters | 2026-05-11T12:25+00:00 | Outbreaks and emerging infections
+- [WHO says seven cases of hantavirus confirmed from cruise ship](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/) | Reuters | 2026-05-11T12:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Evacuation flights leave Tenerife after cruise ship virus outbreak](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTZWRnJKRW80UDVpWnhYcjVURGlTaUxjZXlrUHIxY0hKeGIxZ0h0b2FjQTZoeGxqUlNmTjZoZXNDZzlPTXU2S1dmLS1PMnpoX2VhcUQ4UGR5RDJIaXJ1UnhhVmx1NDJBRWt5bzhPZURCV0s0dUZTejE0MHB3enRMSmxham9mNmdGUXRScTkxNWxXaFFLalEtY3ZKM2NlcEF1NDgxbzdxWENGZTh4RzRrQzJTNVRYY0ZweHdyTDdqX19Sal9VMFE?oc=5) | Reuters | 2026-05-11T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -437,6 +443,10 @@ Search window: 7 day(s) ending 2026-05-14
 - [Plane carrying Britons lands in UK after evacuation from hantavirus cruise ship](https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5) | Sky News | 2026-05-10T22:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Passengers evacuate MV Hondius cruise ship following hantavirus outbreak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5) | The Guardian | 2026-05-10T16:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak](https://news.google.com/rss/articles/CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi?oc=5) | The New York Times | 2026-05-10T06:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
