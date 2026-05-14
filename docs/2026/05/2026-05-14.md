@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-14
-Generated at: 2026-05-14T00:03
+Generated at: 2026-05-14T01:04
 Search window: 7 day(s) ending 2026-05-14
 
 ## Executive scan
@@ -12,19 +12,19 @@ Search window: 7 day(s) ending 2026-05-14
 - [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News; 2026-05-13T13:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa; 2026-05-11T16:57+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Policy, surveillance, and public health infrastructure (1), Historical epidemiology / ancient disease / paleopathology (1)
+- Category mix: Outbreaks and emerging infections (33), Policy, surveillance, and public health infrastructure (2), Historical epidemiology / ancient disease / paleopathology (1)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
-- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News)
-- The lead item has changed to [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) from CBS News.
-- 2 newly observed linked item(s) were added since the last saved snapshot.
+- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
+- The lead item has changed to [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) from Euronews.com.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 8 item(s) across 3 source(s); 6 official/primary-source item(s).
+- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-13T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1345: Salmonella Richmond linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025) (FDA Foodborne Outbreaks)
@@ -63,13 +63,13 @@ Search window: 7 day(s) ending 2026-05-14
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### Polio and wastewater surveillance
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex, 2026-05-01T02:44+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+### Hantavirus and cruise-ship outbreak
+- Topic size: 22 item(s) across 13 source(s); 0 official/primary-source item(s).
+- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com, 2026-05-13T15:06+00:00)
+- Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. Latest Trending US-Israel attack on Iran 2026 War in Ukraine Donald Trump Xi Jinping Russia European Commission Latest stories Travel News These are the best cities for culture in Europe for 2026 Europe Today LGBTQI+...
+- Evidence notes: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com); [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News); [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) (BBC)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -380,16 +380,6 @@ Search window: 7 day(s) ending 2026-05-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Two geographies, one virus: What recurrent Nipah spillover in India reveals
-- Source: Nature
-- Date: 2026-05-13T13:00+00:00
-- URL: https://www.nature.com/articles/s44298-026-00195-4
-- Category: Outbreaks and emerging infections
-- Summary: Kerala, on the other hand, has had recurring spill-over events since 2018, with outbreaks in 2019, 2021, 2023, 2024, and 2025, and has frequently been limited to single cases or small outbreaks with quick containment 5 , 6 , 7 , 8 , 9 , 10 . The history of the Nipah virus disease in India is unique: although its bat reservoir is widely distributed across the country, human cases have only been reported repeatedly in two states, namely, West Bengal in Eastern India and Kerala in the southwest coast 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 . Outbreaks were reported in West Bengal in 2001 and 2007, epidemiologically associated with Bangladesh 3 , 4 , and again in 2026, when two healthcare workers in Barasat, North 24 Parganas district were laboratory-confirmed for Nipah virus infection 11 .
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Genomic epidemiology of the 2025 mpox epidemic in Sierra Leone
 - Source: Nature
 - Date: 2026-05-12T10:18+00:00
@@ -400,17 +390,29 @@ Search window: 7 day(s) ending 2026-05-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date
+- Source: Outbreak News Today
+- Date: 2026-05-02T07:00+00:00
+- URL: https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than
+- Category: Outbreaks and emerging infections
+- Summary: In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
-  In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
   Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
+- [Sinovac Foundation donates 3.83 lakh doses of polio vaccine to Bangladesh](https://www.bssnews.net/news/386574) | Bangladesh Sangbad Sangstha (BSS) | 2026-05-13T19:07+00:00 | Outbreaks and emerging infections
+  The polio (Poliomyelitis Vaccine, Vero Cell, Inactivated Sabin Strain - sIPV) vaccine manufactured by Sinovac has achieved pre-qualification from the WHO in 2022. The Foundation donated the vaccine to make the ongoing activities of Bangladesh government’s Expanded Programme on Immunization (EPI) more rapid, dynamic and effective, said a press release here. The vaccine was donated at a simple ceremony at the ministry conference room at Bangladesh Secretariat here this morning.
+- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
+  Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. Latest Trending US-Israel attack on Iran 2026 War in Ukraine Donald Trump Xi Jinping Russia European Commission Latest stories Travel News These are the best cities for culture in Europe for 2026 Europe Today LGBTQI+ conversion therapy is 'torture', EU commissioner slams Europe Today ‘We’re the two superpowers’ – so, where is Europe? In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.
+- [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) | Digital Journal | 2026-05-12T03:39+00:00 | Outbreaks and emerging infections
+  More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, according to official data. The 40-year-old is one of a growing number of parents in the world’s fourth most populous country to spurn infant inoculations, even as the government rushes to quell a public health crisis. The phenomenon has become an issue as the number of measles cases in Indonesia has soared, becoming the second-highest in the world behind only war-torn Yemen, according to the Indonesian Paediatrics Association.
 - [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) | Scimex | 2026-05-01T02:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
+- [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) | CIDRAP | 2026-05-12T20:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -418,7 +420,7 @@ Search window: 7 day(s) ending 2026-05-14
   Limited detail was available from feed metadata alone.
 - [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-12T01:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-12T00:04+00:00 | Outbreaks and emerging infections
+- [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXhSWllhVGpLWXlNNEpYZ29fc3FPN0JZOWNQOTEtNjJwRWR0dEhFQ0N4WEJWS0tPdjFoRkpsY0hLUHVmSlhUbXFFa3hpTGtSdmhIZkhiOUFnQS14dDhGdWlVNDBFbkVvWVBvdnJ0RC1fN2VocV91WVpHb1NtQ0Z6eFlqR2hibjNBOWVNTGFiQ0ZkU3NJNjFCRFBLYTF0TkJCSDlyUENPSUZIOFNCMTFDemp3dVB1dVBWU0ZQNGlwejZINmdWVDhiQUNiQlM5RHZ2?oc=5) | Reuters | 2026-05-12T00:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cruise Ship Hit by Hantavirus Leaves Canary Islands and Sails Toward Netherlands](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWd4TGdRLWJhY0xZTDlhSGhDYW1KV3YwOE45XzBOenk4V0RyRkNpQVM0aDBxLTc2R0NJa0tISy1SelExTWtzckNhMmxRWHZ5ZldkN2dSZ0FUeWJmWjZqVnltY3F3VVR5RlplRFFHdjBkUlpEQk9sSklWeENmaFY1Z0NZR3JYMFdSME9OX203dURtTjlS?oc=5) | The New York Times | 2026-05-11T19:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -440,8 +442,6 @@ Search window: 7 day(s) ending 2026-05-14
   Limited detail was available from feed metadata alone.
 - [Passengers evacuate MV Hondius cruise ship following hantavirus outbreak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5) | The Guardian | 2026-05-10T16:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/)
@@ -458,6 +458,5 @@ Search window: 7 day(s) ending 2026-05-14
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
-- Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
