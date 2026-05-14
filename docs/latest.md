@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-14
-Generated at: 2026-05-14T05:13
+Generated at: 2026-05-14T06:11
 Search window: 7 day(s) ending 2026-05-14
 
 ## Executive scan
@@ -12,13 +12,16 @@ Search window: 7 day(s) ending 2026-05-14
 - [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News; 2026-05-13T13:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Primary sternocostal tuberculosis in a young healthcare worker: a case report.](https://pubmed.ncbi.nlm.nih.gov/42129664/) (PubMed Historical Pathogen Case Studies; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Policy, surveillance, and public health infrastructure (2), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (32), Historical epidemiology / ancient disease / paleopathology (2), Policy, surveillance, and public health infrastructure (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
-- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
-- The lead item has changed to [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) from Euronews.com.
+- Lead item: [France, Netherlands say all hantavirus contact cases negative](https://www.scmp.com/news/world/europe/article/3353595/france-netherlands-say-all-hantavirus-contact-cases-negative) (South China Morning Post)
+- South China Morning Post now explicitly uses investigation or monitoring language.
+- New publisher/source coverage joined this story cluster: South China Morning Post.
+- The lead item has changed to [France, Netherlands say all hantavirus contact cases negative](https://www.scmp.com/news/world/europe/article/3353595/france-netherlands-say-all-hantavirus-contact-cases-negative) from South China Morning Post.
+- 7 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
@@ -62,13 +65,13 @@ Search window: 7 day(s) ending 2026-05-14
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### Hantavirus and cruise-ship outbreak
-- Topic size: 22 item(s) across 13 source(s); 0 official/primary-source item(s).
-- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com, 2026-05-13T15:06+00:00)
-- Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.
-- Evidence notes: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com); [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News); [Passengers evacuated from hantavirus-affected MV Hondius](https://www.bbc.co.uk/learningenglish/features/learning-english-from-the-news_2026/260513) (BBC); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+### Polio and wastewater surveillance
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex, 2026-05-01T02:44+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) (Scimex)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -403,14 +406,10 @@ Search window: 7 day(s) ending 2026-05-14
 ## Other notable readings
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
   Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
-- [Sinovac Foundation donates 3.83 lakh doses of polio vaccine to Bangladesh](https://www.bssnews.net/news/386574) | Bangladesh Sangbad Sangstha (BSS) | 2026-05-13T19:07+00:00 | Outbreaks and emerging infections
-  The polio (Poliomyelitis Vaccine, Vero Cell, Inactivated Sabin Strain - sIPV) vaccine manufactured by Sinovac has achieved pre-qualification from the WHO in 2022. The Foundation donated the vaccine to make the ongoing activities of Bangladesh government’s Expanded Programme on Immunization (EPI) more rapid, dynamic and effective, said a press release here. The vaccine was donated at a simple ceremony at the ministry conference room at Bangladesh Secretariat here this morning.
-- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
-  Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
-- [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.digitaljournal.com/world/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge/article) | Digital Journal | 2026-05-12T03:39+00:00 | Outbreaks and emerging infections
-  More than 8,000 suspected cases and 10 deaths were recorded in the first three months of 2026, according to official data. The 40-year-old is one of a growing number of parents in the world’s fourth most populous country to spurn infant inoculations, even as the government rushes to quell a public health crisis. The phenomenon has become an issue as the number of measles cases in Indonesia has soared, becoming the second-highest in the world behind only war-torn Yemen, according to the Indonesian Paediatrics Association.
 - [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) | Scimex | 2026-05-01T02:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [France, Netherlands say all hantavirus contact cases negative](https://www.scmp.com/news/world/europe/article/3353595/france-netherlands-say-all-hantavirus-contact-cases-negative) | South China Morning Post | 2026-05-14T12:27+00:00 | Outbreaks and emerging infections
+  Globally three people have died, six are confirmed to have hantavirus, and there is one probable case France’s health minister said on Thursday that 26 people in France identified as close contacts of hantavirus cases linked to the MV Hondius cruise ship had tested negative for the illness. Twenty-six people are in hospital isolation in France, including 22 identified as close contacts of a Dutch woman on the MV Hondius that was at the centre of an international alert for the rare disease typically transmitted by rodents. Dutch authorities said that all people who arrived in the Netherlands on evacuation flights from the ship this week have also tested negative.
 - [NCDC records 191 Lassa fever deaths, 776 confirmed cases in 23 states](https://tribuneonlineng.com/ncdc-records-191-lassa-fever-deaths-776-confirmed-cases-in-23-states/) | Tribune Online | 2026-05-14T10:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
@@ -440,6 +439,10 @@ Search window: 7 day(s) ending 2026-05-14
 - [Americans evacuated from hantavirus-stricken cruise ship off Spanish island](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVoteDROS3dnNXhsOUI4Q2tGVVh1eW8ycGFSakt2b3RlXy1TRndyMVlFd3Y3SWpLVUphd2UzS3BnREZLZzFSTUQ4ZHlxcXF3UUlYZk0ya3Q0b0NTT3BxLWhLVC16bzhNMGt6akFfdmozRVo1OWhqRVNoTnUyblZvVnFIaHM0LWU5bnd1Zmd6NUtLUHVaSF8xSHltWE50WGw0eEk0dw?oc=5) | NBC News | 2026-05-11T02:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5) | NPR | 2026-05-11T01:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Plane carrying Britons lands in UK after evacuation from hantavirus cruise ship](https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5) | Sky News | 2026-05-10T22:40+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Passengers evacuate MV Hondius cruise ship following hantavirus outbreak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
