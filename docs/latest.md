@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-14
-Generated at: 2026-05-14T08:15
+Generated at: 2026-05-14T09:18
 Search window: 7 day(s) ending 2026-05-14
 
 ## Executive scan
@@ -12,28 +12,26 @@ Search window: 7 day(s) ending 2026-05-14
 - [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) (ECDC News; 2026-05-13T13:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Primary sternocostal tuberculosis in a young healthcare worker: a case report.](https://pubmed.ncbi.nlm.nih.gov/42129664/) (PubMed Historical Pathogen Case Studies; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Policy, surveillance, and public health infrastructure (2), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (33), Historical epidemiology / ancient disease / paleopathology (2), Policy, surveillance, and public health infrastructure (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-- No multi-item story clusters produced concrete update bullets in this run.
+### Hantavirus and cruise-ship outbreak
+- Lead item: [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) (Reuters)
+- New publisher/source coverage joined this story cluster: CNN.
+- The lead item has changed to [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) from Reuters.
+- Story volume increased from 21 to 22 clustered item(s) in the current window.
+- 5 newly observed linked item(s) were added since the last saved snapshot.
+
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
+- Topic size: 8 item(s) across 4 source(s); 6 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-13T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1345: Salmonella Richmond linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025) (FDA Foodborne Outbreaks)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today, 2026-05-02T07:00+00:00)
-- Detailed note: In addition, there has been 12 dengue related deaths reported this year. Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected...
-- Evidence notes: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -51,6 +49,14 @@ Search window: 7 day(s) ending 2026-05-14
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
+### Dengue and arboviruses
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today, 2026-05-02T07:00+00:00)
+- Detailed note: In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026.
+- Evidence notes: [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
 ### Avian influenza and H5N1
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today, 2026-05-02T07:00+00:00)
@@ -61,9 +67,9 @@ Search window: 7 day(s) ending 2026-05-14
 
 ### Measles transmission and vaccination
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Lebanon city issues urgent health warning amid measles outbreak](https://www.ldnews.com/story/news/local/2026/05/08/lebanon-city-issues-warning-urge-vaccination-amid-measles-outbreak/89992175007/) (Lebanon Daily News, 2026-05-08T15:11+00:00)
-- Detailed note: "At this time, the City does not have confirmation regarding how many cases, if any, are specifically located within Lebanon City," Mayor Sherry Capello said on Friday, May 8. Ten of the 12 confirmed Lebanon County residents who've been diagnosed with measles were unvaccinated and another had a vaccination status that could not be verified. NEWS THAILAND BUSINESS OPINION WORLD PROPERTY SPORTS THAILAND GENERAL...
-- Evidence notes: [Lebanon city issues urgent health warning amid measles outbreak](https://www.ldnews.com/story/news/local/2026/05/08/lebanon-city-issues-warning-urge-vaccination-amid-measles-outbreak/89992175007/) (Lebanon Daily News); [Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge](https://www.bangkokpost.com/world/3253774/vitamins-over-vaccines-misinformation-entrenched-amid-indonesia-measles-surge) (Bangkok Post)
+- Lead item: [A Man-Made Massacre: How Administrative Negligence Ignited Bangladesh’s Measles Outbreak](https://albd.org/articles/news/41708/A-Man-Made-Massacre:-How-Administrative-Negligence-Ignited-Bangladesh%E2%80%99s-Measles-Outbreak) (albd.org, 2026-05-14T14:13+00:00)
+- Detailed note: What we are witnessing today is not merely a "surge" in cases; it is a full-scale health collapse that has left hundreds of children dead and millions at risk. "At this time, the City does not have confirmation regarding how many cases, if any, are specifically located within Lebanon City," Mayor Sherry Capello said on Friday, May 8. Ten of the 12 confirmed Lebanon County residents who've been diagnosed with...
+- Evidence notes: [A Man-Made Massacre: How Administrative Negligence Ignited Bangladesh’s Measles Outbreak](https://albd.org/articles/news/41708/A-Man-Made-Massacre:-How-Administrative-Negligence-Ignited-Bangladesh%E2%80%99s-Measles-Outbreak) (albd.org); [Lebanon city issues urgent health warning amid measles outbreak](https://www.ldnews.com/story/news/local/2026/05/08/lebanon-city-issues-warning-urge-vaccination-amid-measles-outbreak/89992175007/) (Lebanon Daily News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -386,35 +392,39 @@ Search window: 7 day(s) ending 2026-05-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date
-- Source: Outbreak News Today
-- Date: 2026-05-02T07:00+00:00
-- URL: https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than
+### In Sudan, a migrant community reveals a resistance to malaria: the genetic study helping shape medicine
+- Source: modernghana.com
+- Date: 2026-05-14T16:07+00:00
+- URL: https://www.modernghana.com/news/1493249/in-sudan-a-migrant-community-reveals-a-resistance.html
 - Category: Outbreaks and emerging infections
-- Summary: In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
+- Summary: This is a method scientists use to read and analyse a person's complete DNA, the full set of genetic instructions, to understand traits, ancestry and disease risk. Our research covered a total of 125 individuals from five population groups, defined by their language and cultural identity, known as ethnicity. This makes Sudan a valuable place to study human genetic diversity and evolutionary history, which has important implications for understanding population-specific adaptation and health.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Concerns raised over unsafe reuse of bottles in markets amid cholera outbreak](https://www.eyeradio.org/concerns-raised-over-unsafe-reuse-of-bottles-in-markets-amid-cholera-outbreak/) | Eye Radio | 2026-05-14T13:25+00:00 | Outbreaks and emerging infections
+  Andrew | Published: 3 hours ago A man pushing sacks of empty plastic bottles pauses for a drink of water. Across markets in Juba, empty plastic bottles are reportedly being collected from streets and garbage sites, then reused to package and sell local soft drinks, juice, and cooking oil, raising serious public health concerns. The concerns were raised during a public awareness programme under the “Cholera Free Payam Juba” campaign, which is being implemented by ForAfrika South Sudan with support from UNICEF on the Dawn Show.
+- [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
+  In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
   Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
-- [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
-  Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
+- [A Man-Made Massacre: How Administrative Negligence Ignited Bangladesh’s Measles Outbreak](https://albd.org/articles/news/41708/A-Man-Made-Massacre:-How-Administrative-Negligence-Ignited-Bangladesh%E2%80%99s-Measles-Outbreak) | albd.org | 2026-05-14T14:13+00:00 | Outbreaks and emerging infections
+  What we are witnessing today is not merely a "surge" in cases; it is a full-scale health collapse that has left hundreds of children dead and millions at risk. Today, that legacy is being buried in the small graves of children who died from a disease that should have been a memory. As of May 2026, the nation is witnessing a catastrophic resurgence of measles, a pathogen we were once on the verge of eliminating.
 - [Lebanon city issues urgent health warning amid measles outbreak](https://www.ldnews.com/story/news/local/2026/05/08/lebanon-city-issues-warning-urge-vaccination-amid-measles-outbreak/89992175007/) | Lebanon Daily News | 2026-05-08T15:11+00:00 | Outbreaks and emerging infections
   "At this time, the City does not have confirmation regarding how many cases, if any, are specifically located within Lebanon City," Mayor Sherry Capello said on Friday, May 8. Ten of the 12 confirmed Lebanon County residents who've been diagnosed with measles were unvaccinated and another had a vaccination status that could not be verified. Lebanon County accounts for more than half of Pennsylvania's currently confirmed measles cases.
-- [EXPERT REACTION: Poliovirus detected in WA wastewater](https://www.scimex.org/newsfeed/expert-reaction-poliovirus-detected-in-wa-wastewater) | Scimex | 2026-05-01T02:44+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [NCDC records 191 Lassa fever deaths, 776 confirmed cases in 23 states](https://tribuneonlineng.com/ncdc-records-191-lassa-fever-deaths-776-confirmed-cases-in-23-states/) | Tribune Online | 2026-05-14T10:46+00:00 | Outbreaks and emerging infections
+- [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) | Reuters | 2026-05-14T15:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) | Reuters | 2026-05-13T15:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Passengers evacuated from hantavirus-affected MV Hondius](https://www.bbc.co.uk/learningenglish/features/learning-english-from-the-news_2026/260513) | BBC | 2026-05-13T11:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) | CIDRAP | 2026-05-12T20:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) | CBS News | 2026-05-12T10:28+00:00 | Outbreaks and emerging infections
+- [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://news.google.com/rss/articles/CBMimgFBVV95cUxONEU4Njh3UnhHV2tINmZYamhZNmNYR1VHbkNYY1hFeVQySTJ0Mk5DdHJFbGtMb2pKcmVvQkU0MWp1Wm1jTHp0VTl3LUJtY25wY1RJSTBpTFhsZDBrZk9pcEF2djNUMnBfM21RRWIyQ3JveWdtU1JZeHYzajFPdC1CNjNrekl5cmtOLUtNeEVXcXdiMGhhWnU3ZjlR0gGfAUFVX3lxTE1wQXdoWDZEbUZmVlkySU9TSTJMd0pLSXRXOHd5NVUzZ3V3STkzQkFCVkxQcm9YS1gyVnhiRUJSWVdpWWs5ek9aZmhZTjB0YUZJWlhwMXZ5Ul80blB4cmljaUV2SzlZNWp1ZDQ0bVVVRnozRXNpQzRSUVBfT3BHMUxzMUNmNEdJYk9oWGZHUkpiQ3pUeXY2U3FoOXBBUHNvQQ?oc=5) | CBS News | 2026-05-12T10:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lWDIzcjV5WHlZZzFES0ZWSkY1ajVlUlFwaUxJZHdGb1RGcnhmcG5UWF9WbTJ1amYxTks3aHk1eDZBd2E2ZEpIQW8zbWl4aS1PM1Rvb2xSbFh1dw?oc=5) | BBC | 2026-05-12T01:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -433,10 +443,6 @@ Search window: 7 day(s) ending 2026-05-14
 - [Americans evacuated from virus cruise ship arrive back in US](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkRZbEdYRXZFaEtXTzUwSDI2ZlZTNUs4enFUb041N0g5QkZzN0d0MUtyeHprYVcyaldFeVZpdm1SVmpKYk1mWDd5OFNGeE1MYXFCU2VVd1NSTHVHN2k2UC1MWU5KVlVfTUFPYk1vZHR4STJhZ3RjQUZWVFpTRTJiNUY1dXRSV3VfQWxUbFpOa1ZDTE45d2NRckNhS3I?oc=5) | Sky News | 2026-05-11T06:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans evacuated from hantavirus-stricken cruise ship off Spanish island](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVoteDROS3dnNXhsOUI4Q2tGVVh1eW8ycGFSakt2b3RlXy1TRndyMVlFd3Y3SWpLVUphd2UzS3BnREZLZzFSTUQ4ZHlxcXF3UUlYZk0ya3Q0b0NTT3BxLWhLVC16bzhNMGt6akFfdmozRVo1OWhqRVNoTnUyblZvVnFIaHM0LWU5bnd1Zmd6NUtLUHVaSF8xSHltWE50WGw0eEk0dw?oc=5) | NBC News | 2026-05-11T02:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5) | NPR | 2026-05-11T01:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Plane carrying Britons lands in UK after evacuation from hantavirus cruise ship](https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5) | Sky News | 2026-05-10T22:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
