@@ -5,6 +5,7 @@
       "BBC",
       "CBS News",
       "CIDRAP",
+      "CNN",
       "Guardian",
       "NBC News",
       "NPR",
@@ -17,7 +18,7 @@
     "sources_cached": 1,
     "sources_failed": 2,
     "sources_live": 35,
-    "story_count_change": 2,
+    "story_count_change": 1,
     "wrapper_only_count": 3
   },
   "freshness_summary": {
@@ -27,7 +28,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-14T10:19:44",
+  "generated_at": "2026-05-14T11:20:58",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
