@@ -15,20 +15,20 @@
       "Sky News"
     ],
     "metadata_only_count": 24,
-    "sources_cached": 0,
+    "sources_cached": 2,
     "sources_failed": 2,
-    "sources_live": 38,
+    "sources_live": 36,
     "story_count_change": 2,
     "wrapper_only_count": 3
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 38,
-    "refresh_cache": 0,
+    "live": 36,
+    "refresh_cache": 2,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-14T17:27:31",
+  "generated_at": "2026-05-14T18:28:54",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
