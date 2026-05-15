@@ -628,7 +628,7 @@
       "related_stories": [
         {
           "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "2 newly observed linked item(s) were added since the last saved snapshot.",
+          "latest_update_summary": "Outbreak News Today now explicitly uses investigation or monitoring language.",
           "story_id": "story_28a91c6d89267872",
           "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
           "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
@@ -1311,7 +1311,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "2 newly observed linked item(s) were added since the last saved snapshot.",
+          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-15T15:57:21",
-  "run_id": "run_ca97b197e88c498b"
+  "generated_at": "2026-05-15T15:57:44",
+  "run_id": "run_b1518048b81f01c9"
 }
