@@ -1,24 +1,42 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-15
-Generated at: 2026-05-15T06:52
+Generated at: 2026-05-15T08:51
 Search window: 7 day(s) ending 2026-05-15
 
 ## Executive scan
+- [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News; 2026-05-15T16:21+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa; 2026-05-15T13:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [The impact of nonpharmaceutical interventions (NPIs) on rabies post-exposure prophylaxis: A comparative study in Wuhan, 2022 vs. 2023.](https://pubmed.ncbi.nlm.nih.gov/42116803/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
-- [Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom.](https://pubmed.ncbi.nlm.nih.gov/42116765/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
-- [Ebola Strikes Again: New Outbreak Confirmed in Congo's Province](https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province) (Devdiscourse; 2026-05-15T11:47+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (25), Major epidemiology studies (5), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (26), Major epidemiology studies (5), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-- No multi-item story clusters produced concrete update bullets in this run.
+### Hantavirus and cruise-ship outbreak
+- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News)
+- The lead item has changed to [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) from CBS News.
+- Story volume increased from 18 to 19 clustered item(s) in the current window.
+- 9 newly observed linked item(s) were added since the last saved snapshot.
+
+### Dengue and arboviruses
+- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
+- New publisher/source coverage joined this story cluster: Cureus.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
+
 
 ## Major topics
+### Miscellaneous signals
+- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
+- Lead item: [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News, 2026-05-15T16:21+02:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded](https://www.washingtonpost.com/world/2026/05/15/congo-ebola-outbreak-ituri-province/625a3304-502d-11f1-97e7-22c6c29ff0d8_story.html) (The Washington Post); [Ebola outbreak confirmed in DRC’s Ituri province](https://www.sabcnews.com/sabcnews/ebola-outbreak-confirmed-in-drcs-ituri-province/) (SABC News); [Dozens dead in new Ebola outbreak in remote DR Congo province, officials say](https://www.runcornandwidnesworld.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/) (Runcorn and Widnes World)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### COVID-19 and SARS-CoV-2
 - Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
 - Lead item: [Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom.](https://pubmed.ncbi.nlm.nih.gov/42116765/) (PubMed Infectious Disease Search, 2026-05-12T00:00)
@@ -27,19 +45,11 @@ Search window: 7 day(s) ending 2026-05-15
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Miscellaneous signals
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Ebola Strikes Again: New Outbreak Confirmed in Congo's Province](https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province) (Devdiscourse, 2026-05-15T11:47+00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Ebola Strikes Again: New Outbreak Confirmed in Congo's Province](https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province) (Devdiscourse); [Africa's top health body confirms new Ebola outbreak in remote Congo province](https://www.clickorlando.com/news/world/2026/05/15/africas-top-health-body-confirms-new-ebola-outbreak-in-remote-congo-province/) (WKMG); [A new Ebola outbreak is spreading through a remote Congo province, with 65 deaths recorded](https://www.localmemphis.com/article/news/nation-world/ebola-outbreak-democratic-republic-of-the-congo/507-8e27e5b4-94d3-4b55-a885-63b2c5d4747e) (localmemphis.com)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
 - Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of...
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal)
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Co-infection of Dengue and Malaria Complicated With Acute Respiratory Distress Syndrome (ARDS) in a Critically Ill Patient: A Case Report From a Tertiary Care Center in Jharkhand, India](https://www.cureus.com/articles/492228-co-infection-of-dengue-and-malaria-complicated-with-acute-respiratory-distress-syndrome-ards-in-a-critically-ill-patient-a-case-report-from-a-tertiary-care-center-in-jharkhand-india) (Cureus)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -296,6 +306,26 @@ Search window: 7 day(s) ending 2026-05-15
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo
+- Source: ECDC News
+- Date: 2026-05-15T16:21+02:00
+- URL: https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Ebolavirus was detected in 13 of 20 samples tested at the Institut National de Recherche Biomédicale in the Democratic Republic of the Congo. For the general population in the EU/EEA, the likelihood of infection is very low due to the limited possibility of importation and onward transmission in Europe. Based on the available information and current uncertainties, the likelihood of infection for EU/EEA residents in or travellers to the Ituri Province is assessed as low.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### WHO Sierra Leone Annual Report 2025
+- Source: WHO Regional Office for Africa
+- Date: 2026-05-15T13:56+00:00
+- URL: https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025
+- Category: Outbreaks and emerging infections
+- Summary: It also highlights WHO’s technical support to the Ministry of Health in developing major policy and strategic frameworks, including the National Health Sector Strategic Plan (2026–2030). The report details the successful response to the Mpox outbreak declared in January 2025, alongside continued progress in routine immunization, cervical cancer services, and HPV vaccine uptake. Despite funding challenges, WHO Sierra Leone continued to support critical health interventions and reaffirmed its commitment to working with government and partners to improve health outcomes across the country.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks
 - Source: CDC MMWR
 - Date: 2026-05-14T17:00+00:00
@@ -366,48 +396,30 @@ Search window: 7 day(s) ending 2026-05-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Ebola Strikes Again: New Outbreak Confirmed in Congo's Province
-- Source: Devdiscourse
-- Date: 2026-05-15T11:47+00:00
-- URL: https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province
+### A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded
+- Source: The Washington Post
+- Date: 2026-05-15T14:42+00:00
+- URL: https://www.washingtonpost.com/world/2026/05/15/congo-ebola-outbreak-ituri-province/625a3304-502d-11f1-97e7-22c6c29ff0d8_story.html
 - Category: Outbreaks and emerging infections
-- Summary: The Africa Centres for Disease Control and Prevention stated that there have been 246 suspected cases and 65 fatalities so far. The outbreak in this remote eastern region of Congo poses risks of spreading to nearby Uganda and South Sudan due to intense population movements and security challenges. Africa CDC is collaborating with national and international partners to orchestrate a rapid response, with priorities focusing on surveillance, resource mobilization, and cross-border coordination.
+- Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Africa's top health body confirms new Ebola outbreak in remote Congo province
-- Source: WKMG
-- Date: 2026-05-15T07:11+00:00
-- URL: https://www.clickorlando.com/news/world/2026/05/15/africas-top-health-body-confirms-new-ebola-outbreak-in-remote-congo-province/
-- Category: Outbreaks and emerging infections
-- Summary: “Four deaths have been reported among laboratory-confirmed cases. The deaths and suspected cases have been recorded mainly in the Mongwalu and Rwampara health zones, the Africa Centres for Disease Control ​and Prevention said in a statement. Suspected cases have also been reported in Bunia, pending confirmation,” the agency said, referring to the capital of Ituri province, near the border with Uganda.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date
-- Source: Outbreak News Today
-- Date: 2026-05-02T07:00+00:00
-- URL: https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than
-- Category: Outbreaks and emerging infections
-- Summary: In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Ebola outbreak confirmed in DRC’s Ituri province](https://www.sabcnews.com/sabcnews/ebola-outbreak-confirmed-in-drcs-ituri-province/) | SABC News | 2026-05-15T10:24+00:00 | Outbreaks and emerging infections
+  It said about 246 suspected cases and 65 deaths had been reported, mainly in the Mongwalu and Rwampara health zones, while four deaths had been reported among laboratory-confirmed cases. The World Health Organisation on Thursday said 48 cases of Ebola have been confirmed in the Democratic Republic of Congo and 31 people have died. The Africa Centres for Disease Control and Prevention said in a statement that it was convening an urgent meeting with Congo , Uganda, South Sudan and global partners to reinforce cross-border surveillance, preparedness and response efforts.
+- [Dozens dead in new Ebola outbreak in remote DR Congo province, officials say](https://www.runcornandwidnesworld.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/) | Runcorn and Widnes World | 2026-05-15T08:19+00:00 | Outbreaks and emerging infections
+  More Public notices Newsletters Jobs Book an ad Cars Homes Local listings Local info Public notices Newsletters Jobs Book an ad Cars Homes Local listings Local info Africa’s top public health body has confirmed a new Ebola outbreak in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far. “Four deaths have been reported among laboratory-confirmed cases. The deaths and suspected cases have been recorded mainly in the Mongwalu and Rwampara health zones, the Africa Centres for Disease Control and Prevention said in a statement.
+- [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
+  In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
   Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
 - [Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.](https://pubmed.ncbi.nlm.nih.gov/42113958/) | PubMed Infectious Disease Search | 2026-05-11T00:00 | Major epidemiology studies
   At 27-29°C, all the vaccine samples sustained potency at 1 week, 50% after 2 weeks, and their VVM were rated 10%, 20%, 40% and 100% after 1, 2, 3, and 4 weeks, respectively. At 2-4°C, 100% of the vaccine samples sustained potency for 6 months, and the color of VVM remained at 0% degradation after 3 months, but 10%, 20%, 20% after 4, 5, and 6 months, respectively. Fifty vials of bOPV tested before exposure had titers above 10 7.0 CCID 50 /mL (≥10 6.0 CCID 50 /0.1 mL), and VVM was rated at 0% degradation.
-- [A new Ebola outbreak is spreading through a remote Congo province, with 65 deaths recorded](https://www.localmemphis.com/article/news/nation-world/ebola-outbreak-democratic-republic-of-the-congo/507-8e27e5b4-94d3-4b55-a885-63b2c5d4747e) | localmemphis.com | 2026-05-15T09:36+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
-  Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Compared to no vaccination, the vaccination of older adults aged ≥65 years and the high-risk population was estimated to prevent 12,933 symptomatic cases, 12,811 outpatient cases, 122 hospitalizations, 353 lost quality-adjusted life-years (QALYs) gained, and four deaths, translating to total direct and societal cost savings of US$9,424,605 and US$10,397,107 respectively. Implementing an adapted COVID-19 vaccine strategy for high-risk and older adults in Guatemala is projected to improve health outcomes and, under base-case assumptions, be cost-saving from both payer and societal perspectives. Using adapted COVID-19 vaccines targeting current variants in circulation is necessary for addressing the dynamic evolution of the SARS-CoV-2 virus.
 - [Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.](https://pubmed.ncbi.nlm.nih.gov/42132838/) | PubMed Infectious Disease Search | 2026-05-14T00:00 | Major epidemiology studies
@@ -435,8 +447,6 @@ Search window: 7 day(s) ending 2026-05-15
 - [Americans evacuated from hantavirus-stricken cruise ship off Spanish island](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVoteDROS3dnNXhsOUI4Q2tGVVh1eW8ycGFSakt2b3RlXy1TRndyMVlFd3Y3SWpLVUphd2UzS3BnREZLZzFSTUQ4ZHlxcXF3UUlYZk0ya3Q0b0NTT3BxLWhLVC16bzhNMGt6akFfdmozRVo1OWhqRVNoTnUyblZvVnFIaHM0LWU5bnd1Zmd6NUtLUHVaSF8xSHltWE50WGw0eEk0dw?oc=5) | NBC News | 2026-05-11T02:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5) | NPR | 2026-05-11T01:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Passengers evacuate MV Hondius cruise ship following hantavirus outbreak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving

@@ -789,7 +789,7 @@
       "related_stories": [
         {
           "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Focus Taiwan.",
+          "latest_update_summary": "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
           "story_id": "story_f6d225b01f3f7094",
           "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
           "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -890,7 +890,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Focus Taiwan.",
+              "latest_update_summary": "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1018,7 +1018,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Focus Taiwan.",
+              "latest_update_summary": "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1146,7 +1146,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Focus Taiwan.",
+              "latest_update_summary": "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1311,7 +1311,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Cureus.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1887,94 +1887,95 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 20,
+    "metadata_only_count": 21,
     "sources_cached": 3,
     "sources_failed": 2,
-    "sources_live": 33,
-    "story_count_change": 0,
-    "wrapper_only_count": 2
+    "sources_live": 35,
+    "story_count_change": 2,
+    "wrapper_only_count": 4
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 33,
+    "live": 35,
     "refresh_cache": 3,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-15T06:52:37",
+  "generated_at": "2026-05-15T08:51:04",
   "high_priority_item_ids": [
-    "item_19e2dcb88fb961ed",
-    "item_502789787f42e3af",
+    "item_c8a9b629d908a62c",
+    "item_ed3e1d14e81c65bf",
+    "item_c8652219e3351a22",
+    "item_f8a140ecc2b27a16",
+    "item_2d3d69a56a21d191",
     "item_73c7d9ee1e3265dd",
     "item_a25caf0fefe6941b",
     "item_3848eae88945a89c",
     "item_99da9ad63f9a4fe1",
-    "item_da9926e373a44443",
-    "item_018d5ac64346727a",
-    "item_e5e34afa31345292",
-    "item_81ccc0c120d3b6a6"
+    "item_da9926e373a44443"
   ],
-  "item_count": 36,
+  "item_count": 38,
   "items": [
     {
       "abstract_url": null,
-      "aggregator_source": "Google News East Africa Outbreaks",
-      "canonical_url": "https://devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province",
-      "category": "Outbreaks and emerging infections",
+      "aggregator_source": "ECDC News",
+      "canonical_url": "https://ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo",
+      "category": "Policy, surveillance, and public health infrastructure",
       "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "live_outbreak_development",
-      "country": "Uganda",
-      "display_source": "Devdiscourse",
+      "content_class": "official_update",
+      "country": "",
+      "display_source": "ECDC News",
       "doi": null,
       "editions": [
         "index",
         "notebook",
         "watch",
-        "africa"
+        "africa",
+        "official"
       ],
       "evidence_type": "news_report",
       "freshness_state": "live",
-      "item_id": "item_19e2dcb88fb961ed",
+      "item_id": "item_c8a9b629d908a62c",
       "journal": null,
-      "link_quality": "resolved_article",
+      "link_quality": "wrapper_only",
       "local_signal": true,
       "low_detail": false,
-      "official": false,
-      "preferred_url": "https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province",
+      "official": true,
+      "preferred_url": "https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo",
       "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-15T11:47+00:00",
-      "publisher": "Devdiscourse",
+      "published_at": "2026-05-15T16:21+02:00",
+      "publisher": null,
       "publisher_access": "unknown",
-      "publisher_name": "Devdiscourse",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkFZdVdkb2NBMndYSm0wRVpvd2N2a2RDcWhXakdBcW02eTF0QlY3X3BmdFBQaGgzaFFpNTVVRkxsdVJEcDJJS1Qtb1RGMVlRN08xUE1WMG9sY05TQnRwajMzcExfME54d2x5eGxLUlh5a0dYRnpaSEtrRk9pT3RYSFlTNllJNm15bi13d1pNampuVm1Ram00R0dVeC1DZVFCSXNPZDlkSk82RGZScnBjY1VuNNIBuAFBVV95cUxOWk11U21Rcmp4QUEyRkJzQk1JZEZ2MTh1NENtVnItN3Q4QmViWmExM0IxeFVCdlBfUjdvQWwwQXZzMFFnRzRmYVY1SnlfcU1oblNhSGZXdzVSWjhmZVczRlJ4aURPeFRVV2tHbTFDaFhEOG5iRXNFaFRqb0loRGk1UjloaU9nTTEzX3pXMVNiOHRSVk9vWHVpcVEzMExjS0U5M1lfRUVRdFg3ay1pcFJkSXRUc1NKU0VU?oc=5",
+      "publisher_name": "ECDC News",
+      "publisher_tier": "official",
+      "raw_url": "https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo",
       "region": "Africa",
       "relevance_score": 5,
-      "resolved_url": "https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province",
-      "source": "Google News East Africa Outbreaks",
+      "resolved_url": null,
+      "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:45.031004+00:00",
-      "source_confidence": "general_outlet",
+      "source_cached_at": "2026-05-15T15:48:25.359705+00:00",
+      "source_confidence": "official_agency",
       "source_type": "rss",
-      "source_url": "https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province",
+      "source_url": "https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo",
       "story_id": null,
       "story_status": "",
-      "summary": "The Africa Centres for Disease Control and Prevention stated that there have been 246 suspected cases and 65 fatalities so far. The outbreak in this remote eastern region of Congo poses risks of spreading to nearby Uganda and South Sudan due to intense population movements and security challenges. Africa CDC is collaborating with national and international partners to orchestrate a rapid response, with priorities focusing on surveillance, resource mobilization, and cross-border coordination.",
-      "title": "Ebola Strikes Again: New Outbreak Confirmed in Congo's Province",
+      "summary": "Ebolavirus was detected in 13 of 20 samples tested at the Institut National de Recherche Biom\u00e9dicale in the Democratic Republic of the Congo. For the general population in the EU/EEA, the likelihood of infection is very low due to the limited possibility of importation and onward transmission in Europe. Based on the available information and current uncertainties, the likelihood of infection for EU/EEA residents in or travellers to the Ituri Province is assessed as low.",
+      "title": "ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-15T06:52:37",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+      "updated_at": "2026-05-15T08:51:04",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
       "abstract_url": null,
       "aggregator_source": "Google News Rural Outbreaks",
-      "canonical_url": "https://clickorlando.com/news/world/2026/05/15/africas-top-health-body-confirms-new-ebola-outbreak-in-remote-congo-province",
+      "canonical_url": "https://washingtonpost.com/world/2026/05/15/congo-ebola-outbreak-ituri-province/625a3304-502d-11f1-97e7-22c6c29ff0d8_story.html",
       "category": "Outbreaks and emerging infections",
-      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "live_outbreak_development",
-      "country": "Uganda",
-      "display_source": "WKMG",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "",
+      "display_source": "The Washington Post",
       "doi": null,
       "editions": [
         "index",
@@ -1984,36 +1985,187 @@
       ],
       "evidence_type": "news_report",
       "freshness_state": "live",
-      "item_id": "item_502789787f42e3af",
+      "item_id": "item_ed3e1d14e81c65bf",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": true,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://www.washingtonpost.com/world/2026/05/15/congo-ebola-outbreak-ituri-province/625a3304-502d-11f1-97e7-22c6c29ff0d8_story.html",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-15T14:42+00:00",
+      "publisher": "The Washington Post",
+      "publisher_access": "subscription",
+      "publisher_name": "Washington Post",
+      "publisher_tier": "major_newsroom",
+      "raw_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVC1kQ3dyYTdyY3huekZMeTVYNE1ucHpCZGpFQXhtX0FHWkhJU2RGNzhnMDVpSWFhazBQcTVMdDVoX0U3YzVVZWFLUWkybHZEZnE3ZXJHck1QYTVlZ3YwaVM4MFppcFlyUVktRUZoNlA2SHlDOWwyNWRsTmU3TXdDdFp0VTJVcHpBWXl0Mlg5eEt1anI0dGhWNlA5czNsOHItVWlhTTduV3BMZWlveEpWd25MR1F2dXBqbi12WXpSWlUwXzVsbVMwaDZkOA?oc=5",
+      "region": "Africa",
+      "relevance_score": 5,
+      "resolved_url": "https://www.washingtonpost.com/world/2026/05/15/congo-ebola-outbreak-ituri-province/625a3304-502d-11f1-97e7-22c6c29ff0d8_story.html",
+      "source": "Google News Rural Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-15T15:48:51.460899+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://www.washingtonpost.com/world/2026/05/15/congo-ebola-outbreak-ituri-province/625a3304-502d-11f1-97e7-22c6c29ff0d8_story.html",
+      "story_id": null,
+      "story_status": "",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-15T08:51:04",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "WHO Regional Office for Africa",
+      "canonical_url": "https://afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
+      "content_class": "official_update",
+      "country": "",
+      "display_source": "WHO Regional Office for Africa",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "africa",
+        "official"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_c8652219e3351a22",
+      "journal": null,
+      "link_quality": "wrapper_only",
+      "local_signal": false,
+      "low_detail": false,
+      "official": true,
+      "preferred_url": "https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025",
+      "preferred_url_kind": "wrapper_only",
+      "published_at": "2026-05-15T13:56+00:00",
+      "publisher": null,
+      "publisher_access": "unknown",
+      "publisher_name": "WHO Regional Office for Africa",
+      "publisher_tier": "official",
+      "raw_url": "https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025",
+      "region": "Africa",
+      "relevance_score": 5,
+      "resolved_url": null,
+      "source": "WHO Regional Office for Africa",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-15T15:47:44.365109+00:00",
+      "source_confidence": "official_agency",
+      "source_type": "rss",
+      "source_url": "https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025",
+      "story_id": null,
+      "story_status": "",
+      "summary": "It also highlights WHO\u2019s technical support to the Ministry of Health in developing major policy and strategic frameworks, including the National Health Sector Strategic Plan (2026\u20132030). The report details the successful response to the Mpox outbreak declared in January 2025, alongside continued progress in routine immunization, cervical cancer services, and HPV vaccine uptake. Despite funding challenges, WHO Sierra Leone continued to support critical health interventions and reaffirmed its commitment to working with government and partners to improve health outcomes across the country.",
+      "title": "WHO Sierra Leone Annual Report 2025",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-15T08:51:04",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News East Africa Outbreaks",
+      "canonical_url": "https://sabcnews.com/sabcnews/ebola-outbreak-confirmed-in-drcs-ituri-province",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
+      "content_class": "live_outbreak_development",
+      "country": "Uganda",
+      "display_source": "SABC News",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "africa"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_f8a140ecc2b27a16",
       "journal": null,
       "link_quality": "resolved_article",
       "local_signal": true,
       "low_detail": false,
       "official": false,
-      "preferred_url": "https://www.clickorlando.com/news/world/2026/05/15/africas-top-health-body-confirms-new-ebola-outbreak-in-remote-congo-province/",
+      "preferred_url": "https://www.sabcnews.com/sabcnews/ebola-outbreak-confirmed-in-drcs-ituri-province/",
       "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-15T07:11+00:00",
-      "publisher": "WKMG",
+      "published_at": "2026-05-15T10:24+00:00",
+      "publisher": "SABC News",
       "publisher_access": "unknown",
-      "publisher_name": "WKMG",
+      "publisher_name": "SABC News",
       "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnd2MW81UzJHUkY5emdqVzVITFhuUFJGODI3VjRLenR5VnNLbmJ6YkxNVzNUMmN1RW4tWU51SVppNDBQNkxiX3BZTG5FbzluTC1fbGlIdmk3UmNtYkctQXpJSmtSdTlucjU5X0ZxSmVBVldIMEQ5bkhNMG8yQkoxLVpEWlZWamlNeE4temIyTXFGUVlNX2JIQmNJaU1TZi1ETklwUTRwelhnTUVOOENMX2kxcjYtVVdGSmJ6QVlQQmJNX3AtRWow?oc=5",
+      "raw_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVW9SMXlZZXdmMV9RSmFGMWp2dUpVTTNfNThtQ0YtdUVEOFRCOWkybTZqNDJiMktfLUEyU0VrUGJpY3FsYURTTHpVMVU5UVZaTXRNeXBJSGNORV9teHJCdjhZemU3X29rcDRqSlZXemlrQlRPa2VpNTdJTS00bEVGcU5RNnY5YUdXOGc?oc=5",
       "region": "Africa",
       "relevance_score": 5,
-      "resolved_url": "https://www.clickorlando.com/news/world/2026/05/15/africas-top-health-body-confirms-new-ebola-outbreak-in-remote-congo-province/",
-      "source": "Google News Rural Outbreaks",
+      "resolved_url": "https://www.sabcnews.com/sabcnews/ebola-outbreak-confirmed-in-drcs-ituri-province/",
+      "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:43.444970+00:00",
+      "source_cached_at": "2026-05-15T15:48:53.088291+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
-      "source_url": "https://www.clickorlando.com/news/world/2026/05/15/africas-top-health-body-confirms-new-ebola-outbreak-in-remote-congo-province/",
+      "source_url": "https://www.sabcnews.com/sabcnews/ebola-outbreak-confirmed-in-drcs-ituri-province/",
       "story_id": null,
       "story_status": "",
-      "summary": "\u201cFour deaths have been reported among laboratory-confirmed cases. The deaths and suspected cases have been recorded mainly in the Mongwalu and Rwampara health zones, the Africa Centres for Disease Control \u200band Prevention said in a statement. Suspected cases have also been reported in Bunia, pending confirmation,\u201d the agency said, referring to the capital of Ituri province, near the border with Uganda.",
-      "title": "Africa's top health body confirms new Ebola outbreak in remote Congo province",
+      "summary": "It said about 246 suspected cases and 65 deaths had been reported, mainly in the Mongwalu and Rwampara health zones, while four deaths had been reported among laboratory-confirmed cases. The World Health Organisation on Thursday said 48 cases of Ebola have been confirmed in the Democratic Republic of Congo and 31 people have died. The Africa Centres for Disease Control and Prevention said in a statement that it was convening an urgent meeting with Congo , Uganda, South Sudan and global partners to reinforce cross-border surveillance, preparedness and response efforts.",
+      "title": "Ebola outbreak confirmed in DRC\u2019s Ituri province",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Central Africa Outbreaks",
+      "canonical_url": "https://runcornandwidnesworld.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
+      "content_class": "live_outbreak_development",
+      "country": "United Kingdom",
+      "display_source": "Runcorn and Widnes World",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "africa"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_2d3d69a56a21d191",
+      "journal": null,
+      "link_quality": "resolved_article",
+      "local_signal": true,
+      "low_detail": false,
+      "official": false,
+      "preferred_url": "https://www.runcornandwidnesworld.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/",
+      "preferred_url_kind": "resolved_article",
+      "published_at": "2026-05-15T08:19+00:00",
+      "publisher": "Runcorn and Widnes World",
+      "publisher_access": "unknown",
+      "publisher_name": "Runcorn and Widnes World",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWjJmNVJPcXNPU2o5NG53SEZ2MjRIWnlseDIwNlFxdlNfRldQamtURTdhTE9fRU1LcHdSOTJRaWZ3WDYyYnRJbnBUbW1MSHc1dVZFekExNHpHQ3NEbFlJckNiNFRsWTF6d0VjZUktNDVDWFdDYXdNV1VTcThiUU9GenVBQ2VVaUtjbjlCckZwSVVhbjdPS1RScExiSXNTdkZhc3BfWXVCR3N6NXlySjZvRW1DZGFaWUpJX1B3a01zcFlKT0pDVm02Ul9zTEVlQQ?oc=5",
+      "region": "Africa",
+      "relevance_score": 5,
+      "resolved_url": "https://www.runcornandwidnesworld.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/",
+      "source": "Google News Central Africa Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-15T15:48:53.547181+00:00",
+      "source_confidence": "general_outlet",
+      "source_type": "rss",
+      "source_url": "https://www.runcornandwidnesworld.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/",
+      "story_id": null,
+      "story_status": "",
+      "summary": "More Public notices Newsletters Jobs Book an ad Cars Homes Local listings Local info Public notices Newsletters Jobs Book an ad Cars Homes Local listings Local info Africa\u2019s top public health body has confirmed a new Ebola outbreak in Congo\u2019s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far. \u201cFour deaths have been reported among laboratory-confirmed cases. The deaths and suspected cases have been recorded mainly in the Mongwalu and Rwampara health zones, the Africa Centres for Disease Control and Prevention said in a statement.",
+      "title": "Dozens dead in new Ebola outbreak in remote DR Congo province, officials say",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2053,7 +2205,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:50:19.209582+00:00",
+      "source_cached_at": "2026-05-15T15:47:42.477682+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451",
@@ -2063,7 +2215,7 @@
       "title": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2103,7 +2255,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:50:19.209582+00:00",
+      "source_cached_at": "2026-05-15T15:47:42.477682+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
@@ -2113,7 +2265,7 @@
       "title": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2150,7 +2302,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
-      "source_cache_age_hours": 1.11,
+      "source_cache_age_hours": 3.06,
       "source_cached_at": "2026-05-15T12:44:50.140148+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -2161,7 +2313,7 @@
       "title": "Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2198,7 +2350,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
-      "source_cache_age_hours": 1.11,
+      "source_cache_age_hours": 3.06,
       "source_cached_at": "2026-05-15T12:44:50.140148+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -2209,7 +2361,7 @@
       "title": "Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2246,7 +2398,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Epidemiology",
-      "source_cache_age_hours": 1.12,
+      "source_cache_age_hours": 3.07,
       "source_cached_at": "2026-05-15T12:44:29.974308+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -2257,7 +2409,7 @@
       "title": "Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2296,7 +2448,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:30.675172+00:00",
+      "source_cached_at": "2026-05-15T15:48:36.115365+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42116803/",
@@ -2306,7 +2458,7 @@
       "title": "The impact of nonpharmaceutical interventions (NPIs) on rabies post-exposure prophylaxis: A comparative study in Wuhan, 2022 vs. 2023.",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2345,7 +2497,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:30.675172+00:00",
+      "source_cached_at": "2026-05-15T15:48:36.115365+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42116765/",
@@ -2355,7 +2507,7 @@
       "title": "Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2395,7 +2547,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than",
       "source": "Google News South Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:46.605182+00:00",
+      "source_cached_at": "2026-05-15T15:48:54.758402+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than",
@@ -2405,7 +2557,7 @@
       "title": "Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2445,7 +2597,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality",
       "source": "Google News Southeast Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:47.735705+00:00",
+      "source_cached_at": "2026-05-15T15:48:55.897245+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality",
@@ -2455,57 +2607,7 @@
       "title": "Bangladesh: H5N1 avian influenza fatality in Chattogram child",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-15T06:52:37",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Central Africa Outbreaks",
-      "canonical_url": "https://localmemphis.com/article/news/nation-world/ebola-outbreak-democratic-republic-of-the-congo/507-8e27e5b4-94d3-4b55-a885-63b2c5d4747e",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "",
-      "display_source": "localmemphis.com",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "africa"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_361861c3f2434bc1",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": true,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://www.localmemphis.com/article/news/nation-world/ebola-outbreak-democratic-republic-of-the-congo/507-8e27e5b4-94d3-4b55-a885-63b2c5d4747e",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-15T09:36+00:00",
-      "publisher": "localmemphis.com",
-      "publisher_access": "unknown",
-      "publisher_name": "localmemphis.com",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWNIbnFkc1l5cW9NZk9mMnBrdEVXWTN2TWpOSXpRVE1hLWxjY3lRZ04zMVNnYlgxWU1NSTMyX0Jma2ZMQ2tucFlXVnpDenhJQUdnbmw3MEttYnlVenZNVUZ2cUxxdEZ1UTM1REJDZDR1SUN5TGxvQ0d2V092TnR1Yk5JWU13eGJrYXBKREYzYVhub2lEcXdPOFhpeDZSYzhBM0lLQy1ZRVRJVlZ3ekFWZTJIMU1yOG9YSWR3U1lrTldPUnBUU2U5clhEWUl0Z0ZfRGdRSEJlbS1YNUU?oc=5",
-      "region": "Africa",
-      "relevance_score": 4,
-      "resolved_url": "https://www.localmemphis.com/article/news/nation-world/ebola-outbreak-democratic-republic-of-the-congo/507-8e27e5b4-94d3-4b55-a885-63b2c5d4747e",
-      "source": "Google News Central Africa Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:45.436945+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://www.localmemphis.com/article/news/nation-world/ebola-outbreak-democratic-republic-of-the-congo/507-8e27e5b4-94d3-4b55-a885-63b2c5d4747e",
-      "story_id": null,
-      "story_status": "",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "A new Ebola outbreak is spreading through a remote Congo province, with 65 deaths recorded",
-      "topic_id": "topic_900601687147a144",
-      "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2544,7 +2646,7 @@
       "resolved_url": "https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/",
       "source": "Google News California Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:49.179319+00:00",
+      "source_cached_at": "2026-05-15T15:49:00.784845+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/",
@@ -2554,57 +2656,7 @@
       "title": "5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News India Outbreaks",
-      "canonical_url": "https://freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "live_outbreak_development",
-      "country": "United Kingdom",
-      "display_source": "Free Press Journal",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "asia"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_f65435821177c50d",
-      "journal": null,
-      "link_quality": "resolved_article",
-      "local_signal": true,
-      "low_detail": false,
-      "official": false,
-      "preferred_url": "https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing",
-      "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-13T15:11+00:00",
-      "publisher": "Free Press Journal",
-      "publisher_access": "unknown",
-      "publisher_name": "Free Press Journal",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWJrMVdNMnhyLUpvUFlFN291Tm5rSHdDc3Z4aHlyVHBRYklHRnlTdGpVcmt6Z2JXekUyRmQ4VkcxcGRuNVljWGJLOEo3R3V3eXpCSjl6aXhSTXRzd3R4WWswMEpXX1NHUDVWQk1GbUFYYzNrdFM2UXkyOXI1aEgwdDFBWlEtbFdrUHRaRkxDSjZwSEF0YnlBOTdmVVhRRkZpc3pLUFVoUVR3OUJvWjUxMWVsU2licXYtR3N0a2RUYVVVUEVhZlRwbzdzUdIB0AFBVV95cUxPajF5UGZJMjY3N1NBRVQ0MUF2b2ZUc2psNkF3TkNISnpNYUdSd24xS1RmMjZqaDhpRk5JcWs3TU5yT3BVNDcycmRmaW0wQmUxek1ZQzVIeF9DMDVaTno3bHYtN2dpbFoycF9Mb21NUlRwb3daRUNia0hFblZKSGhYVlRaREFtV2xoVlZQazh1eEJ2bTdZZ29pd2R6OTFTMXlSTG5OMnRTQ0dnRTdDaTQzVGRlNkRROXlVcWhYbTBhXzRCNmFfMUkzTk91NVNIdEtB?oc=5",
-      "region": "South Asia",
-      "relevance_score": 4,
-      "resolved_url": "https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing",
-      "source": "Google News India Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:47.068995+00:00",
-      "source_confidence": "general_outlet",
-      "source_type": "rss",
-      "source_url": "https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing",
-      "story_id": "story_ccfeaff28d46baf6",
-      "story_status": "active_investigation",
-      "summary": "Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman\u2019s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.",
-      "title": "Maharashtra: Dengue Scare In Uran\u2019s Chanje Village After Woman\u2019s Death; Samples Sent For Testing",
-      "topic_id": "topic_ccfeaff28d46baf6",
-      "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2643,7 +2695,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:30.675172+00:00",
+      "source_cached_at": "2026-05-15T15:48:36.115365+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42113958/",
@@ -2653,7 +2705,7 @@
       "title": "Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2692,7 +2744,7 @@
       "resolved_url": null,
       "source": "CDC Current Outbreak List",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:50:19.444430+00:00",
+      "source_cached_at": "2026-05-15T15:47:42.831224+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
@@ -2702,7 +2754,7 @@
       "title": "Coronavirus Disease 2019 (COVID-19)",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2741,7 +2793,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:30.675172+00:00",
+      "source_cached_at": "2026-05-15T15:48:36.115365+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42133835/",
@@ -2751,7 +2803,7 @@
       "title": "Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -2790,7 +2842,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:30.675172+00:00",
+      "source_cached_at": "2026-05-15T15:48:36.115365+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42132838/",
@@ -2800,7 +2852,7 @@
       "title": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -2838,7 +2890,7 @@
       "resolved_url": "https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:36.625794+00:00",
+      "source_cached_at": "2026-05-15T15:48:42.371772+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/",
@@ -2848,7 +2900,7 @@
       "title": "Fact Check: Andes strain of hantavirus is transmissible in humans",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2887,7 +2939,7 @@
       "resolved_url": "https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:36.064701+00:00",
+      "source_cached_at": "2026-05-15T15:48:41.654566+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed",
@@ -2897,7 +2949,7 @@
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2936,7 +2988,7 @@
       "resolved_url": "https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:38.273088+00:00",
+      "source_cached_at": "2026-05-15T15:48:44.413836+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/",
@@ -2946,7 +2998,7 @@
       "title": "WHO chief says \"work not over\" after evacuation of hantavirus-stricken cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2985,7 +3037,7 @@
       "resolved_url": "https://www.bbc.com/news/articles/cn4pq1y1zjgo",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:36.625794+00:00",
+      "source_cached_at": "2026-05-15T15:48:42.371772+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.bbc.com/news/articles/cn4pq1y1zjgo",
@@ -2995,7 +3047,7 @@
       "title": "What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3034,7 +3086,7 @@
       "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:36.625794+00:00",
+      "source_cached_at": "2026-05-15T15:48:42.371772+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/",
@@ -3044,7 +3096,7 @@
       "title": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3083,7 +3135,7 @@
       "resolved_url": "https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:36.064701+00:00",
+      "source_cached_at": "2026-05-15T15:48:41.654566+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation",
@@ -3093,7 +3145,7 @@
       "title": "American cruise ship passenger tests positive for hantavirus after evacuation",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3132,7 +3184,7 @@
       "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:36.625794+00:00",
+      "source_cached_at": "2026-05-15T15:48:42.371772+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-seven-cases-hantavirus-confirmed-cruise-ship-2026-05-11/",
@@ -3142,7 +3194,7 @@
       "title": "WHO says seven cases of hantavirus confirmed from cruise ship",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3181,7 +3233,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus and Cruise Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:37.655899+00:00",
+      "source_cached_at": "2026-05-15T15:48:43.693637+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTZWRnJKRW80UDVpWnhYcjVURGlTaUxjZXlrUHIxY0hKeGIxZ0h0b2FjQTZoeGxqUlNmTjZoZXNDZzlPTXU2S1dmLS1PMnpoX2VhcUQ4UGR5RDJIaXJ1UnhhVmx1NDJBRWt5bzhPZURCV0s0dUZTejE0MHB3enRMSmxham9mNmdGUXRScTkxNWxXaFFLalEtY3ZKM2NlcEF1NDgxbzdxWENGZTh4RzRrQzJTNVRYY0ZweHdyTDdqX19Sal9VMFE?oc=5",
@@ -3191,7 +3243,7 @@
       "title": "Evacuation flights leave Tenerife after cruise ship virus outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3230,7 +3282,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:38.273088+00:00",
+      "source_cached_at": "2026-05-15T15:48:44.413836+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkdZc2lRVkRBeHBQLVdvYkR5S3VvLXVLZ0NmNTlIb25IX01xOTV3WnFackFhenlnNGxaUzdDQ2hfdkxEVmthRTVaR1JKbi1BOWFQLVo4T3lrOERuTVBmc2FfYlZNSFdaZXE5dGpXdDQ4XzN4Qkc2TXFEMDlTQnNyR3ZCUGtkSjRBNnVmSl90eG1JQTZrN2RDMGUzSmlWZ0tFRTF4eWNaSzFJMHB1anN1Nkd4dHdVd0sxOVFtbFR1QThvLVlkTEtWM2QxQzU?oc=5",
@@ -3240,7 +3292,7 @@
       "title": "Evacuated US and French MV Hondius passengers test positive for hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3279,7 +3331,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:38.273088+00:00",
+      "source_cached_at": "2026-05-15T15:48:44.413836+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVoteDROS3dnNXhsOUI4Q2tGVVh1eW8ycGFSakt2b3RlXy1TRndyMVlFd3Y3SWpLVUphd2UzS3BnREZLZzFSTUQ4ZHlxcXF3UUlYZk0ya3Q0b0NTT3BxLWhLVC16bzhNMGt6akFfdmozRVo1OWhqRVNoTnUyblZvVnFIaHM0LWU5bnd1Zmd6NUtLUHVaSF8xSHltWE50WGw0eEk0dw?oc=5",
@@ -3289,7 +3341,7 @@
       "title": "Americans evacuated from hantavirus-stricken cruise ship off Spanish island",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3328,7 +3380,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:38.273088+00:00",
+      "source_cached_at": "2026-05-15T15:48:44.413836+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5",
@@ -3338,7 +3390,56 @@
       "title": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Sky Hantavirus Watch",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "United Kingdom",
+      "display_source": "Sky News",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_722dd34f571990d2",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-10T22:40+00:00",
+      "publisher": "Sky News",
+      "publisher_access": "open",
+      "publisher_name": "Sky News",
+      "publisher_tier": "major_newsroom",
+      "raw_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5",
+      "region": "Global / Maritime",
+      "relevance_score": 3,
+      "resolved_url": null,
+      "source": "Google News Sky Hantavirus Watch",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-15T15:48:45.111156+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5",
+      "story_id": "story_f6d225b01f3f7094",
+      "story_status": "expanding_coverage",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Plane carrying Britons lands in UK after evacuation from hantavirus cruise ship",
+      "topic_id": "topic_f6d225b01f3f7094",
+      "topic_name": "Hantavirus and cruise-ship outbreak",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3377,7 +3478,7 @@
       "resolved_url": null,
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:36.064701+00:00",
+      "source_cached_at": "2026-05-15T15:48:41.654566+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5",
@@ -3387,7 +3488,7 @@
       "title": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3426,7 +3527,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:38.273088+00:00",
+      "source_cached_at": "2026-05-15T15:48:44.413836+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5",
@@ -3436,7 +3537,7 @@
       "title": "Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3475,7 +3576,7 @@
       "resolved_url": null,
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:40.676114+00:00",
+      "source_cached_at": "2026-05-15T15:48:47.385226+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi?oc=5",
@@ -3485,7 +3586,7 @@
       "title": "Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3524,7 +3625,7 @@
       "resolved_url": null,
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:38.273088+00:00",
+      "source_cached_at": "2026-05-15T15:48:44.413836+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1ZNUnJYSkpRM29CTFFRNzJrejhzQlBhTzlUWWFzUFZ4cUQ5dFlBQ05WSWlxNzJJRlM4YUR4Q0dqZnpWNXZQY3JWaTBJSG1BeUk3c21nanJZTktGWU50S0M4aWJlaE1XdXA3SGlxNDlkMk8xVF9nLWhiT2NjYjhiOVVZeEduR2xCSGRuMVhacmxSSlpkbWRWUDQ3a0Fhc0tBOWNxTlIxVElkY1pqbmFBamFLNlZ2Zm91a1NUMUd5TzV4emNiSnNRUw?oc=5",
@@ -3534,56 +3635,7 @@
       "title": "Countries prepare to evacuate hantavirus ship passengers",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Sky Hantavirus Watch",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzVsdjZOamZfNzMyT1BZeF81ZXZtNVJBRkQ0YjMzcmtKeVFpZFVZUFVSUlF6X20yNnh2LWJaX2JRWEFxMnlYeHBWOS1QS2h0dDhRRklnNHpENnJLdl9CcXdzMVJmWkIxcDYtdWFnVGFpNF9CWkVjQVo0OWxoSjZ4UjdiRE9mNmprQ0lUYVJoSjdWQUUyVnROaW1DdFEyNFNVS09YckJocGlkUlpiQWdETl9RdjNFMzJENk50a2JLcmJKZw?oc=5",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "Spain",
-      "display_source": "Sky News",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_6e8d06aa74c15296",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": false,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzVsdjZOamZfNzMyT1BZeF81ZXZtNVJBRkQ0YjMzcmtKeVFpZFVZUFVSUlF6X20yNnh2LWJaX2JRWEFxMnlYeHBWOS1QS2h0dDhRRklnNHpENnJLdl9CcXdzMVJmWkIxcDYtdWFnVGFpNF9CWkVjQVo0OWxoSjZ4UjdiRE9mNmprQ0lUYVJoSjdWQUUyVnROaW1DdFEyNFNVS09YckJocGlkUlpiQWdETl9RdjNFMzJENk50a2JLcmJKZw?oc=5",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-09T09:20+00:00",
-      "publisher": "Sky News",
-      "publisher_access": "open",
-      "publisher_name": "Sky News",
-      "publisher_tier": "major_newsroom",
-      "raw_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzVsdjZOamZfNzMyT1BZeF81ZXZtNVJBRkQ0YjMzcmtKeVFpZFVZUFVSUlF6X20yNnh2LWJaX2JRWEFxMnlYeHBWOS1QS2h0dDhRRklnNHpENnJLdl9CcXdzMVJmWkIxcDYtdWFnVGFpNF9CWkVjQVo0OWxoSjZ4UjdiRE9mNmprQ0lUYVJoSjdWQUUyVnROaW1DdFEyNFNVS09YckJocGlkUlpiQWdETl9RdjNFMzJENk50a2JLcmJKZw?oc=5",
-      "region": "Global / Maritime",
-      "relevance_score": 3,
-      "resolved_url": null,
-      "source": "Google News Sky Hantavirus Watch",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:39.013804+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzVsdjZOamZfNzMyT1BZeF81ZXZtNVJBRkQ0YjMzcmtKeVFpZFVZUFVSUlF6X20yNnh2LWJaX2JRWEFxMnlYeHBWOS1QS2h0dDhRRklnNHpENnJLdl9CcXdzMVJmWkIxcDYtdWFnVGFpNF9CWkVjQVo0OWxoSjZ4UjdiRE9mNmprQ0lUYVJoSjdWQUUyVnROaW1DdFEyNFNVS09YckJocGlkUlpiQWdETl9RdjNFMzJENk50a2JLcmJKZw?oc=5",
-      "story_id": "story_f6d225b01f3f7094",
-      "story_status": "expanding_coverage",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "Hantavirus figures updated - as cruise ship at centre of outbreak nears the Canary Islands",
-      "topic_id": "topic_f6d225b01f3f7094",
-      "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3622,7 +3674,7 @@
       "resolved_url": "https://nz.news.yahoo.com/could-hantavirus-outbreak-become-next-104452701.html",
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:40.676114+00:00",
+      "source_cached_at": "2026-05-15T15:48:47.385226+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://nz.news.yahoo.com/could-hantavirus-outbreak-become-next-104452701.html",
@@ -3632,12 +3684,62 @@
       "title": "Could the hantavirus outbreak become the next Covid pandemic? Expert gives their verdict",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
       "abstract_url": null,
       "aggregator_source": "Google News Outbreaks",
+      "canonical_url": "https://cureus.com/articles/492228-co-infection-of-dengue-and-malaria-complicated-with-acute-respiratory-distress-syndrome-ards-in-a-critically-ill-patient-a-case-report-from-a-tertiary-care-center-in-jharkhand-india",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "India",
+      "display_source": "Cureus",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "asia"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_8ee7addf6d9003a1",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://www.cureus.com/articles/492228-co-infection-of-dengue-and-malaria-complicated-with-acute-respiratory-distress-syndrome-ards-in-a-critically-ill-patient-a-case-report-from-a-tertiary-care-center-in-jharkhand-india",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-15T15:11+00:00",
+      "publisher": "Cureus",
+      "publisher_access": "unknown",
+      "publisher_name": "Cureus",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWEMwWUVkVTZEVmV4ZmIyWWpsbzBmZ2hlcDdrNjJrbHR6X3RlM21RTTZIallaWnBNdUl5RXRfck8zSmxvelEyVThSMmxzMmNyREhpbjdpM05pSWdnbUh6QTUtUUg4ODdkdW41eVE1WlhtNGc4c3dYME5CQXVxcDQtTDhTQVBmVlZiMEtDRmtMNjlhSWk1eWxzVlFSU2dCeWI1ejVQSXBUWXdpdnd6R0d4N2RQdkFENUFoUnB3dDUtVHBpWjljSUZBVW9YT1VubkhSQmROVi1paU13SDZ0T0Jlek84OXpyb09CMmVPOWUyN1c2Y3dzQmxvMUFacUJIamR6N2dLdC14eEFTdjVSS24xNll0c1RvNTQ2Q1JON0ZwZ0lSNFpORG9hTnVTLW10ckY1MzlVWFZkRnd5UnVxZmp4RjRR?oc=5",
+      "region": "South Asia",
+      "relevance_score": 1,
+      "resolved_url": "https://www.cureus.com/articles/492228-co-infection-of-dengue-and-malaria-complicated-with-acute-respiratory-distress-syndrome-ards-in-a-critically-ill-patient-a-case-report-from-a-tertiary-care-center-in-jharkhand-india",
+      "source": "Google News Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-15T15:48:41.654566+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://www.cureus.com/articles/492228-co-infection-of-dengue-and-malaria-complicated-with-acute-respiratory-distress-syndrome-ards-in-a-critically-ill-patient-a-case-report-from-a-tertiary-care-center-in-jharkhand-india",
+      "story_id": "story_ccfeaff28d46baf6",
+      "story_status": "active_investigation",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Co-infection of Dengue and Malaria Complicated With Acute Respiratory Distress Syndrome (ARDS) in a Critically Ill Patient: A Case Report From a Tertiary Care Center in Jharkhand, India",
+      "topic_id": "topic_ccfeaff28d46baf6",
+      "topic_name": "Dengue and arboviruses",
+      "updated_at": "2026-05-15T08:51:04",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Hemorrhagic Fever and Zoonoses",
       "canonical_url": "https://focustaiwan.tw/society/202605150019",
       "category": "Outbreaks and emerging infections",
       "caveats": "Usable source detail was limited after cleanup.",
@@ -3670,9 +3772,9 @@
       "region": "East Asia",
       "relevance_score": 1,
       "resolved_url": "https://focustaiwan.tw/society/202605150019",
-      "source": "Google News Outbreaks",
+      "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-15T13:51:36.064701+00:00",
+      "source_cached_at": "2026-05-15T15:48:47.385226+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://focustaiwan.tw/society/202605150019",
@@ -3682,7 +3784,7 @@
       "title": "No community risk from cruise passenger linked to hantavirus outbreak: CDC",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     }
   ],
@@ -3750,7 +3852,7 @@
       "related_stories": [
         {
           "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Focus Taiwan.",
+          "latest_update_summary": "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
           "story_id": "story_f6d225b01f3f7094",
           "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
           "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -4240,7 +4342,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Cureus.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -5600,7 +5702,7 @@
       "why_reporters_care": "Zika matters because congenital outcomes, pregnancy guidance, travel messaging, and mosquito ecology can turn a mild-adult disease story into a major public-health communications event."
     }
   ],
-  "run_id": "run_d2167db3e5a00e5c",
+  "run_id": "run_b89ad5ce7c8110e1",
   "search_window": "7 day(s) ending 2026-05-15",
   "source_failures": [
     {
@@ -5617,7 +5719,7 @@
   "source_health": [
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:50:18.622737+00:00",
+      "cached_at": "2026-05-15T15:47:41.818789+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5627,7 +5729,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:50:19.209931+00:00",
+      "cached_at": "2026-05-15T15:47:42.477930+00:00",
       "error": null,
       "item_count": 300,
       "mode": "live",
@@ -5637,7 +5739,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:50:19.318628+00:00",
+      "cached_at": "2026-05-15T15:47:42.601003+00:00",
       "error": null,
       "item_count": 66,
       "mode": "live",
@@ -5647,7 +5749,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:50:19.444449+00:00",
+      "cached_at": "2026-05-15T15:47:42.831264+00:00",
       "error": null,
       "item_count": 6,
       "mode": "live",
@@ -5657,7 +5759,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:50:19.802159+00:00",
+      "cached_at": "2026-05-15T15:47:43.032686+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5667,7 +5769,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:50:20.790477+00:00",
+      "cached_at": "2026-05-15T15:47:44.365130+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5677,7 +5779,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:00.155772+00:00",
+      "cached_at": "2026-05-15T15:48:04.725579+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5697,7 +5799,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:20.130337+00:00",
+      "cached_at": "2026-05-15T15:48:25.359747+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5707,7 +5809,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:20.219554+00:00",
+      "cached_at": "2026-05-15T15:48:25.462197+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -5717,7 +5819,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:20.606198+00:00",
+      "cached_at": "2026-05-15T15:48:26.112993+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5727,7 +5829,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:21.036639+00:00",
+      "cached_at": "2026-05-15T15:48:26.465814+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -5747,7 +5849,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:30.675220+00:00",
+      "cached_at": "2026-05-15T15:48:36.115404+00:00",
       "error": null,
       "item_count": 25,
       "mode": "live",
@@ -5756,7 +5858,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 1.12,
+      "cache_age_hours": 3.07,
       "cached_at": "2026-05-15T12:44:29.974308+00:00",
       "error": null,
       "item_count": 1,
@@ -5767,7 +5869,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:30.902484+00:00",
+      "cached_at": "2026-05-15T15:48:36.469704+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5776,7 +5878,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 1.11,
+      "cache_age_hours": 3.06,
       "cached_at": "2026-05-15T12:44:50.140148+00:00",
       "error": null,
       "item_count": 5,
@@ -5787,7 +5889,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:31.633902+00:00",
+      "cached_at": "2026-05-15T15:48:37.550308+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5797,7 +5899,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:33.421322+00:00",
+      "cached_at": "2026-05-15T15:48:39.020349+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5807,7 +5909,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:34.863637+00:00",
+      "cached_at": "2026-05-15T15:48:40.427719+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5816,7 +5918,7 @@
       "source_type": "biorxiv"
     },
     {
-      "cache_age_hours": 1.11,
+      "cache_age_hours": 3.06,
       "cached_at": "2026-05-15T12:44:57.765125+00:00",
       "error": null,
       "item_count": 19,
@@ -5826,7 +5928,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 1.11,
+      "cache_age_hours": 3.06,
       "cached_at": "2026-05-15T12:44:58.253291+00:00",
       "error": null,
       "item_count": 16,
@@ -5836,7 +5938,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 1.11,
+      "cache_age_hours": 3.06,
       "cached_at": "2026-05-15T12:44:58.779280+00:00",
       "error": null,
       "item_count": 10,
@@ -5846,7 +5948,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 1.11,
+      "cache_age_hours": 3.06,
       "cached_at": "2026-05-15T12:44:59.172679+00:00",
       "error": null,
       "item_count": 4,
@@ -5857,7 +5959,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:35.019100+00:00",
+      "cached_at": "2026-05-15T15:48:40.742046+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5867,7 +5969,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:35.505928+00:00",
+      "cached_at": "2026-05-15T15:48:40.897075+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5877,7 +5979,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:36.064816+00:00",
+      "cached_at": "2026-05-15T15:48:41.654684+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5887,7 +5989,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:36.625901+00:00",
+      "cached_at": "2026-05-15T15:48:42.371886+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5897,9 +5999,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:37.122295+00:00",
+      "cached_at": "2026-05-15T15:48:43.032149+00:00",
       "error": null,
-      "item_count": 79,
+      "item_count": 67,
       "mode": "live",
       "official": false,
       "source": "Google News Global Health Reporting",
@@ -5907,9 +6009,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:37.656003+00:00",
+      "cached_at": "2026-05-15T15:48:43.693742+00:00",
       "error": null,
-      "item_count": 74,
+      "item_count": 75,
       "mode": "live",
       "official": false,
       "source": "Google News Hantavirus and Cruise Outbreaks",
@@ -5917,7 +6019,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:38.273202+00:00",
+      "cached_at": "2026-05-15T15:48:44.413950+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5927,7 +6029,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:39.013878+00:00",
+      "cached_at": "2026-05-15T15:48:45.111247+00:00",
       "error": null,
       "item_count": 60,
       "mode": "live",
@@ -5937,7 +6039,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:39.500034+00:00",
+      "cached_at": "2026-05-15T15:48:45.958509+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5947,7 +6049,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:39.994176+00:00",
+      "cached_at": "2026-05-15T15:48:46.672440+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5957,7 +6059,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:40.676217+00:00",
+      "cached_at": "2026-05-15T15:48:47.385343+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5967,9 +6069,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:41.200067+00:00",
+      "cached_at": "2026-05-15T15:48:48.743909+00:00",
       "error": null,
-      "item_count": 100,
+      "item_count": 0,
       "mode": "live",
       "official": false,
       "source": "Google News Vaccine-preventable Outbreaks",
@@ -5977,7 +6079,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:41.756741+00:00",
+      "cached_at": "2026-05-15T15:48:49.454056+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5987,7 +6089,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:42.432331+00:00",
+      "cached_at": "2026-05-15T15:48:50.066380+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5997,7 +6099,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:42.920206+00:00",
+      "cached_at": "2026-05-15T15:48:50.618279+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6007,7 +6109,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:43.445089+00:00",
+      "cached_at": "2026-05-15T15:48:51.461010+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6017,7 +6119,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:43.976252+00:00",
+      "cached_at": "2026-05-15T15:48:52.108057+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6027,9 +6129,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:44.515645+00:00",
+      "cached_at": "2026-05-15T15:48:52.633344+00:00",
       "error": null,
-      "item_count": 31,
+      "item_count": 35,
       "mode": "live",
       "official": false,
       "source": "Google News West Africa Outbreaks",
@@ -6037,9 +6139,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:45.031096+00:00",
+      "cached_at": "2026-05-15T15:48:53.088356+00:00",
       "error": null,
-      "item_count": 35,
+      "item_count": 23,
       "mode": "live",
       "official": false,
       "source": "Google News East Africa Outbreaks",
@@ -6047,9 +6149,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:45.436988+00:00",
+      "cached_at": "2026-05-15T15:48:53.547234+00:00",
       "error": null,
-      "item_count": 16,
+      "item_count": 17,
       "mode": "live",
       "official": false,
       "source": "Google News Central Africa Outbreaks",
@@ -6057,9 +6159,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:45.972741+00:00",
+      "cached_at": "2026-05-15T15:48:54.138989+00:00",
       "error": null,
-      "item_count": 53,
+      "item_count": 51,
       "mode": "live",
       "official": false,
       "source": "Google News Southern Africa Outbreaks",
@@ -6067,9 +6169,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:46.605289+00:00",
+      "cached_at": "2026-05-15T15:48:54.758480+00:00",
       "error": null,
-      "item_count": 79,
+      "item_count": 80,
       "mode": "live",
       "official": false,
       "source": "Google News South Asia Outbreaks",
@@ -6077,9 +6179,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:47.069043+00:00",
+      "cached_at": "2026-05-15T15:48:55.208447+00:00",
       "error": null,
-      "item_count": 24,
+      "item_count": 18,
       "mode": "live",
       "official": false,
       "source": "Google News India Outbreaks",
@@ -6087,7 +6189,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:47.735836+00:00",
+      "cached_at": "2026-05-15T15:48:55.897364+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6097,9 +6199,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:48.551956+00:00",
+      "cached_at": "2026-05-15T15:49:00.108614+00:00",
       "error": null,
-      "item_count": 100,
+      "item_count": 0,
       "mode": "live",
       "official": false,
       "source": "Google News Latin America Outbreaks",
@@ -6107,7 +6209,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:49.179416+00:00",
+      "cached_at": "2026-05-15T15:49:00.784969+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6117,9 +6219,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:49.597399+00:00",
+      "cached_at": "2026-05-15T15:49:01.315427+00:00",
       "error": null,
-      "item_count": 37,
+      "item_count": 51,
       "mode": "live",
       "official": false,
       "source": "Google News New York Public Health",
@@ -6127,9 +6229,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:49.945461+00:00",
+      "cached_at": "2026-05-15T15:49:01.785547+00:00",
       "error": null,
-      "item_count": 40,
+      "item_count": 46,
       "mode": "live",
       "official": false,
       "source": "Google News Historical Epi",
@@ -6137,7 +6239,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:50.360722+00:00",
+      "cached_at": "2026-05-15T15:49:02.288864+00:00",
       "error": null,
       "item_count": 44,
       "mode": "live",
@@ -6147,9 +6249,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:50.879998+00:00",
+      "cached_at": "2026-05-15T15:49:02.710597+00:00",
       "error": null,
-      "item_count": 51,
+      "item_count": 54,
       "mode": "live",
       "official": false,
       "source": "Google News Historical Disease Cases",
@@ -6157,9 +6259,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-15T13:51:51.210514+00:00",
+      "cached_at": "2026-05-15T15:49:03.090259+00:00",
       "error": null,
-      "item_count": 16,
+      "item_count": 15,
       "mode": "live",
       "official": false,
       "source": "Google News Historical Public Health",
@@ -6175,7 +6277,7 @@
         "new_geography"
       ],
       "content_class": "tracked_outbreak_file",
-      "country": "Spain",
+      "country": "United Kingdom",
       "current_status_summary": "Expanding coverage",
       "display_title": "Hantavirus and cruise-ship outbreak",
       "editions": [
@@ -6209,23 +6311,22 @@
         "item_2944f964ae33479d",
         "item_22aef6df4f2f96e4",
         "item_592d71394c18b7eb",
+        "item_722dd34f571990d2",
         "item_92e3a055e91bb3b9",
-        "item_ff541e299ee7c4e5",
-        "item_471c266bc92e1ff3"
+        "item_ff541e299ee7c4e5"
       ],
       "latest_timestamp": "2026-05-14T00:49+00:00",
       "latest_update_bullets": [
-        "New publisher/source coverage joined this story cluster: Focus Taiwan.",
         "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
-        "Story volume increased from 19 to 20 clustered item(s) in the current window.",
-        "8 newly observed linked item(s) were added since the last saved snapshot."
+        "Story volume increased from 18 to 19 clustered item(s) in the current window.",
+        "9 newly observed linked item(s) were added since the last saved snapshot."
       ],
-      "latest_update_summary": "New publisher/source coverage joined this story cluster: Focus Taiwan.",
-      "latest_updated_at": "2026-05-15T06:32:07",
+      "latest_update_summary": "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
+      "latest_updated_at": "2026-05-15T08:51:04",
       "lead_source": "CBS News",
       "lead_title": "5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases",
       "lead_url": "https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/",
-      "new_since_last_refresh": false,
+      "new_since_last_refresh": true,
       "official_item_ids": [],
       "press_item_ids": [
         "item_2b2dd5df91458083",
@@ -6240,11 +6341,11 @@
         "item_2944f964ae33479d",
         "item_22aef6df4f2f96e4",
         "item_592d71394c18b7eb",
+        "item_722dd34f571990d2",
         "item_92e3a055e91bb3b9",
         "item_ff541e299ee7c4e5",
         "item_471c266bc92e1ff3",
         "item_e64da450f9333cd1",
-        "item_6e8d06aa74c15296",
         "item_a650f30b88762cd0",
         "item_06534ea4543f0c02"
       ],
@@ -9212,11 +9313,40 @@
           "story_id": "story_f6d225b01f3f7094",
           "topic_name": "Hantavirus and cruise-ship outbreak",
           "update_id": "story_update_9ce913d05b27645e"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
+            "9 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T07:48:55",
+          "is_new_story": false,
+          "item_count": 18,
+          "run_id": "run_7d14cf46187e1155",
+          "source_count": 12,
+          "story_id": "story_f6d225b01f3f7094",
+          "topic_name": "Hantavirus and cruise-ship outbreak",
+          "update_id": "story_update_7bac0f0d7eb3fd87"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to 5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases from CBS News.",
+            "Story volume increased from 18 to 19 clustered item(s) in the current window.",
+            "9 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T08:51:04",
+          "is_new_story": false,
+          "item_count": 19,
+          "run_id": "run_b89ad5ce7c8110e1",
+          "source_count": 12,
+          "story_id": "story_f6d225b01f3f7094",
+          "topic_name": "Hantavirus and cruise-ship outbreak",
+          "update_id": "story_update_f3f90b67e8432381"
         }
       ],
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:52:37",
+      "updated_at": "2026-05-15T08:51:04",
       "what_happened": "5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases",
       "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
@@ -10542,14 +10672,12 @@
     },
     {
       "claim_types": [
-        "new_official_source",
-        "confirmed_case",
         "severity_or_death",
         "policy_or_travel",
         "new_geography"
       ],
       "content_class": "tracked_outbreak_file",
-      "country": "United Kingdom",
+      "country": "India",
       "current_status_summary": "Active investigation",
       "display_title": "Dengue and arboviruses",
       "editions": [
@@ -10575,31 +10703,31 @@
       "item_ids": [
         "item_a25caf0fefe6941b",
         "item_81ccc0c120d3b6a6",
-        "item_f65435821177c50d"
+        "item_8ee7addf6d9003a1"
       ],
       "latest_timestamp": "2026-05-14T17:00+00:00",
       "latest_update_bullets": [
-        "Outbreak News Today now includes deaths or fatal cases in the story frame.",
-        "2 newly observed linked item(s) were added since the last saved snapshot."
+        "New publisher/source coverage joined this story cluster: Cureus.",
+        "1 newly observed linked item(s) were added since the last saved snapshot."
       ],
-      "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
-      "latest_updated_at": "2026-05-15T06:32:07",
+      "latest_update_summary": "New publisher/source coverage joined this story cluster: Cureus.",
+      "latest_updated_at": "2026-05-15T08:51:04",
       "lead_source": "CDC MMWR",
       "lead_title": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "lead_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
-      "new_since_last_refresh": false,
+      "new_since_last_refresh": true,
       "official_item_ids": [
         "item_a25caf0fefe6941b"
       ],
       "press_item_ids": [
         "item_81ccc0c120d3b6a6",
-        "item_f65435821177c50d"
+        "item_8ee7addf6d9003a1"
       ],
       "primary_region": "South Asia",
       "publisher_family_count": 0,
       "publisher_names": [
         "CDC MMWR",
-        "Free Press Journal",
+        "Cureus",
         "Outbreak News Today"
       ],
       "related_reference_names": [
@@ -10618,9 +10746,9 @@
       ],
       "source_confidence_counts": {
         "aggregator_only": 0,
-        "general_outlet": 2,
+        "general_outlet": 1,
         "major_newsroom": 0,
-        "metadata_only_signal": 0,
+        "metadata_only_signal": 1,
         "official_agency": 1,
         "specialist_health": 0,
         "wire": 0
@@ -10628,16 +10756,16 @@
       "source_count": 3,
       "source_kind_counts": {
         "aggregator_only": 0,
-        "general_outlet": 2,
+        "general_outlet": 1,
         "major_newsroom": 0,
-        "metadata_only_signal": 0,
+        "metadata_only_signal": 1,
         "official": 1,
         "specialist_health": 0,
         "wire": 0
       },
       "source_names": [
         "CDC MMWR",
-        "Free Press Journal",
+        "Cureus",
         "Outbreak News Today"
       ],
       "status": "active_investigation",
@@ -10864,11 +10992,25 @@
           "story_id": "story_ccfeaff28d46baf6",
           "topic_name": "Dengue and arboviruses",
           "update_id": "story_update_25bac7183537d78d"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Cureus.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T08:51:04",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_b89ad5ce7c8110e1",
+          "source_count": 3,
+          "story_id": "story_ccfeaff28d46baf6",
+          "topic_name": "Dengue and arboviruses",
+          "update_id": "story_update_79b0ffc5506d0658"
         }
       ],
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-15T06:47:00",
+      "updated_at": "2026-05-15T08:51:04",
       "what_happened": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 2 newsroom source(s)."
     },
@@ -11287,6 +11429,23 @@
   "topic_count": 7,
   "topics": [
     {
+      "display_title": "Miscellaneous signals",
+      "item_count": 5,
+      "item_ids": [
+        "item_ed3e1d14e81c65bf",
+        "item_c8a9b629d908a62c",
+        "item_c8652219e3351a22",
+        "item_f8a140ecc2b27a16",
+        "item_2d3d69a56a21d191"
+      ],
+      "source_count": 5,
+      "story_id": null,
+      "summary": "It said about 246 suspected cases and 65 deaths had been reported, mainly in the Mongwalu and Rwampara health zones, while four deaths had been reported among laboratory-confirmed cases. The World Health Organisation on Thursday said 48 cases of Ebola have been confirmed in the Democratic Republic of Congo and 31 people have died. It also highlights WHO\u2019s technical support to the Ministry of Health in developing...",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-15T08:51:04"
+    },
+    {
       "display_title": "COVID-19 and SARS-CoV-2",
       "item_count": 4,
       "item_ids": [
@@ -11303,34 +11462,19 @@
       "updated_at": "2026-05-15T03:43:45"
     },
     {
-      "display_title": "Miscellaneous signals",
-      "item_count": 3,
-      "item_ids": [
-        "item_19e2dcb88fb961ed",
-        "item_502789787f42e3af",
-        "item_361861c3f2434bc1"
-      ],
-      "source_count": 3,
-      "story_id": null,
-      "summary": "The Africa Centres for Disease Control and Prevention stated that there have been 246 suspected cases and 65 fatalities so far. \u201cFour deaths have been reported among laboratory-confirmed cases. The outbreak in this remote eastern region of Congo poses risks of spreading to nearby Uganda and South Sudan due to intense population movements and security challenges.",
-      "topic_id": "topic_900601687147a144",
-      "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-15T06:32:07"
-    },
-    {
       "display_title": "Dengue and arboviruses",
       "item_count": 3,
       "item_ids": [
         "item_a25caf0fefe6941b",
         "item_81ccc0c120d3b6a6",
-        "item_f65435821177c50d"
+        "item_8ee7addf6d9003a1"
       ],
       "source_count": 3,
       "story_id": "story_ccfeaff28d46baf6",
       "summary": "states and the District of Columbia increased 359% above the annual average during 2010\u20132023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50\u201359 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of...",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-15T06:32:07"
+      "updated_at": "2026-05-15T08:51:04"
     },
     {
       "display_title": "Occupational and environmental epidemiology",
@@ -11359,7 +11503,7 @@
       "summary": "Weekly / May 14, 2026 / 75(18);234\u00e2\u0080\u0093239 Melissa A. Durand, PhD, VMD 1 ; Carrie Reed, DSc 1 ( View author affiliations ) Since 2024, three human influenza A(H5) cases have been reported among people in the U.S. Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade...",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-15T06:32:07"
+      "updated_at": "2026-05-15T08:51:04"
     },
     {
       "display_title": "Historical epidemiology and ancient pathogens",
@@ -11395,7 +11539,7 @@
       "summary": "Cluster remains active across 19 related item(s), but usable factual summary text was limited after cleanup.",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-15T06:49:40"
+      "updated_at": "2026-05-15T08:51:04"
     }
   ]
 }
