@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-14
-Generated at: 2026-05-14T21:33
+Generated at: 2026-05-14T22:35
 Search window: 7 day(s) ending 2026-05-14
 
 ## Executive scan
@@ -12,21 +12,18 @@ Search window: 7 day(s) ending 2026-05-14
 - [The impact of nonpharmaceutical interventions (NPIs) on rabies post-exposure prophylaxis: A comparative study in Wuhan, 2022 vs. 2023.](https://pubmed.ncbi.nlm.nih.gov/42116803/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
 - [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa; 2026-05-11T16:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [In Sudan, a migrant community reveals a resistance to malaria: the genetic study helping shape medicine](https://theconversation.com/in-sudan-a-migrant-community-reveals-a-resistance-to-malaria-the-genetic-study-helping-shape-medicine-278806) (The Conversation; 2026-05-14T14:15+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (30), Historical epidemiology / ancient disease / paleopathology (2), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (29), Occupational and environmental epidemiology (2), Major epidemiology studies (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News)
-- Story volume increased from 23 to 24 clustered item(s) in the current window.
-
+- No multi-item story clusters produced concrete update bullets in this run.
 
 ## Major topics
 ### Miscellaneous signals
 - Topic size: 4 item(s) across 4 source(s); 2 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-13T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [In Sudan, a migrant community reveals a resistance to malaria: the genetic study helping shape medicine](https://theconversation.com/in-sudan-a-migrant-community-reveals-a-resistance-to-malaria-the-genetic-study-helping-shape-medicine-278806) (The Conversation); [Lassa fever deaths rise to 191 as late treatment worsens outbreak — NCDC](https://www.premiumtimesng.com/health/health-news/879470-lassa-fever-deaths-rise-to-191-as-late-treatment-worsens-outbreak-ncdc.html) (Premium Times Nigeria)
+- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Nigeria strengthens outbreak preparedness through €4.2 million EU WHO programme](https://www.afro.who.int/countries/nigeria/publication/nigeria-strengthens-outbreak-preparedness-through-eu42-million-eu-who-programme) (WHO Regional Office for Africa); [In Sudan, a migrant community reveals a resistance to malaria: the genetic study helping shape medicine](https://theconversation.com/in-sudan-a-migrant-community-reveals-a-resistance-to-malaria-the-genetic-study-helping-shape-medicine-278806) (The Conversation); [Concerns raised over unsafe reuse of bottles in markets amid cholera outbreak](https://www.eyeradio.org/concerns-raised-over-unsafe-reuse-of-bottles-in-markets-amid-cholera-outbreak/) (Eye Radio)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -63,9 +60,9 @@ Search window: 7 day(s) ending 2026-05-14
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 24 item(s) across 12 source(s); 0 official/primary-source item(s).
+- Topic size: 23 item(s) across 12 source(s); 0 official/primary-source item(s).
 - Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News, 2026-05-14T00:49+00:00)
-- Detailed note: Cluster remains active across 24 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: Cluster remains active across 23 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News); [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) (Reuters); [Passengers evacuated from hantavirus-affected MV Hondius](https://www.bbc.co.uk/learningenglish/features/learning-english-from-the-news_2026/260513) (BBC); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
@@ -379,6 +376,16 @@ Search window: 7 day(s) ending 2026-05-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Concerns raised over unsafe reuse of bottles in markets amid cholera outbreak
+- Source: Eye Radio
+- Date: 2026-05-14T13:25+00:00
+- URL: https://www.eyeradio.org/concerns-raised-over-unsafe-reuse-of-bottles-in-markets-amid-cholera-outbreak/
+- Category: Outbreaks and emerging infections
+- Summary: Andrew | Published: 16 hours ago A man pushing sacks of empty plastic bottles pauses for a drink of water. Across markets in Juba, empty plastic bottles are reportedly being collected from streets and garbage sites, then reused to package and sell local soft drinks, juice, and cooking oil, raising serious public health concerns. The concerns were raised during a public awareness programme under the “Cholera Free Payam Juba” campaign, which is being implemented by ForAfrika South Sudan with support from UNICEF on the Dawn Show.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date
 - Source: Outbreak News Today
 - Date: 2026-05-02T07:00+00:00
@@ -389,22 +396,12 @@ Search window: 7 day(s) ending 2026-05-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Bangladesh: H5N1 avian influenza fatality in Chattogram child
-- Source: Outbreak News Today
-- Date: 2026-05-02T07:00+00:00
-- URL: https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality
-- Category: Outbreaks and emerging infections
-- Summary: Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
+  Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
 - [Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.](https://pubmed.ncbi.nlm.nih.gov/42113958/) | PubMed Infectious Disease Search | 2026-05-11T00:00 | Major epidemiology studies
   At 27-29°C, all the vaccine samples sustained potency at 1 week, 50% after 2 weeks, and their VVM were rated 10%, 20%, 40% and 100% after 1, 2, 3, and 4 weeks, respectively. At 2-4°C, 100% of the vaccine samples sustained potency for 6 months, and the color of VVM remained at 0% degradation after 3 months, but 10%, 20%, 20% after 4, 5, and 6 months, respectively. Fifty vials of bOPV tested before exposure had titers above 10 7.0 CCID 50 /mL (≥10 6.0 CCID 50 /0.1 mL), and VVM was rated at 0% degradation.
-- [Lassa fever deaths rise to 191 as late treatment worsens outbreak — NCDC](https://www.premiumtimesng.com/health/health-news/879470-lassa-fever-deaths-rise-to-191-as-late-treatment-worsens-outbreak-ncdc.html) | Premium Times Nigeria | 2026-05-14T14:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
@@ -437,9 +434,9 @@ Search window: 7 day(s) ending 2026-05-14
   Limited detail was available from feed metadata alone.
 - [U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5) | NPR | 2026-05-11T01:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Plane carrying Britons lands in UK after evacuation from hantavirus cruise ship](https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZzY0d3SkxWTG52THBRZ1BhNzNKdTFkX1R1bEd3ZDc3NndFLXFpZFNjYXQ5dkVOdV9CRkRkSExFcGF3dmJXVW9Hcy1leVJ4eTJQazFGWDdVaE92Nk5jUTJPcnNIZElaNE1DcXRXS21zTE1aTzg3aEo5Y29TT3R4clVDY2Mya0dIcVVmWmZ1YnY4bDZnRUEzT2JsYlRIQVlCUXZhSERXMGhaYnA0YmxrdzhBcHd6dw?oc=5) | Sky News | 2026-05-10T22:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Passengers evacuate MV Hondius cruise ship following hantavirus outbreak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5) | The Guardian | 2026-05-10T16:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
