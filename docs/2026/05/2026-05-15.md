@@ -17,14 +17,8 @@ Search window: 7 day(s) ending 2026-05-15
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
-- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzJVY2RnaWh2bXFqOXlIME5oQ0FtZDN3Qkp5WE9iY0ZUSU1zZmdqQm1uYmNLLXhCUlBZM1RkLUowWUxzRzhGeldsZlhiOFVoUUNhc05wSGU5c1FZdVo5cFBWa2ROd3M1ZTBvYWJZWFBSSnZBUHZyVGJxUFBlT01MM1lGNlpCS2JtTVRCQ28tWGNXbDAzMkx3TUVtSWZKTkpNUXdHX2xR?oc=5) (CBS News)
-- The lead item has changed to [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzJVY2RnaWh2bXFqOXlIME5oQ0FtZDN3Qkp5WE9iY0ZUSU1zZmdqQm1uYmNLLXhCUlBZM1RkLUowWUxzRzhGeldsZlhiOFVoUUNhc05wSGU5c1FZdVo5cFBWa2ROd3M1ZTBvYWJZWFBSSnZBUHZyVGJxUFBlT01MM1lGNlpCS2JtTVRCQ28tWGNXbDAzMkx3TUVtSWZKTkpNUXdHX2xR?oc=5) from CBS News.
+- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News)
 - Story volume increased from 18 to 19 clustered item(s) in the current window.
-- 8 newly observed linked item(s) were added since the last saved snapshot.
-
-### Dengue and arboviruses
-- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
-- 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
@@ -32,9 +26,9 @@ Search window: 7 day(s) ending 2026-05-15
 - Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News, 2026-05-15T16:21+02:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvUFdKOVJOMmxtVFhTMjZSWldMenZvdE93M1NHOTZiRUxfZzFhY2RoM3RWZ0pRaWd1QXpEcGJqSVBFY1BZcExCeWlqZDE0QS1nengxRVozenBtT1M3?oc=5) (BBC); [Dozens dead in new Ebola outbreak in remote DR Congo province, officials say](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjNVYmhyeVYwbTJEV0M3bTNzaXdOZG5YaG1veUNrLUF1cnRfVzRvLUtBdnQtbTNuWVVwTWJhWHhsenc1Nm5LaE85WmFZaHNXQlZxbGV0SEpWRTFxSUZRcXBjUnJpaUowS3RYdmp5LXdTOGhZRy00U1VMTmJxZXdXdkdacUhaSWdOZmVDbXpJU1lYOUNiNWRid0tEUFZsYXlKY2lDRlR1U1k3UDRkanNlQmFMQ3B3UHZXZDVsSHhQS0JlLTd4?oc=5) (Hexham Courant); [New Ebola outbreak confirmed in remote Congo province, 65 dead](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHF5RUMzbHpSTGcxR0N2d0tJYUNjS2ZYdmc3NVlSUmxZeDFZa0FHbGQwWmgtUHJ1QmxpSzVWVVdTN1NLM0VoUWNHNDFaRVFzRGZHc0VsalhPWmxVa1FUSGR5MlF6S2JHajhCdkVBNGREOHRkQmdpTWNmN3VzbTV3QUlyWVhWRmVwVzdWNHhfekdXZzFxOGpXS1MtY0RRcGgwQlYteUNsWC1ndTE5RERqbnM4QTJlUkdEQ3NTZmdTRFNueGPSAcMBQVVfeXFMUHRxeUVDM2x6UkxnMUdDdndLSWFDY0tmWHZnNzVZUlJsWXgxWWtBR2xkMFpoLVBydUJsaUs1VlVXUzdTSzNFaFFjRzQxWkVRc0RmR3NFbGpYT1psVWtRVEhkeTJRektiR2o4QnZFQTRkRDh0ZEJnaU1jZjd1c201d0FJcllYVkZlcFc3VjR4X3pHV2cxcThqV0tTLWNEUXBoMEJWLXlDbFgtZ3UxOUREam5zOEEyZVJHRENzU2ZnU0RTbnhj?oc=5) (Onmanorama)
+- Evidence notes: [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Dozens dead in new Ebola outbreak in remote DR Congo province, officials say](https://www.hexham-courant.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/) (Hexham Courant); [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.co.uk/news/articles/cze2wpk7y76o) (BBC); [New Ebola outbreak confirmed in remote Congo province, 65 dead](https://www.onmanorama.com/health/healthcare/2026/05/15/another-virus-on-the-horizon-new-ebola-outbreak-in-congo-65-dead.html) (Onmanorama)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
@@ -47,8 +41,8 @@ Search window: 7 day(s) ending 2026-05-15
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: This report describes an increase in dengue cases reported during 2024.
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFhzWGZXNnRfTkQ3a3hMY2ZwNkZoY0YwMnJOeUpLaU9JdE85M1dRYWx3ZWktTE5TekU3eFRmNFdnMy1ZUGlVbzZrUVlqYTdsUmFDUTdTeEJjSm5pb0J6ZjRka3d1LXRRSnF3T2hzVnhxMkJDdnBnQVZ4VnhWSlViZVpn?oc=5) (Outbreak News Today); [Traditional dengue alerts are missing the mark as Vietnam's climate shifts—researchers propose a one health solution](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVVBicGNYV3oxUXA5ckZPcE9JTkpYNnhlM05VaHFGbG44Q21NbFhjeTg4a2hpaHh0alRDTHgxdXQxXzNkS0NCWGZPLVBUMm9ydjhFRUZrT1h6VVg1?oc=5) (EurekAlert!)
+- Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of...
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Traditional dengue alerts are missing the mark as Vietnam's climate shifts—researchers propose a one health solution](https://www.eurekalert.org/news-releases/1128425) (EurekAlert!)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -63,10 +57,10 @@ Search window: 7 day(s) ending 2026-05-15
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: This report describes survey results from backyard flock owners' attitudes towards avian influenza.
-- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjEzVzBGaUtVWWpxbndHQ3dzR3NCbUpzWE5vZU1WN1ViYnNQWDF3c0JaNmQ0LWluOW5zVzBVbVJMeUxlSjVzeXpkZnpHeDhpNmltS0htdmJCTDZBMEN1dEZhMDZVcmhFcGR4a1dibjhhM0p3X2pROFAwSHpIOGQwZDVHSjFleFZh?oc=5) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Detailed note: Weekly / May 14, 2026 / 75(18);234â239 Melissa A. Durand, PhD, VMD 1 ; Carrie Reed, DSc 1 ( View author affiliations ) Since 2024, three human influenza A(H5) cases have been reported among people in the U.S. Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade...
+- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -310,7 +304,7 @@ Search window: 7 day(s) ending 2026-05-15
 - Date: 2026-05-15T16:21+02:00
 - URL: https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo
 - Category: Policy, surveillance, and public health infrastructure
-- Summary: Preliminary laboratory results indicate a non-Zaire ebolavirus species, with further analysis ongoing.
+- Summary: Ebolavirus was detected in 13 of 20 samples tested at the Institut National de Recherche Biomédicale in the Democratic Republic of the Congo. For the general population in the EU/EEA, the likelihood of infection is very low due to the limited possibility of importation and onward transmission in Europe. Based on the available information and current uncertainties, the likelihood of infection for EU/EEA residents in or travellers to the Ituri Province is assessed as low.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -330,7 +324,7 @@ Search window: 7 day(s) ending 2026-05-15
 - Date: 2026-05-14T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451
 - Category: Occupational and environmental epidemiology
-- Summary: This report describes survey results from backyard flock owners' attitudes towards avian influenza.
+- Summary: Weekly / May 14, 2026 / 75(18);234â239 Melissa A. Durand, PhD, VMD 1 ; Carrie Reed, DSc 1 ( View author affiliations ) Since 2024, three human influenza A(H5) cases have been reported among people in the U.S. Campagna, DVM 5 ; Elizabeth Harker, MPH 1 ; Colin A.
 - Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -340,7 +334,7 @@ Search window: 7 day(s) ending 2026-05-15
 - Date: 2026-05-14T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450
 - Category: Occupational and environmental epidemiology
-- Summary: This report describes an increase in dengue cases reported during 2024.
+- Summary: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. Approximately one third (36.1%) of patients were hospitalized; six (0.2%) patients died.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -395,45 +389,49 @@ Search window: 7 day(s) ending 2026-05-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Ebola outbreak kills 65 in eastern DR Congo's Ituri province
-- Source: BBC
-- Date: 2026-05-15T07:58+00:00
-- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvUFdKOVJOMmxtVFhTMjZSWldMenZvdE93M1NHOTZiRUxfZzFhY2RoM3RWZ0pRaWd1QXpEcGJqSVBFY1BZcExCeWlqZDE0QS1nengxRVozenBtT1M3?oc=5
+### Dozens dead in new Ebola outbreak in remote DR Congo province, officials say
+- Source: Hexham Courant
+- Date: 2026-05-15T12:26+00:00
+- URL: https://www.hexham-courant.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/
 - Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
+- Summary: More Public notices Newsletters Jobs Book an ad Cars Homes Local listings Local info Public notices Newsletters Jobs Book an ad Cars Homes Local listings Local info Africa’s top public health body has confirmed a new Ebola outbreak in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far. “Four deaths have been reported among laboratory-confirmed cases. The deaths and suspected cases have been recorded mainly in the Mongwalu and Rwampara health zones, the Africa Centres for Disease Control and Prevention said in a statement.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.co.uk/news/articles/cze2wpk7y76o) | BBC | 2026-05-15T07:58+00:00 | Outbreaks and emerging infections
+  Around 246 cases and 65 deaths have been reported, mainly in the gold-mining towns of Mongwalu and Rwampara, said the Africa Centres for Disease Control and Prevention (Africa CDC). Its statement on Friday added that it was convening a meeting with DR Congo, neighbouring Uganda and South Sudan, and other international partners to discuss priorities, including response efforts and cross-border surveillance. Ebola was first discovered in 1976 in what is now DR Congo, and is thought to have spread from bats.
+- [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
+  In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
+- [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
+  Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
 - [Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.](https://pubmed.ncbi.nlm.nih.gov/42113958/) | PubMed Infectious Disease Search | 2026-05-11T00:00 | Major epidemiology studies
   At 27-29°C, all the vaccine samples sustained potency at 1 week, 50% after 2 weeks, and their VVM were rated 10%, 20%, 40% and 100% after 1, 2, 3, and 4 weeks, respectively. At 2-4°C, 100% of the vaccine samples sustained potency for 6 months, and the color of VVM remained at 0% degradation after 3 months, but 10%, 20%, 20% after 4, 5, and 6 months, respectively. Fifty vials of bOPV tested before exposure had titers above 10 7.0 CCID 50 /mL (≥10 6.0 CCID 50 /0.1 mL), and VVM was rated at 0% degradation.
+- [New Ebola outbreak confirmed in remote Congo province, 65 dead](https://www.onmanorama.com/health/healthcare/2026/05/15/another-virus-on-the-horizon-new-ebola-outbreak-in-congo-65-dead.html) | Onmanorama | 2026-05-15T10:54+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone. × മലയാളത്തിൽ ടൈപ്പ് ചെയ്യാൻ Trending Keywords Kerala India World SIGN IN MY ACCOUNT SIGNED IN AS Change Password History Saved Items Log Out KERALA NEWS KERALA NEWS THIRUVANANTHAPURAM KOLLAM PATHANAMTHITTA ALAPPUZHA KOTTAYAM IDUKKI ERNAKULAM THRISSUR PALAKKAD MALAPPURAM KOZHIKODE WAYANAD KANNUR KASARAGOD ENTERTAINMENT ENTERTAINMENT ENTERTAINMENT NEWS MOVIE REVIEW INTERVIEWS MUSIC ART AND CULTURE GOSSIP VIDEOS NEWS NEWS INDIA WORLD BUSINESS STARTUP VIDEOS SPORTS SPORTS CRICKET FOOTBALL TENNIS OTHER SPORTS VANTAGE POINT
+- [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Compared to no vaccination, the vaccination of older adults aged ≥65 years and the high-risk population was estimated to prevent 12,933 symptomatic cases, 12,811 outpatient cases, 122 hospitalizations, 353 lost quality-adjusted life-years (QALYs) gained, and four deaths, translating to total direct and societal cost savings of US$9,424,605 and US$10,397,107 respectively. Implementing an adapted COVID-19 vaccine strategy for high-risk and older adults in Guatemala is projected to improve health outcomes and, under base-case assumptions, be cost-saving from both payer and societal perspectives. Using adapted COVID-19 vaccines targeting current variants in circulation is necessary for addressing the dynamic evolution of the SARS-CoV-2 virus.
 - [Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.](https://pubmed.ncbi.nlm.nih.gov/42132838/) | PubMed Infectious Disease Search | 2026-05-14T00:00 | Major epidemiology studies
   In the United States, COVID-19 vaccines are widely available, but vaccine hesitancy and vaccine disparities remain. Due to current changes in COVID-19 vaccine recommendations, research that focuses on vaccines and misinformation is critical in preventing vaccine hesitancy. These perspectives may be especially important for vaccine-hesitant people with intersecting social vulnerabilities, including racial and ethnic minorities who are also LGBTQ+ individuals, immigrants, or pregnant people.
 - [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Dozens dead in new Ebola outbreak in remote DR Congo province, officials say](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjNVYmhyeVYwbTJEV0M3bTNzaXdOZG5YaG1veUNrLUF1cnRfVzRvLUtBdnQtbTNuWVVwTWJhWHhsenc1Nm5LaE85WmFZaHNXQlZxbGV0SEpWRTFxSUZRcXBjUnJpaUowS3RYdmp5LXdTOGhZRy00U1VMTmJxZXdXdkdacUhaSWdOZmVDbXpJU1lYOUNiNWRid0tEUFZsYXlKY2lDRlR1U1k3UDRkanNlQmFMQ3B3UHZXZDVsSHhQS0JlLTd4?oc=5) | Hexham Courant | 2026-05-15T12:26+00:00 | Outbreaks and emerging infections
+- [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) | Reuters | 2026-05-13T15:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [New Ebola outbreak confirmed in remote Congo province, 65 dead](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHF5RUMzbHpSTGcxR0N2d0tJYUNjS2ZYdmc3NVlSUmxZeDFZa0FHbGQwWmgtUHJ1QmxpSzVWVVdTN1NLM0VoUWNHNDFaRVFzRGZHc0VsalhPWmxVa1FUSGR5MlF6S2JHajhCdkVBNGREOHRkQmdpTWNmN3VzbTV3QUlyWVhWRmVwVzdWNHhfekdXZzFxOGpXS1MtY0RRcGgwQlYteUNsWC1ndTE5RERqbnM4QTJlUkdEQ3NTZmdTRFNueGPSAcMBQVVfeXFMUHRxeUVDM2x6UkxnMUdDdndLSWFDY0tmWHZnNzVZUlJsWXgxWWtBR2xkMFpoLVBydUJsaUs1VlVXUzdTSzNFaFFjRzQxWkVRc0RmR3NFbGpYT1psVWtRVEhkeTJRektiR2o4QnZFQTRkRDh0ZEJnaU1jZjd1c201d0FJcllYVkZlcFc3VjR4X3pHV2cxcThqV0tTLWNEUXBoMEJWLXlDbFgtZ3UxOUREam5zOEEyZVJHRENzU2ZnU0RTbnhj?oc=5) | Onmanorama | 2026-05-15T10:54+00:00 | Outbreaks and emerging infections
+- [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) | CIDRAP | 2026-05-12T20:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzJVY2RnaWh2bXFqOXlIME5oQ0FtZDN3Qkp5WE9iY0ZUSU1zZmdqQm1uYmNLLXhCUlBZM1RkLUowWUxzRzhGeldsZlhiOFVoUUNhc05wSGU5c1FZdVo5cFBWa2ROd3M1ZTBvYWJZWFBSSnZBUHZyVGJxUFBlT01MM1lGNlpCS2JtTVRCQ28tWGNXbDAzMkx3TUVtSWZKTkpNUXdHX2xR?oc=5) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
+- [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) | CBS News | 2026-05-12T10:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Fact Check: Andes strain of hantavirus is transmissible in humans](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGFndVREbXNxWWlvVC1faHJtY19kNDZndml2UW1tN21DMnBjTUY5Rm83ckVUcjBVOERMV0Z2NGlTTGhMZjFJcmtpaG1xVmpJc1dMUExYMl9VTVQxZWt5b2ljOGowQUNvYnduUTR6RU1Rb3R5MklCTjRBZmhFZmV6R0lZekg3OU0teEpRUHNyUWt6VEtvOTNlTEtB?oc=5) | Reuters | 2026-05-13T15:32+00:00 | Outbreaks and emerging infections
+- [3 New Yorkers evacuated from hantavirus cruise ship](https://www.cbsnews.com/newyork/video/3-new-yorkers-evacuated-from-hantavirus-cruise-ship/) | CBS News | 2026-05-12T09:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0JNSktqOUQxQXhoVnVXVE9ZTElDelV5Q0tLWG9UOEhWSWxTUGJJSkhjdXlXZ211VGRBU2JHUVA5NHlWY0dqWG5KY1J0R3hsaHlxTW9CamJjd09sdkJTakU0WFZxS0tHNndZVklHWk5aaW1GMmp0Zy01R05qd2tSTWl0TmFWdEd1dW10bXV2YkJzQkFLTmhOOW5R?oc=5) | CIDRAP | 2026-05-12T20:31+00:00 | Outbreaks and emerging infections
+- [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-12T01:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://news.google.com/rss/articles/CBMimgFBVV95cUxONEU4Njh3UnhHV2tINmZYamhZNmNYR1VHbkNYY1hFeVQySTJ0Mk5DdHJFbGtMb2pKcmVvQkU0MWp1Wm1jTHp0VTl3LUJtY25wY1RJSTBpTFhsZDBrZk9pcEF2djNUMnBfM21RRWIyQ3JveWdtU1JZeHYzajFPdC1CNjNrekl5cmtOLUtNeEVXcXdiMGhhWnU3ZjlR0gGfAUFVX3lxTE1wQXdoWDZEbUZmVlkySU9TSTJMd0pLSXRXOHd5NVUzZ3V3STkzQkFCVkxQcm9YS1gyVnhiRUJSWVdpWWs5ek9aZmhZTjB0YUZJWlhwMXZ5Ul80blB4cmljaUV2SzlZNWp1ZDQ0bVVVRnozRXNpQzRSUVBfT3BHMUxzMUNmNEdJYk9oWGZHUkpiQ3pUeXY2U3FoOXBBUHNvQQ?oc=5) | CBS News | 2026-05-12T10:28+00:00 | Outbreaks and emerging infections
+- [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-12T00:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [3 New Yorkers evacuated from hantavirus cruise ship](https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXlMcmhBVmpIRG90UjB0MGg2anBjOEMwem4yclRRU2dIak1MYjJBZVgxd1Y5ejNfWTIySXhjVUQtWTNkbHlua2dhS0lxek1qb2VxZ01xODhNbHk0NW1PZENQSGhtcWhPTU56V2J3d3hISEM0aHFYaXVXWWlENktlS1VRYzRPeUxMM0I4MVM2UHphd0ww?oc=5) | CBS News | 2026-05-12T09:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lWDIzcjV5WHlZZzFES0ZWSkY1ajVlUlFwaUxJZHdGb1RGcnhmcG5UWF9WbTJ1amYxTks3aHk1eDZBd2E2ZEpIQW8zbWl4aS1PM1Rvb2xSbFh1dw?oc=5) | BBC | 2026-05-12T01:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXhSWllhVGpLWXlNNEpYZ29fc3FPN0JZOWNQOTEtNjJwRWR0dEhFQ0N4WEJWS0tPdjFoRkpsY0hLUHVmSlhUbXFFa3hpTGtSdmhIZkhiOUFnQS14dDhGdWlVNDBFbkVvWVBvdnJ0RC1fN2VocV91WVpHb1NtQ0Z6eFlqR2hibjNBOWVNTGFiQ0ZkU3NJNjFCRFBLYTF0TkJCSDlyUENPSUZIOFNCMTFDemp3dVB1dVBWU0ZQNGlwejZINmdWVDhiQUNiQlM5RHZ2?oc=5) | Reuters | 2026-05-12T00:04+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [American cruise ship passenger tests positive for hantavirus after evacuation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzlnN2lpZ2RyTVRjNXp4UGRyZmdCbVNwaHdsUlBUM3VOT2oybzZtNmI2REF4U0YzeGVVb1BPNTRmdG1WazhLZVV1WlJrakxIYjRnX2hOVmpIZkRIekVhWm9sN3RXVVdqZTVsRHllU3loOUdfSkNyRVBKZmkwZ1o0WDYzRWhkcm51bzRXRW9SbWFrOU1HcXptOXNYNGdpVFRCcHUyWFFBSHFqQW95Z2hhNmhydw?oc=5) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
+- [American cruise ship passenger tests positive for hantavirus after evacuation](https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says seven cases of hantavirus confirmed from cruise ship](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEt6V1pkVVhfTFh2aUdqYkdDMHhTZ2tDUnlta05feGs3SDB3b2FuUl9oU3hnRFh3aEpkZVdCNnYzRVJSTEdUMW1WdENHX09oZWZtQVc5VWRfTDdVOFhHbUtsVGw5VlJsR3BYUldJMGFTT1FXeWVWM3pMVDVZNU1PTFdIem14Yl9pZ3g4QmRBa3V5U2FISjhka1l5cmFKQm1rUzJsLUVCNmJxNkJyVGR4blpIbE44dldDV3FxcEh1eHpSTG8?oc=5) | Reuters | 2026-05-11T12:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -442,10 +440,6 @@ Search window: 7 day(s) ending 2026-05-15
 - [Evacuated US and French MV Hondius passengers test positive for hantavirus](https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkdZc2lRVkRBeHBQLVdvYkR5S3VvLXVLZ0NmNTlIb25IX01xOTV3WnFackFhenlnNGxaUzdDQ2hfdkxEVmthRTVaR1JKbi1BOWFQLVo4T3lrOERuTVBmc2FfYlZNSFdaZXE5dGpXdDQ4XzN4Qkc2TXFEMDlTQnNyR3ZCUGtkSjRBNnVmSl90eG1JQTZrN2RDMGUzSmlWZ0tFRTF4eWNaSzFJMHB1anN1Nkd4dHdVd0sxOVFtbFR1QThvLVlkTEtWM2QxQzU?oc=5) | The Guardian | 2026-05-11T09:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans evacuated from virus cruise ship arrive back in US](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkRZbEdYRXZFaEtXTzUwSDI2ZlZTNUs4enFUb041N0g5QkZzN0d0MUtyeHprYVcyaldFeVZpdm1SVmpKYk1mWDd5OFNGeE1MYXFCU2VVd1NSTHVHN2k2UC1MWU5KVlVfTUFPYk1vZHR4STJhZ3RjQUZWVFpTRTJiNUY1dXRSV3VfQWxUbFpOa1ZDTE45d2NRckNhS3I?oc=5) | Sky News | 2026-05-11T06:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Americans evacuated from hantavirus-stricken cruise ship off Spanish island](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVoteDROS3dnNXhsOUI4Q2tGVVh1eW8ycGFSakt2b3RlXy1TRndyMVlFd3Y3SWpLVUphd2UzS3BnREZLZzFSTUQ4ZHlxcXF3UUlYZk0ya3Q0b0NTT3BxLWhLVC16bzhNMGt6akFfdmozRVo1OWhqRVNoTnUyblZvVnFIaHM0LWU5bnd1Zmd6NUtLUHVaSF8xSHltWE50WGw0eEk0dw?oc=5) | NBC News | 2026-05-11T02:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5) | NPR | 2026-05-11T01:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
