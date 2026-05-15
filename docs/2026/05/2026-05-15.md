@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-15
-Generated at: 2026-05-15T10:52
+Generated at: 2026-05-15T11:53
 Search window: 7 day(s) ending 2026-05-15
 
 ## Executive scan
@@ -9,16 +9,16 @@ Search window: 7 day(s) ending 2026-05-15
 - [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [The impact of nonpharmaceutical interventions (NPIs) on rabies post-exposure prophylaxis: A comparative study in Wuhan, 2022 vs. 2023.](https://pubmed.ncbi.nlm.nih.gov/42116803/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (27), Major epidemiology studies (5), Historical epidemiology / ancient disease / paleopathology (3)
+- [Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom.](https://pubmed.ncbi.nlm.nih.gov/42116765/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
+- [Traditional dengue alerts are missing the mark as Vietnam's climate shifts—researchers propose a one health solution](https://www.eurekalert.org/news-releases/1128425) (EurekAlert!; 2026-05-15T15:55+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (25), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News)
-- Story volume increased from 18 to 19 clustered item(s) in the current window.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
@@ -26,7 +26,7 @@ Search window: 7 day(s) ending 2026-05-15
 - Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News, 2026-05-15T16:21+02:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Dozens dead in new Ebola outbreak in remote DR Congo province, officials say](https://www.hexham-courant.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/) (Hexham Courant); [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.co.uk/news/articles/cze2wpk7y76o) (BBC); [New Ebola outbreak confirmed in remote Congo province, 65 dead](https://www.onmanorama.com/health/healthcare/2026/05/15/another-virus-on-the-horizon-new-ebola-outbreak-in-congo-65-dead.html) (Onmanorama)
+- Evidence notes: [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Dozens dead in new Ebola outbreak in remote DR Congo province, officials say](https://www.hexham-courant.co.uk/news/national/26108991.dozens-dead-new-ebola-outbreak-remote-dr-congo-province-officials-say/) (Hexham Courant); [Ebola Strikes Again: New Outbreak Confirmed in Congo's Province](https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province?amp) (Devdiscourse); [New Ebola outbreak confirmed in remote Congo province, 65 dead](https://www.onmanorama.com/health/healthcare/2026/05/15/another-virus-on-the-horizon-new-ebola-outbreak-in-congo-65-dead.html) (Onmanorama)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -41,17 +41,9 @@ Search window: 7 day(s) ending 2026-05-15
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of...
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Traditional dengue alerts are missing the mark as Vietnam's climate shifts—researchers propose a one health solution](https://www.eurekalert.org/news-releases/1128425) (EurekAlert!)
+- Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. Outbreaks in 2019, 2022, and 2024 were early warnings of a structural shift — and the...
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Traditional dengue alerts are missing the mark as Vietnam's climate shifts—researchers propose a one health solution](https://www.eurekalert.org/news-releases/1128425) (EurekAlert!); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Occupational and environmental epidemiology
-- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies, 2026-05-14T00:00)
-- Detailed note: At 27-29°C, all the vaccine samples sustained potency at 1 week, 50% after 2 weeks, and their VVM were rated 10%, 20%, 40% and 100% after 1, 2, 3, and 4 weeks, respectively. At 2-4°C, 100% of the vaccine samples sustained potency for 6 months, and the color of VVM remained at 0% degradation after 3 months, but 10%, 20%, 20% after 4, 5, and 6 months, respectively. 15,452 in 2023), with cases peaking during summer...
-- Evidence notes: [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies); [The impact of nonpharmaceutical interventions (NPIs) on rabies post-exposure prophylaxis: A comparative study in Wuhan, 2022 vs. 2023.](https://pubmed.ncbi.nlm.nih.gov/42116803/) (PubMed Infectious Disease Search); [Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.](https://pubmed.ncbi.nlm.nih.gov/42113958/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Avian influenza and H5N1
@@ -69,6 +61,14 @@ Search window: 7 day(s) ending 2026-05-15
 - Evidence notes: [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies); [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Hantavirus and cruise-ship outbreak
+- Topic size: 17 item(s) across 10 source(s); 0 official/primary-source item(s).
+- Lead item: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News, 2026-05-14T00:49+00:00)
+- Detailed note: Cluster remains active across 17 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News); [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) (Reuters); [Hantavirus outbreak grows to 11 cases, 9 confirmed](https://www.cidrap.umn.edu/misc-emerging-topics/hantavirus-outbreak-grows-11-cases-9-confirmed) (CIDRAP); [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) (CBS News); [3 New Yorkers evacuated from hantavirus cruise ship](https://www.cbsnews.com/newyork/video/3-new-yorkers-evacuated-from-hantavirus-cruise-ship/) (CBS News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -349,16 +349,6 @@ Search window: 7 day(s) ending 2026-05-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-05-14T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42132385/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: We outline practical surveillance steps to address under-ascertainment, standardized case definitions, sentinel reporting, and laboratory quality assurance and propose research priorities spanning environmental detection, host-pathogen interactions, and therapeutic evaluation. We contrast JLD with key mimickers (cutaneous leishmaniasis, chromoblastomycosis, leprosy, atypical mycobacterioses, and non-infectious lesions such as keloid scars) and summarize current management options, emphasizing when surgery alone suffices and when prolonged azole therapy should be considered. Diagnosis relies on direct microscopy and histopathology showing chains of thick-walled yeast-like cells connected by narrow-neck budding; culture is not feasible, and molecular assays are rarely available outside reference centers.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.
 - Source: PubMed Historical Epidemiology
 - Date: 2026-05-13T00:00
@@ -366,16 +356,6 @@ Search window: 7 day(s) ending 2026-05-15
 - Category: Historical epidemiology / ancient disease / paleopathology
 - Summary: Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### The impact of nonpharmaceutical interventions (NPIs) on rabies post-exposure prophylaxis: A comparative study in Wuhan, 2022 vs. 2023.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-05-12T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42116803/
-- Category: Major epidemiology studies
-- Summary: 15,452 in 2023), with cases peaking during summer and autumn in both years, the 2022 cohort had a higher proportion of males, adolescents (under 20 y old), and rural residents. Furthermore, over 10% of exposed individuals (10.82%) in 2022 failed to complete the full vaccination course. Although the total number of clinic visits was similar between the 2 y (16,970 in 2022 vs .
-- Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
@@ -389,6 +369,16 @@ Search window: 7 day(s) ending 2026-05-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Traditional dengue alerts are missing the mark as Vietnam's climate shifts—researchers propose a one health solution
+- Source: EurekAlert!
+- Date: 2026-05-15T15:55+00:00
+- URL: https://www.eurekalert.org/news-releases/1128425
+- Category: Outbreaks and emerging infections
+- Summary: Outbreaks in 2019, 2022, and 2024 were early warnings of a structural shift — and the country's surveillance infrastructure has not kept pace. The authors synthesize existing evidence on how specific environmental signals — temperature exceeding 27°C, moderate weekly rainfall of 130–210 mm, severe drought as measured by the Palmer Drought Severity Index, widening diurnal temperature ranges, heatwaves, and El Niño anomalies — interact with Aedes mosquito biology and dengue virus replication to create outbreak conditions. For decades, Vietnam's dengue surveillance relied on a straightforward logic: when cases exceed the five-year average by a sufficient margin, sound the alarm.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Dozens dead in new Ebola outbreak in remote DR Congo province, officials say
 - Source: Hexham Courant
 - Date: 2026-05-15T12:26+00:00
@@ -399,16 +389,22 @@ Search window: 7 day(s) ending 2026-05-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Ebola Strikes Again: New Outbreak Confirmed in Congo's Province
+- Source: Devdiscourse
+- Date: 2026-05-15T11:47+00:00
+- URL: https://www.devdiscourse.com/article/health/3909690-ebola-strikes-again-new-outbreak-confirmed-in-congos-province?amp
+- Category: Outbreaks and emerging infections
+- Summary: The Africa Centres for Disease Control and Prevention stated that there have been 246 suspected cases and 65 fatalities so far. The outbreak in this remote eastern region of Congo poses risks of spreading to nearby Uganda and South Sudan due to intense population movements and security challenges. Africa CDC is collaborating with national and international partners to orchestrate a rapid response, with priorities focusing on surveillance, resource mobilization, and cross-border coordination.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.co.uk/news/articles/cze2wpk7y76o) | BBC | 2026-05-15T07:58+00:00 | Outbreaks and emerging infections
-  Around 246 cases and 65 deaths have been reported, mainly in the gold-mining towns of Mongwalu and Rwampara, said the Africa Centres for Disease Control and Prevention (Africa CDC). Its statement on Friday added that it was convening a meeting with DR Congo, neighbouring Uganda and South Sudan, and other international partners to discuss priorities, including response efforts and cross-border surveillance. Ebola was first discovered in 1976 in what is now DR Congo, and is thought to have spread from bats.
 - [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
   In addition, there has been 12 dengue related deaths reported this year. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of 25,082 dengue cases have been reported across Sri Lanka so far in 2026. In all of 2025, the country saw 51,000 cases.
 - [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) | Outbreak News Today | 2026-05-02T07:00+00:00 | Outbreaks and emerging infections
   Virus characterization and whole genome sequencing was conducted at International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), which confirmed that the A(H5N1) virus belongs to clade 2.3.2.1a of highly pathogenic avian influenza A(H5N1) virus (Gs/GD lineage), similar to the clade of viruses circulating in local poultry since around 2011. The patient developed symptoms on 21 January 2026 and was admitted to hospital on 28 January. The patient died on 1 February.
-- [Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.](https://pubmed.ncbi.nlm.nih.gov/42113958/) | PubMed Infectious Disease Search | 2026-05-11T00:00 | Major epidemiology studies
-  At 27-29°C, all the vaccine samples sustained potency at 1 week, 50% after 2 weeks, and their VVM were rated 10%, 20%, 40% and 100% after 1, 2, 3, and 4 weeks, respectively. At 2-4°C, 100% of the vaccine samples sustained potency for 6 months, and the color of VVM remained at 0% degradation after 3 months, but 10%, 20%, 20% after 4, 5, and 6 months, respectively. Fifty vials of bOPV tested before exposure had titers above 10 7.0 CCID 50 /mL (≥10 6.0 CCID 50 /0.1 mL), and VVM was rated at 0% degradation.
 - [New Ebola outbreak confirmed in remote Congo province, 65 dead](https://www.onmanorama.com/health/healthcare/2026/05/15/another-virus-on-the-horizon-new-ebola-outbreak-in-congo-65-dead.html) | Onmanorama | 2026-05-15T10:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone. × മലയാളത്തിൽ ടൈപ്പ് ചെയ്യാൻ Trending Keywords Kerala India World SIGN IN MY ACCOUNT SIGNED IN AS Change Password History Saved Items Log Out KERALA NEWS KERALA NEWS THIRUVANANTHAPURAM KOLLAM PATHANAMTHITTA ALAPPUZHA KOTTAYAM IDUKKI ERNAKULAM THRISSUR PALAKKAD MALAPPURAM KOZHIKODE WAYANAD KANNUR KASARAGOD ENTERTAINMENT ENTERTAINMENT ENTERTAINMENT NEWS MOVIE REVIEW INTERVIEWS MUSIC ART AND CULTURE GOSSIP VIDEOS NEWS NEWS INDIA WORLD BUSINESS STARTUP VIDEOS SPORTS SPORTS CRICKET FOOTBALL TENNIS OTHER SPORTS VANTAGE POINT
 - [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
@@ -431,7 +427,9 @@ Search window: 7 day(s) ending 2026-05-15
   Limited detail was available from feed metadata alone.
 - [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://www.reuters.com/business/healthcare-pharmaceuticals/evacuation-passengers-virus-hit-cruise-ship-be-completed-monday-2026-05-11/) | Reuters | 2026-05-12T00:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [American cruise ship passenger tests positive for hantavirus after evacuation](https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
+- [Americans evacuated from hantavirus cruise ship land](https://www.cbsnews.com/pittsburgh/video/americans-evacuated-from-hantavirus-cruise-ship-land/) | CBS News | 2026-05-11T23:58+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [American cruise ship passenger tests positive for hantavirus after evacuation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzlnN2lpZ2RyTVRjNXp4UGRyZmdCbVNwaHdsUlBUM3VOT2oybzZtNmI2REF4U0YzeGVVb1BPNTRmdG1WazhLZVV1WlJrakxIYjRnX2hOVmpIZkRIekVhWm9sN3RXVVdqZTVsRHllU3loOUdfSkNyRVBKZmkwZ1o0WDYzRWhkcm51bzRXRW9SbWFrOU1HcXptOXNYNGdpVFRCcHUyWFFBSHFqQW95Z2hhNmhydw?oc=5) | PBS | 2026-05-11T13:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says seven cases of hantavirus confirmed from cruise ship](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEt6V1pkVVhfTFh2aUdqYkdDMHhTZ2tDUnlta05feGs3SDB3b2FuUl9oU3hnRFh3aEpkZVdCNnYzRVJSTEdUMW1WdENHX09oZWZtQVc5VWRfTDdVOFhHbUtsVGw5VlJsR3BYUldJMGFTT1FXeWVWM3pMVDVZNU1PTFdIem14Yl9pZ3g4QmRBa3V5U2FISjhka1l5cmFKQm1rUzJsLUVCNmJxNkJyVGR4blpIbE44dldDV3FxcEh1eHpSTG8?oc=5) | Reuters | 2026-05-11T12:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -439,7 +437,9 @@ Search window: 7 day(s) ending 2026-05-15
   Limited detail was available from feed metadata alone.
 - [Evacuated US and French MV Hondius passengers test positive for hantavirus](https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkdZc2lRVkRBeHBQLVdvYkR5S3VvLXVLZ0NmNTlIb25IX01xOTV3WnFackFhenlnNGxaUzdDQ2hfdkxEVmthRTVaR1JKbi1BOWFQLVo4T3lrOERuTVBmc2FfYlZNSFdaZXE5dGpXdDQ4XzN4Qkc2TXFEMDlTQnNyR3ZCUGtkSjRBNnVmSl90eG1JQTZrN2RDMGUzSmlWZ0tFRTF4eWNaSzFJMHB1anN1Nkd4dHdVd0sxOVFtbFR1QThvLVlkTEtWM2QxQzU?oc=5) | The Guardian | 2026-05-11T09:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Americans evacuated from virus cruise ship arrive back in US](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkRZbEdYRXZFaEtXTzUwSDI2ZlZTNUs4enFUb041N0g5QkZzN0d0MUtyeHprYVcyaldFeVZpdm1SVmpKYk1mWDd5OFNGeE1MYXFCU2VVd1NSTHVHN2k2UC1MWU5KVlVfTUFPYk1vZHR4STJhZ3RjQUZWVFpTRTJiNUY1dXRSV3VfQWxUbFpOa1ZDTE45d2NRckNhS3I?oc=5) | Sky News | 2026-05-11T06:12+00:00 | Outbreaks and emerging infections
+- [Americans evacuated from hantavirus-stricken cruise ship off Spanish island](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVoteDROS3dnNXhsOUI4Q2tGVVh1eW8ycGFSakt2b3RlXy1TRndyMVlFd3Y3SWpLVUphd2UzS3BnREZLZzFSTUQ4ZHlxcXF3UUlYZk0ya3Q0b0NTT3BxLWhLVC16bzhNMGt6akFfdmozRVo1OWhqRVNoTnUyblZvVnFIaHM0LWU5bnd1Zmd6NUtLUHVaSF8xSHltWE50WGw0eEk0dw?oc=5) | NBC News | 2026-05-11T02:46+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5) | NPR | 2026-05-11T01:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -449,36 +449,18 @@ Search window: 7 day(s) ending 2026-05-15
   Journal/preprint server: Scientific data
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42135325/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42135325/
-- [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/)
-  Source: PubMed Historical Pathogen Case Studies
-  DOI: 10.1128/cmr.00302-25
-  Journal/preprint server: Clinical microbiology reviews
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42132385/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42132385/
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/)
   Source: PubMed Historical Epidemiology
   DOI: 10.1371/journal.pntd.0014337
   Journal/preprint server: PLoS neglected tropical diseases
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42127162/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42127162/
-- [The impact of nonpharmaceutical interventions (NPIs) on rabies post-exposure prophylaxis: A comparative study in Wuhan, 2022 vs. 2023.](https://pubmed.ncbi.nlm.nih.gov/42116803/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2671578
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42116803/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42116803/
 - [Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom.](https://pubmed.ncbi.nlm.nih.gov/42116765/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2668795
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42116765/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42116765/
-- [Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.](https://pubmed.ncbi.nlm.nih.gov/42113958/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2662762
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42113958/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42113958/
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/14760584.2026.2668675
@@ -495,8 +477,6 @@ Search window: 7 day(s) ending 2026-05-15
 ## Historical epi / weird epi corner
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) | PubMed Historical Pathogen Case Studies
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
-- [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) | PubMed Historical Pathogen Case Studies
-  We outline practical surveillance steps to address under-ascertainment, standardized case definitions, sentinel reporting, and laboratory quality assurance and propose research priorities spanning environmental detection, host-pathogen interactions, and therapeutic evaluation. We contrast JLD with key mimickers (cutaneous leishmaniasis, chromoblastomycosis, leprosy, atypical mycobacterioses, and non-infectious lesions such as keloid scars) and summarize current management options, emphasizing when surgery alone suffices and when prolonged azole therapy should be considered. Diagnosis relies on direct microscopy and histopathology showing chains of thick-walled yeast-like cells connected by narrow-neck budding; culture is not feasible, and molecular assays are rarely available outside reference centers.
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) | PubMed Historical Epidemiology
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
 
