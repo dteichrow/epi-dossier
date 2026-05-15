@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-15
-Generated at: 2026-05-15T00:40
+Generated at: 2026-05-15T01:40
 Search window: 7 day(s) ending 2026-05-15
 
 ## Executive scan
@@ -9,40 +9,29 @@ Search window: 7 day(s) ending 2026-05-15
 - [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-05-13T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [The impact of nonpharmaceutical interventions (NPIs) on rabies post-exposure prophylaxis: A comparative study in Wuhan, 2022 vs. 2023.](https://pubmed.ncbi.nlm.nih.gov/42116803/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
-- [Africa CDC confirms Ebola outbreak in Ituri province, eastern DRC](https://eastleighvoice.co.ke/democratic-republic-of-congo/350839/africa-cdc-confirms-ebola-outbreak-in-ituri-province-eastern-drc) (The Eastleigh Voice; 2026-05-15T07:16+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Bangladesh: H5N1 avian influenza fatality in Chattogram child](https://outbreaknewstoday.substack.com/p/bangladesh-h5n1-avian-influenza-fatality) (Outbreak News Today; 2026-05-02T07:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (30), Major epidemiology studies (2), Occupational and environmental epidemiology (2)
+- [Africa's top health body confirms new Ebola outbreak in remote Congo province - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/africas-top-health-body-confirms-new-ebola-outbreak-132992438) (ABC News - Breaking News, Latest News and Videos; 2026-05-15T08:34+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [New Ebola outbreak confirmed in remote Congo province](https://www.therural.com.au/story/9247703/new-ebola-outbreak-confirmed-in-remote-congo-province/) (The Rural; 2026-05-15T08:18+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) (BBC; 2026-05-15T07:58+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (27), Major epidemiology studies (2), Occupational and environmental epidemiology (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Why has the Africa CDC confirmed an Ebola outbreak in Congo’s Ituri province?](https://news.az/news/why-has-the-africa-cdc-confirmed-an-ebola-outbreak-in-congos-ituri-province) (Latest news from Azerbaijan)
-- New publisher/source coverage joined this story cluster: Latest news from Azerbaijan, Yahoo News Malaysia.
-- The lead item has changed to [Why has the Africa CDC confirmed an Ebola outbreak in Congo’s Ituri province?](https://news.az/news/why-has-the-africa-cdc-confirmed-an-ebola-outbreak-in-congos-ituri-province) from Latest news from Azerbaijan.
-- 4 newly observed linked item(s) were added since the last saved snapshot.
-
-### Dengue and arboviruses
-- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
-- New publisher/source coverage joined this story cluster: Matangi Tonga.
-- Story volume increased from 3 to 4 clustered item(s) in the current window.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
+- No multi-item story clusters produced concrete update bullets in this run.
 
 ## Major topics
 ### Miscellaneous signals
 - Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-13T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Africa CDC confirms Ebola outbreak in Ituri province, eastern DRC](https://eastleighvoice.co.ke/democratic-republic-of-congo/350839/africa-cdc-confirms-ebola-outbreak-in-ituri-province-eastern-drc) (The Eastleigh Voice); [Africa's top health body confirms new Ebola outbreak in remote Congo province](https://www.10tv.com/article/syndication/associatedpress/africa-top-health-body-confirms-new-ebola-outbreak-in-remote-congo-province/616-14edfb0d-1b1c-4e8d-b488-c8212ef08eb0) (10TV); [Africa CDC Calls for Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC](https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-meeting-following-ebola-virus-disease-outbreak-in-ituri-province-drc/) (Africa CDC)
+- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Africa's top health body confirms new Ebola outbreak in remote Congo province - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/africas-top-health-body-confirms-new-ebola-outbreak-132992438) (ABC News - Breaking News, Latest News and Videos); [New Ebola outbreak confirmed in remote Congo province](https://www.therural.com.au/story/9247703/new-ebola-outbreak-confirmed-in-remote-congo-province/) (The Rural); [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Dengue and arboviruses
-- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
 - Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. According to the National Dengue Control Unit (NDCU) in Colombo, Sri Lanka, a total of...
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal); [60 cases of dengue confirmed to date](https://matangitonga.to/2026/05/12/60-cases-dengue-confirmed-date) (Matangi Tonga)
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue fever in Sri Lanka: More than 25,000 cases reported in 2026 to date](https://outbreaknewstoday.substack.com/p/dengue-fever-in-sri-lanka-more-than) (Outbreak News Today); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -63,10 +52,10 @@ Search window: 7 day(s) ending 2026-05-15
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 23 item(s) across 14 source(s); 0 official/primary-source item(s).
+- Topic size: 21 item(s) across 14 source(s); 0 official/primary-source item(s).
 - Lead item: [Why has the Africa CDC confirmed an Ebola outbreak in Congo’s Ituri province?](https://news.az/news/why-has-the-africa-cdc-confirmed-an-ebola-outbreak-in-congos-ituri-province) (Latest news from Azerbaijan, 2026-05-15T06:41+00:00)
 - Detailed note: Hantavirus outbreak on MV Hondius spreading rapidly: 23 passengers have already disembarked early and returned to locations all around the world," reads a simplified Chinese X post published May 7, 2026. RECOMMENDED STORIES US CDC classifies hantavirus as 'Level 3' emergency response Forest fire in Bontoc disrupts water supply and local tourism Passenger plane crash-lands at Wilson Airport in Nairobi - VIDEO Baku...
-- Evidence notes: [Why has the Africa CDC confirmed an Ebola outbreak in Congo’s Ituri province?](https://news.az/news/why-has-the-africa-cdc-confirmed-an-ebola-outbreak-in-congos-ituri-province) (Latest news from Azerbaijan); [Hantavirus outbreak sparks misinformation on ship passenger nationalities](https://malaysia.news.yahoo.com/hantavirus-outbreak-sparks-misinformation-ship-050700924.html) (Yahoo News Malaysia); [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News); [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) (Reuters); [Passengers evacuated from hantavirus-affected MV Hondius](https://www.bbc.co.uk/learningenglish/features/learning-english-from-the-news_2026/260513) (BBC)
+- Evidence notes: [Why has the Africa CDC confirmed an Ebola outbreak in Congo’s Ituri province?](https://news.az/news/why-has-the-africa-cdc-confirmed-an-ebola-outbreak-in-congos-ituri-province) (Latest news from Azerbaijan); [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) (CBS News); [Hantavirus outbreak sparks misinformation on ship passenger nationalities](https://malaysia.news.yahoo.com/hantavirus-outbreak-sparks-misinformation-ship-050700924.html) (Yahoo News Malaysia); [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) (Reuters); [Passengers evacuated from hantavirus-affected MV Hondius](https://www.bbc.co.uk/learningenglish/features/learning-english-from-the-news_2026/260513) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -349,12 +338,32 @@ Search window: 7 day(s) ending 2026-05-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Africa CDC confirms Ebola outbreak in Ituri province, eastern DRC
-- Source: The Eastleigh Voice
-- Date: 2026-05-15T07:16+00:00
-- URL: https://eastleighvoice.co.ke/democratic-republic-of-congo/350839/africa-cdc-confirms-ebola-outbreak-in-ituri-province-eastern-drc
+### Africa's top health body confirms new Ebola outbreak in remote Congo province - ABC News - Breaking News, Latest News and Videos
+- Source: ABC News - Breaking News, Latest News and Videos
+- Date: 2026-05-15T08:34+00:00
+- URL: https://abcnews.com/Health/wireStory/africas-top-health-body-confirms-new-ebola-outbreak-132992438
 - Category: Outbreaks and emerging infections
-- Summary: In a statement, the public health agency said the latest update shows about 246 suspected cases and 65 deaths, mainly in Mongwalu and Rwampara health zones. “Four deaths have been reported among laboratory-confirmed cases. Advertisement “Africa CDC is preparing support across key response pillars, including coordination through emergency operations mechanisms, digital surveillance and data management, cross-border preparedness, laboratory coordination, infection prevention and control, risk communication and community engagement.” Latest Stories HIV prevention and treatment services faltering, warns UNAIDS Public Accounts Committee launches probe into Sh5.2 billion maize, fertiliser subsidy bills Maendeleo Chap Chap rejects UDA merger, insists on independence ahead of 2027 polls AU, UN leaders denounce external interferences in Africa's security crisis In addition, Africa CDC will work with partners to assess the availability and appropriateness of medical countermeasures once sequencing results confirm the exact ebolavirus species.
+- Summary: Africa's top public health body has confirmed a new Ebola outbreak in Congo’s remote Ituri province KINSHASA, Congo -- Africa CDC, the continent's top public health body, on Friday confirmed a new Ebola outbreak in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far. “Four deaths have been reported among laboratory-confirmed cases. The deaths and suspected cases have been recorded mainly in the Mongwalu and Rwampara health zones, the Africa Centres for Disease Control ​and Prevention said in a statement.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### New Ebola outbreak confirmed in remote Congo province
+- Source: The Rural
+- Date: 2026-05-15T08:18+00:00
+- URL: https://www.therural.com.au/story/9247703/new-ebola-outbreak-confirmed-in-remote-congo-province/
+- Category: Outbreaks and emerging infections
+- Summary: It said about 246 suspected cases and 65 deaths had been reported, mainly in the Mongwalu and Rwampara health zones, while four deaths had been reported among ⁠laboratory-confirmed cases. "Africa CDC is ​concerned about the risk of further spread due to the urban context of Bunia ​and ​Rwampara, intense population movement, ​mining-related mobility in Mongwalu," it added. The Africa Centres for Disease Control and Prevention said it was convening an urgent meeting with Congo, Uganda, South Sudan ‌and global partners ‌to ⁠reinforce cross-border surveillance, preparedness and response ​efforts.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Ebola outbreak kills 65 in eastern DR Congo's Ituri province
+- Source: BBC
+- Date: 2026-05-15T07:58+00:00
+- URL: https://www.bbc.com/news/articles/cze2wpk7y76o
+- Category: Outbreaks and emerging infections
+- Summary: Around 246 cases and 65 deaths have been reported, mainly in the gold-mining towns of Mongwalu and Rwampara, said the Africa Centres for Disease Control and Prevention (CDC Africa). Its statement on Friday added that it was convening a meeting with DR Congo, Uganda, South Sudan and other international partners to discuss response efforts and cross-border surveillance. Ebola was first discovered in 1976 in what is now DR Congo, and is thought to have spread from bats.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -379,34 +388,18 @@ Search window: 7 day(s) ending 2026-05-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-05-11T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42113958/
-- Category: Major epidemiology studies
-- Summary: At 27-29°C, all the vaccine samples sustained potency at 1 week, 50% after 2 weeks, and their VVM were rated 10%, 20%, 40% and 100% after 1, 2, 3, and 4 weeks, respectively. At 2-4°C, 100% of the vaccine samples sustained potency for 6 months, and the color of VVM remained at 0% degradation after 3 months, but 10%, 20%, 20% after 4, 5, and 6 months, respectively. Fifty vials of bOPV tested before exposure had titers above 10 7.0 CCID 50 /mL (≥10 6.0 CCID 50 /0.1 mL), and VVM was rated at 0% degradation.
-- Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 4/5
-
-### Why has the Africa CDC confirmed an Ebola outbreak in Congo’s Ituri province?
-- Source: Latest news from Azerbaijan
-- Date: 2026-05-15T06:41+00:00
-- URL: https://news.az/news/why-has-the-africa-cdc-confirmed-an-ebola-outbreak-in-congos-ituri-province
-- Category: Outbreaks and emerging infections
-- Summary: RECOMMENDED STORIES US CDC classifies hantavirus as 'Level 3' emergency response Forest fire in Bontoc disrupts water supply and local tourism Passenger plane crash-lands at Wilson Airport in Nairobi - VIDEO Baku furniture factory fire prompts emergency response - VIDEO According to health authorities, the outbreak was identified in Ituri Province, a region that has experienced repeated Ebola outbreaks in recent years because of weak healthcare infrastructure, conflict, population displacement, and difficult access to remote communities. Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 4/5
-
 
 ## Other notable readings
+- [Monitoring the infectious titer of bOPV and the vaccine vial monitor stage at different storage temperature ranges.](https://pubmed.ncbi.nlm.nih.gov/42113958/) | PubMed Infectious Disease Search | 2026-05-11T00:00 | Major epidemiology studies
+  At 27-29°C, all the vaccine samples sustained potency at 1 week, 50% after 2 weeks, and their VVM were rated 10%, 20%, 40% and 100% after 1, 2, 3, and 4 weeks, respectively. At 2-4°C, 100% of the vaccine samples sustained potency for 6 months, and the color of VVM remained at 0% degradation after 3 months, but 10%, 20%, 20% after 4, 5, and 6 months, respectively. Fifty vials of bOPV tested before exposure had titers above 10 7.0 CCID 50 /mL (≥10 6.0 CCID 50 /0.1 mL), and VVM was rated at 0% degradation.
+- [Why has the Africa CDC confirmed an Ebola outbreak in Congo’s Ituri province?](https://news.az/news/why-has-the-africa-cdc-confirmed-an-ebola-outbreak-in-congos-ituri-province) | Latest news from Azerbaijan | 2026-05-15T06:41+00:00 | Outbreaks and emerging infections
+  RECOMMENDED STORIES US CDC classifies hantavirus as 'Level 3' emergency response Forest fire in Bontoc disrupts water supply and local tourism Passenger plane crash-lands at Wilson Airport in Nairobi - VIDEO Baku furniture factory fire prompts emergency response - VIDEO According to health authorities, the outbreak was identified in Ituri Province, a region that has experienced repeated Ebola outbreaks in recent years because of weak healthcare infrastructure, conflict, population displacement, and difficult access to remote communities. Limited detail was available from feed metadata alone.
+- [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
   Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
 - [Hantavirus outbreak sparks misinformation on ship passenger nationalities](https://malaysia.news.yahoo.com/hantavirus-outbreak-sparks-misinformation-ship-050700924.html) | Yahoo News Malaysia | 2026-05-15T05:07+00:00 | Outbreaks and emerging infections
   Hantavirus outbreak on MV Hondius spreading rapidly: 23 passengers have already disembarked early and returned to locations all around the world," reads a simplified Chinese X post published May 7, 2026. Four Australians sailed on the stricken MV Hondius but were not among those who disembarked before the illness was reported, a list from the World Health Organization (WHO) showed. And contrary to posts online, no Taiwanese traveller was on board, according to Taiwan's health authorities and the vessel's operator.
-- [5th Californian possibly exposed to hantavirus identified, health officials say no confirmed cases](https://www.cbsnews.com/sacramento/news/5th-californian-possibly-exposed-hantavirus-no-confirmed-cases/) | CBS News | 2026-05-14T00:49+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
 - [Fact Check: Andes strain of hantavirus is transmissible in humans](https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/) | Reuters | 2026-05-13T15:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Passengers evacuated from hantavirus-affected MV Hondius](https://www.bbc.co.uk/learningenglish/features/learning-english-from-the-news_2026/260513) | BBC | 2026-05-13T11:54+00:00 | Outbreaks and emerging infections
@@ -415,8 +408,6 @@ Search window: 7 day(s) ending 2026-05-15
   Limited detail was available from feed metadata alone.
 - [WHO chief says "work not over" after evacuation of hantavirus-stricken cruise ship](https://www.cbsnews.com/news/hantavirus-cruise-ship-evacuation-tedros-who-chief-work-not-over/) | CBS News | 2026-05-12T10:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [60 cases of dengue confirmed to date](https://matangitonga.to/2026/05/12/60-cases-dengue-confirmed-date) | Matangi Tonga | 2026-05-12T10:21+00:00 | Outbreaks and emerging infections
-  Updated on Tuesday, May 12, 2026 - 21:05. There are no dengue related deaths reported to date in this outbreak. The majority of cases are found in the age group of 11-14 years, predominantly male and with the highest number of cases in Tongatapu.
 - [What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/cn4pq1y1zjgo) | BBC | 2026-05-12T01:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXhSWllhVGpLWXlNNEpYZ29fc3FPN0JZOWNQOTEtNjJwRWR0dEhFQ0N4WEJWS0tPdjFoRkpsY0hLUHVmSlhUbXFFa3hpTGtSdmhIZkhiOUFnQS14dDhGdWlVNDBFbkVvWVBvdnJ0RC1fN2VocV91WVpHb1NtQ0Z6eFlqR2hibjNBOWVNTGFiQ0ZkU3NJNjFCRFBLYTF0TkJCSDlyUENPSUZIOFNCMTFDemp3dVB1dVBWU0ZQNGlwejZINmdWVDhiQUNiQlM5RHZ2?oc=5) | Reuters | 2026-05-12T00:04+00:00 | Outbreaks and emerging infections
@@ -438,8 +429,6 @@ Search window: 7 day(s) ending 2026-05-15
 - [U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5) | NPR | 2026-05-11T01:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Passengers evacuate MV Hondius cruise ship following hantavirus outbreak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5) | PBS | 2026-05-10T17:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Americans onboard hantavirus cruise ship to be repatriated to US as one tests positive](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5) | The Guardian | 2026-05-10T16:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
