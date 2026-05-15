@@ -18,7 +18,7 @@
     "sources_cached": 2,
     "sources_failed": 2,
     "sources_live": 36,
-    "story_count_change": 2,
+    "story_count_change": 0,
     "wrapper_only_count": 3
   },
   "freshness_summary": {
@@ -28,7 +28,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-14T19:29:13",
+  "generated_at": "2026-05-14T19:29:51",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
