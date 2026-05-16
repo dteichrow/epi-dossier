@@ -8,34 +8,33 @@
       "Guardian",
       "NBC News",
       "NPR",
-      "New York Times",
       "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 22,
+    "metadata_only_count": 27,
     "sources_cached": 2,
     "sources_failed": 2,
-    "sources_live": 38,
+    "sources_live": 35,
     "story_count_change": 2,
-    "wrapper_only_count": 6
+    "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 38,
+    "live": 35,
     "refresh_cache": 2,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-16T08:11:07",
+  "generated_at": "2026-05-16T09:12:23",
   "source_failures": [
     {
-      "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
+      "error": "HTTPSConnectionPool(host='ncdc.gov.ng', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='ncdc.gov.ng', port=443): Failed to resolve 'ncdc.gov.ng' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "source": "Nigeria Centre for Disease Control",
       "source_type": "rss"
     },
     {
-      "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
+      "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Max retries exceeded with url: /livestock-poultry-disease/avian/avian-influenza (Caused by NameResolutionError(\"HTTPSConnection(host='www.aphis.usda.gov', port=443): Failed to resolve 'www.aphis.usda.gov' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
     }
