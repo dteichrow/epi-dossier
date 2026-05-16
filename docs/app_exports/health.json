@@ -8,6 +8,7 @@
       "Guardian",
       "NBC News",
       "NPR",
+      "New York Times",
       "PBS",
       "Reuters",
       "Sky News"
@@ -16,7 +17,7 @@
     "sources_cached": 2,
     "sources_failed": 2,
     "sources_live": 36,
-    "story_count_change": 1,
+    "story_count_change": 2,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
@@ -26,7 +27,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-16T06:41:23",
+  "generated_at": "2026-05-16T07:11:01",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
