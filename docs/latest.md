@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-16
-Generated at: 2026-05-16T20:25
+Generated at: 2026-05-16T21:24
 Search window: 7 day(s) ending 2026-05-16
 
 ## Executive scan
@@ -12,11 +12,14 @@ Search window: 7 day(s) ending 2026-05-16
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom.](https://pubmed.ncbi.nlm.nih.gov/42116765/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (28), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (2)
+- Category mix: Outbreaks and emerging infections (28), Major epidemiology studies (3), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-- No multi-item story clusters produced concrete update bullets in this run.
+### Hantavirus and cruise-ship outbreak
+- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews)
+- New publisher/source coverage joined this story cluster: Euronews.
+
 
 ## Major topics
 ### Miscellaneous signals
@@ -61,9 +64,9 @@ Search window: 7 day(s) ending 2026-05-16
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 19 item(s) across 10 source(s); 0 official/primary-source item(s).
-- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com, 2026-05-13T15:06+00:00)
+- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews, 2026-05-13T15:06+00:00)
 - Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. Results from the National Microbiology Lab in Winnipeg to confirm the case are expected to come over the weekend, said Bonnie Henry, the public health officer for the province of British Columbia. In each episode, two...
-- Evidence notes: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com); [Canadian cruise passenger gets a presumptive positive hantavirus test result](https://www.scmp.com/news/world/united-states-canada/article/3353845/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result) (South China Morning Post); [Canadian MV Hondius cruise passenger tests positive for hantavirus](https://www.nbcnews.com/health/health-news/canadian-hondius-cruise-passenger-positive-hantavirus-rcna345478) (NBC News); [Canadian from hantavirus-hit cruise ship tests positive](https://www.bbc.com/news/articles/c2k2p057ezno) (BBC); [One Canadian tests positive for hantavirus, BC officials say](https://www.reuters.com/business/healthcare-pharmaceuticals/one-canadian-tests-positive-hantavirus-bc-officials-say-2026-05-16/) (Reuters)
+- Evidence notes: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews); [Canadian cruise passenger gets a presumptive positive hantavirus test result](https://www.scmp.com/news/world/united-states-canada/article/3353845/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result) (South China Morning Post); [Canadian MV Hondius cruise passenger tests positive for hantavirus](https://www.nbcnews.com/health/health-news/canadian-hondius-cruise-passenger-positive-hantavirus-rcna345478) (NBC News); [Canadian from hantavirus-hit cruise ship tests positive](https://www.bbc.com/news/articles/c2k2p057ezno) (BBC); [One Canadian tests positive for hantavirus, BC officials say](https://www.reuters.com/business/healthcare-pharmaceuticals/one-canadian-tests-positive-hantavirus-bc-officials-say-2026-05-16/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -402,7 +405,7 @@ Search window: 7 day(s) ending 2026-05-16
   Limited detail was available from feed metadata alone.
 - [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) | Outbreak News Today | 2026-05-14T00:07+00:00 | Outbreaks and emerging infections
   In a follow-up on the dengue fever situation in Sri Lanka this year, officials with the National Dengue Control Unit (NDCU) report 27,754 dengue cases as of May 11, an increase in cases compared to 2025. In addition, 14 deaths have been recorded. The highest number of infections has been recorded in the Western Province, while Matara, Galle, Ratnapura, Kalutara, and Kandy districts have also reported a significant number of cases in the first four months of 2026.
-- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
+- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
   Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
 - [Bangladesh measles outbreak top 50,000 total cases since mid-March](https://outbreaknewstoday.substack.com/p/bangladesh-measles-outbreak-top-50000) | Outbreak News Today | 2026-05-12T23:14+00:00 | Outbreaks and emerging infections
   Nine additional children died from measles, bringing the total number of confirmed (68) and suspected (356) measles deaths to 424. The Bangladesh Directorate General of Health Services (DGHS) recorded 1,105 new suspected measles cases in the past 24 hours, bringing the total to 51, 567 through today. Health officials report 7,024 confirmed measles cases since Mar 15.
