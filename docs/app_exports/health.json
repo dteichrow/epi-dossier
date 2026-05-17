@@ -12,7 +12,7 @@
       "Sky News"
     ],
     "metadata_only_count": 20,
-    "sources_cached": 2,
+    "sources_cached": 0,
     "sources_failed": 2,
     "sources_live": 38,
     "story_count_change": 2,
@@ -21,11 +21,11 @@
   "freshness_summary": {
     "fallback_cache": 0,
     "live": 38,
-    "refresh_cache": 2,
+    "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-16T17:21:15",
+  "generated_at": "2026-05-16T18:21:52",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
