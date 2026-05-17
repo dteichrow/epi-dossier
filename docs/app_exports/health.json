@@ -25,7 +25,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-17T15:46:44",
+  "generated_at": "2026-05-17T16:47:15",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
