@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-16
-Generated at: 2026-05-16T19:24
+Generated at: 2026-05-16T20:24
 Search window: 7 day(s) ending 2026-05-16
 
 ## Executive scan
@@ -12,19 +12,14 @@ Search window: 7 day(s) ending 2026-05-16
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom.](https://pubmed.ncbi.nlm.nih.gov/42116765/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (29), Major epidemiology studies (3), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (28), Major epidemiology studies (3), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
-- New publisher/source coverage joined this story cluster: South China Morning Post.
-- Story volume increased from 19 to 20 clustered item(s) in the current window.
-- 2 newly observed linked item(s) were added since the last saved snapshot.
-
 ### Dengue and arboviruses
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
-- New publisher/source coverage joined this story cluster: The Tribune.
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- New publisher/source coverage joined this story cluster: Outbreak News Today.
 - 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
@@ -33,7 +28,7 @@ Search window: 7 day(s) ending 2026-05-16
 - Topic size: 5 item(s) across 4 source(s); 3 official/primary-source item(s).
 - Lead item: [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa, 2026-05-15T18:57+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) (BBC); [Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda](https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/) (Africa CDC)
+- Evidence notes: [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) (BBC); [New Ebola outbreak in remote Congo province kills 80](https://www.cnn.com/2026/05/15/health/ebola-outbreak-deaths-congo) (CNN)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -41,7 +36,7 @@ Search window: 7 day(s) ending 2026-05-16
 - Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
 - Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. SINGAPORE – There were more than 600 dengue cases from January to May 15, 2026, a 66...
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Ahead of rains in Ludhiana, Health Dept asked to keep an eye out for dengue symptoms](https://www.tribuneindia.com/news/ludhiana/ahead-of-rains-in-ludhiana-health-dept-asked-to-keep-an-eye-out-for-dengue-symptoms/amp) (The Tribune); [Dengue cases drop in Singapore; breeding sites monitored](https://www.straitstimes.com/singapore/spore-dengue-cases-drop-66-in-first-5-months-of-2026-most-breeding-sites-in-2025-found-in-homes) (The Straits Times); [Efforts launched in Upper Kohistan to contain dengue outbreak](https://www.thenews.pk/print/1415723-efforts-launched-in-upper-kohistan-to-contain-dengue-outbreak) (The News Pakistan)
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Ahead of rains in Ludhiana, Health Dept asked to keep an eye out for dengue symptoms](https://www.tribuneindia.com/news/ludhiana/ahead-of-rains-in-ludhiana-health-dept-asked-to-keep-an-eye-out-for-dengue-symptoms/amp) (The Tribune); [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) (Outbreak News Today); [Dengue cases drop in Singapore; breeding sites monitored](https://www.straitstimes.com/singapore/spore-dengue-cases-drop-66-in-first-5-months-of-2026-most-breeding-sites-in-2025-found-in-homes) (The Straits Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -70,7 +65,7 @@ Search window: 7 day(s) ending 2026-05-16
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 20 item(s) across 10 source(s); 0 official/primary-source item(s).
+- Topic size: 19 item(s) across 10 source(s); 0 official/primary-source item(s).
 - Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com, 2026-05-13T15:06+00:00)
 - Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. Results from the National Microbiology Lab in Winnipeg to confirm the case are expected to come over the weekend, said Bonnie Henry, the public health officer for the province of British Columbia. In each episode, two...
 - Evidence notes: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com); [Canadian cruise passenger gets a presumptive positive hantavirus test result](https://www.scmp.com/news/world/united-states-canada/article/3353845/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result) (South China Morning Post); [Canadian MV Hondius cruise passenger tests positive for hantavirus](https://www.nbcnews.com/health/health-news/canadian-hondius-cruise-passenger-positive-hantavirus-rcna345478) (NBC News); [Canadian from hantavirus-hit cruise ship tests positive](https://www.bbc.com/news/articles/c2k2p057ezno) (BBC); [One Canadian tests positive for hantavirus, BC officials say](https://www.reuters.com/business/healthcare-pharmaceuticals/one-canadian-tests-positive-hantavirus-bc-officials-say-2026-05-16/) (Reuters)
@@ -408,8 +403,10 @@ Search window: 7 day(s) ending 2026-05-16
 
 
 ## Other notable readings
-- [Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda](https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/) | Africa CDC | 2026-05-16T07:45+00:00 | Outbreaks and emerging infections
+- [New Ebola outbreak in remote Congo province kills 80](https://www.cnn.com/2026/05/15/health/ebola-outbreak-deaths-congo) | CNN | 2026-05-15T13:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) | Outbreak News Today | 2026-05-14T00:07+00:00 | Outbreaks and emerging infections
+  In a follow-up on the dengue fever situation in Sri Lanka this year, officials with the National Dengue Control Unit (NDCU) report 27,754 dengue cases as of May 11, an increase in cases compared to 2025. In addition, 14 deaths have been recorded. The highest number of infections has been recorded in the Western Province, while Matara, Galle, Ratnapura, Kalutara, and Kandy districts have also reported a significant number of cases in the first four months of 2026.
 - [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
   Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
 - [Bangladesh measles outbreak top 50,000 total cases since mid-March](https://outbreaknewstoday.substack.com/p/bangladesh-measles-outbreak-top-50000) | Outbreak News Today | 2026-05-12T23:14+00:00 | Outbreaks and emerging infections
@@ -432,8 +429,6 @@ Search window: 7 day(s) ending 2026-05-16
   SINGAPORE – There were more than 600 dengue cases from January to May 15, 2026, a 66 per cent decrease compared with the same period in 2025, the National Environment Agency (NEA) said. NEA took over 9,800 enforcement actions in 2025 as 65 per cent of Aedes breeding sites were found in homes, highlighting ongoing vigilance needed against endemic dengue risks. Sign up now: Get ST's newsletters delivered to your inbox Senior Minister of State for Sustainability and the Environment Janil Puthucheary speaking at the launch of the National Dengue Prevention Campaign 2026 on May 16.
 - [More measles cases are reported in Lebanon, Lancaster, and Berks Counties](https://www.inquirer.com/health/measles-outbreak-pennsylvania-lebanon-lancaster-berks-counties-cases-20260515.html) | Inquirer.com | 2026-05-15T19:11+00:00 | Outbreaks and emerging infections
   Measles cases in 2026 in Pennsylvania have already surpassed all cases reported in 2025. State officials said the first case in Lebanon County was detected on April 23. Last week, 11 measles cases were reported in Lebanon County .
-- [Efforts launched in Upper Kohistan to contain dengue outbreak](https://www.thenews.pk/print/1415723-efforts-launched-in-upper-kohistan-to-contain-dengue-outbreak) | The News Pakistan | 2026-05-15T19:00+00:00 | Outbreaks and emerging infections
-  Besides others, the district health officer, medical superintendent of the District Headquarters Hospital, Dasu, and representatives of the Expanded Programme on Immunisation, Public Health Department and other devolved departments attended the meeting. We have to take extra measures to contain its outbreak following the first spell of monsoon rains across the district,” Azizullah Jan, the deputy commissioner of Upper Kohistan, told a meeting held at his office on Friday. The heads and representatives of various departments also briefed the meeting regarding their preparedness to effectively contain the spread of dengue.
 - [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) | Reuters | 2026-05-14T15:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [More than 1,700 people banned from leaving British cruise ship docked in France over likely stomach flu outbreak](https://news.sky.com/story/over-1-000-passengers-banned-from-leaving-british-cruise-ship-docked-in-france-over-likely-stomach-flu-outbreak-13543587) | Sky News | 2026-05-14T10:34+00:00 | Outbreaks and emerging infections

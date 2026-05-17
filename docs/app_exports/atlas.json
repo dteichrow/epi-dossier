@@ -1311,7 +1311,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: The Tribune.",
+          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-16T19:24:01",
-  "run_id": "run_1b89f76a48f34ae5"
+  "generated_at": "2026-05-16T20:24:34",
+  "run_id": "run_83915c77a1b95e6f"
 }
