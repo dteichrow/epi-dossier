@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-17
-Generated at: 2026-05-17T01:29
+Generated at: 2026-05-17T02:30
 Search window: 7 day(s) ending 2026-05-17
 
 ## Executive scan
@@ -16,15 +16,10 @@ Search window: 7 day(s) ending 2026-05-17
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
-- The lead item has changed to [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) from Euronews.com.
-- 8 newly observed linked item(s) were added since the last saved snapshot.
-
-### Dengue and arboviruses
-- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
-- Outbreak News Today now includes deaths or fatal cases in the story frame.
-- 2 newly observed linked item(s) were added since the last saved snapshot.
+### Avian influenza and H5N1
+- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR)
+- New publisher/source coverage joined this story cluster: Cambodianess.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
@@ -44,21 +39,21 @@ Search window: 7 day(s) ending 2026-05-17
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
+### Avian influenza and H5N1
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
+- Detailed note: Weekly / May 14, 2026 / 75(18);234â239 Melissa A. Durand, PhD, VMD 1 ; Carrie Reed, DSc 1 ( View author affiliations ) Since 2024, three human influenza A(H5) cases have been reported among people in the U.S. That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died.
+- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak](https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak) (Cambodianess); [Cat-to-human transmission of highly pathogenic avian influenza virus confirmed](https://www.dvm360.com/view/cat-to-human-transmission-of-highly-pathogenic-avian-influenza-virus-confirmed) (DVM360)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. SINGAPORE – There were more than 600 dengue cases from January to May 15, 2026, a 66...
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) (Outbreak News Today); [Dengue cases drop in Singapore; breeding sites monitored](https://www.straitstimes.com/singapore/spore-dengue-cases-drop-66-in-first-5-months-of-2026-most-breeding-sites-in-2025-found-in-homes) (The Straits Times)
+- Detailed note: states and the District of Columbia increased 359% above the annual average during 2010–2023; a total of 97.2% of cases were travel associated, and 2.8% were locally acquired. Approximately one fifth (21.8%) of cases occurred among persons aged 50–59 years, and more than one half (57.5%) occurred in Hispanic or Latino persons. In a follow-up on the dengue fever situation in Sri Lanka this year, officials with the...
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Avian influenza and H5N1
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: Weekly / May 14, 2026 / 75(18);234â239 Melissa A. Durand, PhD, VMD 1 ; Carrie Reed, DSc 1 ( View author affiliations ) Since 2024, three human influenza A(H5) cases have been reported among people in the U.S.
-- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cat-to-human transmission of highly pathogenic avian influenza virus confirmed](https://www.dvm360.com/view/cat-to-human-transmission-of-highly-pathogenic-avian-influenza-virus-confirmed) (DVM360)
-- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -385,6 +380,16 @@ Search window: 7 day(s) ending 2026-05-17
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak
+- Source: Cambodianess
+- Date: 2026-05-16T07:06+00:00
+- URL: https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak
+- Category: Outbreaks and emerging infections
+- Summary: That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. PHNOM PENH — Cambodia has confirmed a fourth human case of H5N1 bird flu this year, health authorities said on April 22, intensifying concerns over a fast-evolving virus that is spreading through poultry and increasingly spilling over into humans.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Ebola outbreak kills 65 in eastern DR Congo's Ituri province
 - Source: BBC
 - Date: 2026-05-16T04:11+00:00
@@ -395,18 +400,10 @@ Search window: 7 day(s) ending 2026-05-17
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda
-- Source: Africa CDC
-- Date: 2026-05-16T07:45+00:00
-- URL: https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 4/5
-
 
 ## Other notable readings
+- [Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda](https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/) | Africa CDC | 2026-05-16T07:45+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) | Outbreak News Today | 2026-05-14T00:07+00:00 | Outbreaks and emerging infections
   In a follow-up on the dengue fever situation in Sri Lanka this year, officials with the National Dengue Control Unit (NDCU) report 27,754 dengue cases as of May 11, an increase in cases compared to 2025. In addition, 14 deaths have been recorded. The highest number of infections has been recorded in the Western Province, while Matara, Galle, Ratnapura, Kalutara, and Kandy districts have also reported a significant number of cases in the first four months of 2026.
 - [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
@@ -423,8 +420,6 @@ Search window: 7 day(s) ending 2026-05-17
   Limited detail was available from feed metadata alone.
 - [One Canadian tests positive for hantavirus, BC officials say](https://www.reuters.com/business/healthcare-pharmaceuticals/one-canadian-tests-positive-hantavirus-bc-officials-say-2026-05-16/) | Reuters | 2026-05-16T19:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Dengue cases drop in Singapore; breeding sites monitored](https://www.straitstimes.com/singapore/spore-dengue-cases-drop-66-in-first-5-months-of-2026-most-breeding-sites-in-2025-found-in-homes) | The Straits Times | 2026-05-16T05:15+00:00 | Outbreaks and emerging infections
-  SINGAPORE – There were more than 600 dengue cases from January to May 15, 2026, a 66 per cent decrease compared with the same period in 2025, the National Environment Agency (NEA) said. NEA took over 9,800 enforcement actions in 2025 as 65 per cent of Aedes breeding sites were found in homes, highlighting ongoing vigilance needed against endemic dengue risks. Sign up now: Get ST's newsletters delivered to your inbox Senior Minister of State for Sustainability and the Environment Janil Puthucheary speaking at the launch of the National Dengue Prevention Campaign 2026 on May 16.
 - [More measles cases are reported in Lebanon, Lancaster, and Berks Counties](https://www.inquirer.com/health/measles-outbreak-pennsylvania-lebanon-lancaster-berks-counties-cases-20260515.html) | Inquirer.com | 2026-05-15T19:11+00:00 | Outbreaks and emerging infections
   Measles cases in 2026 in Pennsylvania have already surpassed all cases reported in 2025. State officials said the first case in Lebanon County was detected on April 23. Last week, 11 measles cases were reported in Lebanon County .
 - [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) | Reuters | 2026-05-14T15:35+00:00 | Outbreaks and emerging infections
