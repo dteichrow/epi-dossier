@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-16
-Generated at: 2026-05-16T22:28
+Generated at: 2026-05-16T23:27
 Search window: 7 day(s) ending 2026-05-16
 
 ## Executive scan
@@ -12,13 +12,14 @@ Search window: 7 day(s) ending 2026-05-16
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom.](https://pubmed.ncbi.nlm.nih.gov/42116765/) (PubMed Infectious Disease Search; 2026-05-12T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (25), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (2)
+- Category mix: Outbreaks and emerging infections (26), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
-- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews)
-- 1 newly observed linked item(s) were added since the last saved snapshot.
+- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
+- New publisher/source coverage joined this story cluster: Euronews.com.
+- Story volume increased from 17 to 18 clustered item(s) in the current window.
 
 
 ## Major topics
@@ -26,7 +27,7 @@ Search window: 7 day(s) ending 2026-05-16
 - Topic size: 5 item(s) across 4 source(s); 3 official/primary-source item(s).
 - Lead item: [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa, 2026-05-15T18:57+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) (BBC); [A new Ebola outbreak is spreading through a remote Congo province, with 65 deaths recorded](https://www.localmemphis.com/article/news/nation-world/ebola-outbreak-democratic-republic-of-the-congo/507-8e27e5b4-94d3-4b55-a885-63b2c5d4747e) (localmemphis.com)
+- Evidence notes: [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Ebola outbreak in Congo’s Ituri province: 246 suspected cases, 65 dead as region on alert](https://english.mathrubhumi.com/amp/news/world/ebola-outbreak-dr-congo-ituri-uganda-alert-vz1cbv5s) (Mathrubhumi English); [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -63,10 +64,10 @@ Search window: 7 day(s) ending 2026-05-16
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 17 item(s) across 9 source(s); 0 official/primary-source item(s).
-- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews, 2026-05-13T15:06+00:00)
+- Topic size: 18 item(s) across 9 source(s); 0 official/primary-source item(s).
+- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com, 2026-05-13T15:06+00:00)
 - Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.
-- Evidence notes: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews); [Canadian MV Hondius cruise passenger tests positive for hantavirus](https://www.nbcnews.com/health/health-news/canadian-hondius-cruise-passenger-positive-hantavirus-rcna345478) (NBC News); [Canadian from hantavirus-hit cruise ship tests positive](https://www.bbc.com/news/articles/c2k2p057ezno) (BBC); [One Canadian tests positive for hantavirus, BC officials say](https://www.reuters.com/business/healthcare-pharmaceuticals/one-canadian-tests-positive-hantavirus-bc-officials-say-2026-05-16/) (Reuters); [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) (Reuters)
+- Evidence notes: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com); [Canadian MV Hondius cruise passenger tests positive for hantavirus](https://www.nbcnews.com/health/health-news/canadian-hondius-cruise-passenger-positive-hantavirus-rcna345478) (NBC News); [Canadian from hantavirus-hit cruise ship tests positive](https://www.bbc.com/news/articles/c2k2p057ezno) (BBC); [One Canadian tests positive for hantavirus, BC officials say](https://www.reuters.com/business/healthcare-pharmaceuticals/one-canadian-tests-positive-hantavirus-bc-officials-say-2026-05-16/) (Reuters); [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -379,6 +380,16 @@ Search window: 7 day(s) ending 2026-05-16
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Ebola outbreak in Congo’s Ituri province: 246 suspected cases, 65 dead as region on alert
+- Source: Mathrubhumi English
+- Date: 2026-05-16T04:58+00:00
+- URL: https://english.mathrubhumi.com/amp/news/world/ebola-outbreak-dr-congo-ituri-uganda-alert-vz1cbv5s
+- Category: Outbreaks and emerging infections
+- Summary: Africa’s top public health agency, the Africa Centres for Disease Control and Prevention, has confirmed a new Ebola outbreak in eastern Democratic Republic of the Congo’s Ituri province, with 246 suspected cases and 65 deaths reported so far, marking the country’s 17th outbreak since the virus was first detected in 1976. Health officials said only four deaths have been laboratory-confirmed so far, but surveillance teams moved to classify the outbreak after a sharp rise in suspected infections across multiple health zones in Ituri, including Mongwalu, Rwampara, and the provincial capital Bunia. Early indications suggest a variant linked to the Ebola Zaire lineage, which was responsible for several major outbreaks in the past, including the 2018–2020 epidemic that killed over 1,000 people.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Ebola outbreak kills 65 in eastern DR Congo's Ituri province
 - Source: BBC
 - Date: 2026-05-16T04:11+00:00
@@ -389,23 +400,13 @@ Search window: 7 day(s) ending 2026-05-16
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### A new Ebola outbreak is spreading through a remote Congo province, with 65 deaths recorded
-- Source: localmemphis.com
-- Date: 2026-05-15T09:36+00:00
-- URL: https://www.localmemphis.com/article/news/nation-world/ebola-outbreak-democratic-republic-of-the-congo/507-8e27e5b4-94d3-4b55-a885-63b2c5d4747e
-- Category: Outbreaks and emerging infections
-- Summary: How to watch the 2026 Preakness Stakes Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 4/5
-
 
 ## Other notable readings
 - [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) | Outbreak News Today | 2026-05-14T00:07+00:00 | Outbreaks and emerging infections
   In a follow-up on the dengue fever situation in Sri Lanka this year, officials with the National Dengue Control Unit (NDCU) report 27,754 dengue cases as of May 11, an increase in cases compared to 2025. In addition, 14 deaths have been recorded. The highest number of infections has been recorded in the Western Province, while Matara, Galle, Ratnapura, Kalutara, and Kandy districts have also reported a significant number of cases in the first four months of 2026.
 - [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
   Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
-- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
+- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
   Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Compared to no vaccination, the vaccination of older adults aged ≥65 years and the high-risk population was estimated to prevent 12,933 symptomatic cases, 12,811 outpatient cases, 122 hospitalizations, 353 lost quality-adjusted life-years (QALYs) gained, and four deaths, translating to total direct and societal cost savings of US$9,424,605 and US$10,397,107 respectively. Implementing an adapted COVID-19 vaccine strategy for high-risk and older adults in Guatemala is projected to improve health outcomes and, under base-case assumptions, be cost-saving from both payer and societal perspectives. Using adapted COVID-19 vaccines targeting current variants in circulation is necessary for addressing the dynamic evolution of the SARS-CoV-2 virus.
