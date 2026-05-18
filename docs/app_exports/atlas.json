@@ -1311,7 +1311,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Free Press Journal now includes deaths or fatal cases in the story frame.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: The News Pakistan.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-18T02:00:17",
-  "run_id": "run_68566db13943ae35"
+  "generated_at": "2026-05-18T03:02:00",
+  "run_id": "run_275f821a104ec1af"
 }
