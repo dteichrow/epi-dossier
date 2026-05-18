@@ -1311,7 +1311,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "2 newly observed linked item(s) were added since the last saved snapshot.",
+          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1877,28 +1877,28 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
-      "CNN",
+      "CBS News",
       "Guardian",
       "NBC News",
       "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 11,
+    "metadata_only_count": 10,
     "sources_cached": 5,
     "sources_failed": 2,
-    "sources_live": 31,
+    "sources_live": 30,
     "story_count_change": 0,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 31,
+    "live": 30,
     "refresh_cache": 5,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-18T06:05:23",
+  "generated_at": "2026-05-18T07:07:28",
   "high_priority_item_ids": [
     "item_62055638a2f45fac",
     "item_2591ea8a56c4e2e9",
@@ -1906,12 +1906,12 @@
     "item_50bf8443f6a7a7da",
     "item_9eaa5c88712ab0ad",
     "item_c39580982a135e52",
-    "item_908fd72449d6f8c4",
+    "item_59db53c15ae18609",
     "item_1d5013f76179a1c6",
-    "item_2db5896a7f912fe9",
-    "item_23c92566c8fb413b"
+    "item_7f0a394c71d8ea68",
+    "item_f47ad4cd033b22c1"
   ],
-  "item_count": 36,
+  "item_count": 35,
   "items": [
     {
       "abstract_url": null,
@@ -1951,17 +1951,17 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:58.094533+00:00",
+      "source_cached_at": "2026-05-18T14:05:39.311003+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response",
       "story_id": null,
       "story_status": "",
-      "summary": "in infection prevention, epidemiology, surveillance and risk communication, to support response activities in DRC and Uganda. In parallel, ECDC is in discussions with the European Civil Protection and Humanitarian Aid Operations and the Global Outbreak Alert and Response Network regarding the possible deployment of additional experts as the situation evolves, for example, e.g. The European Centre for Disease Prevention and Control (ECDC) is deploying experts to support the response to the ongoing Ebola disease outbreak in the Democratic Republic of the Congo (DRC).",
+      "summary": "In parallel, ECDC is in discussions with the European Civil Protection and Humanitarian Aid Operations and the Global Outbreak Alert and Response Network regarding the possible deployment of additional experts as the situation evolves, for example, in infection prevention, epidemiology, surveillance, and risk communication, to support response activities in DRC and Uganda. The European Centre for Disease Prevention and Control (ECDC) is deploying experts to support the response to the ongoing Ebola disease outbreak in the Democratic Republic of the Congo (DRC). They agreed on the details of collaboration, and ECDC will promptly deploy its experts to the region.",
       "title": "ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2001,7 +2001,7 @@
       "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/health-workers-race-respond-congos-fast-spreading-ebola-outbreak-2026-05-18/",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:16.026405+00:00",
+      "source_cached_at": "2026-05-18T14:05:55.978465+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/health-workers-race-respond-congos-fast-spreading-ebola-outbreak-2026-05-18/",
@@ -2011,7 +2011,7 @@
       "title": "Health workers race to respond to Congo's fast-spreading Ebola outbreak",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2052,7 +2052,7 @@
       "resolved_url": null,
       "source": "WHO Regional Office for Africa",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:19.596110+00:00",
+      "source_cached_at": "2026-05-18T14:05:14.332273+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-april-2026",
@@ -2062,7 +2062,7 @@
       "title": "Electronic Surveillance Monthly Bulletin (April 2026)",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2103,7 +2103,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:58.094533+00:00",
+      "source_cached_at": "2026-05-18T14:05:39.311003+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency",
@@ -2113,7 +2113,7 @@
       "title": "WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2153,7 +2153,7 @@
       "resolved_url": "https://news.sky.com/story/new-ebola-outbreak-in-congo-kills-65-13544395",
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:26.507175+00:00",
+      "source_cached_at": "2026-05-18T14:06:06.647075+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.sky.com/story/new-ebola-outbreak-in-congo-kills-65-13544395",
@@ -2163,7 +2163,7 @@
       "title": "WHO declares global public health emergency over Ebola outbreak in Democratic Republic of Congo and Uganda",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2203,7 +2203,7 @@
       "resolved_url": "https://www.nbcnews.com/world/africa/ebola-outbreak-congo-rcna345481",
       "source": "Google News Rural Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:23.974087+00:00",
+      "source_cached_at": "2026-05-18T14:06:04.485855+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.nbcnews.com/world/africa/ebola-outbreak-congo-rcna345481",
@@ -2213,57 +2213,57 @@
       "title": "Congolese report constant burials as deaths in new Ebola outbreak reach 80",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
       "abstract_url": null,
-      "aggregator_source": "Google News Southeast Asia Outbreaks",
-      "canonical_url": "https://cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak",
+      "aggregator_source": "Google News Rural Outbreaks",
+      "canonical_url": "https://cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response",
       "category": "Outbreaks and emerging infections",
-      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "live_outbreak_development",
-      "country": "",
-      "display_source": "Cambodianess",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "United States",
+      "display_source": "CBS News",
       "doi": null,
       "editions": [
         "index",
         "notebook",
         "watch",
-        "asia"
+        "africa"
       ],
       "evidence_type": "news_report",
       "freshness_state": "live",
-      "item_id": "item_908fd72449d6f8c4",
+      "item_id": "item_59db53c15ae18609",
       "journal": null,
-      "link_quality": "resolved_article",
-      "local_signal": true,
-      "low_detail": false,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
       "official": false,
-      "preferred_url": "https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak",
-      "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-16T07:06+00:00",
-      "publisher": "Cambodianess",
-      "publisher_access": "unknown",
-      "publisher_name": "Cambodianess",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcURpQTd6X1ZtQ2NGTXQ1M1p2Mk11ZTFObmpBMnk3WHZ1YnNLQjQxbHZSZW52cFJFZ2RET0hRWTlOUjBaLUI3c2dvZTJpRVJKdmJmejN3UUlrR0pfQ0N0NWZQQ0NtSXpVZ1RuakhqUE1lVzBSVDl2bkZXRGZhSTBUNFNqQzZsenZGV092S2dGR2NQY0puNl8yc2tkcG5Vb3Z4eUt0LXMyLUZRUGcw?oc=5",
-      "region": "Southeast Asia",
+      "preferred_url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-16T16:13+00:00",
+      "publisher": "CBS News",
+      "publisher_access": "open",
+      "publisher_name": "CBS News",
+      "publisher_tier": "major_newsroom",
+      "raw_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FSUN5OU9RQlhzdl9ibDVveEJzc2hkNWZmbWJxcHhRY1hZNFJDUUVwcldWZ0FyaFBxNWZNdFY5aTYwVVVLc0p5VTM5QTQ0WmlPSi0wLXRGaVNnX3A3bUgzS3gyU29lcFNfbXVKOS1IWmxoa2RaVEdqc09n0gF_QVVfeXFMT3BxSzN4anFZaGlDQjFpX0dnMnRldHNoRnJCSnVFZmJrUVgwWVNFUmVzWlJDYlNJV2hJVjRjOTFEWkdoem83aHJjakZFUzVNNlNhZFBucWNvdmRzUEtmaW9wSG9xVjQ5NVY5R0dUaGZaemtfcTVmV0ZjVXYxZXVBWQ?oc=5",
+      "region": "Africa",
       "relevance_score": 5,
-      "resolved_url": "https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak",
-      "source": "Google News Southeast Asia Outbreaks",
+      "resolved_url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/",
+      "source": "Google News Rural Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:29.117622+00:00",
-      "source_confidence": "general_outlet",
+      "source_cached_at": "2026-05-18T14:06:04.485855+00:00",
+      "source_confidence": "metadata_only_signal",
       "source_type": "rss",
-      "source_url": "https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak",
-      "story_id": "story_28a91c6d89267872",
-      "story_status": "active_investigation",
-      "summary": "That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. PHNOM PENH \u2014 Cambodia has confirmed a fourth human case of H5N1 bird flu this year, health authorities said on April 22, intensifying concerns over a fast-evolving virus that is spreading through poultry and increasingly spilling over into humans.",
-      "title": "Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak",
-      "topic_id": "topic_28a91c6d89267872",
-      "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-18T06:05:23",
+      "source_url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/",
+      "story_id": null,
+      "story_status": "",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "WHO declares Ebola outbreak in Congo and Uganda a global health emergency, with at least 80 dead",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2303,7 +2303,7 @@
       "resolved_url": "https://www.bbc.com/news/articles/cze2wpk7y76o",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:16.652060+00:00",
+      "source_cached_at": "2026-05-18T14:05:56.715481+00:00",
       "source_confidence": "major_newsroom",
       "source_type": "rss",
       "source_url": "https://www.bbc.com/news/articles/cze2wpk7y76o",
@@ -2313,107 +2313,7 @@
       "title": "Ebola outbreak kills 65 in eastern DR Congo's Ituri province",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Rural Outbreaks",
-      "canonical_url": "https://reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "",
-      "display_source": "Reuters",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "africa"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_2db5896a7f912fe9",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": true,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-16T02:14+00:00",
-      "publisher": "Reuters",
-      "publisher_access": "open",
-      "publisher_name": "Reuters",
-      "publisher_tier": "wire",
-      "raw_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObzVndDlCNmxOWXRhME1fWFpwbkZEWTRsV0NFd1paN0pZSmJpSUdBcFBlUE1kMWRpdlI3QVkwQlVRcWRueXVveV9WSl9wSi1ncjJEUXMtZFdTMno1dkdWZVI5NVluVlBzNnI0MkdRemg1Y09NeTNWclk2LXFXM0lvRkFCZTFzSE5pSmVUWjhiY0tXTEEzeElYNHBjSmF1bzEyYjVVNUpHZnRhWG9HU0M1d1Rrb1VmWHZ1V2d3MHp6YXdvbURRc215TFFRUFhIeEU?oc=5",
-      "region": "Africa",
-      "relevance_score": 5,
-      "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
-      "source": "Google News Rural Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:23.974087+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
-      "story_id": null,
-      "story_status": "",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "Congo confirms new Ebola outbreak, 80 deaths",
-      "topic_id": "topic_900601687147a144",
-      "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Hemorrhagic Fever and Zoonoses",
-      "canonical_url": "https://cnn.com/2026/05/15/us/video/ac360ebolacongo",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "",
-      "display_source": "CNN",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "africa"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_23c92566c8fb413b",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": true,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://www.cnn.com/2026/05/15/us/video/ac360ebolacongo",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-16T01:08+00:00",
-      "publisher": "CNN",
-      "publisher_access": "open",
-      "publisher_name": "CNN",
-      "publisher_tier": "major_newsroom",
-      "raw_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00OUQwSlkyb3ljcVlTM0JJUnkyTk41cGxWSFoxd21MVGpZaUVDNUpwMFpta0ZZZ1BYa0xfMTkxLWI3Z0dBVDdldUdMMkFtMVA0RjBFT25lV0M2ZXdJdGN4R2FVZDRJdw?oc=5",
-      "region": "Africa",
-      "relevance_score": 5,
-      "resolved_url": "https://www.cnn.com/2026/05/15/us/video/ac360ebolacongo",
-      "source": "Google News Hemorrhagic Fever and Zoonoses",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:20.938756+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://www.cnn.com/2026/05/15/us/video/ac360ebolacongo",
-      "story_id": null,
-      "story_status": "",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "New Ebola outbreak confirmed in a remote Congo province",
-      "topic_id": "topic_900601687147a144",
-      "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2453,7 +2353,7 @@
       "resolved_url": "https://www.pbs.org/newshour/health/uganda-confirms-ebola-case-in-man-from-neighboring-congo-who-died-in-ugandan-capital",
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:25.747924+00:00",
+      "source_cached_at": "2026-05-18T14:06:06.099267+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.pbs.org/newshour/health/uganda-confirms-ebola-case-in-man-from-neighboring-congo-who-died-in-ugandan-capital",
@@ -2463,7 +2363,7 @@
       "title": "Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2504,7 +2404,7 @@
       "resolved_url": null,
       "source": "WHO Regional Office for Africa",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:19.596110+00:00",
+      "source_cached_at": "2026-05-18T14:05:14.332273+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport",
@@ -2514,7 +2414,7 @@
       "title": "Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2555,7 +2455,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:58.094533+00:00",
+      "source_cached_at": "2026-05-18T14:05:39.311003+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo",
@@ -2565,7 +2465,7 @@
       "title": "ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2606,7 +2506,7 @@
       "resolved_url": null,
       "source": "WHO Regional Office for Africa",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:19.596110+00:00",
+      "source_cached_at": "2026-05-18T14:05:14.332273+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025",
@@ -2616,7 +2516,7 @@
       "title": "WHO Sierra Leone Annual Report 2025",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2656,7 +2556,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:26.507175+00:00",
+      "source_cached_at": "2026-05-18T14:06:06.647075+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RNMFY3cURVQUREVVdfWUYwMzdqMGt2LTRrTkVBM0txWUQ1M1pqdUxaQjNNOEJqY24zR1ZoTkYzTXVsU1R2a2JhSmlKYVF6TDNiWWxseU5JdHBSUWtIVzFtcThhMEdBa0Yyb2swcVo5SmRlQUI4SWlyemtRVmxlQ2lMdDlqcWtOd3ZuYTJuQXg5MERpaEE?oc=5",
@@ -2666,7 +2566,7 @@
       "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo | Global development",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2705,7 +2605,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:09.041967+00:00",
+      "source_cached_at": "2026-05-18T14:05:49.990051+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42138049/",
@@ -2715,7 +2615,7 @@
       "title": "Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2755,17 +2655,17 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:17.861410+00:00",
+      "source_cached_at": "2026-05-18T14:05:12.112497+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451",
       "story_id": "story_28a91c6d89267872",
-      "story_status": "active_investigation",
+      "story_status": "quiet_retained",
       "summary": "This report describes survey results from backyard flock owners' attitudes towards avian influenza.",
       "title": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2805,7 +2705,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:17.861410+00:00",
+      "source_cached_at": "2026-05-18T14:05:12.112497+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
@@ -2815,7 +2715,7 @@
       "title": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2852,7 +2752,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
-      "source_cache_age_hours": 9.21,
+      "source_cache_age_hours": 10.24,
       "source_cached_at": "2026-05-18T03:51:27.648484+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -2863,7 +2763,7 @@
       "title": "Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2900,7 +2800,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
-      "source_cache_age_hours": 9.21,
+      "source_cache_age_hours": 10.24,
       "source_cached_at": "2026-05-18T03:51:27.648484+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -2911,7 +2811,7 @@
       "title": "Understanding and exploiting superspreading to disrupt Mycobacterium tuberculosis transmission.",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage."
     },
     {
@@ -2948,7 +2848,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
-      "source_cache_age_hours": 9.21,
+      "source_cache_age_hours": 10.24,
       "source_cached_at": "2026-05-18T03:51:27.648484+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -2959,7 +2859,7 @@
       "title": "Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2999,7 +2899,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:58.094533+00:00",
+      "source_cached_at": "2026-05-18T14:05:39.311003+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study",
@@ -3009,7 +2909,7 @@
       "title": "Europe advances genomic surveillance of CCRE with landmark multi-country study",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3048,7 +2948,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:09.041967+00:00",
+      "source_cached_at": "2026-05-18T14:05:49.990051+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42126144/",
@@ -3058,7 +2958,7 @@
       "title": "Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3095,7 +2995,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Epidemiology",
-      "source_cache_age_hours": 9.21,
+      "source_cache_age_hours": 10.24,
       "source_cached_at": "2026-05-18T03:51:25.598131+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -3106,7 +3006,7 @@
       "title": "Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3143,7 +3043,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
-      "source_cache_age_hours": 9.21,
+      "source_cache_age_hours": 10.24,
       "source_cached_at": "2026-05-18T03:51:27.648484+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -3154,7 +3054,7 @@
       "title": "Primary sternocostal tuberculosis in a young healthcare worker: a case report.",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3194,7 +3094,7 @@
       "resolved_url": "https://www.scmp.com/news/world/africa/article/3353956/silent-spread-rare-and-deadly-ebola-strain-exposes-surveillance-gaps",
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:20.938756+00:00",
+      "source_cached_at": "2026-05-18T14:06:01.205230+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://www.scmp.com/news/world/africa/article/3353956/silent-spread-rare-and-deadly-ebola-strain-exposes-surveillance-gaps",
@@ -3204,7 +3104,107 @@
       "title": "Silent spread of rare and deadly Ebola strain exposes surveillance gaps",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Vaccine-preventable Outbreaks",
+      "canonical_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
+      "content_class": "live_outbreak_development",
+      "country": "",
+      "display_source": "Independent Observer",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "asia"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_5fc9608052a1c130",
+      "journal": null,
+      "link_quality": "resolved_article",
+      "local_signal": false,
+      "low_detail": false,
+      "official": false,
+      "preferred_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/",
+      "preferred_url_kind": "resolved_article",
+      "published_at": "2026-05-17T03:00+00:00",
+      "publisher": "Independent Observer",
+      "publisher_access": "unknown",
+      "publisher_name": "Independent Observer",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzhzRmdxLTZIejJ2WHpBZDVKTVhxSG5JS3F4RGljWUR2QkQ2TFcyeEF4b2xuV2VpNjNPQVRISFZScFE5Y0g0MlJ1TkVWN3NDLTl3eGxoQVBXdjJhWk8walJFZkFOMG5PZjJJbmo3aFA3TW9iY1FjUEc0bWYyZGhBQg?oc=5",
+      "region": "Southeast Asia",
+      "relevance_score": 4,
+      "resolved_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/",
+      "source": "Google News Vaccine-preventable Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-18T14:06:01.804417+00:00",
+      "source_confidence": "general_outlet",
+      "source_type": "rss",
+      "source_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/",
+      "story_id": "story_0cc2d5322bc76f8f",
+      "story_status": "quiet_retained",
+      "summary": "The Food and Drug Monitoring Agency (BPOM) has reported 10 measles-related deaths nationwide in 2026. However, the Ministry of Health reported that measles-rubella (MR) immunization coverage in 2024 reached only 92% for the first dose (MR1) and 82.3% for the second dose (MR2). BPOM also noted that 8% of cases occurred among adults over the age of 18, underscoring the importance of protection for both children and adults at risk.",
+      "title": "Innovative vaccines for Indonesia\u2019s measles outbreak",
+      "topic_id": "topic_0cc2d5322bc76f8f",
+      "topic_name": "Measles transmission and vaccination",
+      "updated_at": "2026-05-18T07:07:28",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Rural Outbreaks",
+      "canonical_url": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "Uganda",
+      "display_source": "Africa CDC",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "africa"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_ff7dd2f42f71a78d",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": true,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-16T07:45+00:00",
+      "publisher": "Africa CDC",
+      "publisher_access": "unknown",
+      "publisher_name": "Africa CDC",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOak5PTEhnbVpQaFUtRFdMdlpoUGMwYS1HVGNLbVY2NnJGMzI0NU00eEtLQXFzMWtuUlpYYXM1YkN2X2x6ZTFKcXJaeU5ULURTRTZvRUcxYlNQY3hsYkZzQTdROHVvcGtHU3g3aHNRWmJCQ0F0bERxY0dnelQ5ZmhMUHRCOHpLN2lZRC1yRXBvVHM5ODBON0x1Y2VSaklvTW02U2NZMG9GZ0x3Y0RPdWF3U3VWV1p1bHlBNG5lTTF5TllZVV9aMllocklqWEQtX2JjX0FYV2hxM1luMmhOTUFrSDBlQ19xNUxHREJnNTdoZW1yM082b2xVNmNRLTJIbHUyQ1VNRGMybEk5M29qN0RDbDBDQWFRQ0Vldmk4ajJBUUdTNWM?oc=5",
+      "region": "Africa",
+      "relevance_score": 4,
+      "resolved_url": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/",
+      "source": "Google News Rural Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-18T14:06:04.485855+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/",
+      "story_id": null,
+      "story_status": "",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3243,7 +3243,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:09.041967+00:00",
+      "source_cached_at": "2026-05-18T14:05:49.990051+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42141757/",
@@ -3253,7 +3253,7 @@
       "title": "Antibiotic-associated Enterococcus expansion in the gastrointestinal tract precedes infected necrosis in acute necrotizing pancreatitis.",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3293,7 +3293,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue",
       "source": "Google News Vector-borne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:20.343577+00:00",
+      "source_cached_at": "2026-05-18T14:06:00.498269+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue",
@@ -3303,7 +3303,7 @@
       "title": "Sri Lanka reports increase in dengue in 2026",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3342,7 +3342,7 @@
       "resolved_url": "https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:18.458311+00:00",
+      "source_cached_at": "2026-05-18T14:05:58.615182+00:00",
       "source_confidence": "major_newsroom",
       "source_type": "rss",
       "source_url": "https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus",
@@ -3352,7 +3352,7 @@
       "title": "From 'staged' to Israel: Hantavirus misinformation runs rampant online",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3391,7 +3391,7 @@
       "resolved_url": null,
       "source": "CDC Current Outbreak List",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:03:18.274982+00:00",
+      "source_cached_at": "2026-05-18T14:05:12.555438+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
@@ -3401,57 +3401,8 @@
       "title": "Coronavirus Disease 2019 (COVID-19)",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Vaccine-preventable Outbreaks",
-      "canonical_url": "https://inquirer.com/health/measles-outbreak-pennsylvania-lebanon-lancaster-berks-counties-cases-20260515.html",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "live_outbreak_development",
-      "country": "",
-      "display_source": "Inquirer.com",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_adeadfc038d158d9",
-      "journal": null,
-      "link_quality": "resolved_article",
-      "local_signal": true,
-      "low_detail": false,
-      "official": false,
-      "preferred_url": "https://www.inquirer.com/health/measles-outbreak-pennsylvania-lebanon-lancaster-berks-counties-cases-20260515.html",
-      "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-15T19:11+00:00",
-      "publisher": "Inquirer.com",
-      "publisher_access": "unknown",
-      "publisher_name": "Inquirer.com",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnFxZDBUUlFabV9jd2tTWVNubTgzVncxY0kweFAydUY0R1gwTUJjalMxcEZQV1NFQVVPZFJlNC0wSmcxdEI0NEN5MS10VHhkWTB1NzAxZ0tFNnZoRmxoaGlXTm1BTFNKXzRZdkYzTUR2cnA4MlNuWlB2Zy1nRE1MUVAxWm5TdEFGeDgzdHZlckljeVh1cXU3WHlaaXNoNERkelZ2clpnTThPX3F5RXNkRHRKa1Q?oc=5",
-      "region": "Middle East",
-      "relevance_score": 3,
-      "resolved_url": "https://www.inquirer.com/health/measles-outbreak-pennsylvania-lebanon-lancaster-berks-counties-cases-20260515.html",
-      "source": "Google News Vaccine-preventable Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:21.522383+00:00",
-      "source_confidence": "general_outlet",
-      "source_type": "rss",
-      "source_url": "https://www.inquirer.com/health/measles-outbreak-pennsylvania-lebanon-lancaster-berks-counties-cases-20260515.html",
-      "story_id": "story_0cc2d5322bc76f8f",
-      "story_status": "quiet_retained",
-      "summary": "Measles cases in 2026 in Pennsylvania have already surpassed all cases reported in 2025. State officials said the first case in Lebanon County was detected on April 23. Last week, 11 measles cases were reported in Lebanon County .",
-      "title": "More measles cases are reported in Lebanon, Lancaster, and Berks Counties",
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-18T06:05:23",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
       "abstract_url": null,
@@ -3489,7 +3440,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:09.041967+00:00",
+      "source_cached_at": "2026-05-18T14:05:49.990051+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42133835/",
@@ -3499,7 +3450,7 @@
       "title": "Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -3538,7 +3489,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:09.041967+00:00",
+      "source_cached_at": "2026-05-18T14:05:49.990051+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42132838/",
@@ -3548,18 +3499,18 @@
       "title": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
       "abstract_url": null,
       "aggregator_source": "Google News Vaccine-preventable Outbreaks",
-      "canonical_url": "https://kabulnow.com/2026/05/new-polio-vaccination-drive-begins-across-afghanistan-as-cases-persist",
+      "canonical_url": "https://ottumwacourier.com/news/national_news/gunmen-kill-2-police-officers-assigned-to-protect-polio-workers-in-pakistan/article_bb3969a9-d10f-5eea-b031-4ffa76a95308.html",
       "category": "Outbreaks and emerging infections",
       "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
+      "content_class": "live_outbreak_development",
       "country": "",
-      "display_source": "KabulNow",
+      "display_source": "Ottumwa Courier",
       "doi": null,
       "editions": [
         "index",
@@ -3569,47 +3520,47 @@
       ],
       "evidence_type": "news_report",
       "freshness_state": "live",
-      "item_id": "item_bbb40f0bef0c1645",
+      "item_id": "item_6b0814d8e5eae2b4",
       "journal": null,
-      "link_quality": "metadata_only",
+      "link_quality": "resolved_article",
       "local_signal": false,
-      "low_detail": true,
+      "low_detail": false,
       "official": false,
-      "preferred_url": "https://kabulnow.com/2026/05/new-polio-vaccination-drive-begins-across-afghanistan-as-cases-persist/",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-18T11:43+00:00",
-      "publisher": "KabulNow",
+      "preferred_url": "https://www.ottumwacourier.com/news/national_news/gunmen-kill-2-police-officers-assigned-to-protect-polio-workers-in-pakistan/article_bb3969a9-d10f-5eea-b031-4ffa76a95308.html",
+      "preferred_url_kind": "resolved_article",
+      "published_at": "2026-05-18T13:43+00:00",
+      "publisher": "Ottumwa Courier",
       "publisher_access": "unknown",
-      "publisher_name": "KabulNow",
+      "publisher_name": "Ottumwa Courier",
       "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2pFdnlPRndnVmRfRlFWWFh0bHdvdVpnMlZNSFhFSTEwRWZ5NlVrSmhZaXRXRzNqdGxWSUFHemp5c2MwZ0xiSWFDbzdQazBTNWppQTR4NEU2Y05ac2QtVU5mM3lsMjcxVnNpWm1GQjJmb1BRTHJtVHhlMzJOTndJRmZDR013OWN2ZW4wSlY2Wk5kN3kxRDhwNk5JOXlLa1AzNXc?oc=5",
+      "raw_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPU1hfRnFtY3pSQlZ1MmNoX3J5Y3ctLVhJZ2dybDljQnNMd2JtS1NjWVY0cnRuQ1p3em1xUGpPRGVrdXRsMEQxVTdLZmNqaHNGemJnUTVCWmJfMzBKM29DYXFBeUl3Vi1iT09MTlR4bU5jOEJxTWpQUjRaRGVsNUk5WmpDR1JYbF9JR0I3NFdVNHVkR1haZUNzaFBNQkZOY1Q1WWstTHV1ZGpqTHh2ZnF5b0YzQUl3NzJHYW9kWEt1SmloSTVHLVpMQkpNalVmbU9zX1lGeTlza21fbkZzSGhKZW5LNGQwRUJtRElpenRDTGM3Y3Y1WWtGdm9oZTRuOEM0NGJSNk13?oc=5",
       "region": "South Asia",
-      "relevance_score": 1,
-      "resolved_url": "https://kabulnow.com/2026/05/new-polio-vaccination-drive-begins-across-afghanistan-as-cases-persist/",
+      "relevance_score": 2,
+      "resolved_url": "https://www.ottumwacourier.com/news/national_news/gunmen-kill-2-police-officers-assigned-to-protect-polio-workers-in-pakistan/article_bb3969a9-d10f-5eea-b031-4ffa76a95308.html",
       "source": "Google News Vaccine-preventable Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:21.522383+00:00",
-      "source_confidence": "metadata_only_signal",
+      "source_cached_at": "2026-05-18T14:06:01.804417+00:00",
+      "source_confidence": "general_outlet",
       "source_type": "rss",
-      "source_url": "https://kabulnow.com/2026/05/new-polio-vaccination-drive-begins-across-afghanistan-as-cases-persist/",
+      "source_url": "https://www.ottumwacourier.com/news/national_news/gunmen-kill-2-police-officers-assigned-to-protect-polio-workers-in-pakistan/article_bb3969a9-d10f-5eea-b031-4ffa76a95308.html",
       "story_id": "story_9ccdd822481fa2b6",
       "story_status": "",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "New Polio Vaccination Drive Begins Across Afghanistan as Cases Persist",
+      "summary": "Updated: May 18, 2026 @ 8:31 am Full Forecast Ottumwa, IA (52501) Today Morning rain followed by scattered thunderstorms in the afternoon...some thunderstorms may be strong. Damaging winds, large hail and possibly a tornado with some storms. Limited detail was available from feed metadata alone.",
+      "title": "Gunmen kill 2 police officers assigned to protect polio workers in Pakistan",
       "topic_id": "topic_9ccdd822481fa2b6",
       "topic_name": "Polio and wastewater surveillance",
-      "updated_at": "2026-05-18T06:05:23",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+      "updated_at": "2026-05-18T07:07:28",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
       "abstract_url": null,
       "aggregator_source": "Google News India Outbreaks",
-      "canonical_url": "https://deccanchronicle.com/nation/current-affairs/officials-says-india-closely-monitoring-ebola-situation-experts-urge-vigilance-1957523",
+      "canonical_url": "https://facebook.com/Boston25News/posts/health-alert-the-who-has-officially-declared-an-ebola-outbreak-a-global-emergenc/1458806482947680",
       "category": "Outbreaks and emerging infections",
       "caveats": "Usable source detail was limited after cleanup.",
       "content_class": "metadata_only_signal",
-      "country": "India",
-      "display_source": "Deccan Chronicle",
+      "country": "",
+      "display_source": "Facebook",
       "doi": null,
       "editions": [
         "index",
@@ -3619,36 +3570,36 @@
       ],
       "evidence_type": "news_report",
       "freshness_state": "live",
-      "item_id": "item_3124be6797bb24d2",
+      "item_id": "item_f654addb41049d81",
       "journal": null,
       "link_quality": "metadata_only",
       "local_signal": false,
       "low_detail": true,
       "official": false,
-      "preferred_url": "https://www.deccanchronicle.com/nation/current-affairs/officials-says-india-closely-monitoring-ebola-situation-experts-urge-vigilance-1957523",
+      "preferred_url": "https://www.facebook.com/Boston25News/posts/health-alert-the-who-has-officially-declared-an-ebola-outbreak-a-global-emergenc/1458806482947680/",
       "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-18T11:25+00:00",
-      "publisher": "Deccan Chronicle",
+      "published_at": "2026-05-18T13:33+00:00",
+      "publisher": "Facebook",
       "publisher_access": "unknown",
-      "publisher_name": "Deccan Chronicle",
+      "publisher_name": "Facebook",
       "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbUtsMXpTU2k2cWxPbHI5dWNTdzQyd01jNklyX21HUTk2SHhPMmZqTW55SmdMSDRrWmhlc2c1TFcwTHNHQ3Rod1Jud1lKZ29KWHl4OFNPajNQSkhvUkJXT212YkhWd2RWZ3BibURBamNTUlZwOEU0c0VTZzBQMlp1Y2JhU2kwWlFIV2xIRFg5YUJvVkhhdmlnMXByVzQwdG5PMDkyZkQ3MGQzX1NfWS0tUFdGWTNXX0dRX0lYUXZ4UG0yMXJ5b242OVVjeUQ2VEtvLUNMRXowRmPSAd4BQVVfeXFMT1kwMGZiVU9Ed0gzYlYzekZaRHpXa04zM1FSYlRWeGhrZUw4YkstRHJOQW9IU3JNZllyRjREMkdpREJlSTNBZmhqaHN3SXFHVUxPUnFfMWl4ME9IR19oUEEtVjRkWDF1MnpNcElxNXVoTUdKaXhITmVsZ21xNzQ0U3VTRzNDbVQwUG5BU3E3TjBVRkpBRUFkd1BaU2JPN2g3SWNEcUhnaUR1T3JnZ0FJXzdEakFxb2RLSXRwd1ZMRHdEMFRqZ096eHJCcFlKQ3J0NHVEcDN3ZW5hVHJPMktB?oc=5",
+      "raw_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHVFeEMzYWhFQ1d0aUdoOEViNjlSazdKajM4U0ZSd294V29KcTJjMlhKWFFQMzhYMDhCUlp5N21KWFBiYmxxcmxuMnZSS3dCNGZKbG5rcFhSWERGZnFScnM0Um01WlBtTFhEMEtMRWdJdXlMdjN1c25Ma3NDeUlHeVdOUlhIU29aU2k1eVJrUHU4OTRrZ2YyNHVEcm1oT3NsRFBCbXA0R0JXR002eXdZeDhTTDhMdDZtaS1udHNvLTMzRXA3c3MxQ0oxNVVpUUdmMGl1MFUtU29IZw?oc=5",
       "region": "South Asia",
       "relevance_score": 1,
-      "resolved_url": "https://www.deccanchronicle.com/nation/current-affairs/officials-says-india-closely-monitoring-ebola-situation-experts-urge-vigilance-1957523",
+      "resolved_url": "https://www.facebook.com/Boston25News/posts/health-alert-the-who-has-officially-declared-an-ebola-outbreak-a-global-emergenc/1458806482947680/",
       "source": "Google News India Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:28.373159+00:00",
+      "source_cached_at": "2026-05-18T14:06:08.435068+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
-      "source_url": "https://www.deccanchronicle.com/nation/current-affairs/officials-says-india-closely-monitoring-ebola-situation-experts-urge-vigilance-1957523",
+      "source_url": "https://www.facebook.com/Boston25News/posts/health-alert-the-who-has-officially-declared-an-ebola-outbreak-a-global-emergenc/1458806482947680/",
       "story_id": null,
       "story_status": "",
       "summary": "Limited detail was available from feed metadata alone.",
-      "title": "Officials Says India Closely Monitoring Ebola Situation",
+      "title": "HEALTH ALERT: The WHO has officially declared an Ebola outbreak a global emergency after dozens of deaths and hundreds of suspected cases.",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3687,17 +3638,17 @@
       "resolved_url": "https://www.dvm360.com/view/cat-to-human-transmission-of-highly-pathogenic-avian-influenza-virus-confirmed",
       "source": "Google News Virology",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T13:04:19.756746+00:00",
+      "source_cached_at": "2026-05-18T14:05:59.901805+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.dvm360.com/view/cat-to-human-transmission-of-highly-pathogenic-avian-influenza-virus-confirmed",
       "story_id": "story_28a91c6d89267872",
-      "story_status": "active_investigation",
+      "story_status": "quiet_retained",
       "summary": "Limited detail was available from feed metadata alone.",
       "title": "Cat-to-human transmission of highly pathogenic avian influenza virus confirmed",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-18T06:05:23",
+      "updated_at": "2026-05-18T07:07:28",
       "why_it_matters": "Relevant because it may change surveillance interpretation or public-health framing."
     }
   ],
@@ -4255,7 +4206,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "2 newly observed linked item(s) were added since the last saved snapshot.",
+          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -5615,7 +5566,7 @@
       "why_reporters_care": "Zika matters because congenital outcomes, pregnancy guidance, travel messaging, and mosquito ecology can turn a mild-adult disease story into a major public-health communications event."
     }
   ],
-  "run_id": "run_881caf2e7ee28a25",
+  "run_id": "run_e42e3b435b7badcf",
   "search_window": "7 day(s) ending 2026-05-18",
   "source_failures": [
     {
@@ -5632,7 +5583,7 @@
   "source_health": [
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:17.217524+00:00",
+      "cached_at": "2026-05-18T14:05:11.272020+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5642,7 +5593,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:17.861703+00:00",
+      "cached_at": "2026-05-18T14:05:12.112854+00:00",
       "error": null,
       "item_count": 300,
       "mode": "live",
@@ -5652,7 +5603,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:17.977698+00:00",
+      "cached_at": "2026-05-18T14:05:12.262834+00:00",
       "error": null,
       "item_count": 66,
       "mode": "live",
@@ -5662,7 +5613,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:18.274996+00:00",
+      "cached_at": "2026-05-18T14:05:12.555453+00:00",
       "error": null,
       "item_count": 6,
       "mode": "live",
@@ -5672,7 +5623,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:18.606985+00:00",
+      "cached_at": "2026-05-18T14:05:13.238606+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5682,7 +5633,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:19.596127+00:00",
+      "cached_at": "2026-05-18T14:05:14.332293+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5692,7 +5643,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:37.908012+00:00",
+      "cached_at": "2026-05-18T14:05:18.270170+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5712,7 +5663,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:58.094555+00:00",
+      "cached_at": "2026-05-18T14:05:39.311030+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5722,7 +5673,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:58.194764+00:00",
+      "cached_at": "2026-05-18T14:05:39.408458+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -5732,7 +5683,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:59.116581+00:00",
+      "cached_at": "2026-05-18T14:05:39.850990+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5742,7 +5693,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:03:59.483308+00:00",
+      "cached_at": "2026-05-18T14:05:40.333625+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -5762,7 +5713,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:09.041999+00:00",
+      "cached_at": "2026-05-18T14:05:49.990354+00:00",
       "error": null,
       "item_count": 25,
       "mode": "live",
@@ -5771,7 +5722,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 9.21,
+      "cache_age_hours": 10.24,
       "cached_at": "2026-05-18T03:51:25.598131+00:00",
       "error": null,
       "item_count": 1,
@@ -5782,7 +5733,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:09.440043+00:00",
+      "cached_at": "2026-05-18T14:05:50.345108+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5791,7 +5742,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 9.21,
+      "cache_age_hours": 10.24,
       "cached_at": "2026-05-18T03:51:27.648484+00:00",
       "error": null,
       "item_count": 5,
@@ -5802,7 +5753,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:10.129779+00:00",
+      "cached_at": "2026-05-18T14:05:51.016691+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5812,7 +5763,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:12.557194+00:00",
+      "cached_at": "2026-05-18T14:05:52.532963+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5822,7 +5773,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:14.695664+00:00",
+      "cached_at": "2026-05-18T14:05:54.375859+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5831,7 +5782,7 @@
       "source_type": "biorxiv"
     },
     {
-      "cache_age_hours": 3.06,
+      "cache_age_hours": 4.08,
       "cached_at": "2026-05-18T10:00:48.743681+00:00",
       "error": null,
       "item_count": 19,
@@ -5841,7 +5792,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 3.06,
+      "cache_age_hours": 4.08,
       "cached_at": "2026-05-18T10:00:49.211320+00:00",
       "error": null,
       "item_count": 16,
@@ -5851,7 +5802,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 3.06,
+      "cache_age_hours": 4.08,
       "cached_at": "2026-05-18T10:00:49.768524+00:00",
       "error": null,
       "item_count": 10,
@@ -5861,7 +5812,7 @@
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 3.06,
+      "cache_age_hours": 4.08,
       "cached_at": "2026-05-18T10:00:50.556115+00:00",
       "error": null,
       "item_count": 4,
@@ -5872,7 +5823,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:14.930052+00:00",
+      "cached_at": "2026-05-18T14:05:54.665209+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5882,7 +5833,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:15.427905+00:00",
+      "cached_at": "2026-05-18T14:05:55.210619+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5892,7 +5843,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:16.026509+00:00",
+      "cached_at": "2026-05-18T14:05:55.978588+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5902,7 +5853,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:16.652205+00:00",
+      "cached_at": "2026-05-18T14:05:56.715593+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5912,7 +5863,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:17.186197+00:00",
+      "cached_at": "2026-05-18T14:05:57.288788+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -5922,9 +5873,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:17.711971+00:00",
+      "cached_at": "2026-05-18T14:05:57.868111+00:00",
       "error": null,
-      "item_count": 72,
+      "item_count": 73,
       "mode": "live",
       "official": false,
       "source": "Google News Hantavirus and Cruise Outbreaks",
@@ -5932,7 +5883,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:18.458407+00:00",
+      "cached_at": "2026-05-18T14:05:58.615309+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5942,7 +5893,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:19.158304+00:00",
+      "cached_at": "2026-05-18T14:05:59.329298+00:00",
       "error": null,
       "item_count": 60,
       "mode": "live",
@@ -5952,7 +5903,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:19.756843+00:00",
+      "cached_at": "2026-05-18T14:05:59.901946+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5962,7 +5913,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:20.343672+00:00",
+      "cached_at": "2026-05-18T14:06:00.498386+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5972,7 +5923,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:20.938870+00:00",
+      "cached_at": "2026-05-18T14:06:01.205371+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5982,7 +5933,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:21.522505+00:00",
+      "cached_at": "2026-05-18T14:06:01.804526+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5992,7 +5943,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:22.249841+00:00",
+      "cached_at": "2026-05-18T14:06:02.416107+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6002,7 +5953,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:22.823052+00:00",
+      "cached_at": "2026-05-18T14:06:03.046927+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6012,7 +5963,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:23.389166+00:00",
+      "cached_at": "2026-05-18T14:06:03.566903+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6022,7 +5973,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:23.974180+00:00",
+      "cached_at": "2026-05-18T14:06:04.485989+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6032,7 +5983,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:24.607082+00:00",
+      "cached_at": "2026-05-18T14:06:05.096407+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6042,9 +5993,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:25.173289+00:00",
+      "cached_at": "2026-05-18T14:06:05.595029+00:00",
       "error": null,
-      "item_count": 29,
+      "item_count": 28,
       "mode": "live",
       "official": false,
       "source": "Google News West Africa Outbreaks",
@@ -6052,9 +6003,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:25.748002+00:00",
+      "cached_at": "2026-05-18T14:06:06.099322+00:00",
       "error": null,
-      "item_count": 46,
+      "item_count": 40,
       "mode": "live",
       "official": false,
       "source": "Google News East Africa Outbreaks",
@@ -6062,9 +6013,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:26.507250+00:00",
+      "cached_at": "2026-05-18T14:06:06.647136+00:00",
       "error": null,
-      "item_count": 44,
+      "item_count": 43,
       "mode": "live",
       "official": false,
       "source": "Google News Central Africa Outbreaks",
@@ -6072,9 +6023,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:27.147832+00:00",
+      "cached_at": "2026-05-18T14:06:07.317628+00:00",
       "error": null,
-      "item_count": 56,
+      "item_count": 46,
       "mode": "live",
       "official": false,
       "source": "Google News Southern Africa Outbreaks",
@@ -6082,9 +6033,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:27.775443+00:00",
+      "cached_at": "2026-05-18T14:06:07.880096+00:00",
       "error": null,
-      "item_count": 78,
+      "item_count": 75,
       "mode": "live",
       "official": false,
       "source": "Google News South Asia Outbreaks",
@@ -6092,9 +6043,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:28.373240+00:00",
+      "cached_at": "2026-05-18T14:06:08.435155+00:00",
       "error": null,
-      "item_count": 53,
+      "item_count": 49,
       "mode": "live",
       "official": false,
       "source": "Google News India Outbreaks",
@@ -6102,7 +6053,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:29.117732+00:00",
+      "cached_at": "2026-05-18T14:06:09.117839+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6112,7 +6063,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:29.801174+00:00",
+      "cached_at": "2026-05-18T14:06:09.761158+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6122,7 +6073,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:30.442722+00:00",
+      "cached_at": "2026-05-18T14:06:10.398332+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6132,7 +6083,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:30.928060+00:00",
+      "cached_at": "2026-05-18T14:06:10.892397+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -6142,9 +6093,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:31.377325+00:00",
+      "cached_at": "2026-05-18T14:06:11.318220+00:00",
       "error": null,
-      "item_count": 45,
+      "item_count": 31,
       "mode": "live",
       "official": false,
       "source": "Google News Historical Epi",
@@ -6152,7 +6103,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:31.849304+00:00",
+      "cached_at": "2026-05-18T14:06:11.778401+00:00",
       "error": null,
       "item_count": 46,
       "mode": "live",
@@ -6162,7 +6113,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:32.347503+00:00",
+      "cached_at": "2026-05-18T14:06:12.297275+00:00",
       "error": null,
       "item_count": 53,
       "mode": "live",
@@ -6172,7 +6123,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T13:04:32.720739+00:00",
+      "cached_at": "2026-05-18T14:06:12.711058+00:00",
       "error": null,
       "item_count": 15,
       "mode": "live",
@@ -6182,887 +6133,6 @@
     }
   ],
   "stories": [
-    {
-      "claim_types": [
-        "confirmed_case",
-        "transmission_change",
-        "new_geography"
-      ],
-      "content_class": "tracked_outbreak_file",
-      "country": "",
-      "current_status_summary": "Active investigation",
-      "display_title": "Avian influenza and H5N1",
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "asia",
-        "official"
-      ],
-      "evidence_type": "news_report",
-      "first_seen_at": "2026-05-07T11:02:04",
-      "flags": [
-        "active_investigation",
-        "deaths_reported"
-      ],
-      "freshness_counts": {
-        "fallback_cache": 0,
-        "live": 3,
-        "refresh_cache": 0,
-        "retained": 0,
-        "unknown": 0
-      },
-      "item_count": 3,
-      "item_ids": [
-        "item_908fd72449d6f8c4",
-        "item_73c7d9ee1e3265dd",
-        "item_d2364e88a0824c61"
-      ],
-      "latest_timestamp": "2026-05-14T17:00+00:00",
-      "latest_update_bullets": [
-        "2 newly observed linked item(s) were added since the last saved snapshot."
-      ],
-      "latest_update_summary": "2 newly observed linked item(s) were added since the last saved snapshot.",
-      "latest_updated_at": "2026-05-18T06:05:17",
-      "lead_source": "CDC MMWR",
-      "lead_title": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
-      "lead_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451",
-      "new_since_last_refresh": false,
-      "official_item_ids": [
-        "item_73c7d9ee1e3265dd"
-      ],
-      "press_item_ids": [
-        "item_908fd72449d6f8c4",
-        "item_d2364e88a0824c61"
-      ],
-      "primary_region": "Southeast Asia",
-      "publisher_family_count": 0,
-      "publisher_names": [
-        "CDC MMWR",
-        "Cambodianess",
-        "DVM360"
-      ],
-      "related_reference_names": [
-        "Avian influenza A(H5N1)"
-      ],
-      "related_reference_urls": [
-        "reference/avian-influenza-a-h5n1.html"
-      ],
-      "related_references": [
-        {
-          "name": "Avian influenza A(H5N1)",
-          "pathogen": "Influenza A(H5N1)",
-          "reference_url": "reference/avian-influenza-a-h5n1.html",
-          "reference_web_path": "reference/avian-influenza-a-h5n1.html"
-        }
-      ],
-      "source_confidence_counts": {
-        "aggregator_only": 0,
-        "general_outlet": 1,
-        "major_newsroom": 0,
-        "metadata_only_signal": 1,
-        "official_agency": 1,
-        "specialist_health": 0,
-        "wire": 0
-      },
-      "source_count": 3,
-      "source_kind_counts": {
-        "aggregator_only": 0,
-        "general_outlet": 1,
-        "major_newsroom": 0,
-        "metadata_only_signal": 1,
-        "official": 1,
-        "specialist_health": 0,
-        "wire": 0
-      },
-      "source_names": [
-        "CDC MMWR",
-        "Cambodianess",
-        "DVM360"
-      ],
-      "status": "active_investigation",
-      "story_id": "story_28a91c6d89267872",
-      "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
-      "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
-      "timeline": [
-        {
-          "bullets": [
-            "Baseline snapshot created with 2 clustered item(s) across 1 source(s).",
-            "CDC MMWR now includes deaths or fatal cases in the story frame."
-          ],
-          "generated_at": "2026-05-07T11:02:04",
-          "is_new_story": true,
-          "item_count": 2,
-          "run_id": "run_3747fbc089a90c62",
-          "source_count": 1,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_18eb72324a138026"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: wicz.com.",
-            "Story volume increased from 2 to 3 clustered item(s) in the current window.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T10:01:04",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_f01622301d64f3f5",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_a5bbb8c9264741e5"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T12:01:06",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_580c5bd88e8f8b23",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_aa98e4d9ed464c56"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: wicz.com.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T12:54:44",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_a992729fd9a6e08c",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_4536e5831ec62e50"
-        },
-        {
-          "bullets": [
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T13:14:42",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_a1b261bccefe6468",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_b77677832741db2e"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T13:40:46",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_7ebeb8e4afdecfb9",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_74a6b713bb143f03"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: wicz.com.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T14:01:21",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_9e3437d955c2b6f5",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_b3d4d3964fa6bfce"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "The lead item has changed to [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) from CDC MMWR.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T15:28:10",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_87bad10c709b4d71",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_f5f8cda78514be4d"
-        },
-        {
-          "bullets": [
-            "The New Indian Express now includes quarantine language.",
-            "New publisher/source coverage joined this story cluster: LatestLY, The New Indian Express, WIVT - News 34.",
-            "Story volume increased from 3 to 5 clustered item(s) in the current window.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T15:41:55",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_7f9d9c67aa46b5b6",
-          "source_count": 4,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_776b9f5805e41c3d"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: wicz.com.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T15:54:07",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_da15c72b95f56388",
-          "source_count": 4,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_2fc6a605f66fee3d"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: MSN, WIVT - News 34.",
-            "Story volume increased from 5 to 6 clustered item(s) in the current window.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T16:07:27",
-          "is_new_story": false,
-          "item_count": 6,
-          "run_id": "run_ad6322253b5173c8",
-          "source_count": 5,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_c473354ddc3e0054"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: wicz.com.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T16:18:55",
-          "is_new_story": false,
-          "item_count": 6,
-          "run_id": "run_e3c646401542f910",
-          "source_count": 5,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_ebf7b49c27eeec02"
-        },
-        {
-          "bullets": [
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T16:26:42",
-          "is_new_story": false,
-          "item_count": 6,
-          "run_id": "run_edb6e6c5e4343dff",
-          "source_count": 5,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_c7d6085d9deb5be3"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T17:01:50",
-          "is_new_story": false,
-          "item_count": 6,
-          "run_id": "run_aed9470db7185447",
-          "source_count": 5,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_5c1a57a6c88377b7"
-        },
-        {
-          "bullets": [
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T22:28:38",
-          "is_new_story": false,
-          "item_count": 6,
-          "run_id": "run_984f63216fbf423a",
-          "source_count": 5,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_11dc3a77965d1d04"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "New publisher/source coverage joined this story cluster: Outbreak News Today, WIVT - News 34.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T22:34:54",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_c3eefbf24936e411",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_ebe203d3a55eff4a"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T22:36:54",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_23146c86005816b6",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_18ff9db1e3c1c5bf"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "New publisher/source coverage joined this story cluster: LatestLY, MSN, wicz.com.",
-            "Story volume increased from 4 to 5 clustered item(s) in the current window.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T23:01:43",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_24ad039b5a4bd5b3",
-          "source_count": 4,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_c04f1b0acba78abf"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T00:01:52",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_c2c9f85967f25df3",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_08e3353f145ea2e1"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: LatestLY, wicz.com.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T01:01:43",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_e9a62632f00fa21f",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_b5a1111c4bebc398"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T02:01:56",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_1924528cf4bdd4fb",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_0c314f430f62528e"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: wicz.com.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T04:02:10",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_bd124c2338217c9d",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_ba3cce2484b43691"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T05:02:01",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_9c946d884beec57f",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_6e89286a7884caad"
-        },
-        {
-          "bullets": [
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T06:02:02",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_374784824ec37620",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_7abe5fa73b09d541"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T06:05:19",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_92588195d5f9db8d",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_40e4e394ec772893"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "New publisher/source coverage joined this story cluster: wicz.com.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T07:27:41",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_0ba114154e9e3061",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_a8933bb01363f702"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T07:54:33",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_64efbff34b803116",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_327af9e9eb6de0cd"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T08:08:20",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_2e4316f0b5c25d78",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_9d9aec77696d093d"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T08:19:06",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_d5667e38b111bd9b",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_e54bf5e8c51989ab"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-10T14:50:13",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_f1996c5d598f8746",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_e268ce7a88ace33a"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Hoodline.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:02:30",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_3adee671def65457",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_557952dfb200aa18"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:32:50",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_cec49e6ec8168b34",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_3e56b4378e292bdf"
-        },
-        {
-          "bullets": [
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:44:40",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_0ca73ff462b2e71c",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_4eb6d802ed1e9bf7"
-        },
-        {
-          "bullets": [
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T08:48:18",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_dd4b58e8d5b250a5",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_f5f586414f330058"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T08:53:04",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_23a8388018a202e1",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_2e23230ad8086e3b"
-        },
-        {
-          "bullets": [
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T09:49:43",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_da55b013dbc18207",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_a8815158876b3d8d"
-        },
-        {
-          "bullets": [
-            "CDC MMWR now explicitly uses investigation or monitoring language.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T09:50:24",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_7f1588fee0f2b584",
-          "source_count": 2,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_659b12244807fa00"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: DVM360, Outbreak News Today.",
-            "The lead item has changed to Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks from CDC MMWR.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T13:55:47",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_8e2af06184ef0fba",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_8dd143928ea66b46"
-        },
-        {
-          "bullets": [
-            "Outbreak News Today now explicitly uses investigation or monitoring language.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T14:57:07",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_2d3c2ac16d2b7e99",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_8d911b3792c91c8e"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T15:57:21",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_ca97b197e88c498b",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_c9dce57b8b453b82"
-        },
-        {
-          "bullets": [
-            "Outbreak News Today now explicitly uses investigation or monitoring language.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T15:57:44",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_b1518048b81f01c9",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_b4f0e39a797a86ce"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T18:00:24",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_f0734f8f6e5344f7",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_11554dd438b9a012"
-        },
-        {
-          "bullets": [
-            "Outbreak News Today now explicitly uses investigation or monitoring language.",
-            "New publisher/source coverage joined this story cluster: MSN.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T19:00:38",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_a2337cef1925475c",
-          "source_count": 4,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_c8576577cf80d072"
-        },
-        {
-          "bullets": [
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T19:00:41",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_906bffe1b4d4b56c",
-          "source_count": 4,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_6421fba5fd2a7a60"
-        },
-        {
-          "bullets": [
-            "Outbreak News Today now explicitly uses investigation or monitoring language.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T20:02:13",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_aa6024d76e9ac4ee",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_f7ff4d9a5bb970bf"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T20:02:41",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_13b2098a0416354e",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_fd87d400411e4fc3"
-        },
-        {
-          "bullets": [
-            "Outbreak News Today now explicitly uses investigation or monitoring language.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-15T21:04:14",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_4283da2eaa818e24",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_a338e6909922d822"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: MSN.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-16T00:44:24",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_20637dcee072e347",
-          "source_count": 4,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_825975b05b4c0b70"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: MSN.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-16T00:44:37",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_26ca271f4eae557d",
-          "source_count": 4,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_dc6f05d0cb0dcc1e"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Cambodianess.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-17T02:30:01",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_efd17106a670cb1f",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_604d509f7ea503e2"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-17T06:02:27",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_b570ab708e3a6b70",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_32e4f3e376f945f3"
-        },
-        {
-          "bullets": [
-            "Cambodianess now explicitly uses investigation or monitoring language.",
-            "Cambodianess now includes deaths or fatal cases in the story frame.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-17T06:32:40",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_ac0683c465dbc1a7",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_8eebd999e68ae669"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-17T06:36:05",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_0d3d2afce4919473",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_84aa0b067f4d24eb"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-17T08:36:58",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_e1bdc3ad531601a9",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_029b607eb3946fe3"
-        },
-        {
-          "bullets": [
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-18T06:05:17",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_6c409762507f8532",
-          "source_count": 3,
-          "story_id": "story_28a91c6d89267872",
-          "topic_name": "Avian influenza and H5N1",
-          "update_id": "story_update_03084c36ae90cfae"
-        }
-      ],
-      "topic_id": "topic_28a91c6d89267872",
-      "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-18T06:05:23",
-      "what_happened": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
-      "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 2 newsroom source(s)."
-    },
     {
       "claim_types": [
         "confirmed_case",
@@ -11866,6 +10936,887 @@
     },
     {
       "claim_types": [
+        "confirmed_case",
+        "transmission_change",
+        "new_geography"
+      ],
+      "content_class": "tracked_outbreak_file",
+      "country": "",
+      "current_status_summary": "Active investigation",
+      "display_title": "Avian influenza and H5N1",
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "asia",
+        "official"
+      ],
+      "evidence_type": "news_report",
+      "first_seen_at": "2026-05-07T11:02:04",
+      "flags": [
+        "active_investigation",
+        "deaths_reported"
+      ],
+      "freshness_counts": {
+        "fallback_cache": 0,
+        "live": 3,
+        "refresh_cache": 0,
+        "retained": 0,
+        "unknown": 0
+      },
+      "item_count": 3,
+      "item_ids": [
+        "item_908fd72449d6f8c4",
+        "item_73c7d9ee1e3265dd",
+        "item_d2364e88a0824c61"
+      ],
+      "latest_timestamp": "2026-05-14T17:00+00:00",
+      "latest_update_bullets": [
+        "2 newly observed linked item(s) were added since the last saved snapshot."
+      ],
+      "latest_update_summary": "2 newly observed linked item(s) were added since the last saved snapshot.",
+      "latest_updated_at": "2026-05-18T06:05:17",
+      "lead_source": "CDC MMWR",
+      "lead_title": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
+      "lead_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451",
+      "new_since_last_refresh": false,
+      "official_item_ids": [
+        "item_73c7d9ee1e3265dd"
+      ],
+      "press_item_ids": [
+        "item_908fd72449d6f8c4",
+        "item_d2364e88a0824c61"
+      ],
+      "primary_region": "Southeast Asia",
+      "publisher_family_count": 0,
+      "publisher_names": [
+        "CDC MMWR",
+        "Cambodianess",
+        "DVM360"
+      ],
+      "related_reference_names": [
+        "Avian influenza A(H5N1)"
+      ],
+      "related_reference_urls": [
+        "reference/avian-influenza-a-h5n1.html"
+      ],
+      "related_references": [
+        {
+          "name": "Avian influenza A(H5N1)",
+          "pathogen": "Influenza A(H5N1)",
+          "reference_url": "reference/avian-influenza-a-h5n1.html",
+          "reference_web_path": "reference/avian-influenza-a-h5n1.html"
+        }
+      ],
+      "source_confidence_counts": {
+        "aggregator_only": 0,
+        "general_outlet": 1,
+        "major_newsroom": 0,
+        "metadata_only_signal": 1,
+        "official_agency": 1,
+        "specialist_health": 0,
+        "wire": 0
+      },
+      "source_count": 3,
+      "source_kind_counts": {
+        "aggregator_only": 0,
+        "general_outlet": 1,
+        "major_newsroom": 0,
+        "metadata_only_signal": 1,
+        "official": 1,
+        "specialist_health": 0,
+        "wire": 0
+      },
+      "source_names": [
+        "CDC MMWR",
+        "Cambodianess",
+        "DVM360"
+      ],
+      "status": "quiet_retained",
+      "story_id": "story_28a91c6d89267872",
+      "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
+      "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
+      "timeline": [
+        {
+          "bullets": [
+            "Baseline snapshot created with 2 clustered item(s) across 1 source(s).",
+            "CDC MMWR now includes deaths or fatal cases in the story frame."
+          ],
+          "generated_at": "2026-05-07T11:02:04",
+          "is_new_story": true,
+          "item_count": 2,
+          "run_id": "run_3747fbc089a90c62",
+          "source_count": 1,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_18eb72324a138026"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: wicz.com.",
+            "Story volume increased from 2 to 3 clustered item(s) in the current window.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T10:01:04",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_f01622301d64f3f5",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_a5bbb8c9264741e5"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T12:01:06",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_580c5bd88e8f8b23",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_aa98e4d9ed464c56"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: wicz.com.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T12:54:44",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_a992729fd9a6e08c",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_4536e5831ec62e50"
+        },
+        {
+          "bullets": [
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T13:14:42",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_a1b261bccefe6468",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_b77677832741db2e"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T13:40:46",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_7ebeb8e4afdecfb9",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_74a6b713bb143f03"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: wicz.com.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T14:01:21",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_9e3437d955c2b6f5",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_b3d4d3964fa6bfce"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "The lead item has changed to [Fatal Human Case of Highly Pathogenic Avian Influenza A(H5N5) in a Backyard Flock Owner](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765373) from CDC MMWR.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T15:28:10",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_87bad10c709b4d71",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_f5f8cda78514be4d"
+        },
+        {
+          "bullets": [
+            "The New Indian Express now includes quarantine language.",
+            "New publisher/source coverage joined this story cluster: LatestLY, The New Indian Express, WIVT - News 34.",
+            "Story volume increased from 3 to 5 clustered item(s) in the current window.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T15:41:55",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_7f9d9c67aa46b5b6",
+          "source_count": 4,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_776b9f5805e41c3d"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: wicz.com.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T15:54:07",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_da15c72b95f56388",
+          "source_count": 4,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_2fc6a605f66fee3d"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: MSN, WIVT - News 34.",
+            "Story volume increased from 5 to 6 clustered item(s) in the current window.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T16:07:27",
+          "is_new_story": false,
+          "item_count": 6,
+          "run_id": "run_ad6322253b5173c8",
+          "source_count": 5,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_c473354ddc3e0054"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: wicz.com.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T16:18:55",
+          "is_new_story": false,
+          "item_count": 6,
+          "run_id": "run_e3c646401542f910",
+          "source_count": 5,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_ebf7b49c27eeec02"
+        },
+        {
+          "bullets": [
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T16:26:42",
+          "is_new_story": false,
+          "item_count": 6,
+          "run_id": "run_edb6e6c5e4343dff",
+          "source_count": 5,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_c7d6085d9deb5be3"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T17:01:50",
+          "is_new_story": false,
+          "item_count": 6,
+          "run_id": "run_aed9470db7185447",
+          "source_count": 5,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_5c1a57a6c88377b7"
+        },
+        {
+          "bullets": [
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T22:28:38",
+          "is_new_story": false,
+          "item_count": 6,
+          "run_id": "run_984f63216fbf423a",
+          "source_count": 5,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_11dc3a77965d1d04"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "New publisher/source coverage joined this story cluster: Outbreak News Today, WIVT - News 34.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T22:34:54",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_c3eefbf24936e411",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_ebe203d3a55eff4a"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T22:36:54",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_23146c86005816b6",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_18ff9db1e3c1c5bf"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "New publisher/source coverage joined this story cluster: LatestLY, MSN, wicz.com.",
+            "Story volume increased from 4 to 5 clustered item(s) in the current window.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T23:01:43",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_24ad039b5a4bd5b3",
+          "source_count": 4,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_c04f1b0acba78abf"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T00:01:52",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_c2c9f85967f25df3",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_08e3353f145ea2e1"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: LatestLY, wicz.com.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T01:01:43",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_e9a62632f00fa21f",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_b5a1111c4bebc398"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T02:01:56",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_1924528cf4bdd4fb",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_0c314f430f62528e"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: wicz.com.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T04:02:10",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_bd124c2338217c9d",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_ba3cce2484b43691"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T05:02:01",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_9c946d884beec57f",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_6e89286a7884caad"
+        },
+        {
+          "bullets": [
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T06:02:02",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_374784824ec37620",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_7abe5fa73b09d541"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T06:05:19",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_92588195d5f9db8d",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_40e4e394ec772893"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "New publisher/source coverage joined this story cluster: wicz.com.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T07:27:41",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_0ba114154e9e3061",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_a8933bb01363f702"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T07:54:33",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_64efbff34b803116",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_327af9e9eb6de0cd"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T08:08:20",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_2e4316f0b5c25d78",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_9d9aec77696d093d"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T08:19:06",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_d5667e38b111bd9b",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_e54bf5e8c51989ab"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "New publisher/source coverage joined this story cluster: WIVT - News 34.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-10T14:50:13",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_f1996c5d598f8746",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_e268ce7a88ace33a"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Hoodline.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:02:30",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_3adee671def65457",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_557952dfb200aa18"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:32:50",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_cec49e6ec8168b34",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_3e56b4378e292bdf"
+        },
+        {
+          "bullets": [
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:44:40",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_0ca73ff462b2e71c",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_4eb6d802ed1e9bf7"
+        },
+        {
+          "bullets": [
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T08:48:18",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_dd4b58e8d5b250a5",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_f5f586414f330058"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T08:53:04",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_23a8388018a202e1",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_2e23230ad8086e3b"
+        },
+        {
+          "bullets": [
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T09:49:43",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_da55b013dbc18207",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_a8815158876b3d8d"
+        },
+        {
+          "bullets": [
+            "CDC MMWR now explicitly uses investigation or monitoring language.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T09:50:24",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_7f1588fee0f2b584",
+          "source_count": 2,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_659b12244807fa00"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: DVM360, Outbreak News Today.",
+            "The lead item has changed to Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks from CDC MMWR.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T13:55:47",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_8e2af06184ef0fba",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_8dd143928ea66b46"
+        },
+        {
+          "bullets": [
+            "Outbreak News Today now explicitly uses investigation or monitoring language.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T14:57:07",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_2d3c2ac16d2b7e99",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_8d911b3792c91c8e"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T15:57:21",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_ca97b197e88c498b",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_c9dce57b8b453b82"
+        },
+        {
+          "bullets": [
+            "Outbreak News Today now explicitly uses investigation or monitoring language.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T15:57:44",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_b1518048b81f01c9",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_b4f0e39a797a86ce"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T18:00:24",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_f0734f8f6e5344f7",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_11554dd438b9a012"
+        },
+        {
+          "bullets": [
+            "Outbreak News Today now explicitly uses investigation or monitoring language.",
+            "New publisher/source coverage joined this story cluster: MSN.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T19:00:38",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_a2337cef1925475c",
+          "source_count": 4,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_c8576577cf80d072"
+        },
+        {
+          "bullets": [
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T19:00:41",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_906bffe1b4d4b56c",
+          "source_count": 4,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_6421fba5fd2a7a60"
+        },
+        {
+          "bullets": [
+            "Outbreak News Today now explicitly uses investigation or monitoring language.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T20:02:13",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_aa6024d76e9ac4ee",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_f7ff4d9a5bb970bf"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T20:02:41",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_13b2098a0416354e",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_fd87d400411e4fc3"
+        },
+        {
+          "bullets": [
+            "Outbreak News Today now explicitly uses investigation or monitoring language.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-15T21:04:14",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_4283da2eaa818e24",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_a338e6909922d822"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: MSN.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-16T00:44:24",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_20637dcee072e347",
+          "source_count": 4,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_825975b05b4c0b70"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: MSN.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-16T00:44:37",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_26ca271f4eae557d",
+          "source_count": 4,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_dc6f05d0cb0dcc1e"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Cambodianess.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-17T02:30:01",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_efd17106a670cb1f",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_604d509f7ea503e2"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-17T06:02:27",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_b570ab708e3a6b70",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_32e4f3e376f945f3"
+        },
+        {
+          "bullets": [
+            "Cambodianess now explicitly uses investigation or monitoring language.",
+            "Cambodianess now includes deaths or fatal cases in the story frame.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-17T06:32:40",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_ac0683c465dbc1a7",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_8eebd999e68ae669"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-17T06:36:05",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_0d3d2afce4919473",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_84aa0b067f4d24eb"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-17T08:36:58",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_e1bdc3ad531601a9",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_029b607eb3946fe3"
+        },
+        {
+          "bullets": [
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-18T06:05:17",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_6c409762507f8532",
+          "source_count": 3,
+          "story_id": "story_28a91c6d89267872",
+          "topic_name": "Avian influenza and H5N1",
+          "update_id": "story_update_03084c36ae90cfae"
+        }
+      ],
+      "topic_id": "topic_28a91c6d89267872",
+      "topic_name": "Avian influenza and H5N1",
+      "updated_at": "2026-05-18T07:07:16",
+      "what_happened": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
+      "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 2 newsroom source(s)."
+    },
+    {
+      "claim_types": [
         "new_official_source",
         "transmission_change",
         "new_geography"
@@ -12625,6 +12576,9 @@
     },
     {
       "claim_types": [
+        "new_official_source",
+        "confirmed_case",
+        "severity_or_death",
         "policy_or_travel",
         "new_geography"
       ],
@@ -12636,11 +12590,14 @@
         "index",
         "notebook",
         "watch",
+        "asia",
         "official"
       ],
       "evidence_type": "news_report",
       "first_seen_at": "2026-05-12T07:11:17",
-      "flags": [],
+      "flags": [
+        "deaths_reported"
+      ],
       "freshness_counts": {
         "fallback_cache": 0,
         "live": 3,
@@ -12651,15 +12608,17 @@
       "item_count": 3,
       "item_ids": [
         "item_a25caf0fefe6941b",
-        "item_fe745cd366efd21a",
-        "item_9925e9f98a63af52"
+        "item_f4e7a1ccd686a287",
+        "item_f65435821177c50d"
       ],
       "latest_timestamp": "2026-05-14T17:00+00:00",
       "latest_update_bullets": [
+        "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+        "New publisher/source coverage joined this story cluster: Free Press Journal, Outbreak News Today.",
         "2 newly observed linked item(s) were added since the last saved snapshot."
       ],
-      "latest_update_summary": "2 newly observed linked item(s) were added since the last saved snapshot.",
-      "latest_updated_at": "2026-05-18T06:02:50",
+      "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+      "latest_updated_at": "2026-05-18T06:32:16",
       "lead_source": "CDC MMWR",
       "lead_title": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "lead_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
@@ -12668,15 +12627,15 @@
         "item_a25caf0fefe6941b"
       ],
       "press_item_ids": [
-        "item_fe745cd366efd21a",
-        "item_9925e9f98a63af52"
+        "item_f4e7a1ccd686a287",
+        "item_f65435821177c50d"
       ],
-      "primary_region": "North America",
+      "primary_region": "South Asia",
       "publisher_family_count": 0,
       "publisher_names": [
-        "Borneo Bulletin",
         "CDC MMWR",
-        "The News Pakistan"
+        "Free Press Journal",
+        "Outbreak News Today"
       ],
       "related_reference_names": [
         "Dengue"
@@ -12694,9 +12653,9 @@
       ],
       "source_confidence_counts": {
         "aggregator_only": 0,
-        "general_outlet": 0,
+        "general_outlet": 2,
         "major_newsroom": 0,
-        "metadata_only_signal": 2,
+        "metadata_only_signal": 0,
         "official_agency": 1,
         "specialist_health": 0,
         "wire": 0
@@ -12704,17 +12663,17 @@
       "source_count": 3,
       "source_kind_counts": {
         "aggregator_only": 0,
-        "general_outlet": 0,
+        "general_outlet": 2,
         "major_newsroom": 0,
-        "metadata_only_signal": 2,
+        "metadata_only_signal": 0,
         "official": 1,
         "specialist_health": 0,
         "wire": 0
       },
       "source_names": [
-        "Borneo Bulletin",
         "CDC MMWR",
-        "The News Pakistan"
+        "Free Press Journal",
+        "Outbreak News Today"
       ],
       "status": "quiet_retained",
       "story_id": "story_ccfeaff28d46baf6",
@@ -13674,11 +13633,26 @@
           "story_id": "story_ccfeaff28d46baf6",
           "topic_name": "Dengue and arboviruses",
           "update_id": "story_update_3b9cc591e41042f2"
+        },
+        {
+          "bullets": [
+            "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+            "New publisher/source coverage joined this story cluster: Free Press Journal, Outbreak News Today.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-18T06:32:16",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_565b63fb90582e7e",
+          "source_count": 3,
+          "story_id": "story_ccfeaff28d46baf6",
+          "topic_name": "Dengue and arboviruses",
+          "update_id": "story_update_8321810d19b499ed"
         }
       ],
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-18T06:05:17",
+      "updated_at": "2026-05-18T07:07:16",
       "what_happened": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
       "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 2 newsroom source(s)."
     }
@@ -13697,32 +13671,17 @@
         "item_50bf8443f6a7a7da",
         "item_9eaa5c88712ab0ad",
         "item_c39580982a135e52",
+        "item_59db53c15ae18609",
         "item_1d5013f76179a1c6",
-        "item_2db5896a7f912fe9",
-        "item_23c92566c8fb413b",
-        "item_7f0a394c71d8ea68"
+        "item_7f0a394c71d8ea68",
+        "item_f47ad4cd033b22c1"
       ],
-      "source_count": 12,
+      "source_count": 13,
       "story_id": null,
       "summary": "Publications mongem@who.int Mon, 18/05/2026 - 12:45 The Bulletin provides standardized updates on eSURV/ISS implementation, key performance indicators in WHO AFRO, aiding stakeholders in monitoring active surveillance progress, addressing gaps, and guiding evidence-based decisions at regional and national, and subnational levels. Community deaths among people with symptoms compatible with Ebola virus disease have...",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T06:05:23"
-    },
-    {
-      "display_title": "Avian influenza and H5N1",
-      "item_count": 3,
-      "item_ids": [
-        "item_908fd72449d6f8c4",
-        "item_73c7d9ee1e3265dd",
-        "item_d2364e88a0824c61"
-      ],
-      "source_count": 3,
-      "story_id": "story_28a91c6d89267872",
-      "summary": "That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. This report describes survey results from...",
-      "topic_id": "topic_28a91c6d89267872",
-      "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-18T06:05:23"
+      "updated_at": "2026-05-18T07:07:28"
     },
     {
       "display_title": "Tuberculosis and antimicrobial resistance",
@@ -13738,6 +13697,20 @@
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
       "updated_at": "2026-05-18T00:57:44"
+    },
+    {
+      "display_title": "Avian influenza and H5N1",
+      "item_count": 2,
+      "item_ids": [
+        "item_73c7d9ee1e3265dd",
+        "item_d2364e88a0824c61"
+      ],
+      "source_count": 2,
+      "story_id": "story_28a91c6d89267872",
+      "summary": "This report describes survey results from backyard flock owners' attitudes towards avian influenza.",
+      "topic_id": "topic_28a91c6d89267872",
+      "topic_name": "Avian influenza and H5N1",
+      "updated_at": "2026-05-18T07:07:28"
     },
     {
       "display_title": "Occupational and environmental epidemiology",
@@ -13765,7 +13738,7 @@
       "summary": "In a follow-up on the dengue fever situation in Sri Lanka this year, officials with the National Dengue Control Unit (NDCU) report 27,754 dengue cases as of May 11, an increase in cases compared to 2025. In addition, 14 deaths have been recorded. This report describes an increase in dengue cases reported during 2024.",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-18T06:05:23"
+      "updated_at": "2026-05-18T07:07:28"
     },
     {
       "display_title": "Historical epidemiology and ancient pathogens",
@@ -13782,6 +13755,19 @@
       "updated_at": "2026-05-15T05:46:16"
     },
     {
+      "display_title": "Measles transmission and vaccination",
+      "item_count": 1,
+      "item_ids": [
+        "item_5fc9608052a1c130"
+      ],
+      "source_count": 1,
+      "story_id": "story_0cc2d5322bc76f8f",
+      "summary": "The Food and Drug Monitoring Agency (BPOM) has reported 10 measles-related deaths nationwide in 2026. However, the Ministry of Health reported that measles-rubella (MR) immunization coverage in 2024 reached only 92% for the first dose (MR1) and 82.3% for the second dose (MR2).",
+      "topic_id": "topic_0cc2d5322bc76f8f",
+      "topic_name": "Measles transmission and vaccination",
+      "updated_at": "2026-05-18T07:07:28"
+    },
+    {
       "display_title": "Hantavirus and cruise-ship outbreak",
       "item_count": 1,
       "item_ids": [
@@ -13792,7 +13778,7 @@
       "summary": "Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-18T06:05:23"
+      "updated_at": "2026-05-18T07:07:28"
     },
     {
       "display_title": "COVID-19 and SARS-CoV-2",
@@ -13810,30 +13796,17 @@
       "updated_at": "2026-05-18T04:02:50"
     },
     {
-      "display_title": "Measles transmission and vaccination",
-      "item_count": 1,
-      "item_ids": [
-        "item_adeadfc038d158d9"
-      ],
-      "source_count": 1,
-      "story_id": "story_0cc2d5322bc76f8f",
-      "summary": "Measles cases in 2026 in Pennsylvania have already surpassed all cases reported in 2025. State officials said the first case in Lebanon County was detected on April 23.",
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-18T06:05:23"
-    },
-    {
       "display_title": "Polio and wastewater surveillance",
       "item_count": 1,
       "item_ids": [
-        "item_bbb40f0bef0c1645"
+        "item_6b0814d8e5eae2b4"
       ],
       "source_count": 1,
       "story_id": "story_9ccdd822481fa2b6",
-      "summary": "Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.",
+      "summary": "Updated: May 18, 2026 @ 8:31 am Full Forecast Ottumwa, IA (52501) Today Morning rain followed by scattered thunderstorms in the afternoon...some thunderstorms may be strong. Damaging winds, large hail and possibly a tornado with some storms.",
       "topic_id": "topic_9ccdd822481fa2b6",
       "topic_name": "Polio and wastewater surveillance",
-      "updated_at": "2026-05-18T06:05:23"
+      "updated_at": "2026-05-18T07:07:28"
     }
   ]
 }
