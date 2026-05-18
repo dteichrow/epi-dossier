@@ -1311,7 +1311,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "New official source(s) joined this story cluster: CDC MMWR.",
+          "latest_update_summary": "Free Press Journal now includes deaths or fatal cases in the story frame.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-18T00:57:44",
-  "run_id": "run_f9ebd3b6c0d840a9"
+  "generated_at": "2026-05-18T01:59:27",
+  "run_id": "run_b9d42b7124349622"
 }

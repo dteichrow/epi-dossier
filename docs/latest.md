@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-18
-Generated at: 2026-05-18T00:57
+Generated at: 2026-05-18T01:59
 Search window: 7 day(s) ending 2026-05-18
 
 ## Executive scan
@@ -16,39 +16,15 @@ Search window: 7 day(s) ending 2026-05-18
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Fact Check: China has not banned US citizens over hantavirus](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0tKb09FcWM4cmU4ckFpLTVnaDdpVnhjM3BFUEk5OGhmbVJkZjMtbW44YU9wR3ZaUFdScEZiTGlwQ3hPbnJrVW5jRGh4eExTYXItSVNzelgyQ0c3Uk5LajZ4VTZtLV9FRGNZRUo3VmEzZXpwdlVOcmZmcG5RMkFOZkU2bmU0MW4weFRoNmlMbmRFYzJvMDBXQldZSQ?oc=5) (Reuters)
-- nippon.com currently frames broader public risk as low.
-- New publisher/source coverage joined this story cluster: nippon.com.
-- The lead item has changed to [Fact Check: China has not banned US citizens over hantavirus](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0tKb09FcWM4cmU4ckFpLTVnaDdpVnhjM3BFUEk5OGhmbVJkZjMtbW44YU9wR3ZaUFdScEZiTGlwQ3hPbnJrVW5jRGh4eExTYXItSVNzelgyQ0c3Uk5LajZ4VTZtLV9FRGNZRUo3VmEzZXpwdlVOcmZmcG5RMkFOZkU2bmU0MW4weFRoNmlMbmRFYzJvMDBXQldZSQ?oc=5) from Reuters.
-- 3 newly observed linked item(s) were added since the last saved snapshot.
-
-### COVID-19 and SARS-CoV-2
-- Lead item: [Multicenter retrospective observational study on the clinical effectiveness of butyrate-producing Clostridium butyricum containing probiotics in patients with COVID-19.](https://pubmed.ncbi.nlm.nih.gov/42127027/) (PubMed Infectious Disease Search)
-- The lead item has changed to [Multicenter retrospective observational study on the clinical effectiveness of butyrate-producing Clostridium butyricum containing probiotics in patients with COVID-19.](https://pubmed.ncbi.nlm.nih.gov/42127027/) from PubMed Infectious Disease Search.
-- Story volume increased from 3 to 4 clustered item(s) in the current window.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
 ### Dengue and arboviruses
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
-- New official source(s) joined this story cluster: CDC MMWR.
-- The lead item has changed to [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) from CDC MMWR.
-- 3 newly observed linked item(s) were added since the last saved snapshot.
-
-### Tuberculosis and antimicrobial resistance
-- Lead item: [Understanding and exploiting superspreading to disrupt Mycobacterium tuberculosis transmission.](https://pubmed.ncbi.nlm.nih.gov/42134384/) (PubMed Historical Pathogen Case Studies)
-- The lead item has changed to [Understanding and exploiting superspreading to disrupt Mycobacterium tuberculosis transmission.](https://pubmed.ncbi.nlm.nih.gov/42134384/) from PubMed Historical Pathogen Case Studies.
-- Story volume increased from 2 to 3 clustered item(s) in the current window.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
-### Occupational and environmental epidemiology
-- Lead item: [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies)
-- 1 newly observed linked item(s) were added since the last saved snapshot.
+- Free Press Journal now includes deaths or fatal cases in the story frame.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 13 item(s) across 9 source(s); 8 official/primary-source item(s).
+- Topic size: 14 item(s) across 10 source(s); 8 official/primary-source item(s).
 - Lead item: [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News, 2026-05-17T13:38+02:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/) (PubMed Infectious Disease Search)
@@ -58,8 +34,8 @@ Search window: 7 day(s) ending 2026-05-18
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: This report describes an increase in dengue cases reported during 2024.
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue cases fall sharply in Singapore](https://news.google.com/rss/articles/CBMieEFVX3lxTE9maVBlcUNLNzJrS3pScF85LUx0dE45Q3FTTFJFdUl2MlRseVpQNGt2VW1ycFZqN3puNWJSc2lBbTg3VHctdmViTkZ0c0I2aUxHdHdTdEx3VnktSUk4ZnlkR2ZLQjg3OC1wTm84c3B4eHNYY1BaZ2JEZw?oc=5) (Borneo Bulletin); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWJrMVdNMnhyLUpvUFlFN291Tm5rSHdDc3Z4aHlyVHBRYklHRnlTdGpVcmt6Z2JXekUyRmQ4VkcxcGRuNVljWGJLOEo3R3V3eXpCSjl6aXhSTXRzd3R4WWswMEpXX1NHUDVWQk1GbUFYYzNrdFM2UXkyOXI1aEgwdDFBWlEtbFdrUHRaRkxDSjZwSEF0YnlBOTdmVVhRRkZpc3pLUFVoUVR3OUJvWjUxMWVsU2licXYtR3N0a2RUYVVVUEVhZlRwbzdzUdIB0AFBVV95cUxPajF5UGZJMjY3N1NBRVQ0MUF2b2ZUc2psNkF3TkNISnpNYUdSd24xS1RmMjZqaDhpRk5JcWs3TU5yT3BVNDcycmRmaW0wQmUxek1ZQzVIeF9DMDVaTno3bHYtN2dpbFoycF9Mb21NUlRwb3daRUNia0hFblZKSGhYVlRaREFtV2xoVlZQazh1eEJ2bTdZZ29pd2R6OTFTMXlSTG5OMnRTQ0dnRTdDaTQzVGRlNkRROXlVcWhYbTBhXzRCNmFfMUkzTk91NVNIdEtB?oc=5) (Free Press Journal)
+- Detailed note: Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the...
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal); [Dengue cases fall sharply in Singapore](https://borneobulletin.com.bn/dengue-cases-fall-sharply-in-singapore/) (Borneo Bulletin)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -74,8 +50,8 @@ Search window: 7 day(s) ending 2026-05-18
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: This report describes survey results from backyard flock owners' attitudes towards avian influenza.
-- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cat-to-human transmission of highly pathogenic avian influenza virus confirmed](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGxTN2xMYmRMZFlHQzVGekw4anRuZ3BITjNRV1gtVnVwWGtoZUpNaVBUdmFZajRKeHdYdzNjS2t5TGFrUXR1RGRWb2xDNVlzZFc0LW5JSVM1TmgwVmJ3TV9EX3J3ZmJkeVMyMnhNWF8wbUExVlpXOXk4R1ZudFc2OGRXTVBpMnpHZkFDcTJoSVJTd1ZIT0M1NE0xeExUdHozaWNBYm55dHU5Zw?oc=5) (DVM360)
+- Detailed note: Weekly / May 14, 2026 / 75(18);234â239 Melissa A. Durand, PhD, VMD 1 ; Carrie Reed, DSc 1 ( View author affiliations ) Since 2024, three human influenza A(H5) cases have been reported among people in the U.S.
+- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cat-to-human transmission of highly pathogenic avian influenza virus confirmed](https://www.dvm360.com/view/cat-to-human-transmission-of-highly-pathogenic-avian-influenza-virus-confirmed) (DVM360)
 - Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -329,7 +305,7 @@ Search window: 7 day(s) ending 2026-05-18
 - Date: 2026-05-17T13:38+02:00
 - URL: https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency
 - Category: Policy, surveillance, and public health infrastructure
-- Summary: On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) a Public Health Emergency of International Concern.
+- Summary: Community deaths among people with symptoms compatible with Ebola virus disease have been reported in Ituri Province, and suspected cases have been identified in both Ituri and North Kivu. Four deaths among healthcare workers have also been reported among people with symptoms consistent with viral haemorrhagic fever, raising concerns regarding healthcare-associated transmission. On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) a Public Health Emergency of International Concern.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -349,7 +325,7 @@ Search window: 7 day(s) ending 2026-05-18
 - Date: 2026-05-15T16:21+02:00
 - URL: https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo
 - Category: Policy, surveillance, and public health infrastructure
-- Summary: Preliminary laboratory results indicate a non-Zaire ebolavirus species, with further analysis ongoing.
+- Summary: Ebolavirus was detected in 13 of 20 samples tested at the Institut National de Recherche Biomédicale in the Democratic Republic of the Congo. For the general population in the EU/EEA, the likelihood of infection is very low due to the limited possibility of importation and onward transmission in Europe. Based on the available information and current uncertainties, the likelihood of infection for EU/EEA residents in or travellers to the Ituri Province is assessed as low.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -379,7 +355,7 @@ Search window: 7 day(s) ending 2026-05-18
 - Date: 2026-05-14T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451
 - Category: Occupational and environmental epidemiology
-- Summary: This report describes survey results from backyard flock owners' attitudes towards avian influenza.
+- Summary: Weekly / May 14, 2026 / 75(18);234â239 Melissa A. Durand, PhD, VMD 1 ; Carrie Reed, DSc 1 ( View author affiliations ) Since 2024, three human influenza A(H5) cases have been reported among people in the U.S. Campagna, DVM 5 ; Elizabeth Harker, MPH 1 ; Colin A.
 - Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -438,18 +414,24 @@ Search window: 7 day(s) ending 2026-05-18
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
 - [Primary sternocostal tuberculosis in a young healthcare worker: a case report.](https://pubmed.ncbi.nlm.nih.gov/42129664/) | PubMed Historical Pathogen Case Studies | 2026-05-13T00:00 | Historical epidemiology / ancient disease / paleopathology
   Extrapulmonary tuberculosis occurs in 15% to 20% of immunocompetent patients with tuberculosis and in 50% of immunocompromised patients. Our report describes a 34-year-old healthcare worker with a painless mass in the right sternocostal joint. A biopsy report indicated caseous necrosis and the absence of epithelioid cells.
-- [WHO declares global public health emergency over Ebola outbreak in Democratic Republic of Congo and Uganda](https://news.google.com/rss/articles/CBMifEFVX3lxTE5XZnZOek1QZG1zOWtheDNmRGdlcVdGVmU0bW10bzQ1UTNpNWZjUFFUVUhkRHhLWmpYQXF2SHdGQTdTckkyWi1QeDRYakVWdURqQ1BjcTZMZzF2MW9ic0N3Si1EN3RwOGtvRjJxOThlaVBvNExyVEE0MnpOT3g?oc=5) | Sky News | 2026-05-17T02:24+00:00 | Outbreaks and emerging infections
+- [WHO declares global public health emergency over Ebola outbreak in Democratic Republic of Congo and Uganda](https://news.sky.com/story/new-ebola-outbreak-in-congo-kills-65-13544395) | Sky News | 2026-05-17T02:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo confirms new Ebola outbreak, 80 deaths](https://news.google.com/rss/articles/CBMizwFBVV95cUxObzVndDlCNmxOWXRhME1fWFpwbkZEWTRsV0NFd1paN0pZSmJpSUdBcFBlUE1kMWRpdlI3QVkwQlVRcWRueXVveV9WSl9wSi1ncjJEUXMtZFdTMno1dkdWZVI5NVluVlBzNnI0MkdRemg1Y09NeTNWclk2LXFXM0lvRkFCZTFzSE5pSmVUWjhiY0tXTEEzeElYNHBjSmF1bzEyYjVVNUpHZnRhWG9HU0M1d1Rrb1VmWHZ1V2d3MHp6YXdvbURRc215TFFRUFhIeEU?oc=5) | Reuters | 2026-05-16T02:14+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) | BBC | 2026-05-16T04:11+00:00 | Outbreaks and emerging infections
+  Around 246 cases and 80 deaths have been reported, mainly in the gold-mining towns of Mongwalu and Rwampara, said the Africa Centres for Disease Control and Prevention (Africa CDC). Ugandan officials confirmed one case of imported Ebola from DR Congo on Friday, with the country's health ministry stating that a 59-year-old male who died on Thursday had tested positive. Ebola was first discovered in 1976 in what is now DR Congo, and is thought to have spread from bats.
+- [Congo confirms new Ebola outbreak, 80 deaths](https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/) | Reuters | 2026-05-16T02:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVVfREQwaVJrUnYtdHN4STdCZ3VqRF9uS3BfOHpZS0VLUkRjU2I2cl96MG1KVGdNaVF2UmMyN0tRREpiaHF5T0hrbEVDMER5VEEtQmFxNzZSblZUajhGRUJVTi1FZzYtTjdyZmZTRXJEeW5FUS1xZnRhcEZfaW9sWHBPV3NpcERZbXhZVmRobi1UdEx4VUNfZjBGdklZa25zNWEtVzZadWtvczlnQ1hmNGNwOVhXUHBtQUlFQw?oc=5) | PBS | 2026-05-15T20:53+00:00 | Outbreaks and emerging infections
+- [New Ebola outbreak confirmed in a remote Congo province](https://www.cnn.com/2026/05/15/us/video/ac360ebolacongo) | CNN | 2026-05-16T01:08+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital](https://www.pbs.org/newshour/health/uganda-confirms-ebola-case-in-man-from-neighboring-congo-who-died-in-ugandan-capital) | PBS | 2026-05-15T20:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Antibiotic-associated Enterococcus expansion in the gastrointestinal tract precedes infected necrosis in acute necrotizing pancreatitis.](https://pubmed.ncbi.nlm.nih.gov/42141757/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Early antibiotic use-without documented infection in 40%-was associated with Enterococcus colonisation (HR 4.99, 95% CI 1.57-15.80), reduced butyrate-producer abundance, and infected necrosis (HR 3.56, 95% CI 1.23-10.28). After adjustment for baseline disease severity, biliary etiology, and prior antibiotic exposure, gastrointestinal Enterococcus colonization was associated with subsequent infected necrosis (rectal HR 4.48, 95% CI 1.51-13.28; salivary HR 5.37, 95% CI 1.72-16.79), typically preceding clinical diagnosis by 3 weeks; results were similar when adjusting for early extra-pancreatic infection instead of disease severity. Of 276 patients with acute pancreatitis, 57 with necrotizing pancreatitis underwent twice-weekly rectal and salivary sampling for 30 d, analyzed using 16S rRNA sequencing.
-- [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUDQ5T3g2TUdia0ZhTWZWS2x2MmZwdzhMU3hZMm1HbnNPSnBVOEhjVzd6dmtrdExrblJPVW45UFFwM2kxWVBHLUI2XzVoVTl2aUk2RFBQVFY2UQ?oc=5) | BBC | 2026-05-16T04:11+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [New Ebola outbreak confirmed in a remote Congo province](https://news.google.com/rss/articles/CBMiZkFVX3lxTE00OUQwSlkyb3ljcVlTM0JJUnkyTk41cGxWSFoxd21MVGpZaUVDNUpwMFpta0ZZZ1BYa0xfMTkxLWI3Z0dBVDdldUdMMkFtMVA0RjBFT25lV0M2ZXdJdGN4R2FVZDRJdw?oc=5) | CNN | 2026-05-16T01:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Silent spread of rare and deadly Ebola strain exposes surveillance gaps](https://www.scmp.com/news/world/africa/article/3353956/silent-spread-rare-and-deadly-ebola-strain-exposes-surveillance-gaps) | South China Morning Post | 2026-05-18T08:19+00:00 | Outbreaks and emerging infections
+  About 350 suspected cases and 91 deaths have been reported in northeastern DR Congo, the country’s health minister Roger Kamba said on Sunday, while neighbouring Uganda has confirmed two infections, including one death in Kampala. “Hospitals are already under pressure,” Kamba told reporters in Bunia, the capital of Ituri province, where the outbreak is believed to have begun in April and hospitalised 59 people. A separate case was also reported Sunday in Goma, the eastern Congolese city controlled by Rwanda-backed M23 rebels.
+- [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
+  Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
+- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
+  Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
 - [Multicenter retrospective observational study on the clinical effectiveness of butyrate-producing Clostridium butyricum containing probiotics in patients with COVID-19.](https://pubmed.ncbi.nlm.nih.gov/42127027/) | PubMed Infectious Disease Search | 2026-05-17T00:00 | Major epidemiology studies
   15.6%) and the lower in-hospital mortality (3.7% vs. However, patients receiving CB preparations showed the shorter periods of mechanical ventilation (1.1 ± 2.5 days vs. Although not statistically significant, they also showed lower incidence of secondary bacterial pneumonia (7.4% vs.
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
@@ -458,14 +440,8 @@ Search window: 7 day(s) ending 2026-05-18
   In the United States, COVID-19 vaccines are widely available, but vaccine hesitancy and vaccine disparities remain. Due to current changes in COVID-19 vaccine recommendations, research that focuses on vaccines and misinformation is critical in preventing vaccine hesitancy. These perspectives may be especially important for vaccine-hesitant people with intersecting social vulnerabilities, including racial and ethnic minorities who are also LGBTQ+ individuals, immigrants, or pregnant people.
 - [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Fact Check: China has not banned US citizens over hantavirus](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0tKb09FcWM4cmU4ckFpLTVnaDdpVnhjM3BFUEk5OGhmbVJkZjMtbW44YU9wR3ZaUFdScEZiTGlwQ3hPbnJrVW5jRGh4eExTYXItSVNzelgyQ0c3Uk5LajZ4VTZtLV9FRGNZRUo3VmEzZXpwdlVOcmZmcG5RMkFOZkU2bmU0MW4weFRoNmlMbmRFYzJvMDBXQldZSQ?oc=5) | Reuters | 2026-05-14T15:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3lIeE43VDJOWlV3bkN2Tzl4SkhaSzQtbWg0M3VGN21INzF2aXdWc3gtX252eHRNR3FqZXVWelpYLTlYNHJkdzdLRjlKSHdheE11cDlXRTU1SmVXQkhhbEJrMmY3WlNWOVByZHloeE1KVDNOcDdobEVzWG15cXY4ajUwM3ZldnFQd0lLcmRvRFBLdldKaVRTX1l4am9fc3kwaGJXVzlQOXNuUWgxLUhjVFByQTRuUlZmbGVNdTVSSU91eGdSNm1KamQ0RQ?oc=5) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Second Round of the Polio Vaccination Campaign Launched in Afghanistan](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0lhV214SldUaENwb2hUUkR5OGYwT3Npa1BncUNURkJBRVY0OWxEdFdINU9tNjBfa0NkUE53aEJIVHRLZWdyOVQ1T2d1NTd6OUJhMXViWjViWVhkV0pqNjZSeDBRYzJzU01RRHppbjhJeDBrdDFmMUlvY3M5QWpFYTFBZXlvODNram5jVW0tcHRDbF9DbGI0ZQ?oc=5) | 8am.media | 2026-05-18T07:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Japan Calls for Calm Response to Hantavirus, Citing Low Risk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IUXZScmV0ZUZCWklPclpMS1lvSlJsbTNyTWx3MlU5VGZIRklObDVMb3o5M01DV0pzbXVTcGQteERpUDZRMV92QTZ1RmRQYk1hdkZxb2IxQXJMeXJ6?oc=5) | nippon.com | 2026-05-18T07:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [More measles cases are reported in Lebanon, Lancaster, and Berks Counties](https://www.inquirer.com/health/measles-outbreak-pennsylvania-lebanon-lancaster-berks-counties-cases-20260515.html) | Inquirer.com | 2026-05-15T19:11+00:00 | Outbreaks and emerging infections
+  Measles cases in 2026 in Pennsylvania have already surpassed all cases reported in 2025. State officials said the first case in Lebanon County was detected on April 23. Last week, 11 measles cases were reported in Lebanon County .
 
 ## Papers worth saving
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/)
