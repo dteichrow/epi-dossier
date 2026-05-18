@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-18
-Generated at: 2026-05-18T15:18
+Generated at: 2026-05-18T16:19
 Search window: 7 day(s) ending 2026-05-18
 
 ## Executive scan
@@ -12,14 +12,11 @@ Search window: 7 day(s) ending 2026-05-18
 - [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa; 2026-05-15T13:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/) (PubMed Infectious Disease Search; 2026-05-15T00:00; Major epidemiology studies; relevance 5/5)
 - [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (24), Major epidemiology studies (4), Policy, surveillance, and public health infrastructure (3)
+- Category mix: Outbreaks and emerging infections (25), Major epidemiology studies (4), Policy, surveillance, and public health infrastructure (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters)
-- The lead item has changed to [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) from Reuters.
-
+- No multi-item story clusters produced concrete update bullets in this run.
 
 ## Major topics
 ### Miscellaneous signals
@@ -38,13 +35,13 @@ Search window: 7 day(s) ending 2026-05-18
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Dengue and arboviruses
+### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: This report describes an increase in dengue cases reported during 2024.
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue cases fall sharply in Singapore](https://borneobulletin.com.bn/dengue-cases-fall-sharply-in-singapore/) (Borneo Bulletin)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
+- Detailed note: That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. This report describes survey results from...
+- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak](https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak) (Cambodianess)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -54,19 +51,19 @@ Search window: 7 day(s) ending 2026-05-18
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Avian influenza and H5N1
-- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
-- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: This report describes survey results from backyard flock owners' attitudes towards avian influenza.
-- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR)
-- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal, 2026-05-13T15:11+00:00)
+- Detailed note: Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the...
+- Evidence notes: [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal); [Dengue cases fall sharply in Singapore](https://borneobulletin.com.bn/dengue-cases-fall-sharply-in-singapore/) (Borneo Bulletin)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Innovative vaccines for Indonesia’s measles outbreak](https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/) (Independent Observer, 2026-05-17T03:00+00:00)
-- Detailed note: The Food and Drug Monitoring Agency (BPOM) has reported 10 measles-related deaths nationwide in 2026. However, the Ministry of Health reported that measles-rubella (MR) immunization coverage in 2024 reached only 92% for the first dose (MR1) and 82.3% for the second dose (MR2). “Of the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case) counties, all 18 were...
-- Evidence notes: [Innovative vaccines for Indonesia’s measles outbreak](https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/) (Independent Observer); [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline); [Measles outbreak confirmed in Buckingham County, Virginia](https://www.13newsnow.com/article/news/health/measles-outbreak-confirmed-in-buckingham-county-virginia/291-f36e8f3f-72e5-4cc2-afac-4bfc8572b4b6) (13newsnow.com)
+### Hantavirus and cruise-ship outbreak
+- Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters, 2026-05-18T18:43+00:00)
+- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters); [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) (Reuters); [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -379,16 +376,6 @@ Search window: 7 day(s) ending 2026-05-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Increase in Travel-Associated and Locally Acquired Dengue Cases
-- Source: CDC MMWR
-- Date: 2026-05-14T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450
-- Category: Occupational and environmental epidemiology
-- Summary: This report describes an increase in dengue cases reported during 2024.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-05-14T00:00
@@ -399,13 +386,21 @@ Search window: 7 day(s) ending 2026-05-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).
+- Source: PubMed Infectious Disease Search
+- Date: 2026-05-13T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42126144/
+- Category: Major epidemiology studies
+- Summary: Additionally, while prior studies documented that IgG Ab responses to TAA can identify targets of a coordinated T and B cell response and evidence of immune surveillance, this study found that high autoantibody responses, while not statistically significant, trended toward a worse outcome ( p = 0.06). Novel findings of this study are that elevated frequencies of regulatory T cells near CD3 T cells at baseline were associated with improved outcome to treatment ( p < 0.05). Integrating this Treg/T cell relationship metric together with overall T-cell density yielded a tumor inflammation score that correlated ( p < 0.002) with disease response.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).](https://pubmed.ncbi.nlm.nih.gov/42126144/) | PubMed Infectious Disease Search | 2026-05-13T00:00 | Major epidemiology studies
-  Additionally, while prior studies documented that IgG Ab responses to TAA can identify targets of a coordinated T and B cell response and evidence of immune surveillance, this study found that high autoantibody responses, while not statistically significant, trended toward a worse outcome ( p = 0.06). Novel findings of this study are that elevated frequencies of regulatory T cells near CD3 T cells at baseline were associated with improved outcome to treatment ( p < 0.05). Integrating this Treg/T cell relationship metric together with overall T-cell density yielded a tumor inflammation score that correlated ( p < 0.002) with disease response.
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) | PubMed Historical Epidemiology | 2026-05-13T00:00 | Historical epidemiology / ancient disease / paleopathology
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
-- [American tests positive for Ebola; U.S. to screen travelers at airports](https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/) | The Washington Post | 2026-05-18T20:51+00:00 | Outbreaks and emerging infections
+- [American tests positive for Ebola; U.S. to screen travelers at airports](https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/) | The Washington Post | 2026-05-18T22:29+00:00 | Outbreaks and emerging infections
   to screen travelers at airports The Washington Post
 - [CDC says one American tested positive for Ebola in DRC](https://news.google.com/rss/articles/CBMiygFBVV95cUxONkI1bV93cDhPa3JEU3JyQ3dFWWw5cnAyZ21VYkdxdTNVelJuRVEyU0lSdTFnbFZmck1IV0ZJcDZRZFNCUmt2ZlEzOXNyRmJKcVlWRmx5cjZJMG90aC13MHJzNkVPV2tFWlRlNks5ai1QbmRHdVJQSzlnc1F4bWpGYklsZmxKdV9rUWdxZndSNDhRZXhZdlczeTJvYTh1X2JXeWZfVERxdWUxMWxybHNrcjBvWmZhd3JEaTRHNi15aXJDSXc3cThGWEZB?oc=5) | Reuters | 2026-05-18T20:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -419,16 +414,20 @@ Search window: 7 day(s) ending 2026-05-18
   Limited detail was available from feed metadata alone.
 - [WHO declares global public health emergency over Ebola outbreak in Democratic Republic of Congo and Uganda](https://news.google.com/rss/articles/CBMifEFVX3lxTE5XZnZOek1QZG1zOWtheDNmRGdlcVdGVmU0bW10bzQ1UTNpNWZjUFFUVUhkRHhLWmpYQXF2SHdGQTdTckkyWi1QeDRYakVWdURqQ1BjcTZMZzF2MW9ic0N3Si1EN3RwOGtvRjJxOThlaVBvNExyVEE0MnpOT3g?oc=5) | Sky News | 2026-05-17T02:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congolese report constant burials as deaths in new Ebola outbreak reach 80](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nazdoYWVkMnpJdTFodjc0bEdvQ1kwMkdWQnlENTFLbFhvR0QzQ1ZYa2F6OXNfOVBxZDFzUGtISDZRZGtyci13OW8zYkU2TnI2RUMxWHQ0R3hvSElVWHBiU1BQeDliQW8ydlA4XzE2MU9aU1VJOFlv?oc=5) | NBC News | 2026-05-16T20:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak](https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak) | Cambodianess | 2026-05-16T07:06+00:00 | Outbreaks and emerging infections
+  That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. PHNOM PENH — Cambodia has confirmed a fourth human case of H5N1 bird flu this year, health authorities said on April 22, intensifying concerns over a fast-evolving virus that is spreading through poultry and increasingly spilling over into humans.
 - [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) | BBC | 2026-05-16T04:11+00:00 | Outbreaks and emerging infections
   Around 246 cases and 80 deaths have been reported, mainly in the gold-mining towns of Mongwalu and Rwampara, said the Africa Centres for Disease Control and Prevention (Africa CDC). Ugandan officials confirmed one case of imported Ebola from DR Congo on Friday, with the country's health ministry stating that a 59-year-old male who died on Thursday had tested positive. Ebola was first discovered in 1976 in what is now DR Congo, and is thought to have spread from bats.
 - [Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVVfREQwaVJrUnYtdHN4STdCZ3VqRF9uS3BfOHpZS0VLUkRjU2I2cl96MG1KVGdNaVF2UmMyN0tRREpiaHF5T0hrbEVDMER5VEEtQmFxNzZSblZUajhGRUJVTi1FZzYtTjdyZmZTRXJEeW5FUS1xZnRhcEZfaW9sWHBPV3NpcERZbXhZVmRobi1UdEx4VUNfZjBGdklZa25zNWEtVzZadWtvczlnQ1hmNGNwOVhXUHBtQUlFQw?oc=5) | PBS | 2026-05-15T20:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo | Global development](https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RNMFY3cURVQUREVVdfWUYwMzdqMGt2LTRrTkVBM0txWUQ1M1pqdUxaQjNNOEJqY24zR1ZoTkYzTXVsU1R2a2JhSmlKYVF6TDNiWWxseU5JdHBSUWtIVzFtcThhMEdBa0Yyb2swcVo5SmRlQUI4SWlyemtRVmxlQ2lMdDlqcWtOd3ZuYTJuQXg5MERpaEE?oc=5) | The Guardian | 2026-05-15T11:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Innovative vaccines for Indonesia’s measles outbreak](https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/) | Independent Observer | 2026-05-17T03:00+00:00 | Outbreaks and emerging infections
-  The Food and Drug Monitoring Agency (BPOM) has reported 10 measles-related deaths nationwide in 2026. However, the Ministry of Health reported that measles-rubella (MR) immunization coverage in 2024 reached only 92% for the first dose (MR1) and 82.3% for the second dose (MR2). BPOM also noted that 8% of cases occurred among adults over the age of 18, underscoring the importance of protection for both children and adults at risk.
 - [Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda](https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/) | Africa CDC | 2026-05-16T07:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
+  Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Compared to no vaccination, the vaccination of older adults aged ≥65 years and the high-risk population was estimated to prevent 12,933 symptomatic cases, 12,811 outpatient cases, 122 hospitalizations, 353 lost quality-adjusted life-years (QALYs) gained, and four deaths, translating to total direct and societal cost savings of US$9,424,605 and US$10,397,107 respectively. Implementing an adapted COVID-19 vaccine strategy for high-risk and older adults in Guatemala is projected to improve health outcomes and, under base-case assumptions, be cost-saving from both payer and societal perspectives. Using adapted COVID-19 vaccines targeting current variants in circulation is necessary for addressing the dynamic evolution of the SARS-CoV-2 virus.
 - [Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.](https://pubmed.ncbi.nlm.nih.gov/42132838/) | PubMed Infectious Disease Search | 2026-05-14T00:00 | Major epidemiology studies
@@ -439,8 +438,6 @@ Search window: 7 day(s) ending 2026-05-18
   Limited detail was available from feed metadata alone.
 - [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) | LancasterOnline | 2026-05-18T18:38+00:00 | Outbreaks and emerging infections
   “Of the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case) counties, all 18 were either unvaccinated or had an unknown vaccination status,” state Department of Health Press Secretary Neil Ruhland said. Lancaster County’s most recent cases were identified May 13. With Lebanon County’s two new cases, 30 cases have now been reported across Pennsylvania this year.
-- [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) | Reuters | 2026-05-14T15:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/)
@@ -485,6 +482,8 @@ Search window: 7 day(s) ending 2026-05-18
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) | PubMed Historical Epidemiology
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
+- [Congolese report constant burials as deaths in new Ebola outbreak reach 80](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nazdoYWVkMnpJdTFodjc0bEdvQ1kwMkdWQnlENTFLbFhvR0QzQ1ZYa2F6OXNfOVBxZDFzUGtISDZRZGtyci13OW8zYkU2TnI2RUMxWHQ0R3hvSElVWHBiU1BQeDliQW8ydlA4XzE2MU9aU1VJOFlv?oc=5) | NBC News
+  Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.

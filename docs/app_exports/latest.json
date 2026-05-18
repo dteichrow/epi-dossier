@@ -1880,6 +1880,7 @@
       "CBS News",
       "CNN",
       "Guardian",
+      "NBC News",
       "PBS",
       "Reuters",
       "Sky News"
@@ -1888,8 +1889,8 @@
     "sources_cached": 2,
     "sources_failed": 2,
     "sources_live": 33,
-    "story_count_change": 1,
-    "wrapper_only_count": 8
+    "story_count_change": 0,
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
@@ -1898,7 +1899,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-18T15:18:51",
+  "generated_at": "2026-05-18T16:19:05",
   "high_priority_item_ids": [
     "item_44293a238dc1a118",
     "item_7c98df52cc847adb",
@@ -1938,7 +1939,7 @@
       "official": false,
       "preferred_url": "https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/",
       "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-18T20:51+00:00",
+      "published_at": "2026-05-18T22:29+00:00",
       "publisher": "The Washington Post",
       "publisher_access": "subscription",
       "publisher_name": "Washington Post",
@@ -1949,7 +1950,7 @@
       "resolved_url": "https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:21.046218+00:00",
+      "source_cached_at": "2026-05-18T23:17:42.869339+00:00",
       "source_confidence": "major_newsroom",
       "source_type": "rss",
       "source_url": "https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/",
@@ -1959,7 +1960,7 @@
       "title": "American tests positive for Ebola; U.S. to screen travelers at airports",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -1999,7 +2000,7 @@
       "resolved_url": null,
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:32.063381+00:00",
+      "source_cached_at": "2026-05-18T23:17:53.400599+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkI1bV93cDhPa3JEU3JyQ3dFWWw5cnAyZ21VYkdxdTNVelJuRVEyU0lSdTFnbFZmck1IV0ZJcDZRZFNCUmt2ZlEzOXNyRmJKcVlWRmx5cjZJMG90aC13MHJzNkVPV2tFWlRlNks5ai1QbmRHdVJQSzlnc1F4bWpGYklsZmxKdV9rUWdxZndSNDhRZXhZdlczeTJvYTh1X2JXeWZfVERxdWUxMWxybHNrcjBvWmZhd3JEaTRHNi15aXJDSXc3cThGWEZB?oc=5",
@@ -2009,7 +2010,7 @@
       "title": "CDC says one American tested positive for Ebola in DRC",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2049,7 +2050,7 @@
       "resolved_url": null,
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:21.046218+00:00",
+      "source_cached_at": "2026-05-18T23:17:42.869339+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1h1Q3lzbkFneWF3ejk1NENZSGcxV1l3TGNDd19VcjFZdXNXek42TU1iV2cwclIzNnBYQ1BURS1WVS0zZ1YzU1ItQ0Fpbnp1ZDJnZkgtMXJSTl85RDQ0bUtsRG1JTTY4RTlQblV3QmJlRi0wUjNDTEx6THJoa2ZZNjRJRVBiTTRadGdkVGdLUW1QalNXT2ozOUV5MXJWM0JFYWhxci1hNHZoa3dhdGtYRVFSQ0FjWldfVUFfNlV2UUJISTR3ZHZjUzV3ZnFIazF2Znc?oc=5",
@@ -2059,7 +2060,7 @@
       "title": "Health workers race to contain Congo's fast-spreading Ebola outbreak",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2099,7 +2100,7 @@
       "resolved_url": "https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:21.046218+00:00",
+      "source_cached_at": "2026-05-18T23:17:42.869339+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253",
@@ -2109,7 +2110,7 @@
       "title": "Pakistan: 2 killed protecting polio workers in tribal area",
       "topic_id": "topic_9ccdd822481fa2b6",
       "topic_name": "Polio and wastewater surveillance",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2149,7 +2150,7 @@
       "resolved_url": null,
       "source": "Google News Rural Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:30.142671+00:00",
+      "source_cached_at": "2026-05-18T23:17:51.444984+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FSUN5OU9RQlhzdl9ibDVveEJzc2hkNWZmbWJxcHhRY1hZNFJDUUVwcldWZ0FyaFBxNWZNdFY5aTYwVVVLc0p5VTM5QTQ0WmlPSi0wLXRGaVNnX3A3bUgzS3gyU29lcFNfbXVKOS1IWmxoa2RaVEdqc09n0gF_QVVfeXFMT3BxSzN4anFZaGlDQjFpX0dnMnRldHNoRnJCSnVFZmJrUVgwWVNFUmVzWlJDYlNJV2hJVjRjOTFEWkdoem83aHJjakZFUzVNNlNhZFBucWNvdmRzUEtmaW9wSG9xVjQ5NVY5R0dUaGZaemtfcTVmV0ZjVXYxZXVBWQ?oc=5",
@@ -2159,7 +2160,7 @@
       "title": "WHO declares Ebola outbreak in Congo and Uganda a global health emergency, with at least 80 dead",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2200,7 +2201,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:56.166123+00:00",
+      "source_cached_at": "2026-05-18T23:17:23.576005+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response",
@@ -2210,7 +2211,7 @@
       "title": "ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2251,7 +2252,7 @@
       "resolved_url": null,
       "source": "WHO Regional Office for Africa",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:33.655402+00:00",
+      "source_cached_at": "2026-05-18T23:17:01.944018+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-april-2026",
@@ -2261,7 +2262,7 @@
       "title": "Electronic Surveillance Monthly Bulletin (April 2026)",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2302,7 +2303,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:56.166123+00:00",
+      "source_cached_at": "2026-05-18T23:17:23.576005+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency",
@@ -2312,7 +2313,7 @@
       "title": "WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2352,7 +2353,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:32.874081+00:00",
+      "source_cached_at": "2026-05-18T23:17:53.984635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdk9PMWJGRU9XaEIwbTBUS09qWGRaQjlWUmU1Qjh5SUJqSWRLVG5uQ1VEb1owakFzTXhYdmJpa1lLcFJvVWZKOEdWQVRCV21iYU9RRHA4aGtRSjdBVmF5ZXo4ZmZpTWFlRXFhY0x2bzgyZjE2a1Zra2Y2dWtOWUU1enRxNVEzbXhNMUMwUk55SXIwMGZ4c2Q2TEZTSnpuYWJSTUMycTdrQW5Vc0xsbk13b2U0LUdjbzBBTjh4SVdDem45V19XQmJJVDJKRTRQTll5VnhENEt3?oc=5",
@@ -2362,7 +2363,7 @@
       "title": "Ebola outbreak in central Africa sparks global concern",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2402,7 +2403,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:32.874081+00:00",
+      "source_cached_at": "2026-05-18T23:17:53.984635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XZnZOek1QZG1zOWtheDNmRGdlcVdGVmU0bW10bzQ1UTNpNWZjUFFUVUhkRHhLWmpYQXF2SHdGQTdTckkyWi1QeDRYakVWdURqQ1BjcTZMZzF2MW9ic0N3Si1EN3RwOGtvRjJxOThlaVBvNExyVEE0MnpOT3g?oc=5",
@@ -2412,7 +2413,106 @@
       "title": "WHO declares global public health emergency over Ebola outbreak in Democratic Republic of Congo and Uganda",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Rural Outbreaks",
+      "canonical_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nazdoYWVkMnpJdTFodjc0bEdvQ1kwMkdWQnlENTFLbFhvR0QzQ1ZYa2F6OXNfOVBxZDFzUGtISDZRZGtyci13OW8zYkU2TnI2RUMxWHQ0R3hvSElVWHBiU1BQeDliQW8ydlA4XzE2MU9aU1VJOFlv?oc=5",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "",
+      "display_source": "NBC News",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_f830d47d8a5b7924",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nazdoYWVkMnpJdTFodjc0bEdvQ1kwMkdWQnlENTFLbFhvR0QzQ1ZYa2F6OXNfOVBxZDFzUGtISDZRZGtyci13OW8zYkU2TnI2RUMxWHQ0R3hvSElVWHBiU1BQeDliQW8ydlA4XzE2MU9aU1VJOFlv?oc=5",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-05-16T20:06+00:00",
+      "publisher": "NBC News",
+      "publisher_access": "open",
+      "publisher_name": "NBC News",
+      "publisher_tier": "major_newsroom",
+      "raw_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nazdoYWVkMnpJdTFodjc0bEdvQ1kwMkdWQnlENTFLbFhvR0QzQ1ZYa2F6OXNfOVBxZDFzUGtISDZRZGtyci13OW8zYkU2TnI2RUMxWHQ0R3hvSElVWHBiU1BQeDliQW8ydlA4XzE2MU9aU1VJOFlv?oc=5",
+      "region": "Cross-region / unassigned",
+      "relevance_score": 5,
+      "resolved_url": null,
+      "source": "Google News Rural Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-18T23:17:51.444984+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nazdoYWVkMnpJdTFodjc0bEdvQ1kwMkdWQnlENTFLbFhvR0QzQ1ZYa2F6OXNfOVBxZDFzUGtISDZRZGtyci13OW8zYkU2TnI2RUMxWHQ0R3hvSElVWHBiU1BQeDliQW8ydlA4XzE2MU9aU1VJOFlv?oc=5",
+      "story_id": null,
+      "story_status": "",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Congolese report constant burials as deaths in new Ebola outbreak reach 80",
+      "topic_id": "topic_900601687147a144",
+      "topic_name": "Miscellaneous signals",
+      "updated_at": "2026-05-18T16:19:05",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Southeast Asia Outbreaks",
+      "canonical_url": "https://cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
+      "content_class": "live_outbreak_development",
+      "country": "",
+      "display_source": "Cambodianess",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "asia"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_908fd72449d6f8c4",
+      "journal": null,
+      "link_quality": "resolved_article",
+      "local_signal": true,
+      "low_detail": false,
+      "official": false,
+      "preferred_url": "https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak",
+      "preferred_url_kind": "resolved_article",
+      "published_at": "2026-05-16T07:06+00:00",
+      "publisher": "Cambodianess",
+      "publisher_access": "unknown",
+      "publisher_name": "Cambodianess",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcURpQTd6X1ZtQ2NGTXQ1M1p2Mk11ZTFObmpBMnk3WHZ1YnNLQjQxbHZSZW52cFJFZ2RET0hRWTlOUjBaLUI3c2dvZTJpRVJKdmJmejN3UUlrR0pfQ0N0NWZQQ0NtSXpVZ1RuakhqUE1lVzBSVDl2bkZXRGZhSTBUNFNqQzZsenZGV092S2dGR2NQY0puNl8yc2tkcG5Vb3Z4eUt0LXMyLUZRUGcw?oc=5",
+      "region": "Southeast Asia",
+      "relevance_score": 5,
+      "resolved_url": "https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak",
+      "source": "Google News Southeast Asia Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-18T23:17:56.378515+00:00",
+      "source_confidence": "general_outlet",
+      "source_type": "rss",
+      "source_url": "https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak",
+      "story_id": "story_28a91c6d89267872",
+      "story_status": "quiet_retained",
+      "summary": "That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. PHNOM PENH \u2014 Cambodia has confirmed a fourth human case of H5N1 bird flu this year, health authorities said on April 22, intensifying concerns over a fast-evolving virus that is spreading through poultry and increasingly spilling over into humans.",
+      "title": "Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak",
+      "topic_id": "topic_28a91c6d89267872",
+      "topic_name": "Avian influenza and H5N1",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2452,7 +2552,7 @@
       "resolved_url": "https://www.bbc.com/news/articles/cze2wpk7y76o",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:21.850337+00:00",
+      "source_cached_at": "2026-05-18T23:17:43.579311+00:00",
       "source_confidence": "major_newsroom",
       "source_type": "rss",
       "source_url": "https://www.bbc.com/news/articles/cze2wpk7y76o",
@@ -2462,7 +2562,7 @@
       "title": "Ebola outbreak kills 65 in eastern DR Congo's Ituri province",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2502,7 +2602,7 @@
       "resolved_url": null,
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:32.063381+00:00",
+      "source_cached_at": "2026-05-18T23:17:53.400599+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVVfREQwaVJrUnYtdHN4STdCZ3VqRF9uS3BfOHpZS0VLUkRjU2I2cl96MG1KVGdNaVF2UmMyN0tRREpiaHF5T0hrbEVDMER5VEEtQmFxNzZSblZUajhGRUJVTi1FZzYtTjdyZmZTRXJEeW5FUS1xZnRhcEZfaW9sWHBPV3NpcERZbXhZVmRobi1UdEx4VUNfZjBGdklZa25zNWEtVzZadWtvczlnQ1hmNGNwOVhXUHBtQUlFQw?oc=5",
@@ -2512,7 +2612,7 @@
       "title": "Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2553,7 +2653,7 @@
       "resolved_url": null,
       "source": "WHO Regional Office for Africa",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:33.655402+00:00",
+      "source_cached_at": "2026-05-18T23:17:01.944018+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport",
@@ -2563,7 +2663,7 @@
       "title": "Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2604,7 +2704,7 @@
       "resolved_url": null,
       "source": "ECDC News",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:56.166123+00:00",
+      "source_cached_at": "2026-05-18T23:17:23.576005+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo",
@@ -2614,7 +2714,7 @@
       "title": "ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2655,7 +2755,7 @@
       "resolved_url": null,
       "source": "WHO Regional Office for Africa",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:33.655402+00:00",
+      "source_cached_at": "2026-05-18T23:17:01.944018+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025",
@@ -2665,7 +2765,7 @@
       "title": "WHO Sierra Leone Annual Report 2025",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2705,7 +2805,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:32.874081+00:00",
+      "source_cached_at": "2026-05-18T23:17:53.984635+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RNMFY3cURVQUREVVdfWUYwMzdqMGt2LTRrTkVBM0txWUQ1M1pqdUxaQjNNOEJqY24zR1ZoTkYzTXVsU1R2a2JhSmlKYVF6TDNiWWxseU5JdHBSUWtIVzFtcThhMEdBa0Yyb2swcVo5SmRlQUI4SWlyemtRVmxlQ2lMdDlqcWtOd3ZuYTJuQXg5MERpaEE?oc=5",
@@ -2715,7 +2815,7 @@
       "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo | Global development",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2754,7 +2854,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:06.799334+00:00",
+      "source_cached_at": "2026-05-18T23:17:34.404139+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42138049/",
@@ -2764,7 +2864,7 @@
       "title": "Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2804,7 +2904,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:31.586835+00:00",
+      "source_cached_at": "2026-05-18T23:16:59.737354+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451",
@@ -2814,58 +2914,8 @@
       "title": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "CDC MMWR",
-      "canonical_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
-      "category": "Occupational and environmental epidemiology",
-      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "official_update",
-      "country": "",
-      "display_source": "CDC MMWR",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "official"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_a25caf0fefe6941b",
-      "journal": null,
-      "link_quality": "wrapper_only",
-      "local_signal": false,
-      "low_detail": false,
-      "official": true,
-      "preferred_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
-      "preferred_url_kind": "wrapper_only",
-      "published_at": "2026-05-14T17:00+00:00",
-      "publisher": null,
-      "publisher_access": "unknown",
-      "publisher_name": "CDC MMWR",
-      "publisher_tier": "official",
-      "raw_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
-      "region": "North America",
-      "relevance_score": 5,
-      "resolved_url": null,
-      "source": "CDC MMWR",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:31.586835+00:00",
-      "source_confidence": "official_agency",
-      "source_type": "rss",
-      "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450",
-      "story_id": "story_ccfeaff28d46baf6",
-      "story_status": "quiet_retained",
-      "summary": "This report describes an increase in dengue cases reported during 2024.",
-      "title": "Increase in Travel-Associated and Locally Acquired Dengue Cases",
-      "topic_id": "topic_ccfeaff28d46baf6",
-      "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-18T15:18:51",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
       "abstract_url": null,
@@ -2901,7 +2951,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
-      "source_cache_age_hours": 6.13,
+      "source_cache_age_hours": 7.14,
       "source_cached_at": "2026-05-18T16:09:05.601198+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -2912,7 +2962,7 @@
       "title": "Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2951,7 +3001,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:06.799334+00:00",
+      "source_cached_at": "2026-05-18T23:17:34.404139+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42126144/",
@@ -2961,7 +3011,7 @@
       "title": "Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2998,7 +3048,7 @@
       "relevance_score": 5,
       "resolved_url": null,
       "source": "PubMed Historical Epidemiology",
-      "source_cache_age_hours": 6.13,
+      "source_cache_age_hours": 7.14,
       "source_cached_at": "2026-05-18T16:09:02.165403+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
@@ -3009,58 +3059,8 @@
       "title": "Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Vaccine-preventable Outbreaks",
-      "canonical_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "live_outbreak_development",
-      "country": "",
-      "display_source": "Independent Observer",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "asia"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_5fc9608052a1c130",
-      "journal": null,
-      "link_quality": "resolved_article",
-      "local_signal": false,
-      "low_detail": false,
-      "official": false,
-      "preferred_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/",
-      "preferred_url_kind": "resolved_article",
-      "published_at": "2026-05-17T03:00+00:00",
-      "publisher": "Independent Observer",
-      "publisher_access": "unknown",
-      "publisher_name": "Independent Observer",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzhzRmdxLTZIejJ2WHpBZDVKTVhxSG5JS3F4RGljWUR2QkQ2TFcyeEF4b2xuV2VpNjNPQVRISFZScFE5Y0g0MlJ1TkVWN3NDLTl3eGxoQVBXdjJhWk8walJFZkFOMG5PZjJJbmo3aFA3TW9iY1FjUEc0bWYyZGhBQg?oc=5",
-      "region": "Southeast Asia",
-      "relevance_score": 4,
-      "resolved_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/",
-      "source": "Google News Vaccine-preventable Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:27.076044+00:00",
-      "source_confidence": "general_outlet",
-      "source_type": "rss",
-      "source_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/",
-      "story_id": "story_0cc2d5322bc76f8f",
-      "story_status": "expanding_coverage",
-      "summary": "The Food and Drug Monitoring Agency (BPOM) has reported 10 measles-related deaths nationwide in 2026. However, the Ministry of Health reported that measles-rubella (MR) immunization coverage in 2024 reached only 92% for the first dose (MR1) and 82.3% for the second dose (MR2). BPOM also noted that 8% of cases occurred among adults over the age of 18, underscoring the importance of protection for both children and adults at risk.",
-      "title": "Innovative vaccines for Indonesia\u2019s measles outbreak",
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-18T15:18:51",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
       "abstract_url": null,
@@ -3099,7 +3099,7 @@
       "resolved_url": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/",
       "source": "Google News Rural Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:30.142671+00:00",
+      "source_cached_at": "2026-05-18T23:17:51.444984+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/",
@@ -3109,7 +3109,57 @@
       "title": "Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News India Outbreaks",
+      "canonical_url": "https://freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
+      "content_class": "live_outbreak_development",
+      "country": "United Kingdom",
+      "display_source": "Free Press Journal",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "asia"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_f65435821177c50d",
+      "journal": null,
+      "link_quality": "resolved_article",
+      "local_signal": true,
+      "low_detail": false,
+      "official": false,
+      "preferred_url": "https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing",
+      "preferred_url_kind": "resolved_article",
+      "published_at": "2026-05-13T15:11+00:00",
+      "publisher": "Free Press Journal",
+      "publisher_access": "unknown",
+      "publisher_name": "Free Press Journal",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWJrMVdNMnhyLUpvUFlFN291Tm5rSHdDc3Z4aHlyVHBRYklHRnlTdGpVcmt6Z2JXekUyRmQ4VkcxcGRuNVljWGJLOEo3R3V3eXpCSjl6aXhSTXRzd3R4WWswMEpXX1NHUDVWQk1GbUFYYzNrdFM2UXkyOXI1aEgwdDFBWlEtbFdrUHRaRkxDSjZwSEF0YnlBOTdmVVhRRkZpc3pLUFVoUVR3OUJvWjUxMWVsU2licXYtR3N0a2RUYVVVUEVhZlRwbzdzUdIB0AFBVV95cUxPajF5UGZJMjY3N1NBRVQ0MUF2b2ZUc2psNkF3TkNISnpNYUdSd24xS1RmMjZqaDhpRk5JcWs3TU5yT3BVNDcycmRmaW0wQmUxek1ZQzVIeF9DMDVaTno3bHYtN2dpbFoycF9Mb21NUlRwb3daRUNia0hFblZKSGhYVlRaREFtV2xoVlZQazh1eEJ2bTdZZ29pd2R6OTFTMXlSTG5OMnRTQ0dnRTdDaTQzVGRlNkRROXlVcWhYbTBhXzRCNmFfMUkzTk91NVNIdEtB?oc=5",
+      "region": "South Asia",
+      "relevance_score": 4,
+      "resolved_url": "https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing",
+      "source": "Google News India Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-05-18T23:17:55.694117+00:00",
+      "source_confidence": "general_outlet",
+      "source_type": "rss",
+      "source_url": "https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing",
+      "story_id": "story_ccfeaff28d46baf6",
+      "story_status": "quiet_retained",
+      "summary": "Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman\u2019s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.",
+      "title": "Maharashtra: Dengue Scare In Uran\u2019s Chanje Village After Woman\u2019s Death; Samples Sent For Testing",
+      "topic_id": "topic_ccfeaff28d46baf6",
+      "topic_name": "Dengue and arboviruses",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3148,7 +3198,7 @@
       "resolved_url": null,
       "source": "CDC Current Outbreak List",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:16:32.228152+00:00",
+      "source_cached_at": "2026-05-18T23:17:00.505390+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
@@ -3158,7 +3208,7 @@
       "title": "Coronavirus Disease 2019 (COVID-19)",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3198,7 +3248,7 @@
       "resolved_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:21.046218+00:00",
+      "source_cached_at": "2026-05-18T23:17:42.869339+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/",
@@ -3208,7 +3258,7 @@
       "title": "Britain gets experimental drug from Japan to bolster hantavirus response",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3247,17 +3297,17 @@
       "resolved_url": "https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html",
       "source": "Google News Vaccine-preventable Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:27.076044+00:00",
+      "source_cached_at": "2026-05-18T23:17:48.805978+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html",
       "story_id": "story_0cc2d5322bc76f8f",
-      "story_status": "expanding_coverage",
+      "story_status": "quiet_retained",
       "summary": "\u201cOf the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case) counties, all 18 were either unvaccinated or had an unknown vaccination status,\u201d state Department of Health Press Secretary Neil Ruhland said. Lancaster County\u2019s most recent cases were identified May 13. With Lebanon County\u2019s two new cases, 30 cases have now been reported across Pennsylvania this year.",
       "title": "2 more cases of measles reported in Lebanon County; no new Lancaster County cases",
       "topic_id": "topic_0cc2d5322bc76f8f",
       "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3296,7 +3346,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:06.799334+00:00",
+      "source_cached_at": "2026-05-18T23:17:34.404139+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42133835/",
@@ -3306,7 +3356,7 @@
       "title": "Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -3344,7 +3394,7 @@
       "resolved_url": "https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:23.708546+00:00",
+      "source_cached_at": "2026-05-18T23:17:45.429412+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/",
@@ -3354,7 +3404,7 @@
       "title": "Fact Check: China has not banned US citizens over hantavirus",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3393,7 +3443,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:06.799334+00:00",
+      "source_cached_at": "2026-05-18T23:17:34.404139+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42132838/",
@@ -3403,7 +3453,7 @@
       "title": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -3442,7 +3492,7 @@
       "resolved_url": "https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus",
       "source": "Google News Hantavirus Major Publisher Watch",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:23.708546+00:00",
+      "source_cached_at": "2026-05-18T23:17:45.429412+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus",
@@ -3452,7 +3502,7 @@
       "title": "From 'staged' to Israel: Hantavirus misinformation runs rampant online",
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3491,17 +3541,17 @@
       "resolved_url": "https://www.13newsnow.com/article/news/health/measles-outbreak-confirmed-in-buckingham-county-virginia/291-f36e8f3f-72e5-4cc2-afac-4bfc8572b4b6",
       "source": "Google News Rural Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:30.142671+00:00",
+      "source_cached_at": "2026-05-18T23:17:51.444984+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.13newsnow.com/article/news/health/measles-outbreak-confirmed-in-buckingham-county-virginia/291-f36e8f3f-72e5-4cc2-afac-4bfc8572b4b6",
       "story_id": "story_0cc2d5322bc76f8f",
-      "story_status": "expanding_coverage",
+      "story_status": "quiet_retained",
       "summary": "Limited detail was available from feed metadata alone.",
       "title": "Measles outbreak confirmed in Buckingham County, Virginia",
       "topic_id": "topic_0cc2d5322bc76f8f",
       "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3541,7 +3591,7 @@
       "resolved_url": "https://www.hjnews.com/world/aptopix-pakistan-polio-vaccination/image_71abce0a-bb07-57b8-8deb-ae4279613252.html",
       "source": "Google News Vaccine-preventable Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:27.076044+00:00",
+      "source_cached_at": "2026-05-18T23:17:48.805978+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.hjnews.com/world/aptopix-pakistan-polio-vaccination/image_71abce0a-bb07-57b8-8deb-ae4279613252.html",
@@ -3551,57 +3601,7 @@
       "title": "APTOPIX Pakistan Polio Vaccination",
       "topic_id": "topic_9ccdd822481fa2b6",
       "topic_name": "Polio and wastewater surveillance",
-      "updated_at": "2026-05-18T15:18:51",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News India Outbreaks",
-      "canonical_url": "https://ndtv.com/health/no-ebola-case-in-india-airports-put-on-alert-after-who-warning-11513225",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "India",
-      "display_source": "NDTV",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "asia"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_82bc0599be011f73",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": false,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://www.ndtv.com/health/no-ebola-case-in-india-airports-put-on-alert-after-who-warning-11513225",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-05-18T14:38+00:00",
-      "publisher": "NDTV",
-      "publisher_access": "unknown",
-      "publisher_name": "NDTV",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTltdTJkY0ZaVWt0QUlPLVNfdjlkc2ZSYmdWb1h3cHRjMDNZV2o2OThFcjdtQW1QcC1KaHNCaHRfREpGSDlpYUVRNEVKdXQ4SFBOajRud3JMVWlTcDA5Vk1qZHpNVTZtX1VjZHNOM1ZfNlNIQU5iTTZnY2VIc1hkMHJHMUlXRnJ1YWR3RkRESTlPOEpRaGFxQVpsc3BBQmxP0gGoAUFVX3lxTFBFbEdYRUdEb1FwRlg3b3huMUxFN3VfVVd4SGRYQndWdkR4OFJaaWhITkhMNUFTMFZGbkZjMUk2Z3lnazRsUEo1WExQNEo5Y3VCNnI1M2dkbVZnRGpMX2JvUFNJX0xDUE0xWnF4YnJ5VTVzVW5nUFdpNHVkbGxnaG4yb2pqTXhMdnFldEpfS1dnNTh2eDBOSTlKdWJGbkVCZ3lKQU1kdkRVdQ?oc=5",
-      "region": "South Asia",
-      "relevance_score": 1,
-      "resolved_url": "https://www.ndtv.com/health/no-ebola-case-in-india-airports-put-on-alert-after-who-warning-11513225",
-      "source": "Google News India Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:34.825398+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://www.ndtv.com/health/no-ebola-case-in-india-airports-put-on-alert-after-who-warning-11513225",
-      "story_id": null,
-      "story_status": "",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "No Ebola Case In India, Airports Put On Alert After WHO Warning",
-      "topic_id": "topic_900601687147a144",
-      "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3641,7 +3641,7 @@
       "resolved_url": "https://borneobulletin.com.bn/dengue-cases-fall-sharply-in-singapore/",
       "source": "Google News Vector-borne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-05-18T22:17:25.607287+00:00",
+      "source_cached_at": "2026-05-18T23:17:47.583700+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://borneobulletin.com.bn/dengue-cases-fall-sharply-in-singapore/",
@@ -3651,7 +3651,7 @@
       "title": "Dengue cases fall sharply in Singapore",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     }
   ],
@@ -5569,7 +5569,7 @@
       "why_reporters_care": "Zika matters because congenital outcomes, pregnancy guidance, travel messaging, and mosquito ecology can turn a mild-adult disease story into a major public-health communications event."
     }
   ],
-  "run_id": "run_0f7c5be5a3848fd5",
+  "run_id": "run_25352cd631ed5bf8",
   "search_window": "7 day(s) ending 2026-05-18",
   "source_failures": [
     {
@@ -5586,7 +5586,7 @@
   "source_health": [
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:29.159985+00:00",
+      "cached_at": "2026-05-18T23:16:59.031192+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5596,7 +5596,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:31.587120+00:00",
+      "cached_at": "2026-05-18T23:16:59.737619+00:00",
       "error": null,
       "item_count": 300,
       "mode": "live",
@@ -5606,7 +5606,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:31.824863+00:00",
+      "cached_at": "2026-05-18T23:17:00.013822+00:00",
       "error": null,
       "item_count": 66,
       "mode": "live",
@@ -5616,7 +5616,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:32.228177+00:00",
+      "cached_at": "2026-05-18T23:17:00.505417+00:00",
       "error": null,
       "item_count": 6,
       "mode": "live",
@@ -5626,7 +5626,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:32.683660+00:00",
+      "cached_at": "2026-05-18T23:17:00.849616+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5636,7 +5636,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:33.655421+00:00",
+      "cached_at": "2026-05-18T23:17:01.944051+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5646,7 +5646,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:34.886877+00:00",
+      "cached_at": "2026-05-18T23:17:03.119605+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5666,7 +5666,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:56.166191+00:00",
+      "cached_at": "2026-05-18T23:17:23.576033+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5676,7 +5676,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:56.264067+00:00",
+      "cached_at": "2026-05-18T23:17:23.752792+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -5686,9 +5686,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:56.708243+00:00",
+      "cached_at": "2026-05-18T23:17:24.382680+00:00",
       "error": null,
-      "item_count": 10,
+      "item_count": 9,
       "mode": "live",
       "official": false,
       "source": "Sky News World",
@@ -5696,7 +5696,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:16:57.056491+00:00",
+      "cached_at": "2026-05-18T23:17:24.729885+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -5716,7 +5716,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:06.799376+00:00",
+      "cached_at": "2026-05-18T23:17:34.404174+00:00",
       "error": null,
       "item_count": 25,
       "mode": "live",
@@ -5725,7 +5725,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 6.13,
+      "cache_age_hours": 7.14,
       "cached_at": "2026-05-18T16:09:02.165403+00:00",
       "error": null,
       "item_count": 1,
@@ -5736,7 +5736,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:07.194216+00:00",
+      "cached_at": "2026-05-18T23:17:34.806346+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5745,7 +5745,7 @@
       "source_type": "pubmed"
     },
     {
-      "cache_age_hours": 6.13,
+      "cache_age_hours": 7.14,
       "cached_at": "2026-05-18T16:09:05.601198+00:00",
       "error": null,
       "item_count": 5,
@@ -5756,7 +5756,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:07.856876+00:00",
+      "cached_at": "2026-05-18T23:17:35.997772+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5766,7 +5766,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:09.687286+00:00",
+      "cached_at": "2026-05-18T23:17:37.483012+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5776,7 +5776,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:11.210102+00:00",
+      "cached_at": "2026-05-18T23:17:39.115173+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5785,48 +5785,48 @@
       "source_type": "biorxiv"
     },
     {
-      "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:14.467289+00:00",
+      "cache_age_hours": 1.01,
+      "cached_at": "2026-05-18T22:17:14.466490+00:00",
       "error": null,
       "item_count": 19,
-      "mode": "live",
+      "mode": "refresh_cache",
       "official": true,
       "source": "California Department of Public Health News",
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:15.141647+00:00",
+      "cache_age_hours": 1.01,
+      "cached_at": "2026-05-18T22:17:15.141095+00:00",
       "error": null,
       "item_count": 16,
-      "mode": "live",
+      "mode": "refresh_cache",
       "official": true,
       "source": "New York State Department of Health Press Releases",
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:16.173865+00:00",
+      "cache_age_hours": 1.01,
+      "cached_at": "2026-05-18T22:17:16.173113+00:00",
       "error": null,
       "item_count": 10,
-      "mode": "live",
+      "mode": "refresh_cache",
       "official": true,
       "source": "Florida Department of Health Press Releases",
       "source_type": "html_list"
     },
     {
-      "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:17.200409+00:00",
+      "cache_age_hours": 1.01,
+      "cached_at": "2026-05-18T22:17:17.198180+00:00",
       "error": null,
       "item_count": 4,
-      "mode": "live",
+      "mode": "refresh_cache",
       "official": true,
       "source": "Texas Department of State Health Services News",
       "source_type": "html_list"
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:19.280517+00:00",
+      "cached_at": "2026-05-18T23:17:40.744705+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5836,7 +5836,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:20.127072+00:00",
+      "cached_at": "2026-05-18T23:17:41.181506+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5846,7 +5846,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:21.046346+00:00",
+      "cached_at": "2026-05-18T23:17:42.869463+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5856,7 +5856,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:21.850468+00:00",
+      "cached_at": "2026-05-18T23:17:43.579423+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5866,9 +5866,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:22.378868+00:00",
+      "cached_at": "2026-05-18T23:17:44.187181+00:00",
       "error": null,
-      "item_count": 80,
+      "item_count": 69,
       "mode": "live",
       "official": false,
       "source": "Google News Global Health Reporting",
@@ -5876,7 +5876,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:22.934590+00:00",
+      "cached_at": "2026-05-18T23:17:44.708782+00:00",
       "error": null,
       "item_count": 62,
       "mode": "live",
@@ -5886,7 +5886,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:23.708724+00:00",
+      "cached_at": "2026-05-18T23:17:45.429522+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5896,7 +5896,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:24.397714+00:00",
+      "cached_at": "2026-05-18T23:17:46.123923+00:00",
       "error": null,
       "item_count": 60,
       "mode": "live",
@@ -5906,7 +5906,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:24.953649+00:00",
+      "cached_at": "2026-05-18T23:17:46.769910+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5916,7 +5916,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:25.607539+00:00",
+      "cached_at": "2026-05-18T23:17:47.583840+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5926,7 +5926,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:26.344964+00:00",
+      "cached_at": "2026-05-18T23:17:48.256459+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5936,7 +5936,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:27.076160+00:00",
+      "cached_at": "2026-05-18T23:17:48.806082+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5946,7 +5946,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:28.158846+00:00",
+      "cached_at": "2026-05-18T23:17:49.508853+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5956,7 +5956,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:28.797360+00:00",
+      "cached_at": "2026-05-18T23:17:50.150357+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5966,7 +5966,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:29.428702+00:00",
+      "cached_at": "2026-05-18T23:17:50.744468+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5976,7 +5976,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:30.143005+00:00",
+      "cached_at": "2026-05-18T23:17:51.445094+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5986,7 +5986,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:30.858226+00:00",
+      "cached_at": "2026-05-18T23:17:52.105290+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -5996,9 +5996,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:31.429206+00:00",
+      "cached_at": "2026-05-18T23:17:52.744944+00:00",
       "error": null,
-      "item_count": 27,
+      "item_count": 23,
       "mode": "live",
       "official": false,
       "source": "Google News West Africa Outbreaks",
@@ -6006,9 +6006,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:32.063488+00:00",
+      "cached_at": "2026-05-18T23:17:53.400676+00:00",
       "error": null,
-      "item_count": 60,
+      "item_count": 58,
       "mode": "live",
       "official": false,
       "source": "Google News East Africa Outbreaks",
@@ -6016,7 +6016,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:32.874164+00:00",
+      "cached_at": "2026-05-18T23:17:53.984705+00:00",
       "error": null,
       "item_count": 46,
       "mode": "live",
@@ -6026,9 +6026,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:33.501968+00:00",
+      "cached_at": "2026-05-18T23:17:54.560534+00:00",
       "error": null,
-      "item_count": 56,
+      "item_count": 57,
       "mode": "live",
       "official": false,
       "source": "Google News Southern Africa Outbreaks",
@@ -6036,9 +6036,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:34.125117+00:00",
+      "cached_at": "2026-05-18T23:17:55.166921+00:00",
       "error": null,
-      "item_count": 87,
+      "item_count": 72,
       "mode": "live",
       "official": false,
       "source": "Google News South Asia Outbreaks",
@@ -6046,9 +6046,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:34.825466+00:00",
+      "cached_at": "2026-05-18T23:17:55.694171+00:00",
       "error": null,
-      "item_count": 50,
+      "item_count": 46,
       "mode": "live",
       "official": false,
       "source": "Google News India Outbreaks",
@@ -6056,7 +6056,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:35.538785+00:00",
+      "cached_at": "2026-05-18T23:17:56.378614+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6066,7 +6066,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:36.211132+00:00",
+      "cached_at": "2026-05-18T23:17:57.088831+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6076,7 +6076,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:36.868730+00:00",
+      "cached_at": "2026-05-18T23:17:57.822748+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6086,9 +6086,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:37.328608+00:00",
+      "cached_at": "2026-05-18T23:17:58.408123+00:00",
       "error": null,
-      "item_count": 43,
+      "item_count": 49,
       "mode": "live",
       "official": false,
       "source": "Google News New York Public Health",
@@ -6096,9 +6096,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:37.852498+00:00",
+      "cached_at": "2026-05-18T23:17:58.901506+00:00",
       "error": null,
-      "item_count": 47,
+      "item_count": 48,
       "mode": "live",
       "official": false,
       "source": "Google News Historical Epi",
@@ -6106,7 +6106,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:38.308962+00:00",
+      "cached_at": "2026-05-18T23:17:59.311473+00:00",
       "error": null,
       "item_count": 44,
       "mode": "live",
@@ -6116,7 +6116,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:38.774845+00:00",
+      "cached_at": "2026-05-18T23:17:59.914722+00:00",
       "error": null,
       "item_count": 53,
       "mode": "live",
@@ -6126,7 +6126,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-05-18T22:17:39.275219+00:00",
+      "cached_at": "2026-05-18T23:18:00.303194+00:00",
       "error": null,
       "item_count": 15,
       "mode": "live",
@@ -6173,7 +6173,7 @@
       "lead_source": "Reuters",
       "lead_title": "Britain gets experimental drug from Japan to bolster hantavirus response",
       "lead_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/",
-      "new_since_last_refresh": true,
+      "new_since_last_refresh": false,
       "official_item_ids": [],
       "press_item_ids": [
         "item_9a73fb7e0c9974b8",
@@ -10278,733 +10278,8 @@
       ],
       "topic_id": "topic_f6d225b01f3f7094",
       "topic_name": "Hantavirus and cruise-ship outbreak",
-      "updated_at": "2026-05-18T15:18:51",
+      "updated_at": "2026-05-18T16:19:05",
       "what_happened": "Britain gets experimental drug from Japan to bolster hantavirus response",
-      "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
-    },
-    {
-      "claim_types": [
-        "new_official_source",
-        "confirmed_case",
-        "severity_or_death",
-        "new_geography"
-      ],
-      "content_class": "tracked_outbreak_file",
-      "country": "",
-      "current_status_summary": "Expanding coverage",
-      "display_title": "Measles transmission and vaccination",
-      "editions": [
-        "index",
-        "notebook",
-        "watch",
-        "asia"
-      ],
-      "evidence_type": "news_report",
-      "first_seen_at": "2026-05-08T16:07:27",
-      "flags": [
-        "active_investigation",
-        "deaths_reported",
-        "vaccine_signal"
-      ],
-      "freshness_counts": {
-        "fallback_cache": 0,
-        "live": 3,
-        "refresh_cache": 0,
-        "retained": 0,
-        "unknown": 0
-      },
-      "item_count": 3,
-      "item_ids": [
-        "item_5fc9608052a1c130",
-        "item_94ab4ee64705756d",
-        "item_202388ab36db234a"
-      ],
-      "latest_timestamp": "2026-05-17T03:00+00:00",
-      "latest_update_bullets": [
-        "1 newly observed linked item(s) were added since the last saved snapshot."
-      ],
-      "latest_update_summary": "1 newly observed linked item(s) were added since the last saved snapshot.",
-      "latest_updated_at": "2026-05-18T14:17:00",
-      "lead_source": "Independent Observer",
-      "lead_title": "Innovative vaccines for Indonesia\u2019s measles outbreak",
-      "lead_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/",
-      "new_since_last_refresh": false,
-      "official_item_ids": [],
-      "press_item_ids": [
-        "item_5fc9608052a1c130",
-        "item_94ab4ee64705756d",
-        "item_202388ab36db234a"
-      ],
-      "primary_region": "Southeast Asia",
-      "publisher_family_count": 0,
-      "publisher_names": [
-        "13newsnow.com",
-        "Independent Observer",
-        "LancasterOnline"
-      ],
-      "related_reference_names": [
-        "Measles"
-      ],
-      "related_reference_urls": [
-        "reference/measles.html"
-      ],
-      "related_references": [
-        {
-          "name": "Measles",
-          "pathogen": "Measles virus",
-          "reference_url": "reference/measles.html",
-          "reference_web_path": "reference/measles.html"
-        }
-      ],
-      "source_confidence_counts": {
-        "aggregator_only": 0,
-        "general_outlet": 2,
-        "major_newsroom": 0,
-        "metadata_only_signal": 1,
-        "official_agency": 0,
-        "specialist_health": 0,
-        "wire": 0
-      },
-      "source_count": 3,
-      "source_kind_counts": {
-        "aggregator_only": 0,
-        "general_outlet": 2,
-        "major_newsroom": 0,
-        "metadata_only_signal": 1,
-        "official": 0,
-        "specialist_health": 0,
-        "wire": 0
-      },
-      "source_names": [
-        "13newsnow.com",
-        "Independent Observer",
-        "LancasterOnline"
-      ],
-      "status": "expanding_coverage",
-      "story_id": "story_0cc2d5322bc76f8f",
-      "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
-      "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
-      "timeline": [
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: LebTown, Outbreak News Today, \u6bce\u65e5\u65b0\u805e.",
-            "The lead item has changed to [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) from Outbreak News Today.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-08T16:07:27",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_ad6322253b5173c8",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_e68653bddc166af2"
-        },
-        {
-          "bullets": [
-            "The Eastleigh Voice now includes deaths or fatal cases in the story frame.",
-            "New publisher/source coverage joined this story cluster: The Eastleigh Voice.",
-            "The lead item has changed to [Lancet study finds significant child death reduction from malaria vaccine in Africa](https://eastleighvoice.co.ke/health/346943/lancet-study-finds-significant-child-death-reduction-from-malaria-vaccine-in-africa?amp\\=1) from The Eastleigh Voice.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window."
-          ],
-          "generated_at": "2026-05-08T22:34:54",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_c3eefbf24936e411",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_3e40e4fc5f5bc961"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) from Outbreak News Today."
-          ],
-          "generated_at": "2026-05-08T23:01:43",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_24ad039b5a4bd5b3",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_3ad138be734e15bc"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: CBS 19 News, The Daily Progress, The Standard (HK).",
-            "The lead item has changed to [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) from CBS 19 News.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T00:01:52",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_c2c9f85967f25df3",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_09e11f8b7066a316"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "Story volume increased from 4 to 5 clustered item(s) in the current window.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T04:02:10",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_bd124c2338217c9d",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_53d58ae49dc806fa"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to [Officials investigate case of measles in the Central Region](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5) from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T06:02:02",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_374784824ec37620",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_eaa88a88e1e92773"
-        },
-        {
-          "bullets": [
-            "The Standard (HK) now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T07:27:41",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_0ba114154e9e3061",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_406627c59d7c8696"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T07:54:33",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_64efbff34b803116",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_be008da0f86569e7"
-        },
-        {
-          "bullets": [
-            "The Standard (HK) now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T08:08:20",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_2e4316f0b5c25d78",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_4decec9ea6ce0e3c"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-09T08:19:06",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_d5667e38b111bd9b",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_2ba9cb135f89ae9d"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "New publisher/source coverage joined this story cluster: arabnews.jp.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "Story volume increased from 4 to 5 clustered item(s) in the current window."
-          ],
-          "generated_at": "2026-05-10T14:50:13",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_f1996c5d598f8746",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_626a30e26df98831"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-10T18:19:44",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_1832e05ef30c0c68",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_316482dd55f3296b"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-10T22:14:42",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_0bf447207e5e6af8",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_9076bc39d3acab18"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:02:30",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_3adee671def65457",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_469af966da49e1e4"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "New publisher/source coverage joined this story cluster: \u6bce\u65e5\u65b0\u805e.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:32:50",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_cec49e6ec8168b34",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_4c1973dd52dc5f1f"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T06:44:40",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_0ca73ff462b2e71c",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_fed88f4d207e1e13"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T08:48:18",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_dd4b58e8d5b250a5",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_6ff4d7dda18108a9"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T08:53:04",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_23a8388018a202e1",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_f6b12de55779684a"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T09:49:43",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_da55b013dbc18207",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_b9ed6ced4be99881"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T09:50:24",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_7f1588fee0f2b584",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_0cb26f03c77f1df2"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T10:49:28",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_23144609ed12b558",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_adbdab651cbd88fa"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T10:50:41",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_dbd172392e94838f",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_583581c03b85548d"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: CBS 19 News, National Catholic Reporter.",
-            "Story volume increased from 4 to 6 clustered item(s) in the current window.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T11:51:42",
-          "is_new_story": false,
-          "item_count": 6,
-          "run_id": "run_59bb77392a2862f3",
-          "source_count": 6,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_dbeca96f2e6ca30d"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: CBS 19 News.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T12:53:44",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_7c46451c42b7fba7",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_60c6b9a586dd2dea"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: cbs19news.com."
-          ],
-          "generated_at": "2026-05-11T13:54:48",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_7c58de027530a07e",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_e830e62a413ba786"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "5 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T13:55:13",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_4416c7fad5792dac",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_18cb4d6fbe75fa68"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Officials investigate case of measles in the Central Region from cbs19news.com.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T14:56:11",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_567a3cb151a90c88",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_a9f7bfb0f5d81c23"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "The lead item has changed to Officials investigate case of measles in the Central Region from cbs19news.com.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "4 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-11T15:57:18",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_c5af5467cde284f9",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_cb77876978d5c055"
-        },
-        {
-          "bullets": [
-            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
-            "New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette, arabnews.jp.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "Story volume increased from 4 to 5 clustered item(s) in the current window."
-          ],
-          "generated_at": "2026-05-11T15:58:26",
-          "is_new_story": false,
-          "item_count": 5,
-          "run_id": "run_cc79decd14aabe00",
-          "source_count": 5,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_bc90c8087e9425e8"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Japan reports more than 400 measles cases in first four months of 2026 from Outbreak News Today."
-          ],
-          "generated_at": "2026-05-11T16:58:48",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_955e088ca57d25cd",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_3a3931021512d3ab"
-        },
-        {
-          "bullets": [
-            "Digital Journal now includes deaths or fatal cases in the story frame.",
-            "New publisher/source coverage joined this story cluster: Digital Journal.",
-            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T06:01:18",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_4f01c9ecab189e65",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_429b924fef3a2091"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: LebTown.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T07:01:45",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_fc2cdacf54aa39d3",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_7914f1a7bad8e2e9"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T07:14:13",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_d658d0c65c421f9a",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_773e72de0d34d1d9"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Daily Tribune.",
-            "The lead item has changed to Measles surge in Indonesia fueled by vaccine misinformation from Daily Tribune.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T13:09:48",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_3186a6e4c7fca1ca",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_e7e52f77da597fb7"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Digital Journal.",
-            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T14:10:50",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_4e1d3a42ccbced4b",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_f843c373542f4150"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
-            "The lead item has changed to Bangladesh measles outbreak top 50,000 total cases since mid-March from Outbreak News Today.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-12T18:15:53",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_a2cb8d4ddfc9f4e0",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_d280c5e5ba73792d"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to Japan reports more than 400 measles cases in first four months of 2026 from Outbreak News Today."
-          ],
-          "generated_at": "2026-05-12T19:17:17",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_1ab5a9347ae227fd",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_f237d212bf18684a"
-        },
-        {
-          "bullets": [
-            "Digital Journal now includes deaths or fatal cases in the story frame.",
-            "New publisher/source coverage joined this story cluster: Digital Journal, Pittsburgh Post-Gazette.",
-            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
-            "Story volume increased from 3 to 4 clustered item(s) in the current window."
-          ],
-          "generated_at": "2026-05-12T20:17:45",
-          "is_new_story": false,
-          "item_count": 4,
-          "run_id": "run_7df905afad3aa5e3",
-          "source_count": 4,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_4ad573fc4bda6368"
-        },
-        {
-          "bullets": [
-            "New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.",
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "2 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-13T04:31:21",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_f2fa6ae8ff9f7f06",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_88ed933ea81eb908"
-        },
-        {
-          "bullets": [
-            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
-            "3 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-13T05:31:51",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_d6ba19cac91ac333",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_6f1d5416410be07f"
-        },
-        {
-          "bullets": [
-            "Independent Observer now explicitly uses investigation or monitoring language.",
-            "Independent Observer now includes deaths or fatal cases in the story frame.",
-            "Independent Observer now foregrounds vaccination or vaccine policy in the story.",
-            "New publisher/source coverage joined this story cluster: 13newsnow.com, Independent Observer, LancasterOnline."
-          ],
-          "generated_at": "2026-05-18T13:16:50",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_bcfee0fc4a3c7efb",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_239629d853ca0f8f"
-        },
-        {
-          "bullets": [
-            "1 newly observed linked item(s) were added since the last saved snapshot."
-          ],
-          "generated_at": "2026-05-18T14:17:00",
-          "is_new_story": false,
-          "item_count": 3,
-          "run_id": "run_192f13549b944421",
-          "source_count": 3,
-          "story_id": "story_0cc2d5322bc76f8f",
-          "topic_name": "Measles transmission and vaccination",
-          "update_id": "story_update_e249b7f56e3102a8"
-        }
-      ],
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-18T15:18:51",
-      "what_happened": "Innovative vaccines for Indonesia\u2019s measles outbreak",
       "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
     {
@@ -11917,6 +11192,731 @@
       "updated_at": "2026-05-18T10:12:45",
       "what_happened": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks",
       "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 2 newsroom source(s)."
+    },
+    {
+      "claim_types": [
+        "new_official_source",
+        "confirmed_case",
+        "severity_or_death",
+        "new_geography"
+      ],
+      "content_class": "tracked_outbreak_file",
+      "country": "",
+      "current_status_summary": "Expanding coverage",
+      "display_title": "Measles transmission and vaccination",
+      "editions": [
+        "index",
+        "notebook",
+        "watch",
+        "asia"
+      ],
+      "evidence_type": "news_report",
+      "first_seen_at": "2026-05-08T16:07:27",
+      "flags": [
+        "active_investigation",
+        "deaths_reported",
+        "vaccine_signal"
+      ],
+      "freshness_counts": {
+        "fallback_cache": 0,
+        "live": 3,
+        "refresh_cache": 0,
+        "retained": 0,
+        "unknown": 0
+      },
+      "item_count": 3,
+      "item_ids": [
+        "item_5fc9608052a1c130",
+        "item_94ab4ee64705756d",
+        "item_202388ab36db234a"
+      ],
+      "latest_timestamp": "2026-05-17T03:00+00:00",
+      "latest_update_bullets": [
+        "1 newly observed linked item(s) were added since the last saved snapshot."
+      ],
+      "latest_update_summary": "1 newly observed linked item(s) were added since the last saved snapshot.",
+      "latest_updated_at": "2026-05-18T14:17:00",
+      "lead_source": "Independent Observer",
+      "lead_title": "Innovative vaccines for Indonesia\u2019s measles outbreak",
+      "lead_url": "https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/",
+      "new_since_last_refresh": false,
+      "official_item_ids": [],
+      "press_item_ids": [
+        "item_5fc9608052a1c130",
+        "item_94ab4ee64705756d",
+        "item_202388ab36db234a"
+      ],
+      "primary_region": "Southeast Asia",
+      "publisher_family_count": 0,
+      "publisher_names": [
+        "13newsnow.com",
+        "Independent Observer",
+        "LancasterOnline"
+      ],
+      "related_reference_names": [
+        "Measles"
+      ],
+      "related_reference_urls": [
+        "reference/measles.html"
+      ],
+      "related_references": [
+        {
+          "name": "Measles",
+          "pathogen": "Measles virus",
+          "reference_url": "reference/measles.html",
+          "reference_web_path": "reference/measles.html"
+        }
+      ],
+      "source_confidence_counts": {
+        "aggregator_only": 0,
+        "general_outlet": 2,
+        "major_newsroom": 0,
+        "metadata_only_signal": 1,
+        "official_agency": 0,
+        "specialist_health": 0,
+        "wire": 0
+      },
+      "source_count": 3,
+      "source_kind_counts": {
+        "aggregator_only": 0,
+        "general_outlet": 2,
+        "major_newsroom": 0,
+        "metadata_only_signal": 1,
+        "official": 0,
+        "specialist_health": 0,
+        "wire": 0
+      },
+      "source_names": [
+        "13newsnow.com",
+        "Independent Observer",
+        "LancasterOnline"
+      ],
+      "status": "quiet_retained",
+      "story_id": "story_0cc2d5322bc76f8f",
+      "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
+      "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
+      "timeline": [
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: LebTown, Outbreak News Today, \u6bce\u65e5\u65b0\u805e.",
+            "The lead item has changed to [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) from Outbreak News Today.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-08T16:07:27",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_ad6322253b5173c8",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_e68653bddc166af2"
+        },
+        {
+          "bullets": [
+            "The Eastleigh Voice now includes deaths or fatal cases in the story frame.",
+            "New publisher/source coverage joined this story cluster: The Eastleigh Voice.",
+            "The lead item has changed to [Lancet study finds significant child death reduction from malaria vaccine in Africa](https://eastleighvoice.co.ke/health/346943/lancet-study-finds-significant-child-death-reduction-from-malaria-vaccine-in-africa?amp\\=1) from The Eastleigh Voice.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window."
+          ],
+          "generated_at": "2026-05-08T22:34:54",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_c3eefbf24936e411",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_3e40e4fc5f5bc961"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to [Japan reports more than 400 measles cases in first four months of 2026](https://outbreaknewstoday.substack.com/p/japan-reports-more-than-400-measles) from Outbreak News Today."
+          ],
+          "generated_at": "2026-05-08T23:01:43",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_24ad039b5a4bd5b3",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_3ad138be734e15bc"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: CBS 19 News, The Daily Progress, The Standard (HK).",
+            "The lead item has changed to [Officials investigate case of measles in the Central Region](https://www.cbs19news.com/news/officials-investigate-case-of-measles-in-the-central-region/article_e6b1c226-cf11-49ac-9d83-f3c3eec360b9.html) from CBS 19 News.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T00:01:52",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_c2c9f85967f25df3",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_09e11f8b7066a316"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "Story volume increased from 4 to 5 clustered item(s) in the current window.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T04:02:10",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_bd124c2338217c9d",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_53d58ae49dc806fa"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to [Officials investigate case of measles in the Central Region](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHh5Q2RhS3NCX1Jnbk8tWmtQY29NS1JnYXBYTW05end3U1QxSVZoVndQSnZuQ3Jqd0FLYldzTzlaVU93aWxFd1A1LUJ1eE9ZUW8wYm1sY3Q1bm1wSk9ibURacG5iR3RHSkNkQ1hPN2J4UUZlYV9NQUJBdWxHanJBVTVMWUtnMDBYNzlVWmpCSE1ZaTQ1eWZPcnNkaDlJa2hhSEFhTllvNUMwS3dXNG5ILXFERlpsZ01KdkxFMDh5ZFJzQ2JzeldBRlVJc2hCZTBIODg0TTgzTQ?oc=5) from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T06:02:02",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_374784824ec37620",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_eaa88a88e1e92773"
+        },
+        {
+          "bullets": [
+            "The Standard (HK) now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T07:27:41",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_0ba114154e9e3061",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_406627c59d7c8696"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T07:54:33",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_64efbff34b803116",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_be008da0f86569e7"
+        },
+        {
+          "bullets": [
+            "The Standard (HK) now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T08:08:20",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_2e4316f0b5c25d78",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_4decec9ea6ce0e3c"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Officials investigate case of measles in the Central Region from CBS 19 News.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-09T08:19:06",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_d5667e38b111bd9b",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_2ba9cb135f89ae9d"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "New publisher/source coverage joined this story cluster: arabnews.jp.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "Story volume increased from 4 to 5 clustered item(s) in the current window."
+          ],
+          "generated_at": "2026-05-10T14:50:13",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_f1996c5d598f8746",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_626a30e26df98831"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-10T18:19:44",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_1832e05ef30c0c68",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_316482dd55f3296b"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-10T22:14:42",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_0bf447207e5e6af8",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_9076bc39d3acab18"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:02:30",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_3adee671def65457",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_469af966da49e1e4"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "New publisher/source coverage joined this story cluster: \u6bce\u65e5\u65b0\u805e.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:32:50",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_cec49e6ec8168b34",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_4c1973dd52dc5f1f"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T06:44:40",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_0ca73ff462b2e71c",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_fed88f4d207e1e13"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T08:48:18",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_dd4b58e8d5b250a5",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_6ff4d7dda18108a9"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T08:53:04",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_23a8388018a202e1",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_f6b12de55779684a"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T09:49:43",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_da55b013dbc18207",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_b9ed6ced4be99881"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T09:50:24",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_7f1588fee0f2b584",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_0cb26f03c77f1df2"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T10:49:28",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_23144609ed12b558",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_adbdab651cbd88fa"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T10:50:41",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_dbd172392e94838f",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_583581c03b85548d"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: CBS 19 News, National Catholic Reporter.",
+            "Story volume increased from 4 to 6 clustered item(s) in the current window.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T11:51:42",
+          "is_new_story": false,
+          "item_count": 6,
+          "run_id": "run_59bb77392a2862f3",
+          "source_count": 6,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_dbeca96f2e6ca30d"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: CBS 19 News.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T12:53:44",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_7c46451c42b7fba7",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_60c6b9a586dd2dea"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: cbs19news.com."
+          ],
+          "generated_at": "2026-05-11T13:54:48",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_7c58de027530a07e",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_e830e62a413ba786"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "5 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T13:55:13",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_4416c7fad5792dac",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_18cb4d6fbe75fa68"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Officials investigate case of measles in the Central Region from cbs19news.com.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T14:56:11",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_567a3cb151a90c88",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_a9f7bfb0f5d81c23"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "The lead item has changed to Officials investigate case of measles in the Central Region from cbs19news.com.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "4 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-11T15:57:18",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_c5af5467cde284f9",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_cb77876978d5c055"
+        },
+        {
+          "bullets": [
+            "arabnews.jp now foregrounds vaccination or vaccine policy in the story.",
+            "New publisher/source coverage joined this story cluster: Pittsburgh Post-Gazette, arabnews.jp.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "Story volume increased from 4 to 5 clustered item(s) in the current window."
+          ],
+          "generated_at": "2026-05-11T15:58:26",
+          "is_new_story": false,
+          "item_count": 5,
+          "run_id": "run_cc79decd14aabe00",
+          "source_count": 5,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_bc90c8087e9425e8"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Japan reports more than 400 measles cases in first four months of 2026 from Outbreak News Today."
+          ],
+          "generated_at": "2026-05-11T16:58:48",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_955e088ca57d25cd",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_3a3931021512d3ab"
+        },
+        {
+          "bullets": [
+            "Digital Journal now includes deaths or fatal cases in the story frame.",
+            "New publisher/source coverage joined this story cluster: Digital Journal.",
+            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T06:01:18",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_4f01c9ecab189e65",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_429b924fef3a2091"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: LebTown.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T07:01:45",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_fc2cdacf54aa39d3",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_7914f1a7bad8e2e9"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T07:14:13",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_d658d0c65c421f9a",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_773e72de0d34d1d9"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Daily Tribune.",
+            "The lead item has changed to Measles surge in Indonesia fueled by vaccine misinformation from Daily Tribune.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T13:09:48",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_3186a6e4c7fca1ca",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_e7e52f77da597fb7"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Digital Journal.",
+            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T14:10:50",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_4e1d3a42ccbced4b",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_f843c373542f4150"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today.",
+            "The lead item has changed to Bangladesh measles outbreak top 50,000 total cases since mid-March from Outbreak News Today.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-12T18:15:53",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_a2cb8d4ddfc9f4e0",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_d280c5e5ba73792d"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to Japan reports more than 400 measles cases in first four months of 2026 from Outbreak News Today."
+          ],
+          "generated_at": "2026-05-12T19:17:17",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_1ab5a9347ae227fd",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_f237d212bf18684a"
+        },
+        {
+          "bullets": [
+            "Digital Journal now includes deaths or fatal cases in the story frame.",
+            "New publisher/source coverage joined this story cluster: Digital Journal, Pittsburgh Post-Gazette.",
+            "The lead item has changed to Vitamins over vaccines: misinformation entrenched amid Indonesia measles surge from Digital Journal.",
+            "Story volume increased from 3 to 4 clustered item(s) in the current window."
+          ],
+          "generated_at": "2026-05-12T20:17:45",
+          "is_new_story": false,
+          "item_count": 4,
+          "run_id": "run_7df905afad3aa5e3",
+          "source_count": 4,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_4ad573fc4bda6368"
+        },
+        {
+          "bullets": [
+            "New publisher/source coverage joined this story cluster: Outbreak News Today, arabnews.jp.",
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "2 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-13T04:31:21",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_f2fa6ae8ff9f7f06",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_88ed933ea81eb908"
+        },
+        {
+          "bullets": [
+            "The lead item has changed to How conflict is driving measles outbreaks in the Middle East and North Africa from arabnews.jp.",
+            "3 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-13T05:31:51",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_d6ba19cac91ac333",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_6f1d5416410be07f"
+        },
+        {
+          "bullets": [
+            "Independent Observer now explicitly uses investigation or monitoring language.",
+            "Independent Observer now includes deaths or fatal cases in the story frame.",
+            "Independent Observer now foregrounds vaccination or vaccine policy in the story.",
+            "New publisher/source coverage joined this story cluster: 13newsnow.com, Independent Observer, LancasterOnline."
+          ],
+          "generated_at": "2026-05-18T13:16:50",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_bcfee0fc4a3c7efb",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_239629d853ca0f8f"
+        },
+        {
+          "bullets": [
+            "1 newly observed linked item(s) were added since the last saved snapshot."
+          ],
+          "generated_at": "2026-05-18T14:17:00",
+          "is_new_story": false,
+          "item_count": 3,
+          "run_id": "run_192f13549b944421",
+          "source_count": 3,
+          "story_id": "story_0cc2d5322bc76f8f",
+          "topic_name": "Measles transmission and vaccination",
+          "update_id": "story_update_e249b7f56e3102a8"
+        }
+      ],
+      "topic_id": "topic_0cc2d5322bc76f8f",
+      "topic_name": "Measles transmission and vaccination",
+      "updated_at": "2026-05-18T16:19:05",
+      "what_happened": "Innovative vaccines for Indonesia\u2019s measles outbreak",
+      "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
     {
       "claim_types": [
@@ -13677,14 +13677,14 @@
         "item_50bf8443f6a7a7da",
         "item_36e9b43f02789992",
         "item_64943de6ff155f42",
-        "item_1d5013f76179a1c6"
+        "item_f830d47d8a5b7924"
       ],
       "source_count": 13,
       "story_id": null,
       "summary": "Publications mongem@who.int Mon, 18/05/2026 - 12:45 The Bulletin provides standardized updates on eSURV/ISS implementation, key performance indicators in WHO AFRO, aiding stakeholders in monitoring active surveillance progress, addressing gaps, and guiding evidence-based decisions at regional and national, and subnational levels. In parallel, ECDC is in discussions with the European Civil Protection and...",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-05-18T14:17:00"
+      "updated_at": "2026-05-18T16:19:05"
     },
     {
       "display_title": "Polio and wastewater surveillance",
@@ -13701,18 +13701,18 @@
       "updated_at": "2026-05-18T14:17:00"
     },
     {
-      "display_title": "Dengue and arboviruses",
+      "display_title": "Avian influenza and H5N1",
       "item_count": 2,
       "item_ids": [
-        "item_a25caf0fefe6941b",
-        "item_596de2644dbce2c0"
+        "item_908fd72449d6f8c4",
+        "item_73c7d9ee1e3265dd"
       ],
       "source_count": 2,
-      "story_id": "story_ccfeaff28d46baf6",
-      "summary": "This report describes an increase in dengue cases reported during 2024.",
-      "topic_id": "topic_ccfeaff28d46baf6",
-      "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-05-18T15:18:51"
+      "story_id": "story_28a91c6d89267872",
+      "summary": "That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. This report describes survey results from...",
+      "topic_id": "topic_28a91c6d89267872",
+      "topic_name": "Avian influenza and H5N1",
+      "updated_at": "2026-05-18T16:19:05"
     },
     {
       "display_title": "Historical epidemiology and ancient pathogens",
@@ -13729,32 +13729,18 @@
       "updated_at": "2026-05-15T05:46:16"
     },
     {
-      "display_title": "Avian influenza and H5N1",
-      "item_count": 1,
+      "display_title": "Dengue and arboviruses",
+      "item_count": 2,
       "item_ids": [
-        "item_73c7d9ee1e3265dd"
+        "item_f65435821177c50d",
+        "item_596de2644dbce2c0"
       ],
-      "source_count": 1,
-      "story_id": "story_28a91c6d89267872",
-      "summary": "This report describes survey results from backyard flock owners' attitudes towards avian influenza.",
-      "topic_id": "topic_28a91c6d89267872",
-      "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-05-18T14:17:00"
-    },
-    {
-      "display_title": "Measles transmission and vaccination",
-      "item_count": 3,
-      "item_ids": [
-        "item_5fc9608052a1c130",
-        "item_94ab4ee64705756d",
-        "item_202388ab36db234a"
-      ],
-      "source_count": 3,
-      "story_id": "story_0cc2d5322bc76f8f",
-      "summary": "The Food and Drug Monitoring Agency (BPOM) has reported 10 measles-related deaths nationwide in 2026. However, the Ministry of Health reported that measles-rubella (MR) immunization coverage in 2024 reached only 92% for the first dose (MR1) and 82.3% for the second dose (MR2). \u201cOf the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case) counties, all 18 were...",
-      "topic_id": "topic_0cc2d5322bc76f8f",
-      "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-05-18T14:17:00"
+      "source_count": 2,
+      "story_id": "story_ccfeaff28d46baf6",
+      "summary": "Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the...",
+      "topic_id": "topic_ccfeaff28d46baf6",
+      "topic_name": "Dengue and arboviruses",
+      "updated_at": "2026-05-18T16:19:05"
     },
     {
       "display_title": "Hantavirus and cruise-ship outbreak",
@@ -13785,6 +13771,20 @@
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
       "updated_at": "2026-05-18T04:02:50"
+    },
+    {
+      "display_title": "Measles transmission and vaccination",
+      "item_count": 2,
+      "item_ids": [
+        "item_94ab4ee64705756d",
+        "item_202388ab36db234a"
+      ],
+      "source_count": 2,
+      "story_id": "story_0cc2d5322bc76f8f",
+      "summary": "\u201cOf the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case) counties, all 18 were either unvaccinated or had an unknown vaccination status,\u201d state Department of Health Press Secretary Neil Ruhland said. Lancaster County\u2019s most recent cases were identified May 13.",
+      "topic_id": "topic_0cc2d5322bc76f8f",
+      "topic_name": "Measles transmission and vaccination",
+      "updated_at": "2026-05-18T16:19:05"
     }
   ]
 }
