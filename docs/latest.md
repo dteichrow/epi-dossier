@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-18
-Generated at: 2026-05-18T13:16
+Generated at: 2026-05-18T14:17
 Search window: 7 day(s) ending 2026-05-18
 
 ## Executive scan
@@ -12,21 +12,23 @@ Search window: 7 day(s) ending 2026-05-18
 - [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa; 2026-05-15T13:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/) (PubMed Infectious Disease Search; 2026-05-15T00:00; Major epidemiology studies; relevance 5/5)
 - [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (21), Historical epidemiology / ancient disease / paleopathology (5), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (23), Major epidemiology studies (4), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Hantavirus and cruise-ship outbreak
+- Lead item: [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
+- The lead item has changed to [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) from Euronews.com.
+- 3 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Measles transmission and vaccination
 - Lead item: [Innovative vaccines for Indonesia’s measles outbreak](https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/) (Independent Observer)
-- Independent Observer now explicitly uses investigation or monitoring language.
-- Independent Observer now includes deaths or fatal cases in the story frame.
-- Independent Observer now foregrounds vaccination or vaccine policy in the story.
-- New publisher/source coverage joined this story cluster: 13newsnow.com, Independent Observer, LancasterOnline.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 17 item(s) across 12 source(s); 8 official/primary-source item(s).
+- Topic size: 19 item(s) across 13 source(s); 8 official/primary-source item(s).
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News, 2026-05-18T14:14+02:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [Electronic Surveillance Monthly Bulletin (April 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-april-2026) (WHO Regional Office for Africa); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News)
@@ -43,27 +45,11 @@ Search window: 7 day(s) ending 2026-05-18
 
 ### Polio and wastewater surveillance
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Pakistan: 2 killed protecting polio workers in tribal area](https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253) (DW.com, 2026-05-18T16:52+00:00)
+- Lead item: [Pakistan: 2 killed protecting polio workers in tribal area](https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253) (DW.com, 2026-05-18T17:32+00:00)
 - Detailed note: Two police officers died in Pakistan's northwestern Bajaur tribal district while protecting health workers who were administering the polio vaccine to children on Monday, a security official said. Authorities seek to vaccinate 19 million children against polio, in the latest effort to eradicate a disease that is endemic in Pakistan.
 - Evidence notes: [Pakistan: 2 killed protecting polio workers in tribal area](https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253) (DW.com); [APTOPIX Pakistan Polio Vaccination](https://www.hjnews.com/world/aptopix-pakistan-polio-vaccination/image_71abce0a-bb07-57b8-8deb-ae4279613252.html) (The Herald Journal)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Avian influenza and H5N1
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. This report describes survey results from...
-- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak](https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak) (Cambodianess)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Occupational and environmental epidemiology
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies, 2026-05-14T00:00)
-- Detailed note: Early antibiotic use-without documented infection in 40%-was associated with Enterococcus colonisation (HR 4.99, 95% CI 1.57-15.80), reduced butyrate-producer abundance, and infected necrosis (HR 3.56, 95% CI 1.23-10.28). After adjustment for baseline disease severity, biliary etiology, and prior antibiotic exposure, gastrointestinal Enterococcus colonization was associated with subsequent infected necrosis...
-- Evidence notes: [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies); [Antibiotic-associated Enterococcus expansion in the gastrointestinal tract precedes infected necrosis in acute necrotizing pancreatitis.](https://pubmed.ncbi.nlm.nih.gov/42141757/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -72,6 +58,22 @@ Search window: 7 day(s) ending 2026-05-18
 - Evidence notes: [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies); [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Avian influenza and H5N1
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
+- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
+- Detailed note: This report describes survey results from backyard flock owners' attitudes towards avian influenza.
+- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR)
+- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
+### Dengue and arboviruses
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
+- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
+- Detailed note: This report describes an increase in dengue cases reported during 2024.
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
+- Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -406,8 +408,6 @@ Search window: 7 day(s) ending 2026-05-18
 ## Other notable readings
 - [Understanding and exploiting superspreading to disrupt Mycobacterium tuberculosis transmission.](https://pubmed.ncbi.nlm.nih.gov/42134384/) | PubMed Historical Pathogen Case Studies | 2026-05-14T00:00 | Historical epidemiology / ancient disease / paleopathology
   This Personal View examines individual heterogeneity in M tuberculosis infectiousness and secondary transmission and focuses specifically on M tuberculosis superspreading, ie, the observation that most secondary M tuberculosis infections and tuberculosis clinical cases are attributable to transmission from a relatively small number of individuals. Reviewing both historical and contemporary data, we argue that superspreading is not only an important, ubiquitous feature of tuberculosis epidemiology, but also represents a potential opportunity for disruptive, strategic interventions with potentially outsized impacts on M tuberculosis transmission. Ultimately, future progress towards tuberculosis elimination is contingent on our ability to interrupt Mycobacterium tuberculosis transmission between individuals who are infectious and their susceptible contacts.
-- [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) | PubMed Historical Pathogen Case Studies | 2026-05-14T00:00 | Historical epidemiology / ancient disease / paleopathology
-  We outline practical surveillance steps to address under-ascertainment, standardized case definitions, sentinel reporting, and laboratory quality assurance and propose research priorities spanning environmental detection, host-pathogen interactions, and therapeutic evaluation. We contrast JLD with key mimickers (cutaneous leishmaniasis, chromoblastomycosis, leprosy, atypical mycobacterioses, and non-infectious lesions such as keloid scars) and summarize current management options, emphasizing when surgery alone suffices and when prolonged azole therapy should be considered. Diagnosis relies on direct microscopy and histopathology showing chains of thick-walled yeast-like cells connected by narrow-neck budding; culture is not feasible, and molecular assays are rarely available outside reference centers.
 - [Europe advances genomic surveillance of CCRE with landmark multi-country study](https://www.ecdc.europa.eu/en/news-events/europe-advances-genomic-surveillance-ccre-landmark-multi-country-study) | ECDC News | 2026-05-13T13:00+02:00 | Policy, surveillance, and public health infrastructure
   A major European survey marks a significant milestone in the effort to control antimicrobial resistance (AMR), providing the most comprehensive genomic picture to date of carbapenem- and/or colistin-resistant Enterobacterales (CCRE) across hospitals in Europe.
 - [Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).](https://pubmed.ncbi.nlm.nih.gov/42126144/) | PubMed Infectious Disease Search | 2026-05-13T00:00 | Major epidemiology studies
@@ -416,30 +416,32 @@ Search window: 7 day(s) ending 2026-05-18
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
 - [Primary sternocostal tuberculosis in a young healthcare worker: a case report.](https://pubmed.ncbi.nlm.nih.gov/42129664/) | PubMed Historical Pathogen Case Studies | 2026-05-13T00:00 | Historical epidemiology / ancient disease / paleopathology
   Extrapulmonary tuberculosis occurs in 15% to 20% of immunocompetent patients with tuberculosis and in 50% of immunocompromised patients. Our report describes a 34-year-old healthcare worker with a painless mass in the right sternocostal joint. A biopsy report indicated caseous necrosis and the absence of epithelioid cells.
-- [American tests positive for Ebola; U.S. to screen travelers at airports](https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/) | The Washington Post | 2026-05-18T19:29+00:00 | Outbreaks and emerging infections
+- [American tests positive for Ebola; U.S. to screen travelers at airports](https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/) | The Washington Post | 2026-05-18T20:51+00:00 | Outbreaks and emerging infections
   to screen travelers at airports The Washington Post
-- [CDC says one American tested positive for Ebola in DRC](https://www.reuters.com/business/healthcare-pharmaceuticals/us-moves-curb-ebola-risk-says-immediate-risk-public-is-low-2026-05-18/) | Reuters | 2026-05-18T19:13+00:00 | Outbreaks and emerging infections
+- [CDC says one American tested positive for Ebola in DRC](https://news.google.com/rss/articles/CBMiygFBVV95cUxONkI1bV93cDhPa3JEU3JyQ3dFWWw5cnAyZ21VYkdxdTNVelJuRVEyU0lSdTFnbFZmck1IV0ZJcDZRZFNCUmt2ZlEzOXNyRmJKcVlWRmx5cjZJMG90aC13MHJzNkVPV2tFWlRlNks5ai1QbmRHdVJQSzlnc1F4bWpGYklsZmxKdV9rUWdxZndSNDhRZXhZdlczeTJvYTh1X2JXeWZfVERxdWUxMWxybHNrcjBvWmZhd3JEaTRHNi15aXJDSXc3cThGWEZB?oc=5) | Reuters | 2026-05-18T20:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Pakistan: 2 killed protecting polio workers in tribal area](https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253) | DW.com | 2026-05-18T16:52+00:00 | Outbreaks and emerging infections
+- [Health workers race to contain Congo's fast-spreading Ebola outbreak](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1h1Q3lzbkFneWF3ejk1NENZSGcxV1l3TGNDd19VcjFZdXNXek42TU1iV2cwclIzNnBYQ1BURS1WVS0zZ1YzU1ItQ0Fpbnp1ZDJnZkgtMXJSTl85RDQ0bUtsRG1JTTY4RTlQblV3QmJlRi0wUjNDTEx6THJoa2ZZNjRJRVBiTTRadGdkVGdLUW1QalNXT2ozOUV5MXJWM0JFYWhxci1hNHZoa3dhdGtYRVFSQ0FjWldfVUFfNlV2UUJISTR3ZHZjUzV3ZnFIazF2Znc?oc=5) | Reuters | 2026-05-18T19:54+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Pakistan: 2 killed protecting polio workers in tribal area](https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253) | DW.com | 2026-05-18T17:32+00:00 | Outbreaks and emerging infections
   Two police officers died in Pakistan's northwestern Bajaur tribal district while protecting health workers who were administering the polio vaccine to children on Monday, a security official said. Authorities seek to vaccinate 19 million children against polio, in the latest effort to eradicate a disease that is endemic in Pakistan. The killings came on the first day of Pakistan's nationwide campaign to counter rising cases of polio .
+- [WHO declares Ebola outbreak in Congo and Uganda a global health emergency, with at least 80 dead](https://news.google.com/rss/articles/CBMiekFVX3lxTE1FSUN5OU9RQlhzdl9ibDVveEJzc2hkNWZmbWJxcHhRY1hZNFJDUUVwcldWZ0FyaFBxNWZNdFY5aTYwVVVLc0p5VTM5QTQ0WmlPSi0wLXRGaVNnX3A3bUgzS3gyU29lcFNfbXVKOS1IWmxoa2RaVEdqc09n0gF_QVVfeXFMT3BxSzN4anFZaGlDQjFpX0dnMnRldHNoRnJCSnVFZmJrUVgwWVNFUmVzWlJDYlNJV2hJVjRjOTFEWkdoem83aHJjakZFUzVNNlNhZFBucWNvdmRzUEtmaW9wSG9xVjQ5NVY5R0dUaGZaemtfcTVmV0ZjVXYxZXVBWQ?oc=5) | CBS News | 2026-05-18T14:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak in central Africa sparks global concern](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdk9PMWJGRU9XaEIwbTBUS09qWGRaQjlWUmU1Qjh5SUJqSWRLVG5uQ1VEb1owakFzTXhYdmJpa1lLcFJvVWZKOEdWQVRCV21iYU9RRHA4aGtRSjdBVmF5ZXo4ZmZpTWFlRXFhY0x2bzgyZjE2a1Zra2Y2dWtOWUU1enRxNVEzbXhNMUMwUk55SXIwMGZ4c2Q2TEZTSnpuYWJSTUMycTdrQW5Vc0xsbk13b2U0LUdjbzBBTjh4SVdDem45V19XQmJJVDJKRTRQTll5VnhENEt3?oc=5) | CNN | 2026-05-17T09:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO declares global public health emergency over Ebola outbreak in Democratic Republic of Congo and Uganda](https://news.google.com/rss/articles/CBMifEFVX3lxTE5XZnZOek1QZG1zOWtheDNmRGdlcVdGVmU0bW10bzQ1UTNpNWZjUFFUVUhkRHhLWmpYQXF2SHdGQTdTckkyWi1QeDRYakVWdURqQ1BjcTZMZzF2MW9ic0N3Si1EN3RwOGtvRjJxOThlaVBvNExyVEE0MnpOT3g?oc=5) | Sky News | 2026-05-17T02:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak](https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak) | Cambodianess | 2026-05-16T07:06+00:00 | Outbreaks and emerging infections
-  That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation receiving intensive medical care, according to a Ministry of Health press release. PHNOM PENH — Cambodia has confirmed a fourth human case of H5N1 bird flu this year, health authorities said on April 22, intensifying concerns over a fast-evolving virus that is spreading through poultry and increasingly spilling over into humans.
 - [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) | BBC | 2026-05-16T04:11+00:00 | Outbreaks and emerging infections
   Around 246 cases and 80 deaths have been reported, mainly in the gold-mining towns of Mongwalu and Rwampara, said the Africa Centres for Disease Control and Prevention (Africa CDC). Ugandan officials confirmed one case of imported Ebola from DR Congo on Friday, with the country's health ministry stating that a 59-year-old male who died on Thursday had tested positive. Ebola was first discovered in 1976 in what is now DR Congo, and is thought to have spread from bats.
 - [Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVVfREQwaVJrUnYtdHN4STdCZ3VqRF9uS3BfOHpZS0VLUkRjU2I2cl96MG1KVGdNaVF2UmMyN0tRREpiaHF5T0hrbEVDMER5VEEtQmFxNzZSblZUajhGRUJVTi1FZzYtTjdyZmZTRXJEeW5FUS1xZnRhcEZfaW9sWHBPV3NpcERZbXhZVmRobi1UdEx4VUNfZjBGdklZa25zNWEtVzZadWtvczlnQ1hmNGNwOVhXUHBtQUlFQw?oc=5) | PBS | 2026-05-15T20:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo | Global development](https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RNMFY3cURVQUREVVdfWUYwMzdqMGt2LTRrTkVBM0txWUQ1M1pqdUxaQjNNOEJqY24zR1ZoTkYzTXVsU1R2a2JhSmlKYVF6TDNiWWxseU5JdHBSUWtIVzFtcThhMEdBa0Yyb2swcVo5SmRlQUI4SWlyemtRVmxlQ2lMdDlqcWtOd3ZuYTJuQXg5MERpaEE?oc=5) | The Guardian | 2026-05-15T11:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Antibiotic-associated Enterococcus expansion in the gastrointestinal tract precedes infected necrosis in acute necrotizing pancreatitis.](https://pubmed.ncbi.nlm.nih.gov/42141757/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
-  Early antibiotic use-without documented infection in 40%-was associated with Enterococcus colonisation (HR 4.99, 95% CI 1.57-15.80), reduced butyrate-producer abundance, and infected necrosis (HR 3.56, 95% CI 1.23-10.28). After adjustment for baseline disease severity, biliary etiology, and prior antibiotic exposure, gastrointestinal Enterococcus colonization was associated with subsequent infected necrosis (rectal HR 4.48, 95% CI 1.51-13.28; salivary HR 5.37, 95% CI 1.72-16.79), typically preceding clinical diagnosis by 3 weeks; results were similar when adjusting for early extra-pancreatic infection instead of disease severity. Of 276 patients with acute pancreatitis, 57 with necrotizing pancreatitis underwent twice-weekly rectal and salivary sampling for 30 d, analyzed using 16S rRNA sequencing.
 - [Innovative vaccines for Indonesia’s measles outbreak](https://observerid.com/innovative-vaccines-for-indonesias-measles-outbreak/) | Independent Observer | 2026-05-17T03:00+00:00 | Outbreaks and emerging infections
   The Food and Drug Monitoring Agency (BPOM) has reported 10 measles-related deaths nationwide in 2026. However, the Ministry of Health reported that measles-rubella (MR) immunization coverage in 2024 reached only 92% for the first dose (MR1) and 82.3% for the second dose (MR2). BPOM also noted that 8% of cases occurred among adults over the age of 18, underscoring the importance of protection for both children and adults at risk.
 - [Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda](https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/) | Africa CDC | 2026-05-16T07:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
+  Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Compared to no vaccination, the vaccination of older adults aged ≥65 years and the high-risk population was estimated to prevent 12,933 symptomatic cases, 12,811 outpatient cases, 122 hospitalizations, 353 lost quality-adjusted life-years (QALYs) gained, and four deaths, translating to total direct and societal cost savings of US$9,424,605 and US$10,397,107 respectively. Implementing an adapted COVID-19 vaccine strategy for high-risk and older adults in Guatemala is projected to improve health outcomes and, under base-case assumptions, be cost-saving from both payer and societal perspectives. Using adapted COVID-19 vaccines targeting current variants in circulation is necessary for addressing the dynamic evolution of the SARS-CoV-2 virus.
 - [Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.](https://pubmed.ncbi.nlm.nih.gov/42132838/) | PubMed Infectious Disease Search | 2026-05-14T00:00 | Major epidemiology studies
@@ -464,12 +466,6 @@ Search window: 7 day(s) ending 2026-05-18
   Journal/preprint server: The Lancet. Infectious diseases
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42134384/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42134384/
-- [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/)
-  Source: PubMed Historical Pathogen Case Studies
-  DOI: 10.1128/cmr.00302-25
-  Journal/preprint server: Clinical microbiology reviews
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42132385/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42132385/
 - [Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).](https://pubmed.ncbi.nlm.nih.gov/42126144/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/2162402X.2026.2661444
@@ -488,12 +484,6 @@ Search window: 7 day(s) ending 2026-05-18
   Journal/preprint server: BMC infectious diseases
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42129664/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42129664/
-- [Antibiotic-associated Enterococcus expansion in the gastrointestinal tract precedes infected necrosis in acute necrotizing pancreatitis.](https://pubmed.ncbi.nlm.nih.gov/42141757/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/19490976.2026.2670039
-  Journal/preprint server: Gut microbes
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42141757/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42141757/
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/14760584.2026.2668675
@@ -512,8 +502,6 @@ Search window: 7 day(s) ending 2026-05-18
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
 - [Understanding and exploiting superspreading to disrupt Mycobacterium tuberculosis transmission.](https://pubmed.ncbi.nlm.nih.gov/42134384/) | PubMed Historical Pathogen Case Studies
   This Personal View examines individual heterogeneity in M tuberculosis infectiousness and secondary transmission and focuses specifically on M tuberculosis superspreading, ie, the observation that most secondary M tuberculosis infections and tuberculosis clinical cases are attributable to transmission from a relatively small number of individuals. Reviewing both historical and contemporary data, we argue that superspreading is not only an important, ubiquitous feature of tuberculosis epidemiology, but also represents a potential opportunity for disruptive, strategic interventions with potentially outsized impacts on M tuberculosis transmission. Ultimately, future progress towards tuberculosis elimination is contingent on our ability to interrupt Mycobacterium tuberculosis transmission between individuals who are infectious and their susceptible contacts.
-- [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) | PubMed Historical Pathogen Case Studies
-  We outline practical surveillance steps to address under-ascertainment, standardized case definitions, sentinel reporting, and laboratory quality assurance and propose research priorities spanning environmental detection, host-pathogen interactions, and therapeutic evaluation. We contrast JLD with key mimickers (cutaneous leishmaniasis, chromoblastomycosis, leprosy, atypical mycobacterioses, and non-infectious lesions such as keloid scars) and summarize current management options, emphasizing when surgery alone suffices and when prolonged azole therapy should be considered. Diagnosis relies on direct microscopy and histopathology showing chains of thick-walled yeast-like cells connected by narrow-neck budding; culture is not feasible, and molecular assays are rarely available outside reference centers.
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) | PubMed Historical Epidemiology
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
 - [Primary sternocostal tuberculosis in a young healthcare worker: a case report.](https://pubmed.ncbi.nlm.nih.gov/42129664/) | PubMed Historical Pathogen Case Studies
