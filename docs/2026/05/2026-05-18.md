@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-18
-Generated at: 2026-05-18T03:02
+Generated at: 2026-05-18T04:02
 Search window: 7 day(s) ending 2026-05-18
 
 ## Executive scan
@@ -12,19 +12,25 @@ Search window: 7 day(s) ending 2026-05-18
 - [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (18), Major epidemiology studies (6), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (18), Historical epidemiology / ancient disease / paleopathology (5), Major epidemiology studies (5)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Dengue and arboviruses
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR)
-- New publisher/source coverage joined this story cluster: The News Pakistan.
+- Free Press Journal now includes deaths or fatal cases in the story frame.
+- New publisher/source coverage joined this story cluster: Free Press Journal.
+- Story volume increased from 3 to 4 clustered item(s) in the current window.
 - 1 newly observed linked item(s) were added since the last saved snapshot.
+
+### COVID-19 and SARS-CoV-2
+- Lead item: [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) (PubMed Infectious Disease Search)
+- The lead item has changed to [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) from PubMed Infectious Disease Search.
 
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 15 item(s) across 12 source(s); 7 official/primary-source item(s).
+- Topic size: 14 item(s) across 11 source(s); 7 official/primary-source item(s).
 - Lead item: [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News, 2026-05-17T13:38+02:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa); [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/) (PubMed Infectious Disease Search)
@@ -32,10 +38,10 @@ Search window: 7 day(s) ending 2026-05-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: This report describes an increase in dengue cases reported during 2024. We have to take extra measures to contain its outbreak following the first spell of monsoon rains across the district,” Azizullah Jan, the deputy commissioner of Upper Kohistan, told a meeting held at his office on Friday. Besides others, the district health officer, medical superintendent of the District Headquarters Hospital, Dasu, and...
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Efforts launched in Upper Kohistan to contain dengue outbreak](https://www.thenews.pk/print/1415723-efforts-launched-in-upper-kohistan-to-contain-dengue-outbreak) (The News Pakistan); [Dengue cases fall sharply in Singapore](https://borneobulletin.com.bn/dengue-cases-fall-sharply-in-singapore/) (Borneo Bulletin)
+- Detailed note: Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the...
+- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) (Free Press Journal); [Efforts launched in Upper Kohistan to contain dengue outbreak](https://www.thenews.pk/print/1415723-efforts-launched-in-upper-kohistan-to-contain-dengue-outbreak) (The News Pakistan); [Dengue cases fall sharply in Singapore](https://borneobulletin.com.bn/dengue-cases-fall-sharply-in-singapore/) (Borneo Bulletin)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -412,8 +418,6 @@ Search window: 7 day(s) ending 2026-05-18
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
 - [Primary sternocostal tuberculosis in a young healthcare worker: a case report.](https://pubmed.ncbi.nlm.nih.gov/42129664/) | PubMed Historical Pathogen Case Studies | 2026-05-13T00:00 | Historical epidemiology / ancient disease / paleopathology
   Extrapulmonary tuberculosis occurs in 15% to 20% of immunocompetent patients with tuberculosis and in 50% of immunocompromised patients. Our report describes a 34-year-old healthcare worker with a painless mass in the right sternocostal joint. A biopsy report indicated caseous necrosis and the absence of epithelioid cells.
-- [No vaccine, no cure: What the WHO Ebola health emergency means for Indians](https://indianexpress.com/article/lifestyle/health/how-should-indians-precautionary-measures-ebola-who-declared-global-health-emergency-experts-10695186/) | The Indian Express | 2026-05-18T08:30+00:00 | Outbreaks and emerging infections
-  As WHO officials have urged countries to strengthen surveillance, testing, and emergency response systems, should India be worried? Dr Aniket Mule, Consultant Internal Medicine, KIMS Hospitals, Thane, noted that Ebola is a “rare but very serious viral infection” that can cause high fever, weakness, vomiting, diarrhea, and in severe cases, bleeding and organ failure. Family members caring for patients and healthcare workers face higher risks if they do not follow proper precautions,” said Dr Mule.
 - [WHO declares global public health emergency over Ebola outbreak in Democratic Republic of Congo and Uganda](https://news.sky.com/story/new-ebola-outbreak-in-congo-kills-65-13544395) | Sky News | 2026-05-17T02:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congolese report constant burials as deaths in new Ebola outbreak reach 80](https://www.nbcnews.com/world/africa/ebola-outbreak-congo-rcna345481) | NBC News | 2026-05-16T20:06+00:00 | Outbreaks and emerging infections
@@ -430,10 +434,10 @@ Search window: 7 day(s) ending 2026-05-18
   Early antibiotic use-without documented infection in 40%-was associated with Enterococcus colonisation (HR 4.99, 95% CI 1.57-15.80), reduced butyrate-producer abundance, and infected necrosis (HR 3.56, 95% CI 1.23-10.28). After adjustment for baseline disease severity, biliary etiology, and prior antibiotic exposure, gastrointestinal Enterococcus colonization was associated with subsequent infected necrosis (rectal HR 4.48, 95% CI 1.51-13.28; salivary HR 5.37, 95% CI 1.72-16.79), typically preceding clinical diagnosis by 3 weeks; results were similar when adjusting for early extra-pancreatic infection instead of disease severity. Of 276 patients with acute pancreatitis, 57 with necrotizing pancreatitis underwent twice-weekly rectal and salivary sampling for 30 d, analyzed using 16S rRNA sequencing.
 - [Silent spread of rare and deadly Ebola strain exposes surveillance gaps](https://www.scmp.com/news/world/africa/article/3353956/silent-spread-rare-and-deadly-ebola-strain-exposes-surveillance-gaps) | South China Morning Post | 2026-05-18T08:19+00:00 | Outbreaks and emerging infections
   About 350 suspected cases and 91 deaths have been reported in northeastern DR Congo, the country’s health minister Roger Kamba said on Sunday, while neighbouring Uganda has confirmed two infections, including one death in Kampala. “Hospitals are already under pressure,” Kamba told reporters in Bunia, the capital of Ituri province, where the outbreak is believed to have begun in April and hospitalised 59 people. A separate case was also reported Sunday in Goma, the eastern Congolese city controlled by Rwanda-backed M23 rebels.
+- [Maharashtra: Dengue Scare In Uran’s Chanje Village After Woman’s Death; Samples Sent For Testing](https://www.freepressjournal.in/mumbai/maharashtra-dengue-scare-in-urans-chanje-village-after-womans-death-samples-sent-for-testing) | Free Press Journal | 2026-05-13T15:11+00:00 | Outbreaks and emerging infections
+  Entertainment Bollywood Hollywood Television Regional Film News Movie Reviews Uran, May 13: Health authorities in Uran taluka are on alert after suspected dengue cases were reported from the Chanje gram panchayat area, where one woman has died while undergoing treatment for a dengue-like illness. Officials clarified that only three suspected dengue cases have been reported so far, and the exact cause of the woman’s death is yet to be confirmed pending laboratory reports. Samples of six persons have been collected and sent to the Civil Hospital, Alibag, for testing.
 - [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
   Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
-- [Multicenter retrospective observational study on the clinical effectiveness of butyrate-producing Clostridium butyricum containing probiotics in patients with COVID-19.](https://pubmed.ncbi.nlm.nih.gov/42127027/) | PubMed Infectious Disease Search | 2026-05-17T00:00 | Major epidemiology studies
-  15.6%) and the lower in-hospital mortality (3.7% vs. However, patients receiving CB preparations showed the shorter periods of mechanical ventilation (1.1 ± 2.5 days vs. Although not statistically significant, they also showed lower incidence of secondary bacterial pneumonia (7.4% vs.
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Compared to no vaccination, the vaccination of older adults aged ≥65 years and the high-risk population was estimated to prevent 12,933 symptomatic cases, 12,811 outpatient cases, 122 hospitalizations, 353 lost quality-adjusted life-years (QALYs) gained, and four deaths, translating to total direct and societal cost savings of US$9,424,605 and US$10,397,107 respectively. Implementing an adapted COVID-19 vaccine strategy for high-risk and older adults in Guatemala is projected to improve health outcomes and, under base-case assumptions, be cost-saving from both payer and societal perspectives. Using adapted COVID-19 vaccines targeting current variants in circulation is necessary for addressing the dynamic evolution of the SARS-CoV-2 virus.
 - [Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.](https://pubmed.ncbi.nlm.nih.gov/42132838/) | PubMed Infectious Disease Search | 2026-05-14T00:00 | Major epidemiology studies
@@ -442,6 +446,8 @@ Search window: 7 day(s) ending 2026-05-18
   Limited detail was available from feed metadata alone.
 - [More measles cases are reported in Lebanon, Lancaster, and Berks Counties](https://www.inquirer.com/health/measles-outbreak-pennsylvania-lebanon-lancaster-berks-counties-cases-20260515.html) | Inquirer.com | 2026-05-15T19:11+00:00 | Outbreaks and emerging infections
   Measles cases in 2026 in Pennsylvania have already surpassed all cases reported in 2025. State officials said the first case in Lebanon County was detected on April 23. Last week, 11 measles cases were reported in Lebanon County .
+- [Efforts launched in Upper Kohistan to contain dengue outbreak](https://www.thenews.pk/print/1415723-efforts-launched-in-upper-kohistan-to-contain-dengue-outbreak) | The News Pakistan | 2026-05-15T19:00+00:00 | Outbreaks and emerging infections
+  Besides others, the district health officer, medical superintendent of the District Headquarters Hospital, Dasu, and representatives of the Expanded Programme on Immunisation, Public Health Department and other devolved departments attended the meeting. We have to take extra measures to contain its outbreak following the first spell of monsoon rains across the district,” Azizullah Jan, the deputy commissioner of Upper Kohistan, told a meeting held at his office on Friday. The heads and representatives of various departments also briefed the meeting regarding their preparedness to effectively contain the spread of dengue.
 
 ## Papers worth saving
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/)
@@ -492,12 +498,6 @@ Search window: 7 day(s) ending 2026-05-18
   Journal/preprint server: Gut microbes
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42141757/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42141757/
-- [Multicenter retrospective observational study on the clinical effectiveness of butyrate-producing Clostridium butyricum containing probiotics in patients with COVID-19.](https://pubmed.ncbi.nlm.nih.gov/42127027/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21505594.2026.2673650
-  Journal/preprint server: Virulence
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42127027/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42127027/
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/14760584.2026.2668675
