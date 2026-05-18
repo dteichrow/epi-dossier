@@ -3,7 +3,6 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
-      "CBS News",
       "Guardian",
       "NBC News",
       "PBS",
@@ -13,18 +12,18 @@
     "metadata_only_count": 10,
     "sources_cached": 5,
     "sources_failed": 2,
-    "sources_live": 30,
+    "sources_live": 31,
     "story_count_change": 0,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 30,
+    "live": 31,
     "refresh_cache": 5,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-18T07:10:14",
+  "generated_at": "2026-05-18T08:08:36",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
