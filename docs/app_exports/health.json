@@ -3,13 +3,14 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
+      "CNN",
       "Guardian",
       "NBC News",
       "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 12,
+    "metadata_only_count": 11,
     "sources_cached": 5,
     "sources_failed": 2,
     "sources_live": 31,
@@ -23,7 +24,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-18T10:12:45",
+  "generated_at": "2026-05-18T11:13:24",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",

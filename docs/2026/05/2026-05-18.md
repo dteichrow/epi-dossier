@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-18
-Generated at: 2026-05-18T10:12
+Generated at: 2026-05-18T11:13
 Search window: 7 day(s) ending 2026-05-18
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-05-18
 - [WHO Sierra Leone Annual Report 2025](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-annual-report-2025) (WHO Regional Office for Africa; 2026-05-15T13:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/) (PubMed Infectious Disease Search; 2026-05-15T00:00; Major epidemiology studies; relevance 5/5)
 - [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR; 2026-05-14T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (19), Historical epidemiology / ancient disease / paleopathology (5), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (20), Historical epidemiology / ancient disease / paleopathology (5), Major epidemiology studies (5)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -20,7 +20,7 @@ Search window: 7 day(s) ending 2026-05-18
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 18 item(s) across 12 source(s); 10 official/primary-source item(s).
+- Topic size: 19 item(s) across 12 source(s); 10 official/primary-source item(s).
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News, 2026-05-18T14:14+02:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [Electronic Surveillance Monthly Bulletin (April 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-april-2026) (WHO Regional Office for Africa); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News)
@@ -43,22 +43,6 @@ Search window: 7 day(s) ending 2026-05-18
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Avian influenza and H5N1
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: RELATED : FDA urges pet food businesses to address H5N1 in their food safety plans 3 The LACDPH interviewed 11 pet owners living in 5 households with affected cats, 126 from 10 veterinary practices were 14 of the affected cats were evaluated, one person from an animal control agency involved in the transportation of the carcasses of the euthanized cats, and one person from a local health department. Out of the...
-- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cat-to-human transmission of highly pathogenic avian influenza virus confirmed](https://www.dvm360.com/view/cat-to-human-transmission-of-highly-pathogenic-avian-influenza-virus-confirmed) (DVM360)
-- Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR, 2026-05-14T17:00+00:00)
-- Detailed note: This report describes an increase in dengue cases reported during 2024.
-- Evidence notes: [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Biting back against dengue - Why experts are cautious despite Singapore's success in lowering case count](https://www.channelnewsasia.com/today/big-read/dengue-cases-wolbachia-mosquito-lowest-record-6120941) (CNA)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Occupational and environmental epidemiology
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies, 2026-05-14T00:00)
@@ -66,6 +50,22 @@ Search window: 7 day(s) ending 2026-05-18
 - Evidence notes: [Revisiting the natural history of Jorge Lobo's disease: a mycological enigma spanning unresolved taxonomy, uncertain transmission, and inadequate therapy.](https://pubmed.ncbi.nlm.nih.gov/42132385/) (PubMed Historical Pathogen Case Studies); [Antibiotic-associated Enterococcus expansion in the gastrointestinal tract precedes infected necrosis in acute necrotizing pancreatitis.](https://pubmed.ncbi.nlm.nih.gov/42141757/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Historical epidemiology and ancient pathogens
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies, 2026-05-14T00:00)
+- Detailed note: Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual...
+- Evidence notes: [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies); [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Avian influenza and H5N1
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
+- Lead item: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR, 2026-05-14T17:00+00:00)
+- Detailed note: This report describes survey results from backyard flock owners' attitudes towards avian influenza.
+- Evidence notes: [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR)
+- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -414,30 +414,30 @@ Search window: 7 day(s) ending 2026-05-18
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
 - [Primary sternocostal tuberculosis in a young healthcare worker: a case report.](https://pubmed.ncbi.nlm.nih.gov/42129664/) | PubMed Historical Pathogen Case Studies | 2026-05-13T00:00 | Historical epidemiology / ancient disease / paleopathology
   Extrapulmonary tuberculosis occurs in 15% to 20% of immunocompetent patients with tuberculosis and in 50% of immunocompromised patients. Our report describes a 34-year-old healthcare worker with a painless mass in the right sternocostal joint. A biopsy report indicated caseous necrosis and the absence of epithelioid cells.
+- [Health workers race to contain Congo's fast-spreading Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/health-workers-race-respond-congos-fast-spreading-ebola-outbreak-2026-05-18/) | Reuters | 2026-05-18T17:50+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Pakistan: 2 killed protecting polio workers in tribal area](https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253) | DW.com | 2026-05-18T16:52+00:00 | Outbreaks and emerging infections
   Two police officers died in Pakistan's northwestern Bajaur tribal district while protecting health workers who were administering the polio vaccine to children on Monday, a security official said. Authorities seek to vaccinate 19 million children against polio, in the latest effort to eradicate a disease that is endemic in Pakistan. The killings came on the first day of Pakistan's nationwide campaign to counter rising cases of polio .
-- [Health workers race to contain Congo's fast-spreading Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/health-workers-race-respond-congos-fast-spreading-ebola-outbreak-2026-05-18/) | Reuters | 2026-05-18T15:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO declares global public health emergency over Ebola outbreak in Democratic Republic of Congo and Uganda](https://news.sky.com/story/new-ebola-outbreak-in-congo-kills-65-13544395) | Sky News | 2026-05-17T02:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congolese report constant burials as deaths in new Ebola outbreak reach 80](https://www.nbcnews.com/world/africa/ebola-outbreak-congo-rcna345481) | NBC News | 2026-05-16T20:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak kills 65 in eastern DR Congo's Ituri province](https://www.bbc.com/news/articles/cze2wpk7y76o) | BBC | 2026-05-16T04:11+00:00 | Outbreaks and emerging infections
   Around 246 cases and 80 deaths have been reported, mainly in the gold-mining towns of Mongwalu and Rwampara, said the Africa Centres for Disease Control and Prevention (Africa CDC). Ugandan officials confirmed one case of imported Ebola from DR Congo on Friday, with the country's health ministry stating that a 59-year-old male who died on Thursday had tested positive. Ebola was first discovered in 1976 in what is now DR Congo, and is thought to have spread from bats.
+- [New Ebola outbreak confirmed in a remote Congo province](https://www.cnn.com/2026/05/15/us/video/ac360ebolacongo) | CNN | 2026-05-16T01:08+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital](https://www.pbs.org/newshour/health/uganda-confirms-ebola-case-in-man-from-neighboring-congo-who-died-in-ugandan-capital) | PBS | 2026-05-15T20:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo | Global development](https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths) | The Guardian | 2026-05-15T11:15+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo | Global development](https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RNMFY3cURVQUREVVdfWUYwMzdqMGt2LTRrTkVBM0txWUQ1M1pqdUxaQjNNOEJqY24zR1ZoTkYzTXVsU1R2a2JhSmlKYVF6TDNiWWxseU5JdHBSUWtIVzFtcThhMEdBa0Yyb2swcVo5SmRlQUI4SWlyemtRVmxlQ2lMdDlqcWtOd3ZuYTJuQXg5MERpaEE?oc=5) | The Guardian | 2026-05-15T11:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [New outbreak of Ebola kills 80 in eastern DR Congo](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvUFdKOVJOMmxtVFhTMjZSWldMenZvdE93M1NHOTZiRUxfZzFhY2RoM3RWZ0pRaWd1QXpEcGJqSVBFY1BZcExCeWlqZDE0QS1nengxRVozenBtT1M3?oc=5) | BBC | 2026-05-15T07:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Antibiotic-associated Enterococcus expansion in the gastrointestinal tract precedes infected necrosis in acute necrotizing pancreatitis.](https://pubmed.ncbi.nlm.nih.gov/42141757/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Early antibiotic use-without documented infection in 40%-was associated with Enterococcus colonisation (HR 4.99, 95% CI 1.57-15.80), reduced butyrate-producer abundance, and infected necrosis (HR 3.56, 95% CI 1.23-10.28). After adjustment for baseline disease severity, biliary etiology, and prior antibiotic exposure, gastrointestinal Enterococcus colonization was associated with subsequent infected necrosis (rectal HR 4.48, 95% CI 1.51-13.28; salivary HR 5.37, 95% CI 1.72-16.79), typically preceding clinical diagnosis by 3 weeks; results were similar when adjusting for early extra-pancreatic infection instead of disease severity. Of 276 patients with acute pancreatitis, 57 with necrotizing pancreatitis underwent twice-weekly rectal and salivary sampling for 30 d, analyzed using 16S rRNA sequencing.
-- [Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda](https://africacdc.org/news-item/africa-cdc-calls-for-urgent-regional-coordination-following-ebola-virus-disease-outbreak-in-ituri-province-drc-and-imported-ebola-bundibugyo-case-reported-by-uganda/) | Africa CDC | 2026-05-16T07:45+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) | Euronews.com | 2026-05-13T15:06+00:00 | Outbreaks and emerging infections
+  Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) | PubMed Infectious Disease Search | 2026-05-15T00:00 | Major epidemiology studies
   Compared to no vaccination, the vaccination of older adults aged ≥65 years and the high-risk population was estimated to prevent 12,933 symptomatic cases, 12,811 outpatient cases, 122 hospitalizations, 353 lost quality-adjusted life-years (QALYs) gained, and four deaths, translating to total direct and societal cost savings of US$9,424,605 and US$10,397,107 respectively. Implementing an adapted COVID-19 vaccine strategy for high-risk and older adults in Guatemala is projected to improve health outcomes and, under base-case assumptions, be cost-saving from both payer and societal perspectives. Using adapted COVID-19 vaccines targeting current variants in circulation is necessary for addressing the dynamic evolution of the SARS-CoV-2 virus.
-- [Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.](https://pubmed.ncbi.nlm.nih.gov/42132838/) | PubMed Infectious Disease Search | 2026-05-14T00:00 | Major epidemiology studies
-  In the United States, COVID-19 vaccines are widely available, but vaccine hesitancy and vaccine disparities remain. Due to current changes in COVID-19 vaccine recommendations, research that focuses on vaccines and misinformation is critical in preventing vaccine hesitancy. These perspectives may be especially important for vaccine-hesitant people with intersecting social vulnerabilities, including racial and ethnic minorities who are also LGBTQ+ individuals, immigrants, or pregnant people.
-- [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin-producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes.](https://pubmed.ncbi.nlm.nih.gov/42138049/)
