@@ -346,6 +346,7 @@ def render_public_homepage(
     reference_records: list[dict[str, Any]],
 ) -> str:
     lead_stories = latest_snapshot.get("stories", [])[:4]
+    terminal_items = items_for_edition(latest_snapshot.get("items", []), "outbreaks")[:10]
     global_watch_items = items_for_edition(latest_snapshot.get("items", []), "watch")
     changed_today = global_watch_items[:8]
     watch_followups = global_watch_items[8:16]
@@ -356,6 +357,7 @@ def render_public_homepage(
     atlas_entries = latest_snapshot.get("atlas", [])[:4]
 
     lead_story_cards = "".join(render_public_story_card(story, link_prefix="./") for story in lead_stories) or '<p class="empty-note">No active outbreak files are available in this run.</p>'
+    terminal_cards = "".join(render_public_item_card(item) for item in terminal_items) or '<p class="empty-note">No outbreak-terminal items matched this run.</p>'
     changed_cards = "".join(render_public_item_card(item) for item in changed_today) or '<p class="empty-note">No major changed items were surfaced in this run.</p>'
     watch_cards = "".join(render_public_item_card(item) for item in watch_followups) or '<p class="empty-note">No additional watch items were surfaced in this run.</p>'
     notebook_cards = "".join(render_notebook_teaser_card(entry, web_mode=True, link_prefix="./") for entry in notebook_entries[:4]) or '<p class="empty-note">No notebook assignments were generated in this run.</p>'
@@ -388,11 +390,17 @@ def render_public_homepage(
           <span class="badge">Updated {escape(latest_snapshot.get("generated_at", "Unknown"))}</span>
         </div>
       </section>
-      {render_page_section_nav([("Lead Outbreak Files", "#lead-outbreak-files"), ("What Changed Today", "#what-changed-today"), ("Reporter's Notebook", "#reporters-notebook"), ("Pathogen Atlas", "#pathogen-atlas"), ("Global Watch", "#global-watch"), ("Research + Reference", "#research-reference"), ("Archive + Backfile", "#archive-backfile")])}
+      {render_page_section_nav([("Lead Outbreak Files", "#lead-outbreak-files"), ("Outbreak Terminal", "#outbreak-terminal"), ("What Changed Today", "#what-changed-today"), ("Reporter's Notebook", "#reporters-notebook"), ("Pathogen Atlas", "#pathogen-atlas"), ("Global Watch", "#global-watch"), ("Research + Reference", "#research-reference"), ("Archive + Backfile", "#archive-backfile")])}
       <section class="panel" id="lead-outbreak-files">
         <h2>Lead Outbreak Files</h2>
         <p class="muted-note">The core live files that deserve attention before the wider desk.</p>
         <div class="story-grid">{lead_story_cards}</div>
+      </section>
+      <section class="panel" id="outbreak-terminal">
+        <h2>Outbreak Terminal</h2>
+        <p class="muted-note">High-signal outbreak movements: official alerts, emergency declarations, cross-border spread, contact tracing, case/death shifts, and operational response.</p>
+        <p><a class="link-pill" href="./outbreaks.html">Open the full terminal</a></p>
+        <div class="card-grid">{terminal_cards}</div>
       </section>
       <section class="panel" id="what-changed-today">
         <h2>What Changed Today</h2>
@@ -1972,6 +1980,7 @@ def render_site_header_mode(base_path: str, *, nav_mode: str, active_page: str) 
             ("home", "Home", f"{base_path}index.html"),
             ("notebook", "Notebook", f"{base_path}notebook.html"),
             ("atlas", "Atlas", f"{base_path}atlas.html"),
+            ("outbreaks", "Outbreak terminal", f"{base_path}outbreaks.html"),
             ("watch", "Global watch", f"{base_path}watch.html"),
             ("africa", "Africa", f"{base_path}africa.html"),
             ("asia", "Asia", f"{base_path}asia.html"),

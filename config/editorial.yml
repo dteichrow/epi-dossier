@@ -1,9 +1,11 @@
 editorial:
   pinned_story_topics:
+    - Ebola virus disease
     - Hantavirus and cruise-ship outbreak
     - Measles transmission and vaccination
     - Avian influenza and H5N1
   forced_story_retention_days:
+    Ebola virus disease: 45
     Hantavirus and cruise-ship outbreak: 30
     Measles transmission and vaccination: 21
     Avian influenza and H5N1: 21
@@ -25,6 +27,7 @@ editorial:
     - STAT
     - CIDRAP
   spotlight_reference_names:
+    - Ebola virus disease
     - Hantavirus syndrome
     - Measles
     - Avian influenza and H5N1

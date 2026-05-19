@@ -14,7 +14,7 @@ from .summarize import (
     title_overlap_ratio,
     trim_text,
 )
-from .utils import DiseaseReference, Item, format_timestamp, sortable_datetime
+from .utils import DiseaseReference, Item, format_timestamp, matched_disease_reference_names, sortable_datetime
 
 
 TOPIC_KEYWORDS = {
@@ -130,6 +130,38 @@ STORY_FLAG_MESSAGES = {
     "wastewater_signal": "{source} now brings wastewater surveillance into the story.",
     "vaccine_signal": "{source} now foregrounds vaccination or vaccine policy in the story.",
 }
+
+DISEASE_TOPIC_ACTIVITY_TERMS = (
+    "outbreak",
+    "cluster",
+    "confirmed",
+    "suspected",
+    "probable",
+    "case",
+    "cases",
+    "death",
+    "deaths",
+    "died",
+    "fatal",
+    "case fatality",
+    "transmission",
+    "public health emergency",
+    "health emergency",
+    "contact tracing",
+    "contacts",
+    "isolation",
+    "quarantine",
+    "safe burial",
+    "travel health notice",
+    "cross-border",
+    "imported",
+    "health zone",
+    "rapid response",
+    "unknown illness",
+    "mystery illness",
+    "under investigation",
+    "investigation",
+)
 
 
 @dataclass
@@ -345,9 +377,19 @@ def classify_topic(item: Item) -> str:
             item.source.lower(),
         ]
     )
+    activity_text = " ".join(
+        [
+            item.title.lower(),
+            item.summary.lower(),
+            item.extracted_text.lower(),
+        ]
+    )
     for topic_name, keywords in TOPIC_KEYWORDS.items():
         if any(keyword_matches(text, keyword) for keyword in keywords):
             return topic_name
+    reference_matches = matched_disease_reference_names(text)
+    if reference_matches and any(term in activity_text for term in DISEASE_TOPIC_ACTIVITY_TERMS):
+        return reference_matches[0]
     return "Miscellaneous signals"
 
 

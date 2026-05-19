@@ -310,7 +310,23 @@ sources:
   - name: Google News Hemorrhagic Fever and Zoonoses
     type: rss
     category: Outbreaks and emerging infections
-    url: https://news.google.com/rss/search?q=%28hantavirus+OR+Ebola+OR+Marburg+OR+Lassa+OR+Nipah+OR+anthrax+OR+%22Rift+Valley+fever%22%29+%28outbreak+OR+cluster+OR+spillover+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    url: https://news.google.com/rss/search?q=%28hantavirus+OR+Ebola+OR+Bundibugyo+OR+Marburg+OR+Lassa+OR+Nipah+OR+anthrax+OR+%22Rift+Valley+fever%22+OR+%22Crimean-Congo%22+OR+%22viral+hemorrhagic+fever%22+OR+%22viral+haemorrhagic+fever%22%29+%28outbreak+OR+cluster+OR+spillover+OR+surveillance+OR+%22health+emergency%22+OR+%22contact+tracing%22%29+when:14d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 120
+
+  - name: Google News Active Outbreak Alerts
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28%22public+health+emergency%22+OR+%22health+emergency%22+OR+%22disease+outbreak%22+OR+%22unknown+illness%22+OR+%22mystery+illness%22%29+%28confirmed+OR+suspected+OR+deaths+OR+%22contact+tracing%22+OR+%22health+workers%22+OR+%22case+fatality%22+OR+%22rapid+response%22%29+when:7d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 120
+
+  - name: Google News Official Outbreak Response
+    type: rss
+    category: Policy, surveillance, and public health infrastructure
+    url: https://news.google.com/rss/search?q=%28%22World+Health+Organization%22+OR+WHO+OR+CDC+OR+ECDC+OR+%22Africa+CDC%22+OR+%22Ministry+of+Health%22%29+%28outbreak+OR+%22travel+health+notice%22+OR+%22contact+tracing%22+OR+%22public+health+emergency%22+OR+%22health+emergency%22%29+when:7d&hl=en-US&gl=US&ceid=US:en
     official: false
     outbreak_signal: true
     max_items: 100

@@ -748,12 +748,15 @@ def detect_story_claim_types(items: list[Item], bullets: list[str]) -> list[str]
     text = " ".join([item.title for item in items] + [item.summary for item in items] + bullets).lower()
     rules = {
         "new_official_source": ("official", "agency", "cdc", "who", "ecdc"),
-        "suspected_case": ("suspected case", "possible case", "under investigation"),
-        "confirmed_case": ("confirmed case", "confirmed infection", "confirmed"),
-        "severity_or_death": ("death", "fatal", "critical", "hospitalized", "improving"),
+        "suspected_case": ("suspected case", "suspected cases", "possible case", "probable case", "under investigation"),
+        "confirmed_case": ("confirmed case", "confirmed cases", "confirmed infection", "laboratory confirmed", "tested positive", "confirmed"),
+        "severity_or_death": ("death", "deaths", "fatal", "case fatality", "critical", "hospitalized", "hospitalised", "died"),
         "transmission_change": ("person-to-person", "human-to-human", "transmission"),
-        "policy_or_travel": ("evacuation", "dock", "quarantine", "travel", "restriction", "advisory"),
-        "new_geography": ("canary islands", "cape verde", "tenerife", "uk", "spain", "port"),
+        "policy_or_travel": ("evacuation", "quarantine", "travel", "restriction", "advisory", "screening", "border", "entry restriction"),
+        "new_geography": ("imported case", "cross-border", "new health zone", "new province", "new country", "reported in", "identified in"),
+        "healthcare_transmission": ("health worker", "healthcare worker", "health-care worker", "nosocomial", "hospital-associated", "infection prevention"),
+        "laboratory_or_genomic": ("laboratory", "pcr", "sequencing", "genomic", "sample", "samples tested"),
+        "medical_countermeasure_gap": ("no vaccine", "no licensed vaccine", "no approved", "no specific therapeutics", "supportive care"),
     }
     return [label for label, needles in rules.items() if any(needle in text for needle in needles)]
 
@@ -783,18 +786,34 @@ def infer_story_primary_region(items: list[Item]) -> str:
 def infer_country(item: Item) -> str:
     text = " ".join([item.title.lower(), item.summary.lower(), item.url.lower()])
     country_map = {
+        "Democratic Republic of the Congo": ("democratic republic of the congo", "drc", "dr congo", "congo", "ituri", "north kivu", "bunia", "kinshasa"),
+        "Uganda": ("uganda", "kampala"),
+        "South Sudan": ("south sudan",),
+        "Rwanda": ("rwanda",),
+        "Sierra Leone": ("sierra leone",),
+        "Liberia": ("liberia",),
+        "Guinea": ("guinea",),
+        "Nigeria": ("nigeria",),
+        "Kenya": ("kenya",),
+        "Tanzania": ("tanzania",),
+        "Ethiopia": ("ethiopia",),
+        "Ghana": ("ghana",),
         "United Kingdom": ("united kingdom", "uk", "britain", "british"),
         "Spain": ("spain", "canary islands", "tenerife"),
         "Cape Verde": ("cape verde",),
         "United States": ("united states", "u.s.", "usa", "california", "new york", "texas"),
         "Canada": ("canada",),
         "India": ("india",),
-        "Uganda": ("uganda",),
         "Brazil": ("brazil",),
     }
+    matches: list[str] = []
     for country, terms in country_map.items():
         if any(term in text for term in terms):
-            return country
+            matches.append(country)
+    if len(matches) > 1:
+        return " / ".join(matches[:2])
+    if matches:
+        return matches[0]
     return ""
 
 
@@ -950,6 +969,11 @@ def record_matches_edition(record: dict[str, Any], edition: EditionConfig, *, st
                 record.get("what_happened", "") if story_record else record.get("why_it_matters", ""),
                 record.get("country", ""),
                 record.get("primary_region", "") if story_record else record.get("region", ""),
+                " ".join(record.get("source_names", [])) if story_record else record.get("source", ""),
+                " ".join(record.get("publisher_names", [])) if story_record else record.get("publisher_name", ""),
+                record.get("category", ""),
+                record.get("evidence_type", ""),
+                record.get("source_confidence", ""),
                 " ".join(record.get("claim_types", [])) if story_record else "",
                 record.get("content_class", ""),
             ]

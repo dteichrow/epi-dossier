@@ -638,6 +638,113 @@ def normalize_whitespace(text: str) -> str:
     return re.sub(r"\s+", " ", text or "").strip()
 
 
+REFERENCE_SIGNAL_STOP_TERMS = {
+    "bacteria",
+    "bacterium",
+    "disease",
+    "diseases",
+    "fever",
+    "haemorrhagic fever",
+    "hemorrhagic fever",
+    "infection",
+    "infections",
+    "parasite",
+    "species",
+    "syndrome",
+    "viral haemorrhagic fever",
+    "viral hemorrhagic fever",
+    "virus",
+    "viruses",
+}
+
+
+def normalize_signal_text(text: str) -> str:
+    cleaned = re.sub(r"[^a-z0-9]+", " ", (text or "").lower())
+    return normalize_whitespace(cleaned)
+
+
+def signal_term_matches(haystack: str, term: str) -> bool:
+    if not haystack or not term:
+        return False
+    return re.search(r"\b" + re.escape(term) + r"\b", haystack) is not None
+
+
+def reference_signal_term_is_useful(term: str) -> bool:
+    normalized = normalize_signal_text(term)
+    if len(normalized) < 3:
+        return False
+    tokens = normalized.split()
+    if not tokens:
+        return False
+    if normalized in REFERENCE_SIGNAL_STOP_TERMS:
+        return False
+    if len(tokens) == 1 and tokens[0] in REFERENCE_SIGNAL_STOP_TERMS:
+        return False
+    return True
+
+
+def collect_reference_signal_terms(entry: dict[str, Any]) -> tuple[str, ...]:
+    raw_terms = [
+        entry.get("name", ""),
+        entry.get("pathogen", ""),
+        *entry.get("aliases", []),
+    ]
+    terms: set[str] = set()
+    for raw_value in raw_terms:
+        value = str(raw_value or "")
+        normalized = normalize_signal_text(value)
+        if reference_signal_term_is_useful(normalized):
+            terms.add(normalized)
+        head = normalize_signal_text(value.split(",", 1)[0])
+        if reference_signal_term_is_useful(head):
+            terms.add(head)
+        for chunk in re.findall(r"\(([^)]+)\)", value):
+            parenthetical = normalize_signal_text(chunk)
+            if reference_signal_term_is_useful(parenthetical):
+                terms.add(parenthetical)
+    return tuple(sorted(terms, key=lambda term: (len(term.split()), len(term)), reverse=True))
+
+
+@lru_cache(maxsize=1)
+def load_disease_reference_topic_terms() -> tuple[tuple[str, tuple[str, ...]], ...]:
+    raw_entries = load_yaml(CONFIG_DIR / "outbreak_reference.yml").get("diseases", [])
+    topic_terms: list[tuple[str, tuple[str, ...]]] = []
+    for entry in raw_entries:
+        name = normalize_whitespace(str(entry.get("name", "")))
+        terms = collect_reference_signal_terms(dict(entry))
+        if name and terms:
+            topic_terms.append((name, terms))
+    return tuple(topic_terms)
+
+
+@lru_cache(maxsize=1)
+def load_disease_signal_terms() -> tuple[str, ...]:
+    terms = {
+        term
+        for _, reference_terms in load_disease_reference_topic_terms()
+        for term in reference_terms
+    }
+    return tuple(sorted(terms, key=lambda term: (len(term.split()), len(term)), reverse=True))
+
+
+def matched_disease_reference_names(text: str) -> list[str]:
+    haystack = normalize_signal_text(text)
+    if not haystack:
+        return []
+    matches: list[str] = []
+    for name, terms in load_disease_reference_topic_terms():
+        if any(signal_term_matches(haystack, term) for term in terms):
+            matches.append(name)
+    return matches
+
+
+def has_disease_reference_signal(text: str) -> bool:
+    haystack = normalize_signal_text(text)
+    if not haystack:
+        return False
+    return any(signal_term_matches(haystack, term) for term in load_disease_signal_terms())
+
+
 def normalize_source_name(text: str | None) -> str:
     if not text:
         return ""

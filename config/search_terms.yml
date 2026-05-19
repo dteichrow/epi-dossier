@@ -6,6 +6,23 @@ priority_terms:
   - surveillance
   - cluster
   - public health
+  - public health emergency
+  - health emergency
+  - disease outbreak
+  - unknown illness
+  - mystery illness
+  - high-mortality outbreak
+  - case fatality
+  - suspected cases
+  - confirmed cases
+  - contact tracing
+  - infection prevention
+  - isolation facility
+  - safe burial
+  - health worker deaths
+  - cross-border transmission
+  - imported case
+  - rapid response team
   - rural outbreak
   - village outbreak
   - district outbreak
@@ -35,6 +52,11 @@ priority_terms:
   - Nipah
   - Marburg
   - Ebola
+  - Ebola virus disease
+  - viral hemorrhagic fever
+  - viral haemorrhagic fever
+  - Bundibugyo
+  - Bundibugyo ebolavirus
   - Legionnaires
   - pertussis
   - meningococcal

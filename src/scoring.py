@@ -3,6 +3,7 @@ from __future__ import annotations
 import re
 
 from .utils import Item
+from .utils import has_disease_reference_signal
 
 
 LOW_DETAIL_MARKERS = (
@@ -63,6 +64,24 @@ def score_item(item: Item) -> int:
     if item.publisher_tier in {"wire", "major_newsroom", "specialist_health"} and not item.official:
         score += 1
     if any(term in text for term in ("outbreak", "emerging", "cluster", "surveillance", "h5n1", "measles", "cholera", "dengue", "mpox", "marburg", "ebola", "anthrax", "nipah", "chikungunya", "yellow fever", "zika", "malaria", "meningococcal", "diphtheria", "pertussis", "legionnaires", "rabies", "hepatitis a", "norovirus", "oropouche", "rift valley fever", "mers", "avian influenza", "tuberculosis", "polio", "lassa")):
+        score += 2
+    if has_disease_reference_signal(text) and any(
+        term in text
+        for term in (
+            "outbreak",
+            "cluster",
+            "confirmed",
+            "suspected",
+            "death",
+            "deaths",
+            "transmission",
+            "health emergency",
+            "case fatality",
+            "contact tracing",
+            "isolation",
+            "surveillance",
+        )
+    ):
         score += 2
     if any(term in text for term in ("africa", "uganda", "kenya", "tanzania", "ethiopia", "nigeria", "congo", "zimbabwe", "sudan", "india", "bangladesh", "pakistan", "sri lanka", "nepal", "cambodia", "vietnam", "thailand", "indonesia", "philippines")):
         score += 1

@@ -18,6 +18,7 @@ from .summarize import summarize_item
 from .utils import (
     app_exports_dir,
     ensure_directories,
+    has_disease_reference_signal,
     has_local_signal,
     infer_region,
     Item,
@@ -265,6 +266,65 @@ STORY_FOLLOW_UP_TERMS = (
     "remains anchored",
     "passengers evacuated",
     "medical teams",
+)
+
+OUTBREAK_ACTIVITY_TERMS = (
+    "outbreak",
+    "cluster",
+    "confirmed",
+    "confirmed case",
+    "suspected",
+    "suspected case",
+    "probable case",
+    "new case",
+    "cases",
+    "death",
+    "deaths",
+    "died",
+    "fatal",
+    "case fatality",
+    "transmission",
+    "community transmission",
+    "healthcare transmission",
+    "tests positive",
+    "test positive",
+    "evacuat",
+    "medical teams",
+    "infection prevention",
+    "contact tracing",
+    "contacts",
+    "isolation",
+    "quarantine",
+    "safe burial",
+    "safe burials",
+    "health emergency",
+    "public health emergency",
+    "emergency response",
+    "travel health notice",
+    "border screening",
+    "entry screening",
+    "surveillance",
+    "rapid response",
+    "health zone",
+    "province",
+    "district",
+    "unknown illness",
+    "mystery illness",
+)
+
+GENERIC_STORYWORTHY_OUTBREAK_TERMS = (
+    "disease outbreak",
+    "infectious disease outbreak",
+    "unknown illness",
+    "mystery illness",
+    "public health emergency",
+    "health emergency",
+    "viral hemorrhagic fever",
+    "viral haemorrhagic fever",
+    "travel health notice",
+    "rapid response team",
+    "contact tracing",
+    "case fatality",
 )
 
 
@@ -767,7 +827,8 @@ def is_official_signal_item(item: Item) -> bool:
     if item.category == "Major epidemiology studies":
         return False
     text = " ".join([item.title.lower(), item.summary.lower(), item.category.lower()])
-    return any(
+    content_text = " ".join([item.title.lower(), item.summary.lower(), item.extracted_text.lower(), item.url.lower()])
+    if any(
         term in text
         for term in (
             "outbreak",
@@ -784,7 +845,9 @@ def is_official_signal_item(item: Item) -> bool:
             "travel health",
             "public health",
         )
-    )
+    ):
+        return True
+    return has_disease_reference_signal(content_text) and any(term in content_text for term in OUTBREAK_ACTIVITY_TERMS)
 
 
 def is_storyworthy_signal(item: Item) -> bool:
@@ -894,11 +957,14 @@ def item_looks_like_story_followup(item: Item) -> bool:
     if "google news" not in item.source.lower():
         return False
     title = item.title.lower()
+    content_text = " ".join([item.title.lower(), item.summary.lower(), item.extracted_text.lower(), item.url.lower()])
     if any(pattern in title for pattern in LOW_VALUE_TITLE_PATTERNS):
         return False
-    if not any(term in title for term in STORY_FOLLOW_UP_TERMS):
+    if not any(term in content_text for term in OUTBREAK_ACTIVITY_TERMS):
         return False
-    return any(term in title for term in ("hantavirus", "measles", "cholera", "dengue", "mpox", "polio", "tuberculosis", "avian influenza", "h5n1", "outbreak", "cruise ship", "wastewater"))
+    if has_disease_reference_signal(content_text):
+        return True
+    return any(term in content_text for term in GENERIC_STORYWORTHY_OUTBREAK_TERMS)
 
 
 def item_is_pseudo_regional_maritime_story(item: Item) -> bool:
@@ -1056,7 +1122,7 @@ def item_matches_briefing_scope(item: Item) -> bool:
             item.extracted_text.lower(),
         ]
     )
-    return any(term in text for term in BRIEFING_SCOPE_TERMS)
+    return any(term in text for term in BRIEFING_SCOPE_TERMS) or has_disease_reference_signal(text)
 
 
 def item_has_disease_specific_signal(item: Item) -> bool:
@@ -1089,7 +1155,7 @@ def item_has_disease_specific_signal(item: Item) -> bool:
             "history of medicine",
         }
     )
-    return any(term in text for term in disease_terms)
+    return any(term in text for term in disease_terms) or has_disease_reference_signal(text)
 
 
 def item_from_misclassified_travel_notice_feed(item: Item) -> bool:

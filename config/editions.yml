@@ -24,6 +24,49 @@ editions:
     max_items: 0
     max_stories: 0
 
+  - key: outbreaks
+    label: Outbreak Terminal
+    page: outbreaks.html
+    description: A high-signal outbreak console for active investigations, emergency declarations, cross-border spread, contact tracing, case/death movement, and official response.
+    evidence_types:
+      - news_report
+      - official_update
+      - mixed_reporting
+    story_statuses:
+      - expanding_coverage
+      - active_investigation
+      - official_follow_up_only
+      - quiet_retained
+    include_terms:
+      - outbreak
+      - cluster
+      - confirmed case
+      - suspected case
+      - probable case
+      - deaths
+      - case fatality
+      - public health emergency
+      - health emergency
+      - contact tracing
+      - infection prevention
+      - isolation
+      - quarantine
+      - travel health notice
+      - imported case
+      - cross-border
+      - health zone
+      - rapid response
+      - unknown illness
+      - mystery illness
+    exclude_terms:
+      - workforce
+      - health workforce
+      - burden study
+      - fact check
+      - explainer
+    max_items: 30
+    max_stories: 12
+
   - key: watch
     label: Global Watch
     page: watch.html
@@ -114,8 +157,11 @@ editions:
       - mixed_reporting
       - news_report
     sources:
+      - CDC Newsroom
+      - CDC Current Outbreak List
       - CDC MMWR
       - CDC Travel Health Notices
+      - Africa CDC
       - WHO Regional Office for Africa
       - WHO Disease Outbreak News
       - ECDC News
