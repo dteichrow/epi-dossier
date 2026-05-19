@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-18
-Generated at: 2026-05-18T19:25
+Generated at: 2026-05-18T20:34
 Search window: 7 day(s) ending 2026-05-18
 
 ## Executive scan
@@ -12,25 +12,20 @@ Search window: 7 day(s) ending 2026-05-18
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola outbreak fuels mounting global alarm as U.S. works to relocate affected Americans](https://www.nbcnews.com/world/africa/new-ebola-outbreak-fuels-mounting-global-alarm-us-works-relocate-affec-rcna345633) (NBC News; 2026-05-18T23:36+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (152), Policy, surveillance, and public health infrastructure (24), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (143), Policy, surveillance, and public health infrastructure (25), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News)
-- New publisher/source coverage joined this story cluster: Bureaucrats India, News.com.au, RFI.
-- Story volume increased from 165 to 167 clustered item(s) in the current window.
-- 6 newly observed linked item(s) were added since the last saved snapshot.
-
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters)
-- The lead item has changed to [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) from Reuters.
-- 3 newly observed linked item(s) were added since the last saved snapshot.
+- Bureaucrats India now foregrounds vaccination or vaccine policy in the story.
+- New publisher/source coverage joined this story cluster: Anadolu Ajansı, Contagion Live, Doctors Without Borders.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 167 item(s) across 114 source(s); 4 official/primary-source item(s).
+- Topic size: 159 item(s) across 107 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News, 2026-05-18T14:14+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [Ebola outbreak fuels mounting global alarm as U.S. works to relocate affected Americans](https://www.nbcnews.com/world/africa/new-ebola-outbreak-fuels-mounting-global-alarm-us-works-relocate-affec-rcna345633) (NBC News)
@@ -40,7 +35,7 @@ Search window: 7 day(s) ending 2026-05-18
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters, 2026-05-18T18:43+00:00)
-- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.
 - Evidence notes: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters); [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) (Reuters); [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
@@ -56,7 +51,7 @@ Search window: 7 day(s) ending 2026-05-18
 ### Polio and wastewater surveillance
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Gunmen kill 2 police officers assigned to protect polio workers in Pakistan - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/gunmen-kill-2-police-officers-assigned-protect-polio-133069008) (ABC News - Breaking News, Latest News and Videos, 2026-05-18T15:28+00:00)
-- Detailed note: Updated: May 18, 2026 @ 8:17 pm Full Forecast Ottumwa, IA (52501) Today Strong thunderstorms likely. The attacks occurred in two areas of Bajaur, a district in Khyber Pakhtunkhwa province bordering Afghanistan, police officer Zafar Khan said, as Pakistan launched a new campaign across the country to vaccinate 19 million children against polio in an effort to eradicate the crippling disease. More than 200 polio...
+- Detailed note: Updated: May 18, 2026 @ 10:09 pm Full Forecast Ottumwa, IA (52501) Today Strong thunderstorms likely. The attacks occurred in two areas of Bajaur, a district in Khyber Pakhtunkhwa province bordering Afghanistan, police officer Zafar Khan said, as Pakistan launched a new campaign across the country to vaccinate 19 million children against polio in an effort to eradicate the crippling disease. More than 200 polio...
 - Evidence notes: [Gunmen kill 2 police officers assigned to protect polio workers in Pakistan - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/gunmen-kill-2-police-officers-assigned-protect-polio-133069008) (ABC News - Breaking News, Latest News and Videos); [Gunmen kill 2 police officers assigned to protect polio workers in Pakistan](https://www.ottumwacourier.com/news/national_news/gunmen-kill-2-police-officers-assigned-to-protect-polio-workers-in-pakistan/article_bb3969a9-d10f-5eea-b031-4ffa76a95308.html) (Ottumwa Courier)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
@@ -69,13 +64,13 @@ Search window: 7 day(s) ending 2026-05-18
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### COVID-19 and SARS-CoV-2
-- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) (PubMed Infectious Disease Search, 2026-05-15T00:00)
-- Detailed note: Compared to no vaccination, the vaccination of older adults aged ≥65 years and the high-risk population was estimated to prevent 12,933 symptomatic cases, 12,811 outpatient cases, 122 hospitalizations, 353 lost quality-adjusted life-years (QALYs) gained, and four deaths, translating to total direct and societal cost savings of US$9,424,605 and US$10,397,107 respectively. Implementing an adapted COVID-19 vaccine...
-- Evidence notes: [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) (PubMed Infectious Disease Search); [Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas.](https://pubmed.ncbi.nlm.nih.gov/42132838/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+### Dengue and arboviruses
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Traditional dengue alerts are missing the mark as Vietnam's climate shifts—researchers propose a one health solution](https://www.eurekalert.org/news-releases/1128425) (EurekAlert!, 2026-05-15T15:55+00:00)
+- Detailed note: Outbreaks in 2019, 2022, and 2024 were early warnings of a structural shift — and the country's surveillance infrastructure has not kept pace. The authors synthesize existing evidence on how specific environmental signals — temperature exceeding 27°C, moderate weekly rainfall of 130–210 mm, severe drought as measured by the Palmer Drought Severity Index, widening diurnal temperature ranges, heatwaves, and El Niño...
+- Evidence notes: [Traditional dengue alerts are missing the mark as Vietnam's climate shifts—researchers propose a one health solution](https://www.eurekalert.org/news-releases/1128425) (EurekAlert!)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -396,10 +391,10 @@ Search window: 7 day(s) ending 2026-05-18
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Latest on American who contracted Ebola as outbreak continues in Congo, Uganda
-- Source: CBS News
-- Date: 2026-05-18T23:07+00:00
-- URL: https://www.cbsnews.com/video/latest-on-american-who-contracted-ebola-as-outbreak-continues-in-congo-uganda/
+### American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos
+- Source: ABC News - Breaking News, Latest News and Videos
+- Date: 2026-05-18T22:10+00:00
+- URL: https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id\=133061121
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
@@ -408,8 +403,6 @@ Search window: 7 day(s) ending 2026-05-18
 
 
 ## Other notable readings
-- [American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id\=133061121) | ABC News - Breaking News, Latest News and Videos | 2026-05-18T22:10+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO’s Ebola alert puts focus on preparedness, experts say India need not panic](https://bureaucratsindia.in/news/public-affairs/whos-ebola-alert-puts-focus-on-preparedness-experts-say-india-need-not-panic) | Bureaucrats India | 2026-05-18T21:56+00:00 | Outbreaks and emerging infections
   Health experts, however, said there is no immediate reason for concern in India, even as countries have been advised to strengthen surveillance, testing and emergency response systems. The outbreak, linked to the Bundibugyo strain of the Ebola virus, has raised concern among health authorities because there are currently no widely approved vaccines or specific treatments available for the strain. The affected regions include eastern Congo, particularly Ituri province, along with parts of Uganda.
 - [US CDC scrambles to evacuate affected Americans amid deadly Ebola outbreak in DRC](https://www.cnn.com/2026/05/18/world/video/ebola-outbreak-drc-linkedto-100-deaths-digivid-intldsk) | CNN | 2026-05-18T21:21+00:00 | Policy, surveillance, and public health infrastructure
@@ -418,7 +411,9 @@ Search window: 7 day(s) ending 2026-05-18
   Limited detail was available from feed metadata alone.
 - [American Man Tests Positive for Ebola Amid Outbreak, Officials Say](https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html) | The New York Times | 2026-05-18T21:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Press Statement of the AU Commission Chairperson On the Ebola Outbreaks in the Democratic Republic of the Congo and Uganda](https://africacdc.org/news-item/press-statement-of-the-au-commission-chairperson-on-the-ebola-outbreaks-in-the-democratic-republic-of-the-congo-and-uganda/) | Africa CDC | 2026-05-18T20:52+00:00 | Outbreaks and emerging infections
+- [The Ebola outbreak started weeks ago, officials say. Here's a timeline of what we know](https://www.pbs.org/newshour/world/the-ebola-outbreak-started-weeks-ago-officials-say-heres-a-timeline-of-what-we-know) | PBS | 2026-05-18T20:58+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Press Statement by the AU Commission Chairperson On the Ebola Outbreaks in the Democratic Republic of the Congo and Uganda](https://africacdc.org/news-item/press-statement-of-the-au-commission-chairperson-on-the-ebola-outbreaks-in-the-democratic-republic-of-the-congo-and-uganda/) | Africa CDC | 2026-05-18T20:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [With no approved vaccine for Ebola outbreak, experts weigh testing a long shot](https://www.statnews.com/2026/05/18/ebola-outbreak-update-experts-weigh-use-merck-vaccine-ervebo/) | statnews.com | 2026-05-18T20:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -426,6 +421,8 @@ Search window: 7 day(s) ending 2026-05-18
   Limited detail was available from feed metadata alone.
 - [“US Restricts Entry Over Ebola Outbreak” — Non-Citizens From DRC, Uganda, South Sudan Barred For 30 Days](https://thenigerialawyer.com/us-restricts-entry-over-ebola-outbreak-non-citizens-from-drc-uganda-south-sudan-barred-for-30-days/) | TheNigeriaLawyer | 2026-05-18T20:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak triggers U.S. ban on travelers from three African nations](https://www.scientificamerican.com/article/ebola-outbreak-triggers-u-s-ban-on-travelers-from-three-african-nations/) | Scientific American | 2026-05-18T20:25+00:00 | Outbreaks and emerging infections
+  ban on travelers from three African nations Scientific American
 - [WHO declares Ebola outbreak an emergency as CDC restricts travel, confirms US doctor infected](https://www.cidrap.umn.edu/ebola/who-declares-ebola-outbreak-emergency-cdc-restricts-travel-confirms-us-doctor-infected) | cidrap.umn.edu | 2026-05-18T20:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak, as U.S. Restricts Travelers](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-05-18T20:11+00:00 | Outbreaks and emerging infections
@@ -434,20 +431,18 @@ Search window: 7 day(s) ending 2026-05-18
   Limited detail was available from feed metadata alone.
 - [Health workers race to contain Congo's fast-spreading Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/health-workers-race-respond-congos-fast-spreading-ebola-outbreak-2026-05-18/) | Reuters | 2026-05-18T19:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [The Ebola outbreak started weeks ago, officials believe. Here’s a timeline of what we know](https://apnews.com/article/ebola-outbreak-congo-uganda-disease-who-3c1d951834ddfb91f8a2e41bedefc398) | AP News | 2026-05-18T19:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [American tests positive for Ebola virus amid outbreak in Congo and Uganda: CDC](https://www.cbc.ca/news/health/american-tests-positive-ebola-virus-9.7203382) | CBC | 2026-05-18T19:50+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [CDC announces 30-day travel restrictions in response to Ebola outbreak](https://www.politico.com/news/2026/05/18/cdc-travel-restrictions-ebola-outbreak-00926421) | Politico | 2026-05-18T19:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [At least 100 dead in Ebola outbreak in DR Congo, official says](https://www.bbc.com/news/articles/cq6pz60p996o) | BBC | 2026-05-18T19:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [What to know about a new Ebola outbreak : Here & Now Anytime](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlI5ZmZkbWFCSmVOdXpYa0R0a21qWFR5c2VuQ01zUVVDaFdnWEtZSVJyTHZ3SDNoZUNzNzZkMlEwWUpHS0FzR3g0SmM1OTlUdjdrVllNRXR4SnFvSlpnd29TajFaQ2ZVTEdoMUhlNU9hRFBOeWVFTWFCdzByQmM4aXdnY1FrSXd5cnJwVQ?oc=5) | NPR | 2026-05-18T19:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) | Reuters | 2026-05-18T18:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) | LancasterOnline | 2026-05-18T18:38+00:00 | Outbreaks and emerging infections
   “Of the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case) counties, all 18 were either unvaccinated or had an unknown vaccination status,” state Department of Health Press Secretary Neil Ruhland said. Lancaster County’s most recent cases were identified May 13. With Lebanon County’s two new cases, 30 cases have now been reported across Pennsylvania this year.
-- [CDC to restrict entry from Ebola outbreak countries](https://www.newsnationnow.com/health/cdc-entry-ebola-countries/) | NewsNation | 2026-05-18T17:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/)
