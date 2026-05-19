@@ -118,7 +118,7 @@ diseases:
       - label: "CDC bird flu overview"
         url: "https://www.cdc.gov/bird-flu/about/index.html"
       - label: "WHO avian influenza fact sheet"
-        url: "https://www.who.int/news-room/fact-sheets/detail/avian-and-other-zoonotic-influenza"
+        url: "https://www.who.int/news-room/fact-sheets/detail/influenza-(avian-and-other-zoonotic)"
     notable_outbreaks:
       - "The current U.S. dairy-cattle episode changed the global H5N1 surveillance frame by moving the story deeper into mammalian agriculture."
     surveillance_note: "A top-tier reporter desk disease because animal, occupational, food-system and pandemic-risk lines all converge here."
@@ -739,13 +739,13 @@ diseases:
       location: "Kerala, India"
       summary: "Recent South Asian Nipah reporting has continued to center on Kerala, where public-health responses have emphasized rapid contact tracing, hospital precautions, and fruit-bat spillover concern."
       source_name: "WHO disease information"
-      source_url: "https://www.who.int/news-room/fact-sheets/detail/nipah-virus-infection"
+      source_url: "https://www.who.int/news-room/fact-sheets/detail/nipah-virus"
       as_of: "2024 WHO fact sheet"
     field_guide_links:
       - label: "CDC overview"
-        url: "https://www.cdc.gov/vhf/nipah/"
+        url: "https://www.cdc.gov/nipah-virus/about/index.html"
       - label: "WHO fact sheet"
-        url: "https://www.who.int/news-room/fact-sheets/detail/nipah-virus-infection"
+        url: "https://www.who.int/news-room/fact-sheets/detail/nipah-virus"
     notable_outbreaks:
       - "Bangladesh and India outbreaks remain the core modern human-to-human Nipah reference points."
     surveillance_note: "Nipah deserves special attention because respiratory and encephalitic framing can shift fast, and hospital spread matters."
@@ -786,7 +786,7 @@ diseases:
       - label: "CDC overview"
         url: "https://www.cdc.gov/legionella/about/index.html"
       - label: "WHO guidance"
-        url: "https://www.who.int/publications/i/item/9241545617"
+        url: "https://www.who.int/publications/i/item/9241562978"
     notable_outbreaks:
       - "Facility-linked outbreaks are often underappreciated until environmental investigation catches up."
     surveillance_note: "This is a strong reporter-desk disease because it sits at the intersection of environmental systems, hospitals, and local accountability."

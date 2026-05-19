@@ -44,6 +44,31 @@ def test_fetch_rss_parses_entries(monkeypatch):
     assert items[0].publisher == "Reuters"
 
 
+def test_fetch_rss_normalizes_escaped_query_separator(monkeypatch):
+    xml = """
+    <rss version="2.0">
+      <channel>
+        <title>Test</title>
+        <item>
+          <title>ABC outbreak report</title>
+          <link>https://abcnews.com/International/example/story?id\\=133061121</link>
+          <description>Outbreak detail</description>
+        </item>
+      </channel>
+    </rss>
+    """
+    response = Mock()
+    response.text = xml
+    response.raise_for_status = Mock()
+    monkeypatch.setattr("src.fetchers.requests.get", lambda *args, **kwargs: response)
+
+    source = SourceConfig(name="Test RSS", type="rss", category="Outbreaks", url="https://example.com/feed.xml")
+    items = fetch_rss(source, logger=Mock())
+
+    assert items[0].url == "https://abcnews.com/International/example/story?id=133061121"
+    assert items[0].metadata["raw_url"] == "https://abcnews.com/International/example/story?id=133061121"
+
+
 def test_fetch_html_list_drops_generic_anchor_titles(monkeypatch):
     html = """
     <html>

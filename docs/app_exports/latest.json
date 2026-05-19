@@ -2126,7 +2126,7 @@
     {
       "abstract_url": null,
       "aggregator_source": "Google News Outbreaks",
-      "canonical_url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id\\=133061121",
+      "canonical_url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id=133061121",
       "category": "Outbreaks and emerging infections",
       "caveats": "Usable source detail was limited after cleanup.",
       "content_class": "metadata_only_signal",
@@ -2148,7 +2148,7 @@
       "local_signal": false,
       "low_detail": true,
       "official": false,
-      "preferred_url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id\\=133061121",
+      "preferred_url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id=133061121",
       "preferred_url_kind": "metadata_only",
       "published_at": "2026-05-18T22:10+00:00",
       "publisher": "ABC News - Breaking News, Latest News and Videos",
@@ -2158,13 +2158,13 @@
       "raw_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXR1TnZvNUVIVVYzTnJXSW9vYlFkbG4yOExvSVJTLUVoZ09qVlFrb1RnN1pTUUJYeExwbVF4Wi1XTGxabUxxSzNabFRHTzJKNU1MQ1NuZl9aV3ZKdkllX0l1RFRobWVjNngzRWZlUS1ZUDJpUk1ZOFFXWTZ3OVlIYUpmWUxHajhRVlRQUkhSUnFFNEhaa1RLMnA4b1M0cTVWNFJCck9XRE9qZ1VZ0gGyAUFVX3lxTFBZWEVENWx1NDRTOXktZUstTlpnSk9nWXNNUnQ3bGVlUFppTG13amFaQjZGUk9NQVNLQ3FreTNmTXQ2WlBfTHJNaWlFbzM0NzNZOUVVaDFnOERoVmJNbUpSbXRUZ3FSSTdKb0JzRTMtOHBFVDBfVGZKZW1GREl3UmVDWENfdFNlekZCNHNfWU5rOWJiV1F5UkhBQWRORDN4VGJxSDI4aU5jLVZKU2ROZXdoQVE?oc=5",
       "region": "Africa",
       "relevance_score": 5,
-      "resolved_url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id\\=133061121",
+      "resolved_url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id=133061121",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
       "source_cached_at": "2026-05-19T04:44:47.065715+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
-      "source_url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id\\=133061121",
+      "source_url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id=133061121",
       "story_id": "story_56666e9c6c86e976",
       "story_status": "expanding_coverage",
       "summary": "Limited detail was available from feed metadata alone.",
@@ -11133,7 +11133,7 @@
         },
         {
           "label": "WHO avian influenza fact sheet",
-          "url": "https://www.who.int/news-room/fact-sheets/detail/avian-and-other-zoonotic-influenza"
+          "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(avian-and-other-zoonotic)"
         }
       ],
       "incubation": "Usually a few days after exposure, though exact timing varies with exposure intensity.",
@@ -11601,7 +11601,7 @@
         },
         {
           "label": "WHO guidance",
-          "url": "https://www.who.int/publications/i/item/9241545617"
+          "url": "https://www.who.int/publications/i/item/9241562978"
         }
       ],
       "incubation": "Usually 2 to 10 days.",
@@ -12047,11 +12047,11 @@
       "field_guide_links": [
         {
           "label": "CDC overview",
-          "url": "https://www.cdc.gov/vhf/nipah/"
+          "url": "https://www.cdc.gov/nipah-virus/about/index.html"
         },
         {
           "label": "WHO fact sheet",
-          "url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus-infection"
+          "url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus"
         }
       ],
       "incubation": "Often 4 to 14 days, though longer intervals have been reported.",
@@ -12061,7 +12061,7 @@
         "location": "Kerala, India",
         "period": "2024",
         "source_name": "WHO disease information",
-        "source_url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus-infection",
+        "source_url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus",
         "summary": "Recent South Asian Nipah reporting has continued to center on Kerala, where public-health responses have emphasized rapid contact tracing, hospital precautions, and fruit-bat spillover concern."
       },
       "metrics_that_matter": [

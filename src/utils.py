@@ -138,6 +138,15 @@ class Item:
     extracted_text: str = ""
     metadata: dict[str, Any] = field(default_factory=dict)
 
+    def __post_init__(self) -> None:
+        self.url = normalize_public_url(self.url)
+        if self.abstract_url:
+            self.abstract_url = normalize_public_url(self.abstract_url)
+        for key in ("raw_url", "aggregator_url", "resolved_url"):
+            value = self.metadata.get(key)
+            if isinstance(value, str):
+                self.metadata[key] = normalize_public_url(value)
+
     @property
     def canonical_url(self) -> str:
         return canonicalize_url(self.url)
@@ -248,11 +257,17 @@ class OutbreakEventReference:
     source_url: str
     as_of: str
 
+    def __post_init__(self) -> None:
+        self.source_url = normalize_public_url(self.source_url)
+
 
 @dataclass
 class ReferenceLink:
     label: str
     url: str
+
+    def __post_init__(self) -> None:
+        self.url = normalize_public_url(self.url)
 
 
 @dataclass
@@ -615,7 +630,7 @@ def parse_datetime(value: Any) -> datetime | None:
 
 
 def canonicalize_url(url: str) -> str:
-    parsed = urlparse(url.strip())
+    parsed = urlparse(normalize_public_url(url))
     netloc = parsed.netloc.lower()
     if netloc.startswith("www."):
         netloc = netloc[4:]
@@ -628,6 +643,16 @@ def canonicalize_url(url: str) -> str:
     )
     normalized = urlunparse(cleaned)
     return normalized[:-1] if normalized.endswith("/") else normalized
+
+
+def normalize_public_url(url: str) -> str:
+    return (
+        str(url or "")
+        .strip()
+        .replace("\\=", "=")
+        .replace("\\&", "&")
+        .replace("\\?", "?")
+    )
 
 
 def absolute_url(base_url: str, href: str) -> str:
