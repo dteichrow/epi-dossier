@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-19
-Generated at: 2026-05-19T04:46
+Generated at: 2026-05-19T05:48
 Search window: 7 day(s) ending 2026-05-19
 
 ## Executive scan
@@ -12,27 +12,22 @@ Search window: 7 day(s) ending 2026-05-19
 - [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News; 2026-05-17T13:38+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News; 2026-05-15T16:21+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (161), Policy, surveillance, and public health infrastructure (28), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (30), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News)
-- New publisher/source coverage joined this story cluster: Anadolu Ajansı, CBC, CNA.
-- 6 newly observed linked item(s) were added since the last saved snapshot.
-
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters)
-- The lead item has changed to [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) from Reuters.
-- 3 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: Azərtac, Boston Herald, CNBC Africa.
+- 4 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 178 item(s) across 117 source(s); 4 official/primary-source item(s).
+- Topic size: 178 item(s) across 112 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News, 2026-05-18T14:14+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
-- Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [Congo reports more Ebola cases as WHO expresses concern over scale and speed of the outbreak](https://www.washingtonpost.com/world/2026/05/19/congo-ebola-deadly-virus-bundibugyo-health-emergency/1e72254c-535d-11f1-9c40-7a0a12d9e745_story.html) (The Washington Post)
+- Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/) (The Washington Post)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -47,7 +42,7 @@ Search window: 7 day(s) ending 2026-05-19
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters, 2026-05-18T17:22+00:00)
-- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.
 - Evidence notes: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters); [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) (Reuters); [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
@@ -407,45 +402,45 @@ Search window: 7 day(s) ending 2026-05-19
 
 
 ## Other notable readings
-- [Congo reports more Ebola cases as WHO expresses concern over scale and speed of the outbreak](https://www.washingtonpost.com/world/2026/05/19/congo-ebola-deadly-virus-bundibugyo-health-emergency/1e72254c-535d-11f1-9c40-7a0a12d9e745_story.html) | The Washington Post | 2026-05-19T11:31+00:00 | Policy, surveillance, and public health infrastructure
+- [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/) | The Washington Post | 2026-05-19T12:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO concerned about 'scale and speed' of Ebola outbreak, with 131 now dead](https://www.cbc.ca/news/health/who-congo-ebola-numbers-rise-9.7203737) | CBC | 2026-05-19T11:06+00:00 | Outbreaks and emerging infections
+- [WHO concerned about 'scale and speed' of Ebola outbreak, with 131 now dead](https://www.cbc.ca/news/health/who-congo-ebola-numbers-rise-9.7203737) | CBC | 2026-05-19T12:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US Raises $13Million in Emergency Aid for Ebola Outbreak](https://www.tvcnews.tv/us-raises-13million-in-emergency-aid-for-ebola-outbreak/) | TVC News | 2026-05-19T10:45+00:00 | Outbreaks and emerging infections
+- [⚠️ The World Health Organisation has declared the Congo Ebola outbreak a public health emergency of international concern with over 500 suspected cases recorded.](https://www.facebook.com/ManchesterEveningNews/posts/%EF%B8%8F-the-world-health-organisation-has-declared-the-congo-ebola-outbreak-a-public-h/1459036426258718/) | facebook.com | 2026-05-19T12:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/) | The Washington Post | 2026-05-19T10:32+00:00 | Outbreaks and emerging infections
+- [Deadly Ebola outbreak triggers new US travel restrictions](https://thenationaldesk.com/news/americas-news-now/deadly-ebola-outbreak-congo-uganda-south-sudan-triggers-new-us-travel-restrictions-international-passengers-centers-for-disease-control-and-prevention-cdc-passports-risk-to-public-low-who-public-health-emergency-bundibugyo-strain) | National News Desk | 2026-05-19T12:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola deaths rise sharply as ‘scale and speed’ of outbreak concerns WHO](https://www.nbcnews.com/world/africa/ebola-outbreak-deaths-rise-scale-speed-concerns-who-congo-uganda-rcna345833) | NBC News | 2026-05-19T10:31+00:00 | Outbreaks and emerging infections
+- [Ebola deaths in eastern Congo rise to 131 as outbreak spreads](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-deaths-eastern-congo-rise-131-outbreak-spreads-2026-05-19/) | Reuters | 2026-05-19T12:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak sees 131 suspected deaths in DRC, officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/ebola-outbreak-sees-131-suspected-deaths-drc-officials/story?id\=133099345) | ABC News - Breaking News, Latest News and Videos | 2026-05-19T12:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [W.H.O. Chief Is ‘Deeply Concerned’ by Speed and Scale of Ebola Outbreak](https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html) | The New York Times | 2026-05-19T12:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Video What to know about the Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133101294/) | ABC News - Breaking News, Latest News and Videos | 2026-05-19T11:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Americans exposed to Ebola outbreak in the Congo, CDC says. Here’s how it spreads](https://www.kxan.com/news/national-news/americans-exposed-to-ebola-outbreak-in-the-congo-cdc-says-heres-how-it-spreads/) | KXAN Austin | 2026-05-19T11:23+00:00 | Policy, surveillance, and public health infrastructure
+  Here’s how it spreads KXAN Austin
 - [What to Know About the Ebola Outbreak as Cases and Deaths Rise](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-05-19T10:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO chief raises alarm over scale of Ebola outbreak after death toll climbs](https://www.cnn.com/2026/05/19/africa/ebola-outbreak-drc-uganda-who-chief-intl) | CNN | 2026-05-19T10:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO head ‘deeply concerned’ by Ebola outbreak as cases and deaths rise in DRC](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned) | The Guardian | 2026-05-19T10:00+00:00 | Outbreaks and emerging infections
+- ['Ebola has tortured us': Fear as outbreak spreads faster than first thought](https://www.bbc.co.uk/news/articles/ceqp11gn1l8o) | BBC | 2026-05-19T09:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO awaits six tons of Ebola supplies to Congo as outbreak grows](https://www.reuters.com/business/healthcare-pharmaceuticals/who-awaits-six-tons-ebola-supplies-congo-outbreak-grows-2026-05-19/) | Reuters | 2026-05-19T09:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO ‘deeply concerned’ at the scale of Congo’s Ebola outbreak](https://www.euronews.com/health/2026/05/19/congo-ebola-outbreak-who-deeply-concerned-about-the-scale-and-speed-of-the-epidemic) | Euronews.com | 2026-05-19T09:08+00:00 | Outbreaks and emerging infections
+- [WHO ‘deeply concerned’ at the scale of Congo’s Ebola outbreak](https://www.euronews.com/health/2026/05/19/congo-ebola-outbreak-who-deeply-concerned-about-the-scale-and-speed-of-the-epidemic) | Euronews.com | 2026-05-19T09:08+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Ebola deaths in eastern Congo rise to 131 as outbreak spreads](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-deaths-eastern-congo-rise-131-outbreak-spreads-2026-05-19/) | Reuters | 2026-05-19T09:06+00:00 | Outbreaks and emerging infections
+- [WHO official warns Ebola outbreak unlikely to be over in two months as cases and deaths rise in DRC](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned) | The Guardian | 2026-05-19T09:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [W.H.O. Chief Is ‘Deeply Concerned’ by Speed and Scale of Ebola Outbreak as Cases Rise](https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html) | The New York Times | 2026-05-19T09:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Prompts WHO Meeting, Hunt for Treatments](https://www.bloomberg.com/news/articles/2026-05-19/ebola-outbreak-in-congo-spurs-hunt-for-vaccines-treatments) | Bloomberg.com | 2026-05-19T08:30+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [Ebola death toll in Congo rises to 131 amid concern over lack of vaccine or treatment for current strain](https://www.cbsnews.com/news/ebola-outbreak-bundibugyo-congo-uganda-vaccine-treatment-symptoms/) | CBS News | 2026-05-19T08:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa CDC declares continental emergency over Ebola outbreak](https://www.straitstimes.com/world/africa-cdc-declares-continental-emergency-over-ebola-outbreak?ref\=latest-headlines) | The Straits Times | 2026-05-19T08:15+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [U.S. deploys $13 million, imposes travel restrictions as Ebola outbreak hits DR Congo and Uganda](https://africa.businessinsider.com/local/markets/us-launches-dollar13-million-ebola-response-in-dr-congo-and-uganda-amid-travel/c3h3l10) | Business Insider Africa | 2026-05-19T08:05+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in Africa ‘deeply concerning,’ WHO chief says](https://www.newsnationnow.com/health/ebola-africa-congo-uganda-who/) | NewsNation | 2026-05-19T07:56+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak in Africa ‘deeply concerning,’ WHO chief says](https://www.newsnationnow.com/health/ebola-africa-congo-uganda-who/) | NewsNation | 2026-05-19T07:56+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [US bans travellers from three African countries amid deadly Ebola outbreak](https://www.independent.co.uk/news/health/ebola-outbreak-2026-us-cdc-symptoms-b2978826.html) | The Independent | 2026-05-19T06:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO declares Ebola outbreak in Congo and Uganda a global health emergency, with at least 80 dead](https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/) | CBS News | 2026-05-19T00:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak fuels mounting global alarm as U.S. works to relocate affected Americans](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEdyM2dESHU1YTF2TEZkZmpnaU9EaG5qUDhVaFE2MGUyRVV6T1VBUzJ1aHJtT0V2Nml4VWxOWUhXNUxXeUh4elRWUWZUOVUtOXo5LTRwOXAwbmtMTWtaOUFJSGI0bmhnOVViTzlBZnc3SE1SSld2WnVXNEtTRDBla0c1STBWa25tVy1EeFZKcXBvV0pOVmQyQkJBZ3MyUVU5TDBGeXpRazROUF8wV2xaRGh5M1k2QWtWOHc?oc=5) | NBC News | 2026-05-18T23:36+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak fuels mounting global alarm as U.S. works to relocate affected Americans](https://www.nbcnews.com/world/africa/new-ebola-outbreak-fuels-mounting-global-alarm-us-works-relocate-affec-rcna345633) | NBC News | 2026-05-18T23:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [American tests positive for Ebola as outbreak spreads in Africa](https://www.nbcnews.com/nightly-news/video/american-tests-positive-for-ebola-as-outbreak-spreads-in-africa-263546949620) | NBC News | 2026-05-18T23:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -481,8 +476,6 @@ Search window: 7 day(s) ending 2026-05-19
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) | PubMed Historical Epidemiology
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
-- [Congolese report constant burials as deaths in new Ebola outbreak reach 80](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nazdoYWVkMnpJdTFodjc0bEdvQ1kwMkdWQnlENTFLbFhvR0QzQ1ZYa2F6OXNfOVBxZDFzUGtISDZRZGtyci13OW8zYkU2TnI2RUMxWHQ0R3hvSElVWHBiU1BQeDliQW8ydlA4XzE2MU9aU1VJOFlv?oc=5) | NBC News
-  Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
