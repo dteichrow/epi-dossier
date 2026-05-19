@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-19
-Generated at: 2026-05-19T08:47
+Generated at: 2026-05-19T09:49
 Search window: 7 day(s) ending 2026-05-19
 
 ## Executive scan
@@ -12,22 +12,23 @@ Search window: 7 day(s) ending 2026-05-19
 - [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News; 2026-05-17T13:38+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News; 2026-05-15T16:21+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (32), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (163), Policy, surveillance, and public health infrastructure (40), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News)
-- New publisher/source coverage joined this story cluster: ABC30 Fresno, Anchorage Daily News, Atlanta News First.
-- 3 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: 13newsnow.com, Alaska's News Source, Austin American-Statesman.
+- Story volume increased from 180 to 192 clustered item(s) in the current window.
+- 4 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 180 item(s) across 113 source(s); 4 official/primary-source item(s).
+- Topic size: 192 item(s) across 123 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News, 2026-05-18T14:14+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
-- Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/) (The Washington Post)
+- Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO chief raises alarm as Ebola outbreak deaths climb in Dem. Republic of Congo and Uganda](https://thegrio.com/2026/05/19/who-chief-raises-alarm-ebola-outbreak-congo-uganda/) (TheGrio)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -402,21 +403,35 @@ Search window: 7 day(s) ending 2026-05-19
 
 
 ## Other notable readings
-- [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/) | The Washington Post | 2026-05-19T15:35+00:00 | Outbreaks and emerging infections
+- [WHO chief raises alarm as Ebola outbreak deaths climb in Dem. Republic of Congo and Uganda](https://thegrio.com/2026/05/19/who-chief-raises-alarm-ebola-outbreak-congo-uganda/) | TheGrio | 2026-05-19T16:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/) | The Washington Post | 2026-05-19T16:32+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [As Ebola outbreak spreads in DRC and Uganda, what is risk to US? - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/ebola-outbreak-spreads-drc-uganda-risk-us/story?id\=133065128) | ABC News - Breaking News, Latest News and Videos | 2026-05-19T16:24+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Why the Ebola outbreak is worrying public health officials](https://www.axios.com/2026/05/19/ebola-hantavirus-who-cdc-preparedness-concerns) | Axios | 2026-05-19T16:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola deaths in eastern Congo rise to 131, WHO voices deep concern](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-deaths-eastern-congo-rise-131-outbreak-spreads-2026-05-19/) | Reuters | 2026-05-19T16:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [US warns citizens against travelling to Uganda, DRC, South Sudan over Ebola outbreak](https://citizen.digital/article/us-warns-citizens-against-travelling-to-uganda-drc-south-sudan-over-ebola-outbreak-n383024) | Citizen Digital | 2026-05-19T16:07+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What to Know About the Ebola Outbreak as Cases and Deaths Rise](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-05-19T15:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bahrain halts entry for non-Bahrainis arriving from South Sudan, DRC and Uganda amid Ebola outbreak](https://www.businessupturn.com/sectors/health/bahrain-halts-entry-for-non-bahrainis-arriving-from-south-sudan-drc-and-uganda-amid-ebola-outbreak/) | Business Upturn | 2026-05-19T15:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What you should know about the Ebola outbreak in 2026](https://www.nbcnews.com/health/health-news/ebola-outbreak-2026-bundibugyo-symptoms-how-spread-treatment-what-know-rcna345696) | NBC News | 2026-05-19T15:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola deaths in eastern Congo rise to 131, WHO voices deep concern](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-deaths-eastern-congo-rise-131-outbreak-spreads-2026-05-19/) | Reuters | 2026-05-19T14:30+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak sees 131 suspected deaths in DRC, officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/ebola-outbreak-sees-131-suspected-deaths-drc-officials/story?id\=133099345) | ABC News - Breaking News, Latest News and Videos | 2026-05-19T15:07+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [U.S. Imposes Entry Ban on Travelers from DRC, Uganda and South Sudan as Ebola Deaths Top 130](https://www.democracynow.org/2026/5/19/headlines/us_imposes_entry_ban_on_travelers_from_drc_uganda_and_south_sudan_as_ebola_deaths_top_130) | Democracy Now! | 2026-05-19T14:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What to Know About the Ebola Outbreak as Cases and Deaths Rise](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-05-19T14:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How does Ebola spread? What to know as Congo outbreak worsens](https://www.livenowfox.com/news/how-does-ebola-spread-congo-outbreak-bundibugyo) | LiveNOW from FOX | 2026-05-19T14:22+00:00 | Outbreaks and emerging infections
   What to know as Congo outbreak worsens LiveNOW from FOX
 - ['Ebola has tortured us': Fear as DR Congo outbreak spreads](https://www.bbc.com/news/articles/ceqp11gn1l8o) | BBC | 2026-05-19T14:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [EBOLA OUTBREAK IN DR CONGO Twenty-six more suspected Ebola deaths were recorded in 24 hours in eastern Democratic Republic of Congo, authorities said. | via Reuters](https://www.facebook.com/News5Everywhere/posts/ebola-outbreak-in-dr-congotwenty-six-more-suspected-ebola-deaths-were-recorded-i/1510506047774590/) | facebook.com | 2026-05-19T14:12+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo reports sharp rise in Ebola cases as WHO worries about outbreak’s scale and speed](https://apnews.com/article/congo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517) | AP News | 2026-05-19T13:48+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [WHO concerned about speed and spread of Ebola: How prepared is India at airports?](https://indianexpress.com/article/health-wellness/ebola-alert-health-ministry-airport-screening-surveillance-lab-preparedness-10696700/) | The Indian Express | 2026-05-19T13:30+00:00 | Outbreaks and emerging infections
   Dr Ghebreyesus noted over 500 suspected cases and more than 130 suspected deaths across the Democratic Republic of Congo (DRC) and Uganda. There have been 516 suspected cases and 33 confirmed cases in Congo, according to a daily bulletin published by health authorities, and two confirmed cases in neighbouring Uganda. The Health ministry has reviewed the situation and public health preparedness as a precautionary step although there is no case of Ebola in the country and the current risk remains low.
@@ -424,24 +439,10 @@ Search window: 7 day(s) ending 2026-05-19
   Texas Impact: Ebola outbreak sparks travel rules ahead of World Cup matches FOX 4 News Dallas-Fort Worth
 - [As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?](https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again) | The Guardian | 2026-05-19T13:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak ‘deeply concerning,’ WHO chief says](https://www.newsnationnow.com/health/ebola-africa-congo-uganda-who/) | NewsNation | 2026-05-19T13:13+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak ‘deeply concerning,’ WHO chief says](https://www.newsnationnow.com/health/ebola-africa-congo-uganda-who/) | NewsNation | 2026-05-19T13:13+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Ebola deaths rise sharply as outbreak’s ‘scale and speed’ worry WHO chief](https://www.nbcnews.com/world/africa/ebola-outbreak-deaths-rise-scale-speed-concerns-who-congo-uganda-rcna345833) | NBC News | 2026-05-19T12:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO concerned about 'scale and speed' of Ebola outbreak, with 131 now dead](https://www.cbc.ca/news/health/who-congo-ebola-numbers-rise-9.7203737) | CBC | 2026-05-19T12:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [⚠️ The World Health Organisation has declared the Congo Ebola outbreak a public health emergency of international concern with over 500 suspected cases recorded.](https://www.facebook.com/ManchesterEveningNews/posts/%EF%B8%8F-the-world-health-organisation-has-declared-the-congo-ebola-outbreak-a-public-h/1459036426258718/) | facebook.com | 2026-05-19T12:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO awaits six tons of Ebola supplies to Congo as outbreak grows](https://www.reuters.com/business/healthcare-pharmaceuticals/who-awaits-six-tons-ebola-supplies-congo-outbreak-grows-2026-05-19/) | Reuters | 2026-05-19T12:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-05-19T12:24+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak sees 131 suspected deaths in DRC, officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/ebola-outbreak-sees-131-suspected-deaths-drc-officials/story?id\=133099345) | ABC News - Breaking News, Latest News and Videos | 2026-05-19T12:14+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [U.S. bans foreigners with travel history to DRC, Uganda amid Ebola outbreak](https://gazettengr.com/u-s-bans-foreigners-with-travel-history-to-drc-uganda-amid-ebola-outbreak/) | Peoples Gazette Nigeria | 2026-05-19T12:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Americans exposed to Ebola outbreak in the Congo, CDC says. Here’s how it spreads](https://www.kxan.com/news/national-news/americans-exposed-to-ebola-outbreak-in-the-congo-cdc-says-heres-how-it-spreads/) | KXAN Austin | 2026-05-19T11:23+00:00 | Policy, surveillance, and public health infrastructure
-  Here’s how it spreads KXAN Austin
 
 ## Papers worth saving
 - [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/)
