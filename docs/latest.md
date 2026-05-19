@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-18
-Generated at: 2026-05-18T18:15
+Generated at: 2026-05-18T18:21
 Search window: 7 day(s) ending 2026-05-18
 
 ## Executive scan
@@ -12,30 +12,18 @@ Search window: 7 day(s) ending 2026-05-18
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola outbreak fuels mounting global alarm as U.S. works to relocate affected Americans](https://www.nbcnews.com/world/africa/new-ebola-outbreak-fuels-mounting-global-alarm-us-works-relocate-affec-rcna345633) (NBC News; 2026-05-18T23:36+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (160), Policy, surveillance, and public health infrastructure (24), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (154), Policy, surveillance, and public health infrastructure (25), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News)
-- New publisher/source coverage joined this story cluster: AP News, Anadolu Ajansı, BNO News.
-- Story volume increased from 170 to 175 clustered item(s) in the current window.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
-### Historical epidemiology and ancient pathogens
-- Lead item: [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies)
-- New publisher/source coverage joined this story cluster: The Conversation.
-- Story volume increased from 2 to 3 clustered item(s) in the current window.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
-### COVID-19 and SARS-CoV-2
-- Lead item: [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) (PubMed Infectious Disease Search)
-- The lead item has changed to [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in Guatemala.](https://pubmed.ncbi.nlm.nih.gov/42133835/) from PubMed Infectious Disease Search.
+- New publisher/source coverage joined this story cluster: Channels Television, WTHR, bolnews.com.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 175 item(s) across 118 source(s); 4 official/primary-source item(s).
+- Topic size: 170 item(s) across 113 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News, 2026-05-18T14:14+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [Ebola outbreak fuels mounting global alarm as U.S. works to relocate affected Americans](https://www.nbcnews.com/world/africa/new-ebola-outbreak-fuels-mounting-global-alarm-us-works-relocate-affec-rcna345633) (NBC News)
@@ -45,7 +33,7 @@ Search window: 7 day(s) ending 2026-05-18
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters, 2026-05-18T18:43+00:00)
-- Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.
+- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters); [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) (Reuters); [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
@@ -437,6 +425,8 @@ Search window: 7 day(s) ending 2026-05-18
   Limited detail was available from feed metadata alone.
 - [Health workers race to contain Congo's fast-spreading Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/health-workers-race-respond-congos-fast-spreading-ebola-outbreak-2026-05-18/) | Reuters | 2026-05-18T19:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [The Ebola outbreak started weeks ago, officials believe. Here’s a timeline of what we know](https://apnews.com/article/ebola-outbreak-congo-uganda-disease-who-3c1d951834ddfb91f8a2e41bedefc398) | AP News | 2026-05-18T19:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [American tests positive for Ebola virus amid outbreak in Congo and Uganda: CDC](https://www.cbc.ca/news/health/american-tests-positive-ebola-virus-9.7203382) | CBC | 2026-05-18T19:50+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [CDC announces 30-day travel restrictions in response to Ebola outbreak](https://www.politico.com/news/2026/05/18/cdc-travel-restrictions-ebola-outbreak-00926421) | Politico | 2026-05-18T19:34+00:00 | Outbreaks and emerging infections
@@ -450,8 +440,6 @@ Search window: 7 day(s) ending 2026-05-18
 - [CDC to restrict entry from Ebola outbreak countries](https://www.newsnationnow.com/health/cdc-entry-ebola-countries/) | NewsNation | 2026-05-18T17:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. Tightens Entry Restrictions Amid New Ebola Outbreak Concerns](https://www.devdiscourse.com/article/business/3913268-us-tightens-entry-restrictions-amid-new-ebola-outbreak-concerns) | Devdiscourse | 2026-05-18T16:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [U.S. announces Ebola-related travel restrictions amid outbreak in Congo, Uganda](https://www.cbsnews.com/news/us-ebola-travel-restrictions-outbreak-congo-uganda/) | CBS News | 2026-05-18T16:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
