@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-18
-Generated at: 2026-05-18T21:51
+Generated at: 2026-05-18T22:31
 Search window: 7 day(s) ending 2026-05-18
 
 ## Executive scan
@@ -12,20 +12,19 @@ Search window: 7 day(s) ending 2026-05-18
 - [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News; 2026-05-15T16:21+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies; 2026-05-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology; 2026-05-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (145), Policy, surveillance, and public health infrastructure (23), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (141), Policy, surveillance, and public health infrastructure (26), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Historical epidemiology and ancient pathogens
-- Lead item: [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies)
-- The lead item has changed to [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) from PubMed Historical Pathogen Case Studies.
-- Story volume increased from 3 to 4 clustered item(s) in the current window.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
 ### Ebola virus disease
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News)
-- New publisher/source coverage joined this story cluster: ABC7 Los Angeles, HarianBasis.co, India TV News.
-- 2 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: LatestLY, Newsday, The Telegraph.
+- 6 newly observed linked item(s) were added since the last saved snapshot.
+
+### Hantavirus and cruise-ship outbreak
+- Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters)
+- The lead item has changed to [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) from Reuters.
+- 3 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
@@ -48,7 +47,7 @@ Search window: 7 day(s) ending 2026-05-18
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters, 2026-05-18T18:43+00:00)
-- Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life.
+- Detailed note: Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. Nasdaq 100: Which market won in the last 5 years?
 - Evidence notes: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters); [Fact Check: China has not banned US citizens over hantavirus](https://www.reuters.com/fact-check/china-has-not-banned-us-citizens-over-hantavirus-2026-05-14/) (Reuters); [From 'staged' to Israel: Hantavirus misinformation runs rampant online](https://www.euronews.com/my-europe/2026/05/13/staged-claims-and-israeli-hoaxes-debunking-viral-conspiracy-theories-about-hantavirus) (Euronews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
@@ -56,8 +55,8 @@ Search window: 7 day(s) ending 2026-05-18
 ### Polio and wastewater surveillance
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Gunmen kill 2 police officers assigned to protect polio workers in Pakistan - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/gunmen-kill-2-police-officers-assigned-protect-polio-133069008) (ABC News - Breaking News, Latest News and Videos, 2026-05-18T15:28+00:00)
-- Detailed note: Updated: May 18, 2026 @ 11:30 pm Full Forecast Ottumwa, IA (52501) Today Strong thunderstorms likely. The attacks occurred in two areas of Bajaur, a district in Khyber Pakhtunkhwa province bordering Afghanistan, police officer Zafar Khan said, as Pakistan launched a new campaign across the country to vaccinate 19 million children against polio in an effort to eradicate the crippling disease. More than 200 polio...
-- Evidence notes: [Gunmen kill 2 police officers assigned to protect polio workers in Pakistan - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/gunmen-kill-2-police-officers-assigned-protect-polio-133069008) (ABC News - Breaking News, Latest News and Videos); [Gunmen kill 2 police officers assigned to protect polio workers in Pakistan](https://www.ottumwacourier.com/news/national_news/gunmen-kill-2-police-officers-assigned-to-protect-polio-workers-in-pakistan/article_bb3969a9-d10f-5eea-b031-4ffa76a95308.html) (Ottumwa Courier)
+- Detailed note: The attacks occurred in two areas of Bajaur, a district in Khyber Pakhtunkhwa province bordering Afghanistan, police officer Zafar Khan said, as Pakistan launched a new campaign across the country to vaccinate 19 million children against polio in an effort to eradicate the crippling disease. More than 200 polio workers and police officers assigned to protect them have been killed in Pakistan since the 1990s,...
+- Evidence notes: [Gunmen kill 2 police officers assigned to protect polio workers in Pakistan - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/gunmen-kill-2-police-officers-assigned-protect-polio-133069008) (ABC News - Breaking News, Latest News and Videos); [APTOPIX Pakistan Polio Vaccination](https://www.hjnews.com/world/aptopix-pakistan-polio-vaccination/image_71abce0a-bb07-57b8-8deb-ae4279613252.html) (The Herald Journal)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -408,13 +407,11 @@ Search window: 7 day(s) ending 2026-05-18
 
 
 ## Other notable readings
-- [There are more than 100 Ebola-related deaths in the Democratic Republic of the Congo (Democratic Con..](https://www.mk.co.kr/en/world/12051678) | 매일경제 | 2026-05-18T23:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Doctor who survived Ebola shares concerns about latest outbreak in Central Africa](https://www.pbs.org/newshour/show/doctor-who-survived-ebola-shares-concerns-about-latest-outbreak-in-central-africa) | PBS | 2026-05-18T22:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id=133061121) | ABC News - Breaking News, Latest News and Videos | 2026-05-18T22:10+00:00 | Outbreaks and emerging infections
+- [American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id\=133061121) | ABC News - Breaking News, Latest News and Videos | 2026-05-18T22:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US CDC scrambles to evacuate affected Americans amid deadly Ebola outbreak in DRC](https://www.cnn.com/2026/05/18/world/video/ebola-outbreak-drc-linkedto-100-deaths-digivid-intldsk) | CNN | 2026-05-18T21:21+00:00 | Policy, surveillance, and public health infrastructure
+- [US CDC scrambles to evacuate affected Americans amid deadly Ebola outbreak in DRC](https://www.cnn.com/2026/05/18/world/video/ebola-outbreak-drc-linkedto-100-deaths-digivid-intldsk) | CNN | 2026-05-18T21:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO declares global health emergency over Ebola](https://www.cbsnews.com/detroit/video/who-declares-global-health-emergency-over-ebola/) | CBS News | 2026-05-18T21:18+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
@@ -433,6 +430,8 @@ Search window: 7 day(s) ending 2026-05-18
 - [Ebola outbreak triggers U.S. ban on travelers from three African nations](https://www.scientificamerican.com/article/ebola-outbreak-triggers-u-s-ban-on-travelers-from-three-african-nations/) | Scientific American | 2026-05-18T20:25+00:00 | Outbreaks and emerging infections
   ban on travelers from three African nations Scientific American
 - [WHO declares Ebola outbreak an emergency as CDC restricts travel, confirms US doctor infected](https://www.cidrap.umn.edu/ebola/who-declares-ebola-outbreak-emergency-cdc-restricts-travel-confirms-us-doctor-infected) | cidrap.umn.edu | 2026-05-18T20:24+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What to Know About the Ebola Outbreak, as U.S. Restricts Travelers](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-05-18T20:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [This Ebola outbreak raises questions about when it all began — and the U.S. response](https://www.npr.org/2026/05/18/g-s1-122655/ebola-outbreak-democratic-republic-congo-uganda) | NPR | 2026-05-18T20:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
