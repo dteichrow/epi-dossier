@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-19
-Generated at: 2026-05-19T21:02
+Generated at: 2026-05-19T22:04
 Search window: 7 day(s) ending 2026-05-19
 
 ## Executive scan
@@ -10,33 +10,32 @@ Search window: 7 day(s) ending 2026-05-19
 - [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News; 2026-05-19T11:07+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search; 2026-05-19T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies; 2026-05-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies; 2026-05-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News; 2026-05-17T13:38+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (181), Policy, surveillance, and public health infrastructure (29), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (178), Policy, surveillance, and public health infrastructure (28), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Ebola virus disease
-- Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News)
-- New publisher/source coverage joined this story cluster: 6abc Philadelphia, Doctors Without Borders, Forbes Africa.
-- Story volume increased from 195 to 197 clustered item(s) in the current window.
-- 6 newly observed linked item(s) were added since the last saved snapshot.
-
 ### Avian influenza and H5N1
 - Lead item: [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search)
 - Cambodianess now explicitly uses investigation or monitoring language.
 - Cambodianess now includes deaths or fatal cases in the story frame.
 - 1 newly observed linked item(s) were added since the last saved snapshot.
 
+### Ebola virus disease
+- Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News)
+- New publisher/source coverage joined this story cluster: thehawk.in.
+- 6 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Dengue and arboviruses
 - Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR)
-- New publisher/source coverage joined this story cluster: Outbreak News Today.
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
 - 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 197 item(s) across 130 source(s); 4 official/primary-source item(s).
+- Topic size: 193 item(s) across 124 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News, 2026-05-18T14:14+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO chief concerned over ‘scale and speed’ of Ebola outbreak as Congo reports 134 dead](https://apnews.com/article/congo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517) (AP News)
@@ -50,6 +49,14 @@ Search window: 7 day(s) ending 2026-05-19
 - Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) (Outbreak News Today); [Goa sees decline in dengue cases with health centres stepping up efforts](https://www.msn.com/en-in/news/india/goa-sees-decline-in-dengue-cases-with-health-centres-stepping-up-efforts/ar-AA23cYie?apiversion\=v2\&domshim\=1\&noservercache\=1\&noservertelemetry\=1\&batchservertelemetry\=1\&renderwebcomponents\=1\&wcseo\=1) (MSN); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Historical epidemiology and ancient pathogens
+- Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
+- Lead item: [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies, 2026-05-18T00:00)
+- Detailed note: Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual...
+- Evidence notes: [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies); [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies); [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies); [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -65,14 +72,6 @@ Search window: 7 day(s) ending 2026-05-19
 - Detailed note: Notably, H3N2 subtype AIVs exhibited dual receptor-binding properties, recognizing both SA α-2,3-Gal and SA α-2,6-Gal receptors. That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation...
 - Evidence notes: [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search); [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak](https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak) (Cambodianess)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Historical epidemiology and ancient pathogens
-- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies, 2026-05-18T00:00)
-- Detailed note: Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual...
-- Evidence notes: [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies); [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies); [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) (PubMed Historical Epidemiology)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Miscellaneous signals
@@ -372,6 +371,16 @@ Search window: 7 day(s) ending 2026-05-19
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-05-18T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42154883/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: Over the past 125 years, the country has experienced cyclical outbreaks concentrated in the northeast, where ecological conditions support enzootic transmission among wild rodents and their fleas. While improved surveillance and control have reduced human cases in recent decades, the pathogen's zoonotic nature and potential for rapid spread in a changing climate underscore its enduring public health relevance. Often erroneously considered a medieval relic, the disease persists in natural foci, including Brazil, where it was introduced in 1899 via maritime trade.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-05-18T00:00
@@ -402,18 +411,10 @@ Search window: 7 day(s) ending 2026-05-19
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo
-- Source: ECDC News
-- Date: 2026-05-15T16:21+02:00
-- URL: https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Preliminary laboratory results indicate a non-Zaire ebolavirus species, with further analysis ongoing.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) | ECDC News | 2026-05-15T16:21+02:00 | Policy, surveillance, and public health infrastructure
+  Preliminary laboratory results indicate a non-Zaire ebolavirus species, with further analysis ongoing.
 - [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) | CDC MMWR | 2026-05-14T17:00+00:00 | Occupational and environmental epidemiology
   This report describes survey results from backyard flock owners' attitudes towards avian influenza.
 - [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) | CDC MMWR | 2026-05-14T17:00+00:00 | Occupational and environmental epidemiology
@@ -427,8 +428,6 @@ Search window: 7 day(s) ending 2026-05-19
 - [Details on Ebola outbreak as Americans urged to avoid travel to Congo, Uganda, South Sudan](https://www.cbsnews.com/video/details-on-ebola-outbreak-as-americans-urged-to-avoid-travel-to-congo-uganda-south-sudan/) | CBS News | 2026-05-19T23:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: What to Know About Bundibugyo Virus Symptoms and Spread](https://www.nytimes.com/2026/05/19/well/ebola-bundibugyo-virus-symptoms.html) | The New York Times | 2026-05-19T21:36+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Amid deadly Ebola outbreak in Congo and Uganda, Canada not banning travellers](https://www.cbc.ca/news/canada/ebola-congo-uganda-outbreak-travel-9.7204935) | CBC | 2026-05-19T21:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/) | The Washington Post | 2026-05-19T21:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -452,7 +451,7 @@ Search window: 7 day(s) ending 2026-05-19
   Limited detail was available from feed metadata alone.
 - [United States Responds to Ebola Outbreak in Africa](https://cd.usembassy.gov/united-states-responds-to-ebola-outbreak-in-africa/) | cd.usembassy.gov | 2026-05-19T17:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Why health officials are worried about containing the Ebola outbreak](https://www.axios.com/2026/05/19/ebola-hantavirus-who-cdc-preparedness-concerns) | Axios | 2026-05-19T17:44+00:00 | Outbreaks and emerging infections
+- [WHO chief raises alarm as Ebola outbreak deaths climb in Dem. Republic of Congo and Uganda](https://thegrio.com/2026/05/19/who-chief-raises-alarm-ebola-outbreak-congo-uganda/) | TheGrio | 2026-05-19T16:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -462,6 +461,12 @@ Search window: 7 day(s) ending 2026-05-19
   Journal/preprint server: Virulence
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42154626/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42154626/
+- [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1590/0074-02760250269
+  Journal/preprint server: Memorias do Instituto Oswaldo Cruz
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42154883/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42154883/
 - [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1080/0964704X.2026.2670403
@@ -488,6 +493,8 @@ Search window: 7 day(s) ending 2026-05-19
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42154963/
 
 ## Historical epi / weird epi corner
+- [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) | PubMed Historical Pathogen Case Studies
+  Over the past 125 years, the country has experienced cyclical outbreaks concentrated in the northeast, where ecological conditions support enzootic transmission among wild rodents and their fleas. While improved surveillance and control have reduced human cases in recent decades, the pathogen's zoonotic nature and potential for rapid spread in a changing climate underscore its enduring public health relevance. Often erroneously considered a medieval relic, the disease persists in natural foci, including Brazil, where it was introduced in 1899 via maritime trade.
 - [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) | PubMed Historical Pathogen Case Studies
   They once guided clinicians in recognizing tabes dorsalis before Treponema pallidum was identified, and they remain useful when access to laboratory testing is limited or when patients present late with established deficits. This article examines the neurologic signs historically linked to tabes dorsalis and assesses their relevance in today's neurosyphilis diagnostics. These signs point to a characteristic pattern of sensory impairment-patchy loss of pain perception with absent deep-tendon reflexes-reflecting involvement of the dorsal roots, posterior columns, and peripheral sensory fibers.
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) | PubMed Historical Pathogen Case Studies
