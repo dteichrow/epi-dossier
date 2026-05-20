@@ -1,49 +1,41 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-20
-Generated at: 2026-05-20T10:20
+Generated at: 2026-05-20T11:21
 Search window: 7 day(s) ending 2026-05-20
 
 ## Executive scan
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1345: Salmonella Richmond linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 19, May 4 to 10 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-19-may-4-10) (WHO Regional Office for Africa; 2026-05-19T22:30+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR; 2026-05-19T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa; 2026-05-19T10:43+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News; 2026-05-19T11:07+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies; 2026-05-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (198), Policy, surveillance, and public health infrastructure (32), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (196), Policy, surveillance, and public health infrastructure (31), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- New official source(s) joined this story cluster: Texas Department of State Health Services News.
-- 5 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: 5newsonline.com, Africa Sustainability Matters, Channels Television.
+- 3 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 215 item(s) across 141 source(s); 6 official/primary-source item(s).
+- Topic size: 214 item(s) across 139 source(s); 6 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-05-20T06:12+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 6 item(s) across 5 source(s); 2 official/primary-source item(s).
-- Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR, 2026-05-19T17:00+00:00)
-- Detailed note: Recommendations and Reports / May 21, 2026 / 75(1);1â14 Nikhil Ranadive, MD 1 ,2 ,3 ; Joel L.N. Ridpath, MD 2 ( View author affiliations ) Guidance for Enhanced Investigation for Suspected Autochthonous Malaria Transmission During 2023, 10 cases of locally acquired mosquito-transmitted (autochthonous) malaria were reported to CDC from four U.S. This report describes an increase in dengue cases reported during 2024.
-- Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Sonora leads Mexican states for number of dengue cases](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVBWZm9sUkh2TExLNE9qT3ItamM5cmxhcHBfUmhKM2hzMUx0Q3MxcnRPMGNiVFlTdnZMZFdYbjBLeFNBRThfblpBbWM1ZzVmeXE2cmtvUGFidlBiSHJLY3Q0bmY2RF8xUDc2SXdUeXNQZjh4TUR3NDN2RzVVX0MxSU9lemR4MUhYaElXRkhzdmNKUGZUZHRQQUtpRGp6cWFuMTFV?oc=5) (KJZZ); [CDC: 3798 Dengue Cases Reported in United States in 2024](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2dXdlpqMzA5VjVJS2FGb0JWRHBLVHdOS2lFNUUweDFNLWdTYklrX3JwWHc2V0lXV1dSOTZjanRKLWN6QmdkUnVacEEtMkhYa2NtcDRUTUowTmpObEVWN0RiaV9xM2l3eGpGMThrUzdEOTdqT0pDb0Q2VzU1aXhIQXA3R3JCYlpZaUJobmZKUVhqalRBWmpz?oc=5) (Vaccine Advisor); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Miscellaneous signals
-- Topic size: 4 item(s) across 4 source(s); 3 official/primary-source item(s).
-- Lead item: [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search, 2026-05-20T00:00)
+- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-20T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa); [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News); [India Strengthens Ebola Screening, Centre Holds High-Level Review Meet After WHO Alert](https://www.ndtv.com/health/india-strengthens-ebola-screening-centre-holds-high-level-review-meet-after-who-alert-11524539) (NDTV)
+- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1345: Salmonella Richmond linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025) (FDA Foodborne Outbreaks)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -70,6 +62,14 @@ Search window: 7 day(s) ending 2026-05-20
 - Evidence notes: [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) (Devdiscourse); [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
+### Hantavirus and cruise-ship outbreak
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters, 2026-05-18T17:22+00:00)
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters); [Argentina Races to Find Origin of Hantavirus Contagion](https://www.nytimes.com/2026/05/14/world/americas/hantavirus-cruise-ship-argentina.html) (The New York Times)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -310,6 +310,56 @@ Search window: 7 day(s) ending 2026-05-20
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-05-20T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1369 with date posted 3/16/2026. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Raw Cheddar Cheese.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-05-20T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1358 with date posted 1/14/2026. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Moringa Leaf Powder.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-05-20T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1365 with date posted 2/11/2026. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Moringa Powder.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-05-20T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1350 with date posted 11/8/2025. Outbreak or event status: Ended See Advisory. Pathogen or cause of illness: Clostridium botulinum.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1345: Salmonella Richmond linked to Moringa Leaf Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-05-20T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1345 with date posted 10/16/2025. Outbreak or event status: Ended See Advisory. Pathogen or cause of illness: Salmonella Richmond.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.
 - Source: PubMed Infectious Disease Search
 - Date: 2026-05-20T00:00
@@ -326,36 +376,6 @@ Search window: 7 day(s) ending 2026-05-20
 - URL: https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-19-may-4-10
 - Category: Outbreaks and emerging infections
 - Summary: Cumulatively from weeks 1 to 19, the WHO AFR influenza laboratory network has tested 25,293 sentinel surveillance specimens for SARS-CoV-2, of which 785 were positive for SARS-CoV-2 (cumulative positivity rate 3.1%). SARS-CoV-2 In Epiweek 19, of the 908 specimens processed by 12 laboratories in the African Region, a total of 18 specimens tested positive for SARS-CoV-2 (positivity of 2%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 4), Influenza A (H3) (n = 19), Influenza A (subtyping not performed) (n = 36), Influenza B (lineage not determined) (n = 3), and Influenza B (Victoria) (n = 24).
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria
-- Source: CDC MMWR
-- Date: 2026-05-19T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596
-- Category: Occupational and environmental epidemiology
-- Summary: Recommendations and Reports / May 21, 2026 / 75(1);1â14 Nikhil Ranadive, MD 1 ,2 ,3 ; Joel L.N. Ridpath, MD 2 ( View author affiliations ) Guidance for Enhanced Investigation for Suspected Autochthonous Malaria Transmission During 2023, 10 cases of locally acquired mosquito-transmitted (autochthonous) malaria were reported to CDC from four U.S. states after a 20-year period with no autochthonous cases.
-- Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Tanzania National Oral Health Strategic Plan 2026-2031
-- Source: WHO Regional Office for Africa
-- Date: 2026-05-19T10:43+00:00
-- URL: https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031
-- Category: Outbreaks and emerging infections
-- Summary: Guided by principles of professionalism, ethics, quality, innovation, equity, accountability, integrity, and affordability, the strategy focuses on six key priority areas: strengthening leadership and governance; enhancing human resources for oral health; improving the availability of commodities and equipment; expanding oral health promotion and disease prevention; upgrading oral healthcare services and infrastructure; and strengthening surveillance, monitoring, and research systems. Developed by the Ministry of Health in alignment with national health priorities and the WHO Global Strategy on Oral Health 2023–2030, the plan responds to the growing burden of oral diseases and builds on lessons and unfinished priorities from previous strategic plans. Implementation of the plan will be coordinated through national and sub-national health structures, supported by partnerships, resource mobilization, and routine monitoring and evaluation mechanisms.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults
-- Source: ECDC News
-- Date: 2026-05-19T11:07+02:00
-- URL: https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: On 6 March 2026, the European Centre for Disease Prevention and Control (ECDC) launched a call for experts to join a new Scientific Expert Panel (SEP) to support the...
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -380,49 +400,39 @@ Search window: 7 day(s) ending 2026-05-20
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-05-18T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42148461/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: They once guided clinicians in recognizing tabes dorsalis before Treponema pallidum was identified, and they remain useful when access to laboratory testing is limited or when patients present late with established deficits. This article examines the neurologic signs historically linked to tabes dorsalis and assesses their relevance in today's neurosyphilis diagnostics. These signs point to a characteristic pattern of sensory impairment-patchy loss of pain perception with absent deep-tendon reflexes-reflecting involvement of the dorsal roots, posterior columns, and peripheral sensory fibers.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring
-- Source: ECDC News
-- Date: 2026-05-17T13:38+02:00
-- URL: https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) | PubMed Historical Pathogen Case Studies | 2026-05-18T00:00 | Historical epidemiology / ancient disease / paleopathology
+  They once guided clinicians in recognizing tabes dorsalis before Treponema pallidum was identified, and they remain useful when access to laboratory testing is limited or when patients present late with established deficits. This article examines the neurologic signs historically linked to tabes dorsalis and assesses their relevance in today's neurosyphilis diagnostics. These signs point to a characteristic pattern of sensory impairment-patchy loss of pain perception with absent deep-tendon reflexes-reflecting involvement of the dorsal roots, posterior columns, and peripheral sensory fibers.
+- [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) | ECDC News | 2026-05-17T13:38+02:00 | Policy, surveillance, and public health infrastructure
+  On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) | WHO Regional Office for Africa | 2026-05-15T18:57+00:00 | Outbreaks and emerging infections
   * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in 2007 in Bundibugyo district in western Uganda, during which 131 cases were reported with 42 deaths (case fatality rate of 32%). Laboratory analysis conducted by the National Institute of Biomedical Research (INRB), the country’s reference laboratory in the capital Kinshasa, confirmed the Ebola outbreak caused by the Bundibugyo species in 8 of 13 samples* collected from suspected cases linked to a cluster of severe illness and deaths reported in Mongbwalu and Rwampara health zones in Ituri Province.
 - [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) | ECDC News | 2026-05-15T16:21+02:00 | Policy, surveillance, and public health infrastructure
   Preliminary laboratory results indicate a non-Zaire ebolavirus species, with further analysis ongoing.
-- [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) | CDC MMWR | 2026-05-14T17:00+00:00 | Occupational and environmental epidemiology
-  This report describes an increase in dengue cases reported during 2024.
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) | PubMed Historical Pathogen Case Studies | 2026-05-14T00:00 | Historical epidemiology / ancient disease / paleopathology
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [What to know about Ebola and how it spreads, as the outbreak widens](https://www.washingtonpost.com/health/2026/05/20/what-know-about-ebola-how-it-spreads-outbreak-widens/) | The Washington Post | 2026-05-20T18:10+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [American doctor who survived Ebola warns of new outbreak](https://www.newsnationnow.com/health/doctor-who-survived-ebola/) | NewsNation | 2026-05-20T18:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Analysis of past Ebola outbreaks suggests 54% death rate, identifies hemorrhage as key risk factor](https://www.cidrap.umn.edu/ebola/analysis-past-ebola-outbreaks-suggests-54-death-rate-identifies-hemorrhage-key-risk-factor) | cidrap.umn.edu | 2026-05-20T18:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [CNN speaks to DRC official about Ebola outbreak](https://www.cnn.com/2026/05/20/world/video/ebola-outbreak-patrick-muyaya-katembwe-intv-052011aseg1-cnni-world-fast) | CNN | 2026-05-20T17:34+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola likely circulating in Congo for two months, outbreak to grow, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/) | Reuters | 2026-05-20T17:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO says risk of global spread of Ebola outbreak is low, but high at national, regional levels](https://www.washingtonpost.com/world/2026/05/20/congo-uganda-ebola-who-spread/f74612fc-542f-11f1-9c40-7a0a12d9e745_story.html) | The Washington Post | 2026-05-20T16:40+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says](https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html) | The New York Times | 2026-05-20T16:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Opens Old Wounds About ‘Saving Africans’](https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html) | The New York Times | 2026-05-20T16:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What to know about Ebola and how it spreads, as the outbreak widens](https://www.washingtonpost.com/health/2026/05/20/what-know-about-ebola-how-it-spreads-outbreak-widens/) | The Washington Post | 2026-05-20T16:04+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak Is Unlikely to Become Global Threat, W.H.O. Head Says](https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html) | The New York Times | 2026-05-20T15:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak is a regional public health emergency](https://www.cnn.com/2026/05/20/world/video/ebola-lancet-spiegel-martinez-intv-ctw-052010aseg2-cnni-world-fast) | CNN | 2026-05-20T15:49+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO says risk of global spread of Ebola outbreak is low, but high at national, regional levels](https://www.washingtonpost.com/world/2026/05/20/congo-uganda-ebola-who-spread/f74612fc-542f-11f1-9c40-7a0a12d9e745_story.html) | The Washington Post | 2026-05-20T15:48+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Video: World Health Organization Defends Its Ebola Outbreak Response](https://www.nytimes.com/video/world/africa/100000010915385/ebola-who-tedros-rubio-congo.html) | The New York Times | 2026-05-20T15:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -431,16 +441,6 @@ Search window: 7 day(s) ending 2026-05-20
 - [Ebola outbreak in DR Congo: WHO says Ebola vaccine could take nine months](https://www.bbc.com/news/articles/cwy2g197dp8o) | BBC | 2026-05-20T15:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What to know about the Bundibugyo virus, a species of Ebola causing an outbreak in Congo](https://apnews.com/article/ebola-bundibugyo-virus-outbreak-congo-baf5f9861a896ca027a9e40524d42e74) | AP News | 2026-05-20T14:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-05-20T14:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak: How dangerous is the new strain in DR Congo?](https://www.bbc.com/audio/play/w3ct991y) | BBC | 2026-05-20T14:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) | Devdiscourse | 2026-05-20T14:21+00:00 | Outbreaks and emerging infections
-  The comments by UNICEF representative in Dhaka Rana Flowers came on a day government data showed that there were 481 deaths since March due to measles or its symptoms as of date even as the viral disease claimed six children in the past 24 hours while 1,270 others were diagnosed afresh with symptoms. ''We raised concerns over the vaccine shortage in at least 10 meetings with the government since 2024, alongside sending five to six formal letters,'' UNICEF's Flowers told a press conference on the measles issue here. ''From 2024, we were warning the government that the shortage of vaccines could lead to an outbreak,'' she said.
-- [Latest news on Ebola outbreak as experts warn about misinformation online](https://www.cbsnews.com/video/latest-news-on-ebola-outbreak-as-experts-warn-about-misinformation-online/) | CBS News | 2026-05-20T13:53+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kenya activates Ebola response as Uganda, DRC outbreak sparks border surveillance](https://nation.africa/kenya/news/kenya-activates-ebola-response-5466646) | Daily Nation | 2026-05-20T13:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -484,7 +484,6 @@ Search window: 7 day(s) ending 2026-05-20
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
 
 ## Possible blog/video angles
-- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
