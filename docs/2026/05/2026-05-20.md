@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-20
-Generated at: 2026-05-20T12:21
+Generated at: 2026-05-20T13:23
 Search window: 7 day(s) ending 2026-05-20
 
 ## Executive scan
@@ -12,20 +12,25 @@ Search window: 7 day(s) ending 2026-05-20
 - [FDA outbreak investigation 1345: Salmonella Richmond linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 19, May 4 to 10 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-19-may-4-10) (WHO Regional Office for Africa; 2026-05-19T22:30+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (201), Policy, surveillance, and public health infrastructure (32), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (203), Policy, surveillance, and public health infrastructure (30), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Unicef warned Bangladesh over measles vaccine shortage](https://theindianawaaz.com/unicef-warned-bangladesh-over-measles-vaccine-shortage/) (The Indian Awaaz)
+- New publisher/source coverage joined this story cluster: CBS News, The Indian Awaaz.
+- The lead item has changed to [Unicef warned Bangladesh over measles vaccine shortage](https://theindianawaaz.com/unicef-warned-bangladesh-over-measles-vaccine-shortage/) from The Indian Awaaz.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: Ars Technica, Bhaskar English, Business Today.
-- Story volume increased from 215 to 220 clustered item(s) in the current window.
-- 4 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: Americares, Anadolu Ajansı, Daily Nation.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 220 item(s) across 147 source(s); 6 official/primary-source item(s).
+- Topic size: 220 item(s) across 146 source(s); 6 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-05-20T06:12+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News)
@@ -33,12 +38,20 @@ Search window: 7 day(s) ending 2026-05-20
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
+- Topic size: 6 item(s) across 2 source(s); 6 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-20T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1345: Salmonella Richmond linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025) (FDA Foodborne Outbreaks)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Measles transmission and vaccination
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Unicef warned Bangladesh over measles vaccine shortage](https://theindianawaaz.com/unicef-warned-bangladesh-over-measles-vaccine-shortage/) (The Indian Awaaz, 2026-05-20T18:07+00:00)
+- Detailed note: Last Updated on May 20, 2026 7:42 pm by INDIAN AWAAZ Unicef has said Bangladesh faced a prolonged shortage of routine measles vaccines last year despite repeated warnings, noting that delays in supply worsened the situation even after at least 10 alerts were issued to the interim government led by Nobel laureate Muhammad Yunus, since 2024. According to Unicef, Bangladesh received 1.78 crore doses of measles...
+- Evidence notes: [Unicef warned Bangladesh over measles vaccine shortage](https://theindianawaaz.com/unicef-warned-bangladesh-over-measles-vaccine-shortage/) (The Indian Awaaz); [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News); [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -55,14 +68,6 @@ Search window: 7 day(s) ending 2026-05-20
 - Evidence notes: [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies); [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies); [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
-
-### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Unicef warned Bangladesh over measles vaccine shortage](https://theindianawaaz.com/unicef-warned-bangladesh-over-measles-vaccine-shortage/) (The Indian Awaaz, 2026-05-20T14:12+00:00)
-- Detailed note: Last Updated on May 20, 2026 7:42 pm by INDIAN AWAAZ Unicef has said Bangladesh faced a prolonged shortage of routine measles vaccines last year despite repeated warnings, noting that delays in supply worsened the situation even after at least 10 alerts were issued to the interim government led by Nobel laureate Muhammad Yunus, since 2024. According to Unicef, Bangladesh received 1.78 crore doses of measles...
-- Evidence notes: [Unicef warned Bangladesh over measles vaccine shortage](https://theindianawaaz.com/unicef-warned-bangladesh-over-measles-vaccine-shortage/) (The Indian Awaaz); [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -415,33 +420,33 @@ Search window: 7 day(s) ending 2026-05-20
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Ebola likely circulating in Congo for two months, outbreak to grow, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/) | Reuters | 2026-05-20T19:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [What to know about Ebola and how it spreads, as the outbreak widens](https://www.washingtonpost.com/health/2026/05/20/what-know-about-ebola-how-it-spreads-outbreak-widens/) | The Washington Post | 2026-05-20T19:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DRC cancel World Cup training camp and fan event due to Ebola outbreak](https://www.theguardian.com/football/2026/may/20/drc-cancel-world-cup-training-camp-ebola-outbreak) | The Guardian | 2026-05-20T18:55+00:00 | Outbreaks and emerging infections
+- [DR Congo cancels pre-World Cup camp due to Ebola outbreak, FIFA ‘monitoring’ situation](https://www.nytimes.com/athletic/7295322/2026/05/20/dr-congo-world-cup-ebola/) | The New York Times | 2026-05-20T19:01+00:00 | Outbreaks and emerging infections
+  The World Health Organisation has called it “a public health emergency of international concern” with 139 suspected deaths and over 600 cases due to the disease, per the BBC . DR Congo have confirmed that they have moved the camp to Belgium, where they are due to play Denmark on June 3, with a further pre-tournament fixture in Spain on June 9. Simon Barber/Getty Images DR Congo have cancelled their pre-World Cup training camp in the capital Kinshasa due to the Ebola outbreak in the country.
+- [DRC cancel World Cup training camp and fan event due to Ebola outbreak](https://www.theguardian.com/football/2026/may/20/drc-cancel-world-cup-training-camp-ebola-outbreak) | The Guardian | 2026-05-20T18:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [American doctor who survived Ebola warns of new outbreak](https://www.newsnationnow.com/health/doctor-who-survived-ebola/) | NewsNation | 2026-05-20T18:06+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Unicef warned Bangladesh over measles vaccine shortage](https://theindianawaaz.com/unicef-warned-bangladesh-over-measles-vaccine-shortage/) | The Indian Awaaz | 2026-05-20T18:07+00:00 | Outbreaks and emerging infections
+  Last Updated on May 20, 2026 7:42 pm by INDIAN AWAAZ Unicef has said Bangladesh faced a prolonged shortage of routine measles vaccines last year despite repeated warnings, noting that delays in supply worsened the situation even after at least 10 alerts were issued to the interim government led by Nobel laureate Muhammad Yunus, since 2024. According to Unicef, Bangladesh received 1.78 crore doses of measles vaccines between August and November 2025, only about one-third of the country’s annual requirement of nearly 7 crore doses, leading to prolonged disruption in routine immunisation. “The prolonged disruption in routine immunisation left many children without vaccination coverage, increasing the risk of measles transmission and contributing to a large-scale outbreak,” the agency said.
 - [In the shadow of Ebola: Scenes from the outbreak zones](https://www.reuters.com/pictures/shadow-ebola-scenes-outbreak-zones-2026-05-20/) | Reuters | 2026-05-20T18:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [CNN speaks to DRC official about Ebola outbreak](https://www.cnn.com/2026/05/20/world/video/ebola-outbreak-patrick-muyaya-katembwe-intv-052011aseg1-cnni-world-fast) | CNN | 2026-05-20T17:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola likely circulating in Congo for two months, outbreak to grow, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/) | Reuters | 2026-05-20T17:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says risk of global spread of Ebola outbreak is low, but high at national, regional levels](https://www.washingtonpost.com/world/2026/05/20/congo-uganda-ebola-who-spread/f74612fc-542f-11f1-9c40-7a0a12d9e745_story.html) | The Washington Post | 2026-05-20T16:40+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Opens Old Wounds About ‘Saving Africans’](https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html) | The New York Times | 2026-05-20T16:31+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says](https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html) | The New York Times | 2026-05-20T16:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak is a regional public health emergency](https://www.cnn.com/2026/05/20/world/video/ebola-lancet-spiegel-martinez-intv-ctw-052010aseg2-cnni-world-fast) | CNN | 2026-05-20T15:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video: World Health Organization Defends Its Ebola Outbreak Response](https://www.nytimes.com/video/world/africa/100000010915385/ebola-who-tedros-rubio-congo.html) | The New York Times | 2026-05-20T15:34+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) | CBS News | 2026-05-20T15:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US Ebola Spending Fell 99% in Five Years Leading Up to Outbreak](https://www.bloomberg.com/news/articles/2026-05-20/us-ebola-spending-fell-99-in-five-years-leading-up-to-outbreak) | Bloomberg.com | 2026-05-20T15:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Vaccine to tackle Ebola outbreak will take six to nine months, says WHO](https://www.theguardian.com/world/2026/may/20/vaccine-bundibugyo-ebola-outbreak-six-to-nine-months-who) | The Guardian | 2026-05-20T15:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo: WHO says Ebola vaccine could take nine months](https://www.bbc.com/news/articles/cwy2g197dp8o) | BBC | 2026-05-20T15:18+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What to know about the Bundibugyo virus, a species of Ebola causing an outbreak in Congo](https://apnews.com/article/ebola-bundibugyo-virus-outbreak-congo-baf5f9861a896ca027a9e40524d42e74) | AP News | 2026-05-20T14:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
