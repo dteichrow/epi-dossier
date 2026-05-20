@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-20
-Generated at: 2026-05-20T06:14
+Generated at: 2026-05-20T06:16
 Search window: 7 day(s) ending 2026-05-20
 
 ## Executive scan
@@ -12,26 +12,18 @@ Search window: 7 day(s) ending 2026-05-20
 - [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News; 2026-05-19T11:07+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies; 2026-05-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (198), Policy, surveillance, and public health infrastructure (36), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (196), Policy, surveillance, and public health infrastructure (34), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- The Guardian now foregrounds vaccination or vaccine policy in the story.
-- New publisher/source coverage joined this story cluster: Anadolu Ajansı, DNP India, KOMO.
-- Story volume increased from 217 to 221 clustered item(s) in the current window.
-- 5 newly observed linked item(s) were added since the last saved snapshot.
-
-### Dengue and arboviruses
-- Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR)
-- New publisher/source coverage joined this story cluster: KJZZ.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: Bhaskar English, CNBC Africa, Condé Nast Traveller Middle East.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 221 item(s) across 144 source(s); 5 official/primary-source item(s).
+- Topic size: 217 item(s) across 142 source(s); 5 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-05-20T06:12+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News)
@@ -439,10 +431,10 @@ Search window: 7 day(s) ending 2026-05-20
   Limited detail was available from feed metadata alone.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-05-20T08:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO weighs experimental vaccines as Congo Ebola outbreak spirals past 500 suspected cases](https://africa.businessinsider.com/lifestyle/who-considers-experimental-vaccines-as-congo-ebola-outbreak-worsens/gx7bq9r) | Business Insider Africa | 2026-05-20T07:48+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Singapore, Asian nations step up Ebola screening after WHO declares global health emergency](https://www.businesstimes.com.sg/international/global/singapore-asian-nations-step-ebola-screening-after-who-declares-global-health-emergency) | The Business Times | 2026-05-20T07:10+00:00 | Outbreaks and emerging infections
   No cases have been publicly confirmed in Asia More than 540 suspected cases and dozens of deaths linked to Ebola have been reported since the outbreak started in late April. Several governments have expanded screening and reporting requirements for travellers arriving from affected countries, though officials say the likelihood of local transmission remains low, and no cases have been publicly confirmed in Asia. The agency is âclosely monitoringâ the outbreak and will instruct travellers arriving from affected destinations to watch for Ebola symptoms for 21 days if unwell, it wrote in a statement.
+- [Liberia: Dr. Nyan Sounds Alarm as New Ebola Outbreak Emerges in DR Congo](https://frontpageafricaonline.com/health/liberia-dr-nyan-sounds-alarm-as-new-ebola-outbreak-emerges-in-dr-congo/) | FrontPageAfrica | 2026-05-20T06:46+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [US Commits Ksh1.68 Billion as It Moves to Establish 50 Clinics After Ebola Outbreak](https://nairobileo.co.ke/news/article/27653/us-commits-ksh168-billion-as-it-moves-to-establish-50-clinics-after-ebola-outbreak) | Nairobi Leo | 2026-05-20T06:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Rwanda tightens border controls over deadly Ebola outbreak In DR Congo](https://www.africanews.com/amp/2026/05/20/rwanda-tightens-border-controls-over-deadly-ebola-outbreak-in-dr-congo/) | africanews.com | 2026-05-20T06:07+00:00 | Outbreaks and emerging infections
