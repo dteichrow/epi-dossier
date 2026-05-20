@@ -1,6 +1,17 @@
 {
   "entries": [
     {
+      "date": "2026-05-20",
+      "day": "20",
+      "html_url": "2026/05/2026-05-20.html",
+      "html_web_path": "2026/05/2026-05-20.html",
+      "markdown_url": "2026/05/2026-05-20.md",
+      "markdown_web_path": "2026/05/2026-05-20.md",
+      "month": "05",
+      "month_name": "May",
+      "year": 2026
+    },
+    {
       "date": "2026-05-19",
       "day": "19",
       "html_url": "2026/05/2026-05-19.html",
@@ -166,7 +177,7 @@
       "year": 2026
     }
   ],
-  "generated_at": "2026-05-19T23:04:37",
+  "generated_at": "2026-05-20T00:04:53",
   "latest": {
     "html_url": "latest.html",
     "html_web_path": "latest.html",
