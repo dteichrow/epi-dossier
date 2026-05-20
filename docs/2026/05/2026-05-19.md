@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-19
-Generated at: 2026-05-19T19:00
+Generated at: 2026-05-19T20:02
 Search window: 7 day(s) ending 2026-05-19
 
 ## Executive scan
@@ -12,19 +12,32 @@ Search window: 7 day(s) ending 2026-05-19
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies; 2026-05-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News; 2026-05-17T13:38+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (175), Policy, surveillance, and public health infrastructure (29), Occupational and environmental epidemiology (3)
+- Category mix: Outbreaks and emerging infections (179), Policy, surveillance, and public health infrastructure (29), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Avian influenza and H5N1
+- Lead item: [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search)
+- Cambodianess now explicitly uses investigation or monitoring language.
+- Cambodianess now includes deaths or fatal cases in the story frame.
+- New publisher/source coverage joined this story cluster: Cambodianess.
+- Story volume increased from 2 to 3 clustered item(s) in the current window.
+
 ### Ebola virus disease
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News)
-- New publisher/source coverage joined this story cluster: Anadolu Ajansı, McGill University, OkayAfrica.
+- New publisher/source coverage joined this story cluster: Ars Technica, Daily Herald, Everett Post.
+- Story volume increased from 192 to 195 clustered item(s) in the current window.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
+
+### Dengue and arboviruses
+- Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR)
+- New publisher/source coverage joined this story cluster: Ground Report.
 - 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 192 item(s) across 126 source(s); 4 official/primary-source item(s).
+- Topic size: 195 item(s) across 128 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News, 2026-05-18T14:14+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News); [WHO chief concerned over ‘scale and speed’ of Ebola outbreak as Congo reports 134 dead](https://apnews.com/article/congo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517) (AP News)
@@ -34,8 +47,8 @@ Search window: 7 day(s) ending 2026-05-19
 ### Dengue and arboviruses
 - Topic size: 6 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR, 2026-05-19T17:00+00:00)
-- Detailed note: Recommendations and Reports / May 21, 2026 / 75(1);1â14 Nikhil Ranadive, MD 1 ,2 ,3 ; Joel L.N. Ridpath, MD 2 ( View author affiliations ) Guidance for Enhanced Investigation for Suspected Autochthonous Malaria Transmission During 2023, 10 cases of locally acquired mosquito-transmitted (autochthonous) malaria were reported to CDC from four U.S. In a follow-up on the dengue fever situation in Sri Lanka this...
-- Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Sri Lanka reports increase in dengue in 2026](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-increase-in-dengue) (Outbreak News Today); [Goa sees decline in dengue cases with health centres stepping up efforts](https://www.msn.com/en-in/news/india/goa-sees-decline-in-dengue-cases-with-health-centres-stepping-up-efforts/ar-AA23cYie?apiversion\=v2\&domshim\=1\&noservercache\=1\&noservertelemetry\=1\&batchservertelemetry\=1\&renderwebcomponents\=1\&wcseo\=1) (MSN); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb)
+- Detailed note: Recommendations and Reports / May 21, 2026 / 75(1);1â14 Nikhil Ranadive, MD 1 ,2 ,3 ; Joel L.N. Ridpath, MD 2 ( View author affiliations ) Guidance for Enhanced Investigation for Suspected Autochthonous Malaria Transmission During 2023, 10 cases of locally acquired mosquito-transmitted (autochthonous) malaria were reported to CDC from four U.S. This report describes an increase in dengue cases reported during 2024.
+- Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Dengue Has Killed 14 in Sri Lanka, Monsoon Season Just Began](https://www.groundreport.in/latest/dengue-has-killed-14-in-sri-lanka-monsoon-season-just-began/) (Ground Report); [Goa sees decline in dengue cases with health centres stepping up efforts](https://www.msn.com/en-in/news/india/goa-sees-decline-in-dengue-cases-with-health-centres-stepping-up-efforts/ar-AA23cYie?apiversion\=v2\&domshim\=1\&noservercache\=1\&noservertelemetry\=1\&batchservertelemetry\=1\&renderwebcomponents\=1\&wcseo\=1) (MSN); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -46,6 +59,14 @@ Search window: 7 day(s) ending 2026-05-19
 - Evidence notes: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 19, May 4 to 10 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-19-may-4-10) (WHO Regional Office for Africa); [Safety of COVID-19 mRNA-1273 booster doses in Asian populations: A literature review of post-marketing observational studies.](https://pubmed.ncbi.nlm.nih.gov/42154963/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Avian influenza and H5N1
+- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Lead item: [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search, 2026-05-19T00:00)
+- Detailed note: Notably, H3N2 subtype AIVs exhibited dual receptor-binding properties, recognizing both SA α-2,3-Gal and SA α-2,6-Gal receptors. That earlier case revealed familiar risk factors: close contact with backyard poultry, including chickens and ducks that had recently fallen ill or died. The latest patient, a 66-year-old woman from Svay Rieng province, tested positive for the virus on April 21 and is now in isolation...
+- Evidence notes: [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search); [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR); [Cambodia Confirms 4th H5N1 Case in 2026, Raising Fears of Wider Outbreak](https://www.cambodianess.com/article/cambodia-confirms-4th-h5n1-case-in-2026-raising-fears-of-wider-outbreak) (Cambodianess)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
@@ -61,14 +82,6 @@ Search window: 7 day(s) ending 2026-05-19
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa); [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Avian influenza and H5N1
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search, 2026-05-19T00:00)
-- Detailed note: Notably, H3N2 subtype AIVs exhibited dual receptor-binding properties, recognizing both SA α-2,3-Gal and SA α-2,6-Gal receptors. Overall, these findings indicate that H3 subtype AIVs have the potential for cross-species transmission and highlight the importance of continued surveillance of H3 subtype AIVs circulating in nature. This report describes survey results from backyard flock owners' attitudes towards...
-- Evidence notes: [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search); [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) (CDC MMWR)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
@@ -414,8 +427,6 @@ Search window: 7 day(s) ending 2026-05-19
   Limited detail was available from feed metadata alone.
 - [Details on Ebola outbreak as Americans urged to avoid travel to Congo, Uganda, South Sudan](https://www.cbsnews.com/video/details-on-ebola-outbreak-as-americans-urged-to-avoid-travel-to-congo-uganda-south-sudan/) | CBS News | 2026-05-19T23:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Relief group says Trump cuts ‘led to delayed detection of deadly Ebola outbreak’](https://www.politico.com/news/2026/05/19/relief-group-says-trump-cuts-forced-it-to-scale-back-surveillance-in-ebola-affected-region-00928578) | Politico | 2026-05-19T22:21+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: What to Know About Bundibugyo Virus Symptoms and Spread](https://www.nytimes.com/2026/05/19/well/ebola-bundibugyo-virus-symptoms.html) | The New York Times | 2026-05-19T21:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Amid deadly Ebola outbreak in Congo and Uganda, Canada not banning travellers](https://www.cbc.ca/news/canada/ebola-congo-uganda-outbreak-travel-9.7204935) | CBC | 2026-05-19T21:29+00:00 | Outbreaks and emerging infections
@@ -441,6 +452,8 @@ Search window: 7 day(s) ending 2026-05-19
 - [The U.S. issues a maximum alert for the Ebola outbreak in Africa: "Do not travel"](https://en.cibercuba.com/noticias/2026-05-19-u1-e199854-s27061-nid329712-eeuu-emite-alerta-maxima-brote-ebola-africa-viajar) | CiberCuba | 2026-05-19T18:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO worried about 'scale and speed' of deadly Ebola outbreak](https://www.newindianexpress.com/world/2026/May/19/who-worried-about-scale-and-speed-of-deadly-ebola-outbreak) | The New Indian Express | 2026-05-19T18:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [United States Responds to Ebola Outbreak in Africa](https://cd.usembassy.gov/united-states-responds-to-ebola-outbreak-in-africa/) | cd.usembassy.gov | 2026-05-19T17:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -482,6 +495,8 @@ Search window: 7 day(s) ending 2026-05-19
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
 - [Evolutionary trends of plague research from 2016 to 2025: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42127162/) | PubMed Historical Epidemiology
   Search for relevant literatures on plague that were published in the Web of Science Core Collection and PubMed database from January 1, 2016 to November 12, 2025.Bibliometric methods were adopted, and software including COOC 20.6, VOSviewer 1.6.20, and Anaconda were used to analyze the publication trend, distribution of institutions, national cooperation network, keyword co-occurrence clustering, and the annual variation trends. From 2021 to 2025, "Phylogenetic Analysis," "Public Health," and "Madagascar" newly entered the top 20 keyword list; the frequencies of "Black Death" and "Infectious Disease" increased significantly, while the frequencies of "Plague Vaccine" and "Prairie Dogs" remained relatively stable. The annual number of publications showed an overall fluctuating upward trend, with a significant growth rate from 2020 to 2021 (annual growth rate of 10.44%).
+- [Congolese report constant burials as deaths in new Ebola outbreak reach 87](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXlQYzVuR3R5YnVkdHR3T29SY1lsZ0NubkNPZ0V0X2M1ZWp2WDdOWVNFVVRWT0loTmpjTHFIMjEtQlJ6ckZZU0RzMV8zZ0ZWUlprMGRYMlVOZmlxZl9LQ1pIS3V3dm5keXdZamdlX016NHoxeWJwaVJOWTZ2RFNvazVDc3lmejAxdFpxZ3BHZzVLaW9oLVQweE0zQlFNNXM4QjFv?oc=5) | AP News
+  Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
