@@ -628,7 +628,7 @@
       "related_stories": [
         {
           "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Cambodianess.",
+          "latest_update_summary": "Cambodianess now explicitly uses investigation or monitoring language.",
           "story_id": "story_28a91c6d89267872",
           "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
           "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
@@ -1881,6 +1881,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-19T16:58:55",
-  "run_id": "run_e0583034c5563b73"
+  "generated_at": "2026-05-19T17:00:17",
+  "run_id": "run_53dc3982866ecdfe"
 }
