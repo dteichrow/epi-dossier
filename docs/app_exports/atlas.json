@@ -1303,7 +1303,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: CNA, Hindustan Times, The Straits Times.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: KJZZ.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1473,7 +1473,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: CNA, Hindustan Times, The Straits Times.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: KJZZ.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-20T05:13:38",
-  "run_id": "run_6f54a9fc143323cf"
+  "generated_at": "2026-05-20T06:14:59",
+  "run_id": "run_682ee2dd8d649b28"
 }
