@@ -1,31 +1,30 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-20
-Generated at: 2026-05-20T03:10
+Generated at: 2026-05-20T04:11
 Search window: 7 day(s) ending 2026-05-20
 
 ## Executive scan
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 19, May 4 to 10 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-19-may-4-10) (WHO Regional Office for Africa; 2026-05-19T22:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR; 2026-05-19T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa; 2026-05-19T10:43+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News; 2026-05-19T11:07+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search; 2026-05-19T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies; 2026-05-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (197), Policy, surveillance, and public health infrastructure (33), Occupational and environmental epidemiology (3)
+- Category mix: Outbreaks and emerging infections (199), Policy, surveillance, and public health infrastructure (32), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: Austin American-Statesman, Bhaskar English, Crux.
-- Story volume increased from 215 to 219 clustered item(s) in the current window.
+- New publisher/source coverage joined this story cluster: Anadolu Ajansı, Angels in Medicine, Avian Flu Diary.
 - 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 219 item(s) across 145 source(s); 5 official/primary-source item(s).
+- Topic size: 219 item(s) across 143 source(s); 5 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-05-20T06:12+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News)
@@ -39,6 +38,14 @@ Search window: 7 day(s) ending 2026-05-20
 - Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Goa sees decline in dengue cases with health centres stepping up efforts](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNRWpRcVV3LW9reUVjWmY4QTl6aXZpeTJnUGtVYkJaUnJFa3V0NHNwaFFMUl9TV043aEtfN1hZbFVnTFlJRms5RnBpeUJjV0JsYnpNdVVvVDM3VXFnSFhPM0JkNENURzNvNEFrWW5xWU5YQm04UXF5NlNCU0txM0tLakJ0N0I4b1ZCX2U1Z0ZpSVloT1VWOVRMMy1hNGU4QXBvS3Jpa19BUmtZVTFUaWlyZXdVazFURkJ6bVhFbG93RXVUckxJZGJEWWRHdFdSUExDTU1CdEFiZUdGU2VVV2xhX0FDYnBkVF9HN1FFYkZiS2ViV1NWSDMwV3hqWVBzREdTdjNsMHpmQklrMk1hNDNNQTh5NGJpcHZZUXhKS0FLdlFzd3FLU1dqOHUycndVRkx5c1BSOG9PdEtfX1lwVnFhRW9fUV9mckI1MVlfN292bkNrWko0?oc=5) (MSN); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb); [Brain-Bleeding Virus Surge: Dengue Cases Jump Over 350% in US as CDC Issues Travel Warning for 12 Countries — All You Need to Know](https://news.google.com/rss/articles/CBMigAJBVV95cUxPTjBfcUNJQjNabFdodV9FdmZsQlhGSXpFMXJhTlVPRGs2cjd0enFlSDRGLUpKZThzeE9uRnhSY0FoT3p3azh0TmwwVjdnM2ZpYVBORXdRaUNubmJ4bm1TNm1RSG9DOFBlQzVDalJHWGtNNGVQRDZPMUlpdER3bGVtaFNnaHdBZnNBSG15VHUzaEpiMk9mZnZrZkhrbXhFeDNDZzdLbzdyNzJnZHZSSXNnWWN0NXIydkJsUVNDUVc3ck9YRGh3WVN3c2tJQTM0QWlTeHhHQTBfSHRoWWJrY2cxSG8zWWYwZEJMZjR0TnNwV3RzX3c3WmxjU1IzLU1tQ04t?oc=5) (The Sunday Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Miscellaneous signals
+- Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
+- Lead item: [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search, 2026-05-20T00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa); [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -63,14 +70,6 @@ Search window: 7 day(s) ending 2026-05-20
 - Evidence notes: [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline); [How measles unleashed a wave of suffering in Bangladesh](https://www.telegraph.co.uk/global-health/science-and-disease/how-measles-unleashed-a-wave-of-suffering-in-bangladesh/) (The Telegraph)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa, 2026-05-19T10:43+00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa); [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
 ## Last major outbreaks on file
@@ -311,6 +310,16 @@ Search window: 7 day(s) ending 2026-05-20
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-05-20T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42157696/
+- Category: Major epidemiology studies
+- Summary: The ILI% ranged from 2.49 to 6.84% (mean: 4.37%), with the lowest level in 2010-2011 and the highest in 2023-2024. A total of 5,853,160 influenza cases and 8,732,124 ILI cases were reported. The median duration of seasonal influenza epidemics was 4.59 months (IQR: 2.84-5.88).
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Respiratory virus surveillance in the WHO African Region Epidemiological Week 19, May 4 to 10 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-05-19T22:30+00:00
@@ -347,16 +356,6 @@ Search window: 7 day(s) ending 2026-05-20
 - URL: https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: On 6 March 2026, the European Centre for Disease Prevention and Control (ECDC) launched a call for experts to join a new Scientific Expert Panel (SEP) to support the...
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-05-19T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42154626/
-- Category: Major epidemiology studies
-- Summary: Notably, H3N2 subtype AIVs exhibited dual receptor-binding properties, recognizing both SA α-2,3-Gal and SA α-2,6-Gal receptors. Overall, these findings indicate that H3 subtype AIVs have the potential for cross-species transmission and highlight the importance of continued surveillance of H3 subtype AIVs circulating in nature. Seven H3 subtype AIVs isolated between 2014 and 2021, including five H3N2, one H3N3, and one H3N6 strain, were analyzed.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -407,12 +406,16 @@ Search window: 7 day(s) ending 2026-05-20
   * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in 2007 in Bundibugyo district in western Uganda, during which 131 cases were reported with 42 deaths (case fatality rate of 32%). Laboratory analysis conducted by the National Institute of Biomedical Research (INRB), the country’s reference laboratory in the capital Kinshasa, confirmed the Ebola outbreak caused by the Bundibugyo species in 8 of 13 samples* collected from suspected cases linked to a cluster of severe illness and deaths reported in Mongbwalu and Rwampara health zones in Ituri Province.
 - [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) | ECDC News | 2026-05-15T16:21+02:00 | Policy, surveillance, and public health infrastructure
   Preliminary laboratory results indicate a non-Zaire ebolavirus species, with further analysis ongoing.
-- [Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765451) | CDC MMWR | 2026-05-14T17:00+00:00 | Occupational and environmental epidemiology
-  This report describes survey results from backyard flock owners' attitudes towards avian influenza.
 - [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) | CDC MMWR | 2026-05-14T17:00+00:00 | Occupational and environmental epidemiology
   This report describes an increase in dengue cases reported during 2024.
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) | PubMed Historical Pathogen Case Studies | 2026-05-14T00:00 | Historical epidemiology / ancient disease / paleopathology
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
+- [Head of W.H.O. Defends Its Response to Ebola Outbreak](https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html) | The New York Times | 2026-05-20T10:40+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Alarm Returns: Why the New Outbreak Has Health Experts Worried Again](https://www.theunitedindian.com/news/ebola-outbreak-health-alert-congo-uganda) | The United Indian | 2026-05-20T10:26+00:00 | Outbreaks and emerging infections
+  According to WHO's 16 May update, as of 16 May, 246 suspected cases and 80 deaths were reported from three health zones (Rwampara, Mongbwalu, and Bunia). Subsequent reports indicated that the suspected toll might have been higher, as monitoring expanded, with Reuters reporting approximately 500 suspected cases and 130 suspected deaths. Twenty-four reported possible cases were in isolation and there were also reports of abnormal areas of deaths within the community that were being investigated in Ituri and North Kivu.
+- [Australia faces 'biggest diphtheria outbreak' in decades](https://news.sky.com/story/australia-faces-biggest-diphtheria-outbreak-in-decades-13546167) | Sky News World | 2026-05-20T10:29+01:00 | Outbreaks and emerging infections
+  Australia is likely facing its "biggest diphtheria outbreak" in decades, the country's health minister has warned, as an investigation continues into a possible death.
 - [Rubio Critizes WHO for Identifying Ebola Outbreak "A Little Late"](https://europeanconservative.com/articles/news-corner/who-ebola-international-emergency-central-africa/) | The European Conservative | 2026-05-20T09:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [World Health Organisation gives update on Ebola outbreak](https://news.sky.com/video/world-health-organisation-gives-update-on-ebola-outbreak-13546139) | Sky News | 2026-05-20T09:20+00:00 | Outbreaks and emerging infections
@@ -420,7 +423,7 @@ Search window: 7 day(s) ending 2026-05-20
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-05-20T08:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Singapore, Asian nations step up Ebola screening after WHO declares global health emergency](https://www.businesstimes.com.sg/international/global/singapore-asian-nations-step-ebola-screening-after-who-declares-global-health-emergency) | The Business Times | 2026-05-20T07:10+00:00 | Outbreaks and emerging infections
-  No cases have been publicly confirmed in Asia More than 540 suspected cases and dozens of deaths linked to Ebola have been reported since the outbreak started in late April. Several governments have expanded screening and reporting requirements for travellers arriving from affected countries, though officials say the likelihood of local transmission remains low, and no cases have been publicly confirmed in Asia. The agency is “closely monitoring” the outbreak and will instruct travellers arriving from affected destinations to watch for Ebola symptoms for 21 days if unwell, it wrote in a statement.
+  No cases have been publicly confirmed in Asia More than 540 suspected cases and dozens of deaths linked to Ebola have been reported since the outbreak started in late April. Several governments have expanded screening and reporting requirements for travellers arriving from affected countries, though officials say the likelihood of local transmission remains low, and no cases have been publicly confirmed in Asia. The agency is âclosely monitoringâ the outbreak and will instruct travellers arriving from affected destinations to watch for Ebola symptoms for 21 days if unwell, it wrote in a statement.
 - [What the numbers tell us about the Ebola outbreak](https://www.cnn.com/2026/05/20/health/ebola-by-the-numbers) | CNN | 2026-05-20T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US Commits Ksh1.68 Billion as It Moves to Establish 50 Clinics After Ebola Outbreak](https://nairobileo.co.ke/news/article/27653/us-commits-ksh168-billion-as-it-moves-to-establish-50-clinics-after-ebola-outbreak) | Nairobi Leo | 2026-05-20T06:44+00:00 | Outbreaks and emerging infections
@@ -431,26 +434,22 @@ Search window: 7 day(s) ending 2026-05-20
   Limited detail was available from feed metadata alone.
 - [WHO chief expresses deep concern over rapid Ebola outbreak in DRC, Uganda](https://www.msn.com/en-ae/news/other/who-chief-expresses-deep-concern-over-rapid-ebola-outbreak-in-drc-uganda/ar-AA23BbNS) | MSN | 2026-05-20T05:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Why health officials are worried about containing the Ebola outbreak](https://www.axios.com/2026/05/19/ebola-hantavirus-who-cdc-preparedness-concerns) | Axios | 2026-05-20T03:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO-Imperial Analysis Suggests Congo Ebola Outbreak Undercounted](https://www.bloomberg.com/news/articles/2026-05-20/who-imperial-analysis-suggests-congo-ebola-outbreak-undercounted) | Bloomberg.com | 2026-05-20T03:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [The fast-spreading Ebola outbreak in central Africa](https://www.monitor.co.ug/uganda/news/world/the-fast-spreading-ebola-outbreak-in-central-africa-5466166) | Daily Monitor | 2026-05-20T03:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak linked to 130+ deaths as U.S. bans visitors from virus-hit region](https://www.cbsnews.com/chicago/video/ebola-outbreak-linked-to-130-deaths-as-u-s-bans-visitors-from-virus-hit-region/) | CBS News | 2026-05-20T03:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [How vulnerable is the United States to an Ebola outbreak?](https://www.nbcnews.com/video/shorts/how-vulnerable-is-the-united-states-to-an-ebola-outbreak-263618629717) | NBC News | 2026-05-20T02:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [US Issues Travel Warnings for DRC, Uganda, South Sudan, and Rwanda Amid Ebola Outbreak](https://www.aol.com/articles/us-issues-travel-warnings-drc-224050000.html) | AOL.com | 2026-05-20T02:04+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Why the new Ebola outbreak has put global health experts on alert again](https://timesofindia.indiatimes.com/health/why-the-new-ebola-outbreak-has-put-global-health-experts-on-alert-again/articleshow/131204715.cms) | The Times of India | 2026-05-20T01:30+00:00 | Outbreaks and emerging infections
-  Tamil Nadu SSLC Result 2026 Date & Time: DGE TN Class 10 results tomorrow at 9:30 am on tnresults.nic.in IPL 2026: Vaibhav Sooryavanshi scripts history, becomes first-ever Indian player to... She explores the basic things with a passion for Lifestyle, illuminating the common.
 
 ## Papers worth saving
-- [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/)
+- [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/)
   Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21505594.2026.2673657
-  Journal/preprint server: Virulence
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42154626/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42154626/
+  DOI: 10.1080/21645515.2026.2675787
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42157696/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42157696/
 - [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1590/0074-02760250269
@@ -486,7 +485,6 @@ Search window: 7 day(s) ending 2026-05-20
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.

@@ -627,11 +627,11 @@
       "reference_web_path": "reference/avian-influenza-a-h5n1.html",
       "related_stories": [
         {
-          "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "1 newly observed linked item(s) were added since the last saved snapshot.",
-          "story_id": "story_28a91c6d89267872",
-          "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
-          "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
+          "display_title": "Ebola virus disease",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Anadolu Ajans\u0131, Angels in Medicine, Avian Flu Diary.",
+          "story_id": "story_56666e9c6c86e976",
+          "story_url": "stories/story_56666e9c6c86e976-ebola-virus-disease.html",
+          "story_web_path": "stories/story_56666e9c6c86e976-ebola-virus-disease.html"
         }
       ],
       "route_count": 3,
@@ -1881,6 +1881,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-20T03:10:25",
-  "run_id": "run_94833c4a3e92696a"
+  "generated_at": "2026-05-20T04:11:35",
+  "run_id": "run_55de45c3b7a6e15d"
 }
