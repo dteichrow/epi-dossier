@@ -625,15 +625,7 @@
       "reference_name": "Avian influenza A(H5N1)",
       "reference_url": "reference/avian-influenza-a-h5n1.html",
       "reference_web_path": "reference/avian-influenza-a-h5n1.html",
-      "related_stories": [
-        {
-          "display_title": "Ebola virus disease",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Anadolu Ajans\u0131, Angels in Medicine, Avian Flu Diary.",
-          "story_id": "story_56666e9c6c86e976",
-          "story_url": "stories/story_56666e9c6c86e976-ebola-virus-disease.html",
-          "story_web_path": "stories/story_56666e9c6c86e976-ebola-virus-disease.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 3,
       "slug": "avian-influenza-h5n1",
       "spread_routes": [
@@ -703,7 +695,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Bird flyways, poultry systems, mammalian spillover, and farm-interface risk",
       "summary": "H5N1 belongs in the atlas because its contemporary geography is not a human epidemic map first; it is a bird-route, farm-system, and spillover map whose human layer remains contingent.",
       "variant_count": 0,
@@ -1311,7 +1303,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: CNA, Hindustan Times, The Straits Times.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1481,7 +1473,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: CNA, Hindustan Times, The Straits Times.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1881,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-20T04:11:35",
-  "run_id": "run_55de45c3b7a6e15d"
+  "generated_at": "2026-05-20T05:13:38",
+  "run_id": "run_6f54a9fc143323cf"
 }
