@@ -1311,7 +1311,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Outbreak News Today.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1481,7 +1481,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Outbreak News Today now includes deaths or fatal cases in the story frame.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: Outbreak News Today.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1881,6 +1881,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-20T01:08:14",
-  "run_id": "run_660cab9ab167abf3"
+  "generated_at": "2026-05-20T02:07:10",
+  "run_id": "run_2eece57be0527d73"
 }

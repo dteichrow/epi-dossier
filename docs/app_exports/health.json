@@ -13,21 +13,21 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 216,
+    "metadata_only_count": 212,
     "sources_cached": 3,
     "sources_failed": 2,
-    "sources_live": 231,
-    "story_count_change": 1,
+    "sources_live": 227,
+    "story_count_change": 2,
     "wrapper_only_count": 13
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 231,
+    "live": 227,
     "refresh_cache": 3,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-20T01:08:14",
+  "generated_at": "2026-05-20T02:07:10",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='ncdc.gov.ng', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='ncdc.gov.ng', port=443): Failed to resolve 'ncdc.gov.ng' ([Errno 8] nodename nor servname provided, or not known)\"))",

@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-20
-Generated at: 2026-05-20T01:08
+Generated at: 2026-05-20T02:07
 Search window: 7 day(s) ending 2026-05-20
 
 ## Executive scan
@@ -12,18 +12,25 @@ Search window: 7 day(s) ending 2026-05-20
 - [Surveillance and biological characterization of H3 subtype avian influenza viruses in Eastern China.](https://pubmed.ncbi.nlm.nih.gov/42154626/) (PubMed Infectious Disease Search; 2026-05-19T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies; 2026-05-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (196), Policy, surveillance, and public health infrastructure (30), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (195), Policy, surveillance, and public health infrastructure (27), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Dengue and arboviruses
+- Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR)
+- New publisher/source coverage joined this story cluster: Outbreak News Today.
+- Story volume increased from 5 to 6 clustered item(s) in the current window.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- 5 newly observed linked item(s) were added since the last saved snapshot.
+- New publisher/source coverage joined this story cluster: Alaska's News Source, CTPost, Doctors Without Borders.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 214 item(s) across 140 source(s); 5 official/primary-source item(s).
+- Topic size: 210 item(s) across 137 source(s); 5 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-05-20T06:12+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-public-health-emergency) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News)
@@ -31,18 +38,10 @@ Search window: 7 day(s) ending 2026-05-20
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 5 item(s) across 4 source(s); 2 official/primary-source item(s).
+- Topic size: 6 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR, 2026-05-19T17:00+00:00)
 - Detailed note: This report describes an increase in dengue cases reported during 2024. This report describes operational guidance for public health investigation and response to mosquito-transmitted malaria in the United States.
-- Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Goa sees decline in dengue cases with health centres stepping up efforts](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNRWpRcVV3LW9reUVjWmY4QTl6aXZpeTJnUGtVYkJaUnJFa3V0NHNwaFFMUl9TV043aEtfN1hZbFVnTFlJRms5RnBpeUJjV0JsYnpNdVVvVDM3VXFnSFhPM0JkNENURzNvNEFrWW5xWU5YQm04UXF5NlNCU0txM0tLakJ0N0I4b1ZCX2U1Z0ZpSVloT1VWOVRMMy1hNGU4QXBvS3Jpa19BUmtZVTFUaWlyZXdVazFURkJ6bVhFbG93RXVUckxJZGJEWWRHdFdSUExDTU1CdEFiZUdGU2VVV2xhX0FDYnBkVF9HN1FFYkZiS2ViV1NWSDMwV3hqWVBzREdTdjNsMHpmQklrMk1hNDNNQTh5NGJpcHZZUXhKS0FLdlFzd3FLU1dqOHUycndVRkx5c1BSOG9PdEtfX1lwVnFhRW9fUV9mckI1MVlfN292bkNrWko0?oc=5) (MSN); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb); [Brain-Bleeding Virus Surge: Dengue Cases Jump Over 350% in US as CDC Issues Travel Warning for 12 Countries — All You Need to Know](https://news.google.com/rss/articles/CBMigAJBVV95cUxPTjBfcUNJQjNabFdodV9FdmZsQlhGSXpFMXJhTlVPRGs2cjd0enFlSDRGLUpKZThzeE9uRnhSY0FoT3p3azh0TmwwVjdnM2ZpYVBORXdRaUNubmJ4bm1TNm1RSG9DOFBlQzVDalJHWGtNNGVQRDZPMUlpdER3bGVtaFNnaHdBZnNBSG15VHUzaEpiMk9mZnZrZkhrbXhFeDNDZzdLbzdyNzJnZHZSSXNnWWN0NXIydkJsUVNDUVc3ck9YRGh3WVN3c2tJQTM0QWlTeHhHQTBfSHRoWWJrY2cxSG8zWWYwZEJMZjR0TnNwV3RzX3c3WmxjU1IzLU1tQ04t?oc=5) (The Sunday Guardian)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Miscellaneous signals
-- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
-- Lead item: [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa, 2026-05-19T10:43+00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa); [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News); [WHO concerned about speed and spread of Ebola: How prepared is India at airports?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZGlWbkZPcW1jSFF2UWl1a1J2YldqX2cwWjNVWk1CZ3ZyeGtnZnBTMnNtd0Y1bTNEelJBQ2d3WF9JUzRhejI0WWpLRGMwbGRXUm1VeVU0M2RvZGFyZndlVl90c2NnbGI4MFRHQk1uaWlXR21JTEZxbGc4VjdqaElucUlRaGZ3VGZ3ZnZXSmljRV9BdGpWbWphcUVoNERVcFg0UldfbzhvX0lfRmRXVDhVd0cwZ0NVT1hBU1NWWldUM0NMbXpyTGZnN01FUExIdV9a0gHXAUFVX3lxTFBQdEczR1E3QWpPbnRWbGRmMlE3cUt2SWJuS1pCWEFOb2dhdUw2a0RNOHpVOTdyYnR3NVJrZGcxVVNtVEZsMDRMNlktTlpzMHJqOF9WYmV1UjJnZUJVbUhsaFFEVmhLMVdfV2FuZ1Fvdi1DRS0zWFZkeDJ4NklWdnkyS2NmeEFqRm9ZRjA2QzIwVVduck1jejJDUnU5NlQzT3kyc29naVpjamlkT0Z3ODJzMF9xcFU2TXl1LXNjZlE0ZW1tRHQwNDhXMUlZYk5rdlNLcW5aM2Mw?oc=5) (The Indian Express)
+- Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Goa sees decline in dengue cases with health centres stepping up efforts](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNRWpRcVV3LW9reUVjWmY4QTl6aXZpeTJnUGtVYkJaUnJFa3V0NHNwaFFMUl9TV043aEtfN1hZbFVnTFlJRms5RnBpeUJjV0JsYnpNdVVvVDM3VXFnSFhPM0JkNENURzNvNEFrWW5xWU5YQm04UXF5NlNCU0txM0tLakJ0N0I4b1ZCX2U1Z0ZpSVloT1VWOVRMMy1hNGU4QXBvS3Jpa19BUmtZVTFUaWlyZXdVazFURkJ6bVhFbG93RXVUckxJZGJEWWRHdFdSUExDTU1CdEFiZUdGU2VVV2xhX0FDYnBkVF9HN1FFYkZiS2ViV1NWSDMwV3hqWVBzREdTdjNsMHpmQklrMk1hNDNNQTh5NGJpcHZZUXhKS0FLdlFzd3FLU1dqOHUycndVRkx5c1BSOG9PdEtfX1lwVnFhRW9fUV9mckI1MVlfN292bkNrWko0?oc=5) (MSN); [Sri Lanka reports increase in dengue in 2026](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTlfTnBzYWJkNlg3dTdqS205aGQ4aEU2eG53bUNEWUVGdUs1b1NCb0NuSjUzM09EWWxsV0tjRm9BM3J4bnpSb3R3Z2xFMEFBZzV6d19vT3VJZEplUXRCU2tlTlBQT01NS0ROc1ZYcnVMQ2VBQzQ3VFM0TDgwbjhZd19tZw?oc=5) (Outbreak News Today); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -61,6 +60,14 @@ Search window: 7 day(s) ending 2026-05-20
 - Evidence notes: [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies); [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies); [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
+### Miscellaneous signals
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa, 2026-05-19T10:43+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa); [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -411,6 +418,8 @@ Search window: 7 day(s) ending 2026-05-20
   This report describes an increase in dengue cases reported during 2024.
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) | PubMed Historical Pathogen Case Studies | 2026-05-14T00:00 | Historical epidemiology / ancient disease / paleopathology
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
+- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVERtZkpCMzNrZ1lKNHVlQ1RaS2N1QVcyaVRMT3JTV2puMTVvWm1IUEhVWklQVVFteDkyWEtXbmRiRHY5alpBN0hydEJuZDF6WXhxa003NXRqdw?oc=5) | BBC | 2026-05-20T08:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [What the numbers tell us about the Ebola outbreak](https://news.google.com/rss/articles/CBMiakFVX3lxTE1wQ21GWHZmT2laNEhWbWFXa2ZHNTFaQ2hzdnJ6cTRReW9tRkluYl9UM1NhNlhrTkhTc2t3SWh2ZEVCb2ZGcWZRZS05UncxbnUxaW4zdVpWVVpwa2VRVWRjYXV5Zjl3UzNDV0E?oc=5) | CNN | 2026-05-20T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US Commits Ksh1.68 Billion as It Moves to Establish 50 Clinics After Ebola Outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmNUOERZQzRRU2tUY0VPS0wwYzRRWVoxUE83bTVnMjFjZFRidXpqQmsyTldEMzIzZkRDVlRzMlJ2Y0ItdlREQXRKQ0VPazdiZ0hCclE0aDNFckJXQWF5RS1SLTZGN2JCbFE0SXd1aGFZOWJjcmM1cHVhX1FoQUxvaW52YzJXWXJEaVU0dG1mSzhyNkNFNG1aOE1aSDY4M3BjZW1QS1lUX1lRNmJtWDRJM195dzhydHFqUV96OUVuQzh0NXha?oc=5) | Nairobi Leo | 2026-05-20T06:44+00:00 | Outbreaks and emerging infections
@@ -423,11 +432,11 @@ Search window: 7 day(s) ending 2026-05-20
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak linked to 130+ deaths as U.S. bans visitors from virus-hit region](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1NNRTNmcTZSN2RQZGl4OXpUWDV0WmFDWnVKTUUydkJEdVVyLTd3c0V1YUM2MTNpV0RUemM5YUxsZ3ExaEtzUm9Od2RfbXpoODdyWDZDNGI4eUxpc2NBOGRRU0ZnSkdSR0Y2b1pyanNZMzlXTnBQYVBYTG1mckJOUzNEc1llcUZnTGNBdUlCZ2w0N3g4ZE9fMzB1RkZkQV9KSWVXdGNyc2tXLVVtYmd5dHZXOEtuM3ZF?oc=5) | CBS News | 2026-05-20T03:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- ['Scale and speed' of Ebola outbreak concerns WHO](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zRzdzZHcwYzdnV1NITEV2cU9tamdpTUUwWExOT05wVFVZMzlqRG9TNVl2NXc0QzgxRGtjZGhzd1ZFdUtPSGhtejltbHRBdnlPMldjNWQyOTMtZw?oc=5) | CBC | 2026-05-20T02:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [How vulnerable is the United States to an Ebola outbreak?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk4yb2VTTjFkZmQxTnpQa1NUN19RSUtmVjFoN3FlRGJLRVdvajVGdnlzS3pLR1Y5TkphS1U5NXpLbTQ2d0s2TzNnS3VSbm8tS3kxc1hSWXpWdjBWNU9nZ0pKc1hNOXdRUWcwd0YyeHJGSjg2RFlJcXNyYXp1d2xJYnk1MktwZldvZzVHc3RjVEVIUmNNaHA0a1YyRnFSU001emxoMzZob1pMQQ?oc=5) | NBC News | 2026-05-20T02:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US Issues Travel Warnings for DRC, Uganda, South Sudan, and Rwanda Amid Ebola Outbreak](https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZEVKdDVIYThYNTJRRDFJTFE5U3VHTW8wSW1LRDhFdkZObExZLUlYTFJFWVRSbmdJT2JNX2xXd2UzTTZyRTk0S2xkUEhvV2VkNDQ5N3BfTlN3cTNLVTBlQzRkQThBMHd3SDQtX096SWJkSzJYX2xBMm9EeGFwUQ?oc=5) | AOL.com | 2026-05-20T02:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Relief group says Trump cuts ‘led to delayed detection of deadly Ebola outbreak’](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUp5SXFaUERQa0hMRWN2dXlTZEZIVTBnTkhidndCemtVMG40aW5raFd6Vlp2NEQzTHF0aEx2c1dPNENWNFBHUlJwTkhxaXFZakdxWU5BQlM4RV9fb2dETFgySUNqYmtWY2dQZ1hvSEFlbnRjekZLT09ua1prNXJtWjlJNzVYUzJNZ0VOQVIxdVJWNUx3X19FS1RYM296SHJ3UlhnREk4bVFMa1VhTWVLUHNPZzNtakhCdE1GWXdSVWtBcmxXV01PdGxRRkREMUlXZ2tlRzFaVQ?oc=5) | Politico | 2026-05-20T02:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Details on Ebola outbreak as Americans urged to avoid travel to Congo, Uganda, South Sudan](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BVT0ZINlRxeDVTd2lTcXNDMW14Vlh4Wl9xNUR5TkxHekJEZXI0azRTVGNXZExpSWx1U25Eazh0Z3g5N3hhUnhqU1pCa1JqZVZJXzc2Z0JrT09sX2pCVzV0ZWxlQmo0cW9uOXFTbXlWTkNWRnVMVm9FNmZXYjg3RFlkZDlnZXNKdVhCTGxyY25KUWptdFFBeG1PTTkzWk1Nc0laOUNURnA3VWlEdjQxVmlsMG9EekxBQnNr?oc=5) | CBS News | 2026-05-19T23:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -438,8 +447,6 @@ Search window: 7 day(s) ending 2026-05-20
 - [Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says](https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGl4WGgyajBxQ0h1bWduZU8xS3Z4eDVzS29iU0djWVRrZnlSQW8tRDc0cGY3TDJLT3VzNUJiQkJGOGpkbzNGcUtxamhRU014RjNyLVdZWTU0bDU3ZmtpZXFSQUdrdDFNWHl0M0NXUFpEUnBVTWhZdkxfakpLLWRFVy05S1ZqWXFkbzROSA?oc=5) | The New York Times | 2026-05-19T21:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [UNICEF Responds to Ebola Outbreak in DRC and Uganda](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSU9ZX2pMai1oTWMxMC14OXMxcFl5VjJCQ3FSWjJmMVJraVpFLTZwUFR5d0trTUVMY2JFZVVReWpZOHBtVFJ5cU1hMG9FNWJBempjVXlHakI4TnhGUGFhZnJhcGJRc3YyZWM1bWw5b0RxeGpPQmMxMDhPMXoycGVGUWp6TXVDUQ?oc=5) | unicef usa | 2026-05-19T21:07+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Former ‘Ebola czar’ on the current outbreak in Africa](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzJoeTBidElKTGJ1OExBS1lTMWhCR2FLc1ZDMEVPR1ZLY2ZIbzIweFJyUHRJZU5TZjR5amVoMW1kSGszUHJxYkVpYm1fakJ0SDEyVVRtOWZnTmRKbnJ2bnlwZkdFTUVIZG1VMjJtRlBnNHF2WVp1b2wzaTY2NUZ0NGt4emZIbU9ibzVwVUdTVlc3QURValNvODVWank?oc=5) | NPR | 2026-05-19T20:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
