@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-20
-Generated at: 2026-05-20T08:17
+Generated at: 2026-05-20T10:20
 Search window: 7 day(s) ending 2026-05-20
 
 ## Executive scan
@@ -12,32 +12,19 @@ Search window: 7 day(s) ending 2026-05-20
 - [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News; 2026-05-19T11:07+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies; 2026-05-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (205), Policy, surveillance, and public health infrastructure (33), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (198), Policy, surveillance, and public health infrastructure (32), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: Anadolu Ajansı, CNBC Africa, CT Insider.
-- Story volume increased from 213 to 224 clustered item(s) in the current window.
+- New official source(s) joined this story cluster: Texas Department of State Health Services News.
 - 5 newly observed linked item(s) were added since the last saved snapshot.
-
-### Dengue and arboviruses
-- Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR)
-- New publisher/source coverage joined this story cluster: MSN.
-- Story volume increased from 5 to 6 clustered item(s) in the current window.
-- 1 newly observed linked item(s) were added since the last saved snapshot.
-
-### Measles transmission and vaccination
-- Lead item: [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) (Devdiscourse)
-- New publisher/source coverage joined this story cluster: Devdiscourse, The Telegraph.
-- The lead item has changed to [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) from Devdiscourse.
-- 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 224 item(s) across 150 source(s); 5 official/primary-source item(s).
+- Topic size: 215 item(s) across 141 source(s); 6 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-05-20T06:12+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [ECDC monitoring Ebola outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-ebola-outbreak-democratic-republic-congo) (ECDC News)
@@ -48,25 +35,17 @@ Search window: 7 day(s) ending 2026-05-20
 - Topic size: 6 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR, 2026-05-19T17:00+00:00)
 - Detailed note: Recommendations and Reports / May 21, 2026 / 75(1);1â14 Nikhil Ranadive, MD 1 ,2 ,3 ; Joel L.N. Ridpath, MD 2 ( View author affiliations ) Guidance for Enhanced Investigation for Suspected Autochthonous Malaria Transmission During 2023, 10 cases of locally acquired mosquito-transmitted (autochthonous) malaria were reported to CDC from four U.S. This report describes an increase in dengue cases reported during 2024.
-- Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Goa sees decline in dengue cases with health centres stepping up efforts](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNRWpRcVV3LW9reUVjWmY4QTl6aXZpeTJnUGtVYkJaUnJFa3V0NHNwaFFMUl9TV043aEtfN1hZbFVnTFlJRms5RnBpeUJjV0JsYnpNdVVvVDM3VXFnSFhPM0JkNENURzNvNEFrWW5xWU5YQm04UXF5NlNCU0txM0tLakJ0N0I4b1ZCX2U1Z0ZpSVloT1VWOVRMMy1hNGU4QXBvS3Jpa19BUmtZVTFUaWlyZXdVazFURkJ6bVhFbG93RXVUckxJZGJEWWRHdFdSUExDTU1CdEFiZUdGU2VVV2xhX0FDYnBkVF9HN1FFYkZiS2ViV1NWSDMwV3hqWVBzREdTdjNsMHpmQklrMk1hNDNNQTh5NGJpcHZZUXhKS0FLdlFzd3FLU1dqOHUycndVRkx5c1BSOG9PdEtfX1lwVnFhRW9fUV9mckI1MVlfN292bkNrWko0?oc=5) (MSN); [Sonora leads Mexican states for number of dengue cases](https://www.kjzz.org/fronteras-desk/2026-05-20/sonora-leads-mexican-states-for-number-of-dengue-cases) (KJZZ); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb)
+- Evidence notes: [Recommendations and Reports: CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765596) (CDC MMWR); [Increase in Travel-Associated and Locally Acquired Dengue Cases](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765450) (CDC MMWR); [Sonora leads Mexican states for number of dengue cases](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVBWZm9sUkh2TExLNE9qT3ItamM5cmxhcHBfUmhKM2hzMUx0Q3MxcnRPMGNiVFlTdnZMZFdYbjBLeFNBRThfblpBbWM1ZzVmeXE2cmtvUGFidlBiSHJLY3Q0bmY2RF8xUDc2SXdUeXNQZjh4TUR3NDN2RzVVX0MxSU9lemR4MUhYaElXRkhzdmNKUGZUZHRQQUtpRGp6cWFuMTFV?oc=5) (KJZZ); [CDC: 3798 Dengue Cases Reported in United States in 2024](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2dXdlpqMzA5VjVJS2FGb0JWRHBLVHdOS2lFNUUweDFNLWdTYklrX3JwWHc2V0lXV1dSOTZjanRKLWN6QmdkUnVacEEtMkhYa2NtcDRUTUowTmpObEVWN0RiaV9xM2l3eGpGMThrUzdEOTdqT0pDb0Q2VzU1aXhIQXA3R3JCYlpZaUJobmZKUVhqalRBWmpz?oc=5) (Vaccine Advisor); [Tonga: Dengue Fever Outbreak Situation Report #21, 18th May 2026 [EN/TO]](https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZnWF9Cam13czI2THpyZkJkamxnMzNVZ3pNb1l4ellfejZ0TkVGeG9SaVlaWFgwQ1hQNEtFX0FhWHliZWVBMGY2R1FaczBqWkVjUEh4d2NYVmt0dXd3MDVRWlJmMFhmRUFQZTdIekdnc0FMRzgzOGJFcmg5SUdIZUhRc1V4eTFfdDJHbGF4ckgtZHZVTHZzVHc0ZnVDMVJkZlow?oc=5) (ReliefWeb)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) (Devdiscourse, 2026-05-20T14:21+00:00)
-- Detailed note: The comments by UNICEF representative in Dhaka Rana Flowers came on a day government data showed that there were 481 deaths since March due to measles or its symptoms as of date even as the viral disease claimed six children in the past 24 hours while 1,270 others were diagnosed afresh with symptoms. “Of the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case)...
-- Evidence notes: [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) (Devdiscourse); [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline); [How measles unleashed a wave of suffering in Bangladesh](https://www.telegraph.co.uk/global-health/science-and-disease/how-measles-unleashed-a-wave-of-suffering-in-bangladesh/) (The Telegraph)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Miscellaneous signals
-- Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 3 official/primary-source item(s).
 - Lead item: [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search, 2026-05-20T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa); [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News)
+- Evidence notes: [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Tanzania National Oral Health Strategic Plan 2026-2031](https://www.afro.who.int/countries/united-republic-of-tanzania/publication/tanzania-national-oral-health-strategic-plan-2026-2031) (WHO Regional Office for Africa); [Candidates selected for ECDC Scientific Expert Panel on RSV vaccination in adults](https://www.ecdc.europa.eu/en/news-events/candidates-selected-ecdc-scientific-expert-panel-rsv-vaccination-adults) (ECDC News); [India Strengthens Ebola Screening, Centre Holds High-Level Review Meet After WHO Alert](https://www.ndtv.com/health/india-strengthens-ebola-screening-centre-holds-high-level-review-meet-after-who-alert-11524539) (NDTV)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -83,6 +62,14 @@ Search window: 7 day(s) ending 2026-05-20
 - Evidence notes: [Memories of Memórias: shaping a century of plague research and public health policy in BrazilFIRST REVIEW ROUND](https://pubmed.ncbi.nlm.nih.gov/42154883/) (PubMed Historical Pathogen Case Studies); [Eponymous neurologic signs of tabes dorsalis: A historical review (1846-1905).](https://pubmed.ncbi.nlm.nih.gov/42148461/) (PubMed Historical Pathogen Case Studies); [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) (Devdiscourse, 2026-05-20T14:21+00:00)
+- Detailed note: The comments by UNICEF representative in Dhaka Rana Flowers came on a day government data showed that there were 481 deaths since March due to measles or its symptoms as of date even as the viral disease claimed six children in the past 24 hours while 1,270 others were diagnosed afresh with symptoms. “Of the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case)...
+- Evidence notes: [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) (Devdiscourse); [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -423,9 +410,25 @@ Search window: 7 day(s) ending 2026-05-20
   This report describes an increase in dengue cases reported during 2024.
 - [Digitization of Historical Data from Somalia's Last Smallpox Outbreaks 1976-1977.](https://pubmed.ncbi.nlm.nih.gov/42135325/) | PubMed Historical Pathogen Case Studies | 2026-05-14T00:00 | Historical epidemiology / ancient disease / paleopathology
   The transcribed line list comprises of 3,255 incident cases and includes the following variables: national case serial number, age, sex, date of rash onset, date detected, village/locality, district, region, regional outbreak number, and national outbreak number. Over more than three thousand years, smallpox caused millions of deaths worldwide. Handwritten smallpox outbreak data from Somalia (1976-1977) were obtained from the World Health Organization by a Public Health England study team (now UK Health Security Agency).
-- [How contagious is Ebola? And how worried should you be about the current outbreak?](https://www.npr.org/2026/05/20/nx-s1-5826910/ebola-outbreak-africa-risks) | NPR | 2026-05-20T14:58+00:00 | Outbreaks and emerging infections
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [What to know about Ebola and how it spreads, as the outbreak widens](https://www.washingtonpost.com/health/2026/05/20/what-know-about-ebola-how-it-spreads-outbreak-widens/) | The Washington Post | 2026-05-20T14:40+00:00 | Outbreaks and emerging infections
+- [Ebola likely circulating in Congo for two months, outbreak to grow, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/) | Reuters | 2026-05-20T17:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says](https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html) | The New York Times | 2026-05-20T16:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak Opens Old Wounds About ‘Saving Africans’](https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html) | The New York Times | 2026-05-20T16:31+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What to know about Ebola and how it spreads, as the outbreak widens](https://www.washingtonpost.com/health/2026/05/20/what-know-about-ebola-how-it-spreads-outbreak-widens/) | The Washington Post | 2026-05-20T16:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak is a regional public health emergency](https://www.cnn.com/2026/05/20/world/video/ebola-lancet-spiegel-martinez-intv-ctw-052010aseg2-cnni-world-fast) | CNN | 2026-05-20T15:49+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO says risk of global spread of Ebola outbreak is low, but high at national, regional levels](https://www.washingtonpost.com/world/2026/05/20/congo-uganda-ebola-who-spread/f74612fc-542f-11f1-9c40-7a0a12d9e745_story.html) | The Washington Post | 2026-05-20T15:48+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Video: World Health Organization Defends Its Ebola Outbreak Response](https://www.nytimes.com/video/world/africa/100000010915385/ebola-who-tedros-rubio-congo.html) | The New York Times | 2026-05-20T15:34+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Vaccine to tackle Ebola outbreak will take six to nine months, says WHO](https://www.theguardian.com/world/2026/may/20/vaccine-bundibugyo-ebola-outbreak-six-to-nine-months-who) | The Guardian | 2026-05-20T15:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak in DR Congo: WHO says Ebola vaccine could take nine months](https://www.bbc.com/news/articles/cwy2g197dp8o) | BBC | 2026-05-20T15:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What to know about the Bundibugyo virus, a species of Ebola causing an outbreak in Congo](https://apnews.com/article/ebola-bundibugyo-virus-outbreak-congo-baf5f9861a896ca027a9e40524d42e74) | AP News | 2026-05-20T14:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -433,28 +436,12 @@ Search window: 7 day(s) ending 2026-05-20
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: How dangerous is the new strain in DR Congo?](https://www.bbc.com/audio/play/w3ct991y) | BBC | 2026-05-20T14:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola likely circulating in DRC for two months, outbreak to grow, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/) | Reuters | 2026-05-20T14:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Bangladesh was warned at least 10 times about massive measles outbreak: UNICEF](https://www.devdiscourse.com/article/health/3915696-bangladesh-was-warned-at-least-10-times-about-massive-measles-outbreak-unicef) | Devdiscourse | 2026-05-20T14:21+00:00 | Outbreaks and emerging infections
   The comments by UNICEF representative in Dhaka Rana Flowers came on a day government data showed that there were 481 deaths since March due to measles or its symptoms as of date even as the viral disease claimed six children in the past 24 hours while 1,270 others were diagnosed afresh with symptoms. ''We raised concerns over the vaccine shortage in at least 10 meetings with the government since 2024, alongside sending five to six formal letters,'' UNICEF's Flowers told a press conference on the measles issue here. ''From 2024, we were warning the government that the shortage of vaccines could lead to an outbreak,'' she said.
-- [More die of suspected Ebola as WHO warns that numbers will rise further](https://www.bbc.com/news/articles/cwy2g197dp8o) | BBC | 2026-05-20T13:52+00:00 | Outbreaks and emerging infections
+- [Latest news on Ebola outbreak as experts warn about misinformation online](https://www.cbsnews.com/video/latest-news-on-ebola-outbreak-as-experts-warn-about-misinformation-online/) | CBS News | 2026-05-20T13:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya activates Ebola response as Uganda, DRC outbreak sparks border surveillance](https://nation.africa/kenya/news/kenya-activates-ebola-response-5466646) | Daily Nation | 2026-05-20T13:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Head of W.H.O. Defends Its Response to Ebola Outbreak](https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html) | The New York Times | 2026-05-20T13:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Vaccine to tackle Ebola outbreak will take six to nine months, says WHO](https://www.theguardian.com/world/2026/may/20/vaccine-bundibugyo-ebola-outbreak-six-to-nine-months-who) | The Guardian | 2026-05-20T12:18+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola death toll rises as two Americans are flown to Europe for monitoring](https://www.nbcnews.com/world/africa/ebola-cases-rise-congo-american-doctors-europe-treatment-vaccine-who-rcna346049) | NBC News | 2026-05-20T12:16+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Alarm Returns: Why the New Outbreak Has Health Experts Worried Again](https://www.theunitedindian.com/news/ebola-outbreak-health-alert-congo-uganda) | The United Indian | 2026-05-20T10:26+00:00 | Outbreaks and emerging infections
-  According to WHO's 16 May update, as of 16 May, 246 suspected cases and 80 deaths were reported from three health zones (Rwampara, Mongbwalu, and Bunia). Subsequent reports indicated that the suspected toll might have been higher, as monitoring expanded, with Reuters reporting approximately 500 suspected cases and 130 suspected deaths. Twenty-four reported possible cases were in isolation and there were also reports of abnormal areas of deaths within the community that were being investigated in Ituri and North Kivu.
-- [WHO Ebola emergency escalates as DRC outbreak spreads](https://www.itij.com/latest/news/who-ebola-emergency-escalates-drc-outbreak-spreads) | itij.com | 2026-05-20T09:49+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [In the shadow of Ebola: Scenes from the outbreak zones](https://www.reuters.com/pictures/shadow-ebola-scenes-outbreak-zones-2026-05-20/) | Reuters | 2026-05-20T09:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Australia faces 'biggest diphtheria outbreak' in decades](https://news.sky.com/story/australia-faces-biggest-diphtheria-outbreak-in-decades-13546167) | Sky News World | 2026-05-20T10:29+01:00 | Outbreaks and emerging infections
-  Australia is likely facing its "biggest diphtheria outbreak" in decades, the country's health minister has warned, as an investigation continues into a possible death.
 
 ## Papers worth saving
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/)
