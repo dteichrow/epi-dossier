@@ -91,6 +91,100 @@ def test_render_story_page_separates_official_and_press_sections():
     assert "Feed metadata only. Open the source link for the full piece." not in content
 
 
+def test_render_story_page_adds_outbreak_intelligence_layer():
+    story = {
+        "display_title": "Ebola virus disease",
+        "lead_title": "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01",
+        "lead_url": "https://example.com/who",
+        "lead_source": "WHO Regional Office for Africa",
+        "item_count": 3,
+        "source_count": 3,
+        "official_item_ids": ["official_1"],
+        "press_item_ids": ["press_1", "press_2"],
+        "publisher_names": ["WHO Regional Office for Africa", "CIDRAP", "Reuters"],
+        "freshness_counts": {"live": 3, "refresh_cache": 0, "fallback_cache": 0, "retained": 0},
+        "latest_update_summary": "Story volume increased.",
+        "latest_update_bullets": ["WHO now foregrounds vaccination or vaccine policy in the story."],
+        "related_references": [
+            {
+                "name": "Ebola virus disease",
+                "reference_url": "file:///tmp/ebola.html",
+                "pathogen": "Ebola viruses, including Bundibugyo virus in the current DRC/Uganda outbreak",
+                "latest_outbreak": {
+                    "location": "Ituri Province, DRC, with imported cases reported in Kampala, Uganda",
+                    "summary": "About 395 suspected cases and 106 associated deaths have been reported in DRC and Uganda.",
+                    "source_name": "Africa CDC",
+                    "as_of": "2026-05-18",
+                },
+                "vaccine_status": "Bundibugyo-specific vaccine and therapeutic availability remains uncertain.",
+                "research_caveats": "Suspected cases and deaths can be a better warning signal than confirmed cases alone.",
+            }
+        ],
+        "first_seen_at": "2026-05-18T18:05:45",
+        "latest_updated_at": "2026-05-20T21:34:28",
+        "timeline": [],
+    }
+    items_by_id = {
+        "official_1": {
+            "title": "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01",
+            "preferred_url": "https://example.com/who",
+            "publisher_name": "WHO Regional Office for Africa",
+            "published_at": "2026-05-20T06:12+00:00",
+            "summary": "WHO received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone, Ituri Province, including reports of four health workers who died. Uganda subsequently confirmed two imported cases in Kampala. WHO determined the outbreak constituted a Public Health Emergency of International Concern.",
+            "link_quality": "wrapper_only",
+            "source_confidence": "official_agency",
+            "official": True,
+            "region": "Africa",
+            "country": "Democratic Republic of the Congo / Uganda",
+            "freshness_state": "live",
+        },
+        "press_1": {
+            "title": "At least 600 Ebola cases suspected as US pledges to fund 50 treatment clinics",
+            "preferred_url": "https://example.com/cidrap",
+            "publisher_name": "CIDRAP",
+            "published_at": "2026-05-20T21:13+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "link_quality": "metadata_only",
+            "source_confidence": "metadata_only_signal",
+            "publisher_tier": "specialist_health",
+            "region": "Africa",
+            "freshness_state": "live",
+            "low_detail": True,
+        },
+        "press_2": {
+            "title": "WHO says 600 suspected cases, 139 deaths in growing Ebola outbreak",
+            "preferred_url": "https://example.com/reuters",
+            "publisher_name": "Reuters",
+            "published_at": "2026-05-20T21:14+00:00",
+            "summary": "Vaccine candidates could take months to develop.",
+            "link_quality": "resolved_article",
+            "source_confidence": "wire",
+            "publisher_tier": "wire",
+            "region": "Africa",
+            "freshness_state": "live",
+        },
+    }
+
+    content = render_story_page(story, items_by_id, date(2026, 5, 20), datetime(2026, 5, 20, 21, 34))
+    assert "Outbreak dashboard" in content
+    assert "At least 600" in content
+    assert "139" in content
+    assert "DRC; Uganda" in content
+    assert "WHO PHEIC declared" in content
+    assert "Ebola viruses, including Bundibugyo virus" in content
+    assert "What Matters Now" in content
+    assert "Why Urban Spread Matters" in content
+    assert "Why Conflict Zones Change Outbreak Control" in content
+    assert "Why Suspected Vs Confirmed Counts Diverge" in content
+    assert "Methodology Note" in content
+    assert "Scientific / vaccine / therapeutic context" in content
+    assert "Operational response" in content
+    assert "Location:</strong> DRC / Ituri / Mongbwalu" in content
+    assert "Official report" in content or "Confirmed" in content
+    assert 'data-intel-category="scientific-vaccine-therapeutic-context"' in content
+    assert 'data-story-filter="intel-category"' in content
+
+
 def test_render_story_page_keeps_real_summaries_for_aggregator_only_items():
     story = {
         "display_title": "Hantavirus and cruise-ship outbreak",

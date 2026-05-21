@@ -386,6 +386,14 @@ def enrich_story_reference_links(story_records: list[dict[str, Any]], reference_
                 "reference_url": reference["reference_url"],
                 "reference_web_path": reference.get("reference_web_path", ""),
                 "pathogen": reference.get("pathogen", ""),
+                "transmission": reference.get("transmission", ""),
+                "latest_outbreak": reference.get("latest_outbreak", {}),
+                "outbreak_settings": reference.get("outbreak_settings", []),
+                "vaccine_status": reference.get("vaccine_status", ""),
+                "treatment": reference.get("treatment", ""),
+                "surveillance_note": reference.get("surveillance_note", ""),
+                "research_caveats": reference.get("research_caveats", ""),
+                "metrics_that_matter": reference.get("metrics_that_matter", []),
             }
             for reference in matches
         ]

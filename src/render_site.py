@@ -12,6 +12,26 @@ from .utils import format_timestamp, normalize_whitespace
 
 
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+LOW_DETAIL_SUMMARY = "Limited detail was available from feed metadata alone."
+BROAD_REGION_LABELS = {
+    "",
+    "africa",
+    "asia",
+    "cross-region / unassigned",
+    "global",
+    "global / maritime",
+    "north america",
+    "south asia",
+    "east asia",
+    "europe",
+}
+INTELLIGENCE_CATEGORY_LABELS = {
+    "confirmed-epidemiologic-updates": "Confirmed epidemiologic updates",
+    "operational-response": "Operational response",
+    "border-regional-spread-concerns": "Border / regional spread concerns",
+    "scientific-vaccine-therapeutic-context": "Scientific / vaccine / therapeutic context",
+    "commentary-political-reaction-media-discourse": "Commentary / political reaction / media discourse",
+}
 
 
 def render_story_page(
@@ -25,10 +45,14 @@ def render_story_page(
 ) -> str:
     official_items_raw = [items_by_id[item_id] for item_id in story.get("official_item_ids", []) if item_id in items_by_id]
     press_items_raw = [items_by_id[item_id] for item_id in story.get("press_item_ids", []) if item_id in items_by_id]
+    raw_combined_items = official_items_raw + press_items_raw
     official_items = collapse_story_page_items(official_items_raw, max_low_detail_per_publisher=2)
     press_items = collapse_story_page_items(press_items_raw, max_low_detail_per_publisher=2)
     combined_items = official_items + press_items
     timeline = story.get("timeline", [])
+    outbreak_dashboard = render_outbreak_dashboard(story, raw_combined_items)
+    what_matters_now = render_what_matters_now(story, raw_combined_items)
+    historical_sidebars = render_historical_epidemiology_sidebars(story, raw_combined_items)
     publisher_badges = "".join(f'<span class="badge">{escape(name)}</span>' for name in story.get("publisher_names", [])[:12])
     quality_badges = render_link_quality_badges(combined_items)
     freshness_badges = render_freshness_badges(combined_items, story.get("freshness_counts", {}))
@@ -87,6 +111,7 @@ def render_story_page(
         <div class="meta-row">{publisher_badges}{region_badges}</div>
         <p class="lede"><a href="{escape_attr(story.get("lead_url", ""))}">{escape(story.get("lead_title", ""))}</a></p>
         <p><strong>Lead source:</strong> {escape(story.get("lead_source", "Unknown"))}</p>
+        {outbreak_dashboard}
         <h2 class="hero-subhead">What happened</h2>
         <p>{escape(story.get("what_happened", story.get("lead_title", "No summary available.")))}</p>
         <h2 class="hero-subhead">Why it matters</h2>
@@ -99,13 +124,20 @@ def render_story_page(
       {render_page_section_nav(
           [
               ("Overview", "#story-overview"),
+              ("Dashboard", "#outbreak-dashboard"),
+              ("What Matters", "#what-matters-now"),
+              ("Context", "#historical-context"),
               ("Filters", "#story-filters"),
               ("Official Sources", "#official-sources-panel"),
               ("Publisher Coverage", "#publisher-coverage-panel"),
               ("Disease Sheets", "#related-disease-intelligence"),
               ("Timeline", "#story-timeline-panel"),
+              ("Methodology", "#methodology-note"),
           ]
       )}
+
+      {what_matters_now}
+      {historical_sidebars}
 
       <section class="panel utility-panel" id="story-filters">
         <h2>Filter This Story File</h2>
@@ -138,6 +170,8 @@ def render_story_page(
         {render_sort_bar("story-timeline", include_source=False)}
         <div id="story-timeline" class="timeline sortable-grid" data-default-sort="newest">{timeline_rows}</div>
       </section>
+
+      {render_story_methodology_note()}
     </main>
     <script>{sort_script()}</script>
     <script>{story_filter_script()}</script>
@@ -1581,10 +1615,467 @@ def humanize_data_value(key: str, value: str) -> str:
     return value.replace("_", " ").title()
 
 
+def render_outbreak_dashboard(story: dict[str, Any], items: list[dict[str, Any]]) -> str:
+    suspected_cases = infer_outbreak_metric(story, items, "suspected_cases")
+    deaths = infer_outbreak_metric(story, items, "deaths")
+    affected_countries = infer_affected_countries(story, items)
+    emergency_status = infer_emergency_status(story, items)
+    pathogen_lineage = infer_pathogen_lineage(story, items)
+    last_updated = normalize_whitespace(str(story.get("latest_updated_at") or story.get("updated_at") or "Unknown")) or "Unknown"
+    rows = [
+        ("Suspected cases", suspected_cases["value"], suspected_cases["note"]),
+        ("Deaths", deaths["value"], deaths["note"]),
+        ("Affected countries", affected_countries["value"], affected_countries["note"]),
+        ("WHO / emergency status", emergency_status["value"], emergency_status["note"]),
+        ("Virus / species / lineage", pathogen_lineage["value"], pathogen_lineage["note"]),
+        ("Last updated", last_updated, "Monitor timestamp for this story file."),
+    ]
+    cards = "".join(
+        '<div class="dashboard-item">'
+        f'<span class="dashboard-label">{escape(label)}</span>'
+        f'<strong>{escape(value)}</strong>'
+        f'<span class="dashboard-note">{escape(note)}</span>'
+        "</div>"
+        for label, value, note in rows
+    )
+    return (
+        '<div class="outbreak-dashboard-block" id="outbreak-dashboard">'
+        '<h2 class="hero-subhead">Outbreak dashboard</h2>'
+        f'<div class="outbreak-dashboard">{cards}</div>'
+        "</div>"
+    )
+
+
+def infer_outbreak_metric(story: dict[str, Any], items: list[dict[str, Any]], metric_kind: str) -> dict[str, str]:
+    patterns = metric_patterns(metric_kind)
+    candidates: list[tuple[int, str, dict[str, str]]] = []
+    for source in story_analysis_sources(story, items):
+        text = source["text"]
+        for pattern in patterns:
+            for match in re.finditer(pattern, text, flags=re.I):
+                if metric_context_looks_historical(text, match.start(), match.end()):
+                    continue
+                value = format_metric_value(match.groupdict().get("qualifier", ""), match.group("number"))
+                candidates.append((metric_candidate_score(source, text), value, source))
+    if candidates:
+        _score, value, source = max(candidates, key=lambda candidate: candidate[0])
+        return {"value": value, "note": metric_note_for_source(source, metric_kind)}
+    fallback = "Unknown" if metric_kind == "suspected_cases" else "Unknown"
+    note = (
+        "The monitor does not expose a firm suspected-case total."
+        if metric_kind == "suspected_cases"
+        else "The monitor does not expose a firm death total."
+    )
+    return {"value": fallback, "note": note}
+
+
+def metric_patterns(metric_kind: str) -> list[str]:
+    number = r"(?P<number>\d[\d,]*)"
+    qualifier = r"(?P<qualifier>at least|more than|over|about|around|approximately|approx\.?)?\s*"
+    if metric_kind == "suspected_cases":
+        return [
+            rf"{qualifier}{number}\s+(?:suspected|probable)\s+(?:[a-z-]+\s+){{0,4}}cases?",
+            rf"{qualifier}{number}\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?:suspected|under investigation)",
+            rf"(?:suspected|probable)\s+(?:[a-z-]+\s+){{0,4}}cases?\D{{0,18}}{qualifier}{number}",
+        ]
+    return [
+        rf"{qualifier}{number}\s+(?:suspected\s+)?(?:deaths?|dead|fatalities)",
+        rf"(?:deaths?|death toll|fatalities)\s+(?:top|hit|rise(?:s)? to|climb(?:s)? to|reach(?:es)?|exceed(?:s)?)\s+{qualifier}{number}",
+        rf"{qualifier}{number}\s+associated deaths?",
+    ]
+
+
+def story_analysis_sources(story: dict[str, Any], items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    sources: list[dict[str, Any]] = []
+    for item in sorted(items, key=lambda item: sort_timestamp_value(str(item.get("published_at", ""))), reverse=True):
+        text = normalize_whitespace(" ".join([str(item.get("title", "")), str(item.get("summary", ""))]))
+        if not text:
+            continue
+        sources.append(
+            {
+                "text": text,
+                "source": str(item.get("publisher_name") or item.get("display_source") or "source item"),
+                "date": str(item.get("published_at") or ""),
+                "source_status": story_item_source_status(item)[1],
+                "source_kind": story_item_source_kind(item),
+            }
+        )
+    for reference in story.get("related_references", []):
+        latest = reference.get("latest_outbreak", {}) if isinstance(reference.get("latest_outbreak"), dict) else {}
+        ref_text = normalize_whitespace(
+            " ".join(
+                str(value)
+                for value in [
+                    reference.get("pathogen", ""),
+                    latest.get("label", ""),
+                    latest.get("location", ""),
+                    latest.get("summary", ""),
+                    reference.get("surveillance_note", ""),
+                    reference.get("vaccine_status", ""),
+                    reference.get("treatment", ""),
+                    reference.get("research_caveats", ""),
+                ]
+                if value
+            )
+        )
+        if ref_text:
+            sources.append(
+                {
+                    "text": ref_text,
+                    "source": str(latest.get("source_name") or reference.get("name") or "reference desk"),
+                    "date": str(latest.get("as_of") or ""),
+                    "source_status": "Official report" if latest.get("source_name") else "Reference context",
+                    "source_kind": "official" if latest.get("source_name") else "reference",
+                }
+            )
+    story_text = normalize_whitespace(
+        " ".join(
+            [
+                str(story.get("display_title", "")),
+                str(story.get("lead_title", "")),
+                str(story.get("what_happened", "")),
+                str(story.get("latest_update_summary", "")),
+                " ".join(str(bullet) for bullet in story.get("latest_update_bullets", [])),
+            ]
+        )
+    )
+    if story_text:
+        sources.append(
+            {
+                "text": story_text,
+                "source": str(story.get("lead_source") or "story monitor"),
+                "date": str(story.get("latest_updated_at") or story.get("updated_at") or ""),
+                "source_status": "Monitor synthesis",
+                "source_kind": "monitor",
+            }
+        )
+    return sources
+
+
+def metric_candidate_score(source: dict[str, str], text: str) -> int:
+    lowered = text.lower()
+    score = sort_timestamp_value(source.get("date", ""))
+    source_kind = source.get("source_kind", "")
+    source_status = source.get("source_status", "")
+    if source_status == "Official report":
+        score += 350_000_000
+    elif source_kind in {"wire", "specialist_health"}:
+        score += 450_000_000
+    elif source_kind == "major_newsroom":
+        score += 250_000_000
+    elif source_status == "Needs verification":
+        score -= 80_000_000
+    if re.search(r"\bwho says\b|\bsays who\b|\bwho chief\b|\baccording to who\b", lowered):
+        score += 500_000_000
+    if "per bbc" in lowered or any(term in lowered for term in ("pre-world cup", "world cup", "fifa", "training camp")):
+        score -= 350_000_000
+    return score
+
+
+def metric_context_looks_historical(text: str, start: int, end: int) -> bool:
+    context = text[max(0, start - 90) : min(len(text), end + 90)].lower()
+    return any(token in context for token in ("2007", "2014", "2016", "first identified", "past outbreaks", "historical"))
+
+
+def format_metric_value(qualifier: str, number: str) -> str:
+    normalized_qualifier = normalize_whitespace(qualifier).lower().replace("approx.", "approximately")
+    qualifier_labels = {
+        "at least": "At least",
+        "more than": "More than",
+        "over": "Over",
+        "about": "About",
+        "around": "Around",
+        "approximately": "Approximately",
+    }
+    number = number.replace(",", "")
+    formatted = f"{int(number):,}" if number.isdigit() else number
+    if normalized_qualifier:
+        return f"{qualifier_labels.get(normalized_qualifier, normalized_qualifier.title())} {formatted}"
+    return formatted
+
+
+def metric_note_for_source(source: dict[str, str], metric_kind: str) -> str:
+    source_name = source.get("source") or "monitor source"
+    date_text = source.get("date") or "date not captured"
+    source_status = source.get("source_status") or "Needs verification"
+    subject = "case count" if metric_kind == "suspected_cases" else "death count"
+    if source_status == "Official report":
+        return f"Official-source {subject}; definitions may still change with case finding."
+    if source_status == "Needs verification":
+        return f"Observed in {source_name} ({date_text}); treat as not yet confirmed by this monitor."
+    return f"Public-report {subject} from {source_name} ({date_text}); compare against official updates."
+
+
+def infer_affected_countries(story: dict[str, Any], items: list[dict[str, Any]]) -> dict[str, str]:
+    countries: list[str] = []
+    for item in items:
+        if item.get("official") or item.get("source_confidence") == "official_agency":
+            countries.extend(split_country_field(str(item.get("country", ""))))
+    countries.extend(split_country_field(str(story.get("country", ""))))
+    for reference in story.get("related_references", []):
+        latest = reference.get("latest_outbreak", {}) if isinstance(reference.get("latest_outbreak"), dict) else {}
+        countries.extend(extract_country_mentions(str(latest.get("location", ""))))
+        countries.extend(extract_country_mentions(str(latest.get("summary", ""))))
+    normalized = dedupe_preserve_order(public_country_label(country) for country in countries if country)
+    if not normalized:
+        return {"value": "Unknown", "note": "No affected-country field was firm enough to summarize."}
+    return {"value": "; ".join(normalized), "note": "Derived from official/reference country fields where available."}
+
+
+def split_country_field(value: str) -> list[str]:
+    cleaned = normalize_whitespace(value)
+    if not cleaned:
+        return []
+    if cleaned.lower() in BROAD_REGION_LABELS:
+        return []
+    return [part.strip() for part in re.split(r"\s*/\s*|\s+and\s+|;", cleaned) if part.strip()]
+
+
+def extract_country_mentions(text: str) -> list[str]:
+    mentions: list[str] = []
+    for pattern, label in [
+        (r"\bDemocratic Republic of (?:the )?Congo\b|\bDRC\b|\bCongo\b", "DRC"),
+        (r"\bUganda\b", "Uganda"),
+        (r"\bSouth Sudan\b", "South Sudan"),
+        (r"\bRwanda\b", "Rwanda"),
+        (r"\bKenya\b", "Kenya"),
+    ]:
+        if re.search(pattern, text, flags=re.I):
+            mentions.append(label)
+    return mentions
+
+
+def public_country_label(country: str) -> str:
+    cleaned = normalize_whitespace(country)
+    replacements = {
+        "Democratic Republic of the Congo": "DRC",
+        "Democratic Republic of Congo": "DRC",
+        "Congo": "DRC",
+    }
+    return replacements.get(cleaned, cleaned)
+
+
+def infer_emergency_status(story: dict[str, Any], items: list[dict[str, Any]]) -> dict[str, str]:
+    text = combined_story_text(story, items)
+    if re.search(r"public health emergency of international concern|\bPHEIC\b", text, flags=re.I):
+        return {"value": "WHO PHEIC declared", "note": "Emergency status appears in official/source text."}
+    if re.search(r"public health emergency of continental security|\bPHECS\b", text, flags=re.I):
+        return {"value": "Africa CDC continental emergency", "note": "Continental emergency language appears in the reference/source layer."}
+    if re.search(r"\bWHO\b.{0,80}\bemergency\b|\bemergency\b.{0,80}\bWHO\b", text, flags=re.I):
+        return {"value": "WHO emergency language reported", "note": "The exact emergency category should be checked in the source."}
+    return {"value": "Unknown", "note": "No formal WHO/emergency status was extracted from the monitor data."}
+
+
+def infer_pathogen_lineage(story: dict[str, Any], items: list[dict[str, Any]]) -> dict[str, str]:
+    for reference in story.get("related_references", []):
+        pathogen = normalize_whitespace(str(reference.get("pathogen", "")))
+        if pathogen:
+            return {"value": pathogen, "note": "From the linked disease intelligence sheet."}
+    text = combined_story_text(story, items)
+    if re.search(r"\bBundibugyo\b", text, flags=re.I):
+        return {"value": "Bundibugyo virus / ebolavirus species", "note": "Species language appears in source text."}
+    return {"value": "Unknown", "note": "The monitor does not expose a specific lineage/species field."}
+
+
+def render_what_matters_now(story: dict[str, Any], items: list[dict[str, Any]]) -> str:
+    bullets = build_what_matters_bullets(story, items)
+    rows = "".join(f"<li>{escape(bullet)}</li>" for bullet in bullets[:5])
+    return (
+        '<section class="panel intelligence-panel" id="what-matters-now">'
+        "<h2>What Matters Now</h2>"
+        '<p class="muted-note">A short epidemiologic read of the active signal, bounded by what the monitor has actually captured.</p>'
+        f'<ul class="bullet-list intelligence-bullets">{rows}</ul>'
+        "</section>"
+    )
+
+
+def build_what_matters_bullets(story: dict[str, Any], items: list[dict[str, Any]]) -> list[str]:
+    text = combined_story_text(story, items)
+    lower = text.lower()
+    bullets: list[str] = []
+    if "public health emergency of international concern" in lower or "pheic" in lower:
+        bullets.append("WHO emergency status is part of the signal, but it is a coordination marker, not a final measure of epidemic size.")
+    if any(term in lower for term in ("suspected case", "suspected cases", "suspected death", "suspected deaths", "confirmed case", "confirmed cases")):
+        bullets.append("Suspected and confirmed counts are moving on different clocks: illness recognition, testing, reporting, and retrospective linkage can all lag.")
+    if any(term in lower for term in ("kampala", "kinshasa", "urban", "capital", "city", "imported case", "imported cases")):
+        bullets.append("Urban or referral-hospital signals matter because transport, care seeking, and dense contact networks can change the response problem quickly.")
+    if any(term in lower for term in ("border", "regional", "screening", "entry ban", "travel", "imported", "uganda", "rwanda", "south sudan", "kenya")):
+        bullets.append("Cross-border alerts and screening are signals to watch, but they do not by themselves prove sustained transmission outside the core outbreak area.")
+    if any(term in lower for term in ("health worker", "health workers", "healthcare worker", "healthcare workers", "hospital", "clinic")):
+        bullets.append("Healthcare-worker infections or deaths are an infection-prevention warning: the response system can become part of the transmission chain.")
+    if any(term in lower for term in ("ituri", "eastern drc", "conflict", "insecurity", "violence", "militia")):
+        bullets.append("Ituri and eastern-DRC signals should be read through access, security, transport, and laboratory-turnaround constraints, not just headline totals.")
+    if any(term in lower for term in ("vaccine", "therapeutic", "treatment", "no cure", "no vaccine", "experimental drug")):
+        bullets.append("Vaccine and therapeutic limits matter because countermeasures are species- and setting-specific; availability cannot be assumed from headlines alone.")
+    if not bullets:
+        bullets.append("The file is active because the source cluster is still changing; watch official updates before treating publisher repetition as new evidence.")
+        bullets.append("The practical question is whether new reports change case definition, geography, severity, or response capacity.")
+        bullets.append("Source confidence matters: official updates, wire reports, and metadata-only signals should not be weighted as if they were the same object.")
+    return dedupe_preserve_order(bullets)[:5]
+
+
+def render_historical_epidemiology_sidebars(story: dict[str, Any], items: list[dict[str, Any]]) -> str:
+    text = combined_story_text(story, items)
+    lower = text.lower()
+    callouts: list[tuple[str, str]] = []
+    if any(term in lower for term in ("kampala", "kinshasa", "urban", "capital", "city", "referral hospital", "airport")):
+        callouts.append(
+            (
+                "Why Urban Spread Matters",
+                "Urban spread is not just more people on a map. It changes delay, contact tracing, hospital exposure, rumor control, and the number of institutions that have to act at once.",
+            )
+        )
+    if any(term in lower for term in ("ituri", "eastern drc", "conflict", "insecurity", "violence", "militia")):
+        callouts.append(
+            (
+                "Why Conflict Zones Change Outbreak Control",
+                "Conflict and insecurity do not merely slow response teams. They distort surveillance itself: missed deaths, delayed samples, unsafe burials, interrupted contact follow-up, and distrust all change the denominator.",
+            )
+        )
+    callouts.append(
+        (
+            "Why Suspected Vs Confirmed Counts Diverge",
+            "Early outbreak counts are partly an accounting artifact. Suspected cases can rise before laboratory confirmation catches up, while retrospective case finding can move both the numerator and the timeline after the fact.",
+        )
+    )
+    callout_html = "".join(
+        '<article class="context-callout">'
+        f'<h3>{escape(title)}</h3>'
+        f'<p>{escape(body)}</p>'
+        "</article>"
+        for title, body in callouts[:3]
+    )
+    return (
+        '<section class="panel historical-context-panel" id="historical-context">'
+        "<h2>Historical Epidemiology Context</h2>"
+        f'<div class="context-callout-grid">{callout_html}</div>'
+        "</section>"
+    )
+
+
+def combined_story_text(story: dict[str, Any], items: list[dict[str, Any]]) -> str:
+    parts: list[str] = [
+        str(story.get("display_title", "")),
+        str(story.get("lead_title", "")),
+        str(story.get("what_happened", "")),
+        str(story.get("why_it_matters", "")),
+        str(story.get("latest_update_summary", "")),
+        " ".join(str(bullet) for bullet in story.get("latest_update_bullets", [])),
+    ]
+    for reference in story.get("related_references", []):
+        latest = reference.get("latest_outbreak", {}) if isinstance(reference.get("latest_outbreak"), dict) else {}
+        parts.extend(
+            str(value)
+            for value in [
+                reference.get("pathogen", ""),
+                reference.get("vaccine_status", ""),
+                reference.get("treatment", ""),
+                reference.get("surveillance_note", ""),
+                reference.get("research_caveats", ""),
+                latest.get("label", ""),
+                latest.get("location", ""),
+                latest.get("summary", ""),
+            ]
+            if value
+        )
+    for item in items:
+        parts.extend([str(item.get("title", "")), str(item.get("summary", "")), str(item.get("country", "")), str(item.get("region", ""))])
+    return normalize_whitespace(" ".join(parts))
+
+
+def render_story_methodology_note() -> str:
+    return (
+        '<section class="panel methodology-note" id="methodology-note">'
+        "<h2>Methodology Note</h2>"
+        "<p>This rolling monitor aggregates public reporting, official public-health updates, and source metadata. It is not an official surveillance dashboard, a line list, or a final outbreak chronology.</p>"
+        "<p>Counts may differ across sources because reporting lags, suspected versus confirmed definitions, retrospective case finding, laboratory turnaround, and duplicate publisher coverage can all move faster than cleaned surveillance data.</p>"
+        "</section>"
+    )
+
+
+def story_item_intelligence_category(item: dict[str, Any]) -> tuple[str, str]:
+    text = " ".join([str(item.get("title", "")), str(item.get("summary", "")), str(item.get("category", ""))]).lower()
+    if any(term in text for term in ("opinion", "commentary", "reaction", "rubio", "trump", "panic", "media", "what to know", "all you need to know")):
+        key = "commentary-political-reaction-media-discourse"
+    elif any(term in text for term in ("border", "screening", "entry ban", "travel", "imported", "regional coordination", "alert", "uganda", "rwanda", "south sudan", "kenya", "asia")):
+        key = "border-regional-spread-concerns"
+    elif any(term in text for term in ("response", "support", "deploy", "clinic", "health worker", "health workers", "contact tracing", "fund", "pledges", "scale up", "monitoring")):
+        key = "operational-response"
+    elif any(term in text for term in ("vaccine", "therapeutic", "treatment", "no cure", "no vaccine", "experimental", "strain", "species", "lineage", "genomic", "analysis of past")):
+        key = "scientific-vaccine-therapeutic-context"
+    else:
+        key = "confirmed-epidemiologic-updates"
+    return key, INTELLIGENCE_CATEGORY_LABELS[key]
+
+
+def story_item_source_status(item: dict[str, Any]) -> tuple[str, str]:
+    text = " ".join([str(item.get("title", "")), str(item.get("summary", ""))]).lower()
+    confidence = normalize_whitespace(str(item.get("source_confidence", ""))).lower().replace(" ", "_")
+    link_quality = normalize_whitespace(str(item.get("link_quality", ""))).lower().replace(" ", "_")
+    if any(term in text for term in ("opinion", "commentary", "reaction")) and not item.get("official"):
+        return "commentary", "Commentary"
+    if item.get("official") or confidence == "official_agency":
+        if "confirmed" in text and "not confirmed" not in text:
+            return "confirmed", "Confirmed"
+        return "official-report", "Official report"
+    if any(term in text for term in ("preliminary", "suspected", "reportedly", "under investigation", "not yet confirmed")):
+        return "preliminary", "Preliminary"
+    if confidence in {"aggregator_only", "metadata_only_signal"} or link_quality == "metadata_only":
+        return "needs-verification", "Needs verification"
+    return "media-report", "Media report"
+
+
+def render_story_location_line(item: dict[str, Any]) -> str:
+    location = infer_story_item_location(item)
+    if not location:
+        return ""
+    return f'<p class="story-location-line"><strong>Location:</strong> {escape(location)}</p>'
+
+
+def infer_story_item_location(item: dict[str, Any]) -> str:
+    text = " ".join([str(item.get("title", "")), str(item.get("summary", "")), str(item.get("country", ""))])
+    country = normalize_whitespace(str(item.get("country", "")))
+    region = normalize_whitespace(str(item.get("region", "")))
+    if re.search(r"\bMongbwalu\b", text, flags=re.I):
+        return "DRC / Ituri / Mongbwalu"
+    if re.search(r"\bRwampara\b", text, flags=re.I):
+        return "DRC / Ituri / Rwampara"
+    if re.search(r"\bIturi\b", text, flags=re.I):
+        return "DRC / Ituri"
+    if re.search(r"\bKampala\b", text, flags=re.I):
+        return "Uganda / Kampala"
+    if re.search(r"\bKinshasa\b", text, flags=re.I):
+        return "DRC / Kinshasa"
+    text_countries = dedupe_preserve_order(public_country_label(country) for country in extract_country_mentions(text))
+    if text_countries:
+        return " / ".join(text_countries)
+    if country:
+        parts = [public_country_label(part) for part in split_country_field(country)]
+        if parts:
+            return " / ".join(dedupe_preserve_order(parts))
+    if region and region.lower() not in BROAD_REGION_LABELS:
+        return region
+    if story_item_intelligence_category(item)[0] == "border-regional-spread-concerns":
+        return "Regional"
+    return ""
+
+
+def dedupe_preserve_order(values) -> list[str]:
+    seen: set[str] = set()
+    deduped: list[str] = []
+    for value in values:
+        cleaned = normalize_whitespace(str(value))
+        if not cleaned or cleaned.lower() in seen:
+            continue
+        seen.add(cleaned.lower())
+        deduped.append(cleaned)
+    return deduped
+
+
 def render_story_item_card(item: dict[str, Any], label: str) -> str:
     published_at = item.get("published_at", "")
     summary_text = (item.get("summary") or "").strip()
-    is_low_detail = bool(item.get("low_detail")) or summary_text == "Limited detail was available from feed metadata alone."
+    is_low_detail = bool(item.get("low_detail")) or summary_text == LOW_DETAIL_SUMMARY
     summary_html = "" if is_low_detail or not summary_text else f'<p>{escape(summary_text)}</p>'
     card_class = "site-card sortable-card compact-card" if is_low_detail else "site-card sortable-card"
     link_quality_label = normalize_link_quality_label(str(item.get("link_quality", "direct_article")))
@@ -1593,6 +2084,9 @@ def render_story_item_card(item: dict[str, Any], label: str) -> str:
     source_confidence_badge = render_story_item_source_confidence_badge(item)
     access_badge = render_access_badge(item)
     metadata_badge = '<span class="badge">Metadata only</span>' if is_low_detail else ""
+    category_key, category_label = story_item_intelligence_category(item)
+    source_status_key, source_status_label = story_item_source_status(item)
+    location_line = render_story_location_line(item)
     region = normalize_whitespace(str(item.get("region", ""))) or "Unknown"
     source_kind = story_item_source_kind(item)
     access = story_item_access(item)
@@ -1601,9 +2095,14 @@ def render_story_item_card(item: dict[str, Any], label: str) -> str:
     claim_type = story_item_claim_type(item)
     story_status = normalize_whitespace(str(item.get("story_status", ""))).lower().replace(" ", "_") or "active_investigation"
     return (
-        f'<article class="{card_class} searchable-card" data-sort-ts="{sort_timestamp_value(published_at)}" data-sort-source="{escape_attr(str(item.get("publisher_name", item.get("display_source", "Unknown"))))}" data-sort-title="{escape_attr(str(item.get("title", "")))}" data-search="{escape_attr(story_item_search_text(item))}" data-source-kind="{escape_attr(source_kind)}" data-freshness="{escape_attr(str(item.get("freshness_state") or "live"))}" data-link-quality="{escape_attr(str(item.get("link_quality") or "direct_article"))}" data-region="{escape_attr(region)}" data-access="{escape_attr(access)}" data-date-window="{escape_attr(age_bucket)}" data-scope="{escape_attr(scope)}" data-official="{escape_attr('true' if item.get('official') else 'false')}" data-story-status="{escape_attr(story_status)}" data-claim-type="{escape_attr(claim_type)}">'
+        f'<article class="{card_class} searchable-card" data-sort-ts="{sort_timestamp_value(published_at)}" data-sort-source="{escape_attr(str(item.get("publisher_name", item.get("display_source", "Unknown"))))}" data-sort-title="{escape_attr(str(item.get("title", "")))}" data-search="{escape_attr(story_item_search_text(item))}" data-source-kind="{escape_attr(source_kind)}" data-freshness="{escape_attr(str(item.get("freshness_state") or "live"))}" data-link-quality="{escape_attr(str(item.get("link_quality") or "direct_article"))}" data-region="{escape_attr(region)}" data-access="{escape_attr(access)}" data-date-window="{escape_attr(age_bucket)}" data-scope="{escape_attr(scope)}" data-official="{escape_attr('true' if item.get('official') else 'false')}" data-story-status="{escape_attr(story_status)}" data-claim-type="{escape_attr(claim_type)}" data-intel-category="{escape_attr(category_key)}">'
         f'<div class="kicker">{escape(label)}</div>'
+        '<div class="story-card-labels">'
+        f'<span class="badge story-category story-category-{escape_attr(category_key)}">{escape(category_label)}</span>'
+        f'<span class="badge source-status source-status-{escape_attr(source_status_key)}">{escape(source_status_label)}</span>'
+        "</div>"
         f'<h3><a href="{escape_attr(item.get("preferred_url") or item.get("source_url", ""))}">{escape(item.get("title", ""))}</a></h3>'
+        f"{location_line}"
         f"{summary_html}"
         f'<div class="meta-row"><span class="badge">{escape(item.get("publisher_name", item.get("display_source", "Unknown")))}</span>{source_kind_badge}{source_confidence_badge}{access_badge}{freshness_badge}<span class="badge">{escape(region)}</span><span class="badge">{escape(item.get("published_at", "Unknown"))}</span><span class="badge">{link_quality_label}</span>{metadata_badge}</div>'
         f"</article>"
@@ -1816,6 +2315,7 @@ def render_story_claim_badges(claim_types: list[str]) -> str:
 
 
 def render_story_filter_bar(items: list[dict[str, Any]]) -> str:
+    intel_category_options = build_story_filter_options(items, "intel_category", lambda item: story_item_intelligence_category(item)[0])
     source_kind_options = build_story_filter_options(items, "source_kind", source_kinds_for_item)
     freshness_options = build_story_filter_options(items, "freshness", lambda item: str(item.get("freshness_state") or "live"))
     link_quality_options = build_story_filter_options(items, "link_quality", lambda item: str(item.get("link_quality") or "direct_article"))
@@ -1828,6 +2328,7 @@ def render_story_filter_bar(items: list[dict[str, Any]]) -> str:
         '<div class="story-filter-shell">'
         '<div class="story-filter-grid">'
         f'{render_story_search_field()}'
+        f'{render_story_filter_select("Category", "intel-category", intel_category_options)}'
         f'{render_story_filter_select("Source type", "source-kind", source_kind_options)}'
         f'{render_story_filter_select("Freshness", "freshness", freshness_options)}'
         f'{render_story_filter_select("Link quality", "link-quality", link_quality_options)}'
@@ -1899,6 +2400,8 @@ def format_story_filter_label(key: str, value: str) -> str:
             "other": "Other",
         }
         return labels.get(normalized, value.title())
+    if key == "intel_category":
+        return INTELLIGENCE_CATEGORY_LABELS.get(value, value.replace("-", " ").replace("_", " ").title())
     if key == "freshness":
         labels = {
             "live": "Live fetch",
@@ -2342,6 +2845,30 @@ def base_styles() -> str:
       .sort-control { display: inline-flex; align-items: center; gap: 8px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; color: var(--ink-soft); font-size: 0.88rem; }
       .sort-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 999px; padding: 8px 12px; color: var(--ink); font: inherit; }
       .sort-select:hover { background: var(--accent-soft); }
+      .outbreak-dashboard-block { margin-top: 18px; }
+      .outbreak-dashboard { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+      .dashboard-item { min-width: 0; display: grid; gap: 5px; padding: 12px 14px; border: 1px solid rgba(187,169,143,0.70); border-radius: 16px; background: rgba(255,252,247,0.70); }
+      .dashboard-label, .dashboard-note, .story-location-line, .story-card-labels { font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .dashboard-label { color: var(--accent); font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; }
+      .dashboard-item strong { color: var(--ink); font-size: 1rem; line-height: 1.2; }
+      .dashboard-note { color: var(--ink-soft); font-size: 0.82rem; line-height: 1.35; }
+      .intelligence-panel { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(245,239,228,0.96)); }
+      .intelligence-bullets li { margin-bottom: 8px; }
+      .historical-context-panel { background: linear-gradient(180deg, rgba(248,243,233,0.98), rgba(242,235,222,0.96)); }
+      .context-callout-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+      .context-callout { min-width: 0; border-left: 3px solid rgba(141,63,47,0.35); padding: 2px 0 2px 14px; }
+      .context-callout h3 { margin-bottom: 8px; font-size: 1rem; }
+      .context-callout p { margin: 0; color: var(--ink-soft); font-size: 0.95rem; }
+      .story-card-labels { display: flex; flex-wrap: wrap; gap: 7px; margin: -2px 0 10px; }
+      .story-location-line { margin: 8px 0 0; color: var(--ink-soft); font-size: 0.9rem; }
+      .source-status-confirmed, .source-status-official-report { background: rgba(31,91,137,0.12); color: #1f5b89; border-color: rgba(31,91,137,0.24); }
+      .source-status-media-report { background: rgba(60,88,48,0.10); color: #35552b; border-color: rgba(60,88,48,0.20); }
+      .source-status-preliminary, .source-status-needs-verification { background: rgba(181,138,49,0.12); color: #8c6a17; border-color: rgba(181,138,49,0.22); }
+      .source-status-commentary { background: rgba(110,89,68,0.10); color: #6e5944; border-color: rgba(110,89,68,0.22); }
+      .story-category-scientific-vaccine-therapeutic-context { background: rgba(31,91,137,0.09); color: #1f5b89; border-color: rgba(31,91,137,0.20); }
+      .story-category-border-regional-spread-concerns { background: rgba(141,63,47,0.10); color: #8d3f2f; border-color: rgba(141,63,47,0.20); }
+      .story-category-operational-response { background: rgba(60,88,48,0.10); color: #35552b; border-color: rgba(60,88,48,0.20); }
+      .story-category-commentary-political-reaction-media-discourse { background: rgba(110,89,68,0.10); color: #6e5944; border-color: rgba(110,89,68,0.22); }
       .story-filter-shell { display: grid; gap: 10px; }
       .story-filter-grid { display: grid; grid-template-columns: minmax(0, 1.6fr) repeat(4, minmax(130px, 1fr)); gap: 10px; align-items: end; }
       .filter-group { display: grid; gap: 6px; }
@@ -2371,9 +2898,9 @@ def base_styles() -> str:
       h2 { font-size: 1.4rem; }
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
-      @media (max-width: 1180px) { .panel-grid, .atlas-layout, .atlas-hero-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (max-width: 1180px) { .panel-grid, .atlas-layout, .atlas-hero-grid, .context-callout-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .outbreak-dashboard { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
       @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid, .atlas-selector-grid { grid-template-columns: 1fr; } .atlas-map { min-height: 340px; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
-      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } .live-update-banner { right: 12px; bottom: 12px; width: calc(100vw - 24px); } .live-update-actions { justify-content: space-between; } }
+      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } .outbreak-dashboard { grid-template-columns: 1fr; } .dashboard-item { padding: 11px 12px; } .live-update-banner { right: 12px; bottom: 12px; width: calc(100vw - 24px); } .live-update-actions { justify-content: space-between; } }
     """
 
 
@@ -2443,6 +2970,7 @@ def story_filter_script() -> str:
         let visibleCount = 0;
         storyFilterCards.forEach((card) => {
           const matchesQuery = !query || normalizeStoryFilterText(card.dataset.search).includes(query);
+          const matchesIntelCategory = activeFilters["intel-category"] === "all" || normalizeStoryFilterText(card.dataset.intelCategory) === activeFilters["intel-category"];
           const matchesSourceKind = activeFilters["source-kind"] === "all" || normalizeStoryFilterText(card.dataset.sourceKind) === activeFilters["source-kind"];
           const matchesFreshness = activeFilters["freshness"] === "all" || normalizeStoryFilterText(card.dataset.freshness) === activeFilters["freshness"];
           const matchesLinkQuality = activeFilters["link-quality"] === "all" || normalizeStoryFilterText(card.dataset.linkQuality) === activeFilters["link-quality"];
@@ -2451,7 +2979,7 @@ def story_filter_script() -> str:
           const matchesDateWindow = activeFilters["date-window"] === "all" || normalizeStoryFilterText(card.dataset.dateWindow) === activeFilters["date-window"];
           const matchesStoryStatus = activeFilters["story-status"] === "all" || normalizeStoryFilterText(card.dataset.storyStatus) === activeFilters["story-status"];
           const matchesClaimType = activeFilters["claim-type"] === "all" || normalizeStoryFilterText(card.dataset.claimType) === activeFilters["claim-type"];
-          const visible = matchesQuery && matchesSourceKind && matchesFreshness && matchesLinkQuality && matchesRegion && matchesAccess && matchesDateWindow && matchesStoryStatus && matchesClaimType;
+          const visible = matchesQuery && matchesIntelCategory && matchesSourceKind && matchesFreshness && matchesLinkQuality && matchesRegion && matchesAccess && matchesDateWindow && matchesStoryStatus && matchesClaimType;
           card.hidden = !visible;
           if (visible) visibleCount += 1;
         });
