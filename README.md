@@ -287,7 +287,7 @@ Purpose:
 
 - runs `python src/public_publish.py`
 - acts as the canonical live-site updater
-- rebuilds and republishes the public site hourly
+- rebuilds and republishes the public site hourly at `:15`
 - uses the same guarded publish lock as the overnight job, so overlapping triggers exit cleanly
 
 Install it:
@@ -308,7 +308,7 @@ Repo file:
 Purpose:
 
 - runs `python src/public_publish.py`
-- rebuilds and republishes the public site hourly
+- rebuilds and republishes the public site hourly at `:15`
 - keeps the historical launchd label, but no longer depends on a brittle relative-path shell invocation
 
 ## GitHub Pages
