@@ -7,13 +7,17 @@
 
     <key>ProgramArguments</key>
     <array>
-      <string>/bin/zsh</string>
-      <string>-lc</string>
-      <string>cd '/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier' &amp;&amp; ./scripts/publish_public_site.sh</string>
+      <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/.venv/bin/python</string>
+      <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/src/public_publish.py</string>
     </array>
 
-    <key>WorkingDirectory</key>
-    <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>EPI_DOSSIER_PUBLIC_PUBLISH_TIMEOUT_SECONDS</key>
+      <string>2700</string>
+      <key>EPI_DOSSIER_PUBLIC_PUBLISH_STALE_LOCK_SECONDS</key>
+      <string>3600</string>
+    </dict>
 
     <key>RunAtLoad</key>
     <true/>

@@ -155,6 +155,13 @@ Build, commit, and push the public site when generated `docs/` files changed:
 ./scripts/publish_public_site.sh
 ```
 
+Launchd uses the wrapper around that script so it can run by absolute path and recover from old lock directories:
+
+```bash
+python src/public_publish.py --check
+python src/public_publish.py
+```
+
 ## CLI notes
 
 `src.main`
@@ -224,6 +231,7 @@ The project now treats local and public output as parallel surfaces from the sam
 - public exports use web-safe relative paths instead of `file:///` URLs
 - the live GitHub Pages site updates only after a newer `docs/` build has been pushed
 - `scripts/publish_public_site.sh` is the guarded public publish path; it rebuilds the site, refuses to auto-publish if non-generated repo files are dirty, and pushes only generated `docs/` changes
+- `src/public_publish.py` is the launchd-safe wrapper around that script; it pins the repo path, clears old empty publish locks, and terminates stuck runs after the configured timeout
 - public pages poll `docs/app_exports/manifest.json` and show a refresh prompt when a newer run has landed while a reader is still on the page
 
 ## Scheduling
@@ -277,9 +285,10 @@ Repo file:
 
 Purpose:
 
-- runs `./scripts/publish_public_site.sh`
+- runs `python src/public_publish.py`
 - acts as the canonical live-site updater
 - rebuilds and republishes the public site hourly
+- uses the same guarded publish lock as the overnight job, so overlapping triggers exit cleanly
 
 Install it:
 
@@ -298,8 +307,9 @@ Repo file:
 
 Purpose:
 
-- runs `./scripts/publish_public_site.sh`
-- gives the public site extra overnight refresh passes while sources and clustering continue to evolve
+- runs `python src/public_publish.py`
+- rebuilds and republishes the public site hourly
+- keeps the historical launchd label, but no longer depends on a brittle relative-path shell invocation
 
 ## GitHub Pages
 

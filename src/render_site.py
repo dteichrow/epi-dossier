@@ -1894,19 +1894,19 @@ def build_what_matters_bullets(story: dict[str, Any], items: list[dict[str, Any]
     lower = text.lower()
     bullets: list[str] = []
     if "public health emergency of international concern" in lower or "pheic" in lower:
-        bullets.append("WHO emergency status is part of the signal, but it is a coordination marker, not a final measure of epidemic size.")
+        bullets.append("WHO emergency status signals coordination and escalation; epidemic size still depends on cleaned surveillance data.")
     if any(term in lower for term in ("suspected case", "suspected cases", "suspected death", "suspected deaths", "confirmed case", "confirmed cases")):
         bullets.append("Suspected and confirmed counts are moving on different clocks: illness recognition, testing, reporting, and retrospective linkage can all lag.")
     if any(term in lower for term in ("kampala", "kinshasa", "urban", "capital", "city", "imported case", "imported cases")):
         bullets.append("Urban or referral-hospital signals matter because transport, care seeking, and dense contact networks can change the response problem quickly.")
     if any(term in lower for term in ("border", "regional", "screening", "entry ban", "travel", "imported", "uganda", "rwanda", "south sudan", "kenya")):
-        bullets.append("Cross-border alerts and screening are signals to watch, but they do not by themselves prove sustained transmission outside the core outbreak area.")
+        bullets.append("Cross-border alerts and screening mark regional risk; sustained transmission outside the core outbreak area still needs source-level confirmation.")
     if any(term in lower for term in ("health worker", "health workers", "healthcare worker", "healthcare workers", "hospital", "clinic")):
         bullets.append("Healthcare-worker infections or deaths are an infection-prevention warning: the response system can become part of the transmission chain.")
     if any(term in lower for term in ("ituri", "eastern drc", "conflict", "insecurity", "violence", "militia")):
-        bullets.append("Ituri and eastern-DRC signals should be read through access, security, transport, and laboratory-turnaround constraints, not just headline totals.")
+        bullets.append("Ituri and eastern-DRC signals require attention to access, security, transport, and laboratory-turnaround constraints alongside headline totals.")
     if any(term in lower for term in ("vaccine", "therapeutic", "treatment", "no cure", "no vaccine", "experimental drug")):
-        bullets.append("Vaccine and therapeutic limits matter because countermeasures are species- and setting-specific; availability cannot be assumed from headlines alone.")
+        bullets.append("Vaccine and therapeutic limits matter because countermeasure availability depends on species- and setting-specific guidance.")
     if not bullets:
         bullets.append("The file is active because the source cluster is still changing; watch official updates before treating publisher repetition as new evidence.")
         bullets.append("The practical question is whether new reports change case definition, geography, severity, or response capacity.")
@@ -1922,14 +1922,14 @@ def render_historical_epidemiology_sidebars(story: dict[str, Any], items: list[d
         callouts.append(
             (
                 "Why Urban Spread Matters",
-                "Urban spread is not just more people on a map. It changes delay, contact tracing, hospital exposure, rumor control, and the number of institutions that have to act at once.",
+                "Urban spread changes the outbreak problem: delays, care seeking, contact tracing, hospital exposure, rumor control, and institutional coordination all become harder at once.",
             )
         )
     if any(term in lower for term in ("ituri", "eastern drc", "conflict", "insecurity", "violence", "militia")):
         callouts.append(
             (
                 "Why Conflict Zones Change Outbreak Control",
-                "Conflict and insecurity do not merely slow response teams. They distort surveillance itself: missed deaths, delayed samples, unsafe burials, interrupted contact follow-up, and distrust all change the denominator.",
+                "Conflict and insecurity distort surveillance and response: missed deaths, delayed samples, unsafe burials, interrupted contact follow-up, and distrust all change the denominator.",
             )
         )
     callouts.append(
@@ -1987,7 +1987,7 @@ def render_story_methodology_note() -> str:
     return (
         '<section class="panel methodology-note" id="methodology-note">'
         "<h2>Methodology Note</h2>"
-        "<p>This rolling monitor aggregates public reporting, official public-health updates, and source metadata. It is not an official surveillance dashboard, a line list, or a final outbreak chronology.</p>"
+        "<p>This rolling monitor aggregates public reporting, official public-health updates, and source metadata. Official surveillance dashboards remain the authority for final counts, line lists, and cleaned outbreak chronologies.</p>"
         "<p>Counts may differ across sources because reporting lags, suspected versus confirmed definitions, retrospective case finding, laboratory turnaround, and duplicate publisher coverage can all move faster than cleaned surveillance data.</p>"
         "</section>"
     )

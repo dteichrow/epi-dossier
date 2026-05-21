@@ -8,25 +8,22 @@
     <key>ProgramArguments</key>
     <array>
       <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/.venv/bin/python</string>
-      <string>-c</string>
-      <string>import pathlib, subprocess, sys; repo = "/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier"; script = (pathlib.Path(repo) / "scripts/publish_public_site.sh").read_text(); script = script.replace('REPO_ROOT="${0:A:h:h}"', 'REPO_ROOT="' + repo + '"', 1); raise SystemExit(subprocess.call(["/bin/zsh", "-lc", script]))</string>
+      <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/src/public_publish.py</string>
     </array>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>EPI_DOSSIER_PUBLIC_PUBLISH_TIMEOUT_SECONDS</key>
+      <string>2700</string>
+      <key>EPI_DOSSIER_PUBLIC_PUBLISH_STALE_LOCK_SECONDS</key>
+      <string>3600</string>
+    </dict>
 
     <key>RunAtLoad</key>
     <true/>
 
-    <key>StartCalendarInterval</key>
-    <array>
-      <dict><key>Hour</key><integer>22</integer><key>Minute</key><integer>0</integer></dict>
-      <dict><key>Hour</key><integer>23</integer><key>Minute</key><integer>0</integer></dict>
-      <dict><key>Hour</key><integer>0</integer><key>Minute</key><integer>0</integer></dict>
-      <dict><key>Hour</key><integer>1</integer><key>Minute</key><integer>0</integer></dict>
-      <dict><key>Hour</key><integer>2</integer><key>Minute</key><integer>0</integer></dict>
-      <dict><key>Hour</key><integer>3</integer><key>Minute</key><integer>0</integer></dict>
-      <dict><key>Hour</key><integer>4</integer><key>Minute</key><integer>0</integer></dict>
-      <dict><key>Hour</key><integer>5</integer><key>Minute</key><integer>0</integer></dict>
-      <dict><key>Hour</key><integer>6</integer><key>Minute</key><integer>0</integer></dict>
-    </array>
+    <key>StartInterval</key>
+    <integer>3600</integer>
 
     <key>StandardOutPath</key>
     <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/logs/overnight-build.out.log</string>
