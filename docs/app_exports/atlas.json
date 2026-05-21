@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "LancasterOnline now explicitly uses investigation or monitoring language.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: KAKE.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-21T06:42:22",
-  "run_id": "run_6e8408103242f03d"
+  "generated_at": "2026-05-21T07:43:22",
+  "run_id": "run_6e4ba0ce4a68716e"
 }
