@@ -1921,21 +1921,21 @@ def render_historical_epidemiology_sidebars(story: dict[str, Any], items: list[d
     if any(term in lower for term in ("kampala", "kinshasa", "urban", "capital", "city", "referral hospital", "airport")):
         callouts.append(
             (
-                "Why Urban Spread Matters",
+                "Urban Spread",
                 "Urban spread changes the outbreak problem: delays, care seeking, contact tracing, hospital exposure, rumor control, and institutional coordination all become harder at once.",
             )
         )
     if any(term in lower for term in ("ituri", "eastern drc", "conflict", "insecurity", "violence", "militia")):
         callouts.append(
             (
-                "Why Conflict Zones Change Outbreak Control",
+                "Conflict-Zone Response",
                 "Conflict and insecurity distort surveillance and response: missed deaths, delayed samples, unsafe burials, interrupted contact follow-up, and distrust all change the denominator.",
             )
         )
     callouts.append(
         (
-            "Why Suspected Vs Confirmed Counts Diverge",
-            "Early outbreak counts are partly an accounting artifact. Suspected cases can rise before laboratory confirmation catches up, while retrospective case finding can move both the numerator and the timeline after the fact.",
+            "Suspected Vs Confirmed Counts",
+            "Early outbreak counts reflect case definitions, testing access, laboratory turnaround, and retrospective case finding. Suspected cases can rise before confirmation catches up, and cleaned totals can change after field investigation.",
         )
     )
     callout_html = "".join(

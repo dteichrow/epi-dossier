@@ -173,9 +173,9 @@ def test_render_story_page_adds_outbreak_intelligence_layer():
     assert "WHO PHEIC declared" in content
     assert "Ebola viruses, including Bundibugyo virus" in content
     assert "What Matters Now" in content
-    assert "Why Urban Spread Matters" in content
-    assert "Why Conflict Zones Change Outbreak Control" in content
-    assert "Why Suspected Vs Confirmed Counts Diverge" in content
+    assert "Urban Spread" in content
+    assert "Conflict-Zone Response" in content
+    assert "Suspected Vs Confirmed Counts" in content
     assert "Methodology Note" in content
     assert "Scientific / vaccine / therapeutic context" in content
     assert "Operational response" in content
