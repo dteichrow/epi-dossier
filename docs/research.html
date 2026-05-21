@@ -64,6 +64,30 @@
       .sort-control { display: inline-flex; align-items: center; gap: 8px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; color: var(--ink-soft); font-size: 0.88rem; }
       .sort-select { border: 1px solid rgba(187,169,143,0.88); background: rgba(255,252,247,0.96); border-radius: 999px; padding: 8px 12px; color: var(--ink); font: inherit; }
       .sort-select:hover { background: var(--accent-soft); }
+      .outbreak-dashboard-block { margin-top: 18px; }
+      .outbreak-dashboard { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+      .dashboard-item { min-width: 0; display: grid; gap: 5px; padding: 12px 14px; border: 1px solid rgba(187,169,143,0.70); border-radius: 16px; background: rgba(255,252,247,0.70); }
+      .dashboard-label, .dashboard-note, .story-location-line, .story-card-labels { font-family: "Avenir Next", "Helvetica Neue", sans-serif; }
+      .dashboard-label { color: var(--accent); font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; }
+      .dashboard-item strong { color: var(--ink); font-size: 1rem; line-height: 1.2; }
+      .dashboard-note { color: var(--ink-soft); font-size: 0.82rem; line-height: 1.35; }
+      .intelligence-panel { background: linear-gradient(180deg, rgba(255,253,248,0.98), rgba(245,239,228,0.96)); }
+      .intelligence-bullets li { margin-bottom: 8px; }
+      .historical-context-panel { background: linear-gradient(180deg, rgba(248,243,233,0.98), rgba(242,235,222,0.96)); }
+      .context-callout-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+      .context-callout { min-width: 0; border-left: 3px solid rgba(141,63,47,0.35); padding: 2px 0 2px 14px; }
+      .context-callout h3 { margin-bottom: 8px; font-size: 1rem; }
+      .context-callout p { margin: 0; color: var(--ink-soft); font-size: 0.95rem; }
+      .story-card-labels { display: flex; flex-wrap: wrap; gap: 7px; margin: -2px 0 10px; }
+      .story-location-line { margin: 8px 0 0; color: var(--ink-soft); font-size: 0.9rem; }
+      .source-status-confirmed, .source-status-official-report { background: rgba(31,91,137,0.12); color: #1f5b89; border-color: rgba(31,91,137,0.24); }
+      .source-status-media-report { background: rgba(60,88,48,0.10); color: #35552b; border-color: rgba(60,88,48,0.20); }
+      .source-status-preliminary, .source-status-needs-verification { background: rgba(181,138,49,0.12); color: #8c6a17; border-color: rgba(181,138,49,0.22); }
+      .source-status-commentary { background: rgba(110,89,68,0.10); color: #6e5944; border-color: rgba(110,89,68,0.22); }
+      .story-category-scientific-vaccine-therapeutic-context { background: rgba(31,91,137,0.09); color: #1f5b89; border-color: rgba(31,91,137,0.20); }
+      .story-category-border-regional-spread-concerns { background: rgba(141,63,47,0.10); color: #8d3f2f; border-color: rgba(141,63,47,0.20); }
+      .story-category-operational-response { background: rgba(60,88,48,0.10); color: #35552b; border-color: rgba(60,88,48,0.20); }
+      .story-category-commentary-political-reaction-media-discourse { background: rgba(110,89,68,0.10); color: #6e5944; border-color: rgba(110,89,68,0.22); }
       .story-filter-shell { display: grid; gap: 10px; }
       .story-filter-grid { display: grid; grid-template-columns: minmax(0, 1.6fr) repeat(4, minmax(130px, 1fr)); gap: 10px; align-items: end; }
       .filter-group { display: grid; gap: 6px; }
@@ -93,9 +117,9 @@
       h2 { font-size: 1.4rem; }
       h3 { font-size: 1.06rem; }
       .site-card h3 { line-height: 1.12; }
-      @media (max-width: 1180px) { .panel-grid, .atlas-layout, .atlas-hero-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (max-width: 1180px) { .panel-grid, .atlas-layout, .atlas-hero-grid, .context-callout-grid { grid-template-columns: 1fr; } .story-filter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .outbreak-dashboard { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
       @media (max-width: 900px) { .page { padding: 16px 14px 42px; } .hero, .panel, .site-header, .section-nav { padding: 18px; border-radius: 22px; } .site-header { align-items: flex-start; flex-direction: column; } .story-filter-grid { grid-template-columns: 1fr; } .story-grid, .atlas-selector-grid { grid-template-columns: 1fr; } .atlas-map { min-height: 340px; } h1 { font-size: clamp(1.9rem, 10vw, 3.2rem); } }
-      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } .live-update-banner { right: 12px; bottom: 12px; width: calc(100vw - 24px); } .live-update-actions { justify-content: space-between; } }
+      @media (max-width: 620px) { .site-nav, .section-nav-links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; } .site-header-copy { min-width: 0; } .archive-row { flex-direction: column; align-items: flex-start; } .badge, .link-pill { line-height: 1.2; } .outbreak-dashboard { grid-template-columns: 1fr; } .dashboard-item { padding: 11px 12px; } .live-update-banner { right: 12px; bottom: 12px; width: calc(100vw - 24px); } .live-update-actions { justify-content: space-between; } }
     </style>
   </head>
   <body>
@@ -120,7 +144,7 @@
       </section>
       <section class="panel" id="research-linked-files">
         <h2>Research-Linked Active Files</h2>
-        <div class="story-grid"><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="./stories/story_56666e9c6c86e976-ebola-virus-disease.html">Ebola virus disease</a></h3><p>New publisher/source coverage joined this story cluster: Anadolu Ajansı, Business Today, CW39 Houston.</p></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="./stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html">Hantavirus and cruise-ship outbreak</a></h3><p>The lead item has changed to Britain gets experimental drug from Japan to bolster hantavirus response from Reuters.</p></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="./stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html">Measles transmission and vaccination</a></h3><p>香港電台新聞網 now includes deaths or fatal cases in the story frame.</p></article></div>
+        <div class="story-grid"><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="./stories/story_56666e9c6c86e976-ebola-virus-disease.html">Ebola virus disease</a></h3><p>New publisher/source coverage joined this story cluster: ABP News, AOL.com, Ahram Online.</p></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="./stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html">Hantavirus and cruise-ship outbreak</a></h3><p>The lead item has changed to Britain gets experimental drug from Japan to bolster hantavirus response from Reuters.</p></article><article class="site-card feature-card"><div class="kicker">Outbreak file</div><h3><a href="./stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html">Measles transmission and vaccination</a></h3><p>New publisher/source coverage joined this story cluster: CNN.</p></article></div>
       </section>
       <section class="panel-grid">
         <section class="panel" id="reference-links">
@@ -129,7 +153,7 @@
         </section>
         <section class="panel" id="archive-links">
           <h2>Recent Archive Days</h2>
-          <div class="archive-table"><article class="archive-row"><a href="./2026/05/2026-05-20.html"><strong>2026-05-20</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-19.html"><strong>2026-05-19</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-18.html"><strong>2026-05-18</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-17.html"><strong>2026-05-17</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-16.html"><strong>2026-05-16</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-15.html"><strong>2026-05-15</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-14.html"><strong>2026-05-14</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-13.html"><strong>2026-05-13</strong></a><span class="archive-row-meta">May 2026</span></article></div>
+          <div class="archive-table"><article class="archive-row"><a href="./2026/05/2026-05-21.html"><strong>2026-05-21</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-20.html"><strong>2026-05-20</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-19.html"><strong>2026-05-19</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-18.html"><strong>2026-05-18</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-17.html"><strong>2026-05-17</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-16.html"><strong>2026-05-16</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-15.html"><strong>2026-05-15</strong></a><span class="archive-row-meta">May 2026</span></article><article class="archive-row"><a href="./2026/05/2026-05-14.html"><strong>2026-05-14</strong></a><span class="archive-row-meta">May 2026</span></article></div>
         </section>
       </section>
     </main>
@@ -138,8 +162,8 @@
       const liveUpdateButton = document.getElementById("live-update-refresh");
       const liveUpdateDismiss = document.getElementById("live-update-dismiss");
       const liveUpdateText = document.getElementById("live-update-text");
-      const currentRunId = 'run_14af17014c8f97a0';
-      const currentGeneratedAt = '2026-05-20T21:34:28';
+      const currentRunId = 'run_69f15b4ba8e4a7de';
+      const currentGeneratedAt = '2026-05-21T05:59:06';
       const manifestPath = './app_exports/manifest.json';
       const liveUpdateStorageKey = `pathogen-dispatch-live-update-dismissed:${window.location.pathname}`;
       const liveUpdateStart = Date.now();
