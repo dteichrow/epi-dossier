@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "LancasterOnline now explicitly uses investigation or monitoring language.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: CNN.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-21T10:46:25",
-  "run_id": "run_93c74acc19038315"
+  "generated_at": "2026-05-21T11:47:24",
+  "run_id": "run_f3505eed01330d89"
 }
