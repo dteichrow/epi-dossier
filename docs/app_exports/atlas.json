@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "The lead item has changed to Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned from CBS News.",
+          "latest_update_summary": "LancasterOnline now explicitly uses investigation or monitoring language.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-21T08:42:00",
-  "run_id": "run_1d1d85e180b4a6bf"
+  "generated_at": "2026-05-21T08:46:31",
+  "run_id": "run_4018bc5c6ddee6a0"
 }
