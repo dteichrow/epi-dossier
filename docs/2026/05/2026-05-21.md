@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-21
-Generated at: 2026-05-21T12:49
+Generated at: 2026-05-21T13:49
 Search window: 7 day(s) ending 2026-05-21
 
 ## Executive scan
@@ -12,20 +12,19 @@ Search window: 7 day(s) ending 2026-05-21
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (216), Policy, surveillance, and public health infrastructure (32), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (217), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: CBC, Chicago Tribune, Diari ARA.
-- Story volume increased from 232 to 235 clustered item(s) in the current window.
+- New publisher/source coverage joined this story cluster: ABC11 Raleigh-Durham, Business Upturn, Doctors Without Borders.
 - 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 235 item(s) across 150 source(s); 7 official/primary-source item(s).
+- Topic size: 230 item(s) across 147 source(s); 7 official/primary-source item(s).
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa, 2026-05-21T08:46+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -48,14 +47,6 @@ Search window: 7 day(s) ending 2026-05-21
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News, 2026-05-20T15:28+00:00)
-- Detailed note: “Of the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case) counties, all 18 were either unvaccinated or had an unknown vaccination status,” state Department of Health Press Secretary Neil Ruhland said. Lancaster County’s most recent cases were identified May 13.
-- Evidence notes: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News); [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://www.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam) (CNN)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Diphtheria
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Australia faces 'biggest diphtheria outbreak' in decades: What is this disease like? Transmission, early](https://timesofindia.indiatimes.com/etimes/wellness/australia-faces-biggest-diphtheria-outbreak-in-decades-what-is-this-disease-like-transmission-early-signs-prevention-and-more/articleshow/131238603.cms) (The Times of India, 2026-05-21T02:57+00:00)
@@ -64,13 +55,21 @@ Search window: 7 day(s) ending 2026-05-21
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Polio and wastewater surveillance
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Polio Eradication Needs Political Commitment As Conflict Makes Vaccination 'Impossible' In Areas Like North Yemen](https://healthpolicy-watch.news/polio-eradication-needs-political-commitment-as-conflict-makes-vaccination-impossible-in-areas-like-north-yemen/) (Health Policy Watch, 2026-05-21T19:10+00:00)
-- Detailed note: Share on LinkedIn (Opens in new window) LinkedIn Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky The world is in the last stretch of polio eradication, but closing this gap will require political commitment, the World Health Organization (WHO) told member states at the ongoing 79 th session of the World Health Assembly (WHA). The remaining reservoirs are the hardest...
-- Evidence notes: [Polio Eradication Needs Political Commitment As Conflict Makes Vaccination 'Impossible' In Areas Like North Yemen](https://healthpolicy-watch.news/polio-eradication-needs-political-commitment-as-conflict-makes-vaccination-impossible-in-areas-like-north-yemen/) (Health Policy Watch)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News, 2026-05-20T15:28+00:00)
+- Detailed note: “Of the recently identified measles cases in Lancaster (three cases), Lebanon (14 cases), and Berks (one case) counties, all 18 were either unvaccinated or had an unknown vaccination status,” state Department of Health Press Secretary Neil Ruhland said. Lancaster County’s most recent cases were identified May 13.
+- Evidence notes: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News); [2 more cases of measles reported in Lebanon County; no new Lancaster County cases](https://lancasteronline.com/news/health/2-more-cases-of-measles-reported-in-lebanon-county-no-new-lancaster-county-cases/article_ab59eaec-02cd-4e51-9058-69b11acd1585.html) (LancasterOnline)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
+### Hantavirus and cruise-ship outbreak
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters, 2026-05-18T17:22+00:00)
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Britain gets experimental drug from Japan to bolster hantavirus response](https://www.reuters.com/business/healthcare-pharmaceuticals/britain-gets-experimental-drug-japan-bolster-hantavirus-response-2026-05-18/) (Reuters); [Hantavirus misinformation runs rampant as the US is unequipped to respond to infectious disease health scare](https://www.theguardian.com/science/2026/may/08/hantavirus-global-heath-scare) (The Guardian)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -407,31 +406,31 @@ Search window: 7 day(s) ending 2026-05-21
   Preliminary laboratory results indicate a non-Zaire ebolavirus species, with further analysis ongoing.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [WHO chief concerned over ‘scale and speed’ of Ebola outbreak as Congo reports 134 dead](https://apnews.com/article/congo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517) | AP News | 2026-05-21T19:41+00:00 | Outbreaks and emerging infections
+- [US begins enhanced airport screening as race to contain Ebola outbreak continues](https://www.cidrap.umn.edu/ebola/us-begins-enhanced-airport-screening-race-contain-ebola-outbreak-continues) | CIDRAP | 2026-05-21T20:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Residents burn an Ebola treatment center in Congo as anger grows over the outbreak](https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c) | AP News | 2026-05-21T20:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak](https://www.washingtonpost.com/world/2026/05/21/ebola-responders-say-aid-cuts-under-trump-left-them-unprepared-outbreak/) | The Washington Post | 2026-05-21T19:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Polio Eradication Needs Political Commitment As Conflict Makes Vaccination 'Impossible' In Areas Like North Yemen](https://healthpolicy-watch.news/polio-eradication-needs-political-commitment-as-conflict-makes-vaccination-impossible-in-areas-like-north-yemen/) | Health Policy Watch | 2026-05-21T19:10+00:00 | Outbreaks and emerging infections
   Share on LinkedIn (Opens in new window) LinkedIn Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky The world is in the last stretch of polio eradication, but closing this gap will require political commitment, the World Health Organization (WHO) told member states at the ongoing 79 th session of the World Health Assembly (WHA). The remaining reservoirs are the hardest to access, the most politically complex, and the most unforgiving of operational gaps,” said Dr Hanan Balkhy, WHO regional director for the Eastern Mediterranean Regional Office (EMRO). “We are closer to polio eradication than ever, but the final stretch demands exceptional operational discipline and sustained political commitment.
 - [U.S. Imposes Entry Restrictions for Some Citizens Amid Ebola Outbreak](https://www.nytimes.com/2026/05/21/us/politics/us-entry-restrictions-ebola-outbreak.html) | The New York Times | 2026-05-21T18:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak](https://www.washingtonpost.com/world/2026/05/21/ebola-responders-say-aid-cuts-under-trump-left-them-unprepared-outbreak/) | The Washington Post | 2026-05-21T18:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola case confirmed in rebel-held Congo area far from outbreak's epicentre](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-ebola-cases-reported-rebel-held-congo-area-2026-05-21/) | Reuters | 2026-05-21T18:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Scenes from the frontlines of the Ebola outbreak](https://www.reuters.com/pictures/scenes-frontlines-ebola-outbreak-2026-05-21/) | Reuters | 2026-05-21T18:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Detroit-bound flight diverted to Canada after Congolese passenger boarded ‘in error’ amid Ebola outbreak](https://www.nbcnews.com/news/us-news/detroit-bound-flight-diverted-canada-passenger-congo-error-ebola-rcna346245) | NBC News | 2026-05-21T18:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak gathering momentum, amid fears of spread, as angry crowd sets fire to treatment centre in Democratic Republic of Congo](https://news.sky.com/story/ebola-outbreak-gathering-momentum-amid-fears-of-spread-as-angry-crowd-sets-fire-to-treatment-centre-in-democratic-republic-of-congo-13546700) | Sky News | 2026-05-21T18:17+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [India-Africa Summit Postponed Indefinitely Over Ebola Outbreak](https://www.bloomberg.com/news/articles/2026-05-21/india-africa-summit-postponed-indefinitely-over-ebola-outbreak) | Bloomberg.com | 2026-05-21T18:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [DR Congo cancels World Cup training camp over Ebola outbreak](https://www.bbc.com/news/articles/c8d80856q2go) | BBC | 2026-05-21T17:54+00:00 | Outbreaks and emerging infections
+  The virus is thought to have killed more than 130, including a person whose case was confirmed on Thursday in the South Kivu province, signalling the spread of the virus from the outbreak's epicentre. The Leopards are due to play friendly matches against Denmark, on 3 June in Belgium, and Chile, on 9 June in Spain, ahead of the World Cup finals. A spokesperson for DR Congo's football team told reporters that the training camp, part of the preparations for the team's first World Cup since 1974, would now take place in Belgium.
 - [Deadly DR Congo Ebola outbreak spreads to M23-held South Kivu](https://en.royanews.tv/news/70064) | Roya News | 2026-05-21T17:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Residents burn an Ebola center in Congo as fear and anger grow over the outbreak](https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c) | AP News | 2026-05-21T16:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [There is no Ebola vaccine for this outbreak and won’t be one soon. Here’s why.](https://www.washingtonpost.com/health/2026/05/21/there-is-no-ebola-vaccine-this-outbreak-wont-be-one-soon-heres-why/) | The Washington Post | 2026-05-21T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US tightens entry rules over Ebola outbreak](https://www.the-star.co.ke/news/2026-05-21-us-tightens-entry-rules-over-ebola-outbreak) | the-star.co.ke | 2026-05-21T15:59+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [As Ebola cases rise, Americans returning from DRC must enter US via Washington Dulles airport](https://www.straitstimes.com/world/as-ebola-cases-rise-americans-returning-from-drc-must-enter-us-via-washington-dulles) | The Straits Times | 2026-05-21T15:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-05-21T14:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -441,7 +440,7 @@ Search window: 7 day(s) ending 2026-05-21
   Limited detail was available from feed metadata alone.
 - [Passenger from Congo boards flight ‘in error’, prompting diversion to Canada amid Ebola outbreak](https://www.theguardian.com/us-news/2026/may/21/congo-canada-passenger-flight-diversion-ebola) | The Guardian | 2026-05-21T13:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Uganda Restricts Travel with Congo Over Ebola Outbreak](https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html) | The New York Times | 2026-05-21T12:14+00:00 | Outbreaks and emerging infections
+- [Congo Ebola outbreak cases are 'top of the iceberg', coalition says](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-outbreak-cases-are-top-iceberg-coalition-says-2026-05-21/) | Reuters | 2026-05-21T13:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
