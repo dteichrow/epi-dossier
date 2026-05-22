@@ -251,26 +251,13 @@ Purpose:
 - runs from GitHub Actions, not the local Mac
 - publishes hourly at minute `:17` UTC and can also be started manually with `workflow_dispatch`
 - checks the live public manifest at `:05`, `:20`, `:35`, and `:50` UTC and repairs the publish if the site is stale
-- checks out `dteichrow/epi-dossier` and `dteichrow/dteichrow.github.io` side by side
-- creates fresh virtualenvs for both repos
+- creates a fresh virtualenv for `epi-dossier`
 - runs `python src/public_publish.py` for scheduled and manual publishes
 - runs `python src/public_publish_watchdog.py` for cloud-side stale checks
-- pushes generated Newsdesk output back to both repos through the same guarded publish path used locally
+- pushes generated `epi-dossier/docs` output with the workflow `GITHUB_TOKEN`
+- skips the direct umbrella-site refresh in CI when the sibling `edge-of-epidemiology-site` checkout is absent
 
-Required GitHub secret:
-
-- `NEWSDESK_PUBLISH_TOKEN`
-
-The token should be a fine-grained GitHub token with repository access to:
-
-- `dteichrow/epi-dossier`
-- `dteichrow/dteichrow.github.io`
-
-Required permission:
-
-- `Contents: Read and write`
-
-The workflow deliberately fails early if this secret is missing, because the default `GITHUB_TOKEN` can write to `epi-dossier` but cannot safely publish the umbrella GitHub Pages repository.
+The umbrella site already has its own `substack_sync` GitHub Actions workflow in `dteichrow/dteichrow.github.io`. That workflow runs every 15 minutes, imports the latest public `epi-dossier/docs`, rebuilds `docs/`, commits any changes, and deploys GitHub Pages. The local Mac automation still uses the direct two-repo path when both sibling repos are available, so local publishes remain immediate while cloud publishes avoid a cross-repository secret.
 
 ### Cron
 
