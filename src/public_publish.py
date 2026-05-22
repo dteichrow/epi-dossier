@@ -3,21 +3,28 @@ from __future__ import annotations
 import argparse
 import os
 import signal
+import shutil
 import subprocess
 import sys
 import time
+import tempfile
 from pathlib import Path
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+EDGE_REPO_ROOT = REPO_ROOT.parent / "edge-of-epidemiology-site"
 PUBLISH_SCRIPT = REPO_ROOT / "scripts" / "publish_public_site.sh"
+PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
 LOCK_DIR = Path("/private/tmp/epi-dossier-public-publish.lock")
+TEMP_WORKTREE_ROOT = Path("/private/tmp/epi-dossier-public-publish-worktrees")
 DEFAULT_TIMEOUT_SECONDS = 45 * 60
 DEFAULT_STALE_LOCK_SECONDS = 60 * 60
 LOCK_ALREADY_RUNNING = "already_running"
 LOCK_CLEARED = "cleared_stale"
 LOCK_READY = "ready"
 REPO_ROOT_LINE = 'REPO_ROOT="${0:A:h:h}"'
+EDGE_REPO_ROOT_LINE = 'EDGE_REPO_ROOT="$REPO_ROOT/../edge-of-epidemiology-site"'
+PYTHON_BIN_LINE = 'PYTHON_BIN="$REPO_ROOT/.venv/bin/python"'
 
 
 def log(message: str) -> None:
@@ -37,11 +44,22 @@ def env_int(name: str, default: int) -> int:
     return max(value, 1)
 
 
-def prepare_publish_script(script_path: Path = PUBLISH_SCRIPT, repo_root: Path = REPO_ROOT) -> str:
+def prepare_publish_script(
+    script_path: Path = PUBLISH_SCRIPT,
+    repo_root: Path = REPO_ROOT,
+    edge_repo_root: Path = EDGE_REPO_ROOT,
+) -> str:
     script = script_path.read_text()
     if REPO_ROOT_LINE not in script:
         raise RuntimeError(f"Publish script missing expected repo-root line: {REPO_ROOT_LINE}")
-    return script.replace(REPO_ROOT_LINE, f'REPO_ROOT="{repo_root}"', 1)
+    if EDGE_REPO_ROOT_LINE not in script:
+        raise RuntimeError(f"Publish script missing expected edge-root line: {EDGE_REPO_ROOT_LINE}")
+    if PYTHON_BIN_LINE not in script:
+        raise RuntimeError(f"Publish script missing expected Python-bin line: {PYTHON_BIN_LINE}")
+    script = script.replace(REPO_ROOT_LINE, f'REPO_ROOT="{repo_root}"', 1)
+    script = script.replace(EDGE_REPO_ROOT_LINE, f'EDGE_REPO_ROOT="{edge_repo_root}"', 1)
+    script = script.replace(PYTHON_BIN_LINE, f'PYTHON_BIN="{PYTHON_BIN}"', 1)
+    return script
 
 
 def lock_state(lock_dir: Path = LOCK_DIR, stale_seconds: int = DEFAULT_STALE_LOCK_SECONDS, now: float | None = None) -> str:
@@ -91,18 +109,77 @@ def terminate_process_group(process: subprocess.Popen[str], grace_seconds: int =
         return
 
 
+def run_git(args: list[str], repo_root: Path = REPO_ROOT, capture_output: bool = True) -> subprocess.CompletedProcess[str]:
+    return subprocess.run(
+        ["/usr/bin/git", "-C", str(repo_root), *args],
+        check=True,
+        capture_output=capture_output,
+        text=True,
+    )
+
+
+def path_from_porcelain_line(line: str) -> str:
+    path = line[3:] if len(line) > 3 else ""
+    if " -> " in path:
+        path = path.rsplit(" -> ", 1)[-1]
+    return path
+
+
+def blocking_paths_from_porcelain(status: str) -> list[str]:
+    blocking: list[str] = []
+    for line in status.splitlines():
+        if not line:
+            continue
+        path = path_from_porcelain_line(line)
+        if path.startswith("docs/"):
+            continue
+        blocking.append(path)
+    return blocking
+
+
+def collect_blocking_changes(repo_root: Path = REPO_ROOT) -> list[str]:
+    status = run_git(["status", "--porcelain"], repo_root=repo_root).stdout
+    return blocking_paths_from_porcelain(status)
+
+
+def add_temp_worktree(repo_root: Path = REPO_ROOT) -> Path:
+    TEMP_WORKTREE_ROOT.mkdir(parents=True, exist_ok=True)
+    worktree = Path(tempfile.mkdtemp(prefix="run-", dir=TEMP_WORKTREE_ROOT))
+    worktree.rmdir()
+    run_git(["worktree", "add", "--detach", str(worktree), "HEAD"], repo_root=repo_root)
+    return worktree
+
+
+def remove_temp_worktree(worktree: Path, repo_root: Path = REPO_ROOT) -> None:
+    try:
+        run_git(["worktree", "remove", "--force", str(worktree)], repo_root=repo_root)
+    except subprocess.CalledProcessError as exc:
+        log(f"Could not remove temporary git worktree cleanly: {exc}")
+    shutil.rmtree(worktree, ignore_errors=True)
+
+
 def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
     state = lock_state(stale_seconds=stale_lock_seconds)
     if state == LOCK_ALREADY_RUNNING:
         return 0
 
-    script = prepare_publish_script()
+    blocking = collect_blocking_changes()
+    publish_root = REPO_ROOT
+    temp_worktree: Path | None = None
+    if blocking:
+        log("Local non-generated changes detected; publishing from a clean temporary worktree.")
+        for path in blocking:
+            log(f"Blocking local path preserved outside publish: {path}")
+        temp_worktree = add_temp_worktree()
+        publish_root = temp_worktree
+
+    script = prepare_publish_script(repo_root=publish_root)
     env = os.environ.copy()
     env.setdefault("PATH", "/usr/bin:/bin:/usr/sbin:/sbin")
-    log(f"Starting guarded public publish from {REPO_ROOT}")
+    log(f"Starting guarded public publish from {publish_root}")
     process = subprocess.Popen(
         ["/bin/zsh", "-lc", script],
-        cwd=REPO_ROOT,
+        cwd=publish_root,
         env=env,
         start_new_session=True,
         text=True,
@@ -113,9 +190,13 @@ def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
         log(f"Publish exceeded {timeout_seconds}s; terminating process group.")
         terminate_process_group(process)
         cleanup_empty_lock()
+        if temp_worktree is not None:
+            remove_temp_worktree(temp_worktree)
         return 124
 
     log(f"Publish finished with exit code {return_code}.")
+    if temp_worktree is not None:
+        remove_temp_worktree(temp_worktree)
     return return_code
 
 

@@ -231,7 +231,7 @@ The project now treats local and public output as parallel surfaces from the sam
 - public exports use web-safe relative paths instead of `file:///` URLs
 - the live GitHub Pages site updates only after a newer `docs/` build has been pushed
 - `scripts/publish_public_site.sh` is the guarded public publish path; it rebuilds the site, refuses to auto-publish if non-generated repo files are dirty, and pushes only generated `docs/` changes
-- `src/public_publish.py` is the launchd-safe wrapper around that script; it pins the repo path, clears old empty publish locks, and terminates stuck runs after the configured timeout
+- `src/public_publish.py` is the launchd-safe wrapper around that script; it pins the repo path, clears old empty publish locks, publishes from a clean temporary worktree when the local checkout has non-generated edits, and terminates stuck runs after the configured timeout
 - public pages poll `docs/app_exports/manifest.json` and show a refresh prompt when a newer run has landed while a reader is still on the page
 
 ## Scheduling

@@ -126,7 +126,7 @@ push_commit_with_generated_docs_rebase() {
   local success_message="$4"
   local remote_ref="${remote_name}/${branch_name}"
 
-  if GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" push "$remote_name" "$branch_name"; then
+  if GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" push "$remote_name" HEAD:"$branch_name"; then
     echo "$success_message"
     return 0
   fi
