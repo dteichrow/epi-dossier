@@ -5,7 +5,12 @@ set -euo pipefail
 REPO_ROOT="${0:A:h:h}"
 LOCAL_REPO_ROOT="${EPI_DOSSIER_LOCAL_REPO_ROOT:-$REPO_ROOT}"
 EDGE_REPO_ROOT="${EPI_DOSSIER_EDGE_REPO_ROOT:-$LOCAL_REPO_ROOT/../edge-of-epidemiology-site}"
-LOCK_DIR="/private/tmp/epi-dossier-public-publish.lock"
+DEFAULT_TEMP_ROOT="/tmp"
+if [[ -d "/private/tmp" ]]; then
+  DEFAULT_TEMP_ROOT="/private/tmp"
+fi
+PUBLIC_PUBLISH_TEMP_ROOT="${EPI_DOSSIER_PUBLIC_PUBLISH_TEMP_ROOT:-$DEFAULT_TEMP_ROOT}"
+LOCK_DIR="${EPI_DOSSIER_PUBLIC_PUBLISH_LOCK_DIR:-$PUBLIC_PUBLISH_TEMP_ROOT/epi-dossier-public-publish.lock}"
 PYTHON_BIN="${EPI_DOSSIER_PYTHON_BIN:-$REPO_ROOT/.venv/bin/python}"
 EDGE_PYTHON_BIN="$EDGE_REPO_ROOT/.venv/bin/python"
 SSH_KEY="$HOME/.ssh/id_ed25519_epi_dossier"
@@ -17,7 +22,10 @@ RMDIR_BIN="/bin/rmdir"
 MKTEMP_BIN="/usr/bin/mktemp"
 RM_BIN="/bin/rm"
 RSYNC_BIN="/usr/bin/rsync"
-PUSH_SSH_COMMAND="$SSH_BIN -o StrictHostKeyChecking=accept-new -i $SSH_KEY"
+PUSH_SSH_COMMAND="${EPI_DOSSIER_GIT_SSH_COMMAND:-}"
+if [[ -z "$PUSH_SSH_COMMAND" && -f "$SSH_KEY" ]]; then
+  PUSH_SSH_COMMAND="$SSH_BIN -o StrictHostKeyChecking=accept-new -i $SSH_KEY"
+fi
 
 cleanup() {
   "$RMDIR_BIN" "$LOCK_DIR" 2>/dev/null || true
@@ -28,6 +36,14 @@ cleanup_worktree() {
   local temp_worktree="$2"
   "$GIT_BIN" -C "$repo_root" worktree remove --force "$temp_worktree" >/dev/null 2>&1 || true
   "$RM_BIN" -rf "$temp_worktree" >/dev/null 2>&1 || true
+}
+
+git_with_publish_auth() {
+  if [[ -n "$PUSH_SSH_COMMAND" ]]; then
+    GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" "$@"
+  else
+    "$GIT_BIN" "$@"
+  fi
 }
 
 repo_has_local_changes() {
@@ -43,12 +59,12 @@ push_from_clean_temp_worktree() {
   local remote_ref="${remote_name}/${branch_name}"
   local temp_worktree current_ref commit_subject
 
-  temp_worktree="$("$MKTEMP_BIN" -d /private/tmp/epi-dossier-publish-rebase.XXXXXX)"
+  temp_worktree="$("$MKTEMP_BIN" -d "$PUBLIC_PUBLISH_TEMP_ROOT/epi-dossier-publish-rebase.XXXXXX")"
   current_ref="$("$GIT_BIN" -C "$repo_root" rev-parse HEAD)"
   commit_subject="$("$GIT_BIN" -C "$repo_root" log -1 --format=%s HEAD)"
 
   "$GIT_BIN" -C "$repo_root" worktree add --detach "$temp_worktree" "$current_ref" >/dev/null
-  if ! GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$temp_worktree" fetch "$remote_name" "$branch_name"; then
+  if ! git_with_publish_auth -C "$temp_worktree" fetch "$remote_name" "$branch_name"; then
     cleanup_worktree "$repo_root" "$temp_worktree"
     return 1
   fi
@@ -82,7 +98,7 @@ push_from_clean_temp_worktree() {
       return 1
     fi
   fi
-  if ! GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$temp_worktree" push "$remote_name" HEAD:"$branch_name"; then
+  if ! git_with_publish_auth -C "$temp_worktree" push "$remote_name" HEAD:"$branch_name"; then
     cleanup_worktree "$repo_root" "$temp_worktree"
     return 1
   fi
@@ -95,7 +111,7 @@ fetch_remote_branch() {
   local repo_root="$1"
   local remote_name="$2"
   local branch_name="$3"
-  GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" fetch "$remote_name" "$branch_name" >/dev/null
+  git_with_publish_auth -C "$repo_root" fetch "$remote_name" "$branch_name" >/dev/null
 }
 
 local_branch_is_ahead() {
@@ -127,7 +143,7 @@ push_commit_with_generated_docs_rebase() {
   local success_message="$4"
   local remote_ref="${remote_name}/${branch_name}"
 
-  if GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" push "$remote_name" HEAD:"$branch_name"; then
+  if git_with_publish_auth -C "$repo_root" push "$remote_name" HEAD:"$branch_name"; then
     echo "$success_message"
     return 0
   fi
@@ -139,9 +155,9 @@ push_commit_with_generated_docs_rebase() {
     return 0
   fi
 
-  GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" fetch "$remote_name" "$branch_name"
+  git_with_publish_auth -C "$repo_root" fetch "$remote_name" "$branch_name"
   "$GIT_BIN" -C "$repo_root" rebase "$remote_ref"
-  GIT_SSH_COMMAND="$PUSH_SSH_COMMAND" "$GIT_BIN" -C "$repo_root" push "$remote_name" "$branch_name"
+  git_with_publish_auth -C "$repo_root" push "$remote_name" "$branch_name"
   echo "$success_message"
 }
 

@@ -84,3 +84,28 @@ def test_blocking_paths_from_porcelain_ignores_generated_docs():
         "src/parsers.py",
         "tests/test_summarize.py",
     ]
+
+
+def test_git_env_uses_explicit_publish_ssh_command(monkeypatch, tmp_path):
+    monkeypatch.setenv("EPI_DOSSIER_GIT_SSH_COMMAND", "ssh -i /tmp/publish-key")
+    monkeypatch.setattr(public_publish, "SSH_KEY", tmp_path / "missing-key")
+
+    env = public_publish.git_env()
+
+    assert env["GIT_SSH_COMMAND"] == "ssh -i /tmp/publish-key"
+
+
+def test_git_env_omits_ssh_command_without_key(monkeypatch, tmp_path):
+    monkeypatch.delenv("EPI_DOSSIER_GIT_SSH_COMMAND", raising=False)
+    monkeypatch.delenv("GIT_SSH_COMMAND", raising=False)
+    monkeypatch.setattr(public_publish, "SSH_KEY", tmp_path / "missing-key")
+
+    env = public_publish.git_env()
+
+    assert "GIT_SSH_COMMAND" not in env
+
+
+def test_zsh_bin_prefers_configured_binary(monkeypatch):
+    monkeypatch.setenv("EPI_DOSSIER_ZSH_BIN", "/custom/zsh")
+
+    assert public_publish.zsh_bin() == "/custom/zsh"

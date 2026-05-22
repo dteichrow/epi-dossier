@@ -16,8 +16,20 @@ EDGE_REPO_ROOT = REPO_ROOT.parent / "edge-of-epidemiology-site"
 PUBLISH_SCRIPT = REPO_ROOT / "scripts" / "publish_public_site.sh"
 PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
 SSH_KEY = Path.home() / ".ssh/id_ed25519_epi_dossier"
-LOCK_DIR = Path("/private/tmp/epi-dossier-public-publish.lock")
-TEMP_WORKTREE_ROOT = Path("/private/tmp/epi-dossier-public-publish-worktrees")
+
+
+def default_temp_root() -> Path:
+    private_tmp = Path("/private/tmp")
+    if private_tmp.exists():
+        return private_tmp
+    return Path(tempfile.gettempdir())
+
+
+TEMP_ROOT = Path(os.environ.get("EPI_DOSSIER_PUBLIC_PUBLISH_TEMP_ROOT", str(default_temp_root())))
+LOCK_DIR = Path(os.environ.get("EPI_DOSSIER_PUBLIC_PUBLISH_LOCK_DIR", str(TEMP_ROOT / "epi-dossier-public-publish.lock")))
+TEMP_WORKTREE_ROOT = Path(
+    os.environ.get("EPI_DOSSIER_PUBLIC_PUBLISH_TEMP_WORKTREE_ROOT", str(TEMP_ROOT / "epi-dossier-public-publish-worktrees"))
+)
 DEFAULT_TIMEOUT_SECONDS = 45 * 60
 DEFAULT_STALE_LOCK_SECONDS = 60 * 60
 LOCK_ALREADY_RUNNING = "already_running"
@@ -104,9 +116,19 @@ def terminate_process_group(process: subprocess.Popen[str], grace_seconds: int =
 
 def git_env() -> dict[str, str]:
     env = os.environ.copy()
-    if SSH_KEY.exists():
+    explicit_ssh_command = os.environ.get("EPI_DOSSIER_GIT_SSH_COMMAND")
+    if explicit_ssh_command:
+        env["GIT_SSH_COMMAND"] = explicit_ssh_command
+    elif SSH_KEY.exists():
         env["GIT_SSH_COMMAND"] = f"/usr/bin/ssh -o StrictHostKeyChecking=accept-new -i {SSH_KEY}"
     return env
+
+
+def zsh_bin() -> str:
+    configured = os.environ.get("EPI_DOSSIER_ZSH_BIN")
+    if configured:
+        return configured
+    return shutil.which("zsh") or "/bin/zsh"
 
 
 def run_git(
@@ -198,7 +220,7 @@ def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
     env["EPI_DOSSIER_PYTHON_BIN"] = str(PYTHON_BIN)
     log(f"Starting guarded public publish from {publish_root}")
     process = subprocess.Popen(
-        ["/bin/zsh", "-lc", script],
+        [zsh_bin(), "-lc", script],
         cwd=publish_root,
         env=env,
         start_new_session=True,

@@ -231,13 +231,46 @@ The project now treats local and public output as parallel surfaces from the sam
 - public exports use web-safe relative paths instead of `file:///` URLs
 - the live GitHub Pages site updates only after a newer `docs/` build has been pushed
 - `scripts/publish_public_site.sh` is the guarded public publish path; it rebuilds the site, refuses to auto-publish if non-generated repo files are dirty, and pushes only generated `docs/` changes
-- `src/public_publish.py` is the launchd-safe wrapper around that script; it pins the repo path, clears old empty publish locks, publishes from a clean temporary worktree when the local checkout has non-generated edits, and terminates stuck runs after the configured timeout
+- `src/public_publish.py` is the automation-safe wrapper around that script; it pins the repo path, clears old empty publish locks, publishes from a clean temporary worktree when the local checkout has non-generated edits, uses checked-out Git credentials when no local SSH key exists, and terminates stuck runs after the configured timeout
+- `.github/workflows/newsdesk-public-publish.yml` is the primary cloud scheduler; it runs hourly from GitHub Actions so the public Newsdesk does not depend on the laptop being awake
 - `src/public_publish_watchdog.py` checks the live public manifest every 15 minutes and invokes the wrapper if the site is stale or unreachable
 - public pages poll `docs/app_exports/manifest.json` and show a refresh prompt when a newer run has landed while a reader is still on the page
 
 ## Scheduling
 
 If email delivery matters, make sure `EPI_DOSSIER_EMAIL_APP_PASSWORD` exists in the scheduled environment.
+
+### Primary cloud publish
+
+Repo file:
+
+- `.github/workflows/newsdesk-public-publish.yml`
+
+Purpose:
+
+- runs from GitHub Actions, not the local Mac
+- publishes hourly at minute `:17` UTC and can also be started manually with `workflow_dispatch`
+- checks the live public manifest at `:05`, `:20`, `:35`, and `:50` UTC and repairs the publish if the site is stale
+- checks out `dteichrow/epi-dossier` and `dteichrow/dteichrow.github.io` side by side
+- creates fresh virtualenvs for both repos
+- runs `python src/public_publish.py` for scheduled and manual publishes
+- runs `python src/public_publish_watchdog.py` for cloud-side stale checks
+- pushes generated Newsdesk output back to both repos through the same guarded publish path used locally
+
+Required GitHub secret:
+
+- `NEWSDESK_PUBLISH_TOKEN`
+
+The token should be a fine-grained GitHub token with repository access to:
+
+- `dteichrow/epi-dossier`
+- `dteichrow/dteichrow.github.io`
+
+Required permission:
+
+- `Contents: Read and write`
+
+The workflow deliberately fails early if this secret is missing, because the default `GITHUB_TOKEN` can write to `epi-dossier` but cannot safely publish the umbrella GitHub Pages repository.
 
 ### Cron
 

@@ -1,0 +1,99 @@
+name: Newsdesk public publish
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+    - cron: "5,20,35,50 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: newsdesk-public-publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    name: Build and publish Newsdesk
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    env:
+      PYTHON_VERSION: "3.12"
+      EPI_DOSSIER_PUBLIC_PUBLISH_TIMEOUT_SECONDS: "3300"
+      EPI_DOSSIER_PUBLIC_PUBLISH_TEMP_ROOT: ${{ runner.temp }}
+
+    steps:
+      - name: Require cross-repository publish token
+        env:
+          NEWSDESK_PUBLISH_TOKEN: ${{ secrets.NEWSDESK_PUBLISH_TOKEN }}
+        run: |
+          if [ -z "$NEWSDESK_PUBLISH_TOKEN" ]; then
+            echo "::error title=Missing NEWSDESK_PUBLISH_TOKEN::Add a fine-grained GitHub token with Contents read/write on dteichrow/epi-dossier and dteichrow/dteichrow.github.io."
+            exit 1
+          fi
+
+      - name: Check out epi-dossier
+        uses: actions/checkout@v4
+        with:
+          path: epi-dossier
+          fetch-depth: 0
+          token: ${{ secrets.NEWSDESK_PUBLISH_TOKEN }}
+
+      - name: Check out public site
+        uses: actions/checkout@v4
+        with:
+          repository: dteichrow/dteichrow.github.io
+          path: edge-of-epidemiology-site
+          fetch-depth: 0
+          token: ${{ secrets.NEWSDESK_PUBLISH_TOKEN }}
+
+      - name: Configure Git author
+        run: |
+          git -C epi-dossier config user.name "github-actions[bot]"
+          git -C epi-dossier config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C edge-of-epidemiology-site config user.name "github-actions[bot]"
+          git -C edge-of-epidemiology-site config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+          cache-dependency-path: |
+            epi-dossier/requirements.txt
+            edge-of-epidemiology-site/requirements.txt
+
+      - name: Install system tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y zsh rsync
+
+      - name: Install epi-dossier dependencies
+        run: |
+          python -m venv epi-dossier/.venv
+          epi-dossier/.venv/bin/python -m pip install --upgrade pip
+          epi-dossier/.venv/bin/python -m pip install -r epi-dossier/requirements.txt
+
+      - name: Install public-site dependencies
+        run: |
+          python -m venv edge-of-epidemiology-site/.venv
+          edge-of-epidemiology-site/.venv/bin/python -m pip install --upgrade pip
+          edge-of-epidemiology-site/.venv/bin/python -m pip install -r edge-of-epidemiology-site/requirements.txt
+
+      - name: Verify publisher configuration
+        working-directory: epi-dossier
+        run: .venv/bin/python src/public_publish.py --check
+
+      - name: Publish Newsdesk
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 * * * *'
+        working-directory: epi-dossier
+        run: .venv/bin/python src/public_publish.py
+
+      - name: Repair stale Newsdesk publish
+        if: github.event_name == 'schedule' && github.event.schedule != '17 * * * *'
+        working-directory: epi-dossier
+        env:
+          EPI_DOSSIER_WATCHDOG_STALE_MINUTES: "90"
+        run: .venv/bin/python src/public_publish_watchdog.py
