@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: The Statesman.",
+          "latest_update_summary": "New publisher/source coverage joined this story cluster: The New York Times.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-05-22T03:08:39",
-  "run_id": "run_a9cece7e4c885e95"
+  "generated_at": "2026-05-22T03:17:45",
+  "run_id": "run_84e206432134f747"
 }
