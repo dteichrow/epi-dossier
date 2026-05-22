@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-22
-Generated at: 2026-05-22T05:12
+Generated at: 2026-05-22T05:17
 Search window: 7 day(s) ending 2026-05-22
 
 ## Executive scan
@@ -12,28 +12,18 @@ Search window: 7 day(s) ending 2026-05-22
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (266), Policy, surveillance, and public health infrastructure (30), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (257), Policy, surveillance, and public health infrastructure (30), Major epidemiology studies (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- New publisher/source coverage joined this story cluster: Africa Sustainability Matters, Aviation Jeta, Azərtac.
-- The lead item has changed to [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) from ECDC News.
-- Story volume increased from 241 to 244 clustered item(s) in the current window.
-- 2 newly observed linked item(s) were added since the last saved snapshot.
-
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Andes hantavirus outbreak in cruise ship, 21 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
-- NPR now includes quarantine language.
-- New official source(s) joined this story cluster: ECDC News.
-- The lead item has changed to [Andes hantavirus outbreak in cruise ship, 21 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) from ECDC News.
-- Story volume increased from 3 to 45 clustered item(s) in the current window.
+- New publisher/source coverage joined this story cluster: Ahram Online, China Daily, FOX 10 Phoenix.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 244 item(s) across 146 source(s); 7 official/primary-source item(s).
+- Topic size: 236 item(s) across 144 source(s); 7 official/primary-source item(s).
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-21T17:36+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News)
@@ -41,7 +31,7 @@ Search window: 7 day(s) ending 2026-05-22
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 45 item(s) across 25 source(s); 1 official/primary-source item(s).
+- Topic size: 44 item(s) across 24 source(s); 1 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak in cruise ship, 21 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News, 2026-05-21T17:56+02:00)
 - Detailed note: ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.
 - Evidence notes: [Andes hantavirus outbreak in cruise ship, 21 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Inside an African lab that helped crack the hantavirus outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/inside-an-african-lab-that-helped-crack-hantavirus-outbreak-2026-05-22/) (Reuters); [The Ebola and hantavirus outbreaks warn us we must be better prepared if we are to prevent the next pandemic](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSGRMYjJhZWc5bkdrM3BObEY5cml3SExUajRyeDNaR0wzNEozb1d0aHhMd3dvVFJiME5UM010YnBfa3hGeHlveGt1SWVnY0RmRGZ4ZDdQQVN3UnQ2MU13ei1fMTQ0RFB3SjZiajRXVTJjRGhBMkZLUkIxamFkLVVNWDBzRU1fUDRydjI5d2dPZVNMQ0p3bGIxbk1kcDl4YkxCX0VKY1p6NUFOd3ZQQkpZdkxXLWxfcVhFV2ZrUUxCWXFFaXJDc1BRN2JONjNrV1ZpNFhPdlZRWl92bVVOdGdiZ0pDVDZyMTZzbVNNNnZjMVR6aDdJ?oc=5) (The Guardian); [American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine](https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5) (NPR); [2 Americans forced into quarantine following deadly cruise ship hantavirus outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTRvWW9DVzd5MUItRl9yd010ZUNKVlJsQzZZVWhBNmNxVTI1dGxhRFFzUGJ2clhKc0tUVnBUM3BtYWY0b2I0WVpkUXd0VkkxV2RWV1lobGZPRHpnQjdHV0pWRFZnbkNTeHRSTmtCVVdISmpabGd0RUlIQTJGOWlvbnJaeUJQR0RaUFhMWFJsSERmd0pXQmFpcG1wdDUxU19oWFRVT3JlcXNJbVZrRzR4SW8yWVR2YTFVd1FkYS04N3hodFBI?oc=5) (NPR)
@@ -427,8 +417,6 @@ Search window: 7 day(s) ending 2026-05-22
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Prompts Uganda Border Curbs, Flight Restrictions](https://www.bloomberg.com/news/articles/2026-05-22/ebola-outbreak-prompts-uganda-border-curbs-flight-restrictions) | Bloomberg.com | 2026-05-22T07:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Korea to widen travel ban in Congo to 3 provinces over Ebola outbreak](https://koreajoongangdaily.joins.com/news/2026-05-22/national/socialAffairs/Korea-to-widen-travel-ban-in-Congo-to-3-provinces-over-Ebola-outbreak/2599004) | Korea JoongAng Daily | 2026-05-22T06:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [The Ebola and hantavirus outbreaks warn us we must be better prepared if we are to prevent the next pandemic](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSGRMYjJhZWc5bkdrM3BObEY5cml3SExUajRyeDNaR0wzNEozb1d0aHhMd3dvVFJiME5UM010YnBfa3hGeHlveGt1SWVnY0RmRGZ4ZDdQQVN3UnQ2MU13ei1fMTQ0RFB3SjZiajRXVTJjRGhBMkZLUkIxamFkLVVNWDBzRU1fUDRydjI5d2dPZVNMQ0p3bGIxbk1kcDl4YkxCX0VKY1p6NUFOd3ZQQkpZdkxXLWxfcVhFV2ZrUUxCWXFFaXJDc1BRN2JONjNrV1ZpNFhPdlZRWl92bVVOdGdiZ0pDVDZyMTZzbVNNNnZjMVR6aDdJ?oc=5) | The Guardian | 2026-05-22T05:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Gov't bans travel to Congo's Ituri Province amid Ebola surge](https://www.koreatimes.co.kr/amp/foreignaffairs/20260522/govt-bans-travel-to-congos-ituri-province-amid-ebola-surge) | The Korea Times | 2026-05-22T04:22+00:00 | Outbreaks and emerging infections
@@ -450,6 +438,8 @@ Search window: 7 day(s) ending 2026-05-22
 - [US begins enhanced airport screening as race to contain Ebola outbreak continues](https://www.cidrap.umn.edu/ebola/us-begins-enhanced-airport-screening-race-contain-ebola-outbreak-continues) | CIDRAP | 2026-05-21T20:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak raises alarms about Trump's global health moves](https://www.axios.com/2026/05/21/ebole-response-trump-health-cuts) | Axios | 2026-05-21T20:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine](https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5) | NPR | 2026-05-21T20:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
