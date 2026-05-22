@@ -15,6 +15,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 EDGE_REPO_ROOT = REPO_ROOT.parent / "edge-of-epidemiology-site"
 PUBLISH_SCRIPT = REPO_ROOT / "scripts" / "publish_public_site.sh"
 PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
+SSH_KEY = Path.home() / ".ssh/id_ed25519_epi_dossier"
 LOCK_DIR = Path("/private/tmp/epi-dossier-public-publish.lock")
 TEMP_WORKTREE_ROOT = Path("/private/tmp/epi-dossier-public-publish-worktrees")
 DEFAULT_TIMEOUT_SECONDS = 45 * 60
@@ -23,8 +24,6 @@ LOCK_ALREADY_RUNNING = "already_running"
 LOCK_CLEARED = "cleared_stale"
 LOCK_READY = "ready"
 REPO_ROOT_LINE = 'REPO_ROOT="${0:A:h:h}"'
-EDGE_REPO_ROOT_LINE = 'EDGE_REPO_ROOT="$REPO_ROOT/../edge-of-epidemiology-site"'
-PYTHON_BIN_LINE = 'PYTHON_BIN="$REPO_ROOT/.venv/bin/python"'
 
 
 def log(message: str) -> None:
@@ -52,13 +51,7 @@ def prepare_publish_script(
     script = script_path.read_text()
     if REPO_ROOT_LINE not in script:
         raise RuntimeError(f"Publish script missing expected repo-root line: {REPO_ROOT_LINE}")
-    if EDGE_REPO_ROOT_LINE not in script:
-        raise RuntimeError(f"Publish script missing expected edge-root line: {EDGE_REPO_ROOT_LINE}")
-    if PYTHON_BIN_LINE not in script:
-        raise RuntimeError(f"Publish script missing expected Python-bin line: {PYTHON_BIN_LINE}")
     script = script.replace(REPO_ROOT_LINE, f'REPO_ROOT="{repo_root}"', 1)
-    script = script.replace(EDGE_REPO_ROOT_LINE, f'EDGE_REPO_ROOT="{edge_repo_root}"', 1)
-    script = script.replace(PYTHON_BIN_LINE, f'PYTHON_BIN="{PYTHON_BIN}"', 1)
     return script
 
 
@@ -109,12 +102,25 @@ def terminate_process_group(process: subprocess.Popen[str], grace_seconds: int =
         return
 
 
-def run_git(args: list[str], repo_root: Path = REPO_ROOT, capture_output: bool = True) -> subprocess.CompletedProcess[str]:
+def git_env() -> dict[str, str]:
+    env = os.environ.copy()
+    if SSH_KEY.exists():
+        env["GIT_SSH_COMMAND"] = f"/usr/bin/ssh -o StrictHostKeyChecking=accept-new -i {SSH_KEY}"
+    return env
+
+
+def run_git(
+    args: list[str],
+    repo_root: Path = REPO_ROOT,
+    capture_output: bool = True,
+    env: dict[str, str] | None = None,
+) -> subprocess.CompletedProcess[str]:
     return subprocess.run(
         ["/usr/bin/git", "-C", str(repo_root), *args],
         check=True,
         capture_output=capture_output,
         text=True,
+        env=env,
     )
 
 
@@ -158,8 +164,19 @@ def remove_temp_worktree(worktree: Path, repo_root: Path = REPO_ROOT) -> None:
     shutil.rmtree(worktree, ignore_errors=True)
 
 
+def fast_forward_local_checkout(repo_root: Path = REPO_ROOT) -> None:
+    try:
+        run_git(["restore", "--worktree", "--staged", "--", "docs"], repo_root=repo_root)
+        run_git(["fetch", "origin", "main"], repo_root=repo_root, env=git_env())
+        run_git(["merge", "--ff-only", "origin/main"], repo_root=repo_root)
+    except subprocess.CalledProcessError as exc:
+        log(f"Could not fast-forward local checkout after temp publish: {exc}")
+        return
+    log("Fast-forwarded local checkout to origin/main after temp publish.")
+
+
 def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
-    state = lock_state(stale_seconds=stale_lock_seconds)
+    state = lock_state(lock_dir=LOCK_DIR, stale_seconds=stale_lock_seconds)
     if state == LOCK_ALREADY_RUNNING:
         return 0
 
@@ -176,6 +193,9 @@ def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
     script = prepare_publish_script(repo_root=publish_root)
     env = os.environ.copy()
     env.setdefault("PATH", "/usr/bin:/bin:/usr/sbin:/sbin")
+    env["EPI_DOSSIER_LOCAL_REPO_ROOT"] = str(REPO_ROOT)
+    env["EPI_DOSSIER_EDGE_REPO_ROOT"] = str(EDGE_REPO_ROOT)
+    env["EPI_DOSSIER_PYTHON_BIN"] = str(PYTHON_BIN)
     log(f"Starting guarded public publish from {publish_root}")
     process = subprocess.Popen(
         ["/bin/zsh", "-lc", script],
@@ -197,12 +217,14 @@ def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
     log(f"Publish finished with exit code {return_code}.")
     if temp_worktree is not None:
         remove_temp_worktree(temp_worktree)
+        if return_code == 0:
+            fast_forward_local_checkout()
     return return_code
 
 
 def check_configuration(stale_lock_seconds: int) -> int:
     script = prepare_publish_script()
-    state = lock_state(stale_seconds=stale_lock_seconds)
+    state = lock_state(lock_dir=LOCK_DIR, stale_seconds=stale_lock_seconds)
     print(f"public_publish_check_ok repo_root={REPO_ROOT}", flush=True)
     print(f"public_publish_check_ok script_bytes={len(script.encode())}", flush=True)
     print(f"public_publish_check_ok lock_state={state}", flush=True)

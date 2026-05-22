@@ -3,9 +3,10 @@
 set -euo pipefail
 
 REPO_ROOT="${0:A:h:h}"
-EDGE_REPO_ROOT="$REPO_ROOT/../edge-of-epidemiology-site"
+LOCAL_REPO_ROOT="${EPI_DOSSIER_LOCAL_REPO_ROOT:-$REPO_ROOT}"
+EDGE_REPO_ROOT="${EPI_DOSSIER_EDGE_REPO_ROOT:-$LOCAL_REPO_ROOT/../edge-of-epidemiology-site}"
 LOCK_DIR="/private/tmp/epi-dossier-public-publish.lock"
-PYTHON_BIN="$REPO_ROOT/.venv/bin/python"
+PYTHON_BIN="${EPI_DOSSIER_PYTHON_BIN:-$REPO_ROOT/.venv/bin/python}"
 EDGE_PYTHON_BIN="$EDGE_REPO_ROOT/.venv/bin/python"
 SSH_KEY="$HOME/.ssh/id_ed25519_epi_dossier"
 GIT_BIN="/usr/bin/git"
@@ -145,6 +146,10 @@ push_commit_with_generated_docs_rebase() {
 }
 
 publish_umbrella_site() {
+  if [[ "$REPO_ROOT" != "$LOCAL_REPO_ROOT" && -d "$LOCAL_REPO_ROOT/docs" ]]; then
+    "$RSYNC_BIN" -a --delete "$REPO_ROOT/docs/" "$LOCAL_REPO_ROOT/docs/"
+  fi
+
   if [[ ! -d "$EDGE_REPO_ROOT/.git" ]]; then
     echo "Skipping umbrella site refresh because edge-of-epidemiology-site was not found."
     return 0
