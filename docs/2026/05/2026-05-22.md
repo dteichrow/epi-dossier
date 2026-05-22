@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-22
-Generated at: 2026-05-22T04:10
+Generated at: 2026-05-22T04:18
 Search window: 7 day(s) ending 2026-05-22
 
 ## Executive scan
@@ -12,18 +12,19 @@ Search window: 7 day(s) ending 2026-05-22
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (224), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (227), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: Ahram Online, Channel 4 News, Devdiscourse.
+- New publisher/source coverage joined this story cluster: Latest news from Azerbaijan, RFI, The Straits Times.
+- Story volume increased from 238 to 241 clustered item(s) in the current window.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 238 item(s) across 146 source(s); 6 official/primary-source item(s).
+- Topic size: 241 item(s) across 145 source(s); 6 official/primary-source item(s).
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa, 2026-05-21T08:46+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -39,10 +40,10 @@ Search window: 7 day(s) ending 2026-05-22
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times, 2026-05-22T10:12+00:00)
-- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://www.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam) (CNN); [Amid measles outbreak, Bangladesh’s only specialised infectious disease hospital left overcrowded, treating all patients in same wards](https://www.thestatesman.com/world/amid-measles-outbreak-bangladeshs-only-specialised-infectious-disease-hospital-left-overcrowded-forced-to-treat-patients-in-same-wards-1503596820.html) (The Statesman)
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://www.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam) (CNN)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -417,8 +418,8 @@ Search window: 7 day(s) ending 2026-05-22
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Prompts Uganda Border Curbs, Flight Restrictions](https://www.bloomberg.com/news/articles/2026-05-22/ebola-outbreak-prompts-uganda-border-curbs-flight-restrictions) | Bloomberg.com | 2026-05-22T07:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [The Ebola outbreak in Congo went unnoticed for weeks. This is what we know](https://reviewtimes.com/news/992459/the-ebola-outbreak-in-congo-went-unnoticed-for-weeks-this-is-what-we-know/) | Review Times | 2026-05-22T06:00+00:00 | Outbreaks and emerging infections
-  This is what we know Review Times
+- [Korea to widen travel ban in Congo to 3 provinces over Ebola outbreak](https://koreajoongangdaily.joins.com/news/2026-05-22/national/socialAffairs/Korea-to-widen-travel-ban-in-Congo-to-3-provinces-over-Ebola-outbreak/2599004) | Korea JoongAng Daily | 2026-05-22T06:26+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Gov't bans travel to Congo's Ituri Province amid Ebola surge](https://www.koreatimes.co.kr/amp/foreignaffairs/20260522/govt-bans-travel-to-congos-ituri-province-amid-ebola-surge) | The Korea Times | 2026-05-22T04:22+00:00 | Outbreaks and emerging infections
   The Ministry of Foreign Affairs announced that the Level 4 travel alert — the highest in the country’s four-tier system — will take effect on Friday at 2 p.m. In addition to the ban on travel to the three provinces, Korea maintains a Level 3 "departure recommended" advisory for several border areas and regions, including territories within 50 kilometers of the Central African Republic border, Bas-Uele, Haut-Uele, Maniema and the Kasai regions. AP-Yonhap Korea has issued a blanket travel ban for the Ituri Province of the Democratic Republic of the Congo, responding to the mounting death toll from a worsening Ebola virus outbreak in the region.
 - [Residents burn an Ebola treatment center in Congo as anger grows over the outbreak](https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c) | AP News | 2026-05-22T02:56+00:00 | Outbreaks and emerging infections
