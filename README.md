@@ -251,6 +251,7 @@ Purpose:
 - runs from GitHub Actions, not the local Mac
 - publishes hourly at minute `:17` UTC and can also be started manually with `workflow_dispatch`
 - checks the live public manifest at `:05`, `:20`, `:35`, and `:50` UTC and repairs the publish if the site is stale
+- also publishes after pushes to pipeline code, config, data, graphics, requirements, or this workflow file
 - creates a fresh virtualenv for `epi-dossier`
 - runs `python src/public_publish.py` for scheduled and manual publishes
 - runs `python src/public_publish_watchdog.py` for cloud-side stale checks

@@ -5,6 +5,17 @@ on:
     - cron: "17 * * * *"
     - cron: "5,20,35,50 * * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/newsdesk-public-publish.yml"
+      - "scripts/**"
+      - "src/**"
+      - "requirements.txt"
+      - "config/**"
+      - "data/**"
+      - "graphics/**"
 
 concurrency:
   group: newsdesk-public-publish
@@ -57,7 +68,7 @@ jobs:
         run: .venv/bin/python src/public_publish.py --check
 
       - name: Publish Newsdesk
-        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 * * * *'
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event.schedule == '17 * * * *'
         run: .venv/bin/python src/public_publish.py
 
       - name: Repair stale Newsdesk publish
