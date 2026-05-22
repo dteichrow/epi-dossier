@@ -2,7 +2,6 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -18,18 +17,18 @@
     "metadata_only_count": 262,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 280,
+    "sources_live": 279,
     "story_count_change": 3,
-    "wrapper_only_count": 12
+    "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 280,
+    "live": 279,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-22T11:18:07",
+  "generated_at": "2026-05-22T12:17:42",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
