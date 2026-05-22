@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-22
-Generated at: 2026-05-22T02:17
+Generated at: 2026-05-22T03:08
 Search window: 7 day(s) ending 2026-05-22
 
 ## Executive scan
@@ -12,40 +12,45 @@ Search window: 7 day(s) ending 2026-05-22
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (221), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (217), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News)
+- New publisher/source coverage joined this story cluster: The Statesman.
+- The lead item has changed to [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) from CBS News.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Ebola virus disease
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: Business Upturn, China Daily, India Today.
-- Story volume increased from 231 to 234 clustered item(s) in the current window.
+- New publisher/source coverage joined this story cluster: Africa Sustainability Matters, Devdiscourse, Hartford Courant.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 234 item(s) across 142 source(s); 6 official/primary-source item(s).
+- Topic size: 230 item(s) across 140 source(s); 6 official/primary-source item(s).
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa, 2026-05-21T08:46+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Measles outbreak in Bangladesh: Suspected cases claim over 400 lives](https://indianexpress.com/article/world/bangladesh-measles-outbreak-deaths-cases-vaccination-crisis-10702345/) (The Indian Express, 2026-05-22T07:15+00:00)
-- Detailed note: Since 15 March, the country has reported 405 suspected measles deaths, including 83 confirmed deaths. According to the latest report, 46,407 suspected measles patients have been admitted to hospital since 15 March, while 42,336 have been discharged after recovering.
-- Evidence notes: [Measles outbreak in Bangladesh: Suspected cases claim over 400 lives](https://indianexpress.com/article/world/bangladesh-measles-outbreak-deaths-cases-vaccination-crisis-10702345/) (The Indian Express); [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://www.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam) (CNN)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Miscellaneous signals
-- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Topic size: 4 item(s) across 3 source(s); 3 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-20T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Kochi airport on high alert: 24x7 health surveillance rolled out after WHO declares Ebola emergency](https://english.mathrubhumi.com/lifestyle/health/kochi-airport-24x7-health-surveillance-who-ebola-global-emergency-screening-measures-india-yhctg14f) (Mathrubhumi English)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Measles transmission and vaccination
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News, 2026-05-20T15:28+00:00)
+- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://edition.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam) (CNN); [Amid measles outbreak, Bangladesh’s only specialised infectious disease hospital left overcrowded, treating all patients in same wards](https://www.thestatesman.com/world/amid-measles-outbreak-bangladeshs-only-specialised-infectious-disease-hospital-left-overcrowded-forced-to-treat-patients-in-same-wards-1503596820.html) (The Statesman)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -414,10 +419,6 @@ Search window: 7 day(s) ending 2026-05-22
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Prompts Uganda Border Curbs, Flight Restrictions](https://www.bloomberg.com/news/articles/2026-05-22/ebola-outbreak-prompts-uganda-border-curbs-flight-restrictions) | Bloomberg.com | 2026-05-22T07:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Measles outbreak in Bangladesh: Suspected cases claim over 400 lives](https://indianexpress.com/article/world/bangladesh-measles-outbreak-deaths-cases-vaccination-crisis-10702345/) | The Indian Express | 2026-05-22T07:15+00:00 | Outbreaks and emerging infections
-  Since 15 March, the country has reported 405 suspected measles deaths, including 83 confirmed deaths. According to the latest report, 46,407 suspected measles patients have been admitted to hospital since 15 March, while 42,336 have been discharged after recovering. The report suggests that as per information provided by the Directorate General of Health, of the latest deaths, four deaths were classified as suspected measles-related fatalities while three deaths were confirmed by the laboratory.
-- [Korea to widen travel ban in Congo to 3 provinces over Ebola outbreak](https://koreajoongangdaily.joins.com/news/2026-05-22/national/socialAffairs/Korea-to-widen-travel-ban-in-Congo-to-3-provinces-over-Ebola-outbreak/2599004) | Korea JoongAng Daily | 2026-05-22T06:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [The Ebola outbreak in Congo went unnoticed for weeks. This is what we know](https://norwalkreflector.com/news/992463/the-ebola-outbreak-in-congo-went-unnoticed-for-weeks-this-is-what-we-know/) | Norwalk Reflector | 2026-05-22T05:08+00:00 | Outbreaks and emerging infections
   This is what we know Norwalk Reflector
 - [Gov't bans travel to Congo's Ituri Province amid Ebola surge](https://www.koreatimes.co.kr/amp/foreignaffairs/20260522/govt-bans-travel-to-congos-ituri-province-amid-ebola-surge) | The Korea Times | 2026-05-22T04:22+00:00 | Outbreaks and emerging infections
@@ -434,11 +435,15 @@ Search window: 7 day(s) ending 2026-05-22
   Limited detail was available from feed metadata alone.
 - [As Ebola cases rise, Americans returning from DRC must enter US via Washington airport](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-cases-rise-americans-returning-drc-must-enter-us-via-washington-dulles-2026-05-21/) | Reuters | 2026-05-21T21:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [International travel concerns tied to Ebola outbreak in Africa](https://www.cbsnews.com/texas/video/international-travel-concerns-tied-to-ebola-outbreak-in-africa/) | CBS News | 2026-05-21T21:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Trump administration temporarily pauses deportation flights to Congo amid Ebola outbreak](https://www.politico.com/news/2026/05/21/trump-administration-temporarily-pauses-deportation-flights-to-congo-amid-ebola-outbreak-00932722) | Politico | 2026-05-21T21:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. imposes new travel restrictions over Ebola outbreak in Congo](https://www.cbsnews.com/video/us-new-travel-restrictions-ebola-outbreak-congo/) | CBS News | 2026-05-21T21:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US begins enhanced airport screening as race to contain Ebola outbreak continues](https://www.cidrap.umn.edu/ebola/us-begins-enhanced-airport-screening-race-contain-ebola-outbreak-continues) | CIDRAP | 2026-05-21T20:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak raises alarms about Trump's global health moves](https://www.axios.com/2026/05/21/ebole-response-trump-health-cuts) | Axios | 2026-05-21T19:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak](https://www.washingtonpost.com/world/2026/05/21/ebola-responders-say-aid-cuts-under-trump-left-them-unprepared-outbreak/) | The Washington Post | 2026-05-21T19:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -462,6 +467,5 @@ Search window: 7 day(s) ending 2026-05-22
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
-- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
