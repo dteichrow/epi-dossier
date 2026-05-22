@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-21
-Generated at: 2026-05-21T21:17
+Generated at: 2026-05-21T22:02
 Search window: 7 day(s) ending 2026-05-21
 
 ## Executive scan
@@ -12,19 +12,18 @@ Search window: 7 day(s) ending 2026-05-21
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (215), Policy, surveillance, and public health infrastructure (28), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (212), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: Cambodianess, China Daily, Fox News.
-- Story volume increased from 226 to 230 clustered item(s) in the current window.
+- New publisher/source coverage joined this story cluster: Africa Sustainability Matters, Devdiscourse, India TV News.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 230 item(s) across 143 source(s); 7 official/primary-source item(s).
+- Topic size: 225 item(s) across 137 source(s); 7 official/primary-source item(s).
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa, 2026-05-21T08:46+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -408,9 +407,9 @@ Search window: 7 day(s) ending 2026-05-21
   Limited detail was available from feed metadata alone.
 - [Local doctor speaks on Ebola outbreak concerns](https://www.cbsnews.com/miami/video/local-doctor-speaks-on-ebola-outbreak-concerns/) | CBS News | 2026-05-21T23:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak collides with NIH turmoil](https://www.washingtonpost.com/wp-intelligence/health-brief/2026/05/21/ebola-outbreak-collides-with-nih-turmoil/) | The Washington Post | 2026-05-21T22:05+00:00 | Outbreaks and emerging infections
+- [Scenes from the frontlines of the Ebola outbreak](https://www.reuters.com/pictures/scenes-frontlines-ebola-outbreak-2026-05-21/) | Reuters | 2026-05-21T22:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Scenes from the frontlines of the Ebola outbreak](https://www.reuters.com/pictures/scenes-frontlines-ebola-outbreak-2026-05-21/) | Reuters | 2026-05-21T22:02+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak collides with NIH turmoil](https://www.washingtonpost.com/wp-intelligence/health-brief/2026/05/21/ebola-outbreak-collides-with-nih-turmoil/) | The Washington Post | 2026-05-21T22:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [As Ebola cases rise, Americans returning from DRC must enter US via Washington airport](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-cases-rise-americans-returning-drc-must-enter-us-via-washington-dulles-2026-05-21/) | Reuters | 2026-05-21T21:25+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
@@ -434,13 +433,13 @@ Search window: 7 day(s) ending 2026-05-21
   Limited detail was available from feed metadata alone.
 - [Detroit-bound flight diverted to Canada after Congolese passenger boarded ‘in error’ amid Ebola outbreak](https://www.nbcnews.com/news/us-news/detroit-bound-flight-diverted-canada-passenger-congo-error-ebola-rcna346245) | NBC News | 2026-05-21T18:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [India-Africa Summit Postponed Indefinitely Over Ebola Outbreak](https://www.bloomberg.com/news/articles/2026-05-21/india-africa-summit-postponed-indefinitely-over-ebola-outbreak) | Bloomberg.com | 2026-05-21T18:01+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak gathering momentum, amid fears of spread, as angry crowd sets fire to treatment centre in Democratic Republic of Congo](https://news.sky.com/story/ebola-outbreak-gathering-momentum-amid-fears-of-spread-as-angry-crowd-sets-fire-to-treatment-centre-in-democratic-republic-of-congo-13546700) | Sky News | 2026-05-21T18:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [India-Africa Summit Postponed Indefinitely Over Ebola Outbreak](https://www.bloomberg.com/news/articles/2026-05-21/india-africa-summit-postponed-indefinitely-over-ebola-outbreak) | bloomberg.com | 2026-05-21T18:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo cancels World Cup training camp over Ebola outbreak](https://www.bbc.com/news/articles/c8d80856q2go) | BBC | 2026-05-21T17:54+00:00 | Outbreaks and emerging infections
   The virus is thought to have killed more than 130, including a person whose case was confirmed on Thursday in the South Kivu province, signalling the spread of the virus from the outbreak's epicentre. The Leopards are due to play friendly matches against Denmark, on 3 June in Belgium, and Chile, on 9 June in Spain, ahead of the World Cup finals. A spokesperson for DR Congo's football team told reporters that the training camp, part of the preparations for the team's first World Cup since 1974, would now take place in Belgium.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-05-21T17:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Uganda Restricts Travel with Congo Over Ebola Outbreak](https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html) | The New York Times | 2026-05-21T16:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
