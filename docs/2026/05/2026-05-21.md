@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-21
-Generated at: 2026-05-21T18:17
+Generated at: 2026-05-21T18:58
 Search window: 7 day(s) ending 2026-05-21
 
 ## Executive scan
@@ -12,18 +12,19 @@ Search window: 7 day(s) ending 2026-05-21
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (215), Policy, surveillance, and public health infrastructure (28), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (216), Policy, surveillance, and public health infrastructure (28), Major epidemiology studies (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: NBC Boston, Radio-Canada, The Guardian Nigeria News.
+- New publisher/source coverage joined this story cluster: Azərtac, Chronicle Live, DNP India.
+- Story volume increased from 230 to 231 clustered item(s) in the current window.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 230 item(s) across 137 source(s); 7 official/primary-source item(s).
+- Topic size: 231 item(s) across 144 source(s); 7 official/primary-source item(s).
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa, 2026-05-21T08:46+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -34,9 +35,9 @@ Search window: 7 day(s) ending 2026-05-21
 - Topic size: 4 item(s) across 3 source(s); 3 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-20T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Ebola Alert: India And US Step Up Airport Screening; WHO Warns Bundibugyo Vaccine Could Take Months](https://www.healthandme.com/health-news/ebola-alert-india-and-us-step-up-airport-screening-who-warns-bundibugyo-vaccine-could-take-months-article-154368571) (Health and Me)
+- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Delhi airport steps up Ebola screening after WHO alert](https://www.msn.com/en-in/news/insight/delhi-airport-steps-up-ebola-screening-after-who-alert/gm-GM2B933CCF?gemSnapshotKey\=GM2B933CCF-snapshot-18\&uxmode\=ruby) (MSN)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -417,8 +418,6 @@ Search window: 7 day(s) ending 2026-05-21
   Limited detail was available from feed metadata alone.
 - [US begins enhanced airport screening as race to contain Ebola outbreak continues](https://www.cidrap.umn.edu/ebola/us-begins-enhanced-airport-screening-race-contain-ebola-outbreak-continues) | CIDRAP | 2026-05-21T20:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo: Angry crowd sets Rwampara hospital tents on fire](https://www.bbc.com/news/articles/cp8p2g8yp8do) | BBC | 2026-05-21T20:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Residents burn an Ebola treatment center in Congo as anger grows over the outbreak](https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c) | AP News | 2026-05-21T20:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak](https://www.washingtonpost.com/world/2026/05/21/ebola-responders-say-aid-cuts-under-trump-left-them-unprepared-outbreak/) | The Washington Post | 2026-05-21T19:24+00:00 | Outbreaks and emerging infections
@@ -439,7 +438,9 @@ Search window: 7 day(s) ending 2026-05-21
   The virus is thought to have killed more than 130, including a person whose case was confirmed on Thursday in the South Kivu province, signalling the spread of the virus from the outbreak's epicentre. The Leopards are due to play friendly matches against Denmark, on 3 June in Belgium, and Chile, on 9 June in Spain, ahead of the World Cup finals. A spokesperson for DR Congo's football team told reporters that the training camp, part of the preparations for the team's first World Cup since 1974, would now take place in Belgium.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-05-21T17:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Uganda Restricts Travel with Congo Over Ebola Outbreak](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3RRTHVWa2NDUmdEa1Z0SFhVN3JDMU54V2JwS2hKX2RWc1FHZWE0SktXZUxkSTkxeFUyWF9sbTdFLTR4b1dtM0dCaVZHRTFyTE9tQy14RWtPNjlISVFmcUZ0Qm0xRkhWSzJDaHVVRVBhLTJRVU4zeGcwWGpKZFpsdEo0ekdpazdSV1E?oc=5) | The New York Times | 2026-05-21T16:37+00:00 | Outbreaks and emerging infections
+- [Uganda Restricts Travel with Congo Over Ebola Outbreak](https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html) | The New York Times | 2026-05-21T16:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [There is no Ebola vaccine for this outbreak and won’t be one soon. Here’s why.](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzRTbEZLTFdHM2tyX2VMd0xMbEhMMzJDZDFZZGlRNjVDRlkzZE5tQ3A2bTQwYmFOTWlzOUw3WGUwb2dvcmVkcDJrSEYtRTAwRTJST2ZDemUzRXotbGZuR1MybkNyaFpsYThoZktwMTBVa1hYS0hLeGRkVjl0U1JDZHZ1Y0tnUmZRVnE5MExNRnV5N3hZeU03WC1aQUJjX3VVTWYzMTFmVzRKaFVscE83WGxvTkxWdWs?oc=5) | The Washington Post | 2026-05-21T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
