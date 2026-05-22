@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-21
-Generated at: 2026-05-21T18:58
+Generated at: 2026-05-21T19:17
 Search window: 7 day(s) ending 2026-05-21
 
 ## Executive scan
@@ -12,19 +12,19 @@ Search window: 7 day(s) ending 2026-05-21
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (216), Policy, surveillance, and public health infrastructure (28), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (218), Policy, surveillance, and public health infrastructure (28), Major epidemiology studies (3)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: Azərtac, Chronicle Live, DNP India.
-- Story volume increased from 230 to 231 clustered item(s) in the current window.
+- New publisher/source coverage joined this story cluster: 930 WFMD Free Talk, Bhaskar English, Cambodianess.
+- Story volume increased from 231 to 233 clustered item(s) in the current window.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 231 item(s) across 144 source(s); 7 official/primary-source item(s).
+- Topic size: 233 item(s) across 142 source(s); 7 official/primary-source item(s).
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa, 2026-05-21T08:46+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -35,9 +35,9 @@ Search window: 7 day(s) ending 2026-05-21
 - Topic size: 4 item(s) across 3 source(s); 3 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks, 2026-05-20T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Delhi airport steps up Ebola screening after WHO alert](https://www.msn.com/en-in/news/insight/delhi-airport-steps-up-ebola-screening-after-who-alert/gm-GM2B933CCF?gemSnapshotKey\=GM2B933CCF-snapshot-18\&uxmode\=ruby) (MSN)
+- Evidence notes: [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Ebola Alert: India And US Step Up Airport Screening; WHO Warns Bundibugyo Vaccine Could Take Months](https://www.healthandme.com/health-news/ebola-alert-india-and-us-step-up-airport-screening-who-warns-bundibugyo-vaccine-could-take-months-article-154368571) (Health and Me)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Occupational and environmental epidemiology
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -428,6 +428,8 @@ Search window: 7 day(s) ending 2026-05-21
   Limited detail was available from feed metadata alone.
 - [Ebola case confirmed in rebel-held Congo area far from outbreak's epicentre](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-ebola-cases-reported-rebel-held-congo-area-2026-05-21/) | Reuters | 2026-05-21T18:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [D.R. Congo forced to change World Cup preparations due to Ebola outbreak](https://www.nbcnews.com/sports/soccer/congo-forced-change-world-cup-preparations-due-ebola-outbreak-rcna346263) | NBC News | 2026-05-21T18:32+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Detroit-bound flight diverted to Canada after Congolese passenger boarded ‘in error’ amid Ebola outbreak](https://www.nbcnews.com/news/us-news/detroit-bound-flight-diverted-canada-passenger-congo-error-ebola-rcna346245) | NBC News | 2026-05-21T18:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Scenes from the frontlines of the Ebola outbreak](https://www.reuters.com/pictures/scenes-frontlines-ebola-outbreak-2026-05-21/) | Reuters | 2026-05-21T18:09+00:00 | Outbreaks and emerging infections
@@ -439,8 +441,6 @@ Search window: 7 day(s) ending 2026-05-21
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-05-21T17:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda Restricts Travel with Congo Over Ebola Outbreak](https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html) | The New York Times | 2026-05-21T16:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [There is no Ebola vaccine for this outbreak and won’t be one soon. Here’s why.](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzRTbEZLTFdHM2tyX2VMd0xMbEhMMzJDZDFZZGlRNjVDRlkzZE5tQ3A2bTQwYmFOTWlzOUw3WGUwb2dvcmVkcDJrSEYtRTAwRTJST2ZDemUzRXotbGZuR1MybkNyaFpsYThoZktwMTBVa1hYS0hLeGRkVjl0U1JDZHZ1Y0tnUmZRVnE5MExNRnV5N3hZeU03WC1aQUJjX3VVTWYzMTFmVzRKaFVscE83WGxvTkxWdWs?oc=5) | The Washington Post | 2026-05-21T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
