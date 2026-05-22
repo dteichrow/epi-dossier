@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>com.codex.epi-dossier.public-publish-watchdog</string>
+
+    <key>ProgramArguments</key>
+    <array>
+      <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/.venv/bin/python</string>
+      <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/src/public_publish_watchdog.py</string>
+    </array>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>EPI_DOSSIER_WATCHDOG_STALE_MINUTES</key>
+      <string>90</string>
+      <key>EPI_DOSSIER_WATCHDOG_TIMEOUT_SECONDS</key>
+      <string>15</string>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StartCalendarInterval</key>
+    <array>
+      <dict><key>Minute</key><integer>5</integer></dict>
+      <dict><key>Minute</key><integer>20</integer></dict>
+      <dict><key>Minute</key><integer>35</integer></dict>
+      <dict><key>Minute</key><integer>50</integer></dict>
+    </array>
+
+    <key>StandardOutPath</key>
+    <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/logs/public-publish-watchdog.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/devinteichrow/Downloads/Work and Statistics/Blogs/epi-dossier/logs/public-publish-watchdog.err.log</string>
+  </dict>
+</plist>

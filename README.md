@@ -232,6 +232,7 @@ The project now treats local and public output as parallel surfaces from the sam
 - the live GitHub Pages site updates only after a newer `docs/` build has been pushed
 - `scripts/publish_public_site.sh` is the guarded public publish path; it rebuilds the site, refuses to auto-publish if non-generated repo files are dirty, and pushes only generated `docs/` changes
 - `src/public_publish.py` is the launchd-safe wrapper around that script; it pins the repo path, clears old empty publish locks, publishes from a clean temporary worktree when the local checkout has non-generated edits, and terminates stuck runs after the configured timeout
+- `src/public_publish_watchdog.py` checks the live public manifest every 15 minutes and invokes the wrapper if the site is stale or unreachable
 - public pages poll `docs/app_exports/manifest.json` and show a refresh prompt when a newer run has landed while a reader is still on the page
 
 ## Scheduling
@@ -310,6 +311,18 @@ Purpose:
 - runs `python src/public_publish.py`
 - rebuilds and republishes the public site hourly at `:15`
 - keeps the historical launchd label, but no longer depends on a brittle relative-path shell invocation
+
+### Public publish watchdog launchd job
+
+Repo file:
+
+- `automation/com.codex.epi-dossier.public-publish-watchdog.plist`
+
+Purpose:
+
+- runs `python src/public_publish_watchdog.py`
+- checks the live public manifest at `:05`, `:20`, `:35`, and `:50`
+- invokes the guarded public publisher if the live site is older than 90 minutes or the manifest cannot be fetched
 
 ## GitHub Pages
 
