@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-22
-Generated at: 2026-05-22T00:17
+Generated at: 2026-05-22T01:06
 Search window: 7 day(s) ending 2026-05-22
 
 ## Executive scan
@@ -12,23 +12,40 @@ Search window: 7 day(s) ending 2026-05-22
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-20T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (217), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (222), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (2)
 - Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Measles outbreak in Bangladesh: Suspected cases claim over 400 lives](https://indianexpress.com/article/world/bangladesh-measles-outbreak-deaths-cases-vaccination-crisis-10702345/) (The Indian Express)
+- The Indian Express now includes deaths or fatal cases in the story frame.
+- New publisher/source coverage joined this story cluster: The Indian Express.
+- The lead item has changed to [Measles outbreak in Bangladesh: Suspected cases claim over 400 lives](https://indianexpress.com/article/world/bangladesh-measles-outbreak-deaths-cases-vaccination-crisis-10702345/) from The Indian Express.
+- 1 newly observed linked item(s) were added since the last saved snapshot.
+
 ### Ebola virus disease
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa)
-- New publisher/source coverage joined this story cluster: EWN, Eye Radio, Northwest Arkansas Democrat-Gazette.
+- New publisher/source coverage joined this story cluster: Africa Sustainability Matters, American Hospital Association, Azərtac.
+- Story volume increased from 232 to 238 clustered item(s) in the current window.
+- 2 newly observed linked item(s) were added since the last saved snapshot.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 232 item(s) across 139 source(s); 6 official/primary-source item(s).
+- Topic size: 238 item(s) across 145 source(s); 6 official/primary-source item(s).
 - Lead item: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa, 2026-05-21T08:46+00:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Measles transmission and vaccination
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Measles outbreak in Bangladesh: Suspected cases claim over 400 lives](https://indianexpress.com/article/world/bangladesh-measles-outbreak-deaths-cases-vaccination-crisis-10702345/) (The Indian Express, 2026-05-22T07:15+00:00)
+- Detailed note: Since 15 March, the country has reported 405 suspected measles deaths, including 83 confirmed deaths. According to the latest report, 46,407 suspected measles patients have been admitted to hospital since 15 March, while 42,336 have been discharged after recovering.
+- Evidence notes: [Measles outbreak in Bangladesh: Suspected cases claim over 400 lives](https://indianexpress.com/article/world/bangladesh-measles-outbreak-deaths-cases-vaccination-crisis-10702345/) (The Indian Express); [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://www.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam) (CNN)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
@@ -46,14 +63,6 @@ Search window: 7 day(s) ending 2026-05-22
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News, 2026-05-20T15:28+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Why a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned](https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/) (CBS News); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://www.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam) (CNN)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Polio and wastewater surveillance
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Polio Eradication Needs Political Commitment As Conflict Makes Vaccination 'Impossible' In Areas Like North Yemen](https://healthpolicy-watch.news/polio-eradication-needs-political-commitment-as-conflict-makes-vaccination-impossible-in-areas-like-north-yemen/) (Health Policy Watch, 2026-05-21T19:10+00:00)
@@ -62,11 +71,11 @@ Search window: 7 day(s) ending 2026-05-22
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### Dengue and arboviruses
+### Diphtheria
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka dengue outbreak nears 30,000 cases](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-nears-30000) (Outbreak News Today, 2026-05-21T01:01+00:00)
-- Detailed note: An additional fatality was reported, bringing the dengue death toll to 15. In a follow-up on a report last week, the National Dengue Control Unit (NDCU) reports 29,589 dengue infections as of May 18.
-- Evidence notes: [Sri Lanka dengue outbreak nears 30,000 cases](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-nears-30000) (Outbreak News Today)
+- Lead item: [Australia faces 'biggest diphtheria outbreak' in decades](https://news.sky.com/story/australia-faces-biggest-diphtheria-outbreak-in-decades-13546167) (Sky News, 2026-05-20T18:15+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Australia faces 'biggest diphtheria outbreak' in decades](https://news.sky.com/story/australia-faces-biggest-diphtheria-outbreak-in-decades-13546167) (Sky News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -403,6 +412,12 @@ Search window: 7 day(s) ending 2026-05-22
 ## Other notable readings
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [This Ebola outbreak is particularly worrying. That doesn't mean it's a threat to Canadians](https://www.cbc.ca/news/world/ebola-outbreak-canada-threat-9.7207859) | CBC | 2026-05-22T08:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa summit in India postponed over Ebola outbreak fears](https://www.bbc.com/news/articles/cp8p1l7gp1po) | BBC | 2026-05-22T07:56+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Measles outbreak in Bangladesh: Suspected cases claim over 400 lives](https://indianexpress.com/article/world/bangladesh-measles-outbreak-deaths-cases-vaccination-crisis-10702345/) | The Indian Express | 2026-05-22T07:15+00:00 | Outbreaks and emerging infections
+  Since 15 March, the country has reported 405 suspected measles deaths, including 83 confirmed deaths. According to the latest report, 46,407 suspected measles patients have been admitted to hospital since 15 March, while 42,336 have been discharged after recovering. The report suggests that as per information provided by the Directorate General of Health, of the latest deaths, four deaths were classified as suspected measles-related fatalities while three deaths were confirmed by the laboratory.
 - [Korea to widen travel ban in Congo to 3 provinces over Ebola outbreak](https://koreajoongangdaily.joins.com/news/2026-05-22/national/socialAffairs/Korea-to-widen-travel-ban-in-Congo-to-3-provinces-over-Ebola-outbreak/2599004) | Korea JoongAng Daily | 2026-05-22T06:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Delhi issues Ebola advisory for African arrivals; India-Africa Forum Summit postponed amid outbreak](https://www.ibtimes.co.in/delhi-issues-ebola-advisory-african-arrivals-india-africa-forum-summit-postponed-amid-outbreak-902239) | IBTimes India | 2026-05-22T05:22+00:00 | Outbreaks and emerging infections
@@ -435,12 +450,6 @@ Search window: 7 day(s) ending 2026-05-22
   Limited detail was available from feed metadata alone.
 - [D.R. Congo forced to change World Cup preparations due to Ebola outbreak](https://www.nbcnews.com/sports/soccer/congo-forced-change-world-cup-preparations-due-ebola-outbreak-rcna346263) | NBC News | 2026-05-21T18:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Detroit-bound flight diverted to Canada after Congolese passenger boarded ‘in error’ amid Ebola outbreak](https://www.nbcnews.com/news/us-news/detroit-bound-flight-diverted-canada-passenger-congo-error-ebola-rcna346245) | NBC News | 2026-05-21T18:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak gathering momentum, amid fears of spread, as angry crowd sets fire to treatment centre in Democratic Republic of Congo](https://news.sky.com/story/ebola-outbreak-gathering-momentum-amid-fears-of-spread-as-angry-crowd-sets-fire-to-treatment-centre-in-democratic-republic-of-congo-13546700) | Sky News | 2026-05-21T18:17+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo cancels World Cup training camp over Ebola outbreak](https://www.bbc.com/news/articles/c8d80856q2go) | BBC | 2026-05-21T17:54+00:00 | Outbreaks and emerging infections
-  The virus is thought to have killed more than 130, including a person whose case was confirmed on Thursday in the South Kivu province, signalling the spread of the virus from the outbreak's epicentre. The Leopards are due to play friendly matches against Denmark, on 3 June in Belgium, and Chile, on 9 June in Spain, ahead of the World Cup finals. A spokesperson for DR Congo's football team told reporters that the training camp, part of the preparations for the team's first World Cup since 1974, would now take place in Belgium.
 
 ## Papers worth saving
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/)
@@ -461,5 +470,6 @@ Search window: 7 day(s) ending 2026-05-22
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
+- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
