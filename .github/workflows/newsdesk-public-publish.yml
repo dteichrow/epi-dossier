@@ -22,7 +22,7 @@ jobs:
     env:
       PYTHON_VERSION: "3.12"
       EPI_DOSSIER_PUBLIC_PUBLISH_TIMEOUT_SECONDS: "3300"
-      EPI_DOSSIER_PUBLIC_PUBLISH_TEMP_ROOT: ${{ runner.temp }}
+      EPI_DOSSIER_PUBLIC_PUBLISH_TEMP_ROOT: /tmp
 
     steps:
       - name: Check out epi-dossier
