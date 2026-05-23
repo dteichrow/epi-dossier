@@ -68,35 +68,32 @@ push_from_clean_temp_worktree() {
     cleanup_worktree "$repo_root" "$temp_worktree"
     return 1
   fi
-  if ! "$GIT_BIN" -C "$temp_worktree" rebase "$remote_ref"; then
-    "$GIT_BIN" -C "$temp_worktree" rebase --abort >/dev/null 2>&1 || true
   if ! "$GIT_BIN" -C "$temp_worktree" reset --hard "$remote_ref" >/dev/null; then
-      cleanup_worktree "$repo_root" "$temp_worktree"
-      return 1
-    fi
-    # Generated site trees conflict often; rebuild the temp worktree from the
-    # current local docs snapshot on top of the latest remote branch instead.
-    if ! "$RSYNC_BIN" -a --delete "$repo_root/docs/" "$temp_worktree/docs/"; then
-      cleanup_worktree "$repo_root" "$temp_worktree"
-      return 1
-    fi
-    if [[ -f "$repo_root/content/posts.yml" ]]; then
-      "$MKDIR_BIN" -p "$temp_worktree/content"
-      "$RSYNC_BIN" -a "$repo_root/content/posts.yml" "$temp_worktree/content/posts.yml"
-    fi
-    "$GIT_BIN" -C "$temp_worktree" add docs
-    if [[ -f "$temp_worktree/content/posts.yml" ]]; then
-      "$GIT_BIN" -C "$temp_worktree" add content/posts.yml
-    fi
-    if "$GIT_BIN" -C "$temp_worktree" diff --cached --quiet -- docs content/posts.yml 2>/dev/null; then
-      cleanup_worktree "$repo_root" "$temp_worktree"
-      echo "$success_message"
-      return 0
-    fi
-    if ! "$GIT_BIN" -C "$temp_worktree" commit -m "$commit_subject" >/dev/null; then
-      cleanup_worktree "$repo_root" "$temp_worktree"
-      return 1
-    fi
+    cleanup_worktree "$repo_root" "$temp_worktree"
+    return 1
+  fi
+  # Generated site trees conflict frequently. Do not rebase them line-by-line;
+  # overlay this run's generated snapshot onto the latest remote branch.
+  if ! "$RSYNC_BIN" -a --delete "$repo_root/docs/" "$temp_worktree/docs/"; then
+    cleanup_worktree "$repo_root" "$temp_worktree"
+    return 1
+  fi
+  if [[ -f "$repo_root/content/posts.yml" ]]; then
+    "$MKDIR_BIN" -p "$temp_worktree/content"
+    "$RSYNC_BIN" -a "$repo_root/content/posts.yml" "$temp_worktree/content/posts.yml"
+  fi
+  "$GIT_BIN" -C "$temp_worktree" add docs
+  if [[ -f "$temp_worktree/content/posts.yml" ]]; then
+    "$GIT_BIN" -C "$temp_worktree" add content/posts.yml
+  fi
+  if "$GIT_BIN" -C "$temp_worktree" diff --cached --quiet -- docs content/posts.yml 2>/dev/null; then
+    cleanup_worktree "$repo_root" "$temp_worktree"
+    echo "$success_message"
+    return 0
+  fi
+  if ! "$GIT_BIN" -C "$temp_worktree" commit -m "$commit_subject" >/dev/null; then
+    cleanup_worktree "$repo_root" "$temp_worktree"
+    return 1
   fi
   if ! git_with_publish_auth -C "$temp_worktree" push "$remote_name" HEAD:"$branch_name"; then
     cleanup_worktree "$repo_root" "$temp_worktree"
@@ -148,17 +145,8 @@ push_commit_with_generated_docs_rebase() {
     return 0
   fi
 
-  echo "Push rejected for $repo_root; fetching and rebasing generated docs onto $remote_ref."
-  if repo_has_local_changes "$repo_root"; then
-    echo "Local changes detected in $repo_root; rebasing and pushing from a temporary clean worktree."
-    push_from_clean_temp_worktree "$repo_root" "$remote_name" "$branch_name" "$success_message"
-    return 0
-  fi
-
-  git_with_publish_auth -C "$repo_root" fetch "$remote_name" "$branch_name"
-  "$GIT_BIN" -C "$repo_root" rebase "$remote_ref"
-  git_with_publish_auth -C "$repo_root" push "$remote_name" "$branch_name"
-  echo "$success_message"
+  echo "Push rejected for $repo_root; overlaying generated docs onto latest $remote_ref in a temporary worktree."
+  push_from_clean_temp_worktree "$repo_root" "$remote_name" "$branch_name" "$success_message"
 }
 
 publish_umbrella_site() {
