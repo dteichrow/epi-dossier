@@ -252,6 +252,7 @@ Purpose:
 - publishes twice per hour at minutes `:17` and `:47` UTC and can also be started manually with `workflow_dispatch`
 - sets the Actions job timezone to `America/Los_Angeles`, so generated Newsdesk timestamps use the same wall clock as the local Mac automation
 - checks the live public manifest at `:05`, `:20`, `:35`, and `:50` UTC and repairs the publish if the site is more than 55 minutes stale or unreachable
+- on each watchdog check, runs the same 7-day source intake window and publishes immediately if any current candidate article is absent from the live `latest.json` feed
 - also publishes after pushes to pipeline code, config, data, graphics, requirements, or this workflow file
 - creates a fresh virtualenv for `epi-dossier`
 - runs `python src/public_publish.py` for scheduled and manual publishes

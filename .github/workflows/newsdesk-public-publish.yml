@@ -84,4 +84,6 @@ jobs:
           github.event.schedule != '47 * * * *'
         env:
           EPI_DOSSIER_WATCHDOG_STALE_MINUTES: "55"
+          EPI_DOSSIER_WATCHDOG_CHECK_NEW_ITEMS: "true"
+          EPI_DOSSIER_WATCHDOG_SEARCH_WINDOW_DAYS: "7"
         run: .venv/bin/python src/public_publish_watchdog.py
