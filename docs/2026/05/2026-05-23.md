@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-23
-Generated at: 2026-05-23T04:48
+Generated at: 2026-05-23T12:11
 Search window: 7 day(s) ending 2026-05-23
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-23
 - [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa; 2026-05-21T08:46+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (269), Policy, surveillance, and public health infrastructure (33), Occupational and environmental epidemiology (1)
-- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (253), Policy, surveillance, and public health infrastructure (36), Major epidemiology studies (1)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 256 item(s) across 167 source(s).
-- Baseline snapshot created with 256 clustered item(s) across 167 source(s).
+- Newly tracked story cluster: 243 item(s) across 158 source(s).
+- Baseline snapshot created with 243 clustered item(s) across 158 source(s).
 - ECDC News now explicitly uses investigation or monitoring language.
 - ECDC News now includes deaths or fatal cases in the story frame.
 
@@ -39,7 +39,7 @@ Search window: 7 day(s) ending 2026-05-23
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 256 item(s) across 167 source(s); 6 official/primary-source item(s).
+- Topic size: 243 item(s) across 158 source(s); 6 official/primary-source item(s).
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-21T17:36+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -421,11 +421,13 @@ Search window: 7 day(s) ending 2026-05-23
   * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in 2007 in Bundibugyo district in western Uganda, during which 131 cases were reported with 42 deaths (case fatality rate of 32%). Laboratory analysis conducted by the National Institute of Biomedical Research (INRB), the country’s reference laboratory in the capital Kinshasa, confirmed the Ebola outbreak caused by the Bundibugyo species in 8 of 13 samples* collected from suspected cases linked to a cluster of severe illness and deaths reported in Mongbwalu and Rwampara health zones in Ituri Province.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [How the Ebola outbreak is testing U.S. pandemic preparedness](https://www.washingtonpost.com/health/2026/05/23/how-ebola-outbreak-is-testing-us-pandemic-preparedness/) | The Washington Post | 2026-05-23T12:04+00:00 | Outbreaks and emerging infections
+  pandemic preparedness The Washington Post
+- [Why the quarantine for hantavirus is so long](https://www.washingtonpost.com/wellness/2026/05/23/why-quarantine-hantavirus-is-so-long/) | The Washington Post | 2026-05-23T12:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak](https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html) | The New York Times | 2026-05-23T10:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [How the Ebola outbreak is testing U.S. pandemic preparedness](https://www.washingtonpost.com/health/2026/05/23/how-ebola-outbreak-is-testing-us-pandemic-preparedness/) | The Washington Post | 2026-05-23T10:34+00:00 | Outbreaks and emerging infections
-  pandemic preparedness The Washington Post
-- [Why the quarantine for hantavirus is so long](https://www.washingtonpost.com/wellness/2026/05/23/why-quarantine-hantavirus-is-so-long/) | The Washington Post | 2026-05-23T10:34+00:00 | Outbreaks and emerging infections
+- [Ebola Outruns Containment in Eastern Congo as Contact Tracing Falters](https://www.bloomberg.com/news/articles/2026-05-23/ebola-outbreak-in-congo-outrunning-containment-as-contact-tracing-falters) | Bloomberg | 2026-05-23T09:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda confirms three new Ebola cases, bringing total to five](https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-three-new-ebola-cases-bringing-total-five-2026-05-23/) | Reuters | 2026-05-23T09:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -433,14 +435,12 @@ Search window: 7 day(s) ending 2026-05-23
   Limited detail was available from feed metadata alone.
 - [DRC World Cup squad ordered to isolate before entry to US due to Ebola outbreak](https://www.theguardian.com/football/2026/may/23/dcr-world-cup-squad-isolate-ebola-outbreak-congo-united-states) | The Guardian | 2026-05-23T09:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [900 Miles From the Ebola Outbreak, Congo’s Capital Shrugs](https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html) | The New York Times | 2026-05-23T09:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [K'taka on high alert after WHO declares Ebola outbreak as global health emergency](https://www.ibtimes.co.in/ktaka-high-alert-after-who-declares-ebola-outbreak-global-health-emergency-902265) | IBTimes India | 2026-05-23T07:38+00:00 | Outbreaks and emerging infections
-  The Karnataka Health Department has stepped up surveillance and preparedness measures across the state following the World Health Organization's (WHO) declaration of the ongoing Ebola Disease (ED) outbreak in the Democratic Republic of Congo (DRC) and Uganda as a "Public Health Emergency of International Concern" (PHEIC) on May 17, 2026. "In Mangaluru, Srinivas Port Hospital under the New Mangalore Port Authority (NMPA) has been identified as the quarantine centre, while Wenlock District Hospital has been designated as the isolation and treatment facility." The Health Department stated that samples from suspected Ebola cases would be collected and sent through the National Institute of Virology (NIV), Bengaluru, for confirmatory testing at NIV Pune. According to an official statement issued by the Health Department, "In Bengaluru, the Rajiv Gandhi Institute of Chest Diseases (RGICD) has been designated as the isolation centre, while the Epidemic Diseases Hospital has been identified as the quarantine and treatment centre.
 - [US restricts arrivals from DRC, Uganda and South Sudan over Ebola outbreak](https://peopledaily.digital/news/us-restricts-arrivals-from-drc-uganda-and-south-sudan-over-ebola-outbreak) | People Daily | 2026-05-23T03:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [In the shadow of Ebola: Scenes from the outbreak](https://www.reuters.com/pictures/shadow-ebola-scenes-outbreaks-frontlines-2026-05-22/) | Reuters | 2026-05-23T03:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Kochi airport intensifies vigil over Ebola scare](https://www.newindianexpress.com/cities/kochi/2026/May/23/kochi-airport-intensifies-vigil-over-ebola-scare) | The New Indian Express | 2026-05-23T02:38+00:00 | Outbreaks and emerging infections
+  Considering the global alert over Ebola outbreaks, passengers arriving from countries including Congo, Uganda and South Sudan will be placed under special health surveillance,” the CIAL said in a statement. KOCHI: Health surveillance and precautionary protocols have been intensified at Kochi airport amid growing concerns over the Ebola outbreak in Africa. Thermal screening and 21 days of travel history verification have been introduced for international passengers.
 - [Ebola outbreak spreading fast in Congo, WHO warns](https://www.cbc.ca/player/play/video/9.7209840) | CBC | 2026-05-23T02:04+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) | The Guardian | 2026-05-23T01:52+00:00 | Outbreaks and emerging infections
