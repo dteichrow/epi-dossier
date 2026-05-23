@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-23
-Generated at: 2026-05-23T13:17
+Generated at: 2026-05-23T14:10
 Search window: 7 day(s) ending 2026-05-23
 
 ## Executive scan
@@ -9,17 +9,17 @@ Search window: 7 day(s) ending 2026-05-23
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Andes hantavirus outbreak in cruise ship, 21 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News; 2026-05-21T17:56+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa; 2026-05-21T08:46+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (259), Policy, surveillance, and public health infrastructure (31), Virology and pathogen evolution (1)
-- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
+- [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (258), Policy, surveillance, and public health infrastructure (31), Virology and pathogen evolution (1)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 241 item(s) across 154 source(s).
-- Baseline snapshot created with 241 clustered item(s) across 154 source(s).
+- Newly tracked story cluster: 241 item(s) across 155 source(s).
+- Baseline snapshot created with 241 clustered item(s) across 155 source(s).
 - ECDC News now explicitly uses investigation or monitoring language.
 - ECDC News now includes deaths or fatal cases in the story frame.
 
@@ -39,7 +39,7 @@ Search window: 7 day(s) ending 2026-05-23
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 241 item(s) across 154 source(s); 6 official/primary-source item(s).
+- Topic size: 241 item(s) across 155 source(s); 6 official/primary-source item(s).
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-21T17:36+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -55,18 +55,18 @@ Search window: 7 day(s) ending 2026-05-23
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 5 item(s) across 5 source(s); 3 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 2 official/primary-source item(s).
 - Lead item: [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices, 2026-05-22T18:22+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices); [Bundibugyo virus disease in the Democratic Republic of the Congo](https://www.afro.who.int/node/23265) (WHO Regional Office for Africa); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Ebola Ward in Congo Burns After Residents Turn Against Medics](https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html) (The New York Times); [Gaza's battle with rising infectious disease risks](https://www.vaticannews.va/en/world/news/2026-05/gaza-s-battle-with-rising-infectious-disease-risks.html) (Vatican News)
+- Evidence notes: [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search); [Ebola Ward in Congo Burns After Residents Turn Against Medics](https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html) (The New York Times); [Gaza's battle with rising infectious disease risks](https://www.vaticannews.va/en/world/news/2026-05/gaza-s-battle-with-rising-infectious-disease-risks.html) (Vatican News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue Has Killed 14 in Sri Lanka, Monsoon Season Just Began](https://www.groundreport.in/latest/dengue-has-killed-14-in-sri-lanka-monsoon-season-just-began/) (Ground Report, 2026-05-15T05:37+00:00)
-- Detailed note: Others Obituary: Barrister Mainul Hosein Today’s Newspaper Front Page Back Page Editorial Editor’s Pick Election 2026 Literature Technology Law and Justice Campus Life Chattogram Anniversary Issue Eid Magazine 69pc harassment cases in media go unreported 69pc harassment cases in media go unreported Sacrificial animals start arriving in Dhaka’s animal markets from different parts of the country on the occasion of...
-- Evidence notes: [Dengue Has Killed 14 in Sri Lanka, Monsoon Season Just Began](https://www.groundreport.in/latest/dengue-has-killed-14-in-sri-lanka-monsoon-season-just-began/) (Ground Report); [Stagnant rainwater in urban areas creates fresh breeding grounds for Aedes mosquitoes, raising the risk of an early dengue surge across Bangladesh.](https://dailynewnation.com/news/830262) (The New Nation)
+- Lead item: [Stagnant rainwater in urban areas creates fresh breeding grounds for Aedes mosquitoes, raising the risk of an early dengue surge across Bangladesh.](https://dailynewnation.com/news/830262) (The New Nation, 2026-05-23T18:02+00:00)
+- Detailed note: BD, US reaffirm expanded partnership in trade, energy, defence BD, US reaffirm expanded partnership in trade, energy, defence River police recover 17 bodies in 7 days Mercantile Bank Training Institute recently organises a workshop on “Awareness and Capacity Building for RBS (Risk-Based Supervision) Implementation” to strengthen participants’ understanding of effective risk management and supervisory practices in...
+- Evidence notes: [Stagnant rainwater in urban areas creates fresh breeding grounds for Aedes mosquitoes, raising the risk of an early dengue surge across Bangladesh.](https://dailynewnation.com/news/830262) (The New Nation); [Dengue Has Killed 14 in Sri Lanka, Monsoon Season Just Began](https://www.groundreport.in/latest/dengue-has-killed-14-in-sri-lanka-monsoon-season-just-began/) (Ground Report)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -74,7 +74,7 @@ Search window: 7 day(s) ending 2026-05-23
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times, 2026-05-22T10:12+00:00)
 - Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://www.cnn.com/2026/05/17/americas/mexico-texas-measles-outbreak-intl-latam) (CNN)
+- Evidence notes: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times); [A measles outbreak crossed into Mexico from Texas. A larger tragedy followed](https://www.kwwl.com/news/a-measles-outbreak-crossed-into-mexico-from-texas-a-larger-tragedy-followed/article_49073084-379e-54c2-83b0-c480fc7b8085.html) (KWWL)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -365,16 +365,6 @@ Search window: 7 day(s) ending 2026-05-23
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Bundibugyo virus disease in the Democratic Republic of the Congo
-- Source: WHO Regional Office for Africa
-- Date: 2026-05-21T08:46+00:00
-- URL: https://www.afro.who.int/node/23265
-- Category: Outbreaks and emerging infections
-- Summary: Limited usable detail remained after boilerplate cleanup.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 ### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-05-20T06:12+00:00
@@ -415,19 +405,29 @@ Search window: 7 day(s) ending 2026-05-23
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support
+- Source: WHO Regional Office for Africa
+- Date: 2026-05-15T18:57+00:00
+- URL: https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport
+- Category: Outbreaks and emerging infections
+- Summary: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in 2007 in Bundibugyo district in western Uganda, during which 131 cases were reported with 42 deaths (case fatality rate of 32%). Laboratory analysis conducted by the National Institute of Biomedical Research (INRB), the country’s reference laboratory in the capital Kinshasa, confirmed the Ebola outbreak caused by the Bundibugyo species in 8 of 13 samples* collected from suspected cases linked to a cluster of severe illness and deaths reported in Mongbwalu and Rwampara health zones in Ituri Province.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) | WHO Regional Office for Africa | 2026-05-15T18:57+00:00 | Outbreaks and emerging infections
-  * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in 2007 in Bundibugyo district in western Uganda, during which 131 cases were reported with 42 deaths (case fatality rate of 32%). Laboratory analysis conducted by the National Institute of Biomedical Research (INRB), the country’s reference laboratory in the capital Kinshasa, confirmed the Ebola outbreak caused by the Bundibugyo species in 8 of 13 samples* collected from suspected cases linked to a cluster of severe illness and deaths reported in Mongbwalu and Rwampara health zones in Ituri Province.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Ebola treatment tent set ablaze again in Congo, with 18 suspected cases leaving](https://www.cbc.ca/news/world/ebola-tent-fire-congo-9.7210001) | CBC | 2026-05-23T19:09+00:00 | Policy, surveillance, and public health infrastructure
+- [Red Cross volunteers die from suspected Ebola in DR Congo](https://www.bbc.com/news/articles/c759knxln0wo) | BBC | 2026-05-23T19:55+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola treatment tent set ablaze again in Congo, with 18 suspected cases leaving](https://www.cbc.ca/news/world/ebola-tent-fire-congo-9.7210001) | CBC | 2026-05-23T19:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US adds Atlanta airport as enhanced screening location for travelers from Ebola outbreak countries](https://thehill.com/policy/healthcare/5892834-ebola-screening-atlanta-airport/) | The Hill | 2026-05-23T18:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Stagnant rainwater in urban areas creates fresh breeding grounds for Aedes mosquitoes, raising the risk of an early dengue surge across Bangladesh.](https://dailynewnation.com/news/830262) | The New Nation | 2026-05-23T18:02+00:00 | Outbreaks and emerging infections
+  BD, US reaffirm expanded partnership in trade, energy, defence BD, US reaffirm expanded partnership in trade, energy, defence River police recover 17 bodies in 7 days Mercantile Bank Training Institute recently organises a workshop on “Awareness and Capacity Building for RBS (Risk-Based Supervision) Implementation” to strengthen participants’ understanding of effective risk management and supervisory practices in the banking sector. Zakir Hossain, Deputy Managing Director & CRO of Mercantile Bank PLC, attended the programme as special guest.
 - [Africa CDC warns Ebola could spread to 10 countries amid rising cases](https://sana.sy/en/health/2318835/) | سانا | 2026-05-23T17:47+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Red Cross volunteers die from suspected Ebola in DR Congo](https://www.bbc.com/news/articles/c759knxln0wo) | BBC | 2026-05-23T17:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: 10 African countries at risk; US extends travel ban to Green Card holders — 10 points](https://www.livemint.com/news/world/ebola-outbreak-10-african-countries-at-risk-us-extends-travel-ban-to-green-card-holders-10-points-11779552734705.html) | Mint | 2026-05-23T16:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -443,8 +443,6 @@ Search window: 7 day(s) ending 2026-05-23
   Limited detail was available from feed metadata alone.
 - [DRC World Cup squad ordered to isolate before entry to US due to Ebola outbreak](https://www.theguardian.com/football/2026/may/23/dcr-world-cup-squad-isolate-ebola-outbreak-congo-united-states) | The Guardian | 2026-05-23T13:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Uganda confirms three new Ebola cases as outbreak widens](https://www.msn.com/en-gb/news/insight/uganda-confirms-three-new-ebola-cases-as-outbreak-widens/gm-GM7C09E507?gemSnapshotKey\=GM7C09E507-snapshot-4\&uxmode\=ruby) | MSN | 2026-05-23T13:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [World Bank rushes emergency Ebola funding to Congo as outbreak spreads across East Africa](https://africa.businessinsider.com/lifestyle/world-bank-prepares-emergency-ebola-funding-as-congo-outbreak-spreads-to-uganda/63hh7ss) | Business Insider Africa | 2026-05-23T12:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda confirms new Ebola cases as risk in DRC rises to highest level](https://www.rfi.fr/en/africa/20260523-travel-restrictions-on-dr-congo-as-ebola-threat-rises-to-highest-level) | RFI | 2026-05-23T11:05+00:00 | Outbreaks and emerging infections
@@ -456,6 +454,8 @@ Search window: 7 day(s) ending 2026-05-23
 - [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) | The Guardian | 2026-05-23T01:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Ward in Congo Burns After Residents Turn Against Medics](https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html) | The New York Times | 2026-05-23T01:35+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak Is Now Third Largest in History. Here’s What to Know.](https://www.wsj.com/world/africa/ebola-outbreak-explained-4ab4414f) | WSJ | 2026-05-22T23:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
