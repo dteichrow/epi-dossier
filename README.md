@@ -249,8 +249,9 @@ Repo file:
 Purpose:
 
 - runs from GitHub Actions, not the local Mac
-- publishes hourly at minute `:17` UTC and can also be started manually with `workflow_dispatch`
-- checks the live public manifest at `:05`, `:20`, `:35`, and `:50` UTC and repairs the publish if the site is stale
+- publishes twice per hour at minutes `:17` and `:47` UTC and can also be started manually with `workflow_dispatch`
+- sets the Actions job timezone to `America/Los_Angeles`, so generated Newsdesk timestamps use the same wall clock as the local Mac automation
+- checks the live public manifest at `:05`, `:20`, `:35`, and `:50` UTC and repairs the publish if the site is more than 55 minutes stale or unreachable
 - also publishes after pushes to pipeline code, config, data, graphics, requirements, or this workflow file
 - creates a fresh virtualenv for `epi-dossier`
 - runs `python src/public_publish.py` for scheduled and manual publishes

@@ -21,6 +21,15 @@ def test_manifest_age_minutes_handles_offset_generated_at():
     assert 16 < age < 17
 
 
+def test_manifest_age_minutes_handles_legacy_utc_naive_generated_at():
+    now = datetime(2026, 5, 23, 9, 51, tzinfo=timezone(timedelta(hours=-7)))
+    manifest = {"generated_at": "2026-05-23T15:35:45"}
+
+    age = public_publish_watchdog.manifest_age_minutes(manifest, now=now)
+
+    assert 75 < age < 76
+
+
 def test_manifest_age_minutes_rejects_missing_generated_at():
     try:
         public_publish_watchdog.manifest_age_minutes({})

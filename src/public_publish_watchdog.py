@@ -8,7 +8,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
@@ -17,8 +17,9 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
 PUBLIC_PUBLISH = REPO_ROOT / "src/public_publish.py"
 PUBLIC_MANIFEST_URL = "https://dteichrow.github.io/app_exports/manifest.json"
-DEFAULT_STALE_MINUTES = 90
+DEFAULT_STALE_MINUTES = 55
 DEFAULT_TIMEOUT_SECONDS = 15
+NAIVE_UTC_FUTURE_TOLERANCE = timedelta(minutes=5)
 
 
 def log(message: str) -> None:
@@ -48,7 +49,10 @@ def parse_generated_at(value: str, now: datetime | None = None) -> datetime:
     if generated.tzinfo is not None:
         return generated
     current = now or datetime.now().astimezone()
-    return generated.replace(tzinfo=current.tzinfo)
+    local_generated = generated.replace(tzinfo=current.tzinfo)
+    if local_generated - current > NAIVE_UTC_FUTURE_TOLERANCE:
+        return generated.replace(tzinfo=timezone.utc).astimezone(current.tzinfo)
+    return local_generated
 
 
 def manifest_age_minutes(manifest: dict[str, Any], now: datetime | None = None) -> float:
