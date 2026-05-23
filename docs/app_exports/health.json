@@ -2,6 +2,7 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "Associated Press",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -14,21 +15,21 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 279,
-    "sources_cached": 0,
+    "metadata_only_count": 267,
+    "sources_cached": 1,
     "sources_failed": 3,
-    "sources_live": 299,
+    "sources_live": 287,
     "story_count_change": 3,
-    "wrapper_only_count": 14
+    "wrapper_only_count": 15
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 299,
-    "refresh_cache": 0,
+    "live": 287,
+    "refresh_cache": 1,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-23T10:21:19",
+  "generated_at": "2026-05-23T10:51:37",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
