@@ -14,26 +14,31 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 255,
+    "metadata_only_count": 261,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 274,
+    "sources_failed": 3,
+    "sources_live": 279,
     "story_count_change": 3,
-    "wrapper_only_count": 14
+    "wrapper_only_count": 13
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 274,
+    "live": 279,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-24T01:17:31",
+  "generated_at": "2026-05-24T02:13:13",
   "source_failures": [
     {
-      "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
+      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
       "source": "Nigeria Centre for Disease Control",
       "source_type": "rss"
+    },
+    {
+      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+      "source": "FDA Foodborne Outbreaks",
+      "source_type": "html_list"
     },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
