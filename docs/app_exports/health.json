@@ -15,21 +15,21 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 273,
-    "sources_cached": 1,
+    "metadata_only_count": 269,
+    "sources_cached": 0,
     "sources_failed": 3,
-    "sources_live": 290,
+    "sources_live": 289,
     "story_count_change": 4,
     "wrapper_only_count": 14
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 290,
-    "refresh_cache": 1,
+    "live": 289,
+    "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-24T16:34:06",
+  "generated_at": "2026-05-24T16:47:01",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
