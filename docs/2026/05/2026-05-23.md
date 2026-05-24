@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-23
-Generated at: 2026-05-23T17:17
+Generated at: 2026-05-23T17:19
 Search window: 7 day(s) ending 2026-05-23
 
 ## Executive scan
@@ -12,23 +12,24 @@ Search window: 7 day(s) ending 2026-05-23
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
 - [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (262), Policy, surveillance, and public health infrastructure (28), Occupational and environmental epidemiology (1)
-- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (254), Policy, surveillance, and public health infrastructure (29), Major epidemiology studies (1)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Ebola virus disease
-- Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 246 item(s) across 153 source(s).
-- Baseline snapshot created with 246 clustered item(s) across 153 source(s).
-- ECDC News now explicitly uses investigation or monitoring language.
-- ECDC News now includes deaths or fatal cases in the story frame.
-
 ### Occupational and environmental epidemiology
 - Lead item: [Klebsiella pneumoniae Carbapenemase-Producing Enterobacterales Infection and Colonization in a Long-Term Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765602) (CDC MMWR)
-- Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- The Sunday Guardian now explicitly uses investigation or monitoring language.
 - ECDC News now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
+
+### Ebola virus disease
+- Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 238 item(s) across 150 source(s).
+- Baseline snapshot created with 238 clustered item(s) across 150 source(s).
+- ECDC News now explicitly uses investigation or monitoring language.
+- ECDC News now includes deaths or fatal cases in the story frame.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak in cruise ship, 21 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
@@ -39,7 +40,7 @@ Search window: 7 day(s) ending 2026-05-23
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 246 item(s) across 153 source(s); 6 official/primary-source item(s).
+- Topic size: 238 item(s) across 150 source(s); 6 official/primary-source item(s).
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-21T17:36+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [WHO declares Ebola outbreak in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern: ECDC continues monitoring](https://www.ecdc.europa.eu/en/news-events/who-declares-ebola-outbreak-democratic-republic-congo-and-uganda-public-health) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -53,6 +54,14 @@ Search window: 7 day(s) ending 2026-05-23
 - Evidence notes: [Andes hantavirus outbreak in cruise ship, 21 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Why the quarantine for hantavirus is so long](https://www.washingtonpost.com/wellness/2026/05/23/why-quarantine-hantavirus-is-so-long/) (The Washington Post); [Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORE40dkRqT3RkOFl3YjVlV1Vpb1RHTzRqYWl4SlE5dFRJVVJSNmRlRkNUQ0FFbkhtNVYtQkh0T1VudlQtOUtHTlZXVjlGZ0I3MnRYdHZrT0Z2N2RXS0ZXcXFGS1pZNS1nSXBNRlRyRi00d0dwbnhOdGdZWDVwNXl2bzM5b194V0VkYno4QWd6aXVESHdxV0FKUEpFbVJVUG1vUDBWcUtDbk5UdjlzalYwV0NwT2lSWUFDdzNlX2dXSS1UQQ?oc=5) (NBC News); [Inside an African lab that helped crack the hantavirus outbreak](https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2NOOFBydEVILXdJZzZtMVJVb3psZ3VENktYX1QzYkRiNEtqa09HYzRES3NsS0szcWZBMXl2Q0V2R0gxdVpMdzJ2RGdXOTdFenlEX21OcHFCMFMwUFRsMXlQM256R1I2YTF3YTVVOHo3QnpwTFp4TTRVM1hMT2hTNjRMRENyUmQwZG1SNDkxZHRVbGhOWDhabGdtclliV0ZlbTh0LUdaZExScWEzQjI0dXl4bXdKNTNhaXZ2S2RYWlRmMVhJdGkwYk5JTQ?oc=5) (Reuters); [American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine](https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5) (NPR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Occupational and environmental epidemiology
+- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Lead item: [Klebsiella pneumoniae Carbapenemase-Producing Enterobacterales Infection and Colonization in a Long-Term Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765602) (CDC MMWR, 2026-05-21T17:00+00:00)
+- Detailed note: WHO Director-General Tedros Adhanom Ghebreyesus stated that 82 confirmed Ebola cases and seven confirmed deaths had been officially recorded so far, while approximately 750 suspected cases and 177 suspected deaths were also under investigation. Weekly / May 21, 2026 / 75(19);241â245 Mehdi Aloosh, MD 1 ,2 ; Handreen Mohammed Saeed, MD 1 ,2 ; Laura F. coli sequence type 131 and a closely related, approximately...
+- Evidence notes: [Klebsiella pneumoniae Carbapenemase-Producing Enterobacterales Infection and Colonization in a Long-Term Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765602) (CDC MMWR); [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [India on alert as Ebola outbreak triggers global concern](https://sundayguardianlive.com/news/india-on-alert-as-ebola-outbreak-triggers-global-concern-196004/amp/) (The Sunday Guardian)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Miscellaneous signals
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
@@ -69,14 +78,6 @@ Search window: 7 day(s) ending 2026-05-23
 - Evidence notes: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters); [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Occupational and environmental epidemiology
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Klebsiella pneumoniae Carbapenemase-Producing Enterobacterales Infection and Colonization in a Long-Term Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765602) (CDC MMWR, 2026-05-21T17:00+00:00)
-- Detailed note: Weekly / May 21, 2026 / 75(19);241â245 Mehdi Aloosh, MD 1 ,2 ; Handreen Mohammed Saeed, MD 1 ,2 ; Laura F. coli sequence type 131 and a closely related, approximately 62-kb IncN1 bla KPC-3 plasmid across E. The likelihood of transmission within the EU/EEA is also considered very low, as imported cases are likely to be rapidly identified and isolated, and appropriate infection prevention and control measures...
-- Evidence notes: [Klebsiella pneumoniae Carbapenemase-Producing Enterobacterales Infection and Colonization in a Long-Term Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765602) (CDC MMWR); [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Diphtheria
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -421,6 +422,8 @@ Search window: 7 day(s) ending 2026-05-23
   Limited detail was available from feed metadata alone.
 - [WHO confirms Ebola outbreak in Central Africa; Dallas experts say city is prepared](https://www.cbsnews.com/texas/video/who-confirms-ebola-outbreak-in-central-africa-dallas-experts-say-city-is-prepared/) | CBS News | 2026-05-23T23:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [India on alert as Ebola outbreak triggers global concern](https://sundayguardianlive.com/news/india-on-alert-as-ebola-outbreak-triggers-global-concern-196004/amp/) | The Sunday Guardian | 2026-05-23T22:37+00:00 | Outbreaks and emerging infections
+  WHO Director-General Tedros Adhanom Ghebreyesus stated that 82 confirmed Ebola cases and seven confirmed deaths had been officially recorded so far, while approximately 750 suspected cases and 177 suspected deaths were also under investigation. According to the WHO chief, Uganda recently reported three additional confirmed cases involving a health worker, a driver and a Congolese national who had travelled from Ituri Province in the neighbouring DRC seeking medical care. One death has already been reported in Uganda.
 - [3 Red Cross volunteers die of Ebola as number of cases rises in Uganda](https://www.nbcnews.com/health/health-news/3-red-cross-volunteers-die-ebola-number-cases-rises-uganda-rcna346662) | NBC News | 2026-05-23T22:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Red Cross volunteers die from suspected Ebola in DR Congo](https://www.bbc.com/news/articles/c759knxln0wo) | BBC | 2026-05-23T19:55+00:00 | Outbreaks and emerging infections
@@ -452,8 +455,6 @@ Search window: 7 day(s) ending 2026-05-23
 - [Uganda confirms new Ebola cases as risk in DRC rises to highest level](https://www.rfi.fr/en/africa/20260523-travel-restrictions-on-dr-congo-as-ebola-threat-rises-to-highest-level) | RFI | 2026-05-23T11:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak](https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html) | The New York Times | 2026-05-23T10:44+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [US restricts arrivals from DRC, Uganda and South Sudan over Ebola outbreak](https://peopledaily.digital/news/us-restricts-arrivals-from-drc-uganda-and-south-sudan-over-ebola-outbreak) | People Daily | 2026-05-23T03:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) | The Guardian | 2026-05-23T01:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
