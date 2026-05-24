@@ -3,7 +3,6 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
-      "Associated Press",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -16,26 +15,31 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 258,
-    "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 278,
+    "metadata_only_count": 268,
+    "sources_cached": 1,
+    "sources_failed": 3,
+    "sources_live": 286,
     "story_count_change": 4,
     "wrapper_only_count": 14
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 278,
-    "refresh_cache": 0,
+    "live": 286,
+    "refresh_cache": 1,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-24T15:17:26",
+  "generated_at": "2026-05-24T15:20:16",
   "source_failures": [
     {
-      "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
+      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
       "source": "Nigeria Centre for Disease Control",
       "source_type": "rss"
+    },
+    {
+      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+      "source": "FDA Foodborne Outbreaks",
+      "source_type": "html_list"
     },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
