@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-24
-Generated at: 2026-05-24T21:56
+Generated at: 2026-05-24T22:17
 Search window: 7 day(s) ending 2026-05-24
 
 ## Executive scan
@@ -12,21 +12,21 @@ Search window: 7 day(s) ending 2026-05-24
 - [Klebsiella pneumoniae Carbapenemase-Producing Enterobacterales Infection and Colonization in a Long-Term Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765602) (CDC MMWR; 2026-05-21T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (248), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (253), Policy, surveillance, and public health infrastructure (29), Major epidemiology studies (3)
+- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News)
-- Newly tracked story cluster: 236 item(s) across 153 source(s).
-- Baseline snapshot created with 236 clustered item(s) across 153 source(s).
+- Newly tracked story cluster: 243 item(s) across 150 source(s).
+- Baseline snapshot created with 243 clustered item(s) across 150 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak in cruise ship, 24 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
-- Newly tracked story cluster: 31 item(s) across 20 source(s).
-- Baseline snapshot created with 31 clustered item(s) across 20 source(s).
+- Newly tracked story cluster: 33 item(s) across 20 source(s).
+- Baseline snapshot created with 33 clustered item(s) across 20 source(s).
 - The Washington Post now includes quarantine language.
 
 ### Historical epidemiology and ancient pathogens
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-05-24
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 236 item(s) across 153 source(s); 6 official/primary-source item(s).
+- Topic size: 243 item(s) across 150 source(s); 6 official/primary-source item(s).
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News, 2026-05-21T18:33+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -46,7 +46,7 @@ Search window: 7 day(s) ending 2026-05-24
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 31 item(s) across 20 source(s); 1 official/primary-source item(s).
+- Topic size: 33 item(s) across 20 source(s); 1 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak in cruise ship, 24 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News, 2026-05-22T17:56+02:00)
 - Detailed note: ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.
 - Evidence notes: [Andes hantavirus outbreak in cruise ship, 24 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Why the quarantine for hantavirus is so long](https://www.washingtonpost.com/wellness/2026/05/23/why-quarantine-hantavirus-is-so-long/) (The Washington Post); [Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive](https://www.nbcnews.com/health/health-news/hantavirus-cases-linked-cruise-ship-rise-12-crew-member-tests-positive-rcna346481) (NBC News); [Inside an African lab that helped crack the hantavirus outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/inside-an-african-lab-that-helped-crack-hantavirus-outbreak-2026-05-22/) (Reuters); [American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine](https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine) (NPR)
@@ -77,13 +77,13 @@ Search window: 7 day(s) ending 2026-05-24
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Polio and wastewater surveillance
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Polio Eradication Needs Political Commitment As Conflict Makes Vaccination 'Impossible' In Areas Like North Yemen](https://healthpolicy-watch.news/polio-eradication-needs-political-commitment-as-conflict-makes-vaccination-impossible-in-areas-like-north-yemen/) (Health Policy Watch, 2026-05-21T19:10+00:00)
-- Detailed note: Afghanistan and Pakistan reported 99 wild polio cases in 2024, 52 in 2025 and just six as of May 2026. The world is in the last stretch of polio eradication, but closing this gap will require political commitment, the World Health Organization (WHO) told member states at the ongoing 79 th session of the World Health Assembly (WHA).
-- Evidence notes: [Polio Eradication Needs Political Commitment As Conflict Makes Vaccination 'Impossible' In Areas Like North Yemen](https://healthpolicy-watch.news/polio-eradication-needs-political-commitment-as-conflict-makes-vaccination-impossible-in-areas-like-north-yemen/) (Health Policy Watch); [Pakistan: Two killed protecting polio workers in tribal area](https://www.msn.com/en-za/news/other/pakistan-two-killed-protecting-polio-workers-in-tribal-area/ar-AA23v7Rf) (MSN)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+### Diphtheria
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) (The Guardian, 2026-05-23T01:52+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) (The Guardian)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -430,8 +430,6 @@ Search window: 7 day(s) ending 2026-05-24
   Limited detail was available from feed metadata alone.
 - [Video Africa grapples with deadly Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/WNT/video/africa-grapples-withdeadly-ebola-outbreak-133274512) | ABC News - Breaking News, Latest News and Videos | 2026-05-24T23:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola is 'everyone's problem' — 10 more countries at risk as death toll tops 200](https://gulfnews.com/amp/story/world%2Fafrica%2Febola-is-everyones-problem-10-more-countries-at-risk-as-death-toll-tops-200-1.500551193) | Gulf News | 2026-05-24T22:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases pass 100 mark as epidemic surges across DR Congo](https://www.trtworld.com/article/2e34d046e3d8?utm_source\=%2Flive%2F69a2a1d4e4ba8e89ecd092dc\&utm_medium\=internal\&utm_campaign\=recommended\&utm_content\=inline) | TRT World | 2026-05-24T21:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo reports over 100 Ebola confirmed cases amid surge](https://www.aa.com.tr/en/africa/dr-congo-reports-over-100-ebola-confirmed-cases-amid-surge/3947662) | Anadolu Ajansı | 2026-05-24T20:41+00:00 | Outbreaks and emerging infections
@@ -440,8 +438,8 @@ Search window: 7 day(s) ending 2026-05-24
   Limited detail was available from feed metadata alone.
 - [India advises against travel to DRC, Uganda, South Sudan amid Ebola outbreak](https://m.economictimes.com/news/india/india-advises-against-travel-to-drc-uganda-south-sudan-amid-ebola-outbreak/articleshow/131296078.cms) | The Economic Times | 2026-05-24T19:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [3 Red Cross Volunteers Died of Ebola in the Democratic Republic of Congo](https://voi.id/en/news/576866) | VOI.id | 2026-05-24T18:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Andhra Pradesh Issues Ebola Alert: Screening Measures Implemented for Travellers Arriving From Affected](https://www.latestly.com/india/andhra-pradesh-issues-ebola-alert-screening-measures-implemented-for-travellers-arriving-from-affected-african-nations-7445091.html) | LatestLY | 2026-05-24T17:51+00:00 | Outbreaks and emerging infections
+  He also announced that dedicated isolation wards, each equipped with 15 beds, are being established in teaching hospitals located in cities that host international airports. The minister stated that individuals exhibiting symptoms of the virus would be immediately placed under quarantine, and medical examinations would be promptly conducted on those who have been in close contact with them. State Minister for Medical and Health, Satyakumar Yadav, announced that necessary precautionary measures have been implemented within the state in the light of the widespread prevalence, rising case counts, and increased mortality rates associated with the Ebola virus across several African nations.
 - [Ebola outbreak poses massive challenges, warns nurse](https://www.bbc.com/news/articles/cy421wgr2mpo) | BBC | 2026-05-24T17:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DRC spreads, with more than 900 reported cases: Officials - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/ebola-outbreak-drc-spreading-rapidly-750-suspected-cases/story?id\=133219863) | ABC News - Breaking News, Latest News and Videos | 2026-05-24T17:25+00:00 | Outbreaks and emerging infections
@@ -453,6 +451,8 @@ Search window: 7 day(s) ending 2026-05-24
 - [Ebola Deaths Exceed 200 in DR Congo Amid Attack](https://www.chosun.com/english/world-en/2026/05/24/EKYYKQUH5NBJPFHZ2J365JUKXQ/) | 조선일보 | 2026-05-24T12:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Mahmood Dahlat: Nigeria Prepared For Ebola Threat Despite DR Congo Outbreak](https://www.arise.tv/mahmood-dahlat-nigeria-prepared-for-ebola-threat-despite-dr-congo-outbreak/) | Arise News | 2026-05-24T12:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Red Cross volunteers die from suspected Ebola in DR Congo](https://www.bbc.com/news/articles/c759knxln0wo) | BBC | 2026-05-24T11:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [‘Everyone’s problem’: Ebola death toll rises, many African nations at risk](https://www.scmp.com/news/world/africa/article/3354679/ebola-toll-dr-congo-over-200-uganda-and-10-other-african-countries-also-risk) | South China Morning Post | 2026-05-24T10:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
