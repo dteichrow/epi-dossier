@@ -18,18 +18,18 @@
     "metadata_only_count": 257,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 278,
+    "sources_live": 276,
     "story_count_change": 4,
-    "wrapper_only_count": 13
+    "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 278,
+    "live": 276,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-25T02:17:34",
+  "generated_at": "2026-05-25T03:17:27",
   "source_failures": [
     {
       "error": "522 Server Error: <none> for url: https://ncdc.gov.ng/feed/",
