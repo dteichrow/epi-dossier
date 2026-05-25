@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-25
-Generated at: 2026-05-25T14:38
+Generated at: 2026-05-25T14:42
 Search window: 7 day(s) ending 2026-05-25
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-25
 - [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News; 2026-05-22T17:56+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (250), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (3)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News)
-- Newly tracked story cluster: 232 item(s) across 140 source(s).
-- Baseline snapshot created with 232 clustered item(s) across 140 source(s).
+- Newly tracked story cluster: 232 item(s) across 142 source(s).
+- Baseline snapshot created with 232 clustered item(s) across 142 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-05-25
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 232 item(s) across 140 source(s); 5 official/primary-source item(s).
+- Topic size: 232 item(s) across 142 source(s); 5 official/primary-source item(s).
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News, 2026-05-21T18:33+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -454,7 +454,7 @@ Search window: 7 day(s) ending 2026-05-25
   Limited detail was available from feed metadata alone.
 - [Africa health chief says Ebola outbreak threatens 10 more countries](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BeXdIdjl2RFdVaUVtTUtVamh0QlZiSlNaZVJ0c3Fzd1VKdVZuVVVfbnF3TnJHREtiZ3FPTWtkSUo1dlVOWHk3Y0lCcHNYcGh3R0xLS3pBRjNwbm15TXRjM3pSTk4?oc=5) | TRT Afrika | 2026-05-25T04:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Nigeria Braces for Possible Ebola Outbreak, Says NCDC](https://news.google.com/rss/articles/CBMitAFBVV95cUxONFZ4dE9FYURXWnA3OWR2M1pDWXJMdHAyZmJvMGU5VDY2X2hCWlFzNE5sZzBWZEtlakg0UVRmeEFtNEo0RFVwU3dVUU1XV08xS0xCNE9vU0ppcHpURUg1Z3VfcXhvWnBxMW51RGtGNF9mN083NElRVTNjR3RpR19KRVRhZ0w1cWhqYTVjb241aFJPR2dBbGx1ZjU0a3pRQl90d3NHYUpsSHRycksyNFd2MHVwb24?oc=5) | Punch Newspapers | 2026-05-24T23:44+00:00 | Outbreaks and emerging infections
+- [Ebola deaths in DRC top 200 as regional risk grows](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQVRMV0dhMnk2T2tSZUJia3A3aHVuRjBfVmtEdzQ5bGthODJuTkhIbTVNcC1kbDhMSjFjd0tPcU4tUkVSSV9YMWhFNHc3eHZ1NzVaWVV3c2FCMFdxYmpvb24xUFFNSlBtUmx5MDNkR0RBMUIybDBQbENyaXJWVUVZVVI5aW03OFRVazBwajRuT3NjX2Z3b3FKTnAzNmFSSUhlWWZZZ3NxV0hYZVdBY3I2dFFSUzJTam5ZeVVsdFNVc3ZiZWVLQ3hUUV9lb2RSTS1nWEtGREdURQ?oc=5) | MSN | 2026-05-25T01:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
