@@ -1,19 +1,19 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-24
-Generated at: 2026-05-24T16:47
+Generated at: 2026-05-24T17:17
 Search window: 7 day(s) ending 2026-05-24
 
 ## Executive scan
 - [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices; 2026-05-22T18:22+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Andes hantavirus outbreak in cruise ship, 24 May 2026](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News; 2026-05-22T17:56+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Genomic epidemiological patterns and antifungal resistance profiles of Candidozyma auris in China: Spatiotemporal dynamics and persistent colonization.](https://pubmed.ncbi.nlm.nih.gov/42171600/) (PubMed Infectious Disease Search; 2026-05-22T00:00; Major epidemiology studies; relevance 5/5)
 - [Klebsiella pneumoniae Carbapenemase-Producing Enterobacterales Infection and Colonization in a Long-Term Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765602) (CDC MMWR; 2026-05-21T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search; 2026-05-20T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (258), Policy, surveillance, and public health infrastructure (27), Major epidemiology studies (2)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News; 2026-05-18T14:14+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (265), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (1)
+- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Occupational and environmental epidemiology
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-05-24
 
 ### Ebola virus disease
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 243 item(s) across 152 source(s).
-- Baseline snapshot created with 243 clustered item(s) across 152 source(s).
+- Newly tracked story cluster: 250 item(s) across 158 source(s).
+- Baseline snapshot created with 250 clustered item(s) across 158 source(s).
 - ECDC News now includes deaths or fatal cases in the story frame.
 
 ### Hantavirus and cruise-ship outbreak
@@ -35,16 +35,10 @@ Search window: 7 day(s) ending 2026-05-24
 - Baseline snapshot created with 35 clustered item(s) across 19 source(s).
 - The Washington Post now includes quarantine language.
 
-### Measles transmission and vaccination
-- Lead item: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Reuters now includes deaths or fatal cases in the story frame.
-
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 243 item(s) across 152 source(s); 5 official/primary-source item(s).
+- Topic size: 250 item(s) across 158 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-21T17:36+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [ECDC activates the EU Health Task Force, deploying experts to support Ebola outbreak response](https://www.ecdc.europa.eu/en/news-events/ecdc-activates-eu-health-task-force-deploying-experts-support-ebola-outbreak-response) (ECDC News); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -60,18 +54,18 @@ Search window: 7 day(s) ending 2026-05-24
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters, 2026-05-23T14:42+00:00)
-- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters); [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today); [Bangladesh seeks WHO probe as Measles outbreak deaths surpass 500](https://english.nepalnews.com/s/south-asia/bangladesh-seeks-who-probe-as-measles-outbreak-deaths-surpass-500/) (Nepalnews.com)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters); [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices, 2026-05-22T18:22+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices); [Genomic epidemiological patterns and antifungal resistance profiles of Candidozyma auris in China: Spatiotemporal dynamics and persistent colonization.](https://pubmed.ncbi.nlm.nih.gov/42171600/) (PubMed Infectious Disease Search); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search)
+- Evidence notes: [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices); [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -340,16 +334,6 @@ Search window: 7 day(s) ending 2026-05-24
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Genomic epidemiological patterns and antifungal resistance profiles of Candidozyma auris in China: Spatiotemporal dynamics and persistent colonization.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-05-22T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42171600/
-- Category: Major epidemiology studies
-- Summary: Phylogenetic analysis assigned the isolates to Clade I ( n = 19) and Clade III ( n = 6). To investigate transmission dynamics, we conducted comparative genomic and phylogeographic analyses using 210 C. These findings highlight the importance of integrated genomic surveillance for tracking C.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Klebsiella pneumoniae Carbapenemase-Producing Enterobacterales Infection and Colonization in a Long-Term Care Facility
 - Source: CDC MMWR
 - Date: 2026-05-21T17:00+00:00
@@ -420,9 +404,19 @@ Search window: 7 day(s) ending 2026-05-24
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
+- Source: Texas Department of State Health Services News
+- Date: Unknown
+- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+- [Nigeria Braces for Possible Ebola Outbreak, Says NCDC](https://punchng.com/nigeria-braces-for-possible-ebola-outbreak-says-ncdc/?amp) | Punch Newspapers | 2026-05-24T23:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo confirms over 100 Ebola cases as infections surge](https://en.yenisafak.com/life/dr-congo-confirms-over-100-ebola-cases-as-infections-surge-3718668) | Yeni Safak English | 2026-05-24T23:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -438,8 +432,8 @@ Search window: 7 day(s) ending 2026-05-24
   Limited detail was available from feed metadata alone.
 - [US well-positioned to deal with current Ebola outbreak, Deborah Birx says](https://www.politico.com/news/2026/05/24/ebola-outbreak-deborah-birx-00935243) | Politico | 2026-05-24T20:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [India advises against travel to DRC, Uganda, South Sudan amid Ebola outbreak](https://m.economictimes.com/news/india/india-advises-against-travel-to-drc-uganda-south-sudan-amid-ebola-outbreak/articleshow/131296078.cms) | The Economic Times | 2026-05-24T19:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Andhra Pradesh Issues Ebola Alert: Screening Measures Implemented for Travellers Arriving From Affected](https://www.latestly.com/india/andhra-pradesh-issues-ebola-alert-screening-measures-implemented-for-travellers-arriving-from-affected-african-nations-7445091.html) | LatestLY | 2026-05-24T17:51+00:00 | Outbreaks and emerging infections
+  He also announced that dedicated isolation wards, each equipped with 15 beds, are being established in teaching hospitals located in cities that host international airports. The minister stated that individuals exhibiting symptoms of the virus would be immediately placed under quarantine, and medical examinations would be promptly conducted on those who have been in close contact with them. State Minister for Medical and Health, Satyakumar Yadav, announced that necessary precautionary measures have been implemented within the state in the light of the widespread prevalence, rising case counts, and increased mortality rates associated with the Ebola virus across several African nations.
 - [Ebola outbreak poses massive challenges, warns nurse](https://www.bbc.com/news/articles/cy421wgr2mpo) | BBC | 2026-05-24T17:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Threat Looms: Nigeria At High Risk Amid Regional Outbreaks, NCDC](https://independent.ng/ebola-threat-looms-nigeria-at-high-risk-amid-regional-outbreaks-ncdc/) | Independent Newspaper Nigeria | 2026-05-24T15:58+00:00 | Outbreaks and emerging infections
@@ -464,12 +458,6 @@ Search window: 7 day(s) ending 2026-05-24
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
-- [Genomic epidemiological patterns and antifungal resistance profiles of Candidozyma auris in China: Spatiotemporal dynamics and persistent colonization.](https://pubmed.ncbi.nlm.nih.gov/42171600/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21505594.2026.2667550
-  Journal/preprint server: Virulence
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42171600/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42171600/
 - [Epidemiological and virological characteristics of influenza in Zhejiang Province, China: A 15-year surveillance study.](https://pubmed.ncbi.nlm.nih.gov/42157696/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2675787
