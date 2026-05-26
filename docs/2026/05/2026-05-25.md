@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-25
-Generated at: 2026-05-25T21:39
+Generated at: 2026-05-25T21:54
 Search window: 7 day(s) ending 2026-05-25
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-25
 - [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News; 2026-05-22T17:56+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (254), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (250), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (2)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News)
-- Newly tracked story cluster: 234 item(s) across 143 source(s).
-- Baseline snapshot created with 234 clustered item(s) across 143 source(s).
+- Newly tracked story cluster: 228 item(s) across 136 source(s).
+- Baseline snapshot created with 228 clustered item(s) across 136 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -30,16 +30,16 @@ Search window: 7 day(s) ending 2026-05-25
 - Reuters now includes evacuation reporting.
 - The Washington Post now includes quarantine language.
 
-### Historical epidemiology and ancient pathogens
-- Lead item: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+### Measles transmission and vaccination
+- Lead item: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Reuters now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 234 item(s) across 143 source(s); 5 official/primary-source item(s).
+- Topic size: 228 item(s) across 136 source(s); 5 official/primary-source item(s).
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News, 2026-05-21T18:33+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -62,27 +62,27 @@ Search window: 7 day(s) ending 2026-05-25
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Measles transmission and vaccination
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters, 2026-05-23T14:42+00:00)
+- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters); [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times); [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Historical epidemiology and ancient pathogens
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
 - Lead item: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies, 2026-05-23T00:00)
 - Detailed note: Casimir Davaine was the first, in 1863, to demonstrate the involvement of bacteria in the transmission of anthrax in mammals; he also conducted important comparative studies on septicemia in different animal species. In the 19th century, researchers primarily used rabbits and guinea pigs to study the transmissibility of pathogens, while different animal species were studied for their susceptibility to various...
-- Evidence notes: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies); [Could AAV-vectored delivery of broadly neutralizing antibodies (bNAbs) reduce virologic failure in children diagnosed with perinatal HIV?](https://pubmed.ncbi.nlm.nih.gov/42171686/) (PubMed Infectious Disease Search)
+- Evidence notes: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It may shape how new evidence is framed before broader consensus forms. It also has value for historical epidemiology and blog-idea generation.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Diphtheria
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) (The Guardian, 2026-05-23T00:00+00:00)
 - Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) (The Guardian)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Measles transmission and vaccination
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times, 2026-05-22T10:12+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -453,9 +453,9 @@ Search window: 7 day(s) ending 2026-05-25
   Limited detail was available from feed metadata alone.
 - [Uganda confirms two more Ebola cases, taking total to seven](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnlvdktnd01TUmY3Qk45c1dQcHR0OThWQ2Fhbk0xQzVURm1LR0twRmZRaloyb2dTZzNiamp1cENVQmUtbldNVDNWeWt5UktOcExQU2Fyczl3VWVtWl9TMWRlUDRERy1MZFdWcDE0bEc3MWQ2NGFUcmRhcVdSalNoN3hwY1NzcXNYM2hxYUJoQXdNUU00eTRiR3BZemJKeU52UmgxaE5IUnEwWElpRmVsd0F5WmRlbS0yTlkyOE1zc2lENXV1ZEE?oc=5) | Reuters | 2026-05-25T12:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak in Africa: History, Current Risk Zones, and the Ten Countries Most Vulnerable](https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1ducmlET2FPUG85WUwxX05KWFNReFBsb2J0VTJkb3VHMm1rZkFmZEVmcXlkdklnR1dKOXhuMkwxdl9LdjFCS0hWQ0JidXdRSXhiYkRiYjNyVDdWaWpjaklPd0p6RXN1eU5lQThJc3ZjYmlTM3Nkazk0U3p4aXVuX3kxRjdBYmlTeXZtY09SM2dvM1VZMFRJ0gGWAUFVX3lxTFBicE1VUWdrZUt5QWJWWUhrQUVOTldIOXJOUFRqSTNwZmt3N2Flenpma19xcWxqWTF4NmtIWVdIRkE3MUZyR0JVdlloODF1SnplNVZTRGtzWksteTREazNHWU1CcWhoLVYzZjR6aXVtRGZLOU9BYThjbnJ0b2NvbjhmOGVGcTNTZW1JbXJMZWI3bEVxR1BDZw?oc=5) | Modern Ghana | 2026-05-25T11:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola outbreak death toll climbs in Congo as new infections confirmed in Uganda](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVNJcU5FV2NXLWlVb2k1ZDM1NThxcTc3VDlkVU1OR1F6YzE1YmFndS1iSXV5cjZmUzI1aDdqSXpGSjNDNEZVVjAyeVlnV3R4WVF2RHNYMUtVbWVHeGZlR3NJQ0M0OFpzR3JxbDJ1SjNBRGNpRG5QMzBpR1NzNXFRV9IBhgFBVV95cUxONnZjZ04wNjVESDZSSjBTMjh0WERIYzN0TXpqdnFfejdwZ0FaWWxSTXNReVVxclp5LW9MNUY1c3NVZTdENnFEczh5TUF6X3RvWkxackVWLXNVM1pSQ0ZGS1NqYVVXam5iU3U2N3Q4am5DOE5meWZKREtqc29oTi04dDVXYlY4UQ?oc=5) | CBS News | 2026-05-25T11:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [New Ebola cases reported in the DRC as outbreak grows](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTG1tQnpBSEN2Ny1UOUFJOGk4RFM3aGQwZVNDV0QtZDNWcXVPM3FRQ2EyZmRaRFZsaHZBaFJ3RkRVTnRBQ0g2dGU2RWpnSEJmNks5cXRJLWxfVDJwZGxkNnZtYndSckk0WGw3NGEwNkllS2plbmI2WFF3VUhHUjZfdUdHSndBWWh5SVlvaHRvRld5TWkxUDhvVUNHYWJ2MF9HT0E5UF9R?oc=5) | NBC News | 2026-05-25T07:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -477,18 +477,10 @@ Search window: 7 day(s) ending 2026-05-25
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42157696/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42157696/
-- [Could AAV-vectored delivery of broadly neutralizing antibodies (bNAbs) reduce virologic failure in children diagnosed with perinatal HIV?](https://pubmed.ncbi.nlm.nih.gov/42171686/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2655015
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42171686/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42171686/
 
 ## Historical epi / weird epi corner
 - [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) | PubMed Historical Pathogen Case Studies
   Casimir Davaine was the first, in 1863, to demonstrate the involvement of bacteria in the transmission of anthrax in mammals; he also conducted important comparative studies on septicemia in different animal species. In the 19th century, researchers primarily used rabbits and guinea pigs to study the transmissibility of pathogens, while different animal species were studied for their susceptibility to various microbial agents. In 1835, Agostino Bassi demonstrated that muscardine in silkworms was a fungal disease, thus providing one of the very first pieces of evidence for an infectious etiology.
-- [Could AAV-vectored delivery of broadly neutralizing antibodies (bNAbs) reduce virologic failure in children diagnosed with perinatal HIV?](https://pubmed.ncbi.nlm.nih.gov/42171686/) | PubMed Infectious Disease Search
-  However, current bNAb delivery relies on repeated administrations of clinical-grade protein biologics, an approach that would be difficult to scale in regions with high rates of vertical HIV-1 transmission. Here, we argue that adeno-associated virus (AAV) vector-mediated gene transfer could overcome this limitation by enabling long-term expression of HIV-1 bNAbs in skeletal muscle. Levels were sufficient to block simian-HIV (SHIV) infection in mucosal challenge models of HIV-1 transmission via breastfeeding and sexual intercourse.
 
 ## Possible blog/video angles
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
