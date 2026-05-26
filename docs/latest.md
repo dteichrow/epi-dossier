@@ -1,41 +1,35 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-26
-Generated at: 2026-05-26T00:17
+Generated at: 2026-05-26T01:11
 Search window: 7 day(s) ending 2026-05-26
 
 ## Executive scan
 - [Strengthening disease outbreak preparedness through partnership on joint scenario training](https://www.ecdc.europa.eu/en/news-events/strengthening-disease-outbreak-preparedness-through-partnership-joint-scenario-training) (ECDC News; 2026-05-25T13:23+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [FSIS Issues Public Health Alert for Beef Kofta Products Served at The Kebab Shop Restaurant Locations Due to Possible E. Coli O157:H7 Contaminationpha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765628) (CDC Travel Health Notices; 2026-05-24T16:00+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News; 2026-05-24T17:56+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/) (PubMed Infectious Disease Search; 2026-05-24T00:00; Major epidemiology studies; relevance 5/5)
 - [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies; 2026-05-23T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices; 2026-05-22T18:22+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News; 2026-05-22T17:56+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (254), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (3)
-- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (257), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (3)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News)
-- Newly tracked story cluster: 229 item(s) across 137 source(s).
-- Baseline snapshot created with 229 clustered item(s) across 137 source(s).
+- Newly tracked story cluster: 234 item(s) across 146 source(s).
+- Baseline snapshot created with 234 clustered item(s) across 146 source(s).
 - LatestLY now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
-- Lead item: [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 35 item(s) across 24 source(s).
-- Baseline snapshot created with 35 clustered item(s) across 24 source(s).
+- Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
+- Newly tracked story cluster: 33 item(s) across 22 source(s).
+- Baseline snapshot created with 33 clustered item(s) across 22 source(s).
 - Reuters now includes evacuation reporting.
 - The Washington Post now includes quarantine language.
-
-### Measles transmission and vaccination
-- Lead item: [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Reuters now includes deaths or fatal cases in the story frame.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies)
@@ -46,7 +40,7 @@ Search window: 7 day(s) ending 2026-05-26
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 229 item(s) across 137 source(s); 5 official/primary-source item(s).
+- Topic size: 234 item(s) across 146 source(s); 5 official/primary-source item(s).
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News, 2026-05-21T18:33+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -54,10 +48,10 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 35 item(s) across 24 source(s); 2 official/primary-source item(s).
-- Lead item: [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/) (PubMed Infectious Disease Search, 2026-05-24T00:00)
-- Detailed note: Among 1,199 sera samples, orthohantavirus population-weighted seroprevalence was 7.4% (95% CI: 3.91-10.80). ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. This study reports evidence of orthohantavirus exposure in Uganda, highlighting a previously underrecognized...
-- Evidence notes: [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/) (PubMed Infectious Disease Search); [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus](https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446) (CBC); [Spanish government confirms new case of hantavirus](https://www.nbcnews.com/health/health-news/hantavirus-spanish-government-confirms-new-case-rcna346825) (NBC News); [Spanish national evacuated from hantavirus cruise ship tests positive](https://www.reuters.com/business/healthcare-pharmaceuticals/spanish-national-evacuated-hantavirus-cruise-ship-tests-positive-2026-05-25/) (Reuters)
+- Topic size: 33 item(s) across 22 source(s); 2 official/primary-source item(s).
+- Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News, 2026-05-24T17:56+02:00)
+- Detailed note: Among 1,199 sera samples, orthohantavirus population-weighted seroprevalence was 7.4% (95% CI: 3.91-10.80). ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The video, filmed in 2022 , shows the late New York doctor Vladimir Zelenko, who touted unproven treatments for...
+- Evidence notes: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/) (PubMed Infectious Disease Search); [Posts tout unproven treatment for hantavirus, Ebola](https://malaysia.news.yahoo.com/posts-tout-unproven-treatment-hantavirus-072424934.html) (Yahoo News Malaysia); [Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus](https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446) (CBC); [Spanish government confirms new case of hantavirus](https://www.nbcnews.com/health/health-news/hantavirus-spanish-government-confirms-new-case-rcna346825) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -70,10 +64,10 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today, 2026-05-23T20:54+00:00)
-- Detailed note: Regarding deaths, 41 cumulative cases have been confirmed for the 2025–2026 period, distributed across 11 states: Chihuahua (21), Jalisco (5), Zacatecas (4), Mexico City (3), Durango (2), Chiapas (1), Guerrero (1), Michoacán (1), Sinaloa (1), Sonora (1), and Tlaxcala (1). Jalisco state has seen the most confirmed cases with 6,198, followed by Mexico City (951), Chiapas (810), Durango (356) and Sonora (345).
-- Evidence notes: [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today); [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters); [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times)
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times, 2026-05-22T10:12+00:00)
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times); [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -342,6 +336,16 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Andes hantavirus outbreak in cruise ship
+- Source: ECDC News
+- Date: 2026-05-24T17:56+02:00
+- URL: https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.
 - Source: PubMed Infectious Disease Search
 - Date: 2026-05-24T00:00
@@ -368,16 +372,6 @@ Search window: 7 day(s) ending 2026-05-26
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617
 - Category: Outbreaks and emerging infections
 - Summary: Raaw Energy is voluntarily notifying the public of a recall involving products produced between 7/17/25 and 12/23/25 due to possible Listeria contamination. Another batch date is 3.31.26 Beef and Turkey Medley. While not all products from this period tested positive, this action is being taken out
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Andes hantavirus outbreak in cruise ship
-- Source: ECDC News
-- Date: 2026-05-22T17:56+02:00
-- URL: https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -428,6 +422,10 @@ Search window: 7 day(s) ending 2026-05-26
   * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in 2007 in Bundibugyo district in western Uganda, during which 131 cases were reported with 42 deaths (case fatality rate of 32%). Laboratory analysis conducted by the National Institute of Biomedical Research (INRB), the country’s reference laboratory in the capital Kinshasa, confirmed the Ebola outbreak caused by the Bundibugyo species in 8 of 13 samples* collected from suspected cases linked to a cluster of severe illness and deaths reported in Mongbwalu and Rwampara health zones in Ituri Province.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- ['Race against time' to contain Ebola outbreak in central Africa](https://www.cbc.ca/news/health/ebola-outbreak-may-26-9.7211604) | CBC | 2026-05-26T08:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Posts tout unproven treatment for hantavirus, Ebola](https://malaysia.news.yahoo.com/posts-tout-unproven-treatment-hantavirus-072424934.html) | Yahoo News Malaysia | 2026-05-26T07:24+00:00 | Outbreaks and emerging infections
+  The video, filmed in 2022 , shows the late New York doctor Vladimir Zelenko, who touted unproven treatments for Covid-19 and falsely claimed the US Food and Drug Administration (FDA) had approved the research (archived here and here ). "A biology lecture from Dr Zelenko: Single-stranded RNA viruses can be prevented by taking enough Vitamin D3 and zinc," says the Korean-language caption of a Facebook video shared on May 13, 2026. The hantavirus and Ebola strains linked to the recent outbreaks currently do not have licensed treatments, with patients requiring medical care.
 - [Two suspected Ebola cases detected in Italy test negative](https://www.euronews.com/my-europe/2026/05/25/ebola-alert-in-italy-two-suspected-cases-in-lombardy-after-return-from-uganda) | Euronews.com | 2026-05-26T05:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: Andhra Pradesh Sets Up Ebola Screening Camp at Vijayawada Airport Amid Global Health Alert](https://www.latestly.com/agency-news/ebola-outbreak-andhra-pradesh-sets-up-ebola-screening-camp-at-vijayawada-airport-amid-global-health-alert-7446640.html) | LatestLY | 2026-05-26T05:25+00:00 | Outbreaks and emerging infections
@@ -452,17 +450,13 @@ Search window: 7 day(s) ending 2026-05-26
   Limited detail was available from feed metadata alone.
 - [Spanish national evacuated from hantavirus cruise ship tests positive](https://www.reuters.com/business/healthcare-pharmaceuticals/spanish-national-evacuated-hantavirus-cruise-ship-tests-positive-2026-05-25/) | Reuters | 2026-05-25T18:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Bahamas activates health protocols amid growing Ebola outbreak in Central Africa - CNW Network](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzBxNUloUVRwcDBlX2Fyb0JteWhKalVOV3E2aEx3NDhjLUdRNXRiMGtsbVk0Z2VSU3g2dFZwYy1VT01UMlRrSEl2eXRZM1UyRmUtSUJ5WW1seGp0bFZhU25LNl8wNy1QTC04UU4wV09qeFU2T2xERVZxd1ZtRjZXYkRzaFBTR0dpbHVpWGx4NmxVaEp0ZC1ValdWUno3UWRTUDdNX2s3Wl9wcjd5Tm5tVmI1VUQ5WmFmTHN3MXpub1FrQlVy?oc=5) | Caribbean National Weekly | 2026-05-25T15:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO chief warns Ebola outbreak 'outpacing us' as deaths hit 220](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkFYbHF3dzdDWVhqd215MEVaX3RaQ0RFQ1NBNmtjM3BMbkRLUG44clJIVUR4empqczNqcmxfbFdWZ1l1WFN1NDB1am1TNjJiSHFjZERsWmd2eDA1Y1RXQ3FHZzd3OTdaSGhLc3A3TEEzUS1yV0F4QV9zMGdkT2FoVXprTHdFQUVCZUF3WEV2S2Nib2ZLMWlCUjV0Q1lsUExXTVNXWWtIQnFwbXM?oc=5) | Euronews.com | 2026-05-25T15:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak won't cause global pandemic: Former CDC Director](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTVIUVFhdXRSNFEyVUJhOWhiQ2EtZlZsNXFrMmVCUmx3MTJQdFowMC1QWng5TFlTbU40VFVMdm04ZXNSUEc5b2hqRlo3ZUU2SHM1MUZZOFoyZnR2RVktWU5FYXE5aEZGT1VaWkN2YTc4MmRENTFOZlVRRGRjWFJzZGVERG9jZWxPQy1qOVhPaEROX0RaRzFTTWFzdFBidnkxelNBMDVDMWFSeHlmNmpTQVNEcm5Ya21zUUNreng5Tko?oc=5) | NewsNation | 2026-05-25T15:18+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Ugandan health officials report new Ebola virus infections, bringing cases to 7](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGZoam8zMWsyRmJZdkVrcVpnQ1hmNFFjNVU2dFpkYzgybmZGRmFvblBUNnYwRkNnd3dkMzkyR3VENEs1T2d4QWpGaWYxZGxuRDdhMmVkM25LNDd0OVA5N3dyQWpRNkFwWU50T0o4S1pjWW50WExmbDFmaDh0TUxvd196UHFES0xYMGJXNGxyRy1iOFFnLWcxa3Zya28waWxPRVViOWZoS1ZfRnFBQjE0aUpMZw?oc=5) | PBS | 2026-05-25T15:05+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Nigeria Faces High Ebola Importation Risk Amid DRC, Uganda Outbreaks — NCDC](https://news.google.com/rss/articles/CBMinwFBVV95cUxQa01lNWc2XzlEWnFCZzBxNEZpcjNja3NDZmk3eFkxc3NSNVFaS2FTUFFsZFctMW5jNlNEQkUtWUNJWjl6MXBnd2ZvTVh0MHF3RFp6cERJU1g3N0xZZGZMMEZaX0FRWEtlYVBQQWdZdnhCSjZRb09EYkliV3REcksycVl5UVpyVlVkd05INDI3cURDdDdjb2tPX3ptWXh1c1k?oc=5) | OsunDefender | 2026-05-25T14:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola treatment centres burned in eastern DRC as outbreak worsens – video](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk02SkY3cklCVVpMMm9hOWhIUTZRaUtmdXAxWDRRcW9CWHE3ZTNpM3BoSE9tb3Nsb3V6WUJiSjk1SUhhemhMVTIyUWxCQllCOW9SYm55S3gwRmpUN1Qwc1hmZW9ob0lDejd0X0N6Z2ZFNTk3ZGNEeG5DS3o4aHNPM2JkUm1mb09GSmdZWFdvWFJJVDRVdTNSY0M3ZmZaWGpLQl80NUhaUjJsajJYek9tY3diSmppSGd5clRXdmxGNlU?oc=5) | The Guardian | 2026-05-25T14:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US](https://www.theguardian.com/us-news/2026/may/25/ebola-hantavirus-conspiracy-theories) | The Guardian | 2026-05-25T12:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
