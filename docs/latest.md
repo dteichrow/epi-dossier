@@ -1,45 +1,39 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-26
-Generated at: 2026-05-26T03:17
+Generated at: 2026-05-26T04:17
 Search window: 7 day(s) ending 2026-05-26
 
 ## Executive scan
 - [Strengthening disease outbreak preparedness through partnership on joint scenario training](https://www.ecdc.europa.eu/en/news-events/strengthening-disease-outbreak-preparedness-through-partnership-joint-scenario-training) (ECDC News; 2026-05-25T13:23+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [FSIS Issues Public Health Alert for Beef Kofta Products Served at The Kebab Shop Restaurant Locations Due to Possible E. Coli O157:H7 Contaminationpha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765628) (CDC Travel Health Notices; 2026-05-24T16:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News; 2026-05-24T17:56+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/) (PubMed Infectious Disease Search; 2026-05-24T00:00; Major epidemiology studies; relevance 5/5)
 - [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies; 2026-05-23T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices; 2026-05-22T18:22+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (259), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (3)
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (256), Policy, surveillance, and public health infrastructure (24), Historical epidemiology / ancient disease / paleopathology (1)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News)
-- Newly tracked story cluster: 240 item(s) across 156 source(s).
-- Baseline snapshot created with 240 clustered item(s) across 156 source(s).
+- Newly tracked story cluster: 237 item(s) across 149 source(s).
+- Baseline snapshot created with 237 clustered item(s) across 149 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
-- Newly tracked story cluster: 32 item(s) across 21 source(s).
-- Baseline snapshot created with 32 clustered item(s) across 21 source(s).
+- Newly tracked story cluster: 34 item(s) across 22 source(s).
+- Baseline snapshot created with 34 clustered item(s) across 22 source(s).
 - Reuters now includes evacuation reporting.
 - The Washington Post now includes quarantine language.
-
-### Historical epidemiology and ancient pathogens
-- Lead item: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 240 item(s) across 156 source(s); 5 official/primary-source item(s).
+- Topic size: 237 item(s) across 149 source(s); 5 official/primary-source item(s).
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News, 2026-05-21T18:33+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -47,10 +41,10 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 32 item(s) across 21 source(s); 2 official/primary-source item(s).
+- Topic size: 34 item(s) across 22 source(s); 1 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News, 2026-05-24T17:56+02:00)
-- Detailed note: Among 1,199 sera samples, orthohantavirus population-weighted seroprevalence was 7.4% (95% CI: 3.91-10.80). ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. This study reports evidence of orthohantavirus exposure in Uganda, highlighting a previously underrecognized...
-- Evidence notes: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/) (PubMed Infectious Disease Search); [Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus](https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446) (CBC); [Spanish government confirms new case of hantavirus](https://www.nbcnews.com/health/health-news/hantavirus-spanish-government-confirms-new-case-rcna346825) (NBC News); [Spanish national evacuated from hantavirus cruise ship tests positive](https://www.reuters.com/business/healthcare-pharmaceuticals/spanish-national-evacuated-hantavirus-cruise-ship-tests-positive-2026-05-25/) (Reuters)
+- Detailed note: ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.
+- Evidence notes: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus](https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446) (CBC); [Spanish government confirms new case of hantavirus](https://www.nbcnews.com/health/health-news/hantavirus-spanish-government-confirms-new-case-rcna346825) (NBC News); [Spanish national evacuated from hantavirus cruise ship tests positive](https://www.reuters.com/business/healthcare-pharmaceuticals/spanish-national-evacuated-hantavirus-cruise-ship-tests-positive-2026-05-25/) (Reuters); [Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US](https://www.theguardian.com/us-news/2026/may/25/ebola-hantavirus-conspiracy-theories) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -71,12 +65,12 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
 - Lead item: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies, 2026-05-23T00:00)
 - Detailed note: Casimir Davaine was the first, in 1863, to demonstrate the involvement of bacteria in the transmission of anthrax in mammals; he also conducted important comparative studies on septicemia in different animal species. In the 19th century, researchers primarily used rabbits and guinea pigs to study the transmissibility of pathogens, while different animal species were studied for their susceptibility to various...
-- Evidence notes: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies); [Could AAV-vectored delivery of broadly neutralizing antibodies (bNAbs) reduce virologic failure in children diagnosed with perinatal HIV?](https://pubmed.ncbi.nlm.nih.gov/42171686/) (PubMed Infectious Disease Search)
+- Evidence notes: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It may shape how new evidence is framed before broader consensus forms. It also has value for historical epidemiology and blog-idea generation.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Diphtheria
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -345,16 +339,6 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-05-24T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42178764/
-- Category: Major epidemiology studies
-- Summary: Among 1,199 sera samples, orthohantavirus population-weighted seroprevalence was 7.4% (95% CI: 3.91-10.80). This study reports evidence of orthohantavirus exposure in Uganda, highlighting a previously underrecognized zoonotic risk in the region likely driven by close contact with rodent reservoirs and poor living conditions. The higher burden among males and lower-burden association with higher socioeconomic status, highlights the need for improved housing, rodent control, and integration of orthohantavirus surveillance into national public health programmes.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### A historical perspective on animal modeling of infectious diseases.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-05-23T00:00
@@ -415,10 +399,18 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support
+- Source: WHO Regional Office for Africa
+- Date: 2026-05-15T18:57+00:00
+- URL: https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport
+- Category: Outbreaks and emerging infections
+- Summary: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in 2007 in Bundibugyo district in western Uganda, during which 131 cases were reported with 42 deaths (case fatality rate of 32%). Laboratory analysis conducted by the National Institute of Biomedical Research (INRB), the country’s reference laboratory in the capital Kinshasa, confirmed the Ebola outbreak caused by the Bundibugyo species in 8 of 13 samples* collected from suspected cases linked to a cluster of severe illness and deaths reported in Mongbwalu and Rwampara health zones in Ituri Province.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) | WHO Regional Office for Africa | 2026-05-15T18:57+00:00 | Outbreaks and emerging infections
-  * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in 2007 in Bundibugyo district in western Uganda, during which 131 cases were reported with 42 deaths (case fatality rate of 32%). Laboratory analysis conducted by the National Institute of Biomedical Research (INRB), the country’s reference laboratory in the capital Kinshasa, confirmed the Ebola outbreak caused by the Bundibugyo species in 8 of 13 samples* collected from suspected cases linked to a cluster of severe illness and deaths reported in Mongbwalu and Rwampara health zones in Ituri Province.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [The Ebola outbreak will lead to devastating violence against women and girls](https://www.statnews.com/2026/05/26/ebola-outbreak-congo-violence-women-girls/) | statnews.com | 2026-05-26T08:32+00:00 | Outbreaks and emerging infections
@@ -429,8 +421,6 @@ Search window: 7 day(s) ending 2026-05-26
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: Andhra Pradesh Sets Up Ebola Screening Camp at Vijayawada Airport Amid Global Health Alert](https://www.latestly.com/agency-news/ebola-outbreak-andhra-pradesh-sets-up-ebola-screening-camp-at-vijayawada-airport-amid-global-health-alert-7446640.html) | LatestLY | 2026-05-26T05:25+00:00 | Outbreaks and emerging infections
   However, he cautioned that the actual scale of the epidemic is significantly higher, with more than 900 suspected cases and 220 suspected deaths under investigation. Sharing an update on the outbreak in a post on X, Tedros said 101 cases have so far been confirmed in the DRC, including 10 confirmed deaths. He further noted that neighbouring Uganda has also reported fresh infections, including two additional confirmed cases among healthcare workers, taking the total number of confirmed cases in the country to seven, including one death.
-- [Italy reports two suspected Ebola cases after Uganda trip](https://guardian.ng/news/italy-reports-two-suspected-ebola-cases-after-uganda-trip/) | The Guardian Nigeria News | 2026-05-26T03:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola death toll surpasses 200 as virus spreads to Uganda, 10 African countries at risk](https://novanews.co.za/ebola-death-toll-surpasses-200-as-virus-spreads-to-uganda-10-african-countries-at-risk/) | novanews.co.za | 2026-05-26T03:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Could Be Major Global Health Hazard](https://www.thecommonsense.co.za/global/ebola-outbreak-could-be-major-global-health-hazard) | The Common Sense | 2026-05-26T03:03+00:00 | Outbreaks and emerging infections
@@ -453,18 +443,16 @@ Search window: 7 day(s) ending 2026-05-26
   Limited detail was available from feed metadata alone.
 - [Spanish national evacuated from hantavirus cruise ship tests positive](https://www.reuters.com/business/healthcare-pharmaceuticals/spanish-national-evacuated-hantavirus-cruise-ship-tests-positive-2026-05-25/) | Reuters | 2026-05-25T18:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak in DR Congo ‘extremely serious, difficult to manage,’ says WHO chief](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV2pvRzJxMVllSjVVZjRtQ2szZjBEbkM1UF9HdGFyX1JxY0RRWndCcUV5Qko5MWsxVzIwZjVQTDM4RndKbVVjM19mcElkOWVkQ0FoTlJkZDdrY3hyUWtrOEVSazBHOC0tVVpwbVJCYjBqOEU3THdIQTNDMmtNTTJ1NEktanVUTWI4a2pqemlkdDUweVNpRFF1WGo1SWhUbzgtVV9kbkFGbDhLRVU4LU9teG1GVDhlMlllaWZV?oc=5) | Anadolu Ajansı | 2026-05-25T16:56+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Bahamas activates health protocols amid growing Ebola outbreak in Central Africa - CNW Network](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzBxNUloUVRwcDBlX2Fyb0JteWhKalVOV3E2aEx3NDhjLUdRNXRiMGtsbVk0Z2VSU3g2dFZwYy1VT01UMlRrSEl2eXRZM1UyRmUtSUJ5WW1seGp0bFZhU25LNl8wNy1QTC04UU4wV09qeFU2T2xERVZxd1ZtRjZXYkRzaFBTR0dpbHVpWGx4NmxVaEp0ZC1ValdWUno3UWRTUDdNX2s3Wl9wcjd5Tm5tVmI1VUQ5WmFmTHN3MXpub1FrQlVy?oc=5) | Caribbean National Weekly | 2026-05-25T15:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO chief warns Ebola outbreak 'outpacing us' as deaths hit 220](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkFYbHF3dzdDWVhqd215MEVaX3RaQ0RFQ1NBNmtjM3BMbkRLUG44clJIVUR4empqczNqcmxfbFdWZ1l1WFN1NDB1am1TNjJiSHFjZERsWmd2eDA1Y1RXQ3FHZzd3OTdaSGhLc3A3TEEzUS1yV0F4QV9zMGdkT2FoVXprTHdFQUVCZUF3WEV2S2Nib2ZLMWlCUjV0Q1lsUExXTVNXWWtIQnFwbXM?oc=5) | Euronews | 2026-05-25T15:26+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Ugandan health officials report new Ebola virus infections, bringing cases to 7](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGZoam8zMWsyRmJZdkVrcVpnQ1hmNFFjNVU2dFpkYzgybmZGRmFvblBUNnYwRkNnd3dkMzkyR3VENEs1T2d4QWpGaWYxZGxuRDdhMmVkM25LNDd0OVA5N3dyQWpRNkFwWU50T0o4S1pjWW50WExmbDFmaDh0TUxvd196UHFES0xYMGJXNGxyRy1iOFFnLWcxa3Zya28waWxPRVViOWZoS1ZfRnFBQjE0aUpMZw?oc=5) | PBS | 2026-05-25T15:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
-- [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/22221751.2026.2665002
-  Journal/preprint server: Emerging microbes & infections
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42178764/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42178764/
 - [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1016/j.pharma.2026.05.009
@@ -477,18 +465,10 @@ Search window: 7 day(s) ending 2026-05-26
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42157696/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42157696/
-- [Could AAV-vectored delivery of broadly neutralizing antibodies (bNAbs) reduce virologic failure in children diagnosed with perinatal HIV?](https://pubmed.ncbi.nlm.nih.gov/42171686/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2655015
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42171686/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42171686/
 
 ## Historical epi / weird epi corner
 - [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) | PubMed Historical Pathogen Case Studies
   Casimir Davaine was the first, in 1863, to demonstrate the involvement of bacteria in the transmission of anthrax in mammals; he also conducted important comparative studies on septicemia in different animal species. In the 19th century, researchers primarily used rabbits and guinea pigs to study the transmissibility of pathogens, while different animal species were studied for their susceptibility to various microbial agents. In 1835, Agostino Bassi demonstrated that muscardine in silkworms was a fungal disease, thus providing one of the very first pieces of evidence for an infectious etiology.
-- [Could AAV-vectored delivery of broadly neutralizing antibodies (bNAbs) reduce virologic failure in children diagnosed with perinatal HIV?](https://pubmed.ncbi.nlm.nih.gov/42171686/) | PubMed Infectious Disease Search
-  However, current bNAb delivery relies on repeated administrations of clinical-grade protein biologics, an approach that would be difficult to scale in regions with high rates of vertical HIV-1 transmission. Here, we argue that adeno-associated virus (AAV) vector-mediated gene transfer could overcome this limitation by enabling long-term expression of HIV-1 bNAbs in skeletal muscle. Levels were sufficient to block simian-HIV (SHIV) infection in mucosal challenge models of HIV-1 transmission via breastfeeding and sexual intercourse.
 - [Dr Congo adapts burials amid Ebola outbreak](https://www.france24.com/en/dr-congo-adapts-burials-amid-ebola-outbreak) | France 24
   Limited detail was available from feed metadata alone.
 
