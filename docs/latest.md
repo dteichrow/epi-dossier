@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-26
-Generated at: 2026-05-26T01:46
+Generated at: 2026-05-26T02:00
 Search window: 7 day(s) ending 2026-05-26
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-26
 - [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices; 2026-05-22T18:22+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (257), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (255), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (3)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News)
-- Newly tracked story cluster: 237 item(s) across 153 source(s).
-- Baseline snapshot created with 237 clustered item(s) across 153 source(s).
+- Newly tracked story cluster: 236 item(s) across 149 source(s).
+- Baseline snapshot created with 236 clustered item(s) across 149 source(s).
 - LatestLY now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
@@ -31,6 +31,12 @@ Search window: 7 day(s) ending 2026-05-26
 - Reuters now includes evacuation reporting.
 - The Washington Post now includes quarantine language.
 
+### Measles transmission and vaccination
+- Lead item: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Reuters now includes deaths or fatal cases in the story frame.
+
 ### Historical epidemiology and ancient pathogens
 - Lead item: [A historical perspective on animal modeling of infectious diseases.](https://pubmed.ncbi.nlm.nih.gov/42178020/) (PubMed Historical Pathogen Case Studies)
 - Newly tracked story cluster: 2 item(s) across 2 source(s).
@@ -40,7 +46,7 @@ Search window: 7 day(s) ending 2026-05-26
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 237 item(s) across 153 source(s); 5 official/primary-source item(s).
+- Topic size: 236 item(s) across 149 source(s); 5 official/primary-source item(s).
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News, 2026-05-21T18:33+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -64,10 +70,10 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times, 2026-05-22T10:12+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times); [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today)
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters, 2026-05-23T14:42+00:00)
+- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Suspected and confirmed measles deaths top 500 in Bangladesh](https://www.reuters.com/business/healthcare-pharmaceuticals/suspected-confirmed-measles-deaths-top-500-bangladesh-2026-05-23/) (Reuters); [Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh](https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html) (The New York Times); [Mexico measles cases top 11,000 in 2026, Additional death in Zacatecas](https://outbreaknewstoday.substack.com/p/mexico-measles-cases-top-11000-in) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -432,11 +438,7 @@ Search window: 7 day(s) ending 2026-05-26
   However, he cautioned that the actual scale of the epidemic is significantly higher, with more than 900 suspected cases and 220 suspected deaths under investigation. Sharing an update on the outbreak in a post on X, Tedros said 101 cases have so far been confirmed in the DRC, including 10 confirmed deaths. He further noted that neighbouring Uganda has also reported fresh infections, including two additional confirmed cases among healthcare workers, taking the total number of confirmed cases in the country to seven, including one death.
 - [Ebola death toll surpasses 200 as virus spreads to Uganda, 10 African countries at risk](https://novanews.co.za/ebola-death-toll-surpasses-200-as-virus-spreads-to-uganda-10-african-countries-at-risk/) | novanews.co.za | 2026-05-26T03:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [The rare Ebola outbreak is one danger. Attacks on healthcare workers are another](https://www.rockymounttelegram.com/news/world/the-rare-ebola-outbreak-is-one-danger-attacks-on-healthcare-workers-are-another/article_9d494569-5f84-526a-84a7-17a3b30c2247.html) | Rocky Mount Telegram | 2026-05-26T01:53+00:00 | Outbreaks and emerging infections
-  Attacks on healthcare workers are another Rocky Mount Telegram
 - [Ebola Cases Hit 900 in Congo DRC, WHO Confirms](https://punchng.com/ebola-cases-hit-900-in-congo-drc/?amp) | Punch Newspapers | 2026-05-26T01:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ethiopia and Rwanda Added to Key Ebola Quarantine Management Areas](https://www.asiae.co.kr/en/article/social-general/2026052610284010901) | 아시아경제 | 2026-05-26T01:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [South Africa Joins Efforts To Combat Ebola Outbreak](https://www.eurasiareview.com/26052026-south-africa-joins-efforts-to-combat-ebola-outbreak/) | Eurasia Review | 2026-05-25T23:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -457,6 +459,10 @@ Search window: 7 day(s) ending 2026-05-26
 - [WHO chief warns Ebola outbreak 'outpacing us' as deaths hit 220](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkFYbHF3dzdDWVhqd215MEVaX3RaQ0RFQ1NBNmtjM3BMbkRLUG44clJIVUR4empqczNqcmxfbFdWZ1l1WFN1NDB1am1TNjJiSHFjZERsWmd2eDA1Y1RXQ3FHZzd3OTdaSGhLc3A3TEEzUS1yV0F4QV9zMGdkT2FoVXprTHdFQUVCZUF3WEV2S2Nib2ZLMWlCUjV0Q1lsUExXTVNXWWtIQnFwbXM?oc=5) | Euronews.com | 2026-05-25T15:26+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak won't cause global pandemic: Former CDC Director](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTVIUVFhdXRSNFEyVUJhOWhiQ2EtZlZsNXFrMmVCUmx3MTJQdFowMC1QWng5TFlTbU40VFVMdm04ZXNSUEc5b2hqRlo3ZUU2SHM1MUZZOFoyZnR2RVktWU5FYXE5aEZGT1VaWkN2YTc4MmRENTFOZlVRRGRjWFJzZGVERG9jZWxPQy1qOVhPaEROX0RaRzFTTWFzdFBidnkxelNBMDVDMWFSeHlmNmpTQVNEcm5Ya21zUUNreng5Tko?oc=5) | NewsNation | 2026-05-25T15:18+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Ugandan health officials report new Ebola virus infections, bringing cases to 7](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGZoam8zMWsyRmJZdkVrcVpnQ1hmNFFjNVU2dFpkYzgybmZGRmFvblBUNnYwRkNnd3dkMzkyR3VENEs1T2d4QWpGaWYxZGxuRDdhMmVkM25LNDd0OVA5N3dyQWpRNkFwWU50T0o4S1pjWW50WExmbDFmaDh0TUxvd196UHFES0xYMGJXNGxyRy1iOFFnLWcxa3Zya28waWxPRVViOWZoS1ZfRnFBQjE0aUpMZw?oc=5) | PBS | 2026-05-25T15:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Nigeria Faces High Ebola Importation Risk Amid DRC, Uganda Outbreaks — NCDC](https://news.google.com/rss/articles/CBMinwFBVV95cUxQa01lNWc2XzlEWnFCZzBxNEZpcjNja3NDZmk3eFkxc3NSNVFaS2FTUFFsZFctMW5jNlNEQkUtWUNJWjl6MXBnd2ZvTVh0MHF3RFp6cERJU1g3N0xZZGZMMEZaX0FRWEtlYVBQQWdZdnhCSjZRb09EYkliV3REcksycVl5UVpyVlVkd05INDI3cURDdDdjb2tPX3ptWXh1c1k?oc=5) | OsunDefender | 2026-05-25T14:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
