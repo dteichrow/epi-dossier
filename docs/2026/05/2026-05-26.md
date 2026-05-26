@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-26
-Generated at: 2026-05-26T01:11
+Generated at: 2026-05-26T01:17
 Search window: 7 day(s) ending 2026-05-26
 
 ## Executive scan
@@ -12,22 +12,22 @@ Search window: 7 day(s) ending 2026-05-26
 - [Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765617) (CDC Travel Health Notices; 2026-05-22T18:22+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News; 2026-05-21T18:33+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (257), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (3)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (255), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (3)
+- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News)
-- Newly tracked story cluster: 234 item(s) across 146 source(s).
-- Baseline snapshot created with 234 clustered item(s) across 146 source(s).
+- Newly tracked story cluster: 232 item(s) across 145 source(s).
+- Baseline snapshot created with 232 clustered item(s) across 145 source(s).
 - LatestLY now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
-- Newly tracked story cluster: 33 item(s) across 22 source(s).
-- Baseline snapshot created with 33 clustered item(s) across 22 source(s).
+- Newly tracked story cluster: 34 item(s) across 23 source(s).
+- Baseline snapshot created with 34 clustered item(s) across 23 source(s).
 - Reuters now includes evacuation reporting.
 - The Washington Post now includes quarantine language.
 
@@ -40,7 +40,7 @@ Search window: 7 day(s) ending 2026-05-26
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 234 item(s) across 146 source(s); 5 official/primary-source item(s).
+- Topic size: 232 item(s) across 145 source(s); 5 official/primary-source item(s).
 - Lead item: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News, 2026-05-21T18:33+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [Ebola virus disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -48,7 +48,7 @@ Search window: 7 day(s) ending 2026-05-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 33 item(s) across 22 source(s); 2 official/primary-source item(s).
+- Topic size: 34 item(s) across 23 source(s); 2 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News, 2026-05-24T17:56+02:00)
 - Detailed note: Among 1,199 sera samples, orthohantavirus population-weighted seroprevalence was 7.4% (95% CI: 3.91-10.80). ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The video, filmed in 2022 , shows the late New York doctor Vladimir Zelenko, who touted unproven treatments for...
 - Evidence notes: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Hantavirus seroprevalence and associated factors for exposure in south-central Uganda.](https://pubmed.ncbi.nlm.nih.gov/42178764/) (PubMed Infectious Disease Search); [Posts tout unproven treatment for hantavirus, Ebola](https://malaysia.news.yahoo.com/posts-tout-unproven-treatment-hantavirus-072424934.html) (Yahoo News Malaysia); [Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus](https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446) (CBC); [Spanish government confirms new case of hantavirus](https://www.nbcnews.com/health/health-news/hantavirus-spanish-government-confirms-new-case-rcna346825) (NBC News)
