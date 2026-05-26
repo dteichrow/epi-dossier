@@ -310,10 +310,27 @@ sources:
   - name: Google News Hemorrhagic Fever and Zoonoses
     type: rss
     category: Outbreaks and emerging infections
-    url: https://news.google.com/rss/search?q=%28hantavirus+OR+Ebola+OR+Bundibugyo+OR+Marburg+OR+Lassa+OR+Nipah+OR+anthrax+OR+%22Rift+Valley+fever%22+OR+%22Crimean-Congo%22+OR+%22viral+hemorrhagic+fever%22+OR+%22viral+haemorrhagic+fever%22%29+%28outbreak+OR+cluster+OR+spillover+OR+surveillance+OR+%22health+emergency%22+OR+%22contact+tracing%22%29+when:14d&hl=en-US&gl=US&ceid=US:en
+    url: https://news.google.com/rss/search?q=%28hantavirus+OR+Ebola+OR+Bundibugyo+OR+Marburg+OR+Lassa+OR+Nipah+OR+anthrax+OR+%22Rift+Valley+fever%22+OR+%22Crimean-Congo%22+OR+%22viral+hemorrhagic+fever%22+OR+%22viral+haemorrhagic+fever%22%29+%28outbreak+OR+cluster+OR+spillover+OR+surveillance+OR+%22health+emergency%22+OR+%22contact+tracing%22+OR+%22treatment+center%22+OR+%22treatment+centre%22+OR+burial+OR+bodies+OR+burned+OR+stormed%29+when:14d&hl=en-US&gl=US&ceid=US:en
     official: false
     outbreak_signal: true
     max_items: 120
+
+  - name: Google News Ebola Burial and Treatment Response
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28Ebola+OR+Bundibugyo%29+%28%22treatment+center%22+OR+%22treatment+centre%22+OR+clinic+OR+hospital+OR+ward+OR+burial+OR+bodies+OR+body+OR+%22safe+burial%22+OR+%22traditional+burial%22+OR+burned+OR+burnt+OR+%22set+on+fire%22+OR+stormed+OR+attack+OR+retrieve+OR+retrieved%29+%28DRC+OR+Congo+OR+Ituri+OR+Mongbwalu+OR+Rwampara%29+when:21d&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 80
+    terms_hint:
+      - Ebola
+      - Bundibugyo
+      - treatment center
+      - treatment centre
+      - safe burial
+      - traditional burial
+      - DRC
+      - Congo
 
   - name: Google News Active Outbreak Alerts
     type: rss

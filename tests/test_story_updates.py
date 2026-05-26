@@ -60,6 +60,57 @@ def test_analyze_story_updates_reports_new_flags_against_previous_snapshot():
     assert "deaths or fatal cases" in joined
 
 
+def test_analyze_story_updates_calls_out_ebola_burial_and_treatment_site_attack():
+    previous = {
+        "Ebola virus disease": {
+            "topic_name": "Ebola virus disease",
+            "lead_title": "Earlier Ebola outbreak update",
+            "lead_url": "https://example.com/old",
+            "lead_source": "WHO Disease Outbreak News",
+            "cluster_size": 2,
+            "source_names": ["WHO Disease Outbreak News"],
+            "official_source_names": ["WHO Disease Outbreak News"],
+            "flags": ["deaths_reported"],
+            "canonical_urls": ["https://example.com/old"],
+            "top_titles": ["Earlier Ebola outbreak update"],
+        }
+    }
+    items = [
+        Item(
+            title="Ebola treatment centre burned after residents demand body for burial",
+            source="Google News Ebola Burial and Treatment Response",
+            url="https://example.com/ebola-treatment-centre",
+            category="Outbreaks and emerging infections",
+            summary="Young men stormed a hospital to retrieve body of suspected Ebola victim for traditional burial.",
+            relevance_score=4,
+        ),
+        Item(
+            title="Officials report Ebola deaths and contact tracing in Congo",
+            source="WHO Disease Outbreak News",
+            url="https://example.com/who-ebola",
+            category="Outbreaks and emerging infections",
+            summary="The outbreak response continues after deaths and suspected cases in the health zone.",
+            official=True,
+            relevance_score=5,
+        ),
+        Item(
+            title="Africa CDC warns regional Ebola response remains active",
+            source="Africa CDC",
+            url="https://example.com/africa-cdc-ebola",
+            category="Outbreaks and emerging infections",
+            summary="Response teams continue contact tracing and infection prevention.",
+            official=True,
+            relevance_score=5,
+        ),
+    ]
+
+    updates, _ = analyze_story_updates(items, previous)
+    update = next(item for item in updates if item.topic_name == "Ebola virus disease")
+    joined = " ".join(update.bullets)
+    assert "violence or fire at a treatment site" in joined
+    assert "body retrieval or burial practices" in joined
+
+
 def test_analyze_story_updates_keeps_two_item_official_story_cluster():
     items = [
         Item(

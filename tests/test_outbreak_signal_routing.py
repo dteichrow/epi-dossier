@@ -72,6 +72,22 @@ def test_google_news_followup_requires_content_level_outbreak_activity():
     assert item_looks_like_story_followup(item) is False
 
 
+def test_ebola_treatment_site_and_burial_conflict_counts_as_story_followup():
+    item = Item(
+        title="Young men storm hospital to retrieve body of suspected Ebola victim",
+        source="Google News Ebola Burial and Treatment Response",
+        url="https://news.google.com/rss/articles/example",
+        category="Outbreaks and emerging infections",
+        summary="Local reporting says a treatment centre was burned after residents demanded a traditional burial.",
+        source_type="rss",
+    )
+
+    assert classify_topic(item) == "Ebola virus disease"
+    assert item_looks_like_story_followup(item) is True
+    assert item_matches_briefing_scope(item) is True
+    assert score_item(item) >= 4
+
+
 def test_outbreak_terminal_and_official_alerts_are_configured_for_broad_monitoring():
     editions = {edition.key: edition for edition in load_editions_config()}
 

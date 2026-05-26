@@ -39,6 +39,8 @@ def is_regional_google_outbreak_lane(item: Item) -> bool:
             "southeast asia outbreaks",
             "latin america outbreaks",
             "rural outbreaks",
+            "hemorrhagic fever and zoonoses",
+            "ebola burial and treatment response",
         )
     )
 
@@ -79,6 +81,26 @@ def score_item(item: Item) -> int:
             "case fatality",
             "contact tracing",
             "isolation",
+            "treatment center",
+            "treatment centre",
+            "treatment facility",
+            "clinic",
+            "hospital",
+            "ward",
+            "safe burial",
+            "traditional burial",
+            "unsafe burial",
+            "burial team",
+            "body",
+            "bodies",
+            "retrieve body",
+            "retrieve bodies",
+            "body retrieval",
+            "stormed",
+            "burned",
+            "burnt",
+            "set on fire",
+            "attack",
             "surveillance",
         )
     ):

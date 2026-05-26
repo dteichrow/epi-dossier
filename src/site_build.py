@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import re
 from copy import deepcopy
 from datetime import datetime
 from pathlib import Path
@@ -254,7 +255,7 @@ def write_public_surfaces(
         docs_latest_html = docs_root / "latest.html"
         docs_latest_html.write_text(
             inject_public_live_update_support(
-                rewrite_local_reader_links(reader_html, "."),
+                rewrite_local_reader_links(reader_html, ".", payload["paths"]["latest_html"].parent),
                 "./app_exports/manifest.json",
                 str(publication_snapshot.get("run_id", "")),
                 str(publication_snapshot.get("generated_at", "")),
@@ -268,7 +269,7 @@ def write_public_surfaces(
     if not html_validation_issues:
         current_archive_html.write_text(
             inject_public_live_update_support(
-                rewrite_local_reader_links(reader_html, "../.."),
+                rewrite_local_reader_links(reader_html, "../..", payload["paths"]["latest_html"].parent),
                 "../../app_exports/manifest.json",
                 str(publication_snapshot.get("run_id", "")),
                 str(publication_snapshot.get("generated_at", "")),
@@ -408,9 +409,16 @@ def render_legacy_atlas_redirect_html() -> str:
 """
 
 
-def rewrite_local_reader_links(html_text: str, relative_prefix: str) -> str:
-    local_prefix = latest_html_filename().parent.resolve().as_uri()
-    return html_text.replace(local_prefix, relative_prefix)
+def rewrite_local_reader_links(html_text: str, relative_prefix: str, local_reader_root: Path | None = None) -> str:
+    roots = [latest_html_filename().parent]
+    if local_reader_root is not None:
+        roots.append(local_reader_root)
+    rewritten = html_text
+    for root in roots:
+        local_prefix = root.resolve().as_uri()
+        rewritten = rewritten.replace(local_prefix, relative_prefix)
+    rewritten = re.sub(r"file:///[^\"']*/Daily%20Dossiers", relative_prefix, rewritten)
+    return rewritten
 
 
 def inject_public_live_update_support(

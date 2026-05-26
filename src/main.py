@@ -297,6 +297,25 @@ OUTBREAK_ACTIVITY_TERMS = (
     "quarantine",
     "safe burial",
     "safe burials",
+    "traditional burial",
+    "unsafe burial",
+    "burial team",
+    "retrieve body",
+    "retrieve bodies",
+    "body retrieval",
+    "body of a suspected",
+    "bodies of suspected",
+    "treatment center",
+    "treatment centre",
+    "treatment facility",
+    "clinic burned",
+    "ward burned",
+    "hospital stormed",
+    "clinic stormed",
+    "center burned",
+    "centre burned",
+    "set on fire",
+    "stormed",
     "health emergency",
     "public health emergency",
     "emergency response",
@@ -1222,6 +1241,12 @@ def item_is_historical(item: Item) -> bool:
             item.source.lower(),
         ]
     )
+    if (
+        item.category != "Historical epidemiology / ancient disease / paleopathology"
+        and has_disease_reference_signal(joined)
+        and any(term in joined for term in OUTBREAK_ACTIVITY_TERMS)
+    ):
+        return False
     return any(term in joined for term in HISTORICAL_TERMS)
 
 

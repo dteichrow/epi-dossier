@@ -110,6 +110,28 @@ STORY_FLAG_RULES = {
         "evacuated",
         "evacuation",
     ),
+    "response_site_attack": (
+        "treatment center burned",
+        "treatment centre burned",
+        "clinic burned",
+        "ward burned",
+        "center set on fire",
+        "centre set on fire",
+        "hospital stormed",
+        "clinic stormed",
+        "set on fire",
+    ),
+    "burial_conflict": (
+        "safe burial",
+        "traditional burial",
+        "unsafe burial",
+        "burial team",
+        "retrieve body",
+        "retrieve bodies",
+        "body retrieval",
+        "body of a suspected",
+        "bodies of suspected",
+    ),
     "wastewater_signal": (
         "wastewater",
     ),
@@ -127,6 +149,8 @@ STORY_FLAG_MESSAGES = {
     "deaths_reported": "{source} now includes deaths or fatal cases in the story frame.",
     "quarantine_measures": "{source} now includes quarantine language.",
     "evacuation_measures": "{source} now includes evacuation reporting.",
+    "response_site_attack": "{source} now reports violence or fire at a treatment site.",
+    "burial_conflict": "{source} now reports conflict over body retrieval or burial practices.",
     "wastewater_signal": "{source} now brings wastewater surveillance into the story.",
     "vaccine_signal": "{source} now foregrounds vaccination or vaccine policy in the story.",
 }
@@ -152,6 +176,18 @@ DISEASE_TOPIC_ACTIVITY_TERMS = (
     "isolation",
     "quarantine",
     "safe burial",
+    "traditional burial",
+    "unsafe burial",
+    "burial team",
+    "retrieve body",
+    "retrieve bodies",
+    "body retrieval",
+    "treatment center",
+    "treatment centre",
+    "treatment facility",
+    "hospital stormed",
+    "clinic stormed",
+    "set on fire",
     "travel health notice",
     "cross-border",
     "imported",
@@ -384,11 +420,14 @@ def classify_topic(item: Item) -> str:
             item.extracted_text.lower(),
         ]
     )
+    reference_matches = matched_disease_reference_names(text)
+    has_reference_outbreak_activity = reference_matches and any(term in activity_text for term in DISEASE_TOPIC_ACTIVITY_TERMS)
     for topic_name, keywords in TOPIC_KEYWORDS.items():
+        if topic_name == "Historical epidemiology and ancient pathogens" and has_reference_outbreak_activity:
+            continue
         if any(keyword_matches(text, keyword) for keyword in keywords):
             return topic_name
-    reference_matches = matched_disease_reference_names(text)
-    if reference_matches and any(term in activity_text for term in DISEASE_TOPIC_ACTIVITY_TERMS):
+    if has_reference_outbreak_activity:
         return reference_matches[0]
     return "Miscellaneous signals"
 
