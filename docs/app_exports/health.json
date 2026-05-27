@@ -14,30 +14,35 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 270,
+    "metadata_only_count": 273,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 285,
+    "sources_failed": 3,
+    "sources_live": 288,
     "story_count_change": 3,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 285,
+    "live": 288,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-27T16:40:15",
+  "generated_at": "2026-05-27T16:41:40",
   "source_failures": [
     {
-      "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
-      "source": "USDA APHIS Avian Influenza",
+      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "rss"
+    },
+    {
+      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
     },
     {
-      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
-      "source": "California Department of Public Health News",
+      "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
+      "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
     }
   ]
