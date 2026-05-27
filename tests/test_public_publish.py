@@ -109,3 +109,12 @@ def test_zsh_bin_prefers_configured_binary(monkeypatch):
     monkeypatch.setenv("EPI_DOSSIER_ZSH_BIN", "/custom/zsh")
 
     assert public_publish.zsh_bin() == "/custom/zsh"
+
+
+def test_publish_script_mirrors_newsdesk_when_full_umbrella_publish_is_skipped():
+    script = public_publish.PUBLISH_SCRIPT.read_text()
+
+    assert "publish_umbrella_newsdesk_mirror()" in script
+    assert "Skipping full umbrella-site refresh by configuration; publishing Newsdesk mirror only." in script
+    assert "docs/newsdesk" in script
+    assert "NEWS_DESK_ROOT_EXPORTS=(archive.json atlas.json health.json latest.json manifest.json)" in script
