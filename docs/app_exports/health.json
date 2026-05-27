@@ -2,7 +2,6 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -12,25 +11,29 @@
       "NPR",
       "New York Times",
       "PBS",
-      "Reuters",
-      "Sky News"
+      "Reuters"
     ],
-    "metadata_only_count": 265,
+    "metadata_only_count": 269,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 279,
+    "sources_failed": 4,
+    "sources_live": 282,
     "story_count_change": 2,
-    "wrapper_only_count": 9
+    "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 279,
+    "live": 282,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-26T23:51:05",
+  "generated_at": "2026-05-27T01:50:32",
   "source_failures": [
+    {
+      "error": "HTTPSConnectionPool(host='www.who.int', port=443): Read timed out. (read timeout=20)",
+      "source": "WHO Disease Outbreak News",
+      "source_type": "html_list"
+    },
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
       "source": "Nigeria Centre for Disease Control",
