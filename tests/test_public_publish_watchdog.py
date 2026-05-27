@@ -5,6 +5,12 @@ from src import public_publish_watchdog
 from src.utils import stable_id
 
 
+def test_watchdog_defaults_to_canonical_project_manifest():
+    assert public_publish_watchdog.PUBLIC_MANIFEST_URL.endswith("/epi-dossier/app_exports/manifest.json")
+    assert public_publish_watchdog.PUBLIC_LATEST_URL.endswith("/epi-dossier/app_exports/latest.json")
+    assert public_publish_watchdog.DEFAULT_STALE_MINUTES == 45
+
+
 def test_manifest_age_minutes_handles_local_naive_generated_at():
     now = datetime(2026, 5, 22, 7, 34, tzinfo=timezone(timedelta(hours=-7)))
     manifest = {"generated_at": "2026-05-22T05:17:29"}
@@ -63,7 +69,7 @@ def test_find_new_candidate_items_matches_live_item_id_when_url_is_missing():
 
 def test_main_publishes_when_fresh_manifest_has_new_candidate(monkeypatch):
     calls = []
-    monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda timeout_seconds: {"generated_at": "fresh"})
+    monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda url, timeout_seconds: {"generated_at": "fresh"})
     monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 10)
     monkeypatch.setattr(public_publish_watchdog, "fetch_live_latest", lambda timeout_seconds: {"items": []})
     monkeypatch.setattr(
@@ -80,7 +86,7 @@ def test_main_publishes_when_fresh_manifest_has_new_candidate(monkeypatch):
 def test_main_does_not_publish_when_fresh_manifest_has_no_new_candidates(monkeypatch):
     calls = []
     canonical = "https://example.com/live"
-    monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda timeout_seconds: {"generated_at": "fresh"})
+    monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda url, timeout_seconds: {"generated_at": "fresh"})
     monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 10)
     monkeypatch.setattr(public_publish_watchdog, "fetch_live_latest", lambda timeout_seconds: {"items": [{"canonical_url": canonical}]})
     monkeypatch.setattr(

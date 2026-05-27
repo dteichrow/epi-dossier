@@ -46,6 +46,10 @@ git_with_publish_auth() {
   fi
 }
 
+skip_umbrella_publish() {
+  [[ "${EPI_DOSSIER_SKIP_UMBRELLA_PUBLISH:-}" == "1" || "${EPI_DOSSIER_SKIP_UMBRELLA_PUBLISH:-}" == "true" ]]
+}
+
 repo_has_local_changes() {
   local repo_root="$1"
   [[ -n "$("$GIT_BIN" -C "$repo_root" status --porcelain --untracked-files=no)" ]]
@@ -238,6 +242,10 @@ report_blocking_and_exit_if_needed
 
 if "$GIT_BIN" diff --cached --quiet -- docs; then
   echo "No public-site changes to publish."
+  if skip_umbrella_publish; then
+    echo "Skipping umbrella-site refresh by configuration."
+    exit 0
+  fi
   publish_umbrella_site
   exit 0
 fi
@@ -249,4 +257,8 @@ push_commit_with_generated_docs_rebase \
   origin \
   main \
   "Published public site refresh."
+if skip_umbrella_publish; then
+  echo "Skipping umbrella-site refresh by configuration."
+  exit 0
+fi
 publish_umbrella_site

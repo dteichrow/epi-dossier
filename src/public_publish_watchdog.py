@@ -16,9 +16,9 @@ from typing import Any
 REPO_ROOT = Path(__file__).resolve().parents[1]
 PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
 PUBLIC_PUBLISH = REPO_ROOT / "src/public_publish.py"
-PUBLIC_MANIFEST_URL = "https://dteichrow.github.io/app_exports/manifest.json"
-PUBLIC_LATEST_URL = "https://dteichrow.github.io/app_exports/latest.json"
-DEFAULT_STALE_MINUTES = 55
+PUBLIC_MANIFEST_URL = "https://dteichrow.github.io/epi-dossier/app_exports/manifest.json"
+PUBLIC_LATEST_URL = "https://dteichrow.github.io/epi-dossier/app_exports/latest.json"
+DEFAULT_STALE_MINUTES = 45
 DEFAULT_TIMEOUT_SECONDS = 15
 DEFAULT_SEARCH_WINDOW_DAYS = 7
 NAIVE_UTC_FUTURE_TOLERANCE = timedelta(minutes=5)
@@ -173,8 +173,9 @@ def main(argv: list[str] | None = None) -> int:
     timeout_seconds = env_int("EPI_DOSSIER_WATCHDOG_TIMEOUT_SECONDS", DEFAULT_TIMEOUT_SECONDS)
     search_window_days = env_int("EPI_DOSSIER_WATCHDOG_SEARCH_WINDOW_DAYS", DEFAULT_SEARCH_WINDOW_DAYS)
     check_new_items = env_bool("EPI_DOSSIER_WATCHDOG_CHECK_NEW_ITEMS", True)
+    manifest_url = os.environ.get("EPI_DOSSIER_WATCHDOG_MANIFEST_URL", PUBLIC_MANIFEST_URL)
     try:
-        manifest = fetch_manifest(timeout_seconds=timeout_seconds)
+        manifest = fetch_manifest(url=manifest_url, timeout_seconds=timeout_seconds)
         age_minutes = manifest_age_minutes(manifest)
     except (OSError, urllib.error.URLError, TimeoutError, ValueError, json.JSONDecodeError) as exc:
         log(f"Manifest check failed: {exc}")

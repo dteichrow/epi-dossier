@@ -14,9 +14,13 @@
     <key>EnvironmentVariables</key>
     <dict>
       <key>EPI_DOSSIER_WATCHDOG_STALE_MINUTES</key>
-      <string>90</string>
+      <string>45</string>
       <key>EPI_DOSSIER_WATCHDOG_TIMEOUT_SECONDS</key>
       <string>15</string>
+      <key>EPI_DOSSIER_WATCHDOG_MANIFEST_URL</key>
+      <string>https://dteichrow.github.io/epi-dossier/app_exports/manifest.json</string>
+      <key>EPI_DOSSIER_SKIP_UMBRELLA_PUBLISH</key>
+      <string>1</string>
     </dict>
 
     <key>RunAtLoad</key>
@@ -25,9 +29,11 @@
     <key>StartCalendarInterval</key>
     <array>
       <dict><key>Minute</key><integer>5</integer></dict>
-      <dict><key>Minute</key><integer>20</integer></dict>
+      <dict><key>Minute</key><integer>15</integer></dict>
+      <dict><key>Minute</key><integer>25</integer></dict>
       <dict><key>Minute</key><integer>35</integer></dict>
-      <dict><key>Minute</key><integer>50</integer></dict>
+      <dict><key>Minute</key><integer>45</integer></dict>
+      <dict><key>Minute</key><integer>55</integer></dict>
     </array>
 
     <key>StandardOutPath</key>

@@ -32,6 +32,8 @@ TEMP_WORKTREE_ROOT = Path(
 )
 DEFAULT_TIMEOUT_SECONDS = 45 * 60
 DEFAULT_STALE_LOCK_SECONDS = 60 * 60
+DEFAULT_REMOTE = "origin"
+DEFAULT_BRANCH = "main"
 LOCK_ALREADY_RUNNING = "already_running"
 LOCK_CLEARED = "cleared_stale"
 LOCK_READY = "ready"
@@ -56,10 +58,13 @@ def env_int(name: str, default: int) -> int:
 
 
 def prepare_publish_script(
-    script_path: Path = PUBLISH_SCRIPT,
-    repo_root: Path = REPO_ROOT,
-    edge_repo_root: Path = EDGE_REPO_ROOT,
+    script_path: Path | None = None,
+    repo_root: Path | None = None,
+    edge_repo_root: Path | None = None,
 ) -> str:
+    repo_root = repo_root or REPO_ROOT
+    edge_repo_root = edge_repo_root or EDGE_REPO_ROOT
+    script_path = script_path or (PUBLISH_SCRIPT if repo_root == REPO_ROOT else repo_root / "scripts" / "publish_public_site.sh")
     script = script_path.read_text()
     if REPO_ROOT_LINE not in script:
         raise RuntimeError(f"Publish script missing expected repo-root line: {REPO_ROOT_LINE}")
@@ -170,11 +175,33 @@ def collect_blocking_changes(repo_root: Path = REPO_ROOT) -> list[str]:
     return blocking_paths_from_porcelain(status)
 
 
-def add_temp_worktree(repo_root: Path = REPO_ROOT) -> Path:
+def fetch_publish_ref(repo_root: Path = REPO_ROOT, remote_name: str = DEFAULT_REMOTE, branch_name: str = DEFAULT_BRANCH) -> str:
+    remote_ref = f"{remote_name}/{branch_name}"
+    try:
+        run_git(["fetch", remote_name, branch_name], repo_root=repo_root, env=git_env())
+        run_git(["rev-parse", "--verify", remote_ref], repo_root=repo_root)
+    except subprocess.CalledProcessError as exc:
+        log(f"Could not refresh {remote_ref}; falling back to local HEAD: {exc}")
+        return "HEAD"
+    return remote_ref
+
+
+def local_head_differs_from_ref(ref: str, repo_root: Path = REPO_ROOT) -> bool:
+    if ref == "HEAD":
+        return False
+    try:
+        head = run_git(["rev-parse", "HEAD"], repo_root=repo_root).stdout.strip()
+        target = run_git(["rev-parse", ref], repo_root=repo_root).stdout.strip()
+    except subprocess.CalledProcessError:
+        return False
+    return head != target
+
+
+def add_temp_worktree(repo_root: Path = REPO_ROOT, ref: str = "HEAD") -> Path:
     TEMP_WORKTREE_ROOT.mkdir(parents=True, exist_ok=True)
     worktree = Path(tempfile.mkdtemp(prefix="run-", dir=TEMP_WORKTREE_ROOT))
     worktree.rmdir()
-    run_git(["worktree", "add", "--detach", str(worktree), "HEAD"], repo_root=repo_root)
+    run_git(["worktree", "add", "--detach", str(worktree), ref], repo_root=repo_root)
     return worktree
 
 
@@ -203,18 +230,20 @@ def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
         return 0
 
     blocking = collect_blocking_changes()
+    publish_ref = fetch_publish_ref()
     publish_root = REPO_ROOT
     temp_worktree: Path | None = None
-    if blocking:
-        log("Local non-generated changes detected; publishing from a clean temporary worktree.")
+    if blocking or local_head_differs_from_ref(publish_ref):
+        log(f"Publishing from clean temporary worktree at {publish_ref}.")
         for path in blocking:
             log(f"Blocking local path preserved outside publish: {path}")
-        temp_worktree = add_temp_worktree()
+        temp_worktree = add_temp_worktree(ref=publish_ref)
         publish_root = temp_worktree
 
     script = prepare_publish_script(repo_root=publish_root)
     env = os.environ.copy()
     env.setdefault("PATH", "/usr/bin:/bin:/usr/sbin:/sbin")
+    env.setdefault("EPI_DOSSIER_SKIP_UMBRELLA_PUBLISH", "1")
     env["EPI_DOSSIER_LOCAL_REPO_ROOT"] = str(REPO_ROOT)
     env["EPI_DOSSIER_EDGE_REPO_ROOT"] = str(EDGE_REPO_ROOT)
     env["EPI_DOSSIER_PYTHON_BIN"] = str(PYTHON_BIN)

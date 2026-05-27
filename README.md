@@ -233,7 +233,7 @@ The project now treats local and public output as parallel surfaces from the sam
 - `scripts/publish_public_site.sh` is the guarded public publish path; it rebuilds the site, refuses to auto-publish if non-generated repo files are dirty, and pushes only generated `docs/` changes
 - `src/public_publish.py` is the automation-safe wrapper around that script; it pins the repo path, clears old empty publish locks, publishes from a clean temporary worktree when the local checkout has non-generated edits, uses checked-out Git credentials when no local SSH key exists, and terminates stuck runs after the configured timeout
 - `.github/workflows/newsdesk-public-publish.yml` is the primary cloud scheduler; it runs hourly from GitHub Actions so the public Newsdesk does not depend on the laptop being awake
-- `src/public_publish_watchdog.py` checks the live public manifest every 15 minutes and invokes the wrapper if the site is stale or unreachable
+- `src/public_publish_watchdog.py` checks the canonical live project manifest every 10 minutes and invokes the wrapper if the site is stale or unreachable
 - public pages poll `docs/app_exports/manifest.json` and show a refresh prompt when a newer run has landed while a reader is still on the page
 
 ## Scheduling
@@ -251,7 +251,7 @@ Purpose:
 - runs from GitHub Actions, not the local Mac
 - publishes twice per hour at minutes `:17` and `:47` UTC and can also be started manually with `workflow_dispatch`
 - sets the Actions job timezone to `America/Los_Angeles`, so generated Newsdesk timestamps use the same wall clock as the local Mac automation
-- checks the live public manifest at `:05`, `:20`, `:35`, and `:50` UTC and repairs the publish if the site is more than 55 minutes stale or unreachable
+- checks the canonical `https://dteichrow.github.io/epi-dossier/app_exports/manifest.json` manifest at `:05`, `:15`, `:25`, `:35`, `:45`, and `:55` and repairs the publish if the site is more than 45 minutes stale or unreachable
 - on each watchdog check, runs the same 7-day source intake window and publishes immediately if any current candidate article is absent from the live `latest.json` feed
 - also publishes after pushes to pipeline code, config, data, graphics, requirements, or this workflow file
 - creates a fresh virtualenv for `epi-dossier`
@@ -344,8 +344,9 @@ Repo file:
 Purpose:
 
 - runs `python src/public_publish_watchdog.py`
-- checks the live public manifest at `:05`, `:20`, `:35`, and `:50`
-- invokes the guarded public publisher if the live site is older than 90 minutes or the manifest cannot be fetched
+- checks the canonical `https://dteichrow.github.io/epi-dossier/app_exports/manifest.json` manifest at `:05`, `:15`, `:25`, `:35`, `:45`, and `:55`
+- invokes the guarded public publisher if the canonical live site is older than 45 minutes or the manifest cannot be fetched
+- skips the old umbrella mirror during local repair because `/newsdesk/` now redirects to the canonical `/epi-dossier/` surface
 
 ## GitHub Pages
 
