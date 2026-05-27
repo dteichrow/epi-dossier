@@ -1445,6 +1445,7 @@ def render_global_site_nav() -> str:
         '<p class="site-nav-note">Unified desk navigation</p>'
         '</div>'
         '<nav class="site-nav-links" aria-label="Site navigation">'
+        '<a class="site-nav-link" href="/">Edge home</a>'
         '<a class="site-nav-link active" href="#view-briefing">Latest briefing</a>'
         '<a class="site-nav-link" href="#view-tracking">Global watch</a>'
         '<a class="site-nav-link" href="#view-reference">Research + reference</a>'

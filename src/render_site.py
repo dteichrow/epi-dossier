@@ -2480,6 +2480,7 @@ def render_site_header(base_path: str) -> str:
 def render_site_header_mode(base_path: str, *, nav_mode: str, active_page: str) -> str:
     if nav_mode == "web":
         nav_items = [
+            ("edge_home", "Edge home", "/"),
             ("home", "Home", f"{base_path}index.html"),
             ("notebook", "Notebook", f"{base_path}notebook.html"),
             ("atlas", "Atlas", f"{base_path}atlas.html"),
@@ -2494,6 +2495,7 @@ def render_site_header_mode(base_path: str, *, nav_mode: str, active_page: str) 
         title = "Source-first newsroom desks"
     else:
         nav_items = [
+            ("edge_home", "Edge home", "/"),
             ("briefing", "Latest briefing", f"{base_path}latest.html#view-briefing"),
             ("tracking", "Global watch", f"{base_path}latest.html#view-tracking"),
             ("atlas", "Atlas", f"{base_path}atlas.html"),

@@ -467,6 +467,7 @@ def test_render_public_homepage_includes_live_update_banner():
     reference_records = [{"name": "Measles", "reference_web_path": "reference/measles.html", "pathogen": "Measles virus", "why_reporters_care": "High transmissibility exposes immunity gaps.", "spotlight": True}]
 
     content = render_public_homepage(latest_snapshot, archive_entries, reference_records)
+    assert '<a class="site-nav-link" href="/">Edge home</a>' in content
     assert 'id="live-update-banner"' in content
     assert "./app_exports/manifest.json" in content
     assert "Load latest" in content

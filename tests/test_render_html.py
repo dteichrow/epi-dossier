@@ -176,6 +176,7 @@ def test_render_html_contains_core_sections_and_links():
     assert "The Pathogen Dispatch" in content
     assert "The Pathogen Dispatch by The Edge of Epidemiology" in content
     assert "Unified desk navigation" in content
+    assert '<a class="site-nav-link" href="/">Edge home</a>' in content
     assert "Latest briefing" in content
     assert "Site index" in content
     assert "Reader sections" in content
