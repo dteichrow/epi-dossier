@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-27
-Generated at: 2026-05-27T01:50
+Generated at: 2026-05-27T01:53
 Search window: 7 day(s) ending 2026-05-27
 
 ## Executive scan
@@ -12,27 +12,29 @@ Search window: 7 day(s) ending 2026-05-27
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (257), Policy, surveillance, and public health infrastructure (24), Occupational and environmental epidemiology (1)
-- Source health: 4 source(s) failed during collection: WHO Disease Outbreak News, Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (265), Policy, surveillance, and public health infrastructure (24)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 249 item(s) across 152 source(s).
-- Baseline snapshot created with 249 clustered item(s) across 152 source(s).
+- Newly tracked story cluster: 256 item(s) across 157 source(s).
+- Baseline snapshot created with 256 clustered item(s) across 157 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
+- Devdiscourse now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
-- Newly tracked story cluster: 28 item(s) across 18 source(s).
-- Baseline snapshot created with 28 clustered item(s) across 18 source(s).
+- Newly tracked story cluster: 28 item(s) across 19 source(s).
+- Baseline snapshot created with 28 clustered item(s) across 19 source(s).
 - CNN now includes evacuation reporting.
+- NPR now includes quarantine language.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 249 item(s) across 152 source(s); 6 official/primary-source item(s).
+- Topic size: 256 item(s) across 157 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -40,7 +42,7 @@ Search window: 7 day(s) ending 2026-05-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 28 item(s) across 18 source(s); 1 official/primary-source item(s).
+- Topic size: 28 item(s) across 19 source(s); 1 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News, 2026-05-26T17:56+02:00)
 - Detailed note: ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.
 - Evidence notes: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-cases-cruise-outbreak-rise-13-following-new-case-spain-who-says-2026-05-27/) (Reuters); [Spanish government confirms new case of hantavirus](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1FfajRsN3h3aTNjQUdNb3lrbGUzdEFUWXB1TE56dnNmb2V4ZjFKdEk2RVJsOGpHR2gtQXRRM1BMSk1oWDY1SDlfNXNBd0hLekdyLUhFeV82S2ZRd2J0WkQtV01jM1NiYmRtQVFsVFhReGoxODFTOUZZRGtIU3RUQ3FsSElPWGIzby1PeEFpU0tmMzBkaS0yVHZ4NGlYaFFaY0I0?oc=5) (NBC News); [Spanish citizen evacuated from hantavirus-hit cruise ship tests positive](https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5) (CNN); [Spanish national evacuated from hantavirus cruise ship tests positive](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdG5aWm9aVUVPU1loQ0xlQnhZUHV4VmlmdzJ4bGtETVlRSUVELW9EUlE1T0tIX185QldQOHRneUNzZXB1cWxRazUxcmhZZlF2My1jMGpRSG5VODluNmxUU3luMUJCLVI4bGtfQXNaN0N5TjdicHRUcG1YT1R0VWc5c25vZDBiU0k2RlVCSHFvZkhYZGtiRFF4b3VEQTVndmtEYkRPeDZUekFpWWluRWJEN2dTcmRyZ3lpbFFiLUU0ekdTdU1YcjRiUm9Qb2NPOHBmQkE?oc=5) (Reuters)
@@ -55,12 +57,12 @@ Search window: 7 day(s) ending 2026-05-27
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Occupational and environmental epidemiology
+### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola Ward in Congo Burns After Residents Turn Against Medics](https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html) (The New York Times, 2026-05-23T00:12+00:00)
 - Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Ebola Ward in Congo Burns After Residents Turn Against Medics](https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html) (The New York Times)
-- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Diphtheria
@@ -380,20 +382,20 @@ Search window: 7 day(s) ending 2026-05-27
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### South Sudan Health Cluster Operational Update on Ebola (EVD) preparedness as of 25 May 2026
-- Source: ReliefWeb
-- Date: 2026-05-27T07:48+00:00
-- URL: https://reliefweb.int/report/south-sudan/south-sudan-health-cluster-operational-update-ebola-evd-preparedness-25-may-2026
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 ### Samaritan's Purse Launches New Ebola Treatment Center in Congo
 - Source: Devdiscourse
 - Date: 2026-05-27T07:32+00:00
 - URL: https://www.devdiscourse.com/article/health/3923177-samaritans-purse-launches-new-ebola-treatment-center-in-congo
+- Category: Outbreaks and emerging infections
+- Summary: This announcement comes in response to the recent outbreak in the region, which the World Health Organization has labeled a public health emergency of international concern due to its lack of approved vaccines or treatments. Graham noted the complexity of logistics, equating the setup to building a small town, as they prepare to provide crucial healthcare support during the outbreak. Franklin Graham, President of Samaritan's Purse, detailed their efforts in securing better access to resources and ensuring the safety of medics amidst security challenges and violent protests in the region.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says
+- Source: Reuters
+- Date: 2026-05-27T07:20+00:00
+- URL: https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-cases-cruise-outbreak-rise-13-following-new-case-spain-who-says-2026-05-27/
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
@@ -402,8 +404,6 @@ Search window: 7 day(s) ending 2026-05-27
 
 
 ## Other notable readings
-- [Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-cases-cruise-outbreak-rise-13-following-new-case-spain-who-says-2026-05-27/) | Reuters | 2026-05-27T07:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [IRC warns Ebola outbreak could become 'deadliest on record'](https://www.euronews.com/health/2026/05/27/international-rescue-committee-warns-ebola-outbreak-could-become-deadliest-on-record) | Euronews.com | 2026-05-27T06:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola scare: Bengaluru woman arriving from Uganda quarantined, govt on alert; what we know so far](https://timesofindia.indiatimes.com/india/ebola-scare-bengaluru-woman-arriving-from-uganda-quarantined-govt-on-alert-what-we-know-so-far/articleshow/131340936.cms) | The Times of India | 2026-05-27T04:12+00:00 | Outbreaks and emerging infections
@@ -437,6 +437,8 @@ Search window: 7 day(s) ending 2026-05-27
 - [A look at the latest with the Ebola outbreak and challenges with healthcare in DR Congo](https://www.cbsnews.com/losangeles/video/a-look-at-the-latest-with-the-ebola-outbreak-and-challenges-with-healthcare-in-dr-congo/) | CBS News | 2026-05-26T18:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [‘We’re running out of time,’ says health expert on Ebola outbreak](https://www.cnn.com/2026/05/26/tv/video/ebola-nahid-bhadelia-heather-kerr-amanpour) | CNN | 2026-05-26T17:46+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Canada will require self-isolation for people traveling from Congo, Sudan and Uganda due to Ebola](https://www.kget.com/health/ap-canada-will-require-self-isolation-for-travelers-from-ebola-affected-countries/amp/) | KGET.com | 2026-05-26T17:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Growing concerns around the world about Ebola outbreak in Central Africa](https://www.whas11.com/video/news/nation-world/growing-concerns-around-the-world-about-ebola-outbreak-in-central-africa/417-1b35c88e-8556-4eb1-90ed-46e6d6bb57c6) | WHAS11 | 2026-05-26T16:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
