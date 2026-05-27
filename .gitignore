@@ -6,6 +6,7 @@ __pycache__/
 
 # Local caches and machine state
 /data/*.sqlite
+/data/public_publish_watchdog_state.json
 /data/http_cache/
 /data/source_items/
 /logs/*.log

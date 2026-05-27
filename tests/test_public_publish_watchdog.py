@@ -67,8 +67,9 @@ def test_find_new_candidate_items_matches_live_item_id_when_url_is_missing():
     assert new_items == []
 
 
-def test_main_publishes_when_fresh_manifest_has_new_candidate(monkeypatch):
+def test_main_publishes_when_fresh_manifest_has_new_candidate(monkeypatch, tmp_path):
     calls = []
+    monkeypatch.setattr(public_publish_watchdog, "WATCHDOG_STATE_PATH", tmp_path / "watchdog-state.json")
     monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda url, timeout_seconds: {"generated_at": "fresh"})
     monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 10)
     monkeypatch.setattr(public_publish_watchdog, "fetch_live_latest", lambda timeout_seconds: {"items": []})
@@ -81,6 +82,47 @@ def test_main_publishes_when_fresh_manifest_has_new_candidate(monkeypatch):
 
     assert public_publish_watchdog.main([]) == 0
     assert calls == ["publish"]
+
+
+def test_main_does_not_republish_same_new_candidate_identity(monkeypatch, tmp_path):
+    calls = []
+    state_path = tmp_path / "watchdog-state.json"
+    monkeypatch.setattr(public_publish_watchdog, "WATCHDOG_STATE_PATH", state_path)
+    monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda url, timeout_seconds: {"generated_at": "fresh"})
+    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 10)
+    monkeypatch.setattr(public_publish_watchdog, "fetch_live_latest", lambda timeout_seconds: {"items": []})
+    monkeypatch.setattr(
+        public_publish_watchdog,
+        "run_candidate_search",
+        lambda window_days: [SimpleNamespace(canonical_url="https://example.com/new", title="New", source="Example")],
+    )
+    monkeypatch.setattr(public_publish_watchdog, "run_public_publish", lambda: calls.append("publish") or 0)
+
+    assert public_publish_watchdog.main([]) == 0
+    assert public_publish_watchdog.main([]) == 0
+    assert calls == ["publish"]
+
+
+def test_main_publishes_when_new_candidate_identity_appears(monkeypatch, tmp_path):
+    calls = []
+    state_path = tmp_path / "watchdog-state.json"
+    monkeypatch.setattr(public_publish_watchdog, "WATCHDOG_STATE_PATH", state_path)
+    monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda url, timeout_seconds: {"generated_at": "fresh"})
+    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 10)
+    monkeypatch.setattr(public_publish_watchdog, "fetch_live_latest", lambda timeout_seconds: {"items": []})
+    candidate_batches = [
+        [SimpleNamespace(canonical_url="https://example.com/new", title="New", source="Example")],
+        [
+            SimpleNamespace(canonical_url="https://example.com/new", title="New", source="Example"),
+            SimpleNamespace(canonical_url="https://example.com/newer", title="Newer", source="Example"),
+        ],
+    ]
+    monkeypatch.setattr(public_publish_watchdog, "run_candidate_search", lambda window_days: candidate_batches.pop(0))
+    monkeypatch.setattr(public_publish_watchdog, "run_public_publish", lambda: calls.append("publish") or 0)
+
+    assert public_publish_watchdog.main([]) == 0
+    assert public_publish_watchdog.main([]) == 0
+    assert calls == ["publish", "publish"]
 
 
 def test_main_does_not_publish_when_fresh_manifest_has_no_new_candidates(monkeypatch):

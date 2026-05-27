@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import subprocess
@@ -18,6 +19,7 @@ PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
 PUBLIC_PUBLISH = REPO_ROOT / "src/public_publish.py"
 PUBLIC_MANIFEST_URL = "https://dteichrow.github.io/epi-dossier/app_exports/manifest.json"
 PUBLIC_LATEST_URL = "https://dteichrow.github.io/epi-dossier/app_exports/latest.json"
+WATCHDOG_STATE_PATH = REPO_ROOT / "data" / "public_publish_watchdog_state.json"
 DEFAULT_STALE_MINUTES = 45
 DEFAULT_TIMEOUT_SECONDS = 15
 DEFAULT_SEARCH_WINDOW_DAYS = 7
@@ -129,6 +131,82 @@ def find_new_candidate_items(candidates: list[Any], live_snapshot: dict[str, Any
     return new_items
 
 
+def candidate_items_signature(items: list[Any]) -> str:
+    identities: set[str] = set()
+    for item in items:
+        identities.update(candidate_item_identities(item))
+    payload = json.dumps(sorted(identities), separators=(",", ":"))
+    return hashlib.sha256(payload.encode("utf-8")).hexdigest()
+
+
+def candidate_items_identity_set(items: list[Any]) -> set[str]:
+    identities: set[str] = set()
+    for item in items:
+        identities.update(candidate_item_identities(item))
+    return identities
+
+
+def load_watchdog_state(state_path: Path | None = None) -> dict[str, Any]:
+    state_path = state_path or WATCHDOG_STATE_PATH
+    try:
+        raw = state_path.read_text()
+    except FileNotFoundError:
+        return {}
+    try:
+        state = json.loads(raw)
+    except json.JSONDecodeError:
+        log(f"Ignoring invalid watchdog state file: {state_path}")
+        return {}
+    return state if isinstance(state, dict) else {}
+
+
+def write_watchdog_state(state: dict[str, Any], state_path: Path | None = None) -> None:
+    state_path = state_path or WATCHDOG_STATE_PATH
+    state_path.parent.mkdir(parents=True, exist_ok=True)
+    state_path.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
+
+
+def attempted_candidate_identities(state_path: Path | None = None) -> set[str]:
+    state = load_watchdog_state(state_path)
+    values = state.get("attempted_new_item_identities", [])
+    if not isinstance(values, list):
+        return set()
+    return {str(value) for value in values if str(value).strip()}
+
+
+def filter_unattempted_candidate_items(items: list[Any], state_path: Path | None = None) -> list[Any]:
+    attempted = attempted_candidate_identities(state_path)
+    unattempted = []
+    for item in items:
+        identities = candidate_item_identities(item)
+        if identities and identities.isdisjoint(attempted):
+            unattempted.append(item)
+    return unattempted
+
+
+def record_candidate_publish_attempt(
+    *,
+    items: list[Any],
+    manifest: dict[str, Any],
+    state_path: Path | None = None,
+) -> None:
+    state = load_watchdog_state(state_path)
+    identities = candidate_items_identity_set(items)
+    attempted = attempted_candidate_identities(state_path)
+    attempted.update(identities)
+    state.update(
+        {
+            "attempted_new_item_identities": sorted(attempted),
+            "last_new_item_signature": candidate_items_signature(items),
+            "last_new_item_count": len(items),
+            "last_manifest_generated_at": manifest.get("generated_at", ""),
+            "last_manifest_run_id": manifest.get("latest_run_id", ""),
+            "last_attempted_at": datetime.now().astimezone().isoformat(timespec="seconds"),
+        }
+    )
+    write_watchdog_state(state, state_path)
+
+
 def fetch_live_latest(timeout_seconds: int = DEFAULT_TIMEOUT_SECONDS) -> dict[str, Any]:
     return fetch_json(PUBLIC_LATEST_URL, timeout_seconds=timeout_seconds)
 
@@ -204,9 +282,19 @@ def main(argv: list[str] | None = None) -> int:
             f"found {len(new_items)} not present in the live feed."
         )
         if new_items:
-            for item in new_items[:5]:
+            unattempted_items = filter_unattempted_candidate_items(new_items)
+            if not unattempted_items:
+                log(
+                    "New-item watchdog is only seeing candidates it already published for; "
+                    "skipping repeat publish until at least one new candidate identity appears."
+                )
+                return 0
+            for item in unattempted_items[:5]:
                 log(f"New candidate: {summarize_candidate(item)}")
-            return run_public_publish()
+            result = run_public_publish()
+            if result == 0:
+                record_candidate_publish_attempt(items=new_items, manifest=manifest)
+            return result
 
     return 0
 
