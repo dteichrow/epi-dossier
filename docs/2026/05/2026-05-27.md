@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-27
-Generated at: 2026-05-27T08:12
+Generated at: 2026-05-27T08:17
 Search window: 7 day(s) ending 2026-05-27
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-27
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (260), Policy, surveillance, and public health infrastructure (30)
+- Category mix: Outbreaks and emerging infections (259), Policy, surveillance, and public health infrastructure (29)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 257 item(s) across 164 source(s).
-- Baseline snapshot created with 257 clustered item(s) across 164 source(s).
+- Newly tracked story cluster: 257 item(s) across 162 source(s).
+- Baseline snapshot created with 257 clustered item(s) across 162 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-05-27
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 257 item(s) across 164 source(s); 6 official/primary-source item(s).
+- Topic size: 257 item(s) across 162 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -55,28 +55,28 @@ Search window: 7 day(s) ending 2026-05-27
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Strengthening disease outbreak preparedness through partnership on joint scenario training](https://www.ecdc.europa.eu/en/news-events/strengthening-disease-outbreak-preparedness-through-partnership-joint-scenario-training) (ECDC News, 2026-05-25T13:23+02:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Strengthening disease outbreak preparedness through partnership on joint scenario training](https://www.ecdc.europa.eu/en/news-events/strengthening-disease-outbreak-preparedness-through-partnership-joint-scenario-training) (ECDC News); [Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers](https://wtop.com/world/2026/05/ugandans-rue-link-to-bundibugyo-the-ebola-virus-type-named-after-a-district-of-cocoa-farmers/) (WTOP)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Malaria
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Malaria outbreak worsens in Yemen as rainy season arrives](https://www.bastillepost.com/global/article/5886538-malaria-outbreak-worsens-in-yemen-as-rainy-season-arrives) (巴士的報, 2026-05-27T09:00+00:00)
-- Detailed note: According to the World Health Organization, about 24 million Yemenis -- nearly 64 percent of the population -- live in areas at high risk of malaria transmission. "At Al-Jomhouri Hospital's emergency department, we receive many fever cases every day.
-- Evidence notes: [Malaria outbreak worsens in Yemen as rainy season arrives](https://www.bastillepost.com/global/article/5886538-malaria-outbreak-worsens-in-yemen-as-rainy-season-arrives) (巴士的報)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
 ### Measles transmission and vaccination
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC, 2026-05-27T01:34+00:00)
 - Detailed note: "Don't stress," he says the health care worker told them, "the vaccine can be administered up until she reaches 5." The third and fourth time, he says, they were told the vaccine was unavailable. On 8 March Al Amin took Akira to hospital, suffering with what he thought was a normal fever.
 - Evidence notes: [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
+### Diphtheria
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) (The Guardian, 2026-05-23T00:00+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities](https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb) (The Guardian)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
+### Historical epidemiology and ancient pathogens
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Caribbean countries monitor for Ebola as The Bahamas isolates two passengers](https://www.caribbeanlife.com/caribbean-monitor-ebola-the-bahamas-isolates/) (caribbeanlife.com, 2026-05-26T18:55+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Caribbean countries monitor for Ebola as The Bahamas isolates two passengers](https://www.caribbeanlife.com/caribbean-monitor-ebola-the-bahamas-isolates/) (caribbeanlife.com)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -418,8 +418,8 @@ Search window: 7 day(s) ending 2026-05-27
   Limited detail was available from feed metadata alone.
 - [10 million face hunger amid Ebola outbreak in DR Congo](https://www.turkiyetoday.com/lifestyle/10-million-face-hunger-amid-ebola-outbreak-in-dr-congo-3220769) | Türkiye Today | 2026-05-27T10:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Malaria outbreak worsens in Yemen as rainy season arrives](https://www.bastillepost.com/global/article/5886538-malaria-outbreak-worsens-in-yemen-as-rainy-season-arrives) | 巴士的報 | 2026-05-27T09:00+00:00 | Outbreaks and emerging infections
-  According to the World Health Organization, about 24 million Yemenis -- nearly 64 percent of the population -- live in areas at high risk of malaria transmission. "At Al-Jomhouri Hospital's emergency department, we receive many fever cases every day. Since the beginning of this year, we have been receiving many malaria cases.
+- [South Sudan Health Cluster Operational Update on Ebola (EVD) preparedness as of 25 May 2026](https://reliefweb.int/report/south-sudan/south-sudan-health-cluster-operational-update-ebola-evd-preparedness-25-may-2026) | ReliefWeb | 2026-05-27T07:48+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Samaritan's Purse Launches New Ebola Treatment Center in Congo](https://www.devdiscourse.com/article/health/3923177-samaritans-purse-launches-new-ebola-treatment-center-in-congo) | Devdiscourse | 2026-05-27T07:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-cases-cruise-outbreak-rise-13-following-new-case-spain-who-says-2026-05-27/) | Reuters | 2026-05-27T07:20+00:00 | Outbreaks and emerging infections
