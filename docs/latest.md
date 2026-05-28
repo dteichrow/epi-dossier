@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-28
-Generated at: 2026-05-28T09:09
+Generated at: 2026-05-28T09:17
 Search window: 7 day(s) ending 2026-05-28
 
 ## Executive scan
@@ -11,15 +11,15 @@ Search window: 7 day(s) ending 2026-05-28
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [WHO chief calls for ceasefire amid DR Congo Ebola outbreak](https://news.un.org/en/story/2026/05/1167594) (UN News; 2026-05-28T16:01+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (245), Policy, surveillance, and public health infrastructure (29), Virology and pathogen evolution (1)
+- [Hantavirus outbreak stable at 13 cases: WHO](https://www.newsnationnow.com/health/hantavirus-outbreak-stable-13-cases/) (NewsNation; 2026-05-28T15:39+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (241), Policy, surveillance, and public health infrastructure (29), Virology and pathogen evolution (1)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 247 item(s) across 147 source(s).
-- Baseline snapshot created with 247 clustered item(s) across 147 source(s).
+- Newly tracked story cluster: 243 item(s) across 148 source(s).
+- Baseline snapshot created with 243 clustered item(s) across 148 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -40,7 +40,7 @@ Search window: 7 day(s) ending 2026-05-28
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 247 item(s) across 147 source(s); 5 official/primary-source item(s).
+- Topic size: 243 item(s) across 148 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -386,16 +386,6 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### WHO chief calls for ceasefire amid DR Congo Ebola outbreak
-- Source: UN News
-- Date: 2026-05-28T16:01+00:00
-- URL: https://news.un.org/en/story/2026/05/1167594
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 ### Hantavirus outbreak stable at 13 cases: WHO
 - Source: NewsNation
 - Date: 2026-05-28T15:39+00:00
@@ -416,12 +406,18 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Over 240 killed in Ebola outbreak as officials work to stop the spread
+- Source: CBS News
+- Date: 2026-05-28T14:20+00:00
+- URL: https://www.cbsnews.com/chicago/video/over-240-killed-in-ebola-outbreak-as-officials-work-to-stop-the-spread/
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Over 240 killed in Ebola outbreak as officials work to stop the spread](https://www.cbsnews.com/chicago/video/over-240-killed-in-ebola-outbreak-as-officials-work-to-stop-the-spread/) | CBS News | 2026-05-28T14:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [U.S. setting up Ebola quarantine facility in Kenya, officials say](https://www.cbsnews.com/news/us-ebola-quarantine-facility-kenya/) | CBS News | 2026-05-28T14:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Aid supplies reach heart of Congo's Ebola outbreak as WHO head travels to Kinshasa - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/aid-supplies-reach-heart-congos-ebola-outbreak-head-133381820) | ABC News - Breaking News, Latest News and Videos | 2026-05-28T14:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO chief heads to Congo as Ebola outbreak strains response](https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-heads-congo-ebola-outbreak-strains-response-2026-05-28/) | Reuters | 2026-05-28T13:39+00:00 | Outbreaks and emerging infections
@@ -456,7 +452,11 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [Evacuated U.S. Doctor Describes Fear and Frustration Amid Congo Ebola Outbreak](https://www.unmc.edu/healthsecurity/transmission/2026/05/27/evacuated-u-s-doctor-describes-fear-and-frustration-amid-congo-ebola-outbreak/) | University of Nebraska Medical Center | 2026-05-27T21:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [White House says Americans in Africa exposed to Ebola will be sent to Kenya facility as Rubio says no cases will be allowed into US - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUtKaFNIQWNhdzI3T2IzMW9kOUctUDNLNHdVMDhwclQ1VjhoTlppaWJHUkZnOGdSYjBpUXFVZ1EzSUIwV1ZNZ2ZwZXBqdjR5elRYamQ5eGt5TV94U1hZa2pabGp6WkhHbjlqelBMTENWOHBZRDZwS3g1eWd2eWFPcVUyNEhQdl9NaENGaHhWbFl6Q2hQZDFPVzhZWWduRnh2cWFXNjBR0gGrAUFVX3lxTE1GU05jcnFranVsTTVlQmpnSUg1MUczNmJNSW92NU95a2YtbllyaGNXN285T0h4X1kyUkJMVEVRYlRhX0FRQ3dKVHFzOHFMOUxJMjhqVmFMU0dPamktUkEtczRFQnJEbEIzM0xrbFh6bmV6RnkzNGYtd2xpVjNhbjl4SWxkRmZGYmcxOWdnQ0ljaVl6VklYY0QydDNZa1Y5c3dXb3RwVzhjY2cyTQ?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-05-27T21:23+00:00 | Outbreaks and emerging infections
+- [White House says Americans in Africa exposed to Ebola will be sent to Kenya facility as Rubio says no cases will be allowed into US - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/white-house-americans-africa-exposed-ebola-kenya-facility/story?id\=133342755) | ABC News - Breaking News, Latest News and Videos | 2026-05-27T21:23+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ongoing conflict in Central Africa hinders response to ebola outbreak](https://www.13newsnow.com/video/news/health/ongoing-conflict-in-central-africa-hinders-response-to-ebola-outbreak/291-93de5f2d-17f5-44a1-bc82-8bed412ce0d7) | 13newsnow.com | 2026-05-27T20:45+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola cases near 1,000 as world scrambles to contain outbreak](https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3dqUWplUFFGU0p6YlFvTlZySENzNHhCRk5EaGt1YTRxUkl2elI4QkN6WTU2Q0JiQmxmRVZvdE1QdngxTEZ2N0JNUzJEWm03OHBMQTlJSEI4WmlQSVV0WTlPYW1rSGFjUTdKMGxVUXhtcDZ5SG1hX2p4MXdaMXpJTUxvUnVVcHlta29MSFV0WFg?oc=5) | CIDRAP | 2026-05-27T20:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
