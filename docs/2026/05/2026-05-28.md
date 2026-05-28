@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-28
-Generated at: 2026-05-28T11:40
+Generated at: 2026-05-28T11:50
 Search window: 7 day(s) ending 2026-05-28
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-05-28
 - [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-26T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (252), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (252), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-05-28
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 26 item(s) across 24 source(s).
-- Baseline snapshot created with 26 clustered item(s) across 24 source(s).
+- Newly tracked story cluster: 25 item(s) across 23 source(s).
+- Baseline snapshot created with 25 clustered item(s) across 23 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
@@ -49,7 +49,7 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 26 item(s) across 24 source(s); 3 official/primary-source item(s).
+- Topic size: 25 item(s) across 23 source(s); 3 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Administration-site pain (29.0%-39.0% of participants) and systemic drowsiness (9.0%-15.9%) were the most common solicited AEs. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
 - Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC); [Tragic measles outbreak claims over 500 children's lives in Bangladesh](https://iol.co.za/lifestyle/health/2026-05-25-tragic-measles-outbreak-claims-over-500-childrens-lives-in-bangladesh/) (IOL)
@@ -443,8 +443,6 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [WHO chief urges DR Congo ceasefire to help tackle Ebola outbreak](https://www.independent.co.uk/news/world/africa/ebola-outbreak-cases-congo-ceasefire-who-b2985133.html) | The Independent | 2026-05-28T12:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Letters: U.S. played a part in Ebola outbreak in Congo, Uganda](https://www.sfchronicle.com/opinion/letterstotheeditor/article/ebola-congo-africa-disease-22279437.php) | San Francisco Chronicle | 2026-05-28T11:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak: Suspected cases exceed 1,000](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW5Rd1Y4ZEVxd0VCUHdrSGF6Rk0xa19LNWU4U2hiSV9uWWwycVJsYmdITlU2akt4dm93NXRGREZRUlVsTHBsU0V0ZFJ6RFlrVlNvWDNVckltWHgtWFpoU0FDcG40YktaRlN5QXZ6M1JpenBpQ1Bhc2ZzaFEtM0xWem02c3J0WW81M1hmVGNjQlR0LUhE?oc=5) | Yeni Safak English | 2026-05-28T09:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak is spiraling, with health workers struggling to contain the virus](https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmwwakMweWdUZjVYdktkQzNsbDFpeVQ3WFd5aUxNNGEtMUR5YW9DdHlvcmdsYlVybVNrZXlVcW9iSzNvRHJBc1VXRjdyeTB3Ukt2ZTg1dEJKenBBRlRUdWNodzZrOGdHQTk5Y1NJMjdNVGM?oc=5) | NPR | 2026-05-28T08:47+00:00 | Outbreaks and emerging infections
@@ -458,6 +456,8 @@ Search window: 7 day(s) ending 2026-05-28
 - [Experts endorse unified plan to tackle Ebola outbreak - China Daily](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWR2d19DUHhvTElJVklkNnZRV3RGdDl5ODBoQ3NOYk5VYld4b0NwQlhFdzluWFFQSkVpcFpXNmhHYjRUazdtaU9EcFBodnY0QzB0c1VMN05rQTBQNmxuM2pMcElaSEFIS3QtdlozQkpXRFlXVGRuR09vRVFfejdaV3Z3?oc=5) | China Daily - Global Edition | 2026-05-28T03:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video Ebola outbreak in central Africa has killed over 200 people. Should the US worry? - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3ak1fZk9jMTRyUFlTN0c2ZEpUSmRLN1hKZkhTbTdjN2R6ekZ0QkFtRGl3bzF0TnliYldFMnUzV3BmV0FMakRMc1dWWnE?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-05-28T02:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Video Doctor in Congo says Ebola outbreak is ‘completely out of control’ - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkUHZOY3dqNXh4WGxnV19vRS0xTDZHLUltZEw1dEt0RGlzY21PTkdramVSWWZlYkxRTWxDUng1NHhxNVlqYmRBMjljbFc?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-05-28T02:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -482,6 +482,8 @@ Search window: 7 day(s) ending 2026-05-28
 
 ## Historical epi / weird epi corner
 - [Dr Congo adapts burials amid Ebola outbreak](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ua3VnZ0pFb3ZIa3NSMTZJcExvMmd2dEdsQjVGWDBUU1R3d1JTNEdGeUt5N1ZzZkpmWHpBUGhKdUtnb2Y2YVV2c0ZURmRiX2lhekJGNTQ3Wlo2TWRLbjJrenFITkhkWFludDgyekVXMnZnMnhVQTJta2prNA?oc=5) | France 24
+  Limited detail was available from feed metadata alone.
+- [Licensable video: More Ebola victims die at home as Congo burial teams adapt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMkthVThGYWJ1a2xvU3Q3M3dLREpUb0lqc2pBXzNKYnQ0WG5pQTRJMTRWVkVHdzliZHlxellCZjk5TWlnaVFKLXBsZVJyeWMxYWwzb0g5VmtnREFvSlVFS1l0cFBQS3cyZVd5WHE3V3ViVGZZa0VhN21KZkRfMTFtc2hzTk02bkVwbmI0ZXd5bGJlc09uOVJNQ2hHM255TjZ4YjhUWlhTWlhfZ0RHdmg2ZlZoNnN5Ri1iTjJaaGF5ekc2V3g4QlhONDc4TVBSdlJBelZUWUl6ejVINXhvQi1hLUJuY2t1Mmk3VUdR?oc=5) | Reuters Connect
   Limited detail was available from feed metadata alone.
 - [Video: Crowd Burns Ebola Treatment Center in Congo Over Burial Dispute](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzZzTUxjS0pjUlRfanU2TUdmWFhOMkhlSVI0NER2V1BuR0tCOFRuY2Q0YlZ6OGhfZDVUeHZuZm1sempJX0x4Nkx4c2E5QVFyOU5mX2kyRXh3MDRfaE1uVkFXTnF1T0M4Skl4SW41bTJEVnFOQ1pXdnZvdWhtUTJDa2FJcGd1dmRXQ0sxdUZJM25jMjFxdW1fYlVsbDlwVnM?oc=5) | The New York Times
   Limited detail was available from feed metadata alone.
