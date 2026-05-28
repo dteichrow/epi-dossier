@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-28
-Generated at: 2026-05-28T14:10
+Generated at: 2026-05-28T14:17
 Search window: 7 day(s) ending 2026-05-28
 
 ## Executive scan
@@ -12,22 +12,22 @@ Search window: 7 day(s) ending 2026-05-28
 - [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-26T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (157), Policy, surveillance, and public health infrastructure (22), Occupational and environmental epidemiology (3)
+- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (21), Occupational and environmental epidemiology (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 29 item(s) across 28 source(s).
-- Baseline snapshot created with 29 clustered item(s) across 28 source(s).
+- Newly tracked story cluster: 30 item(s) across 27 source(s).
+- Baseline snapshot created with 30 clustered item(s) across 27 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 145 item(s) across 103 source(s).
-- Baseline snapshot created with 145 clustered item(s) across 103 source(s).
+- Newly tracked story cluster: 237 item(s) across 144 source(s).
+- Baseline snapshot created with 237 clustered item(s) across 144 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -40,7 +40,7 @@ Search window: 7 day(s) ending 2026-05-28
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 145 item(s) across 103 source(s); 5 official/primary-source item(s).
+- Topic size: 237 item(s) across 144 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -48,10 +48,10 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 29 item(s) across 28 source(s); 3 official/primary-source item(s).
+- Topic size: 30 item(s) across 27 source(s); 3 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Administration-site pain (29.0%-39.0% of participants) and systemic drowsiness (9.0%-15.9%) were the most common solicited AEs. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
-- Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh Ebola outbreak triggers high alert in Jharkhand’s Santhal Pargana border districts](https://www.newindianexpress.com/india/2026/May/28/bangladesh-ebola-outbreak-triggers-high-alert-in-jharkhands-santhal-pargana-border-districts) (The New Indian Express); [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
+- Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC); [Tragic measles outbreak claims over 500 children's lives in Bangladesh](https://iol.co.za/lifestyle/health/2026-05-25-tragic-measles-outbreak-claims-over-500-childrens-lives-in-bangladesh/) (IOL)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -440,15 +440,15 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - ['Out of control': Doctors on the front line of Ebola outbreak speak out - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/control-doctors-frontline-ebola-outbreak-speak/story?id\=133364928) | ABC News - Breaking News, Latest News and Videos | 2026-05-28T17:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bangladesh Ebola outbreak triggers high alert in Jharkhand’s Santhal Pargana border districts](https://www.newindianexpress.com/india/2026/May/28/bangladesh-ebola-outbreak-triggers-high-alert-in-jharkhands-santhal-pargana-border-districts) | The New Indian Express | 2026-05-28T16:50+00:00 | Outbreaks and emerging infections
-  RIMS and Sadar Hospital have been instructed to keep a certain number of beds vacant so that treatment can be initiated immediately if any suspected Ebola case arrives. Ansari stated that a review meeting was held to address the matter. Meanwhile, the health department has launched a special awareness campaign on measles in Santhal Pargana and issued directives to health officials to ensure any potential situation is handled promptly.
 - [U.S. hopes to contain Ebola outbreak spread with facility in Kenya](https://www.yahoo.com/news/videos/u-hopes-contain-ebola-outbreak-142159848.html) | Yahoo | 2026-05-28T14:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Over 240 killed in Ebola outbreak as officials work to stop the spread](https://www.cbsnews.com/chicago/video/over-240-killed-in-ebola-outbreak-as-officials-work-to-stop-the-spread/) | CBS News | 2026-05-28T14:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Trump administration building quarantine facility in Kenya amid Ebola outbreak](https://www.krem.com/video/news/health/trump-administration-building-quarantine-facility-in-kenya-amid-ebola-outbreak/293-39f8c90d-bc28-4559-8d50-3aae2744982d) | krem.com | 2026-05-28T14:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [African Pastor Asks for Prayer as Ebola Outbreak Intensifies](https://cbn.com/news/world/african-pastor-asks-prayer-ebola-outbreak-intensifies) | cbn.com | 2026-05-28T14:07+00:00 | Outbreaks and emerging infections
+- [WHO chief urges DR Congo ceasefire to help tackle Ebola outbreak](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUNIbUd4NmVBLU55WUdwSzBQcUZEbV9yT0t0ZlZoS19HdXphTmowSDNzSlVDMkNUVFF6TWJhN2t1MU5UTFNiSnJnNFAwajJCTl9DOGF5TmhBdW0ta1ZQaTg0UzFuN3VlMVlzQWJHOFlXYV9Xdjdod3Z6VFR1d1VFNlJxR2pzZ2NsQklmNVJKeUpnNGZlYjVlTFhrOUd0bXVhcFNZOQ?oc=5) | The Independent | 2026-05-28T12:40+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak: Suspected cases exceed 1,000](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW5Rd1Y4ZEVxd0VCUHdrSGF6Rk0xa19LNWU4U2hiSV9uWWwycVJsYmdITlU2akt4dm93NXRGREZRUlVsTHBsU0V0ZFJ6RFlrVlNvWDNVckltWHgtWFpoU0FDcG40YktaRlN5QXZ6M1JpenBpQ1Bhc2ZzaFEtM0xWem02c3J0WW81M1hmVGNjQlR0LUhE?oc=5) | Yeni Safak English | 2026-05-28T09:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak is spiraling, with health workers struggling to contain the virus](https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmwwakMweWdUZjVYdktkQzNsbDFpeVQ3WFd5aUxNNGEtMUR5YW9DdHlvcmdsYlVybVNrZXlVcW9iSzNvRHJBc1VXRjdyeTB3Ukt2ZTg1dEJKenBBRlRUdWNodzZrOGdHQTk5Y1NJMjdNVGM?oc=5) | NPR | 2026-05-28T08:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
