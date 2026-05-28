@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-28
-Generated at: 2026-05-28T13:40
+Generated at: 2026-05-28T14:00
 Search window: 7 day(s) ending 2026-05-28
 
 ## Executive scan
@@ -12,22 +12,22 @@ Search window: 7 day(s) ending 2026-05-28
 - [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-26T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (254), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (227), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 242 item(s) across 148 source(s).
-- Baseline snapshot created with 242 clustered item(s) across 148 source(s).
+- Newly tracked story cluster: 217 item(s) across 132 source(s).
+- Baseline snapshot created with 217 clustered item(s) across 132 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 - Reuters now includes quarantine language.
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 30 item(s) across 26 source(s).
-- Baseline snapshot created with 30 clustered item(s) across 26 source(s).
+- Newly tracked story cluster: 28 item(s) across 26 source(s).
+- Baseline snapshot created with 28 clustered item(s) across 26 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
@@ -41,7 +41,7 @@ Search window: 7 day(s) ending 2026-05-28
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 242 item(s) across 148 source(s); 5 official/primary-source item(s).
+- Topic size: 217 item(s) across 132 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -49,10 +49,10 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 30 item(s) across 26 source(s); 3 official/primary-source item(s).
+- Topic size: 28 item(s) across 26 source(s); 3 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
-- Detailed note: During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Administration-site pain (29.0%-39.0% of participants) and systemic drowsiness (9.0%-15.9%) were the most common solicited AEs. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
-- Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC); [Tragic measles outbreak claims over 500 children's lives in Bangladesh](https://iol.co.za/lifestyle/health/2026-05-25-tragic-measles-outbreak-claims-over-500-childrens-lives-in-bangladesh/) (IOL)
+- Detailed note: During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Additionally, 51 new confirmed cases were reported, increasing the total to 8,885 during the same period.Amid the worsening health crisis in Bangladesh, the measles cases and deaths continue to rise across the country...
+- Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Measles outbreak in Bangladesh claims five more lives; death toll climbs to 565](https://tripurachronicle.in/world-news/measles-outbreak-in-bangladesh-claims-five-more-lives-death-toll-climbs-to-565/) (Tripura Chronicle); [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -437,15 +437,17 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - ['Out of control': Doctors on the front line of Ebola outbreak speak out - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/control-doctors-frontline-ebola-outbreak-speak/story?id\=133364928) | ABC News - Breaking News, Latest News and Videos | 2026-05-28T17:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Measles outbreak in Bangladesh claims five more lives; death toll climbs to 565](https://tripurachronicle.in/world-news/measles-outbreak-in-bangladesh-claims-five-more-lives-death-toll-climbs-to-565/) | Tripura Chronicle | 2026-05-28T16:41+00:00 | Outbreaks and emerging infections
+  Additionally, 51 new confirmed cases were reported, increasing the total to 8,885 during the same period.Amid the worsening health crisis in Bangladesh, the measles cases and deaths continue to rise across the country despite the conclusion of the preliminary phase for the one-and-a-half-month special measles-rubella vaccination drive on May 20, Bangladesh’s leading newspaper, The Daily Star, reported. Dhaka, May 28 (IANS) Bangladesh continues to grapple with an escalating measles outbreak with five more children reportedly dying from the disease and similar symptoms on Thursday, taking the total number of confirmed and suspected deaths to 565 since March 15 this year. Reports suggest that the total number of confirmed deaths from measles has surged to 88, while suspected deaths have reached 477.
 - [‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline](https://www.theguardian.com/global-development/2026/may/28/medical-staff-ebola-frontline-congolese-doctors-nurses-disease) | The Guardian | 2026-05-28T15:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. hopes to contain Ebola outbreak spread with facility in Kenya](https://www.yahoo.com/news/videos/u-hopes-contain-ebola-outbreak-142159848.html) | Yahoo | 2026-05-28T14:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Over 240 killed in Ebola outbreak as officials work to stop the spread](https://www.cbsnews.com/chicago/video/over-240-killed-in-ebola-outbreak-as-officials-work-to-stop-the-spread/) | CBS News | 2026-05-28T14:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO chief urges DR Congo ceasefire to help tackle Ebola outbreak](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUNIbUd4NmVBLU55WUdwSzBQcUZEbV9yT0t0ZlZoS19HdXphTmowSDNzSlVDMkNUVFF6TWJhN2t1MU5UTFNiSnJnNFAwajJCTl9DOGF5TmhBdW0ta1ZQaTg0UzFuN3VlMVlzQWJHOFlXYV9Xdjdod3Z6VFR1d1VFNlJxR2pzZ2NsQklmNVJKeUpnNGZlYjVlTFhrOUd0bXVhcFNZOQ?oc=5) | The Independent | 2026-05-28T12:40+00:00 | Outbreaks and emerging infections
+- [Trump administration building quarantine facility in Kenya amid Ebola outbreak](https://www.krem.com/video/news/health/trump-administration-building-quarantine-facility-in-kenya-amid-ebola-outbreak/293-39f8c90d-bc28-4559-8d50-3aae2744982d) | krem.com | 2026-05-28T14:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [EU allocates €15 million in humanitarian assistance in response to Ebola outbreak in the Democratic Republic of the Congo and Uganda](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY2p2UHJuSHVOaHdmWVk2UUViVUpLUW93dFhzT1hrSTNyQUV1NWhicUx6WWx1eXEwZldLbWFCVEhfMVpmRXJGN1RxcGZBUWY5bUxzajlLSzUyc0xveDN2dzg3UWJiYXFIZGhSQnFWOUwzdkRGVllMUWFKbjA2Z3RKeElCd1F2OWltMEpVYkJlT0ltTGN2U0k3cklBMGlDeDVrbTRFcVhmWXdfVGVqWS1NQXhlQWwxUjl3VXptNWdkUjJoT2dBajRGSDVUS21SaVRaeWxDeDVfLVA1RHV2cFlxSy11b01raXpnYUhnazBB?oc=5) | EEAS | 2026-05-28T11:30+00:00 | Outbreaks and emerging infections
+- [WHO chief urges DR Congo ceasefire to help tackle Ebola outbreak](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUNIbUd4NmVBLU55WUdwSzBQcUZEbV9yT0t0ZlZoS19HdXphTmowSDNzSlVDMkNUVFF6TWJhN2t1MU5UTFNiSnJnNFAwajJCTl9DOGF5TmhBdW0ta1ZQaTg0UzFuN3VlMVlzQWJHOFlXYV9Xdjdod3Z6VFR1d1VFNlJxR2pzZ2NsQklmNVJKeUpnNGZlYjVlTFhrOUd0bXVhcFNZOQ?oc=5) | The Independent | 2026-05-28T12:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak: Suspected cases exceed 1,000](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW5Rd1Y4ZEVxd0VCUHdrSGF6Rk0xa19LNWU4U2hiSV9uWWwycVJsYmdITlU2akt4dm93NXRGREZRUlVsTHBsU0V0ZFJ6RFlrVlNvWDNVckltWHgtWFpoU0FDcG40YktaRlN5QXZ6M1JpenBpQ1Bhc2ZzaFEtM0xWem02c3J0WW81M1hmVGNjQlR0LUhE?oc=5) | Yeni Safak English | 2026-05-28T09:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -454,8 +456,6 @@ Search window: 7 day(s) ending 2026-05-28
 - [Ebola outbreak raising concerns among U.S. officials ahead of World Cup](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZy1MeFo5ZlgyZ0JyVWoydjNvV3FZblczNlJGQ1dqU2M2cHpfQnlfQ1JEZHRGWlg5WktfNDdKQk9YMUJuWHR4WWNrNjZlX3V4WEo5TW5zOExqaGVlVEVoRUh2ODVIc29vaV8wTGh3NHNZa1Y0MWd1VkhBQ1hWa0dHdGdmZ0t1dXBHTDFKMDN6UzdEUTNOTVpzWHkxM3pyREdRaUNORXdNMGRGRTRwZW1QYlc0WElhZ1VJ?oc=5) | Atlanta News First | 2026-05-28T08:45+00:00 | Outbreaks and emerging infections
   officials ahead of World Cup Atlanta News First
 - [Kenya: Law Society Opposes U.S. Proposal to Set Up Ebola Treatment Centre in Kenya](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EWFcyQ0UweG1OakZ3ZU13T05VT1RBSWs1UFJQODNuSFlxLWdrdm90b1o1UDhCWERDdGx0a2Eza1Nma2JUb3ZsZ21jZWJJZzM2UDlRSXVDSWtxdXc?oc=5) | allAfrica.com | 2026-05-28T07:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Democratic Republic of the Congo’s latest Ebola outbreak: 'The world cannot afford to look away' - European Civil Protection and Humanitarian Aid Operations](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcXpNOW5TTGVXamlYUkNTYVFMQXdxM2xvR05hd1F2LVBTdkY1Y3BzRWpBYllMSnQ2a2tNbFZRTVVjeVNwbEo3STZWMUx3OTVTejMwTGR4LWtyTU5UU3JRNktLSDRKc3YydjRLY09iQWkyWkhFR1hteGx4aU94bjR1c19lSVFha0UtaFd0TkZwM3M2N1B4NzRsdU1iXzN3SXZrNTRiOUQ4alNmczVYaG90SWVvN2hIMXBrRXc3TXNMRTdtUUxmS3ZyT3ZVWXk0ZWx4SmhVMjJvcXhWRWxyM1JpYlVkQnZvWTVibGVXaWZR?oc=5) | European Civil Protection and Humanitarian Aid Operations | 2026-05-28T07:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Treatment Center Torched in Democratic Republic of Congo](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDJQVTNpT0NjZ0VFLWl1NVpteGpRdm9SSHBHa0lQcVl4c2pySUdBWFBuTk9RRGlmcmRiOEVYRTh6Q3o1RHRoeHZuaXJTbEV0SDd6NWtBQ3U2TTNlQzdjUTk4YUllRnA1cEVncWpUdEN3ay1DMndsQ3A5UFd2Nnp6bXdyU29EQi1Yb0gtbTB1czE2Q3JLRVE?oc=5) | Tanzania Insight | 2026-05-28T06:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -483,7 +483,7 @@ Search window: 7 day(s) ending 2026-05-28
 ## Historical epi / weird epi corner
 - [Dr Congo adapts burials amid Ebola outbreak](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ua3VnZ0pFb3ZIa3NSMTZJcExvMmd2dEdsQjVGWDBUU1R3d1JTNEdGeUt5N1ZzZkpmWHpBUGhKdUtnb2Y2YVV2c0ZURmRiX2lhekJGNTQ3Wlo2TWRLbjJrenFITkhkWFludDgyekVXMnZnMnhVQTJta2prNA?oc=5) | France 24
   Limited detail was available from feed metadata alone.
-- [Licensable video: More Ebola victims die at home as Congo burial teams adapt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMkthVThGYWJ1a2xvU3Q3M3dLREpUb0lqc2pBXzNKYnQ0WG5pQTRJMTRWVkVHdzliZHlxellCZjk5TWlnaVFKLXBsZVJyeWMxYWwzb0g5VmtnREFvSlVFS1l0cFBQS3cyZVd5WHE3V3ViVGZZa0VhN21KZkRfMTFtc2hzTk02bkVwbmI0ZXd5bGJlc09uOVJNQ2hHM255TjZ4YjhUWlhTWlhfZ0RHdmg2ZlZoNnN5Ri1iTjJaaGF5ekc2V3g4QlhONDc4TVBSdlJBelZUWUl6ejVINXhvQi1hLUJuY2t1Mmk3VUdR?oc=5) | reutersconnect.com
+- [Licensable video: More Ebola victims die at home as Congo burial teams adapt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMkthVThGYWJ1a2xvU3Q3M3dLREpUb0lqc2pBXzNKYnQ0WG5pQTRJMTRWVkVHdzliZHlxellCZjk5TWlnaVFKLXBsZVJyeWMxYWwzb0g5VmtnREFvSlVFS1l0cFBQS3cyZVd5WHE3V3ViVGZZa0VhN21KZkRfMTFtc2hzTk02bkVwbmI0ZXd5bGJlc09uOVJNQ2hHM255TjZ4YjhUWlhTWlhfZ0RHdmg2ZlZoNnN5Ri1iTjJaaGF5ekc2V3g4QlhONDc4TVBSdlJBelZUWUl6ejVINXhvQi1hLUJuY2t1Mmk3VUdR?oc=5) | Reuters Connect
   Limited detail was available from feed metadata alone.
 - [Video: Crowd Burns Ebola Treatment Center in Congo Over Burial Dispute](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzZzTUxjS0pjUlRfanU2TUdmWFhOMkhlSVI0NER2V1BuR0tCOFRuY2Q0YlZ6OGhfZDVUeHZuZm1sempJX0x4Nkx4c2E5QVFyOU5mX2kyRXh3MDRfaE1uVkFXTnF1T0M4Skl4SW41bTJEVnFOQ1pXdnZvdWhtUTJDa2FJcGd1dmRXQ0sxdUZJM25jMjFxdW1fYlVsbDlwVnM?oc=5) | The New York Times
   Limited detail was available from feed metadata alone.
