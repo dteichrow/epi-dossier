@@ -11,8 +11,7 @@
       "NPR",
       "New York Times",
       "PBS",
-      "Reuters",
-      "Sky News"
+      "Reuters"
     ],
     "metadata_only_count": 259,
     "sources_cached": 0,
@@ -28,7 +27,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-05-28T08:49:50",
+  "generated_at": "2026-05-28T08:59:52",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
