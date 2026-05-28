@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-28
-Generated at: 2026-05-28T06:09
+Generated at: 2026-05-28T06:17
 Search window: 7 day(s) ending 2026-05-28
 
 ## Executive scan
@@ -11,29 +11,29 @@ Search window: 7 day(s) ending 2026-05-28
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Suspected Ebola cases in Congo top 1,000 as outbreak spreads across 3 provinces](https://www.turkiyetoday.com/lifestyle/suspected-ebola-cases-in-congo-top-1000-as-outbreak-spreads-across-3-provinces-3220844) (Türkiye Today; 2026-05-28T12:29+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (253), Policy, surveillance, and public health infrastructure (27), Major epidemiology studies (1)
+- [Aid supplies reach heart of Congo's Ebola outbreak as WHO head travels to Kinshasa](https://www.yourvalley.net/stories/aid-supplies-reach-heart-of-congos-ebola-outbreak-as-who-head-travels-to-kinshasa,693973) (yourvalley.net; 2026-05-28T13:07+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (260), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (1)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 251 item(s) across 157 source(s).
-- Baseline snapshot created with 251 clustered item(s) across 157 source(s).
+- Newly tracked story cluster: 259 item(s) across 154 source(s).
+- Baseline snapshot created with 259 clustered item(s) across 154 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
-- Newly tracked story cluster: 24 item(s) across 18 source(s).
-- Baseline snapshot created with 24 clustered item(s) across 18 source(s).
+- Newly tracked story cluster: 22 item(s) across 17 source(s).
+- Baseline snapshot created with 22 clustered item(s) across 17 source(s).
 - CNN now includes evacuation reporting.
 - Reuters now includes quarantine language.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 251 item(s) across 157 source(s); 5 official/primary-source item(s).
+- Topic size: 259 item(s) across 154 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -41,7 +41,7 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 24 item(s) across 18 source(s); 1 official/primary-source item(s).
+- Topic size: 22 item(s) across 17 source(s); 1 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News, 2026-05-26T17:56+02:00)
 - Detailed note: ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.
 - Evidence notes: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Australia extends quarantine for hantavirus-hit cruise ship passengers](https://www.reuters.com/world/asia-pacific/australia-extends-quarantine-hantavirus-hit-cruise-ship-passengers-2026-05-28/) (Reuters); [Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists](https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5) (The New York Times); [Spanish citizen evacuated from hantavirus-hit cruise ship tests positive](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWGZ1UFNLQzh1UkNpVGZZa3VkRDFJODJpWnlkY0NGS185dFFYR1JsazEzdVEwQnZqRjVEbkNSaVVHMG5BX1ExbVNhLV9XWldxRUlKYmN5N0dhQjQ3czBoVldsLWtkTmk2dERmbGZyWkwxbmk1Y3dTTHhzSWNTSjhKVlF5bktISEdQ?oc=5) (CNN); [Spanish national evacuated from hantavirus cruise ship tests positive](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdG5aWm9aVUVPU1loQ0xlQnhZUHV4VmlmdzJ4bGtETVlRSUVELW9EUlE1T0tIX185QldQOHRneUNzZXB1cWxRazUxcmhZZlF2My1jMGpRSG5VODluNmxUU3luMUJCLVI4bGtfQXNaN0N5TjdicHRUcG1YT1R0VWc5c25vZDBiU0k2RlVCSHFvZkhYZGtiRFF4b3VEQTVndmtEYkRPeDZUekFpWWluRWJEN2dTcmRyZ3lpbFFiLUU0ekdTdU1YcjRiUm9Qb2NPOHBmQkE?oc=5) (Reuters)
@@ -371,6 +371,16 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
+### Aid supplies reach heart of Congo's Ebola outbreak as WHO head travels to Kinshasa
+- Source: yourvalley.net
+- Date: 2026-05-28T13:07+00:00
+- URL: https://www.yourvalley.net/stories/aid-supplies-reach-heart-of-congos-ebola-outbreak-as-who-head-travels-to-kinshasa,693973
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 ### Suspected Ebola cases in Congo top 1,000 as outbreak spreads across 3 provinces
 - Source: Türkiye Today
 - Date: 2026-05-28T12:29+00:00
@@ -391,18 +401,10 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### ‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline
-- Source: The Guardian
-- Date: 2026-05-28T11:34+00:00
-- URL: https://www.theguardian.com/global-development/2026/may/28/medical-staff-ebola-frontline-congolese-doctors-nurses-disease
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline](https://www.theguardian.com/global-development/2026/may/28/medical-staff-ebola-frontline-congolese-doctors-nurses-disease) | The Guardian | 2026-05-28T11:34+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak: Suspected cases exceed 1,000](https://en.yenisafak.com/world/dr-congo-ebola-outbreak-suspected-cases-exceed-1000-3718788) | Yeni Safak English | 2026-05-28T09:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Treatment Center Torched in Democratic Republic of Congo](https://tanzaniainsight.com/ebola-treatment-center-torched-in-democratic-republic-of-congo/) | Tanzania Insight | 2026-05-28T06:30+00:00 | Outbreaks and emerging infections
@@ -423,8 +425,6 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [Suspected Ebola cases surpass 1,000 in Democratic Republic of Congo](https://www.aa.com.tr/en/africa/suspected-ebola-cases-surpass-1-000-in-democratic-republic-of-congo/3950067) | Anadolu Ajansı | 2026-05-27T23:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [U.S. plan for Ebola quarantine in Kenya sparks anger](https://www.theglobeandmail.com/world/article-us-plan-for-ebola-quarantine-in-kenya-triggers-anger-in-east-african/) | The Globe and Mail | 2026-05-27T22:51+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Revisiting Vermont's experience preparing for Ebola, as new outbreak rages in Africa](https://www.mynbc5.com/article/ebola-outbreak-vermont-preparedness/71425196) | WPTZ | 2026-05-27T22:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda closes border as Ebola outbreak in Congo continues](https://wng.org/sift/uganda-closes-border-as-ebola-outbreak-in-congo-continues-1779917486) | wng.org | 2026-05-27T22:15+00:00 | Outbreaks and emerging infections
@@ -439,9 +439,9 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [U.S. to build quarantine facility in Kenya for Ebola-exposed Americans](https://www.upi.com/Top_News/US/2026/05/27/kenya-ebola-quarantine-facility/4161779909127/) | upi.com | 2026-05-27T19:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Canada to impose quarantine on travellers returning from Ebola-stricken regions](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORi00N1F6ZzFwRnNkaUI4ZWdfVDlST3J6anJVUnZRTkJMZENjcWVLRjQxaUZJQlRtNjJfZEFNT2wzeXZWSG9wbXB1WTNfdmw2djhScDRrT1UtSjFKYmlxNnhNMGlLWDM3T0pnQ3dDeWktRHNEdW5uWHBtQVpWQ29obHZHYm9SUWpic1ViTUF1VzN0MXQtbXZUOVUzVEVadGRlN0V2SW5zU0hhX2VqcGtMNGRtNU9oeDA0VEtVV21xNjAxZ9IB-gFBVV95cUxQbXprUmJrTjZSTzRVanJoWHRFY195bjFHRlRuQnFmMkdmZ181TDFuS0xYal9oNWwzY2FoRlBmSVZJcVJUNFh5ZHljbk11YlBrNXBTNTVEaUltOGNSTm16M2NhbVRhdzJfOVN0RDhVb2hBaVhyc2RsUzl3QlFYTkNkS21vd3QtUTdrRFdUb1FLZWpBZHBuRkpnd3pKVVE0Z2p5TFpfYWNrYUFiRVdoVEVDc3BvUTcyX0xxWlVWNkJPZl9CQXVzTTlQTko2VGFsSjBfUWw0TU5Nc1FUZm96R1FMUm90QUNKaWtqaEw5QnVPOUdXSDVGekQyTTl3?oc=5) | CIC News | 2026-05-27T19:05+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Rural Health Matters: CDC Responds to Ebola Outbreak in Africa](https://www.rfdtv.com/rural-health-matters-cdc-responds-to-ebola-outbreak-in-africa) | RFD-TV | 2026-05-27T18:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [US building Ebola quarantine center in Kenya for Americans amid outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFFDR2VQMnNMUmpjdEdjbFNzRDhhY0tXX3NOQnJkSnVXOU5VX2lKbm9sM254R1BnUmd2Q0h3dHNPUFdWRVBZQmpnVmptNUZFVXJ5Y044SDRVczRoRjF5NklSdkFaV0JoLVlwN3lEU3hrQXJEeVVUN2E1Z2w5TTI5VURJa2tJdVhLcFRwaXVJVXg5cFM5Snc?oc=5) | The Guardian | 2026-05-27T18:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
