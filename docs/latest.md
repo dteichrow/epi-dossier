@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-28
-Generated at: 2026-05-28T15:00
+Generated at: 2026-05-28T15:10
 Search window: 7 day(s) ending 2026-05-28
 
 ## Executive scan
@@ -12,10 +12,18 @@ Search window: 7 day(s) ending 2026-05-28
 - [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-05-26T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (255), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (205), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Ebola virus disease
+- Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
+- Newly tracked story cluster: 198 item(s) across 134 source(s).
+- Baseline snapshot created with 198 clustered item(s) across 134 source(s).
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+- ECDC News currently frames broader public risk as low.
+- Reuters now includes quarantine language.
+
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
 - Newly tracked story cluster: 29 item(s) across 27 source(s).
@@ -24,23 +32,16 @@ Search window: 7 day(s) ending 2026-05-28
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
-### Ebola virus disease
-- Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 247 item(s) across 150 source(s).
-- Baseline snapshot created with 247 clustered item(s) across 150 source(s).
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- ECDC News currently frames broader public risk as low.
-
 ### Occupational and environmental epidemiology
 - Lead item: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 247 item(s) across 150 source(s); 5 official/primary-source item(s).
+- Topic size: 198 item(s) across 134 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -64,10 +65,10 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 2 official/primary-source item(s).
 - Lead item: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: During November 2025–March 2026, the California Poison Control System and California Department of Public Health responded to an outbreak of 39 cases of amatoxin mushroom poisoning in northern California, resulting in three liver transplantations and four deaths. Vaccine uptake was strongly associated with age; those aged 27-45 had higher odds than those >45 y (aOR 7.03). LeSaint, MD 1 ,2 ; Rais Vohra, MD 3 ,4 ;...
-- Evidence notes: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR); [Occupational HPV exposure and vaccination among healthcare workers: Implications for institutional vaccination strategies.](https://pubmed.ncbi.nlm.nih.gov/42189578/) (PubMed Infectious Disease Search); [Mumbai steps up surveillance for Ebola, readies Kasturba hospital as isolation facility](https://timesofindia.indiatimes.com/city/mumbai/mumbai-steps-up-surveillance-for-ebola-readies-kasturba-hospital-as-isolation-facility/articleshow/131356772.cms) (The Times of India)
+- Evidence notes: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR); [Ebola Ward in Congo Burns After Residents Turn Against Medics](https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html) (The New York Times); [Occupational HPV exposure and vaccination among healthcare workers: Implications for institutional vaccination strategies.](https://pubmed.ncbi.nlm.nih.gov/42189578/) (PubMed Infectious Disease Search); [Mumbai steps up surveillance for Ebola, readies Kasturba hospital as isolation facility](https://timesofindia.indiatimes.com/city/mumbai/mumbai-steps-up-surveillance-for-ebola-readies-kasturba-hospital-as-isolation-facility/articleshow/131356772.cms) (The Times of India)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -424,11 +425,11 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [US to quarantine citizens exposed to Ebola in Kenya, not bring them home](https://www.reuters.com/business/healthcare-pharmaceuticals/us-send-citizens-exposed-ebola-quarantine-camp-kenya-not-bringing-patients-home-2026-05-28/) | Reuters | 2026-05-28T22:07+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Uganda shuts DR Congo border as Ebola outbreak continues to grow](https://www.cidrap.umn.edu/ebola/uganda-shuts-dr-congo-border-ebola-outbreak-continues-grow) | CIDRAP | 2026-05-28T20:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Canada, U.S., Mexico announce Ebola travel measures for FIFA World Cup](https://www.cbc.ca/news/world/congo-fifa-ebola-9.7214863) | CBC | 2026-05-28T19:56+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ottawa earmarks $8-million for Ebola aid in DRC, Uganda, South Sudan as outbreak expands](https://www.theglobeandmail.com/canada/article-ottawa-ebola-aid-outbreak-drc-uganda-south-sudan/) | The Globe and Mail | 2026-05-28T19:55+00:00 | Outbreaks and emerging infections
+- [Canada, U.S., Mexico announce Ebola travel measures for FIFA World Cup](https://www.cbc.ca/news/world/congo-fifa-ebola-9.7214863) | CBC | 2026-05-28T20:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline](https://www.theguardian.com/global-development/2026/may/28/medical-staff-ebola-frontline-congolese-doctors-nurses-disease) | The Guardian | 2026-05-28T19:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -442,21 +443,21 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [U.S. hopes to contain Ebola outbreak spread with facility in Kenya](https://www.yahoo.com/news/videos/u-hopes-contain-ebola-outbreak-142159848.html) | Yahoo | 2026-05-28T14:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Over 240 killed in Ebola outbreak as officials work to stop the spread](https://www.cbsnews.com/chicago/video/over-240-killed-in-ebola-outbreak-as-officials-work-to-stop-the-spread/) | CBS News | 2026-05-28T14:20+00:00 | Outbreaks and emerging infections
+- [Over 240 killed in Ebola outbreak as officials work to stop the spread](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1dPQ1dNRzdjNW1fQkFjd2IyNHhUZUJxMEh4Z0NWU2lGSnV1WnR6Uk4wYjBBWHhZSmlJMFBmXzhVZ2plRWtIaElYaFRMMGRmdDE4MXBJMElwa3hSdmNaU3dzMTM4clE0VFpmNkdTal9HWi03RDJsNFEta291TGg2dlphZVh0T1ZyZ05SREVoNU1VVzlWb0h1NWtJM2tJdEVpYnRUbV9sdlpHelkxbXc?oc=5) | CBS News | 2026-05-28T14:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Trump administration building quarantine facility in Kenya amid Ebola outbreak](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb0c0YTZoRHBkd1lyaWxDakhsWmt6Uy1NM3hkOWRUazRBcGZaOWFuaTZmM3E1R3hhTDliRW1UZjREUVdDLU9XaGhXbWMtZ0hYQ3J6US0yb3hlOXpneEN0VldWX0E1TmlMLU5kUWxRVWxxSFN4em1weF9NNm5FQ3lSTU94QUE2cEhxNFhQVXBIbHJVZUo2MFdKZ0E5MnpDTWxsT0R1R1B6Y3FSSUloVjBwMkE1YXJaTEtMcFd5RjRjOHpkOUEwVUM4cWhXV0pBY1ZobjhvdkMtS1JPSnRXRlY1enYwTEFQUTJDM0NXdW9mTQ?oc=5) | krem.com | 2026-05-28T14:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [African Pastor Asks for Prayer as Ebola Outbreak Intensifies](https://news.google.com/rss/articles/CBMihwFBVV95cUxObjlPMEg2UVYtdlVPWmIzSjltdFB2MjhBWUVoVnNLWml5a1FOZ3dqQXV6VmJGcVBUOFM0TzlndWZUODJOR2Exbmh2TnZJdmdsRmhySUdEUlNTQU9WMjVzVmxTYnJrM1ZHMm11U28yMENxNzQ3TzN5TTlHVzhrVXVSTC1vMmVUV3M?oc=5) | cbn.com | 2026-05-28T14:07+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO chief urges DR Congo ceasefire to help tackle Ebola outbreak](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUNIbUd4NmVBLU55WUdwSzBQcUZEbV9yT0t0ZlZoS19HdXphTmowSDNzSlVDMkNUVFF6TWJhN2t1MU5UTFNiSnJnNFAwajJCTl9DOGF5TmhBdW0ta1ZQaTg0UzFuN3VlMVlzQWJHOFlXYV9Xdjdod3Z6VFR1d1VFNlJxR2pzZ2NsQklmNVJKeUpnNGZlYjVlTFhrOUd0bXVhcFNZOQ?oc=5) | The Independent | 2026-05-28T12:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak: Suspected cases exceed 1,000](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW5Rd1Y4ZEVxd0VCUHdrSGF6Rk0xa19LNWU4U2hiSV9uWWwycVJsYmdITlU2akt4dm93NXRGREZRUlVsTHBsU0V0ZFJ6RFlrVlNvWDNVckltWHgtWFpoU0FDcG40YktaRlN5QXZ6M1JpenBpQ1Bhc2ZzaFEtM0xWem02c3J0WW81M1hmVGNjQlR0LUhE?oc=5) | Yeni Safak English | 2026-05-28T09:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak is spiraling, with health workers struggling to contain the virus](https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmwwakMweWdUZjVYdktkQzNsbDFpeVQ3WFd5aUxNNGEtMUR5YW9DdHlvcmdsYlVybVNrZXlVcW9iSzNvRHJBc1VXRjdyeTB3Ukt2ZTg1dEJKenBBRlRUdWNodzZrOGdHQTk5Y1NJMjdNVGM?oc=5) | NPR | 2026-05-28T08:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak raising concerns among U.S. officials ahead of World Cup](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZy1MeFo5ZlgyZ0JyVWoydjNvV3FZblczNlJGQ1dqU2M2cHpfQnlfQ1JEZHRGWlg5WktfNDdKQk9YMUJuWHR4WWNrNjZlX3V4WEo5TW5zOExqaGVlVEVoRUh2ODVIc29vaV8wTGh3NHNZa1Y0MWd1VkhBQ1hWa0dHdGdmZ0t1dXBHTDFKMDN6UzdEUTNOTVpzWHkxM3pyREdRaUNORXdNMGRGRTRwZW1QYlc0WElhZ1VJ?oc=5) | Atlanta News First | 2026-05-28T08:45+00:00 | Outbreaks and emerging infections
   officials ahead of World Cup Atlanta News First
 - [Kenya: Law Society Opposes U.S. Proposal to Set Up Ebola Treatment Centre in Kenya](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EWFcyQ0UweG1OakZ3ZU13T05VT1RBSWs1UFJQODNuSFlxLWdrdm90b1o1UDhCWERDdGx0a2Eza1Nma2JUb3ZsZ21jZWJJZzM2UDlRSXVDSWtxdXc?oc=5) | allAfrica.com | 2026-05-28T07:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Treatment Center Torched in Democratic Republic of Congo](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDJQVTNpT0NjZ0VFLWl1NVpteGpRdm9SSHBHa0lQcVl4c2pySUdBWFBuTk9RRGlmcmRiOEVYRTh6Q3o1RHRoeHZuaXJTbEV0SDd6NWtBQ3U2TTNlQzdjUTk4YUllRnA1cEVncWpUdEN3ay1DMndsQ3A5UFd2Nnp6bXdyU29EQi1Yb0gtbTB1czE2Q3JLRVE?oc=5) | Tanzania Insight | 2026-05-28T06:30+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Video Ebola outbreak in central Africa has killed over 200 people. Should the US worry? - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3ak1fZk9jMTRyUFlTN0c2ZEpUSmRLN1hKZkhTbTdjN2R6ekZ0QkFtRGl3bzF0TnliYldFMnUzV3BmV0FMakRMc1dWWnE?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-05-28T02:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
