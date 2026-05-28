@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-28
-Generated at: 2026-05-28T07:17
+Generated at: 2026-05-28T07:19
 Search window: 7 day(s) ending 2026-05-28
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-28
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Video How return of Ebola cases compares to 2018 outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133383068/) (ABC News - Breaking News, Latest News and Videos; 2026-05-28T13:43+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (248), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (1)
+- Category mix: Outbreaks and emerging infections (249), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (1)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 244 item(s) across 148 source(s).
-- Baseline snapshot created with 244 clustered item(s) across 148 source(s).
+- Newly tracked story cluster: 245 item(s) across 153 source(s).
+- Baseline snapshot created with 245 clustered item(s) across 153 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -40,7 +40,7 @@ Search window: 7 day(s) ending 2026-05-28
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 244 item(s) across 148 source(s); 5 official/primary-source item(s).
+- Topic size: 245 item(s) across 153 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -76,14 +76,6 @@ Search window: 7 day(s) ending 2026-05-28
 - Lead item: [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC, 2026-05-27T01:34+00:00)
 - Detailed note: "Don't stress," he says the health care worker told them, "the vaccine can be administered up until she reaches 5." The third and fourth time, he says, they were told the vaccine was unavailable. On 8 March Al Amin took Akira to hospital, suffering with what he thought was a normal fever.
 - Evidence notes: [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Rift Valley fever
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today, 2026-05-23T12:14+00:00)
-- Detailed note: A total of 13 livestock deaths and 81 abortions were reported among 75 farms were reported in the EPA. Chiradzulu district has an estimated cattle population of 26,017.
-- Evidence notes: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -438,6 +430,8 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [Suspected Ebola cases surpass 1,000 in Democratic Republic of Congo](https://www.aa.com.tr/en/africa/suspected-ebola-cases-surpass-1-000-in-democratic-republic-of-congo/3950067) | Anadolu Ajansı | 2026-05-27T23:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [U.S. plan for Ebola quarantine in Kenya sparks anger](https://www.theglobeandmail.com/world/article-us-plan-for-ebola-quarantine-in-kenya-triggers-anger-in-east-african/) | The Globe and Mail | 2026-05-27T22:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Uganda closes border as Ebola outbreak in Congo continues](https://wng.org/sift/uganda-closes-border-as-ebola-outbreak-in-congo-continues-1779917486) | wng.org | 2026-05-27T22:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda closes its border with Congo, where suspected cases of a rare Ebola type are surging](https://apnews.com/article/ebola-congo-uganda-border-virus-b96734598ea95b1cdb71986c8b1adf43) | AP News | 2026-05-27T22:09+00:00 | Outbreaks and emerging infections
@@ -448,15 +442,13 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [Ebola cases near 1,000 as world scrambles to contain outbreak](https://www.cidrap.umn.edu/ebola/ebola-cases-near-1000-world-scrambles-contain-outbreak) | CIDRAP | 2026-05-27T20:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US building Ebola quarantine center in Kenya for Americans amid outbreak](https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya) | The Guardian | 2026-05-27T18:00+00:00 | Outbreaks and emerging infections
+- [Canada to impose quarantine on travellers returning from Ebola-stricken regions](https://www.cicnews.com/2026/05/canada-to-impose-quarantine-on-travellers-returning-from-ebola-stricken-regions-0575960.html) | CIC News | 2026-05-27T19:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [U.S. setting up Ebola quarantine facility in Kenya, officials say](https://www.cbsnews.com/news/us-ebola-quarantine-facility-kenya/) | CBS News | 2026-05-27T17:31+00:00 | Outbreaks and emerging infections
+- [Rural Health Matters: CDC Responds to Ebola Outbreak in Africa](https://www.rfdtv.com/rural-health-matters-cdc-responds-to-ebola-outbreak-in-africa) | RFD-TV | 2026-05-27T18:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Uganda orders 'immediate' closure of border with Congo as rare Ebola cases surge](https://news.google.com/rss/articles/CBMic0FVX3lxTE5QbVVsLURpNzNHLXhJdXhWcWc4UDJFU09DSVM5OW5lMGtwdXpONExRNlR5QmhBb3Y5LUIxUndwRENPMVJqX0p6NTBxN0p6OWdhaTBISnRfTTZQd3l0R2ZCNEZYS0ctbk5jLUpsYzk1cV9PYUk?oc=5) | CBC | 2026-05-27T16:45+00:00 | Outbreaks and emerging infections
+- [US building Ebola quarantine center in Kenya for Americans amid outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFFDR2VQMnNMUmpjdEdjbFNzRDhhY0tXX3NOQnJkSnVXOU5VX2lKbm9sM254R1BnUmd2Q0h3dHNPUFdWRVBZQmpnVmptNUZFVXJ5Y044SDRVczRoRjF5NklSdkFaV0JoLVlwN3lEU3hrQXJEeVVUN2E1Z2w5TTI5VURJa2tJdVhLcFRwaXVJVXg5cFM5Snc?oc=5) | The Guardian | 2026-05-27T18:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [False Ebola claims run wild as Congo outbreak worsens](https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2VoLXl5YWpQc0wwWFFWNHItZi1zdkxRM095TG44WFBoUVB1VlhlNGZMZkY2djNsazJJQV81WVlEd0pmQk5CbFZVR2gxazhIRUdoeVliM0E5ZEY2dGkwcjZCRXFZUFo1Y0pBbkRiaUQyajZhVUVjdlBERWJYWmNmTjZueHJDQTk3X0dKZHlsVzJGcXhxRE0xSTRKcw?oc=5) | The Washington Post | 2026-05-27T16:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Fatality rate in DR Congo Ebola outbreak under 25%: WHO](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDdNQlRvTXZZLTdvREdhSDJoTEVMOGtyMGp4Rkc4eVZtWDBNUVpKLWFJZXJGRThPdlgwdExYS1pFVThHLWRLa2RqUEdkcTBQUTlGM1I5U25jbW1RZkplNkZsV21XdWNFOUlYcW1YS0tiS2NQMjZKRkEtelA2SWt0SnNB?oc=5) | Medical Xpress | 2026-05-27T15:40+00:00 | Outbreaks and emerging infections
+- [U.S. setting up Ebola quarantine facility in Kenya, officials say](https://news.google.com/rss/articles/CBMickFVX3lxTFB6U0J2d2dGNDlNdnl4d3NWa256b0ZDTnFKMFVBeDY2c1ZlNDYxTUFiNTJxRVF4WDl3WXp4bXFoazQyc09EdFBoTXBtVDlMbEpYTlF6aVk5VHpSeVA4R1lJSERQUTBUNzJ3dk9HbnoyaU5NUQ?oc=5) | CBS News | 2026-05-27T17:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
