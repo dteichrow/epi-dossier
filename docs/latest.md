@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-27
-Generated at: 2026-05-27T22:58
+Generated at: 2026-05-27T23:00
 Search window: 7 day(s) ending 2026-05-27
 
 ## Executive scan
@@ -12,33 +12,33 @@ Search window: 7 day(s) ending 2026-05-27
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (248), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (1)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (1)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 246 item(s) across 145 source(s).
-- Baseline snapshot created with 246 clustered item(s) across 145 source(s).
+- Newly tracked story cluster: 245 item(s) across 146 source(s).
+- Baseline snapshot created with 245 clustered item(s) across 146 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News)
-- Newly tracked story cluster: 23 item(s) across 16 source(s).
-- Baseline snapshot created with 23 clustered item(s) across 16 source(s).
+- Newly tracked story cluster: 25 item(s) across 17 source(s).
+- Baseline snapshot created with 25 clustered item(s) across 17 source(s).
 - CNN now includes evacuation reporting.
 
 ### Measles transmission and vaccination
-- Lead item: [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
+- Lead item: [Japan measles cases up nearly 300% in 2026](https://outbreaknewstoday.substack.com/p/japan-measles-cases-up-nearly-300) (Outbreak News Today)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- BBC now foregrounds vaccination or vaccine policy in the story.
+- Outbreak News Today now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 246 item(s) across 145 source(s); 6 official/primary-source item(s).
+- Topic size: 245 item(s) across 146 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Risk to Europe remains very low as Ebola outbreak intensifies in DRC](https://www.ecdc.europa.eu/en/news-events/risk-europe-remains-very-low-ebola-outbreak-intensifies-drc) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa)
@@ -46,7 +46,7 @@ Search window: 7 day(s) ending 2026-05-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 23 item(s) across 16 source(s); 1 official/primary-source item(s).
+- Topic size: 25 item(s) across 17 source(s); 1 official/primary-source item(s).
 - Lead item: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News, 2026-05-26T17:56+02:00)
 - Detailed note: ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.
 - Evidence notes: [Andes hantavirus outbreak in cruise ship](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak) (ECDC News); [Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists](https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html) (The New York Times); [Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnp0WXdTZERsZjF6WUdYYVk1bmJZbldyRWppNS16a2ZYUU1IS25yTG5pd1p4dGk3bzJ3OXBWbGZJMmwwSTh2NlJlUEZhWG14N1dMWHRoaUdhb3M2TWJ1MHdhU3UwSG12WEtBb1U5MXU2amlvMUVfZUt5OXpQUXFiTmpfSXRjbTZEZXVZdWlZRHM5Sm5qRUpSYmlTRE5rRmFIT2xlUEVfbnI2aFJV?oc=5) (NBC News); [Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US](https://news.google.com/rss/articles/CBMijAFBVV95cUxPTG0yVEUycEoyZjAwdnlZaUo5Mlk0X1A3NjFEYzc4c3pBQ3ZBZ242eWpQY1FkTVBXMkgyT2dsMmpLVm4zcW9TYW5SbTFLY1poSml5ZFIyV09OV2V0QWVKa1RsZkZCQ3BYYlhvNlNIcnQzZ3dRaGNtX3lZeWhPMGpJSTNMR0V1Y1FmaU5icw?oc=5) (The Guardian); [Spanish government confirms new case of hantavirus](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1FfajRsN3h3aTNjQUdNb3lrbGUzdEFUWXB1TE56dnNmb2V4ZjFKdEk2RVJsOGpHR2gtQXRRM1BMSk1oWDY1SDlfNXNBd0hLekdyLUhFeV82S2ZRd2J0WkQtV01jM1NiYmRtQVFsVFhReGoxODFTOUZZRGtIU3RUQ3FsSElPWGIzby1PeEFpU0tmMzBkaS0yVHZ4NGlYaFFaY0I0?oc=5) (NBC News)
@@ -55,9 +55,9 @@ Search window: 7 day(s) ending 2026-05-27
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC, 2026-05-27T01:34+00:00)
-- Detailed note: "Don't stress," he says the health care worker told them, "the vaccine can be administered up until she reaches 5." The third and fourth time, he says, they were told the vaccine was unavailable. On 8 March Al Amin took Akira to hospital, suffering with what he thought was a normal fever.
-- Evidence notes: [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC); [An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities](https://www.paho.org/en/stories/urgent-need-vaccinate-bolivias-response-ongoing-measles-outbreak-isolated-communities) (Pan American Health Organization (PAHO)); [Japan measles cases up nearly 300% in 2026](https://outbreaknewstoday.substack.com/p/japan-measles-cases-up-nearly-300) (Outbreak News Today)
+- Lead item: [Japan measles cases up nearly 300% in 2026](https://outbreaknewstoday.substack.com/p/japan-measles-cases-up-nearly-300) (Outbreak News Today, 2026-05-27T21:00+00:00)
+- Detailed note: The last time Japan saw a number this high was in 2019, when 533 measles cases were reported during the same period. This is an increase of 298 percent compared to the same period in 2025 (125). "Don't stress," he says the health care worker told them, "the vaccine can be administered up until she reaches 5." The third and fourth time, he says, they were told the vaccine was unavailable.
+- Evidence notes: [Japan measles cases up nearly 300% in 2026](https://outbreaknewstoday.substack.com/p/japan-measles-cases-up-nearly-300) (Outbreak News Today); [Bangladesh measles cases: Hundreds of children die within months](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC); [An urgent need to vaccinate: Bolivia’s response to the ongoing measles outbreak in isolated communities](https://www.paho.org/en/stories/urgent-need-vaccinate-bolivias-response-ongoing-measles-outbreak-isolated-communities) (Pan American Health Organization (PAHO))
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -418,6 +418,8 @@ Search window: 7 day(s) ending 2026-05-27
   Limited detail was available from feed metadata alone.
 - [White House says Americans in Africa exposed to Ebola will be sent to Kenya facility as Rubio says no cases will be allowed into US - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/white-house-americans-africa-exposed-ebola-kenya-facility/story?id\=133342755) | ABC News - Breaking News, Latest News and Videos | 2026-05-27T21:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Japan measles cases up nearly 300% in 2026](https://outbreaknewstoday.substack.com/p/japan-measles-cases-up-nearly-300) | Outbreak News Today | 2026-05-27T21:00+00:00 | Outbreaks and emerging infections
+  The last time Japan saw a number this high was in 2019, when 533 measles cases were reported during the same period. This is an increase of 298 percent compared to the same period in 2025 (125). This is followed by Kanagawa (46), Saitama (38) and Kagoshima (34).
 - [Ebola cases near 1,000 as world scrambles to contain outbreak](https://www.cidrap.umn.edu/ebola/ebola-cases-near-1000-world-scrambles-contain-outbreak) | CIDRAP | 2026-05-27T20:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. to build quarantine facility in Kenya for Ebola-exposed Americans](https://www.upi.com/Top_News/US/2026/05/27/kenya-ebola-quarantine-facility/4161779909127/) | upi.com | 2026-05-27T19:22+00:00 | Outbreaks and emerging infections
@@ -446,8 +448,6 @@ Search window: 7 day(s) ending 2026-05-27
   Limited detail was available from feed metadata alone.
 - [Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists](https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html) | The New York Times | 2026-05-27T14:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnp0WXdTZERsZjF6WUdYYVk1bmJZbldyRWppNS16a2ZYUU1IS25yTG5pd1p4dGk3bzJ3OXBWbGZJMmwwSTh2NlJlUEZhWG14N1dMWHRoaUdhb3M2TWJ1MHdhU3UwSG12WEtBb1U5MXU2amlvMUVfZUt5OXpQUXFiTmpfSXRjbTZEZXVZdWlZRHM5Sm5qRUpSYmlTRE5rRmFIT2xlUEVfbnI2aFJV?oc=5) | NBC News | 2026-05-27T11:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Evaluation of influenza vaccine effectiveness among older adults in Jiaxing, China, 2022-2025: A test negative design-based study.](https://pubmed.ncbi.nlm.nih.gov/42202217/)
@@ -458,11 +458,12 @@ Search window: 7 day(s) ending 2026-05-27
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42202217/
 
 ## Historical epi / weird epi corner
-- [Licensable video: More Ebola victims die at home as Congo burial teams adapt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMkthVThGYWJ1a2xvU3Q3M3dLREpUb0lqc2pBXzNKYnQ0WG5pQTRJMTRWVkVHdzliZHlxellCZjk5TWlnaVFKLXBsZVJyeWMxYWwzb0g5VmtnREFvSlVFS1l0cFBQS3cyZVd5WHE3V3ViVGZZa0VhN21KZkRfMTFtc2hzTk02bkVwbmI0ZXd5bGJlc09uOVJNQ2hHM255TjZ4YjhUWlhTWlhfZ0RHdmg2ZlZoNnN5Ri1iTjJaaGF5ekc2V3g4QlhONDc4TVBSdlJBelZUWUl6ejVINXhvQi1hLUJuY2t1Mmk3VUdR?oc=5) | reutersconnect.com
+- [Licensable video: More Ebola victims die at home as Congo burial teams adapt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMkthVThGYWJ1a2xvU3Q3M3dLREpUb0lqc2pBXzNKYnQ0WG5pQTRJMTRWVkVHdzliZHlxellCZjk5TWlnaVFKLXBsZVJyeWMxYWwzb0g5VmtnREFvSlVFS1l0cFBQS3cyZVd5WHE3V3ViVGZZa0VhN21KZkRfMTFtc2hzTk02bkVwbmI0ZXd5bGJlc09uOVJNQ2hHM255TjZ4YjhUWlhTWlhfZ0RHdmg2ZlZoNnN5Ri1iTjJaaGF5ekc2V3g4QlhONDc4TVBSdlJBelZUWUl6ejVINXhvQi1hLUJuY2t1Mmk3VUdR?oc=5) | Reuters Connect
   Limited detail was available from feed metadata alone.
 - [Video: Crowd Burns Ebola Treatment Center in Congo Over Burial Dispute](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzZzTUxjS0pjUlRfanU2TUdmWFhOMkhlSVI0NER2V1BuR0tCOFRuY2Q0YlZ6OGhfZDVUeHZuZm1sempJX0x4Nkx4c2E5QVFyOU5mX2kyRXh3MDRfaE1uVkFXTnF1T0M4Skl4SW41bTJEVnFOQ1pXdnZvdWhtUTJDa2FJcGd1dmRXQ0sxdUZJM25jMjFxdW1fYlVsbDlwVnM?oc=5) | The New York Times
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
+- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
