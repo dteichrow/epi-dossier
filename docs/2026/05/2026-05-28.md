@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-28
-Generated at: 2026-05-28T21:47
+Generated at: 2026-05-28T21:53
 Search window: 7 day(s) ending 2026-05-28
 
 ## Executive scan
@@ -12,22 +12,22 @@ Search window: 7 day(s) ending 2026-05-28
 - [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search; 2026-05-26T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa; 2026-05-15T18:57+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (255), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (255), Policy, surveillance, and public health infrastructure (22), Occupational and environmental epidemiology (3)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 231 item(s) across 140 source(s).
-- Baseline snapshot created with 231 clustered item(s) across 140 source(s).
+- Newly tracked story cluster: 230 item(s) across 133 source(s).
+- Baseline snapshot created with 230 clustered item(s) across 133 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 - Reuters now includes quarantine language.
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 28 item(s) across 27 source(s).
-- Baseline snapshot created with 28 clustered item(s) across 27 source(s).
+- Newly tracked story cluster: 28 item(s) across 26 source(s).
+- Baseline snapshot created with 28 clustered item(s) across 26 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
@@ -48,7 +48,7 @@ Search window: 7 day(s) ending 2026-05-28
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 231 item(s) across 140 source(s); 5 official/primary-source item(s).
+- Topic size: 230 item(s) across 133 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: * Statement updated to include new figures Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) carousel-bg The Bundibugyo species was first identified in...
 - Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-virus-disease-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -56,7 +56,7 @@ Search window: 7 day(s) ending 2026-05-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 28 item(s) across 27 source(s); 3 official/primary-source item(s).
+- Topic size: 28 item(s) across 26 source(s); 3 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Administration-site pain (29.0%-39.0% of participants) and systemic drowsiness (9.0%-15.9%) were the most common solicited AEs. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
 - Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh was on target to eliminate measles. Now the disease is killing hundreds of children](https://www.cbc.ca/radio/asithappens/bangladesh-measles-9.7215844) (CBC); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
@@ -444,6 +444,8 @@ Search window: 7 day(s) ending 2026-05-28
   Limited detail was available from feed metadata alone.
 - [Kenya approves US Ebola quarantine request as WHO chief heads to Congo](https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-heads-congo-ebola-outbreak-strains-response-2026-05-28/) | Reuters | 2026-05-28T18:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [US boosts Ebola aid to Congo and Uganda by $80 million amid worsening outbreak](https://www.scrippsnews.com/health/us-boosts-ebola-aid-to-congo-and-uganda-by-80-million-amid-worsening-outbreak) | Scripps News | 2026-05-28T17:16+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Trump admin surges aid to Congo](https://www.fox9.com/video/fmc-apu2fegatmk66pf2) | FOX 9 Minneapolis-St. Paul | 2026-05-28T17:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak is spiraling, with health workers struggling to contain the virus](https://www.kuow.org/stories/congo-s-ebola-outbreak-is-spiraling-with-health-workers-struggling-to-contain-the-virus) | KUOW | 2026-05-28T15:40+00:00 | Outbreaks and emerging infections
@@ -455,8 +457,6 @@ Search window: 7 day(s) ending 2026-05-28
 - [Trump administration building quarantine facility in Kenya amid Ebola outbreak](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb0c0YTZoRHBkd1lyaWxDakhsWmt6Uy1NM3hkOWRUazRBcGZaOWFuaTZmM3E1R3hhTDliRW1UZjREUVdDLU9XaGhXbWMtZ0hYQ3J6US0yb3hlOXpneEN0VldWX0E1TmlMLU5kUWxRVWxxSFN4em1weF9NNm5FQ3lSTU94QUE2cEhxNFhQVXBIbHJVZUo2MFdKZ0E5MnpDTWxsT0R1R1B6Y3FSSUloVjBwMkE1YXJaTEtMcFd5RjRjOHpkOUEwVUM4cWhXV0pBY1ZobjhvdkMtS1JPSnRXRlY1enYwTEFQUTJDM0NXdW9mTQ?oc=5) | krem.com | 2026-05-28T14:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [African Pastor Asks for Prayer as Ebola Outbreak Intensifies](https://news.google.com/rss/articles/CBMihwFBVV95cUxObjlPMEg2UVYtdlVPWmIzSjltdFB2MjhBWUVoVnNLWml5a1FOZ3dqQXV6VmJGcVBUOFM0TzlndWZUODJOR2Exbmh2TnZJdmdsRmhySUdEUlNTQU9WMjVzVmxTYnJrM1ZHMm11U28yMENxNzQ3TzN5TTlHVzhrVXVSTC1vMmVUV3M?oc=5) | cbn.com | 2026-05-28T14:07+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO chief urges DR Congo ceasefire to help tackle Ebola outbreak](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUNIbUd4NmVBLU55WUdwSzBQcUZEbV9yT0t0ZlZoS19HdXphTmowSDNzSlVDMkNUVFF6TWJhN2t1MU5UTFNiSnJnNFAwajJCTl9DOGF5TmhBdW0ta1ZQaTg0UzFuN3VlMVlzQWJHOFlXYV9Xdjdod3Z6VFR1d1VFNlJxR2pzZ2NsQklmNVJKeUpnNGZlYjVlTFhrOUd0bXVhcFNZOQ?oc=5) | The Independent | 2026-05-28T12:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [EU allocates €15 million in humanitarian assistance in response to Ebola outbreak in the Democratic Republic of the Congo and Uganda](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY2p2UHJuSHVOaHdmWVk2UUViVUpLUW93dFhzT1hrSTNyQUV1NWhicUx6WWx1eXEwZldLbWFCVEhfMVpmRXJGN1RxcGZBUWY5bUxzajlLSzUyc0xveDN2dzg3UWJiYXFIZGhSQnFWOUwzdkRGVllMUWFKbjA2Z3RKeElCd1F2OWltMEpVYkJlT0ltTGN2U0k3cklBMGlDeDVrbTRFcVhmWXdfVGVqWS1NQXhlQWwxUjl3VXptNWdkUjJoT2dBajRGSDVUS21SaVRaeWxDeDVfLVA1RHV2cFlxSy11b01raXpnYUhnazBB?oc=5) | EEAS | 2026-05-28T11:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
