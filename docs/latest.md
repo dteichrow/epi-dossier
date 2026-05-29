@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-29
-Generated at: 2026-05-29T06:02
+Generated at: 2026-05-29T06:11
 Search window: 7 day(s) ending 2026-05-29
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-29
 - [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search; 2026-05-26T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (240), Policy, surveillance, and public health infrastructure (22), Occupational and environmental epidemiology (3)
+- Category mix: Outbreaks and emerging infections (240), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 229 item(s) across 135 source(s).
-- Baseline snapshot created with 229 clustered item(s) across 135 source(s).
+- Newly tracked story cluster: 229 item(s) across 132 source(s).
+- Baseline snapshot created with 229 clustered item(s) across 132 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 - BBC now includes quarantine language.
@@ -34,14 +34,14 @@ Search window: 7 day(s) ending 2026-05-29
 
 ### Occupational and environmental epidemiology
 - Lead item: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 2 item(s) across 2 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 229 item(s) across 135 source(s); 4 official/primary-source item(s).
+- Topic size: 229 item(s) across 132 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-29T17:36+02:00)
 - Detailed note: Publications orlunwop@who.int Wed, 20/05/2026 - 07:12 Event description On 5 May 2026, the World Health Organization (WHO) received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone (HZ), Ituri Province, Democratic Republic of the Congo (DRC), including reports of four health workers who died within four days. Uganda subsequently confirmed two imported cases on 15 and 16 May 2026.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Which vaccines will curb the Ebola outbreak? WHO debates](https://www.statnews.com/2026/05/29/health-news-which-vaccines-will-curb-ebola-outbreak/) (statnews.com)
@@ -65,12 +65,12 @@ Search window: 7 day(s) ending 2026-05-29
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: During November 2025–March 2026, the California Poison Control System and California Department of Public Health responded to an outbreak of 39 cases of amatoxin mushroom poisoning in northern California, resulting in three liver transplantations and four deaths. Vaccine uptake was strongly associated with age; those aged 27-45 had higher odds than those >45 y (aOR 7.03). LeSaint, MD 1 ,2 ; Rais Vohra, MD 3 ,4 ;...
-- Evidence notes: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR); [Occupational HPV exposure and vaccination among healthcare workers: Implications for institutional vaccination strategies.](https://pubmed.ncbi.nlm.nih.gov/42189578/) (PubMed Infectious Disease Search); [Mumbai steps up surveillance for Ebola, readies Kasturba hospital as isolation facility](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZkV2bF9jZTVkc1h5a1M4Rmo1UW01S01YU2lTbk1lZjRnX3ByX1lXQTJ4VUNJT0hjaHVSb0hSamVhaHc4dzhfRTdVUkpoXzJQbEpxLVllWHFhaXpXNmU5TnBhQVNENnhVNldvRjRibTV3cjFKek1aalhvMDZBaEpYS1pMeGsxcTJoSlB1X3NabmdPUHJzTnk0dTQ3bTg5anNhZXljRHBRYzdVVTRVeFcxNXpvUWgxazN4dUZPMkFDdjg5QW4yYkFkemJNQ3UzUTRCWHJBVC1pSzBKWWtMbXlKdUxseUZCS3AtQjUydmtkbVNJZ9IB9wFBVV95cUxNRWNvUWhlS2hvY3dmTjNrOUU1cnB6X2lDMFMxcVg5RkNYaFZBRUFHT0ZvLUtNUjQ3TzBrSjFyVlB5S1pRTmNjVnF4ZzEtUFBfU3prZXAwWmpwOVpYSEtSM1BaRkQ2X3JLRFJCSmFSVnJvOU43Ykc2czRvSy1wQWxEakFtYUQyb2NXcHhLYmd5RnFFMV8xb0pFLWRrN29Wb0ctQ3BLcXAxNjJudENZYjNwRlU0ckdrRXpudjF4Y0x0YVJvSm82WGRndnZrV3hVLTdGd1p3c2pESHNxN19FZzVCeEhoeU9rZm85TUhkVXhTVzRnQ2hRYk1J?oc=5) (The Times of India)
+- Evidence notes: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR); [Occupational HPV exposure and vaccination among healthcare workers: Implications for institutional vaccination strategies.](https://pubmed.ncbi.nlm.nih.gov/42189578/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -437,9 +437,13 @@ Search window: 7 day(s) ending 2026-05-29
   Limited detail was available from feed metadata alone.
 - [Lagos, Abuja, Rivers, Kano, Cross River, Enugu high-risk areas for Ebola virus outbreak: NCDC](https://gazettengr.com/lagos-abuja-rivers-kano-cross-river-enugu-high-risk-areas-for-ebola-virus-outbreak-ncdc/) | Peoples Gazette Nigeria | 2026-05-29T07:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [China warns citizens against non-essential travel to Congo over Ebola outbreak](https://www.aa.com.tr/en/asia-pacific/china-warns-citizens-against-non-essential-travel-to-congo-over-ebola-outbreak/3950894) | Anadolu Ajansı | 2026-05-29T06:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Burials and tears as Ebola outbreak continues to spread in DRC – in pictures](https://www.theguardian.com/world/gallery/2026/may/29/ebola-outbreak-drc-in-pictures) | The Guardian | 2026-05-29T06:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Aid Supplies Reach Heart of Congo’s Ebola Outbreak](https://english.aawsat.com/world/5278292-aid-supplies-reach-heart-congo%E2%80%99s-ebola-outbreak) | Asharq Al-Awsat English | 2026-05-29T05:59+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What to know about the Bundibugyo virus, a species of Ebola causing an outbreak in Congo](https://philasun.com/health/what-to-know-about-the-bundibugyo-virus-a-species-of-ebola-causing-an-outbreak-in-congo/) | The Philadelphia Sunday Sun | 2026-05-29T03:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC](https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic) | The Guardian | 2026-05-29T02:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -447,18 +451,14 @@ Search window: 7 day(s) ending 2026-05-29
   Limited detail was available from feed metadata alone.
 - [‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline](https://www.theguardian.com/global-development/2026/may/28/medical-staff-ebola-frontline-congolese-doctors-nurses-disease) | The Guardian | 2026-05-29T01:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bundibugyo virus, an Ebola species causing an outbreak in Congo](https://globalnation.inquirer.net/325185/bundibugyo-virus-an-ebola-species-causing-an-outbreak-in-congo) | Inquirer.net | 2026-05-29T00:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Africa Centres for Disease Control and Prevention Holds Briefing on Ebola Outbreak](https://www.c-span.org/program/international-telecasts/africa-centres-for-disease-control-and-prevention-holds-briefing-on-ebola-outbreak/680031) | C-SPAN | 2026-05-29T00:45+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO chief arrives in DR Congo amid Ebola outbreak](https://www.dw.com/en/who-chief-arrives-in-dr-congo-amid-ebola-outbreak/a-77338236) | DW.com | 2026-05-28T23:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US Ebola quarantine facility in Kenya to open Friday](https://thehill.com/policy/healthcare/5900320-field-hospital-quarantine-kenya/) | The Hill | 2026-05-28T21:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh was on target to eliminate measles. Now the disease is killing hundreds of children](https://www.cbc.ca/radio/asithappens/bangladesh-measles-9.7215844) | CBC | 2026-05-28T21:50+00:00 | Outbreaks and emerging infections
   Bangladesh's health ministry has identified more than 60,000 suspected measles cases nationwide , and says more than 500 children have died from confirmed or suspected cases. It can largely be prevented through two doses of vaccine, yet remains one of the leading causes of death among young children globally. Children under five are most vulnerable to severe infection and death, particularly those who have not been vaccinated or have only been partially immunized.
-- [Ebola outbreak in Congo outpaces containment efforts](https://www.wdrb.com/news/wdrb-video/ebola-outbreak-in-congo-outpaces-containment-efforts/video_0b77627d-44be-5481-a4b5-ae321285240b.html) | WDRB | 2026-05-28T21:47+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [A New Ebola Strain Is Threatening Fresh Outbreak. What Are Doctors Doing](https://www.ndtv.com/world-news/ebola-congo-south-sudan-uganda-ebola-africa-news-bundibugyo-ebola-returns-to-a-broken-congo-this-time-with-virus-science-isnt-ready-for-11561765) | NDTV | 2026-05-28T21:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/)
@@ -482,6 +482,8 @@ Search window: 7 day(s) ending 2026-05-29
 
 ## Historical epi / weird epi corner
 - [Burials and tears as Ebola outbreak continues to spread in DRC – in pictures](https://www.theguardian.com/world/gallery/2026/may/29/ebola-outbreak-drc-in-pictures) | The Guardian
+  Limited detail was available from feed metadata alone.
+- [Dr Congo adapts burials amid Ebola outbreak](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ua3VnZ0pFb3ZIa3NSMTZJcExvMmd2dEdsQjVGWDBUU1R3d1JTNEdGeUt5N1ZzZkpmWHpBUGhKdUtnb2Y2YVV2c0ZURmRiX2lhekJGNTQ3Wlo2TWRLbjJrenFITkhkWFludDgyekVXMnZnMnhVQTJta2prNA?oc=5) | France 24
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
