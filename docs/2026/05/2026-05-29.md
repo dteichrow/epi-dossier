@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-29
-Generated at: 2026-05-29T07:49
+Generated at: 2026-05-29T07:59
 Search window: 7 day(s) ending 2026-05-29
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-29
 - [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search; 2026-05-26T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (246), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (245), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 233 item(s) across 136 source(s).
-- Baseline snapshot created with 233 clustered item(s) across 136 source(s).
+- Newly tracked story cluster: 231 item(s) across 135 source(s).
+- Baseline snapshot created with 231 clustered item(s) across 135 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 - CBS News now includes quarantine language.
@@ -41,7 +41,7 @@ Search window: 7 day(s) ending 2026-05-29
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 233 item(s) across 136 source(s); 4 official/primary-source item(s).
+- Topic size: 231 item(s) across 135 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-29T17:36+02:00)
 - Detailed note: Publications orlunwop@who.int Wed, 20/05/2026 - 07:12 Event description On 5 May 2026, the World Health Organization (WHO) received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone (HZ), Ituri Province, Democratic Republic of the Congo (DRC), including reports of four health workers who died within four days. Uganda subsequently confirmed two imported cases on 15 and 16 May 2026.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Kenyan court blocks opening of U.S. Ebola quarantine center on air base](https://www.cbsnews.com/news/ebola-us-kenya-court-blocks-american-quarantine-center-laikipia-air-base/) (CBS News)
@@ -72,19 +72,19 @@ Search window: 7 day(s) ending 2026-05-29
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times, 2026-05-27T02:10+00:00)
+- Detailed note: From Jan 4 to Jan 10, there were 53 reported cases, and 52 reported cases from May 3 to May 9. This is the third time in 2026 that weekly reported cases exceeded 50.
+- Evidence notes: [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times); [Europe could become a chikungunya virus hotspot as heat expands mosquito habitats](https://sg.news.yahoo.com/europe-could-become-chikungunya-virus-145107553.html) (Yahoo News Singapore)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
 ### Diphtheria
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Australia confirms first diphtheria death amid worst outbreak in decades](https://www.bbc.com/news/articles/c759q6y26w3o) (BBC, 2026-05-26T07:09+00:00)
 - Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Australia confirms first diphtheria death amid worst outbreak in decades](https://www.bbc.com/news/articles/c759q6y26w3o) (BBC)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Rift Valley fever
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today, 2026-05-23T12:14+00:00)
-- Detailed note: A total of 13 livestock deaths and 81 abortions were reported among 75 farms were reported in the EPA. Chiradzulu district has an estimated cattle population of 26,017.
-- Evidence notes: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -423,6 +423,8 @@ Search window: 7 day(s) ending 2026-05-29
   Limited detail was available from feed metadata alone.
 - [Kenyan court blocks opening of U.S. Ebola quarantine center on air base](https://www.cbsnews.com/news/ebola-us-kenya-court-blocks-american-quarantine-center-laikipia-air-base/) | CBS News | 2026-05-29T14:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Kenya court halts opening of US Ebola quarantine facility in the country](https://www.bbc.com/news/articles/cpdp74lgzplo) | BBC | 2026-05-29T14:25+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak 'can be stopped,' WHO chief says as he arrives in Congo](https://www.pbs.org/newshour/health/ebola-outbreak-can-be-stopped-who-chief-says-as-he-arrives-in-congo) | PBS | 2026-05-29T13:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What to know about the Bundibugyo virus, a species of Ebola causing an outbreak in Congo](https://m.economictimes.com/news/science/what-to-know-about-the-bundibugyo-virus-a-species-of-ebola-causing-an-outbreak-in-congo/articleshow/131391851.cms) | The Economic Times | 2026-05-29T13:26+00:00 | Outbreaks and emerging infections
@@ -430,8 +432,6 @@ Search window: 7 day(s) ending 2026-05-29
 - [Which vaccines will curb the Ebola outbreak? WHO debates](https://www.statnews.com/2026/05/29/health-news-which-vaccines-will-curb-ebola-outbreak/) | statnews.com | 2026-05-29T12:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO reports 906 suspected cases and 223 suspected deaths from Bundibugyo strain of Ebola](https://www.reuters.com/business/healthcare-pharmaceuticals/906-suspected-cases-223-suspected-deaths-bundibugyo-strain-ebola-who-says-2026-05-29/) | Reuters | 2026-05-29T12:36+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kenya court halts opening of US Ebola quarantine facility in the country](https://www.bbc.com/news/articles/cpdp74lgzplo) | BBC | 2026-05-29T12:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenyan court suspends US Ebola quarantine facility plan](https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan) | Al Jazeera | 2026-05-29T10:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
