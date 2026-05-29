@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-29
-Generated at: 2026-05-29T09:20
+Generated at: 2026-05-29T09:30
 Search window: 7 day(s) ending 2026-05-29
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-29
 - [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search; 2026-05-26T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (254), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (250), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 243 item(s) across 134 source(s).
-- Baseline snapshot created with 243 clustered item(s) across 134 source(s).
+- Newly tracked story cluster: 238 item(s) across 136 source(s).
+- Baseline snapshot created with 238 clustered item(s) across 136 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 - statnews.com now includes quarantine language.
@@ -41,7 +41,7 @@ Search window: 7 day(s) ending 2026-05-29
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 243 item(s) across 134 source(s); 4 official/primary-source item(s).
+- Topic size: 238 item(s) across 136 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-29T17:36+02:00)
 - Detailed note: Publications orlunwop@who.int Wed, 20/05/2026 - 07:12 Event description On 5 May 2026, the World Health Organization (WHO) received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone (HZ), Ituri Province, Democratic Republic of the Congo (DRC), including reports of four health workers who died within four days. Uganda subsequently confirmed two imported cases on 15 and 16 May 2026.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Kenya court suspends U.S. plan for Ebola quarantine facility for Americans](https://www.statnews.com/2026/05/29/kenya-court-suspends-plan-ebola-quarantine-facility-americans/) (statnews.com)
@@ -443,11 +443,7 @@ Search window: 7 day(s) ending 2026-05-29
   Limited detail was available from feed metadata alone.
 - [WHO confirms first recovery in ongoing Ebola outbreak in DR Congo](https://www.turkiyetoday.com/lifestyle/who-confirms-first-recovery-in-ongoing-ebola-outbreak-in-dr-congo-3220893) | Türkiye Today | 2026-05-29T10:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Federal Government lists Lagos, Abuja, 19 states at high risk as Ebola outbreak spreads in Nigeria](https://www.pulse.ng/story/federal-government-lists-lagos-abuja-19-states-at-high-risk-as-ebola-outbreak-spreads-in-nigeria-2026052909460660015) | Pulse Nigeria | 2026-05-29T09:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Court in Kenya Suspends Plans for U.S. Ebola Quarantine Unit](https://www.nytimes.com/2026/05/29/world/africa/us-kenya-quarantine-unit-ebola.html) | The New York Times | 2026-05-29T09:05+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Lagos, Abuja, Rivers, Kano, Cross River, Enugu high-risk areas for Ebola virus outbreak: NCDC](https://gazettengr.com/lagos-abuja-rivers-kano-cross-river-enugu-high-risk-areas-for-ebola-virus-outbreak-ncdc/) | Peoples Gazette Nigeria | 2026-05-29T07:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [China warns citizens against non-essential travel to Congo over Ebola outbreak](https://www.aa.com.tr/en/asia-pacific/china-warns-citizens-against-non-essential-travel-to-congo-over-ebola-outbreak/3950894) | Anadolu Ajansı | 2026-05-29T06:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -458,6 +454,10 @@ Search window: 7 day(s) ending 2026-05-29
 - [Ebola treatment center burns in eastern Congo city of Rwampara](https://apnews.com/video/ebola-treatment-center-burns-in-eastern-congo-city-of-rwampara-8f8896e4cce54ea79e075e653c183d29) | AP News | 2026-05-29T03:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC](https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic) | The Guardian | 2026-05-29T02:10+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak ‘has running start on us,’ ex-CDC director says | On Balance](https://www.newsnationnow.com/video/ebola-outbreak-%E2%80%98has-running-start-on-us%E2%80%99-ex-cdc-director-says-on-balance/11835072/) | NewsNation | 2026-05-29T01:36+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline](https://www.theguardian.com/global-development/2026/may/28/medical-staff-ebola-frontline-congolese-doctors-nurses-disease) | The Guardian | 2026-05-29T01:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
