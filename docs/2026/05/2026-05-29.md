@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-29
-Generated at: 2026-05-29T07:00
+Generated at: 2026-05-29T07:10
 Search window: 7 day(s) ending 2026-05-29
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-05-29
 - [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search; 2026-05-26T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (232), Policy, surveillance, and public health infrastructure (27), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (238), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 228 item(s) across 128 source(s).
-- Baseline snapshot created with 228 clustered item(s) across 128 source(s).
+- Newly tracked story cluster: 230 item(s) across 132 source(s).
+- Baseline snapshot created with 230 clustered item(s) across 132 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 - statnews.com now foregrounds vaccination or vaccine policy in the story.
@@ -41,7 +41,7 @@ Search window: 7 day(s) ending 2026-05-29
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 228 item(s) across 128 source(s); 4 official/primary-source item(s).
+- Topic size: 230 item(s) across 132 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-05-29T17:36+02:00)
 - Detailed note: Publications orlunwop@who.int Wed, 20/05/2026 - 07:12 Event description On 5 May 2026, the World Health Organization (WHO) received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone (HZ), Ituri Province, Democratic Republic of the Congo (DRC), including reports of four health workers who died within four days. Uganda subsequently confirmed two imported cases on 15 and 16 May 2026.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak 'can be stopped,' WHO chief says as he arrives in Congo](https://www.pbs.org/newshour/health/ebola-outbreak-can-be-stopped-who-chief-says-as-he-arrives-in-congo) (PBS)
@@ -72,19 +72,19 @@ Search window: 7 day(s) ending 2026-05-29
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Diphtheria
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Australia confirms first diphtheria death amid worst outbreak in decades](https://www.bbc.com/news/articles/c759q6y26w3o) (BBC, 2026-05-26T07:09+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Australia confirms first diphtheria death amid worst outbreak in decades](https://www.bbc.com/news/articles/c759q6y26w3o) (BBC)
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times, 2026-05-27T02:10+00:00)
+- Detailed note: From Jan 4 to Jan 10, there were 53 reported cases, and 52 reported cases from May 3 to May 9. This is the third time in 2026 that weekly reported cases exceeded 50.
+- Evidence notes: [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times); [Europe could become a chikungunya virus hotspot as heat expands mosquito habitats](https://sg.news.yahoo.com/europe-could-become-chikungunya-virus-145107553.html) (Yahoo News Singapore)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Rift Valley fever
+### Malaria
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today, 2026-05-23T12:14+00:00)
-- Detailed note: A total of 13 livestock deaths and 81 abortions were reported among 75 farms were reported in the EPA. Chiradzulu district has an estimated cattle population of 26,017.
-- Evidence notes: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today)
+- Lead item: [Malaria outbreak worsens in Yemen as rainy season arrives](https://www.bastillepost.com/global/article/5886538-malaria-outbreak-worsens-in-yemen-as-rainy-season-arrives) (巴士的報, 2026-05-27T09:00+00:00)
+- Detailed note: According to the World Health Organization, about 24 million Yemenis -- nearly 64 percent of the population -- live in areas at high risk of malaria transmission. "At Al-Jomhouri Hospital's emergency department, we receive many fever cases every day.
+- Evidence notes: [Malaria outbreak worsens in Yemen as rainy season arrives](https://www.bastillepost.com/global/article/5886538-malaria-outbreak-worsens-in-yemen-as-rainy-season-arrives) (巴士的報)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -437,6 +437,8 @@ Search window: 7 day(s) ending 2026-05-29
   Limited detail was available from feed metadata alone.
 - [Emirates issues travel rules amid Ebola outbreak as US, Canada increase airport screening measures](https://timesofindia.indiatimes.com/world/middle-east/emirates-issues-travel-rules-amid-ebola-outbreak-as-us-canada-increase-airport-screening-measures/articleshow/131386474.cms) | The Times of India | 2026-05-29T09:17+00:00 | Outbreaks and emerging infections
   Read More Top 10 richest countries in the world in 2026 by GDP: From Liechtenstein to Denmark NASAâs James Webb Telescope found a Saturn-sized planet with Earth-like temperatures and a methane-rich atmosphere Why scientists are sending stem cells to space to fight cancer and deadly diseases Meet Tibor GÃ¡nti: The forgotten scientist who explained life decades before modern biology caught up With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.
+- [Lagos, Abuja, Rivers, Kano, Cross River, Enugu high-risk areas for Ebola virus outbreak: NCDC](https://gazettengr.com/lagos-abuja-rivers-kano-cross-river-enugu-high-risk-areas-for-ebola-virus-outbreak-ncdc/) | Peoples Gazette Nigeria | 2026-05-29T07:25+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [China warns citizens against non-essential travel to Congo over Ebola outbreak](https://www.aa.com.tr/en/asia-pacific/china-warns-citizens-against-non-essential-travel-to-congo-over-ebola-outbreak/3950894) | Anadolu Ajansı | 2026-05-29T06:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Burials and tears as Ebola outbreak continues to spread in DRC – in pictures](https://www.theguardian.com/world/gallery/2026/may/29/ebola-outbreak-drc-in-pictures) | The Guardian | 2026-05-29T06:00+00:00 | Outbreaks and emerging infections
@@ -456,8 +458,6 @@ Search window: 7 day(s) ending 2026-05-29
 - [Bangladesh was on target to eliminate measles. Now the disease is killing hundreds of children](https://www.cbc.ca/radio/asithappens/bangladesh-measles-9.7215844) | CBC | 2026-05-28T21:50+00:00 | Outbreaks and emerging infections
   Bangladesh's health ministry has identified more than 60,000 suspected measles cases nationwide , and says more than 500 children have died from confirmed or suspected cases. It can largely be prevented through two doses of vaccine, yet remains one of the leading causes of death among young children globally. Children under five are most vulnerable to severe infection and death, particularly those who have not been vaccinated or have only been partially immunized.
 - [Ebola outbreak in Congo outpaces containment efforts](https://www.wdrb.com/news/wdrb-video/ebola-outbreak-in-congo-outpaces-containment-efforts/video_0b77627d-44be-5481-a4b5-ae321285240b.html) | WDRB | 2026-05-28T21:47+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Uganda shuts DR Congo border as Ebola outbreak continues to grow](https://www.cidrap.umn.edu/ebola/uganda-shuts-dr-congo-border-ebola-outbreak-continues-grow) | CIDRAP | 2026-05-28T20:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
