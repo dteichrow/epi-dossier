@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-29
-Generated at: 2026-05-29T00:40
+Generated at: 2026-05-29T00:50
 Search window: 7 day(s) ending 2026-05-29
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-05-29
 - [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search; 2026-05-26T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (233), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (232), Policy, surveillance, and public health infrastructure (27), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -438,6 +438,8 @@ Search window: 7 day(s) ending 2026-05-29
   Limited detail was available from feed metadata alone.
 - [Canada, U.S., Mexico announce Ebola travel measures for FIFA World Cup](https://www.cbc.ca/news/world/congo-fifa-ebola-9.7214863) | CBC | 2026-05-28T20:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ottawa earmarks $8-million for Ebola aid in DRC, Uganda, South Sudan as outbreak expands](https://www.theglobeandmail.com/canada/article-ottawa-ebola-aid-outbreak-drc-uganda-south-sudan/) | The Globe and Mail | 2026-05-28T19:55+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Quarantine Unit for Americans Exposed to Ebola to Open in Kenya Friday](https://www.nytimes.com/2026/05/28/us/quarantine-americans-ebola-kenya.html) | The New York Times | 2026-05-28T19:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Letters: U.S. played a part in Ebola outbreak in Congo, Uganda](https://www.sfchronicle.com/opinion/letterstotheeditor/article/ebola-congo-africa-disease-22279437.php) | San Francisco Chronicle | 2026-05-28T19:42+00:00 | Outbreaks and emerging infections
@@ -447,8 +449,6 @@ Search window: 7 day(s) ending 2026-05-29
 - [Ebola outbreak: Trump admin surges aid to Congo](https://www.fox9.com/video/fmc-apu2fegatmk66pf2) | FOX 9 Minneapolis-St. Paul | 2026-05-28T17:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo cleared for 2026 World Cup amid Ebola outbreak](https://www.usatoday.com/story/sports/soccer/worldcup/2026/05/28/dr-congo-2026-fifa-world-cup-ebola-outbreak/90293620007/) | USA Today | 2026-05-28T15:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Over 240 killed in Ebola outbreak as officials work to stop the spread](https://www.cbsnews.com/chicago/video/over-240-killed-in-ebola-outbreak-as-officials-work-to-stop-the-spread/) | CBS News | 2026-05-28T14:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -473,6 +473,8 @@ Search window: 7 day(s) ending 2026-05-29
 
 ## Historical epi / weird epi corner
 - [Burials and tears as Ebola outbreak continues to spread in DRC – in pictures](https://www.theguardian.com/world/gallery/2026/may/29/ebola-outbreak-drc-in-pictures) | The Guardian
+  Limited detail was available from feed metadata alone.
+- [Dr Congo adapts burials amid Ebola outbreak](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ua3VnZ0pFb3ZIa3NSMTZJcExvMmd2dEdsQjVGWDBUU1R3d1JTNEdGeUt5N1ZzZkpmWHpBUGhKdUtnb2Y2YVV2c0ZURmRiX2lhekJGNTQ3Wlo2TWRLbjJrenFITkhkWFludDgyekVXMnZnMnhVQTJta2prNA?oc=5) | France 24
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
