@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-05-31
-Generated at: 2026-05-31T05:12
+Generated at: 2026-05-31T05:18
 Search window: 7 day(s) ending 2026-05-31
 
 ## Executive scan
@@ -12,22 +12,22 @@ Search window: 7 day(s) ending 2026-05-31
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (268), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (264), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News)
-- Newly tracked story cluster: 237 item(s) across 136 source(s).
-- Baseline snapshot created with 237 clustered item(s) across 136 source(s).
+- Newly tracked story cluster: 234 item(s) across 135 source(s).
+- Baseline snapshot created with 234 clustered item(s) across 135 source(s).
 - Hasht-e Subh Daily now reports conflict over body retrieval or burial practices.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 26 item(s) across 23 source(s).
-- Baseline snapshot created with 26 clustered item(s) across 23 source(s).
+- Newly tracked story cluster: 25 item(s) across 22 source(s).
+- Baseline snapshot created with 25 clustered item(s) across 22 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
@@ -47,15 +47,15 @@ Search window: 7 day(s) ending 2026-05-31
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 237 item(s) across 136 source(s); 3 official/primary-source item(s).
+- Topic size: 234 item(s) across 135 source(s); 3 official/primary-source item(s).
 - Lead item: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News, 2026-05-27T10:00+02:00)
 - Detailed note: Publications orlunwop@who.int Wed, 20/05/2026 - 07:12 Event description On 5 May 2026, the World Health Organization (WHO) received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone (HZ), Ituri Province, Democratic Republic of the Congo (DRC), including reports of four health workers who died within four days. Uganda subsequently confirmed two imported cases on 15 and 16 May 2026....
-- Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [WHO chief hails 5 Ebola recoveries as a new treatment center opens in eastern Congo](https://www.tdtnews.com/news/nation_world/article_81e80de9-6835-5cb0-ab06-cdfb1e803069.html) (Temple Daily Telegram); [Zambia says two suspected Ebola cases test negative, steps up screening](https://clubofmozambique.com/news/zambia-says-two-suspected-ebola-cases-test-negative-steps-up-screening/) (CLUB OF MOZAMBIQUE)
+- Evidence notes: [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [WHO chief hails 5 Ebola recoveries as a new treatment center opens in eastern Congo](https://www.tdtnews.com/news/nation_world/article_81e80de9-6835-5cb0-ab06-cdfb1e803069.html) (Temple Daily Telegram); [WHO Chief: Unsafe Burials Contributing to Spread of Ebola in Congo](https://8am.media/eng/who-chief-unsafe-burials-contributing-to-spread-of-ebola-in-congo/) (Hasht-e Subh Daily)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 26 item(s) across 23 source(s); 3 official/primary-source item(s).
+- Topic size: 25 item(s) across 22 source(s); 3 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Administration-site pain (29.0%-39.0% of participants) and systemic drowsiness (9.0%-15.9%) were the most common solicited AEs. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
 - Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [US nears 2,000 measles cases as scientists note brain inflammation, pneumonia in hospital cases](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYV83VEppeklGeEtLUmgxeVF5ZzFZTjRGZUI2TWs4a2xuSTU5blFqYV8ydk8xUmppN29yR2M5YW9jZmJjbVFscTdyOExLdnJhbDZwQXlSakxXcEg2Q2d5bU1CWlZDYWVZa2JyLVlEMUc3V0RHa2FGZHU4dDBSejNZbkEwWkRxZE9VM2RIM1p2S2FOTU95bnUzWWpZSUJXNUVnR1BaaXJaNmNXbWRleVM0UDdiaXNEWnd0dEY1TzNlYw?oc=5) (CIDRAP); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
@@ -433,8 +433,6 @@ Search window: 7 day(s) ending 2026-05-31
   Limited detail was available from feed metadata alone.
 - [WHO chief hails 5 Ebola recoveries as a new treatment center opens in eastern Congo](https://www.tdtnews.com/news/nation_world/article_81e80de9-6835-5cb0-ab06-cdfb1e803069.html) | Temple Daily Telegram | 2026-05-31T11:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Zambia says two suspected Ebola cases test negative, steps up screening](https://clubofmozambique.com/news/zambia-says-two-suspected-ebola-cases-test-negative-steps-up-screening/) | CLUB OF MOZAMBIQUE | 2026-05-31T05:18+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO Chief: Unsafe Burials Contributing to Spread of Ebola in Congo](https://8am.media/eng/who-chief-unsafe-burials-contributing-to-spread-of-ebola-in-congo/) | Hasht-e Subh Daily | 2026-05-31T04:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Expands Ebola Testing as Outbreak’s Real Scale Eludes Officials](https://www.bloomberg.com/news/articles/2026-05-31/confirmed-ebola-cases-in-congo-rise-as-who-msf-warn-of-further-spread) | Bloomberg | 2026-05-31T01:26+00:00 | Outbreaks and emerging infections
@@ -444,8 +442,6 @@ Search window: 7 day(s) ending 2026-05-31
 - [Video Deadly Ebola outbreak spreading - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133457262/) | ABC News - Breaking News, Latest News and Videos | 2026-05-31T00:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Top W.H.O. official in Ebola epicenter as deadly outbreak spreads](https://www.nbcnews.com/nightly-news/video/top-w-h-o-official-in-ebola-epicenter-as-deadly-outbreak-spreads-264230469791) | NBC News | 2026-05-30T23:10+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-05-30T21:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO chief visits epicenter of the Ebola outbreak in eastern Congo as cases outpace response](https://www.djournal.com/news/nation-world/who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cases-outpace-response/article_79315ac4-8b06-57a5-a665-5948d8d73cd3.html) | Northeast Mississippi Daily Journal | 2026-05-30T20:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -464,6 +460,10 @@ Search window: 7 day(s) ending 2026-05-31
 - [Former CDC director believes US will likely see Ebola cases](https://www.newsnationnow.com/health/cdc-ebola-cases-united-states/) | NewsNation | 2026-05-30T13:22+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [WHO chief visits Ebola epicentre in DR Congo, as death toll rises](https://www.france24.com/en/who-chief-visits-ebola-epicentre-in-dr-congo-as-death-toll-rises) | France 24 | 2026-05-30T12:25+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Video: Congo rebuilds Ebola treatment center after arson](https://www.livetube.tv/news/video-congo-rebuilds-ebola-treatment-center-after-arson) | LiveTube | 2026-05-30T12:24+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Nigeria puts 21 states on Ebola alert amid rising regional outbreak concerns](https://www.daijiworld.com/news/newsDisplay?newsID\=1315881) | Daijiworld | 2026-05-30T11:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -498,6 +498,8 @@ Search window: 7 day(s) ending 2026-05-31
 - [WHO chief heads to Ebola epicentre](https://news.sky.com/story/who-chief-heads-to-ebola-epicentre-as-brazil-investigates-suspected-case-13549431) | Sky News World
   The World Health Organisation (WHO) chief has visited the province hardest hit by the Ebola outbreak in the Democratic Republic of Congo (DRC), urging residents to seek treatment and practice safe burials.
 - [Burials and tears as Ebola outbreak continues to spread in DRC – in pictures](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHVUNDNLdmNkZHdpczVkUEYtQ1VHSlo2MlBpQTJha3dmcW9BVUNCWHp3N24tMGhEX1piVkZwWnNjUFBPVE9qem5ON2VtSS1XTVphc1Z0WUxyckVuSmZLUEp6ZTZzdEg4OHdEcDd5d0RMcUV2UTdzcnROX3RYMURIbWloQ2JCb1FCUEhydw?oc=5) | The Guardian
+  Limited detail was available from feed metadata alone.
+- [Dr Congo adapts burials amid Ebola outbreak](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ua3VnZ0pFb3ZIa3NSMTZJcExvMmd2dEdsQjVGWDBUU1R3d1JTNEdGeUt5N1ZzZkpmWHpBUGhKdUtnb2Y2YVV2c0ZURmRiX2lhekJGNTQ3Wlo2TWRLbjJrenFITkhkWFludDgyekVXMnZnMnhVQTJta2prNA?oc=5) | France 24
   Limited detail was available from feed metadata alone.
 - [WHO chief urges safe burials in visit to heart of Ebola outbreak](https://tucson.com/life-entertainment/nation-world/wellness/article_32cc582b-482a-54b4-b6c1-dda79bd95701.html) | Arizona Daily Star
   Limited detail was available from feed metadata alone.
