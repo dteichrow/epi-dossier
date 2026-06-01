@@ -474,7 +474,7 @@
       "related_stories": [
         {
           "display_title": "Mpox",
-          "latest_update_summary": "Baseline snapshot created with 5 clustered item(s) across 4 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
           "story_id": "story_5681bc9ce748c463",
           "story_url": "stories/story_5681bc9ce748c463-mpox.html",
           "story_web_path": "stories/story_5681bc9ce748c463-mpox.html"
@@ -1865,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-01T03:20:13",
-  "run_id": "run_f421ed7e31f0b3fd"
+  "generated_at": "2026-06-01T03:30:13",
+  "run_id": "run_aa620950a078b58b"
 }
