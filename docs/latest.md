@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-01
-Generated at: 2026-06-01T10:41
+Generated at: 2026-06-01T10:51
 Search window: 7 day(s) ending 2026-06-01
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-01
 - [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (186), Policy, surveillance, and public health infrastructure (25), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (201), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 184 item(s) across 122 source(s).
-- Baseline snapshot created with 184 clustered item(s) across 122 source(s).
+- Newly tracked story cluster: 200 item(s) across 116 source(s).
+- Baseline snapshot created with 200 clustered item(s) across 116 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
@@ -33,7 +33,7 @@ Search window: 7 day(s) ending 2026-06-01
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 184 item(s) across 122 source(s); 5 official/primary-source item(s).
+- Topic size: 200 item(s) across 116 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -47,6 +47,14 @@ Search window: 7 day(s) ending 2026-06-01
 - Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Southern Health residents invited to telephone town hall amid measles outbreak](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-vaccine-town-hall-9.7217073) (CBC); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC); [Tragic measles outbreak claims over 500 children's lives in Bangladesh](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXZ5LTNlaHVBbDR3QWphVDZwUjZvY0hpWmFCSUtFVlZ4aVN6VVpYSFZoUF9SLXJaYTFnSndJbW1fRXlTUTY2NXlMYnVreXNOUFNUQ2NQdGtHbGw4RzVyWmkyNEpIazhhMHdCOEFHWkJPVS1PNTZBZlp3SzBmcUd0VVpBR0M4Z0lSbzBrc2Q2aFpDTkVDLWxiUWVFVmlWN21kVjhGdjc1ckF6MnlYajBTS3FLVVdOSDA?oc=5) (IOL)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Miscellaneous signals
+- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Lead item: [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search, 2026-05-30T00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Andhra Pradesh sets up Ebola screening camp at Vijayawada International Airport amid global health alert](https://www.hornbilltv.com/national_news/andhra-pradesh-sets-up-ebola-screening-camp-at-vijayawada-international-airport/208401) (Hornbill TV)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Mpox
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
@@ -63,14 +71,6 @@ Search window: 7 day(s) ending 2026-06-01
 - Evidence notes: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search, 2026-05-30T00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Occupational and environmental epidemiology
 - Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
@@ -427,29 +427,29 @@ Search window: 7 day(s) ending 2026-06-01
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases in Congo reach 282 as survivors describe their recoveries](https://www.houstonpublicmedia.org/npr/2026/06/01/g-s1-125143/confirmed-ebola-cases-in-congo-reach-282-as-survivors-describe-their-recoveries/) | Houston Public Media | 2026-06-01T11:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [U.S. cements position as top Ebola donor with over $212 million for Africa's outbreak response](https://africa.businessinsider.com/local/lifestyle/us-cements-position-as-top-ebola-donor-with-over-dollar212-million-for-africas/nfjwpsx) | Business Insider Africa | 2026-06-01T11:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [African leaders rally funding and regional response as Ebola outbreak threatens wider spread](https://africabusinesscommunities.com/health-industry/african-leaders-rally-funding-and-regional-response-as-ebola-outbreak-threatens-wider-spread/) | Africa Business Communities | 2026-06-01T11:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Southern Health residents invited to telephone town hall amid measles outbreak](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-vaccine-town-hall-9.7217073) | CBC | 2026-06-01T11:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: DR Congo celebrates recovery of five nurses](https://www.bbc.com/news/articles/cz928xq588no) | BBC | 2026-06-01T09:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Global Tourism on the Brink: 2026 Ebola Outbreak in DRC, Uganda, South Sudan, Sierra Leone, Liberia Sparks Worldwide Travel Panic and Billion-Dollar Economic Meltdown](https://www.travelandtourworld.com/news/article/p9bsp1p7o107/) | Travel And Tour World | 2026-06-01T08:55+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [China is sending medical team to assist with DR Congo Ebola outbreak](https://nation.africa/kenya/news/world/china-is-sending-medical-team-to-assist-with-dr-congo-ebola-outbreak-5480674) | Daily Nation | 2026-06-01T08:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola recoveries bring signs of hope in DRC as suspected cases emerge outside Africa](https://www.tbsnews.net/worldbiz/africa/ebola-recoveries-bring-signs-hope-drc-suspected-cases-emerge-outside-africa-1451476) | The Business Standard | 2026-06-01T05:45+00:00 | Outbreaks and emerging infections
+- [China is sending medical team to assist with DRC Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/china-is-sending-medical-team-assist-with-drc-ebola-outbreak-2026-06-01/) | Reuters | 2026-06-01T08:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) | Daily Mirror - Sri Lanka | 2026-06-01T04:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Rare Bundibugyo Strain Of Ebola Cause Of Outbreak In Africa, Cases Outpace Response](https://www.ndtv.com/health/news/what-to-know-about-the-outbreak-of-a-rare-kind-of-ebola-as-cases-outpace-response-11572222) | NDTV | 2026-06-01T04:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak leaves health-care workers desperate for supplies](https://www.cbc.ca/player/play/video/9.7218714) | CBC | 2026-06-01T02:56+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO calls for community cooperation to contain Ebola outbreak in DRC](https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak) | The Guardian | 2026-06-01T01:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Outbreak Now Third-Largest On Record As Suspected Cases Pass 1,000](https://healthpolicy-watch.news/congo-ebola-outbreak-now-third-largest-on-record-as-suspected-cases-pass-1000/) | healthpolicy-watch.news | 2026-05-31T23:38+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Health Ministry officials discuss ongoing Ebola outbreak in Africa](https://www.jpost.com/health-and-wellness/article-897930) | The Jerusalem Post | 2026-05-31T22:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Over 40 dead in Ebola outbreak in DR Congo and Uganda](https://www.nbcnews.com/world/africa/40-dead-ebola-outbreak-dr-congo-uganda-rcna347745) | NBC News | 2026-05-31T17:53+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa CDC Says Over 1,100 Suspected Ebola Cases In DR Congo And Uganda](https://www.barrons.com/news/africa-cdc-says-over-1-100-suspected-ebola-cases-in-dr-congo-and-uganda-373233af) | Barron's | 2026-05-31T16:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Suspected Ebola case in Cagliari, patient in hospital](https://www.euronews.com/health/2026/05/31/suspected-ebola-case-in-cagliari-patient-in-hospital) | Euronews.com | 2026-05-31T16:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -465,6 +465,8 @@ Search window: 7 day(s) ending 2026-06-01
   Limited detail was available from feed metadata alone.
 - [WHO chief heads to Ebola epicentre](https://news.sky.com/story/who-chief-heads-to-ebola-epicentre-as-brazil-investigates-suspected-case-13549431) | Sky News World
   The World Health Organisation (WHO) chief has visited the province hardest hit by the Ebola outbreak in the Democratic Republic of Congo (DRC), urging residents to seek treatment and practice safe burials.
+- [Dr Congo adapts burials amid Ebola outbreak](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ua3VnZ0pFb3ZIa3NSMTZJcExvMmd2dEdsQjVGWDBUU1R3d1JTNEdGeUt5N1ZzZkpmWHpBUGhKdUtnb2Y2YVV2c0ZURmRiX2lhekJGNTQ3Wlo2TWRLbjJrenFITkhkWFludDgyekVXMnZnMnhVQTJta2prNA?oc=5) | France 24
+  Limited detail was available from feed metadata alone.
 - [WHO chief urges safe burials in visit to heart of Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxNam1QemVPSEgwajFDWlVHZlg0ZlpLenFTSUpVUFpzQk5DNlhEUDRwc182Z1VEUm9lTHlsb2l0RDBza0hZZFNna2RaQlBsc3N4Nm16V1JDUE91VUwyOFJtaWo1ZXlDZ3hCYWQyLTNuNnA0S2tvb01nVGNxXzZ3RHltc0hselRmTnlHU01NSEFRTVRoWkxBdFE?oc=5) | The Japan Times
   Limited detail was available from feed metadata alone.
 
