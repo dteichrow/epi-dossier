@@ -2,6 +2,7 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -14,21 +15,21 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 260,
+    "metadata_only_count": 263,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 276,
+    "sources_live": 278,
     "story_count_change": 2,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 276,
+    "live": 278,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-01T12:31:00",
+  "generated_at": "2026-06-01T12:41:05",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
