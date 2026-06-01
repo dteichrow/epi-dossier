@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-01
-Generated at: 2026-06-01T09:00
+Generated at: 2026-06-01T09:34
 Search window: 7 day(s) ending 2026-06-01
 
 ## Executive scan
@@ -10,33 +10,27 @@ Search window: 7 day(s) ending 2026-06-01
 - [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search; 2026-05-30T00:00; Major epidemiology studies; relevance 5/5)
 - [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (239), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search; 2026-05-26T00:00; Major epidemiology studies; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (245), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (3)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 230 item(s) across 129 source(s).
-- Baseline snapshot created with 230 clustered item(s) across 129 source(s).
+- Newly tracked story cluster: 238 item(s) across 134 source(s).
+- Baseline snapshot created with 238 clustered item(s) across 134 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 30 item(s) across 27 source(s).
-- Baseline snapshot created with 30 clustered item(s) across 27 source(s).
+- Newly tracked story cluster: 29 item(s) across 26 source(s).
+- Baseline snapshot created with 29 clustered item(s) across 26 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
-
-### Mpox
-- Lead item: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR)
@@ -47,7 +41,7 @@ Search window: 7 day(s) ending 2026-06-01
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 230 item(s) across 129 source(s); 5 official/primary-source item(s).
+- Topic size: 238 item(s) across 134 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -55,7 +49,7 @@ Search window: 7 day(s) ending 2026-06-01
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 30 item(s) across 27 source(s); 3 official/primary-source item(s).
+- Topic size: 29 item(s) across 26 source(s); 3 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Administration-site pain (29.0%-39.0% of participants) and systemic drowsiness (9.0%-15.9%) were the most common solicited AEs. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
 - Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Immunogenicity and safety of an investigational quadrivalent measles, mumps, rubella, and varicella vaccine in children aged 4-6 years: A phase II, randomized, multi-country trial.](https://pubmed.ncbi.nlm.nih.gov/42189573/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Southern Health residents invited to telephone town hall amid measles outbreak](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-vaccine-town-hall-9.7217073) (CBC); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
@@ -63,10 +57,10 @@ Search window: 7 day(s) ending 2026-06-01
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Mpox
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa, 2026-06-01T09:28+00:00)
 - Detailed note: It also highlights renewed commitments by Health Development Partners to align support behind national priorities and WHO's continued support to disease outbreak response and community protection efforts across the country. This edition features progress in health financing reforms, efforts to enhance health security and emergency preparedness, the launch of new support for Mpox preparedness, and the Government's...
-- Evidence notes: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa); [Western Australia reports 22 mpox cases in 2026 to date](https://news.google.com/rss/articles/CBMif0FVX3lxTE9rTTZLVC1idmxHN0J1eWdOYUdJZGVaQXJ1NzhGV1J2dnhPOHRpWm40c3YzVnV0WlJ6bWZjQ2VMUHYzVDl1cjUtcXh3MXUwRVYwcFU1cHhyVWNRRWVlcUZDWmJ6ZUZRQ25leVJoSzZIYWFmM0hIUllVNzVxZ0hUbEU?oc=5) (Outbreak News Today); [Clade I Monkeypox Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IZXZGczIyczRIMklCMW1aQm1obU53WjlJYUY4bEVBRXJjMHBCcVRtdy1fVk1ZNWg4R3B3ZDNwREQ4TXdvVEw3M1dDZnA4Q0ZPeUtDajBFUGcwTVRObklzbWhzbHM5UQ?oc=5) (Centers for Disease Control and Prevention)
+- Evidence notes: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa); [Clade I Monkeypox Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IZXZGczIyczRIMklCMW1aQm1obU53WjlJYUY4bEVBRXJjMHBCcVRtdy1fVk1ZNWg4R3B3ZDNwREQ4TXdvVEw3M1dDZnA4Q0ZPeUtDajBFUGcwTVRObklzbWhzbHM5UQ?oc=5) (Centers for Disease Control and Prevention)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -79,10 +73,10 @@ Search window: 7 day(s) ending 2026-06-01
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search, 2026-05-30T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks)
+- Evidence notes: [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search); [Andhra Pradesh sets up Ebola screening camp at Vijayawada International Airport amid global health alert](https://www.hornbilltv.com/national_news/andhra-pradesh-sets-up-ebola-screening-camp-at-vijayawada-international-airport/208401) (Hornbill TV)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -383,16 +377,6 @@ Search window: 7 day(s) ending 2026-06-01
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-05-28T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1358 with date posted 1/14/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Moringa Leaf Powder.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies
 - Source: ECDC News
 - Date: 2026-05-27T10:00+02:00
@@ -423,10 +407,18 @@ Search window: 7 day(s) ending 2026-06-01
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Measles Outbreaks 2025
+- Source: CDC Current Outbreak List
+- Date: Unknown
+- URL: https://www.cdc.gov/measles/data-research/
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) | NBC News | 2026-06-01T15:45+00:00 | Outbreaks and emerging infections
@@ -459,11 +451,13 @@ Search window: 7 day(s) ending 2026-06-01
   Limited detail was available from feed metadata alone.
 - [WHO calls for community cooperation to contain Ebola outbreak in DRC](https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak) | The Guardian | 2026-06-01T01:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola Outbreak Now Third-Largest On Record As Suspected Cases Pass 1,000](https://healthpolicy-watch.news/congo-ebola-outbreak-now-third-largest-on-record-as-suspected-cases-pass-1000/) | healthpolicy-watch.news | 2026-05-31T23:38+00:00 | Outbreaks and emerging infections
+- [Congo Ebola Outbreak Now Third-Largest On Record As Suspected Cases Pass 1,000](https://healthpolicy-watch.news/congo-ebola-outbreak-now-third-largest-on-record-as-suspected-cases-pass-1000/) | Health Policy Watch | 2026-05-31T23:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Over 40 dead in Ebola outbreak in DR Congo and Uganda](https://www.nbcnews.com/world/africa/40-dead-ebola-outbreak-dr-congo-uganda-rcna347745) | NBC News | 2026-05-31T17:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC Says Over 1,100 Suspected Ebola Cases In DR Congo And Uganda](https://www.barrons.com/news/africa-cdc-says-over-1-100-suspected-ebola-cases-in-dr-congo-and-uganda-373233af) | Barron's | 2026-05-31T16:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Suspected Ebola case in Cagliari, patient in hospital](https://www.euronews.com/health/2026/05/31/suspected-ebola-case-in-cagliari-patient-in-hospital) | Euronews.com | 2026-05-31T16:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -492,6 +486,8 @@ Search window: 7 day(s) ending 2026-06-01
 - [WHO chief heads to Ebola epicentre](https://news.sky.com/story/who-chief-heads-to-ebola-epicentre-as-brazil-investigates-suspected-case-13549431) | Sky News World
   The World Health Organisation (WHO) chief has visited the province hardest hit by the Ebola outbreak in the Democratic Republic of Congo (DRC), urging residents to seek treatment and practice safe burials.
 - [DW News. . Carpenters were reconstructing an Ebola treatment center in in eastern DR Congo on Friday. The facilities were burned down earlier this month when a crowd angry over the burial of an Ebola victim stormed the hospital. #dwnews](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFZHTlZGQjI1VlpkazZXRFJHekhnb2pibVcwbW9jSWNVSkl6T1A1X0hjR3NhczdhaDJ0dVA5Zk9rSklOdFFPRVBsaUxsMm52bWd5S3MyQTdBLUpBM21BVVpqdW9UMWpQdVJsMlFwUmgtMmpJQjVoaExUSm9ib1RTLUVOMjcyZEYtdHhpbFpmQ1RxcC1helpaX19SWnpBMG9keE9vMWd0UTQ2eWpNRGdiS2o5QmpsUUEyRGlR?oc=5) | facebook.com
+  Limited detail was available from feed metadata alone.
+- [Burials and tears as Ebola outbreak continues to spread in DRC – in pictures](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHVUNDNLdmNkZHdpczVkUEYtQ1VHSlo2MlBpQTJha3dmcW9BVUNCWHp3N24tMGhEX1piVkZwWnNjUFBPVE9qem5ON2VtSS1XTVphc1Z0WUxyckVuSmZLUEp6ZTZzdEg4OHdEcDd5d0RMcUV2UTdzcnROX3RYMURIbWloQ2JCb1FCUEhydw?oc=5) | The Guardian
   Limited detail was available from feed metadata alone.
 - [Dr Congo adapts burials amid Ebola outbreak](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ua3VnZ0pFb3ZIa3NSMTZJcExvMmd2dEdsQjVGWDBUU1R3d1JTNEdGeUt5N1ZzZkpmWHpBUGhKdUtnb2Y2YVV2c0ZURmRiX2lhekJGNTQ3Wlo2TWRLbjJrenFITkhkWFludDgyekVXMnZnMnhVQTJta2prNA?oc=5) | France 24
   Limited detail was available from feed metadata alone.
