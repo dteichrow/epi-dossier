@@ -471,7 +471,15 @@
       "reference_name": "Mpox",
       "reference_url": "reference/mpox.html",
       "reference_web_path": "reference/mpox.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Mpox",
+          "latest_update_summary": "Baseline snapshot created with 5 clustered item(s) across 4 source(s).",
+          "story_id": "story_5681bc9ce748c463",
+          "story_url": "stories/story_5681bc9ce748c463-mpox.html",
+          "story_web_path": "stories/story_5681bc9ce748c463-mpox.html"
+        }
+      ],
       "route_count": 3,
       "slug": "mpox",
       "spread_routes": [
@@ -541,7 +549,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Forest-zone recognition, animal trade jumps, and networked global spread",
       "summary": "Mpox belongs in the atlas because it combines a geographically anchored Central/West African history with abrupt export through wildlife trade and then a very different twenty-first century global transmission pattern.",
       "variant_count": 0,
@@ -1857,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-01T02:30:12",
-  "run_id": "run_bead2e0632dd6522"
+  "generated_at": "2026-06-01T02:41:20",
+  "run_id": "run_c404b114ee10c0ac"
 }
