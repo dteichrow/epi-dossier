@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-01
-Generated at: 2026-06-01T12:41
+Generated at: 2026-06-01T13:11
 Search window: 7 day(s) ending 2026-06-01
 
 ## Executive scan
@@ -12,29 +12,35 @@ Search window: 7 day(s) ending 2026-06-01
 - [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-05-28T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (247), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (245), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 242 item(s) across 142 source(s).
-- Baseline snapshot created with 242 clustered item(s) across 142 source(s).
+- Newly tracked story cluster: 241 item(s) across 142 source(s).
+- Baseline snapshot created with 241 clustered item(s) across 142 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 26 item(s) across 24 source(s).
-- Baseline snapshot created with 26 clustered item(s) across 24 source(s).
+- Newly tracked story cluster: 25 item(s) across 23 source(s).
+- Baseline snapshot created with 25 clustered item(s) across 23 source(s).
 - CIDRAP now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
+
+### Dengue and arboviruses
+- Lead item: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 242 item(s) across 142 source(s); 5 official/primary-source item(s).
+- Topic size: 241 item(s) across 142 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -42,12 +48,20 @@ Search window: 7 day(s) ending 2026-06-01
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 26 item(s) across 24 source(s); 2 official/primary-source item(s).
+- Topic size: 25 item(s) across 23 source(s); 2 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: Of the 70,936 total cases and 585 deaths, a respective 9,049 and 90 have been lab-confirmed, the National Herald India reports. During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
 - Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP); [Southern Health residents invited to telephone town hall amid measles outbreak](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-vaccine-town-hall-9.7217073) (CBC); [Hundreds of children die within months as measles cases soar in Bangladesh](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vX1c0NGY4WTJYVExrZWJmdDFjOUZTWU1fM29rNS12OUZ5NjNFSUpBcWlvQ2JrX2J2bkZmZS11aWQ1eTdkbnFxb1dGSmJXaS1fWmhQZHdBazBtdw?oc=5) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:37+00:00)
+- Detailed note: From Jan 4 to Jan 10, there were 53 reported cases, and 52 reported cases from May 3 to May 9. This is the third time in 2026 that weekly reported cases exceeded 50.
+- Evidence notes: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times); [Europe could become a chikungunya virus hotspot as heat expands mosquito habitats](https://sg.news.yahoo.com/europe-could-become-chikungunya-virus-145107553.html) (Yahoo News Singapore)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Miscellaneous signals
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
@@ -57,14 +71,6 @@ Search window: 7 day(s) ending 2026-06-01
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Occupational and environmental epidemiology
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR, 2026-05-28T17:00+00:00)
-- Detailed note: During November 2025–March 2026, the California Poison Control System and California Department of Public Health responded to an outbreak of 39 cases of amatoxin mushroom poisoning in northern California, resulting in three liver transplantations and four deaths. LeSaint, MD 1 ,2 ; Rais Vohra, MD 3 ,4 ; Asha Choudhury, MD 5 ,6 ; M.
-- Evidence notes: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR); [Video Aid worker in the DRC discusses Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133493700/) (ABC News - Breaking News, Latest News and Videos)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Mpox
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa, 2026-06-01T09:28+00:00)
@@ -73,13 +79,13 @@ Search window: 7 day(s) ending 2026-06-01
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:37+00:00)
-- Detailed note: From Jan 4 to Jan 10, there were 53 reported cases, and 52 reported cases from May 3 to May 9. This is the third time in 2026 that weekly reported cases exceeded 50.
-- Evidence notes: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times)
+### Occupational and environmental epidemiology
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
+- Lead item: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR, 2026-05-28T17:00+00:00)
+- Detailed note: During November 2025–March 2026, the California Poison Control System and California Department of Public Health responded to an outbreak of 39 cases of amatoxin mushroom poisoning in northern California, resulting in three liver transplantations and four deaths. LeSaint, MD 1 ,2 ; Rais Vohra, MD 3 ,4 ; Asha Choudhury, MD 5 ,6 ; M.
+- Evidence notes: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -414,7 +420,7 @@ Search window: 7 day(s) ending 2026-06-01
 ## Other notable readings
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Video Aid worker in the DRC discusses Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133493700/) | ABC News - Breaking News, Latest News and Videos | 2026-06-01T19:20+00:00 | Outbreaks and emerging infections
+- [Kenyans protest proposed Ebola treatment center for exposed Americans](https://news.az/news/kenyans-protest-proposed-ebola-treatment-center-for-exposed-americans) | Latest news from Azerbaijan | 2026-06-01T19:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola survivors note 'indescribable joy' while Congo's confirmed cases near 300](https://www.washingtonpost.com/world/2026/06/01/congo-ebola-bunia-ituri-bundibugyo/49087dce-5d9e-11f1-9c46-d6211372eede_story.html) | The Washington Post | 2026-06-01T18:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -424,15 +430,17 @@ Search window: 7 day(s) ending 2026-06-01
   Limited detail was available from feed metadata alone.
 - [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) | CIDRAP | 2026-06-01T18:29+00:00 | Outbreaks and emerging infections
   Of the 70,936 total cases and 585 deaths, a respective 9,049 and 90 have been lab-confirmed, the National Herald India reports. A total of 52,841 of the 56,886 hospitalized patients (93%) have recovered and are being released to home. Media reports say the situation is dire and not abating, with the healthcare system severely strained by nearly 57,000 measles admissions.
-- [In the shadow of Ebola: Scenes from the frontlines of the outbreak](https://www.reuters.com/pictures/scenes-frontlines-ebola-outbreak-2026-06-01/) | Reuters | 2026-06-01T18:07+00:00 | Outbreaks and emerging infections
+- [Former CDC director believes US will likely see Ebola cases](https://www.newsnationnow.com/health/cdc-ebola-cases-united-states/) | NewsNation | 2026-06-01T18:19+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Former CDC director believes US will likely see Ebola cases](https://www.newsnationnow.com/health/cdc-ebola-cases-united-states/) | NewsNation | 2026-06-01T16:53+00:00 | Policy, surveillance, and public health infrastructure
+- [In the shadow of Ebola: Scenes from the frontlines of the outbreak](https://www.reuters.com/pictures/scenes-frontlines-ebola-outbreak-2026-06-01/) | Reuters | 2026-06-01T18:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) | NBC News | 2026-06-01T15:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Suspected Ebola cases monitored in Brazil](https://www.newsnationnow.com/health/suspected-ebola-monitored-brazil/) | NewsNation | 2026-06-01T15:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Three Ebola vaccines in development amid growing outbreak fears](https://www.bbc.com/news/articles/cn8pw93929wo) | BBC | 2026-06-01T14:30+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO Chief, Congo President Meet as Ebola Outbreak May Be Far Larger](https://www.globalbankingandfinance.com/who-chief-meet-congo-president-group-warns-ebola-likely/) | Global Banking & Finance Review | 2026-06-01T14:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases in Congo reach 282 as survivors describe their recoveries](https://www.houstonpublicmedia.org/npr/2026/06/01/g-s1-125143/confirmed-ebola-cases-in-congo-reach-282-as-survivors-describe-their-recoveries/) | Houston Public Media | 2026-06-01T11:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -449,8 +457,6 @@ Search window: 7 day(s) ending 2026-06-01
 - [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) | Daily Mirror - Sri Lanka | 2026-06-01T04:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Rare Bundibugyo Strain Of Ebola Cause Of Outbreak In Africa, Cases Outpace Response](https://www.ndtv.com/health/news/what-to-know-about-the-outbreak-of-a-rare-kind-of-ebola-as-cases-outpace-response-11572222) | NDTV | 2026-06-01T04:13+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Inside the 'red zone' Ebola ward in the Democratic Republic of the Congo](https://www.13newsnow.com/video/news/health/inside-the-red-zone-ebola-ward-in-the-democratic-republic-of-congo/291-fc0c6ac3-b0f2-4a42-9eb2-a12e88919c76) | 13newsnow.com | 2026-06-01T02:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
