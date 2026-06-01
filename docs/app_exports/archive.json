@@ -1,18 +1,18 @@
 {
   "entries": [
     {
-      "date": "2026-05-31",
-      "day": "31",
-      "html_url": "2026/05/2026-05-31.html",
-      "html_web_path": "2026/05/2026-05-31.html",
-      "markdown_url": "2026/05/2026-05-31.md",
-      "markdown_web_path": "2026/05/2026-05-31.md",
-      "month": "05",
-      "month_name": "May",
+      "date": "2026-06-01",
+      "day": "01",
+      "html_url": "2026/06/2026-06-01.html",
+      "html_web_path": "2026/06/2026-06-01.html",
+      "markdown_url": "2026/06/2026-06-01.md",
+      "markdown_web_path": "2026/06/2026-06-01.md",
+      "month": "06",
+      "month_name": "June",
       "year": 2026
     }
   ],
-  "generated_at": "2026-05-31T23:32:09",
+  "generated_at": "2026-06-01T00:10:23",
   "latest": {
     "html_url": "latest.html",
     "html_web_path": "latest.html",
