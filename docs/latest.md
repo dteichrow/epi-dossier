@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-01
-Generated at: 2026-06-01T23:20
+Generated at: 2026-06-01T23:50
 Search window: 7 day(s) ending 2026-06-01
 
 ## Executive scan
@@ -12,29 +12,29 @@ Search window: 7 day(s) ending 2026-06-01
 - [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (239), Policy, surveillance, and public health infrastructure (30), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (229), Policy, surveillance, and public health infrastructure (28), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 237 item(s) across 131 source(s).
-- Baseline snapshot created with 237 clustered item(s) across 131 source(s).
+- Newly tracked story cluster: 223 item(s) across 120 source(s).
+- Baseline snapshot created with 223 clustered item(s) across 120 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 30 item(s) across 28 source(s).
-- Baseline snapshot created with 30 clustered item(s) across 28 source(s).
+- Newly tracked story cluster: 31 item(s) across 29 source(s).
+- Baseline snapshot created with 31 clustered item(s) across 29 source(s).
 - CIDRAP now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 237 item(s) across 131 source(s); 5 official/primary-source item(s).
+- Topic size: 223 item(s) across 120 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -42,7 +42,7 @@ Search window: 7 day(s) ending 2026-06-01
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 30 item(s) across 28 source(s); 2 official/primary-source item(s).
+- Topic size: 31 item(s) across 29 source(s); 2 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: Of the 70,936 total cases and 585 deaths, a respective 9,049 and 90 have been lab-confirmed, the National Herald India reports. During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
 - Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Southern Health residents invited to telephone town hall amid measles outbreak](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-vaccine-town-hall-9.7217073) (CBC); [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP); [Update: New measles exposure reported related to Buckingham County outbreak](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3JtQzZHUHR1SlJfX2lxbzJBd2pfT3F4RDB6RHlNZl90N2U5TTFCdGs1NnZFb1kxZXhxM0R0RnVLWGJqY1BkNi1oQWY0WG8zVU1IU2JKMlB5MFVaV3RTUnQwekdUZ0p3QndCQUp6d01ITXZCOHVFbUh1cl9VdGMtN1JXSFdsVUdPaTdSQzF6ZDNDcDFmZk5sTktaV2pRTTY0R3VvY3pqZW1nMjNqTnc?oc=5) (Augusta Free Press)
@@ -65,11 +65,19 @@ Search window: 7 day(s) ending 2026-06-01
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
+### Dengue and arboviruses
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:37+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
 ### Diphtheria
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Australia is battling its worst diphtheria outbreak in decades. But vaccines could curb it](https://insightplus.mja.com.au/2026/21/australia-is-battling-its-worst-diphtheria-outbreak-in-decades-but-vaccines-could-curb-it) (The Medical Journal of Australia, 2026-05-31T14:10+00:00)
-- Detailed note: But vaccines could curb it The Medical Journal of Australia
-- Evidence notes: [Australia is battling its worst diphtheria outbreak in decades. But vaccines could curb it](https://insightplus.mja.com.au/2026/21/australia-is-battling-its-worst-diphtheria-outbreak-in-decades-but-vaccines-could-curb-it) (The Medical Journal of Australia)
+- Lead item: [Australia confirms first diphtheria death amid worst outbreak in decades](https://www.bbc.com/news/articles/c759q6y26w3o) (BBC, 2026-05-26T07:09+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Australia confirms first diphtheria death amid worst outbreak in decades](https://www.bbc.com/news/articles/c759q6y26w3o) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -440,9 +448,9 @@ Search window: 7 day(s) ending 2026-06-01
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases in Congo reach 282 as survivors describe their recoveries - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/confirmed-ebola-cases-congo-reach-282-survivors-describe-133477153) | ABC News - Breaking News, Latest News and Videos | 2026-06-01T17:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [African officials seek homegrown response to Ebola outbreak](https://www.yahoo.com/news/world/articles/african-officials-seek-homegrown-response-150230992.html) | Yahoo | 2026-06-01T15:02+00:00 | Outbreaks and emerging infections
+- [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) | NBC News | 2026-06-01T15:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Three Ebola vaccines in development amid growing outbreak fears](https://www.bbc.com/news/articles/cn8pw93929wo) | BBC | 2026-06-01T14:30+00:00 | Outbreaks and emerging infections
+- [African officials seek homegrown response to Ebola outbreak](https://www.yahoo.com/news/world/articles/african-officials-seek-homegrown-response-150230992.html) | Yahoo | 2026-06-01T15:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
