@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-02
-Generated at: 2026-06-02T04:16
+Generated at: 2026-06-02T04:35
 Search window: 7 day(s) ending 2026-06-02
 
 ## Executive scan
@@ -12,29 +12,28 @@ Search window: 7 day(s) ending 2026-06-02
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List; Unknown; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (233), Policy, surveillance, and public health infrastructure (23), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (236), Policy, surveillance, and public health infrastructure (23), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 227 item(s) across 128 source(s).
-- Baseline snapshot created with 227 clustered item(s) across 128 source(s).
+- Newly tracked story cluster: 232 item(s) across 130 source(s).
+- Baseline snapshot created with 232 clustered item(s) across 130 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 26 item(s) across 24 source(s).
-- Baseline snapshot created with 26 clustered item(s) across 24 source(s).
-- CIDRAP now includes deaths or fatal cases in the story frame.
+- Newly tracked story cluster: 24 item(s) across 22 source(s).
+- Baseline snapshot created with 24 clustered item(s) across 22 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 227 item(s) across 128 source(s); 5 official/primary-source item(s).
+- Topic size: 232 item(s) across 130 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -42,10 +41,10 @@ Search window: 7 day(s) ending 2026-06-02
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 26 item(s) across 24 source(s); 2 official/primary-source item(s).
+- Topic size: 24 item(s) across 22 source(s); 2 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
-- Detailed note: Of the 70,936 total cases and 585 deaths, a respective 9,049 and 90 have been lab-confirmed, the National Herald India reports. During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
-- Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Southern Health residents invited to telephone town hall amid measles outbreak](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-vaccine-town-hall-9.7217073) (CBC); [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
+- Detailed note: During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C. "Don't stress," he says the health care worker told them, "the vaccine can be administered up until she reaches 5." The third and fourth...
+- Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Southern Health residents invited to telephone town hall amid measles outbreak](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-vaccine-town-hall-9.7217073) (CBC); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC); [Tragic measles outbreak claims over 500 children's lives in Bangladesh](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXZ5LTNlaHVBbDR3QWphVDZwUjZvY0hpWmFCSUtFVlZ4aVN6VVpYSFZoUF9SLXJaYTFnSndJbW1fRXlTUTY2NXlMYnVreXNOUFNUQ2NQdGtHbGw4RzVyWmkyNEpIazhhMHdCOEFHWkJPVS1PNTZBZlp3SzBmcUd0VVpBR0M4Z0lSbzBrc2Q2aFpDTkVDLWxiUWVFVmlWN21kVjhGdjc1ckF6MnlYajBTS3FLVVdOSDA?oc=5) (IOL)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -67,9 +66,9 @@ Search window: 7 day(s) ending 2026-06-02
 
 ### Dengue and arboviruses
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times, 2026-05-27T02:10+00:00)
-- Detailed note: From Jan 4 to Jan 10, there were 53 reported cases, and 52 reported cases from May 3 to May 9. This is the third time in 2026 that weekly reported cases exceeded 50.
-- Evidence notes: [53 dengue cases reported in Singapore last week, highest weekly total so far in 2026](https://www.straitstimes.com/singapore/53-dengue-cases-reported-in-singapore-last-week-highest-weekly-total-so-far-in-2026) (The Straits Times)
+- Lead item: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:37+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -400,10 +399,10 @@ Search window: 7 day(s) ending 2026-06-02
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### DR Congo Reopens Airport At Centre Of Ebola Outbreak
-- Source: Channels Television
-- Date: 2026-06-02T10:21+00:00
-- URL: https://www.channelstv.com/2026/06/02/dr-congo-reopens-airport-at-centre-of-ebola-outbreak/
+### As US withdraws, India & non-profits pitch in to help DRC tackle ebola outbreak
+- Source: Firstpost
+- Date: 2026-06-02T10:37+00:00
+- URL: https://www.firstpost.com/world/as-us-withdraws-india-non-profits-pitch-in-to-help-drc-tackle-ebola-outbreak-14017990.html
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
@@ -412,9 +411,15 @@ Search window: 7 day(s) ending 2026-06-02
 
 
 ## Other notable readings
+- [DR Congo Reopens Airport At Centre Of Ebola Outbreak](https://www.channelstv.com/2026/06/02/dr-congo-reopens-airport-at-centre-of-ebola-outbreak/) | Channels Television | 2026-06-02T10:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak: India sends 43 tonnes of aid to Africa CDC in second relief tranche](https://timesofindia.indiatimes.com/india/ebola-outbreak-india-sends-43-tonnes-of-aid-to-africa-cdc-in-second-relief-tranche/articleshow/131460997.cms) | The Times of India | 2026-06-02T10:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO seeks more aid for Congo as ebola outbreak continues to spread](https://www.modernghana.com/news/1498521/who-seeks-more-aid-for-congo-as-ebola-outbreak.html) | Modern Ghana | 2026-06-02T09:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Race for Ebola vaccine intensifies as outbreak spreads in Congo](https://www.newsnationnow.com/health/ebola-outbreak-bundibugyo-congo/) | NewsNation | 2026-06-02T09:40+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What to know about the Bundibugyo virus, a species of Ebola causing an outbreak in Congo](https://triblive.com/news/world/what-to-know-about-the-bundibugyo-virus-a-species-of-ebola-causing-an-outbreak-in-congo/) | TribLIVE.com | 2026-06-02T08:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak: Nurses discharged after full recovery](https://europeansting.com/2026/06/02/dr-congo-ebola-outbreak-nurses-discharged-after-full-recovery/) | The European Sting | 2026-06-02T05:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -424,7 +429,7 @@ Search window: 7 day(s) ending 2026-06-02
   Limited detail was available from feed metadata alone.
 - [Inside the Ebola Outbreak](https://www.nytimes.com/2026/06/01/world/ebola-epicenter-congo-alberta-referendum.html) | The New York Times | 2026-06-02T04:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [China sends medical experts to DR Congo to help combat Ebola outbreak](https://www.aa.com.tr/en/asia-pacific/china-sends-medical-experts-to-dr-congo-to-help-combat-ebola-outbreak/3953696) | Anadolu Ajansı | 2026-06-02T04:22+00:00 | Outbreaks and emerging infections
+- [DR Congo Ebola Outbreak Worsens as Confirmed Cases Rise to 321](https://www.wionews.com/videos/dr-congo-ebola-outbreak-worsens-as-confirmed-cases-rise-to-321-1780369044344) | WION | 2026-06-02T02:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Reopens Main Airport in Ebola Epicenter as Officials Brace for Long Outbreak](https://www.bloomberg.com/news/articles/2026-06-02/congo-reopens-airport-in-ebola-epicenter-as-officials-brace-for-long-outbreak) | Bloomberg.com | 2026-06-02T00:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -444,13 +449,7 @@ Search window: 7 day(s) ending 2026-06-02
   Limited detail was available from feed metadata alone.
 - [Whatcom County monitoring travelers for Ebola amid outbreak in Africa](https://mybellinghamnow.com/news/297792-whatcom-county-monitoring-travelers-for-ebola-amid-outbreak-in-africa/) | My Bellingham Now | 2026-06-01T20:46+00:00 | Outbreaks and emerging infections
   WHATCOM COUNTY, WA ( MyBellinghamNow.com ) – Whatcom County health officials are keeping an eye on Ebola, despite an extremely low risk to the public. Limited detail was available from feed metadata alone.
-- [Three Ebola vaccine candidates fast-tracked as African outbreak continues](https://www.cidrap.umn.edu/ebola/three-ebola-vaccine-candidates-fast-tracked-african-outbreak-continues) | CIDRAP | 2026-06-01T20:19+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kenyans protest proposed Ebola treatment center for exposed Americans](https://news.az/news/kenyans-protest-proposed-ebola-treatment-center-for-exposed-americans) | Latest news from Azerbaijan | 2026-06-01T19:58+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Statement on the outbreak of Ebola in the Democratic Republic of the Congo and Uganda by UNFPA Executive Director Diene Keita](https://www.unfpa.org/press/statement-outbreak-ebola-democratic-republic-congo-and-uganda-unfpa-executive-director-diene) | United Nations Population Fund | 2026-06-01T19:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Video Aid worker in the DRC discusses Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133493700/) | ABC News - Breaking News, Latest News and Videos | 2026-06-01T19:20+00:00 | Outbreaks and emerging infections
+- [WHO chief warns Ebola outbreak in DR Congo likely larger than reported](https://anewz.tv/health/health-news/20541/who-chief-ebola-outbreak-in-dr-congo-larger-than-reported/news) | AnewZ | 2026-06-01T20:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
