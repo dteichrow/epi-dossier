@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-02
-Generated at: 2026-06-02T15:50
+Generated at: 2026-06-02T15:54
 Search window: 7 day(s) ending 2026-06-02
 
 ## Executive scan
@@ -12,24 +12,24 @@ Search window: 7 day(s) ending 2026-06-02
 - [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa; 2026-05-27T08:52+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (216), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (3)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (223), Policy, surveillance, and public health infrastructure (27), Major epidemiology studies (3)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 231 item(s) across 120 source(s).
-- Baseline snapshot created with 231 clustered item(s) across 120 source(s).
+- Newly tracked story cluster: 239 item(s) across 125 source(s).
+- Baseline snapshot created with 239 clustered item(s) across 125 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Measles transmission and vaccination
-- Lead item: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today)
+- Lead item: [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - CIDRAP now includes deaths or fatal cases in the story frame.
-- Outbreak News Today now foregrounds vaccination or vaccine policy in the story.
+- CIDRAP now foregrounds vaccination or vaccine policy in the story.
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 21, May 18 to 24 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-21-may-18-24) (WHO Regional Office for Africa)
@@ -46,7 +46,7 @@ Search window: 7 day(s) ending 2026-06-02
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 231 item(s) across 120 source(s); 5 official/primary-source item(s).
+- Topic size: 239 item(s) across 125 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -63,11 +63,11 @@ Search window: 7 day(s) ending 2026-06-02
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today, 2026-06-02T21:28+00:00)
-- Detailed note: Of the 70,936 total cases and 585 deaths, a respective 9,049 and 90 have been lab-confirmed, the National Herald India reports. According to the Department of Health–Metro Manila Center for Health Development (DOH-MMCHD), the Ligtas Tigdas campaign aims to immunize 1,200,428 children aged 6 to 59 months across Metro Manila through a supplemental immunization activity. A total of 52,841 of the 56,886 hospitalized...
-- Evidence notes: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today); [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
+- Lead item: [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP, 2026-06-01T18:29+00:00)
+- Detailed note: Of the 70,936 total cases and 585 deaths, a respective 9,049 and 90 have been lab-confirmed, the National Herald India reports. A total of 52,841 of the 56,886 hospitalized patients (93%) have recovered and are being released to home. "Don't stress," he says the health care worker told them, "the vaccine can be administered up until she reaches 5." The third and fourth time, he says, they were told the vaccine...
+- Evidence notes: [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC); [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
 - Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
@@ -85,12 +85,12 @@ Search window: 7 day(s) ending 2026-06-02
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Rift Valley fever
+### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today, 2026-05-23T12:14+00:00)
-- Detailed note: A total of 13 livestock deaths and 81 abortions were reported among 75 farms were reported in the EPA. Chiradzulu district has an estimated cattle population of 26,017.
-- Evidence notes: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Lead item: [Inside the 'red zone' Ebola ward in the Democratic Republic of the Congo](https://www.13newsnow.com/video/news/health/inside-the-red-zone-ebola-ward-in-the-democratic-republic-of-congo/291-fc0c6ac3-b0f2-4a42-9eb2-a12e88919c76) (13newsnow.com, 2026-06-01T02:50+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Inside the 'red zone' Ebola ward in the Democratic Republic of the Congo](https://www.13newsnow.com/video/news/health/inside-the-red-zone-ebola-ward-in-the-democratic-republic-of-congo/291-fc0c6ac3-b0f2-4a42-9eb2-a12e88919c76) (13newsnow.com)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -424,8 +424,6 @@ Search window: 7 day(s) ending 2026-06-02
 
 
 ## Other notable readings
-- [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) | Outbreak News Today | 2026-06-02T21:28+00:00 | Outbreaks and emerging infections
-  According to the Department of Health–Metro Manila Center for Health Development (DOH-MMCHD), the Ligtas Tigdas campaign aims to immunize 1,200,428 children aged 6 to 59 months across Metro Manila through a supplemental immunization activity. It can cause severe complications such as pneumonia, brain inflammation, blindness and even death, especially in unvaccinated children”. The immunization drive is a critical step toward rebuilding herd immunity against vaccine-preventable diseases amid the lingering threat of measles outbreaks in several parts of the country.
 - [U.S. plan to open Ebola quarantine center in Kenya faces growing backlash and protests](https://www.nbcnews.com/world/africa/us-ebola-quarantine-plan-protests-kenya-rcna348014) | NBC News | 2026-06-02T21:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video: Kenyans Protest Plan for U.S. Ebola Quarantine Unit](https://www.nytimes.com/video/world/africa/100000010940013/ebola-quarantine-kenya-us.html) | The New York Times | 2026-06-02T20:52+00:00 | Outbreaks and emerging infections
@@ -452,8 +450,6 @@ Search window: 7 day(s) ending 2026-06-02
   She said the two sides discussed reopening the Strait of Hormuz, which remains blocked amid the US-Iran war, the conflict in Ukraine and the Ebola outbreak in the Democratic Republic of Congo and Uganda, where the disease has killed at least 18 people in recent weeks. According to a Chinese Foreign Ministry readout, Wang said the current international situation is "complex and turbulent," with the world experiencing its most profound changes since the end of the Cold War. Chinese and British foreign ministers met Tuesday in Beijing to discuss the situation in the Strait of Hormuz, the war in Ukraine, the Ebola outbreak in Africa and bilateral ties.
 - [WHO scales back number of suspected Ebola cases in Congo, but front-line medics say major challenges remain](https://www.cbsnews.com/news/ebola-outbreak-congo-uganda-who-suspected-cases/) | CBS News | 2026-06-02T13:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Canada Pauses Visas From Three African Nations Over Ebola Outbreak](https://punchng.com/canada-pauses-visas-from-three-african-nations-over-ebola-outbreak/) | Punch Newspapers | 2026-06-02T13:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Uganda confirms 6 new Ebola cases, total rises to 15](https://thepeninsulaqatar.com/article/02/06/2026/uganda-confirms-6-new-ebola-cases-total-rises-to-15) | The Peninsula Qatar | 2026-06-02T12:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video: Battling a Deadly Ebola Outbreak in Eastern Congo](https://www.nytimes.com/video/world/africa/100000010936755/ebola-virus-outbreak-congo-treatment.html) | The New York Times | 2026-06-02T12:48+00:00 | Outbreaks and emerging infections
@@ -463,6 +459,10 @@ Search window: 7 day(s) ending 2026-06-02
 - [Race for Ebola vaccine intensifies as outbreak spreads in Congo](https://www.newsnationnow.com/health/ebola-outbreak-bundibugyo-congo/) | NewsNation | 2026-06-02T11:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak may have been spreading since early January](https://www.cbsnews.com/video/ebola-outbreak-may-have-been-spreading-since-early-january/) | CBS News | 2026-06-02T11:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO seeks more aid for Congo as ebola outbreak continues to spread](https://www.rfi.fr/en/africa/20260602-who-seeks-more-aid-for-congo-as-ebola-outbreak-continues-to-spread) | RFI | 2026-06-02T09:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo re-opens airport at centre of Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-re-opens-airport-centre-ebola-outbreak-2026-06-02/) | Reuters | 2026-06-02T08:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
