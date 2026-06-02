@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-02
-Generated at: 2026-06-02T15:30
+Generated at: 2026-06-02T15:48
 Search window: 7 day(s) ending 2026-06-02
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-02
 - [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa; 2026-05-27T08:52+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (222), Policy, surveillance, and public health infrastructure (27), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (217), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 239 item(s) across 122 source(s).
-- Baseline snapshot created with 239 clustered item(s) across 122 source(s).
+- Newly tracked story cluster: 233 item(s) across 128 source(s).
+- Baseline snapshot created with 233 clustered item(s) across 128 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
@@ -39,14 +39,14 @@ Search window: 7 day(s) ending 2026-06-02
 
 ### Occupational and environmental epidemiology
 - Lead item: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR)
-- Newly tracked story cluster: 3 item(s) across 2 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
+- Newly tracked story cluster: 2 item(s) across 1 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 1 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 239 item(s) across 122 source(s); 5 official/primary-source item(s).
+- Topic size: 233 item(s) across 128 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -70,20 +70,20 @@ Search window: 7 day(s) ending 2026-06-02
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Occupational and environmental epidemiology
-- Topic size: 3 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
 - Lead item: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR, 2026-06-02T17:13+00:00)
 - Detailed note: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 4, 2026 / 75(2);1â12 Nekole S. This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.
-- Evidence notes: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR); [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR); [Video Aid worker in the DRC discusses Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133493700/) (ABC News - Breaking News, Latest News and Videos)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Mpox
-- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
-- Lead item: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa, 2026-06-01T09:28+00:00)
-- Detailed note: It also highlights renewed commitments by Health Development Partners to align support behind national priorities and WHO's continued support to disease outbreak response and community protection efforts across the country. This edition features progress in health financing reforms, efforts to enhance health security and emergency preparedness, the launch of new support for Mpox preparedness, and the Government's...
-- Evidence notes: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa)
+- Evidence notes: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR); [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
+### Mpox
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Lead item: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa, 2026-06-01T09:28+00:00)
+- Detailed note: It also highlights renewed commitments by Health Development Partners to align support behind national priorities and WHO's continued support to disease outbreak response and community protection efforts across the country. This edition features progress in health financing reforms, efforts to enhance health security and emergency preparedness, the launch of new support for Mpox preparedness, and the Government's...
+- Evidence notes: [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa); [First Mpox case in Embu tests county’s disease surveillance network](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaC16U3VWUlA1Y1Z5OC1leU50MExpbmI2RHhvdzkzSzE3UFVRSTF3Y1hBRjdyRnpmMnJhdDA0Y29DQmJ1V21DTkRELW1IeHc0dHI0anIyM2J6UkVRcElwVUlmRkI1S05uOElrS192RlZaUWNTb3ptMDJaUU4zZmpxSDlqTUtxMlZNTmt2bUt2MHpna0UwYXhPSzRuSl8yVlk3OGhRLWtn?oc=5) (People Daily)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Rift Valley fever
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -434,13 +434,9 @@ Search window: 7 day(s) ending 2026-06-02
   Limited detail was available from feed metadata alone.
 - [Congo in ‘desperate situation’ amid Ebola outbreak: Journalist | Jesse Weber Live](https://www.wfla.com/video/congo-in-desperate-situation-amid-ebola-outbreak-journalist-jesse-weber-live/11844971/) | WFLA | 2026-06-02T20:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- ['An environment marked by fear': Doctors working in DRC speak out about Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/environment-marked-fear-doctors-working-drc-speak-ebola/story?id\=133414923) | ABC News - Breaking News, Latest News and Videos | 2026-06-02T20:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Is it safe to travel to Africa during the Ebola outbreak?](https://www.independent.co.uk/travel/news-and-advice/ebola-africa-is-it-safe-advice-uganda-dr-congo-b2988082.html) | The Independent | 2026-06-02T20:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [HHS official defends US Ebola response, quarantine plan in Kenya](https://www.nbc26.com/health/hhs-official-defends-us-ebola-response-quarantine-plan-in-kenya) | NBC26 | 2026-06-02T20:13+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Watch: Dr. Oz takes questions on Ebola outbreak, Trump's health at White House press briefing](https://www.cbsnews.com/video/watch-dr-oz-takes-questions-on-ebola-outbreak-trumps-health-at-white-house-press-briefing/) | CBS News | 2026-06-02T17:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Aid Group: Ebola outbreak likely far larger than first thought](https://www.cnn.com/2026/06/02/health/video/cnn-sitroom-blitzer-brown-ebola-outbreak-aid-group-warning) | CNN | 2026-06-02T17:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -463,6 +459,10 @@ Search window: 7 day(s) ending 2026-06-02
 - [Senior Presidential Envoy backs emergency preparedness in South Sudan amid Ebola outbreaks in Uganda and DRC - WHO | Regional Office for Africa](https://www.afro.who.int/countries/south-sudan/news/senior-presidential-envoy-backs-emergency-preparedness-south-sudan-amid-ebola-outbreaks-uganda-and) | WHO | 2026-06-02T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Race for Ebola vaccine intensifies as outbreak spreads in Congo](https://www.newsnationnow.com/health/ebola-outbreak-bundibugyo-congo/) | NewsNation | 2026-06-02T11:43+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak may have been spreading since early January](https://www.cbsnews.com/video/ebola-outbreak-may-have-been-spreading-since-early-january/) | CBS News | 2026-06-02T11:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [China provides emergency aid to DR Congo amid Ebola outbreak](https://asianews.network/china-provides-emergency-aid-to-dr-congo-amid-ebola-outbreak/) | Asia News Network | 2026-06-02T10:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
