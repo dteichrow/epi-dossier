@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-02
-Generated at: 2026-06-02T14:40
+Generated at: 2026-06-02T15:00
 Search window: 7 day(s) ending 2026-06-02
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-02
 - [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa; 2026-05-27T08:52+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (219), Policy, surveillance, and public health infrastructure (29), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (217), Policy, surveillance, and public health infrastructure (27), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 237 item(s) across 125 source(s).
-- Baseline snapshot created with 237 clustered item(s) across 125 source(s).
+- Newly tracked story cluster: 233 item(s) across 125 source(s).
+- Baseline snapshot created with 233 clustered item(s) across 125 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
@@ -46,7 +46,7 @@ Search window: 7 day(s) ending 2026-06-02
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 237 item(s) across 125 source(s); 5 official/primary-source item(s).
+- Topic size: 233 item(s) across 125 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -412,18 +412,20 @@ Search window: 7 day(s) ending 2026-06-02
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila
-- Source: Outbreak News Today
-- Date: 2026-06-02T21:28+00:00
-- URL: https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign
+### Funeral rites upended by Ebola outbreak
+- Source: CNN
+- Date: 2026-06-02T21:38+00:00
+- URL: https://edition.cnn.com/2026/06/02/world/video/ebola-outbreak-drc-clarissa-ward-digvid-vrtc
 - Category: Outbreaks and emerging infections
-- Summary: According to the Department of Health–Metro Manila Center for Health Development (DOH-MMCHD), the Ligtas Tigdas campaign aims to immunize 1,200,428 children aged 6 to 59 months across Metro Manila through a supplemental immunization activity. It can cause severe complications such as pneumonia, brain inflammation, blindness and even death, especially in unvaccinated children”. The immunization drive is a critical step toward rebuilding herd immunity against vaccine-preventable diseases amid the lingering threat of measles outbreaks in several parts of the country.
+- Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) | Outbreak News Today | 2026-06-02T21:28+00:00 | Outbreaks and emerging infections
+  According to the Department of Health–Metro Manila Center for Health Development (DOH-MMCHD), the Ligtas Tigdas campaign aims to immunize 1,200,428 children aged 6 to 59 months across Metro Manila through a supplemental immunization activity. It can cause severe complications such as pneumonia, brain inflammation, blindness and even death, especially in unvaccinated children”. The immunization drive is a critical step toward rebuilding herd immunity against vaccine-preventable diseases amid the lingering threat of measles outbreaks in several parts of the country.
 - [Video: Kenyans Protest Plan for U.S. Ebola Quarantine Unit](https://www.nytimes.com/video/world/africa/100000010940013/ebola-quarantine-kenya-us.html) | The New York Times | 2026-06-02T20:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO drastically downsizes Ebola case count in DR Congo outbreak](https://www.cidrap.umn.edu/ebola/who-drastically-downsizes-ebola-case-count-dr-congo-outbreak) | CIDRAP | 2026-06-02T20:42+00:00 | Outbreaks and emerging infections
@@ -461,8 +463,6 @@ Search window: 7 day(s) ending 2026-06-02
 - [Senior Presidential Envoy backs emergency preparedness in South Sudan amid Ebola outbreaks in Uganda and DRC - WHO | Regional Office for Africa](https://www.afro.who.int/countries/south-sudan/news/senior-presidential-envoy-backs-emergency-preparedness-south-sudan-amid-ebola-outbreaks-uganda-and) | WHO | 2026-06-02T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Race for Ebola vaccine intensifies as outbreak spreads in Congo](https://www.newsnationnow.com/health/ebola-outbreak-bundibugyo-congo/) | NewsNation | 2026-06-02T11:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak may have been spreading since early January](https://www.cbsnews.com/video/ebola-outbreak-may-have-been-spreading-since-early-january/) | CBS News | 2026-06-02T11:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
