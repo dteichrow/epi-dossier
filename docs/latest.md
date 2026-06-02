@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-02
-Generated at: 2026-06-02T02:41
+Generated at: 2026-06-02T02:50
 Search window: 7 day(s) ending 2026-06-02
 
 ## Executive scan
@@ -12,29 +12,29 @@ Search window: 7 day(s) ending 2026-06-02
 - [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News; 2026-05-27T10:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-05-20T06:12+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List; Unknown; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (234), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (2)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (245), Policy, surveillance, and public health infrastructure (26), Occupational and environmental epidemiology (2)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 230 item(s) across 132 source(s).
-- Baseline snapshot created with 230 clustered item(s) across 132 source(s).
+- Newly tracked story cluster: 233 item(s) across 132 source(s).
+- Baseline snapshot created with 233 clustered item(s) across 132 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Measles transmission and vaccination
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR)
-- Newly tracked story cluster: 28 item(s) across 26 source(s).
-- Baseline snapshot created with 28 clustered item(s) across 26 source(s).
+- Newly tracked story cluster: 33 item(s) across 30 source(s).
+- Baseline snapshot created with 33 clustered item(s) across 30 source(s).
 - CIDRAP now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 230 item(s) across 132 source(s); 5 official/primary-source item(s).
+- Topic size: 233 item(s) across 132 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 01, Data as of 18 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -42,7 +42,7 @@ Search window: 7 day(s) ending 2026-06-02
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 28 item(s) across 26 source(s); 2 official/primary-source item(s).
+- Topic size: 33 item(s) across 30 source(s); 2 official/primary-source item(s).
 - Lead item: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR, 2026-05-28T17:00+00:00)
 - Detailed note: Of the 70,936 total cases and 585 deaths, a respective 9,049 and 90 have been lab-confirmed, the National Herald India reports. During the first 3 months of a large measles outbreak in the South Plains region of west Texas (January 20–March 18, 2025), 325 measles cases were reported; 60 (18.5%) patients were hospitalized. Weekly / May 28, 2026 / 75(20);252â257 Dennis Wang, MD 1 ,2 ,3 ; Courtney C.
 - Evidence notes: [Characteristics of Patients Hospitalized with Measles During an Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641) (CDC MMWR); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Southern Health residents invited to telephone town hall amid measles outbreak](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-vaccine-town-hall-9.7217073) (CBC); [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP); [Hundreds of children die within months as measles cases soar in Bangladesh](https://www.bbc.com/news/articles/cwy2d5d7wn5o) (BBC)
@@ -56,6 +56,14 @@ Search window: 7 day(s) ending 2026-06-02
 - Evidence notes: [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR); [Video Aid worker in the DRC discusses Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133493700/) (ABC News - Breaking News, Latest News and Videos)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Historical epidemiology and ancient pathogens
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Inside the 'red zone' Ebola ward in the Democratic Republic of Congo](https://www.11alive.com/video/news/inside-the-red-zone-ebola-ward-in-the-democratic-republic-of-congo/85-2665e513-92f4-4151-8d51-86f9aae2ccf8) (11Alive.com, 2026-06-01T17:56+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Inside the 'red zone' Ebola ward in the Democratic Republic of Congo](https://www.11alive.com/video/news/inside-the-red-zone-ebola-ward-in-the-democratic-republic-of-congo/85-2665e513-92f4-4151-8d51-86f9aae2ccf8) (11Alive.com)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Mpox
 - Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
@@ -72,14 +80,6 @@ Search window: 7 day(s) ending 2026-06-02
 - Evidence notes: [Australia is battling its worst diphtheria outbreak in decades. But vaccines could curb it](https://insightplus.mja.com.au/2026/21/australia-is-battling-its-worst-diphtheria-outbreak-in-decades-but-vaccines-could-curb-it) (The Medical Journal of Australia)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Delineating the "who-where-how" of persistent HIV epidemics: a 23-year longitudinal genetic network, phylodynamic, and spatial analysis for precise intervention in rural China.](https://pubmed.ncbi.nlm.nih.gov/42126236/) (PubMed Infectious Disease Search, 2026-05-29T00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Delineating the "who-where-how" of persistent HIV epidemics: a 23-year longitudinal genetic network, phylodynamic, and spatial analysis for precise intervention in rural China.](https://pubmed.ncbi.nlm.nih.gov/42126236/) (PubMed Infectious Disease Search); [Moderna and other groups get $60 million to develop Ebola vaccine](https://www.japantimes.co.jp/news/2026/06/02/world/science-health/moderna-ebola-vaccine/) (The Japan Times)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
 ## Last major outbreaks on file
@@ -400,10 +400,10 @@ Search window: 7 day(s) ending 2026-06-02
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### Congo re-opens airport at centre of Ebola outbreak
-- Source: Latest news from Azerbaijan
-- Date: 2026-06-02T09:21+00:00
-- URL: https://news.az/news/congo-re-opens-airport-at-centre-of-ebola-outbreak
+### Race for Ebola vaccine intensifies as outbreak spreads in Congo
+- Source: NewsNation
+- Date: 2026-06-02T09:40+00:00
+- URL: https://www.newsnationnow.com/health/ebola-outbreak-bundibugyo-congo/
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
@@ -412,6 +412,8 @@ Search window: 7 day(s) ending 2026-06-02
 
 
 ## Other notable readings
+- [Congo re-opens airport at centre of Ebola outbreak](https://news.az/news/congo-re-opens-airport-at-centre-of-ebola-outbreak) | Latest news from Azerbaijan | 2026-06-02T09:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO seeks more aid for Congo as ebola outbreak continues to spread](https://ca.news.yahoo.com/seeks-more-aid-congo-ebola-091927675.html) | Yahoo News Canada | 2026-06-02T09:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Inside the Ebola Outbreak](https://www.nytimes.com/2026/06/01/world/ebola-epicenter-congo-alberta-referendum.html) | The New York Times | 2026-06-02T06:18+00:00 | Outbreaks and emerging infections
@@ -420,7 +422,7 @@ Search window: 7 day(s) ending 2026-06-02
   Limited detail was available from feed metadata alone.
 - [Is it safe to visit East Africa amid Ebola outbreak? The latest as governments issue travel warnings and airlines cancel flights](https://www.cntravellerme.com/story/is-it-safe-to-visit-east-africa-amid-ebola-outbreak-the-latest-as-governments-issue-travel-warnings-and-airlines-cancel-flights) | Condé Nast Traveller Middle East | 2026-06-02T05:26+00:00 | Outbreaks and emerging infections
   The latest as governments issue travel warnings and airlines cancel flights Condé Nast Traveller Middle East
-- [WHO chief urges stronger Congo response as Ebola outbreak widens](https://www.nationthailand.com/news/world/40066923) | Nation Thailand | 2026-06-02T00:48+00:00 | Outbreaks and emerging infections
+- [Nigeria only 59% prepared for possible Ebola outbreak – NCDC](https://dailytrust.com/nigeria-only-59-prepared-for-possible-ebola-outbreak-ncdc/) | Daily Trust | 2026-06-02T04:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Reopens Main Airport in Ebola Epicenter as Officials Brace for Long Outbreak](https://www.bloomberg.com/news/articles/2026-06-02/congo-reopens-airport-in-ebola-epicenter-as-officials-brace-for-long-outbreak) | Bloomberg.com | 2026-06-02T00:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -450,8 +452,6 @@ Search window: 7 day(s) ending 2026-06-02
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Protests, travel restrictions and some good news](https://news.sky.com/video/ebola-outbreak-protests-travel-restrictions-and-some-good-news-13549906) | Sky News | 2026-06-01T18:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Brazil and Italy rule out Ebola in previously suspected cases amid scramble to contain outbreak](https://www.nbcnews.com/world/africa/brazil-investigates-possible-ebola-cases-outbreak-congo-drc-rcna347819) | NBC News | 2026-06-01T18:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Delineating the "who-where-how" of persistent HIV epidemics: a 23-year longitudinal genetic network, phylodynamic, and spatial analysis for precise intervention in rural China.](https://pubmed.ncbi.nlm.nih.gov/42126236/)
@@ -463,6 +463,8 @@ Search window: 7 day(s) ending 2026-06-02
 
 ## Historical epi / weird epi corner
 - [WHO Chief: Unsafe Burials Contributing to Spread of Ebola in Congo](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZHJsNy02YzFmOWlHSFRHdUlaRHRnYlJ6VGRGRm9Ublh2OENOLV93b3lYUjBoLUtUVmdmcmdIV1lGMUkzWFQ2TEdMVkxyTlRDU3hXUFdWb09UTDZfRXpGTnA5cWlvODhORDJCdkNuRTFmVzhPbnNhRTFNb3h6akVORVI5QlJiMlFoWjZsQUpBendpQQ?oc=5) | Hasht-e Subh Daily
+  Limited detail was available from feed metadata alone.
+- [DW News. . Carpenters were reconstructing an Ebola treatment center in in eastern DR Congo on Friday. The facilities were burned down earlier this month when a crowd angry over the burial of an Ebola victim stormed the hospital. #dwnews](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFZHTlZGQjI1VlpkazZXRFJHekhnb2pibVcwbW9jSWNVSkl6T1A1X0hjR3NhczdhaDJ0dVA5Zk9rSklOdFFPRVBsaUxsMm52bWd5S3MyQTdBLUpBM21BVVpqdW9UMWpQdVJsMlFwUmgtMmpJQjVoaExUSm9ib1RTLUVOMjcyZEYtdHhpbFpmQ1RxcC1helpaX19SWnpBMG9keE9vMWd0UTQ2eWpNRGdiS2o5QmpsUUEyRGlR?oc=5) | Facebook
   Limited detail was available from feed metadata alone.
 - [Dr Congo adapts burials amid Ebola outbreak](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ua3VnZ0pFb3ZIa3NSMTZJcExvMmd2dEdsQjVGWDBUU1R3d1JTNEdGeUt5N1ZzZkpmWHpBUGhKdUtnb2Y2YVV2c0ZURmRiX2lhekJGNTQ3Wlo2TWRLbjJrenFITkhkWFludDgyekVXMnZnMnhVQTJta2prNA?oc=5) | France 24
   Limited detail was available from feed metadata alone.
