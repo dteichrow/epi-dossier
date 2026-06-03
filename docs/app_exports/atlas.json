@@ -344,15 +344,7 @@
       "reference_name": "Measles",
       "reference_url": "reference/measles.html",
       "reference_web_path": "reference/measles.html",
-      "related_stories": [
-        {
-          "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
-          "story_id": "story_0cc2d5322bc76f8f",
-          "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
-          "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 2,
       "slug": "measles",
       "spread_routes": [
@@ -400,7 +392,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Dense settlement, cattle-linked ancestry, and colonial spread into immunologically naive populations",
       "summary": "Measles is a useful atlas pathogen because its deeper origin story is partly reconstructed from molecular-clock work, while its colonial spread story is brutally visible in the Americas and Pacific.",
       "variant_count": 0,
@@ -471,7 +463,15 @@
       "reference_name": "Mpox",
       "reference_url": "reference/mpox.html",
       "reference_web_path": "reference/mpox.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Mpox",
+          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
+          "story_id": "story_5681bc9ce748c463",
+          "story_url": "stories/story_5681bc9ce748c463-mpox.html",
+          "story_web_path": "stories/story_5681bc9ce748c463-mpox.html"
+        }
+      ],
       "route_count": 3,
       "slug": "mpox",
       "spread_routes": [
@@ -541,7 +541,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Forest-zone recognition, animal trade jumps, and networked global spread",
       "summary": "Mpox belongs in the atlas because it combines a geographically anchored Central/West African history with abrupt export through wildlife trade and then a very different twenty-first century global transmission pattern.",
       "variant_count": 0,
@@ -1825,6 +1825,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-03T00:00:38",
-  "run_id": "run_ac4eacea4ed6fa1c"
+  "generated_at": "2026-06-03T00:10:51",
+  "run_id": "run_170e547bae0a1875"
 }
