@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 3 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -471,15 +471,7 @@
       "reference_name": "Mpox",
       "reference_url": "reference/mpox.html",
       "reference_web_path": "reference/mpox.html",
-      "related_stories": [
-        {
-          "display_title": "Mpox",
-          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
-          "story_id": "story_5681bc9ce748c463",
-          "story_url": "stories/story_5681bc9ce748c463-mpox.html",
-          "story_web_path": "stories/story_5681bc9ce748c463-mpox.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 3,
       "slug": "mpox",
       "spread_routes": [
@@ -549,7 +541,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Forest-zone recognition, animal trade jumps, and networked global spread",
       "summary": "Mpox belongs in the atlas because it combines a geographically anchored Central/West African history with abrupt export through wildlife trade and then a very different twenty-first century global transmission pattern.",
       "variant_count": 0,
@@ -1833,6 +1825,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-02T17:16:55",
-  "run_id": "run_665fe7d04dfdf16b"
+  "generated_at": "2026-06-02T17:30:31",
+  "run_id": "run_236ecd4193ae8dc2"
 }
