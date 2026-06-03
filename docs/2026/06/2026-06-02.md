@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-02
-Generated at: 2026-06-02T17:40
+Generated at: 2026-06-02T17:50
 Search window: 7 day(s) ending 2026-06-02
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-02
 - [Post-marketing safety surveillance of Haemophilus influenzae Type b conjugate vaccine in children aged 3 months to 5 years in Jiangsu, China.](https://pubmed.ncbi.nlm.nih.gov/42216576/) (PubMed Infectious Disease Search; 2026-05-30T00:00; Major epidemiology studies; relevance 5/5)
 - [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa; 2026-05-27T08:52+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (210), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (203), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 224 item(s) across 120 source(s).
-- Baseline snapshot created with 224 clustered item(s) across 120 source(s).
+- Newly tracked story cluster: 215 item(s) across 120 source(s).
+- Baseline snapshot created with 215 clustered item(s) across 120 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
@@ -46,7 +46,7 @@ Search window: 7 day(s) ending 2026-06-02
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 224 item(s) across 120 source(s); 5 official/primary-source item(s).
+- Topic size: 215 item(s) across 120 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-01T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa); [ECDC increases activities as Ebola outbreak in DRC and Uganda intensifies](https://www.ecdc.europa.eu/en/news-events/ecdc-increases-activities-ebola-outbreak-drc-and-uganda-intensifies) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -424,8 +424,6 @@ Search window: 7 day(s) ending 2026-06-02
 
 
 ## Other notable readings
-- [Video Ebola outbreak grows as health officials race to contain spread - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/video/ebola-outbreak-grows-health-officials-race-spread-133532749) | ABC News - Breaking News, Latest News and Videos | 2026-06-02T22:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Funeral rites upended by Ebola outbreak](https://edition.cnn.com/2026/06/02/world/video/ebola-outbreak-drc-clarissa-ward-digvid-vrtc) | CNN | 2026-06-02T21:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) | Outbreak News Today | 2026-06-02T21:28+00:00 | Outbreaks and emerging infections
@@ -459,6 +457,8 @@ Search window: 7 day(s) ending 2026-06-02
 - [Only the Right Tests Can Stop This Ebola Outbreak. Congo Has Hardly Any.](https://www.nytimes.com/2026/06/02/health/ebola-tests-congo.html) | The New York Times | 2026-06-02T14:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site](https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site) | The Guardian | 2026-06-02T14:49+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Border Alert: Police, Health authorities demand 21-day Ebola quarantine](https://www.eyeradio.org/border-alert-police-health-authorities-demand-21-day-ebola-quarantine/?amp) | Eye Radio | 2026-06-02T14:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Top diplomats of China, UK discuss Hormuz, Ukraine, Ebola outbreak](https://aa.com.tr/en/world/top-diplomats-of-china-uk-discuss-hormuz-ukraine-ebola-outbreak/3954251) | Anadolu Ajansı | 2026-06-02T14:10+00:00 | Outbreaks and emerging infections
   She said the two sides discussed reopening the Strait of Hormuz, which remains blocked amid the US-Iran war, the conflict in Ukraine and the Ebola outbreak in the Democratic Republic of Congo and Uganda, where the disease has killed at least 18 people in recent weeks. According to a Chinese Foreign Ministry readout, Wang said the current international situation is "complex and turbulent," with the world experiencing its most profound changes since the end of the Cold War. Chinese and British foreign ministers met Tuesday in Beijing to discuss the situation in the Strait of Hormuz, the war in Ukraine, the Ebola outbreak in Africa and bilateral ties.
