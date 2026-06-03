@@ -14,21 +14,21 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 212,
+    "metadata_only_count": 214,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 233,
+    "sources_live": 235,
     "story_count_change": 4,
     "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 233,
+    "live": 235,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-02T22:56:51",
+  "generated_at": "2026-06-02T23:00:42",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
