@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-03
-Generated at: 2026-06-03T06:16
+Generated at: 2026-06-03T06:29
 Search window: 7 day(s) ending 2026-06-03
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-03
 - [WHO Sierra Leone 1st Quarter 2026 Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-1st-quarter-2026-newsletter) (WHO Regional Office for Africa; 2026-06-01T09:28+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa; 2026-05-31T19:07+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR; 2026-05-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (221), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (222), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 233 item(s) across 136 source(s).
-- Baseline snapshot created with 233 clustered item(s) across 136 source(s).
+- Newly tracked story cluster: 233 item(s) across 141 source(s).
+- Baseline snapshot created with 233 clustered item(s) across 141 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - KPAX News now includes quarantine language.
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-06-03
 
 ### Occupational and environmental epidemiology
 - Lead item: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR)
-- Newly tracked story cluster: 2 item(s) across 1 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 1 source(s).
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 233 item(s) across 136 source(s); 4 official/primary-source item(s).
+- Topic size: 233 item(s) across 141 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-03T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 02, Data as of 24 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Can the rush for vaccines slow the latest Ebola outbreak?](https://www.ft.com/content/1d19fe6f-75da-479f-8135-af802903d4a3?syn-25a6b1a6\=1) (Financial Times)
@@ -51,6 +51,14 @@ Search window: 7 day(s) ending 2026-06-03
 - Lead item: [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) (WHO Regional Office for Africa, 2026-06-03T12:27+00:00)
 - Detailed note: Cumulatively from weeks 1 to 21, the WHO AFR influenza laboratory network has tested 27,677 sentinel surveillance specimens for SARS-CoV-2, of which 821 were positive for SARS-CoV-2 (cumulative positivity rate 3%). SARS-CoV-2 In Epiweek 21, of the 463 specimens processed by 9 laboratories in the African Region, a total of 1 specimens tested positive for SARS-CoV-2 (positivity of 0.2%). Mean expenditures were...
 - Evidence notes: [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) (WHO Regional Office for Africa); [Respiratory virus surveillance in the WHO African Region Epidemiological Week 21, May 18 to 24 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-21-may-18-24) (WHO Regional Office for Africa); [Maternal and newborn health services in Papua New Guinea: Health system stakeholder priorities for health system strengthening.](https://pubmed.ncbi.nlm.nih.gov/42224048/) (PubMed Infectious Disease Search); [Merck weighs use of COVID antiviral Lagevrio as Ebola outbreak worsens](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1vUzNuMEhSandpU3hyUUEzY3JwTUx2a2U2LWpua2RMYTFTVk1fUW9ETk1qZERSYnhQYVFUNHNoQmZqb0h6SkdQSV9oRmJuR3BrQWt1aHBLckxPYjZXamI0X3BNMTlhcmFVbnZ6WnlmV2JHNzNIVmYwWXhLTU41Vmo2Rl9XMkJuYVBGSVp5eU0wYzYzdWtzbWFOdEZtcTNTSnlXNXpmZUFaSUk?oc=5) (Fierce Pharma); [Expenditures attributable to infant lower respiratory tract infection due to respiratory syncytial virus in the US: A real-world study using the PharMetrics Plus Database, 2015-2023.](https://pubmed.ncbi.nlm.nih.gov/42223189/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Occupational and environmental epidemiology
+- Topic size: 3 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR, 2026-06-02T17:13+00:00)
+- Detailed note: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 4, 2026 / 75(2);1â12 Nekole S. This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.
+- Evidence notes: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR); [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR); [JOOTRH Activates Ebola Emergency Preparedness Measures Amid Uganda Outbreak Fears](https://www.capitalfm.co.ke/news/2026/06/jootrh-activates-ebola-emergency-preparedness-measures-amid-uganda-outbreak-fears/) (Capital FM Kenya)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -69,14 +77,6 @@ Search window: 7 day(s) ending 2026-06-03
 - Evidence notes: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today); [Bangladesh posts more than 1,300 measles cases, 2 deaths, in 1 day](https://www.cidrap.umn.edu/measles/bangladesh-posts-more-1300-measles-cases-2-deaths-1-day) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Occupational and environmental epidemiology
-- Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
-- Lead item: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR, 2026-06-02T17:13+00:00)
-- Detailed note: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 4, 2026 / 75(2);1â12 Nekole S. This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.
-- Evidence notes: [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR); [Amanita Species Mushroom Poisonings](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642) (CDC MMWR)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Mpox
 - Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
@@ -453,9 +453,9 @@ Search window: 7 day(s) ending 2026-06-03
   Limited detail was available from feed metadata alone.
 - [Experimental Ebola Vaccine Efforts Advance Amid Growing Congo Outbreak](https://www.forbesafrica.com/current-affairs/2026/06/03/experimental-ebola-vaccine-efforts-advance-amid-growing-congo-outbreak/) | Forbes Africa | 2026-06-02T15:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US to re-engage with Gavi vaccine alliance amid Ebola outbreak, Rubio says](https://www.reuters.com/business/healthcare-pharmaceuticals/us-re-engage-with-gavi-vaccine-alliance-amid-ebola-outbreak-rubio-says-2026-06-02/) | Reuters | 2026-06-02T14:53+00:00 | Outbreaks and emerging infections
+- [Only the Right Tests Can Stop This Ebola Outbreak. Congo Has Hardly Any.](https://www.nytimes.com/2026/06/02/health/ebola-tests-congo.html) | The New York Times | 2026-06-02T14:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site](https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site) | The Guardian | 2026-06-02T14:49+00:00 | Outbreaks and emerging infections
+- [US to re-engage with Gavi vaccine alliance amid Ebola outbreak, Rubio says](https://www.reuters.com/business/healthcare-pharmaceuticals/us-re-engage-with-gavi-vaccine-alliance-amid-ebola-outbreak-rubio-says-2026-06-02/) | Reuters | 2026-06-02T14:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
