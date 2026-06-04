@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-04
-Generated at: 2026-06-04T14:06
+Generated at: 2026-06-04T14:38
 Search window: 7 day(s) ending 2026-06-04
 
 ## Executive scan
@@ -13,21 +13,21 @@ Search window: 7 day(s) ending 2026-06-04
 - [Targeted pneumococcal conjugate vaccination strategies for high-risk children.](https://pubmed.ncbi.nlm.nih.gov/42234765/) (PubMed Infectious Disease Search; 2026-06-03T00:00; Major epidemiology studies; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 21, May 18 to 24 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-21-may-18-24) (WHO Regional Office for Africa; 2026-06-02T21:14+00:00; Outbreaks and emerging infections; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (258), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (5)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Source health: 2 source(s) failed during collection: USDA APHIS Avian Influenza, Texas Department of State Health Services News.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 234 item(s) across 137 source(s).
-- Baseline snapshot created with 234 clustered item(s) across 137 source(s).
+- Newly tracked story cluster: 233 item(s) across 139 source(s).
+- Baseline snapshot created with 233 clustered item(s) across 139 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
-- The Whistler Newspaper now reports conflict over body retrieval or burial practices.
+- Internazionale now reports conflict over body retrieval or burial practices.
 - The Guardian now includes quarantine language.
 
 ### Measles transmission and vaccination
 - Lead item: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR)
-- Newly tracked story cluster: 36 item(s) across 33 source(s).
-- Baseline snapshot created with 36 clustered item(s) across 33 source(s).
+- Newly tracked story cluster: 37 item(s) across 34 source(s).
+- Baseline snapshot created with 37 clustered item(s) across 34 source(s).
 - albd.org now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
@@ -46,15 +46,15 @@ Search window: 7 day(s) ending 2026-06-04
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 234 item(s) across 137 source(s); 3 official/primary-source item(s).
+- Topic size: 233 item(s) across 139 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-03T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EU, UNICEF send emergency Ebola supplies to Congo as outbreak spreads](https://www.reuters.com/video/watch/idRW609604062026RP1/) (Reuters); [Experts criticise plan for American-only Ebola quarantine centre in Kenya](https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya) (The Guardian)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [EU, UNICEF send emergency Ebola supplies to Congo as outbreak spreads](https://www.reuters.com/video/watch/idRW609604062026RP1/) (Reuters); [Experts criticise plan for American-only Ebola quarantine centre in Kenya](https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya) (The Guardian); [Sudanese National With Suspected Ebola Symptoms Shifted To Gandhi Hospital](https://www.etvbharat.com/en/bharat/sudanese-national-shows-ebola-symptoms-at-shamshabad-airport-in-hyderabad-shifted-to-gandhi-hospital-enn26060406168) (ETV Bharat)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 36 item(s) across 33 source(s); 3 official/primary-source item(s).
+- Topic size: 37 item(s) across 34 source(s); 3 official/primary-source item(s).
 - Lead item: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR, 2026-06-04T17:00+00:00)
 - Detailed note: As of June 3, 2026, over 600 children have died from measles and measles-like symptoms since mid-March, 90 confirmed measles deaths and 504 suspected. Sugerman, MD 5 ; Carolyn Crisp, PhD 6 ,7 ; Gretchen Rodriguez, MPH 7 ; Thi Dang, MPH 7 ; Diana Martinez, PhD 7 ; Saroj Rai, PhD 7 ; Varun Shetty, MD 7 ; Ashley Meehan, MPH 8 ; Susan Hocevar Adkins, MD 8 ; Thomas D. According to the Department of Health–Metro Manila...
 - Evidence notes: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR); [Targeted pneumococcal conjugate vaccination strategies for high-risk children.](https://pubmed.ncbi.nlm.nih.gov/42234765/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh’s Child Measles Tragedy: How Many More Graves Before Leadership Acts?](https://albd.org/articles/news/41714/Bangladesh%E2%80%99s-Child-Measles-Tragedy:-How-Many-More-Graves-Before-Leadership-Acts%3F) (albd.org); [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today)
@@ -428,8 +428,6 @@ Search window: 7 day(s) ending 2026-06-04
   Active surveillance revealed an overall adverse event incidence of 6.7% (181/2,714), with 6.3% (170/2,714) classified as adverse reactions, predominantly mild to moderate in severity (Grade 1-2: 6.0%; Grade 3: 0.3%). Passive surveillance identified a substantially lower adverse reaction incidence of 0.33% (21/6,347), with pyrexia (0.25%) being the most frequent. This post-marketing surveillance study confirms that the Hib conjugate vaccine demonstrates a favorable safety profile in children aged 3 months to 5 y, with no safety-associated risks identified.
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
 - [EU, UNICEF send emergency Ebola supplies to Congo as outbreak spreads](https://www.reuters.com/video/watch/idRW609604062026RP1/) | Reuters | 2026-06-04T17:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Experts criticise plan for American-only Ebola quarantine centre in Kenya](https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya) | The Guardian | 2026-06-04T16:36+00:00 | Outbreaks and emerging infections
@@ -439,8 +437,6 @@ Search window: 7 day(s) ending 2026-06-04
 - [Bangladesh’s Child Measles Tragedy: How Many More Graves Before Leadership Acts?](https://albd.org/articles/news/41714/Bangladesh%E2%80%99s-Child-Measles-Tragedy:-How-Many-More-Graves-Before-Leadership-Acts%3F) | albd.org | 2026-06-04T14:17+00:00 | Outbreaks and emerging infections
   As of June 3, 2026, over 600 children have died from measles and measles-like symptoms since mid-March, 90 confirmed measles deaths and 504 suspected. Over 83,700 suspected cases have been recorded, with hospitals overwhelmed and mothers watching their children die from a disease that modern medicine conquered decades ago. Bangladesh measles death toll rises above 600 as outbreak continues
 - [What will it take to get a vaccine for the Ebola strain driving the current outbreak?](https://www.npr.org/2026/06/04/g-s1-125822/vaccine-ebola-democratic-republic-congo) | NPR | 2026-06-04T14:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Burial Team Attacked, 11 Patients Flee Isolation In Congo](https://thewhistler.ng/ebola-burial-team-attacked-11-patients-flee-isolation-in-congo/) | The Whistler Newspaper | 2026-06-04T13:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo reports attack on Ebola burial team as cases rise](https://www.internazionale.it/ultime-notizie-reuters/2026/06/04/congo-reports-attack-on-ebola-burial-team-as-cases-rise) | Internazionale | 2026-06-04T13:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -463,6 +459,10 @@ Search window: 7 day(s) ending 2026-06-04
 - [WHO chief says response is ‘catching up’ to Ebola outbreak](https://news.google.com/rss/articles/CBMihwFBVV95cUxNOG14M2t1YWtQeDVHNGowNTNXTmxYa2IxbHJnRWFwQ1p0VEgzMUVRNXllallaVGVIekRHSTdHTi1wc1JSWlJPSVRzbC12TWZKelFyNzZXOWZCbTRBclBvQTh5aGhSR0RwUm9UbS1wSk9wVDRTMXVYOTd3NWVEdTk5QXc5YzB6V0k?oc=5) | CIDRAP | 2026-06-03T20:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [As Ebola Outbreak Widens, Trump Has Yet to Outline a Plan](https://news.google.com/rss/articles/CBMikAFBVV95cUxNT09CbkdIQlZTZVNuVHNvOVg4b3NaUVVJcVFzejZUZVV0aXVkYllIMkJSZVZ0Ym04ZFFwNU80WHl2VjF6c1QzM2Zta1hUZ242djJUMVpoVnhhNWljdnk0NldUUnktUXd2Wk1FS1VudFVFVHExUGxkTE1lQ0pKS2lTV3JUdkhPalpPRlBFMnNFWVE?oc=5) | The New York Times | 2026-06-03T19:24+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DRC Ebola outbreak could have begun as early as January, WHO chief says | Global development](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm9kVHo5bkhsNUxiWk0yQ3YwcWFiZllncWZocWxQUVpZaG93YnJ5bVZoZzJ0Nk81SHoxN1VnWkFSRUVCa3kyMEhiU1hsUnpraHdKTU5PdTNzRl9fVVJWdG5HZVNmRmI3cXBnQnBoU2EyQkhVRmtGd1QzbXJtYUxnNjBRYXJDZlBwUlV6ZEM4c2h0clhQZ3NQTER5NVRDTFpfMlYyclQ1Z2xpLTM0Q1NPZnB5aDFQdDg0YWo2Qm9VMFpjOXQ1LTk4Zg?oc=5) | The Guardian | 2026-06-03T17:29+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO says Ebola response catching up as confirmed DRC cases hit 344](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1doQzdNQkUzMkRoeFFRSXJPUWRreldId2UzN090Y2JCMDViYjNMR2pELTZYU0F3bmNtX1pFWTRKUWR4NkZOLXpPN1ZhNHAzdThQWms3bEhTRnFUaWlZS18zSW9YZ1F4Zm0xRVZ5WFdTMnV3VEtGU2RpOFA1eGRmMjd1dGs1M3VWQ1FIXzJ0Rk9Dd3Vla2Nsel9hdk5lRm9aeWNfY0ZHbE90cFF0T1JnSkpxUmE4SjZNcmhIY2Z2Q3RGS0hZeTRNT2N1VG1XaUg5?oc=5) | Reuters | 2026-06-03T17:00+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -498,8 +498,6 @@ Search window: 7 day(s) ending 2026-06-04
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42223189/
 
 ## Historical epi / weird epi corner
-- [Ebola Burial Team Attacked, 11 Patients Flee Isolation In Congo](https://thewhistler.ng/ebola-burial-team-attacked-11-patients-flee-isolation-in-congo/) | The Whistler Newspaper
-  Limited detail was available from feed metadata alone.
 - [Congo reports attack on Ebola burial team as cases rise](https://www.internazionale.it/ultime-notizie-reuters/2026/06/04/congo-reports-attack-on-ebola-burial-team-as-cases-rise) | Internazionale
   Limited detail was available from feed metadata alone.
 - [WHO chief urges safe burials in visit to heart of Ebola outbreak](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY3p3TDZ6X2ZHa0swZ2tHRXFNSkExdGNzSHZoV2NISk9jVUl2cXVQVll6eVZJMGhwMExZR3FRRUd0TTVqN2tQVExrVlhTUHJQZHQ1a091NWlYd3NfWEd3RnRrUjNQT09HYkdtX0owV0s3NzZrdGVjSFlBTjJsSkU1MVVLNTU0ZDBKaWRRNnI4V2lpblprak83bkFGSW51Q0FhdVlDZkNUYTQzRnRENUNzQkZ6RXZuVHg5RVVabk05QTR6NlVSQkhhMzdvcWNGUVpJN0hzMHFXMA?oc=5) | Reuters
