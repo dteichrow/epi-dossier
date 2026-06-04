@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-04
-Generated at: 2026-06-04T10:59
+Generated at: 2026-06-04T11:09
 Search window: 7 day(s) ending 2026-06-04
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-04
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-06-03T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 21, May 18 to 24 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-21-may-18-24) (WHO Regional Office for Africa; 2026-06-02T21:14+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa; 2026-05-31T19:07+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (214), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (223), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 219 item(s) across 134 source(s).
-- Baseline snapshot created with 219 clustered item(s) across 134 source(s).
+- Newly tracked story cluster: 232 item(s) across 138 source(s).
+- Baseline snapshot created with 232 clustered item(s) across 138 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - The Whistler Newspaper now reports conflict over body retrieval or burial practices.
 - The Guardian now includes quarantine language.
@@ -33,7 +33,7 @@ Search window: 7 day(s) ending 2026-06-04
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 219 item(s) across 134 source(s); 3 official/primary-source item(s).
+- Topic size: 232 item(s) across 138 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-03T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [What will it take to get a vaccine for the Ebola strain driving the current outbreak?](https://www.npr.org/2026/06/04/g-s1-125822/vaccine-ebola-democratic-republic-congo) (NPR); [Ebola Burial Team Attacked, 11 Patients Flee Isolation In Congo](https://thewhistler.ng/ebola-burial-team-attacked-11-patients-flee-isolation-in-congo/) (The Whistler Newspaper)
@@ -429,6 +429,8 @@ Search window: 7 day(s) ending 2026-06-04
   Stay updated and subscribe to our newsletters About Us Open menu Core activities Our Team Our Partners Our Initiatives Archives News Open menu Press Releases In The News About Us Open menu Core activities Our Team Our Partners Our Initiatives Archives News Open menu Press Releases In The News On 17 May 2026, the World Health Organization (WHO) declared the Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda a public health emergency of international concern (PHEIC), noting that while the overall global risk remains low, national and regional risks are elevated due to ongoing transmission, population movement, weak health infrastructure, and the outbreak’s emergence in conflict-affected areas. The small number of secondary transmissions to Europe and North America that occurred during the 2014-2016 West African Ebola epidemic highlights Ebola’s continued risk to highly connected economies and international transit hubs beyond affected regions. At present, according to WHO, the likelihood of widespread international transmission, remains low , as the outbreak is limited to DRC with confirmed exportation of cases to Uganda.
 - [Additional Consular Information for Americans Regarding the Ebola Outbreak](https://ke.usembassy.gov/consular-information-for-americans-regarding-the-ebola-outbreak/) | U.S. Embassy in Kenya (.gov) | 2026-06-04T06:14+00:00 | Outbreaks and emerging infections
   Additional Consular Information for Americans Regarding the Ebola Outbreak U.S. Embassy in Kenya (.gov)
+- [As Ebola Outbreak Widens, Trump Has Yet to Outline a Plan](https://www.nytimes.com/2026/06/03/us/politics/trump-administration-ebola-response.html) | The New York Times | 2026-06-03T23:31+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Latest news on U.S. plans for facility in Kenya to navigate Ebola outbreak](https://www.cbsnews.com/video/latest-news-on-us-plans-for-facility-in-kenya-to-navigate-ebola-outbreak/) | CBS News | 2026-06-03T23:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health workers struggle to contain Ebola outbreak](https://www.pbs.org/newshour/show/health-workers-struggle-to-contain-ebola-outbreak) | PBS | 2026-06-03T22:25+00:00 | Outbreaks and emerging infections
@@ -438,8 +440,6 @@ Search window: 7 day(s) ending 2026-06-04
 - [WHO chief says response is ‘catching up’ to Ebola outbreak](https://www.cidrap.umn.edu/ebola/who-chief-says-response-catching-ebola-outbreak) | CIDRAP | 2026-06-03T20:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [‘We’re still behind’ in Congo’s Ebola outbreak even as testing improves, WHO chief says](https://apnews.com/article/congo-ebola-outbreak-bundibugyo-17e22ef48fe4e983ea3271e762a2343c) | AP News | 2026-06-03T20:15+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [As Ebola Outbreak Widens, Trump Has Yet to Outline a Plan](https://www.nytimes.com/2026/06/03/us/politics/trump-administration-ebola-response.html) | The New York Times | 2026-06-03T19:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DRC Ebola outbreak could have begun as early as January, WHO chief says | Global development](https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says) | The Guardian | 2026-06-03T17:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
