@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-04
-Generated at: 2026-06-04T08:01
+Generated at: 2026-06-04T08:06
 Search window: 7 day(s) ending 2026-06-04
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-04
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-06-03T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 21, May 18 to 24 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-21-may-18-24) (WHO Regional Office for Africa; 2026-06-02T21:14+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa; 2026-05-31T19:07+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (224), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (219), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 228 item(s) across 145 source(s).
-- Baseline snapshot created with 228 clustered item(s) across 145 source(s).
+- Newly tracked story cluster: 223 item(s) across 141 source(s).
+- Baseline snapshot created with 223 clustered item(s) across 141 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - Middle East Council on Global Affairs now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-06-04
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 228 item(s) across 145 source(s); 3 official/primary-source item(s).
+- Topic size: 223 item(s) across 141 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-03T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Fever in Sudan traveller triggers Ebola surveillance and isolation at Hyderabad’s Gandhi Hospital](https://newsmeter.in/hyderabad/fever-in-sudan-traveller-triggers-ebola-surveillance-and-isolation-at-hyderabads-gandhi-hospital-769338) (NewsMeter); [Sudanese national shifted to isolation centre in Hyderabad after exhibiting some Ebola symptoms](https://www.newindianexpress.com/cities/hyderabad/2026/Jun/04/sudanese-national-shifted-to-isolation-centre-in-hyderabad-after-exhibiting-some-ebola-symptoms) (The New Indian Express)
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-06-04
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today, 2026-06-02T21:28+00:00)
 - Detailed note: According to the Department of Health–Metro Manila Center for Health Development (DOH-MMCHD), the Ligtas Tigdas campaign aims to immunize 1,200,428 children aged 6 to 59 months across Metro Manila through a supplemental immunization activity. It can cause severe complications such as pneumonia, brain inflammation, blindness and even death, especially in unvaccinated children”.
-- Evidence notes: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today); [Death toll in Bangladesh measles outbreak crosses 600](https://ca.news.yahoo.com/death-toll-bangladesh-measles-outbreak-115029312.html) (Yahoo News Canada)
+- Evidence notes: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today); [Bangladesh Measles Outbreak: DGHS reports four more deaths](https://www.newagebd.net/post/childrens-health/301557/bangladesh-measles-outbreak-dghs-reports-four-more-deaths) (newagebd.net)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
