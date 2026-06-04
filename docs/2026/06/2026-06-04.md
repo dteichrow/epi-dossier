@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-04
-Generated at: 2026-06-04T07:37
+Generated at: 2026-06-04T07:51
 Search window: 7 day(s) ending 2026-06-04
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-04
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-06-03T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 21, May 18 to 24 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-21-may-18-24) (WHO Regional Office for Africa; 2026-06-02T21:14+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa; 2026-05-31T19:07+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (218), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (215), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 223 item(s) across 140 source(s).
-- Baseline snapshot created with 223 clustered item(s) across 140 source(s).
+- Newly tracked story cluster: 221 item(s) across 137 source(s).
+- Baseline snapshot created with 221 clustered item(s) across 137 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - Middle East Council on Global Affairs now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-06-04
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 223 item(s) across 140 source(s); 3 official/primary-source item(s).
+- Topic size: 221 item(s) across 137 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-03T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Fever in Sudan traveller triggers Ebola surveillance and isolation at Hyderabad’s Gandhi Hospital](https://newsmeter.in/hyderabad/fever-in-sudan-traveller-triggers-ebola-surveillance-and-isolation-at-hyderabads-gandhi-hospital-769338) (NewsMeter); [Sudanese national shifted to isolation centre in Hyderabad after exhibiting some Ebola symptoms](https://www.newindianexpress.com/cities/hyderabad/2026/Jun/04/sudanese-national-shifted-to-isolation-centre-in-hyderabad-after-exhibiting-some-ebola-symptoms) (The New Indian Express)
@@ -55,6 +55,14 @@ Search window: 7 day(s) ending 2026-06-04
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today, 2026-06-02T21:28+00:00)
+- Detailed note: According to the Department of Health–Metro Manila Center for Health Development (DOH-MMCHD), the Ligtas Tigdas campaign aims to immunize 1,200,428 children aged 6 to 59 months across Metro Manila through a supplemental immunization activity. It can cause severe complications such as pneumonia, brain inflammation, blindness and even death, especially in unvaccinated children”.
+- Evidence notes: [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today); [Measles Deaths In Bangladesh 2026 Update | 6 more children die with measles-like symptoms in 24 hours](https://www.thedailystar.net/health/disease/news/6-more-children-die-measles-symptoms-24-hours-4188901) (The Daily Star)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
 ### Malaria
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [Driven to End Malaria: Now We Can. Now We Must.](https://www.afro.who.int/countries/eswatini/news/driven-end-malaria-now-we-can-now-we-must) (WHO Regional Office for Africa, 2026-06-04T07:46+00:00)
@@ -62,14 +70,6 @@ Search window: 7 day(s) ending 2026-06-04
 - Evidence notes: [Driven to End Malaria: Now We Can. Now We Must.](https://www.afro.who.int/countries/eswatini/news/driven-end-malaria-now-we-can-now-we-must) (WHO Regional Office for Africa); [Antigua and Barbuda: Chickenpox cluster at Clarevue Psychiatric Hospital, Imported malaria reported](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEt6dXdXWWU1UUJYU3ZDd1RDbUhHSDd3SW9ub1J2cEV2elhWSktPemtSNHNUUFZvdVJsS1FSNGtVNmJqU0p6bVFtSWZodHVEUmZYeGZpTG5tR3VPLTRDU0ViNFk2b1BSVFFmenFIM2xHcnhCMjlIOXRDR0E2UXdoZWNQU00xZw?oc=5) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh measles death toll rises to 601 as outbreak worsens](https://newsonair.gov.in/bangladesh-measles-death-toll-rises-to-601-as-outbreak-worsens/) (News On AIR, 2026-06-04T01:59+00:00)
-- Detailed note: The latest fatalities were classified as suspected measles deaths, taking the total number of suspected deaths to 511, while confirmed measles deaths remained at 90. Since the outbreak intensified in mid-March, Bangladesh has reported 74,572 suspected cases and 9,191 laboratory-confirmed infections. According to the Department of Health–Metro Manila Center for Health Development (DOH-MMCHD), the Ligtas Tigdas...
-- Evidence notes: [Bangladesh measles death toll rises to 601 as outbreak worsens](https://newsonair.gov.in/bangladesh-measles-death-toll-rises-to-601-as-outbreak-worsens/) (News On AIR); [Philippines: Measles vaccination campaign targets over 1.2 million children in Metro Manila](https://outbreaknewstoday.substack.com/p/philippines-measles-vaccination-campaign) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -422,8 +422,6 @@ Search window: 7 day(s) ending 2026-06-04
   Limited detail was available from feed metadata alone.
 - [Additional Consular Information for Americans Regarding the Ebola Outbreak](https://ke.usembassy.gov/consular-information-for-americans-regarding-the-ebola-outbreak/) | U.S. Embassy in Kenya (.gov) | 2026-06-04T06:14+00:00 | Outbreaks and emerging infections
   Additional Consular Information for Americans Regarding the Ebola Outbreak U.S. Embassy in Kenya (.gov)
-- [Bangladesh measles death toll rises to 601 as outbreak worsens](https://newsonair.gov.in/bangladesh-measles-death-toll-rises-to-601-as-outbreak-worsens/) | News On AIR | 2026-06-04T01:59+00:00 | Outbreaks and emerging infections
-  The latest fatalities were classified as suspected measles deaths, taking the total number of suspected deaths to 511, while confirmed measles deaths remained at 90. Since the outbreak intensified in mid-March, Bangladesh has reported 74,572 suspected cases and 9,191 laboratory-confirmed infections. Health authorities said more than 60,000 suspected patients have been hospitalised since March 15, with 55,942 recovering and being discharged after treatment.
 - [Hong Kong investigates 2nd local dengue transmission](https://outbreaknewstoday.substack.com/p/hong-kong-investigates-2nd-local) | Outbreak News Today | 2026-06-03T22:09+00:00 | Outbreaks and emerging infections
   In 2024, 161 dengue fever cases were recorded, including 156 imported cases and five local cases. Last year (2025), 59 dengue fever cases were recorded, all of which were imported. He developed a rash on May 24 and fever, dizziness and muscle ache on May 26.
 - [What we know about the spread of Ebola amid growing outbreak in DRC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/spread-ebola-amid-growing-outbreak-drc/story?id\=133511612) | ABC News - Breaking News, Latest News and Videos | 2026-06-03T21:34+00:00 | Outbreaks and emerging infections
@@ -438,8 +436,6 @@ Search window: 7 day(s) ending 2026-06-04
   Limited detail was available from feed metadata alone.
 - [Ebola spreads to new areas of DR Congo as outbreak widens](https://www.ft.com/content/ed4818b4-2fdc-4750-af80-1a0f52f67462?syn-25a6b1a6\=1) | Financial Times | 2026-06-03T16:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO chief says Ebola response in Congo catching up after outbreak's 'big head start'](https://www.aa.com.tr/en/africa/who-chief-says-ebola-response-in-congo-catching-up-after-outbreaks-big-head-start/3955631) | Anadolu Ajansı | 2026-06-03T15:31+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Congo’s Ebola Outbreak Reaches Territory Held by Islamic State](https://www.wsj.com/world/africa/congos-ebola-outbreak-reaches-territory-held-by-islamic-state-7c3d1141) | WSJ | 2026-06-03T15:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Look inside Republic of the Congo hospital during ebola outbreak](https://www.wral.com/video/look-inside-republic-of-the-congo-hospital-during-ebola-outbreak/22364288/) | WRAL | 2026-06-03T13:01+00:00 | Outbreaks and emerging infections
@@ -449,6 +445,10 @@ Search window: 7 day(s) ending 2026-06-04
 - [Ebola outbreak – information for colleagues and students](https://studentnews.manchester.ac.uk/2026/06/03/ebola-outbreak-information-for-colleagues-and-students/) | The University of Manchester | 2026-06-03T11:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Trump wants to offload the DRC’s Ebola cases to Kenya](https://www.theafricareport.com/420811/trump-wants-to-offload-the-drcs-ebola-cases-to-kenya/) | The Africa Report | 2026-06-03T10:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Two people shot dead amid Kenya protests against US Ebola quarantine centre plan](https://www.bbc.com/news/articles/cvgz7zny3pzo) | BBC | 2026-06-03T07:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Can the rush for vaccines slow the latest Ebola outbreak?](https://www.ft.com/content/1d19fe6f-75da-479f-8135-af802903d4a3) | Financial Times | 2026-06-03T04:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
