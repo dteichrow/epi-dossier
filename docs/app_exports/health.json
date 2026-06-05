@@ -18,18 +18,18 @@
     "metadata_only_count": 250,
     "sources_cached": 0,
     "sources_failed": 3,
-    "sources_live": 268,
+    "sources_live": 269,
     "story_count_change": 4,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 268,
+    "live": 269,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-05T01:56:06",
+  "generated_at": "2026-06-05T02:00:24",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
