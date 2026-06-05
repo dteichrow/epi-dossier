@@ -15,30 +15,25 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 253,
+    "metadata_only_count": 251,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 272,
+    "sources_failed": 1,
+    "sources_live": 271,
     "story_count_change": 4,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 272,
+    "live": 271,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-05T04:11:01",
+  "generated_at": "2026-06-05T04:16:48",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
-      "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
-      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]
