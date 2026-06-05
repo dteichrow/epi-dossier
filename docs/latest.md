@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-05
-Generated at: 2026-06-05T09:12
+Generated at: 2026-06-05T13:26
 Search window: 7 day(s) ending 2026-06-05
 
 ## Executive scan
@@ -9,24 +9,24 @@ Search window: 7 day(s) ending 2026-06-05
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Driven to End Malaria: Now We Can. Now We Must.](https://www.afro.who.int/countries/eswatini/news/driven-end-malaria-now-we-can-now-we-must) (WHO Regional Office for Africa; 2026-06-04T07:46+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-04T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-03T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Targeted pneumococcal conjugate vaccination strategies for high-risk children.](https://pubmed.ncbi.nlm.nih.gov/42234765/) (PubMed Infectious Disease Search; 2026-06-03T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (242), Policy, surveillance, and public health infrastructure (18), Occupational and environmental epidemiology (3)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (221), Policy, surveillance, and public health infrastructure (17), Occupational and environmental epidemiology (3)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 221 item(s) across 135 source(s).
-- Baseline snapshot created with 221 clustered item(s) across 135 source(s).
+- Newly tracked story cluster: 196 item(s) across 124 source(s).
+- Baseline snapshot created with 196 clustered item(s) across 124 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
 - Lead item: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR)
-- Newly tracked story cluster: 35 item(s) across 32 source(s).
-- Baseline snapshot created with 35 clustered item(s) across 32 source(s).
+- Newly tracked story cluster: 36 item(s) across 34 source(s).
+- Baseline snapshot created with 36 clustered item(s) across 34 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Occupational and environmental epidemiology
@@ -38,18 +38,18 @@ Search window: 7 day(s) ending 2026-06-05
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 221 item(s) across 135 source(s); 4 official/primary-source item(s).
+- Topic size: 196 item(s) across 124 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [WHO launches $518 million plan to curb Africa Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/who-announces-580-million-six-month-plan-fight-ebola-2026-06-05/) (Reuters)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Should I hug my children? Ebola doctor on outbreak frontlines faces daily dilemma - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/hug-children-ebola-doctor-outbreak-frontlines-faces-daily/story?id\=133584201) (ABC News - Breaking News, Latest News and Videos)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 35 item(s) across 32 source(s); 3 official/primary-source item(s).
+- Topic size: 36 item(s) across 34 source(s); 3 official/primary-source item(s).
 - Lead item: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR, 2026-06-04T17:00+00:00)
 - Detailed note: Sugerman, MD 5 ; Carolyn Crisp, PhD 6 ,7 ; Gretchen Rodriguez, MPH 7 ; Thi Dang, MPH 7 ; Diana Martinez, PhD 7 ; Saroj Rai, PhD 7 ; Varun Shetty, MD 7 ; Ashley Meehan, MPH 8 ; Susan Hocevar Adkins, MD 8 ; Thomas D. Ly, PhD 1 ,2 ; Amanda Shotts, MPH 3 ; Tiffany Torres, MPH 3 ; Georgina Peacock, MD 4 ; David E. Children with malnutrition and those following infection with measles or malaria experience immune...
-- Evidence notes: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR); [Targeted pneumococcal conjugate vaccination strategies for high-risk children.](https://pubmed.ncbi.nlm.nih.gov/42234765/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [US measles cases surpass 2,000 for the 2nd year in a row: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/us-measles-cases-surpass-2000-2nd-year-row/story?id\=133618006) (ABC News - Breaking News, Latest News and Videos); [Measles cases mount in Florida as PAHO warns of increased activity](https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXFsUDB0MDFYdzVxQXVxVzlwMzBFWkd6YUpYV3BtcmtLSGJEWkljVFRkbUc0UFdPcWJ3blZhTl9qRUNWMDQ1c2RtVXA2TEpNUjZEcEdQYXMwaXhMVlNFSEZKS3hFaHRyV2d2LVNMUlRvZGxQR0ZSYWxlR21GOHFKN2QzS1NWWXp4clpmMzZfczh5ZzN2UzJz?oc=5) (CIDRAP)
+- Evidence notes: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR); [Targeted pneumococcal conjugate vaccination strategies for high-risk children.](https://pubmed.ncbi.nlm.nih.gov/42234765/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [US measles cases surpass 2,000 for the 2nd year in a row: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/us-measles-cases-surpass-2000-2nd-year-row/story?id\=133618006) (ABC News - Breaking News, Latest News and Videos); [CDC: Only 1 in 10 hospital patients early in the West Texas measles outbreak had underlying conditions](https://www.cidrap.umn.edu/measles/cdc-only-1-10-hospital-patients-early-west-texas-measles-outbreak-had-underlying-conditions) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -58,6 +58,14 @@ Search window: 7 day(s) ending 2026-06-05
 - Lead item: [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa, 2026-06-05T12:16+00:00)
 - Detailed note: Prusinski 2, *; Sai Gubbala, MS 1 ; Jennifer White, MPH 2 ; Dowd Naik 2 ; Jamie Sommer, MS 2 ; Danielle Wroblewski, MS 1 ( View author affiliations ) Borrelia mayonii is a pathogen that has been indicated as a causative agent of Lyme disease and identified in humans and ticks in Minnesota and Wisconsin. Publications elombatd@who.int Fri, 05/06/2026 - 13:16 The African continent continues to face an increasingly...
 - Evidence notes: [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa); [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR); [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR); [Nipah outbreak in Barasat infects 2 healthcare workers, patient dies](https://www.newsbytesapp.com/news/india/nipah-outbreak-in-barasat-infects-2-healthcare-workers-patient-dies/tldr) (NewsBytes)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Miscellaneous signals
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks, 2026-06-04T00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [Effectiveness of the 10-valent pneumococcal non-typeable Haemophilus influenzae protein D conjugate vaccine (PCV10) against hypoxic pneumonia in children in Maha Sarakham Province, Thailand.](https://pubmed.ncbi.nlm.nih.gov/42226599/) (PubMed Infectious Disease Search); [HPV vaccination scenario and parental willingness to pay among girls aged 9-14 y in the Yangtze River Delta, China.](https://pubmed.ncbi.nlm.nih.gov/42228981/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -74,14 +82,6 @@ Search window: 7 day(s) ending 2026-06-05
 - Lead item: [Experts refute claims hantavirus derived name from Hebrew for 'nonsense'](https://malaysia.news.yahoo.com/experts-refute-claims-hantavirus-derived-083806236.html) (Yahoo News Malaysia, 2026-06-05T08:38+00:00)
 - Detailed note: The video, which has racked up more than 200,000 views, also shows Dharma describing hantavirus as " a global agenda " to sell vaccines -- echoing language he used in an earlier political event where he falsely suggested Covid-19 was a made-up pandemic . "We do not need to be afraid of the virus, since 'hanta' in Hebrew means nonsense," says Dharma Pongrekun, a former candidate for governor of Indonesia's capital...
 - Evidence notes: [Experts refute claims hantavirus derived name from Hebrew for 'nonsense'](https://malaysia.news.yahoo.com/experts-refute-claims-hantavirus-derived-083806236.html) (Yahoo News Malaysia)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Dengue and arboviruses
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana, 2026-06-04T21:30+00:00)
-- Detailed note: He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected.
-- Evidence notes: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -364,6 +364,16 @@ Search window: 7 day(s) ending 2026-06-05
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-04T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1380 with date posted 6/3/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Requeson/Soft Ricotta Cheese.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.
 - Source: PubMed Historical Epidemiology
 - Date: 2026-06-04T00:00
@@ -379,9 +389,9 @@ Search window: 7 day(s) ending 2026-06-05
 - Date: 2026-06-03T17:36+02:00
 - URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited usable detail remained after boilerplate cleanup.
+- Summary: On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 ### Targeted pneumococcal conjugate vaccination strategies for high-risk children.
@@ -404,21 +414,15 @@ Search window: 7 day(s) ending 2026-06-05
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Four health workers recover from Ebola in the Democratic Republic of the Congo
-- Source: WHO Regional Office for Africa
-- Date: 2026-05-31T19:07+00:00
-- URL: https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo
-- Category: Outbreaks and emerging infections
-- Summary: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) | WHO Regional Office for Africa | 2026-05-31T19:07+00:00 | Outbreaks and emerging infections
+  Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Should I hug my children? Ebola doctor on outbreak frontlines faces daily dilemma - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/hug-children-ebola-doctor-outbreak-frontlines-faces-daily/story?id\=133584201) | ABC News - Breaking News, Latest News and Videos | 2026-06-05T16:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO launches $518 million plan to curb Africa Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/who-announces-580-million-six-month-plan-fight-ebola-2026-06-05/) | Reuters | 2026-06-05T15:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -426,9 +430,11 @@ Search window: 7 day(s) ending 2026-06-05
   Read More US-Iran War News Live Updates: Israeli strikes continue, 12 killed near Lebanon hospital RBI MPC Meeting 2026 Live Updates: Will RBI governor Sanjay Malhotra announce repo rate hike to keep inflation under check amid US-Iran war? He has reported on ITE&C, Transport, Telangana assembly elections and other political events in the past. He has a special corner for sports and regular photography.
 - [The Gold Mines at the Heart of This Ebola Outbreak](https://www.nytimes.com/2026/06/05/world/africa/congo-ebola-gold-mine.html) | The New York Times | 2026-06-05T15:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Video Reporter at epicenter of Ebola outbreak describes crisis - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133618983/) | ABC News - Breaking News, Latest News and Videos | 2026-06-05T14:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [US measles cases surpass 2,000 for the 2nd year in a row: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/us-measles-cases-surpass-2000-2nd-year-row/story?id\=133618006) | ABC News - Breaking News, Latest News and Videos | 2026-06-05T14:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [East Africa to tighten border screening as Ebola outbreak persists - China Daily](https://global.chinadaily.com.cn/a/202606/05/WS6a22db49a310d6866eb4cb75.html) | China Daily - Global Edition | 2026-06-05T14:21+00:00 | Outbreaks and emerging infections
+- [CDC: Only 1 in 10 hospital patients early in the West Texas measles outbreak had underlying conditions](https://www.cidrap.umn.edu/measles/cdc-only-1-10-hospital-patients-early-west-texas-measles-outbreak-had-underlying-conditions) | CIDRAP | 2026-06-05T13:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo’s Ebola Outbreak Was a Disaster Waiting to Happen](https://www.bloomberg.com/news/newsletters/2026-06-05/congo-s-ebola-outbreak-was-a-disaster-waiting-to-happen) | Bloomberg.com | 2026-06-05T13:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -437,8 +443,6 @@ Search window: 7 day(s) ending 2026-06-05
 - [Rumors and mistrust persist as eastern Congo battles Ebola outbreak](https://lufkindailynews.com/ap_video/rumors-and-mistrust-persist-as-eastern-congo-battles-ebola-outbreak/video_05c6bebb-eb09-51c4-889f-ec266e3fcc1a.html) | The Lufkin Daily News | 2026-06-05T11:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Canadian missionary pilots help fight Ebola outbreak in Congo](https://chvnradio.com/articles/canadian-missionary-pilots-help-fight-ebola-outbreak-in-congo) | CHVN Radio | 2026-06-05T10:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak: UAE announces additional precautionary measures, suspends new visas for 3 countries](https://www.emirates247.com/uae/ebola-outbreak-uae-announces-precautionary-measures-for-arrivals-from-3-countries/2289) | Emirates 24|7 | 2026-06-05T10:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Experts refute claims hantavirus derived name from Hebrew for 'nonsense'](https://malaysia.news.yahoo.com/experts-refute-claims-hantavirus-derived-083806236.html) | Yahoo News Malaysia | 2026-06-05T08:38+00:00 | Outbreaks and emerging infections
   The video, which has racked up more than 200,000 views, also shows Dharma describing hantavirus as " a global agenda " to sell vaccines -- echoing language he used in an earlier political event where he falsely suggested Covid-19 was a made-up pandemic . "We do not need to be afraid of the virus, since 'hanta' in Hebrew means nonsense," says Dharma Pongrekun, a former candidate for governor of Indonesia's capital Jakarta, in an interview posted on YouTube on May 15, 2026. Hantavirus was named after the Hantan River in South Korea, where the first major outbreak was recorded in the 1950s.
@@ -452,10 +456,6 @@ Search window: 7 day(s) ending 2026-06-05
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak a 'very big problem' due to mistrust, says ex-CDC director | Elizabeth Vargas Reports](https://www.newsnationnow.com/video/ebola-outbreak-a-very-big-problem-due-to-mistrust-says-ex-cdc-director-elizabeth-vargas-reports/11855825/) | NewsNation | 2026-06-05T01:03+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Congo reports attack on Ebola burial team as cases rise](https://sightmagazine.com.au/news/congo-reports-attack-on-ebola-burial-team-as-cases-rise/) | sightmagazine.com.au | 2026-06-04T23:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) | Ada Derana | 2026-06-04T21:30+00:00 | Outbreaks and emerging infections
-  He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Perera also urged the public to be vigilant about the rising number of influenza cases, stressing that this illness can spread rapidly among children.
 
 ## Papers worth saving
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/)
