@@ -14,22 +14,27 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 258,
+    "metadata_only_count": 248,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 276,
+    "sources_failed": 2,
+    "sources_live": 267,
     "story_count_change": 3,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 276,
+    "live": 267,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-05T13:50:01",
+  "generated_at": "2026-06-05T14:01:26",
   "source_failures": [
+    {
+      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='africacdc.org', port=443) at 0x109997b10>, 'Connection to africacdc.org timed out. (connect timeout=20)'))",
+      "source": "Africa CDC",
+      "source_type": "rss"
+    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",

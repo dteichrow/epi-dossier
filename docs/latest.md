@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-05
-Generated at: 2026-06-05T13:50
+Generated at: 2026-06-05T14:01
 Search window: 7 day(s) ending 2026-06-05
 
 ## Executive scan
@@ -11,15 +11,15 @@ Search window: 7 day(s) ending 2026-06-05
 - [Driven to End Malaria: Now We Can. Now We Must.](https://www.afro.who.int/countries/eswatini/news/driven-end-malaria-now-we-can-now-we-must) (WHO Regional Office for Africa; 2026-06-04T07:46+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-04T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (4)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-03T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (243), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (3)
+- Source health: 2 source(s) failed during collection: Africa CDC, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 227 item(s) across 134 source(s).
-- Baseline snapshot created with 227 clustered item(s) across 134 source(s).
+- Newly tracked story cluster: 218 item(s) across 134 source(s).
+- Baseline snapshot created with 218 clustered item(s) across 134 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-06-05
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 227 item(s) across 134 source(s); 4 official/primary-source item(s).
+- Topic size: 218 item(s) across 134 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Should I hug my children? Ebola doctor on outbreak frontlines faces daily dilemma - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/hug-children-ebola-doctor-outbreak-frontlines-faces-daily/story?id\=133584201) (ABC News - Breaking News, Latest News and Videos)
@@ -69,6 +69,14 @@ Search window: 7 day(s) ending 2026-06-05
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana, 2026-06-04T21:30+00:00)
+- Detailed note: He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected.
+- Evidence notes: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Malaria
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [Driven to End Malaria: Now We Can. Now We Must.](https://www.afro.who.int/countries/eswatini/news/driven-end-malaria-now-we-can-now-we-must) (WHO Regional Office for Africa, 2026-06-04T07:46+00:00)
@@ -76,14 +84,6 @@ Search window: 7 day(s) ending 2026-06-05
 - Evidence notes: [Driven to End Malaria: Now We Can. Now We Must.](https://www.afro.who.int/countries/eswatini/news/driven-end-malaria-now-we-can-now-we-must) (WHO Regional Office for Africa); [Antigua and Barbuda: Chickenpox cluster at Clarevue Psychiatric Hospital, Imported malaria reported](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEt6dXdXWWU1UUJYU3ZDd1RDbUhHSDd3SW9ub1J2cEV2elhWSktPemtSNHNUUFZvdVJsS1FSNGtVNmJqU0p6bVFtSWZodHVEUmZYeGZpTG5tR3VPLTRDU0ViNFk2b1BSVFFmenFIM2xHcnhCMjlIOXRDR0E2UXdoZWNQU00xZw?oc=5) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:37+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -384,16 +384,6 @@ Search window: 7 day(s) ending 2026-06-05
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### A new clade of H9N2 avian influenza virus circulating in Laos.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-06-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42243068/
-- Category: Major epidemiology studies
-- Summary: This new clade is phylogenetically distinct from the previously described clades, and the representative strains in this new Clade 4.6.20 presented a low cross reactivity to the antisera of other clades, suggesting antigenic drift of the viruses between the new Clade 4.6.20, and other clades in the dominant lineage of Clade 4.6. Using the established H9N2 genomic classification system, a novel HA gene clade of the A/chicken/Beijing/1/94-like (BJ/94-like) lineage, designated Clade 4.6.20, was identified. In addition, all the newly identified viruses in Clade 4.6.20 possessed HA-L226 and NP-N52 mutations, which are associated with human-type receptor binding and human MxA-related innate immunity escape, respectively.
-- Why it matters: Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
 - Source: ECDC News
 - Date: 2026-06-03T17:36+02:00
@@ -414,10 +404,18 @@ Search window: 7 day(s) ending 2026-06-05
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Brucellosis Surveillance
+- Source: CDC MMWR
+- Date: 2026-06-02T17:13+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690
+- Category: Occupational and environmental epidemiology
+- Summary: jurisdictions reported 1,796 confirmed and probable brucellosis cases. A total of 71-165 cases were reported annually.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) | CDC MMWR | 2026-06-02T17:13+00:00 | Occupational and environmental epidemiology
-  jurisdictions reported 1,796 confirmed and probable brucellosis cases. A total of 71-165 cases were reported annually.
 - [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) | WHO Regional Office for Africa | 2026-05-31T19:07+00:00 | Outbreaks and emerging infections
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
@@ -444,6 +442,8 @@ Search window: 7 day(s) ending 2026-06-05
   Limited detail was available from feed metadata alone.
 - [Canadian missionary pilots help fight Ebola outbreak in Congo](https://chvnradio.com/articles/canadian-missionary-pilots-help-fight-ebola-outbreak-in-congo) | CHVN Radio | 2026-06-05T10:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Experts refute claims hantavirus derived name from Hebrew for 'nonsense'](https://malaysia.news.yahoo.com/experts-refute-claims-hantavirus-derived-083806236.html) | Yahoo News Malaysia | 2026-06-05T08:38+00:00 | Outbreaks and emerging infections
+  The video, which has racked up more than 200,000 views, also shows Dharma describing hantavirus as " a global agenda " to sell vaccines -- echoing language he used in an earlier political event where he falsely suggested Covid-19 was a made-up pandemic . "We do not need to be afraid of the virus, since 'hanta' in Hebrew means nonsense," says Dharma Pongrekun, a former candidate for governor of Indonesia's capital Jakarta, in an interview posted on YouTube on May 15, 2026. Hantavirus was named after the Hantan River in South Korea, where the first major outbreak was recorded in the 1950s.
 - [Another Sudanese National Isolated At Hyderabad Hospital Over Suspected Ebola Symptoms](https://www.ndtv.com/health/another-sudanese-national-isolated-at-hyderabad-hospital-over-suspected-ebola-symptoms-11594811) | NDTV | 2026-06-05T08:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo: 228 suspected deaths, 977 cases](https://www.redcross.org.uk/stories/disasters-and-emergencies/world/ebola-outbreak-democratic-republic-of-congo) | British Red Cross | 2026-06-05T06:27+00:00 | Outbreaks and emerging infections
@@ -464,12 +464,6 @@ Search window: 7 day(s) ending 2026-06-05
   Journal/preprint server: PloS one
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42241447/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42241447/
-- [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/22221751.2026.2678641
-  Journal/preprint server: Emerging microbes & infections
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42243068/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42243068/
 - [Targeted pneumococcal conjugate vaccination strategies for high-risk children.](https://pubmed.ncbi.nlm.nih.gov/42234765/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2683209
@@ -503,7 +497,6 @@ Search window: 7 day(s) ending 2026-06-05
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
