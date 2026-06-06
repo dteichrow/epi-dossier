@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-06
-Generated at: 2026-06-06T17:51
+Generated at: 2026-06-06T14:54
 Search window: 7 day(s) ending 2026-06-06
 
 ## Executive scan
@@ -12,17 +12,16 @@ Search window: 7 day(s) ending 2026-06-06
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-03T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (205), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (5)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (222), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (5)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 213 item(s) across 127 source(s).
-- Baseline snapshot created with 213 clustered item(s) across 127 source(s).
+- Newly tracked story cluster: 229 item(s) across 143 source(s).
+- Baseline snapshot created with 229 clustered item(s) across 143 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- IBTimes India now includes quarantine language.
 
 ### Occupational and environmental epidemiology
 - Lead item: [EARLY RELEASE: Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR)
@@ -33,7 +32,7 @@ Search window: 7 day(s) ending 2026-06-06
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 213 item(s) across 127 source(s); 4 official/primary-source item(s).
+- Topic size: 229 item(s) across 143 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) (The New York Times)
@@ -48,6 +47,14 @@ Search window: 7 day(s) ending 2026-06-06
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
+### COVID-19 and SARS-CoV-2
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Dengue Outbreak Turns into Nationwide Health Emergency in Pakistan](https://newsonair.gov.in/sindh-governments-criminal-negligence/) (News On AIR, 2026-06-06T18:42+00:00)
+- Detailed note: Activists also alleged that officials are concealing the true scale of the outbreak, saying dengue has turned deadlier than Covid-19. According to media reports, social activists have urged the Sindh government to declare an immediate health emergency, establish a dedicated dengue task force, and provide free testing facilities in public and private hospitals.
+- Evidence notes: [Dengue Outbreak Turns into Nationwide Health Emergency in Pakistan](https://newsonair.gov.in/sindh-governments-criminal-negligence/) (News On AIR)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
 ### Measles transmission and vaccination
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Measles outbreak in Bangladesh draws international concern](https://theindianawaaz.com/measles-outbreak-in-bangladesh-draws-international-concern/) (The Indian Awaaz, 2026-06-06T17:33+00:00)
@@ -56,28 +63,20 @@ Search window: 7 day(s) ending 2026-06-06
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
+### Historical epidemiology and ancient pathogens
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [German hospital discharges US man cured of Ebola infection](https://thepeninsulaqatar.com/article/06/06/2026/german-hospital-discharges-us-man-cured-of-ebola-infection) (The Peninsula Qatar, 2026-06-06T13:56+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [German hospital discharges US man cured of Ebola infection](https://thepeninsulaqatar.com/article/06/06/2026/german-hospital-discharges-us-man-cured-of-ebola-infection) (The Peninsula Qatar)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza](https://www.washingtonpost.com/world/2026/06/05/argentina-hantavirus-investigation-cdc-ushuaia-mendoza/45329266-6136-11f1-9c46-d6211372eede_story.html) (The Washington Post, 2026-06-06T06:28+00:00)
 - Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza](https://www.washingtonpost.com/world/2026/06/05/argentina-hantavirus-investigation-cdc-ushuaia-mendoza/45329266-6136-11f1-9c46-d6211372eede_story.html) (The Washington Post)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Tuberculosis and antimicrobial resistance
-- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
-- Lead item: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology, 2026-06-04T00:00)
-- Detailed note: These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are...
-- Evidence notes: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology)
-- Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
-
-### Historical epidemiology and ancient pathogens
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Inside the 'red zone' Ebola ward in the Democratic Republic of Congo](https://www.11alive.com/video/news/inside-the-red-zone-ebola-ward-in-the-democratic-republic-of-congo/85-2665e513-92f4-4151-8d51-86f9aae2ccf8) (11Alive.com, 2026-06-01T17:56+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Inside the 'red zone' Ebola ward in the Democratic Republic of Congo](https://www.11alive.com/video/news/inside-the-red-zone-ebola-ward-in-the-democratic-republic-of-congo/85-2665e513-92f4-4151-8d51-86f9aae2ccf8) (11Alive.com)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -384,9 +383,9 @@ Search window: 7 day(s) ending 2026-06-06
 - Date: 2026-06-03T17:36+02:00
 - URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
-- Summary: On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
+- Summary: Limited usable detail remained after boilerplate cleanup.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
 ### Brucellosis Surveillance
@@ -415,10 +414,14 @@ Search window: 7 day(s) ending 2026-06-06
   Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-06T18:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Dengue Outbreak Turns into Nationwide Health Emergency in Pakistan](https://newsonair.gov.in/sindh-governments-criminal-negligence/) | News On AIR | 2026-06-06T18:42+00:00 | Outbreaks and emerging infections
+  Activists also alleged that officials are concealing the true scale of the outbreak, saying dengue has turned deadlier than Covid-19. According to media reports, social activists have urged the Sindh government to declare an immediate health emergency, establish a dedicated dengue task force, and provide free testing facilities in public and private hospitals. They accused the Sindh Health Department, district administration, and municipal authorities of gross negligence, claiming thousands have been infected and hundreds remain hospitalised.
 - [Measles outbreak in Bangladesh draws international concern](https://theindianawaaz.com/measles-outbreak-in-bangladesh-draws-international-concern/) | The Indian Awaaz | 2026-06-06T17:33+00:00 | Outbreaks and emerging infections
   According to assessments cited from the World Health Organization (WHO), the outbreak has been driven by falling measles-rubella vaccination coverage, immunity gaps among children, vaccine shortages during 2024–25, delayed policy decisions and the failure to carry out a planned nationwide supplementary immunisation campaign in 2024. Children under five account for 79% of confirmed cases, while those under two represent 66%. The WHO has warned that transmission is likely to continue unless urgent high-quality vaccination drives and stronger disease surveillance are implemented.
-- [Mauritius limits entry of foreigners following Ebola outbreak](https://www.ibtimes.co.in/mauritius-limits-entry-foreigners-following-ebola-outbreak-902693) | IBTimes India | 2026-06-06T16:35+00:00 | Outbreaks and emerging infections
-  Mauritian citizens and foreign residents holding valid work, residence, occupation, business, or student permits will still be allowed to enter the country, but will be subject to a mandatory 21-day quarantine if they have visited any of the three countries within the previous three weeks. Mauritian authorities will also require screening and risk assessment at points of entry for travellers arriving from affected countries. The Ebola outbreak was declared in the DRC and Uganda on May 15.
+- [German hospital discharges US man cured of Ebola infection](https://thepeninsulaqatar.com/article/06/06/2026/german-hospital-discharges-us-man-cured-of-ebola-infection) | The Peninsula Qatar | 2026-06-06T13:56+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Sudanese passenger tests negative for Ebola, two more in isolation ward in Hyderabad's Gandhi Hospital](https://www.deccanherald.com/india/telangana/sudanese-passenger-tests-negative-for-ebola-two-more-in-isolation-ward-in-hyderabads-gandhi-hospital-4029876) | Deccan Herald | 2026-06-06T13:28+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Nearly 500 confirmed cases in central Africa Ebola outbreak: WHO](https://english.alarabiya.net/News/world/2026/06/06/nearly-500-confirmed-cases-in-central-africa-ebola-outbreak-who) | Al Arabiya English | 2026-06-06T09:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [The World Has Learned From the Last Ebola Outbreak, but Gaps Remain](https://www.nytimes.com/2026/06/06/world/africa/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html) | The New York Times | 2026-06-06T09:00+00:00 | Outbreaks and emerging infections
@@ -433,6 +436,8 @@ Search window: 7 day(s) ending 2026-06-06
   Limited detail was available from feed metadata alone.
 - [Ebola spread in central Africa could match 2014 record outbreak, US health officials say](https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say) | The Guardian | 2026-06-06T04:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [In a town at the center of eastern Congo's Ebola outbreak, patients arrive too late](https://ca.news.yahoo.com/town-center-eastern-congos-ebola-012839851.html) | Yahoo News Canada | 2026-06-06T01:28+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Central Africa could reach 20,000 cases without strong public health measures](https://apnews.com/article/ebola-congo-virus-fever-bundibugyo-96b2fb69de2245605b1fddfe22ec623b) | AP News | 2026-06-05T22:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Cases May Top 20,000 in Three Months, C.D.C. Says](https://www.nytimes.com/2026/06/05/us/politics/cdc-ebola-projection.html) | The New York Times | 2026-06-05T22:04+00:00 | Policy, surveillance, and public health infrastructure
@@ -444,12 +449,6 @@ Search window: 7 day(s) ending 2026-06-06
 - [WHO and Africa CDC unveil $518m Ebola plan as DRC, Uganda death tolls rise](https://www.aljazeera.com/news/2026/6/5/who-africa-cdc-unveil-518m-ebola-plan-as-uganda-death-toll-rises) | Al Jazeera | 2026-06-05T21:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US CDC warns Congo Ebola outbreak could be on level of 2014 West Africa outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-warns-congo-ebola-outbreak-could-be-level-2014-west-africa-outbreak-2026-06-05/) | Reuters | 2026-06-05T19:48+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [US adds $38 million for Ebola as CDC warns outbreak could match 2014](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-it-will-give-almost-38-million-more-ebola-response-2026-06-05/) | Reuters | 2026-06-05T18:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO launches $518 million plan to curb Africa Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/who-announces-580-million-six-month-plan-fight-ebola-2026-06-05/) | Reuters | 2026-06-05T15:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Uganda: More cases, death in Ebola outbreak](https://outbreaknewstoday.substack.com/p/uganda-more-cases-death-in-ebola) | Outbreak News Today | 2026-06-05T15:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
