@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-06
-Generated at: 2026-06-06T09:39
+Generated at: 2026-06-06T12:40
 Search window: 7 day(s) ending 2026-06-06
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-06
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-03T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (180), Policy, surveillance, and public health infrastructure (19), Occupational and environmental epidemiology (5)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (223), Policy, surveillance, and public health infrastructure (16), Occupational and environmental epidemiology (5)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 193 item(s) across 130 source(s).
-- Baseline snapshot created with 193 clustered item(s) across 130 source(s).
+- Newly tracked story cluster: 233 item(s) across 154 source(s).
+- Baseline snapshot created with 233 clustered item(s) across 154 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-06-06
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 193 item(s) across 130 source(s); 4 official/primary-source item(s).
+- Topic size: 233 item(s) across 154 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola cases surge over 400 as fears grow over central Africa outbreak](https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak) (Euronews.com)
@@ -413,8 +413,12 @@ Search window: 7 day(s) ending 2026-06-06
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Ebola cases surge over 400 as fears grow over central Africa outbreak](https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak) | Euronews.com | 2026-06-06T14:50+00:00 | Outbreaks and emerging infections
-  Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
+  Limited detail was available from feed metadata alone.
+- [WHO, Africa CDC Unveils $518 Million Plan To Contain Congo Ebola Outbreak](https://www.bwhealthcareworld.com/article/who-africa-cdc-unveils-518-million-plan-to-contain-congo-ebola-outbreak-609772) | BW Healthcare | 2026-06-06T14:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-06T14:28+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak in Congo Worsens, Potential for 20,000 Cases](https://english.ratopati.com/story/65699/ebola-outbreak-in-africa-increasing-congo-worst-affected) | Ratopati | 2026-06-06T11:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Public health agency concnered latest Ebola outbreak could become largest on record](https://www.sbs.com.au/news/article/us-public-health-agency-warns-latest-ebola-outbreak-could-become-largest-on-record/nyyfsglsx) | SBS Australia | 2026-06-06T10:13+00:00 | Policy, surveillance, and public health infrastructure
   In its daily update on the situation, the World Health Organization tallied 452 confirmed cases, including 82 deaths, in the Democratic Republic of Congo, where the outbreak was declared three weeks ago. Nearly 500 Ebola cases have now been confirmed in the deadly outbreak raging in central Africa, a WHO overview showed Saturday, amid mounting concern over the swelling scale of the epidemic. 82 people have died in the current outbreak.
@@ -424,8 +428,6 @@ Search window: 7 day(s) ending 2026-06-06
   Limited detail was available from feed metadata alone.
 - [I led the U.S. CDC response to the 2014 Ebola epidemic. The new outbreak needs massive, immediate, meticulous action](https://www.statnews.com/2026/06/06/ebola-outbreak-us-aid-response-tom-frieden-action-plan/) | statnews.com | 2026-06-06T08:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak has been blown out of proportions](https://www.monitor.co.ug/uganda/oped/commentary/ebola-outbreak-has-been-blown-out-of-proportions-5486910) | Daily Monitor | 2026-06-06T07:48+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza](https://www.washingtonpost.com/world/2026/06/05/argentina-hantavirus-investigation-cdc-ushuaia-mendoza/45329266-6136-11f1-9c46-d6211372eede_story.html) | The Washington Post | 2026-06-06T06:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Cases Jump as CDC Warns Outbreak Could Be Among Largest Ever](https://www.bloomberg.com/news/articles/2026-06-06/congo-ebola-cases-jump-as-cdc-warns-outbreak-could-be-among-largest-ever) | Bloomberg.com | 2026-06-06T06:22+00:00 | Outbreaks and emerging infections
@@ -433,8 +435,6 @@ Search window: 7 day(s) ending 2026-06-06
 - [Congo outbreak could rival the largest Ebola epidemic on record, CDC warns](https://www.washingtonpost.com/health/2026/06/05/congo-outbreak-could-rival-largest-ebola-epidemic-record-cdc-warns/) | The Washington Post | 2026-06-06T05:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola spread in central Africa could match 2014 record outbreak, US health officials say](https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say) | The Guardian | 2026-06-06T04:21+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo warns of 'rapid' community spread of Ebola, 71 new cases confirmed](https://www.monitor.co.ug/uganda/news/congo-warns-of-rapid-community-spread-of-ebola-5486994) | Daily Monitor | 2026-06-06T04:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [In a town at the center of eastern Congo's Ebola outbreak, patients arrive too late](https://ca.news.yahoo.com/town-center-eastern-congos-ebola-012839851.html) | Yahoo News Canada | 2026-06-06T01:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -448,7 +448,7 @@ Search window: 7 day(s) ending 2026-06-06
   Limited detail was available from feed metadata alone.
 - [WHO launches $518 million plan to curb Africa Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/who-announces-580-million-six-month-plan-fight-ebola-2026-06-05/) | Reuters | 2026-06-05T15:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-05T15:14+00:00 | Outbreaks and emerging infections
+- [Uganda: More cases, death in Ebola outbreak](https://outbreaknewstoday.substack.com/p/uganda-more-cases-death-in-ebola) | Outbreak News Today | 2026-06-05T15:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -474,7 +474,7 @@ Search window: 7 day(s) ending 2026-06-06
 ## Historical epi / weird epi corner
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) | PubMed Historical Epidemiology
   These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are effective for early detection of potential TB cases and high-risk patients, thereby helping to reduce TB transmission in the community. While nearly all hospital-based TB cases in Kampala, the capital of Uganda, show clear TB symptoms, 30% or more of undiagnosed TB cases found through active screening are asymptomatic.
-- [Congo reports attack on Ebola burial team as cases rise](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-reports-attack-ebola-burial-team-cases-rise-2026-06-04/) | Reuters
+- [Congo reports attack on Ebola burial team as cases rise](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHkwT19LYjQ5TklxZ2hpZjh2ZGRCS0FTeWhfQkxJZUlacEZWOG1oMEdYODdtaGo5RloxakFOVVBSNENoUmduWVM1a1NtWnJUSm5JUG1jMmQzbjlSOVc0a1JhZy1NdHZXYmFFMUNnaS1qbXJxVWpyeGhENzBHZWlyQWxVUGJOYXdVTVBrU3VZNjEybnFWaG9OM3RwS29GZDJ3R3NKdWZ5UFJSNnZWNFVGbGl6UXhRa3VVLTNZQkVB?oc=5) | Reuters
   Limited detail was available from feed metadata alone.
 - [Ebola burial team attacked and 11 patients flee care in widening outbreak in Congo](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21qbzBwVE44VkFHMEFTLWhMbGlOVVMwdjFnTktaZ2FMS2tHZ3R6cXZ5N0Y2UjB3aFAtOTl0eGhrRTFTSHRZWjhCLUtfUl9KZ3M4azZjbC0xVUVjRm5LZGhOd3ZJb3RTaGxORFVuNXFoVkNuVnlaMExnZ1VHQUpqMWdHaW9ac1hZa2pOSg?oc=5) | The Japan Times
   Limited detail was available from feed metadata alone.
