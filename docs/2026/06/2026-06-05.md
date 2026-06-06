@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-05
-Generated at: 2026-06-05T21:10
+Generated at: 2026-06-05T21:16
 Search window: 7 day(s) ending 2026-06-05
 
 ## Executive scan
@@ -10,16 +10,16 @@ Search window: 7 day(s) ending 2026-06-05
 - [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-03T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (201), Policy, surveillance, and public health infrastructure (16), Occupational and environmental epidemiology (5)
+- [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR; 2026-06-02T17:13+00:00; Occupational and environmental epidemiology; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (200), Policy, surveillance, and public health infrastructure (16), Occupational and environmental epidemiology (5)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 211 item(s) across 129 source(s).
-- Baseline snapshot created with 211 clustered item(s) across 129 source(s).
+- Newly tracked story cluster: 209 item(s) across 123 source(s).
+- Baseline snapshot created with 209 clustered item(s) across 123 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -33,7 +33,7 @@ Search window: 7 day(s) ending 2026-06-05
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 211 item(s) across 129 source(s); 4 official/primary-source item(s).
+- Topic size: 209 item(s) across 123 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak could exceed 20,000 cases in 3 months without urgent public health measures: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/ebola-outbreak-exceed-20000-cases-3-months-urgent/story?id\=133632631) (ABC News - Breaking News, Latest News and Videos)
@@ -56,13 +56,13 @@ Search window: 7 day(s) ending 2026-06-05
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Tuberculosis and antimicrobial resistance
-- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
-- Lead item: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology, 2026-06-04T00:00)
-- Detailed note: These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are...
-- Evidence notes: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology)
-- Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+### Rift Valley fever
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today, 2026-05-23T12:14+00:00)
+- Detailed note: A total of 13 livestock deaths and 81 abortions were reported among 75 farms were reported in the EPA. Chiradzulu district has an estimated cattle population of 26,017.
+- Evidence notes: [Africa: Rift Valley fever outbreak in Chiradzulu district, Malawi](https://outbreaknewstoday.substack.com/p/africa-rift-valley-fever-outbreak) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Miscellaneous signals
 - Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
@@ -369,16 +369,6 @@ Search window: 7 day(s) ending 2026-06-05
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.
-- Source: PubMed Historical Epidemiology
-- Date: 2026-06-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42241447/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are effective for early detection of potential TB cases and high-risk patients, thereby helping to reduce TB transmission in the community. While nearly all hospital-based TB cases in Kampala, the capital of Uganda, show clear TB symptoms, 30% or more of undiagnosed TB cases found through active screening are asymptomatic.
-- Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
 - Source: ECDC News
 - Date: 2026-06-03T17:36+02:00
@@ -409,10 +399,18 @@ Search window: 7 day(s) ending 2026-06-05
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
+- Source: Texas Department of State Health Services News
+- Date: Unknown
+- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
 - [Ebola outbreak could exceed 20,000 cases in 3 months without urgent public health measures: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/ebola-outbreak-exceed-20000-cases-3-months-urgent/story?id\=133632631) | ABC News - Breaking News, Latest News and Videos | 2026-06-05T23:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures](https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/) | statnews.com | 2026-06-05T22:28+00:00 | Policy, surveillance, and public health infrastructure
@@ -451,14 +449,10 @@ Search window: 7 day(s) ending 2026-06-05
   He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Perera also urged the public to be vigilant about the rising number of influenza cases, stressing that this illness can spread rapidly among children.
 - [PAHO steps up preparedness across the Americas amid Ebola outbreak in Africa - PAHO/WHO](https://www.paho.org/en/news/4-6-2026-paho-steps-preparedness-across-americas-amid-ebola-outbreak-africa) | Pan American Health Organization (PAHO) | 2026-06-04T21:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [With minimal protection, test kits or training, Congo doctors struggle to contain Ebola outbreak](https://www.wbur.org/hereandnow/2026/06/04/drc-ebola-outbreak) | WBUR | 2026-06-04T20:59+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
-- [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/)
-  Source: PubMed Historical Epidemiology
-  DOI: 10.1371/journal.pone.0348823
-  Journal/preprint server: PloS one
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42241447/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42241447/
 - [Effectiveness of the 10-valent pneumococcal non-typeable Haemophilus influenzae protein D conjugate vaccine (PCV10) against hypoxic pneumonia in children in Maha Sarakham Province, Thailand.](https://pubmed.ncbi.nlm.nih.gov/42226599/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2678682
@@ -473,8 +467,6 @@ Search window: 7 day(s) ending 2026-06-05
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42228981/
 
 ## Historical epi / weird epi corner
-- [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) | PubMed Historical Epidemiology
-  These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are effective for early detection of potential TB cases and high-risk patients, thereby helping to reduce TB transmission in the community. While nearly all hospital-based TB cases in Kampala, the capital of Uganda, show clear TB symptoms, 30% or more of undiagnosed TB cases found through active screening are asymptomatic.
 - [Congo reports attack on Ebola burial team as cases rise](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-reports-attack-ebola-burial-team-cases-rise-2026-06-04/) | Reuters
   Limited detail was available from feed metadata alone.
 - [Ebola burial team attacked and 11 patients flee care in widening outbreak in Congo](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21qbzBwVE44VkFHMEFTLWhMbGlOVVMwdjFnTktaZ2FMS2tHZ3R6cXZ5N0Y2UjB3aFAtOTl0eGhrRTFTSHRZWjhCLUtfUl9KZ3M4azZjbC0xVUVjRm5LZGhOd3ZJb3RTaGxORFVuNXFoVkNuVnlaMExnZ1VHQUpqMWdHaW9ac1hZa2pOSg?oc=5) | The Japan Times
@@ -484,5 +476,4 @@ Search window: 7 day(s) ending 2026-06-05
 
 ## Possible blog/video angles
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
-- Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
