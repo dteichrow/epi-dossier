@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-05
-Generated at: 2026-06-05T20:51
+Generated at: 2026-06-05T20:52
 Search window: 7 day(s) ending 2026-06-05
 
 ## Executive scan
@@ -21,6 +21,7 @@ Search window: 7 day(s) ending 2026-06-05
 - Newly tracked story cluster: 195 item(s) across 126 source(s).
 - Baseline snapshot created with 195 clustered item(s) across 126 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
+- The New York Times now reports conflict over body retrieval or burial practices.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -416,7 +417,7 @@ Search window: 7 day(s) ending 2026-06-05
 - [CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures](https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/) | statnews.com | 2026-06-05T22:28+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Ebola Cases May Top 20,000 in Three Months, C.D.C. Says](https://www.nytimes.com/2026/06/05/us/politics/cdc-ebola-projection.html) | The New York Times | 2026-06-05T22:04+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
+  In Congo and Uganda, the outbreak of the virus, known as Bundibugyo, has grown to nearly 400 confirmed cases and 65 deaths. If 70 percent of patients were to isolate, however, there is only a 5 percent chance for the outbreak to grow beyond 10,000 cases within three months. Still, the overall risk to Americans over that period is low, the agency said in a second assessment , noting that previous large outbreaks have resulted in very few cases in the United States.
 - [US domestic treatment centers ready for Ebola even as Kenya plans persist](https://www.reuters.com/business/healthcare-pharmaceuticals/us-domestic-treatment-centers-ready-ebola-even-kenya-plans-persist-2026-06-05/) | Reuters | 2026-06-05T21:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo could top 20,000 cases in worst case, CDC says](https://www.nbcnews.com/health/health-news/ebola-outbreak-dr-congo-top-20000-cases-worst-case-cdc-says-rcna348726) | NBC News | 2026-06-05T21:34+00:00 | Outbreaks and emerging infections
