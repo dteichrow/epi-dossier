@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-05
-Generated at: 2026-06-05T23:30
+Generated at: 2026-06-05T23:41
 Search window: 7 day(s) ending 2026-06-05
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-05
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-03T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR; 2026-06-02T17:13+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (212), Policy, surveillance, and public health infrastructure (12), Occupational and environmental epidemiology (5)
+- Category mix: Outbreaks and emerging infections (206), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (5)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 217 item(s) across 132 source(s).
-- Baseline snapshot created with 217 clustered item(s) across 132 source(s).
+- Newly tracked story cluster: 213 item(s) across 134 source(s).
+- Baseline snapshot created with 213 clustered item(s) across 134 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -32,10 +32,10 @@ Search window: 7 day(s) ending 2026-06-05
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 217 item(s) across 132 source(s); 4 official/primary-source item(s).
+- Topic size: 213 item(s) across 134 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Cases May Top 20,000 in Three Months, C.D.C. Says](https://www.nytimes.com/2026/06/05/us/politics/cdc-ebola-projection.html) (The New York Times)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures](https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/) (statnews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -410,7 +410,9 @@ Search window: 7 day(s) ending 2026-06-05
 
 
 ## Other notable readings
-- [Ebola Cases May Top 20,000 in Three Months, C.D.C. Says](https://www.nytimes.com/2026/06/05/us/politics/cdc-ebola-projection.html) | The New York Times | 2026-06-05T22:04+00:00 | Outbreaks and emerging infections
+- [CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures](https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/) | statnews.com | 2026-06-05T22:28+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Ebola Cases May Top 20,000 in Three Months, C.D.C. Says](https://www.nytimes.com/2026/06/05/us/politics/cdc-ebola-projection.html) | The New York Times | 2026-06-05T22:04+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [US domestic treatment centers ready for Ebola even as Kenya plans persist](https://www.reuters.com/business/healthcare-pharmaceuticals/us-domestic-treatment-centers-ready-ebola-even-kenya-plans-persist-2026-06-05/) | Reuters | 2026-06-05T21:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -434,10 +436,6 @@ Search window: 7 day(s) ending 2026-06-05
   Limited detail was available from feed metadata alone.
 - [UAE suspends new visas for nationals of three African countries amid Ebola outbreak](https://www.cntravellerme.com/story/uae-suspends-new-visas-for-nationals-of-three-african-countries-amid-ebola-outbreak) | Condé Nast Traveller Middle East | 2026-06-05T12:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Radio Program Aims To Counter Ebola Rumours During Congo Bundibugyo Outbreak](https://www.ndtv.com/health/news/as-ebola-spreads-in-congo-a-radio-station-tries-to-stop-health-misinformation-11595441) | NDTV | 2026-06-05T10:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola burial teams attacked in Congo as outbreak spreads](https://www.msn.com/en-gb/news/insight/ebola-burial-teams-attacked-in-congo-as-outbreak-spreads/gm-GM25352C4C?gemSnapshotKey\=GM25352C4C-snapshot-23\&uxmode\=ruby) | MSN | 2026-06-05T10:19+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [The New York Times. . In a remote mining town at the center of the Democratic Republic of Congo’s Ebola outbreak, grief and mistrust are complicating efforts to stop the virus. Health workers are trying to treat the ill and bury the dead, but some residents are sti](https://www.facebook.com/nytimes/videos/mistrust-spreads-with-the-ebola-virus-in-congo/1766786154733888/) | facebook.com | 2026-06-05T03:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak a growing concern due to mistrust: Former CDC director](https://www.newsnationnow.com/health/ebola-outbreak-mistrust-hampers-response/) | NewsNation | 2026-06-05T02:14+00:00 | Outbreaks and emerging infections
@@ -449,6 +447,8 @@ Search window: 7 day(s) ending 2026-06-05
 - [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) | Ada Derana | 2026-06-04T21:30+00:00 | Outbreaks and emerging infections
   He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Perera also urged the public to be vigilant about the rising number of influenza cases, stressing that this illness can spread rapidly among children.
 - [PAHO steps up preparedness across the Americas amid Ebola outbreak in Africa - PAHO/WHO](https://www.paho.org/en/news/4-6-2026-paho-steps-preparedness-across-americas-amid-ebola-outbreak-africa) | Pan American Health Organization (PAHO) | 2026-06-04T21:16+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [With minimal protection, test kits or training, Congo doctors struggle to contain Ebola outbreak](https://www.wbur.org/hereandnow/2026/06/04/drc-ebola-outbreak) | WBUR | 2026-06-04T20:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -466,9 +466,7 @@ Search window: 7 day(s) ending 2026-06-05
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42228981/
 
 ## Historical epi / weird epi corner
-- [Ebola burial teams attacked in Congo as outbreak spreads](https://www.msn.com/en-gb/news/insight/ebola-burial-teams-attacked-in-congo-as-outbreak-spreads/gm-GM25352C4C?gemSnapshotKey\=GM25352C4C-snapshot-23\&uxmode\=ruby) | MSN
-  Limited detail was available from feed metadata alone.
-- [Congo reports attack on Ebola burial team as cases rise](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHkwT19LYjQ5TklxZ2hpZjh2ZGRCS0FTeWhfQkxJZUlacEZWOG1oMEdYODdtaGo5RloxakFOVVBSNENoUmduWVM1a1NtWnJUSm5JUG1jMmQzbjlSOVc0a1JhZy1NdHZXYmFFMUNnaS1qbXJxVWpyeGhENzBHZWlyQWxVUGJOYXdVTVBrU3VZNjEybnFWaG9OM3RwS29GZDJ3R3NKdWZ5UFJSNnZWNFVGbGl6UXhRa3VVLTNZQkVB?oc=5) | Reuters
+- [Congo reports attack on Ebola burial team as cases rise](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-reports-attack-ebola-burial-team-cases-rise-2026-06-04/) | Reuters
   Limited detail was available from feed metadata alone.
 - [Ebola burial team attacked and 11 patients flee care in widening outbreak in Congo](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21qbzBwVE44VkFHMEFTLWhMbGlOVVMwdjFnTktaZ2FMS2tHZ3R6cXZ5N0Y2UjB3aFAtOTl0eGhrRTFTSHRZWjhCLUtfUl9KZ3M4azZjbC0xVUVjRm5LZGhOd3ZJb3RTaGxORFVuNXFoVkNuVnlaMExnZ1VHQUpqMWdHaW9ac1hZa2pOSg?oc=5) | The Japan Times
   Limited detail was available from feed metadata alone.
