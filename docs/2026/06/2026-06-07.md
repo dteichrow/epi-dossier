@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-07
-Generated at: 2026-06-07T08:07
+Generated at: 2026-06-07T05:16
 Search window: 7 day(s) ending 2026-06-07
 
 ## Executive scan
@@ -11,36 +11,36 @@ Search window: 7 day(s) ending 2026-06-07
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (188), Policy, surveillance, and public health infrastructure (19), Occupational and environmental epidemiology (5)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-03T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (184), Policy, surveillance, and public health infrastructure (19), Occupational and environmental epidemiology (5)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 202 item(s) across 124 source(s).
-- Baseline snapshot created with 202 clustered item(s) across 124 source(s).
+- Newly tracked story cluster: 198 item(s) across 128 source(s).
+- Baseline snapshot created with 198 clustered item(s) across 128 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [EARLY RELEASE: Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR)
-- Newly tracked story cluster: 6 item(s) across 2 source(s).
-- Baseline snapshot created with 6 clustered item(s) across 2 source(s).
+- Newly tracked story cluster: 7 item(s) across 3 source(s).
+- Baseline snapshot created with 7 clustered item(s) across 3 source(s).
 - CDC MMWR now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 202 item(s) across 124 source(s); 4 official/primary-source item(s).
+- Topic size: 198 item(s) across 128 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/health-workers-epicenter-congos-ebola-outbreak-labor-pay-133658871) (ABC News - Breaking News, Latest News and Videos)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [WHO unveils $518 million strategy to curb Africa Ebola outbreak](https://www.thenews.com.pk/latest/1405060-who-unveils-518-million-strategy-to-curb-africa-ebola-outbreak) (The News International)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 6 item(s) across 2 source(s); 6 official/primary-source item(s).
+- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
 - Lead item: [EARLY RELEASE: Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR, 2026-06-05T19:01+00:00)
 - Detailed note: Assuming 50 cumulative deaths as of May 24, 2026, if 70% of patients were to enter isolation, only approximately one in 20 simulations projected an outbreak exceeding 10,000 cases within 3 months. As of June 2, a total of 378 confirmed cases and 63 confirmed deaths have been reported. CDC used a transmission model to project outbreak growth over 3 months, by using different assumptions about the number of deaths...
 - Evidence notes: [EARLY RELEASE: Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR); [EARLY RELEASE: Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR); [EARLY RELEASE: Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR); [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa); [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR)
@@ -49,11 +49,11 @@ Search window: 7 day(s) ending 2026-06-07
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) (Outbreak News Today, 2026-06-07T11:58+00:00)
-- Detailed note: Kapila Kannangara said Sri Lanka has recorded 35,228 dengue cases, including more than 8,600 cases in May, and 20 dengue-related deaths so far in 2026. Western Province accounts for roughly 50% of all reported cases, with the highest disease burdens found in the Colombo, Gampaha, and Kalutara districts. He also advised against the early use of non-steroidal anti-inflammatory drugs (NSAIDs) in fever patients, as...
-- Evidence notes: [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) (Outbreak News Today); [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka)
+- Lead item: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:59+00:00)
+- Detailed note: He also advised against the early use of non-steroidal anti-inflammatory drugs (NSAIDs) in fever patients, as they may increase the risk of bleeding in dengue cases. Wijayawardena warned that dengue cases have already reached tens of thousands this year, with the Western Province, particularly Colombo and Gampaha, reporting the highest number of infections.
+- Evidence notes: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
@@ -63,14 +63,6 @@ Search window: 7 day(s) ending 2026-06-07
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
-### Avian influenza and H5N1
-- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
-- Lead item: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search, 2026-06-04T00:00)
-- Detailed note: This new clade is phylogenetically distinct from the previously described clades, and the representative strains in this new Clade 4.6.20 presented a low cross reactivity to the antisera of other clades, suggesting antigenic drift of the viruses between the new Clade 4.6.20, and other clades in the dominant lineage of Clade 4.6. Using the established H9N2 genomic classification system, a novel HA gene clade of...
-- Evidence notes: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
-
 ### Miscellaneous signals
 - Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
 - Lead item: [Effectiveness of the 10-valent pneumococcal non-typeable Haemophilus influenzae protein D conjugate vaccine (PCV10) against hypoxic pneumonia in children in Maha Sarakham Province, Thailand.](https://pubmed.ncbi.nlm.nih.gov/42226599/) (PubMed Infectious Disease Search, 2026-06-01T00:00)
@@ -78,6 +70,14 @@ Search window: 7 day(s) ending 2026-06-07
 - Evidence notes: [Effectiveness of the 10-valent pneumococcal non-typeable Haemophilus influenzae protein D conjugate vaccine (PCV10) against hypoxic pneumonia in children in Maha Sarakham Province, Thailand.](https://pubmed.ncbi.nlm.nih.gov/42226599/) (PubMed Infectious Disease Search); [HPV vaccination scenario and parental willingness to pay among girls aged 9-14 y in the Yangtze River Delta, China.](https://pubmed.ncbi.nlm.nih.gov/42228981/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
+### Hantavirus and cruise-ship outbreak
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Hantavirus Search Expands To Second Province In Argentina](https://www.ndtv.com/health/argentina-to-expand-hantavirus-search-to-a-second-province-11598165) (NDTV, 2026-06-07T05:24+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Hantavirus Search Expands To Second Province In Argentina](https://www.ndtv.com/health/argentina-to-expand-hantavirus-search-to-a-second-province-11598165) (NDTV)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -378,16 +378,6 @@ Search window: 7 day(s) ending 2026-06-07
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### A new clade of H9N2 avian influenza virus circulating in Laos.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-06-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42243068/
-- Category: Major epidemiology studies
-- Summary: This new clade is phylogenetically distinct from the previously described clades, and the representative strains in this new Clade 4.6.20 presented a low cross reactivity to the antisera of other clades, suggesting antigenic drift of the viruses between the new Clade 4.6.20, and other clades in the dominant lineage of Clade 4.6. Using the established H9N2 genomic classification system, a novel HA gene clade of the A/chicken/Beijing/1/94-like (BJ/94-like) lineage, designated Clade 4.6.20, was identified. In addition, all the newly identified viruses in Clade 4.6.20 possessed HA-L226 and NP-N52 mutations, which are associated with human-type receptor binding and human MxA-related innate immunity escape, respectively.
-- Why it matters: Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
 - Source: ECDC News
 - Date: 2026-06-03T17:36+02:00
@@ -408,18 +398,30 @@ Search window: 7 day(s) ending 2026-06-07
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Four health workers recover from Ebola in the Democratic Republic of the Congo
+- Source: WHO Regional Office for Africa
+- Date: 2026-05-31T19:07+00:00
+- URL: https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo
+- Category: Outbreaks and emerging infections
+- Summary: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) | WHO Regional Office for Africa | 2026-05-31T19:07+00:00 | Outbreaks and emerging infections
-  Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) | Outbreak News Today | 2026-06-07T11:58+00:00 | Outbreaks and emerging infections
-  Kapila Kannangara said Sri Lanka has recorded 35,228 dengue cases, including more than 8,600 cases in May, and 20 dengue-related deaths so far in 2026. Western Province accounts for roughly 50% of all reported cases, with the highest disease burdens found in the Colombo, Gampaha, and Kalutara districts. Additionally, a special islandwide mosquito control and clean-up program has been scheduled to run from June 8 to June 10, 2026.
+- [WHO unveils $518 million strategy to curb Africa Ebola outbreak](https://www.thenews.com.pk/latest/1405060-who-unveils-518-million-strategy-to-curb-africa-ebola-outbreak) | The News International | 2026-06-07T10:25+00:00 | Outbreaks and emerging infections
+  In this regard, WHO Director-General Tedros Adhanom Ghebreyesus said: “The outbreak is fast and we are still playing catch-up.” “Containing Ebola requires political commitment, sustained finances and trust in engaging the communities.” According to the Africa CDC Uganda, there have been 381 confirmed cases in Congo and 62 confirmed deaths in the Democratic Republic of Congo. ‘The outbreak is fast and we are still playing catch-up,’ said WHO Director-General Tedros Adhanom Ghebreyesus The World Health Organization reportedly announced a $518 million, six-month joint strategy to fight Ebola on Friday, calling for political commitment to halt the transmission of an outbreak that is already the fourth largest on record. The strategy seeks to help the Democratic Republic of Congo and adjacent Uganda contain their outbreaks while urging other countries to prepare for potential cases through certain measures such as border surveillance, according to the details revealed by the Africa Centres for Disease Control and Prevention.
 - [Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/health-workers-epicenter-congos-ebola-outbreak-labor-pay-133658871) | ABC News - Breaking News, Latest News and Videos | 2026-06-07T08:33+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Ebola cases surge over 400 as fears grow over central Africa outbreak](https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak) | Euronews | 2026-06-06T14:50+00:00 | Outbreaks and emerging infections
-  Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
+- [Fears of wider spread as Ebola outbreak in Central Africa nears 500 cases](https://iol.co.za/news/africa/2026-06-06-fears-of-wider-spread-as-ebola-outbreak-in-central-africa-nears-500-cases/) | IOL | 2026-06-06T15:50+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola cases surge over 400 as fears grow over central Africa outbreak](https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak) | Euronews.com | 2026-06-06T14:50+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak in Congo Worsens, Potential for 20,000 Cases](https://english.ratopati.com/story/65699/ebola-outbreak-in-africa-increasing-congo-worst-affected) | Ratopati | 2026-06-06T11:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-06T10:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Nearly 500 confirmed cases in central Africa Ebola outbreak: WHO](https://english.alarabiya.net/amp/News/world/2026/06/06/nearly-500-confirmed-cases-in-central-africa-ebola-outbreak-who) | Al Arabiya English | 2026-06-06T09:54+00:00 | Outbreaks and emerging infections
@@ -428,6 +430,8 @@ Search window: 7 day(s) ending 2026-06-07
   Limited detail was available from feed metadata alone.
 - [I led the U.S. CDC response to the 2014 Ebola epidemic. The new outbreak needs massive, immediate, meticulous action](https://www.statnews.com/2026/06/06/ebola-outbreak-us-aid-response-tom-frieden-action-plan/) | statnews.com | 2026-06-06T08:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [US adds $38 million for Ebola as CDC warns outbreak could match 2014 - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/us-adds-38-million-for-ebola-as-cdc-warns-outbreak-could-match-2014-103260606111154024.htm) | Tuoi Tre News | 2026-06-06T07:47+00:00 | Policy, surveillance, and public health infrastructure
+  WASHINGTON -- The United States said on Friday it would provide an additional $38 million for Ebola response efforts, as the CDC warned that without strong public health interventions the outbreak in the Democratic Republic of Congo could match or surpass the 2014-16 West Africa crisis. Congolese children Ibrah Asimwe and Alex Uketi read an advocacy poster as aid agencies intensify efforts to contain a new Ebola outbreak involving the Bundibugyo strain outbreak, in Bunia, Ituri province, Democratic Republic of Congo, May 20, 2026. The documents are the first such reports to be published since the World Health Organization declared an emergency of international concern on May 17 over the Bundibugyo strain of Ebola, for which there is no approved vaccine or treatment.
 - [Congo Ebola Cases Jump as CDC Warns Outbreak Could Be Among Largest Ever](https://www.bloomberg.com/news/articles/2026-06-06/congo-ebola-cases-jump-as-cdc-warns-outbreak-could-be-among-largest-ever) | Bloomberg.com | 2026-06-06T06:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo outbreak could rival the largest Ebola epidemic on record, CDC warns](https://www.washingtonpost.com/health/2026/06/05/congo-outbreak-could-rival-largest-ebola-epidemic-record-cdc-warns/) | The Washington Post | 2026-06-06T05:32+00:00 | Outbreaks and emerging infections
@@ -446,10 +450,6 @@ Search window: 7 day(s) ending 2026-06-07
   Limited detail was available from feed metadata alone.
 - [US CDC warns Congo Ebola outbreak could be on level of 2014 West Africa outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-warns-congo-ebola-outbreak-could-be-level-2014-west-africa-outbreak-2026-06-05/) | Reuters | 2026-06-05T19:48+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [WHO launches $518 million plan to curb Africa Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/who-announces-580-million-six-month-plan-fight-ebola-2026-06-05/) | Reuters | 2026-06-05T15:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Uganda: More cases, death in Ebola outbreak](https://outbreaknewstoday.substack.com/p/uganda-more-cases-death-in-ebola) | Outbreak News Today | 2026-06-05T15:16+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/)
@@ -458,12 +458,6 @@ Search window: 7 day(s) ending 2026-06-07
   Journal/preprint server: PloS one
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42241447/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42241447/
-- [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/22221751.2026.2678641
-  Journal/preprint server: Emerging microbes & infections
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42243068/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42243068/
 - [Effectiveness of the 10-valent pneumococcal non-typeable Haemophilus influenzae protein D conjugate vaccine (PCV10) against hypoxic pneumonia in children in Maha Sarakham Province, Thailand.](https://pubmed.ncbi.nlm.nih.gov/42226599/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2678682
@@ -488,7 +482,6 @@ Search window: 7 day(s) ending 2026-06-07
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
-- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
