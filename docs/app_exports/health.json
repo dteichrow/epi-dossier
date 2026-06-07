@@ -12,24 +12,23 @@
       "NPR",
       "New York Times",
       "PBS",
-      "Reuters",
-      "STAT"
+      "Reuters"
     ],
     "metadata_only_count": 198,
     "sources_cached": 0,
     "sources_failed": 3,
-    "sources_live": 214,
+    "sources_live": 215,
     "story_count_change": 3,
-    "wrapper_only_count": 9
+    "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 214,
+    "live": 215,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-07T13:05:05",
+  "generated_at": "2026-06-07T13:41:59",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
