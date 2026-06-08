@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-08
-Generated at: 2026-06-08T10:54
+Generated at: 2026-06-08T11:05
 Search window: 7 day(s) ending 2026-06-08
 
 ## Executive scan
@@ -423,7 +423,7 @@ Search window: 7 day(s) ending 2026-06-08
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [How DR Congo’s churches fight the Ebola outbreak in Ituri province](https://www.modernghana.com/videonews/aljazeera/1/662357/) | Modern Ghana | 2026-06-08T17:35+00:00 | Outbreaks and emerging infections
-  50 minutes ago Ato Forson is selfish, he wants to control everything – Miracles Aboagye Ato Forson is selfish, he wants to control everything – Miracles Aboagye Ato Forson is selfish, he wants to control everything – Miracles Aboagye 58 minutes ago Kevin Okyere admits Dubai detention, US$50 million Petraco drawdown Kevin Okyere admits Dubai detention, US$50 million Petraco drawdown Latest Photo Reports Catch up with all political quotes from our politicians. Limited detail was available from feed metadata alone.
+  1 hour ago Ato Forson is selfish, he wants to control everything – Miracles Aboagye Ato Forson is selfish, he wants to control everything – Miracles Aboagye Ato Forson is selfish, he wants to control everything – Miracles Aboagye 2 hours ago Kevin Okyere admits Dubai detention, US$50 million Petraco drawdown Kevin Okyere admits Dubai detention, US$50 million Petraco drawdown Latest Photo Reports Catch up with all political quotes from our politicians. Limited detail was available from feed metadata alone.
 - [Ebola outbreak: WHO's Tedros visits Uganda, bordering the DRC Ituri province epicenter](https://uk.news.yahoo.com/ebola-outbreak-whos-tedros-visits-170400361.html) | Yahoo News UK | 2026-06-08T17:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [American Doctor Released From Hospital After Ebola Infection](https://malaysia.news.yahoo.com/american-doctor-released-hospital-ebola-142313177.html) | Yahoo News Malaysia | 2026-06-08T14:23+00:00 | Outbreaks and emerging infections
