@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-08
-Generated at: 2026-06-08T16:29
+Generated at: 2026-06-08T16:41
 Search window: 7 day(s) ending 2026-06-08
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-08
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (164), Policy, surveillance, and public health infrastructure (24), Occupational and environmental epidemiology (5)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (169), Policy, surveillance, and public health infrastructure (23), Occupational and environmental epidemiology (5)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 182 item(s) across 119 source(s).
-- Baseline snapshot created with 182 clustered item(s) across 119 source(s).
+- Newly tracked story cluster: 186 item(s) across 124 source(s).
+- Baseline snapshot created with 186 clustered item(s) across 124 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-06-08
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 182 item(s) across 119 source(s); 4 official/primary-source item(s).
+- Topic size: 186 item(s) across 124 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak reaches 550 cases, at least 90 deaths](https://www.cidrap.umn.edu/ebola/ebola-outbreak-reaches-550-cases-least-90-deaths) (cidrap.umn.edu)
@@ -69,20 +69,20 @@ Search window: 7 day(s) ending 2026-06-08
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Measles transmission and vaccination
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Measles epidemic tops 80,000 total cases in Bangladesh](https://outbreaknewstoday.substack.com/p/measles-epidemic-tops-80000-total) (Outbreak News Today, 2026-06-08T21:18+00:00)
-- Detailed note: Eight additional fatalities were also reported bringing the death toll to 628, which includes 92 confirmed cases. Health authorities report approximately 37,387 suspected measles cases and 6,794 confirmed cases in the wider Dhaka division.
-- Evidence notes: [Measles epidemic tops 80,000 total cases in Bangladesh](https://outbreaknewstoday.substack.com/p/measles-epidemic-tops-80000-total) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
 ### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [American Doctor Released From Hospital After Ebola Infection](https://malaysia.news.yahoo.com/american-doctor-released-hospital-ebola-142313177.html) (Yahoo News Malaysia, 2026-06-08T14:23+00:00)
 - Detailed note: It follows him undergoing experimental therapies that are currently being trialed for this type of Ebola virus, he said in a statement from Berlin’s Charité University Hospital. Peter Stafford, with the Christian aid group Serge, was released after testing negative for the virus and no longer showing symptoms.
 - Evidence notes: [American Doctor Released From Hospital After Ebola Infection](https://malaysia.news.yahoo.com/american-doctor-released-hospital-ebola-142313177.html) (Yahoo News Malaysia)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
+### Hantavirus and cruise-ship outbreak
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/argentina-expands-hantavirus-probe-sending-teams-trap-test-133634821) (ABC News - Breaking News, Latest News and Videos, 2026-06-06T01:18+00:00)
+- Detailed note: As repatriated cruise passengers from more than 20 countries have disembarked and entered specialized quarantine centers, epidemiologists are examining the 11 confirmed hantavirus cases, including the schedules of the three people killed, to better understand the chain of transmission. Reconstructing the chain of transmission is difficult work, and Argentine authorities say it may never be possible to pinpoint...
+- Evidence notes: [Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/argentina-expands-hantavirus-probe-sending-teams-trap-test-133634821) (ABC News - Breaking News, Latest News and Videos)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -422,8 +422,6 @@ Search window: 7 day(s) ending 2026-06-08
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Measles epidemic tops 80,000 total cases in Bangladesh](https://outbreaknewstoday.substack.com/p/measles-epidemic-tops-80000-total) | Outbreak News Today | 2026-06-08T21:18+00:00 | Outbreaks and emerging infections
-  Eight additional fatalities were also reported bringing the death toll to 628, which includes 92 confirmed cases. Health authorities report approximately 37,387 suspected measles cases and 6,794 confirmed cases in the wider Dhaka division. A total of 65,237 suspected measles patients were hospitalised, of whom 61, 278 have recovered, according to the DGHS.
 - [Ebola outbreak reaches 550 cases, at least 90 deaths](https://www.cidrap.umn.edu/ebola/ebola-outbreak-reaches-550-cases-least-90-deaths) | cidrap.umn.edu | 2026-06-08T20:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases 'increased rapidly' since late May, WHO says - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/ebola-cases-increased-rapidly-late/story?id\=133685492) | ABC News - Breaking News, Latest News and Videos | 2026-06-08T16:30+00:00 | Policy, surveillance, and public health infrastructure
@@ -448,13 +446,15 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 - [Ebola cases surge over 400 as fears grow over central Africa outbreak](https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak) | Euronews.com | 2026-06-06T14:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak in Congo Worsens, Potential for 20,000 Cases](https://english.ratopati.com/story/65699/ebola-outbreak-in-africa-increasing-congo-worst-affected) | Ratopati | 2026-06-06T11:15+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO warns nearly 500 confirmed Ebola cases in Central Africa outbreak](https://www.scmp.com/news/world/africa/article/3356212/who-warns-nearly-500-confirmed-ebola-cases-central-africa-outbreak) | South China Morning Post | 2026-06-06T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Nearly 500 confirmed cases in central Africa Ebola outbreak: WHO](https://english.alarabiya.net/News/world/2026/06/06/nearly-500-confirmed-cases-in-central-africa-ebola-outbreak-who) | Al Arabiya English | 2026-06-06T09:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-06T07:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola Cases Jump as CDC Warns Outbreak Could Be Among Largest Ever](https://www.bloomberg.com/news/articles/2026-06-06/congo-ebola-cases-jump-as-cdc-warns-outbreak-could-be-among-largest-ever) | Bloomberg.com | 2026-06-06T06:22+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo outbreak could rival the largest Ebola epidemic on record, CDC warns](https://www.washingtonpost.com/health/2026/06/05/congo-outbreak-could-rival-largest-ebola-epidemic-record-cdc-warns/) | The Washington Post | 2026-06-06T05:32+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -494,7 +494,6 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
-- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
