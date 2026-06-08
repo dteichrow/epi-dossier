@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-08
-Generated at: 2026-06-08T07:40
+Generated at: 2026-06-08T07:41
 Search window: 7 day(s) ending 2026-06-08
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-08
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (24), Occupational and environmental epidemiology (5)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (162), Policy, surveillance, and public health infrastructure (23), Occupational and environmental epidemiology (5)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 177 item(s) across 118 source(s).
-- Baseline snapshot created with 177 clustered item(s) across 118 source(s).
+- Newly tracked story cluster: 179 item(s) across 118 source(s).
+- Baseline snapshot created with 179 clustered item(s) across 118 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-06-08
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 177 item(s) across 118 source(s); 4 official/primary-source item(s).
+- Topic size: 179 item(s) across 118 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Uganda contains border Ebola cases as WHO Chief pledges continued support](https://www.monitor.co.ug/uganda/news/national/uganda-contains-border-ebola-cases-as-who-chief-pledges-continued-support-5488728) (Daily Monitor)
@@ -58,10 +58,18 @@ Search window: 7 day(s) ending 2026-06-08
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:59+00:00)
-- Detailed note: Regarding Chikungunya fever, 12,587 probable cases of the disease have been registered, of which 7,862 have been confirmed, and four deaths are under investigation. Of this total, 29,116 cases were confirmed for the disease, and there are 33 deaths under investigation. He also advised against the early use of non-steroidal anti-inflammatory drugs (NSAIDs) in fever patients, as they may increase the risk of...
+- Detailed note: He also advised against the early use of non-steroidal anti-inflammatory drugs (NSAIDs) in fever patients, as they may increase the risk of bleeding in dengue cases. Wijayawardena warned that dengue cases have already reached tens of thousands this year, with the Western Province, particularly Colombo and Gampaha, reporting the highest number of infections.
 - Evidence notes: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Polio and wastewater surveillance
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [UNICEF expands campaign against polio in Afghanistan’s Herat province](https://www.khaama.com/unicef-expands-campaign-against-polio-in-afghanistans-herat-province/) (Khaama Press, 2026-06-08T12:40+00:00)
+- Detailed note: Health officials warn that many remote and underserved communities in Afghanistan remain vulnerable to polio and other vaccine-preventable diseases because of limited healthcare access, poverty and gaps in immunization coverage. The agency stressed that polio has no cure but can be prevented through vaccination, urging families to ensure all eligible children receive the vaccine.
+- Evidence notes: [UNICEF expands campaign against polio in Afghanistan’s Herat province](https://www.khaama.com/unicef-expands-campaign-against-polio-in-afghanistans-herat-province/) (Khaama Press)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
@@ -70,14 +78,6 @@ Search window: 7 day(s) ending 2026-06-08
 - Evidence notes: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology)
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
-
-### Measles transmission and vaccination
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh measles outbreak sparks legal action against Yunus’ former government](https://www.arabnews.pk/node/2646398/world) (Arab News PK, 2026-06-08T12:50+00:00)
-- Detailed note: Closing Bell: Saudi main market edges up to 10,973 points Managing director of Red Sea International Film Festival steps down Rare Kaaba gate artifact on display at Makkah exhibit Bogus turns up the volume on Saudi Arabia’s rock movement Pakistan rejects ‘unwarranted’ criticism by British MPs over Azad Kashmir protests, arrests Pakistan eases licensing rules for foreign investors in financial sector Limited...
-- Evidence notes: [Bangladesh measles outbreak sparks legal action against Yunus’ former government](https://www.arabnews.pk/node/2646398/world) (Arab News PK)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -414,6 +414,8 @@ Search window: 7 day(s) ending 2026-06-08
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [UNICEF expands campaign against polio in Afghanistan’s Herat province](https://www.khaama.com/unicef-expands-campaign-against-polio-in-afghanistans-herat-province/) | Khaama Press | 2026-06-08T12:40+00:00 | Outbreaks and emerging infections
+  Health officials warn that many remote and underserved communities in Afghanistan remain vulnerable to polio and other vaccine-preventable diseases because of limited healthcare access, poverty and gaps in immunization coverage. The agency stressed that polio has no cure but can be prevented through vaccination, urging families to ensure all eligible children receive the vaccine. UNICEF added that public cooperation remains essential to eliminating the disease in Afghanistan.
 - [Uganda contains border Ebola cases as WHO Chief pledges continued support](https://www.monitor.co.ug/uganda/news/national/uganda-contains-border-ebola-cases-as-who-chief-pledges-continued-support-5488728) | Daily Monitor | 2026-06-08T09:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO calls for global action to contain Ebola outbreak](https://www.chinadaily.com.cn/a/202606/08/WS6a261711a310d6866eb4cef3.html) | China Daily | 2026-06-08T01:12+00:00 | Policy, surveillance, and public health infrastructure
@@ -448,8 +450,6 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 - [US CDC warns Congo Ebola outbreak could be on level of 2014 West Africa outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-warns-congo-ebola-outbreak-could-be-level-2014-west-africa-outbreak-2026-06-05/) | Reuters | 2026-06-05T19:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US adds $38 million for Ebola as CDC warns outbreak could match 2014](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-it-will-give-almost-38-million-more-ebola-response-2026-06-05/) | Reuters | 2026-06-05T18:50+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/)
@@ -480,6 +480,7 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
+- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
