@@ -13,22 +13,27 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 167,
+    "metadata_only_count": 169,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 186,
+    "sources_failed": 2,
+    "sources_live": 187,
     "story_count_change": 2,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 186,
+    "live": 187,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-08T08:54:42",
+  "generated_at": "2026-06-08T09:13:46",
   "source_failures": [
+    {
+      "error": "500 Server Error: Internal Server Error for url: https://ncdc.gov.ng/feed/",
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "rss"
+    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
