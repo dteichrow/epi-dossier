@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-08
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (164), Policy, surveillance, and public health infrastructure (24), Occupational and environmental epidemiology (5)
+- Category mix: Outbreaks and emerging infections (164), Policy, surveillance, and public health infrastructure (25), Occupational and environmental epidemiology (5)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 182 item(s) across 119 source(s).
-- Baseline snapshot created with 182 clustered item(s) across 119 source(s).
+- Newly tracked story cluster: 183 item(s) across 121 source(s).
+- Baseline snapshot created with 183 clustered item(s) across 121 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-06-08
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 182 item(s) across 119 source(s); 4 official/primary-source item(s).
+- Topic size: 183 item(s) across 121 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Uganda contains border Ebola cases as WHO Chief pledges continued support](https://www.monitor.co.ug/uganda/news/national/uganda-contains-border-ebola-cases-as-who-chief-pledges-continued-support-5488728) (Daily Monitor)
@@ -47,14 +47,6 @@ Search window: 7 day(s) ending 2026-06-08
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Measles outbreak in Bangladesh claims five more lives; death toll rises to 610](https://www.gulftoday.ae/news/2026/06/08/measles-outbreak-in-bangladesh-claims-five-more-lives-death-toll-rises-to-610) (Gulf Today, 2026-06-08T10:46+00:00)
-- Detailed note: At least five more children have died from the measles outbreak in Bangladesh on Friday, raising the total number of confirmed and suspected deaths to 610 since March 15 this year, amid an escalating health crisis in the country, local media reported. The DGHS also recorded 1,168 new suspected cases over the last 24 hours, increasing the total to 76,876.
-- Evidence notes: [Measles outbreak in Bangladesh claims five more lives; death toll rises to 610](https://www.gulftoday.ae/news/2026/06/08/measles-outbreak-in-bangladesh-claims-five-more-lives-death-toll-rises-to-610) (Gulf Today); [MEASLES OUTBREAK: Eight more children die in Bangladesh](https://www.newagebd.net/post/country/302005/measles-outbreak-eight-more-children-die-in-bangladesh) (newagebd.net)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search, 2026-06-04T00:00)
@@ -62,6 +54,14 @@ Search window: 7 day(s) ending 2026-06-08
 - Evidence notes: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search); [Vietnam remains on alert for emerging avian influenza variants](https://avinews.com/en/vietnam-remains-on-alert-for-emerging-avian-influenza-variants/) (avinews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:59+00:00)
+- Detailed note: Regarding Chikungunya fever, 12,587 probable cases of the disease have been registered, of which 7,862 have been confirmed, and four deaths are under investigation. Of this total, 29,116 cases were confirmed for the disease, and there are 33 deaths under investigation. He also advised against the early use of non-steroidal anti-inflammatory drugs (NSAIDs) in fever patients, as they may increase the risk of...
+- Evidence notes: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
@@ -71,11 +71,11 @@ Search window: 7 day(s) ending 2026-06-08
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
-### Dengue and arboviruses
+### Measles transmission and vaccination
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today, 2026-05-27T07:00+00:00)
-- Detailed note: Regarding Chikungunya fever, 12,587 probable cases of the disease have been registered, of which 7,862 have been confirmed, and four deaths are under investigation. Of this total, 29,116 cases were confirmed for the disease, and there are 33 deaths under investigation.
-- Evidence notes: [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today)
+- Lead item: [MEASLES OUTBREAK: Eight more children die in Bangladesh](https://www.newagebd.net/post/country/302005/measles-outbreak-eight-more-children-die-in-bangladesh) (newagebd.net, 2026-06-08T11:02+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [MEASLES OUTBREAK: Eight more children die in Bangladesh](https://www.newagebd.net/post/country/302005/measles-outbreak-eight-more-children-die-in-bangladesh) (newagebd.net)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -414,8 +414,6 @@ Search window: 7 day(s) ending 2026-06-08
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Measles outbreak in Bangladesh claims five more lives; death toll rises to 610](https://www.gulftoday.ae/news/2026/06/08/measles-outbreak-in-bangladesh-claims-five-more-lives-death-toll-rises-to-610) | Gulf Today | 2026-06-08T10:46+00:00 | Outbreaks and emerging infections
-  At least five more children have died from the measles outbreak in Bangladesh on Friday, raising the total number of confirmed and suspected deaths to 610 since March 15 this year, amid an escalating health crisis in the country, local media reported. The DGHS also recorded 1,168 new suspected cases over the last 24 hours, increasing the total to 76,876. Reports suggest that while the number of confirmed deaths remained at 91, the total number of suspected deaths climbed to 519.
 - [Uganda contains border Ebola cases as WHO Chief pledges continued support](https://www.monitor.co.ug/uganda/news/national/uganda-contains-border-ebola-cases-as-who-chief-pledges-continued-support-5488728) | Daily Monitor | 2026-06-08T09:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO calls for global action to contain Ebola outbreak](https://www.chinadaily.com.cn/a/202606/08/WS6a261711a310d6866eb4cef3.html) | China Daily | 2026-06-08T01:12+00:00 | Outbreaks and emerging infections
@@ -432,7 +430,7 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-06T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola Cases Jump as CDC Warns Outbreak Could Be Among Largest Ever](https://www.bloomberg.com/news/articles/2026-06-06/congo-ebola-cases-jump-as-cdc-warns-outbreak-could-be-among-largest-ever) | Bloomberg.com | 2026-06-06T06:22+00:00 | Outbreaks and emerging infections
+- [Congo Ebola Cases Jump as CDC Warns Outbreak Could Be Among Largest Ever](https://www.bloomberg.com/news/articles/2026-06-06/congo-ebola-cases-jump-as-cdc-warns-outbreak-could-be-among-largest-ever) | Bloomberg | 2026-06-06T06:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo outbreak could rival the largest Ebola epidemic on record, CDC warns](https://www.washingtonpost.com/health/2026/06/05/congo-outbreak-could-rival-largest-ebola-epidemic-record-cdc-warns/) | The Washington Post | 2026-06-06T05:32+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
@@ -446,9 +444,11 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 - [WHO and Africa CDC unveil $518m Ebola plan as DRC, Uganda death tolls rise](https://www.aljazeera.com/news/2026/6/5/who-africa-cdc-unveil-518m-ebola-plan-as-uganda-death-toll-rises) | Al Jazeera | 2026-06-05T21:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [CDC report: Ebola outbreak could rival the worst on record unless world acts](https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda) | NPR | 2026-06-05T20:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [US CDC warns Congo Ebola outbreak could be on level of 2014 West Africa outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-warns-congo-ebola-outbreak-could-be-level-2014-west-africa-outbreak-2026-06-05/) | Reuters | 2026-06-05T19:48+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [US adds $38 million for Ebola as CDC warns outbreak could match 2014](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-it-will-give-almost-38-million-more-ebola-response-2026-06-05/) | Reuters | 2026-06-05T18:50+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-05T15:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -482,7 +482,6 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
-- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
