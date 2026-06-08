@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-08
-Generated at: 2026-06-08T03:05
+Generated at: 2026-06-08T03:11
 Search window: 7 day(s) ending 2026-06-08
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-08
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (184), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (5)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (176), Policy, surveillance, and public health infrastructure (18), Occupational and environmental epidemiology (5)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 192 item(s) across 129 source(s).
-- Baseline snapshot created with 192 clustered item(s) across 129 source(s).
+- Newly tracked story cluster: 188 item(s) across 124 source(s).
+- Baseline snapshot created with 188 clustered item(s) across 124 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -30,18 +30,18 @@ Search window: 7 day(s) ending 2026-06-08
 - CDC MMWR now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
-- Lead item: [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) (Outbreak News Today)
+- Lead item: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka)
 - Newly tracked story cluster: 3 item(s) across 2 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 2 source(s).
-- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 192 item(s) across 129 source(s); 4 official/primary-source item(s).
+- Topic size: 188 item(s) across 124 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Outbreak In Congo: European Union Rushes Emergency Aid To Affected Region](https://www.ndtv.com/health/news/eu-sends-emergency-aid-to-ebola-hit-dr-congo-region-11603391) (NDTV)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Uganda contains border Ebola cases as WHO Chief pledges continued support](https://www.monitor.co.ug/uganda/news/national/uganda-contains-border-ebola-cases-as-who-chief-pledges-continued-support-5488728) (Daily Monitor)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -55,9 +55,9 @@ Search window: 7 day(s) ending 2026-06-08
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) (Outbreak News Today, 2026-06-07T11:58+00:00)
-- Detailed note: Kapila Kannangara said Sri Lanka has recorded 35,228 dengue cases, including more than 8,600 cases in May, and 20 dengue-related deaths so far in 2026. Western Province accounts for roughly 50% of all reported cases, with the highest disease burdens found in the Colombo, Gampaha, and Kalutara districts. He also advised against the early use of non-steroidal anti-inflammatory drugs (NSAIDs) in fever patients, as...
-- Evidence notes: [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) (Outbreak News Today); [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today)
+- Lead item: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:59+00:00)
+- Detailed note: He also advised against the early use of non-steroidal anti-inflammatory drugs (NSAIDs) in fever patients, as they may increase the risk of bleeding in dengue cases. Wijayawardena warned that dengue cases have already reached tens of thousands this year, with the Western Province, particularly Colombo and Gampaha, reporting the highest number of infections.
+- Evidence notes: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today); [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -412,14 +412,12 @@ Search window: 7 day(s) ending 2026-06-08
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Uganda contains border Ebola cases as WHO Chief pledges continued support](https://www.monitor.co.ug/uganda/news/national/uganda-contains-border-ebola-cases-as-who-chief-pledges-continued-support-5488728) | Daily Monitor | 2026-06-08T09:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola Outbreak In Congo: European Union Rushes Emergency Aid To Affected Region](https://www.ndtv.com/health/news/eu-sends-emergency-aid-to-ebola-hit-dr-congo-region-11603391) | NDTV | 2026-06-08T04:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO calls for global action to contain Ebola outbreak](https://www.chinadaily.com.cn/a/202606/08/WS6a261711a310d6866eb4cef3.html) | China Daily | 2026-06-08T01:12+00:00 | Outbreaks and emerging infections
   Nearly 500 Ebola cases have now been confirmed in the deadly outbreak raging in central Africa, a WHO overview showed on Saturday, amid mounting concerns over the swelling scale of the epidemic. He announced the launch of a joint continental preparedness and response plan by the WHO and Africa CDC aimed at containing the outbreak, supporting affected countries and strengthening preparedness in neighboring states. The global appeal for strengthened international cooperation came during a high-level briefing on Friday by the Africa Centres for Disease Control and Prevention, or Africa CDC, and the WHO, which warned about the rapid spread of the Bundibugyo Ebola virus.
-- [Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest](https://www.latimes.com/world-nation/story/2026-06-07/health-workers-at-epicenter-of-congos-ebola-outbreak-labor-with-little-pay-or-rest) | Los Angeles Times | 2026-06-07T20:51+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Sri Lanka dengue cases up in 2026 compared to last year](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-cases-up-in-2026) | Outbreak News Today | 2026-06-07T11:58+00:00 | Outbreaks and emerging infections
-  Kapila Kannangara said Sri Lanka has recorded 35,228 dengue cases, including more than 8,600 cases in May, and 20 dengue-related deaths so far in 2026. Western Province accounts for roughly 50% of all reported cases, with the highest disease burdens found in the Colombo, Gampaha, and Kalutara districts. Additionally, a special islandwide mosquito control and clean-up program has been scheduled to run from June 8 to June 10, 2026.
 - [Ebola cases surge over 400 as fears grow over central Africa outbreak](https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak) | Euronews.com | 2026-06-06T14:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Fears of wider spread as Ebola outbreak in Central Africa nears 500 cases](https://iol.co.za/news/africa/2026-06-06-fears-of-wider-spread-as-ebola-outbreak-in-central-africa-nears-500-cases/) | IOL | 2026-06-06T14:42+00:00 | Outbreaks and emerging infections
@@ -431,6 +429,8 @@ Search window: 7 day(s) ending 2026-06-08
 - [Ebola Outbreak in Congo Worsens, Potential for 20,000 Cases](https://english.ratopati.com/story/65699/ebola-outbreak-in-africa-increasing-congo-worst-affected) | Ratopati | 2026-06-06T11:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Nearly 500 confirmed cases in central Africa Ebola outbreak: WHO](https://english.alarabiya.net/amp/News/world/2026/06/06/nearly-500-confirmed-cases-in-central-africa-ebola-outbreak-who) | Al Arabiya English | 2026-06-06T09:54+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [The World Has Learned From the Last Ebola Outbreak, but Gaps Remain](https://www.nytimes.com/2026/06/06/world/africa/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html) | The New York Times | 2026-06-06T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-06T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -472,7 +472,7 @@ Search window: 7 day(s) ending 2026-06-08
 ## Historical epi / weird epi corner
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) | PubMed Historical Epidemiology
   These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are effective for early detection of potential TB cases and high-risk patients, thereby helping to reduce TB transmission in the community. While nearly all hospital-based TB cases in Kampala, the capital of Uganda, show clear TB symptoms, 30% or more of undiagnosed TB cases found through active screening are asymptomatic.
-- [Congo reports attack on Ebola burial team as cases rise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlV4TGhyRlJpaldSSWZybnhBVEJ0Tnc2RElUOU11dXdCbG8zNEktZ1ByaG5NSmNaQUJMQ1hFVFUtT1p2aWl6UUVqR1BwNjBNMEdiSzZQdDFheWVnMlR2TXJ2M3BveW9GZ3QxV3dzaFZUc3FYZ3JNdmVrVmhRRWVnZWpKQzVaZUxPSUJ3TUhnQXRqdG9XU3lLbFNYdkF2SG1zSWw4VXE5QQ?oc=5) | MSN
+- [Congo reports attack on Ebola burial team as cases rise](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHkwT19LYjQ5TklxZ2hpZjh2ZGRCS0FTeWhfQkxJZUlacEZWOG1oMEdYODdtaGo5RloxakFOVVBSNENoUmduWVM1a1NtWnJUSm5JUG1jMmQzbjlSOVc0a1JhZy1NdHZXYmFFMUNnaS1qbXJxVWpyeGhENzBHZWlyQWxVUGJOYXdVTVBrU3VZNjEybnFWaG9OM3RwS29GZDJ3R3NKdWZ5UFJSNnZWNFVGbGl6UXhRa3VVLTNZQkVB?oc=5) | Reuters
   Limited detail was available from feed metadata alone.
 - [Ebola burial team attacked and 11 patients flee care in widening outbreak in Congo](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21qbzBwVE44VkFHMEFTLWhMbGlOVVMwdjFnTktaZ2FMS2tHZ3R6cXZ5N0Y2UjB3aFAtOTl0eGhrRTFTSHRZWjhCLUtfUl9KZ3M4azZjbC0xVUVjRm5LZGhOd3ZJb3RTaGxORFVuNXFoVkNuVnlaMExnZ1VHQUpqMWdHaW9ac1hZa2pOSg?oc=5) | The Japan Times
   Limited detail was available from feed metadata alone.
