@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-08
-Generated at: 2026-06-08T21:33
+Generated at: 2026-06-08T21:40
 Search window: 7 day(s) ending 2026-06-08
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-08
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (24), Occupational and environmental epidemiology (5)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (165), Occupational and environmental epidemiology (5), Historical epidemiology / ancient disease / paleopathology (2)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 177 item(s) across 119 source(s).
-- Baseline snapshot created with 177 clustered item(s) across 119 source(s).
+- Newly tracked story cluster: 161 item(s) across 105 source(s).
+- Baseline snapshot created with 161 clustered item(s) across 105 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-06-08
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 177 item(s) across 119 source(s); 4 official/primary-source item(s).
+- Topic size: 161 item(s) across 105 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) (The New York Times)
@@ -61,6 +61,14 @@ Search window: 7 day(s) ending 2026-06-08
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [World Cup Opens Tomorrow as New York Reports 11 Measles Cases and Jalisco Declares Health Emergency Amid Outbreak Risk Concerns](https://www.medicaldaily.com/world-cup-opens-tomorrow-new-york-reports-11-measles-cases-jalisco-declares-health-emergency-amid-475531) (Medical Daily, 2026-06-08T15:28+00:00)
+- Detailed note: Chicago's South Side Trauma Center Just Proved It Saves 79 Lives Per Every 2,000 Gunshot Victims — Now the Funding That Built It Is at Risk Chicago's South Side trauma center has saved an estimated 79 lives per 2,000 gunshot victims since opening in 2018, but expiring federal funds now threaten violence prevention and trauma care programs. The Importance of Monitoring Blood Pressure, Cholesterol, and Glucose for...
+- Evidence notes: [World Cup Opens Tomorrow as New York Reports 11 Measles Cases and Jalisco Declares Health Emergency Amid Outbreak Risk Concerns](https://www.medicaldaily.com/world-cup-opens-tomorrow-new-york-reports-11-measles-cases-jalisco-declares-health-emergency-amid-475531) (Medical Daily); [Measles epidemic tops 80,000 total cases in Bangladesh](https://outbreaknewstoday.substack.com/p/measles-epidemic-tops-80000-total) (Outbreak News Today)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology, 2026-06-04T00:00)
@@ -68,14 +76,6 @@ Search window: 7 day(s) ending 2026-06-08
 - Evidence notes: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology); [Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.](https://pubmed.ncbi.nlm.nih.gov/42255156/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Measles transmission and vaccination
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Measles epidemic tops 80,000 total cases in Bangladesh](https://outbreaknewstoday.substack.com/p/measles-epidemic-tops-80000-total) (Outbreak News Today, 2026-06-08T21:18+00:00)
-- Detailed note: Eight additional fatalities were also reported bringing the death toll to 628, which includes 92 confirmed cases. Health authorities report approximately 37,387 suspected measles cases and 6,794 confirmed cases in the wider Dhaka division.
-- Evidence notes: [Measles epidemic tops 80,000 total cases in Bangladesh](https://outbreaknewstoday.substack.com/p/measles-epidemic-tops-80000-total) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -424,12 +424,14 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-08T22:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Measles epidemic tops 80,000 total cases in Bangladesh](https://outbreaknewstoday.substack.com/p/measles-epidemic-tops-80000-total) | Outbreak News Today | 2026-06-08T21:18+00:00 | Outbreaks and emerging infections
-  Eight additional fatalities were also reported bringing the death toll to 628, which includes 92 confirmed cases. Health authorities report approximately 37,387 suspected measles cases and 6,794 confirmed cases in the wider Dhaka division. A total of 65,237 suspected measles patients were hospitalised, of whom 61, 278 have recovered, according to the DGHS.
+- [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) | NBC News | 2026-06-08T21:01+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches 550 cases, at least 90 deaths](https://www.cidrap.umn.edu/ebola/ebola-outbreak-reaches-550-cases-least-90-deaths) | CIDRAP | 2026-06-08T20:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola cases 'increased rapidly' since late May, WHO says - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/ebola-cases-increased-rapidly-late/story?id\=133685492) | ABC News - Breaking News, Latest News and Videos | 2026-06-08T16:30+00:00 | Policy, surveillance, and public health infrastructure
+- [Africa CDC welcomes $220 million boost for Ebola outbreak response](https://www.financialnigeria.com/africa-cdc-welcomes-220-million-boost-for-ebola-outbreak-response-sustainable-1827.html) | Financial Nigeria | 2026-06-08T19:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [World Cup Opens Tomorrow as New York Reports 11 Measles Cases and Jalisco Declares Health Emergency Amid Outbreak Risk Concerns](https://www.medicaldaily.com/world-cup-opens-tomorrow-new-york-reports-11-measles-cases-jalisco-declares-health-emergency-amid-475531) | Medical Daily | 2026-06-08T15:28+00:00 | Outbreaks and emerging infections
+  Chicago's South Side Trauma Center Just Proved It Saves 79 Lives Per Every 2,000 Gunshot Victims — Now the Funding That Built It Is at Risk Chicago's South Side trauma center has saved an estimated 79 lives per 2,000 gunshot victims since opening in 2018, but expiring federal funds now threaten violence prevention and trauma care programs. The Importance of Monitoring Blood Pressure, Cholesterol, and Glucose for Better Cardiovascular Health Learn why tracking blood pressure, cholesterol, and glucose through preventive screening helps protect cardiovascular health and detect risks early before symptoms develop and worsen over time. Healthy Hydration Habits for Better Energy, Skin, and Kidney Health Learn healthy hydration habits that support energy, improve skin health, and protect kidneys with simple daily tips for better hydration and overall wellness long term.
 - [American Doctor Released From Hospital After Ebola Infection](https://malaysia.news.yahoo.com/american-doctor-released-hospital-ebola-142313177.html) | Yahoo News Malaysia | 2026-06-08T14:23+00:00 | Outbreaks and emerging infections
   It follows him undergoing experimental therapies that are currently being trialed for this type of Ebola virus, he said in a statement from Berlin’s Charité University Hospital. Peter Stafford, with the Christian aid group Serge, was released after testing negative for the virus and no longer showing symptoms. Limited detail was available from feed metadata alone.
 - [Congo's confirmed Ebola cases rise to 544](https://www.bangkokpost.com/world/3267784/africa-cdc-says-congos-confirmed-ebola-cases-rise-to-544) | Bangkok Post | 2026-06-08T12:16+00:00 | Outbreaks and emerging infections
@@ -442,15 +444,13 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 - [Ebola cases rise in Congo, as government revives travel restrictions](https://www.npr.org/2026/06/08/nx-s1-5849203/ebola-outbreak-drc-africa-cdc) | NPR | 2026-06-08T08:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO calls for global action to contain Ebola outbreak](https://www.chinadaily.com.cn/a/202606/08/WS6a261711a310d6866eb4cef3.html) | China Daily | 2026-06-08T01:12+00:00 | Policy, surveillance, and public health infrastructure
-  Nearly 500 Ebola cases have now been confirmed in the deadly outbreak raging in central Africa, a WHO overview showed on Saturday, amid mounting concerns over the swelling scale of the epidemic. He announced the launch of a joint continental preparedness and response plan by the WHO and Africa CDC aimed at containing the outbreak, supporting affected countries and strengthening preparedness in neighboring states. The global appeal for strengthened international cooperation came during a high-level briefing on Friday by the Africa Centres for Disease Control and Prevention, or Africa CDC, and the WHO, which warned about the rapid spread of the Bundibugyo Ebola virus.
 - [UAE imposes travel ban on 3 African countries as Ebola outbreak raises regional health alarm](https://africa.businessinsider.com/local/lifestyle/uae-imposes-travel-ban-on-3-african-countries-as-ebola-outbreak-raises-regional/fpmj0dg) | Business Insider Africa | 2026-06-07T17:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Israel steps up Ebola monitoring as Central Africa outbreak spreads](https://www.jpost.com/health-and-wellness/article-898626) | The Jerusalem Post | 2026-06-07T15:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest](https://www.nbcdfw.com/news/national-international/congo-ebola-health-workers-little-pay-rest/4033306/) | NBC 5 Dallas-Fort Worth | 2026-06-07T15:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases surge over 400 as fears grow over central Africa outbreak](https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak) | Euronews | 2026-06-06T14:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Outbreak in Congo Worsens, Potential for 20,000 Cases](https://english.ratopati.com/story/65699/ebola-outbreak-in-africa-increasing-congo-worst-affected) | Ratopati | 2026-06-06T11:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO warns nearly 500 confirmed Ebola cases in Central Africa outbreak](https://www.scmp.com/news/world/africa/article/3356212/who-warns-nearly-500-confirmed-ebola-cases-central-africa-outbreak) | South China Morning Post | 2026-06-06T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
