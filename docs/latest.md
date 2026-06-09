@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-09
-Generated at: 2026-06-09T02:21
+Generated at: 2026-06-09T02:31
 Search window: 7 day(s) ending 2026-06-09
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-09
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (4)
+- Category mix: Outbreaks and emerging infections (158), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 180 item(s) across 120 source(s).
-- Baseline snapshot created with 180 clustered item(s) across 120 source(s).
+- Newly tracked story cluster: 179 item(s) across 119 source(s).
+- Baseline snapshot created with 179 clustered item(s) across 119 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -29,16 +29,10 @@ Search window: 7 day(s) ending 2026-06-09
 - Baseline snapshot created with 6 clustered item(s) across 3 source(s).
 - CDC MMWR now includes deaths or fatal cases in the story frame.
 
-### Tuberculosis and antimicrobial resistance
-- Lead item: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology)
-- Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 180 item(s) across 120 source(s); 4 official/primary-source item(s).
+- Topic size: 179 item(s) across 119 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola death toll in DR Congo climbs to 101](https://www.aljazeera.com/news/2026/6/9/ebola-death-toll-in-dr-congo-climbs-to-101) (Al Jazeera)
@@ -69,20 +63,20 @@ Search window: 7 day(s) ending 2026-06-09
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Tuberculosis and antimicrobial resistance
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology, 2026-06-04T00:00)
-- Detailed note: These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are...
-- Evidence notes: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology); [Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.](https://pubmed.ncbi.nlm.nih.gov/42255156/) (PubMed Historical Pathogen Case Studies)
-- Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
 ### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [American Doctor Released From Hospital After Ebola Infection](https://malaysia.news.yahoo.com/american-doctor-released-hospital-ebola-142313177.html) (Yahoo News Malaysia, 2026-06-08T14:23+00:00)
 - Detailed note: It follows him undergoing experimental therapies that are currently being trialed for this type of Ebola virus, he said in a statement from Berlin’s Charité University Hospital. Peter Stafford, with the Christian aid group Serge, was released after testing negative for the virus and no longer showing symptoms.
 - Evidence notes: [American Doctor Released From Hospital After Ebola Infection](https://malaysia.news.yahoo.com/american-doctor-released-hospital-ebola-142313177.html) (Yahoo News Malaysia)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
+### Dengue and arboviruses
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066?nid\=109066) (Ada Derana, 2026-06-05T13:35+00:00)
+- Detailed note: He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected.
+- Evidence notes: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066?nid\=109066) (Ada Derana)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -394,16 +388,6 @@ Search window: 7 day(s) ending 2026-06-09
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-06-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42255156/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Limited usable detail remained after boilerplate cleanup.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 ### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
 - Source: ECDC News
 - Date: 2026-06-03T17:36+02:00
@@ -414,10 +398,18 @@ Search window: 7 day(s) ending 2026-06-09
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Four health workers recover from Ebola in the Democratic Republic of the Congo
+- Source: WHO Regional Office for Africa
+- Date: 2026-05-31T19:07+00:00
+- URL: https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo
+- Category: Outbreaks and emerging infections
+- Summary: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) | WHO Regional Office for Africa | 2026-05-31T19:07+00:00 | Outbreaks and emerging infections
-  Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Ebola death toll in DR Congo climbs to 101](https://www.aljazeera.com/news/2026/6/9/ebola-death-toll-in-dr-congo-climbs-to-101) | Al Jazeera | 2026-06-09T08:01+00:00 | Outbreaks and emerging infections
@@ -456,6 +448,8 @@ Search window: 7 day(s) ending 2026-06-09
   Limited detail was available from feed metadata alone.
 - [Is it safe to visit East Africa amid Ebola outbreak? The latest as confirmed cases continue to rise in Congo](https://www.cntravellerme.com/story/is-it-safe-to-visit-east-africa-amid-ebola-outbreak-the-latest-as-confirmed-cases-continue-to-rise-in-congo) | Condé Nast Traveller Middle East | 2026-06-08T08:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [UAE imposes travel ban on 3 African countries as Ebola outbreak raises regional health alarm](https://africa.businessinsider.com/local/lifestyle/uae-imposes-travel-ban-on-3-african-countries-as-ebola-outbreak-raises-regional/fpmj0dg) | Business Insider Africa | 2026-06-07T17:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/)
@@ -470,12 +464,6 @@ Search window: 7 day(s) ending 2026-06-09
   Journal/preprint server: Emerging microbes & infections
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42243068/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42243068/
-- [Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.](https://pubmed.ncbi.nlm.nih.gov/42255156/)
-  Source: PubMed Historical Pathogen Case Studies
-  DOI: 10.1177/24730114261445963
-  Journal/preprint server: Foot & ankle orthopaedics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42255156/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42255156/
 - [Human Babesiosis in China: Review of Epidemiology, Diagnosis, and Management (2002-2025).](https://pubmed.ncbi.nlm.nih.gov/42260299/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1017/S0031182026102145
@@ -486,8 +474,6 @@ Search window: 7 day(s) ending 2026-06-09
 ## Historical epi / weird epi corner
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) | PubMed Historical Epidemiology
   These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are effective for early detection of potential TB cases and high-risk patients, thereby helping to reduce TB transmission in the community. While nearly all hospital-based TB cases in Kampala, the capital of Uganda, show clear TB symptoms, 30% or more of undiagnosed TB cases found through active screening are asymptomatic.
-- [Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.](https://pubmed.ncbi.nlm.nih.gov/42255156/) | PubMed Historical Pathogen Case Studies
-  Limited usable detail remained after boilerplate cleanup.
 - [Ebola burial team attacked and 11 patients flee care in widening outbreak in Congo](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21qbzBwVE44VkFHMEFTLWhMbGlOVVMwdjFnTktaZ2FMS2tHZ3R6cXZ5N0Y2UjB3aFAtOTl0eGhrRTFTSHRZWjhCLUtfUl9KZ3M4azZjbC0xVUVjRm5LZGhOd3ZJb3RTaGxORFVuNXFoVkNuVnlaMExnZ1VHQUpqMWdHaW9ac1hZa2pOSg?oc=5) | The Japan Times
   Limited detail was available from feed metadata alone.
 - [Congo Reports Attack on Ebola Burial Team as Outbreak Expands Across Eastern Provinces](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYld4c3pSa3VFckIzVVRFV3RwV2JjbWVNVkZEc3MyTUMyS051VUdLYnB4UFBBbzc1QXZtaXc5VVpEWXJXd0tZQkhSLTY1S0FnZzhvbHVMVzJYdTVXZklETzFVajZNY0tlak1JQ2VFM0tRYmwzTXkyVHRFRGhSYzgwa3d3dXJDSlhZY09nME93YUpCWXQwTjRDQ3pKbXVKZGRxaXRxcVo4S0JxYlFXOWZPemFNdEpPblRSNGt6QkhYcFdTVEd3RGsxZtIB1gFBVV95cUxNUjFSLXVKNFFpZXY3TmtmQkxFanJOS3YzZFV1OXFGT0JaWXAwUmd1V29fOXpIejVuQW4wQzBjSkhBbkZ1ZWJlYWxkMGlBSjZJekp1bDFNNjlUWTU0eG1jN3NvUTUyam5ib1RlNGh0UkZiek83XzVuVzBCSTRTbTVwLXJkVWtPZ1ZCbU1BQ0pCQThiMmNQRXhpcWFBaHFZWGtSdkNENUdIazlTYkc1ekdpZGtzaGl6bkpXYkpId3dvVXR1N1ZFWkQ1Q0NXc1hNVWw3bTUyZGt3?oc=5) | Outlook India
