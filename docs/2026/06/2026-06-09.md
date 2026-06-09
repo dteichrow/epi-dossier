@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-09
-Generated at: 2026-06-09T04:21
+Generated at: 2026-06-09T04:42
 Search window: 7 day(s) ending 2026-06-09
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-09
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (156), Policy, surveillance, and public health infrastructure (28), Occupational and environmental epidemiology (4)
+- Category mix: Outbreaks and emerging infections (155), Policy, surveillance, and public health infrastructure (28), Occupational and environmental epidemiology (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 178 item(s) across 117 source(s).
-- Baseline snapshot created with 178 clustered item(s) across 117 source(s).
+- Newly tracked story cluster: 178 item(s) across 118 source(s).
+- Baseline snapshot created with 178 clustered item(s) across 118 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Al Jazeera now includes quarantine language.
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-06-09
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 178 item(s) across 117 source(s); 4 official/primary-source item(s).
+- Topic size: 178 item(s) across 118 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo Ebola contact tracing is below target but has improved, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-contact-tracing-is-below-target-has-improved-who-says-2026-06-09/) (Reuters)
@@ -76,14 +76,6 @@ Search window: 7 day(s) ending 2026-06-09
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka inspects over 70,000 premises in nationwide dengue control drive-Xinhua](http://www.xinhuanet.com/english/asiapacific/20260609/c12a004dd2414f1fb1ae399d87fcd292/c.html) (新华网, 2026-06-09T06:14+00:00)
-- Detailed note: Sri Lanka has reported 36,168 dengue cases so far this year, with 20 deaths, according to the ministry. (Photo by Gayan Sameera/Xinhua) COLOMBO, June 9 (Xinhua) -- Sri Lankan health authorities inspected more than 70,000 premises on the first day of a three-day national dengue mosquito control program that started on Monday, the Ministry of Health and Mass Media said on Tuesday. He warned that dengue can be...
-- Evidence notes: [Sri Lanka inspects over 70,000 premises in nationwide dengue control drive-Xinhua](http://www.xinhuanet.com/english/asiapacific/20260609/c12a004dd2414f1fb1ae399d87fcd292/c.html) (新华网); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066?nid\=109066) (Ada Derana)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology, 2026-06-04T00:00)
@@ -91,6 +83,14 @@ Search window: 7 day(s) ending 2026-06-09
 - Evidence notes: [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology); [Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.](https://pubmed.ncbi.nlm.nih.gov/42255156/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Dengue and arboviruses
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066?nid\=109066) (Ada Derana, 2026-06-05T13:35+00:00)
+- Detailed note: He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected.
+- Evidence notes: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066?nid\=109066) (Ada Derana)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -437,15 +437,17 @@ Search window: 7 day(s) ending 2026-06-09
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak rises to 100 deaths out of 550 cases after a month - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-ebola-outbreak-rises-100-deaths-550-cases-133703525) | ABC News - Breaking News, Latest News and Videos | 2026-06-09T07:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Sri Lanka inspects over 70,000 premises in nationwide dengue control drive-Xinhua](http://www.xinhuanet.com/english/asiapacific/20260609/c12a004dd2414f1fb1ae399d87fcd292/c.html) | 新华网 | 2026-06-09T06:14+00:00 | Outbreaks and emerging infections
-  Sri Lanka has reported 36,168 dengue cases so far this year, with 20 deaths, according to the ministry. (Photo by Gayan Sameera/Xinhua) COLOMBO, June 9 (Xinhua) -- Sri Lankan health authorities inspected more than 70,000 premises on the first day of a three-day national dengue mosquito control program that started on Monday, the Ministry of Health and Mass Media said on Tuesday. Health officials inspect a potential mosquito breeding site in Colombo, Sri Lanka, on June 8, 2026.
 - [Ebola Cases Rise To 550 In Congo As Outbreak Trend Remains Upward](https://www.ndtv.com/health/ebola-cases-rise-to-550-in-congo-as-outbreak-trend-remains-upward-11610299) | NDTV | 2026-06-09T06:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola alert: Govt steps up airport screening and surveillance](https://www.thehansindia.com/amp/news/cities/hyderabad/ebola-alert-govt-steps-up-airport-screening-and-surveillance-1084297) | The Hans India | 2026-06-09T04:44+00:00 | Outbreaks and emerging infections
+  This health update was formally presented to Health Minister Damodar Raja Narsimha during a high level review meeting convened to evaluate existing precautionary frameworks, border surveillance, interdepartmental networks, and emergency response systems active across the state. The Minister was briefed that the two suspected cases had their initial samples tested at NIV Pune, and the results returned negative for both. Individuals exhibiting suspected symptoms are quickly identified and placed into immediate isolation at Gandhi Hospital.
 - [Congo says Ebola deaths top 100 as armed groups threaten response](https://www.japantimes.co.jp/news/2026/06/09/world/congo-ebola-deaths-armed-groups/) | The Japan Times | 2026-06-09T00:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: The latest numbers from the Africa CDC](https://outbreaknewstoday.substack.com/p/ebola-outbreak-the-latest-numbers) | Outbreak News Today | 2026-06-08T22:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-08T22:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola cases in DRC rise to 550, with 101 deaths recorded](https://www.trtafrika.com/english/article/69408f6a57c6) | TRT Afrika | 2026-06-08T21:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Caribbean steps up preparedness amid Ebola outbreak in Africa](https://www.caribbeanlife.com/caribbean-preparedness-ebola-outbreak-africa/) | caribbeanlife.com | 2026-06-08T21:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -461,8 +463,6 @@ Search window: 7 day(s) ending 2026-06-09
   Limited detail was available from feed metadata alone.
 - [Africa races for Ebola vaccine as outbreak outpaces response](https://medicalxpress.com/news/2026-06-africa-ebola-vaccine-outbreak-outpaces.html) | Medical Xpress | 2026-06-08T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [World Cup Opens Tomorrow as New York Reports 11 Measles Cases and Jalisco Declares Health Emergency Amid Outbreak Risk Concerns](https://www.medicaldaily.com/world-cup-opens-tomorrow-new-york-reports-11-measles-cases-jalisco-declares-health-emergency-amid-475531) | Medical Daily | 2026-06-08T15:28+00:00 | Outbreaks and emerging infections
-  Chicago's South Side Trauma Center Just Proved It Saves 79 Lives Per Every 2,000 Gunshot Victims — Now the Funding That Built It Is at Risk Chicago's South Side trauma center has saved an estimated 79 lives per 2,000 gunshot victims since opening in 2018, but expiring federal funds now threaten violence prevention and trauma care programs. The Importance of Monitoring Blood Pressure, Cholesterol, and Glucose for Better Cardiovascular Health Learn why tracking blood pressure, cholesterol, and glucose through preventive screening helps protect cardiovascular health and detect risks early before symptoms develop and worsen over time. Healthy Hydration Habits for Better Energy, Skin, and Kidney Health Learn healthy hydration habits that support energy, improve skin health, and protect kidneys with simple daily tips for better hydration and overall wellness long term.
 
 ## Papers worth saving
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/)
