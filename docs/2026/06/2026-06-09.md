@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-09
-Generated at: 2026-06-09T04:12
+Generated at: 2026-06-09T04:16
 Search window: 7 day(s) ending 2026-06-09
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-09
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (160), Policy, surveillance, and public health infrastructure (26), Occupational and environmental epidemiology (4)
+- Category mix: Outbreaks and emerging infections (157), Policy, surveillance, and public health infrastructure (28), Occupational and environmental epidemiology (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 180 item(s) across 121 source(s).
-- Baseline snapshot created with 180 clustered item(s) across 121 source(s).
+- Newly tracked story cluster: 179 item(s) across 119 source(s).
+- Baseline snapshot created with 179 clustered item(s) across 119 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Al Jazeera now includes quarantine language.
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-06-09
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 180 item(s) across 121 source(s); 4 official/primary-source item(s).
+- Topic size: 179 item(s) across 119 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo Ebola contact tracing is below target but has improved, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-contact-tracing-is-below-target-has-improved-who-says-2026-06-09/) (Reuters)
@@ -437,8 +437,6 @@ Search window: 7 day(s) ending 2026-06-09
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak rises to 100 deaths out of 550 cases after a month - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-ebola-outbreak-rises-100-deaths-550-cases-133703525) | ABC News - Breaking News, Latest News and Videos | 2026-06-09T07:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo-Kinshasa: EU Says Ebola Outbreak Makes Ceasefire in DR Congo More Necessary Than Ever](https://allafrica.com/stories/202606090001.html) | allAfrica.com | 2026-06-09T06:47+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola Cases Rise To 550 In Congo As Outbreak Trend Remains Upward](https://www.ndtv.com/health/ebola-cases-rise-to-550-in-congo-as-outbreak-trend-remains-upward-11610299) | NDTV | 2026-06-09T06:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo says Ebola deaths top 100 as armed groups threaten response](https://www.japantimes.co.jp/news/2026/06/09/world/congo-ebola-deaths-armed-groups/) | The Japan Times | 2026-06-09T00:29+00:00 | Outbreaks and emerging infections
@@ -453,6 +451,10 @@ Search window: 7 day(s) ending 2026-06-09
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches 550 cases, at least 90 deaths](https://www.cidrap.umn.edu/ebola/ebola-outbreak-reaches-550-cases-least-90-deaths) | CIDRAP | 2026-06-08T20:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest](https://www.statnews.com/2026/06/08/ebola-outbreak-congo-health-workers-little-pay-rest/) | statnews.com | 2026-06-08T20:17+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [W.H.O. chief praises Uganda's efforts to limit spread of Ebola outbreak](https://www.africanews.com/2026/06/09/who-chief-praises-ugandas-efforts-to-limit-spread-of-ebola-outbreak/) | africanews.com | 2026-06-08T19:59+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Africa CDC welcomes $220 million boost for Ebola outbreak response](https://www.financialnigeria.com/africa-cdc-welcomes-220-million-boost-for-ebola-outbreak-response-sustainable-1827.html) | Financial Nigeria | 2026-06-08T19:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How the Ebola outbreak is changing weddings in Congo](https://www.oskaloosa.com/news/national_news/how-the-ebola-outbreak-is-changing-weddings-in-congo/article_f49b8c81-58b5-5b65-a2a1-2c4b345fdfbe.html) | Oskaloosa Herald | 2026-06-08T16:55+00:00 | Outbreaks and emerging infections
@@ -461,8 +463,6 @@ Search window: 7 day(s) ending 2026-06-09
   Limited detail was available from feed metadata alone.
 - [World Cup Opens Tomorrow as New York Reports 11 Measles Cases and Jalisco Declares Health Emergency Amid Outbreak Risk Concerns](https://www.medicaldaily.com/world-cup-opens-tomorrow-new-york-reports-11-measles-cases-jalisco-declares-health-emergency-amid-475531) | Medical Daily | 2026-06-08T15:28+00:00 | Outbreaks and emerging infections
   Chicago's South Side Trauma Center Just Proved It Saves 79 Lives Per Every 2,000 Gunshot Victims — Now the Funding That Built It Is at Risk Chicago's South Side trauma center has saved an estimated 79 lives per 2,000 gunshot victims since opening in 2018, but expiring federal funds now threaten violence prevention and trauma care programs. The Importance of Monitoring Blood Pressure, Cholesterol, and Glucose for Better Cardiovascular Health Learn why tracking blood pressure, cholesterol, and glucose through preventive screening helps protect cardiovascular health and detect risks early before symptoms develop and worsen over time. Healthy Hydration Habits for Better Energy, Skin, and Kidney Health Learn healthy hydration habits that support energy, improve skin health, and protect kidneys with simple daily tips for better hydration and overall wellness long term.
-- [Israel-Iran strikes threaten truce. And, Ebola is spreading at an unprecedented rate](https://www.npr.org/transcripts/g-s1-126858) | NPR | 2026-06-08T11:26+00:00 | Outbreaks and emerging infections
-  Fresh Air Wild Card with Rachel Martin It's Been a Minute Planet Money Get NPR+ More Podcasts & Shows Embed Embed < iframe src="https://www.npr.org/player/embed/g-s1-126858/nx-s1-mx-5849777-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"> (SOUNDBITE OF MUSIC) MICHEL MARTIN, HOST: Israel and Iran traded fire overnight. Over the weekend, 71 new cases were confirmed across three provinces in eastern Congo, and this jump, according to Congolese health authorities, show that there is, quote, "rapid and ongoing" community transmission. Ituri, a province in eastern Congo about the size of West Virginia, is the epicenter of the outbreak with about 94% of recorded cases in Congo.
 
 ## Papers worth saving
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/)
