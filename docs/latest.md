@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-08
-Generated at: 2026-06-08T22:33
+Generated at: 2026-06-08T23:30
 Search window: 7 day(s) ending 2026-06-08
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-06-08
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 178 item(s) across 114 source(s).
-- Baseline snapshot created with 178 clustered item(s) across 114 source(s).
+- Newly tracked story cluster: 178 item(s) across 116 source(s).
+- Baseline snapshot created with 178 clustered item(s) across 116 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -38,10 +38,10 @@ Search window: 7 day(s) ending 2026-06-08
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 178 item(s) across 114 source(s); 4 official/primary-source item(s).
+- Topic size: 178 item(s) across 116 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak reaches 550 cases, at least 90 deaths](https://www.cidrap.umn.edu/ebola/ebola-outbreak-reaches-550-cases-least-90-deaths) (CIDRAP)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -422,13 +422,17 @@ Search window: 7 day(s) ending 2026-06-08
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-08T22:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Measles epidemic tops 80,000 total cases in Bangladesh](https://outbreaknewstoday.substack.com/p/measles-epidemic-tops-80000-total) | Outbreak News Today | 2026-06-08T21:18+00:00 | Outbreaks and emerging infections
   Eight additional fatalities were also reported bringing the death toll to 628, which includes 92 confirmed cases. Health authorities report approximately 37,387 suspected measles cases and 6,794 confirmed cases in the wider Dhaka division. A total of 65,237 suspected measles patients were hospitalised, of whom 61, 278 have recovered, according to the DGHS.
 - [Ebola outbreak reaches 550 cases, at least 90 deaths](https://www.cidrap.umn.edu/ebola/ebola-outbreak-reaches-550-cases-least-90-deaths) | CIDRAP | 2026-06-08T20:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [How the Ebola outbreak is changing weddings in Congo](https://www.oskaloosa.com/news/national_news/how-the-ebola-outbreak-is-changing-weddings-in-congo/article_f49b8c81-58b5-5b65-a2a1-2c4b345fdfbe.html) | Oskaloosa Herald | 2026-06-08T17:15+00:00 | Outbreaks and emerging infections
+- [How the Ebola outbreak is changing weddings in Congo](https://www.oskaloosa.com/news/national_news/how-the-ebola-outbreak-is-changing-weddings-in-congo/article_f49b8c81-58b5-5b65-a2a1-2c4b345fdfbe.html) | Oskaloosa Herald | 2026-06-08T16:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases 'increased rapidly' since late May, WHO says - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/ebola-cases-increased-rapidly-late/story?id\=133685492) | ABC News - Breaking News, Latest News and Videos | 2026-06-08T16:30+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Africa races for Ebola vaccine as outbreak outpaces response](https://medicalxpress.com/news/2026-06-africa-ebola-vaccine-outbreak-outpaces.html) | Medical Xpress | 2026-06-08T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [American Doctor Released From Hospital After Ebola Infection](https://malaysia.news.yahoo.com/american-doctor-released-hospital-ebola-142313177.html) | Yahoo News Malaysia | 2026-06-08T14:23+00:00 | Outbreaks and emerging infections
   It follows him undergoing experimental therapies that are currently being trialed for this type of Ebola virus, he said in a statement from Berlin’s Charité University Hospital. Peter Stafford, with the Christian aid group Serge, was released after testing negative for the virus and no longer showing symptoms. Limited detail was available from feed metadata alone.
@@ -442,19 +446,15 @@ Search window: 7 day(s) ending 2026-06-08
   Limited detail was available from feed metadata alone.
 - [Ebola cases rise in Congo, as government revives travel restrictions](https://www.npr.org/2026/06/08/nx-s1-5849203/ebola-outbreak-drc-africa-cdc) | NPR | 2026-06-08T08:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest](https://www.monvalleyindependent.com/2026/06/08/health-workers-at-the-epicenter-of-congos-ebola-outbreak-labor-with-little-pay-or-rest/) | Mon Valley Independent | 2026-06-08T07:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO calls for global action to contain Ebola outbreak](https://www.chinadaily.com.cn/a/202606/08/WS6a261711a310d6866eb4cef3.html) | China Daily | 2026-06-08T01:12+00:00 | Policy, surveillance, and public health infrastructure
   Nearly 500 Ebola cases have now been confirmed in the deadly outbreak raging in central Africa, a WHO overview showed on Saturday, amid mounting concerns over the swelling scale of the epidemic. He announced the launch of a joint continental preparedness and response plan by the WHO and Africa CDC aimed at containing the outbreak, supporting affected countries and strengthening preparedness in neighboring states. The global appeal for strengthened international cooperation came during a high-level briefing on Friday by the Africa Centres for Disease Control and Prevention, or Africa CDC, and the WHO, which warned about the rapid spread of the Bundibugyo Ebola virus.
 - [UAE imposes travel ban on 3 African countries as Ebola outbreak raises regional health alarm](https://africa.businessinsider.com/local/lifestyle/uae-imposes-travel-ban-on-3-african-countries-as-ebola-outbreak-raises-regional/fpmj0dg) | Business Insider Africa | 2026-06-07T17:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest](https://www.nbcdfw.com/news/national-international/congo-ebola-health-workers-little-pay-rest/4033306/) | NBC 5 Dallas-Fort Worth | 2026-06-07T15:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola cases surge over 400 as fears grow over central Africa outbreak](https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak) | Euronews.com | 2026-06-06T14:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak in Congo Worsens, Potential for 20,000 Cases](https://english.ratopati.com/story/65699/ebola-outbreak-in-africa-increasing-congo-worst-affected) | Ratopati | 2026-06-06T11:15+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO warns nearly 500 confirmed Ebola cases in Central Africa outbreak](https://www.scmp.com/news/world/africa/article/3356212/who-warns-nearly-500-confirmed-ebola-cases-central-africa-outbreak) | South China Morning Post | 2026-06-06T10:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Nearly 500 confirmed cases in central Africa Ebola outbreak: WHO](https://english.alarabiya.net/amp/News/world/2026/06/06/nearly-500-confirmed-cases-in-central-africa-ebola-outbreak-who) | Al Arabiya English | 2026-06-06T09:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
