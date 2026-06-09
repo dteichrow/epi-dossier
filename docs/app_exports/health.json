@@ -14,31 +14,26 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 169,
+    "metadata_only_count": 173,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 185,
+    "sources_failed": 1,
+    "sources_live": 193,
     "story_count_change": 3,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 185,
+    "live": 193,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-09T13:17:20",
+  "generated_at": "2026-06-09T13:41:36",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=25&sort=pub+date&term=%28infectious+disease+OR+epidemiology+OR+outbreak+OR+surveillance+OR+virology+OR+occupational+exposure+OR+historical+epidemiology+OR+paleopathology%29+AND+%28%22last+7+days%22%5BPDat%5D%29&datetype=pdat&mindate=2026-06-03&maxdate=2026-06-09",
-      "source": "PubMed Infectious Disease Search",
-      "source_type": "pubmed"
     }
   ]
 }
