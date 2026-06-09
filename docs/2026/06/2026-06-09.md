@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-09
-Generated at: 2026-06-09T16:22
+Generated at: 2026-06-09T16:46
 Search window: 7 day(s) ending 2026-06-09
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-09
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (150), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (149), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 169 item(s) across 121 source(s).
-- Baseline snapshot created with 169 clustered item(s) across 121 source(s).
+- Newly tracked story cluster: 168 item(s) across 119 source(s).
+- Baseline snapshot created with 168 clustered item(s) across 119 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Al Jazeera now includes quarantine language.
@@ -39,10 +39,10 @@ Search window: 7 day(s) ending 2026-06-09
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 169 item(s) across 121 source(s); 4 official/primary-source item(s).
+- Topic size: 168 item(s) across 119 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [US urges other nations to ‘step up’ efforts to halt Ebola spread](https://www.freemalaysiatoday.com/category/highlight/2026/06/10/us-urges-other-nations-to-step-up-efforts-to-halt-ebola-spread) (Free Malaysia Today)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo says number of confirmed Ebola cases rises to nearly 600](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-nearly-600-2026-06-09/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -62,6 +62,14 @@ Search window: 7 day(s) ending 2026-06-09
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh Measles Outbreak Prompts Legal Action Against Yunus-Era Officials](https://shiawaves.com/english/uncategorized/142974-bangladesh-measles-outbreak-prompts-legal-action-against-yunus-era-officials/) (ShiaWaves, 2026-06-09T09:07+00:00)
+- Detailed note: Chicago's South Side Trauma Center Just Proved It Saves 79 Lives Per Every 2,000 Gunshot Victims — Now the Funding That Built It Is at Risk Chicago's South Side trauma center has saved an estimated 79 lives per 2,000 gunshot victims since opening in 2018, but expiring federal funds now threaten violence prevention and trauma care programs. According to Arab News, the petition was filed in Dhaka by lawmaker...
+- Evidence notes: [Bangladesh Measles Outbreak Prompts Legal Action Against Yunus-Era Officials](https://shiawaves.com/english/uncategorized/142974-bangladesh-measles-outbreak-prompts-legal-action-against-yunus-era-officials/) (ShiaWaves); [World Cup Opens Tomorrow as New York Reports 11 Measles Cases and Jalisco Declares Health Emergency Amid Outbreak Risk Concerns](https://www.medicaldaily.com/world-cup-opens-tomorrow-new-york-reports-11-measles-cases-jalisco-declares-health-emergency-amid-475531) (Medical Daily)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search, 2026-06-04T00:00)
@@ -69,14 +77,6 @@ Search window: 7 day(s) ending 2026-06-09
 - Evidence notes: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search); [CDC Reports Cat-to-Human H5N1 Transmission](https://news.google.com/rss/articles/CBMitwFBVV95cUxQOU1ZOFpta0JwQ0dmeUlXR1NaN01oMTRNTFRmX04yNnhRNjh0Zzg0eW9pOG9jbmZhRU1CaU9peVp3Yi1vTGI1Yldycnp1cmtWWnRVa255NmVjdjdWVTFNWTBraVgwZkNseDNYSnJGbE85bllMcEtBa3BvNU5oUE9VZDY4M3pHUGFSQllLc1UzaXhZajE1UzZUUlplYzMyS0pUVkwwbzZ1b2lvV2ZYYVc4TGxWWjJJSGc?oc=5) (respiratory-therapy.com)
 - Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T04:37+00:00)
-- Detailed note: Regarding Chikungunya fever, 12,587 probable cases of the disease have been registered, of which 7,862 have been confirmed, and four deaths are under investigation. Of this total, 29,116 cases were confirmed for the disease, and there are 33 deaths under investigation.
-- Evidence notes: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [Brazil: Dengue and other arboviruses in Minas Gerais](https://outbreaknewstoday.substack.com/p/brazil-dengue-and-other-arboviruses) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -423,6 +423,8 @@ Search window: 7 day(s) ending 2026-06-09
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Congo says number of confirmed Ebola cases rises to nearly 600](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-nearly-600-2026-06-09/) | Reuters | 2026-06-09T22:09+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [US urges other nations to ‘step up’ efforts to halt Ebola spread](https://www.freemalaysiatoday.com/category/highlight/2026/06/10/us-urges-other-nations-to-step-up-efforts-to-halt-ebola-spread) | Free Malaysia Today | 2026-06-09T21:51+00:00 | Outbreaks and emerging infections
   “Other countries must do their part to ensure this outbreak does not spread further,” the official said, urging more funding to address the outbreak and “implementing common-sense restrictions on travel from the affected area.” The outbreak was first identified last month in northeastern Democratic Republic of Congo, with cases since reported in neighbouring Uganda. Now the world must do more to step up as well,” a state department official told AFP, speaking on condition of anonymity. Limited detail was available from feed metadata alone.
 - [One killed as hundreds protest in Kenya against US Ebola quarantine centre](https://www.aljazeera.com/news/2026/6/9/protests-erupt-in-kenya-over-us-ebola-quarantine-centre-in-nanyuki) | Al Jazeera | 2026-06-09T20:31+00:00 | Outbreaks and emerging infections
@@ -447,16 +449,14 @@ Search window: 7 day(s) ending 2026-06-09
   According to Arab News, the petition was filed in Dhaka by lawmaker Mujibur Rahman Iqbal, who accused the previous caretaker administration of negligence for allegedly failing to procure measles vaccines and conduct a mass immunization drive scheduled for 2024–2025. Since then, hospitals have reported a sharp rise in measles cases among children, with tens of thousands admitted with symptoms. Health experts say at least 95 percent vaccination coverage is needed to stop measles transmission.
 - [Ebola death toll in DR Congo climbs to 101](https://www.aljazeera.com/news/2026/6/9/ebola-death-toll-in-dr-congo-climbs-to-101) | Al Jazeera | 2026-06-09T08:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congo's Ebola outbreak rises to 100 deaths out of 550 cases as conflict slows response - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-ebola-outbreak-rises-100-deaths-550-cases-133703525) | ABC News - Breaking News, Latest News and Videos | 2026-06-09T07:29+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [‘Ebola outbreak expanding in Congo, spreading to Uganda’: WHO flags ‘very high’ risk for DRC](https://www.thestatesman.com/world/ebola-outbreak-expanding-in-congo-spreading-to-uganda-who-risk-alert-1503603586.html) | The Statesman | 2026-06-09T05:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Survivors share experiences and lessons from Congo’s 2018 Ebola outbreak](https://www.shorelinemedia.net/ludington_daily_news/videos/survivors-share-experiences-and-lessons-from-congo-s-2018-ebola-outbreak/video_5223049a-17b7-544b-a70c-7c96f6d0b97f.html) | Shoreline Media Group | 2026-06-09T05:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola alert: Govt steps up airport screening and surveillance](https://www.thehansindia.com/amp/news/cities/hyderabad/ebola-alert-govt-steps-up-airport-screening-and-surveillance-1084297) | The Hans India | 2026-06-09T04:44+00:00 | Outbreaks and emerging infections
   This health update was formally presented to Health Minister Damodar Raja Narsimha during a high level review meeting convened to evaluate existing precautionary frameworks, border surveillance, interdepartmental networks, and emergency response systems active across the state. The Minister was briefed that the two suspected cases had their initial samples tested at NIV Pune, and the results returned negative for both. Individuals exhibiting suspected symptoms are quickly identified and placed into immediate isolation at Gandhi Hospital.
-- [Congo says Ebola deaths top 100 as armed groups threaten response](https://www.japantimes.co.jp/news/2026/06/09/world/congo-ebola-deaths-armed-groups/) | The Japan Times | 2026-06-09T00:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak: The latest numbers from the Africa CDC](https://outbreaknewstoday.substack.com/p/ebola-outbreak-the-latest-numbers) | Outbreak News Today | 2026-06-08T22:09+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [mHealth-supported tuberculosis contact investigation by community health workers in high-burden countries: a scoping review.](https://pubmed.ncbi.nlm.nih.gov/42261846/)
