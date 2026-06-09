@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-09
-Generated at: 2026-06-09T06:09
+Generated at: 2026-06-09T06:17
 Search window: 7 day(s) ending 2026-06-09
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-09
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search; 2026-06-04T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (160), Policy, surveillance, and public health infrastructure (24), Occupational and environmental epidemiology (4)
+- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (25), Occupational and environmental epidemiology (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -451,11 +451,11 @@ Search window: 7 day(s) ending 2026-06-09
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches 550 cases, at least 90 deaths](https://www.cidrap.umn.edu/ebola/ebola-outbreak-reaches-550-cases-least-90-deaths) | CIDRAP | 2026-06-08T20:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [W.H.O. chief praises Uganda's efforts to limit spread of Ebola outbreak](https://www.africanews.com/2026/06/09/who-chief-praises-ugandas-efforts-to-limit-spread-of-ebola-outbreak/) | africanews.com | 2026-06-08T19:59+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Africa CDC welcomes $220 million boost for Ebola outbreak response](https://www.financialnigeria.com/africa-cdc-welcomes-220-million-boost-for-ebola-outbreak-response-sustainable-1827.html) | Financial Nigeria | 2026-06-08T19:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How the Ebola outbreak is changing weddings in Congo](https://www.oskaloosa.com/news/national_news/how-the-ebola-outbreak-is-changing-weddings-in-congo/article_f49b8c81-58b5-5b65-a2a1-2c4b345fdfbe.html) | Oskaloosa Herald | 2026-06-08T16:55+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa races for Ebola vaccine as outbreak outpaces response](https://medicalxpress.com/news/2026-06-africa-ebola-vaccine-outbreak-outpaces.html) | Medical Xpress | 2026-06-08T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
