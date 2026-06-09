@@ -14,32 +14,22 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 170,
-    "sources_cached": 2,
+    "metadata_only_count": 169,
+    "sources_cached": 0,
     "sources_failed": 4,
-    "sources_live": 184,
-    "story_count_change": 3,
+    "sources_live": 185,
+    "story_count_change": 2,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 184,
-    "refresh_cache": 2,
+    "live": 185,
+    "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-09T12:36:33",
+  "generated_at": "2026-06-09T12:41:14",
   "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
-      "source_type": "html_list"
-    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
@@ -48,6 +38,16 @@
     {
       "error": "500 Server Error: Internal Server Error for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=25&sort=pub+date&term=%28infectious+disease+OR+epidemiology+OR+outbreak+OR+surveillance+OR+virology+OR+occupational+exposure+OR+historical+epidemiology+OR+paleopathology%29+AND+%28%22last+7+days%22%5BPDat%5D%29&datetype=pdat&mindate=2026-06-03&maxdate=2026-06-09",
       "source": "PubMed Infectious Disease Search",
+      "source_type": "pubmed"
+    },
+    {
+      "error": "500 Server Error: Internal Server Error for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=30&sort=pub+date&term=%28%28%28%22ancient+DNA%22%5BTitle%2FAbstract%5D+OR+%22ancient+genome%22%5BTitle%2FAbstract%5D+OR+%22pathogen+aDNA%22%5BTitle%2FAbstract%5D+OR+%22ancient+metagenomics%22%5BTitle%2FAbstract%5D%29+AND+%28pathogen%5BTitle%2FAbstract%5D+OR+pathogens%5BTitle%2FAbstract%5D+OR+Yersinia%5BTitle%2FAbstract%5D+OR+tuberculosis%5BTitle%2FAbstract%5D+OR+leprosy%5BTitle%2FAbstract%5D+OR+treponema%5BTitle%2FAbstract%5D+OR+plague%5BTitle%2FAbstract%5D+OR+variola%5BTitle%2FAbstract%5D+OR+%22hepatitis+B%22%5BTitle%2FAbstract%5D+OR+Salmonella%5BTitle%2FAbstract%5D%29%29+OR+%28%22ancient+pathogen%22%5BTitle%2FAbstract%5D%29%29&datetype=pdat&mindate=2026-06-03&maxdate=2026-06-09",
+      "source": "PubMed Ancient Pathogen Genomics",
+      "source_type": "pubmed"
+    },
+    {
+      "error": "500 Server Error: Internal Server Error for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=30&sort=pub+date&term=%28%28%28%22Yersinia+pestis%22%5BTitle%2FAbstract%5D%29+OR+plague%5BTitle%2FAbstract%5D+OR+smallpox%5BTitle%2FAbstract%5D+OR+variola%5BTitle%2FAbstract%5D+OR+leprosy%5BTitle%2FAbstract%5D+OR+%22Mycobacterium+leprae%22%5BTitle%2FAbstract%5D+OR+%22Mycobacterium+tuberculosis%22%5BTitle%2FAbstract%5D+OR+treponemal%5BTitle%2FAbstract%5D+OR+syphilis%5BTitle%2FAbstract%5D+OR+tuberculosis%5BTitle%2FAbstract%5D%29+AND+%28%28%22ancient+DNA%22%5BTitle%2FAbstract%5D%29+OR+paleopathology%5BTitle%2FAbstract%5D+OR+archaeology%5BTitle%2FAbstract%5D+OR+skeletal%5BTitle%2FAbstract%5D+OR+burial%5BTitle%2FAbstract%5D+OR+cemetery%5BTitle%2FAbstract%5D+OR+mummified%5BTitle%2FAbstract%5D+OR+medieval%5BTitle%2FAbstract%5D+OR+prehistoric%5BTitle%2FAbstract%5D+OR+historical%5BTitle%2FAbstract%5D%29%29&datetype=pdat&mindate=2026-06-03&maxdate=2026-06-09",
+      "source": "PubMed Historical Pathogen Case Studies",
       "source_type": "pubmed"
     }
   ]
