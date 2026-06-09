@@ -13,41 +13,36 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 174,
+    "metadata_only_count": 172,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 191,
-    "story_count_change": 2,
-    "wrapper_only_count": 8
+    "sources_failed": 3,
+    "sources_live": 189,
+    "story_count_change": 3,
+    "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 191,
+    "live": 189,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-09T11:25:39",
+  "generated_at": "2026-06-09T11:30:45",
   "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
-      "source_type": "html_list"
-    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
     },
     {
-      "error": "500 Server Error: Internal Server Error for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=30&sort=pub+date&term=%28%28paleopathology%5BTitle%2FAbstract%5D+OR+paleomicrobiology%5BTitle%2FAbstract%5D+OR+archaeogenetics%5BTitle%2FAbstract%5D+OR+paleogenomics%5BTitle%2FAbstract%5D+OR+%22historical+epidemiology%22%5BTitle%2FAbstract%5D+OR+%22ancient+disease%22%5BTitle%2FAbstract%5D+OR+%22ancient+pathogen%22%5BTitle%2FAbstract%5D%29+AND+%28infectious%5BTitle%2FAbstract%5D+OR+pathogen%5BTitle%2FAbstract%5D+OR+epidemic%5BTitle%2FAbstract%5D+OR+plague%5BTitle%2FAbstract%5D+OR+tuberculosis%5BTitle%2FAbstract%5D+OR+leprosy%5BTitle%2FAbstract%5D+OR+treponemal%5BTitle%2FAbstract%5D+OR+syphilis%5BTitle%2FAbstract%5D+OR+cholera%5BTitle%2FAbstract%5D+OR+smallpox%5BTitle%2FAbstract%5D+OR+variola%5BTitle%2FAbstract%5D+OR+salmonella%5BTitle%2FAbstract%5D%29%29&datetype=pdat&mindate=2026-06-03&maxdate=2026-06-09",
-      "source": "PubMed Historical Epidemiology",
+      "error": "500 Server Error: Internal Server Error for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=25&sort=pub+date&term=%28infectious+disease+OR+epidemiology+OR+outbreak+OR+surveillance+OR+virology+OR+occupational+exposure+OR+historical+epidemiology+OR+paleopathology%29+AND+%28%22last+7+days%22%5BPDat%5D%29&datetype=pdat&mindate=2026-06-03&maxdate=2026-06-09",
+      "source": "PubMed Infectious Disease Search",
       "source_type": "pubmed"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
+      "source": "California Department of Public Health News",
+      "source_type": "html_list"
     }
   ]
 }
