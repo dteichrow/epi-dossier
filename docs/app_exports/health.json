@@ -14,21 +14,21 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 166,
-    "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 181,
-    "story_count_change": 2,
-    "wrapper_only_count": 8
+    "metadata_only_count": 155,
+    "sources_cached": 3,
+    "sources_failed": 3,
+    "sources_live": 171,
+    "story_count_change": 3,
+    "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 181,
-    "refresh_cache": 0,
+    "live": 171,
+    "refresh_cache": 3,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-09T15:56:30",
+  "generated_at": "2026-06-09T16:07:54",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
@@ -44,11 +44,6 @@
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=30&sort=pub+date&term=%28%28paleopathology%5BTitle%2FAbstract%5D+OR+paleomicrobiology%5BTitle%2FAbstract%5D+OR+archaeogenetics%5BTitle%2FAbstract%5D+OR+paleogenomics%5BTitle%2FAbstract%5D+OR+%22historical+epidemiology%22%5BTitle%2FAbstract%5D+OR+%22ancient+disease%22%5BTitle%2FAbstract%5D+OR+%22ancient+pathogen%22%5BTitle%2FAbstract%5D%29+AND+%28infectious%5BTitle%2FAbstract%5D+OR+pathogen%5BTitle%2FAbstract%5D+OR+epidemic%5BTitle%2FAbstract%5D+OR+plague%5BTitle%2FAbstract%5D+OR+tuberculosis%5BTitle%2FAbstract%5D+OR+leprosy%5BTitle%2FAbstract%5D+OR+treponemal%5BTitle%2FAbstract%5D+OR+syphilis%5BTitle%2FAbstract%5D+OR+cholera%5BTitle%2FAbstract%5D+OR+smallpox%5BTitle%2FAbstract%5D+OR+variola%5BTitle%2FAbstract%5D+OR+salmonella%5BTitle%2FAbstract%5D%29%29&datetype=pdat&mindate=2026-06-03&maxdate=2026-06-09",
-      "source": "PubMed Historical Epidemiology",
-      "source_type": "pubmed"
     }
   ]
 }
