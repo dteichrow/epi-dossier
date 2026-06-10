@@ -1,44 +1,32 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-10
-Generated at: 2026-06-10T16:00
+Generated at: 2026-06-10T16:17
 Search window: 7 day(s) ending 2026-06-10
 
 ## Executive scan
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-10T22:33+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-10T23:08+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [mHealth-supported tuberculosis contact investigation by community health workers in high-burden countries: a scoping review.](https://pubmed.ncbi.nlm.nih.gov/42261846/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
 - [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Driven to End Malaria: Now We Can. Now We Must.](https://www.afro.who.int/countries/eswatini/news/driven-end-malaria-now-we-can-now-we-must) (WHO Regional Office for Africa; 2026-06-04T07:46+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (154), Policy, surveillance, and public health infrastructure (12), Major epidemiology studies (4)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (149), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (4)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 127 item(s) across 92 source(s).
-- Baseline snapshot created with 127 clustered item(s) across 92 source(s).
+- Newly tracked story cluster: 154 item(s) across 104 source(s).
+- Baseline snapshot created with 154 clustered item(s) across 104 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
-### Measles transmission and vaccination
-- Lead item: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR)
-- Newly tracked story cluster: 32 item(s) across 30 source(s).
-- Baseline snapshot created with 32 clustered item(s) across 30 source(s).
-- CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 4 item(s) across 4 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
-### Avian influenza and H5N1
-- Lead item: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Tuberculosis and antimicrobial resistance
@@ -50,35 +38,27 @@ Search window: 7 day(s) ending 2026-06-10
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 127 item(s) across 92 source(s); 3 official/primary-source item(s).
-- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-10T22:33+00:00)
+- Topic size: 154 item(s) across 104 source(s); 3 official/primary-source item(s).
+- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-10T23:08+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Video World Cup health plans ramp up amid Ebola outbreak concerns - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133762858/) (ABC News - Breaking News, Latest News and Videos); [Congo’s Ebola outbreak spreads to new health zone](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-635-2026-06-10/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Measles transmission and vaccination
-- Topic size: 32 item(s) across 30 source(s); 2 official/primary-source item(s).
-- Lead item: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR, 2026-06-04T17:00+00:00)
-- Detailed note: Sugerman, MD 5 ; Carolyn Crisp, PhD 6 ,7 ; Gretchen Rodriguez, MPH 7 ; Thi Dang, MPH 7 ; Diana Martinez, PhD 7 ; Saroj Rai, PhD 7 ; Varun Shetty, MD 7 ; Ashley Meehan, MPH 8 ; Susan Hocevar Adkins, MD 8 ; Thomas D. Ly, PhD 1 ,2 ; Amanda Shotts, MPH 3 ; Tiffany Torres, MPH 3 ; Georgina Peacock, MD 4 ; David E.
-- Evidence notes: [Measles Outbreak in a Child Care Facility](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694) (CDC MMWR); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [US measles cases pass 2,000 this year as outbreak nears worst in decades](https://www.theguardian.com/us-news/2026/jun/10/measles-us-spike) (The Guardian); [Measles infection confirmed in another Utah county, elementary students may have been exposed](https://news.google.com/rss/articles/CBMidEFVX3lxTE9PZ0s0SDU0TlFMd01hUGhxLW1PVHRaR05fNk9lVE1YeFozUWd1cU9JSFJGb1VyNG5sdXBhYTJseFVKUmJBTlBhcmdTZEJGTV9nZl9BVm9uU09KY1RNamcxMFFDUEItUUJxZGZHVFhnQ25uMXA3?oc=5) (The Salt Lake Tribune); [Opinion | Rising measles cases offer a dire warning](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHBYOVJyMHV6cVl1QnJmZG11akFmR0NjZVF6QWt4ODdNQl95cWxkNDd2UTVzT1YtZ09ZN2ZRLXRMNkpIR1liRGxIQWh4OG9EMk9BT2JGQmlCRjRZM3BmcVVScUMzWm5XYVdmaEV0Y0UtVDJ1SjhzazR4Y1dmZF9LUk15X2R3bUpqUlhsVWF4N0h0Q29qd3hVcHVmTjRoamgwRUpVU0JEdw?oc=5) (The Washington Post)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+### Miscellaneous signals
+- Topic size: 6 item(s) across 2 source(s); 6 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks, 2026-06-10T14:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Occupational and environmental epidemiology
 - Topic size: 4 item(s) across 4 source(s); 3 official/primary-source item(s).
 - Lead item: [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa, 2026-06-05T12:16+00:00)
-- Detailed note: Prusinski 2, *; Sai Gubbala, MS 1 ; Jennifer White, MPH 2 ; Dowd Naik 2 ; Jamie Sommer, MS 2 ; Danielle Wroblewski, MS 1 ( View author affiliations ) Borrelia mayonii is a pathogen that has been indicated as a causative agent of Lyme disease and identified in humans and ticks in Minnesota and Wisconsin. In pre-exposure experiments, AL at maximum non-cytotoxic concentration (300 µg/mL) was more effective than AU,...
+- Detailed note: In pre-exposure experiments, AL at maximum non-cytotoxic concentration (300 µg/mL) was more effective than AU, achieving 83·3-97·4% clearance in all cell lines within 30 min. AU showed time-dependent killing with clearance of ≥95% for FA1090 and ≥88% for WHO-R at 120 min at 150 and 108 µg/mL (MICx3) respectively. Publications elombatd@who.int Fri, 05/06/2026 - 13:16 The African continent continues to face an...
 - Evidence notes: [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa); [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR); [Fatty acids-based compounds as novel prophylaxis or treatment for oropharyngeal Neisseria gonorrhoeae: an in vitro study.](https://pubmed.ncbi.nlm.nih.gov/42175634/) (PubMed Infectious Disease Search); [Legionnaires' case confirmed at Bloomfield Hills nursing facility](https://www.wxyz.com/videos/news/region/oakland-county/legionnaires-case-confirmed-at-bloomfield-hills-nursing-facility) (WXYZ Channel 7)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Avian influenza and H5N1
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
-- Lead item: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search, 2026-06-04T00:00)
-- Detailed note: This new clade is phylogenetically distinct from the previously described clades, and the representative strains in this new Clade 4.6.20 presented a low cross reactivity to the antisera of other clades, suggesting antigenic drift of the viruses between the new Clade 4.6.20, and other clades in the dominant lineage of Clade 4.6. Using the established H9N2 genomic classification system, a novel HA gene clade of...
-- Evidence notes: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search); [Vietnam remains on alert for emerging avian influenza variants](https://avinews.com/en/vietnam-remains-on-alert-for-emerging-avian-influenza-variants/) (avinews.com); [H5N1 Bird Flu Confirmed in Poultry Across 12 States — Dallas's Egg and Poultry Supply Chain Faces Disruption and Food Price Pressure as Summer Heats Up](https://www.medicaldaily.com/h5n1-bird-flu-poultry-12-states-dallas-food-supply-2026-475559) (Medical Daily)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
@@ -96,6 +76,14 @@ Search window: 7 day(s) ending 2026-06-10
 - Evidence notes: [Ghaziabad on alert after poliovirus detected in sewage sample](https://timesofindia.indiatimes.com/city/ghaziabad/ghaziabad-on-alert-after-poliovirus-detected-in-sewage-sample/articleshow/131640193.cms) (The Times of India); [Technical Advisory Group sets priorities and benchmarks to end polio in Afghanistan and Pakistan](https://polioeradication.org/news/technical-advisory-group-sets-priorities-and-benchmarks-to-end-polio-in-afghanistan-and-pakistan/) (Global Polio Eradication)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
+### Avian influenza and H5N1
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Lead item: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search, 2026-06-04T00:00)
+- Detailed note: This new clade is phylogenetically distinct from the previously described clades, and the representative strains in this new Clade 4.6.20 presented a low cross reactivity to the antisera of other clades, suggesting antigenic drift of the viruses between the new Clade 4.6.20, and other clades in the dominant lineage of Clade 4.6. Using the established H9N2 genomic classification system, a novel HA gene clade of...
+- Evidence notes: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search); [H5N1 Bird Flu Confirmed in Poultry Across 12 States — Dallas's Egg and Poultry Supply Chain Faces Disruption and Food Price Pressure as Summer Heats Up](https://www.medicaldaily.com/h5n1-bird-flu-poultry-12-states-dallas-food-supply-2026-475559) (Medical Daily)
+- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -328,12 +316,62 @@ Search window: 7 day(s) ending 2026-06-10
 ## Highest priority items
 ### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-06-10T22:33+00:00
+- Date: 2026-06-10T23:08+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-10T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1380 with date posted 6/3/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Requeson/Soft Ricotta Cheese.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-10T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1358 with date posted 1/14/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Moringa Leaf Powder.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-10T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1369 with date posted 3/16/2026. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Raw Cheddar Cheese.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-10T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1365 with date posted 2/11/2026. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Moringa Powder.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-10T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1350 with date posted 11/8/2025. Outbreak or event status: Ended See Advisory. Pathogen or cause of illness: Clostridium botulinum.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 ### mHealth-supported tuberculosis contact investigation by community health workers in high-burden countries: a scoping review.
@@ -371,79 +409,31 @@ Search window: 7 day(s) ending 2026-06-10
 - Date: 2026-06-04T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695
 - Category: Occupational and environmental epidemiology
-- Summary: Prusinski 2, *; Sai Gubbala, MS 1 ; Jennifer White, MPH 2 ; Dowd Naik 2 ; Jamie Sommer, MS 2 ; Danielle Wroblewski, MS 1 ( View author affiliations ) Borrelia mayonii is a pathogen that has been indicated as a causative agent of Lyme disease and identified in humans and ticks in Minnesota and Wisconsin. This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California. In July 2025, a New York resident with no reported travel received a positive B.
+- Summary: This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Measles Outbreak in a Child Care Facility
-- Source: CDC MMWR
-- Date: 2026-06-04T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765694
-- Category: Occupational and environmental epidemiology
-- Summary: Sugerman, MD 5 ; Carolyn Crisp, PhD 6 ,7 ; Gretchen Rodriguez, MPH 7 ; Thi Dang, MPH 7 ; Diana Martinez, PhD 7 ; Saroj Rai, PhD 7 ; Varun Shetty, MD 7 ; Ashley Meehan, MPH 8 ; Susan Hocevar Adkins, MD 8 ; Thomas D. Ly, PhD 1 ,2 ; Amanda Shotts, MPH 3 ; Tiffany Torres, MPH 3 ; Georgina Peacock, MD 4 ; David E. Weekly / June 4, 2026 / 75(21);266â270 Anh N.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Driven to End Malaria: Now We Can. Now We Must.
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-04T07:46+00:00
-- URL: https://www.afro.who.int/countries/eswatini/news/driven-end-malaria-now-we-can-now-we-must
-- Category: Outbreaks and emerging infections
-- Summary: To date, 47 countries have been certified malaria-free including two in 2024 and three in 2025 while 37 countries reported fewer than 1,000 cases in 2024 alone. Since 2000, 2.3 billion malaria cases and 14 million deaths have been averted worldwide. 01 June 2026 amimos@who.int Thu, 04/06/2026 - 08:46 World Malaria Day is a powerful global moment to reflect on the progress, renew commitment, and accelerate action to end malaria - one of the most preventable yet deadly diseases.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.
-- Source: PubMed Historical Epidemiology
-- Date: 2026-06-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42241447/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are effective for early detection of potential TB cases and high-risk patients, thereby helping to reduce TB transmission in the community. While nearly all hospital-based TB cases in Kampala, the capital of Uganda, show clear TB symptoms, 30% or more of undiagnosed TB cases found through active screening are asymptomatic.
-- Why it matters: Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### A new clade of H9N2 avian influenza virus circulating in Laos.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-06-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42243068/
-- Category: Major epidemiology studies
-- Summary: This new clade is phylogenetically distinct from the previously described clades, and the representative strains in this new Clade 4.6.20 presented a low cross reactivity to the antisera of other clades, suggesting antigenic drift of the viruses between the new Clade 4.6.20, and other clades in the dominant lineage of Clade 4.6. Using the established H9N2 genomic classification system, a novel HA gene clade of the A/chicken/Beijing/1/94-like (BJ/94-like) lineage, designated Clade 4.6.20, was identified. In addition, all the newly identified viruses in Clade 4.6.20 possessed HA-L226 and NP-N52 mutations, which are associated with human-type receptor binding and human MxA-related innate immunity escape, respectively.
-- Why it matters: Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-06-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42255156/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Limited usable detail remained after boilerplate cleanup.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) | PubMed Historical Epidemiology | 2026-06-04T00:00 | Historical epidemiology / ancient disease / paleopathology
+  These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are effective for early detection of potential TB cases and high-risk patients, thereby helping to reduce TB transmission in the community. While nearly all hospital-based TB cases in Kampala, the capital of Uganda, show clear TB symptoms, 30% or more of undiagnosed TB cases found through active screening are asymptomatic.
+- [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) | PubMed Infectious Disease Search | 2026-06-04T00:00 | Major epidemiology studies
+  This new clade is phylogenetically distinct from the previously described clades, and the representative strains in this new Clade 4.6.20 presented a low cross reactivity to the antisera of other clades, suggesting antigenic drift of the viruses between the new Clade 4.6.20, and other clades in the dominant lineage of Clade 4.6. Using the established H9N2 genomic classification system, a novel HA gene clade of the A/chicken/Beijing/1/94-like (BJ/94-like) lineage, designated Clade 4.6.20, was identified. In addition, all the newly identified viruses in Clade 4.6.20 possessed HA-L226 and NP-N52 mutations, which are associated with human-type receptor binding and human MxA-related innate immunity escape, respectively.
+- [Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.](https://pubmed.ncbi.nlm.nih.gov/42255156/) | PubMed Historical Pathogen Case Studies | 2026-06-04T00:00 | Historical epidemiology / ancient disease / paleopathology
+  Limited usable detail remained after boilerplate cleanup.
 - [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) | WHO Regional Office for Africa | 2026-05-31T19:07+00:00 | Outbreaks and emerging infections
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
-- [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Video World Cup health plans ramp up amid Ebola outbreak concerns - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133762858/) | ABC News - Breaking News, Latest News and Videos | 2026-06-10T22:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo’s Ebola outbreak spreads to new health zone](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-635-2026-06-10/) | Reuters | 2026-06-10T21:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video: Recovered orphans leave an Ebola treatment center in Congo](https://www.livetube.tv/news/video-recovered-orphans-leave-an-ebola-treatment-center-in-congo) | LiveTube | 2026-06-10T19:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US measles cases pass 2,000 this year as outbreak nears worst in decades](https://www.theguardian.com/us-news/2026/jun/10/measles-us-spike) | The Guardian | 2026-06-10T18:09+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://www.reuters.com/video/watch/idRW772910062026RP1/) | Reuters | 2026-06-10T17:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) | CIDRAP | 2026-06-10T12:20-05:00 | Outbreaks and emerging infections
   An analysis indicates that health and development programs in 29 countries could see a more than $4 billion drop in funding from the US government and the Global Fund by 2029.
+- [Recovered orphans leave an Ebola treatment center in Congo’s Bunia](https://www.theaustralian.com.au/news/recovered-orphans-leave-an-ebola-treatment-center-in-congos-bunia/video/f2a959ac94189b782d5cb3024723a02c) | The Australian | 2026-06-10T17:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ghaziabad on alert after poliovirus detected in sewage sample](https://timesofindia.indiatimes.com/city/ghaziabad/ghaziabad-on-alert-after-poliovirus-detected-in-sewage-sample/articleshow/131640193.cms) | The Times of India | 2026-06-10T16:56+00:00 | Outbreaks and emerging infections
   Our mission is to curate, report, and deliver city news that matters to readers of The Times of India. Our team works tirelessly to keep readers informed about the latest developments, ensuring that they are connected to the heartbeat of cities across India, right when it happens. With a keen focus on urban life, governance, culture, and local issues, we provide a comprehensive view of the ever-evolving cityscapes.
 - [EU Rebuffs US Call for Travel Bans to Contain Ebola Outbreak](https://www.bloomberg.com/news/articles/2026-06-10/eu-rebuffs-us-call-for-travel-bans-to-contain-ebola-outbreak) | Bloomberg.com | 2026-06-10T16:11+00:00 | Outbreaks and emerging infections
@@ -452,7 +442,11 @@ Search window: 7 day(s) ending 2026-06-10
   Limited detail was available from feed metadata alone.
 - [Belgium rejects US World Cup demand for Congo travel ban amid Ebola outbreak](https://www.politico.eu/article/belgium-frank-vandenbroucke-us-world-cup-congo-travel-ban-ebola/) | politico.eu | 2026-06-10T12:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) | NBC News | 2026-06-10T12:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Supporting older people through the Ebola outbreak in Uganda](https://www.helpage.org/news/supporting-older-people-through-the-ebola-outbreak-in-uganda/) | HelpAge International | 2026-06-10T10:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [US urges Europe to impose travel restrictions over Ebola outbreak in Central Africa](https://eastleighvoice.co.ke/world/365492/us-urges-europe-to-impose-travel-restrictions-over-ebola-outbreak-in-central-africa?amp\=1) | The Eastleigh Voice | 2026-06-10T09:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya protests US-funded Ebola ward amid fears of ‘double standards’](https://www.newschannel5.com/videos/lifestyle/health/kenya-protests-us-funded-ebola-ward-amid-fears-of-double-standards) | News Channel 5 Nashville | 2026-06-10T08:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -461,12 +455,6 @@ Search window: 7 day(s) ending 2026-06-10
 - [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) | The Japan Times | 2026-06-10T01:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Anger mounts in Kenya over quarantine center for American patients](https://www.lemonde.fr/en/le-monde-africa/article/2026/06/10/ebola-outbreak-anger-mounts-in-kenya-over-quarantine-center-for-american-patients_6754295_124.html) | Le Monde.fr | 2026-06-09T23:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo says number of confirmed Ebola cases rises to nearly 600](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-nearly-600-2026-06-09/) | Reuters | 2026-06-09T22:09+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) | Ada Derana | 2026-06-09T20:56+00:00 | Outbreaks and emerging infections
-  He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Perera also urged the public to be vigilant about the rising number of influenza cases, stressing that this illness can spread rapidly among children.
-- [Why there's a debate over the new quarantine center for Americans at risk of Ebola](https://www.npr.org/2026/06/09/nx-s1-5850708/ebola-quarantine-u-s-citizens-kenya) | NPR | 2026-06-09T19:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
