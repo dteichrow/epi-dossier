@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-10
-Generated at: 2026-06-10T11:16
+Generated at: 2026-06-10T11:30
 Search window: 7 day(s) ending 2026-06-10
 
 ## Executive scan
