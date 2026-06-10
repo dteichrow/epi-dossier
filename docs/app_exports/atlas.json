@@ -620,7 +620,7 @@
       "related_stories": [
         {
           "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
           "story_id": "story_28a91c6d89267872",
           "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
           "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
@@ -1825,6 +1825,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-10T10:40:21",
-  "run_id": "run_8733a6ac46016661"
+  "generated_at": "2026-06-10T10:50:37",
+  "run_id": "run_7d728fbe62a4e971"
 }

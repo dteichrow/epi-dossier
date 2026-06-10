@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-10
-Generated at: 2026-06-10T10:40
+Generated at: 2026-06-10T10:50
 Search window: 7 day(s) ending 2026-06-10
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-10
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Notes from the Field: Borrelia mayonii Lyme Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765695) (CDC MMWR; 2026-06-04T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Tuberculosis in households with infectious cases in Kampala city: Harnessing health data science for new insights on an ancient disease with persistent, unresolved problems.](https://pubmed.ncbi.nlm.nih.gov/42241447/) (PubMed Historical Epidemiology; 2026-06-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (139), Policy, surveillance, and public health infrastructure (16), Occupational and environmental epidemiology (5)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (140), Policy, surveillance, and public health infrastructure (16), Occupational and environmental epidemiology (5)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -31,8 +31,8 @@ Search window: 7 day(s) ending 2026-06-10
 
 ### Avian influenza and H5N1
 - Lead item: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Tuberculosis and antimicrobial resistance
@@ -47,7 +47,7 @@ Search window: 7 day(s) ending 2026-06-10
 - Topic size: 150 item(s) across 103 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-06-04T18:25+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://www.yahoo.com/news/videos/recovered-orphans-leave-ebola-treatment-170115804.html) (Yahoo); [EU Rebuffs US Call for Travel Bans to Contain Ebola Outbreak](https://www.bloomberg.com/news/articles/2026-06-10/eu-rebuffs-us-call-for-travel-bans-to-contain-ebola-outbreak) (Bloomberg.com)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://www.reuters.com/video/watch/idRW772910062026RP1/?chan\=health) (Reuters); [EU Rebuffs US Call for Travel Bans to Contain Ebola Outbreak](https://www.bloomberg.com/news/articles/2026-06-10/eu-rebuffs-us-call-for-travel-bans-to-contain-ebola-outbreak) (Bloomberg.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -60,11 +60,11 @@ Search window: 7 day(s) ending 2026-06-10
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Avian influenza and H5N1
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search, 2026-06-04T00:00)
 - Detailed note: This new clade is phylogenetically distinct from the previously described clades, and the representative strains in this new Clade 4.6.20 presented a low cross reactivity to the antisera of other clades, suggesting antigenic drift of the viruses between the new Clade 4.6.20, and other clades in the dominant lineage of Clade 4.6. Using the established H9N2 genomic classification system, a novel HA gene clade of...
-- Evidence notes: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search); [H5N1 Bird Flu Confirmed in Poultry Across 12 States — Dallas's Egg and Poultry Supply Chain Faces Disruption and Food Price Pressure as Summer Heats Up](https://www.medicaldaily.com/h5n1-bird-flu-poultry-12-states-dallas-food-supply-2026-475559) (Medical Daily); [CDC Reports Cat-to-Human H5N1 Transmission](https://news.google.com/rss/articles/CBMitwFBVV95cUxQOU1ZOFpta0JwQ0dmeUlXR1NaN01oMTRNTFRmX04yNnhRNjh0Zzg0eW9pOG9jbmZhRU1CaU9peVp3Yi1vTGI1Yldycnp1cmtWWnRVa255NmVjdjdWVTFNWTBraVgwZkNseDNYSnJGbE85bllMcEtBa3BvNU5oUE9VZDY4M3pHUGFSQllLc1UzaXhZajE1UzZUUlplYzMyS0pUVkwwbzZ1b2lvV2ZYYVc4TGxWWjJJSGc?oc=5) (respiratory-therapy.com)
-- Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing.
+- Evidence notes: [A new clade of H9N2 avian influenza virus circulating in Laos.](https://pubmed.ncbi.nlm.nih.gov/42243068/) (PubMed Infectious Disease Search); [Vietnam remains on alert for emerging avian influenza variants](https://avinews.com/en/vietnam-remains-on-alert-for-emerging-avian-influenza-variants/) (avinews.com); [H5N1 Bird Flu Confirmed in Poultry Across 12 States — Dallas's Egg and Poultry Supply Chain Faces Disruption and Food Price Pressure as Summer Heats Up](https://www.medicaldaily.com/h5n1-bird-flu-poultry-12-states-dallas-food-supply-2026-475559) (Medical Daily); [CDC Reports Cat-to-Human H5N1 Transmission](https://news.google.com/rss/articles/CBMitwFBVV95cUxQOU1ZOFpta0JwQ0dmeUlXR1NaN01oMTRNTFRmX04yNnhRNjh0Zzg0eW9pOG9jbmZhRU1CaU9peVp3Yi1vTGI1Yldycnp1cmtWWnRVa255NmVjdjdWVTFNWTBraVgwZkNseDNYSnJGbE85bllMcEtBa3BvNU5oUE9VZDY4M3pHUGFSQllLc1UzaXhZajE1UzZUUlplYzMyS0pUVkwwbzZ1b2lvV2ZYYVc4TGxWWjJJSGc?oc=5) (respiratory-therapy.com)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
@@ -426,7 +426,7 @@ Search window: 7 day(s) ending 2026-06-10
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://www.yahoo.com/news/videos/recovered-orphans-leave-ebola-treatment-170115804.html) | Yahoo | 2026-06-10T17:01+00:00 | Outbreaks and emerging infections
+- [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://www.reuters.com/video/watch/idRW772910062026RP1/?chan\=health) | Reuters | 2026-06-10T17:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ghaziabad on alert after poliovirus detected in sewage sample](https://timesofindia.indiatimes.com/city/ghaziabad/ghaziabad-on-alert-after-poliovirus-detected-in-sewage-sample/articleshow/131640193.cms) | The Times of India | 2026-06-10T16:56+00:00 | Outbreaks and emerging infections
   Our mission is to curate, report, and deliver city news that matters to readers of The Times of India. Our team works tirelessly to keep readers informed about the latest developments, ensuring that they are connected to the heartbeat of cities across India, right when it happens. With a keen focus on urban life, governance, culture, and local issues, we provide a comprehensive view of the ever-evolving cityscapes.
