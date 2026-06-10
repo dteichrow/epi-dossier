@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-10
-Generated at: 2026-06-10T08:59
+Generated at: 2026-06-10T09:17
 Search window: 7 day(s) ending 2026-06-10
 
 ## Executive scan
@@ -432,6 +432,8 @@ Search window: 7 day(s) ending 2026-06-10
   A recent sample taken from the Dundahera STP was sent for laboratory testing, and the report confirmed the presence of the VDPV-1 strain. Authorities are closely monitoring the situation and strengthening surveillance measures to prevent any potential spread of the virus. As a precaution, officials have ordered enhanced surveillance, door-to-door surveys, and a review of immunisation coverage in the affected areas.
 - [Belgium rejects US World Cup demand for Congo travel ban amid Ebola outbreak](https://www.politico.eu/article/belgium-frank-vandenbroucke-us-world-cup-congo-travel-ban-ebola/) | politico.eu | 2026-06-10T12:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Supporting older people through the Ebola outbreak in Uganda](https://www.helpage.org/news/supporting-older-people-through-the-ebola-outbreak-in-uganda/) | HelpAge International | 2026-06-10T10:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [US urges Europe to impose travel restrictions over Ebola outbreak in Central Africa](https://eastleighvoice.co.ke/world/365492/us-urges-europe-to-impose-travel-restrictions-over-ebola-outbreak-in-central-africa?amp\=1) | The Eastleigh Voice | 2026-06-10T09:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya protests US-funded Ebola ward amid fears of ‘double standards’](https://www.newschannel5.com/videos/lifestyle/health/kenya-protests-us-funded-ebola-ward-amid-fears-of-double-standards) | News Channel 5 Nashville | 2026-06-10T08:21+00:00 | Outbreaks and emerging infections
@@ -459,8 +461,6 @@ Search window: 7 day(s) ending 2026-06-10
 - [Ebola outbreak expands across DRC and Uganda](https://www.openaccessgovernment.org/ebola-outbreak-expands-across-drc-and-uganda/210305/) | Open Access Government | 2026-06-09T12:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola contact tracing is below target but has improved, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-contact-tracing-is-below-target-has-improved-who-says-2026-06-09/) | Reuters | 2026-06-09T10:55+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [WHO warns Ebola outbreak expanding fast in DRC to Uganda](https://vovworld.vn/news/who-warns-ebola-outbreak-expanding-fast-in-drc-to-uganda-2441326.vov5) | VOV World | 2026-06-09T10:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
