@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T06:16
+Generated at: 2026-06-11T06:48
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T13:09+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T13:46+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
@@ -12,22 +12,21 @@ Search window: 7 day(s) ending 2026-06-11
 - [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (142), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (123), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 143 item(s) across 99 source(s).
-- Baseline snapshot created with 143 clustered item(s) across 99 source(s).
+- Newly tracked story cluster: 123 item(s) across 86 source(s).
+- Baseline snapshot created with 123 clustered item(s) across 86 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- Al Jazeera now explicitly uses investigation or monitoring language.
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Ada Derana now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -39,8 +38,8 @@ Search window: 7 day(s) ending 2026-06-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 143 item(s) across 99 source(s); 3 official/primary-source item(s).
-- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T13:09+00:00)
+- Topic size: 123 item(s) across 86 source(s); 3 official/primary-source item(s).
+- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T13:46+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://www.euronews.com/video/2026/06/11/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear) (Euronews.com); [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) (The National Interest)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -55,10 +54,10 @@ Search window: 7 day(s) ending 2026-06-11
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Dengue and arboviruses
-- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition, 2026-06-11T09:25+00:00)
-- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. list 1 of 4 Global warming,...
-- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Why India’s deadly dengue crisis is now no longer confined to the monsoons](https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons) (Al Jazeera); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Dengue Fever Cases Surge in Yemen's Aden: 12 Deaths Reported](https://yemenonline.info/special-reports/12754) (Yemen Online)
+- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. He warned that dengue can be...
+- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Dengue Fever Cases Surge in Yemen's Aden: 12 Deaths Reported](https://yemenonline.info/special-reports/12754) (Yemen Online)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -78,12 +77,12 @@ Search window: 7 day(s) ending 2026-06-11
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Hantavirus and cruise-ship outbreak
+### Measles transmission and vaccination
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) (CIDRAP, 2026-06-10T12:20-05:00)
-- Detailed note: An analysis indicates that health and development programs in 29 countries could see a more than $4 billion drop in funding from the US government and the Global Fund by 2029.
-- Evidence notes: [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) (CIDRAP)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Lead item: [Measles kills hundreds in Bangladesh, but a large-scale vaccine roll-out brings hope](https://www.gavi.org/vaccineswork/measles-kills-hundreds-bangladesh-large-scale-vaccine-roll-out-brings-hope) (Gavi, the Vaccine Alliance, 2026-06-11T13:42+00:00)
+- Detailed note: Transmission continues, with 933 new patients admitted on hospital ledgers in the 24 hours to 08:00 on 9 June.</p><p>This hospital alone has treated 1,133 measles patients and lost 42 to the virus since January. Now, measles is a static situation in Bangladesh.”</p><aside class="pquote"><blockquote><p>We have inoculated 102% of the children of our target.</p></blockquote><p>- Dr Hasanul Mahmud, Assistant Director...
+- Evidence notes: [Measles kills hundreds in Bangladesh, but a large-scale vaccine roll-out brings hope](https://www.gavi.org/vaccineswork/measles-kills-hundreds-bangladesh-large-scale-vaccine-roll-out-brings-hope) (Gavi, the Vaccine Alliance)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -317,7 +316,7 @@ Search window: 7 day(s) ending 2026-06-11
 ## Highest priority items
 ### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-06-11T13:09+00:00
+- Date: 2026-06-11T13:46+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -405,27 +404,29 @@ Search window: 7 day(s) ending 2026-06-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear
-- Source: Euronews.com
-- Date: 2026-06-11T11:22+00:00
-- URL: https://www.euronews.com/video/2026/06/11/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear
+### Measles kills hundreds in Bangladesh, but a large-scale vaccine roll-out brings hope
+- Source: Gavi, the Vaccine Alliance
+- Date: 2026-06-11T13:42+00:00
+- URL: https://www.gavi.org/vaccineswork/measles-kills-hundreds-bangladesh-large-scale-vaccine-roll-out-brings-hope
 - Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
+- Summary: Transmission continues, with 933 new patients admitted on hospital ledgers in the 24 hours to 08:00 on 9 June.</p><p>This hospital alone has treated 1,133 measles patients and lost 42 to the virus since January. Now, measles is a static situation in Bangladesh.”</p><aside class="pquote"><blockquote><p>We have inoculated 102% of the children of our target.</p></blockquote><p>- Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS</p></aside><p>WHO, meanwhile, linked the declines in coverage to gaps in routine immunisation and the absence of regular, nationwide supplementary MR campaigns since 2020, which were compounded by stockouts of the vaccine in the country in 2024-2025."</p><h3>Fire-fighting with vaccines</h3><p>Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS, said under the directive of the health ministry the EPI mapped out a microplan for a nationwide MR vaccination drive. “We missed [her appointment for the] first dose of the MR vaccine due to her illness,” said her mother.</p><p>Bangladesh has been battling a large-scale measles outbreak, with 66,170 suspected measles patients admitted to hospitals across the country between 15 March and 9 June.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://www.euronews.com/video/2026/06/11/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear) | Euronews.com | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) | SGGP English Edition | 2026-06-11T09:25+00:00 | Outbreaks and emerging infections
   In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. More worryingly, the DENV-2 serotype is currently dominant, increasing the risk of severe cases, Dr.
 - [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) | The National Interest | 2026-06-11T06:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Why India’s deadly dengue crisis is now no longer confined to the monsoons](https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons) | Al Jazeera | 2026-06-11T05:45+00:00 | Outbreaks and emerging infections
-  list 1 of 4 Global warming, longer monsoon rains making dengue deadlier in South Asia Like many Indians, the 32-year-old software engineer from Gurugram, a business district outside New Delhi, had grown up believing dengue was a disease that arrived with the rains and disappeared once the monsoon season ended. Gurugram, India — When Nitin Sharma developed a high fever in May, dengue was the last thing on his mind.
 - [Congo's Ebola outbreak spreads to new health zone](https://www.redlakenationnews.com/story/2026/06/11/news/congos-ebola-outbreak-spreads-to-new-health-zone/140834.html) | Red Lake Nation News | 2026-06-11T02:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video World Cup health plans ramp up amid Ebola outbreak concerns - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133762858/) | ABC News - Breaking News, Latest News and Videos | 2026-06-10T22:18+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [U.S. pumps fresh $20m into Ebola fight as outbreak threatens region](https://pmnewsnigeria.com/2026/06/10/u-s-pumps-fresh-20m-into-ebola-fight-as-outbreak-threatens-region/) | PM News Nigeria | 2026-06-10T18:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://www.reuters.com/video/watch/idRW772910062026RP1/) | Reuters | 2026-06-10T17:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -436,8 +437,6 @@ Search window: 7 day(s) ending 2026-06-11
 - [Saint Lucia Strengthens National Preparedness Systems Amid Global Ebola Virus Disease Outbreak](https://thevoiceslu.com/2026/06/saint-lucia-strengthens-national-preparedness-systems-amid-global-ebola-virus-disease-outbreak/) | The Voice St. Lucia News | 2026-06-10T15:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) | NBC News | 2026-06-10T12:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [US urges Europe to impose travel restrictions over Ebola outbreak in Central Africa](https://eastleighvoice.co.ke/world/365492/us-urges-europe-to-impose-travel-restrictions-over-ebola-outbreak-in-central-africa?amp\=1) | The Eastleigh Voice | 2026-06-10T09:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya protests US-funded Ebola ward amid fears of ‘double standards’](https://www.turnto23.com/videos/news/national-news/kenya-protests-us-funded-ebola-ward-amid-fears-of-double-standards) | 23ABC News Bakersfield | 2026-06-10T08:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
