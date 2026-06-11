@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T09:40
+Generated at: 2026-06-11T09:49
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-11
 - [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (138), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (138), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 142 item(s) across 105 source(s).
-- Baseline snapshot created with 142 clustered item(s) across 105 source(s).
+- Newly tracked story cluster: 141 item(s) across 104 source(s).
+- Baseline snapshot created with 141 clustered item(s) across 104 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-06-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 142 item(s) across 105 source(s); 3 official/primary-source item(s).
+- Topic size: 141 item(s) across 104 source(s); 3 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T16:32+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) (Yahoo News Singapore); [Mass. health officials monitoring Ebola outbreak in Africa](https://www.newburyportnews.com/news/regional_news/mass-health-officials-monitoring-ebola-outbreak-in-africa/article_9a603b2e-dec7-4e63-8323-fea99454b0aa.html) (The Daily News of Newburyport)
@@ -79,10 +79,10 @@ Search window: 7 day(s) ending 2026-06-11
 
 ### Nipah virus disease
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Kerala on alert after suspected Nipah infection detected in Kozhikode, confirms health minister](https://timesofindia.indiatimes.com/india/kerala-on-alert-after-suspected-nipah-infection-detected-in-kozhikode-confirms-health-minister/amp_articleshow/131662205.cms) (The Times of India, 2026-06-11T14:28+00:00)
-- Detailed note: FIFA World Cup 2026: How to watch match replays and highlights in India, the US and across global streaming platforms US-Israel-Iran War News Live Updates: 'We'll negotiate with bombs' - US on Iran strikes as Middle East enters day 3 of renewed fire 'Your father will handle': Vaibhav Sooryavanshi told to stay away from professional managers CJP Pune Protest Live Updates: Cockroach Janta Party to hit streets in...
-- Evidence notes: [Kerala on alert after suspected Nipah infection detected in Kozhikode, confirms health minister](https://timesofindia.indiatimes.com/india/kerala-on-alert-after-suspected-nipah-infection-detected-in-kozhikode-confirms-health-minister/amp_articleshow/131662205.cms) (The Times of India)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Lead item: [Kerala issues alert after suspected Nipah virus infection detected in Kozhikode](https://www.dynamitenews.com/south-india/kerala-issues-alert-after-suspected-nipah-virus-infection-detected-in-kozhikode) (Dynamite News, 2026-06-11T15:47+00:00)
+- Detailed note: These include 58 healthcare workers, 14 family members and five friends. So far, authorities have identified 77 individuals who came into contact with the patient.
+- Evidence notes: [Kerala issues alert after suspected Nipah virus infection detected in Kozhikode](https://www.dynamitenews.com/south-india/kerala-issues-alert-after-suspected-nipah-virus-infection-detected-in-kozhikode) (Dynamite News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -404,13 +404,13 @@ Search window: 7 day(s) ending 2026-06-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Kerala on alert after suspected Nipah infection detected in Kozhikode, confirms health minister
-- Source: The Times of India
-- Date: 2026-06-11T14:28+00:00
-- URL: https://timesofindia.indiatimes.com/india/kerala-on-alert-after-suspected-nipah-infection-detected-in-kozhikode-confirms-health-minister/amp_articleshow/131662205.cms
+### Kerala issues alert after suspected Nipah virus infection detected in Kozhikode
+- Source: Dynamite News
+- Date: 2026-06-11T15:47+00:00
+- URL: https://www.dynamitenews.com/south-india/kerala-issues-alert-after-suspected-nipah-virus-infection-detected-in-kozhikode
 - Category: Outbreaks and emerging infections
-- Summary: FIFA World Cup 2026: How to watch match replays and highlights in India, the US and across global streaming platforms US-Israel-Iran War News Live Updates: 'We'll negotiate with bombs' - US on Iran strikes as Middle East enters day 3 of renewed fire 'Your father will handle': Vaibhav Sooryavanshi told to stay away from professional managers CJP Pune Protest Live Updates: Cockroach Janta Party to hit streets in Pune today; founder Abhijeet Dipke plans more protest if Union education minister stays In case you want to opt out, please click "Do Not Sell or Share My Personal Information" link in the footer of this page. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Summary: These include 58 healthcare workers, 14 family members and five friends. So far, authorities have identified 77 individuals who came into contact with the patient. State Health Minister K Muraleedharan confirmed on Thursday that the patient's initial test result had returned positive, while final confirmation from the Virology Institute is still awaited.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
