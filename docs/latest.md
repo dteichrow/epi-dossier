@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T12:17
+Generated at: 2026-06-11T12:31
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
@@ -57,11 +57,11 @@ Search window: 7 day(s) ending 2026-06-11
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana, 2026-06-09T20:56+00:00)
-- Detailed note: He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected.
-- Evidence notes: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World)
+- Lead item: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World, 2026-06-11T14:58+00:00)
+- Detailed note: Dengue infections rising sharply in early 2026 More severe cases requiring hospital care The latest travel news now frequently includes updates about dengue risks, especially as health authorities track changing outbreak patterns across both cities and coastal tourist regions. He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection....
+- Evidence notes: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -410,6 +410,8 @@ Search window: 7 day(s) ending 2026-06-11
 
 
 ## Other notable readings
+- [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) | Travel And Tour World | 2026-06-11T14:58+00:00 | Outbreaks and emerging infections
+  Dengue infections rising sharply in early 2026 More severe cases requiring hospital care The latest travel news now frequently includes updates about dengue risks, especially as health authorities track changing outbreak patterns across both cities and coastal tourist regions. Authorities report that dengue cases are rising faster than expected, and this is already influencing tourism behaviour, especially in popular destinations.
 - [Measles kills hundreds in Bangladesh, but a large-scale vaccine roll-out brings hope](https://www.gavi.org/vaccineswork/measles-kills-hundreds-bangladesh-large-scale-vaccine-roll-out-brings-hope) | Gavi, the Vaccine Alliance | 2026-06-11T13:42+00:00 | Outbreaks and emerging infections
   Transmission continues, with 933 new patients admitted on hospital ledgers in the 24 hours to 08:00 on 9 June.</p><p>This hospital alone has treated 1,133 measles patients and lost 42 to the virus since January. Now, measles is a static situation in Bangladesh.”</p><aside class="pquote"><blockquote><p>We have inoculated 102% of the children of our target.</p></blockquote><p>- Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS</p></aside><p>WHO, meanwhile, linked the declines in coverage to gaps in routine immunisation and the absence of regular, nationwide supplementary MR campaigns since 2020, which were compounded by stockouts of the vaccine in the country in 2024-2025.</p><h3>Fire-fighting with vaccines</h3><p>Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS, said under the directive of the health ministry the EPI mapped out a microplan for a nationwide MR vaccination drive. “We missed [her appointment for the] first dose of the MR vaccine due to her illness,” said her mother.</p><p>Bangladesh has been battling a large-scale measles outbreak, with 66,170 suspected measles patients admitted to hospitals across the country between 15 March and 9 June.
 - [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) | Yahoo News Singapore | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
@@ -447,8 +449,6 @@ Search window: 7 day(s) ending 2026-06-11
 - [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) | The Japan Times | 2026-06-10T01:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Anger mounts in Kenya over quarantine center for American patients](https://www.lemonde.fr/en/le-monde-africa/article/2026/06/10/ebola-outbreak-anger-mounts-in-kenya-over-quarantine-center-for-american-patients_6754295_124.html) | Le Monde.fr | 2026-06-09T23:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo says number of confirmed Ebola cases rises to nearly 600](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-nearly-600-2026-06-09/) | Reuters | 2026-06-09T22:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
