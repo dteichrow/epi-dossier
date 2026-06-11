@@ -463,7 +463,15 @@
       "reference_name": "Mpox",
       "reference_url": "reference/mpox.html",
       "reference_web_path": "reference/mpox.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Mpox",
+          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
+          "story_id": "story_5681bc9ce748c463",
+          "story_url": "stories/story_5681bc9ce748c463-mpox.html",
+          "story_web_path": "stories/story_5681bc9ce748c463-mpox.html"
+        }
+      ],
       "route_count": 3,
       "slug": "mpox",
       "spread_routes": [
@@ -533,7 +541,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Forest-zone recognition, animal trade jumps, and networked global spread",
       "summary": "Mpox belongs in the atlas because it combines a geographically anchored Central/West African history with abrupt export through wildlife trade and then a very different twenty-first century global transmission pattern.",
       "variant_count": 0,
@@ -1260,7 +1268,15 @@
       "reference_name": "Dengue",
       "reference_url": "reference/dengue.html",
       "reference_web_path": "reference/dengue.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Dengue and arboviruses",
+          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
+          "story_id": "story_ccfeaff28d46baf6",
+          "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
+          "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
+        }
+      ],
       "route_count": 3,
       "slug": "dengue",
       "spread_routes": [
@@ -1330,7 +1346,7 @@
         }
       ],
       "status": "consensus",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Aedes routes, urbanization, and shipping-enabled vector expansion",
       "summary": "Dengue makes the atlas useful for modern readers because it shows how vector range expansion, used-tire shipping, urbanization, and travel can redraw the map without requiring a single ancient origin story.",
       "variant_count": 0,
@@ -1817,6 +1833,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-10T23:50:58",
-  "run_id": "run_dbace69c7c359500"
+  "generated_at": "2026-06-11T00:10:21",
+  "run_id": "run_9f44bfdc2bd5b2f2"
 }
