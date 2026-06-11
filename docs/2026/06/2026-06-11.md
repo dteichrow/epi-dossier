@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T10:06
+Generated at: 2026-06-11T10:10
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-11
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T16:57+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (133), Policy, surveillance, and public health infrastructure (18), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (130), Policy, surveillance, and public health infrastructure (18), Occupational and environmental epidemiology (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 140 item(s) across 104 source(s).
-- Baseline snapshot created with 140 clustered item(s) across 104 source(s).
+- Newly tracked story cluster: 137 item(s) across 102 source(s).
+- Baseline snapshot created with 137 clustered item(s) across 102 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-06-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 140 item(s) across 104 source(s); 3 official/primary-source item(s).
+- Topic size: 137 item(s) across 102 source(s); 3 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T16:57+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) (Yahoo News Singapore); [Mass. health officials monitoring Ebola outbreak in Africa](https://www.newburyportnews.com/news/regional_news/mass-health-officials-monitoring-ebola-outbreak-in-africa/article_9a603b2e-dec7-4e63-8323-fea99454b0aa.html) (The Daily News of Newburyport)
@@ -57,11 +57,11 @@ Search window: 7 day(s) ending 2026-06-11
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World, 2026-06-11T14:58+00:00)
-- Detailed note: Dengue infections rising sharply in early 2026 More severe cases requiring hospital care The latest travel news now frequently includes updates about dengue risks, especially as health authorities track changing outbreak patterns across both cities and coastal tourist regions. He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection....
-- Evidence notes: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana)
+- Lead item: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana, 2026-06-09T20:56+00:00)
+- Detailed note: He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected.
+- Evidence notes: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -412,8 +412,6 @@ Search window: 7 day(s) ending 2026-06-11
 ## Other notable readings
 - [Kerala issues alert after suspected Nipah virus infection detected in Kozhikode](https://www.dynamitenews.com/south-india/kerala-issues-alert-after-suspected-nipah-virus-infection-detected-in-kozhikode) | Dynamite News | 2026-06-11T15:47+00:00 | Outbreaks and emerging infections
   These include 58 healthcare workers, 14 family members and five friends. So far, authorities have identified 77 individuals who came into contact with the patient. State Health Minister K Muraleedharan confirmed on Thursday that the patient's initial test result had returned positive, while final confirmation from the Virology Institute is still awaited.
-- [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) | Travel And Tour World | 2026-06-11T14:58+00:00 | Outbreaks and emerging infections
-  Dengue infections rising sharply in early 2026 More severe cases requiring hospital care The latest travel news now frequently includes updates about dengue risks, especially as health authorities track changing outbreak patterns across both cities and coastal tourist regions. Authorities report that dengue cases are rising faster than expected, and this is already influencing tourism behaviour, especially in popular destinations.
 - [Measles kills hundreds in Bangladesh, but a large-scale vaccine roll-out brings hope](https://www.gavi.org/vaccineswork/measles-kills-hundreds-bangladesh-large-scale-vaccine-roll-out-brings-hope) | Gavi, the Vaccine Alliance | 2026-06-11T13:42+00:00 | Outbreaks and emerging infections
   Transmission continues, with 933 new patients admitted on hospital ledgers in the 24 hours to 08:00 on 9 June.</p><p>This hospital alone has treated 1,133 measles patients and lost 42 to the virus since January. Now, measles is a static situation in Bangladesh.”</p><aside class="pquote"><blockquote><p>We have inoculated 102% of the children of our target.</p></blockquote><p>- Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS</p></aside><p>WHO, meanwhile, linked the declines in coverage to gaps in routine immunisation and the absence of regular, nationwide supplementary MR campaigns since 2020, which were compounded by stockouts of the vaccine in the country in 2024-2025.</p><h3>Fire-fighting with vaccines</h3><p>Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS, said under the directive of the health ministry the EPI mapped out a microplan for a nationwide MR vaccination drive. “We missed [her appointment for the] first dose of the MR vaccine due to her illness,” said her mother.</p><p>Bangladesh has been battling a large-scale measles outbreak, with 66,170 suspected measles patients admitted to hospitals across the country between 15 March and 9 June.
 - [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) | Yahoo News Singapore | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
@@ -449,6 +447,8 @@ Search window: 7 day(s) ending 2026-06-11
 - [What’s changed since the last major Ebola outbreak](https://www.statnews.com/2026/06/09/health-news-whats-changed-since-the-last-ebola-outbreak/) | statnews.com | 2026-06-10T07:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [2026 Ebola outbreak in Central Africa](https://www.britannica.com/event/2026-Ebola-outbreak-in-Central-Africa) | Britannica | 2026-06-10T05:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) | The Japan Times | 2026-06-10T01:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
