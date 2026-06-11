@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T02:21
+Generated at: 2026-06-11T02:42
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T09:09+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T09:29+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
@@ -18,15 +18,15 @@ Search window: 7 day(s) ending 2026-06-11
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 149 item(s) across 100 source(s).
-- Baseline snapshot created with 149 clustered item(s) across 100 source(s).
+- Newly tracked story cluster: 148 item(s) across 100 source(s).
+- Baseline snapshot created with 148 clustered item(s) across 100 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
-- Lead item: [Why India’s deadly dengue crisis is now no longer confined to the monsoons](https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons) (Al Jazeera)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition)
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
 - Al Jazeera now explicitly uses investigation or monitoring language.
 - Ada Derana now includes deaths or fatal cases in the story frame.
 
@@ -39,8 +39,8 @@ Search window: 7 day(s) ending 2026-06-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 149 item(s) across 100 source(s); 3 official/primary-source item(s).
-- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T09:09+00:00)
+- Topic size: 148 item(s) across 100 source(s); 3 official/primary-source item(s).
+- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T09:29+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) (The National Interest); [Ebola Outbreak Congo: Newborn's Death Highlights Child Health Risks](https://www.ndtv.com/health/ebola-outbreak-congo-newborn-death-highlights-child-health-risks-11620716) (NDTV)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -55,12 +55,12 @@ Search window: 7 day(s) ending 2026-06-11
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Why India’s deadly dengue crisis is now no longer confined to the monsoons](https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons) (Al Jazeera, 2026-06-11T05:45+00:00)
-- Detailed note: list 1 of 4 Global warming, longer monsoon rains making dengue deadlier in South Asia Like many Indians, the 32-year-old software engineer from Gurugram, a business district outside New Delhi, had grown up believing dengue was a disease that arrived with the rains and disappeared once the monsoon season ended. He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint...
-- Evidence notes: [Why India’s deadly dengue crisis is now no longer confined to the monsoons](https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons) (Al Jazeera); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Dengue Fever Cases Surge in Yemen's Aden: 12 Deaths Reported](https://yemenonline.info/special-reports/12754) (Yemen Online)
+- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
+- Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition, 2026-06-11T09:25+00:00)
+- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. list 1 of 4 Global warming,...
+- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Why India’s deadly dengue crisis is now no longer confined to the monsoons](https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons) (Al Jazeera); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Dengue Fever Cases Surge in Yemen's Aden: 12 Deaths Reported](https://yemenonline.info/special-reports/12754) (Yemen Online)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
@@ -317,7 +317,7 @@ Search window: 7 day(s) ending 2026-06-11
 ## Highest priority items
 ### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-06-11T09:09+00:00
+- Date: 2026-06-11T09:29+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -405,18 +405,20 @@ Search window: 7 day(s) ending 2026-06-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Kerala on alert as Kozhikode man preliminarily positive for Nipah
-- Source: NewsBytes
-- Date: 2026-06-11T08:14+00:00
-- URL: https://www.newsbytesapp.com/news/india/kerala-on-alert-as-kozhikode-man-preliminarily-positive-for-nipah/tldr
+### Vietnam faces unprecedented dengue surge amid climate shifts
+- Source: SGGP English Edition
+- Date: 2026-06-11T09:25+00:00
+- URL: https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html
 - Category: Outbreaks and emerging infections
-- Summary: According to the World Health Organization, its fatality rate can be pretty high, between 40% and 75%. Kerala has dealt with several outbreaks since 2018; the worst one claimed 17 lives that year. Health Minister K Muralidharan says the government has started contact tracing and isolating people who may have been exposed, including healthcare workers.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage.
+- Summary: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. More worryingly, the DENV-2 serotype is currently dominant, increasing the risk of severe cases, Dr.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Kerala on alert as Kozhikode man preliminarily positive for Nipah](https://www.newsbytesapp.com/news/india/kerala-on-alert-as-kozhikode-man-preliminarily-positive-for-nipah/tldr) | NewsBytes | 2026-06-11T08:14+00:00 | Outbreaks and emerging infections
+  According to the World Health Organization, its fatality rate can be pretty high, between 40% and 75%. Kerala has dealt with several outbreaks since 2018; the worst one claimed 17 lives that year. Health Minister K Muralidharan says the government has started contact tracing and isolating people who may have been exposed, including healthcare workers.
 - [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) | The National Interest | 2026-06-11T06:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Why India’s deadly dengue crisis is now no longer confined to the monsoons](https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons) | Al Jazeera | 2026-06-11T05:45+00:00 | Outbreaks and emerging infections
@@ -455,8 +457,6 @@ Search window: 7 day(s) ending 2026-06-11
   Limited detail was available from feed metadata alone.
 - [Congo says number of confirmed Ebola cases rises to nearly 600](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-nearly-600-2026-06-09/) | Reuters | 2026-06-09T22:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) | Ada Derana | 2026-06-09T20:56+00:00 | Outbreaks and emerging infections
-  He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Perera also urged the public to be vigilant about the rising number of influenza cases, stressing that this illness can spread rapidly among children.
 
 ## Papers worth saving
 - [Fatty acids-based compounds as novel prophylaxis or treatment for oropharyngeal Neisseria gonorrhoeae: an in vitro study.](https://pubmed.ncbi.nlm.nih.gov/42175634/)
