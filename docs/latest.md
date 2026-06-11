@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T16:21
+Generated at: 2026-06-11T16:31
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
@@ -451,9 +451,9 @@ Search window: 7 day(s) ending 2026-06-11
   He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Perera also urged the public to be vigilant about the rising number of influenza cases, stressing that this illness can spread rapidly among children.
 - [Why there's a debate over the new quarantine center for Americans at risk of Ebola](https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3hXNXNSZmpEb1o1eTZIR1IyTzMxcGFGMXNyR2N6N3NHT0FVempfWEVCQ3UyaUpCQW1HRGw4bkxZSDRRa0I1d2F1SWxCQ1kySEE3Q2xKSVVLS3YyUnYxTmFPNFJQNWtWWGx6d2cwM2lLZFVybTBNVGU1SmRZandzNGQ2eEdkOUk?oc=5) | NPR | 2026-06-09T19:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Man reportedly shot at Kenya protest against US Ebola quarantine centre](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ybmJsU3VwSm9ueklaZnNwY1oyOWZPeUpObkZMZlZtY0VxYjlYWVM4Z0RlYll0Rkt0SUVNSnJVTDJhV1pxVklOZHpOTV9rRkZoMllIQ1ItWFhUZw?oc=5) | BBC | 2026-06-09T15:08+00:00 | Outbreaks and emerging infections
+- [Ebola contact tracing in DRC remains below target but improving: WHO](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzYkpzZkxaRG44VkFWNUJqZ1ZNWWkyZWpRS2VCamtlc3VCRF80ZjRKTDRBekctYTNqMUl4WG1vM1k2blFJQzZkN0dOMmhISkhwcm04djJzUHFSZw?oc=5) | TRT Afrika | 2026-06-09T18:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Opinion | This Could Be the Worst Ebola Outbreak in History](https://news.google.com/rss/articles/CBMikAFBVV95cUxPelBHcUxqMkJGLTRmMW5Vdi1QMVZVaW8xejlVb0FuODRiekdxcjBuOXRXdUpDSmRfeDdwVmFFbERuX1VoQm1GQW1UYldtOFJYQW16ZTBwaE1NaHJIVVNObWtDX3M1ek5FMkFHTVZ5Z25PVThuUlc1QnRUQkl0MFhKWllVQmhuZGR5VFBnQW5lT2s?oc=5) | The New York Times | 2026-06-09T09:03+00:00 | Outbreaks and emerging infections
+- [Man reportedly shot at Kenya protest against US Ebola quarantine centre](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ybmJsU3VwSm9ueklaZnNwY1oyOWZPeUpObkZMZlZtY0VxYjlYWVM4Z0RlYll0Rkt0SUVNSnJVTDJhV1pxVklOZHpOTV9rRkZoMllIQ1ItWFhUZw?oc=5) | BBC | 2026-06-09T15:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
