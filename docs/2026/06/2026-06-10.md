@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-10
-Generated at: 2026-06-10T20:17
+Generated at: 2026-06-10T20:32
 Search window: 7 day(s) ending 2026-06-10
 
 ## Executive scan
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T03:06+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T03:29+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-10
 - [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [mHealth-supported tuberculosis contact investigation by community health workers in high-burden countries: a scoping review.](https://pubmed.ncbi.nlm.nih.gov/42261846/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (150), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (149), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 156 item(s) across 104 source(s).
-- Baseline snapshot created with 156 clustered item(s) across 104 source(s).
+- Newly tracked story cluster: 155 item(s) across 104 source(s).
+- Baseline snapshot created with 155 clustered item(s) across 104 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-06-10
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 156 item(s) across 104 source(s); 3 official/primary-source item(s).
-- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T03:06+00:00)
+- Topic size: 155 item(s) across 104 source(s); 3 official/primary-source item(s).
+- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T03:29+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Congo’s Ebola outbreak spreads to new health zone](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-635-2026-06-10/) (Reuters); [Video World Cup health plans ramp up amid Ebola outbreak concerns - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/133762858/) (ABC News - Breaking News, Latest News and Videos)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -310,7 +310,7 @@ Search window: 7 day(s) ending 2026-06-10
 ## Highest priority items
 ### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-06-11T03:06+00:00
+- Date: 2026-06-11T03:29+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -426,7 +426,7 @@ Search window: 7 day(s) ending 2026-06-10
   An analysis indicates that health and development programs in 29 countries could see a more than $4 billion drop in funding from the US government and the Global Fund by 2029.
 - [Ghaziabad on alert after poliovirus detected in sewage sample](https://timesofindia.indiatimes.com/city/ghaziabad/ghaziabad-on-alert-after-poliovirus-detected-in-sewage-sample/articleshow/131640193.cms) | The Times of India | 2026-06-10T16:56+00:00 | Outbreaks and emerging infections
   Our mission is to curate, report, and deliver city news that matters to readers of The Times of India. Our team works tirelessly to keep readers informed about the latest developments, ensuring that they are connected to the heartbeat of cities across India, right when it happens. With a keen focus on urban life, governance, culture, and local issues, we provide a comprehensive view of the ever-evolving cityscapes.
-- [EU Rebuffs US Call for Travel Bans to Contain Ebola Outbreak](https://www.bloomberg.com/news/articles/2026-06-10/eu-rebuffs-us-call-for-travel-bans-to-contain-ebola-outbreak) | Bloomberg | 2026-06-10T16:11+00:00 | Outbreaks and emerging infections
+- [EU Rebuffs US Call for Travel Bans to Contain Ebola Outbreak](https://www.bloomberg.com/news/articles/2026-06-10/eu-rebuffs-us-call-for-travel-bans-to-contain-ebola-outbreak) | Bloomberg.com | 2026-06-10T16:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Saint Lucia Strengthens National Preparedness Systems Amid Global Ebola Virus Disease Outbreak](https://thevoiceslu.com/2026/06/saint-lucia-strengthens-national-preparedness-systems-amid-global-ebola-virus-disease-outbreak/) | The Voice St. Lucia News | 2026-06-10T15:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -488,9 +488,7 @@ Search window: 7 day(s) ending 2026-06-10
   These will aim to: (1) identify patients at baseline (month 0) unlikely to convert their sputum or culture results by months 2 and 5, thus at risk of failing TB treatment; (2) identify household contacts of TB cases who are at risk of developing TB disease, as well as contacts who may resist TB infection despite repeated exposure to M. Achieving these objectives will provide evidence that data science methods are effective for early detection of potential TB cases and high-risk patients, thereby helping to reduce TB transmission in the community. While nearly all hospital-based TB cases in Kampala, the capital of Uganda, show clear TB symptoms, 30% or more of undiagnosed TB cases found through active screening are asymptomatic.
 - [Midfoot Skeletal Tuberculosis Managed With Single-Stage Tarsometatarsal and Naviculocuneiform Arthrodesis and Antitubercular Therapy.](https://pubmed.ncbi.nlm.nih.gov/42255156/) | PubMed Historical Pathogen Case Studies
   Limited usable detail remained after boilerplate cleanup.
-- [Congo reports attack on Ebola burial team as cases rise](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XMmRKYUJPVEZVdmxkMVRmNmY0cUE4ek55M0RYMk15RnViOGhIbGlwYVl3MjJLTmdyVG1JY3RXVnlWcDFqUm5fZ2ZyM2h5dTRhZ0xOdk9xRXpKZWsxZFo2QzRUVk1MZFE?oc=5) | Reuters
-  Limited detail was available from feed metadata alone.
-- [Ebola Burial Team Attacked, 11 Patients Flee Care in Widening Outbreak in Congo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUENBRThhY0xhN2pPS0Nsdm1MZDNaWUpkS1o2eV9ybG5YQ3dNQkU4NEd6OWxIN1NhSlVBWllySUxZb01RaVI2MTVDRUZwb3pMaWN4b0pjYlVUZnItTmY5X0FIeVF3VmdER3B1Q1FKX0NYMnpVa1dwbllTMEQwZTBGUGNuYkJJU0ZsQTNTNThfdUY1UVRXNG9McnEzTGxlVmp5Y0JpeUdnVUY4MkJrbDFmS1hmZTRHNmwtU0hFTGRuRWhHd2JJRXctOQ?oc=5) | Bloomberg
+- [Ebola Burial Team Attacked, 11 Patients Flee Care in Widening Outbreak in Congo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUENBRThhY0xhN2pPS0Nsdm1MZDNaWUpkS1o2eV9ybG5YQ3dNQkU4NEd6OWxIN1NhSlVBWllySUxZb01RaVI2MTVDRUZwb3pMaWN4b0pjYlVUZnItTmY5X0FIeVF3VmdER3B1Q1FKX0NYMnpVa1dwbllTMEQwZTBGUGNuYkJJU0ZsQTNTNThfdUY1UVRXNG9McnEzTGxlVmp5Y0JpeUdnVUY4MkJrbDFmS1hmZTRHNmwtU0hFTGRuRWhHd2JJRXctOQ?oc=5) | Bloomberg.com
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
