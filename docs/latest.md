@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T08:19
+Generated at: 2026-06-11T08:29
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-06-11
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 147 item(s) across 104 source(s).
-- Baseline snapshot created with 147 clustered item(s) across 104 source(s).
+- Newly tracked story cluster: 147 item(s) across 105 source(s).
+- Baseline snapshot created with 147 clustered item(s) across 105 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -38,10 +38,10 @@ Search window: 7 day(s) ending 2026-06-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 147 item(s) across 104 source(s); 3 official/primary-source item(s).
+- Topic size: 147 item(s) across 105 source(s); 3 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T15:16+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://www.euronews.com/video/2026/06/11/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear) (Euronews); [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) (The National Interest)
+- Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) (Yahoo News Singapore); [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) (The National Interest)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -416,7 +416,7 @@ Search window: 7 day(s) ending 2026-06-11
 
 
 ## Other notable readings
-- [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://www.euronews.com/video/2026/06/11/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear) | Euronews | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
+- [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) | Yahoo News Singapore | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kerala on Alert After Nipah Case Detected in Kozhikode, Patient Kept in Isolation](https://www.newsgram.com/india/2026/06/11/kerala-on-alert-after-nipah-case-detected) | NewsGram | 2026-06-11T10:53+00:00 | Outbreaks and emerging infections
   Kozhikode, June 11 (IANS) A 43-year-old man from Farook in Kerala's Kozhikode has tested positive for the Nipah virus, triggering fresh concerns as health authorities launched emergency containment measures. The patient, who worked in cleaning old buildings, is suspected to have contracted the virus while carrying out cleaning work at a structure with a heavy bat presence in Farook. The infection was detected in tests conducted at the Medical College laboratory, following which the patient was moved to the special isolation facility around midnight.
