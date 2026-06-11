@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T01:12
+Generated at: 2026-06-11T01:16
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-11
 - [FDA outbreak investigation 1350: Clostridium botulinum linked to Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-06-04T18:25+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (153), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (152), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 155 item(s) across 102 source(s).
-- Baseline snapshot created with 155 clustered item(s) across 102 source(s).
+- Newly tracked story cluster: 155 item(s) across 103 source(s).
+- Baseline snapshot created with 155 clustered item(s) across 103 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -39,7 +39,7 @@ Search window: 7 day(s) ending 2026-06-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 155 item(s) across 102 source(s); 3 official/primary-source item(s).
+- Topic size: 155 item(s) across 103 source(s); 3 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T08:09+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) (The National Interest); [Ebola Outbreak Congo: Newborn's Death Highlights Child Health Risks](https://www.ndtv.com/health/ebola-outbreak-congo-newborn-death-highlights-child-health-risks-11620716) (NDTV)
@@ -80,10 +80,10 @@ Search window: 7 day(s) ending 2026-06-11
 
 ### Nipah virus disease
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Kerala on Nipah virus alert: Symptoms, fatality rate, vaccines and all you need to know](https://timesofindia.indiatimes.com/india/kerala-on-nipah-virus-alert-symptoms-fatality-rate-vaccines-and-all-you-need-to-know/amp_articleshow/131652123.cms) (The Times of India, 2026-06-11T07:08+00:00)
-- Detailed note: His answer: 'I love it' ITR filing FY 2025-26: What is Form 26AS & what if it has errors? Things taxpayers should do to avoid getting a tax notice 06:16 Another blow!
-- Evidence notes: [Kerala on Nipah virus alert: Symptoms, fatality rate, vaccines and all you need to know](https://timesofindia.indiatimes.com/india/kerala-on-nipah-virus-alert-symptoms-fatality-rate-vaccines-and-all-you-need-to-know/amp_articleshow/131652123.cms) (The Times of India)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Lead item: [Kerala on alert as Kozhikode man preliminarily positive for Nipah](https://www.newsbytesapp.com/news/india/kerala-on-alert-as-kozhikode-man-preliminarily-positive-for-nipah/tldr) (NewsBytes, 2026-06-11T08:14+00:00)
+- Detailed note: According to the World Health Organization, its fatality rate can be pretty high, between 40% and 75%. Kerala has dealt with several outbreaks since 2018; the worst one claimed 17 lives that year.
+- Evidence notes: [Kerala on alert as Kozhikode man preliminarily positive for Nipah](https://www.newsbytesapp.com/news/india/kerala-on-alert-as-kozhikode-man-preliminarily-positive-for-nipah/tldr) (NewsBytes)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -405,13 +405,13 @@ Search window: 7 day(s) ending 2026-06-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Kerala on Nipah virus alert: Symptoms, fatality rate, vaccines and all you need to know
-- Source: The Times of India
-- Date: 2026-06-11T07:08+00:00
-- URL: https://timesofindia.indiatimes.com/india/kerala-on-nipah-virus-alert-symptoms-fatality-rate-vaccines-and-all-you-need-to-know/amp_articleshow/131652123.cms
+### Kerala on alert as Kozhikode man preliminarily positive for Nipah
+- Source: NewsBytes
+- Date: 2026-06-11T08:14+00:00
+- URL: https://www.newsbytesapp.com/news/india/kerala-on-alert-as-kozhikode-man-preliminarily-positive-for-nipah/tldr
 - Category: Outbreaks and emerging infections
-- Summary: His answer: 'I love it' ITR filing FY 2025-26: What is Form 26AS & what if it has errors? Things taxpayers should do to avoid getting a tax notice 06:16 Another blow! In case you want to opt out, please click "Do Not Sell or Share My Personal Information" link in the footer of this page.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Summary: According to the World Health Organization, its fatality rate can be pretty high, between 40% and 75%. Kerala has dealt with several outbreaks since 2018; the worst one claimed 17 lives that year. Health Minister K Muralidharan says the government has started contact tracing and isolating people who may have been exposed, including healthcare workers.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
