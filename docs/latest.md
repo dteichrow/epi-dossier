@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T14:16
+Generated at: 2026-06-11T15:07
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T21:06+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-06-11T22:06+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-11
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (21), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (124), Policy, surveillance, and public health infrastructure (21), Occupational and environmental epidemiology (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 132 item(s) across 98 source(s).
-- Baseline snapshot created with 132 clustered item(s) across 98 source(s).
+- Newly tracked story cluster: 134 item(s) across 100 source(s).
+- Baseline snapshot created with 134 clustered item(s) across 100 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -38,10 +38,10 @@ Search window: 7 day(s) ending 2026-06-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 132 item(s) across 98 source(s); 3 official/primary-source item(s).
-- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T21:06+00:00)
+- Topic size: 134 item(s) across 100 source(s); 3 official/primary-source item(s).
+- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-06-11T22:06+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://eastleighvoice.co.ke/says%20un%20report-%20africa%20cdc%20ebola-%20bundibugyo%20strain-%20ebola-%20ebola%20kenya-%20ebola%20outbreak%20drc-%20ebola%20response%20africa/355964/kenya-among-10-countries-at-risk-of-ebola-amid-outbreak-in-drc-and-uganda--africa-cdc) (The Eastleigh Voice); [Ebola outbreak map: Cases hit 600 in Africa, drawing US attention](https://www.usatoday.com/story/graphics/2026/06/11/ebola-outbreak-2026-cases-map-africa-us/90489578007/) (USA Today)
+- Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://eastleighvoice.co.ke/says%20un%20report-%20africa%20cdc%20ebola-%20bundibugyo%20strain-%20ebola-%20ebola%20kenya-%20ebola%20outbreak%20drc-%20ebola%20response%20africa/355964/kenya-among-10-countries-at-risk-of-ebola-amid-outbreak-in-drc-and-uganda--africa-cdc) (The Eastleigh Voice); [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) (Yahoo News Singapore)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -316,7 +316,7 @@ Search window: 7 day(s) ending 2026-06-11
 ## Highest priority items
 ### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-06-11T21:06+00:00
+- Date: 2026-06-11T22:06+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -420,8 +420,6 @@ Search window: 7 day(s) ending 2026-06-11
   Limited detail was available from feed metadata alone.
 - [Nipah virus resurfaces in Kerala with 43-year-old bizman testing positive; 72 people in contact list | India News](https://www.hindustantimes.com/india-news/nipah-virus-resurfaces-in-kerala-with-43-year-old-bizman-testing-positive-72-people-in-contact-list-101781205999883-amp.html) | Hindustan Times | 2026-06-11T19:28+00:00 | Outbreaks and emerging infections
   Deaths may occur in 40-75%of the cases, and the virus has a high mortality rate. The health minister said that the 43-year-old patient had recently rented a godown and cleaned it himself. Nipah virus has resurfaced in Kerala with a 43-year-old man from Feroke in Kozhikode district testing positive for the infection, state health minister K Muraleedharan said on Thursday.
-- [Ebola outbreak map: Cases hit 600 in Africa, drawing US attention](https://www.usatoday.com/story/graphics/2026/06/11/ebola-outbreak-2026-cases-map-africa-us/90489578007/) | USA Today | 2026-06-11T14:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Measles kills hundreds in Bangladesh, but a large-scale vaccine roll-out brings hope](https://www.gavi.org/vaccineswork/measles-kills-hundreds-bangladesh-large-scale-vaccine-roll-out-brings-hope) | Gavi, the Vaccine Alliance | 2026-06-11T13:43+00:00 | Outbreaks and emerging infections
   Transmission continues, with 933 new patients admitted on hospital ledgers in the 24 hours to 08:00 on 9 June.</p><p>This hospital alone has treated 1,133 measles patients and lost 42 to the virus since January. Now, measles is a static situation in Bangladesh.”</p><aside class="pquote"><blockquote><p>We have inoculated 102% of the children of our target.</p></blockquote><p>- Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS</p></aside><p>WHO, meanwhile, linked the declines in coverage to gaps in routine immunisation and the absence of regular, nationwide supplementary MR campaigns since 2020, which were compounded by stockouts of the vaccine in the country in 2024-2025.</p><h3>Fire-fighting with vaccines</h3><p>Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS, said under the directive of the health ministry the EPI mapped out a microplan for a nationwide MR vaccination drive. “We missed [her appointment for the] first dose of the MR vaccine due to her illness,” said her mother.</p><p>Bangladesh has been battling a large-scale measles outbreak, with 66,170 suspected measles patients admitted to hospitals across the country between 15 March and 9 June.
 - [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) | Yahoo News Singapore | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
@@ -455,6 +453,8 @@ Search window: 7 day(s) ending 2026-06-11
 - [What’s changed since the last major Ebola outbreak](https://www.statnews.com/2026/06/09/health-news-whats-changed-since-the-last-ebola-outbreak/) | statnews.com | 2026-06-10T07:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [2026 Ebola outbreak in Central Africa](https://www.britannica.com/event/2026-Ebola-outbreak-in-Central-Africa) | Britannica | 2026-06-10T05:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) | The Japan Times | 2026-06-10T01:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
