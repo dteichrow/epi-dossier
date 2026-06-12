@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T13:16
+Generated at: 2026-06-12T13:30
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-12
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (6)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (130), Policy, surveillance, and public health infrastructure (11), Occupational and environmental epidemiology (6)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Occupational and environmental epidemiology
@@ -34,15 +34,15 @@ Search window: 7 day(s) ending 2026-06-12
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 123 item(s) across 89 source(s).
-- Baseline snapshot created with 123 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 127 item(s) across 89 source(s).
+- Baseline snapshot created with 127 clustered item(s) across 89 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 123 item(s) across 89 source(s); 4 official/primary-source item(s).
+- Topic size: 127 item(s) across 89 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [US to provide $50 mln more in funding to counter Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/us-provide-50-mln-funding-counter-ebola-outbreak-2026-06-12/) (Reuters)
@@ -79,7 +79,7 @@ Search window: 7 day(s) ending 2026-06-12
 - Detailed note: Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals.
 - Evidence notes: [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English); [Suspected Nipah Infection Prompts High Alert in Kerala](https://theindianpractitioner.com/suspected-nipah-infection-prompts-high-alert-in-kerala/) (The Indian Practitioner)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -446,9 +446,9 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches IDP camp in DR Congo - first deaths recorded](https://unn.ua/en/news/ebola-outbreak-reaches-idp-camp-in-dr-congo-first-deaths-recorded) | Українські Національні Новини (УНН) | 2026-06-12T13:53+00:00 | Outbreaks and emerging infections
   The first deaths from the dangerous disease have already been confirmed in the Kpangba camp in the east of the country, UNN reports with reference to Reuters . The first Ebola deaths among displaced persons have been recorded at the Kpangba camp. Information agency «Ukrainian National News» Subject in the field of online media; media identifier - R40-05926 This resource is intended for persons who have reached the age of 21.
-- [Malaria increases prompt travel notice for Yemen](https://outbreaknewstoday.substack.com/p/malaria-increases-prompt-travel-notice) | Outbreak News Today | 2026-06-12T12:33+00:00 | Outbreaks and emerging infections
-  Epidemiological surveillance data for 2025 recorded 116,000 confirmed malaria cases in Yemen, with 1259 hospitalizations and 11 deaths, according to news outlets citing the Ministry of Health in Sana’a. Malaria in Yemen is caused almost exclusively by Plasmodium falciparum , which accounted for approximately 99.5% of confirmed cases in 2023. The World Health Organization (WHO) reports that 64% of the country's population lives in high-risk areas.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-12T11:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.reuters.com/business/healthcare-pharmaceuticals/blind-spots-could-hide-full-spread-congos-ebola-outbreak-who-suggests-2026-06-12/) | Reuters | 2026-06-12T10:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hemorrhagic Fever Panel Tests to Africa to Address Diagnostic Gaps in Ebola Bundibugyo Outbreak](https://www.businesswire.com/news/home/20260612089761/en/Cepheid-Delivers-Xpert-Hemorrhagic-Fever-Panel-Tests-to-Africa-to-Address-Diagnostic-Gaps-in-Ebola-Bundibugyo-Outbreak) | Business Wire | 2026-06-12T10:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
