@@ -13,9 +13,9 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 121,
+    "metadata_only_count": 122,
     "sources_cached": 0,
-    "sources_failed": 1,
+    "sources_failed": 2,
     "sources_live": 145,
     "story_count_change": 3,
     "wrapper_only_count": 12
@@ -27,11 +27,16 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-12T09:09:52",
+  "generated_at": "2026-06-12T09:16:52",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
+      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]
