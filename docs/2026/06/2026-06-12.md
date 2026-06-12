@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T05:48
+Generated at: 2026-06-12T05:52
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-12
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses.](https://pubmed.ncbi.nlm.nih.gov/42281293/) (PubMed Infectious Disease Search; 2026-06-11T00:00; Major epidemiology studies; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (32), Major epidemiology studies (8), Occupational and environmental epidemiology (6)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (33), Major epidemiology studies (8), Occupational and environmental epidemiology (6)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.straitstimes.com/world/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) (The Straits Times)
-- Newly tracked story cluster: 21 item(s) across 18 source(s).
-- Baseline snapshot created with 21 clustered item(s) across 18 source(s).
+- Newly tracked story cluster: 22 item(s) across 18 source(s).
+- Baseline snapshot created with 22 clustered item(s) across 18 source(s).
 - The Straits Times now includes deaths or fatal cases in the story frame.
 - Al Jazeera now includes quarantine language.
 - The Good Men Project now foregrounds vaccination or vaccine policy in the story.
@@ -42,10 +42,10 @@ Search window: 7 day(s) ending 2026-06-12
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 21 item(s) across 18 source(s); 0 official/primary-source item(s).
+- Topic size: 22 item(s) across 18 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.straitstimes.com/world/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) (The Straits Times, 2026-06-12T11:53+00:00)
 - Detailed note: REUTERS/Gradel Muyisa Mumbere NAIROBI, June 12 - Two Ebola-related deaths have been confirmed in a displacement camp in eastern Congo, the U.N. Sign up now: Get ST's newsletters delivered to your inbox A woman stands by the newly built tents by the Samaritan's Purse International Relief, at the Scott Powell Memorial Ebola Treatment Center, as aid agencies intensify efforts to contain the Ebola outbreak caused by...
-- Evidence notes: [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.straitstimes.com/world/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) (The Straits Times); ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.straitstimes.com/world/blind-spots-could-hide-full-spread-of-congos-ebola-outbreak-who-suggests) (The Straits Times); [Health Minister: Rwanda Remains Ebola-Free as Outbreak Slows in Region](https://www.ktpress.rw/2026/06/health-minister-rwanda-remains-ebola-free-as-outbreak-slows-in-region/) (KT PRESS -); [Ebola continues to spread in DR Congo as cases surpass 600](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) (AnewZ); [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) (The Good Men Project)
+- Evidence notes: [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.straitstimes.com/world/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) (The Straits Times); ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.straitstimes.com/world/blind-spots-could-hide-full-spread-of-congos-ebola-outbreak-who-suggests) (The Straits Times); [Health Minister: Rwanda Remains Ebola-Free as Outbreak Slows in Region](https://www.ktpress.rw/2026/06/health-minister-rwanda-remains-ebola-free-as-outbreak-slows-in-region/) (KT PRESS -); [Missing Contacts Obscure Congo Ebola Outbreak’s True Extent](https://www.bloomberg.com/news/articles/2026-06-12/missing-contacts-obscure-congo-ebola-outbreak-s-true-extent) (Bloomberg); [Ebola continues to spread in DR Congo as cases surpass 600](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) (AnewZ)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -71,7 +71,7 @@ Search window: 7 day(s) ending 2026-06-12
 - Detailed note: Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals.
 - Evidence notes: [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English); [Suspected Nipah Infection Prompts High Alert in Kerala](https://theindianpractitioner.com/suspected-nipah-infection-prompts-high-alert-in-kerala/) (The Indian Practitioner)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -426,11 +426,13 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [Health Minister: Rwanda Remains Ebola-Free as Outbreak Slows in Region](https://www.ktpress.rw/2026/06/health-minister-rwanda-remains-ebola-free-as-outbreak-slows-in-region/) | KT PRESS - | 2026-06-12T08:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Missing Contacts Obscure Congo Ebola Outbreak’s True Extent](https://www.bloomberg.com/news/articles/2026-06-12/missing-contacts-obscure-congo-ebola-outbreak-s-true-extent) | Bloomberg | 2026-06-12T07:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola continues to spread in DR Congo as cases surpass 600](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) | AnewZ | 2026-06-12T06:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) | The Good Men Project | 2026-06-12T05:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo spreads to new areas](https://cphpost.dk/2026-06-12/global/ebola-outbreak-in-dr-congo-spreads-to-new-areas/) | The Copenhagen Post | 2026-06-12T05:03+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak in DR Congo spreads to new areas](https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0ZRaVlWTDVTOUJFZldYRkdCWV8tbHJ1QXR3cHoyemxnN3Z3TU9hVnRfNGI0c0ItRjdRLTlSS3dtVlVpcERmVEJ2SU5FeVNZSUdLcTJIZElPNFBjdDBBRjFfcGU4LUs3YU1ndHNIVkdJc0NwZVg3Y2wwT0U3aXNjY3F5STFVbk9uVkJSSE5R?oc=5) | The Copenhagen Post | 2026-06-12T05:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [A cracked coffin, a funeral and the hunt for Ebola’s patient zero](https://www.japantimes.co.jp/news/2026/06/12/world/science-health/ebola-patient-zero/) | The Japan Times | 2026-06-12T04:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -442,13 +444,11 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://news.google.com/rss/articles/CBMiggNBVV95cUxPamluRmFWTXNJRF9POVA3ZkdvN1BDOGxmcG8ydFZTdE9nSlgwdER0V3p0ay16NFhWQ3NJa19UMHJILWlsZE45WmtCaHNRLVROaG52OVRrUU94NVZGZkRvTEJpdzdaUC1UMmt0S3pOazZDVVlwNXdneUF3bENXTGpQQUpycnR2czA0NDY2QzVuOUtjOEppNHZIbEdaQlo5ZU41YjdvNGgwRVFDeUJxTHczWHFUc0hpTmtSV0RXQWw3RkxNTnlSQy1wbGZEVW9RUFRmQ005Y0NYb2JEMDZaaEI2S21wNGRLRU5LcDZKNlFSWVNfYjcxLVNLRzJ2Z1pjSDdnUDM2LW5FVXlvTE8zMGc2bjlYd0RBUWY5c1UwQjNiUU9leVlVQm0ydTVPT1RNcTRlR3lHclVuVEVJSnZMUV9uUnZZdkhDMWtodkhDb09qMkx0amI3WHcxa01NdFBubEd2ZTQtNHNYcDJyTTA2elhBUWJLU2ItZWN5YlVwRHJTN1pjQQ?oc=5) | The Eastleigh Voice | 2026-06-11T19:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Cases Surge in Democratic Republic of Congo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkhyY3Yycjg0TXFsdHR0N3NuRHlTTGFoOVZhN0J6LW94TjlKOV92ekJfd0RfQjZ2TnVwamNvaW9VNlg0X2xKbWxZaU1CWWJaZkJwWDgzT0tocHRacEZyazNNNVBZQW1yZ3hsc25LN1N1MExkZEJLY3lTbWpOLU9pWUQwSzIwZ0pocjFBMjdMUVBtTjlwNExCNlB5ZktvTUhHZFd4bXVBYmvSAagBQVVfeXFMTW5IcmN2MnI4NE1xbHR0dDdzbkR5U0xhaDlWYTdCei1veE45SjlfdnpCX3dEX0I2dk51cGpjb2lvVTZYNF9sSm1sWWlNQlliWmZCcFg4M09LaHB0WnBGcmszTTVQWUFtcmd4bHNuSzdTdTBMZGRCS2N5U21qTi1PaVlEMEsyMGdKaHIxQTI3TFFQbU45cDRMQjZQeWZLb01IR2RXeG11QWJr?oc=5) | Devdiscourse | 2026-06-11T16:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola outbreak in the Democratic Republic of the Congo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVRJd2M2THoyV2Nfb1owUFFRbHN6Z08xTWtGNENPLXJhVXZfVTFWVkVubzdxLU5MajZtRkhoSWFjOFlUTF83RHpHMlVEQWxQeThVbFNsSEw3WEZjc2hHaVAzSkFwX3VraDk5a1RSa0ROTzJ2ZTdIM1dwdmRoWF93RnMzWkRNVHNVQjRZaGdlWS0tVk12UlE?oc=5) | Humanitarian Coalition | 2026-06-11T15:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Alert: CEMAC States Coordinate Response as Outbreak Spreads](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDM0UG9DaHJTQ0IxbmlrQVk4enBRV0J2RjFVNEpZaDROZ1ZOMTFfM0ZSdHNNSEhKazlMWkVQbkg1Z2JvMFd6NmFGQ01QdXB1LUxacTM0UjRHZ2VybkxYbHp3UGc0M1lOWFhSZkpkVWlQUXJ1VFRLSk1pVmlmc2dZdTdUWmxFbEdxeXZNMnFDVTNIM3pZcEdISHgyZFh1U0NW?oc=5) | cameroon-concord.com | 2026-06-11T15:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://news.google.com/rss/articles/CBMioAFBVV95cUxPRU9Pc1R6Z21TX1pHeno0MEhBcWRMaHRBcXU0b1BodTFxUGItbUxCdjRydkU1MWJSQTRVTjhpMkdSc24tNUg0bUl0cTVsY2QtUXIydldvUG5yRHpJUmhyUThxMUFkYW1Rb2Z4Q0FrMWM0MXdjMGxnMFI4a2lHeGxsdWdJZlBzMWhDQkQydHRodkRZeFVNaFRKTkJlS0hURkd0?oc=5) | Euronews.com | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
+- [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://news.google.com/rss/articles/CBMioAFBVV95cUxPRU9Pc1R6Z21TX1pHeno0MEhBcWRMaHRBcXU0b1BodTFxUGItbUxCdjRydkU1MWJSQTRVTjhpMkdSc24tNUg0bUl0cTVsY2QtUXIydldvUG5yRHpJUmhyUThxMUFkYW1Rb2Z4Q0FrMWM0MXdjMGxnMFI4a2lHeGxsdWdJZlBzMWhDQkQydHRodkRZeFVNaFRKTkJlS0hURkd0?oc=5) | Euronews | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: Democratic Republic of the Congo and Uganda - Externl Update 4 June 2026](https://news.google.com/rss/articles/CBMizgFBVV95cUxQMTlOOW5sZ3RVSVNkaXBzemxweUh4TWhWelhlNnJUNkdWWk9WcXRsNDdSb3FmS0lfZ3JsZmhLOGRONEQtZVRUemswVkNfMUt6ZF9kaGRfWE9MODdGclQyMXJYTG55b3ZfUnlkLTliSUNEV0M1a0gzUkJvVGtvMDJwN0M0TklKc0NDaWNtSDlpOGhSMXU5c095dEg4Skx1cnB1LXlQb3hGQzQzRG1RUDJKWUZ1UGhYTXVYMFB4czhTWGgwZ2dXN1laWGRVdTJjdw?oc=5) | ReliefWeb | 2026-06-11T09:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,10 +456,10 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) | Bhaskar English | 2026-06-11T05:15+00:00 | Outbreaks and emerging infections
   Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals. 77 people came into contact with the patient, two of them in the highest risk category
-- [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) | CIDRAP | 2026-06-10T12:20-05:00 | Outbreaks and emerging infections
-  An analysis indicates that health and development programs in 29 countries could see a more than $4 billion drop in funding from the US government and the Global Fund by 2029.
-- [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xb1ZmTV9pYWxwUTNzVDA5djJiMjJVOHRTOEViYmsyMzJIdnR0REVDMFIxVkxWZkVSZktEb1V2UG54ZFlHZTFXR0Z3dTV6b2NsZFpvalJCS2FpTEs2R3I3RFJBYUtVQ1U?oc=5) | Reuters | 2026-06-10T17:13+00:00 | Outbreaks and emerging infections
+- [U.S. pumps fresh $20m into Ebola fight as outbreak threatens region](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGt5N1NvQl9Ca0wzMnBKRjRZN09qc1NVMVJvNkdEdGR5OG5LcE5kVTVKZnJpV0I1ODVGOTNZTE55bkg4UHIwWVlXY204a3RieEZzZkl2bHdoNElGNVREQVRCTFRQQVJGSjZhckNSWnlJdHN4U1AzV2dCWER6S2owXzFnTDA2Mk5IMXJ2NmpKWUR1MWpOaFVHUXg2di1IMWpwQmROR3VB?oc=5) | PM News Nigeria | 2026-06-10T18:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) | CIDRAP | 2026-06-10T12:20-05:00 | Outbreaks and emerging infections
+  As of May 30, more than 500,000 doses of the Butantan-DV vaccine have been administered to healthcare workers and people aged 15 to 49 in three cities (Botucatu, Maranguape, and Nova Lima) and the Araguaina region since January. Under the Trump administration, US funding for the 29 countries from 2027 to 2029 will decline by $3.3 billion from the previous three-year period. The deaths and cases are being investigated by the Ministry of Health, the Brazilian Health Regulatory Agency (ANVISA), and the Butantan Institute.
 
 ## Papers worth saving
 - [Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses.](https://pubmed.ncbi.nlm.nih.gov/42281293/)
