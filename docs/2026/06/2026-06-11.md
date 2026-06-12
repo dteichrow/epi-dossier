@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-11
-Generated at: 2026-06-11T18:41
+Generated at: 2026-06-11T18:43
 Search window: 7 day(s) ending 2026-06-11
 
 ## Executive scan
@@ -10,10 +10,10 @@ Search window: 7 day(s) ending 2026-06-11
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Predictors of prolonged decision-to-delivery interval in emergency caesarean section in Northern Uganda: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42275299/) (PubMed Infectious Disease Search; 2026-06-11T00:00; Major epidemiology studies; relevance 5/5)
-- [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-10T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (29), Occupational and environmental epidemiology (6), Major epidemiology studies (2)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- [Congo’s Ebola outbreak spreads to new health zones](https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones) (The Straits Times; 2026-06-11T22:38+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (28), Occupational and environmental epidemiology (6), Major epidemiology studies (2)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -34,7 +34,7 @@ Search window: 7 day(s) ending 2026-06-11
 - Topic size: 20 item(s) across 19 source(s); 0 official/primary-source item(s).
 - Lead item: [Congo’s Ebola outbreak spreads to new health zones](https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones) (The Straits Times, 2026-06-11T22:38+00:00)
 - Detailed note: Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Congo’s Ebola outbreak spreads to new health zones](https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones) (The Straits Times); [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) (NBC News); [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://eastleighvoice.co.ke/says%20un%20report-%20africa%20cdc%20ebola-%20bundibugyo%20strain-%20ebola-%20ebola%20kenya-%20ebola%20outbreak%20drc-%20ebola%20response%20africa/355964/kenya-among-10-countries-at-risk-of-ebola-amid-outbreak-in-drc-and-uganda--africa-cdc) (The Eastleigh Voice); [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) (Yahoo News Singapore); [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) (The National Interest)
+- Evidence notes: [Congo’s Ebola outbreak spreads to new health zones](https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones) (The Straits Times); [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://eastleighvoice.co.ke/says%20un%20report-%20africa%20cdc%20ebola-%20bundibugyo%20strain-%20ebola-%20ebola%20kenya-%20ebola%20outbreak%20drc-%20ebola%20response%20africa/355964/kenya-among-10-countries-at-risk-of-ebola-amid-outbreak-in-drc-and-uganda--africa-cdc) (The Eastleigh Voice); [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) (Yahoo News Singapore); [Ebola Outbreak: Democratic Republic of the Congo and Uganda - Externl Update 4 June 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-externl-update-4-june-2026) (ReliefWeb); [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) (The National Interest)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -45,14 +45,6 @@ Search window: 7 day(s) ending 2026-06-11
 - Evidence notes: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR); [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR); [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR); [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR); [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Miscellaneous signals
-- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [Predictors of prolonged decision-to-delivery interval in emergency caesarean section in Northern Uganda: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42275299/) (PubMed Infectious Disease Search, 2026-06-11T00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Predictors of prolonged decision-to-delivery interval in emergency caesarean section in Northern Uganda: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42275299/) (PubMed Infectious Disease Search); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [Transmitted and pretreatment drug resistance among 69 HIV-1 CRFs in China: the first systematic analysis.](https://pubmed.ncbi.nlm.nih.gov/42261238/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Nipah virus disease
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -70,11 +62,19 @@ Search window: 7 day(s) ending 2026-06-11
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Miscellaneous signals
+- Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
+- Lead item: [Predictors of prolonged decision-to-delivery interval in emergency caesarean section in Northern Uganda: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42275299/) (PubMed Infectious Disease Search, 2026-06-11T00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Predictors of prolonged decision-to-delivery interval in emergency caesarean section in Northern Uganda: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42275299/) (PubMed Infectious Disease Search); [Transmitted and pretreatment drug resistance among 69 HIV-1 CRFs in China: the first systematic analysis.](https://pubmed.ncbi.nlm.nih.gov/42261238/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Kenya protests US-funded Ebola ward amid fears of ‘double standards’](https://www.turnto23.com/videos/news/national-news/kenya-protests-us-funded-ebola-ward-amid-fears-of-double-standards) (23ABC News Bakersfield, 2026-06-10T08:12+00:00)
+- Lead item: [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) (The Japan Times, 2026-06-10T01:19+00:00)
 - Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Kenya protests US-funded Ebola ward amid fears of ‘double standards’](https://www.turnto23.com/videos/news/national-news/kenya-protests-us-funded-ebola-ward-amid-fears-of-double-standards) (23ABC News Bakersfield); [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) (The Japan Times)
+- Evidence notes: [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) (The Japan Times); [Kenya protests US-funded Ebola ward amid fears of ‘double standards’](https://www.news5cleveland.com/videos/lifestyle/health-and-fitness/kenya-protests-us-funded-ebola-ward-amid-fears-of-double-standards) (News 5 Cleveland WEWS)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -367,16 +367,6 @@ Search window: 7 day(s) ending 2026-06-11
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-06-10T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1380 with date posted 6/3/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Requeson/Soft Ricotta Cheese.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-05T12:16+00:00
@@ -397,45 +387,47 @@ Search window: 7 day(s) ending 2026-06-11
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more
-- Source: NBC News
-- Date: 2026-06-11T22:09+00:00
-- URL: https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102
+### Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC
+- Source: The Eastleigh Voice
+- Date: 2026-06-11T19:39+00:00
+- URL: https://eastleighvoice.co.ke/says%20un%20report-%20africa%20cdc%20ebola-%20bundibugyo%20strain-%20ebola-%20ebola%20kenya-%20ebola%20outbreak%20drc-%20ebola%20response%20africa/355964/kenya-among-10-countries-at-risk-of-ebola-amid-outbreak-in-drc-and-uganda--africa-cdc
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Nipah virus resurfaces in Kerala with 43-year-old bizman testing positive; 72 people in contact list | India News
+- Source: Hindustan Times
+- Date: 2026-06-11T19:28+00:00
+- URL: https://www.hindustantimes.com/india-news/nipah-virus-resurfaces-in-kerala-with-43-year-old-bizman-testing-positive-72-people-in-contact-list-101781205999883-amp.html
+- Category: Outbreaks and emerging infections
+- Summary: Deaths may occur in 40-75%of the cases, and the virus has a high mortality rate. The health minister said that the 43-year-old patient had recently rented a godown and cleaned it himself. Nipah virus has resurfaced in Kerala with a 43-year-old man from Feroke in Kozhikode district testing positive for the infection, state health minister K Muraleedharan said on Thursday.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://eastleighvoice.co.ke/says%20un%20report-%20africa%20cdc%20ebola-%20bundibugyo%20strain-%20ebola-%20ebola%20kenya-%20ebola%20outbreak%20drc-%20ebola%20response%20africa/355964/kenya-among-10-countries-at-risk-of-ebola-amid-outbreak-in-drc-and-uganda--africa-cdc) | The Eastleigh Voice | 2026-06-11T19:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Nipah virus resurfaces in Kerala with 43-year-old bizman testing positive; 72 people in contact list | India News](https://www.hindustantimes.com/india-news/nipah-virus-resurfaces-in-kerala-with-43-year-old-bizman-testing-positive-72-people-in-contact-list-101781205999883-amp.html) | Hindustan Times | 2026-06-11T19:28+00:00 | Outbreaks and emerging infections
-  Deaths may occur in 40-75%of the cases, and the virus has a high mortality rate. The health minister said that the 43-year-old patient had recently rented a godown and cleaned it himself. Nipah virus has resurfaced in Kerala with a 43-year-old man from Feroke in Kozhikode district testing positive for the infection, state health minister K Muraleedharan said on Thursday.
 - [Measles kills hundreds in Bangladesh, but a large-scale vaccine roll-out brings hope](https://www.gavi.org/vaccineswork/measles-kills-hundreds-bangladesh-large-scale-vaccine-roll-out-brings-hope) | Gavi, the Vaccine Alliance | 2026-06-11T13:43+00:00 | Outbreaks and emerging infections
   Transmission continues, with 933 new patients admitted on hospital ledgers in the 24 hours to 08:00 on 9 June.</p><p>This hospital alone has treated 1,133 measles patients and lost 42 to the virus since January. Now, measles is a static situation in Bangladesh.”</p><aside class="pquote"><blockquote><p>We have inoculated 102% of the children of our target.</p></blockquote><p>- Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS</p></aside><p>WHO, meanwhile, linked the declines in coverage to gaps in routine immunisation and the absence of regular, nationwide supplementary MR campaigns since 2020, which were compounded by stockouts of the vaccine in the country in 2024-2025.</p><h3>Fire-fighting with vaccines</h3><p>Dr Hasanul Mahmud, Assistant Director (EPI) of the DGHS, said under the directive of the health ministry the EPI mapped out a microplan for a nationwide MR vaccination drive. “We missed [her appointment for the] first dose of the MR vaccine due to her illness,” said her mother.</p><p>Bangladesh has been battling a large-scale measles outbreak, with 66,170 suspected measles patients admitted to hospitals across the country between 15 March and 9 June.
 - [Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://sg.news.yahoo.com/congo-motorcyclists-mobilise-ebola-outbreak-112215067.html) | Yahoo News Singapore | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak: Democratic Republic of the Congo and Uganda - Externl Update 4 June 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-externl-update-4-june-2026) | ReliefWeb | 2026-06-11T09:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) | The National Interest | 2026-06-11T06:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) | Bhaskar English | 2026-06-11T05:15+00:00 | Outbreaks and emerging infections
   Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals. 77 people came into contact with the patient, two of them in the highest risk category
-- [U.S. pumps fresh $20m into Ebola fight as outbreak threatens region](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGt5N1NvQl9Ca0wzMnBKRjRZN09qc1NVMVJvNkdEdGR5OG5LcE5kVTVKZnJpV0I1ODVGOTNZTE55bkg4UHIwWVlXY204a3RieEZzZkl2bHdoNElGNVREQVRCTFRQQVJGSjZhckNSWnlJdHN4U1AzV2dCWER6S2owXzFnTDA2Mk5IMXJ2NmpKWUR1MWpOaFVHUXg2di1IMWpwQmROR3VB?oc=5) | PM News Nigeria | 2026-06-10T18:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xb1ZmTV9pYWxwUTNzVDA5djJiMjJVOHRTOEViYmsyMzJIdnR0REVDMFIxVkxWZkVSZktEb1V2UG54ZFlHZTFXR0Z3dTV6b2NsZFpvalJCS2FpTEs2R3I3RFJBYUtVQ1U?oc=5) | Reuters | 2026-06-10T17:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) | CIDRAP | 2026-06-10T12:20-05:00 | Outbreaks and emerging infections
   An analysis indicates that health and development programs in 29 countries could see a more than $4 billion drop in funding from the US government and the Global Fund by 2029.
 - [Saint Lucia Strengthens National Preparedness Systems Amid Global Ebola Virus Disease Outbreak](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTBnQ3RJTWhPX0I5N2lBd3N4Mm9JMENZaDZfSlR5dVdfaThqZWR1YU5wZy1rSF9FRlZjSDExd0NnSDAwbTJYSFBiZE1nM2p4ODNSZ29QNXNmRDdlZUVxMmx0R0dwRmRqNkdSeUo5SXZmOG42MWswOWZ6WmR6OXpMN3RMc0V2dmV3OXNOb2I4UnRrNjJ3MFVqSWNMQVFMNHZ4ZXQwU3hUdG5QTGJmTzh3OHIxaVdXQ0c5d0MtaHBzc2FnbWNlbXc?oc=5) | The Voice St. Lucia News | 2026-06-10T15:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Belgium rejects US World Cup demand for Congo travel ban amid Ebola outbreak](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeDBJM1VyQWZ2czlVbjBGeV9ETHd3c2RYNFNmdDJWVXh6cjM3WWo5T3diQ01sNTMtNEZfNHRzQ2d1Q21uNDFWM2llbjU4Njd5RjVNSjAybEJzVGd5YnpoRUFERXh3U09mOHlFeWNXa0hFWk42clljUFRIWGd3QUVqSVpteGduWmgzLTVqNzJ1c2w1QnM4VVU5V0dINzA?oc=5) | politico.eu | 2026-06-10T12:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlp6R1NSS2NVNndwMkV0N1lna2dKNkN5WU9vUnpneUVjeVFPcXZTdF9LWHByR0xlN0tpeVRGaW9faWRNcEowajVNaU90RFJhcEhXM3JnRXhTYXI2M0psMTNacG5FTU0xVnN4ZnhiUmZOXzk1XzMteXRDMUJyQ3FPMzlPQ1R2VE9SVl9QRVBzN0s5bXhFX1kxSk5ybmZHS2JWNzN5bi1tRTRvcGxIMnZxU2R0WnNxbWRoZEE?oc=5) | NBC News | 2026-06-10T12:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [US urges Europe to impose travel restrictions over Ebola outbreak in Central Africa](https://news.google.com/rss/articles/CBMiywFBVV95cUxPc2hYUURxTFhhVUczWjQ3Qm5sX1A3MFNEdTlVdXgydjlWZENwWEJNVHQzcE0zVmF6VGktQVkxUHpTcm0tdFFDZDFjRGR5ckIxejVUTVl1TkVuV0FIYURVMkVYSWJBLTBzNVV3Q29ybDBjMHpmRmZhWUFrXzFvQVprYUV2VzZoLTRoMjFwVktYLU43MURPQmFmYm1YenlHbmFUZ0FveEoyVkliSW02cWs3ZWdyc2ppVTRwV1dLLUNkTy1icW1SSC12WUpoUQ?oc=5) | The Eastleigh Voice | 2026-06-10T09:51+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kenya protests US-funded Ebola ward amid fears of ‘double standards’](https://www.turnto23.com/videos/news/national-news/kenya-protests-us-funded-ebola-ward-amid-fears-of-double-standards) | 23ABC News Bakersfield | 2026-06-10T08:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [2026 Ebola outbreak in Central Africa](https://news.google.com/rss/articles/CBMiekFVX3lxTE81eFIxVFlfNlk5SFdGZDRyN0JjQ2RWVlB0Y2Q0VkJIaTUyWjV5TXVNbmUxRnJycVFSZ1VwMGl4SkhkS0FXT0ZWbkNSeTQxLVlSYTZvT29FWmFyeGhuRzd6WWhMbmJTMEJZZHE3elgwUkdFb0hGdEppdlFn?oc=5) | Britannica | 2026-06-10T05:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) | The Japan Times | 2026-06-10T01:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -445,9 +437,17 @@ Search window: 7 day(s) ending 2026-06-11
   He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Perera also urged the public to be vigilant about the rising number of influenza cases, stressing that this illness can spread rapidly among children.
 - [Why there's a debate over the new quarantine center for Americans at risk of Ebola](https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3hXNXNSZmpEb1o1eTZIR1IyTzMxcGFGMXNyR2N6N3NHT0FVempfWEVCQ3UyaUpCQW1HRGw4bkxZSDRRa0I1d2F1SWxCQ1kySEE3Q2xKSVVLS3YyUnYxTmFPNFJQNWtWWGx6d2cwM2lLZFVybTBNVGU1SmRZandzNGQ2eEdkOUk?oc=5) | NPR | 2026-06-09T19:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Kenya protests US-funded Ebola ward amid fears of ‘double standards’](https://www.news5cleveland.com/videos/lifestyle/health-and-fitness/kenya-protests-us-funded-ebola-ward-amid-fears-of-double-standards) | News 5 Cleveland WEWS | 2026-06-09T18:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola contact tracing in DRC remains below target but improving: WHO](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzYkpzZkxaRG44VkFWNUJqZ1ZNWWkyZWpRS2VCamtlc3VCRF80ZjRKTDRBekctYTNqMUl4WG1vM1k2blFJQzZkN0dOMmhISkhwcm04djJzUHFSZw?oc=5) | TRT Afrika | 2026-06-09T18:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches major African transit hubs, raising global health concerns](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XbW1xX2dOUjFIeU44MFZpam9OLW1yUWFnWkpBYzdYNm9IY1NiQVpkbjlRLVNNSXVobTEwdDNTOTJIYjZLNlJYYVdockZhLWJ2RHFlVGtDNWRaMlk5bWFRRjJSeEJsd9IBa0FVX3lxTFBCcEpEOVgyZHF2d0psN2VzZVNja2tCUWtTMHF5RU1LUkp6Y0tpV0E4ZlB2MzNzcWZpV0FHanRhMHVhclVuTE5WRmVGNnpTUlJnNnlKOE1PWmVJSWxHYjNKUER5X1NWVGNCbDZZ?oc=5) | FOX 32 Chicago | 2026-06-09T15:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Man reportedly shot at Kenya protest against US Ebola quarantine centre](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ybmJsU3VwSm9ueklaZnNwY1oyOWZPeUpObkZMZlZtY0VxYjlYWVM4Z0RlYll0Rkt0SUVNSnJVTDJhV1pxVklOZHpOTV9rRkZoMllIQ1ItWFhUZw?oc=5) | BBC | 2026-06-09T15:08+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak expands across DRC and Uganda](https://news.google.com/rss/articles/CBMikwFBVV95cUxORWRMdGNHRTlnTlNSRnItQVZYczFDaklaMWxxbGZvRF9SYVpGRE5WY3RZcEZnZFQ3Z3VwV3ZJLWFpSjl2UXhuUWZWSFpwR2MzTDhaRDEwaUkzd1ZLN3dyb0VkRGM2bjBvd3E3WV9MUjQ0SkdqcklDQm5wc3NZaV9CMEMyWWlvSFh1bmYwOFAtV05tbG8?oc=5) | Open Access Government | 2026-06-09T12:25+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Opinion | This Could Be the Worst Ebola Outbreak in History](https://news.google.com/rss/articles/CBMikAFBVV95cUxPelBHcUxqMkJGLTRmMW5Vdi1QMVZVaW8xejlVb0FuODRiekdxcjBuOXRXdUpDSmRfeDdwVmFFbERuX1VoQm1GQW1UYldtOFJYQW16ZTBwaE1NaHJIVVNObWtDX3M1ek5FMkFHTVZ5Z25PVThuUlc1QnRUQkl0MFhKWllVQmhuZGR5VFBnQW5lT2s?oc=5) | The New York Times | 2026-06-09T09:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
