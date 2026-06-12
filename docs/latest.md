@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T16:16
+Generated at: 2026-06-12T16:21
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
@@ -75,10 +75,10 @@ Search window: 7 day(s) ending 2026-06-12
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Greater Bengaluru Authority sounds dengue alert as monsoon arrives in city](https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fbengaluru%2Fgreater-bengaluru-authority-sounds-dengue-alert-as-monsoon-arrivesin-city-4037513) (Deccan Herald, 2026-06-12T20:51+00:00)
-- Detailed note: He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Bengaluru: With monsoon rains reaching the city, the Greater Bengaluru Authority (GBA) has begun steps to prevent a rise in...
-- Evidence notes: [Greater Bengaluru Authority sounds dengue alert as monsoon arrives in city](https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fbengaluru%2Fgreater-bengaluru-authority-sounds-dengue-alert-as-monsoon-arrivesin-city-4037513) (Deccan Herald); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World)
+- Detailed note: United Flight 592 From Charleston Diverts to Indianapolis Long Thanh Mega Airport Reaches Key Launch Milestone Japan Airlines’ 2026 A350-1000 Economy Rewrites Long-Haul Comfort Vietnam’s fast escalating dengue fever surge in early 2026 is beginning to reshape travel decisions, as rapidly rising case numbers in major tourist cities coincide with the onset of the rainy season and trigger a wave of health advisories...
+- Evidence notes: [Greater Bengaluru Authority sounds dengue alert as monsoon arrives in city](https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fbengaluru%2Fgreater-bengaluru-authority-sounds-dengue-alert-as-monsoon-arrivesin-city-4037513) (Deccan Herald); [Vietnam dengue surge 2026 raises red flags for travelers](https://www.thetraveler.org/vietnam-dengue-surge-2026-raises-red-flags-for-travelers/) (thetraveler.org); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
