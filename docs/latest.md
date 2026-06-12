@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T01:25
+Generated at: 2026-06-12T01:28
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
@@ -17,9 +17,9 @@ Search window: 7 day(s) ending 2026-06-12
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
-- Lead item: [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) (The Good Men Project)
-- Newly tracked story cluster: 19 item(s) across 18 source(s).
-- Baseline snapshot created with 19 clustered item(s) across 18 source(s).
+- Lead item: [Missing Contacts Obscure Congo Ebola Outbreak’s True Extent](https://www.bloomberg.com/news/articles/2026-06-12/missing-contacts-obscure-congo-ebola-outbreak-s-true-extent) (Bloomberg)
+- Newly tracked story cluster: 19 item(s) across 17 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - Al Jazeera now includes quarantine language.
 - The Good Men Project now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,10 +32,10 @@ Search window: 7 day(s) ending 2026-06-12
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 19 item(s) across 18 source(s); 0 official/primary-source item(s).
-- Lead item: [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) (The Good Men Project, 2026-06-12T05:33+00:00)
+- Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
+- Lead item: [Missing Contacts Obscure Congo Ebola Outbreak’s True Extent](https://www.bloomberg.com/news/articles/2026-06-12/missing-contacts-obscure-congo-ebola-outbreak-s-true-extent) (Bloomberg, 2026-06-12T07:06+00:00)
 - Detailed note: Cluster remains active across 19 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) (The Good Men Project); [Ebola outbreak in DR Congo spreads to new areas](https://cphpost.dk/2026-06-12/global/ebola-outbreak-in-dr-congo-spreads-to-new-areas/) (The Copenhagen Post); [DR Congo arrive in the US for the World Cup after Ebola quarantine](https://www.aljazeera.com/sports/2026/6/12/dr-congo-arrive-in-the-us-for-the-world-cup-after-ebola-quarantine) (Al Jazeera); [Congo’s Ebola outbreak spreads to new health zones](https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones) (The Straits Times); [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) (NBC News)
+- Evidence notes: [Missing Contacts Obscure Congo Ebola Outbreak’s True Extent](https://www.bloomberg.com/news/articles/2026-06-12/missing-contacts-obscure-congo-ebola-outbreak-s-true-extent) (Bloomberg); [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) (The Good Men Project); [Ebola outbreak in DR Congo spreads to new areas](https://cphpost.dk/2026-06-12/global/ebola-outbreak-in-dr-congo-spreads-to-new-areas/) (The Copenhagen Post); [DR Congo arrive in the US for the World Cup after Ebola quarantine](https://www.aljazeera.com/sports/2026/6/12/dr-congo-arrive-in-the-us-for-the-world-cup-after-ebola-quarantine) (Al Jazeera); [Congo’s Ebola outbreak spreads to new health zones](https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones) (The Straits Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -388,6 +388,16 @@ Search window: 7 day(s) ending 2026-06-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Missing Contacts Obscure Congo Ebola Outbreak’s True Extent
+- Source: Bloomberg
+- Date: 2026-06-12T07:06+00:00
+- URL: https://www.bloomberg.com/news/articles/2026-06-12/missing-contacts-obscure-congo-ebola-outbreak-s-true-extent
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 ### Africa Races for Ebola Vaccine as Outbreak Outpaces Response
 - Source: The Good Men Project
 - Date: 2026-06-12T05:33+00:00
@@ -398,25 +408,17 @@ Search window: 7 day(s) ending 2026-06-12
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Ebola outbreak in DR Congo spreads to new areas
-- Source: The Copenhagen Post
-- Date: 2026-06-12T05:03+00:00
-- URL: https://cphpost.dk/2026-06-12/global/ebola-outbreak-in-dr-congo-spreads-to-new-areas/
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Ebola outbreak in DR Congo spreads to new areas](https://cphpost.dk/2026-06-12/global/ebola-outbreak-in-dr-congo-spreads-to-new-areas/) | The Copenhagen Post | 2026-06-12T05:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [A cracked coffin, a funeral and the hunt for Ebola’s patient zero](https://www.japantimes.co.jp/news/2026/06/12/world/science-health/ebola-patient-zero/) | The Japan Times | 2026-06-12T04:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo arrive in the US for the World Cup after Ebola quarantine](https://www.aljazeera.com/sports/2026/6/12/dr-congo-arrive-in-the-us-for-the-world-cup-after-ebola-quarantine) | Al Jazeera | 2026-06-12T00:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo’s Ebola outbreak spreads to new health zones](https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones) | The Straits Times | 2026-06-11T22:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) | NBC News | 2026-06-11T22:09+00:00 | Outbreaks and emerging infections
+- [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlp6R1NSS2NVNndwMkV0N1lna2dKNkN5WU9vUnpneUVjeVFPcXZTdF9LWHByR0xlN0tpeVRGaW9faWRNcEowajVNaU90RFJhcEhXM3JnRXhTYXI2M0psMTNacG5FTU0xVnN4ZnhiUmZOXzk1XzMteXRDMUJyQ3FPMzlPQ1R2VE9SVl9QRVBzN0s5bXhFX1kxSk5ybmZHS2JWNzN5bi1tRTRvcGxIMnZxU2R0WnNxbWRoZEE?oc=5) | NBC News | 2026-06-11T22:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://news.google.com/rss/articles/CBMiggNBVV95cUxPamluRmFWTXNJRF9POVA3ZkdvN1BDOGxmcG8ydFZTdE9nSlgwdER0V3p0ay16NFhWQ3NJa19UMHJILWlsZE45WmtCaHNRLVROaG52OVRrUU94NVZGZkRvTEJpdzdaUC1UMmt0S3pOazZDVVlwNXdneUF3bENXTGpQQUpycnR2czA0NDY2QzVuOUtjOEppNHZIbEdaQlo5ZU41YjdvNGgwRVFDeUJxTHczWHFUc0hpTmtSV0RXQWw3RkxNTnlSQy1wbGZEVW9RUFRmQ005Y0NYb2JEMDZaaEI2S21wNGRLRU5LcDZKNlFSWVNfYjcxLVNLRzJ2Z1pjSDdnUDM2LW5FVXlvTE8zMGc2bjlYd0RBUWY5c1UwQjNiUU9leVlVQm0ydTVPT1RNcTRlR3lHclVuVEVJSnZMUV9uUnZZdkhDMWtodkhDb09qMkx0amI3WHcxa01NdFBubEd2ZTQtNHNYcDJyTTA2elhBUWJLU2ItZWN5YlVwRHJTN1pjQQ?oc=5) | The Eastleigh Voice | 2026-06-11T19:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -436,6 +438,8 @@ Search window: 7 day(s) ending 2026-06-12
   An analysis indicates that health and development programs in 29 countries could see a more than $4 billion drop in funding from the US government and the Global Fund by 2029.
 - [Recovered orphans leave an Ebola treatment center in Congo's Bunia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xb1ZmTV9pYWxwUTNzVDA5djJiMjJVOHRTOEViYmsyMzJIdnR0REVDMFIxVkxWZkVSZktEb1V2UG54ZFlHZTFXR0Z3dTV6b2NsZFpvalJCS2FpTEs2R3I3RFJBYUtVQ1U?oc=5) | Reuters | 2026-06-10T17:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [EU Rebuffs US Call for Travel Bans to Contain Ebola Outbreak](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkhadktseWZkVkd0eG1OS1FmLVFFN2wyOEJrU3psYWlaU1pYMlo4emtiMFl3S3o1cVZUZ3A1TVJRMlVqdWpoNHhBRW82QXljSWdfc0tTNDNqSi1zZTlwRGZSeTlZR3phcUNPMDZWeC0xVUlScGZ0aE8wN2gzOFZBbGg3NGhBd0hSbzd0bXJTQXZUbmpILUpNWkRJenVPcTNLaElISkQ4V2I4b2VXV1FVWQ?oc=5) | Bloomberg | 2026-06-10T16:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Saint Lucia Strengthens National Preparedness Systems Amid Global Ebola Virus Disease Outbreak](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTBnQ3RJTWhPX0I5N2lBd3N4Mm9JMENZaDZfSlR5dVdfaThqZWR1YU5wZy1rSF9FRlZjSDExd0NnSDAwbTJYSFBiZE1nM2p4ODNSZ29QNXNmRDdlZUVxMmx0R0dwRmRqNkdSeUo5SXZmOG42MWswOWZ6WmR6OXpMN3RMc0V2dmV3OXNOb2I4UnRrNjJ3MFVqSWNMQVFMNHZ4ZXQwU3hUdG5QTGJmTzh3OHIxaVdXQ0c5d0MtaHBzc2FnbWNlbXc?oc=5) | The Voice St. Lucia News | 2026-06-10T15:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Belgium rejects US World Cup demand for Congo travel ban amid Ebola outbreak](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeDBJM1VyQWZ2czlVbjBGeV9ETHd3c2RYNFNmdDJWVXh6cjM3WWo5T3diQ01sNTMtNEZfNHRzQ2d1Q21uNDFWM2llbjU4Njd5RjVNSjAybEJzVGd5YnpoRUFERXh3U09mOHlFeWNXa0hFWk42clljUFRIWGd3QUVqSVpteGduWmgzLTVqNzJ1c2w1QnM4VVU5V0dINzA?oc=5) | politico.eu | 2026-06-10T12:49+00:00 | Outbreaks and emerging infections
@@ -446,10 +450,6 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [2026 Ebola outbreak in Central Africa](https://news.google.com/rss/articles/CBMiekFVX3lxTE81eFIxVFlfNlk5SFdGZDRyN0JjQ2RWVlB0Y2Q0VkJIaTUyWjV5TXVNbmUxRnJycVFSZ1VwMGl4SkhkS0FXT0ZWbkNSeTQxLVlSYTZvT29FWmFyeGhuRzd6WWhMbmJTMEJZZHE3elgwUkdFb0hGdEppdlFn?oc=5) | Britannica | 2026-06-10T05:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak: Anger mounts in Kenya over quarantine center for American patients](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd3lSdFdJSko5VlFFcWtGN2FRUzZxQkFHVkI1bWU4emVyclQ4YzNxSjFmRlU4d1Jra0tSeW9sOGtoOEJNNTVXOUlCcTlYUWNCUGhmZTBEcFk3RW9nR0xYRHM5bml5UDA5UjFYdnlEM3VuOGN1dUpwX3lnWlJOclU2QTJJYkl6b3hFNWRhR0lfNl9WMmNYSHk0dm9WTW41WWxYSTl0Z0N4OFNqaENTa0ZtbEd1OUNpTktHQ21MNVhCRzNQczhEUGhCZXZqdG83YUwzQXZ0bjdXcFRKVmtzdUlhcEExMm1vREFxWWVNanJoNW8?oc=5) | Le Monde.fr | 2026-06-09T23:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) | Ada Derana | 2026-06-09T20:56+00:00 | Outbreaks and emerging infections
-  He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected. Perera also urged the public to be vigilant about the rising number of influenza cases, stressing that this illness can spread rapidly among children.
 
 ## Papers worth saving
 - [Predictors of prolonged decision-to-delivery interval in emergency caesarean section in Northern Uganda: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42275299/)

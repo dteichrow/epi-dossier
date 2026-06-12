@@ -2,7 +2,6 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "BBC",
       "CIDRAP",
       "NBC News",
       "NPR",
@@ -22,7 +21,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-12T01:25:21",
+  "generated_at": "2026-06-12T01:28:52",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
