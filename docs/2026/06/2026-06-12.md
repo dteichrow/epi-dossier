@@ -1,29 +1,21 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T06:16
+Generated at: 2026-06-12T06:23
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
+- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa; 2026-06-12T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses.](https://pubmed.ncbi.nlm.nih.gov/42281293/) (PubMed Infectious Disease Search; 2026-06-11T00:00; Major epidemiology studies; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Major epidemiology studies (8), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (117), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (7)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Occupational and environmental epidemiology
-- Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
-- Newly tracked story cluster: 10 item(s) across 5 source(s).
-- Baseline snapshot created with 10 clustered item(s) across 5 source(s).
-- CDC MMWR now explicitly uses investigation or monitoring language.
-- Internazionale now includes deaths or fatal cases in the story frame.
-- Internazionale now includes quarantine language.
-
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 8 item(s) across 3 source(s).
@@ -33,24 +25,31 @@ Search window: 7 day(s) ending 2026-06-12
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
-- Lead item: [WHO warns of Ebola 'blind spots' in DR Congo outbreak](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) (AnewZ)
-- Newly tracked story cluster: 21 item(s) across 19 source(s).
-- Baseline snapshot created with 21 clustered item(s) across 19 source(s).
-- Al Jazeera now includes quarantine language.
-- The Good Men Project now foregrounds vaccination or vaccine policy in the story.
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 121 item(s) across 90 source(s).
+- Baseline snapshot created with 121 clustered item(s) across 90 source(s).
+- WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+
+### Occupational and environmental epidemiology
+- Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
+- Newly tracked story cluster: 9 item(s) across 4 source(s).
+- Baseline snapshot created with 9 clustered item(s) across 4 source(s).
+- CDC MMWR now explicitly uses investigation or monitoring language.
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 21 item(s) across 19 source(s); 0 official/primary-source item(s).
-- Lead item: [WHO warns of Ebola 'blind spots' in DR Congo outbreak](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) (AnewZ, 2026-06-12T12:50+00:00)
-- Detailed note: Cluster remains active across 21 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [WHO warns of Ebola 'blind spots' in DR Congo outbreak](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) (AnewZ); ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.straitstimes.com/world/blind-spots-could-hide-full-spread-of-congos-ebola-outbreak-who-suggests) (The Straits Times); [Health Minister: Rwanda Remains Ebola-Free as Outbreak Slows in Region](https://www.ktpress.rw/2026/06/health-minister-rwanda-remains-ebola-free-as-outbreak-slows-in-region/) (KT PRESS -); [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) (The Good Men Project); [Ebola outbreak in DR Congo spreads to new areas](https://cphpost.dk/2026-06-12/global/ebola-outbreak-in-dr-congo-spreads-to-new-areas/) (The Copenhagen Post)
+- Topic size: 121 item(s) across 90 source(s); 4 official/primary-source item(s).
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
+- Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [WHO warns of Ebola 'blind spots' in DR Congo outbreak](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) (AnewZ)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 10 item(s) across 5 source(s); 8 official/primary-source item(s).
+- Topic size: 9 item(s) across 4 source(s); 8 official/primary-source item(s).
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR, 2026-06-11T17:00+00:00)
 - Detailed note: Weekly / June 11, 2026 / 75(22);274â279 Matthew Morse, MPH 1 ; Martin Zartarian, MS 1 ; Braden Savage 1 ; Patrick O’Connor 1 ; David Nicholas, MPH 2 ,3 ; Halex Jones, MPH 4 ; Christopher Gil, MPH 4 ; Danielle Wroblewski, MS 5 ; Stacey Chmura, MS 6 ; Nirupam Biswas, PhD 6 ; Craig Bocketti 6 ; Grace Willard 6 ; Seth Blumerman, PhD 5 ; Theresa Hattenrath, PhD 6 ; Donna Gowie 4 ; Lisa Mingle, PhD 5 ; Ursula Lauper,...
 - Evidence notes: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR); [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR); [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR); [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR); [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR)
@@ -75,11 +74,11 @@ Search window: 7 day(s) ending 2026-06-12
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World, 2026-06-11T14:59+00:00)
-- Detailed note: Dengue infections rising sharply in early 2026 More severe cases requiring hospital care The latest travel news now frequently includes updates about dengue risks, especially as health authorities track changing outbreak patterns across both cities and coastal tourist regions. He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection....
-- Evidence notes: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana)
+- Lead item: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana, 2026-06-09T20:56+00:00)
+- Detailed note: He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection. Deepal Perera noted that chikungunya can be fatal for pregnant women and the elderly, and it may even affect unborn babies if the mother is infected.
+- Evidence notes: [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -318,6 +317,16 @@ Search window: 7 day(s) ending 2026-06-12
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
+- Source: ECDC News
+- Date: 2026-06-12T17:36+02:00
+- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited usable detail remained after boilerplate cleanup.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 ### Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-12T09:58+00:00
@@ -363,7 +372,7 @@ Search window: 7 day(s) ending 2026-06-12
 - Date: 2026-06-11T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736
 - Category: Occupational and environmental epidemiology
-- Summary: Weekly / June 11, 2026 / 75(22);290â292 On June 5, 2026, this report was posted online as an MMWR Early Release. Richard, MPH 1, *; Isobel Routledge, PhD 2, *; Sarah Koeller, MPH 1 ; Isaac Ghinai, MBBS 1 ; Christopher H. Bruce, MD, PhD 4 ; Rebecca Kahn, PhD 1 ; Inga Holmdahl, PhD 1 ( View author affiliations ) An outbreak of Bundibugyo virus disease (BVD), a type of Ebola disease, is currently occurring, centered in the Ituri province of the Democratic Republic of the Congo (DRC).
+- Summary: This report describes the risk posed by the current Ebola outbreak to the general U.S.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -375,16 +384,6 @@ Search window: 7 day(s) ending 2026-06-12
 - Category: Occupational and environmental epidemiology
 - Summary: This report describes using a transmission model to project Ebola outbreak growth over three months.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-06-11T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42281293/
-- Category: Major epidemiology studies
-- Summary: Nairovirus glycoprotein precursor (GPC) processing requires cleavage by host protease subtilisin kexin isozyme-1 (SKI-1/S1P) to generate mature Gn, with frequent adaptive mutations observed in the RRLL cleavage site during rVSV-CCHFV rescue. Orthonairoviruses are rapidly emerging, tick-borne viruses including Crimean Congo hemorrhagic fever virus (CCHFV), a highly pathogenic virus requiring biosafety level 4 (BSL-4) containment. Targeted mutation of the SKI-1 cleavage site, resulting in uncleaved PreGn and immature Gn expression, markedly improved rVSV-CCHFV rescue efficiency when combined with Gc cytoplasmic tail truncation.
-- Why it matters: Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
@@ -408,25 +407,35 @@ Search window: 7 day(s) ending 2026-06-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### UHPR CCS Sierra Leone
+### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026
 - Source: WHO Regional Office for Africa
-- Date: 2026-06-03T12:27+00:00
-- URL: https://www.afro.who.int/publications/uhpr-ccs-sierra-leone
+- Date: 2026-06-04T18:25+00:00
+- URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation
 - Category: Outbreaks and emerging infections
-- Summary: Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
+- Summary: Since our previous update (Sitrep #2) with data as of 24 May 2026, the Democratic Republic of the Congo has reported an additional 216 laboratory-confirmed cases, including an additional 38 confirmed deaths. Democratic Republic of the Congo As of 31 May 2026, a total of 321 laboratory-confirmed cases, including 48 confirmed deaths, have been reported across the three affected provinces of Ituri, North Kivu and South Kivu in the Democratic Republic of the Congo. Of the 1077 previous suspected cases, including 246 suspected deaths reported to date, those testing positive have been reclassified as confirmed cases, while those with negative laboratory results have been discarded and removed from the case count.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) | WHO Regional Office for Africa | 2026-06-03T12:27+00:00 | Outbreaks and emerging infections
+  Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
+- [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) | WHO Regional Office for Africa | 2026-05-31T19:07+00:00 | Outbreaks and emerging infections
+  Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [WHO warns of Ebola 'blind spots' in DR Congo outbreak](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) | AnewZ | 2026-06-12T12:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.internazionale.it/ultime-notizie-reuters/2026/06/12/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) | Internazionale | 2026-06-12T11:48+00:00 | Outbreaks and emerging infections
-  She died on May 31 and her daughter died on June 1, an aid worker with knowledge of the cases told Reuters, adding that their bodies had both tested positive for Ebola after their deaths. refugee agency confirmed the first Ebola-related deaths in a displacement camp in eastern Congo, as aid workers warned of a high risk the disease could spread rapidly in overcrowded sites. The two victims were internally displaced people living in the Kpangba camp, which hosts 30,000 internally displaced people, the UNHCR said in a report published on Thursday.
+- [Ebola Outbreak Spreads to Crowded Displacement Camp in Congo](https://www.usnews.com/news/world/articles/2026-06-12/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) | U.S. News & World Report | 2026-06-12T12:01+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.straitstimes.com/world/blind-spots-could-hide-full-spread-of-congos-ebola-outbreak-who-suggests) | The Straits Times | 2026-06-12T10:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak response requires engaging with religious traditions and leaders](https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/) | statnews.com | 2026-06-12T08:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Health Minister: Rwanda Remains Ebola-Free as Outbreak Slows in Region](https://www.ktpress.rw/2026/06/health-minister-rwanda-remains-ebola-free-as-outbreak-slows-in-region/) | KT PRESS - | 2026-06-12T08:09+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Missing Contacts Obscure Congo Ebola Outbreak’s True Extent](https://www.bloomberg.com/news/articles/2026-06-12/missing-contacts-obscure-congo-ebola-outbreak-s-true-extent) | Bloomberg.com | 2026-06-12T07:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) | The Good Men Project | 2026-06-12T05:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -434,40 +443,24 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [A cracked coffin, a funeral and the hunt for Ebola’s patient zero](https://www.japantimes.co.jp/news/2026/06/12/world/science-health/ebola-patient-zero/) | The Japan Times | 2026-06-12T04:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo arrive in the US for the World Cup after Ebola quarantine](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDJBUUlBMTAtMXZUYkRtSXJqNlJZZ0JUWkJqeTZ5WFdHeldMTi1LTzliMkZWRGZBX3NvbEFyOHJvc3VkUHpOcUtnUjdjSnNxSXZBQU5uWTRRX2ZFckhUZUJiV25ja1BudzhGOWE1X19ORGg4SGNPRkNEemcxb092U2NwLVZsTnktRVd3UVJCMkpka3preWpkQTB5OHBlU0psbDRqNDNZekNUUU51dmfSAbMBQVVfeXFMTmFUSmVUeDMzQ2dzQ0lmM2syem12RFJOMHdjb2h0R190WEc4anlCRXBvS0JCQVZXNEU5TkJ6YzhPX09kbjZkRFNMRzhQUUxnNGJMSXFRVkk3ejNPSG9wRWNMRUhVUzlVTk9hQURVSVhmNWI0M0dSRHRsTXdIN0x6dTNVQ0VRbjYwQzgwSUZJMXhnaklfWGF2SVdqWjVSbUoxQkxvV2swQmhMczcwUWo1X3JwOEk?oc=5) | Al Jazeera | 2026-06-12T00:41+00:00 | Outbreaks and emerging infections
+- [DR Congo arrive in the US for the World Cup after Ebola quarantine](https://www.aljazeera.com/sports/2026/6/12/dr-congo-arrive-in-the-us-for-the-world-cup-after-ebola-quarantine) | Al Jazeera | 2026-06-12T00:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo’s Ebola outbreak spreads to new health zones](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDZFQnZhS2RsX294RHBMVHB0Q2RDd3p6NVpWRmVsOXd5a2tqbWt6ajVkZUYwQ001OHpFdU54SkJueUYtYVZnaFRoSGJ6S0l4RlJkd3hWODhTQ0NaSEhBQS1wU2Ztc185M3VtMEt5czFEN1NtRjc3THpJYWlnYWtGdXdYOUFUYVZXUDBBbQ?oc=5) | The Straits Times | 2026-06-11T22:38+00:00 | Outbreaks and emerging infections
+- [Congo’s Ebola outbreak spreads to new health zones](https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones) | The Straits Times | 2026-06-11T22:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlp6R1NSS2NVNndwMkV0N1lna2dKNkN5WU9vUnpneUVjeVFPcXZTdF9LWHByR0xlN0tpeVRGaW9faWRNcEowajVNaU90RFJhcEhXM3JnRXhTYXI2M0psMTNacG5FTU0xVnN4ZnhiUmZOXzk1XzMteXRDMUJyQ3FPMzlPQ1R2VE9SVl9QRVBzN0s5bXhFX1kxSk5ybmZHS2JWNzN5bi1tRTRvcGxIMnZxU2R0WnNxbWRoZEE?oc=5) | NBC News | 2026-06-11T22:09+00:00 | Outbreaks and emerging infections
+- [Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more](https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102) | NBC News | 2026-06-11T22:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://news.google.com/rss/articles/CBMiggNBVV95cUxPamluRmFWTXNJRF9POVA3ZkdvN1BDOGxmcG8ydFZTdE9nSlgwdER0V3p0ay16NFhWQ3NJa19UMHJILWlsZE45WmtCaHNRLVROaG52OVRrUU94NVZGZkRvTEJpdzdaUC1UMmt0S3pOazZDVVlwNXdneUF3bENXTGpQQUpycnR2czA0NDY2QzVuOUtjOEppNHZIbEdaQlo5ZU41YjdvNGgwRVFDeUJxTHczWHFUc0hpTmtSV0RXQWw3RkxNTnlSQy1wbGZEVW9RUFRmQ005Y0NYb2JEMDZaaEI2S21wNGRLRU5LcDZKNlFSWVNfYjcxLVNLRzJ2Z1pjSDdnUDM2LW5FVXlvTE8zMGc2bjlYd0RBUWY5c1UwQjNiUU9leVlVQm0ydTVPT1RNcTRlR3lHclVuVEVJSnZMUV9uUnZZdkhDMWtodkhDb09qMkx0amI3WHcxa01NdFBubEd2ZTQtNHNYcDJyTTA2elhBUWJLU2ItZWN5YlVwRHJTN1pjQQ?oc=5) | The Eastleigh Voice | 2026-06-11T19:39+00:00 | Outbreaks and emerging infections
+- [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://eastleighvoice.co.ke/says%20un%20report-%20africa%20cdc%20ebola-%20bundibugyo%20strain-%20ebola-%20ebola%20kenya-%20ebola%20outbreak%20drc-%20ebola%20response%20africa/355964/kenya-among-10-countries-at-risk-of-ebola-amid-outbreak-in-drc-and-uganda--africa-cdc) | The Eastleigh Voice | 2026-06-11T19:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in the Democratic Republic of the Congo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVRJd2M2THoyV2Nfb1owUFFRbHN6Z08xTWtGNENPLXJhVXZfVTFWVkVubzdxLU5MajZtRkhoSWFjOFlUTF83RHpHMlVEQWxQeThVbFNsSEw3WEZjc2hHaVAzSkFwX3VraDk5a1RSa0ROTzJ2ZTdIM1dwdmRoWF93RnMzWkRNVHNVQjRZaGdlWS0tVk12UlE?oc=5) | Humanitarian Coalition | 2026-06-11T15:18+00:00 | Outbreaks and emerging infections
+- [Ebola Alert: CEMAC States Coordinate Response as Outbreak Spreads](https://www.cameroon-concord.com/health/ebola-central-africa-cemac-health-ministers-emergency-talks) | cameroon-concord.com | 2026-06-11T15:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Alert: CEMAC States Coordinate Response as Outbreak Spreads](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDM0UG9DaHJTQ0IxbmlrQVk4enBRV0J2RjFVNEpZaDROZ1ZOMTFfM0ZSdHNNSEhKazlMWkVQbkg1Z2JvMFd6NmFGQ01QdXB1LUxacTM0UjRHZ2VybkxYbHp3UGc0M1lOWFhSZkpkVWlQUXJ1VFRLSk1pVmlmc2dZdTdUWmxFbEdxeXZNMnFDVTNIM3pZcEdISHgyZFh1U0NW?oc=5) | cameroon-concord.com | 2026-06-11T15:18+00:00 | Outbreaks and emerging infections
+- [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://www.euronews.com/video/2026/06/11/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear) | Euronews | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) | Travel And Tour World | 2026-06-11T14:59+00:00 | Outbreaks and emerging infections
-  Dengue infections rising sharply in early 2026 More severe cases requiring hospital care The latest travel news now frequently includes updates about dengue risks, especially as health authorities track changing outbreak patterns across both cities and coastal tourist regions. Authorities report that dengue cases are rising faster than expected, and this is already influencing tourism behaviour, especially in popular destinations.
-- [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://news.google.com/rss/articles/CBMioAFBVV95cUxPRU9Pc1R6Z21TX1pHeno0MEhBcWRMaHRBcXU0b1BodTFxUGItbUxCdjRydkU1MWJSQTRVTjhpMkdSc24tNUg0bUl0cTVsY2QtUXIydldvUG5yRHpJUmhyUThxMUFkYW1Rb2Z4Q0FrMWM0MXdjMGxnMFI4a2lHeGxsdWdJZlBzMWhDQkQydHRodkRZeFVNaFRKTkJlS0hURkd0?oc=5) | Euronews | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak: Democratic Republic of the Congo and Uganda - Externl Update 4 June 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-externl-update-4-june-2026) | ReliefWeb | 2026-06-11T09:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak: Democratic Republic of the Congo and Uganda - Externl Update 4 June 2026](https://news.google.com/rss/articles/CBMizgFBVV95cUxQMTlOOW5sZ3RVSVNkaXBzemxweUh4TWhWelhlNnJUNkdWWk9WcXRsNDdSb3FmS0lfZ3JsZmhLOGRONEQtZVRUemswVkNfMUt6ZF9kaGRfWE9MODdGclQyMXJYTG55b3ZfUnlkLTliSUNEV0M1a0gzUkJvVGtvMDJwN0M0TklKc0NDaWNtSDlpOGhSMXU5c095dEg4Skx1cnB1LXlQb3hGQzQzRG1RUDJKWUZ1UGhYTXVYMFB4czhTWGgwZ2dXN1laWGRVdTJjdw?oc=5) | ReliefWeb | 2026-06-11T09:03+00:00 | Outbreaks and emerging infections
+- [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) | The National Interest | 2026-06-11T06:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://news.google.com/rss/articles/CBMingFBVV95cUxQS1YtZTdWd1hjcm5RUTBkM3MzWFpHbUxLSnkzdlE5MnNqc09wS1lucUdUdTVJRVFrdTViTmM5OE1NY2I5eHZRMFhVUUNRN0xaRl9PdnhBMFZQcWx0ZDJLMDZzX1VVQ00wS0ZhN2pnSlhMTHhYZ3o0WHA2c1ZaNDZlM2tTWUJVZjdKVC1RcElzU2hZalhCeTNyakR4NUxZZw?oc=5) | The National Interest | 2026-06-11T06:24+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) | Bhaskar English | 2026-06-11T05:15+00:00 | Outbreaks and emerging infections
-  Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals. 77 people came into contact with the patient, two of them in the highest risk category
-- [U.S. pumps fresh $20m into Ebola fight as outbreak threatens region](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGt5N1NvQl9Ca0wzMnBKRjRZN09qc1NVMVJvNkdEdGR5OG5LcE5kVTVKZnJpV0I1ODVGOTNZTE55bkg4UHIwWVlXY204a3RieEZzZkl2bHdoNElGNVREQVRCTFRQQVJGSjZhckNSWnlJdHN4U1AzV2dCWER6S2owXzFnTDA2Mk5IMXJ2NmpKWUR1MWpOaFVHUXg2di1IMWpwQmROR3VB?oc=5) | PM News Nigeria | 2026-06-10T18:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) | CIDRAP | 2026-06-10T12:20-05:00 | Outbreaks and emerging infections
-  As of May 30, more than 500,000 doses of the Butantan-DV vaccine have been administered to healthcare workers and people aged 15 to 49 in three cities (Botucatu, Maranguape, and Nova Lima) and the Araguaina region since January. Under the Trump administration, US funding for the 29 countries from 2027 to 2029 will decline by $3.3 billion from the previous three-year period. The deaths and cases are being investigated by the Ministry of Health, the Brazilian Health Regulatory Agency (ANVISA), and the Butantan Institute.
 
 ## Papers worth saving
-- [Targeted cleavage site mutations in the Gn precursor enable efficient generation of replication-competent rVSV-based surrogates for emerging nairoviruses.](https://pubmed.ncbi.nlm.nih.gov/42281293/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/22221751.2026.2678640
-  Journal/preprint server: Emerging microbes & infections
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42281293/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42281293/
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/07853890.2026.2683160
