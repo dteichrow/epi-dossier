@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T08:00
+Generated at: 2026-06-12T08:11
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
@@ -16,14 +16,6 @@ Search window: 7 day(s) ending 2026-06-12
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 115 item(s) across 85 source(s).
-- Baseline snapshot created with 115 clustered item(s) across 85 source(s).
-- WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- AnewZ now foregrounds vaccination or vaccine policy in the story.
-
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 8 item(s) across 3 source(s).
@@ -31,6 +23,13 @@ Search window: 7 day(s) ending 2026-06-12
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
+
+### Ebola virus disease
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 115 item(s) across 86 source(s).
+- Baseline snapshot created with 115 clustered item(s) across 86 source(s).
+- WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
@@ -42,10 +41,10 @@ Search window: 7 day(s) ending 2026-06-12
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 115 item(s) across 85 source(s); 4 official/primary-source item(s).
+- Topic size: 115 item(s) across 86 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [WHO warns of Ebola 'blind spots' in DR Congo outbreak](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) (AnewZ)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak reaches IDP camp in DR Congo - first deaths recorded](https://unn.ua/en/news/ebola-outbreak-reaches-idp-camp-in-dr-congo-first-deaths-recorded) (Українські Національні Новини (УНН))
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -65,13 +64,13 @@ Search window: 7 day(s) ending 2026-06-12
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Historical epidemiology and ancient pathogens
+### Nipah virus disease
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [India to fast-track Production of Ebola Vaccines](https://moderndiplomacy.eu/2026/06/12/india-to-fast-track-production-of-ebola-vaccines/) (Modern Diplomacy, 2026-06-12T13:54+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [India to fast-track Production of Ebola Vaccines](https://moderndiplomacy.eu/2026/06/12/india-to-fast-track-production-of-ebola-vaccines/) (Modern Diplomacy); [A cracked coffin, a funeral and the hunt for Ebola’s patient zero](https://www.japantimes.co.jp/news/2026/06/12/world/science-health/ebola-patient-zero/) (The Japan Times)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Lead item: [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English, 2026-06-11T05:15+00:00)
+- Detailed note: Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals.
+- Evidence notes: [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English); [Suspected Nipah Infection Prompts High Alert in Kerala](https://theindianpractitioner.com/suspected-nipah-infection-prompts-high-alert-in-kerala/) (The Indian Practitioner)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -81,12 +80,12 @@ Search window: 7 day(s) ending 2026-06-12
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Measles transmission and vaccination
+### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [What measles reveals about health security in Southeast Asia](https://www.lowyinstitute.org/the-interpreter/what-measles-reveals-about-health-security-in-southeast-asia) (Lowy Institute, 2026-06-12T07:01+00:00)
-- Detailed note: A healthcare worker administers the measles vaccine to a primary school student during a free health check program for children in Ungaran, Central Java Province, Indonesia (WF Sihardian/NurPhoto via Getty Images) A measles resurgence shows immunity gaps and is a barometer for health system resilience following the Covid-19 pandemic. The most-pressing world events explained by Lowy Institute experts and global...
-- Evidence notes: [What measles reveals about health security in Southeast Asia](https://www.lowyinstitute.org/the-interpreter/what-measles-reveals-about-health-security-in-southeast-asia) (Lowy Institute)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Lead item: [A cracked coffin, a funeral and the hunt for Ebola’s patient zero](https://www.japantimes.co.jp/news/2026/06/12/world/science-health/ebola-patient-zero/) (The Japan Times, 2026-06-12T04:57+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [A cracked coffin, a funeral and the hunt for Ebola’s patient zero](https://www.japantimes.co.jp/news/2026/06/12/world/science-health/ebola-patient-zero/) (The Japan Times)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
@@ -426,10 +425,10 @@ Search window: 7 day(s) ending 2026-06-12
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [India to fast-track Production of Ebola Vaccines](https://moderndiplomacy.eu/2026/06/12/india-to-fast-track-production-of-ebola-vaccines/) | Modern Diplomacy | 2026-06-12T13:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Ebola outbreak reaches IDP camp in DR Congo - first deaths recorded](https://unn.ua/en/news/ebola-outbreak-reaches-idp-camp-in-dr-congo-first-deaths-recorded) | Українські Національні Новини (УНН) | 2026-06-12T13:53+00:00 | Outbreaks and emerging infections
+  The first deaths from the dangerous disease have already been confirmed in the Kpangba camp in the east of the country, UNN reports with reference to Reuters . The first Ebola deaths among displaced persons have been recorded at the Kpangba camp. Information agency «Ukrainian National News» Subject in the field of online media; media identifier - R40-05926 This resource is intended for persons who have reached the age of 21.
 - [WHO warns of Ebola 'blind spots' in DR Congo outbreak](https://anewz.tv/world/world-news/20802/ebola-continues-to-spread-with-new-cases/news) | AnewZ | 2026-06-12T12:50+00:00 | Outbreaks and emerging infections
-  Alarming data The Ebola outbreak in the Democratic Republic of Congo continues to expand, with confirmed cases now exceeding 676, including 136 deaths, according to the latest figures released by health authorities. The data includes 41 new infections and nine additional fatalities reported in the previous 24 hours. Health officials say strengthening surveillance systems and improving access to high-risk zones remain critical to preventing undetected transmission chains and limiting further spread of the virus.
+  Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Spreads to Crowded Displacement Camp in Congo](https://www.usnews.com/news/world/articles/2026-06-12/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) | U.S. News & World Report | 2026-06-12T12:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak response requires engaging with religious traditions and leaders](https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/) | statnews.com | 2026-06-12T08:34+00:00 | Outbreaks and emerging infections
@@ -438,8 +437,6 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [Missing Contacts Obscure Congo Ebola Outbreak’s True Extent](https://www.bloomberg.com/news/articles/2026-06-12/missing-contacts-obscure-congo-ebola-outbreak-s-true-extent) | Bloomberg.com | 2026-06-12T07:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What measles reveals about health security in Southeast Asia](https://www.lowyinstitute.org/the-interpreter/what-measles-reveals-about-health-security-in-southeast-asia) | Lowy Institute | 2026-06-12T07:01+00:00 | Outbreaks and emerging infections
-  A healthcare worker administers the measles vaccine to a primary school student during a free health check program for children in Ungaran, Central Java Province, Indonesia (WF Sihardian/NurPhoto via Getty Images) A measles resurgence shows immunity gaps and is a barometer for health system resilience following the Covid-19 pandemic. The most-pressing world events explained by Lowy Institute experts and global contributors, in your inbox, every Wednesday. For information on our privacy practices and how to unsubscribe, see our Privacy Policy .
 - [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) | The Good Men Project | 2026-06-12T05:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [A cracked coffin, a funeral and the hunt for Ebola’s patient zero](https://www.japantimes.co.jp/news/2026/06/12/world/science-health/ebola-patient-zero/) | The Japan Times | 2026-06-12T04:57+00:00 | Outbreaks and emerging infections
@@ -459,6 +456,8 @@ Search window: 7 day(s) ending 2026-06-12
 - [Video. Congo motorcyclists mobilise as Ebola outbreak fuels fear](https://www.euronews.com/video/2026/06/11/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear) | Euronews | 2026-06-11T11:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: Democratic Republic of the Congo and Uganda - Externl Update 4 June 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-externl-update-4-june-2026) | ReliefWeb | 2026-06-11T09:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Why the DRC’s Ebola Outbreak Is an American Strategic Failure](https://nationalinterest.org/feature/why-the-drcs-ebola-outbreak-is-an-american-strategic-failure) | The National Interest | 2026-06-11T06:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
