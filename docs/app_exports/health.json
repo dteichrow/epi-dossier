@@ -6,10 +6,9 @@
       "CIDRAP",
       "NBC News",
       "NPR",
-      "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 24,
+    "metadata_only_count": 23,
     "sources_cached": 0,
     "sources_failed": 1,
     "sources_live": 38,
@@ -23,7 +22,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-12T01:02:12",
+  "generated_at": "2026-06-12T01:21:57",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
