@@ -6,22 +6,32 @@
       "NBC News",
       "Reuters"
     ],
-    "metadata_only_count": 27,
+    "metadata_only_count": 26,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 47,
+    "sources_failed": 3,
+    "sources_live": 46,
     "story_count_change": 3,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 47,
+    "live": 46,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-12T05:39:28",
+  "generated_at": "2026-06-12T05:48:20",
   "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "rss"
+    },
+    {
+      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+      "source": "FDA Foodborne Outbreaks",
+      "source_type": "html_list"
+    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
