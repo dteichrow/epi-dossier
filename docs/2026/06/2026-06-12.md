@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T15:16
+Generated at: 2026-06-12T15:20
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-12
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (125), Policy, surveillance, and public health infrastructure (15), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (125), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -449,6 +449,8 @@ Search window: 7 day(s) ending 2026-06-12
   In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases. Over the past two months, the Pennsylvania Department of Health has identified 19 measles cases in Lebanon County, up from 12 cases the department reported in May. Department officials reported on May 6 that, following the hospitalization of three individuals from Lebanon County with measles, staff conducted contact tracing and identified additional mild cases among other county residents.
 - [Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed](https://www.bbc.com/news/articles/crlw3w84w30o) | BBC | 2026-06-12T16:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [WHO says Ebola outbreak in eastern Congo expands to 676 cases, 136 deaths](https://www.aa.com.tr/en/africa/who-says-ebola-outbreak-in-eastern-congo-expands-to-676-cases-136-deaths/3965424) | Anadolu Ajansı | 2026-06-12T15:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 12/06/2026](https://reliefweb.int/map/democratic-republic-congo/democratic-republic-congo-uganda-ebola-bundibugyo-virus-disease-outbreak-and-eu-response-dg-echo-daily-map-12062026) | ReliefWeb | 2026-06-12T15:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.detroitnews.com/story/news/world/2026/06/12/ebola-outbreak-spreads-crowded-displacement-camp-congo/90521834007/) | The Detroit News | 2026-06-12T14:01+00:00 | Outbreaks and emerging infections
@@ -464,8 +466,6 @@ Search window: 7 day(s) ending 2026-06-12
 - [Ebola outbreak response requires engaging with religious traditions and leaders](https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/) | statnews.com | 2026-06-12T08:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health Minister: Rwanda Remains Ebola-Free as Outbreak Slows in Region](https://www.ktpress.rw/2026/06/health-minister-rwanda-remains-ebola-free-as-outbreak-slows-in-region/) | KT PRESS - | 2026-06-12T08:09+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak: Uganda’s movement restrictions cripple cross-border trade](https://www.thenewhumanitarian.org/feature/2026/06/12/ebola-outbreak-uganda-movement-restrictions-cross-border-trade) | The New Humanitarian | 2026-06-12T07:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
