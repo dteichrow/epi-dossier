@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T11:30
+Generated at: 2026-06-12T11:40
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
@@ -12,10 +12,18 @@ Search window: 7 day(s) ending 2026-06-12
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (118), Policy, surveillance, and public health infrastructure (16), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (119), Policy, surveillance, and public health infrastructure (16), Occupational and environmental epidemiology (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Ebola virus disease
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 121 item(s) across 89 source(s).
+- Baseline snapshot created with 121 clustered item(s) across 89 source(s).
+- WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+- BBC now includes quarantine language.
+
 ### Occupational and environmental epidemiology
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
 - Newly tracked story cluster: 10 item(s) across 5 source(s).
@@ -31,13 +39,6 @@ Search window: 7 day(s) ending 2026-06-12
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 121 item(s) across 89 source(s).
-- Baseline snapshot created with 121 clustered item(s) across 89 source(s).
-- WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
@@ -428,8 +429,6 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [Video | Top Indian-American Doctor On Ebola Outbreak](https://www.ndtv.com/video/top-indian-american-doctor-on-ebola-outbreak-1112332) | NDTV | 2026-06-12T18:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US to provide $50 mln in funding to counter Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/us-provide-50-mln-funding-counter-ebola-outbreak-2026-06-12/) | Reuters | 2026-06-12T18:11+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Scientists Race to Test Treatments as Ebola Outbreak Widens](https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html) | The New York Times | 2026-06-12T17:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases in Congo fall but authorities issue caution](https://www.panaynews.net/ebola-cases-in-congo-fall-but-authorities-issue-caution/) | Panay News | 2026-06-12T17:03+00:00 | Outbreaks and emerging infections
@@ -444,6 +443,8 @@ Search window: 7 day(s) ending 2026-06-12
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches IDP camp in DR Congo - first deaths recorded](https://unn.ua/en/news/ebola-outbreak-reaches-idp-camp-in-dr-congo-first-deaths-recorded) | Українські Національні Новини (УНН) | 2026-06-12T13:53+00:00 | Outbreaks and emerging infections
   The first deaths from the dangerous disease have already been confirmed in the Kpangba camp in the east of the country, UNN reports with reference to Reuters . The first Ebola deaths among displaced persons have been recorded at the Kpangba camp. Information agency «Ukrainian National News» Subject in the field of online media; media identifier - R40-05926 This resource is intended for persons who have reached the age of 21.
+- [Malaria increases prompt travel notice for Yemen](https://outbreaknewstoday.substack.com/p/malaria-increases-prompt-travel-notice) | Outbreak News Today | 2026-06-12T12:33+00:00 | Outbreaks and emerging infections
+  Epidemiological surveillance data for 2025 recorded 116,000 confirmed malaria cases in Yemen, with 1259 hospitalizations and 11 deaths, according to news outlets citing the Ministry of Health in Sana’a. Malaria in Yemen is caused almost exclusively by Plasmodium falciparum , which accounted for approximately 99.5% of confirmed cases in 2023. The World Health Organization (WHO) reports that 64% of the country's population lives in high-risk areas.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-12T11:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hemorrhagic Fever Panel Tests to Africa to Address Diagnostic Gaps in Ebola Bundibugyo Outbreak](https://www.businesswire.com/news/home/20260612089761/en/Cepheid-Delivers-Xpert-Hemorrhagic-Fever-Panel-Tests-to-Africa-to-Address-Diagnostic-Gaps-in-Ebola-Bundibugyo-Outbreak) | Business Wire | 2026-06-12T10:00+00:00 | Outbreaks and emerging infections
