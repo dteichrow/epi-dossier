@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-12
-Generated at: 2026-06-12T22:53
+Generated at: 2026-06-12T23:18
 Search window: 7 day(s) ending 2026-06-12
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-12
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (119), Policy, surveillance, and public health infrastructure (12), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (120), Policy, surveillance, and public health infrastructure (12), Occupational and environmental epidemiology (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 119 item(s) across 88 source(s).
-- Baseline snapshot created with 119 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 120 item(s) across 89 source(s).
+- Baseline snapshot created with 120 clustered item(s) across 89 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - BBC now includes quarantine language.
@@ -47,7 +47,7 @@ Search window: 7 day(s) ending 2026-06-12
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 119 item(s) across 88 source(s); 4 official/primary-source item(s).
+- Topic size: 120 item(s) across 89 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) (CIDRAP)
@@ -73,10 +73,10 @@ Search window: 7 day(s) ending 2026-06-12
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Greater Bengaluru Authority sounds dengue alert as monsoon arrives in city](https://www.deccanherald.com/india/karnataka/bengaluru/greater-bengaluru-authority-sounds-dengue-alert-as-monsoon-arrivesin-city-4037513) (Deccan Herald, 2026-06-12T20:51+00:00)
-- Detailed note: Explained: How taking Kharg Island would pose risks for US troops TMC revolt: The importance of 'magic number' 19 explained Rs 370 biryani is equal to consent? Controversy involving comedian Pranit More explained; Zomato denies 'biryani bhejdu' notification FIFA World Cup 2026 | The technical marvel behind making of tournament ball 'Trionda' FIFA World Cup 2026 | Is the age of managers dawning at the...
-- Evidence notes: [Greater Bengaluru Authority sounds dengue alert as monsoon arrives in city](https://www.deccanherald.com/india/karnataka/bengaluru/greater-bengaluru-authority-sounds-dengue-alert-as-monsoon-arrivesin-city-4037513) (Deccan Herald); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. Explained: How taking Kharg...
+- Evidence notes: [Greater Bengaluru Authority sounds dengue alert as monsoon arrives in city](https://www.deccanherald.com/india/karnataka/bengaluru/greater-bengaluru-authority-sounds-dengue-alert-as-monsoon-arrivesin-city-4037513) (Deccan Herald); [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
