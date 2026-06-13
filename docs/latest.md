@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-13
-Generated at: 2026-06-13T02:51
+Generated at: 2026-06-13T02:56
 Search window: 7 day(s) ending 2026-06-13
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-13
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (121), Policy, surveillance, and public health infrastructure (9), Occupational and environmental epidemiology (6)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (9), Occupational and environmental epidemiology (6)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -40,8 +40,8 @@ Search window: 7 day(s) ending 2026-06-13
 
 ### Dengue and arboviruses
 - Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
 - Ada Derana now includes deaths or fatal cases in the story frame.
 
 
@@ -71,26 +71,26 @@ Search window: 7 day(s) ending 2026-06-13
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition, 2026-06-11T09:25+00:00)
 - Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Over 1.3 million kidney disease tablets recalled over quality issues Domestic gasoline, diesel prices to stay steady next week: CPC China Airlines to raise booking fee again in July Over 1,100 swimmers navigate Penghu Bay in inaugural Penghu Oceanman Tang Prize Foundation to unveil 2026 laureates...
-- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
+- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Vietnam reports over 50,000 dengue cases in 5 months as outbreak patterns shift - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-reports-over-50000-dengue-cases-in-5-months-as-outbreak-patterns-shift-103260611151126861.htm) (Tuoi Tre News); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Nipah virus disease
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Kerala on Nipah alert: How deadly is the virus, how does it spread and is there a treatment?](https://zeenews.india.com/health/kerala-on-nipah-alert-how-deadly-is-the-virus-how-does-it-spread-and-is-there-a-treatment-3055021/amp) (Zee News, 2026-06-13T08:32+00:00)
-- Detailed note: One of the biggest worries about Nipah is its high fatality rate, which has ranged between 40 and 75 per cent in different outbreaks. Kerala state has again come under surveillance after a case of a 43-year-old infected patient in Kozhikode district has surfaced.
-- Evidence notes: [Kerala on Nipah alert: How deadly is the virus, how does it spread and is there a treatment?](https://zeenews.india.com/health/kerala-on-nipah-alert-how-deadly-is-the-virus-how-does-it-spread-and-is-there-a-treatment-3055021/amp) (Zee News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) (CIDRAP, 2026-06-10T12:20-05:00)
-- Detailed note: As of May 30, more than 500,000 doses of the Butantan-DV vaccine have been administered to healthcare workers and people aged 15 to 49 in three cities (Botucatu, Maranguape, and Nova Lima) and the Araguaina region since January. Under the Trump administration, US funding for the 29 countries from 2027 to 2029 will decline by $3.3 billion from the previous three-year period.
+- Detailed note: An analysis indicates that health and development programs in 29 countries could see a more than $4 billion drop in funding from the US government and the Global Fund by 2029.
 - Evidence notes: [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
+### Measles transmission and vaccination
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh Reports New Measles Death as Cases Continue to Rise](https://theindianpractitioner.com/bangladesh-reports-new-measles-death-as-cases-continue-to-rise/) (The Indian Practitioner, 2026-06-13T07:08+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Bangladesh Reports New Measles Death as Cases Continue to Rise](https://theindianpractitioner.com/bangladesh-reports-new-measles-death-as-cases-continue-to-rise/) (The Indian Practitioner)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -435,8 +435,6 @@ Search window: 7 day(s) ending 2026-06-13
   Limited detail was available from feed metadata alone.
 - [UAE Aid Agency bolsters efforts to help contain Ebola outbreak](https://www.thenationalnews.com/news/uae/2026/06/13/uae-aid-agency-bolsters-efforts-to-help-contain-ebola-outbreak/) | The National | 2026-06-13T08:37+00:00 | Outbreaks and emerging infections
   Dr Tedros Adhanom Ghebreyesus, director general of the WHO, said the virus remained out of control, with 136 deaths and 689 cases confirmed according to DRC health authorities. The UAE has sent medical equipment and vaccines to central Africa, in support of efforts to contain the Ebola outbreak as cases continue to climb. "Reports and data from the WHO have demonstrated the seriousness of the active spread of Bundibugyo cross-border Ebola virus strain.
-- [Kerala on Nipah alert: How deadly is the virus, how does it spread and is there a treatment?](https://zeenews.india.com/health/kerala-on-nipah-alert-how-deadly-is-the-virus-how-does-it-spread-and-is-there-a-treatment-3055021/amp) | Zee News | 2026-06-13T08:32+00:00 | Outbreaks and emerging infections
-  One of the biggest worries about Nipah is its high fatality rate, which has ranged between 40 and 75 per cent in different outbreaks. Kerala state has again come under surveillance after a case of a 43-year-old infected patient in Kozhikode district has surfaced. “Simple precautions can significantly reduce the risk of transmission,” adds Dr Pahuja.
 - [Ebola continues to spread across eastern DR Congo as cases rise](https://www.turkiyetoday.com/lifestyle/ebola-continues-to-spread-across-eastern-dr-congo-as-cases-rise-3221833) | Türkiye Today | 2026-06-13T06:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP | 2026-06-12T20:51+00:00 | Outbreaks and emerging infections
@@ -464,6 +462,8 @@ Search window: 7 day(s) ending 2026-06-13
 - [Health Minister: Rwanda Remains Ebola-Free as Outbreak Slows in Region](https://www.ktpress.rw/2026/06/health-minister-rwanda-remains-ebola-free-as-outbreak-slows-in-region/) | KT PRESS - | 2026-06-12T08:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Uganda’s movement restrictions cripple cross-border trade](https://www.thenewhumanitarian.org/feature/2026/06/12/ebola-outbreak-uganda-movement-restrictions-cross-border-trade) | The New Humanitarian | 2026-06-12T07:28+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) | The Good Men Project | 2026-06-12T05:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -495,6 +495,8 @@ Search window: 7 day(s) ending 2026-06-13
 ## Historical epi / weird epi corner
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
+- [Vietnam reports over 50,000 dengue cases in 5 months as outbreak patterns shift - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-reports-over-50000-dengue-cases-in-5-months-as-outbreak-patterns-shift-103260611151126861.htm) | Tuoi Tre News
+  Vietnam recorded more than 50,000 dengue fever cases in the first five months of 2026, up 2.5 times from a year earlier, health officials and experts said on Wednesday, warning that outbreaks are becoming increasingly unpredictable and no longer following historical patterns. Cases have been reported across most parts of the country, including northern provinces that historically recorded relatively few infections. Vo Hai Son, deputy director of the Ministry of Health's Department of Preventive Medicine, said dengue infections remained elevated in November and December 2025 instead of declining toward the end of the year as they had in previous years.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
