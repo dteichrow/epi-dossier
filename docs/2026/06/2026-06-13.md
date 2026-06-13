@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-13
-Generated at: 2026-06-13T01:56
+Generated at: 2026-06-13T02:02
 Search window: 7 day(s) ending 2026-06-13
 
 ## Executive scan
@@ -38,12 +38,6 @@ Search window: 7 day(s) ending 2026-06-13
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
-### Dengue and arboviruses
-- Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Ada Derana now includes deaths or fatal cases in the story frame.
-
 
 ## Major topics
 ### Ebola virus disease
@@ -71,10 +65,10 @@ Search window: 7 day(s) ending 2026-06-13
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition, 2026-06-11T09:25+00:00)
-- Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Over 1.3 million kidney disease tablets recalled over quality issues Domestic gasoline, diesel prices to stay steady next week: CPC China Airlines to raise booking fee again in July Over 1,100 swimmers navigate Penghu Bay in inaugural Penghu Oceanman Tang Prize Foundation to unveil 2026 laureates...
-- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
+- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. He warned that dengue can be...
+- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -86,12 +80,12 @@ Search window: 7 day(s) ending 2026-06-13
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### Measles transmission and vaccination
+### Historical epidemiology and ancient pathogens
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh Reports New Measles Death as Cases Continue to Rise](https://theindianpractitioner.com/bangladesh-reports-new-measles-death-as-cases-continue-to-rise/) (The Indian Practitioner, 2026-06-13T07:08+00:00)
+- Lead item: [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) (The Japan Times, 2026-06-10T01:19+00:00)
 - Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Bangladesh Reports New Measles Death as Cases Continue to Rise](https://theindianpractitioner.com/bangladesh-reports-new-measles-death-as-cases-continue-to-rise/) (The Indian Practitioner)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Evidence notes: [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) (The Japan Times)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
