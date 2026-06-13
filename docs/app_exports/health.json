@@ -12,21 +12,21 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 123,
+    "metadata_only_count": 117,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 144,
+    "sources_failed": 3,
+    "sources_live": 138,
     "story_count_change": 4,
     "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 144,
+    "live": 138,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-13T13:45:27",
+  "generated_at": "2026-06-13T13:58:33",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
@@ -41,11 +41,6 @@
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
-      "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.dshs.texas.gov', port=443): Read timed out. (read timeout=8)",
-      "source": "Texas Department of State Health Services News",
       "source_type": "html_list"
     }
   ]
