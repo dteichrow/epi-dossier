@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-13
-Generated at: 2026-06-13T01:17
+Generated at: 2026-06-13T01:19
 Search window: 7 day(s) ending 2026-06-13
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-13
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (10), Occupational and environmental epidemiology (6)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (118), Policy, surveillance, and public health infrastructure (10), Occupational and environmental epidemiology (6)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 121 item(s) across 90 source(s).
-- Baseline snapshot created with 121 clustered item(s) across 90 source(s).
+- Newly tracked story cluster: 117 item(s) across 87 source(s).
+- Baseline snapshot created with 117 clustered item(s) across 87 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - CIDRAP now foregrounds vaccination or vaccine policy in the story.
@@ -38,16 +38,10 @@ Search window: 7 day(s) ending 2026-06-13
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
-### Dengue and arboviruses
-- Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Ada Derana now includes deaths or fatal cases in the story frame.
-
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 121 item(s) across 90 source(s); 4 official/primary-source item(s).
+- Topic size: 117 item(s) across 87 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola continues to spread across eastern DR Congo as cases rise](https://www.turkiyetoday.com/lifestyle/ebola-continues-to-spread-across-eastern-dr-congo-as-cases-rise-3221833) (Türkiye Today)
@@ -70,29 +64,29 @@ Search window: 7 day(s) ending 2026-06-13
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition, 2026-06-11T09:25+00:00)
-- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. Explained: How taking Kharg...
-- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [Greater Bengaluru Authority sounds dengue alert as monsoon arrives in city](https://www.deccanherald.com/india/karnataka/bengaluru/greater-bengaluru-authority-sounds-dengue-alert-as-monsoon-arrivesin-city-4037513) (Deccan Herald)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
 ### Measles transmission and vaccination
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News, 2026-06-12T16:55+00:00)
 - Detailed note: In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases. Over the past two months, the Pennsylvania Department of Health has identified 19 measles cases in Lebanon County, up from 12 cases the department reported in May.
 - Evidence notes: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [Bangladesh Reports New Measles Death as Cases Continue to Rise](https://theindianpractitioner.com/bangladesh-reports-new-measles-death-as-cases-continue-to-rise/) (The Indian Practitioner)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Hantavirus and cruise-ship outbreak
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) (CIDRAP, 2026-06-10T12:20-05:00)
-- Detailed note: As of May 30, more than 500,000 doses of the Butantan-DV vaccine have been administered to healthcare workers and people aged 15 to 49 in three cities (Botucatu, Maranguape, and Nova Lima) and the Araguaina region since January. Under the Trump administration, US funding for the 29 countries from 2027 to 2029 will decline by $3.3 billion from the previous three-year period.
-- Evidence notes: [Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home](https://www.cidrap.umn.edu/dengue/quick-takes-less-funding-global-health-dengue-vaccine-campaign-halted-brazil-more-us) (CIDRAP)
+### Historical epidemiology and ancient pathogens
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [India to fast-track Production of Ebola Vaccines](https://moderndiplomacy.eu/2026/06/12/india-to-fast-track-production-of-ebola-vaccines/) (Modern Diplomacy, 2026-06-12T13:54+00:00)
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [India to fast-track Production of Ebola Vaccines](https://moderndiplomacy.eu/2026/06/12/india-to-fast-track-production-of-ebola-vaccines/) (Modern Diplomacy); [U.S. urges Europe to impose Ebola travel bans ahead of World Cup](https://www.japantimes.co.jp/news/2026/06/10/world/science-health/us-europe-ebola-travel-world-cup/) (The Japan Times)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition, 2026-06-11T09:25+00:00)
+- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. He warned that dengue can be...
+- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -445,11 +439,15 @@ Search window: 7 day(s) ending 2026-06-13
   In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases. Over the past two months, the Pennsylvania Department of Health has identified 19 measles cases in Lebanon County, up from 12 cases the department reported in May. Department officials reported on May 6 that, following the hospitalization of three individuals from Lebanon County with measles, staff conducted contact tracing and identified additional mild cases among other county residents.
 - [Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed](https://www.bbc.com/news/articles/crlw3w84w30o) | BBC | 2026-06-12T16:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Cepheid Deploys Hemorrhagic Fever Tests to Support Ebola Bundibugyo Outbreak Response in Africa](https://www.tipranks.com/news/private-companies/cepheid-deploys-hemorrhagic-fever-tests-to-support-ebola-bundibugyo-outbreak-response-in-africa) | TipRanks | 2026-06-12T16:28+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO says Ebola outbreak in eastern Congo expands to 676 cases, 136 deaths](https://www.aa.com.tr/en/africa/who-says-ebola-outbreak-in-eastern-congo-expands-to-676-cases-136-deaths/3965424) | Anadolu Ajansı | 2026-06-12T15:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 12/06/2026](https://reliefweb.int/map/democratic-republic-congo/democratic-republic-congo-uganda-ebola-bundibugyo-virus-disease-outbreak-and-eu-response-dg-echo-daily-map-12062026) | ReliefWeb | 2026-06-12T15:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Spreads to Crowded Displacement Camp in Congo](https://www.usnews.com/news/world/articles/2026-06-12/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) | U.S. News & World Report | 2026-06-12T14:56+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [India to fast-track Production of Ebola Vaccines](https://moderndiplomacy.eu/2026/06/12/india-to-fast-track-production-of-ebola-vaccines/) | Modern Diplomacy | 2026-06-12T13:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-12T11:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -460,10 +458,6 @@ Search window: 7 day(s) ending 2026-06-13
 - [Ebola outbreak response requires engaging with religious traditions and leaders](https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/) | statnews.com | 2026-06-12T08:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health Minister: Rwanda Remains Ebola-Free as Outbreak Slows in Region](https://www.ktpress.rw/2026/06/health-minister-rwanda-remains-ebola-free-as-outbreak-slows-in-region/) | KT PRESS - | 2026-06-12T08:09+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak: Uganda’s movement restrictions cripple cross-border trade](https://www.thenewhumanitarian.org/feature/2026/06/12/ebola-outbreak-uganda-movement-restrictions-cross-border-trade) | The New Humanitarian | 2026-06-12T07:28+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa Races for Ebola Vaccine as Outbreak Outpaces Response](https://goodmenproject.com/featured-content/africa-races-for-ebola-vaccine-as-outbreak-outpaces-response/) | The Good Men Project | 2026-06-12T05:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
