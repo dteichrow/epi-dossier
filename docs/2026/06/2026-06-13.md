@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-13
-Generated at: 2026-06-13T21:10
+Generated at: 2026-06-13T21:17
 Search window: 7 day(s) ending 2026-06-13
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-13
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (129), Policy, surveillance, and public health infrastructure (9), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (128), Policy, surveillance, and public health infrastructure (9), Occupational and environmental epidemiology (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,11 +26,10 @@ Search window: 7 day(s) ending 2026-06-13
 
 ### Occupational and environmental epidemiology
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
-- Newly tracked story cluster: 10 item(s) across 5 source(s).
-- Baseline snapshot created with 10 clustered item(s) across 5 source(s).
+- Newly tracked story cluster: 9 item(s) across 4 source(s).
+- Baseline snapshot created with 9 clustered item(s) across 4 source(s).
 - CDC MMWR now explicitly uses investigation or monitoring language.
-- The Detroit News now includes deaths or fatal cases in the story frame.
-- The Detroit News now includes quarantine language.
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa)
@@ -40,7 +39,7 @@ Search window: 7 day(s) ending 2026-06-13
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
-- Lead item: [Vietnam dengue surge 2026 raises red flags for travelers](https://www.thetraveler.org/vietnam-dengue-surge-2026-raises-red-flags-for-travelers/) (thetraveler.org)
+- Lead item: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Ada Derana now includes deaths or fatal cases in the story frame.
@@ -51,12 +50,12 @@ Search window: 7 day(s) ending 2026-06-13
 - Topic size: 126 item(s) across 90 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) (CityNews Halifax)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Four health workers recover from Ebola in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/four-health-workers-recover-ebola-democratic-republic-congo) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://kitchener.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) (CityNews Kitchener)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 10 item(s) across 5 source(s); 8 official/primary-source item(s).
+- Topic size: 9 item(s) across 4 source(s); 8 official/primary-source item(s).
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR, 2026-06-11T17:00+00:00)
 - Detailed note: Weekly / June 11, 2026 / 75(22);274â279 Matthew Morse, MPH 1 ; Martin Zartarian, MS 1 ; Braden Savage 1 ; Patrick O’Connor 1 ; David Nicholas, MPH 2 ,3 ; Halex Jones, MPH 4 ; Christopher Gil, MPH 4 ; Danielle Wroblewski, MS 5 ; Stacey Chmura, MS 6 ; Nirupam Biswas, PhD 6 ; Craig Bocketti 6 ; Grace Willard 6 ; Seth Blumerman, PhD 5 ; Theresa Hattenrath, PhD 6 ; Donna Gowie 4 ; Lisa Mingle, PhD 5 ; Ursula Lauper,...
 - Evidence notes: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR); [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR); [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR); [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR); [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR)
@@ -73,9 +72,9 @@ Search window: 7 day(s) ending 2026-06-13
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Vietnam dengue surge 2026 raises red flags for travelers](https://www.thetraveler.org/vietnam-dengue-surge-2026-raises-red-flags-for-travelers/) (thetraveler.org, 2026-06-11T21:02+00:00)
-- Detailed note: United Flight 592 From Charleston Diverts to Indianapolis Long Thanh Mega Airport Reaches Key Launch Milestone Japan Airlines’ 2026 A350-1000 Economy Rewrites Long-Haul Comfort Vietnam’s fast escalating dengue fever surge in early 2026 is beginning to reshape travel decisions, as rapidly rising case numbers in major tourist cities coincide with the onset of the rainy season and trigger a wave of health advisories...
-- Evidence notes: [Vietnam dengue surge 2026 raises red flags for travelers](https://www.thetraveler.org/vietnam-dengue-surge-2026-raises-red-flags-for-travelers/) (thetraveler.org); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
+- Lead item: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World, 2026-06-11T14:59+00:00)
+- Detailed note: Dengue infections rising sharply in early 2026 More severe cases requiring hospital care The latest travel news now frequently includes updates about dengue risks, especially as health authorities track changing outbreak patterns across both cities and coastal tourist regions. He warned that dengue can be fatal, while children affected by chikungunya may suffer from severe joint pain for months after infection....
+- Evidence notes: [Vietnam Travel Alert Escalates as Dengue Fever Surge 2026 Spreads Rapidly Across Tourist Hotspots Triggering Widespread Health Warnings and Forcing Travelers to Rethink Plans Amid Expanding Outbreak Crisis – New Update You Need to Know](https://www.travelandtourworld.com/news/article/gdiiwip8jp70/) (Travel And Tour World); [Health authorities warn of spike in dengue and chikungunya cases](https://adaderana.lk/news/109066) (Ada Derana); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -432,7 +431,7 @@ Search window: 7 day(s) ending 2026-06-13
   Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Collins Boakye-Agyemang Communications and marketing officer Tel: + 242 06 520 65 65 (WhatsApp) Email: boakyeagyemangc [at] who.int (boakyeagyemangc[at]who[dot]int) Related Links Bundibugyo virus disease outbreak - Democratic Republic of the Congo carousel-bg As of 31 May, there were 210 confirmed cases reported in the country, with 17 confirmed deaths. 349 suspected cases are under investigations.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) | CityNews Halifax | 2026-06-13T22:06+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://kitchener.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) | CityNews Kitchener | 2026-06-13T22:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video: Congo's burial teams fight Ebola one coffin at a time](https://www.livetube.tv/news/video-congos-burial-teams-fight-ebola-one-coffin-at-a-time) | LiveTube | 2026-06-13T19:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -460,8 +459,8 @@ Search window: 7 day(s) ending 2026-06-13
   Limited detail was available from feed metadata alone.
 - [Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 12/06/2026](https://reliefweb.int/map/democratic-republic-congo/democratic-republic-congo-uganda-ebola-bundibugyo-virus-disease-outbreak-and-eu-response-dg-echo-daily-map-12062026) | ReliefWeb | 2026-06-12T15:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.detroitnews.com/story/news/world/2026/06/12/ebola-outbreak-spreads-crowded-displacement-camp-congo/90521834007/) | The Detroit News | 2026-06-12T14:01+00:00 | Outbreaks and emerging infections
-  She died on May 31 and her daughter died on June 1, an aid worker with knowledge of the cases told Reuters, adding that their bodies had both tested positive for Ebola after their deaths. refugee agency confirmed the first Ebola-related deaths in a displacement camp in eastern Congo, as aid workers warned of a high risk the disease could spread rapidly in overcrowded sites. The two victims were internally displaced people living in the Kpangba camp, which hosts 30,000 internally displaced people, the UNHCR said in a report published on Thursday.
+- [Ebola Outbreak Spreads to Crowded Displacement Camp in Congo](https://www.usnews.com/news/world/articles/2026-06-12/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo) | U.S. News & World Report | 2026-06-12T14:56+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-12T11:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.reuters.com/business/healthcare-pharmaceuticals/blind-spots-could-hide-full-spread-congos-ebola-outbreak-who-suggests-2026-06-12/) | Reuters | 2026-06-12T10:43+00:00 | Outbreaks and emerging infections
