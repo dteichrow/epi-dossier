@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-14
-Generated at: 2026-06-14T16:16
+Generated at: 2026-06-14T16:31
 Search window: 7 day(s) ending 2026-06-14
 
 ## Executive scan
@@ -81,7 +81,7 @@ Search window: 7 day(s) ending 2026-06-14
 - Detailed note: With the latest fatalities, the number of suspected measles deaths has increased to 560, while the number of laboratory-confirmed measles deaths is unchanged at 92, United News of Bangladesh (UNB) reported. As many as 1,052 new suspected measles cases were reported in Bangladesh during the 24-hour period, raising the number of measles-suspected cases in the country to 85,951. A healthcare worker administers the...
 - Evidence notes: [Bangladesh measles outbreak claims four more lives, death toll crosses 650 - India Tribune](https://www.indiatribune.com/public/bangladesh-measles-outbreak-claims-four-more-lives-death-toll-crosses-650) (India Tribune - Chicago); [What measles reveals about health security in Southeast Asia](https://www.lowyinstitute.org/the-interpreter/what-measles-reveals-about-health-security-in-southeast-asia) (Lowy Institute); [State, local officials urge care as measles cases rise in Lebanon Co.](https://keystonenewsroom.com/news/crime-safety/state-local-officials-urge-care-as-measles-cases-rise-in-lebanon-co/) (The Keystone Newsroom)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
