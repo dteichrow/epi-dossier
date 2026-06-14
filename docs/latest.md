@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-14
-Generated at: 2026-06-14T03:16
+Generated at: 2026-06-14T03:30
 Search window: 7 day(s) ending 2026-06-14
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-14
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (121), Policy, surveillance, and public health infrastructure (9), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (8), Occupational and environmental epidemiology (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-06-14
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 116 item(s) across 84 source(s).
-- Baseline snapshot created with 116 clustered item(s) across 84 source(s).
+- Newly tracked story cluster: 116 item(s) across 83 source(s).
+- Baseline snapshot created with 116 clustered item(s) across 83 source(s).
 - Reuters now reports conflict over body retrieval or burial practices.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -48,10 +48,10 @@ Search window: 7 day(s) ending 2026-06-14
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 116 item(s) across 84 source(s); 3 official/primary-source item(s).
+- Topic size: 116 item(s) across 83 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: Since our previous update (Sitrep #2) with data as of 24 May 2026, the Democratic Republic of the Congo has reported an additional 216 laboratory-confirmed cases, including an additional 38 confirmed deaths. Democratic Republic of the Congo As of 31 May 2026, a total of 321 laboratory-confirmed cases, including 48 confirmed deaths, have been reported across the three affected provinces of Ituri, North Kivu and...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) (CityNews Halifax); [Congo's burial teams fight Ebola one coffin at a time](https://www.reuters.com/video/watch/idRW861513062026RP1/) (Reuters)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) (CityNews Halifax); [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -432,6 +432,8 @@ Search window: 7 day(s) ending 2026-06-14
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) | CityNews Halifax | 2026-06-14T10:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-14T04:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [8 years, multiple outbreaks: Why Kerala remains India’s nipah hotspot](https://timesofindia.indiatimes.com/city/delhi/8-years-multiple-outbreaks-why-kerala-remains-indias-nipah-hotspot/articleshow/131714883.cms) | The Times of India | 2026-06-14T03:02+00:00 | Outbreaks and emerging infections
   She specializes in health and heritage reporting, expertly simplifying complex health information to make it engaging and understandable for readers. Read More US-Israel-Iran War News Live Updates: Iran and US 'Islamabad Agreement' remains prospective; US downs Iranian drones Quote of the day by Kobe Bryant: "Thereâs a choice that we have to make as people, as individuals. Over the years, she has worked in Chandigarh, Chhattisgarh and West UP, gaining diverse on-ground experience that shapes her storytelling.
 - [Congo's burial teams fight Ebola one coffin at a time](https://www.reuters.com/video/watch/idRW861513062026RP1/) | Reuters | 2026-06-13T19:30+00:00 | Outbreaks and emerging infections
@@ -443,9 +445,7 @@ Search window: 7 day(s) ending 2026-06-14
 - [Scientists Race to Test Treatments as Ebola Outbreak Widens](https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html) | The New York Times | 2026-06-13T08:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [In DR Congo displacement camp, Ebola warnings meet dry taps, crowded shelters](https://eastleighvoice.co.ke/headlines/367123/in-dr-congo-displacement-camp-ebola-warnings-meet-dry-taps-crowded-shelters) | The Eastleigh Voice | 2026-06-13T04:05+00:00 | Outbreaks and emerging infections
-  The taps are dry." More To Read EAC secures Sh1.2 billion German funding to boost Ebola, Mpox response Uganda slams ‘unfair’ Ebola travel bans as Israel expands restrictions to Kenya, neighbours US commits Sh6.5 billion to Ebola response as Laikipia quarantine facility row rages MSF opens Ebola simulation centre in Nairobi to boost regional emergency response Kenyans barred from Israel‑bound flights amid Ebola spread in eastern DRC Ebola cases in DR Congo rise to 676 amid community transmission Bunia is one of the epicentres of the Ebola outbreak, which has so far infected 676 people and killed 136. According to the World Food Programme, 7.8 million people are internally displaced across the country, while 26.5 million face acute food insecurity. Advertisement Local media, citing camp officials, estimate that at least 11,700 people live in the camp, spread across about 2,600 households, though local sources say the actual population may be significantly higher.
-- [Missing contacts obscure Congo Ebola outbreak’s true extent](https://www.spokesman.com/stories/2026/jun/12/missing-contacts-obscure-congo-ebola-outbreaks-tru/) | The Spokesman-Review | 2026-06-13T01:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+  The taps are dry." More To Read Mombasa Senator Faki calls for Ebola screening at Northern Corridor weighbridges EAC secures Sh1.2 billion German funding to boost Ebola, Mpox response Uganda slams ‘unfair’ Ebola travel bans as Israel expands restrictions to Kenya, neighbours US commits Sh6.5 billion to Ebola response as Laikipia quarantine facility row rages MSF opens Ebola simulation centre in Nairobi to boost regional emergency response Kenyans barred from Israel‑bound flights amid Ebola spread in eastern DRC Bunia is one of the epicentres of the Ebola outbreak, which has so far infected 676 people and killed 136. According to the World Food Programme, 7.8 million people are internally displaced across the country, while 26.5 million face acute food insecurity. Advertisement Local media, citing camp officials, estimate that at least 11,700 people live in the camp, spread across about 2,600 households, though local sources say the actual population may be significantly higher.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP | 2026-06-12T20:51+00:00 | Outbreaks and emerging infections
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 - [Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed](https://www.bbc.com/news/articles/crlw3w84w30o) | BBC | 2026-06-12T16:41+00:00 | Outbreaks and emerging infections
