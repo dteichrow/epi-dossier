@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-14
-Generated at: 2026-06-14T00:16
+Generated at: 2026-06-14T00:20
 Search window: 7 day(s) ending 2026-06-14
 
 ## Executive scan
@@ -436,8 +436,6 @@ Search window: 7 day(s) ending 2026-06-14
   Limited detail was available from feed metadata alone.
 - [WHO director-general is profoundly concerned after visit to Ebola outbreak area](https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/) | statnews.com | 2026-06-13T13:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola cases in Congo rise to 689, death toll reaches 139](https://www.easternmirrornagaland.com/ebola-cases-in-congo-rise-to-689-death-toll-reaches-139) | Eastern Mirror | 2026-06-13T08:51+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Scientists Race to Test Treatments as Ebola Outbreak Widens](https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html) | The New York Times | 2026-06-13T08:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP | 2026-06-12T20:51+00:00 | Outbreaks and emerging infections
@@ -459,6 +457,8 @@ Search window: 7 day(s) ending 2026-06-14
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-12T11:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.reuters.com/business/healthcare-pharmaceuticals/blind-spots-could-hide-full-spread-congos-ebola-outbreak-who-suggests-2026-06-12/) | Reuters | 2026-06-12T10:43+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Hemorrhagic Fever Panel Tests to Africa to Address Diagnostic Gaps in Ebola Bundibugyo Outbreak](https://www.businesswire.com/news/home/20260612089761/en/Cepheid-Delivers-Xpert-Hemorrhagic-Fever-Panel-Tests-to-Africa-to-Address-Diagnostic-Gaps-in-Ebola-Bundibugyo-Outbreak) | Business Wire | 2026-06-12T10:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
