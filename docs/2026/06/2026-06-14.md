@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-14
-Generated at: 2026-06-14T00:40
+Generated at: 2026-06-14T01:00
 Search window: 7 day(s) ending 2026-06-14
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-14
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (123), Policy, surveillance, and public health infrastructure (9), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (131), Policy, surveillance, and public health infrastructure (8), Occupational and environmental epidemiology (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 120 item(s) across 87 source(s).
-- Baseline snapshot created with 120 clustered item(s) across 87 source(s).
+- Newly tracked story cluster: 128 item(s) across 93 source(s).
+- Baseline snapshot created with 128 clustered item(s) across 93 source(s).
 - LiveTube now reports conflict over body retrieval or burial practices.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - NDTV now foregrounds vaccination or vaccine policy in the story.
@@ -42,10 +42,10 @@ Search window: 7 day(s) ending 2026-06-14
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 120 item(s) across 87 source(s); 3 official/primary-source item(s).
+- Topic size: 128 item(s) across 93 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: Since our previous update (Sitrep #2) with data as of 24 May 2026, the Democratic Republic of the Congo has reported an additional 216 laboratory-confirmed cases, including an additional 38 confirmed deaths. Democratic Republic of the Congo As of 31 May 2026, a total of 321 laboratory-confirmed cases, including 48 confirmed deaths, have been reported across the three affected provinces of Ituri, North Kivu and...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) (CityNews Halifax); [Video: Congo's burial teams fight Ebola one coffin at a time](https://www.livetube.tv/news/video-congos-burial-teams-fight-ebola-one-coffin-at-a-time) (LiveTube)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) (CityNews Halifax); [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -65,18 +65,10 @@ Search window: 7 day(s) ending 2026-06-14
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News, 2026-06-12T16:55+00:00)
-- Detailed note: In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases. Over the past two months, the Pennsylvania Department of Health has identified 19 measles cases in Lebanon County, up from 12 cases the department reported in May. A healthcare worker administers the measles vaccine to a primary school student during a free health check...
-- Evidence notes: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [What measles reveals about health security in Southeast Asia](https://www.lowyinstitute.org/the-interpreter/what-measles-reveals-about-health-security-in-southeast-asia) (Lowy Institute)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka, 2026-06-01T07:00+00:00)
-- Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Taiwan headline news Taiwan mixed team wins compound gold at Archery World Cup event KMT official's 'shared heritage' pitch at China forum draws MAC rebuke NTU forms AI governance group focused on access, shared resources Taiwan mangoes enter French market, targeting premium channels Taiwan mixed...
+- Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Australian swimmer wins two events at inaugural Penghu Oceanman 2 Mercury viewing events coming this week: Astronomical Museum Taiwan headline news Taiwan mixed team wins compound gold at Archery World Cup event KMT official's 'shared heritage' pitch at China forum draws MAC rebuke Australian...
 - Evidence notes: [Dengue, Chikungunya cases surge after rains - Daily Mirror](https://www.dailymirror.lk/breaking-news/Dengue-Chikungunya-cases-surge-after-rains/108-341668) (Daily Mirror - Sri Lanka); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
@@ -86,6 +78,14 @@ Search window: 7 day(s) ending 2026-06-14
 - Lead item: [8 years, multiple outbreaks: Why Kerala remains India’s nipah hotspot](https://timesofindia.indiatimes.com/city/delhi/8-years-multiple-outbreaks-why-kerala-remains-indias-nipah-hotspot/articleshow/131714883.cms) (The Times of India, 2026-06-14T03:02+00:00)
 - Detailed note: She specializes in health and heritage reporting, expertly simplifying complex health information to make it engaging and understandable for readers. Read More US-Israel-Iran War News Live Updates: Iran and US 'Islamabad Agreement' remains prospective; US downs Iranian drones Quote of the day by Kobe Bryant: "Thereâs a choice that we have to make as people, as individuals.
 - Evidence notes: [8 years, multiple outbreaks: Why Kerala remains India’s nipah hotspot](https://timesofindia.indiatimes.com/city/delhi/8-years-multiple-outbreaks-why-kerala-remains-indias-nipah-hotspot/articleshow/131714883.cms) (The Times of India)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
+### Measles transmission and vaccination
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [What measles reveals about health security in Southeast Asia](https://www.lowyinstitute.org/the-interpreter/what-measles-reveals-about-health-security-in-southeast-asia) (Lowy Institute, 2026-06-12T07:01+00:00)
+- Detailed note: A healthcare worker administers the measles vaccine to a primary school student during a free health check program for children in Ungaran, Central Java Province, Indonesia (WF Sihardian/NurPhoto via Getty Images) A measles resurgence shows immunity gaps and is a barometer for health system resilience following the Covid-19 pandemic. The most-pressing world events explained by Lowy Institute experts and global...
+- Evidence notes: [What measles reveals about health security in Southeast Asia](https://www.lowyinstitute.org/the-interpreter/what-measles-reveals-about-health-security-in-southeast-asia) (Lowy Institute)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -426,11 +426,11 @@ Search window: 7 day(s) ending 2026-06-14
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) | CityNews Halifax | 2026-06-14T07:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-14T04:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [8 years, multiple outbreaks: Why Kerala remains India’s nipah hotspot](https://timesofindia.indiatimes.com/city/delhi/8-years-multiple-outbreaks-why-kerala-remains-indias-nipah-hotspot/articleshow/131714883.cms) | The Times of India | 2026-06-14T03:02+00:00 | Outbreaks and emerging infections
   She specializes in health and heritage reporting, expertly simplifying complex health information to make it engaging and understandable for readers. Read More US-Israel-Iran War News Live Updates: Iran and US 'Islamabad Agreement' remains prospective; US downs Iranian drones Quote of the day by Kobe Bryant: "Thereâs a choice that we have to make as people, as individuals. Over the years, she has worked in Chandigarh, Chhattisgarh and West UP, gaining diverse on-ground experience that shapes her storytelling.
 - [Video: Congo's burial teams fight Ebola one coffin at a time](https://www.livetube.tv/news/video-congos-burial-teams-fight-ebola-one-coffin-at-a-time) | LiveTube | 2026-06-13T19:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-13T15:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Israel Issues Travel Ban for Kenya, 4 Other East African Countries over Ebola Outbreak](https://www.tuko.co.ke/world/629458-israel-issues-travel-ban-kenya-4-east-african-countries-ebola-outbreak/) | Tuko News | 2026-06-13T14:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -438,15 +438,21 @@ Search window: 7 day(s) ending 2026-06-14
   Limited detail was available from feed metadata alone.
 - [WHO director-general is profoundly concerned after visit to Ebola outbreak area](https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/) | statnews.com | 2026-06-13T13:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola cases in Congo rise to 689, death toll reaches 139](https://www.easternmirrornagaland.com/ebola-cases-in-congo-rise-to-689-death-toll-reaches-139) | Eastern Mirror | 2026-06-13T08:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [UAE Aid Agency bolsters efforts to help contain Ebola outbreak](https://www.thenationalnews.com/news/uae/2026/06/13/uae-aid-agency-bolsters-efforts-to-help-contain-ebola-outbreak/) | The National | 2026-06-13T08:37+00:00 | Outbreaks and emerging infections
+  WHO reports 689 confirmed cases and 136 deaths, with infections spanning multiple health zones across Ituri and South Kivu provinces. Regional risk to the UAE remains extremely low, while Dubai’s MSF office supports mapping and response coordination in affected areas. “We're now at just over 70 per cent in terms of the contacts that are being appropriately traced,” said the WHO’s head of epidemiology and analytics.
 - [Scientists Race to Test Treatments as Ebola Outbreak Widens](https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html) | The New York Times | 2026-06-13T08:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP | 2026-06-12T20:51+00:00 | Outbreaks and emerging infections
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 - [Health Workers at the Epicenter of Congo’s Ebola Outbreak Labor With Little Pay or Rest - The San Diego Voice & Viewpoint](https://sdvoice.info/health-workers-at-the-epicenter-of-congos-ebola-outbreak-labor-with-little-pay-or-rest/) | The San Diego Voice & Viewpoint | 2026-06-12T18:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) | Lebanon Daily News | 2026-06-12T16:55+00:00 | Outbreaks and emerging infections
-  In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases. Over the past two months, the Pennsylvania Department of Health has identified 19 measles cases in Lebanon County, up from 12 cases the department reported in May. Department officials reported on May 6 that, following the hospitalization of three individuals from Lebanon County with measles, staff conducted contact tracing and identified additional mild cases among other county residents.
+- [Video | Top Indian-American Doctor On Ebola Outbreak](https://www.ndtv.com/video/top-indian-american-doctor-on-ebola-outbreak-1112332) | NDTV | 2026-06-12T18:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed](https://www.bbc.com/news/articles/crlw3w84w30o) | BBC | 2026-06-12T16:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO says Ebola outbreak in eastern Congo expands to 676 cases, 136 deaths](https://www.aa.com.tr/en/africa/who-says-ebola-outbreak-in-eastern-congo-expands-to-676-cases-136-deaths/3965424) | Anadolu Ajansı | 2026-06-12T15:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 12/06/2026](https://reliefweb.int/map/democratic-republic-congo/democratic-republic-congo-uganda-ebola-bundibugyo-virus-disease-outbreak-and-eu-response-dg-echo-daily-map-12062026) | ReliefWeb | 2026-06-12T15:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -454,12 +460,6 @@ Search window: 7 day(s) ending 2026-06-14
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.detroitnews.com/story/news/world/2026/06/12/ebola-outbreak-spreads-crowded-displacement-camp-congo/90521834007/) | The Detroit News | 2026-06-12T14:01+00:00 | Outbreaks and emerging infections
   She died on May 31 and her daughter died on June 1, an aid worker with knowledge of the cases told Reuters, adding that their bodies had both tested positive for Ebola after their deaths. refugee agency confirmed the first Ebola-related deaths in a displacement camp in eastern Congo, as aid workers warned of a high risk the disease could spread rapidly in overcrowded sites. The two victims were internally displaced people living in the Kpangba camp, which hosts 30,000 internally displaced people, the UNHCR said in a report published on Thursday.
-- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-12T11:21+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.reuters.com/business/healthcare-pharmaceuticals/blind-spots-could-hide-full-spread-congos-ebola-outbreak-who-suggests-2026-06-12/) | Reuters | 2026-06-12T10:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola cases in DR Congo rise to 676 amid community transmission](https://eastleighvoice.co.ke/regional/366773/ebola-cases-in-dr-congo-rise-to-676-amid-community-transmission) | The Eastleigh Voice | 2026-06-12T10:36+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/)
