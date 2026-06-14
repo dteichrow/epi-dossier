@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-14
-Generated at: 2026-06-14T06:10
+Generated at: 2026-06-14T06:16
 Search window: 7 day(s) ending 2026-06-14
 
 ## Executive scan
@@ -428,11 +428,13 @@ Search window: 7 day(s) ending 2026-06-14
   Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Ebola one month on: will the latest outbreak in DRC become the most deadly yet?](https://www.theguardian.com/world/2026/jun/14/drcs-ebola-outbreak-become-the-most-deadly-yet) | The Guardian | 2026-06-14T13:00+00:00 | Outbreaks and emerging infections
+- [Ebola one month on: will the latest outbreak in DRC become the most deadly yet?](https://www.theguardian.com/world/2026/jun/14/drcs-ebola-outbreak-become-the-most-deadly-yet) | The Guardian | 2026-06-14T13:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Malaysia sees sharp rise in dengue cases as new virus variant spreads](https://www.turkiyetoday.com/world/malaysia-sees-sharp-rise-in-dengue-cases-as-new-virus-variant-spreads-3221913) | Türkiye Today | 2026-06-14T11:17+00:00 | Outbreaks and emerging infections
   Authorities are especially concerned about Sabah state, where cases have surged by 50.4% to 2,866, up from 1,905 during the same period in 2024. M alaysia has recorded 33,367 dengue cases, a 27% increase from the 27,640 cases reported during the same period last year, according to state media reports from Bernama. 'Apart from the cyclical trend, the ministry has also identified a shift in the circulating dengue virus sub-variants, with DEN-3 now becoming dominant, as a contributing factor,' he said.
 - [Ebola outbreak in eastern Democratic Republic of the Congo continues to spread](https://halifax.citynews.ca/video/2026/06/13/ebola-outbreak-in-eastern-democratic-republic-of-the-congo-continues-to-spread/) | CityNews Halifax | 2026-06-14T10:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-14T08:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's burial teams fight Ebola one coffin at a time](https://www.yahoo.com/news/videos/congos-burial-teams-fight-ebola-175034357.html) | Yahoo | 2026-06-13T17:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -457,8 +459,6 @@ Search window: 7 day(s) ending 2026-06-14
 - [WCC reaffirms role of churches amid Ebola outbreak in Democratic Republic of Congo](https://www.oikoumene.org/news/wcc-reaffirms-role-of-churches-amid-ebola-outbreak-in-democratic-republic-of-congo) | World Council of Churches | 2026-06-12T14:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak spreads to crowded displacement camp in Congo](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-outbreak-spreads-crowded-displacement-camp-congo-2026-06-12/) | Reuters | 2026-06-12T13:09+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-12T11:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - ['Blind spots' could hide full spread of Congo's Ebola outbreak, WHO suggests](https://www.reuters.com/business/healthcare-pharmaceuticals/blind-spots-could-hide-full-spread-congos-ebola-outbreak-who-suggests-2026-06-12/) | Reuters | 2026-06-12T10:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
