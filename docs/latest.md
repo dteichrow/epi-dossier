@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T11:40
+Generated at: 2026-06-15T11:42
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-15
 - [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (110), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
+- Category mix: Outbreaks and emerging infections (109), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845) (CDC Travel Health Notices)
-- Newly tracked story cluster: 105 item(s) across 80 source(s).
-- Baseline snapshot created with 105 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 104 item(s) across 77 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 77 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - CDC Travel Health Notices now includes evacuation reporting.
 
@@ -39,7 +39,7 @@ Search window: 7 day(s) ending 2026-06-15
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 105 item(s) across 80 source(s); 4 official/primary-source item(s).
+- Topic size: 104 item(s) across 77 source(s); 4 official/primary-source item(s).
 - Lead item: [Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845) (CDC Travel Health Notices, 2026-06-15T04:00+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
 - Evidence notes: [Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845) (CDC Travel Health Notices); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DRC reports record number of Ebola cases in a single day as outbreak hits 1-month mark - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/drc-reports-record-number-ebola-cases-single-day/story?id\=133883214) (ABC News - Breaking News, Latest News and Videos)
@@ -441,13 +441,11 @@ Search window: 7 day(s) ending 2026-06-15
   Limited detail was available from feed metadata alone.
 - [Ebola one month on: will the latest outbreak in DRC become the most deadly yet?](https://www.theguardian.com/world/2026/jun/14/drcs-ebola-outbreak-become-the-most-deadly-yet) | The Guardian | 2026-06-14T20:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Health: Congo’s Ebola burial teams fight deadly outbreak one coffin at a time](https://www.gdnonline.com/Details/1397612/Congo%E2%80%99s-Ebola-burial-teams-fight-deadly-outbreak-one-coffin-at-a-time) | Gulf Daily News (Bahrain) | 2026-06-14T13:04+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola cases in DR Congo rise to 710 as authorities deny lockdown rumors](https://www.chinadailyasia.com/article/634940) | chinadailyasia.com | 2026-06-14T09:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-14T08:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo's burial teams fight Ebola one coffin at a time](https://www.yahoo.com/news/videos/congos-burial-teams-fight-ebola-175034357.html) | Yahoo | 2026-06-13T17:50+00:00 | Outbreaks and emerging infections
+- [Congo's burial teams fight Ebola one coffin at a time](https://www.breakingviews.com/video/watch/idRW861513062026RP1/?chan\=breakingviews-2025-04-16) | Breakingviews | 2026-06-13T20:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Israel Issues Travel Ban for Kenya, 4 Other East African Countries over Ebola Outbreak](https://www.tuko.co.ke/world/629458-israel-issues-travel-ban-kenya-4-east-african-countries-ebola-outbreak/) | Tuko News | 2026-06-13T14:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -457,6 +455,8 @@ Search window: 7 day(s) ending 2026-06-15
   Limited detail was available from feed metadata alone.
 - [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-13T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP | 2026-06-12T20:51+00:00 | Outbreaks and emerging infections
+  Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 
 ## Papers worth saving
 - [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/)
@@ -485,9 +485,7 @@ Search window: 7 day(s) ending 2026-06-15
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42268674/
 
 ## Historical epi / weird epi corner
-- [Health: Congo’s Ebola burial teams fight deadly outbreak one coffin at a time](https://www.gdnonline.com/Details/1397612/Congo%E2%80%99s-Ebola-burial-teams-fight-deadly-outbreak-one-coffin-at-a-time) | Gulf Daily News (Bahrain)
-  Limited detail was available from feed metadata alone.
-- [Congo's burial teams fight Ebola one coffin at a time](https://www.yahoo.com/news/videos/congos-burial-teams-fight-ebola-175034357.html) | Yahoo
+- [Congo's burial teams fight Ebola one coffin at a time](https://www.breakingviews.com/video/watch/idRW861513062026RP1/?chan\=breakingviews-2025-04-16) | Breakingviews
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
