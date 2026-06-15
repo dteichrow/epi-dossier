@@ -1,25 +1,25 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T10:50
+Generated at: 2026-06-15T11:05
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa; 2026-06-12T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (107), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
+- [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026) (WHO Regional Office for Africa; 2026-06-05T12:16+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (106), Occupational and environmental epidemiology (6), Policy, surveillance, and public health infrastructure (5)
+- Source health: 5 source(s) failed during collection: Nigeria Centre for Disease Control, ECDC News, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza, New York State Department of Health Press Releases.
 
 ## Ongoing stories and what changed
 ### Occupational and environmental epidemiology
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
-- Newly tracked story cluster: 9 item(s) across 4 source(s).
-- Baseline snapshot created with 9 clustered item(s) across 4 source(s).
+- Newly tracked story cluster: 8 item(s) across 4 source(s).
+- Baseline snapshot created with 8 clustered item(s) across 4 source(s).
 - CDC MMWR now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
@@ -31,26 +31,26 @@ Search window: 7 day(s) ending 2026-06-15
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 101 item(s) across 76 source(s).
-- Baseline snapshot created with 101 clustered item(s) across 76 source(s).
+- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 99 item(s) across 74 source(s).
+- Baseline snapshot created with 99 clustered item(s) across 74 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 101 item(s) across 76 source(s); 3 official/primary-source item(s).
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
+- Topic size: 99 item(s) across 74 source(s); 2 official/primary-source item(s).
+- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa, 2026-06-12T09:30+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [True Scale of Congo Ebola Outbreak Still Unknown One Month In, Responders Say](https://www.usnews.com/news/world/articles/2026-06-15/true-scale-of-congo-ebola-outbreak-still-unknown-one-month-in-responders-say) (U.S. News & World Report); [Congo reports 72 new Ebola cases Sunday, one of the largest daily jumps since outbreak was declared](https://www.pbs.org/newshour/world/congo-reports-72-new-ebola-cases-sunday-one-of-the-largest-daily-jumps-since-outbreak-was-declared) (PBS)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DRC reports record number of Ebola cases in a single day as outbreak hits 1-month mark - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/drc-reports-record-number-ebola-cases-single-day/story?id\=133883214) (ABC News - Breaking News, Latest News and Videos); [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.straitstimes.com/world/true-scale-of-congo-ebola-outbreak-still-unknown-one-month-in-responders-say) (The Straits Times); [Congo reports 72 new Ebola cases Sunday, one of the largest daily jumps since outbreak was declared](https://www.pbs.org/newshour/world/congo-reports-72-new-ebola-cases-sunday-one-of-the-largest-daily-jumps-since-outbreak-was-declared) (PBS)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 9 item(s) across 4 source(s); 8 official/primary-source item(s).
+- Topic size: 8 item(s) across 4 source(s); 7 official/primary-source item(s).
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR, 2026-06-11T17:00+00:00)
 - Detailed note: Weekly / June 11, 2026 / 75(22);274â279 Matthew Morse, MPH 1 ; Martin Zartarian, MS 1 ; Braden Savage 1 ; Patrick O’Connor 1 ; David Nicholas, MPH 2 ,3 ; Halex Jones, MPH 4 ; Christopher Gil, MPH 4 ; Danielle Wroblewski, MS 5 ; Stacey Chmura, MS 6 ; Nirupam Biswas, PhD 6 ; Craig Bocketti 6 ; Grace Willard 6 ; Seth Blumerman, PhD 5 ; Theresa Hattenrath, PhD 6 ; Donna Gowie 4 ; Lisa Mingle, PhD 5 ; Ursula Lauper,...
-- Evidence notes: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR); [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR); [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR); [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR); [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR)
+- Evidence notes: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR); [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR); [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR); [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR); [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -315,16 +315,6 @@ Search window: 7 day(s) ending 2026-06-15
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
-### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
-- Source: ECDC News
-- Date: 2026-06-12T17:36+02:00
-- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited usable detail remained after boilerplate cleanup.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 ### Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-12T09:58+00:00
@@ -361,16 +351,6 @@ Search window: 7 day(s) ending 2026-06-15
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813
 - Category: Occupational and environmental epidemiology
 - Summary: Weekly / June 11, 2026 / 75(22);274â279 Matthew Morse, MPH 1 ; Martin Zartarian, MS 1 ; Braden Savage 1 ; Patrick O’Connor 1 ; David Nicholas, MPH 2 ,3 ; Halex Jones, MPH 4 ; Christopher Gil, MPH 4 ; Danielle Wroblewski, MS 5 ; Stacey Chmura, MS 6 ; Nirupam Biswas, PhD 6 ; Craig Bocketti 6 ; Grace Willard 6 ; Seth Blumerman, PhD 5 ; Theresa Hattenrath, PhD 6 ; Donna Gowie 4 ; Lisa Mingle, PhD 5 ; Ursula Lauper, MA, MPH 1 ( View author affiliations ) Legionnaires disease results from inhalation of aerosolized Legionella bacteria from contaminated water. A 2024 New York Legionnaires disease investigation used whole genome sequencing to identify a rental property hot tub as the source of two cases of Legionnaires disease. This report describes using a transmission model to project Ebola outbreak growth over three months.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State
-- Source: CDC MMWR
-- Date: 2026-06-11T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815
-- Category: Occupational and environmental epidemiology
-- Summary: This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -415,19 +395,37 @@ Search window: 7 day(s) ending 2026-06-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### UHPR CCS Sierra Leone
+- Source: WHO Regional Office for Africa
+- Date: 2026-06-03T12:27+00:00
+- URL: https://www.afro.who.int/publications/uhpr-ccs-sierra-leone
+- Category: Outbreaks and emerging infections
+- Summary: Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
+- Source: Texas Department of State Health Services News
+- Date: Unknown
+- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) | WHO Regional Office for Africa | 2026-06-03T12:27+00:00 | Outbreaks and emerging infections
-  Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+- [DRC reports record number of Ebola cases in a single day as outbreak hits 1-month mark - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/drc-reports-record-number-ebola-cases-single-day/story?id\=133883214) | ABC News - Breaking News, Latest News and Videos | 2026-06-15T17:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [True Scale of Congo Ebola Outbreak Still Unknown One Month In, Responders Say](https://www.usnews.com/news/world/articles/2026-06-15/true-scale-of-congo-ebola-outbreak-still-unknown-one-month-in-responders-say) | U.S. News & World Report | 2026-06-15T16:06+00:00 | Outbreaks and emerging infections
+- [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.straitstimes.com/world/true-scale-of-congo-ebola-outbreak-still-unknown-one-month-in-responders-say) | The Straits Times | 2026-06-15T15:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo reports 72 new Ebola cases Sunday, one of the largest daily jumps since outbreak was declared](https://www.pbs.org/newshour/world/congo-reports-72-new-ebola-cases-sunday-one-of-the-largest-daily-jumps-since-outbreak-was-declared) | PBS | 2026-06-15T15:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) | The Eastleigh Voice | 2026-06-15T10:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone](https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis) | NPR | 2026-06-15T09:00+00:00 | Outbreaks and emerging infections
+- [Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone](https://www.kgou.org/health/2026-06-15/inside-ebola-country-npr-reports-from-eastern-dr-congos-outbreak-zone) | KGOU | 2026-06-15T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases in eastern Congo climb to 782 and deaths reach 181, authorities say](https://medicalxpress.com/news/2026-06-ebola-cases-eastern-congo-climb.html) | Medical Xpress | 2026-06-15T07:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,6 +454,8 @@ Search window: 7 day(s) ending 2026-06-15
 - [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) | Lebanon Daily News | 2026-06-12T16:55+00:00 | Outbreaks and emerging infections
   In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases. Over the past two months, the Pennsylvania Department of Health has identified 19 measles cases in Lebanon County, up from 12 cases the department reported in May. Department officials reported on May 6 that, following the hospitalization of three individuals from Lebanon County with measles, staff conducted contact tracing and identified additional mild cases among other county residents.
 - [Kenya Ebola quarantine centre: The identity of a third person killed in protests confirmed](https://www.bbc.com/news/articles/crlw3w84w30o) | BBC | 2026-06-12T16:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Cepheid Delivers Xpert® Hemorrhagic Fever Panel Tests to Africa to Address Diagnostic Gaps in Ebola Bundibugyo Outbreak](https://www.prnewswire.com/news-releases/cepheid-delivers-xpert-hemorrhagic-fever-panel-tests-to-africa-to-address-diagnostic-gaps-in-ebola-bundibugyo-outbreak-302799176.html) | PR Newswire | 2026-06-12T16:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
