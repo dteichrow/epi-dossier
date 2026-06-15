@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T15:16
+Generated at: 2026-06-15T15:49
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-15
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (106), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
+- Category mix: Outbreaks and emerging infections (102), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -23,33 +23,25 @@ Search window: 7 day(s) ending 2026-06-15
 - CDC MMWR now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
-### COVID-19 and SARS-CoV-2
-- Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 5 item(s) across 3 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 3 source(s).
-- PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
-- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
-### Measles transmission and vaccination
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Outbreak News Today now includes deaths or fatal cases in the story frame.
-- Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
-
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 101 item(s) across 77 source(s).
-- Baseline snapshot created with 101 clustered item(s) across 77 source(s).
+- Newly tracked story cluster: 99 item(s) across 77 source(s).
+- Baseline snapshot created with 99 clustered item(s) across 77 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+
+### COVID-19 and SARS-CoV-2
+- Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 4 item(s) across 3 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
+- PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 101 item(s) across 77 source(s); 3 official/primary-source item(s).
+- Topic size: 99 item(s) across 77 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.reuters.com/business/healthcare-pharmaceuticals/true-scale-congo-ebola-outbreak-still-unknown-one-month-responders-say-2026-06-15/) (Reuters); [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) (CIDRAP)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak strains health system in eastern Congo](https://www.npr.org/2026/06/15/nx-s1-5859432/ebola-outbreak-strains-health-system-in-eastern-congo) (NPR); [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.reuters.com/business/healthcare-pharmaceuticals/true-scale-congo-ebola-outbreak-still-unknown-one-month-responders-say-2026-06-15/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -62,36 +54,36 @@ Search window: 7 day(s) ending 2026-06-15
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
-- Topic size: 5 item(s) across 3 source(s); 5 official/primary-source item(s).
+- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa, 2026-06-12T09:58+00:00)
 - Detailed note: Compared with the base case, hospitalizations and deaths declined by 15-47% and productivity loss hours by 15-45% across higher utilization scenarios; conversely, the 0% scenario resulted in a 33% increase in hospitalizations and a 32% rise in productivity loss. Cumulatively from weeks 1 to 22, the WHO AFR influenza laboratory network has tested 29,831 sentinelsurveillance specimens for SARS-CoV-2, of which 857...
-- Evidence notes: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa); [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) (WHO Regional Office for Africa); [Potential implications of increased utilization of oral nirmatrelvir/ritonavir in outpatient care for COVID-19: modeled findings from the Spanish National Health System perspective.](https://pubmed.ncbi.nlm.nih.gov/42287108/) (PubMed Infectious Disease Search); [Safety and immunogenicity of a booster dose of COVAC-2, a Sepivac SWE™ adjuvanted SARS-CoV-2 recombinant protein vaccine in previously vaccinated healthy adults; a randomized controlled multicentre trial.](https://pubmed.ncbi.nlm.nih.gov/42268674/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
+- Evidence notes: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa); [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) (WHO Regional Office for Africa); [Potential implications of increased utilization of oral nirmatrelvir/ritonavir in outpatient care for COVID-19: modeled findings from the Spanish National Health System perspective.](https://pubmed.ncbi.nlm.nih.gov/42287108/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today, 2026-06-15T21:09+00:00)
 - Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
-- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [Bangladesh Measles Death Toll Crosses 650 After Four More Children Die](https://indianewengland.com/bangladesh-measles-death-toll-crosses-650-after-four-more-children-die/) (INDIA New England News)
+- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition, 2026-06-11T09:25+00:00)
-- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases. News Politics Business Society...
-- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
+- Detailed note: In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving more severe infections. During the first five months of 2026, Vietnam recorded more than 50,000 dengue cases, a 2.5-fold increase compared to the same period last year, leading to a rise in severe cases.
+- Evidence notes: [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Bangladesh reconstitutes national committee to strengthen dengue prevention](https://en.somoynews.tv/news/2026-06-15/NzCw49zL) (Somoy News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Nipah virus disease
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English, 2026-06-11T05:15+00:00)
-- Detailed note: Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals.
-- Evidence notes: [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+### Miscellaneous signals
+- Topic size: 3 item(s) across 1 source(s); 3 official/primary-source item(s).
+- Lead item: [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/) (PubMed Infectious Disease Search, 2026-06-15T00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/) (PubMed Infectious Disease Search); [A nationwide survey on knowledge, attitude, and practice regarding human papillomavirus (HPV), HPV-related disease, and HPV vaccine among adolescents and their parents in China.](https://pubmed.ncbi.nlm.nih.gov/42295870/) (PubMed Infectious Disease Search); [Early effects of HPV vaccination on high-grade cervical intraepithelial neoplasia in Brazil: Evidence from outpatient data.](https://pubmed.ncbi.nlm.nih.gov/42295873/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -428,6 +420,8 @@ Search window: 7 day(s) ending 2026-06-15
   Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak strains health system in eastern Congo](https://www.npr.org/2026/06/15/nx-s1-5859432/ebola-outbreak-strains-health-system-in-eastern-congo) | NPR | 2026-06-15T22:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.reuters.com/business/healthcare-pharmaceuticals/true-scale-congo-ebola-outbreak-still-unknown-one-month-responders-say-2026-06-15/) | Reuters | 2026-06-15T21:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
@@ -436,7 +430,7 @@ Search window: 7 day(s) ending 2026-06-15
   Limited detail was available from feed metadata alone.
 - [DRC reports record number of Ebola cases in a single day as outbreak hits 1-month mark - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/drc-reports-record-number-ebola-cases-single-day/story?id\=133883214) | ABC News - Breaking News, Latest News and Videos | 2026-06-15T19:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW | 2026-06-15T19:23+00:00 | Outbreaks and emerging infections
+- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | dw.com | 2026-06-15T19:23+00:00 | Outbreaks and emerging infections
   At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
 - [Congo reports 72 new Ebola cases Sunday, one of the largest daily jumps since outbreak was declared](https://www.pbs.org/newshour/world/congo-reports-72-new-ebola-cases-sunday-one-of-the-largest-daily-jumps-since-outbreak-was-declared) | PBS | 2026-06-15T15:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -462,8 +456,6 @@ Search window: 7 day(s) ending 2026-06-15
   Limited detail was available from feed metadata alone.
 - [Israel Issues Travel Ban for Kenya, 4 Other East African Countries over Ebola Outbreak](https://www.tuko.co.ke/world/629458-israel-issues-travel-ban-kenya-4-east-african-countries-ebola-outbreak/) | Tuko News | 2026-06-13T14:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO director-general is profoundly concerned after visit to Ebola outbreak area](https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/) | statnews.com | 2026-06-13T13:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/)
@@ -478,18 +470,24 @@ Search window: 7 day(s) ending 2026-06-15
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42277989/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42277989/
+- [A nationwide survey on knowledge, attitude, and practice regarding human papillomavirus (HPV), HPV-related disease, and HPV vaccine among adolescents and their parents in China.](https://pubmed.ncbi.nlm.nih.gov/42295870/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2681256
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42295870/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42295870/
+- [Early effects of HPV vaccination on high-grade cervical intraepithelial neoplasia in Brazil: Evidence from outpatient data.](https://pubmed.ncbi.nlm.nih.gov/42295873/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2684304
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42295873/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42295873/
 - [Potential implications of increased utilization of oral nirmatrelvir/ritonavir in outpatient care for COVID-19: modeled findings from the Spanish National Health System perspective.](https://pubmed.ncbi.nlm.nih.gov/42287108/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/13696998.2026.2681354
   Journal/preprint server: Journal of medical economics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42287108/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42287108/
-- [Safety and immunogenicity of a booster dose of COVAC-2, a Sepivac SWE™ adjuvanted SARS-CoV-2 recombinant protein vaccine in previously vaccinated healthy adults; a randomized controlled multicentre trial.](https://pubmed.ncbi.nlm.nih.gov/42268674/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2683765
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42268674/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42268674/
 
 ## Historical epi / weird epi corner
 - [Congo's burial teams fight Ebola one coffin at a time](https://www.breakingviews.com/video/watch/idRW861513062026RP1/?chan\=breakingviews-2025-04-16) | Breakingviews
