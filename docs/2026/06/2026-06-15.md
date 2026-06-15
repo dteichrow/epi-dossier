@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T12:35
+Generated at: 2026-06-15T12:42
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-15
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (106), Policy, surveillance, and public health infrastructure (6), Occupational and environmental epidemiology (6)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (110), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Occupational and environmental epidemiology
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
-- Newly tracked story cluster: 8 item(s) across 3 source(s).
-- Baseline snapshot created with 8 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 9 item(s) across 4 source(s).
+- Baseline snapshot created with 9 clustered item(s) across 4 source(s).
 - CDC MMWR now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-06-15
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 101 item(s) across 76 source(s).
-- Baseline snapshot created with 101 clustered item(s) across 76 source(s).
+- Newly tracked story cluster: 105 item(s) across 77 source(s).
+- Baseline snapshot created with 105 clustered item(s) across 77 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 101 item(s) across 76 source(s); 3 official/primary-source item(s).
+- Topic size: 105 item(s) across 77 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) (DW.com); [Congo reports large jump in Ebola cases](https://www.huntingdondailynews.com/ap/international/congo-reports-large-jump-in-ebola-cases/article_67023b7a-df2d-52b0-8ba4-3c236277b860.html) (huntingdondailynews.com)
@@ -47,7 +47,7 @@ Search window: 7 day(s) ending 2026-06-15
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 8 item(s) across 3 source(s); 8 official/primary-source item(s).
+- Topic size: 9 item(s) across 4 source(s); 8 official/primary-source item(s).
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR, 2026-06-11T17:00+00:00)
 - Detailed note: Weekly / June 11, 2026 / 75(22);274â279 Matthew Morse, MPH 1 ; Martin Zartarian, MS 1 ; Braden Savage 1 ; Patrick O’Connor 1 ; David Nicholas, MPH 2 ,3 ; Halex Jones, MPH 4 ; Christopher Gil, MPH 4 ; Danielle Wroblewski, MS 5 ; Stacey Chmura, MS 6 ; Nirupam Biswas, PhD 6 ; Craig Bocketti 6 ; Grace Willard 6 ; Seth Blumerman, PhD 5 ; Theresa Hattenrath, PhD 6 ; Donna Gowie 4 ; Lisa Mingle, PhD 5 ; Ursula Lauper,...
 - Evidence notes: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR); [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR); [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR); [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR); [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR)
@@ -441,15 +441,15 @@ Search window: 7 day(s) ending 2026-06-15
   Limited detail was available from feed metadata alone.
 - [Ebola cases in eastern Congo climb to 782 and deaths reach 181, authorities say](https://medicalxpress.com/news/2026-06-ebola-cases-eastern-congo-climb.html) | Medical Xpress | 2026-06-15T07:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo reports record one-day increase in Ebola cases, a month after outbreak’s declaration](https://www.wric.com/health/ap-congo-reports-record-one-day-increase-in-ebola-cases-a-month-after-outbreaks-declaration/amp/) | WRIC ABC 8News | 2026-06-15T05:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola one month on: will the latest outbreak in DRC become the most deadly yet?](https://www.theguardian.com/world/2026/jun/14/drcs-ebola-outbreak-become-the-most-deadly-yet) | The Guardian | 2026-06-14T20:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases in DR Congo rise to 710 as authorities deny lockdown rumors](https://www.chinadailyasia.com/article/634940) | chinadailyasia.com | 2026-06-14T09:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-14T08:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo's burial teams fight Ebola one coffin at a time](https://www.yahoo.com/news/videos/congos-burial-teams-fight-ebola-175034357.html) | Yahoo | 2026-06-13T17:50+00:00 | Outbreaks and emerging infections
+- [Congo's burial teams fight Ebola one coffin at a time](https://www.breakingviews.com/video/watch/idRW861513062026RP1/?chan\=breakingviews-2025-04-16) | Breakingviews | 2026-06-13T20:26+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Israel Issues Travel Ban for Kenya, 4 Other East African Countries over Ebola Outbreak](https://www.tuko.co.ke/world/629458-israel-issues-travel-ban-kenya-4-east-african-countries-ebola-outbreak/) | Tuko News | 2026-06-13T14:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO director-general is profoundly concerned after visit to Ebola outbreak area](https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/) | statnews.com | 2026-06-13T13:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -485,7 +485,7 @@ Search window: 7 day(s) ending 2026-06-15
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42268674/
 
 ## Historical epi / weird epi corner
-- [Congo's burial teams fight Ebola one coffin at a time](https://www.yahoo.com/news/videos/congos-burial-teams-fight-ebola-175034357.html) | Yahoo
+- [Congo's burial teams fight Ebola one coffin at a time](https://www.breakingviews.com/video/watch/idRW861513062026RP1/?chan\=breakingviews-2025-04-16) | Breakingviews
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
