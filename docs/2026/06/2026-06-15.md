@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T11:10
+Generated at: 2026-06-15T11:16
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-15
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (108), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (7)
+- Category mix: Outbreaks and emerging infections (108), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-06-15
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 104 item(s) across 78 source(s).
-- Baseline snapshot created with 104 clustered item(s) across 78 source(s).
+- Newly tracked story cluster: 103 item(s) across 76 source(s).
+- Baseline snapshot created with 103 clustered item(s) across 76 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 104 item(s) across 78 source(s); 3 official/primary-source item(s).
+- Topic size: 103 item(s) across 76 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DRC reports record number of Ebola cases in a single day as outbreak hits 1-month mark - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/drc-reports-record-number-ebola-cases-single-day/story?id\=133883214) (ABC News - Breaking News, Latest News and Videos); [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.straitstimes.com/world/true-scale-of-congo-ebola-outbreak-still-unknown-one-month-in-responders-say) (The Straits Times)
@@ -431,7 +431,7 @@ Search window: 7 day(s) ending 2026-06-15
   Tamil Nadu’s Directorate of Public Health directed deployment of special teams at 13 inter state check posts along the Kerala border. Health authorities intensified monitoring in areas bordering Kerala and Karnataka, with special attention on tourist and transit zones including Nilgiris and Coimbatore districts. The move follows Kerala’s containment efforts after a confirmed Nipah infection in Kozhikode district.
 - [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) | The Eastleigh Voice | 2026-06-15T10:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone](https://www.kgou.org/health/2026-06-15/inside-ebola-country-npr-reports-from-eastern-dr-congos-outbreak-zone) | KGOU | 2026-06-15T09:00+00:00 | Outbreaks and emerging infections
+- [Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone](https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis) | NPR | 2026-06-15T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases in eastern Congo climb to 782 and deaths reach 181, authorities say](https://medicalxpress.com/news/2026-06-ebola-cases-eastern-congo-climb.html) | Medical Xpress | 2026-06-15T07:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
