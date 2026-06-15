@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T11:42
+Generated at: 2026-06-15T12:17
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -16,19 +16,18 @@ Search window: 7 day(s) ending 2026-06-15
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Ebola virus disease
-- Lead item: [Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845) (CDC Travel Health Notices)
-- Newly tracked story cluster: 104 item(s) across 77 source(s).
-- Baseline snapshot created with 104 clustered item(s) across 77 source(s).
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- CDC Travel Health Notices now includes evacuation reporting.
-
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 5 item(s) across 3 source(s).
 - Baseline snapshot created with 5 clustered item(s) across 3 source(s).
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
+
+### Ebola virus disease
+- Lead item: [Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845) (CDC Travel Health Notices)
+- Newly tracked story cluster: 104 item(s) across 76 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 76 source(s).
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
@@ -39,10 +38,10 @@ Search window: 7 day(s) ending 2026-06-15
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 104 item(s) across 77 source(s); 4 official/primary-source item(s).
+- Topic size: 104 item(s) across 76 source(s); 4 official/primary-source item(s).
 - Lead item: [Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845) (CDC Travel Health Notices, 2026-06-15T04:00+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
-- Evidence notes: [Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845) (CDC Travel Health Notices); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DRC reports record number of Ebola cases in a single day as outbreak hits 1-month mark - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/drc-reports-record-number-ebola-cases-single-day/story?id\=133883214) (ABC News - Breaking News, Latest News and Videos)
+- Evidence notes: [Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845) (CDC Travel Health Notices); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo reports large jump in Ebola cases](https://www.huntingdondailynews.com/ap/international/congo-reports-large-jump-in-ebola-cases/article_67023b7a-df2d-52b0-8ba4-3c236277b860.html) (huntingdondailynews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -72,7 +71,7 @@ Search window: 7 day(s) ending 2026-06-15
 
 ### Nipah virus disease
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Tamil Nadu Tightens Border Checks Amid Kerala Nipah Alert](https://indtoday.com/tamil-nadu-tightens-border-checks-amid-kerala-nipah-alert/) (INDToday, 2026-06-15T14:58+00:00)
+- Lead item: [Tamil Nadu Tightens Border Checks Amid Kerala Nipah Alert](https://indtoday.com/tamil-nadu-tightens-border-checks-amid-kerala-nipah-alert/) (INDToday, 2026-06-15T15:26+00:00)
 - Detailed note: Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals. Tamil Nadu’s Directorate of Public Health directed deployment of special teams at 13 inter state check posts along the Kerala border.
 - Evidence notes: [Tamil Nadu Tightens Border Checks Amid Kerala Nipah Alert](https://indtoday.com/tamil-nadu-tightens-border-checks-amid-kerala-nipah-alert/) (INDToday); [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
@@ -320,7 +319,7 @@ Search window: 7 day(s) ending 2026-06-15
 - Date: 2026-06-15T04:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765845
 - Category: Outbreaks and emerging infections
-- Summary: Consider getting travel insurance before you travel, including health and medical evacuation insurance, to cover yourself in case delays, injuries, or illnesses occur on your trip. CDC recommends practicing enhanced precautions for travel to Uganda or to provinces in the DRC other than those affected by the outbreak (listed below). CDC recommends avoiding nonessential travel to the affected provinces in the DRC -- Ituri, Nord-Kivu (North Kivu), and Sud-Kivu (South Kivu) provinces.
+- Summary: CDC recommends practicing enhanced precautions for travel to Uganda or to provinces in the DRC other than those affected by the outbreak.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -423,13 +422,15 @@ Search window: 7 day(s) ending 2026-06-15
   Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Congo reports large jump in Ebola cases](https://www.huntingdondailynews.com/ap/international/congo-reports-large-jump-in-ebola-cases/article_67023b7a-df2d-52b0-8ba4-3c236277b860.html) | huntingdondailynews.com | 2026-06-15T19:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [DRC reports record number of Ebola cases in a single day as outbreak hits 1-month mark - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/drc-reports-record-number-ebola-cases-single-day/story?id\=133883214) | ABC News - Breaking News, Latest News and Videos | 2026-06-15T17:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.straitstimes.com/world/true-scale-of-congo-ebola-outbreak-still-unknown-one-month-in-responders-say) | The Straits Times | 2026-06-15T15:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo reports 72 new Ebola cases Sunday, one of the largest daily jumps since outbreak was declared](https://www.pbs.org/newshour/world/congo-reports-72-new-ebola-cases-sunday-one-of-the-largest-daily-jumps-since-outbreak-was-declared) | PBS | 2026-06-15T15:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Tamil Nadu Tightens Border Checks Amid Kerala Nipah Alert](https://indtoday.com/tamil-nadu-tightens-border-checks-amid-kerala-nipah-alert/) | INDToday | 2026-06-15T14:58+00:00 | Outbreaks and emerging infections
+- [Tamil Nadu Tightens Border Checks Amid Kerala Nipah Alert](https://indtoday.com/tamil-nadu-tightens-border-checks-amid-kerala-nipah-alert/) | INDToday | 2026-06-15T15:26+00:00 | Outbreaks and emerging infections
   Tamil Nadu’s Directorate of Public Health directed deployment of special teams at 13 inter state check posts along the Kerala border. Health authorities intensified monitoring in areas bordering Kerala and Karnataka, with special attention on tourist and transit zones including Nilgiris and Coimbatore districts. The move follows Kerala’s containment efforts after a confirmed Nipah infection in Kozhikode district.
 - [Photos show how the Ebola outbreak is changing nightlife in Congo](https://www.dailyindependent.com/national/photos-show-how-the-ebola-outbreak-is-changing-nightlife-in-congo/article_54cc6b7e-7911-5bab-9eb4-dcfa7bbadb28.html) | The Daily Independent | 2026-06-15T11:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -451,12 +452,10 @@ Search window: 7 day(s) ending 2026-06-15
   Limited detail was available from feed metadata alone.
 - [WHO director-general is profoundly concerned after visit to Ebola outbreak area](https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/) | statnews.com | 2026-06-13T13:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [UAE Aid Agency bolsters efforts to help contain Ebola outbreak](https://www.thenationalnews.com/news/uae/2026/06/13/uae-aid-agency-bolsters-efforts-to-help-contain-ebola-outbreak/) | The National | 2026-06-13T08:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Scientists Race to Test Treatments as Ebola Outbreak Widens](https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html) | The New York Times | 2026-06-13T08:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-06-13T07:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP | 2026-06-12T20:51+00:00 | Outbreaks and emerging infections
-  Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 
 ## Papers worth saving
 - [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/)
