@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T01:16
+Generated at: 2026-06-15T01:34
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -86,7 +86,7 @@ Search window: 7 day(s) ending 2026-06-15
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Malaysia sees sharp rise in dengue cases as new virus variant spreads](https://www.turkiyetoday.com/world/malaysia-sees-sharp-rise-in-dengue-cases-as-new-virus-variant-spreads-3221913) (Türkiye Today, 2026-06-14T11:17+00:00)
-- Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Taiwan's Chen Wei-chung places 1st in int'l conducting competition Taiwan shares close up 2.78% Braves beat Pilots 87-78, take 3-2 lead in PLG Finals Tang Prize laureate Susan Solomon says environmental successes offer hope 11 migrant workers arrested after drunken brawl at Taichung train station...
+- Detailed note: Authorities are especially concerned about Sabah state, where cases have surged by 50.4% to 2,866, up from 1,905 during the same period in 2024. M alaysia has recorded 33,367 dengue cases, a 27% increase from the 27,640 cases reported during the same period last year, according to state media reports from Bernama. dollar closes lower on Taipei forex market Taiwan's Chen Wei-chung places 1st in int'l conducting...
 - Evidence notes: [Malaysia sees sharp rise in dengue cases as new virus variant spreads](https://www.turkiyetoday.com/world/malaysia-sees-sharp-rise-in-dengue-cases-as-new-virus-variant-spreads-3221913) (Türkiye Today); [Monsoon threatens dengue surge as disease is already widespread across Nepal](https://kathmandupost.com/health/2026/06/15/monsoon-threatens-dengue-surge-as-disease-is-already-widespread-across-nepal) (The Kathmandu Post); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
