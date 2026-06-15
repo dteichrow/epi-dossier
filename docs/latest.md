@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T02:36
+Generated at: 2026-06-15T03:10
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-15
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/) (PubMed Infectious Disease Search; 2026-06-09T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (117), Policy, surveillance, and public health infrastructure (8), Occupational and environmental epidemiology (6)
+- Category mix: Outbreaks and emerging infections (115), Policy, surveillance, and public health infrastructure (7), Occupational and environmental epidemiology (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-06-15
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 114 item(s) across 86 source(s).
-- Baseline snapshot created with 114 clustered item(s) across 86 source(s).
+- Newly tracked story cluster: 110 item(s) across 82 source(s).
+- Baseline snapshot created with 110 clustered item(s) across 82 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
@@ -45,10 +45,10 @@ Search window: 7 day(s) ending 2026-06-15
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 114 item(s) across 86 source(s); 3 official/primary-source item(s).
+- Topic size: 110 item(s) across 82 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: Since our previous update (Sitrep #2) with data as of 24 May 2026, the Democratic Republic of the Congo has reported an additional 216 laboratory-confirmed cases, including an additional 38 confirmed deaths. Democratic Republic of the Congo As of 31 May 2026, a total of 321 laboratory-confirmed cases, including 48 confirmed deaths, have been reported across the three affected provinces of Ituri, North Kivu and...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone](https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis) (NPR); [Congo Ebola outbreak grows to 782 cases, 181 deaths](https://freepresskashmir.news/2026/06/15/congo-ebola-outbreak-grows-to-782-cases-181-deaths/) (Free Press Kashmir)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 03, Data as of 31 May 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo reports record one-day increase in Ebola cases, a month after outbreak's declaration](https://www.washingtonpost.com/world/2026/06/15/congo-ebola/d4e8c374-689f-11f1-830e-133d20cadd28_story.html) (The Washington Post); [Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone](https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis) (NPR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -77,12 +77,12 @@ Search window: 7 day(s) ending 2026-06-15
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Measles transmission and vaccination
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Bangladesh measles outbreak claims four more lives, death toll crosses 650](https://tripuratimes.com/ttimes/bangladesh-measles-outbreak-claims-four-more-lives-death-toll-crosses-650-37976.html) (Tripuratimes, 2026-06-15T05:08+00:00)
-- Detailed note: With the latest fatalities, the number of suspected measles deaths has increased to 560, while the number of laboratory-confirmed measles deaths is unchanged at 92, United News of Bangladesh (UNB) reported. As many as 1,052 new suspected measles cases were reported in Bangladesh during the 24-hour period, raising the number of measles-suspected cases in the country to 85,951.
-- Evidence notes: [Bangladesh measles outbreak claims four more lives, death toll crosses 650](https://tripuratimes.com/ttimes/bangladesh-measles-outbreak-claims-four-more-lives-death-toll-crosses-650-37976.html) (Tripuratimes)
+- Detailed note: With the latest fatalities, the number of suspected measles deaths has increased to 560, while the number of laboratory-confirmed measles deaths is unchanged at 92, United News of Bangladesh (UNB) reported. As many as 1,052 new suspected measles cases were reported in Bangladesh during the 24-hour period, raising the number of measles-suspected cases in the country to 85,951. In total the department is reporting...
+- Evidence notes: [Bangladesh measles outbreak claims four more lives, death toll crosses 650](https://tripuratimes.com/ttimes/bangladesh-measles-outbreak-claims-four-more-lives-death-toll-crosses-650-37976.html) (Tripuratimes); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Nipah virus disease
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -427,6 +427,8 @@ Search window: 7 day(s) ending 2026-06-15
   Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Congo reports record one-day increase in Ebola cases, a month after outbreak's declaration](https://www.washingtonpost.com/world/2026/06/15/congo-ebola/d4e8c374-689f-11f1-830e-133d20cadd28_story.html) | The Washington Post | 2026-06-15T10:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone](https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis) | NPR | 2026-06-15T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh measles outbreak claims four more lives, death toll crosses 650](https://tripuratimes.com/ttimes/bangladesh-measles-outbreak-claims-four-more-lives-death-toll-crosses-650-37976.html) | Tripuratimes | 2026-06-15T05:08+00:00 | Outbreaks and emerging infections
@@ -455,14 +457,12 @@ Search window: 7 day(s) ending 2026-06-15
   Limited detail was available from feed metadata alone.
 - [US troops deployed to Kenya to build Ebola quarantine facility](https://www.stripes.com/theaters/africa/2026-06-13/africom-ebola-kenya-21953123.html) | Stars and Stripes | 2026-06-13T10:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Missing contacts obscure true extent of Congo’s Ebola outbreak](https://www.newstribune.com/news/2026/jun/13/missing-contacts-obscure-true-extent-of-congos/) | Jefferson City News Tribune | 2026-06-13T09:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola cases in Congo rise to 689, death toll reaches 139](https://www.easternmirrornagaland.com/ebola-cases-in-congo-rise-to-689-death-toll-reaches-139) | Eastern Mirror | 2026-06-13T08:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Scientists Race to Test Treatments as Ebola Outbreak Widens](https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html) | The New York Times | 2026-06-13T08:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [In DR Congo displacement camp, Ebola warnings meet dry taps, crowded shelters](https://eastleighvoice.co.ke/headlines/367123/in-dr-congo-displacement-camp-ebola-warnings-meet-dry-taps-crowded-shelters) | The Eastleigh Voice | 2026-06-13T04:05+00:00 | Outbreaks and emerging infections
-  The taps are dry." More To Read Mombasa Senator Faki calls for Ebola screening at Northern Corridor weighbridges EAC secures Sh1.2 billion German funding to boost Ebola, Mpox response Uganda slams ‘unfair’ Ebola travel bans as Israel expands restrictions to Kenya, neighbours US commits Sh6.5 billion to Ebola response as Laikipia quarantine facility row rages MSF opens Ebola simulation centre in Nairobi to boost regional emergency response Kenyans barred from Israel‑bound flights amid Ebola spread in eastern DRC Bunia is one of the epicentres of the Ebola outbreak, which has so far infected 676 people and killed 136. Latest Stories Auditor General flags irregular allowance payments to MCAs worth over Sh600 million in 17 county assemblies National Gender and Equality Commission raises alarm over rising elder abuse in Kenya on World Elder Abuse Awareness Day Curacao coach remains upbeat despite 7-1 World Cup loss to Germany Ayari double powers Sweden past Tunisia as Diallo's late winner gives Cote d'Ivoire win over Ecuador According to Nzodjo Lusi Etienne, head of the camp, Kigonze has not recorded any confirmed Ebola cases. According to the World Food Programme, 7.8 million people are internally displaced across the country, while 26.5 million face acute food insecurity.
+  The taps are dry." More To Read Mombasa Senator Faki calls for Ebola screening at Northern Corridor weighbridges EAC secures Sh1.2 billion German funding to boost Ebola, Mpox response Uganda slams ‘unfair’ Ebola travel bans as Israel expands restrictions to Kenya, neighbours US commits Sh6.5 billion to Ebola response as Laikipia quarantine facility row rages MSF opens Ebola simulation centre in Nairobi to boost regional emergency response Kenyans barred from Israel‑bound flights amid Ebola spread in eastern DRC Bunia is one of the epicentres of the Ebola outbreak, which has so far infected 676 people and killed 136. Latest Stories Kenya welcomes US-Iran peace deal, calls agreement a step towards global stability Over 1,800 victims of protest-linked human rights violations set for state compensation from next week Auditor General flags irregular allowance payments to MCAs worth over Sh600 million in 17 county assemblies National Gender and Equality Commission raises alarm over rising elder abuse in Kenya on World Elder Abuse Awareness Day According to Nzodjo Lusi Etienne, head of the camp, Kigonze has not recorded any confirmed Ebola cases. According to the World Food Programme, 7.8 million people are internally displaced across the country, while 26.5 million face acute food insecurity.
 
 ## Papers worth saving
 - [Impact of SARS-CoV-2 infection history on the clinical features and outcomes of patients with recurrent pulmonary tuberculosis: a retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42262973/)
