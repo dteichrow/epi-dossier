@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T09:39
+Generated at: 2026-06-16T09:49
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -17,10 +17,10 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
+- Lead item: [Bangladesh measles crisis deepens as death toll climbs to 657](https://english.nepalnews.com/s/south-asia/bangladesh-measles-crisis-deepens-as-death-toll-climbs-to-657/) (Nepalnews.com)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- Nepalnews.com now includes deaths or fatal cases in the story frame.
 - Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
@@ -63,9 +63,9 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
-- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
-- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair)
+- Lead item: [Bangladesh measles crisis deepens as death toll climbs to 657](https://english.nepalnews.com/s/south-asia/bangladesh-measles-crisis-deepens-as-death-toll-climbs-to-657/) (Nepalnews.com, 2026-06-16T12:26+00:00)
+- Detailed note: DHAKA: Bangladesh’s measles outbreak continues to worsen, with health authorities reporting one additional child death in the past 24 hours, pushing the total number of confirmed and suspected fatalities to 657. Since mid-March, nearly 88,000 suspected cases have been reported nationwide, with over 72,000 patients requiring hospitalization. In total the department is reporting 64 confirmed cases in the...
+- Evidence notes: [Bangladesh measles crisis deepens as death toll climbs to 657](https://english.nepalnews.com/s/south-asia/bangladesh-measles-crisis-deepens-as-death-toll-climbs-to-657/) (Nepalnews.com); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -420,10 +420,10 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak still spreading in Congo: "We are missing cases"](https://www.aol.com/articles/ebola-outbreak-still-spreading-congo-131430000.html) | AOL.com | 2026-06-16T13:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak yet to peak, could last a year: Red Cross](https://www.thestandard.com.hk/world/article/334837/DR-Congo-Ebola-outbreak-yet-to-peak-could-last-a-year-Red-Cross) | The Standard (HK) | 2026-06-16T13:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola outbreak still spreading in Congo, and "that means we are missing cases," WHO says](https://www.cbsnews.com/news/ebola-outbreak-2026-congo-uganda-still-spreading-who/) | CBS News | 2026-06-16T13:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Bangladesh measles crisis deepens as death toll climbs to 657](https://english.nepalnews.com/s/south-asia/bangladesh-measles-crisis-deepens-as-death-toll-climbs-to-657/) | Nepalnews.com | 2026-06-16T12:26+00:00 | Outbreaks and emerging infections
+  DHAKA: Bangladesh’s measles outbreak continues to worsen, with health authorities reporting one additional child death in the past 24 hours, pushing the total number of confirmed and suspected fatalities to 657. Since mid-March, nearly 88,000 suspected cases have been reported nationwide, with over 72,000 patients requiring hospitalization. More than 1,000 new suspected infections and 136 laboratory-confirmed cases were recorded during the reporting period.
 - ['Situation getting worse': Locals in Ebola outbreak epicentre](https://news.sky.com/video/situation-getting-worse-locals-in-ebola-outbreak-epicentre-13554596) | Sky News | 2026-06-16T11:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda struggles to block border travel amid Ebola outbreak: "Like stopping wind from blowing"](https://www.cbsnews.com/video/uganda-ebola-struggles-to-block-travel/) | CBS News | 2026-06-16T11:38+00:00 | Outbreaks and emerging infections
@@ -490,4 +490,5 @@ Search window: 7 day(s) ending 2026-06-16
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 
 ## Possible blog/video angles
+- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
