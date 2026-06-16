@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T08:09
+Generated at: 2026-06-16T08:16
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-16
 - [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) (WHO Regional Office for Africa; 2026-06-03T12:27+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Official: Ebola outbreak in DR Congo yet to peak, may last a year](https://sana.sy/en/health/2323726/) (سانا; 2026-06-16T14:44+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (130), Policy, surveillance, and public health infrastructure (10), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (131), Policy, surveillance, and public health infrastructure (9), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -432,6 +432,8 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [Roundup: One month into DR Congo Ebola outbreak, response strained by rising cases, insecurity and child deaths](https://english.news.cn/20260616/63da41103d47461e8e2392dee572ea07/c.html) | Xinhua | 2026-06-16T10:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congo Ebola outbreak may be worst ever, Africa CDC says](https://www.internazionale.it/ultime-notizie-reuters/2026/06/16/red-cross-says-congo-ebola-epidemic-yet-to-peak-may-last-a-year) | Internazionale | 2026-06-16T10:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Growing Ebola Outbreak Is a Warning](https://www.bloomberg.com/opinion/articles/2026-06-16/congo-s-ebola-outbreak-should-be-a-warning-to-white-house-world) | Bloomberg.com | 2026-06-16T10:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) | The Straits Times | 2026-06-16T04:27+00:00 | Outbreaks and emerging infections
@@ -454,8 +456,6 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
   The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. Three months later, Bangladesh health officials report 86,923 total suspect cases, after an additional 972 cases were reported in the past 24 hours.
-- [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) | CIDRAP | 2026-06-15T20:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/)
