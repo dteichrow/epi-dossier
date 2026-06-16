@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T21:04
+Generated at: 2026-06-15T21:17
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-15
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (111), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
+- Category mix: Outbreaks and emerging infections (110), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-06-15
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 107 item(s) across 80 source(s).
-- Baseline snapshot created with 107 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 106 item(s) across 79 source(s).
+- Baseline snapshot created with 106 clustered item(s) across 79 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-06-15
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 107 item(s) across 80 source(s); 3 official/primary-source item(s).
+- Topic size: 106 item(s) across 79 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola: Largest ever outbreak of rare strain 'likely even greater' – and the 'first line of defence' has collapsed](https://news.sky.com/story/ebola-largest-ever-outbreak-of-rare-strain-likely-even-greater-and-the-first-line-of-defence-has-collapsed-13554337) (Sky News); [Ebola outbreak in DR Congo: BBC witnesses celebration in the epicentre of the outbreak](https://www.bbc.com/news/articles/cp3xyvww1lqo) (BBC)
