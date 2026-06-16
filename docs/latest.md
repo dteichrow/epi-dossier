@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T10:55
+Generated at: 2026-06-16T11:16
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-16
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (130), Policy, surveillance, and public health infrastructure (10), Occupational and environmental epidemiology (9)
+- Category mix: Outbreaks and emerging infections (131), Policy, surveillance, and public health infrastructure (11), Occupational and environmental epidemiology (9)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 129 item(s) across 94 source(s).
-- Baseline snapshot created with 129 clustered item(s) across 94 source(s).
+- Newly tracked story cluster: 131 item(s) across 95 source(s).
+- Baseline snapshot created with 131 clustered item(s) across 95 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 129 item(s) across 94 source(s); 4 official/primary-source item(s).
+- Topic size: 131 item(s) across 95 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [G7 leaders call for ‘coordinated' response to Ebola outbreak in DR Congo, Uganda](https://www.aa.com.tr/en/africa/g7-leaders-call-for-coordinated-response-to-ebola-outbreak-in-dr-congo-uganda/3968932) (Anadolu Ajansı)
@@ -85,9 +85,9 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News, 2026-06-13T06:53+00:00)
-- Detailed note: Vietnam's Ministry of Health warned on Saturday that dengue fever cases could continue to rise as the country enters the peak transmission season, with more than 50,000 infections and five deaths reported nationwide so far this year. News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Think tank raises forecast of Taiwan's GDP growth to 9.33%...
-- Evidence notes: [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
+- Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times, 2026-06-16T04:27+00:00)
+- Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Think tank raises forecast of Taiwan's GDP growth to 9.33% Taiwan's Fan Chun-chia breaks bench press world record in 74-kg class Taiwan expresses condolences over death of Thai princess Taiwan team finds breakthrough way to revive cancer-fighting immune cells Cross-party support to abolish Control...
+- Evidence notes: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -452,8 +452,6 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - ['Situation getting worse': Locals in Ebola outbreak epicentre](https://news.sky.com/video/situation-getting-worse-locals-in-ebola-outbreak-epicentre-13554596) | Sky News | 2026-06-16T11:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Uganda struggles to block border travel amid Ebola outbreak: "Like stopping wind from blowing"](https://www.cbsnews.com/video/uganda-ebola-struggles-to-block-travel/) | CBS News | 2026-06-16T11:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Afreximbank cancels flagship meeting as Ebola outbreak threatens Africa's business travel and trade activities](https://africa.businessinsider.com/local/markets/afreximbank-cancels-flagship-meeting-as-ebola-outbreak-threatens-africas-business/eqhl72k) | Business Insider Africa | 2026-06-16T10:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Outbreak Yet to Peak, Red Cross Warns](https://moderndiplomacy.eu/2026/06/16/congo-ebola-outbreak-yet-to-peak-red-cross-warns/) | Modern Diplomacy | 2026-06-16T10:42+00:00 | Outbreaks and emerging infections
@@ -462,6 +460,8 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [Uganda Exposes Fake Ebola Travel Certificates Fraud Amid Outbreak](https://streamlinefeed.co.ke/news/uganda-exposes-fake-ebola-travel-certificates-fraud-amid-outbreak) | streamlinefeed.co.ke | 2026-06-16T05:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) | The Straits Times | 2026-06-16T04:27+00:00 | Outbreaks and emerging infections
+  Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with the red-alert classification. The four clusters include one with 34 cases in Countryside Road/Lentor Avenue, which has a fast rate of dengue transmission, according to NEA.
 
 ## Papers worth saving
 - [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/)
