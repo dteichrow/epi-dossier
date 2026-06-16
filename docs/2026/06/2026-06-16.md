@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T14:01
+Generated at: 2026-06-16T14:16
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-16
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (127), Policy, surveillance, and public health infrastructure (12), Occupational and environmental epidemiology (9)
+- Category mix: Outbreaks and emerging infections (126), Policy, surveillance, and public health infrastructure (12), Occupational and environmental epidemiology (9)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 130 item(s) across 91 source(s).
-- Baseline snapshot created with 130 clustered item(s) across 91 source(s).
+- Newly tracked story cluster: 129 item(s) across 91 source(s).
+- Baseline snapshot created with 129 clustered item(s) across 91 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 130 item(s) across 91 source(s); 4 official/primary-source item(s).
+- Topic size: 129 item(s) across 91 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [G7 leaders commit for a coordinated response to the re-emerging Ebola outbreak in DR Congo and Uganda](https://www.gamereactor.eu/g7-leaders-commit-for-a-coordinated-response-to-the-re-emerging-ebola-outbreak-in-dr-congo-and-uganda-1736023/) (Gamereactor UK)
@@ -436,7 +436,7 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [Africa CDC head warns Ebola outbreak could be worst ever](https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever) | CIDRAP | 2026-06-16T20:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html) | The New York Times | 2026-06-16T19:38+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html) | The New York Times | 2026-06-16T19:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: How bad could it get? - as number of cases 'likely even greater'](https://news.sky.com/video/ebola-outbreak-how-bad-could-it-get-as-number-of-cases-likely-even-greater-13554763) | Sky News | 2026-06-16T18:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -490,7 +490,7 @@ Search window: 7 day(s) ending 2026-06-16
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42287108/
 
 ## Historical epi / weird epi corner
-- [Congo's burial teams fight Ebola one coffin at a time](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlVCVTI5bVcybGFFWXluRjdvZFpNclRyOG96SDJ1RkVtWUhIYlNiM2RWazRhalp1dnNuMC02SXMxalZ3MmNqNEx6eFBSNTVLTmV2a1ppNUZCMG5RdG1pOUNCbkhUZms0M0p3QTlzTEtyUXRUSDNzWDNzTE1iMkJlMkY2RXVNa3RrRU5kekt4eUdkNnY4RFo0?oc=5) | Breakingviews
+- [Congo's burial teams fight Ebola one coffin at a time](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFB2U2pOYlFCcEE0RXFIQXZXWDNDUlZMMkV4aTRqbll3Vzdla0x1TGZFTVA3M3FRQVdCcjMwSUtJdFhJYmxJSEJydkczVF9mMlNYVHExUFFJZHN6Qk12NnRWMERtbTcycmRpRktYVXctRUY0UTdOeWE3Mld6T0FRTzNKUEQ4RmM?oc=5) | Yahoo
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
