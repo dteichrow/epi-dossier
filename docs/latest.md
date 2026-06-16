@@ -1,18 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T01:42
+Generated at: 2026-06-16T02:02
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
+- [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa; 2026-06-16T08:53+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa; 2026-06-12T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (119), Occupational and environmental epidemiology (7), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (115), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (5)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -24,7 +24,7 @@ Search window: 7 day(s) ending 2026-06-16
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today)
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
@@ -32,20 +32,14 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 114 item(s) across 84 source(s).
-- Baseline snapshot created with 114 clustered item(s) across 84 source(s).
+- Newly tracked story cluster: 112 item(s) across 82 source(s).
+- Baseline snapshot created with 112 clustered item(s) across 82 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
-### COVID-19 and SARS-CoV-2
-- Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 4 item(s) across 3 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
-- PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 114 item(s) across 84 source(s); 3 official/primary-source item(s).
+- Topic size: 112 item(s) across 82 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Outbreak: Ebola Cases Surge Past 780 In DR Congo Amid Health Emergency](https://www.wionews.com/videos/ebola-outbreak-ebola-cases-surge-past-780-in-dr-congo-amid-health-emergency-1781588521173) (WION); [Ebola Cases Top 800 as African Leaders Plan Emergency Summit](https://www.bloomberg.com/news/articles/2026-06-16/congo-ebola-cases-top-800-as-aid-groups-eatime-outbreak-is-larger-than-reported) (Bloomberg.com)
@@ -60,37 +54,37 @@ Search window: 7 day(s) ending 2026-06-16
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### COVID-19 and SARS-CoV-2
-- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
-- Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa, 2026-06-12T09:58+00:00)
-- Detailed note: Compared with the base case, hospitalizations and deaths declined by 15-47% and productivity loss hours by 15-45% across higher utilization scenarios; conversely, the 0% scenario resulted in a 33% increase in hospitalizations and a 32% rise in productivity loss. Cumulatively from weeks 1 to 22, the WHO AFR influenza laboratory network has tested 29,831 sentinelsurveillance specimens for SARS-CoV-2, of which 857...
-- Evidence notes: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31) (WHO Regional Office for Africa); [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) (WHO Regional Office for Africa); [Potential implications of increased utilization of oral nirmatrelvir/ritonavir in outpatient care for COVID-19: modeled findings from the Spanish National Health System perspective.](https://pubmed.ncbi.nlm.nih.gov/42287108/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
+### Miscellaneous signals
+- Topic size: 5 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Lead item: [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa, 2026-06-16T08:53+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa); [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/) (PubMed Infectious Disease Search); [A nationwide survey on knowledge, attitude, and practice regarding human papillomavirus (HPV), HPV-related disease, and HPV vaccine among adolescents and their parents in China.](https://pubmed.ncbi.nlm.nih.gov/42295870/) (PubMed Infectious Disease Search); [Early effects of HPV vaccination on high-grade cervical intraepithelial neoplasia in Brazil: Evidence from outpatient data.](https://pubmed.ncbi.nlm.nih.gov/42295873/) (PubMed Infectious Disease Search); [Five fall ill from E. coli outbreak at Nagoya Costco store](https://www.japantimes.co.jp/news/2026/06/16/japan/costco-food-poisoning/) (The Japan Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today, 2026-06-15T21:09+00:00)
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
 - Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
-- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [Bangladesh Measles Death Toll Crosses 650 After Four More Children Die](https://indianewengland.com/bangladesh-measles-death-toll-crosses-650-after-four-more-children-die/) (INDIA New England News)
+- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [Bangladesh Measles Death Toll Crosses 650 After Four More Children Die](https://indianewengland.com/bangladesh-measles-death-toll-crosses-650-after-four-more-children-die/) (INDIA New England News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Dengue and arboviruses
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times, 2026-06-16T07:36+00:00)
+- Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times, 2026-06-16T04:27+00:00)
 - Detailed note: Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with red-alert classification.
 - Evidence notes: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
-### Miscellaneous signals
-- Topic size: 4 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/) (PubMed Infectious Disease Search, 2026-06-15T00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/) (PubMed Infectious Disease Search); [A nationwide survey on knowledge, attitude, and practice regarding human papillomavirus (HPV), HPV-related disease, and HPV vaccine among adolescents and their parents in China.](https://pubmed.ncbi.nlm.nih.gov/42295870/) (PubMed Infectious Disease Search); [Early effects of HPV vaccination on high-grade cervical intraepithelial neoplasia in Brazil: Evidence from outpatient data.](https://pubmed.ncbi.nlm.nih.gov/42295873/) (PubMed Infectious Disease Search); [Five fall ill from E. coli outbreak at Nagoya Costco store](https://www.japantimes.co.jp/news/2026/06/16/japan/costco-food-poisoning/) (The Japan Times)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+### Avian influenza and H5N1
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Vietnam remains on alert for emerging avian influenza variants](https://avinews.com/en/vietnam-remains-on-alert-for-emerging-avian-influenza-variants/) (avinews.com, 2026-06-05T00:30+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Vietnam remains on alert for emerging avian influenza variants](https://avinews.com/en/vietnam-remains-on-alert-for-emerging-avian-influenza-variants/) (avinews.com)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -321,6 +315,16 @@ Search window: 7 day(s) ending 2026-06-16
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### The Pandemic Fund 2026 1st Quarter Newsletter
+- Source: WHO Regional Office for Africa
+- Date: 2026-06-16T08:53+00:00
+- URL: https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter
+- Category: Outbreaks and emerging infections
+- Summary: Publications abdullahiea@who.int Tue, 16/06/2026 - 09:53 Ghana continues to advance the implementation of the Pandemic Fund Project, a strategic investment aimed at strengthening the country's capacity to prevent, detect, and respond to public health emergencies. It showcases activities undertaken to strengthen surveillance systems, expand laboratory capacity, build a skilled and responsive workforce, and enhance project coordination and governance. This first-quarter newsletter for 2026 highlights key achievements, milestones, and progress made from January to March 2026.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
 - Source: ECDC News
 - Date: 2026-06-12T17:36+02:00
@@ -329,16 +333,6 @@ Search window: 7 day(s) ending 2026-06-16
 - Summary: Limited usable detail remained after boilerplate cleanup.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
-### Respiratory virus surveillance in the WHO African Region Epidemiological Week 22, May 25 to 31 2026
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-12T09:58+00:00
-- URL: https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-22-may-25-31
-- Category: Outbreaks and emerging infections
-- Summary: Cumulatively from weeks 1 to 22, the WHO AFR influenza laboratory network has tested 29,831 sentinelsurveillance specimens for SARS-CoV-2, of which 857 were positive for SARS-CoV-2 (cumulative positivity rate 2.9%). SARS-CoV-2 In Epiweek 22, of the 876 specimens processed by 11 laboratories in the African Region, a total of 15 specimens tested positive for SARS-CoV-2 (positivity of 1.7%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 26), Influenza A (H3) (n = 31), Influenza A (subtyping not performed) (n = 19), Influenza B (lineage not determined) (n = 81), and Influenza B (Victoria) (n = 29).
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 ### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026
@@ -423,14 +417,12 @@ Search window: 7 day(s) ending 2026-06-16
 
 
 ## Other notable readings
-- [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) | WHO Regional Office for Africa | 2026-06-03T12:27+00:00 | Outbreaks and emerging infections
-  Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) | The Straits Times | 2026-06-16T07:36+00:00 | Outbreaks and emerging infections
-  Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with red-alert classification. The four clusters include one with 34 cases in Countryside Road/Lentor Avenue, which has a fast rate of dengue transmission, according to NEA.
 - [Ebola Outbreak: Ebola Cases Surge Past 780 In DR Congo Amid Health Emergency](https://www.wionews.com/videos/ebola-outbreak-ebola-cases-surge-past-780-in-dr-congo-amid-health-emergency-1781588521173) | WION | 2026-06-16T05:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) | The Straits Times | 2026-06-16T04:27+00:00 | Outbreaks and emerging infections
+  Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with red-alert classification. The four clusters include one with 34 cases in Countryside Road/Lentor Avenue, which has a fast rate of dengue transmission, according to NEA.
 - [Ebola Cases Top 800 as African Leaders Plan Emergency Summit](https://www.bloomberg.com/news/articles/2026-06-16/congo-ebola-cases-top-800-as-aid-groups-eatime-outbreak-is-larger-than-reported) | Bloomberg.com | 2026-06-16T01:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola: Largest ever outbreak of rare strain 'likely even greater' – and the 'first line of defence' has collapsed](https://news.sky.com/story/ebola-largest-ever-outbreak-of-rare-strain-likely-even-greater-and-the-first-line-of-defence-has-collapsed-13554337) | Sky News | 2026-06-15T23:45+00:00 | Outbreaks and emerging infections
@@ -443,7 +435,7 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW.com | 2026-06-15T21:23+00:00 | Outbreaks and emerging infections
   At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
-- [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
+- [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
   The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. Three months later, Bangladesh health officials report 86,923 total suspect cases, after an additional 972 cases were reported in the past 24 hours.
 - [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) | CIDRAP | 2026-06-15T20:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -462,6 +454,8 @@ Search window: 7 day(s) ending 2026-06-16
 - [Regional cooperation and vigilance will control the Ebola outbreak - WHO | Regional Office for Africa](https://www.afro.who.int/countries/uganda/news/regional-cooperation-and-vigilance-will-control-ebola-outbreak) | WHO | 2026-06-15T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Photos show how the Ebola outbreak is changing nightlife in Congo](https://baytobaynews.com/stories/photos-show-how-the-ebola-outbreak-is-changing-nightlife-in-congo,325987) | Bay to Bay News | 2026-06-15T11:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) | The Eastleigh Voice | 2026-06-15T10:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -489,12 +483,6 @@ Search window: 7 day(s) ending 2026-06-16
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42295873/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42295873/
-- [Potential implications of increased utilization of oral nirmatrelvir/ritonavir in outpatient care for COVID-19: modeled findings from the Spanish National Health System perspective.](https://pubmed.ncbi.nlm.nih.gov/42287108/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/13696998.2026.2681354
-  Journal/preprint server: Journal of medical economics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42287108/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42287108/
 
 ## Historical epi / weird epi corner
 - [Congo's burial teams fight Ebola one coffin at a time](https://www.breakingviews.com/video/watch/idRW861513062026RP1/?chan\=breakingviews-2025-04-16) | Breakingviews
@@ -503,5 +491,6 @@ Search window: 7 day(s) ending 2026-06-16
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 
 ## Possible blog/video angles
+- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
