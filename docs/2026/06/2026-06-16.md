@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T15:41
+Generated at: 2026-06-16T15:51
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-16
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (123), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (9)
+- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (9)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 128 item(s) across 95 source(s).
-- Baseline snapshot created with 128 clustered item(s) across 95 source(s).
+- Newly tracked story cluster: 127 item(s) across 94 source(s).
+- Baseline snapshot created with 127 clustered item(s) across 94 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -37,14 +37,14 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
+- Newly tracked story cluster: 2 item(s) across 2 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 128 item(s) across 95 source(s); 4 official/primary-source item(s).
+- Topic size: 127 item(s) across 94 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) (Yahoo News Canada)
@@ -76,10 +76,10 @@ Search window: 7 day(s) ending 2026-06-16
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### COVID-19 and SARS-CoV-2
-- Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa, 2026-06-16T11:55+00:00)
-- Detailed note: Compared with the base case, hospitalizations and deaths declined by 15-47% and productivity loss hours by 15-45% across higher utilization scenarios; conversely, the 0% scenario resulted in a 33% increase in hospitalizations and a 32% rise in productivity loss. Cumulatively from weeks 1 to 23, the WHO AFR influenza laboratory network has tested 30,987 sentinel surveillance specimens for SARS-CoV-2, of which 882...
-- Evidence notes: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa); [Potential implications of increased utilization of oral nirmatrelvir/ritonavir in outpatient care for COVID-19: modeled findings from the Spanish National Health System perspective.](https://pubmed.ncbi.nlm.nih.gov/42287108/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
+- Detailed note: Cumulatively from weeks 1 to 23, the WHO AFR influenza laboratory network has tested 30,987 sentinel surveillance specimens for SARS-CoV-2, of which 882 were positive for SARS-CoV-2 (cumulative positivity rate 2.8%). SARS-CoV-2 In Epiweek 23, of the 672 specimens processed by 11 laboratories in the African Region, a total of 23 specimens tested positive for SARS-CoV-2 (positivity of 3.4%).
+- Evidence notes: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -482,12 +482,6 @@ Search window: 7 day(s) ending 2026-06-16
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42295873/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42295873/
-- [Potential implications of increased utilization of oral nirmatrelvir/ritonavir in outpatient care for COVID-19: modeled findings from the Spanish National Health System perspective.](https://pubmed.ncbi.nlm.nih.gov/42287108/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/13696998.2026.2681354
-  Journal/preprint server: Journal of medical economics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42287108/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42287108/
 
 ## Historical epi / weird epi corner
 - [Congo's burial teams fight Ebola one coffin at a time](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFB2U2pOYlFCcEE0RXFIQXZXWDNDUlZMMkV4aTRqbll3Vzdla0x1TGZFTVA3M3FRQVdCcjMwSUtJdFhJYmxJSEJydkczVF9mMlNYVHExUFFJZHN6Qk12NnRWMERtbTcycmRpRktYVXctRUY0UTdOeWE3Mld6T0FRTzNKUEQ4RmM?oc=5) | Yahoo
