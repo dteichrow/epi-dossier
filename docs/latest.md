@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T05:32
+Generated at: 2026-06-16T05:42
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-16
 - [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (7), Occupational and environmental epidemiology (7)
+- Category mix: Outbreaks and emerging infections (125), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (7)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 118 item(s) across 84 source(s).
-- Baseline snapshot created with 118 clustered item(s) across 84 source(s).
+- Newly tracked story cluster: 121 item(s) across 85 source(s).
+- Baseline snapshot created with 121 clustered item(s) across 85 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -44,10 +44,10 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 118 item(s) across 84 source(s); 3 official/primary-source item(s).
+- Topic size: 121 item(s) across 85 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Interview: Health official warns DR Congo Ebola outbreak still in active phase](https://english.news.cn/20260616/503ae813168e46ada3b4cb747ba6a494/c.html) (Xinhua); [Congo Ebola Outbreak Yet to Peak, Red Cross Warns](https://moderndiplomacy.eu/2026/06/16/congo-ebola-outbreak-yet-to-peak-red-cross-warns/) (Modern Diplomacy)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); ['Situation getting worse': Locals in Ebola outbreak epicentre](https://news.sky.com/video/situation-getting-worse-locals-in-ebola-outbreak-epicentre-13554596) (Sky News); [Interview: Health official warns DR Congo Ebola outbreak still in active phase](https://english.news.cn/20260616/503ae813168e46ada3b4cb747ba6a494/c.html) (Xinhua)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -86,7 +86,7 @@ Search window: 7 day(s) ending 2026-06-16
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times, 2026-06-16T04:27+00:00)
-- Detailed note: Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with the red-alert classification. 7 in global market cap after SpaceX surge Taiwan withdraws from ocean conference after Kenya detains delegates Taiwan expresses condolences over death of Thai...
+- Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Think tank raises forecast of Taiwan's GDP growth to 9.33% Taiwan's Fan Chun-chia breaks bench press world record in 74-kg class Taiwan expresses condolences over death of Thai princess Taiwan team finds breakthrough way to revive cancer-fighting immune cells Cross-party support to abolish Control...
 - Evidence notes: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
@@ -428,6 +428,8 @@ Search window: 7 day(s) ending 2026-06-16
   Following the COVID-19 pandemic, the UHPR was established to help countries assess and enhance their preparedness for health emergencies by engaging the highest levels of government. The UHPR follows a five-year cycle comprising preparation, national review, global peer review, and follow-up implementation phases. Sierra Leone became the first country in the ECOWAS region, the second in Africa, and the fifth worldwide to participate in the review.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- ['Situation getting worse': Locals in Ebola outbreak epicentre](https://news.sky.com/video/situation-getting-worse-locals-in-ebola-outbreak-epicentre-13554596) | Sky News | 2026-06-16T11:49+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Interview: Health official warns DR Congo Ebola outbreak still in active phase](https://english.news.cn/20260616/503ae813168e46ada3b4cb747ba6a494/c.html) | Xinhua | 2026-06-16T11:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Outbreak Yet to Peak, Red Cross Warns](https://moderndiplomacy.eu/2026/06/16/congo-ebola-outbreak-yet-to-peak-red-cross-warns/) | Modern Diplomacy | 2026-06-16T10:42+00:00 | Outbreaks and emerging infections
@@ -459,8 +461,6 @@ Search window: 7 day(s) ending 2026-06-16
 - [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
   The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. Three months later, Bangladesh health officials report 86,923 total suspect cases, after an additional 972 cases were reported in the past 24 hours.
 - [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) | CIDRAP | 2026-06-15T20:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo reports large jump in Ebola cases](https://www.huntingdondailynews.com/ap/international/congo-reports-large-jump-in-ebola-cases/article_67023b7a-df2d-52b0-8ba4-3c236277b860.html) | huntingdondailynews.com | 2026-06-15T19:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
