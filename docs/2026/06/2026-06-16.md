@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T03:17
+Generated at: 2026-06-16T04:02
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,17 +12,10 @@ Search window: 7 day(s) ending 2026-06-16
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (118), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (5)
+- Category mix: Outbreaks and emerging infections (116), Policy, surveillance, and public health infrastructure (8), Occupational and environmental epidemiology (7)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Occupational and environmental epidemiology
-- Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
-- Newly tracked story cluster: 9 item(s) across 4 source(s).
-- Baseline snapshot created with 9 clustered item(s) across 4 source(s).
-- CDC MMWR now explicitly uses investigation or monitoring language.
-- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
 ### Measles transmission and vaccination
 - Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
@@ -32,22 +25,28 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 115 item(s) across 83 source(s).
-- Baseline snapshot created with 115 clustered item(s) across 83 source(s).
+- Newly tracked story cluster: 116 item(s) across 84 source(s).
+- Baseline snapshot created with 116 clustered item(s) across 84 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+
+### Occupational and environmental epidemiology
+- Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR)
+- Newly tracked story cluster: 8 item(s) across 3 source(s).
+- Baseline snapshot created with 8 clustered item(s) across 3 source(s).
+- CDC MMWR now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 115 item(s) across 83 source(s); 3 official/primary-source item(s).
+- Topic size: 116 item(s) across 84 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo’s Ebola Outbreak Is a Warning](https://www.bloomberg.com/opinion/articles/2026-06-16/congo-s-ebola-outbreak-should-be-a-warning-to-white-house-world) (Bloomberg); [Congo authorities report 72 new Ebola cases](https://www.arkansasonline.com/news/2026/jun/16/congo-authorities-report-72-new-ebola-cases/) (The Arkansas Democrat-Gazette)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo Ebola Outbreak Yet to Peak, Red Cross Warns](https://moderndiplomacy.eu/2026/06/16/congo-ebola-outbreak-yet-to-peak-red-cross-warns/) (Modern Diplomacy); [Congo’s Ebola Outbreak Is a Warning](https://www.bloomberg.com/opinion/articles/2026-06-16/congo-s-ebola-outbreak-should-be-a-warning-to-white-house-world) (Bloomberg)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 9 item(s) across 4 source(s); 8 official/primary-source item(s).
+- Topic size: 8 item(s) across 3 source(s); 7 official/primary-source item(s).
 - Lead item: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR, 2026-06-11T17:00+00:00)
 - Detailed note: Weekly / June 11, 2026 / 75(22);274â279 Matthew Morse, MPH 1 ; Martin Zartarian, MS 1 ; Braden Savage 1 ; Patrick O’Connor 1 ; David Nicholas, MPH 2 ,3 ; Halex Jones, MPH 4 ; Christopher Gil, MPH 4 ; Danielle Wroblewski, MS 5 ; Stacey Chmura, MS 6 ; Nirupam Biswas, PhD 6 ; Craig Bocketti 6 ; Grace Willard 6 ; Seth Blumerman, PhD 5 ; Theresa Hattenrath, PhD 6 ; Donna Gowie 4 ; Lisa Mingle, PhD 5 ; Ursula Lauper,...
 - Evidence notes: [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR); [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR); [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR); [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR); [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR)
@@ -419,6 +418,8 @@ Search window: 7 day(s) ending 2026-06-16
 ## Other notable readings
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Congo Ebola Outbreak Yet to Peak, Red Cross Warns](https://moderndiplomacy.eu/2026/06/16/congo-ebola-outbreak-yet-to-peak-red-cross-warns/) | Modern Diplomacy | 2026-06-16T10:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Congo’s Ebola Outbreak Is a Warning](https://www.bloomberg.com/opinion/articles/2026-06-16/congo-s-ebola-outbreak-should-be-a-warning-to-white-house-world) | Bloomberg | 2026-06-16T10:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo authorities report 72 new Ebola cases](https://www.arkansasonline.com/news/2026/jun/16/congo-authorities-report-72-new-ebola-cases/) | The Arkansas Democrat-Gazette | 2026-06-16T09:00+00:00 | Outbreaks and emerging infections
@@ -427,6 +428,10 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) | The Straits Times | 2026-06-16T04:27+00:00 | Outbreaks and emerging infections
   Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with the red-alert classification. The four clusters include one with 34 cases in Countryside Road/Lentor Avenue, which has a fast rate of dengue transmission, according to NEA.
+- [Roundup: One month into DR Congo Ebola outbreak](https://news.cgtn.com/news/2026-06-16/Roundup-One-month-into-DR-Congo-Ebola-outbreak-1O0YzXZSK8o/p.html) | news.cgtn.com | 2026-06-16T02:28+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW | 2026-06-16T01:31+00:00 | Outbreaks and emerging infections
+  At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
 - [Ebola Cases Top 800 as African Leaders Plan Emergency Summit](https://www.bloomberg.com/news/articles/2026-06-16/congo-ebola-cases-top-800-as-aid-groups-eatime-outbreak-is-larger-than-reported) | Bloomberg | 2026-06-16T01:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola: Largest ever outbreak of rare strain 'likely even greater' – and the 'first line of defence' has collapsed](https://news.sky.com/story/ebola-largest-ever-outbreak-of-rare-strain-likely-even-greater-and-the-first-line-of-defence-has-collapsed-13554337) | Sky News | 2026-06-15T23:45+00:00 | Outbreaks and emerging infections
@@ -437,8 +442,6 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.reuters.com/business/healthcare-pharmaceuticals/true-scale-congo-ebola-outbreak-still-unknown-one-month-responders-say-2026-06-15/) | Reuters | 2026-06-15T21:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW | 2026-06-15T21:23+00:00 | Outbreaks and emerging infections
-  At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
 - [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
   The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. Three months later, Bangladesh health officials report 86,923 total suspect cases, after an additional 972 cases were reported in the past 24 hours.
 - [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) | CIDRAP | 2026-06-15T20:33+00:00 | Outbreaks and emerging infections
@@ -447,15 +450,11 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [DRC reports record number of Ebola cases in a single day as outbreak hits 1-month mark - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/drc-reports-record-number-ebola-cases-single-day/story?id\=133883214) | ABC News - Breaking News, Latest News and Videos | 2026-06-15T17:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo reports large daily jump in Ebola cases a month after outbreak was declared](https://www.inquirer.com/news/nation-world/ebola-outbreak-congo-increase-cases-deaths-20260615.html) | Inquirer.com | 2026-06-15T16:17+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Congo reports 72 new Ebola cases Sunday, one of the largest daily jumps since outbreak was declared](https://www.pbs.org/newshour/world/congo-reports-72-new-ebola-cases-sunday-one-of-the-largest-daily-jumps-since-outbreak-was-declared) | PBS | 2026-06-15T15:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Today in Africa — June 15, 2026: 1,000 Drone Strike Deaths in Sudan, DR Congo’s Ebola Outbreak Accelerates](https://www.okayafrica.com/today-in-africa-june-15-2026-1000-drone-strike-deaths-in-sudan-dr-congos-ebola-outbreak-accelerates/1432570) | OkayAfrica | 2026-06-15T14:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Regional cooperation and vigilance will control the Ebola outbreak - WHO | Regional Office for Africa](https://www.afro.who.int/countries/uganda/news/regional-cooperation-and-vigilance-will-control-ebola-outbreak) | WHO | 2026-06-15T12:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Photos show how the Ebola outbreak is changing nightlife in Congo](https://www.union-bulletin.com/news/national/photos-show-how-the-ebola-outbreak-is-changing-nightlife-in-congo/article_8f0f488e-dc06-5b38-8860-a18f8ce4f29e.html) | Union-Bulletin | 2026-06-15T11:42+00:00 | Outbreaks and emerging infections
+- [Congo reports large daily jump in Ebola cases a month after outbreak was declared](https://www.ncnewsonline.com/news/national/congo-reports-large-daily-jump-in-ebola-cases-a-month-after-outbreak-was-declared/article_fd8ea2d8-8d82-5867-9a95-b37076595d56.html) | New Castle News | 2026-06-15T14:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -465,12 +464,6 @@ Search window: 7 day(s) ending 2026-06-16
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42295252/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42295252/
-- [Nanomaterial-based vaccines: An advanced approach against rotavirus: A review article.](https://pubmed.ncbi.nlm.nih.gov/42277989/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2686506
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42277989/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42277989/
 - [A nationwide survey on knowledge, attitude, and practice regarding human papillomavirus (HPV), HPV-related disease, and HPV vaccine among adolescents and their parents in China.](https://pubmed.ncbi.nlm.nih.gov/42295870/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2681256
