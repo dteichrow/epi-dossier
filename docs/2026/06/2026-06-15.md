@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T19:42
+Generated at: 2026-06-15T19:50
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -432,7 +432,7 @@ Search window: 7 day(s) ending 2026-06-15
   The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. Three months later, Bangladesh health officials report 86,923 total suspect cases, after an additional 972 cases were reported in the past 24 hours.
 - [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) | CIDRAP | 2026-06-15T20:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW.com | 2026-06-15T19:23+00:00 | Outbreaks and emerging infections
+- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW | 2026-06-15T19:23+00:00 | Outbreaks and emerging infections
   At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
 - [Congo reports large jump in Ebola cases](https://www.huntingdondailynews.com/ap/international/congo-reports-large-jump-in-ebola-cases/article_67023b7a-df2d-52b0-8ba4-3c236277b860.html) | huntingdondailynews.com | 2026-06-15T19:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
