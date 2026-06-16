@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T17:48
+Generated at: 2026-06-15T18:16
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -76,13 +76,13 @@ Search window: 7 day(s) ending 2026-06-15
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Nipah virus disease
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English, 2026-06-11T05:15+00:00)
-- Detailed note: Health authorities have identified 578 suspected cases, and test results for seven samples are still awaited. So far, 20 people have tested positive for Shigella, while 55 patients are being treated in hospitals.
-- Evidence notes: [Nipah virus returns to Keralam: State govt issues high alert; 55 hospitalised with Shigella infection](https://www.bhaskarenglish.in/national/news/kerala-nipah-virus-outbreak-kozikhode-businessman-ventilator-138164065.html) (Bhaskar English)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+### Avian influenza and H5N1
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [EM&I: A new clade of H9N2 avian influenza virus circulating in Laos](https://afludiary.blogspot.com/2026/06/em-new-clade-of-h9n2-avian-influenza.html) (Avian Flu Diary, 2026-06-08T12:30+00:00)
+- Detailed note: Also last month, in Eurosurveillance: Cross-reactive human antibody responses to H9N2 influenza virus, New York, United States, 2025 , we saw that ` pre-existing immunity to H9N2 in humans that is dominated by cross-reactive but largely non-neutralising antibodies , with a greater contribution from NA-directed responses.' Last month, in Preprint: Outbreak of H9N2 Avian Influenza Viruses in Lesser Rhea in Peru,...
+- Evidence notes: [EM&I: A new clade of H9N2 avian influenza virus circulating in Laos](https://afludiary.blogspot.com/2026/06/em-new-clade-of-h9n2-avian-influenza.html) (Avian Flu Diary); [Vietnam remains on alert for emerging avian influenza variants](https://avinews.com/en/vietnam-remains-on-alert-for-emerging-avian-influenza-variants/) (avinews.com)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
 - Topic size: 3 item(s) across 1 source(s); 3 official/primary-source item(s).
