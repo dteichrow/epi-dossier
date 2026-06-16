@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T05:12
+Generated at: 2026-06-16T05:16
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-16
 - [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (121), Policy, surveillance, and public health infrastructure (7), Occupational and environmental epidemiology (7)
+- Category mix: Outbreaks and emerging infections (123), Policy, surveillance, and public health infrastructure (7), Occupational and environmental epidemiology (7)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 117 item(s) across 84 source(s).
-- Baseline snapshot created with 117 clustered item(s) across 84 source(s).
+- Newly tracked story cluster: 119 item(s) across 86 source(s).
+- Baseline snapshot created with 119 clustered item(s) across 86 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 117 item(s) across 84 source(s); 3 official/primary-source item(s).
+- Topic size: 119 item(s) across 86 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-12T17:36+02:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. As of 07 June 2026, a cumulative total of 550 laboratory-confirmed cases, including 101 confirmed deaths [case...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Interview: Health official warns DR Congo Ebola outbreak still in active phase](https://english.news.cn/20260616/503ae813168e46ada3b4cb747ba6a494/c.html) (Xinhua); [Congo Ebola Outbreak Yet to Peak, Red Cross Warns](https://moderndiplomacy.eu/2026/06/16/congo-ebola-outbreak-yet-to-peak-red-cross-warns/) (Modern Diplomacy)
@@ -490,7 +490,7 @@ Search window: 7 day(s) ending 2026-06-16
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42287108/
 
 ## Historical epi / weird epi corner
-- [Congo's burial teams fight Ebola one coffin at a time](https://www.breakingviews.com/video/watch/idRW861513062026RP1/?chan\=breakingviews-2025-04-16) | Breakingviews
+- [Congo's burial teams fight Ebola one coffin at a time](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlVCVTI5bVcybGFFWXluRjdvZFpNclRyOG96SDJ1RkVtWUhIYlNiM2RWazRhalp1dnNuMC02SXMxalZ3MmNqNEx6eFBSNTVLTmV2a1ppNUZCMG5RdG1pOUNCbkhUZms0M0p3QTlzTEtyUXRUSDNzWDNzTE1iMkJlMkY2RXVNa3RrRU5kekt4eUdkNnY4RFo0?oc=5) | Breakingviews
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
