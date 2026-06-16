@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T05:42
+Generated at: 2026-06-16T05:53
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -16,13 +16,6 @@ Search window: 7 day(s) ending 2026-06-16
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Measles transmission and vaccination
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Outbreak News Today now includes deaths or fatal cases in the story frame.
-- Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
-
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
 - Newly tracked story cluster: 121 item(s) across 85 source(s).
@@ -75,19 +68,19 @@ Search window: 7 day(s) ending 2026-06-16
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Measles transmission and vaccination
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
-- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
-- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [Bangladesh Measles Death Toll Crosses 650 After Four More Children Die](https://indianewengland.com/bangladesh-measles-death-toll-crosses-650-after-four-more-children-die/) (INDIA New England News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times, 2026-06-16T04:27+00:00)
 - Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Think tank raises forecast of Taiwan's GDP growth to 9.33% Taiwan's Fan Chun-chia breaks bench press world record in 74-kg class Taiwan expresses condolences over death of Thai princess Taiwan team finds breakthrough way to revive cancer-fighting immune cells Cross-party support to abolish Control...
-- Evidence notes: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [5 dengue cases detected in suspected Kaohsiung hospital cluster](https://focustaiwan.tw/society/202606120019) (Focus Taiwan)
+- Evidence notes: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [Kaohsiung hospital dengue cluster linked to imported case: CDC](https://focustaiwan.tw/society/202606160023) (Focus Taiwan)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today, 2026-06-15T21:09+00:00)
+- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
+- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -458,7 +451,7 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.reuters.com/business/healthcare-pharmaceuticals/true-scale-congo-ebola-outbreak-still-unknown-one-month-responders-say-2026-06-15/) | Reuters | 2026-06-15T21:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
+- [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
   The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. Three months later, Bangladesh health officials report 86,923 total suspect cases, after an additional 972 cases were reported in the past 24 hours.
 - [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) | CIDRAP | 2026-06-15T20:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
