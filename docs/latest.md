@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T08:55
+Generated at: 2026-06-16T08:59
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 131 item(s) across 94 source(s).
-- Baseline snapshot created with 131 clustered item(s) across 94 source(s).
+- Newly tracked story cluster: 131 item(s) across 93 source(s).
+- Baseline snapshot created with 131 clustered item(s) across 93 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 131 item(s) across 94 source(s); 4 official/primary-source item(s).
+- Topic size: 131 item(s) across 93 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [G7 leaders call for ‘coordinated' response to Ebola outbreak in DR Congo, Uganda](https://www.aa.com.tr/en/africa/g7-leaders-call-for-coordinated-response-to-ebola-outbreak-in-dr-congo-uganda/3968932) (Anadolu Ajansı)
@@ -394,6 +394,16 @@ Search window: 7 day(s) ending 2026-06-16
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### DR Congo Ebola outbreak yet to peak, could last a year: Red Cross
+- Source: Medical Xpress
+- Date: 2026-06-16T15:00+00:00
+- URL: https://medicalxpress.com/news/2026-06-dr-congo-ebola-outbreak-peak.html
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 ### Official: Ebola outbreak in DR Congo yet to peak, may last a year
 - Source: سانا
 - Date: 2026-06-16T14:44+00:00
@@ -404,23 +414,13 @@ Search window: 7 day(s) ending 2026-06-16
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### G7 calls for urgent global action on Congo Ebola outbreak
-- Source: AnewZ
-- Date: 2026-06-16T14:43+00:00
-- URL: https://anewz.tv/world/world-news/20938/africa-cdc-warns-ebola-outbreak-worst-ever/news
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [G7 calls for urgent global action on Congo Ebola outbreak](https://anewz.tv/world/world-news/20938/africa-cdc-warns-ebola-outbreak-worst-ever/news) | AnewZ | 2026-06-16T14:43+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola Crisis Deepens: Congo Faces Unprecedented Outbreak Warning](https://www.wionews.com/videos/ebola-crisis-deepens-congo-faces-unprecedented-outbreak-warning-1781620950454) | WION | 2026-06-16T14:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak still spreading in Congo: "We are missing cases"](https://www.aol.com/articles/ebola-outbreak-still-spreading-congo-131430000.html) | AOL.com | 2026-06-16T13:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak yet to peak, could last a year: Red Cross](https://www.thestandard.com.hk/world/article/334837/DR-Congo-Ebola-outbreak-yet-to-peak-could-last-a-year-Red-Cross) | The Standard (HK) | 2026-06-16T13:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak still spreading in Congo, and "that means we are missing cases," WHO says](https://www.cbsnews.com/news/ebola-outbreak-2026-congo-uganda-still-spreading-who/) | CBS News | 2026-06-16T13:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
