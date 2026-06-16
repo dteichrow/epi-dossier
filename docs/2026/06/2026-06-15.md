@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-15
-Generated at: 2026-06-15T21:17
+Generated at: 2026-06-15T22:04
 Search window: 7 day(s) ending 2026-06-15
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-15
 - [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Assessment of Risk to the U.S. Population from the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765736) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (110), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (6)
+- Category mix: Outbreaks and emerging infections (111), Occupational and environmental epidemiology (7), Major epidemiology studies (5)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -437,7 +437,7 @@ Search window: 7 day(s) ending 2026-06-15
   The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. Three months later, Bangladesh health officials report 86,923 total suspect cases, after an additional 972 cases were reported in the past 24 hours.
 - [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) | CIDRAP | 2026-06-15T20:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW.com | 2026-06-15T19:23+00:00 | Outbreaks and emerging infections
+- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW | 2026-06-15T19:23+00:00 | Outbreaks and emerging infections
   At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
 - [Congo reports large jump in Ebola cases](https://www.huntingdondailynews.com/ap/international/congo-reports-large-jump-in-ebola-cases/article_67023b7a-df2d-52b0-8ba4-3c236277b860.html) | huntingdondailynews.com | 2026-06-15T19:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -451,6 +451,8 @@ Search window: 7 day(s) ending 2026-06-15
   Limited detail was available from feed metadata alone.
 - [Today in Africa — June 15, 2026: 1,000 Drone Strike Deaths in Sudan, DR Congo’s Ebola Outbreak Accelerates](https://www.okayafrica.com/today-in-africa-june-15-2026-1000-drone-strike-deaths-in-sudan-dr-congos-ebola-outbreak-accelerates/1432570) | OkayAfrica | 2026-06-15T14:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congo reports record daily increase in Ebola cases month after outbreak was declared](https://spectrumlocalnews.com/us/snplus/international/2026/06/15/congo-reports-record-daily-increase-in-ebola-cases-month-after-outbreak-was-declared) | Spectrum News | 2026-06-15T12:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Regional cooperation and vigilance will control the Ebola outbreak - WHO | Regional Office for Africa](https://www.afro.who.int/countries/uganda/news/regional-cooperation-and-vigilance-will-control-ebola-outbreak) | WHO | 2026-06-15T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Photos show how the Ebola outbreak is changing nightlife in Congo](https://www.rockymounttelegram.com/news/national/photos-show-how-the-ebola-outbreak-is-changing-nightlife-in-congo/article_0d6913a0-f164-5b3f-b48f-916f6b3161f7.html) | Rocky Mount Telegram | 2026-06-15T11:42+00:00 | Outbreaks and emerging infections
@@ -460,8 +462,6 @@ Search window: 7 day(s) ending 2026-06-15
 - [Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone](https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis) | NPR | 2026-06-15T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases in eastern Congo climb to 782 and deaths reach 181, authorities say](https://medicalxpress.com/news/2026-06-ebola-cases-eastern-congo-climb.html) | Medical Xpress | 2026-06-15T07:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola one month on: will the latest outbreak in DRC become the most deadly yet?](https://www.theguardian.com/world/2026/jun/14/drcs-ebola-outbreak-become-the-most-deadly-yet) | The Guardian | 2026-06-14T20:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
