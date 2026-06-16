@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T00:06
+Generated at: 2026-06-16T00:12
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -24,7 +24,7 @@ Search window: 7 day(s) ending 2026-06-16
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today)
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
@@ -70,9 +70,9 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today, 2026-06-15T21:09+00:00)
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
 - Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
-- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [Bangladesh Measles Death Toll Crosses 650 After Four More Children Die](https://indianewengland.com/bangladesh-measles-death-toll-crosses-650-after-four-more-children-die/) (INDIA New England News)
+- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [Bangladesh Measles Death Toll Crosses 650 After Four More Children Die](https://indianewengland.com/bangladesh-measles-death-toll-crosses-650-after-four-more-children-die/) (INDIA New England News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -443,7 +443,7 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW.com | 2026-06-15T21:23+00:00 | Outbreaks and emerging infections
   At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
-- [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles?utm_source\=substack\&utm_medium\=email\&utm_content\=share\&action\=share) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
+- [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) | Outbreak News Today | 2026-06-15T21:09+00:00 | Outbreaks and emerging infections
   The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. Three months later, Bangladesh health officials report 86,923 total suspect cases, after an additional 972 cases were reported in the past 24 hours.
 - [Ebola case count mounts as outbreak hits 1-month mark](https://www.cidrap.umn.edu/ebola/ebola-case-count-mounts-outbreak-hits-1-month-mark) | CIDRAP | 2026-06-15T20:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
