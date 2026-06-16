@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T09:49
+Generated at: 2026-06-16T09:55
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -11,22 +11,22 @@ Search window: 7 day(s) ending 2026-06-16
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) (WHO Regional Office for Africa; 2026-06-03T12:27+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [G7 leaders call for ‘coordinated' response to Ebola outbreak in DR Congo, Uganda](https://www.aa.com.tr/en/africa/g7-leaders-call-for-coordinated-response-to-ebola-outbreak-in-dr-congo-uganda/3968932) (Anadolu Ajansı; 2026-06-16T15:22+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (131), Policy, surveillance, and public health infrastructure (9), Major epidemiology studies (4)
+- [DR Congo Ebola outbreak yet to peak, could last a year: Red Cross](https://www.yahoo.com/news/world/articles/dr-congo-ebola-outbreak-yet-133219344.html) (Yahoo; 2026-06-16T16:26+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (132), Policy, surveillance, and public health infrastructure (9), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
-- Lead item: [Bangladesh measles crisis deepens as death toll climbs to 657](https://english.nepalnews.com/s/south-asia/bangladesh-measles-crisis-deepens-as-death-toll-climbs-to-657/) (Nepalnews.com)
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Nepalnews.com now includes deaths or fatal cases in the story frame.
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
 - Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 130 item(s) across 94 source(s).
-- Baseline snapshot created with 130 clustered item(s) across 94 source(s).
+- Newly tracked story cluster: 131 item(s) across 93 source(s).
+- Baseline snapshot created with 131 clustered item(s) across 93 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -38,10 +38,10 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 130 item(s) across 94 source(s); 4 official/primary-source item(s).
+- Topic size: 131 item(s) across 93 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
-- Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [G7 leaders call for ‘coordinated' response to Ebola outbreak in DR Congo, Uganda](https://www.aa.com.tr/en/africa/g7-leaders-call-for-coordinated-response-to-ebola-outbreak-in-dr-congo-uganda/3968932) (Anadolu Ajansı)
+- Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DR Congo Ebola outbreak yet to peak, could last a year: Red Cross](https://www.yahoo.com/news/world/articles/dr-congo-ebola-outbreak-yet-133219344.html) (Yahoo)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -63,9 +63,9 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh measles crisis deepens as death toll climbs to 657](https://english.nepalnews.com/s/south-asia/bangladesh-measles-crisis-deepens-as-death-toll-climbs-to-657/) (Nepalnews.com, 2026-06-16T12:26+00:00)
-- Detailed note: DHAKA: Bangladesh’s measles outbreak continues to worsen, with health authorities reporting one additional child death in the past 24 hours, pushing the total number of confirmed and suspected fatalities to 657. Since mid-March, nearly 88,000 suspected cases have been reported nationwide, with over 72,000 patients requiring hospitalization. In total the department is reporting 64 confirmed cases in the...
-- Evidence notes: [Bangladesh measles crisis deepens as death toll climbs to 657](https://english.nepalnews.com/s/south-asia/bangladesh-measles-crisis-deepens-as-death-toll-climbs-to-657/) (Nepalnews.com); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair)
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
+- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
+- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -384,6 +384,16 @@ Search window: 7 day(s) ending 2026-06-16
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
+### DR Congo Ebola outbreak yet to peak, could last a year: Red Cross
+- Source: Yahoo
+- Date: 2026-06-16T16:26+00:00
+- URL: https://www.yahoo.com/news/world/articles/dr-congo-ebola-outbreak-yet-133219344.html
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 ### G7 leaders call for ‘coordinated' response to Ebola outbreak in DR Congo, Uganda
 - Source: Anadolu Ajansı
 - Date: 2026-06-16T15:22+00:00
@@ -404,26 +414,18 @@ Search window: 7 day(s) ending 2026-06-16
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### G7 calls for urgent global action on Congo Ebola outbreak
-- Source: AnewZ
-- Date: 2026-06-16T14:43+00:00
-- URL: https://anewz.tv/world/world-news/20938/africa-cdc-warns-ebola-outbreak-worst-ever/news
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [G7 calls for urgent global action on Congo Ebola outbreak](https://anewz.tv/world/world-news/20938/africa-cdc-warns-ebola-outbreak-worst-ever/news) | AnewZ | 2026-06-16T14:43+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola Crisis Deepens: Congo Faces Unprecedented Outbreak Warning](https://www.wionews.com/videos/ebola-crisis-deepens-congo-faces-unprecedented-outbreak-warning-1781620950454) | WION | 2026-06-16T14:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [G7 leaders call for strong, coordinated response to Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/g7-leaders-call-strong-coordinated-response-ebola-outbreak-2026-06-16/) | Reuters | 2026-06-16T14:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak still spreading in Congo: "We are missing cases"](https://www.aol.com/articles/ebola-outbreak-still-spreading-congo-131430000.html) | AOL.com | 2026-06-16T13:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak still spreading in Congo, and "that means we are missing cases," WHO says](https://www.cbsnews.com/news/ebola-outbreak-2026-congo-uganda-still-spreading-who/) | CBS News | 2026-06-16T13:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bangladesh measles crisis deepens as death toll climbs to 657](https://english.nepalnews.com/s/south-asia/bangladesh-measles-crisis-deepens-as-death-toll-climbs-to-657/) | Nepalnews.com | 2026-06-16T12:26+00:00 | Outbreaks and emerging infections
-  DHAKA: Bangladesh’s measles outbreak continues to worsen, with health authorities reporting one additional child death in the past 24 hours, pushing the total number of confirmed and suspected fatalities to 657. Since mid-March, nearly 88,000 suspected cases have been reported nationwide, with over 72,000 patients requiring hospitalization. More than 1,000 new suspected infections and 136 laboratory-confirmed cases were recorded during the reporting period.
 - ['Situation getting worse': Locals in Ebola outbreak epicentre](https://news.sky.com/video/situation-getting-worse-locals-in-ebola-outbreak-epicentre-13554596) | Sky News | 2026-06-16T11:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda struggles to block border travel amid Ebola outbreak: "Like stopping wind from blowing"](https://www.cbsnews.com/video/uganda-ebola-struggles-to-block-travel/) | CBS News | 2026-06-16T11:38+00:00 | Outbreaks and emerging infections
@@ -442,7 +444,7 @@ Search window: 7 day(s) ending 2026-06-16
   Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with the red-alert classification. The four clusters include one with 34 cases in Countryside Road/Lentor Avenue, which has a fast rate of dengue transmission, according to NEA.
 - [Ebola cases top 800 in Congo as aid groups warn outbreak may be larger than reported](https://www.japantimes.co.jp/news/2026/06/16/world/science-health/ebola-800-cases-congo-aid-warning/) | The Japan Times | 2026-06-16T02:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | dw.com | 2026-06-16T01:31+00:00 | Outbreaks and emerging infections
+- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW | 2026-06-16T01:31+00:00 | Outbreaks and emerging infections
   At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
 - [Ebola Cases Top 800 as African Leaders Plan Emergency Summit](https://www.bloomberg.com/news/articles/2026-06-16/congo-ebola-cases-top-800-as-aid-groups-eatime-outbreak-is-larger-than-reported) | Bloomberg | 2026-06-16T01:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -453,8 +455,6 @@ Search window: 7 day(s) ending 2026-06-16
 - [Ebola outbreak strains health system in eastern Congo](https://www.npr.org/2026/06/15/nx-s1-5859432/ebola-outbreak-strains-health-system-in-eastern-congo) | NPR | 2026-06-15T22:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Inside Ebola country: NPR reports from eastern DR Congo’s outbreak zone](https://www.npr.org/2026/06/15/nx-s1-5856414-e1/inside-ebola-country-npr-reports-from-eastern-dr-congos-outbreak-zone) | NPR | 2026-06-15T21:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://www.reuters.com/business/healthcare-pharmaceuticals/true-scale-congo-ebola-outbreak-still-unknown-one-month-responders-say-2026-06-15/) | Reuters | 2026-06-15T21:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -490,5 +490,4 @@ Search window: 7 day(s) ending 2026-06-16
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 
 ## Possible blog/video angles
-- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
