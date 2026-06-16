@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T07:16
+Generated at: 2026-06-16T07:29
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,14 +12,21 @@ Search window: 7 day(s) ending 2026-06-16
 - [UHPR CCS Sierra Leone](https://www.afro.who.int/publications/uhpr-ccs-sierra-leone) (WHO Regional Office for Africa; 2026-06-03T12:27+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [DR Congo Ebola outbreak yet to peak, could last a year: Red Cross](https://www.thestandard.com.hk/world/article/334837/DR-Congo-Ebola-outbreak-yet-to-peak-could-last-a-year-Red-Cross) (The Standard (HK); 2026-06-16T13:38+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (128), Policy, surveillance, and public health infrastructure (9), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (128), Policy, surveillance, and public health infrastructure (8), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
+
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 127 item(s) across 89 source(s).
-- Baseline snapshot created with 127 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 126 item(s) across 89 source(s).
+- Baseline snapshot created with 126 clustered item(s) across 89 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -31,7 +38,7 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 127 item(s) across 89 source(s); 4 official/primary-source item(s).
+- Topic size: 126 item(s) across 89 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DR Congo Ebola outbreak yet to peak, could last a year: Red Cross](https://www.thestandard.com.hk/world/article/334837/DR-Congo-Ebola-outbreak-yet-to-peak-could-last-a-year-Red-Cross) (The Standard (HK))
@@ -54,6 +61,14 @@ Search window: 7 day(s) ending 2026-06-16
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
+### Measles transmission and vaccination
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
+- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
+- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times, 2026-06-16T04:27+00:00)
@@ -62,19 +77,11 @@ Search window: 7 day(s) ending 2026-06-16
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
-- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
-- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Nipah virus disease
+### Avian influenza and H5N1
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Tamil Nadu Tightens Border Checks Amid Kerala Nipah Alert](https://indtoday.com/tamil-nadu-tightens-border-checks-amid-kerala-nipah-alert/) (INDToday, 2026-06-15T15:26+00:00)
-- Detailed note: Tamil Nadu’s Directorate of Public Health directed deployment of special teams at 13 inter state check posts along the Kerala border. Health authorities intensified monitoring in areas bordering Kerala and Karnataka, with special attention on tourist and transit zones including Nilgiris and Coimbatore districts.
-- Evidence notes: [Tamil Nadu Tightens Border Checks Amid Kerala Nipah Alert](https://indtoday.com/tamil-nadu-tightens-border-checks-amid-kerala-nipah-alert/) (INDToday)
+- Lead item: [Vietnam remains on alert for emerging avian influenza variants](https://avinews.com/en/vietnam-remains-on-alert-for-emerging-avian-influenza-variants/) (avinews.com, 2026-06-05T00:30+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Vietnam remains on alert for emerging avian influenza variants](https://avinews.com/en/vietnam-remains-on-alert-for-emerging-avian-influenza-variants/) (avinews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -425,7 +432,7 @@ Search window: 7 day(s) ending 2026-06-16
   Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with the red-alert classification. The four clusters include one with 34 cases in Countryside Road/Lentor Avenue, which has a fast rate of dengue transmission, according to NEA.
 - [Ebola cases top 800 in Congo as aid groups warn outbreak may be larger than reported](https://www.japantimes.co.jp/news/2026/06/16/world/science-health/ebola-800-cases-congo-aid-warning/) | The Japan Times | 2026-06-16T02:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW | 2026-06-16T01:31+00:00 | Outbreaks and emerging infections
+- [Ebola response improves in Congo's Ituri province](https://www.dw.com/en/ebola-response-improves-in-congos-ituri-province/video-77564993) | DW.com | 2026-06-16T01:31+00:00 | Outbreaks and emerging infections
   At least 20 doctors and nurses have died in this outbreak, and psychologists now support staff and their families. The treatment center in Rwampara houses 22 patients. International partners, including the European Union, have delivered aid through the World Health Organization , UNICEF and other organizations — vital support to contain the outbreak.
 - [Ebola Cases Top 800 as African Leaders Plan Emergency Summit](https://www.bloomberg.com/news/articles/2026-06-16/congo-ebola-cases-top-800-as-aid-groups-eatime-outbreak-is-larger-than-reported) | Bloomberg | 2026-06-16T01:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -447,8 +454,8 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [Congo reports 72 new Ebola cases Sunday, one of the largest daily jumps since outbreak was declared](https://www.pbs.org/newshour/world/congo-reports-72-new-ebola-cases-sunday-one-of-the-largest-daily-jumps-since-outbreak-was-declared) | PBS | 2026-06-15T15:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Tamil Nadu Tightens Border Checks Amid Kerala Nipah Alert](https://indtoday.com/tamil-nadu-tightens-border-checks-amid-kerala-nipah-alert/) | INDToday | 2026-06-15T15:26+00:00 | Outbreaks and emerging infections
-  Tamil Nadu’s Directorate of Public Health directed deployment of special teams at 13 inter state check posts along the Kerala border. Health authorities intensified monitoring in areas bordering Kerala and Karnataka, with special attention on tourist and transit zones including Nilgiris and Coimbatore districts. The move follows Kerala’s containment efforts after a confirmed Nipah infection in Kozhikode district.
+- [Uganda struggles to block border travel amid Ebola outbreak: "Like stopping wind from blowing"](https://www.cbsnews.com/video/uganda-ebola-struggles-to-block-travel/) | CBS News | 2026-06-15T14:35+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/)
