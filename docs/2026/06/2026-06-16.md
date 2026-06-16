@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T10:53
+Generated at: 2026-06-16T10:54
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,14 +12,21 @@ Search window: 7 day(s) ending 2026-06-16
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (126), Occupational and environmental epidemiology (9), Policy, surveillance, and public health infrastructure (7)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (130), Policy, surveillance, and public health infrastructure (10), Occupational and environmental epidemiology (9)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
+
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 122 item(s) across 88 source(s).
-- Baseline snapshot created with 122 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 129 item(s) across 94 source(s).
+- Baseline snapshot created with 129 clustered item(s) across 94 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -34,16 +41,10 @@ Search window: 7 day(s) ending 2026-06-16
 - Baseline snapshot created with 4 clustered item(s) across 3 source(s).
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 
-### Measles transmission and vaccination
-- Lead item: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
-
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 122 item(s) across 88 source(s); 4 official/primary-source item(s).
+- Topic size: 129 item(s) across 94 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [G7 leaders call for ‘coordinated' response to Ebola outbreak in DR Congo, Uganda](https://www.aa.com.tr/en/africa/g7-leaders-call-for-coordinated-response-to-ebola-outbreak-in-dr-congo-uganda/3968932) (Anadolu Ajansı)
@@ -53,7 +54,7 @@ Search window: 7 day(s) ending 2026-06-16
 ### Occupational and environmental epidemiology
 - Topic size: 10 item(s) across 3 source(s); 9 official/primary-source item(s).
 - Lead item: [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR, 2026-06-16T17:13+00:00)
-- Detailed note: Surveillance Summaries / June 18, 2026 / 75(3);1â13 Cassie M. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death. jurisdictions reported 1,796 confirmed and probable brucellosis cases.
+- Detailed note: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 18, 2026 / 75(3);1â13 Cassie M. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death.
 - Evidence notes: [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR); [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR); [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR); [Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813) (CDC MMWR); [QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815) (CDC MMWR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
@@ -76,11 +77,11 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News, 2026-06-12T16:55+00:00)
-- Detailed note: In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases. Over the past two months, the Pennsylvania Department of Health has identified 19 measles cases in Lebanon County, up from 12 cases the department reported in May.
-- Evidence notes: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair); [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
+- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
+- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -324,7 +325,7 @@ Search window: 7 day(s) ending 2026-06-16
 - Date: 2026-06-16T17:13+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690
 - Category: Occupational and environmental epidemiology
-- Summary: jurisdictions reported 1,796 confirmed and probable brucellosis cases. A total of 71-165 cases were reported annually.
+- Summary: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 4, 2026 / 75(2);1â12 Nekole S. Description of System: Data from the National Notifiable Diseases Surveillance System (NNDSS), information from supplemental case report forms (CRFs), and data from analyses of clinical specimen testing by CDC during 2010–2024 were analyzed.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
