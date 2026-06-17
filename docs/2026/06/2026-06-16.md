@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T22:14
+Generated at: 2026-06-16T22:15
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -13,9 +13,16 @@ Search window: 7 day(s) ending 2026-06-16
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (116), Policy, surveillance, and public health infrastructure (12), Occupational and environmental epidemiology (9)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
+
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 119 item(s) across 87 source(s).
@@ -27,12 +34,6 @@ Search window: 7 day(s) ending 2026-06-16
 - Newly tracked story cluster: 10 item(s) across 3 source(s).
 - Baseline snapshot created with 10 clustered item(s) across 3 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
-### Measles transmission and vaccination
-- Lead item: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Lebanon Daily News now foregrounds vaccination or vaccine policy in the story.
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa)
@@ -68,11 +69,11 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News, 2026-06-12T16:55+00:00)
-- Detailed note: In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases. Over the past two months, the Pennsylvania Department of Health has identified 19 measles cases in Lebanon County, up from 12 cases the department reported in May.
-- Evidence notes: [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair); [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today)
+- Lead item: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today, 2026-06-15T21:09+00:00)
+- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000 confirmed cases. In total the department is reporting 64 confirmed cases in the commonwealth as of Friday, June 12 , with Lancaster County reporting 31 cases.
+- Evidence notes: [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [State, local officials urge care as measles cases rise in Lebanon Co.](https://www.ldnews.com/story/news/local/2026/06/12/officials-urge-caution-as-measles-outbreak-rises-in-lebanon-county/90505774007/) (Lebanon Daily News); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (Newsonair)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
