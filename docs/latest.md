@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T23:14
+Generated at: 2026-06-16T23:16
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -438,7 +438,9 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [G7 leaders commit for a coordinated response to the re-emerging Ebola outbreak in DR Congo and Uganda](https://www.gamereactor.eu/g7-leaders-commit-for-a-coordinated-response-to-the-re-emerging-ebola-outbreak-in-dr-congo-and-uganda-1736023/) | Gamereactor UK | 2026-06-16T21:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html) | The New York Times | 2026-06-16T19:53+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html) | The New York Times | 2026-06-16T19:38+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola outbreak may be worst ever, Africa CDC says](https://www.detroitnews.com/story/news/world/2026/06/16/congo-ebola-outbreak-may-be-worst-ever-africa-cdc-says/90572760007/) | The Detroit News | 2026-06-16T15:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [G7 leaders call for ‘coordinated' response to Ebola outbreak in DR Congo, Uganda](https://www.aa.com.tr/en/africa/g7-leaders-call-for-coordinated-response-to-ebola-outbreak-in-dr-congo-uganda/3968932) | Anadolu Ajansı | 2026-06-16T15:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -459,8 +461,6 @@ Search window: 7 day(s) ending 2026-06-16
 - [Uganda Exposes Fake Ebola Travel Certificates Fraud Amid Outbreak](https://streamlinefeed.co.ke/news/uganda-exposes-fake-ebola-travel-certificates-fraud-amid-outbreak) | streamlinefeed.co.ke | 2026-06-16T05:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Cases Top 800 as African Leaders Plan Emergency Summit](https://www.bloomberg.com/news/articles/2026-06-16/congo-ebola-cases-top-800-as-aid-groups-eatime-outbreak-is-larger-than-reported) | Bloomberg | 2026-06-16T01:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak](https://www.bbc.com/news/articles/cp3xyvww1lqo) | BBC | 2026-06-15T23:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
