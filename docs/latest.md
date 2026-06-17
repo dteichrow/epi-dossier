@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-17
-Generated at: 2026-06-17T04:29
+Generated at: 2026-06-17T04:42
 Search window: 7 day(s) ending 2026-06-17
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-17
 - [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa; 2026-06-16T08:53+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) (PubMed Historical Pathogen Case Studies; 2026-06-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (123), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (8)
+- Category mix: Outbreaks and emerging infections (124), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (8)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-17
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 128 item(s) across 91 source(s).
-- Baseline snapshot created with 128 clustered item(s) across 91 source(s).
+- Newly tracked story cluster: 128 item(s) across 92 source(s).
+- Baseline snapshot created with 128 clustered item(s) across 92 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-17
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 128 item(s) across 91 source(s); 4 official/primary-source item(s).
+- Topic size: 128 item(s) across 92 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [UAE provides support to contain Ebola outbreak](https://m.economictimes.com/news/international/world-news/uae-provides-support-to-contain-ebola-outbreak/articleshow/131793303.cms) (The Economic Times)
@@ -65,19 +65,19 @@ Search window: 7 day(s) ending 2026-06-17
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin. Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Miscellaneous signals
+- Topic size: 5 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Lead item: [The development of biologically contained Sudan virus as an alternative and safe tool for fundamental filovirus research.](https://pubmed.ncbi.nlm.nih.gov/42304944/) (PubMed Infectious Disease Search, 2026-06-17T00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [The development of biologically contained Sudan virus as an alternative and safe tool for fundamental filovirus research.](https://pubmed.ncbi.nlm.nih.gov/42304944/) (PubMed Infectious Disease Search); [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa); [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/) (PubMed Infectious Disease Search); [A nationwide survey on knowledge, attitude, and practice regarding human papillomavirus (HPV), HPV-related disease, and HPV vaccine among adolescents and their parents in China.](https://pubmed.ncbi.nlm.nih.gov/42295870/) (PubMed Infectious Disease Search); [Five fall ill from E. coli outbreak at Nagoya Costco store](https://www.japantimes.co.jp/news/2026/06/16/japan/costco-food-poisoning/) (The Japan Times)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
 - Lead item: [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa, 2026-06-17T08:21+00:00)
 - Detailed note: The report also reflects WHO South Africa’s work with government, partners, communities and WHO teams across all levels to advance a healthier, more resilient and more equitable South Africa.” Download the report 36.07 MB Key results include strengthened National Health Insurance readiness, expanded HIV treatment, improved TB detection, cervical cancer prevention, stronger emergency preparedness and enhanced...
 - Evidence notes: [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa); [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) (PubMed Historical Pathogen Case Studies); [MAFB in Immunity and Disease: An Evidence-Graded Perspective on Context-Dependent Immune Regulation.](https://pubmed.ncbi.nlm.nih.gov/42276162/) (PubMed Historical Pathogen Case Studies); [Genetic determinants of hypervirulence with attenuated pathogenicity in a bla(NDM-1)-encoding Klebsiella pneumoniae causing neonatal sepsis.](https://pubmed.ncbi.nlm.nih.gov/42300588/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Miscellaneous signals
-- Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
-- Lead item: [The development of biologically contained Sudan virus as an alternative and safe tool for fundamental filovirus research.](https://pubmed.ncbi.nlm.nih.gov/42304944/) (PubMed Infectious Disease Search, 2026-06-17T00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [The development of biologically contained Sudan virus as an alternative and safe tool for fundamental filovirus research.](https://pubmed.ncbi.nlm.nih.gov/42304944/) (PubMed Infectious Disease Search); [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa); [Economic implications of switching to the hexavalent infant vaccine in an immunization program in India.](https://pubmed.ncbi.nlm.nih.gov/42295252/) (PubMed Infectious Disease Search); [A nationwide survey on knowledge, attitude, and practice regarding human papillomavirus (HPV), HPV-related disease, and HPV vaccine among adolescents and their parents in China.](https://pubmed.ncbi.nlm.nih.gov/42295870/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -446,9 +446,11 @@ Search window: 7 day(s) ending 2026-06-17
   Limited detail was available from feed metadata alone.
 - [UAE provides support to contain Ebola outbreak](https://m.economictimes.com/news/international/world-news/uae-provides-support-to-contain-ebola-outbreak/articleshow/131793303.cms) | The Economic Times | 2026-06-17T08:49+00:00 | Outbreaks and emerging infections
   'It's 99% done': Modi, Carney discuss energy ties & food security at G7 'It's 99% done': Modi, Carney discuss energy ties & food security at G7 Raut claims monetary transactions used to 'lure' UBT MPs Raut claims monetary transactions used to 'lure' UBT MPs 'VPNs may work, but...': NTA DG flags foreign fake leak channels The UAE is supporting the World Health Organisation's efforts to control the Ebola outbreak in Africa. International efforts are needed to prevent transmission.
-- [Africa CDC warns Bundibugyo Ebola outbreak could become continent’s worst as cases exceed 800, deaths pass190](https://africa.businessinsider.com/local/markets/africa-cdc-warns-bundibugyo-ebola-outbreak-could-become-continents-worst-as-cases/1wlex34) | Business Insider Africa | 2026-06-17T07:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/africas-ebola-outbreaks-complicated-victims-prefer-traditional-healers-133951028) | ABC News - Breaking News, Latest News and Videos | 2026-06-17T06:15+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Ebola: Latest UAE advice as cases spike in Congo](https://www.arabianbusiness.com/business/healthcare/latest-uae-ebola-congo) | Arabian Business | 2026-06-17T05:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals](https://www.wral.com/news/ap/b101f-africas-ebola-outbreaks-complicated-by-victims-who-prefer-traditional-healers-over-hospitals/) | WRAL | 2026-06-17T05:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Democratic Republic of Congo could become worst ever, warns Africa CDC chief](https://news.ssbcrack.com/ebola-outbreak-in-democratic-republic-of-congo-could-become-worst-ever-warns-africa-cdc-chief/) | SSBCrack | 2026-06-17T03:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -457,8 +459,6 @@ Search window: 7 day(s) ending 2026-06-17
 - [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) | Yahoo News Canada | 2026-06-16T22:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC head warns Ebola outbreak could be worst ever](https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever) | CIDRAP | 2026-06-16T21:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [G7 leaders commit for a coordinated response to the re-emerging Ebola outbreak in DR Congo and Uganda](https://www.gamereactor.eu/g7-leaders-commit-for-a-coordinated-response-to-the-re-emerging-ebola-outbreak-in-dr-congo-and-uganda-1736023/) | Gamereactor UK | 2026-06-16T21:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html) | The New York Times | 2026-06-16T19:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
