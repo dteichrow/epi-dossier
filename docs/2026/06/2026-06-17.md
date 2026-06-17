@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-17
-Generated at: 2026-06-17T14:51
+Generated at: 2026-06-17T14:54
 Search window: 7 day(s) ending 2026-06-17
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-17
 - [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR; 2026-06-16T17:10+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa; 2026-06-16T11:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (155), Policy, surveillance, and public health infrastructure (10), Occupational and environmental epidemiology (8)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (151), Policy, surveillance, and public health infrastructure (11), Occupational and environmental epidemiology (8)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-17
 
 ### Ebola virus disease
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 123 item(s) across 86 source(s).
-- Baseline snapshot created with 123 clustered item(s) across 86 source(s).
+- Newly tracked story cluster: 120 item(s) across 85 source(s).
+- Baseline snapshot created with 120 clustered item(s) across 85 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -42,7 +42,7 @@ Search window: 7 day(s) ending 2026-06-17
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Dengue and arboviruses
-- Lead item: [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today)
+- Lead item: [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Tuoi Tre News now includes deaths or fatal cases in the story frame.
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-17
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 123 item(s) across 86 source(s); 5 official/primary-source item(s).
+- Topic size: 120 item(s) across 85 source(s); 5 official/primary-source item(s).
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa, 2026-06-17T19:31+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -83,11 +83,11 @@ Search window: 7 day(s) ending 2026-06-17
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today, 2026-06-17T20:29+00:00)
+- Lead item: [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News, 2026-06-13T06:53+00:00)
 - Detailed note: Vietnam's Ministry of Health warned on Saturday that dengue fever cases could continue to rise as the country enters the peak transmission season, with more than 50,000 infections and five deaths reported nationwide so far this year. In the first five months of 2026, Vietnam reported over 50,000 dengue cases — a 2.5-fold rise from last year — as experts warn the epidemic is breaking seasonal patterns and driving...
-- Evidence notes: [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today); [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News); [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition)
+- Evidence notes: [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News); [Vietnam faces unprecedented dengue surge amid climate shifts](https://en.sggp.org.vn/vietnam-faces-unprecedented-dengue-surge-amid-climate-shifts-post127019.html) (SGGP English Edition); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -448,8 +448,6 @@ Search window: 7 day(s) ending 2026-06-17
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) | Outbreak News Today | 2026-06-17T20:29+00:00 | Outbreaks and emerging infections
-  In a follow-up on the dengue fever outbreak in Sri Lanka, the National Dengue Control Unit (NDCU) reports the total number of cases has now risen to 42,232. Health authorities have placed 14 high-risk districts under intense scrutiny due to a significant surge in dengue cases nationwide. Over 8,000 patients have been reported within the lapsed period of this month.
 - [Bangladesh measles outbreak claims one more life; death toll surges to 657](https://tripurachronicle.in/world-news/bangladesh-measles-outbreak-claims-one-more-life-death-toll-surges-to-657/) | Tripura Chronicle | 2026-06-17T19:34+00:00 | Outbreaks and emerging infections
   Dhaka, June 16 (IANS) As Bangladesh grapples with an escalating measles outbreak, another child has died from the symptoms of the disease on Tuesday, raising the total number of confirmed and suspected deaths to 657 since March 15 this year, local media reported. The DGHS recorded a total of 1,006 suspected measles cases in the last 24 hours, bringing the overall tally of suspected cases to 87,929. Reports suggest that while the number of confirmed deaths remained at 93, the total number of suspected deaths climbed to 564.
 - [DR Congo Hires Influencers to Combat Deadly Ebola Outbreak | Firstpost Africa](https://www.firstpost.com/web-show/firstpost-africa/dr-congo-hires-influencers-to-combat-deadly-ebola-outbreak-firstpost-africa-vd1962255/) | Firstpost | 2026-06-17T17:31+00:00 | Outbreaks and emerging infections
@@ -467,6 +465,8 @@ Search window: 7 day(s) ending 2026-06-17
 - [Ebola: Latest UAE advice as cases spike in Congo](https://www.arabianbusiness.com/business/healthcare/latest-uae-ebola-congo) | Arabian Business | 2026-06-17T05:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Democratic Republic of Congo could become worst ever, warns Africa CDC chief](https://news.ssbcrack.com/ebola-outbreak-in-democratic-republic-of-congo-could-become-worst-ever-warns-africa-cdc-chief/) | SSBCrack | 2026-06-17T03:55+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) | Yahoo News Canada | 2026-06-16T22:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
