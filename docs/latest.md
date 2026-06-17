@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-17
-Generated at: 2026-06-17T06:38
+Generated at: 2026-06-17T06:59
 Search window: 7 day(s) ending 2026-06-17
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-17
 - [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa; 2026-06-16T08:53+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) (PubMed Historical Pathogen Case Studies; 2026-06-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (13), Occupational and environmental epidemiology (8)
+- Category mix: Outbreaks and emerging infections (121), Policy, surveillance, and public health infrastructure (13), Occupational and environmental epidemiology (8)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-17
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 126 item(s) across 90 source(s).
-- Baseline snapshot created with 126 clustered item(s) across 90 source(s).
+- Newly tracked story cluster: 125 item(s) across 88 source(s).
+- Baseline snapshot created with 125 clustered item(s) across 88 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -50,10 +50,10 @@ Search window: 7 day(s) ending 2026-06-17
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 126 item(s) across 90 source(s); 4 official/primary-source item(s).
+- Topic size: 125 item(s) across 88 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
-- Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [A 16-month-old and his mother recover from Ebola in rare good news from outbreak in Congo](https://www.washingtonpost.com/world/2026/06/17/ebola-baby-recovered/958ae48a-6a4f-11f1-830e-133d20cadd28_story.html) (The Washington Post)
+- Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [16-Month-Old Boy And Mother Walk Out Of Congo Ebola Treatment Center Amid Outbreak](https://www.ndtv.com/health/16-month-old-boy-and-mother-walk-out-of-congo-ebola-treatment-center-amid-outbreak-11649863) (NDTV)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -444,17 +444,13 @@ Search window: 7 day(s) ending 2026-06-17
   In sterile inflammatory or repair-associated contexts, MAFB may support inflammatory restraint and resolution-associated programs, whereas in tuberculosis, tumor-associated macrophages, selected malignant cells, and Mendelian renal-skeletal disorders, MAFB-related findings reflect distinct evidence categories and levels of translational maturity. In macrophages and related myeloid cells, MAFB has been linked to inflammasome regulation, lipid-mediator switching, efferocytosis, tissue repair, and cell-state transitions. MAFB is a large Maf family bZIP transcription factor involved in myeloid differentiation, macrophage-state regulation, inflammatory control, and tissue adaptation.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [A 16-month-old and his mother recover from Ebola in rare good news from outbreak in Congo](https://www.washingtonpost.com/world/2026/06/17/ebola-baby-recovered/958ae48a-6a4f-11f1-830e-133d20cadd28_story.html) | The Washington Post | 2026-06-17T13:31+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa CDC warns Bundibugyo Ebola outbreak could become continent’s worst as cases exceed 800, deaths pass190](https://africa.businessinsider.com/local/markets/africa-cdc-warns-bundibugyo-ebola-outbreak-could-become-continents-worst-as-cases/1wlex34) | Business Insider Africa | 2026-06-17T07:33+00:00 | Outbreaks and emerging infections
+- [16-Month-Old Boy And Mother Walk Out Of Congo Ebola Treatment Center Amid Outbreak](https://www.ndtv.com/health/16-month-old-boy-and-mother-walk-out-of-congo-ebola-treatment-center-amid-outbreak-11649863) | NDTV | 2026-06-17T13:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/africas-ebola-outbreaks-complicated-victims-prefer-traditional-healers-133951028) | ABC News - Breaking News, Latest News and Videos | 2026-06-17T06:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola: Latest UAE advice as cases spike in Congo](https://www.arabianbusiness.com/business/healthcare/latest-uae-ebola-congo) | Arabian Business | 2026-06-17T05:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Democratic Republic of Congo could become worst ever, warns Africa CDC chief](https://news.ssbcrack.com/ebola-outbreak-in-democratic-republic-of-congo-could-become-worst-ever-warns-africa-cdc-chief/) | SSBCrack | 2026-06-17T03:55+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo: 52 years, an Ebola outbreak and a squad without a home](https://indianexpress.com/article/sports/football/congo-52-years-ebola-outbreak-squad-without-home-world-cup-10742910/) | The Indian Express | 2026-06-17T02:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) | Yahoo News Canada | 2026-06-16T22:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -467,6 +463,10 @@ Search window: 7 day(s) ending 2026-06-17
 - [DR Congo Ebola outbreak yet to peak, could last a year: Red Cross](https://medicalxpress.com/news/2026-06-dr-congo-ebola-outbreak-peak.html) | Medical Xpress | 2026-06-16T15:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [SADC Joins Continental Efforts to Strengthen Response to Ebola Outbreak in DRC and Uganda](https://www.sadc.int/latest-news/sadc-joins-continental-efforts-strengthen-response-ebola-outbreak-drc-and-uganda) | SADC | 2026-06-16T13:31+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak still spreading in Congo, and "that means we are missing cases," WHO says](https://www.cbsnews.com/news/ebola-outbreak-2026-congo-uganda-still-spreading-who/) | CBS News | 2026-06-16T13:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Uganda struggles to block border travel amid Ebola outbreak: "Like stopping wind from blowing"](https://www.cbsnews.com/video/uganda-ebola-struggles-to-block-travel/) | CBS News | 2026-06-16T11:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
