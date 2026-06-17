@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-17
-Generated at: 2026-06-17T00:51
+Generated at: 2026-06-17T01:01
 Search window: 7 day(s) ending 2026-06-17
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-17
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (123), Policy, surveillance, and public health infrastructure (12), Occupational and environmental epidemiology (8)
+- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (13), Occupational and environmental epidemiology (8)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -83,11 +83,11 @@ Search window: 7 day(s) ending 2026-06-17
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Nipah virus disease
+### Dengue and arboviruses
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Nipah Virus Outbreaks: How The Deadly Zoonotic Disease Affects Humans](https://www.freepressjournal.in/lifestyle/nipah-virus-outbreaks-how-the-deadly-zoonotic-disease-affects-humans) (Free Press Journal, 2026-06-13T12:26+00:00)
-- Detailed note: First identified during an outbreak in Malaysia in 1998, the virus is considered a serious public health threat due to its high fatality rate and the absence of a specific treatment or vaccine. The incubation period typically ranges from four to 14 days, although some cases have reported longer periods.
-- Evidence notes: [Nipah Virus Outbreaks: How The Deadly Zoonotic Disease Affects Humans](https://www.freepressjournal.in/lifestyle/nipah-virus-outbreaks-how-the-deadly-zoonotic-disease-affects-humans) (Free Press Journal)
+- Lead item: [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News, 2026-06-13T06:53+00:00)
+- Detailed note: Vietnam's Ministry of Health warned on Saturday that dengue fever cases could continue to rise as the country enters the peak transmission season, with more than 50,000 infections and five deaths reported nationwide so far this year. Vietnam reports over 50,000 dengue cases in 5 months as outbreak patterns shift READ NOW "If preventive measures are not implemented proactively and early, the risk of further...
+- Evidence notes: [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -434,7 +434,7 @@ Search window: 7 day(s) ending 2026-06-17
   Limited detail was available from feed metadata alone.
 - [Africa CDC warns Bundibugyo Ebola outbreak could become continent’s worst as cases exceed 800, deaths pass190](https://africa.businessinsider.com/local/markets/africa-cdc-warns-bundibugyo-ebola-outbreak-could-become-continents-worst-as-cases/1wlex34) | Business Insider Africa | 2026-06-17T07:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/africas-ebola-outbreaks-complicated-victims-prefer-traditional-healers-133951028) | ABC News - Breaking News, Latest News and Videos | 2026-06-17T06:15+00:00 | Outbreaks and emerging infections
+- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/africas-ebola-outbreaks-complicated-victims-prefer-traditional-healers-133951028) | ABC News - Breaking News, Latest News and Videos | 2026-06-17T06:15+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Democratic Republic of Congo could become worst ever, warns Africa CDC chief](https://news.ssbcrack.com/ebola-outbreak-in-democratic-republic-of-congo-could-become-worst-ever-warns-africa-cdc-chief/) | SSBCrack | 2026-06-17T03:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -448,7 +448,7 @@ Search window: 7 day(s) ending 2026-06-17
   Limited detail was available from feed metadata alone.
 - [G7 leaders commit for a coordinated response to the re-emerging Ebola outbreak in DR Congo and Uganda](https://www.gamereactor.eu/g7-leaders-commit-for-a-coordinated-response-to-the-re-emerging-ebola-outbreak-in-dr-congo-and-uganda-1736023/) | Gamereactor UK | 2026-06-16T21:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html) | The New York Times | 2026-06-16T19:38+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html) | The New York Times | 2026-06-16T19:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak may be worst ever, Africa CDC says](https://www.detroitnews.com/story/news/world/2026/06/16/congo-ebola-outbreak-may-be-worst-ever-africa-cdc-says/90572760007/) | The Detroit News | 2026-06-16T15:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
