@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-17
-Generated at: 2026-06-17T03:16
+Generated at: 2026-06-17T03:22
 Search window: 7 day(s) ending 2026-06-17
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-17
 - [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) (PubMed Historical Pathogen Case Studies; 2026-06-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (120), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (8)
+- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (8)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-17
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 125 item(s) across 88 source(s).
-- Baseline snapshot created with 125 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 127 item(s) across 90 source(s).
+- Baseline snapshot created with 127 clustered item(s) across 90 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-17
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 125 item(s) across 88 source(s); 4 official/primary-source item(s).
+- Topic size: 127 item(s) across 90 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [UAE provides support to contain Ebola outbreak](https://m.economictimes.com/news/international/world-news/uae-provides-support-to-contain-ebola-outbreak/articleshow/131793303.cms) (The Economic Times)
@@ -444,9 +444,7 @@ Search window: 7 day(s) ending 2026-06-17
   Limited detail was available from feed metadata alone.
 - [UAE provides support to contain Ebola outbreak](https://m.economictimes.com/news/international/world-news/uae-provides-support-to-contain-ebola-outbreak/articleshow/131793303.cms) | The Economic Times | 2026-06-17T08:49+00:00 | Outbreaks and emerging infections
   'It's 99% done': Modi, Carney discuss energy ties & food security at G7 'It's 99% done': Modi, Carney discuss energy ties & food security at G7 Raut claims monetary transactions used to 'lure' UBT MPs Raut claims monetary transactions used to 'lure' UBT MPs 'VPNs may work, but...': NTA DG flags foreign fake leak channels The UAE is supporting the World Health Organisation's efforts to control the Ebola outbreak in Africa. International efforts are needed to prevent transmission.
-- [Africa CDC warns Bundibugyo Ebola outbreak could become continent’s worst as cases exceed 800, deaths pass190](https://africa.businessinsider.com/local/markets/africa-cdc-warns-bundibugyo-ebola-outbreak-could-become-continents-worst-as-cases/1wlex34) | Business Insider Africa | 2026-06-17T07:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/africas-ebola-outbreaks-complicated-victims-prefer-traditional-healers-133951028) | ABC News - Breaking News, Latest News and Videos | 2026-06-17T06:15+00:00 | Policy, surveillance, and public health infrastructure
+- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/africas-ebola-outbreaks-complicated-victims-prefer-traditional-healers-133951028) | ABC News - Breaking News, Latest News and Videos | 2026-06-17T06:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Democratic Republic of Congo could become worst ever, warns Africa CDC chief](https://news.ssbcrack.com/ebola-outbreak-in-democratic-republic-of-congo-could-become-worst-ever-warns-africa-cdc-chief/) | SSBCrack | 2026-06-17T03:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -467,6 +465,8 @@ Search window: 7 day(s) ending 2026-06-17
 - [Uganda struggles to block border travel amid Ebola outbreak: "Like stopping wind from blowing"](https://www.cbsnews.com/video/uganda-ebola-struggles-to-block-travel/) | CBS News | 2026-06-16T11:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Afreximbank cancels flagship meeting as Ebola outbreak threatens Africa's business travel and trade activities](https://africa.businessinsider.com/local/markets/afreximbank-cancels-flagship-meeting-as-ebola-outbreak-threatens-africas-business/eqhl72k) | Business Insider Africa | 2026-06-16T10:55+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola cases rise to 808, death toll at 192](https://eastleighvoice.co.ke/health/368368/dr-congo-ebola-cases-rise-to-808-death-toll-at-192) | The Eastleigh Voice | 2026-06-16T06:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
