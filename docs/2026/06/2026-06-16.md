@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T17:16
+Generated at: 2026-06-16T17:20
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-16
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (9)
+- Category mix: Outbreaks and emerging infections (121), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (9)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -84,12 +84,12 @@ Search window: 7 day(s) ending 2026-06-16
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times, 2026-06-16T04:27+00:00)
-- Detailed note: News Politics Business Society Science & Tech Culture Sports Edition Focus Taiwan 中央通訊社 フォーカス台湾 Fokus Taiwan Latest Think tank raises forecast of Taiwan's GDP growth to 9.33% Taiwan's Fan Chun-chia breaks bench press world record in 74-kg class Taiwan expresses condolences over death of Thai princess Taiwan team finds breakthrough way to revive cancer-fighting immune cells Cross-party support to abolish Control...
-- Evidence notes: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [Kaohsiung hospital dengue cluster linked to imported case: CDC](https://focustaiwan.tw/society/202606160023) (Focus Taiwan)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Detailed note: Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with the red-alert classification.
+- Evidence notes: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
