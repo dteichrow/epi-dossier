@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-16
-Generated at: 2026-06-16T17:31
+Generated at: 2026-06-16T18:16
 Search window: 7 day(s) ending 2026-06-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-16
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa; 2026-06-12T09:30+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814) (CDC MMWR; 2026-06-11T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (121), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (9)
+- Category mix: Outbreaks and emerging infections (119), Policy, surveillance, and public health infrastructure (13), Occupational and environmental epidemiology (9)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-16
 
 ### Ebola virus disease
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 126 item(s) across 94 source(s).
-- Baseline snapshot created with 126 clustered item(s) across 94 source(s).
+- Newly tracked story cluster: 123 item(s) across 92 source(s).
+- Baseline snapshot created with 123 clustered item(s) across 92 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-06-16
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 126 item(s) across 94 source(s); 4 official/primary-source item(s).
+- Topic size: 123 item(s) across 92 source(s); 4 official/primary-source item(s).
 - Lead item: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa, 2026-06-15T09:13+00:00)
 - Detailed note: The most affected health zones in Ituri Province are Bunia (152 cases, 15 deaths), Rwampara (111 cases, 20 deaths), Mongbwalu (98 cases, 29 deaths), and Nyankunde (26 cases, one death), which together account for 70.4% of all cases and 64.4% of all deaths reported in the Democratic Republic of the Congo. Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie...
 - Evidence notes: [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 04, Data as of 07 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-0) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) (Yahoo News Canada)
@@ -434,15 +434,15 @@ Search window: 7 day(s) ending 2026-06-16
   Limited detail was available from feed metadata alone.
 - [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) | Yahoo News Canada | 2026-06-16T22:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [G7 leaders commit for a coordinated response to the re-emerging Ebola outbreak in DR Congo and Uganda](https://www.gamereactor.eu/g7-leaders-commit-for-a-coordinated-response-to-the-re-emerging-ebola-outbreak-in-dr-congo-and-uganda-1736023/) | Gamereactor UK | 2026-06-16T20:35+00:00 | Outbreaks and emerging infections
+- [Africa CDC head warns Ebola outbreak could be worst ever](https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever) | CIDRAP | 2026-06-16T21:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa CDC head warns Ebola outbreak could be worst ever](https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever) | CIDRAP | 2026-06-16T20:28+00:00 | Outbreaks and emerging infections
+- [G7 leaders commit for a coordinated response to the re-emerging Ebola outbreak in DR Congo and Uganda](https://www.gamereactor.eu/g7-leaders-commit-for-a-coordinated-response-to-the-re-emerging-ebola-outbreak-in-dr-congo-and-uganda-1736023/) | Gamereactor UK | 2026-06-16T20:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html) | The New York Times | 2026-06-16T19:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak: How bad could it get? - as number of cases 'likely even greater'](https://news.sky.com/video/ebola-outbreak-how-bad-could-it-get-as-number-of-cases-likely-even-greater-13554763) | Sky News | 2026-06-16T18:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Spreads to Uganda as Congo Patients Flee](https://moderndiplomacy.eu/2026/06/16/ebola-outbreak-spreads-to-uganda-as-congo-patients-flee/) | Modern Diplomacy | 2026-06-16T18:35+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola cases rise to 837 as response faces insecurity, community resistance-Xinhua](http://www.xinhuanet.com/english/20260617/ae7bac19448b44648fa8021c43efb027/c.html) | 新华网 | 2026-06-16T17:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [G7 leaders call for ‘coordinated' response to Ebola outbreak in DR Congo, Uganda](https://www.aa.com.tr/en/africa/g7-leaders-call-for-coordinated-response-to-ebola-outbreak-in-dr-congo-uganda/3968932) | Anadolu Ajansı | 2026-06-16T15:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
