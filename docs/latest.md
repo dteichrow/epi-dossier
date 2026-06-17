@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-17
-Generated at: 2026-06-17T12:43
+Generated at: 2026-06-17T13:01
 Search window: 7 day(s) ending 2026-06-17
 
 ## Executive scan
@@ -12,21 +12,21 @@ Search window: 7 day(s) ending 2026-06-17
 - [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR; 2026-06-16T17:10+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa; 2026-06-16T11:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (135), Policy, surveillance, and public health infrastructure (11), Occupational and environmental epidemiology (8)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (151), Policy, surveillance, and public health infrastructure (12), Occupational and environmental epidemiology (8)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 22 item(s) across 21 source(s).
-- Baseline snapshot created with 22 clustered item(s) across 21 source(s).
-- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- Newly tracked story cluster: 36 item(s) across 31 source(s).
+- Baseline snapshot created with 36 clustered item(s) across 31 source(s).
+- Tripura Chronicle now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 118 item(s) across 84 source(s).
-- Baseline snapshot created with 118 clustered item(s) across 84 source(s).
+- Newly tracked story cluster: 121 item(s) across 86 source(s).
+- Baseline snapshot created with 121 clustered item(s) across 86 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-17
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 118 item(s) across 84 source(s); 5 official/primary-source item(s).
+- Topic size: 121 item(s) across 86 source(s); 5 official/primary-source item(s).
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa, 2026-06-17T19:31+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -58,10 +58,10 @@ Search window: 7 day(s) ending 2026-06-17
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 22 item(s) across 21 source(s); 2 official/primary-source item(s).
+- Topic size: 36 item(s) across 31 source(s); 2 official/primary-source item(s).
 - Lead item: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search, 2026-06-17T00:00)
-- Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. China's immunization policy was updated in 2020, replacing the sequence of MR (at 8-12 months) and MMR (at 18-24 months) with a comprehensive two-dose MMR schedule.This study aims to evaluate the safety of this policy...
-- Evidence notes: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Sudan reports new cholera and measles cases amid mixed health indicators](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GTlNBeHUxSWlDNU5ROUlRX1RNME9lOFFYYnJVakxselhIamhXSm9nd0FJVFF6ZVFrXzlHMnM0a1FNZjJYYlQ5cDVvdTE0M25D?oc=5) (Sudan Tribune); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE56VUx2ZzdTVzI0anNlenFOQmtZcU13Q2p5N1cwbHZUdGRacGNwekpfVU8yX2pkMmkyWFAyT3Axa1phcGtncm1tYnhuZV8yb3piTUJLTGdlMHdkaVE?oc=5) (Mshale); [India sends 20,000 measles doses to Maldives amid rising cases](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmV2b3Voa2JFakhwWFktWUdoLTBwcTZ5cmpfMm1tVDQyNVExNXFmdnlsOXJsV1ZuSGpFRzVxSDJrdmdLWkJkNUwzMTBZM0tfekt6ZU92MTI5WVB2bVFLZEFHODdMZGxSQjl0aVNhekhjWGFnY01QcVU3WkxnbEc3NEtKWmJRb2E2VllaUTRwNU11NUhYcXFsXzI5b2VvdTRZeVBqelVZYWlqUQ?oc=5) (NewsBytes)
+- Detailed note: Dhaka, June 16 (IANS) As Bangladesh grapples with an escalating measles outbreak, another child has died from the symptoms of the disease on Tuesday, raising the total number of confirmed and suspected deaths to 657 since March 15 this year, local media reported. The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it...
+- Evidence notes: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh measles outbreak claims one more life; death toll surges to 657](https://tripurachronicle.in/world-news/bangladesh-measles-outbreak-claims-one-more-life-death-toll-surges-to-657/) (Tripura Chronicle); [Sudan reports new cholera and measles cases amid mixed health indicators](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GTlNBeHUxSWlDNU5ROUlRX1RNME9lOFFYYnJVakxselhIamhXSm9nd0FJVFF6ZVFrXzlHMnM0a1FNZjJYYlQ5cDVvdTE0M25D?oc=5) (Sudan Tribune); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE56VUx2ZzdTVzI0anNlenFOQmtZcU13Q2p5N1cwbHZUdGRacGNwekpfVU8yX2pkMmkyWFAyT3Axa1phcGtncm1tYnhuZV8yb3piTUJLTGdlMHdkaVE?oc=5) (Mshale)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -448,11 +448,11 @@ Search window: 7 day(s) ending 2026-06-17
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Bangladesh measles outbreak claims one more life; death toll surges to 657](https://tripurachronicle.in/world-news/bangladesh-measles-outbreak-claims-one-more-life-death-toll-surges-to-657/) | Tripura Chronicle | 2026-06-17T19:34+00:00 | Outbreaks and emerging infections
+  Dhaka, June 16 (IANS) As Bangladesh grapples with an escalating measles outbreak, another child has died from the symptoms of the disease on Tuesday, raising the total number of confirmed and suspected deaths to 657 since March 15 this year, local media reported. The DGHS recorded a total of 1,006 suspected measles cases in the last 24 hours, bringing the overall tally of suspected cases to 87,929. Reports suggest that while the number of confirmed deaths remained at 93, the total number of suspected deaths climbed to 564.
 - [DR Congo Hires Influencers to Combat Deadly Ebola Outbreak | Firstpost Africa](https://www.firstpost.com/web-show/firstpost-africa/dr-congo-hires-influencers-to-combat-deadly-ebola-outbreak-firstpost-africa-vd1962255/) | Firstpost | 2026-06-17T17:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [China stands ready to provide more medical support to Africa amid Ebola outbreak](https://www.globaltimes.cn/page/202606/1363845.shtml) | Global Times | 2026-06-17T15:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa CDC warns Ebola outbreak could severely worsen](https://www.bastillepost.com/global/article/5942377-africa-cdc-warns-ebola-outbreak-could-severely-worsen) | bastillepost.com | 2026-06-17T12:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Nipah, Shigella, Malaria: Why Kerala's Health Department Is on High Alert](https://www.timesnownews.com/health/nipah-shigella-malaria-why-keralas-health-department-is-on-high-alert-article-154654678/amp) | Times Now | 2026-06-17T11:00+00:00 | Outbreaks and emerging infections
   The state reported eight new cases on Monday from Thiruvananthapuram, Kollam, Thrissur, Malappuram, and Kozhikode, taking the total number of infections this month to 71. Overall, Kerala has recorded 147 cases of shigellosis in 2026. With shigellosis cases rising, a new malaria case detected in Kozhikode, and ongoing monitoring for Nipah virus, the state's public health machinery is operating on high alert to prevent wider outbreaks.
