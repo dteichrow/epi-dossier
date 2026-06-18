@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T01:38
+Generated at: 2026-06-18T01:39
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -8,11 +8,11 @@ Search window: 7 day(s) ending 2026-06-18
 - [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa; 2026-06-17T19:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa; 2026-06-17T08:21+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
-- [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR; 2026-06-16T17:13+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR; 2026-06-16T17:10+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa; 2026-06-16T11:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (174), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
+- [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa; 2026-06-16T08:53+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (175), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -367,26 +367,6 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Surveillance Summaries: Brucellosis Surveillance
-- Source: CDC MMWR
-- Date: 2026-06-16T17:13+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690
-- Category: Occupational and environmental epidemiology
-- Summary: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 4, 2026 / 75(2);1â12 Nekole S. Description of System: Data from the National Notifiable Diseases Surveillance System (NNDSS), information from supplemental case report forms (CRFs), and data from analyses of clinical specimen testing by CDC during 2010–2024 were analyzed.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023
-- Source: CDC MMWR
-- Date: 2026-06-16T17:10+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851
-- Category: Occupational and environmental epidemiology
-- Summary: Surveillance Summaries / June 18, 2026 / 75(3);1â13 Cassie M. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death. Foodborne disease outbreaks are defined as two or more cases of similar illness associated with a common food exposure; outbreak etiologies and food sources can be reported as confirmed or suspected.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-16T11:55+00:00
@@ -403,6 +383,16 @@ Search window: 7 day(s) ending 2026-06-18
 - URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1
 - Category: Outbreaks and emerging infections
 - Summary: Since 07 June 2026, a total of 258 new confirmed cases, including 91 new confirmed deaths, have been reported, representing a 60.0% increase in confirmed cases and a 90.1% increase in confirmed deaths reported. Publications orlunwop@who.int Tue, 16/06/2026 - 10:58 Event description Since our last update of 07 June 2026 (Situation Report #4), the Bundibugyo virus disease (BVD) outbreak situation in the Democratic Republic of the Congo has continued to evolve, with sustained transmission and increasing geographic spread being reported. The number of affected health zones has increased from 25 to 31, including 20 of 36 health zones in Ituri Province, 10 of 34 in North Kivu Province, and one of 34 in South Kivu Province.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### The Pandemic Fund 2026 1st Quarter Newsletter
+- Source: WHO Regional Office for Africa
+- Date: 2026-06-16T08:53+00:00
+- URL: https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter
+- Category: Outbreaks and emerging infections
+- Summary: Publications abdullahiea@who.int Tue, 16/06/2026 - 09:53 Ghana continues to advance the implementation of the Pandemic Fund Project, a strategic investment aimed at strengthening the country's capacity to prevent, detect, and respond to public health emergencies. It showcases activities undertaken to strengthen surveillance systems, expand laboratory capacity, build a skilled and responsive workforce, and enhance project coordination and governance. This first-quarter newsletter for 2026 highlights key achievements, milestones, and progress made from January to March 2026.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -427,10 +417,18 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
+- Source: ECDC News
+- Date: 2026-06-12T17:36+02:00
+- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-06-12T17:36+02:00 | Policy, surveillance, and public health infrastructure
-  On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
@@ -468,6 +466,8 @@ Search window: 7 day(s) ending 2026-06-18
 - [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) | Yahoo News Canada | 2026-06-16T22:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice](https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0FSc2VIX0dVdEdLcXVJRERsaS14cDJiVmZlLUtNUXQyS1JIUkw5eTVzVXY1OUNNSzhNbEJiYjM3cWxRQV9BOE1EUzc4S0xwd1o5VmpvRGRuam5jOGV2WHdBNEJUdFlIZFdQaGtiRmc2NF9NQjU3UG95dGNjZ09oajZoWTBYWUxVOWRyenpGUkZ6ai1fT0ZUR0xBd2RydnlpYlNLWVZMMDJnenB6V2wzdDlkQ3hOa2ZjVWRjR2R5djNmQ1JhZVkya1I3MHo?oc=5) | WSJ | 2026-06-16T22:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa CDC head warns Ebola outbreak could be worst ever](https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever) | CIDRAP | 2026-06-16T21:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
