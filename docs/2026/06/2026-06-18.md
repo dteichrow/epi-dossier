@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T12:30
+Generated at: 2026-06-18T12:50
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-18
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (173), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (171), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-18
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 130 item(s) across 96 source(s).
-- Baseline snapshot created with 130 clustered item(s) across 96 source(s).
+- Newly tracked story cluster: 133 item(s) across 99 source(s).
+- Baseline snapshot created with 133 clustered item(s) across 99 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-06-18
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 130 item(s) across 96 source(s); 6 official/primary-source item(s).
+- Topic size: 133 item(s) across 99 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
@@ -426,7 +426,7 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [Ebola Scare in Kerala: South Sudan Returnee Shifted to Isolation Ward in Kottayam](https://tmv.in/article/ebola-scare-in-kerala-south-sudan-returnee-shifted-to-isolation-ward-in-kottayam-date\=2026-06-19) | The Morning Voice | 2026-06-18T18:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola cases increase almost 40% in a week as death toll passes 200](https://apnews.com/article/congo-uganda-ebola-bundibugyo-cdc-cases-18d3129c8d5e3a0641ba330549a48a8a) | AP News | 2026-06-18T15:35+00:00 | Outbreaks and emerging infections
+- [Ebola cases increase almost 40% in a week as death toll passes 200](https://www.cbc.ca/news/health/ebola-outbreak-deaths-africa-9.7240162) | CBC | 2026-06-18T16:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Woman returning from South Sudan under observation for suspected Ebola in Kerala's Kottayam](https://thesouthfirst.com/kerala/woman-returning-from-south-sudan-under-observation-for-suspected-ebola-in-keralas-kottayam/) | The South First | 2026-06-18T14:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -442,8 +442,6 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [Kerala woman from Sudan with suspected Ebola symptoms hospitalised in Kottayam Medical College](https://www.newindianexpress.com/states/kerala/2026/Jun/18/kerala-woman-from-sudan-with-suspected-ebola-symptoms-hospitalised-in-kottayam-medical-college) | The New Indian Express | 2026-06-18T06:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Suspected case of Ebola in Kerala: Woman from South Sudan under isolation in Kottayam Medical College](https://www.onmanorama.com/health/healthcare/2026/06/18/foreign-woman-in-kerala-suspected-of-ebola-infection-under-isolation.html) | Onmanorama | 2026-06-18T04:59+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [G7 Pledges Coordinated Action Against Ebola Outbreak in DR Congo and Uganda](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1lrb1lkU0FUUnFLNlZwWl9tR0dYVHp5MzVNdnlVMFBuLXItVmk1emxYcVJmbUdDbzk3N0ZlcVRXY3J2Z1VjQkJ4eVBoOU5seGdHYkZQb1NaOEVmaGxKLTF1Y3B0N3M2Vi1yQ2ZxXzBndXJWU2d0NDVkbjhTSzZrN1hYaXNHNFBKVDNhd1E5RmhkZWQwTVRWbkw2U0k0cm1NZ0xMZXJMeFE2S3hZNmZHaVpaVQ?oc=5) | Medafrica Times | 2026-06-18T00:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [People fleeing conflict in Congo complicate efforts to stop Ebola outbreak](https://news.google.com/rss/articles/CBMidEFVX3lxTE8wQTQ3MHg2OTdHTkpWUVVFcWdmQlJ1RGFkOURYUHpFVG5xQnhPX0pPbm1KQXFULTI1ZmpzODJ5ZlFLdUVBSVBDODZzZ2VERXZ0dWJNUVpDVnNVaHZ5SU5PWnVFbHQ1Q3hvQ0lJZ2JST0RhdXdl?oc=5) | CBS News | 2026-06-17T22:52+00:00 | Outbreaks and emerging infections
@@ -453,6 +451,8 @@ Search window: 7 day(s) ending 2026-06-18
 - [China stands ready to provide more medical support to Africa amid Ebola outbreak](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FTk00ejZJTldVWk10ZXZ6ZG9BcXl6aC1WNHo3R1FNSzNFb3lhRWtoYUlOWDdnT0dZMW43UnhOc0tkcnlLWXJEOXFvbU90cXZwSDJxdzJoaTlGWkFRaFFmYUhn?oc=5) | Global Times | 2026-06-17T15:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak may be worst ever, Africa CDC warns](https://news.google.com/rss/articles/CBMiWkFVX3lxTE93OG5LX0F2cnhCV0ZkNEU3U2tYdG82R3BneFVTRXQ1cWJzRm55Tlh0SFJHZktXclFJMkdMRXh1dmdQWXBBaWYxZ1NXWnVzWkpuajJJVG4xSFl4UQ?oc=5) | TRT Afrika | 2026-06-17T14:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals](https://news.google.com/rss/articles/CBMikgJBVV95cUxQeGdZRTl3UXJWSFdYNC1lSTQzUFR2U2MwNUtZLXNvSm9pV2xHeWFyazZCWEVLWnlsMEhsSHduS0RLZ0ZRcVpoTXlYLUxKOU1KY09FMlhCcjRYcGgxUnlZa0FlaG55c2ZhY2VFb0tfRVVVaXM1WGtyenA4LXgzOEs4NjZXbEV3enJsN0hZYVY0OGdYVUdUUEJDZ2RmcHg3V2tmdEdMenoxOG1CbU9aLUM1d1dFbXhpaFhkX0lEZ3JCVHpIZlI1NmUtcmNpQjExaUhwOWtqZjIwdnlid19SZGRmSGdsYVphUTFGLVVLSngwWm54QkpSbTlORTVramxRWUdxWjJYb3gyaGNZUHZhWDh5cFJn?oc=5) | The Journal Gazette | 2026-06-17T13:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
