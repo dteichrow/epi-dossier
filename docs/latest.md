@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T16:01
+Generated at: 2026-06-18T16:11
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -456,7 +456,7 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [G7 Pledges Coordinated Action Against Ebola Outbreak in DR Congo and Uganda](https://medafricatimes.com/45887-g7-pledges-coordinated-action-against-ebola-outbreak-in-dr-congo-and-uganda.html) | Medafrica Times | 2026-06-18T00:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [People fleeing conflict in Congo complicate efforts to stop Ebola outbreak](https://www.cbsnews.com/news/congo-efforts-to-stop-ebola-outbreak/) | CBS News | 2026-06-17T22:52+00:00 | Outbreaks and emerging infections
+- [People fleeing conflict in Congo complicate efforts to stop Ebola outbreak](https://news.google.com/rss/articles/CBMidEFVX3lxTE8wQTQ3MHg2OTdHTkpWUVVFcWdmQlJ1RGFkOURYUHpFVG5xQnhPX0pPbm1KQXFULTI1ZmpzODJ5ZlFLdUVBSVBDODZzZ2VERXZ0dWJNUVpDVnNVaHZ5SU5PWnVFbHQ1Q3hvQ0lJZ2JST0RhdXdl?oc=5) | CBS News | 2026-06-17T22:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [A 16-month-old and his mother recover from Ebola in rare good news from outbreak in Congo](https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2tWMlo1YVVfeUVnWG5ZbEhQRzFzVWRDNTlscWtGdHUya2ItTTdWMEFvS3g0VHVTOEhsT3RUWlp1N2JWeC14RzFTNlRaOEZtbFJDUG0zTG9QZjBoTnZqV0RINW51Q0JfSEQ1dzJCQXdtckpUTFU3c1VKeXlHMjdWZA?oc=5) | Medical Xpress | 2026-06-17T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
