@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T09:09
+Generated at: 2026-06-18T09:16
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -8,11 +8,11 @@ Search window: 7 day(s) ending 2026-06-18
 - [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News; 2026-06-18T09:49+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search; 2026-06-18T00:00; Major epidemiology studies; relevance 5/5)
 - [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa; 2026-06-17T19:31+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa; 2026-06-17T08:21+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
-- [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR; 2026-06-16T17:13+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR; 2026-06-16T17:10+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (162), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (168), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -37,15 +37,9 @@ Search window: 7 day(s) ending 2026-06-18
 
 ### Dengue and arboviruses
 - Lead item: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 7 item(s) across 6 source(s).
-- Baseline snapshot created with 7 clustered item(s) across 6 source(s).
+- Newly tracked story cluster: 13 item(s) across 13 source(s).
+- Baseline snapshot created with 13 clustered item(s) across 13 source(s).
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
-
-### Occupational and environmental epidemiology
-- Lead item: [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR)
-- Newly tracked story cluster: 3 item(s) across 2 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
@@ -74,28 +68,28 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 7 item(s) across 6 source(s); 1 official/primary-source item(s).
+- Topic size: 13 item(s) across 13 source(s); 1 official/primary-source item(s).
 - Lead item: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search, 2026-06-18T00:00)
-- Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Fatality was 3.2%, with 60% due to undifferentiated fever and 40% due to leptospirosis-associated multi-organ dysfunction.
-- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today); [Delhi Records 162 Dengue Cases Before Monsoon; Health Experts Stress Early Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zb2t4djZLdGtfaWU4WGp4THpHRzV0SXpER3FRdWZMX1N6b0RSZlVJWnJGNjZsRXZfeTMyODVvT0ZQRjN2WmxHUXNlOE1NdVFMN0daSHN0ZmxoZGNxWHRfMVRQZlNNQ3dhTEcxMjVUVW9BcTRZWVdFY3pZNA?oc=5) (Live India); [Delhi sees 162 dengue cases this year as monsoon begins](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDYzcFFOMU5vZXE3alA5OVBfMjRJUVpaanRxZ204MVZRXzZNNnlHNDZFTmxEZ01OQlBKUzFDeEZGRG94X2paS0UzS0xIYVhFcEJxRG80eVA4RndNcW5GMTlnMjJFUS0wMkF4QXNJWjEyak9pVHFULXlSUTFtZG9ZTGZvTVp2dzZudXpVQk1HYjAtd0MybVg4cFlwd19sbzc5cFE?oc=5) (NewsBytes); [DOH: Dengue confirmed in visitor to Oahu; risks remain low](https://www.staradvertiser.com/2026/06/17/breaking-news/dengue-confirmed-in-visitor-to-oahu-risks-remain-low/) (Honolulu Star-Advertiser)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Vietnam's Ministry of Health warned on Saturday that dengue fever cases could continue to rise as the country enters the peak transmission season, with more than 50,000 infections and five deaths...
+- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today); [Delhi Records 162 Dengue Cases Before Monsoon; Health Experts Stress Early Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zb2t4djZLdGtfaWU4WGp4THpHRzV0SXpER3FRdWZMX1N6b0RSZlVJWnJGNjZsRXZfeTMyODVvT0ZQRjN2WmxHUXNlOE1NdVFMN0daSHN0ZmxoZGNxWHRfMVRQZlNNQ3dhTEcxMjVUVW9BcTRZWVdFY3pZNA?oc=5) (Live India); [Delhi sees 162 dengue cases this year as monsoon begins](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDYzcFFOMU5vZXE3alA5OVBfMjRJUVpaanRxZ204MVZRXzZNNnlHNDZFTmxEZ01OQlBKUzFDeEZGRG94X2paS0UzS0xIYVhFcEJxRG80eVA4RndNcW5GMTlnMjJFUS0wMkF4QXNJWjEyak9pVHFULXlSUTFtZG9ZTGZvTVp2dzZudXpVQk1HYjAtd0MybVg4cFlwd19sbzc5cFE?oc=5) (NewsBytes)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Occupational and environmental epidemiology
-- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR, 2026-06-16T17:13+00:00)
-- Detailed note: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 18, 2026 / 75(3);1â13 Cassie M. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death.
-- Evidence notes: [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR); [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR); [Combined effects of maternal periconceptional environmental exposures and infant cardiac transcription factor polymorphisms on congenital heart disease risk.](https://pubmed.ncbi.nlm.nih.gov/42311150/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+### Miscellaneous signals
+- Topic size: 3 item(s) across 1 source(s); 3 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-06-17T14:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
-### Tuberculosis and antimicrobial resistance
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa, 2026-06-17T08:21+00:00)
-- Detailed note: The report also reflects WHO South Africa’s work with government, partners, communities and WHO teams across all levels to advance a healthier, more resilient and more equitable South Africa.” Download the report 36.07 MB Key results include strengthened National Health Insurance readiness, expanded HIV treatment, improved TB detection, cervical cancer prevention, stronger emergency preparedness and enhanced...
-- Evidence notes: [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa); [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) (PubMed Historical Pathogen Case Studies)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+### Nipah virus disease
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Kerala On High Alert As Nipah, Shigella And Malaria Cases](https://liveindia.tv/nation/state/kerala-on-high-alert-as-nipah-shigella-and-malaria-cases/) (Live India, 2026-06-18T12:30+00:00)
+- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Kerala On High Alert As Nipah, Shigella And Malaria Cases](https://liveindia.tv/nation/state/kerala-on-high-alert-as-nipah-shigella-and-malaria-cases/) (Live India)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -366,12 +360,32 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### WHO South Africa 2025 Annual Report
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-17T08:21+00:00
-- URL: https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report
+### FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026
 - Category: Outbreaks and emerging infections
-- Summary: The report also reflects WHO South Africa’s work with government, partners, communities and WHO teams across all levels to advance a healthier, more resilient and more equitable South Africa.” Download the report 36.07 MB Key results include strengthened National Health Insurance readiness, expanded HIV treatment, improved TB detection, cervical cancer prevention, stronger emergency preparedness and enhanced surveillance systems. It captures progress across Universal Health Coverage, HIV and TB, noncommunicable diseases, maternal and child health, health emergencies, health promotion, partnerships and operational excellence.
+- Summary: FDA lists reference 1383 with date posted 6/13/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Powdered Infant Formula.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1380 with date posted 6/3/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Requeson/Soft Ricotta Cheese.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1358 with date posted 1/14/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Moringa Leaf Powder.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -382,26 +396,6 @@ Search window: 7 day(s) ending 2026-06-18
 - URL: https://pubmed.ncbi.nlm.nih.gov/42306971/
 - Category: Major epidemiology studies
 - Summary: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. China's immunization policy was updated in 2020, replacing the sequence of MR (at 8-12 months) and MMR (at 18-24 months) with a comprehensive two-dose MMR schedule.This study aims to evaluate the safety of this policy shift by comparing the incidence of Adverse Events Following Immunization (AEFI) before and after the adjustment.Methods: A retrospective analysis was conducted using AEFI surveillance data from Jiangsu Province. The study compared two cohorts: the "pre-adjustment" group (MR at 8 months, MMR at 18 months) and the "post-adjustment" group (MMR at both 8 and 18 months).
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Surveillance Summaries: Brucellosis Surveillance
-- Source: CDC MMWR
-- Date: 2026-06-16T17:13+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690
-- Category: Occupational and environmental epidemiology
-- Summary: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 4, 2026 / 75(2);1â12 Nekole S. Description of System: Data from the National Notifiable Diseases Surveillance System (NNDSS), information from supplemental case report forms (CRFs), and data from analyses of clinical specimen testing by CDC during 2010–2024 were analyzed.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023
-- Source: CDC MMWR
-- Date: 2026-06-16T17:10+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851
-- Category: Occupational and environmental epidemiology
-- Summary: Surveillance Summaries / June 18, 2026 / 75(3);1â13 Cassie M. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death. Foodborne disease outbreaks are defined as two or more cases of similar illness associated with a common food exposure; outbreak etiologies and food sources can be reported as confirmed or suspected.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -428,8 +422,6 @@ Search window: 7 day(s) ending 2026-06-18
 
 
 ## Other notable readings
-- [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) | PubMed Historical Pathogen Case Studies | 2026-06-13T00:00 | Historical epidemiology / ancient disease / paleopathology
-  We then discuss their diagnostic and therapeutic applications in osteomyelitis, joint tuberculosis, rheumatoid arthritis, osteoarthritis, osteoporosis, bone defects, fracture nonunion, bone tumors, and spinal cord injury, with particular attention to radiolabeled liposomes, fluorescent probes, imaging-guided therapy, and microenvironment-responsive systems. Moreover, biomimetic liposomes, such as cell membrane-camouflaged, macrophage- or erythrocyte membrane-engineered, membrane-fusion-inspired, and organelle-delivering liposomal systems, are highlighted for their roles in immune evasion, lesion targeting, barrier penetration, and intercellular delivery. Bone and bone-related disorders remain difficult to diagnose and treat because of the dense mineralized matrix, limited vascular perfusion, complex pathological microenvironment, and insufficient site-specific accumulation of conventional agents.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-06-12T17:36+02:00 | Policy, surveillance, and public health infrastructure
   On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
@@ -460,13 +452,15 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [A 16-month-old and his mother recover from Ebola in rare good news from outbreak in Congo](https://medicalxpress.com/news/2026-06-month-mother-recover-ebola-rare.html) | Medical Xpress | 2026-06-17T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [China stands ready to provide more medical support to Africa amid Ebola outbreak](https://www.globaltimes.cn/page/202606/1363845.shtml) | Global Times | 2026-06-17T15:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak could become worst in history as thousands not being traced](https://www.france24.com/en/dr-congo-ebola-outbreak-could-become-worst-in-history-as-thousands-not-being-traced) | France 24 | 2026-06-17T09:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO Director-General's remarks at the High-Level Virtual Meeting of African Heads of State and Government and Partners on the Bundibugyo Ebola outbreak – 16 June 2026](https://www.who.int/news-room/speeches/item/who-director-general-s-remarks-at-the-high-level-virtual-meeting-of-african-heads-of-state-and-government-and-partners-on-the-ebola-bundibugyo-virus-disease-outbreak---16-june-2026) | World Health Organization (WHO) | 2026-06-17T09:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in DRC and Uganda: Situation Report #4 (June 16, 2026)](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-drc-and-uganda-situation-report-4-june-16-2026) | ReliefWeb | 2026-06-17T08:22+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/africas-ebola-outbreaks-complicated-victims-prefer-traditional-healers-133951028) | ABC News - Breaking News, Latest News and Videos | 2026-06-17T06:16+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5) | The Washington Post | 2026-06-17T03:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -482,27 +476,12 @@ Search window: 7 day(s) ending 2026-06-18
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42306971/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42306971/
-- [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/)
-  Source: PubMed Historical Pathogen Case Studies
-  DOI: 10.1186/s12951-026-04616-7
-  Journal/preprint server: Journal of nanobiotechnology
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42288907/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42288907/
-- [Combined effects of maternal periconceptional environmental exposures and infant cardiac transcription factor polymorphisms on congenital heart disease risk.](https://pubmed.ncbi.nlm.nih.gov/42311150/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/07853890.2026.2688397
-  Journal/preprint server: Annals of medicine
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42311150/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42311150/
 
 ## Historical epi / weird epi corner
-- [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) | PubMed Historical Pathogen Case Studies
-  We then discuss their diagnostic and therapeutic applications in osteomyelitis, joint tuberculosis, rheumatoid arthritis, osteoarthritis, osteoporosis, bone defects, fracture nonunion, bone tumors, and spinal cord injury, with particular attention to radiolabeled liposomes, fluorescent probes, imaging-guided therapy, and microenvironment-responsive systems. Moreover, biomimetic liposomes, such as cell membrane-camouflaged, macrophage- or erythrocyte membrane-engineered, membrane-fusion-inspired, and organelle-delivering liposomal systems, are highlighted for their roles in immune evasion, lesion targeting, barrier penetration, and intercellular delivery. Bone and bone-related disorders remain difficult to diagnose and treat because of the dense mineralized matrix, limited vascular perfusion, complex pathological microenvironment, and insufficient site-specific accumulation of conventional agents.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
-- Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
