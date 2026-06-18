@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T01:39
+Generated at: 2026-06-18T01:42
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -8,19 +8,19 @@ Search window: 7 day(s) ending 2026-06-18
 - [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa; 2026-06-17T19:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa; 2026-06-17T08:21+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
+- [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR; 2026-06-16T17:13+00:00; Occupational and environmental epidemiology; relevance 5/5)
+- [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR; 2026-06-16T17:10+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa; 2026-06-16T11:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [The Pandemic Fund 2026 1st Quarter Newsletter](https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter) (WHO Regional Office for Africa; 2026-06-16T08:53+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (175), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 41 item(s) across 35 source(s).
-- Baseline snapshot created with 41 clustered item(s) across 35 source(s).
-- BBC now includes deaths or fatal cases in the story frame.
+- Newly tracked story cluster: 28 item(s) across 27 source(s).
+- Baseline snapshot created with 28 clustered item(s) across 27 source(s).
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-06-18
 
 ### Ebola virus disease
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 125 item(s) across 91 source(s).
-- Baseline snapshot created with 125 clustered item(s) across 91 source(s).
+- Newly tracked story cluster: 123 item(s) across 88 source(s).
+- Baseline snapshot created with 123 clustered item(s) across 88 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Tuoi Tre News now includes deaths or fatal cases in the story frame.
 
 ### Tuberculosis and antimicrobial resistance
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-06-18
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 125 item(s) across 91 source(s); 5 official/primary-source item(s).
+- Topic size: 123 item(s) across 88 source(s); 5 official/primary-source item(s).
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa, 2026-06-17T19:31+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -59,10 +59,10 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 41 item(s) across 35 source(s); 2 official/primary-source item(s).
+- Topic size: 28 item(s) across 27 source(s); 2 official/primary-source item(s).
 - Lead item: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search, 2026-06-17T00:00)
-- Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. So far in 2026, England has registered two deaths to children as a result of measles , and in the last two weeks a further 106 laboratories across the country have confirmed measles cases. China's immunization policy was...
-- Evidence notes: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmM1YklvQzhhZENhd1QxdjlUOEZ0bWtTa0c2S0FzN0hULTlUZ1liT1NFcS1pMFIzMXBGSTNkUjdJakpVVFF1TTJPSkR3VFJVMVBuZlltMndpTGl3X29tZkZSVnZSLWtZUmhsY3FDVm9Ldy1PTU1aOUo3OWEtMWxPZw?oc=5) (WSJ); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE56VUx2ZzdTVzI0anNlenFOQmtZcU13Q2p5N1cwbHZUdGRacGNwekpfVU8yX2pkMmkyWFAyT3Axa1phcGtncm1tYnhuZV8yb3piTUJLTGdlMHdkaVE?oc=5) (Mshale); [India sends 20,000 measles doses to Maldives amid rising cases](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmV2b3Voa2JFakhwWFktWUdoLTBwcTZ5cmpfMm1tVDQyNVExNXFmdnlsOXJsV1ZuSGpFRzVxSDJrdmdLWkJkNUwzMTBZM0tfekt6ZU92MTI5WVB2bVFLZEFHODdMZGxSQjl0aVNhekhjWGFnY01QcVU3WkxnbEc3NEtKWmJRb2E2VllaUTRwNU11NUhYcXFsXzI5b2VvdTRZeVBqelVZYWlqUQ?oc=5) (NewsBytes)
+- Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000...
+- Evidence notes: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmM1YklvQzhhZENhd1QxdjlUOEZ0bWtTa0c2S0FzN0hULTlUZ1liT1NFcS1pMFIzMXBGSTNkUjdJakpVVFF1TTJPSkR3VFJVMVBuZlltMndpTGl3X29tZkZSVnZSLWtZUmhsY3FDVm9Ldy1PTU1aOUo3OWEtMWxPZw?oc=5) (WSJ); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE56VUx2ZzdTVzI0anNlenFOQmtZcU13Q2p5N1cwbHZUdGRacGNwekpfVU8yX2pkMmkyWFAyT3Axa1phcGtncm1tYnhuZV8yb3piTUJLTGdlMHdkaVE?oc=5) (Mshale)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -75,12 +75,12 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today, 2026-06-17T20:29+00:00)
 - Detailed note: Vietnam's Ministry of Health warned on Saturday that dengue fever cases could continue to rise as the country enters the peak transmission season, with more than 50,000 infections and five deaths reported nationwide so far this year. Vietnam reports over 50,000 dengue cases in 5 months as outbreak patterns shift READ NOW "If preventive measures are not implemented proactively and early, the risk of further...
-- Evidence notes: [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today); [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News); [Dengue, Influenza, Meningitis spreading fast among children – Paediatrician](https://dailynews.lk/2026/06/15/local/1010774/dengue-influenza-meningitis-spreading-fast-among-children-paediatrician/) (dailynews.lk)
+- Evidence notes: [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today); [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [Vietnam warns of rising dengue cases as peak season begins - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/vietnam-warns-of-rising-dengue-cases-as-peak-season-begins-10326061315022553.htm) (Tuoi Tre News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -367,6 +367,26 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Surveillance Summaries: Brucellosis Surveillance
+- Source: CDC MMWR
+- Date: 2026-06-16T17:13+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690
+- Category: Occupational and environmental epidemiology
+- Summary: Stoddard, DVM, PhD 1 ; Elke Saile, PhD 1 ; Vit Kraushaar, MD 2 ; Guillermo Adame, MPH 3 ; Connie Austin, DVM, PhD 4 ; Joel Ackelsberg, MD 5 ; Alexandra Newman, DVM 6 ; Grishma Kharod, MPH 1 ; Marta Guerra, DVM, PhD 1 ; Rita M. Surveillance Summaries / June 4, 2026 / 75(2);1â12 Nekole S. Description of System: Data from the National Notifiable Diseases Surveillance System (NNDSS), information from supplemental case report forms (CRFs), and data from analyses of clinical specimen testing by CDC during 2010–2024 were analyzed.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023
+- Source: CDC MMWR
+- Date: 2026-06-16T17:10+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851
+- Category: Occupational and environmental epidemiology
+- Summary: Surveillance Summaries / June 18, 2026 / 75(3);1â13 Cassie M. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death. Foodborne disease outbreaks are defined as two or more cases of similar illness associated with a common food exposure; outbreak etiologies and food sources can be reported as confirmed or suspected.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-16T11:55+00:00
@@ -383,16 +403,6 @@ Search window: 7 day(s) ending 2026-06-18
 - URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1
 - Category: Outbreaks and emerging infections
 - Summary: Since 07 June 2026, a total of 258 new confirmed cases, including 91 new confirmed deaths, have been reported, representing a 60.0% increase in confirmed cases and a 90.1% increase in confirmed deaths reported. Publications orlunwop@who.int Tue, 16/06/2026 - 10:58 Event description Since our last update of 07 June 2026 (Situation Report #4), the Bundibugyo virus disease (BVD) outbreak situation in the Democratic Republic of the Congo has continued to evolve, with sustained transmission and increasing geographic spread being reported. The number of affected health zones has increased from 25 to 31, including 20 of 36 health zones in Ituri Province, 10 of 34 in North Kivu Province, and one of 34 in South Kivu Province.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### The Pandemic Fund 2026 1st Quarter Newsletter
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-16T08:53+00:00
-- URL: https://www.afro.who.int/countries/ghana/publication/pandemic-fund-2026-1st-quarter-newsletter
-- Category: Outbreaks and emerging infections
-- Summary: Publications abdullahiea@who.int Tue, 16/06/2026 - 09:53 Ghana continues to advance the implementation of the Pandemic Fund Project, a strategic investment aimed at strengthening the country's capacity to prevent, detect, and respond to public health emergencies. It showcases activities undertaken to strengthen surveillance systems, expand laboratory capacity, build a skilled and responsive workforce, and enhance project coordination and governance. This first-quarter newsletter for 2026 highlights key achievements, milestones, and progress made from January to March 2026.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -417,18 +427,10 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
-- Source: ECDC News
-- Date: 2026-06-12T17:36+02:00
-- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-06-12T17:36+02:00 | Policy, surveillance, and public health infrastructure
+  On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
@@ -466,8 +468,6 @@ Search window: 7 day(s) ending 2026-06-18
 - [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) | Yahoo News Canada | 2026-06-16T22:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice](https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0FSc2VIX0dVdEdLcXVJRERsaS14cDJiVmZlLUtNUXQyS1JIUkw5eTVzVXY1OUNNSzhNbEJiYjM3cWxRQV9BOE1EUzc4S0xwd1o5VmpvRGRuam5jOGV2WHdBNEJUdFlIZFdQaGtiRmc2NF9NQjU3UG95dGNjZ09oajZoWTBYWUxVOWRyenpGUkZ6ai1fT0ZUR0xBd2RydnlpYlNLWVZMMDJnenB6V2wzdDlkQ3hOa2ZjVWRjR2R5djNmQ1JhZVkya1I3MHo?oc=5) | WSJ | 2026-06-16T22:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa CDC head warns Ebola outbreak could be worst ever](https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever) | CIDRAP | 2026-06-16T21:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
