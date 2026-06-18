@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T13:50
+Generated at: 2026-06-18T14:10
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -12,21 +12,21 @@ Search window: 7 day(s) ending 2026-06-18
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (164), Policy, surveillance, and public health infrastructure (13), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (163), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News)
-- Newly tracked story cluster: 12 item(s) across 12 source(s).
-- Baseline snapshot created with 12 clustered item(s) across 12 source(s).
+- Newly tracked story cluster: 14 item(s) across 14 source(s).
+- Baseline snapshot created with 14 clustered item(s) across 14 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The Washington Post now includes quarantine language.
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 131 item(s) across 98 source(s).
-- Baseline snapshot created with 131 clustered item(s) across 98 source(s).
+- Newly tracked story cluster: 129 item(s) across 96 source(s).
+- Baseline snapshot created with 129 clustered item(s) across 96 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-06-18
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 131 item(s) across 98 source(s); 6 official/primary-source item(s).
+- Topic size: 129 item(s) across 96 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
@@ -60,7 +60,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 12 item(s) across 12 source(s); 2 official/primary-source item(s).
+- Topic size: 14 item(s) across 14 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News, 2026-06-18T09:49+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
 - Evidence notes: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5) (The Washington Post); [RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5) (CNN); [Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVhyTml2LVluTkoybUtPM2J3OVRxc0RWX20yZkZDdHlxcFAwdVRyVG13bXJPdkRPbFFXNklGT3RXVFZhSWw5d3FMWUxwR01fSUhLSl9hdVRCT3oxUS1mbUhkNjZ3OWJ4anRxeEg0ZnNEMW1aa3JVNTczQlVPWEZQeUNFa09vT2cxWGppdGhQZEd5WGE5TC0xRW1TWFRCUkZ2eWtPNHJGaU5zZGZ0QmZ0MFlQRi1ONVEyV2VnTjBnWHdaUUE?oc=5) (Reuters)
@@ -71,7 +71,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Topic size: 7 item(s) across 6 source(s); 1 official/primary-source item(s).
 - Lead item: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search, 2026-06-18T00:00)
 - Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Fatality was 3.2%, with 60% due to undifferentiated fever and 40% due to leptospirosis-associated multi-organ dysfunction. During the meeting, the health minister reviewed the current disease situation...
-- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [Health minister Nadda reviews dengue preparedness ahead of monsoon season | India News](https://www.hindustantimes.com/india-news/health-minister-nadda-reviews-dengue-preparedness-ahead-of-monsoon-season-101781799446434.html) (Hindustan Times); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today); [Delhi Records 162 Dengue Cases Before Monsoon; Health Experts Stress Early Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zb2t4djZLdGtfaWU4WGp4THpHRzV0SXpER3FRdWZMX1N6b0RSZlVJWnJGNjZsRXZfeTMyODVvT0ZQRjN2WmxHUXNlOE1NdVFMN0daSHN0ZmxoZGNxWHRfMVRQZlNNQ3dhTEcxMjVUVW9BcTRZWVdFY3pZNA?oc=5) (Live India); [Delhi sees 162 dengue cases this year as monsoon begins](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDYzcFFOMU5vZXE3alA5OVBfMjRJUVpaanRxZ204MVZRXzZNNnlHNDZFTmxEZ01OQlBKUzFDeEZGRG94X2paS0UzS0xIYVhFcEJxRG80eVA4RndNcW5GMTlnMjJFUS0wMkF4QXNJWjEyak9pVHFULXlSUTFtZG9ZTGZvTVp2dzZudXpVQk1HYjAtd0MybVg4cFlwd19sbzc5cFE?oc=5) (NewsBytes)
+- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [Health minister Nadda reviews dengue preparedness ahead of monsoon season | India News](https://www.hindustantimes.com/india-news/health-minister-nadda-reviews-dengue-preparedness-ahead-of-monsoon-season-101781799446434.html) (Hindustan Times); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://news.google.com/rss/articles/CBMif0FVX3lxTE96S2hNUHlPcmtsMExQRk9adXE4X0k5RkVCNjc3N3h3TFRnNFkyOTk0aG5YUkM0bGNkZ3F1d1RBSHBDcXdfa19QZlZxU3RRcXN1SkFwazZNT0JjMjF6MUpZYzJQcVM2ak5CbDFHdi1Hc0dpU2twRldfNnFRVE41aTA?oc=5) (Outbreak News Today); [Delhi Records 162 Dengue Cases Before Monsoon; Health Experts Stress Early Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zb2t4djZLdGtfaWU4WGp4THpHRzV0SXpER3FRdWZMX1N6b0RSZlVJWnJGNjZsRXZfeTMyODVvT0ZQRjN2WmxHUXNlOE1NdVFMN0daSHN0ZmxoZGNxWHRfMVRQZlNNQ3dhTEcxMjVUVW9BcTRZWVdFY3pZNA?oc=5) (Live India); [Delhi sees 162 dengue cases this year as monsoon begins](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDYzcFFOMU5vZXE3alA5OVBfMjRJUVpaanRxZ204MVZRXzZNNnlHNDZFTmxEZ01OQlBKUzFDeEZGRG94X2paS0UzS0xIYVhFcEJxRG80eVA4RndNcW5GMTlnMjJFUS0wMkF4QXNJWjEyak9pVHFULXlSUTFtZG9ZTGZvTVp2dzZudXpVQk1HYjAtd0MybVg4cFlwd19sbzc5cFE?oc=5) (NewsBytes)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -434,8 +434,6 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [Kerala woman hospitalised over suspected Ebola infection after return from South Sudan](https://www.theweek.in/news/health/2026/06/18/kerala-woman-hospitalised-over-suspected-ebola-infection-after-return-from-south-sudan.html) | theweek.in | 2026-06-18T11:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO issues first comprehensive guidelines for Ebola and Marburg care amid ongoing outbreak in Africa](https://www.firstpost.com/health/who-issues-first-comprehensive-guidelines-for-ebola-and-marburg-care-amid-ongoing-outbreak-in-africa-14023895.html) | Firstpost | 2026-06-18T10:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Rapid response experts deployed to support Ebola outbreak response in DRC](https://www.nationalhealthexecutive.com/articles/rapid-response-experts-deployed-support-ebola-outbreak-response-drc) | National Health Executive | 2026-06-18T10:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Woman, Who Travelled From South Sudan, Isolated In Keralam With Suspected Ebola Symptoms](https://www.news18.com/india/woman-who-travelled-from-south-sudan-isolated-in-keralam-with-suspected-ebola-symptoms-ws-l-10158208.html) | News18 | 2026-06-18T08:57+00:00 | Outbreaks and emerging infections
@@ -450,9 +448,11 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [A 16-month-old and his mother recover from Ebola in rare good news from outbreak in Congo](https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2tWMlo1YVVfeUVnWG5ZbEhQRzFzVWRDNTlscWtGdHUya2ItTTdWMEFvS3g0VHVTOEhsT3RUWlp1N2JWeC14RzFTNlRaOEZtbFJDUG0zTG9QZjBoTnZqV0RINW51Q0JfSEQ1dzJCQXdtckpUTFU3c1VKeXlHMjdWZA?oc=5) | Medical Xpress | 2026-06-17T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [China stands ready to provide more medical support to Africa amid Ebola outbreak](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FTk00ejZJTldVWk10ZXZ6ZG9BcXl6aC1WNHo3R1FNSzNFb3lhRWtoYUlOWDdnT0dZMW43UnhOc0tkcnlLWXJEOXFvbU90cXZwSDJxdzJoaTlGWkFRaFFmYUhn?oc=5) | Global Times | 2026-06-17T15:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola outbreak may be worst ever, Africa CDC warns](https://news.google.com/rss/articles/CBMiWkFVX3lxTE93OG5LX0F2cnhCV0ZkNEU3U2tYdG82R3BneFVTRXQ1cWJzRm55Tlh0SFJHZktXclFJMkdMRXh1dmdQWXBBaWYxZ1NXWnVzWkpuajJJVG4xSFl4UQ?oc=5) | TRT Afrika | 2026-06-17T14:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals](https://news.google.com/rss/articles/CBMikgJBVV95cUxQeGdZRTl3UXJWSFdYNC1lSTQzUFR2U2MwNUtZLXNvSm9pV2xHeWFyazZCWEVLWnlsMEhsSHduS0RLZ0ZRcVpoTXlYLUxKOU1KY09FMlhCcjRYcGgxUnlZa0FlaG55c2ZhY2VFb0tfRVVVaXM1WGtyenA4LXgzOEs4NjZXbEV3enJsN0hZYVY0OGdYVUdUUEJDZ2RmcHg3V2tmdEdMenoxOG1CbU9aLUM1d1dFbXhpaFhkX0lEZ3JCVHpIZlI1NmUtcmNpQjExaUhwOWtqZjIwdnlid19SZGRmSGdsYVphUTFGLVVLSngwWm54QkpSbTlORTVramxRWUdxWjJYb3gyaGNZUHZhWDh5cFJn?oc=5) | The Journal Gazette | 2026-06-17T13:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak could become worst in history as thousands not being traced](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2xBcjZxd1JBNWQyT3prNjZCX3BnTmFqU3BqdGMwUktWNm5nUkhSQzVKU1VrcjNwMEhrbzF5LVR1QW5OV09XaDF1cDV4RGJGaDVXTkxQc1ZxUG1MRjZqSmFFM2tKUVdMcFBZQnhmWjdCOXRmQWpjRS1iRENaV3pzaXhaRVFvemdUMWFEWDlRYnoyV1ZjZzN2UXZsVHMxNmYwYWoycXlxOXBGWkNpbHJkSw?oc=5) | France 24 | 2026-06-17T09:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
