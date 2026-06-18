@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T06:45
+Generated at: 2026-06-18T07:08
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -12,27 +12,27 @@ Search window: 7 day(s) ending 2026-06-18
 - [Surveillance Summaries: Brucellosis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765690) (CDC MMWR; 2026-06-16T17:13+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR; 2026-06-16T17:10+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa; 2026-06-16T11:55+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (164), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (4)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (168), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (4)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News)
-- Newly tracked story cluster: 15 item(s) across 15 source(s).
-- Baseline snapshot created with 15 clustered item(s) across 15 source(s).
+- Newly tracked story cluster: 13 item(s) across 13 source(s).
+- Baseline snapshot created with 13 clustered item(s) across 13 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The Washington Post now includes quarantine language.
 
 ### Ebola virus disease
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 126 item(s) across 90 source(s).
-- Baseline snapshot created with 126 clustered item(s) across 90 source(s).
+- Newly tracked story cluster: 131 item(s) across 97 source(s).
+- Baseline snapshot created with 131 clustered item(s) across 97 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
 - Lead item: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 28 item(s) across 27 source(s).
-- Baseline snapshot created with 28 clustered item(s) across 27 source(s).
+- Newly tracked story cluster: 29 item(s) across 28 source(s).
+- Baseline snapshot created with 29 clustered item(s) across 28 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-18
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 126 item(s) across 90 source(s); 5 official/primary-source item(s).
+- Topic size: 131 item(s) across 97 source(s); 5 official/primary-source item(s).
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa, 2026-06-17T19:31+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 28 item(s) across 27 source(s); 2 official/primary-source item(s).
+- Topic size: 29 item(s) across 28 source(s); 2 official/primary-source item(s).
 - Lead item: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search, 2026-06-17T00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. China's immunization policy was updated in 2020, replacing the sequence of MR (at 8-12 months) and MMR (at 18-24 months) with a comprehensive two-dose MMR schedule.This study aims to evaluate the safety of this policy...
 - Evidence notes: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Christians Help Battle Measles Outbreak in Bangladesh](https://www.christianitytoday.com/2026/06/bangladesh-measles-crisis/) (Christianity Today); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmM1YklvQzhhZENhd1QxdjlUOEZ0bWtTa0c2S0FzN0hULTlUZ1liT1NFcS1pMFIzMXBGSTNkUjdJakpVVFF1TTJPSkR3VFJVMVBuZlltMndpTGl3X29tZkZSVnZSLWtZUmhsY3FDVm9Ldy1PTU1aOUo3OWEtMWxPZw?oc=5) (WSJ); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE56VUx2ZzdTVzI0anNlenFOQmtZcU13Q2p5N1cwbHZUdGRacGNwekpfVU8yX2pkMmkyWFAyT3Axa1phcGtncm1tYnhuZV8yb3piTUJLTGdlMHdkaVE?oc=5) (Mshale)
@@ -66,7 +66,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 15 item(s) across 15 source(s); 2 official/primary-source item(s).
+- Topic size: 13 item(s) across 13 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News, 2026-06-18T09:49+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
 - Evidence notes: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5) (The Washington Post); [RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5) (CNN); [Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVhyTml2LVluTkoybUtPM2J3OVRxc0RWX20yZkZDdHlxcFAwdVRyVG13bXJPdkRPbFFXNklGT3RXVFZhSWw5d3FMWUxwR01fSUhLSl9hdVRCT3oxUS1mbUhkNjZ3OWJ4anRxeEg0ZnNEMW1aa3JVNTczQlVPWEZQeUNFa09vT2cxWGppdGhQZEd5WGE5TC0xRW1TWFRCUkZ2eWtPNHJGaU5zZGZ0QmZ0MFlQRi1ONVEyV2VnTjBnWHdaUUE?oc=5) (Reuters)
@@ -438,6 +438,8 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Woman returning from South Sudan under observation for suspected Ebola in Kerala's Kottayam](https://thesouthfirst.com/kerala/woman-returning-from-south-sudan-under-observation-for-suspected-ebola-in-keralas-kottayam/) | The South First | 2026-06-18T13:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [How Ebola outbreak impacts Africa's tourism industry](https://www.cnbcafrica.com/media/7781783788723/how-ebola-outbreak-impacts-africas-tourism-industry-) | CNBC Africa | 2026-06-18T12:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Rapid response experts deployed to support Ebola outbreak response in DRC](https://www.facilitiesmanagement-now.com/article/280421/rapid-response-experts-deployed-to-support-ebola-outbreak-response-in-drc) | facilitiesmanagement-now.com | 2026-06-18T11:41+00:00 | Outbreaks and emerging infections
@@ -449,8 +451,6 @@ Search window: 7 day(s) ending 2026-06-18
 - [Christians Help Battle Measles Outbreak in Bangladesh](https://www.christianitytoday.com/2026/06/bangladesh-measles-crisis/) | Christianity Today | 2026-06-18T10:03+00:00 | Outbreaks and emerging infections
   With more than 80,000 cases and growing, churches and missions are replenishing depleted vaccine stocks and treating families nationwide. When he last visited in April, his trip had a more pressing purpose: to comfort families devastated by the loss of their children to measles. Children infected with measles receive treatment at a city corporation hospital in Dhaka, Bangladesh.
 - [Woman, Who Travelled From South Sudan, Isolated In Keralam With Suspected Ebola Symptoms](https://www.news18.com/india/woman-who-travelled-from-south-sudan-isolated-in-keralam-with-suspected-ebola-symptoms-ws-l-10158208.html) | News18 | 2026-06-18T08:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Woman returning from South Sudan under observation for suspected Ebola in Kerala's Kottayam](https://thesouthfirst.com/kerala/woman-returning-from-south-sudan-under-observation-for-suspected-ebola-in-keralas-kottayam/) | The South First | 2026-06-18T08:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Woman, returning from South Sudan, isolated in Kerala over suspected Ebola infection](https://www.indiatoday.in/india/story/kerala-ebola-scare-woman-returning-south-sudan-isolated-tested-fever-kottayam-medical-college-2928902-2026-06-18) | India Today | 2026-06-18T07:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
