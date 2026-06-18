@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 24 clustered item(s) across 23 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 29 clustered item(s) across 28 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1303,7 +1303,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Baseline snapshot created with 6 clustered item(s) across 5 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 7 clustered item(s) across 6 source(s).",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1865,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-18T13:07:58",
-  "run_id": "run_78b7d0e4b20ce1f0"
+  "generated_at": "2026-06-18T13:10:30",
+  "run_id": "run_21277a53ce138e02"
 }
