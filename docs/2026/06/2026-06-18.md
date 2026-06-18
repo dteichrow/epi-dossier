@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T11:10
+Generated at: 2026-06-18T11:16
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-18
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (158), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (161), Policy, surveillance, and public health infrastructure (13), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News)
-- Newly tracked story cluster: 12 item(s) across 12 source(s).
-- Baseline snapshot created with 12 clustered item(s) across 12 source(s).
+- Newly tracked story cluster: 13 item(s) across 13 source(s).
+- Baseline snapshot created with 13 clustered item(s) across 13 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The Washington Post now includes quarantine language.
 
@@ -60,7 +60,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 12 item(s) across 12 source(s); 2 official/primary-source item(s).
+- Topic size: 13 item(s) across 13 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News, 2026-06-18T09:49+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
 - Evidence notes: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5) (The Washington Post); [RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5) (CNN); [Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVhyTml2LVluTkoybUtPM2J3OVRxc0RWX20yZkZDdHlxcFAwdVRyVG13bXJPdkRPbFFXNklGT3RXVFZhSWw5d3FMWUxwR01fSUhLSl9hdVRCT3oxUS1mbUhkNjZ3OWJ4anRxeEg0ZnNEMW1aa3JVNTczQlVPWEZQeUNFa09vT2cxWGppdGhQZEd5WGE5TC0xRW1TWFRCUkZ2eWtPNHJGaU5zZGZ0QmZ0MFlQRi1ONVEyV2VnTjBnWHdaUUE?oc=5) (Reuters)
@@ -444,15 +444,15 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [A 16-month-old and his mother recover from Ebola in rare good news from outbreak in Congo](https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2tWMlo1YVVfeUVnWG5ZbEhQRzFzVWRDNTlscWtGdHUya2ItTTdWMEFvS3g0VHVTOEhsT3RUWlp1N2JWeC14RzFTNlRaOEZtbFJDUG0zTG9QZjBoTnZqV0RINW51Q0JfSEQ1dzJCQXdtckpUTFU3c1VKeXlHMjdWZA?oc=5) | Medical Xpress | 2026-06-17T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [China stands ready to provide more medical support to Africa amid Ebola outbreak](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FTk00ejZJTldVWk10ZXZ6ZG9BcXl6aC1WNHo3R1FNSzNFb3lhRWtoYUlOWDdnT0dZMW43UnhOc0tkcnlLWXJEOXFvbU90cXZwSDJxdzJoaTlGWkFRaFFmYUhn?oc=5) | Global Times | 2026-06-17T15:22+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa's Ebola outbreaks complicated by victims who prefer traditional healers over hospitals](https://news.google.com/rss/articles/CBMikgJBVV95cUxQeGdZRTl3UXJWSFdYNC1lSTQzUFR2U2MwNUtZLXNvSm9pV2xHeWFyazZCWEVLWnlsMEhsSHduS0RLZ0ZRcVpoTXlYLUxKOU1KY09FMlhCcjRYcGgxUnlZa0FlaG55c2ZhY2VFb0tfRVVVaXM1WGtyenA4LXgzOEs4NjZXbEV3enJsN0hZYVY0OGdYVUdUUEJDZ2RmcHg3V2tmdEdMenoxOG1CbU9aLUM1d1dFbXhpaFhkX0lEZ3JCVHpIZlI1NmUtcmNpQjExaUhwOWtqZjIwdnlid19SZGRmSGdsYVphUTFGLVVLSngwWm54QkpSbTlORTVramxRWUdxWjJYb3gyaGNZUHZhWDh5cFJn?oc=5) | The Journal Gazette | 2026-06-17T13:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak could become worst in history as thousands not being traced](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2xBcjZxd1JBNWQyT3prNjZCX3BnTmFqU3BqdGMwUktWNm5nUkhSQzVKU1VrcjNwMEhrbzF5LVR1QW5OV09XaDF1cDV4RGJGaDVXTkxQc1ZxUG1MRjZqSmFFM2tKUVdMcFBZQnhmWjdCOXRmQWpjRS1iRENaV3pzaXhaRVFvemdUMWFEWDlRYnoyV1ZjZzN2UXZsVHMxNmYwYWoycXlxOXBGWkNpbHJkSw?oc=5) | France 24 | 2026-06-17T09:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO Director-General's remarks at the High-Level Virtual Meeting of African Heads of State and Government and Partners on the Bundibugyo Ebola outbreak – 16 June 2026](https://news.google.com/rss/articles/CBMixwJBVV95cUxNeFl4c0dxaGx6V1owMEpWQUpSRkMybEZGbmRrdWkyYUtsbjd6OFRuVDRrZGZtdm1OTEhka04wdHVDYzNxWm1Xdno5VEdiT1ZBT1F0eU95UWw3ekRMY3N4Z1Z6SEFUcktoUGZ4aUhiRUxjVDRhTW1ZVWtwcnJmaEhjOVNUSHF0SW00S3dmeUtEd0QzU0R1NVEtZWRFT3R5NFdLbGZIOTdFallSa0V2T3hPWWFucVZoWkFfYzVvc2ExVUVTYmRfWFUzMVd2WFZtTmh0WTN2blQyNXJrYkotOEFTa2lEc3RvbGp5dFQtN3p0Mlg4N2gxVGExa1RpOHBwZ3ZDYU44SXptOFF5cnZpNTZ0YURVaktkLWNOSjhRNmk3Q3ZoT1VldkZwd1A5SmxEUWZMVmFvbjRsWk9iTTBCa1doTVBjcXFRZzA?oc=5) | World Health Organization (WHO) | 2026-06-17T09:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in DRC and Uganda: Situation Report #4 (June 16, 2026)](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkpfWHV0bDJyYktId2Fnc09ILUNXM0ZBZkJSbnVFb0V5MWQwV1BlenN5OElQTE9DTG51anQ4UE5yODU2ZVlrZkNkblQzT2cwbzdQMEVBajJtQl9OZVVfWlBpNC00M1VLZGtuUzV5R0IxZDNxY1BCZEFMcEN5NkhQQlA5TXBKbGo3VjN5TkRnOF9Wa3J1aEl2ZHpkVzFocWlrbWZXQ0RMRVVHdjJBb0ZwLU9EMnBhdTA?oc=5) | ReliefWeb | 2026-06-17T08:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5) | The Washington Post | 2026-06-17T03:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTNoT2NYcDMxQXZDcS01cW4tNWlfX09kSWs5eFB3ZVAzTjFwU3Z2azgxRzlPUmdWdWtIQm5QdENad0tSWUNDVTFqOWVTRFl1M0gxZnc3cno4Mk9lVTdUMGRIeDBxbUpGcjNGTXQwV05MdUN0NTIxWkt6X2hVSjZyRzVLd3ZRbnJVcDZsNUZ4YzBkMDY5Vk9XeXo2Z09kWlh3bGs5N2lIa0p2WmJ6SGVpRDhIZ3FQMTRiZ2xzTjloTGNma1QwYVFzbkFEUHAzLUk?oc=5) | AP News | 2026-06-16T22:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
