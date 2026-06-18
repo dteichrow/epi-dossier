@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T03:12
+Generated at: 2026-06-18T03:16
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-18
 - [Surveillance Summaries: Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765851) (CDC MMWR; 2026-06-16T17:10+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 23, June 1 to 7 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-23-june-1-7) (WHO Regional Office for Africa; 2026-06-16T11:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (155), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (154), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 29 item(s) across 28 source(s).
-- Baseline snapshot created with 29 clustered item(s) across 28 source(s).
+- Newly tracked story cluster: 23 item(s) across 22 source(s).
+- Baseline snapshot created with 23 clustered item(s) across 22 source(s).
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-06-18
 
 ### Ebola virus disease
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 122 item(s) across 89 source(s).
-- Baseline snapshot created with 122 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 127 item(s) across 91 source(s).
+- Baseline snapshot created with 127 clustered item(s) across 91 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Tuberculosis and antimicrobial resistance
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-06-18
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 122 item(s) across 89 source(s); 5 official/primary-source item(s).
+- Topic size: 127 item(s) across 91 source(s); 5 official/primary-source item(s).
 - Lead item: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa, 2026-06-17T19:31+00:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 29 item(s) across 28 source(s); 2 official/primary-source item(s).
+- Topic size: 23 item(s) across 22 source(s); 2 official/primary-source item(s).
 - Lead item: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search, 2026-06-17T00:00)
 - Detailed note: The total number of deaths has risen to 656, including 93 confirmed cases, for a case fatality of 0.9%. The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. The capital city of Dhaka accounts for 46 percent of the total cases in the country (40,297) and more than 7,000...
 - Evidence notes: [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Christians Help Battle Measles Outbreak in Bangladesh](https://www.christianitytoday.com/2026/06/bangladesh-measles-crisis/) (Christianity Today); [Bangladesh reports nearly 87K measles cases in 3 months](https://outbreaknewstoday.substack.com/p/bangladesh-reports-nearly-87k-measles) (Outbreak News Today); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmM1YklvQzhhZENhd1QxdjlUOEZ0bWtTa0c2S0FzN0hULTlUZ1liT1NFcS1pMFIzMXBGSTNkUjdJakpVVFF1TTJPSkR3VFJVMVBuZlltMndpTGl3X29tZkZSVnZSLWtZUmhsY3FDVm9Ldy1PTU1aOUo3OWEtMWxPZw?oc=5) (WSJ)
@@ -447,8 +447,6 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [Kerala woman from Sudan with suspected Ebola symptoms hospitalised in Kottayam Medical College](https://www.newindianexpress.com/states/kerala/2026/Jun/18/kerala-woman-from-sudan-with-suspected-ebola-symptoms-hospitalised-in-kottayam-medical-college) | The New Indian Express | 2026-06-18T06:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Suspected case of Ebola in Kerala: Woman from South Sudan under isolation in Kottayam Medical College](https://www.onmanorama.com/health/healthcare/2026/06/18/foreign-woman-in-kerala-suspected-of-ebola-infection-under-isolation.html) | Onmanorama | 2026-06-18T04:59+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [G7 Pledges Coordinated Action Against Ebola Outbreak in DR Congo and Uganda](https://medafricatimes.com/45887-g7-pledges-coordinated-action-against-ebola-outbreak-in-dr-congo-and-uganda.html) | Medafrica Times | 2026-06-18T00:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [People fleeing conflict in Congo complicate efforts to stop Ebola outbreak](https://www.cbsnews.com/news/congo-efforts-to-stop-ebola-outbreak/) | CBS News | 2026-06-17T22:52+00:00 | Outbreaks and emerging infections
@@ -468,6 +466,8 @@ Search window: 7 day(s) ending 2026-06-18
 - [7 patients said to have recovered from Ebola leave DR Congo treatment center](https://ca.news.yahoo.com/7-patients-said-recovered-ebola-220314604.html) | Yahoo News Canada | 2026-06-16T22:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice](https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0FSc2VIX0dVdEdLcXVJRERsaS14cDJiVmZlLUtNUXQyS1JIUkw5eTVzVXY1OUNNSzhNbEJiYjM3cWxRQV9BOE1EUzc4S0xwd1o5VmpvRGRuam5jOGV2WHdBNEJUdFlIZFdQaGtiRmc2NF9NQjU3UG95dGNjZ09oajZoWTBYWUxVOWRyenpGUkZ6ai1fT0ZUR0xBd2RydnlpYlNLWVZMMDJnenB6V2wzdDlkQ3hOa2ZjVWRjR2R5djNmQ1JhZVkya1I3MHo?oc=5) | WSJ | 2026-06-16T21:50+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa CDC head warns Ebola outbreak could be worst ever](https://www.cidrap.umn.edu/ebola/africa-cdc-head-warns-ebola-outbreak-could-be-worst-ever) | CIDRAP | 2026-06-16T21:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
