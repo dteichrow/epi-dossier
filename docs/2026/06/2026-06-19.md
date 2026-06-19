@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-19
-Generated at: 2026-06-19T05:32
+Generated at: 2026-06-19T05:39
 Search window: 7 day(s) ending 2026-06-19
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-19
 - [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa; 2026-06-17T19:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (156), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (157), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-19
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 136 item(s) across 108 source(s).
-- Baseline snapshot created with 136 clustered item(s) across 108 source(s).
+- Newly tracked story cluster: 136 item(s) across 107 source(s).
+- Baseline snapshot created with 136 clustered item(s) across 107 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
@@ -36,10 +36,10 @@ Search window: 7 day(s) ending 2026-06-19
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
-- Lead item: [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today)
+- Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times)
 - Newly tracked story cluster: 4 item(s) across 4 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies)
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-19
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 136 item(s) across 108 source(s); 5 official/primary-source item(s).
+- Topic size: 136 item(s) across 107 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -75,11 +75,19 @@ Search window: 7 day(s) ending 2026-06-19
 
 ### Dengue and arboviruses
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
-- Lead item: [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today, 2026-06-18T21:25+00:00)
-- Detailed note: Since the beginning of the year, Kerala has reported 3,565 confirmed and 10, 428 probable cases of dengue. 17 dengue deaths have been reported to date. Red-alert clusters are high-risk areas where 10 or more cases have been recorded.
-- Evidence notes: [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today); [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42R0GQ:0-sri-lanka-battles-surge-in-dengue-fever-with-more-than-44-000-cases-so-far-this-year/) (TradingView); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India)
+- Lead item: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times, 2026-06-16T04:27+00:00)
+- Detailed note: Red-alert clusters are high-risk areas where 10 or more cases have been recorded. Sign up now: Get ST's newsletters delivered to your inbox There were 12 active dengue clusters reported as at June 15, including four with the red-alert classification. Copyright © 2026, American Bankers Association.
+- Evidence notes: [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42R0GQ:0-sri-lanka-battles-surge-in-dengue-fever-with-more-than-44-000-cases-so-far-this-year/) (TradingView); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India); [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Avian influenza and H5N1
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian, 2026-06-19T06:55+00:00)
+- Detailed note: Also last month, in Eurosurveillance: Cross-reactive human antibody responses to H9N2 influenza virus, New York, United States, 2025 , we saw that ` pre-existing immunity to H9N2 in humans that is dominated by cross-reactive but largely non-neutralising antibodies , with a greater contribution from NA-directed responses.' Last month, in Preprint: Outbreak of H9N2 Avian Influenza Viruses in Lesser Rhea in Peru,...
+- Evidence notes: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian); [EM&I: A new clade of H9N2 avian influenza virus circulating in Laos](https://afludiary.blogspot.com/2026/06/em-new-clade-of-h9n2-avian-influenza.html) (Avian Flu Diary)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -88,14 +96,6 @@ Search window: 7 day(s) ending 2026-06-19
 - Evidence notes: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies); [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology)
 - Why this topic matters now: It may shape how new evidence is framed before broader consensus forms. It also has value for historical epidemiology and blog-idea generation.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Avian influenza and H5N1
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian, 2026-06-19T06:55+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian)
-- Why this topic matters now: It is one of the clearer recurring signals in today’s source set.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -440,7 +440,7 @@ Search window: 7 day(s) ending 2026-06-19
   Limited detail was available from feed metadata alone.
 - [Arizona's measles outbreak is over, but it's a different case in Utah](https://www.azcentral.com/story/news/local/arizona-health/2026/06/19/arizona-measles-outbreak-officially-over/90607459007/) | azcentral.com and The Arizona Republic | 2026-06-19T11:03+00:00 | Outbreaks and emerging infections
   Arizona's measles outbreak is over, but it's a different case in Utah azcentral.com and The Arizona Republic
-- [Kenya enhances health screening for truck drivers as Ebola outbreak continues](https://www.bastillepost.com/global/article/5947949-kenya-enhances-health-screening-for-truck-drivers-as-ebola-outbreak-continues) | 巴士的報 | 2026-06-19T09:18+00:00 | Outbreaks and emerging infections
+- [Kenya enhances health screening for truck drivers as Ebola outbreak continues](https://www.bastillepost.com/global/article/5947949-kenya-enhances-health-screening-for-truck-drivers-as-ebola-outbreak-continues) | bastillepost.com | 2026-06-19T09:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Doctor treating Ebola patients describes challenges health workers face at home and treatment center](https://apnews.com/video/doctor-treating-ebola-patients-describes-challenges-health-workers-face-at-home-and-treatment-center-2c47b02c62754a288c5c7d0c21e7118b) | AP News | 2026-06-19T07:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,8 +456,6 @@ Search window: 7 day(s) ending 2026-06-19
   Limited detail was available from feed metadata alone.
 - [Ebola cases increase almost 40% in a week as death toll passes 200](https://apnews.com/article/congo-uganda-ebola-bundibugyo-cdc-cases-18d3129c8d5e3a0641ba330549a48a8a) | AP News | 2026-06-18T22:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) | Outbreak News Today | 2026-06-18T21:25+00:00 | Outbreaks and emerging infections
-  Since the beginning of the year, Kerala has reported 3,565 confirmed and 10, 428 probable cases of dengue. 17 dengue deaths have been reported to date. Epidemiological data from the Kerala Directorate of Health Services (DHS) indicates that the highly virulent DENV-2 strain remains the dominant cause of infection in the state, alongside significant circulation of DENV-1, DENV-3, and DENV-4.
 - [Ebola outbreak in Uganda, DR Congo hits 894 cases, 204 deaths](https://punchng.com/ebola-outbreak-in-uganda-dr-congo-hits-894-cases-204-deaths/) | Punch Newspapers | 2026-06-18T20:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Death toll from Ebola surpasses 200 in DR Congo as officials assess response](https://www.anews.com.tr/africa/2026/06/18/death-toll-from-ebola-surpasses-200-in-dr-congo-as-officials-assess-response) | A News | 2026-06-18T19:47+00:00 | Outbreaks and emerging infections
@@ -467,6 +465,8 @@ Search window: 7 day(s) ending 2026-06-19
 - [Kerala woman hospitalised over suspected Ebola infection after return from South Sudan](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmJLampZak9KR0tmQi1BZTRLdXBJdW5MaWtJZFdxMEcxbk1ROE5qNVgwczBKVWpNMUlmekNmSDRpN2ZkbkFmeWxaTGhUME44Z3k0dUo3Mk1fZUIyeklWMF9tcURSUGl1QkVjWlpBcHdTaWVnZ2VFd21sSDA3UVJWdlIxMlNSLVhTbi00SmZ1WjJXWVl6ZkpWUHlySDVoOVVkMHU5eGRVbzQ2V2VjaHZtdmpZNXhBSTBaZ2JNWEcyVEF5WFlsa2VpNTY0NlZUeGphcFpz0gHYAUFVX3lxTE5UbGNULUs5cVFTQ3lhT1VQc2hPcko4eElpdmUzeF9oTFNoTnMtdVp5YVRZdEVITkhQZE5NWDJQS0FCRWg4bTN0TlBla1hHcXZkUE9ZX002cUxqTnZxZHZOZ2JoV01wdksxNGU3US1tNkVYLWtiWW1wbVJMVnBhT3ZEb0Q2bUtGSktyWTQ0LUJ4NUpjaTVrWGJPMFJRa0h0RGwxYXBtblhhTVNaM1M4dnNJR0RsUy1BYkR1TXU0OEtCMTFaSVZ0VEg2WmhQWE9COEc1SnVQXzhESw?oc=5) | theweek.in | 2026-06-18T11:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Rapid response experts deployed to support Ebola outbreak response in DRC](https://news.google.com/rss/articles/CBMitwFBVV95cUxPU19idm1YaGtHaW1idlJHd3doaUt2S3p5eENMdkdyV3ZtQWxrUTZxMVR5UnUxZGRBNjhmSmdqNzRlNXRGYm1tWTM3R1RpRnRnNlZmVzlJVkZXZ09vbE1EeWYxWm51S0U4a1EtQngzNVMweENWWFB6OHJTLTlJblU5dVdZSXhzYTJLY0hFRVBlUWZrdTBOckQxU3lza1ZuUWtrYzY4YlJHelZTdzhWbTY0NU5QSnRLSkU?oc=5) | National Health Executive | 2026-06-18T10:01+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Woman, Who Travelled From South Sudan, Isolated In Keralam With Suspected Ebola Symptoms](https://news.google.com/rss/articles/CBMizwFBVV95cUxPWUpMRERZQW9HNmJLenQ3U1RIUmd6alVCOGk0SWQ1WS0xQ2h2SHYzQXdJWnFWOV9ndEkwMUhjRm90bkxtWDE2VXJlWC0xZ0JheFQtajNEZGlIdXRDcDRPMEpodWt5OXgyaVIwYjBGUkNxazJvQUpMMW02MmdnS0RXcFZCRFpCQVFSV0VsTmdUcFFzMExSYmp3SFBiWUJUMEFubGRTcmNmamY2SzFyaE9iSlh0TDkwZmUyZjN2bFNQRnZ2Qks2TzRPMXJzOFIzZmPSAdQBQVVfeXFMTk9RZzF1ZjdTRXJIVHdJMHZSaGYzbWh4MndCdnVURXVlbzN4bXBrcjVVejNBckRnYThDOHh0TFk4eWZoMG5Ya2d0MzNCVTRueGx3S2RTckw2MWVoWDRHVm1ZaHlvMzljdzlBbjlSdm5ZQ1o1SXNWUU1paTZOR2hqV04xSDZnMlhqR3VlZzRhMXo0VnFqM2VCaWNXRFZwaXFQUl9jUXhfbXY0WVN6M0ZOd3l6UkFuR01uLTNOckVQZXhMTzM5Q1VMbnFwZ21rYkg5c1JJV3g?oc=5) | News18 | 2026-06-18T08:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
