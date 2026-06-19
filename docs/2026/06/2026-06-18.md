@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T20:21
+Generated at: 2026-06-18T20:41
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-18
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (179), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,14 +25,14 @@ Search window: 7 day(s) ending 2026-06-18
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 126 item(s) across 94 source(s).
-- Baseline snapshot created with 126 clustered item(s) across 94 source(s).
+- Newly tracked story cluster: 127 item(s) across 95 source(s).
+- Baseline snapshot created with 127 clustered item(s) across 95 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 27 item(s) across 26 source(s).
-- Baseline snapshot created with 27 clustered item(s) across 26 source(s).
+- Newly tracked story cluster: 46 item(s) across 41 source(s).
+- Baseline snapshot created with 46 clustered item(s) across 41 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-06-18
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 126 item(s) across 94 source(s); 6 official/primary-source item(s).
+- Topic size: 127 item(s) across 95 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 27 item(s) across 26 source(s); 3 official/primary-source item(s).
+- Topic size: 46 item(s) across 41 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://www.wsj.com/us-news/us-measles-elimination-status-outbreak-71d0d2ab) (WSJ); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://mshale.com/eea51186/7422781avHOwYMJyl4s) (Mshale)
@@ -452,15 +452,15 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [Woman, Who Travelled From South Sudan, Isolated In Keralam With Suspected Ebola Symptoms](https://www.news18.com/india/woman-who-travelled-from-south-sudan-isolated-in-keralam-with-suspected-ebola-symptoms-ws-l-10158208.html) | News18 | 2026-06-18T08:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Woman, returning from South Sudan, isolated in Kerala over suspected Ebola infection](https://www.indiatoday.in/amp/india/story/kerala-ebola-scare-woman-returning-south-sudan-isolated-tested-fever-kottayam-medical-college-2928902-2026-06-18) | India Today | 2026-06-18T07:31+00:00 | Outbreaks and emerging infections
+- [Woman, returning from South Sudan, isolated in Kerala over suspected Ebola infection](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWZJcXJLQTlKODNraDlGTnc3UW5oSnVzT0RXM2EtSDdINU9EZ2pKeWZOR21iUGlKVzROOVhoeW5tMnE0YTQyNUt3WVpKQnZHeG9JVno0Sjdhc3lyYm5KR05vb0gwdkZsMm42Z2F5dko4b2pDRUpBb0F3aHU3THk4c1ltU1RET0pqcVdIbGlpMWF3VDJDZTI2amhNZmtCUkJoVnlCc0k4eWYzaEg4UTJuRnVpMW9KbnFwLU9ZOUpKMG8yV0xlM0tMV0VGZFNMVXFMN3BoMXhJWFM1VU5ZbThvX0ptenJkY2JfVHfSAeoBQVVfeXFMTk1mSXFyS0E5Sjgza2g5Rk53N1FuaEp1c09EVzNhLUg3SDVPRGdqSnlmTkdtYlBpSlc0TjlYaHlubTJxNGE0MjVLd1laSkJ2R3hvSVZ6NEo3YXN5cmJuSkdOb29IMHZGbDJuNmdheXZKOG9qQ0VKQW9Bd2h1N0x5OHNZbVNURE9KanFXSGxpaTFhd1QyQ2UyNmpoTWZrQlJCaFZ5QnNJOHlmM2hIOFEybkZ1aTFvSm5xcC1PWTlKSjBvMldMZTNLTFdFRmRTTFVxTDdwaDF4SVhTNVVOWW04b19KbXpyZGNiX1R3?oc=5) | India Today | 2026-06-18T07:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Kerala woman from Sudan with suspected Ebola symptoms hospitalised in Kottayam Medical College](https://www.newindianexpress.com/states/kerala/2026/Jun/18/kerala-woman-from-sudan-with-suspected-ebola-symptoms-hospitalised-in-kottayam-medical-college) | The New Indian Express | 2026-06-18T06:01+00:00 | Outbreaks and emerging infections
+- [Kerala woman from Sudan with suspected Ebola symptoms hospitalised in Kottayam Medical College](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX25jTjkyWGpLci1temt0RVNMQmpOZWl1WElzN3lHdENESko2V3NlNjZXb0hYQjBCZkZ5YXVuM3BaTE51dVJXN3ltVWMzaG1udlVlTVFPbDBvSmZNMVJrd0lHM0NCUG10RjVyVk45MjZhSjd0c01laV9SVUNCT2JZdVc2TzktLUtMN0FpTmtGS1BlR2dfcjdNMy1QOF9ucWhLNXBzVXZSNjNoVVgxNjAyYnJaUWJNbUotVDR6RE1ocVhWZWlvUzVhaWdlUVdUZTZkeEVCSnY2Wl8zYUUwako1eGxlbndRUTNE0gH2AUFVX3lxTE1kbEF6RFZFLUFmckRQUFRYZlMta1ZmUmxELUF2NHBGOHpFZFJ6YThPalpJNFFTN2xwdG54aEYyMkctNDI3ODRmMFVqM0d5UlVoRFpJaXRVb0hRVDA5bGdaZEJUeml0WnN4M2hwQ1NOZ0UzVk42ZUdLYjhEM0VadDZ5TThHblZoNHJ0MVV5WWxFZnl3bzdXbDVVa0JxVXFZWkx5Vlp0UGdZVUxobXBuMkFtMFM5aVp2NjRHbnF0MkxaRTNaT05xeFNyUHFvNXhLV29lemZQR0Z0cklnM0lqWW03WWRLSGdoMEpaQ1h6U2RBSXVvb2tOQQ?oc=5) | The New Indian Express | 2026-06-18T06:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [G7 Pledges Coordinated Action Against Ebola Outbreak in DR Congo and Uganda](https://medafricatimes.com/45887-g7-pledges-coordinated-action-against-ebola-outbreak-in-dr-congo-and-uganda.html) | Medafrica Times | 2026-06-18T00:06+00:00 | Outbreaks and emerging infections
+- [Suspected case of Ebola in Kerala: Woman from South Sudan under isolation in Kottayam Medical College](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZHdmNTk2N2NfeVQwWFhiOTNhUUlQclVkc1c5WGYtcEpzWk0yaVB3aU9PUXU0Vm5Kck53X293dkVfUGo1OE9LZ1RmMldWV01zZmVCQW50NTdiN1lDMTRnN25fQm1hMERPaXNfNmRCMXV3cGdBQVRJX0NUMFBFTkVYQ1hqb2dqOVBKQUdaVG1IRERYRzdWUERLN1pOcUUwUkFJd3VaMU56aVRLZWxpb0cyajZnNTQtcUpKRnVfM2JBeHFMSHhVREUyUtIByAFBVV95cUxQZHdmNTk2N2NfeVQwWFhiOTNhUUlQclVkc1c5WGYtcEpzWk0yaVB3aU9PUXU0Vm5Kck53X293dkVfUGo1OE9LZ1RmMldWV01zZmVCQW50NTdiN1lDMTRnN25fQm1hMERPaXNfNmRCMXV3cGdBQVRJX0NUMFBFTkVYQ1hqb2dqOVBKQUdaVG1IRERYRzdWUERLN1pOcUUwUkFJd3VaMU56aVRLZWxpb0cyajZnNTQtcUpKRnVfM2JBeHFMSHhVREUyUg?oc=5) | Onmanorama | 2026-06-18T04:59+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [G7 Pledges Coordinated Action Against Ebola Outbreak in DR Congo and Uganda](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1lrb1lkU0FUUnFLNlZwWl9tR0dYVHp5MzVNdnlVMFBuLXItVmk1emxYcVJmbUdDbzk3N0ZlcVRXY3J2Z1VjQkJ4eVBoOU5seGdHYkZQb1NaOEVmaGxKLTF1Y3B0N3M2Vi1yQ2ZxXzBndXJWU2d0NDVkbjhTSzZrN1hYaXNHNFBKVDNhd1E5RmhkZWQwTVRWbkw2U0k0cm1NZ0xMZXJMeFE2S3hZNmZHaVpaVQ?oc=5) | Medafrica Times | 2026-06-18T00:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [People fleeing conflict in Congo complicate efforts to stop Ebola outbreak](https://news.google.com/rss/articles/CBMidEFVX3lxTE8wQTQ3MHg2OTdHTkpWUVVFcWdmQlJ1RGFkOURYUHpFVG5xQnhPX0pPbm1KQXFULTI1ZmpzODJ5ZlFLdUVBSVBDODZzZ2VERXZ0dWJNUVpDVnNVaHZ5SU5PWnVFbHQ1Q3hvQ0lJZ2JST0RhdXdl?oc=5) | CBS News | 2026-06-17T22:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [A 16-month-old and his mother recover from Ebola in rare good news from outbreak in Congo](https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2tWMlo1YVVfeUVnWG5ZbEhQRzFzVWRDNTlscWtGdHUya2ItTTdWMEFvS3g0VHVTOEhsT3RUWlp1N2JWeC14RzFTNlRaOEZtbFJDUG0zTG9QZjBoTnZqV0RINW51Q0JfSEQ1dzJCQXdtckpUTFU3c1VKeXlHMjdWZA?oc=5) | Medical Xpress | 2026-06-17T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
