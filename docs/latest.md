@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T17:17
+Generated at: 2026-06-18T17:21
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -9,11 +9,11 @@ Search window: 7 day(s) ending 2026-06-18
 - [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News; 2026-06-18T09:49+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search; 2026-06-18T00:00; Major epidemiology studies; relevance 5/5)
 - [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa; 2026-06-17T19:31+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa; 2026-06-17T08:21+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (158), Policy, surveillance, and public health infrastructure (11), Major epidemiology studies (2)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (166), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -25,32 +25,26 @@ Search window: 7 day(s) ending 2026-06-18
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 120 item(s) across 89 source(s).
-- Baseline snapshot created with 120 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 132 item(s) across 98 source(s).
+- Baseline snapshot created with 132 clustered item(s) across 98 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 29 item(s) across 28 source(s).
-- Baseline snapshot created with 29 clustered item(s) across 28 source(s).
+- Newly tracked story cluster: 28 item(s) across 27 source(s).
+- Baseline snapshot created with 28 clustered item(s) across 27 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
 - Lead item: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 8 item(s) across 6 source(s).
-- Baseline snapshot created with 8 clustered item(s) across 6 source(s).
+- Newly tracked story cluster: 9 item(s) across 7 source(s).
+- Baseline snapshot created with 9 clustered item(s) across 7 source(s).
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
-
-### Tuberculosis and antimicrobial resistance
-- Lead item: [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 120 item(s) across 89 source(s); 6 official/primary-source item(s).
+- Topic size: 132 item(s) across 98 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
@@ -58,7 +52,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 29 item(s) across 28 source(s); 3 official/primary-source item(s).
+- Topic size: 28 item(s) across 27 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://www.wsj.com/us-news/us-measles-elimination-status-outbreak-71d0d2ab) (WSJ); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://mshale.com/eea51186/7422781avHOwYMJyl4s) (Mshale)
@@ -74,20 +68,20 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 8 item(s) across 6 source(s); 1 official/primary-source item(s).
+- Topic size: 9 item(s) across 7 source(s); 1 official/primary-source item(s).
 - Lead item: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search, 2026-06-18T00:00)
-- Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Fatality was 3.2%, with 60% due to undifferentiated fever and 40% due to leptospirosis-associated multi-organ dysfunction.
-- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://news.google.com/rss/articles/CBMif0FVX3lxTE96S2hNUHlPcmtsMExQRk9adXE4X0k5RkVCNjc3N3h3TFRnNFkyOTk0aG5YUkM0bGNkZ3F1d1RBSHBDcXdfa19QZlZxU3RRcXN1SkFwazZNT0JjMjF6MUpZYzJQcVM2ak5CbDFHdi1Hc0dpU2twRldfNnFRVE41aTA?oc=5) (Outbreak News Today); [Delhi Records 162 Dengue Cases Before Monsoon; Health Experts Stress Early Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zb2t4djZLdGtfaWU4WGp4THpHRzV0SXpER3FRdWZMX1N6b0RSZlVJWnJGNjZsRXZfeTMyODVvT0ZQRjN2WmxHUXNlOE1NdVFMN0daSHN0ZmxoZGNxWHRfMVRQZlNNQ3dhTEcxMjVUVW9BcTRZWVdFY3pZNA?oc=5) (Live India); [Delhi sees 162 dengue cases this year as monsoon begins](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDYzcFFOMU5vZXE3alA5OVBfMjRJUVpaanRxZ204MVZRXzZNNnlHNDZFTmxEZ01OQlBKUzFDeEZGRG94X2paS0UzS0xIYVhFcEJxRG80eVA4RndNcW5GMTlnMjJFUS0wMkF4QXNJWjEyak9pVHFULXlSUTFtZG9ZTGZvTVp2dzZudXpVQk1HYjAtd0MybVg4cFlwd19sbzc5cFE?oc=5) (NewsBytes)
+- Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Since the beginning of the year, Kerala has reported 3,565 confirmed and 10, 428 probable cases of dengue. Fatality was 3.2%, with 60% due to undifferentiated fever and 40% due to...
+- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://news.google.com/rss/articles/CBMif0FVX3lxTE96S2hNUHlPcmtsMExQRk9adXE4X0k5RkVCNjc3N3h3TFRnNFkyOTk0aG5YUkM0bGNkZ3F1d1RBSHBDcXdfa19QZlZxU3RRcXN1SkFwazZNT0JjMjF6MUpZYzJQcVM2ak5CbDFHdi1Hc0dpU2twRldfNnFRVE41aTA?oc=5) (Outbreak News Today); [Delhi Records 162 Dengue Cases Before Monsoon; Health Experts Stress Early Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zb2t4djZLdGtfaWU4WGp4THpHRzV0SXpER3FRdWZMX1N6b0RSZlVJWnJGNjZsRXZfeTMyODVvT0ZQRjN2WmxHUXNlOE1NdVFMN0daSHN0ZmxoZGNxWHRfMVRQZlNNQ3dhTEcxMjVUVW9BcTRZWVdFY3pZNA?oc=5) (Live India)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Tuberculosis and antimicrobial resistance
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa, 2026-06-17T08:21+00:00)
-- Detailed note: The report also reflects WHO South Africa’s work with government, partners, communities and WHO teams across all levels to advance a healthier, more resilient and more equitable South Africa.” Download the report 36.07 MB Key results include strengthened National Health Insurance readiness, expanded HIV treatment, improved TB detection, cervical cancer prevention, stronger emergency preparedness and enhanced...
-- Evidence notes: [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa); [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) (PubMed Historical Pathogen Case Studies)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+### Miscellaneous signals
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-06-17T14:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [Ebola risk for World Cup is 'extremely low', but US is ready, experts say](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-risk-world-cup-is-extremely-low-us-is-ready-experts-say-2026-06-15/) (Reuters)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -376,12 +370,12 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### WHO South Africa 2025 Annual Report
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-17T08:21+00:00
-- URL: https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report
+### FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026
 - Category: Outbreaks and emerging infections
-- Summary: The report also reflects WHO South Africa’s work with government, partners, communities and WHO teams across all levels to advance a healthier, more resilient and more equitable South Africa.” Download the report 36.07 MB Key results include strengthened National Health Insurance readiness, expanded HIV treatment, improved TB detection, cervical cancer prevention, stronger emergency preparedness and enhanced surveillance systems. It captures progress across Universal Health Coverage, HIV and TB, noncommunicable diseases, maternal and child health, health emergencies, health promotion, partnerships and operational excellence.
+- Summary: FDA lists reference 1383 with date posted 6/13/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Powdered Infant Formula.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -416,20 +410,18 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-06-13T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42288907/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: We then discuss their diagnostic and therapeutic applications in osteomyelitis, joint tuberculosis, rheumatoid arthritis, osteoarthritis, osteoporosis, bone defects, fracture nonunion, bone tumors, and spinal cord injury, with particular attention to radiolabeled liposomes, fluorescent probes, imaging-guided therapy, and microenvironment-responsive systems. Moreover, biomimetic liposomes, such as cell membrane-camouflaged, macrophage- or erythrocyte membrane-engineered, membrane-fusion-inspired, and organelle-delivering liposomal systems, are highlighted for their roles in immune evasion, lesion targeting, barrier penetration, and intercellular delivery. Bone and bone-related disorders remain difficult to diagnose and treat because of the dense mineralized matrix, limited vascular perfusion, complex pathological microenvironment, and insufficient site-specific accumulation of conventional agents.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
+- Source: ECDC News
+- Date: 2026-06-12T17:36+02:00
+- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-06-12T17:36+02:00 | Policy, surveillance, and public health infrastructure
-  On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) | CDC Current Outbreak List | Unknown | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
@@ -440,6 +432,8 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [World Cup puts Ebola outbreak and pandemic lessons to the test](https://www.scmp.com/news/us/article/3357624/world-cup-puts-ebola-outbreak-and-pandemic-lessons-test) | South China Morning Post | 2026-06-18T21:30+00:00 | Outbreaks and emerging infections
   Experts say slow responses, aid cuts and misinformation expose gaps in global health defences despite Covid lessons Alex Doran, a 28-year-old corporate strategist, is cheering for the US national team and was pleasantly surprised by the size of its initial win against Paraguay last week, while acknowledging that his team is unlikely to go all the way. “But that’s also what makes it exciting.” Any concerns about being around so many people, however, did not extend to the recent Ebola outbreak. While he does not expect to attend a match in person involving tickets costing thousands of US dollars, he has been watching avidly online and hopes to see some matches at fan zones set up around Washington.
+- [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) | Outbreak News Today | 2026-06-18T21:25+00:00 | Outbreaks and emerging infections
+  Since the beginning of the year, Kerala has reported 3,565 confirmed and 10, 428 probable cases of dengue. 17 dengue deaths have been reported to date. Epidemiological data from the Kerala Directorate of Health Services (DHS) indicates that the highly virulent DENV-2 strain remains the dominant cause of infection in the state, alongside significant circulation of DENV-1, DENV-3, and DENV-4.
 - [Death toll from Ebola surpasses 200 in DR Congo as officials assess response](https://www.anews.com.tr/africa/2026/06/18/death-toll-from-ebola-surpasses-200-in-dr-congo-as-officials-assess-response) | A News | 2026-06-18T19:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Tops 837 Cases: Africa CDC Mandates Exit Screening, Warns Travel Bans Backfire](https://www.techtimes.com/articles/318650/20260618/ebola-outbreak-tops-837-cases-africa-cdc-mandates-exit-screening-warns-travel-bans-backfire.htm) | Tech Times | 2026-06-18T19:20+00:00 | Outbreaks and emerging infections
@@ -482,21 +476,12 @@ Search window: 7 day(s) ending 2026-06-18
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42306971/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42306971/
-- [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/)
-  Source: PubMed Historical Pathogen Case Studies
-  DOI: 10.1186/s12951-026-04616-7
-  Journal/preprint server: Journal of nanobiotechnology
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42288907/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42288907/
 
 ## Historical epi / weird epi corner
-- [Liposomal multimodal theranostics for bone disorders: from rational responsive delivery and biomimetic strategies to clinical translation.](https://pubmed.ncbi.nlm.nih.gov/42288907/) | PubMed Historical Pathogen Case Studies
-  We then discuss their diagnostic and therapeutic applications in osteomyelitis, joint tuberculosis, rheumatoid arthritis, osteoarthritis, osteoporosis, bone defects, fracture nonunion, bone tumors, and spinal cord injury, with particular attention to radiolabeled liposomes, fluorescent probes, imaging-guided therapy, and microenvironment-responsive systems. Moreover, biomimetic liposomes, such as cell membrane-camouflaged, macrophage- or erythrocyte membrane-engineered, membrane-fusion-inspired, and organelle-delivering liposomal systems, are highlighted for their roles in immune evasion, lesion targeting, barrier penetration, and intercellular delivery. Bone and bone-related disorders remain difficult to diagnose and treat because of the dense mineralized matrix, limited vascular perfusion, complex pathological microenvironment, and insufficient site-specific accumulation of conventional agents.
 - [Ebola outbreak in DR Congo expands into large displacement camp](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-expands-large-displacement-camp) | CIDRAP
   Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About The number of confirmed cases in the growing Ebola outbreak in the Democratic Republic of the Congo (DRC) has risen to 676, including 136 deaths, as health officials warn it’s likely to get worse. According to Reuters , the mother and daughter, who died on May 31 and June 1 and later tested positive for Ebola, were living in a camp that’s hosting 30,000 internally displaced people in cramped and unsanitary conditions. Among the dead are two victims who were living in a displacement camp in eastern DRC, which has been plagued by conflict between the government and rebel groups.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
-- Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
