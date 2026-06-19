@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-19
-Generated at: 2026-06-19T05:22
+Generated at: 2026-06-19T05:32
 Search window: 7 day(s) ending 2026-06-19
 
 ## Executive scan
@@ -12,21 +12,21 @@ Search window: 7 day(s) ending 2026-06-19
 - [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa; 2026-06-17T19:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (154), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (156), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News)
-- Newly tracked story cluster: 9 item(s) across 9 source(s).
-- Baseline snapshot created with 9 clustered item(s) across 9 source(s).
+- Newly tracked story cluster: 10 item(s) across 10 source(s).
+- Baseline snapshot created with 10 clustered item(s) across 10 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The Washington Post now includes quarantine language.
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 135 item(s) across 107 source(s).
-- Baseline snapshot created with 135 clustered item(s) across 107 source(s).
+- Newly tracked story cluster: 136 item(s) across 108 source(s).
+- Baseline snapshot created with 136 clustered item(s) across 108 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-19
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 135 item(s) across 107 source(s); 5 official/primary-source item(s).
+- Topic size: 136 item(s) across 108 source(s); 5 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -66,7 +66,7 @@ Search window: 7 day(s) ending 2026-06-19
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 9 item(s) across 9 source(s); 2 official/primary-source item(s).
+- Topic size: 10 item(s) across 10 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News, 2026-06-18T09:49+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
 - Evidence notes: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5) (The Washington Post); [RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5) (CNN); [Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation](https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3c1SkR1WDdSTk5BV3lhUlVyNDUwUWh1M3ZfTTdMQ3NjaHdEeFZrcDBRMzlPSTRGUXNuMzRfLXpJaEE3eTdra0JnQ2NONzh1ZzBzME13Qk13TmwwcVBpQW1MZzEyZldtQ203Q0FjdEo0MldLaVdXYVVwYnBmLW9Kei1R?oc=5) (The New York Times)
