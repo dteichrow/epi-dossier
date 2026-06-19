@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-19
-Generated at: 2026-06-19T03:08
+Generated at: 2026-06-19T03:11
 Search window: 7 day(s) ending 2026-06-19
 
 ## Executive scan
@@ -12,10 +12,17 @@ Search window: 7 day(s) ending 2026-06-19
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa; 2026-06-17T19:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (160), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (160), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
+- Newly tracked story cluster: 30 item(s) across 28 source(s).
+- Baseline snapshot created with 30 clustered item(s) across 28 source(s).
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- CDC MMWR now foregrounds vaccination or vaccine policy in the story.
+
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News)
 - Newly tracked story cluster: 9 item(s) across 9 source(s).
@@ -28,12 +35,6 @@ Search window: 7 day(s) ending 2026-06-19
 - Newly tracked story cluster: 132 item(s) across 101 source(s).
 - Baseline snapshot created with 132 clustered item(s) across 101 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
-### Measles transmission and vaccination
-- Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 30 item(s) across 28 source(s).
-- Baseline snapshot created with 30 clustered item(s) across 28 source(s).
-- CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
 - Lead item: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search)
@@ -60,16 +61,16 @@ Search window: 7 day(s) ending 2026-06-19
 ### Measles transmission and vaccination
 - Topic size: 30 item(s) across 28 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
-- Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
-- Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://www.wsj.com/us-news/us-measles-elimination-status-outbreak-71d0d2ab) (WSJ); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://mshale.com/eea51186/7422781avHOwYMJyl4s) (Mshale)
+- Detailed note: Since the outbreak began in January 2025, a total of 43 deaths have been confirmed for the 2025–2026 period, distributed across 11 states: Chihuahua 21, Jalisco 5, Zacatecas 5, Mexico City 4, Durango 2, Chiapas 1, Guerrero 1, Michoacán 1, Sinaloa 1, Sonora 1, and Tlaxcala 1. Based on data from the Special Surveillance System for Febrile Rash Illnesses (EFE)—and considering the date of rash onset—42,813 cases of...
+- Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Mexico reports 3 additional measles deaths in Zacatecas and Mexico City](https://outbreaknewstoday.substack.com/p/mexico-reports-3-additional-measles) (Outbreak News Today); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://www.wsj.com/us-news/us-measles-elimination-status-outbreak-71d0d2ab) (WSJ)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 9 item(s) across 8 source(s); 1 official/primary-source item(s).
 - Lead item: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search, 2026-06-18T00:00)
-- Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Fatality was 3.2%, with 60% due to undifferentiated fever and 40% due to leptospirosis-associated multi-organ dysfunction.
-- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India); [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://news.google.com/rss/articles/CBMif0FVX3lxTE96S2hNUHlPcmtsMExQRk9adXE4X0k5RkVCNjc3N3h3TFRnNFkyOTk0aG5YUkM0bGNkZ3F1d1RBSHBDcXdfa19QZlZxU3RRcXN1SkFwazZNT0JjMjF6MUpZYzJQcVM2ak5CbDFHdi1Hc0dpU2twRldfNnFRVE41aTA?oc=5) (Outbreak News Today); [Delhi Records 162 Dengue Cases Before Monsoon; Health Experts Stress Early Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zb2t4djZLdGtfaWU4WGp4THpHRzV0SXpER3FRdWZMX1N6b0RSZlVJWnJGNjZsRXZfeTMyODVvT0ZQRjN2WmxHUXNlOE1NdVFMN0daSHN0ZmxoZGNxWHRfMVRQZlNNQ3dhTEcxMjVUVW9BcTRZWVdFY3pZNA?oc=5) (Live India)
+- Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Since the beginning of the year, Kerala has reported 3,565 confirmed and 10, 428 probable cases of dengue. Fatality was 3.2%, with 60% due to undifferentiated fever and 40% due to...
+- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://news.google.com/rss/articles/CBMif0FVX3lxTE96S2hNUHlPcmtsMExQRk9adXE4X0k5RkVCNjc3N3h3TFRnNFkyOTk0aG5YUkM0bGNkZ3F1d1RBSHBDcXdfa19QZlZxU3RRcXN1SkFwazZNT0JjMjF6MUpZYzJQcVM2ak5CbDFHdi1Hc0dpU2twRldfNnFRVE41aTA?oc=5) (Outbreak News Today); [Delhi Records 162 Dengue Cases Before Monsoon; Health Experts Stress Early Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zb2t4djZLdGtfaWU4WGp4THpHRzV0SXpER3FRdWZMX1N6b0RSZlVJWnJGNjZsRXZfeTMyODVvT0ZQRjN2WmxHUXNlOE1NdVFMN0daSHN0ZmxoZGNxWHRfMVRQZlNNQ3dhTEcxMjVUVW9BcTRZWVdFY3pZNA?oc=5) (Live India)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -448,6 +449,8 @@ Search window: 7 day(s) ending 2026-06-19
   Limited detail was available from feed metadata alone.
 - [Ebola cases increase almost 40% in a week as death toll passes 200](https://apnews.com/article/congo-uganda-ebola-bundibugyo-cdc-cases-18d3129c8d5e3a0641ba330549a48a8a) | AP News | 2026-06-18T22:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) | Outbreak News Today | 2026-06-18T21:25+00:00 | Outbreaks and emerging infections
+  Since the beginning of the year, Kerala has reported 3,565 confirmed and 10, 428 probable cases of dengue. 17 dengue deaths have been reported to date. Epidemiological data from the Kerala Directorate of Health Services (DHS) indicates that the highly virulent DENV-2 strain remains the dominant cause of infection in the state, alongside significant circulation of DENV-1, DENV-3, and DENV-4.
 - [Ebola outbreak in Uganda, DR Congo hits 894 cases, 204 deaths](https://punchng.com/ebola-outbreak-in-uganda-dr-congo-hits-894-cases-204-deaths/) | Punch Newspapers | 2026-06-18T20:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Death toll from Ebola surpasses 200 in DR Congo as officials assess response](https://www.anews.com.tr/africa/2026/06/18/death-toll-from-ebola-surpasses-200-in-dr-congo-as-officials-assess-response) | A News | 2026-06-18T19:47+00:00 | Outbreaks and emerging infections
@@ -465,8 +468,6 @@ Search window: 7 day(s) ending 2026-06-19
 - [Woman, returning from South Sudan, isolated in Kerala over suspected Ebola infection](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWZJcXJLQTlKODNraDlGTnc3UW5oSnVzT0RXM2EtSDdINU9EZ2pKeWZOR21iUGlKVzROOVhoeW5tMnE0YTQyNUt3WVpKQnZHeG9JVno0Sjdhc3lyYm5KR05vb0gwdkZsMm42Z2F5dko4b2pDRUpBb0F3aHU3THk4c1ltU1RET0pqcVdIbGlpMWF3VDJDZTI2amhNZmtCUkJoVnlCc0k4eWYzaEg4UTJuRnVpMW9KbnFwLU9ZOUpKMG8yV0xlM0tMV0VGZFNMVXFMN3BoMXhJWFM1VU5ZbThvX0ptenJkY2JfVHfSAeoBQVVfeXFMTk1mSXFyS0E5Sjgza2g5Rk53N1FuaEp1c09EVzNhLUg3SDVPRGdqSnlmTkdtYlBpSlc0TjlYaHlubTJxNGE0MjVLd1laSkJ2R3hvSVZ6NEo3YXN5cmJuSkdOb29IMHZGbDJuNmdheXZKOG9qQ0VKQW9Bd2h1N0x5OHNZbVNURE9KanFXSGxpaTFhd1QyQ2UyNmpoTWZrQlJCaFZ5QnNJOHlmM2hIOFEybkZ1aTFvSm5xcC1PWTlKSjBvMldMZTNLTFdFRmRTTFVxTDdwaDF4SVhTNVVOWW04b19KbXpyZGNiX1R3?oc=5) | India Today | 2026-06-18T07:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kerala woman from Sudan with suspected Ebola symptoms hospitalised in Kottayam Medical College](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX25jTjkyWGpLci1temt0RVNMQmpOZWl1WElzN3lHdENESko2V3NlNjZXb0hYQjBCZkZ5YXVuM3BaTE51dVJXN3ltVWMzaG1udlVlTVFPbDBvSmZNMVJrd0lHM0NCUG10RjVyVk45MjZhSjd0c01laV9SVUNCT2JZdVc2TzktLUtMN0FpTmtGS1BlR2dfcjdNMy1QOF9ucWhLNXBzVXZSNjNoVVgxNjAyYnJaUWJNbUotVDR6RE1ocVhWZWlvUzVhaWdlUVdUZTZkeEVCSnY2Wl8zYUUwako1eGxlbndRUTNE0gH2AUFVX3lxTE1kbEF6RFZFLUFmckRQUFRYZlMta1ZmUmxELUF2NHBGOHpFZFJ6YThPalpJNFFTN2xwdG54aEYyMkctNDI3ODRmMFVqM0d5UlVoRFpJaXRVb0hRVDA5bGdaZEJUeml0WnN4M2hwQ1NOZ0UzVk42ZUdLYjhEM0VadDZ5TThHblZoNHJ0MVV5WWxFZnl3bzdXbDVVa0JxVXFZWkx5Vlp0UGdZVUxobXBuMkFtMFM5aVp2NjRHbnF0MkxaRTNaT05xeFNyUHFvNXhLV29lemZQR0Z0cklnM0lqWW03WWRLSGdoMEpaQ1h6U2RBSXVvb2tOQQ?oc=5) | The New Indian Express | 2026-06-18T06:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Suspected case of Ebola in Kerala: Woman from South Sudan under isolation in Kottayam Medical College](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZHdmNTk2N2NfeVQwWFhiOTNhUUlQclVkc1c5WGYtcEpzWk0yaVB3aU9PUXU0Vm5Kck53X293dkVfUGo1OE9LZ1RmMldWV01zZmVCQW50NTdiN1lDMTRnN25fQm1hMERPaXNfNmRCMXV3cGdBQVRJX0NUMFBFTkVYQ1hqb2dqOVBKQUdaVG1IRERYRzdWUERLN1pOcUUwUkFJd3VaMU56aVRLZWxpb0cyajZnNTQtcUpKRnVfM2JBeHFMSHhVREUyUtIByAFBVV95cUxQZHdmNTk2N2NfeVQwWFhiOTNhUUlQclVkc1c5WGYtcEpzWk0yaVB3aU9PUXU0Vm5Kck53X293dkVfUGo1OE9LZ1RmMldWV01zZmVCQW50NTdiN1lDMTRnN25fQm1hMERPaXNfNmRCMXV3cGdBQVRJX0NUMFBFTkVYQ1hqb2dqOVBKQUdaVG1IRERYRzdWUERLN1pOcUUwUkFJd3VaMU56aVRLZWxpb0cyajZnNTQtcUpKRnVfM2JBeHFMSHhVREUyUg?oc=5) | Onmanorama | 2026-06-18T04:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
