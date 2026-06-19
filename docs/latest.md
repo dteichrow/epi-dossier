@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-18
-Generated at: 2026-06-18T22:16
+Generated at: 2026-06-18T22:32
 Search window: 7 day(s) ending 2026-06-18
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-18
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa; 2026-06-17T19:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (160), Policy, surveillance, and public health infrastructure (16), Historical epidemiology / ancient disease / paleopathology (3)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (120), Policy, surveillance, and public health infrastructure (16), Historical epidemiology / ancient disease / paleopathology (3)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -25,14 +25,14 @@ Search window: 7 day(s) ending 2026-06-18
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 129 item(s) across 96 source(s).
-- Baseline snapshot created with 129 clustered item(s) across 96 source(s).
+- Newly tracked story cluster: 101 item(s) across 76 source(s).
+- Baseline snapshot created with 101 clustered item(s) across 76 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 28 item(s) across 27 source(s).
-- Baseline snapshot created with 28 clustered item(s) across 27 source(s).
+- Newly tracked story cluster: 16 item(s) across 15 source(s).
+- Baseline snapshot created with 16 clustered item(s) across 15 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-18
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 129 item(s) across 96 source(s); 6 official/primary-source item(s).
+- Topic size: 101 item(s) across 76 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [AIRA Infodemic Trends Report 1–15 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-1-15-may-2026) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-06-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 28 item(s) across 27 source(s); 3 official/primary-source item(s).
+- Topic size: 16 item(s) across 15 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [U.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark](https://www.wsj.com/us-news/us-measles-elimination-status-outbreak-71d0d2ab) (WSJ); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://mshale.com/eea51186/7422781avHOwYMJyl4s) (Mshale)
@@ -68,8 +68,8 @@ Search window: 7 day(s) ending 2026-06-18
 ### Dengue and arboviruses
 - Topic size: 11 item(s) across 9 source(s); 1 official/primary-source item(s).
 - Lead item: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search, 2026-06-18T00:00)
-- Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Since the beginning of the year, Kerala has reported 3,565 confirmed and 10, 428 probable cases of dengue. Fatality was 3.2%, with 60% due to undifferentiated fever and 40% due to...
-- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today); [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://news.google.com/rss/articles/CBMif0FVX3lxTE96S2hNUHlPcmtsMExQRk9adXE4X0k5RkVCNjc3N3h3TFRnNFkyOTk0aG5YUkM0bGNkZ3F1d1RBSHBDcXdfa19QZlZxU3RRcXN1SkFwazZNT0JjMjF6MUpZYzJQcVM2ak5CbDFHdi1Hc0dpU2twRldfNnFRVE41aTA?oc=5) (Outbreak News Today)
+- Detailed note: Etiologies included undifferentiated fever (38.5%), dengue (33.1%), scrub typhus (10.2%), leptospirosis (7.6%), malaria (5.1%), and alternate diagnoses (6.4%), with seasonal peaks during monsoon (June to October). Fatality was 3.2%, with 60% due to undifferentiated fever and 40% due to leptospirosis-associated multi-organ dysfunction. Red-alert clusters are high-risk areas where 10 or more cases have been recorded.
+- Evidence notes: [Leptospirosis is associated with severity, increased resource utilization, and mortality among acute febrile illnesses from Karnataka, Southwestern India.](https://pubmed.ncbi.nlm.nih.gov/42311109/) (PubMed Infectious Disease Search); [119 dengue cases recorded in Singapore in second week of June, highest so far in 2026](https://www.straitstimes.com/singapore/119-dengue-cases-recorded-in-singapore-in-second-week-of-june-highest-so-far-in-2026) (The Straits Times); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India); [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) (Outbreak News Today); [Sri Lanka dengue outbreak grows, a Special Dengue Prevention Week declared this week](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-grows-a) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -442,11 +442,7 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [World Cup puts Ebola outbreak and pandemic lessons to the test](https://www.scmp.com/news/us/article/3357624/world-cup-puts-ebola-outbreak-and-pandemic-lessons-test) | South China Morning Post | 2026-06-18T21:30+00:00 | Outbreaks and emerging infections
   Experts say slow responses, aid cuts and misinformation expose gaps in global health defences despite Covid lessons Alex Doran, a 28-year-old corporate strategist, is cheering for the US national team and was pleasantly surprised by the size of its initial win against Paraguay last week, while acknowledging that his team is unlikely to go all the way. “But that’s also what makes it exciting.” Any concerns about being around so many people, however, did not extend to the recent Ebola outbreak. While he does not expect to attend a match in person involving tickets costing thousands of US dollars, he has been watching avidly online and hopes to see some matches at fan zones set up around Washington.
-- [India: Kerala reports uptick in dengue](https://outbreaknewstoday.substack.com/p/india-kerala-reports-uptick-in-dengue) | Outbreak News Today | 2026-06-18T21:25+00:00 | Outbreaks and emerging infections
-  Since the beginning of the year, Kerala has reported 3,565 confirmed and 10, 428 probable cases of dengue. 17 dengue deaths have been reported to date. Epidemiological data from the Kerala Directorate of Health Services (DHS) indicates that the highly virulent DENV-2 strain remains the dominant cause of infection in the state, alongside significant circulation of DENV-1, DENV-3, and DENV-4.
 - [Ebola outbreak in Uganda, DR Congo hits 894 cases, 204 deaths](https://punchng.com/ebola-outbreak-in-uganda-dr-congo-hits-894-cases-204-deaths/) | Punch Newspapers | 2026-06-18T20:09+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Death toll from Ebola surpasses 200 in DR Congo as officials assess response](https://www.anews.com.tr/africa/2026/06/18/death-toll-from-ebola-surpasses-200-in-dr-congo-as-officials-assess-response) | A News | 2026-06-18T19:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases increase almost 40% in a week as death toll passes 200](https://www.statnews.com/2026/06/18/ebola-outbreak-congo-uganda-cases-increase-death-toll/) | statnews.com | 2026-06-18T16:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,8 +452,6 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [Kerala woman hospitalised over suspected Ebola infection after return from South Sudan](https://www.theweek.in/news/health/2026/06/18/kerala-woman-hospitalised-over-suspected-ebola-infection-after-return-from-south-sudan.html) | theweek.in | 2026-06-18T11:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Rapid response experts deployed to support Ebola outbreak response in DRC](https://www.nationalhealthexecutive.com/articles/rapid-response-experts-deployed-support-ebola-outbreak-response-drc) | National Health Executive | 2026-06-18T10:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Woman, Who Travelled From South Sudan, Isolated In Keralam With Suspected Ebola Symptoms](https://www.news18.com/india/woman-who-travelled-from-south-sudan-isolated-in-keralam-with-suspected-ebola-symptoms-ws-l-10158208.html) | News18 | 2026-06-18T08:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Woman, returning from South Sudan, isolated in Kerala over suspected Ebola infection](https://www.indiatoday.in/amp/india/story/kerala-ebola-scare-woman-returning-south-sudan-isolated-tested-fever-kottayam-medical-college-2928902-2026-06-18) | India Today | 2026-06-18T07:31+00:00 | Outbreaks and emerging infections
@@ -466,7 +460,13 @@ Search window: 7 day(s) ending 2026-06-18
   Limited detail was available from feed metadata alone.
 - [Suspected case of Ebola in Kerala: Woman from South Sudan under isolation in Kottayam Medical College](https://www.onmanorama.com/health/healthcare/2026/06/18/foreign-woman-in-kerala-suspected-of-ebola-infection-under-isolation.html) | Onmanorama | 2026-06-18T04:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [G7 Pledges Coordinated Action Against Ebola Outbreak in DR Congo and Uganda](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1lrb1lkU0FUUnFLNlZwWl9tR0dYVHp5MzVNdnlVMFBuLXItVmk1emxYcVJmbUdDbzk3N0ZlcVRXY3J2Z1VjQkJ4eVBoOU5seGdHYkZQb1NaOEVmaGxKLTF1Y3B0N3M2Vi1yQ2ZxXzBndXJWU2d0NDVkbjhTSzZrN1hYaXNHNFBKVDNhd1E5RmhkZWQwTVRWbkw2U0k0cm1NZ0xMZXJMeFE2S3hZNmZHaVpaVQ?oc=5) | Medafrica Times | 2026-06-18T00:06+00:00 | Outbreaks and emerging infections
+- [G7 Pledges Coordinated Action Against Ebola Outbreak in DR Congo and Uganda](https://medafricatimes.com/45887-g7-pledges-coordinated-action-against-ebola-outbreak-in-dr-congo-and-uganda.html) | Medafrica Times | 2026-06-18T00:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [People fleeing conflict in Congo complicate efforts to stop Ebola outbreak](https://www.cbsnews.com/news/congo-efforts-to-stop-ebola-outbreak/) | CBS News | 2026-06-17T22:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [A 16-month-old and his mother recover from Ebola in rare good news from outbreak in Congo](https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2tWMlo1YVVfeUVnWG5ZbEhQRzFzVWRDNTlscWtGdHUya2ItTTdWMEFvS3g0VHVTOEhsT3RUWlp1N2JWeC14RzFTNlRaOEZtbFJDUG0zTG9QZjBoTnZqV0RINW51Q0JfSEQ1dzJCQXdtckpUTFU3c1VKeXlHMjdWZA?oc=5) | Medical Xpress | 2026-06-17T16:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak could become worst in history as thousands not being traced](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2xBcjZxd1JBNWQyT3prNjZCX3BnTmFqU3BqdGMwUktWNm5nUkhSQzVKU1VrcjNwMEhrbzF5LVR1QW5OV09XaDF1cDV4RGJGaDVXTkxQc1ZxUG1MRjZqSmFFM2tKUVdMcFBZQnhmWjdCOXRmQWpjRS1iRENaV3pzaXhaRVFvemdUMWFEWDlRYnoyV1ZjZzN2UXZsVHMxNmYwYWoycXlxOXBGWkNpbHJkSw?oc=5) | France 24 | 2026-06-17T09:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
