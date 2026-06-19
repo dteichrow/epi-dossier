@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 23 clustered item(s) across 22 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 45 clustered item(s) across 39 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -625,15 +625,7 @@
       "reference_name": "Avian influenza A(H5N1)",
       "reference_url": "reference/avian-influenza-a-h5n1.html",
       "reference_web_path": "reference/avian-influenza-a-h5n1.html",
-      "related_stories": [
-        {
-          "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 23 clustered item(s) across 22 source(s).",
-          "story_id": "story_0cc2d5322bc76f8f",
-          "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
-          "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 3,
       "slug": "avian-influenza-h5n1",
       "spread_routes": [
@@ -703,7 +695,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Bird flyways, poultry systems, mammalian spillover, and farm-interface risk",
       "summary": "H5N1 belongs in the atlas because its contemporary geography is not a human epidemic map first; it is a bird-route, farm-system, and spillover map whose human layer remains contingent.",
       "variant_count": 0,
@@ -1873,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-19T12:16:52",
-  "run_id": "run_379265153b9ebb7a"
+  "generated_at": "2026-06-19T12:30:52",
+  "run_id": "run_a77d1c303a1d03c5"
 }
