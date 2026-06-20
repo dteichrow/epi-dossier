@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-20
-Generated at: 2026-06-20T10:00
+Generated at: 2026-06-20T10:11
 Search window: 7 day(s) ending 2026-06-20
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-20
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (172), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 30 item(s) across 25 source(s).
-- Baseline snapshot created with 30 clustered item(s) across 25 source(s).
+- Newly tracked story cluster: 19 item(s) across 18 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 18 source(s).
 - Avian Flu Diary now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-06-20
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 144 item(s) across 116 source(s).
-- Baseline snapshot created with 144 clustered item(s) across 116 source(s).
+- Newly tracked story cluster: 142 item(s) across 115 source(s).
+- Baseline snapshot created with 142 clustered item(s) across 115 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Historical epidemiology and ancient pathogens
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-06-20
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 144 item(s) across 116 source(s); 4 official/primary-source item(s).
+- Topic size: 142 item(s) across 115 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Officials say the Ebola outbreak in Democratic Republic of Congo outpaces the response](https://www.npr.org/2026/06/20/nx-s1-5862838/officials-say-the-ebola-outbreak-in-democratic-republic-of-congo-outpaces-the-response) (NPR)
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-06-20
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 30 item(s) across 25 source(s); 3 official/primary-source item(s).
+- Topic size: 19 item(s) across 18 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Arizona's measles outbreak is over, but it's a different case in Utah](https://www.azcentral.com/story/news/local/arizona-health/2026/06/19/arizona-measles-outbreak-officially-over/90607459007/) (azcentral.com and The Arizona Republic); [Concerns Over Rising Measles Cases In SA: Foster Mohale Makar (lpiKsrfOJW)](https://mshale.com/eea51186/7422781avHOwYMJyl4s) (Mshale)
@@ -439,7 +439,7 @@ Search window: 7 day(s) ending 2026-06-20
   At least 30 people have died since the start of May in one camp for displaced citizens in the northeast of the Democratic Republic of Congo (DRC), with some confirmed to have died from Ebola, in a sign the disease could be spreading quickly there.
 - [DR Congo's deadly Ebola outbreak is 'evolving fast', WHO warns](https://www.modernghana.com/news/1504091/dr-congos-deadly-ebola-outbreak-is-evolving-fast.html) | Modern Ghana | 2026-06-20T09:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Relatives storm Ebola treatment centre in eastern DR Congo | #AJ shorts](https://www.modernghana.com/videonews/aljazeera/1/669221) | Modern Ghana | 2026-06-20T08:16+00:00 | Outbreaks and emerging infections
+- [Mourners bury a 6-month-old Ebola victim in the Congo outbreak’s third orphanage death](https://krmg.com/2026/06/19/mourners-bury-a-6-month-old-ebola-victim-in-the-congo-outbreaks-3rd-orphanage-death/) | 102.3 KRMG | 2026-06-20T06:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Survivors share lessons from Congo's 2018 Ebola outbreak](https://www.thestar.com.my/lifestyle/living/2026/06/20/survivors-share-lessons-from-congo039s-2018-ebola-outbreak) | The Star | 2026-06-20T02:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -447,21 +447,21 @@ Search window: 7 day(s) ending 2026-06-20
   Limited detail was available from feed metadata alone.
 - [Another orphan dies from Ebola as Congo outbreak spreads](https://www.pbs.org/newshour/world/another-orphan-dies-from-ebola-as-congo-outbreak-spreads) | PBS | 2026-06-19T19:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Mourners bury a 6-month-old Ebola victim in the Congo outbreak's 3rd orphanage death](https://www.ksat.com/health/2026/06/19/mourners-bury-a-6-month-old-ebola-victim-marking-third-orphanage-death-as-congo-outbreak-spreads/) | KSAT | 2026-06-19T18:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) | Reuters | 2026-06-19T16:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) | Reuters | 2026-06-19T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola outbreak 'remains serious' with nearly 900 cases, WHO says](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMi1wT0dPbTVNUkVlVnA3M3NGR1lrUlR0TXVDdmxJbGxiZUZHRDk0YU9RTTRVMjdadGhUQno3dnFqRXUyOXZVaTFvUFRJTnI2Mks0OHlYcXMtR3Y5RU9DSTQ3T3ZvVjFnc3NPOVJtMVJhcWg0MzNxRXZVTFp5Sk5RY0lyTElBMmxUa3Boa1ZVQVNUcFR1U2xnb1JfajdrUl9OZ0Q2YmxQdXpoc2s?oc=5) | Anadolu Ajansı | 2026-06-19T13:33+00:00 | Outbreaks and emerging infections
+- [Congo Ebola outbreak 'remains serious' with nearly 900 cases, WHO says](https://www.aa.com.tr/en/health/congo-ebola-outbreak-remains-serious-with-nearly-900-cases-who-says/3972187) | Anadolu Ajansı | 2026-06-19T13:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [More than 70 Congo medics infected with Ebola since outbreak started, WHO says](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeU10VXJmdVJ3S3JKc1NjQnhpUm1SRjVSTnMzSkgwQndoQ3FVOUNXT2x5Q0lKYTF6MW1MZ09nc0pyQl8yVWY3aFlfU20yRTY3YWxwWVFhUzRLRlZLQ0pUcXlmUU9lZm52T1lNVFdZSU5JV0haNTd1U1VFbEh1dU45S3Y5Y2RYa1UtTUtVeGk2UlZwTjNwaVlTMkYxTzgtM2poeTA2a2I5eGVZZEtLOFN4RkNjc1Z4VHJpbVZSa01FUVdXbmNNTDItZjUzREFrUjY3WHRJMU1hVFVJMFpPc0Frc2dHQQ?oc=5) | Reuters | 2026-06-19T12:47+00:00 | Outbreaks and emerging infections
+- [More than 70 Congo medics infected with Ebola since outbreak started, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/more-than-70-congo-medics-infected-with-ebola-since-outbreak-started-who-says-2026-06-19/) | Reuters | 2026-06-19T12:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola death toll in DRC and Uganda passes 200 as funding pledges fall short](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVpad1VsNFhBUXRQeEFxdmJJRmRUbmhPSnNaaThzbWFOamZwbWlmZGIxellfeXoyc3IzWF9hazJtMTZ2OHlMYmU4UTdlbUF5dU1ma3N6akFSS29WZm1acVhFUGVTOGx0ZjlQZklkTTVwZVc0c21UTm9WZEtjYjh0MW01T2l0bjZjU1lhb0Y3UGxVbWdxVFRmX2thUFZ0X0hmbGFfaTNJelVqNWQ3cl9mc0pyWQ?oc=5) | RFI | 2026-06-19T11:23+00:00 | Outbreaks and emerging infections
+- [Ebola death toll in DRC and Uganda passes 200 as funding pledges fall short](https://www.rfi.fr/en/africa/20260619-ebola-death-toll-in-drc-and-uganda-passes-200-as-funding-pledges-fall-short) | RFI | 2026-06-19T11:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Arizona's measles outbreak is over, but it's a different case in Utah](https://www.azcentral.com/story/news/local/arizona-health/2026/06/19/arizona-measles-outbreak-officially-over/90607459007/) | azcentral.com and The Arizona Republic | 2026-06-19T11:03+00:00 | Outbreaks and emerging infections
   Arizona's measles outbreak is over, but it's a different case in Utah azcentral.com and The Arizona Republic
 - [Doctor treating Ebola patients describes challenges health workers face at home and treatment center](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZldlSVc1TXlYSVdRMGNzVFpjVy0tcmY2NjdFZC1Oa1BfYXhCMkU5NHpHMmYwaEhCanNHRElpbjRRTlJpWmtDLVFNNmF3QUp4NHFGS1hpdm5RWVh5WHlnYklzZUVMTTJOeDdsYXNLZk1KTUFSaENMdmluRkltTmE2bFppZnp1RDZ3ZGlVUVptZ2hlNEJIOWsxQllhYXF1bWR1RmRnMHg5RTJvandndDcyYS0zTWNSWjhnbG91WXp3Z3FvQXZOTW0yVDB2VGNtdFRlYmJYajhPZ0k1VU5kZE0wUW15clNhc25mNXlWTDNaRQ?oc=5) | AP News | 2026-06-19T07:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) | The Guardian | 2026-06-19T06:55+00:00 | Virology and pathogen evolution
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
