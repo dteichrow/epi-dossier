@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-19
-Generated at: 2026-06-19T22:11
+Generated at: 2026-06-19T22:16
 Search window: 7 day(s) ending 2026-06-19
 
 ## Executive scan
@@ -12,10 +12,17 @@ Search window: 7 day(s) ending 2026-06-19
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (163), Policy, surveillance, and public health infrastructure (19), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (161), Policy, surveillance, and public health infrastructure (19), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
+- Newly tracked story cluster: 29 item(s) across 27 source(s).
+- Baseline snapshot created with 29 clustered item(s) across 27 source(s).
+- Avian Flu Diary now includes deaths or fatal cases in the story frame.
+- CDC MMWR now foregrounds vaccination or vaccine policy in the story.
+
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News)
 - Newly tracked story cluster: 12 item(s) across 12 source(s).
@@ -36,12 +43,6 @@ Search window: 7 day(s) ending 2026-06-19
 - Baseline snapshot created with 136 clustered item(s) across 108 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
-### Measles transmission and vaccination
-- Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 31 item(s) across 29 source(s).
-- Baseline snapshot created with 31 clustered item(s) across 29 source(s).
-- CDC MMWR now foregrounds vaccination or vaccine policy in the story.
-
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
@@ -59,7 +60,7 @@ Search window: 7 day(s) ending 2026-06-19
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 31 item(s) across 29 source(s); 3 official/primary-source item(s).
+- Topic size: 29 item(s) across 27 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Arizona's measles outbreak is over, but it's a different case in Utah](https://www.azcentral.com/story/news/local/arizona-health/2026/06/19/arizona-measles-outbreak-officially-over/90607459007/) (azcentral.com and The Arizona Republic); [Sudan reports new cholera and measles cases amid mixed health indicators](https://sudantribune.com/article/315148) (Sudan Tribune)
@@ -455,7 +456,9 @@ Search window: 7 day(s) ending 2026-06-19
   Limited detail was available from feed metadata alone.
 - [The vaccines and treatments being developed for Ebola outbreak](https://www.japantimes.co.jp/news/2026/06/19/world/science-health/ebola-treatments-explainer/) | The Japan Times | 2026-06-19T01:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo (DRC) and Uganda](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTndyYlpydzl1d19mMUFhMU9tTFVLYUlSenYxZkMxVVNCc2hDc053MldJVFQwZTNpZkVGV2VEVlo2QUp3Q1kzZEhwLWU0RnVIQlRWcUJ4bk10N0hHbl9MR19MWUtoaW0wWGVTYXRwQWJhRWF4RlgybHdfTzdQUzZmcjBHdUxUaWxxRjhyRE5nRmVfRWZhTExvb0N1OVp1THdKb28xZTJ2RXF5MnZYVjNtNFkxMnA?oc=5) | Africa.com | 2026-06-18T23:03+00:00 | Outbreaks and emerging infections
+- [Ebola Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo (DRC) and Uganda](https://africa.com/ebola-bundibugyo-virus-disease-outbreak-in-the-democratic-republic-of-the-congo-drc-and-uganda/) | Africa.com | 2026-06-18T23:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola cases increase almost 40% in a week as death toll passes 200](https://apnews.com/article/congo-uganda-ebola-bundibugyo-cdc-cases-18d3129c8d5e3a0641ba330549a48a8a) | AP News | 2026-06-18T22:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Uganda, DR Congo hits 894 cases, 204 deaths](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFpNMUhERUJ4RlZoZkY1T21nczFueUVxbXhpYlV1eENZVkZMandCaUlXaGQ3Y21aRDJfcVB2cTFuMkNuRF9sTlh0c3gyY3BSSTROQXFIejRMMzdkQl93MkZXR1lRYnZrWlY4Szk3VENjeFA1czJwTy1UZ0Z1SHZ6LXhVSF9YX0E?oc=5) | Punch Newspapers | 2026-06-18T20:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -466,8 +469,6 @@ Search window: 7 day(s) ending 2026-06-19
 - [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #2 - 18 June 2026](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUpiVE9qSzIxZXdxaGxwX25McWVBSGZPa2FwTk1RWldvNzNNdkFTbFpFeklsYTVabzRRQTNsUG91WGhVYzZOYWI5TFZsSUpQNzgxaElBUTVmckdQSFRWQ0kyQTNzOTkwREgxN2w3eXc4Zkg3OEllcmxuZ0M0U2NNQzdpQW52SF9FYUY1X3U3ekNuTDZSeGpWeWdTLTBYY3p2WS1sVUwyT2hxdUJrT2R1Rmk5RlZ4ZzZBN05FRzhrWENGM1RuMk5VY1U1TmJYblFMWEQ0?oc=5) | ReliefWeb | 2026-06-18T18:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Woman returning from South Sudan under observation for suspected Ebola in Kerala's Kottayam](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUNiSjBtNk5pSkpDV2dhZmV4QW1scDlNUXNxZUozWEFZeVZtY3BEUmlseUtoNHl1c2p4cXN1dmx5SzBKeDNlUVNVN1JMYlIwR2hTQUllU1Y5SGItVGYyanRSYzZYQzNqM2hJNzZGeHl5enl3ek1MM2UyQXVtSzJSVjg3c0RMMjRNQk1hUWJUbVkwakZLNVhoaXBtZXpCQl80bU9WZG1Ba3NXTzhjLVd6WkFERlRaeU5ucjB1Q0dXc052QQ?oc=5) | The South First | 2026-06-18T14:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kerala woman hospitalised over suspected Ebola infection after return from South Sudan](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmJLampZak9KR0tmQi1BZTRLdXBJdW5MaWtJZFdxMEcxbk1ROE5qNVgwczBKVWpNMUlmekNmSDRpN2ZkbkFmeWxaTGhUME44Z3k0dUo3Mk1fZUIyeklWMF9tcURSUGl1QkVjWlpBcHdTaWVnZ2VFd21sSDA3UVJWdlIxMlNSLVhTbi00SmZ1WjJXWVl6ZkpWUHlySDVoOVVkMHU5eGRVbzQ2V2VjaHZtdmpZNXhBSTBaZ2JNWEcyVEF5WFlsa2VpNTY0NlZUeGphcFpz0gHYAUFVX3lxTE5UbGNULUs5cVFTQ3lhT1VQc2hPcko4eElpdmUzeF9oTFNoTnMtdVp5YVRZdEVITkhQZE5NWDJQS0FCRWg4bTN0TlBla1hHcXZkUE9ZX002cUxqTnZxZHZOZ2JoV01wdksxNGU3US1tNkVYLWtiWW1wbVJMVnBhT3ZEb0Q2bUtGSktyWTQ0LUJ4NUpjaTVrWGJPMFJRa0h0RGwxYXBtblhhTVNaM1M4dnNJR0RsUy1BYkR1TXU0OEtCMTFaSVZ0VEg2WmhQWE9COEc1SnVQXzhESw?oc=5) | theweek.in | 2026-06-18T11:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
