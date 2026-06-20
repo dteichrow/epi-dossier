@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-20
-Generated at: 2026-06-20T01:37
+Generated at: 2026-06-20T01:41
 Search window: 7 day(s) ending 2026-06-20
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-20
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (161), Policy, surveillance, and public health infrastructure (19), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (20), Historical epidemiology / ancient disease / paleopathology (2)
+- Source health: 2 source(s) failed during collection: USDA APHIS Avian Influenza, California Department of Public Health News.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -25,15 +25,21 @@ Search window: 7 day(s) ending 2026-06-20
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 140 item(s) across 113 source(s).
-- Baseline snapshot created with 140 clustered item(s) across 113 source(s).
+- Newly tracked story cluster: 140 item(s) across 112 source(s).
+- Baseline snapshot created with 140 clustered item(s) across 112 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 25 item(s) across 23 source(s).
-- Baseline snapshot created with 25 clustered item(s) across 23 source(s).
+- Newly tracked story cluster: 23 item(s) across 21 source(s).
+- Baseline snapshot created with 23 clustered item(s) across 21 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
+
+### Avian influenza and H5N1
+- Lead item: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies)
@@ -44,7 +50,7 @@ Search window: 7 day(s) ending 2026-06-20
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 140 item(s) across 113 source(s); 4 official/primary-source item(s).
+- Topic size: 140 item(s) across 112 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Relatives storm Ebola treatment centre in eastern DR Congo | #AJ shorts](https://www.modernghana.com/videonews/aljazeera/1/669221) (Modern Ghana)
@@ -52,7 +58,7 @@ Search window: 7 day(s) ending 2026-06-20
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 25 item(s) across 23 source(s); 3 official/primary-source item(s).
+- Topic size: 23 item(s) across 21 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Arizona's measles outbreak is over, but it's a different case in Utah](https://www.azcentral.com/story/news/local/arizona-health/2026/06/19/arizona-measles-outbreak-officially-over/90607459007/) (azcentral.com and The Arizona Republic); [Christians Help Battle Measles Outbreak in Bangladesh](https://www.christianitytoday.com/2026/06/bangladesh-measles-crisis/) (Christianity Today)
@@ -66,6 +72,14 @@ Search window: 7 day(s) ending 2026-06-20
 - Evidence notes: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVhyTml2LVluTkoybUtPM2J3OVRxc0RWX20yZkZDdHlxcFAwdVRyVG13bXJPdkRPbFFXNklGT3RXVFZhSWw5d3FMWUxwR01fSUhLSl9hdVRCT3oxUS1mbUhkNjZ3OWJ4anRxeEg0ZnNEMW1aa3JVNTczQlVPWEZQeUNFa09vT2cxWGppdGhQZEd5WGE5TC0xRW1TWFRCUkZ2eWtPNHJGaU5zZGZ0QmZ0MFlQRi1ONVEyV2VnTjBnWHdaUUE?oc=5) (Reuters); [Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5) (The Washington Post); [RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5) (CNN)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Avian influenza and H5N1
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian, 2026-06-19T06:55+00:00)
+- Detailed note: Also last month, in Eurosurveillance: Cross-reactive human antibody responses to H9N2 influenza virus, New York, United States, 2025 , we saw that ` pre-existing immunity to H9N2 in humans that is dominated by cross-reactive but largely non-neutralising antibodies , with a greater contribution from NA-directed responses.' Last month, in Preprint: Outbreak of H9N2 Avian Influenza Viruses in Lesser Rhea in Peru,...
+- Evidence notes: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian); [EM&I: A new clade of H9N2 avian influenza virus circulating in Laos](https://afludiary.blogspot.com/2026/06/em-new-clade-of-h9n2-avian-influenza.html) (Avian Flu Diary); [Philippines reopens poultry trade with Argentina following avian influenza clearance](https://www.msn.com/en-in/health/other/philippines-reopens-poultry-trade-with-argentina-following-avian-influenza-clearance/ar-AA25bFY1) (MSN)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
@@ -81,14 +95,6 @@ Search window: 7 day(s) ending 2026-06-20
 - Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Avian influenza and H5N1
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian, 2026-06-19T06:55+00:00)
-- Detailed note: Also last month, in Eurosurveillance: Cross-reactive human antibody responses to H9N2 influenza virus, New York, United States, 2025 , we saw that ` pre-existing immunity to H9N2 in humans that is dominated by cross-reactive but largely non-neutralising antibodies , with a greater contribution from NA-directed responses.' Last month, in Preprint: Outbreak of H9N2 Avian Influenza Viruses in Lesser Rhea in Peru,...
-- Evidence notes: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian); [EM&I: A new clade of H9N2 avian influenza virus circulating in Laos](https://afludiary.blogspot.com/2026/06/em-new-clade-of-h9n2-avian-influenza.html) (Avian Flu Diary)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
