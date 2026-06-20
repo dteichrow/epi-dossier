@@ -8,7 +8,6 @@
       "CBS News",
       "CIDRAP",
       "CNN",
-      "Guardian",
       "NBC News",
       "NPR",
       "New York Times",
@@ -17,9 +16,9 @@
     ],
     "metadata_only_count": 155,
     "sources_cached": 0,
-    "sources_failed": 2,
+    "sources_failed": 1,
     "sources_live": 169,
-    "story_count_change": 5,
+    "story_count_change": 4,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
@@ -29,16 +28,11 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-20T02:16:54",
+  "generated_at": "2026-06-20T02:21:04",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
-      "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
-      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]

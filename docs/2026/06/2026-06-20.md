@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-20
-Generated at: 2026-06-20T02:16
+Generated at: 2026-06-20T02:21
 Search window: 7 day(s) ending 2026-06-20
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-20
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (136), Policy, surveillance, and public health infrastructure (28), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 2 source(s) failed during collection: USDA APHIS Avian Influenza, California Department of Public Health News.
+- Category mix: Outbreaks and emerging infections (137), Policy, surveillance, and public health infrastructure (28), Historical epidemiology / ancient disease / paleopathology (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -25,21 +25,15 @@ Search window: 7 day(s) ending 2026-06-20
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 126 item(s) across 101 source(s).
-- Baseline snapshot created with 126 clustered item(s) across 101 source(s).
+- Newly tracked story cluster: 126 item(s) across 100 source(s).
+- Baseline snapshot created with 126 clustered item(s) across 100 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 22 item(s) across 20 source(s).
-- Baseline snapshot created with 22 clustered item(s) across 20 source(s).
+- Newly tracked story cluster: 23 item(s) across 21 source(s).
+- Baseline snapshot created with 23 clustered item(s) across 21 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
-
-### Avian influenza and H5N1
-- Lead item: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies)
@@ -50,7 +44,7 @@ Search window: 7 day(s) ending 2026-06-20
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 126 item(s) across 101 source(s); 4 official/primary-source item(s).
+- Topic size: 126 item(s) across 100 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Relatives storm Ebola treatment centre in eastern DR Congo | #AJ shorts](https://www.modernghana.com/videonews/aljazeera/1/669221) (Modern Ghana)
@@ -58,7 +52,7 @@ Search window: 7 day(s) ending 2026-06-20
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 22 item(s) across 20 source(s); 3 official/primary-source item(s).
+- Topic size: 23 item(s) across 21 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Arizona's measles outbreak is over, but it's a different case in Utah](https://www.azcentral.com/story/news/local/arizona-health/2026/06/19/arizona-measles-outbreak-officially-over/90607459007/) (azcentral.com and The Arizona Republic); [Christians Help Battle Measles Outbreak in Bangladesh](https://www.christianitytoday.com/2026/06/bangladesh-measles-crisis/) (Christianity Today)
@@ -73,14 +67,6 @@ Search window: 7 day(s) ending 2026-06-20
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Avian influenza and H5N1
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian, 2026-06-19T06:55+00:00)
-- Detailed note: Also last month, in Eurosurveillance: Cross-reactive human antibody responses to H9N2 influenza virus, New York, United States, 2025 , we saw that ` pre-existing immunity to H9N2 in humans that is dominated by cross-reactive but largely non-neutralising antibodies , with a greater contribution from NA-directed responses.' Last month, in Preprint: Outbreak of H9N2 Avian Influenza Viruses in Lesser Rhea in Peru,...
-- Evidence notes: [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) (The Guardian); [EM&I: A new clade of H9N2 avian influenza virus circulating in Laos](https://afludiary.blogspot.com/2026/06/em-new-clade-of-h9n2-avian-influenza.html) (Avian Flu Diary); [Philippines reopens poultry trade with Argentina following avian influenza clearance](https://www.msn.com/en-in/health/other/philippines-reopens-poultry-trade-with-argentina-following-avian-influenza-clearance/ar-AA25bFY1) (MSN)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Historical epidemiology and ancient pathogens
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
 - Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies, 2026-06-18T00:00)
@@ -88,6 +74,14 @@ Search window: 7 day(s) ending 2026-06-20
 - Evidence notes: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies); [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology); [Ebola response improves in Congo's Ituri province](https://news.google.com/rss/articles/CBMijgFBVV95cUxOenFOS3JZaUpfVTlIaWJfV283aUNIR21DSEp2aHBnWUxCOXJwQk90VlYtanhYNWJGMXZNUlVFQ2VJM3YxZEM3N2pPODBYZm9jQlltNUcxMzI3cjVPNmV5SklreXpiUGxsem5oVERVeC1sR0pfMFVJM3FrN2RHcnJ1R2QyLUdUOXpneGp4N3h3?oc=5) (dw.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Avian influenza and H5N1
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC, 2026-06-20T03:12+00:00)
+- Detailed note: Also last month, in Eurosurveillance: Cross-reactive human antibody responses to H9N2 influenza virus, New York, United States, 2025 , we saw that ` pre-existing immunity to H9N2 in humans that is dominated by cross-reactive but largely non-neutralising antibodies , with a greater contribution from NA-directed responses.' Last month, in Preprint: Outbreak of H9N2 Avian Influenza Viruses in Lesser Rhea in Peru,...
+- Evidence notes: [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC); [EM&I: A new clade of H9N2 avian influenza virus circulating in Laos](https://afludiary.blogspot.com/2026/06/em-new-clade-of-h9n2-avian-influenza.html) (Avian Flu Diary)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -434,6 +428,8 @@ Search window: 7 day(s) ending 2026-06-20
   Limited detail was available from feed metadata alone.
 - [Relatives storm Ebola treatment centre in eastern DR Congo | #AJ shorts](https://www.modernghana.com/videonews/aljazeera/1/669221) | Modern Ghana | 2026-06-20T08:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) | BBC | 2026-06-20T03:12+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Mourners bury a 6-month-old Ebola victim, marking third orphanage death as Congo outbreak spreads - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/mourners-bury-6-month-ebola-victim-marking-orphanage-134039735) | ABC News - Breaking News, Latest News and Videos | 2026-06-20T00:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [At least 30 deaths at Congo camp show Ebola could be spreading fast](https://tribune.com.pk/story/2614115/at-least-30-deaths-at-congo-camp-show-ebola-could-be-spreading-fast) | The Express Tribune | 2026-06-19T19:06+00:00 | Outbreaks and emerging infections
@@ -450,8 +446,6 @@ Search window: 7 day(s) ending 2026-06-20
   Limited detail was available from feed metadata alone.
 - [Doctor treating Ebola patients describes challenges health workers face at home and treatment center](https://apnews.com/video/doctor-treating-ebola-patients-describes-challenges-health-workers-face-at-home-and-treatment-center-2c47b02c62754a288c5c7d0c21e7118b) | AP News | 2026-06-19T07:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Mainland Australia’s first suspected case of deadly H5N1 investigated after seabird tests positive for bird flu](https://www.theguardian.com/australia-news/2026/jun/19/australia-bird-flu-deadly-h5n1-first-suspected-case-wa) | The Guardian | 2026-06-19T06:55+00:00 | Virology and pathogen evolution
-  Limited detail was available from feed metadata alone.
 - [The vaccines and treatments being developed for Ebola outbreak](https://www.japantimes.co.jp/news/2026/06/19/world/science-health/ebola-treatments-explainer/) | The Japan Times | 2026-06-19T01:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Scare in Kerala: South Sudan Returnee Shifted to Isolation Ward in Kottayam](https://tmv.in/article/ebola-scare-in-kerala-south-sudan-returnee-shifted-to-isolation-ward-in-kottayam-date\=2026-06-19) | The Morning Voice | 2026-06-19T01:01+00:00 | Outbreaks and emerging infections
@@ -462,7 +456,7 @@ Search window: 7 day(s) ending 2026-06-20
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Uganda, DR Congo hits 894 cases, 204 deaths](https://punchng.com/ebola-outbreak-in-uganda-dr-congo-hits-894-cases-204-deaths/) | Punch Newspapers | 2026-06-18T20:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Death toll from Ebola surpasses 200 in DR Congo as officials assess response](https://www.anews.com.tr/africa/2026/06/18/death-toll-from-ebola-surpasses-200-in-dr-congo-as-officials-assess-response) | A News | 2026-06-18T19:47+00:00 | Outbreaks and emerging infections
+- [Death toll from Ebola surpasses 200 in DR Congo as officials assess response](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSl9NTmdzY2ZKR001cThYOGRKcmZsOXdsSVVoLXI2LTZUTDNqcThYWlhpaTc4SkcxMWFfUGJvV0dUTHV2M093Szh1VHJVNW41alhTVWdaOGRpaTk0UU1HbW9ZM1lXUVhHM01yM3d1Q3BaZTdYZUR5WXMzZk04V19ObExQWi1ERmdISVgxNlVCNDN3VlJ0bnNxd1BCUm1QNk9JWHRnZGM0RVh3TFNhMXR4QjAyZ3RQRk56TE9Z0gHAAUFVX3lxTFB3Z2FsZml2MklUWlpSWXg4SFltQVAxbkowd0g1bFgwem1IM1hBdl9xeUpIUVp5TXl4cWJiaTV4WU9qZVM1S2xrT2JaZ3k4V0t0MkUybjg4cHloQ09TOHVaeXJCTE1KaTNlcGRqRi16WUE0R1FOWGo5YThMN2ExTVA0UjlUOV94RVFOZ2pMUVJIUl9abGpERUp3T2NnNU8tY2UyQWxUeVl1Q2RtcmJlOGdVbWtNakFGSDE1RU04c2lRaA?oc=5) | A News | 2026-06-18T19:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #2 - 18 June 2026](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUpiVE9qSzIxZXdxaGxwX25McWVBSGZPa2FwTk1RWldvNzNNdkFTbFpFeklsYTVabzRRQTNsUG91WGhVYzZOYWI5TFZsSUpQNzgxaElBUTVmckdQSFRWQ0kyQTNzOTkwREgxN2w3eXc4Zkg3OEllcmxuZ0M0U2NNQzdpQW52SF9FYUY1X3U3ekNuTDZSeGpWeWdTLTBYY3p2WS1sVUwyT2hxdUJrT2R1Rmk5RlZ4ZzZBN05FRzhrWENGM1RuMk5VY1U1TmJYblFMWEQ0?oc=5) | ReliefWeb | 2026-06-18T18:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -497,6 +491,7 @@ Search window: 7 day(s) ending 2026-06-20
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
+- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
