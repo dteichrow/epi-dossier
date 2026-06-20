@@ -8,27 +8,29 @@
       "CBS News",
       "CIDRAP",
       "CNN",
+      "Guardian",
       "NBC News",
       "NPR",
       "New York Times",
+      "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 155,
+    "metadata_only_count": 170,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 169,
+    "sources_live": 184,
     "story_count_change": 4,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 169,
+    "live": 184,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-20T02:21:04",
+  "generated_at": "2026-06-20T02:31:17",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
