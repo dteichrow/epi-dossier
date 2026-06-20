@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-19
-Generated at: 2026-06-19T20:11
+Generated at: 2026-06-19T20:17
 Search window: 7 day(s) ending 2026-06-19
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-19
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (161), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -38,8 +38,8 @@ Search window: 7 day(s) ending 2026-06-19
 
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 24 item(s) across 22 source(s).
-- Baseline snapshot created with 24 clustered item(s) across 22 source(s).
+- Newly tracked story cluster: 26 item(s) across 24 source(s).
+- Baseline snapshot created with 26 clustered item(s) across 24 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Historical epidemiology and ancient pathogens
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-06-19
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 24 item(s) across 22 source(s); 3 official/primary-source item(s).
+- Topic size: 26 item(s) across 24 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Arizona's measles outbreak is over, but it's a different case in Utah](https://www.azcentral.com/story/news/local/arizona-health/2026/06/19/arizona-measles-outbreak-officially-over/90607459007/) (azcentral.com and The Arizona Republic); [Sudan reports new cholera and measles cases amid mixed health indicators](https://sudantribune.com/article/315148) (Sudan Tribune)
@@ -463,11 +463,11 @@ Search window: 7 day(s) ending 2026-06-19
   Limited detail was available from feed metadata alone.
 - [Ebola Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo (DRC) and Uganda](https://africa.com/ebola-bundibugyo-virus-disease-outbreak-in-the-democratic-republic-of-the-congo-drc-and-uganda/) | Africa.com | 2026-06-18T23:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola cases increase almost 40% in a week as death toll passes 200](https://apnews.com/article/congo-uganda-ebola-bundibugyo-cdc-cases-18d3129c8d5e3a0641ba330549a48a8a) | AP News | 2026-06-18T22:21+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Uganda, DR Congo hits 894 cases, 204 deaths](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFpNMUhERUJ4RlZoZkY1T21nczFueUVxbXhpYlV1eENZVkZMandCaUlXaGQ3Y21aRDJfcVB2cTFuMkNuRF9sTlh0c3gyY3BSSTROQXFIejRMMzdkQl93MkZXR1lRYnZrWlY4Szk3VENjeFA1czJwTy1UZ0Z1SHZ6LXhVSF9YX0E?oc=5) | Punch Newspapers | 2026-06-18T20:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Death toll from Ebola surpasses 200 in DR Congo as officials assess response](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSl9NTmdzY2ZKR001cThYOGRKcmZsOXdsSVVoLXI2LTZUTDNqcThYWlhpaTc4SkcxMWFfUGJvV0dUTHV2M093Szh1VHJVNW41alhTVWdaOGRpaTk0UU1HbW9ZM1lXUVhHM01yM3d1Q3BaZTdYZUR5WXMzZk04V19ObExQWi1ERmdISVgxNlVCNDN3VlJ0bnNxd1BCUm1QNk9JWHRnZGM0RVh3TFNhMXR4QjAyZ3RQRk56TE9Z0gHAAUFVX3lxTFB3Z2FsZml2MklUWlpSWXg4SFltQVAxbkowd0g1bFgwem1IM1hBdl9xeUpIUVp5TXl4cWJiaTV4WU9qZVM1S2xrT2JaZ3k4V0t0MkUybjg4cHloQ09TOHVaeXJCTE1KaTNlcGRqRi16WUE0R1FOWGo5YThMN2ExTVA0UjlUOV94RVFOZ2pMUVJIUl9abGpERUp3T2NnNU8tY2UyQWxUeVl1Q2RtcmJlOGdVbWtNakFGSDE1RU04c2lRaA?oc=5) | A News | 2026-06-18T19:47+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #2 - 18 June 2026](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUpiVE9qSzIxZXdxaGxwX25McWVBSGZPa2FwTk1RWldvNzNNdkFTbFpFeklsYTVabzRRQTNsUG91WGhVYzZOYWI5TFZsSUpQNzgxaElBUTVmckdQSFRWQ0kyQTNzOTkwREgxN2w3eXc4Zkg3OEllcmxuZ0M0U2NNQzdpQW52SF9FYUY1X3U3ekNuTDZSeGpWeWdTLTBYY3p2WS1sVUwyT2hxdUJrT2R1Rmk5RlZ4ZzZBN05FRzhrWENGM1RuMk5VY1U1TmJYblFMWEQ0?oc=5) | ReliefWeb | 2026-06-18T18:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
