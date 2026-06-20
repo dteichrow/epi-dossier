@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-19
-Generated at: 2026-06-19T16:59
+Generated at: 2026-06-19T17:01
 Search window: 7 day(s) ending 2026-06-19
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-19
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (170), Policy, surveillance, and public health infrastructure (15), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (169), Policy, surveillance, and public health infrastructure (15), Historical epidemiology / ancient disease / paleopathology (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -22,13 +22,6 @@ Search window: 7 day(s) ending 2026-06-19
 - Baseline snapshot created with 12 clustered item(s) across 12 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - Reuters now includes quarantine language.
-
-### Dengue and arboviruses
-- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- AnewZ now explicitly uses investigation or monitoring language.
-- AnewZ now includes deaths or fatal cases in the story frame.
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
@@ -74,14 +67,6 @@ Search window: 7 day(s) ending 2026-06-19
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters, 2026-06-19T16:13+00:00)
-- Detailed note: Risk of matching 2019 outbreak levels Authorities caution that the current trajectory could approach the scale of Sri Lanka’s major 2019 outbreak, when more than 105,000 dengue cases were recorded nationwide. Children among fatalities The outbreak has so far resulted in 28 deaths, including five children, highlighting the severity of the current wave.
-- Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka dengue outbreak tops 44,000 cases this year](https://anewz.tv/world/world-news/21045/sri-lanka-dengue-outbreak-tops-44000-cases/news) (AnewZ); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Historical epidemiology and ancient pathogens
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
 - Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies, 2026-06-18T00:00)
@@ -89,6 +74,14 @@ Search window: 7 day(s) ending 2026-06-19
 - Evidence notes: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies); [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology); [Ebola response improves in Congo's Ituri province](https://news.google.com/rss/articles/CBMijgFBVV95cUxOenFOS3JZaUpfVTlIaWJfV283aUNIR21DSEp2aHBnWUxCOXJwQk90VlYtanhYNWJGMXZNUlVFQ2VJM3YxZEM3N2pPODBYZm9jQlltNUcxMzI3cjVPNmV5SklreXpiUGxsem5oVERVeC1sR0pfMFVJM3FrN2RHcnJ1R2QyLUdUOXpneGp4N3h3?oc=5) (DW.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters, 2026-06-19T16:13+00:00)
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [42-year-old man dies of dengue fever in Kerala’s Palakkad district](https://timesofindia.indiatimes.com/city/kochi/42-year-old-man-dies-of-dengue-fever-in-keralas-palakkad-district/articleshow/131806862.cms) (The Times of India)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Avian influenza and H5N1
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -445,8 +438,6 @@ Search window: 7 day(s) ending 2026-06-19
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo spreading rapidly, WHO warns](https://www.turkiyetoday.com/lifestyle/ebola-outbreak-in-dr-congo-spreading-rapidly-who-warns-3222280) | Türkiye Today | 2026-06-19T14:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Sri Lanka dengue outbreak tops 44,000 cases this year](https://anewz.tv/world/world-news/21045/sri-lanka-dengue-outbreak-tops-44000-cases/news) | AnewZ | 2026-06-19T13:49+00:00 | Outbreaks and emerging infections
-  Risk of matching 2019 outbreak levels Authorities caution that the current trajectory could approach the scale of Sri Lanka’s major 2019 outbreak, when more than 105,000 dengue cases were recorded nationwide. Children among fatalities The outbreak has so far resulted in 28 deaths, including five children, highlighting the severity of the current wave. Data from Sri Lanka’s National Dengue Control Unit show a sharp rise in infections, increasing from 5,651 cases in April to 10,638 in the first two weeks of June alone.
 - [Ebola outbreak: 17 medics dead as Chinese medical team arrives in Democratic Republic of Congo](https://news.sky.com/story/ebola-outbreak-17-medics-dead-as-chinese-medical-team-arrives-in-democratic-republic-of-congo-13555745) | Sky News | 2026-06-19T13:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [More than 70 Congo medics infected with Ebola since outbreak started, WHO says](https://www.reuters.com/business/healthcare-pharmaceuticals/more-than-70-congo-medics-infected-with-ebola-since-outbreak-started-who-says-2026-06-19/) | Reuters | 2026-06-19T12:47+00:00 | Outbreaks and emerging infections
@@ -468,6 +459,8 @@ Search window: 7 day(s) ending 2026-06-19
 - [Ebola Bundibugyo Virus Disease Outbreak in the Democratic Republic of the Congo (DRC) and Uganda](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTndyYlpydzl1d19mMUFhMU9tTFVLYUlSenYxZkMxVVNCc2hDc053MldJVFQwZTNpZkVGV2VEVlo2QUp3Q1kzZEhwLWU0RnVIQlRWcUJ4bk10N0hHbl9MR19MWUtoaW0wWGVTYXRwQWJhRWF4RlgybHdfTzdQUzZmcjBHdUxUaWxxRjhyRE5nRmVfRWZhTExvb0N1OVp1THdKb28xZTJ2RXF5MnZYVjNtNFkxMnA?oc=5) | Africa.com | 2026-06-18T23:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Uganda, DR Congo hits 894 cases, 204 deaths](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFpNMUhERUJ4RlZoZkY1T21nczFueUVxbXhpYlV1eENZVkZMandCaUlXaGQ3Y21aRDJfcVB2cTFuMkNuRF9sTlh0c3gyY3BSSTROQXFIejRMMzdkQl93MkZXR1lRYnZrWlY4Szk3VENjeFA1czJwTy1UZ0Z1SHZ6LXhVSF9YX0E?oc=5) | Punch Newspapers | 2026-06-18T20:09+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Death toll from Ebola surpasses 200 in DR Congo as officials assess response](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSl9NTmdzY2ZKR001cThYOGRKcmZsOXdsSVVoLXI2LTZUTDNqcThYWlhpaTc4SkcxMWFfUGJvV0dUTHV2M093Szh1VHJVNW41alhTVWdaOGRpaTk0UU1HbW9ZM1lXUVhHM01yM3d1Q3BaZTdYZUR5WXMzZk04V19ObExQWi1ERmdISVgxNlVCNDN3VlJ0bnNxd1BCUm1QNk9JWHRnZGM0RVh3TFNhMXR4QjAyZ3RQRk56TE9Z0gHAAUFVX3lxTFB3Z2FsZml2MklUWlpSWXg4SFltQVAxbkowd0g1bFgwem1IM1hBdl9xeUpIUVp5TXl4cWJiaTV4WU9qZVM1S2xrT2JaZ3k4V0t0MkUybjg4cHloQ09TOHVaeXJCTE1KaTNlcGRqRi16WUE0R1FOWGo5YThMN2ExTVA0UjlUOV94RVFOZ2pMUVJIUl9abGpERUp3T2NnNU8tY2UyQWxUeVl1Q2RtcmJlOGdVbWtNakFGSDE1RU04c2lRaA?oc=5) | A News | 2026-06-18T19:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
