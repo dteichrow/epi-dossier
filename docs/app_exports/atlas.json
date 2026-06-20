@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 16 clustered item(s) across 15 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 25 clustered item(s) across 23 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -625,15 +625,7 @@
       "reference_name": "Avian influenza A(H5N1)",
       "reference_url": "reference/avian-influenza-a-h5n1.html",
       "reference_web_path": "reference/avian-influenza-a-h5n1.html",
-      "related_stories": [
-        {
-          "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 16 clustered item(s) across 15 source(s).",
-          "story_id": "story_0cc2d5322bc76f8f",
-          "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
-          "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 3,
       "slug": "avian-influenza-h5n1",
       "spread_routes": [
@@ -703,7 +695,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Bird flyways, poultry systems, mammalian spillover, and farm-interface risk",
       "summary": "H5N1 belongs in the atlas because its contemporary geography is not a human epidemic map first; it is a bird-route, farm-system, and spillover map whose human layer remains contingent.",
       "variant_count": 0,
@@ -1308,15 +1300,7 @@
       "reference_name": "Dengue",
       "reference_url": "reference/dengue.html",
       "reference_web_path": "reference/dengue.html",
-      "related_stories": [
-        {
-          "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
-          "story_id": "story_ccfeaff28d46baf6",
-          "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
-          "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 3,
       "slug": "dengue",
       "spread_routes": [
@@ -1386,7 +1370,7 @@
         }
       ],
       "status": "consensus",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Aedes routes, urbanization, and shipping-enabled vector expansion",
       "summary": "Dengue makes the atlas useful for modern readers because it shows how vector range expansion, used-tire shipping, urbanization, and travel can redraw the map without requiring a single ancient origin story.",
       "variant_count": 0,
@@ -1873,6 +1857,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-20T00:31:09",
-  "run_id": "run_dc47cf9749767e6d"
+  "generated_at": "2026-06-20T00:41:18",
+  "run_id": "run_565bf57fcc54d0d3"
 }
