@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-21
-Generated at: 2026-06-21T08:16
+Generated at: 2026-06-21T08:32
 Search window: 7 day(s) ending 2026-06-21
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-21
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (154), Policy, surveillance, and public health infrastructure (21), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (155), Policy, surveillance, and public health infrastructure (12), Historical epidemiology / ancient disease / paleopathology (2)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
@@ -32,12 +32,12 @@ Search window: 7 day(s) ending 2026-06-21
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 134 item(s) across 112 source(s).
-- Baseline snapshot created with 134 clustered item(s) across 112 source(s).
+- Newly tracked story cluster: 126 item(s) across 102 source(s).
+- Baseline snapshot created with 126 clustered item(s) across 102 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
-- Lead item: [Philippines reports drop in dengue in first 5 months of 2026](https://outbreaknewstoday.substack.com/p/philippines-reports-drop-in-dengue) (Outbreak News Today)
+- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters)
 - Newly tracked story cluster: 3 item(s) across 2 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-06-21
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 134 item(s) across 112 source(s); 4 official/primary-source item(s).
+- Topic size: 126 item(s) across 102 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Second suspected Ebola case hospitalized in Israel in two days](https://www.ynetnews.com/health_science/article/hku3qnhmfg) (Ynetnews)
@@ -76,9 +76,9 @@ Search window: 7 day(s) ending 2026-06-21
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Philippines reports drop in dengue in first 5 months of 2026](https://outbreaknewstoday.substack.com/p/philippines-reports-drop-in-dengue) (Outbreak News Today, 2026-06-20T17:37+00:00)
-- Detailed note: During the first five months, A total of 50,727 dengue cases were recorded, a 56 percent decrease compared to the same period last year. There are four closely related but antigenically different serotypes of the virus that can cause dengue (DEN1, DEN 2, DEN 3, DEN 4).
-- Evidence notes: [Philippines reports drop in dengue in first 5 months of 2026](https://outbreaknewstoday.substack.com/p/philippines-reports-drop-in-dengue) (Outbreak News Today); [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters)
+- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters, 2026-06-19T16:13+00:00)
+- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters); [Philippines reports drop in dengue in first 5 months of 2026](https://outbreaknewstoday.substack.com/p/philippines-reports-drop-in-dengue) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -93,9 +93,9 @@ Search window: 7 day(s) ending 2026-06-21
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC, 2026-06-20T03:12+00:00)
-- Detailed note: The case follows an earlier infection reported in mid-February, when a 30-year-old man from Kampot province contracted H5N1 but later recovered. The woman, from Ropak village in Preah Netr Preah district, tested positive for the virus after laboratory analysis by the National Institute of Public Health confirmed the infection on March 14.
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC); [Cambodia Detects Second Human H5N1 Case of 2026 After Woman Handles Dead Poultry](https://cambodianess.com/article/cambodia-detects-second-human-h5n1-case-of-2026-after-woman-handles-dead-poultry) (Cambodianess)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
@@ -445,8 +445,6 @@ Search window: 7 day(s) ending 2026-06-21
   Limited detail was available from feed metadata alone.
 - [The outbreak is outpacing us: Inside Congo’s fight against rare Ebola strain](https://indianexpress.com/article/lifestyle/health/the-outbreak-is-outpacing-us-inside-congos-fight-against-rare-ebola-strain-10749763/) | The Indian Express | 2026-06-20T22:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Philippines reports drop in dengue in first 5 months of 2026](https://outbreaknewstoday.substack.com/p/philippines-reports-drop-in-dengue) | Outbreak News Today | 2026-06-20T17:37+00:00 | Outbreaks and emerging infections
-  During the first five months, A total of 50,727 dengue cases were recorded, a 56 percent decrease compared to the same period last year. There are four closely related but antigenically different serotypes of the virus that can cause dengue (DEN1, DEN 2, DEN 3, DEN 4). The Department of Health (DOH) said community cleanup drives aimed at eliminating potential breeding sites of dengue-carrying mosquitoes contributed to the decline in cases.
 - [Officials say the Ebola outbreak in Democratic Republic of Congo outpaces the response](https://www.npr.org/2026/06/20/nx-s1-5862838/officials-say-the-ebola-outbreak-in-democratic-republic-of-congo-outpaces-the-response) | NPR | 2026-06-20T11:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine](https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine) | The Guardian | 2026-06-20T11:00+00:00 | Outbreaks and emerging infections
@@ -468,6 +466,8 @@ Search window: 7 day(s) ending 2026-06-21
 - [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) | Reuters | 2026-06-19T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak 'remains serious' with nearly 900 cases, WHO says](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMi1wT0dPbTVNUkVlVnA3M3NGR1lrUlR0TXVDdmxJbGxiZUZHRDk0YU9RTTRVMjdadGhUQno3dnFqRXUyOXZVaTFvUFRJTnI2Mks0OHlYcXMtR3Y5RU9DSTQ3T3ZvVjFnc3NPOVJtMVJhcWg0MzNxRXZVTFp5Sk5RY0lyTElBMmxUa3Boa1ZVQVNUcFR1U2xnb1JfajdrUl9OZ0Q2YmxQdXpoc2s?oc=5) | Anadolu Ajansı | 2026-06-19T13:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [More than 70 Congo medics infected with Ebola since outbreak started, WHO says](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeU10VXJmdVJ3S3JKc1NjQnhpUm1SRjVSTnMzSkgwQndoQ3FVOUNXT2x5Q0lKYTF6MW1MZ09nc0pyQl8yVWY3aFlfU20yRTY3YWxwWVFhUzRLRlZLQ0pUcXlmUU9lZm52T1lNVFdZSU5JV0haNTd1U1VFbEh1dU45S3Y5Y2RYa1UtTUtVeGk2UlZwTjNwaVlTMkYxTzgtM2poeTA2a2I5eGVZZEtLOFN4RkNjc1Z4VHJpbVZSa01FUVdXbmNNTDItZjUzREFrUjY3WHRJMU1hVFVJMFpPc0Frc2dHQQ?oc=5) | Reuters | 2026-06-19T12:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
