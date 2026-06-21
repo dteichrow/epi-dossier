@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-21
-Generated at: 2026-06-21T13:01
+Generated at: 2026-06-21T13:07
 Search window: 7 day(s) ending 2026-06-21
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-21
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (144), Policy, surveillance, and public health infrastructure (18), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (142), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 21 item(s) across 17 source(s).
-- Baseline snapshot created with 21 clustered item(s) across 17 source(s).
+- Newly tracked story cluster: 17 item(s) across 14 source(s).
+- Baseline snapshot created with 17 clustered item(s) across 14 source(s).
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
@@ -53,10 +53,10 @@ Search window: 7 day(s) ending 2026-06-21
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 21 item(s) across 17 source(s); 3 official/primary-source item(s).
+- Topic size: 17 item(s) across 14 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
-- Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Arizona's measles outbreak is over, but it's a different case in Utah](https://www.azcentral.com/story/news/local/arizona-health/2026/06/19/arizona-measles-outbreak-officially-over/90607459007/) (azcentral.com and The Arizona Republic); [India sends 20,000 measles doses to Maldives amid rising cases](https://www.newsbytesapp.com/news/india/india-sends-20000-measles-doses-to-maldives-amid-rising-cases/tldr) (NewsBytes)
+- Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [India sends 20,000 measles doses to Maldives amid rising cases](https://www.newsbytesapp.com/news/india/india-sends-20000-measles-doses-to-maldives-amid-rising-cases/tldr) (NewsBytes); [Guatemala measles outbreak tops 7,000 confirmed cases](https://outbreaknewstoday.substack.com/p/guatemala-measles-outbreak-tops-7000) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -76,19 +76,19 @@ Search window: 7 day(s) ending 2026-06-21
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Avian influenza and H5N1
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC, 2026-06-20T03:12+00:00)
+- Detailed note: The case follows an earlier infection reported in mid-February, when a 30-year-old man from Kampot province contracted H5N1 but later recovered. The woman, from Ropak village in Preah Netr Preah district, tested positive for the virus after laboratory analysis by the National Institute of Public Health confirmed the infection on March 14.
+- Evidence notes: [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC); [Cambodia Detects Second Human H5N1 Case of 2026 After Woman Handles Dead Poultry](https://cambodianess.com/article/cambodia-detects-second-human-h5n1-case-of-2026-after-woman-handles-dead-poultry) (Cambodianess)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters, 2026-06-19T16:13+00:00)
 - Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Avian influenza and H5N1
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC, 2026-06-20T03:12+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
