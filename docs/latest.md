@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-22
-Generated at: 2026-06-22T06:48
+Generated at: 2026-06-22T06:58
 Search window: 7 day(s) ending 2026-06-22
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-22
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (123), Policy, surveillance, and public health infrastructure (18), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (125), Policy, surveillance, and public health infrastructure (18), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -40,8 +40,8 @@ Search window: 7 day(s) ending 2026-06-22
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 108 item(s) across 89 source(s).
-- Baseline snapshot created with 108 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 110 item(s) across 90 source(s).
+- Baseline snapshot created with 110 clustered item(s) across 90 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Historical epidemiology and ancient pathogens
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-06-22
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 108 item(s) across 89 source(s); 4 official/primary-source item(s).
+- Topic size: 110 item(s) across 90 source(s); 4 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola cases surpass 1,000 in DR Congo amid violence and displacement](https://www.aljazeera.com/gallery/2026/6/22/ebola-cases-surpass-1000-in-congo-amid-violence-and-displacement) (Al Jazeera)
@@ -449,7 +449,7 @@ Search window: 7 day(s) ending 2026-06-22
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak worsening in Congo, response hampered by Trump's USAID cuts](https://www.cbsnews.com/video/ebola-outbreak-worsening-in-congo-response-hampered-by-trumps-usaid-cuts/) | CBS News | 2026-06-22T00:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship](https://www.nytimes.com/2026/06/21/us/hantavirus-quarantine-end.html) | The New York Times | 2026-06-22T00:39+00:00 | Outbreaks and emerging infections
+- [Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship](https://www.nytimes.com/2026/06/21/us/hantavirus-quarantine-end.html) | The New York Times | 2026-06-21T18:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned.](https://www.nbcnews.com/health/health-news/hantavirus-cruise-quarantine-ends-passengers-scientists-lessons-rcna349803) | NBC News | 2026-06-21T11:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -465,7 +465,7 @@ Search window: 7 day(s) ending 2026-06-22
   Limited detail was available from feed metadata alone.
 - [‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine](https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine) | The Guardian | 2026-06-20T11:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola : Healthworkers in DR Congo worry for their life amid deadly outbreak](https://www.france24.com/en/ebola-healthworkers-in-dr-congo-worry-for-their-life-amid-deadly-outbreak) | France 24 | 2026-06-20T08:59+00:00 | Outbreaks and emerging infections
+- [Ebola : Healthworkers in DR Congo worry for their life amid deadly outbreak](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3VHVjNuU0ZHRmVzSTQ3dXVzc2ZScnI4QWs3bDJrMUZ2Xzh3UERScDc0MDYwTUExU2VROGNpRVdyTzRRc1d6bkdicUt4MENnYXNXaDhSZ3YxX1BzLUczVzlUODNxTW5mVGU4R05QbkVLYnNuQ00xQTRVQ0lsMHBfT1VrMU5UNVRkUWlNNno3TGx2TzdyVGc2SGZjYmdtNTdKOFhZ?oc=5) | France 24 | 2026-06-20T08:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) | BBC | 2026-06-20T03:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
