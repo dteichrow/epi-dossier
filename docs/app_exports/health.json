@@ -12,24 +12,23 @@
       "NPR",
       "New York Times",
       "PBS",
-      "Reuters",
-      "Sky News"
+      "Reuters"
     ],
     "metadata_only_count": 133,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 147,
+    "sources_live": 145,
     "story_count_change": 5,
-    "wrapper_only_count": 7
+    "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 147,
+    "live": 145,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-22T06:38:20",
+  "generated_at": "2026-06-22T06:48:43",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
