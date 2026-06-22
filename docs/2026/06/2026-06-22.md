@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-22
-Generated at: 2026-06-22T09:29
+Generated at: 2026-06-22T09:39
 Search window: 7 day(s) ending 2026-06-22
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-22
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (126), Policy, surveillance, and public health infrastructure (14), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (127), Policy, surveillance, and public health infrastructure (14), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 17 item(s) across 17 source(s).
-- Baseline snapshot created with 17 clustered item(s) across 17 source(s).
+- Newly tracked story cluster: 18 item(s) across 18 source(s).
+- Baseline snapshot created with 18 clustered item(s) across 18 source(s).
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-06-22
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 17 item(s) across 17 source(s); 3 official/primary-source item(s).
+- Topic size: 18 item(s) across 18 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [India sends 20,000 measles doses to Maldives amid rising cases](https://www.newsbytesapp.com/news/india/india-sends-20000-measles-doses-to-maldives-amid-rising-cases/tldr) (NewsBytes); [Buckingham County measles outbreak grows; new case at Dulles Airport](https://augustafreepress.com/news/buckingham-county-measles-outbreak-grows-new-case-at-dulles-airport/) (Augusta Free Press)
@@ -437,6 +437,8 @@ Search window: 7 day(s) ending 2026-06-22
   Limited detail was available from feed metadata alone.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-06-22T07:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say - The Daily Reporter](https://www.greenfieldreporter.com/2026/06/22/confirmed-ebola-cases-in-congo-outbreak-top-1000-with-254-deaths-authorities-say/) | The Daily Reporter - Greenfield Indiana | 2026-06-22T07:09+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Australia reports second H5N1 bird flu case in migratory seabird](https://www.reuters.com/business/healthcare-pharmaceuticals/australia-confirms-second-h5-bird-flu-case-2026-06-22/) | Reuters | 2026-06-22T03:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak worsening in Congo, response hampered by Trump's USAID cuts](https://www.cbsnews.com/video/ebola-outbreak-worsening-in-congo-response-hampered-by-trumps-usaid-cuts/) | CBS News | 2026-06-22T00:46+00:00 | Outbreaks and emerging infections
@@ -460,8 +462,6 @@ Search window: 7 day(s) ending 2026-06-22
 - [At least 30 deaths at Congo camp show Ebola could be spreading fast](https://www.cnbcafrica.com/2026/at-least-30-deaths-at-congo-camp-show-ebola-could-be-spreading-fast/) | CNBC Africa | 2026-06-19T23:39+00:00 | Outbreaks and emerging infections
   It was not possible to confirm the causes of death because patients or their relatives in Kigonze camp in Bunia – the epicentre of the Ebola outbreak in Democratic Republic of Congo – had until Thursday refused testing the living or dead, a camp spokesperson and aid organisation Caritas said. Limited detail was available from feed metadata alone.
 - [Another orphan dies from Ebola as Congo outbreak spreads](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNDRKQkF5bG9FcEwxeXZiemgtSTFCVzdET2k0OW1qbDFua0Z6YmYwb2p2UERYWEY1X0FQUHN3VFNNOWR5eWpRY1NqTTZyVkRwemVoVmlEMGpCQ21kRVYwX2pfRnJ4Y3RZUWowQzhGVkhSbVFpZUZmb1o0blgxUTdDbDlRUlEtOW9lNldFSzR6ckUtZVlkcHc?oc=5) | PBS | 2026-06-19T19:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) | Reuters | 2026-06-19T16:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
