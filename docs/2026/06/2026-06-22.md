@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-22
-Generated at: 2026-06-22T09:49
+Generated at: 2026-06-22T09:59
 Search window: 7 day(s) ending 2026-06-22
 
 ## Executive scan
@@ -457,7 +457,7 @@ Search window: 7 day(s) ending 2026-06-22
   Limited detail was available from feed metadata alone.
 - [Israel Reports Second Suspected Ebola Case In Traveler From Congo](https://www.i24news.tv/en/news/israel/society/artc-israel-reports-second-suspected-ebola-case-in-traveler-from-congo) | i24NEWS | 2026-06-21T09:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola cases in DR Congo rise to 710 as authorities deny lockdown rumors](https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3EtblpPQjFuWmRUY0RwVURNZjRxeDZPYTdSX24wdG8zdXl1dVhsejE1ZERJWXFtWXJldEFLZWU3UV9zWGlfekpidTBSR0xMdFpPMjdGQzd3RHdZNUVJS2Yzc3J3b0xJMHZhSEcxZkMwQUt0UXZ6eFZZUEJtRVd0eERuTG83T2pWMmZHdmpYbUt2SnZrZDU4MzZ1cWhFNUZPSFloQURaWjFYQkNyUjFiNmNqTQ?oc=5) | IOL | 2026-06-21T07:00+00:00 | Outbreaks and emerging infections
+- [Ebola cases in DR Congo rise to 710 as authorities deny lockdown rumors](https://iol.co.za/news/africa/2026-06-15-ebola-cases-in-dr-congo-rise-to-710-as-authorities-deny-lockdown-rumors/) | IOL | 2026-06-21T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) | Nation Thailand | 2026-06-21T03:20+00:00 | Outbreaks and emerging infections
   According to a report by Xinhua , Julie Collins, Australia’s Minister for Agriculture, Fisheries and Forestry, confirmed on Saturday (June 20) that H5N1 had been detected in a brown skua discovered on June 14 in a national park in southern Western Australia. A second sick bird, a giant petrel, was discovered in a nearby area and has been placed in quarantine for monitoring and further investigation. In response, authorities are using pre-allocated funds for disease control and have warned the public not to touch sick or dead birds.
