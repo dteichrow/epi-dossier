@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-22
-Generated at: 2026-06-22T08:09
+Generated at: 2026-06-22T08:16
 Search window: 7 day(s) ending 2026-06-22
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-22
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 05, Data as of 14 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-1) (WHO Regional Office for Africa; 2026-06-16T09:58+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (126), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (127), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -23,6 +23,13 @@ Search window: 7 day(s) ending 2026-06-22
 - Nation Thailand now explicitly uses investigation or monitoring language.
 - Nation Thailand now includes deaths or fatal cases in the story frame.
 - Nation Thailand now includes quarantine language.
+
+### Measles transmission and vaccination
+- Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
+- Newly tracked story cluster: 18 item(s) across 18 source(s).
+- Baseline snapshot created with 18 clustered item(s) across 18 source(s).
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News)
@@ -36,12 +43,6 @@ Search window: 7 day(s) ending 2026-06-22
 - Newly tracked story cluster: 109 item(s) across 89 source(s).
 - Baseline snapshot created with 109 clustered item(s) across 89 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
-### Measles transmission and vaccination
-- Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 17 item(s) across 17 source(s).
-- Baseline snapshot created with 17 clustered item(s) across 17 source(s).
-- CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies)
@@ -60,7 +61,7 @@ Search window: 7 day(s) ending 2026-06-22
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 17 item(s) across 17 source(s); 3 official/primary-source item(s).
+- Topic size: 18 item(s) across 18 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [Measles: Nampula records 155 cases and one death in five months](https://clubofmozambique.com/news/measles-nampula-records-155-cases-and-one-death-in-five-months/) (CLUB OF MOZAMBIQUE); [India sends 20,000 measles doses to Maldives amid rising cases](https://www.newsbytesapp.com/news/india/india-sends-20000-measles-doses-to-maldives-amid-rising-cases/tldr) (NewsBytes)
