@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-23
-Generated at: 2026-06-23T02:32
+Generated at: 2026-06-23T02:52
 Search window: 7 day(s) ending 2026-06-23
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-23
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (140), Policy, surveillance, and public health infrastructure (10), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (139), Policy, surveillance, and public health infrastructure (10), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 103 item(s) across 83 source(s).
-- Baseline snapshot created with 103 clustered item(s) across 83 source(s).
+- Newly tracked story cluster: 101 item(s) across 84 source(s).
+- Baseline snapshot created with 101 clustered item(s) across 84 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - 아시아경제 now includes quarantine language.
 - The New York Times now foregrounds vaccination or vaccine policy in the story.
@@ -37,6 +37,12 @@ Search window: 7 day(s) ending 2026-06-23
 - Baseline snapshot created with 21 clustered item(s) across 20 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
+### Dengue and arboviruses
+- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters)
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies)
 - Newly tracked story cluster: 2 item(s) across 2 source(s).
@@ -46,7 +52,7 @@ Search window: 7 day(s) ending 2026-06-23
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 103 item(s) across 83 source(s); 3 official/primary-source item(s).
+- Topic size: 101 item(s) across 84 source(s); 3 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [How Bad Could the Ebola Outbreak Get? Latest on Testing, Tracing and Vaccines](https://www.nytimes.com/interactive/2026/06/23/world/africa/ebola-virus-outbreak-update.html) (The New York Times); [Beijing expands Ebola aid to Congo, Uganda amid worsening outbreak](https://caliber.az/en/post/beijing-expands-ebola-aid-to-congo-uganda-amid-worsening-outbreak) (Caliber.Az)
@@ -57,7 +63,7 @@ Search window: 7 day(s) ending 2026-06-23
 - Topic size: 23 item(s) across 20 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News, 2026-06-18T09:49+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
-- Evidence notes: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Americans on hantavirus-infected ship end quarantine](https://www.nbcnews.com/video/shorts/americans-on-hantavirus-infected-ship-end-quarantine-265521221563) (NBC News); [Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/quarantine-ends-18-americans-exposed-hantavirus-cruise-ship/story?id\=134107656) (ABC News - Breaking News, Latest News and Videos); [Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/wireStory/quarantine-end-hantavirus-ship-passengers-nebraska-134107278) (ABC News - Breaking News, Latest News and Videos)
+- Evidence notes: [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Americans on hantavirus-infected ship end quarantine](https://www.nbcnews.com/video/shorts/americans-on-hantavirus-infected-ship-end-quarantine-265521221563) (NBC News); [Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/quarantine-ends-18-americans-exposed-hantavirus-cruise-ship/story?id\=134107656) (ABC News - Breaking News, Latest News and Videos); [Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship](https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -69,6 +75,14 @@ Search window: 7 day(s) ending 2026-06-23
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters, 2026-06-19T16:13+00:00)
+- Detailed note: Search across reports, market insights, and blog stories. We use cookies to improve your experience and for marketing.
+- Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters); [Middle East Rapid Dengue Antigen Tests - Market Analysis, Forecast, Size, Trends and Insights](https://www.indexbox.io/store/middle-east-rapid-dengue-antigen-tests-market-analysis-forecast-size-trends-and-insights/) (IndexBox)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Watch Deadly H5 Bird Flu Spreads Worldwide With Australia Outbreak](https://www.bloomberg.com/news/videos/2026-06-23/h5-bird-flu-spreads-worldwide-with-australia-outbreak-video) (Bloomberg, 2026-06-23T00:00+00:00)
@@ -76,14 +90,6 @@ Search window: 7 day(s) ending 2026-06-23
 - Evidence notes: [Watch Deadly H5 Bird Flu Spreads Worldwide With Australia Outbreak](https://www.bloomberg.com/news/videos/2026-06-23/h5-bird-flu-spreads-worldwide-with-australia-outbreak-video) (Bloomberg); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters, 2026-06-19T16:13+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -452,17 +458,17 @@ Search window: 7 day(s) ending 2026-06-23
   Limited detail was available from feed metadata alone.
 - [Public Health Alerts: Measles outbreak in Cook County, Illinois, September-October 2025](https://www.cidrap.umn.edu/public-health-alerts/public-health-alerts-measles-outbreak-cook-county-illinois-september-october) | CIDRAP | 2026-06-22T17:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Kenya Ebola: Health Minister Aden Duale found in contempt of court over US-backed quarantine plan](https://www.bbc.com/news/articles/c4gy6vk44pwo) | BBC | 2026-06-22T16:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/wireStory/quarantine-end-hantavirus-ship-passengers-nebraska-134107278) | ABC News - Breaking News, Latest News and Videos | 2026-06-22T16:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Confirmed Ebola cases in Congo outbreak exceed 1,000, authorities say](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTd6ZWlxMDJael9Ldll5d2dVeVY2UXNGYVZTZzhYbHRLaVotVXRaeUVTWWNMUks2Y3NBUVB5cU1iX2tWQU15M1cxM0Y5anMwWUJYYV9BS3V6UzZWU3o4aWM3blMxZ2tWSXBOOFpoQUdRcENTTnRLSXJocGdIZFg1RU4xQQ?oc=5) | CBC | 2026-06-22T16:15+00:00 | Outbreaks and emerging infections
+- [Kenya Ebola: Health Minister Aden Duale found in contempt of court over US-backed quarantine plan](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VVUhqSmdEemhPRFlzU3g5QnZtRzVQX0JXZ0J2dng5MGhGZHltaFpxZ05rTE1yM3VDR1BvM0xacTNDMVNkU2gwSG1udE5vT01RSXRENHUyMllsQQ?oc=5) | BBC | 2026-06-22T16:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Today in Africa: DR Congo Ebola cases top 1,000 as Sudan RSF commanders defect](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaWtSWEw0dHdLTWpleVpmbEduZ2J6SzNrNHl0SWhwQkw0UHpKaVE3ZjFXZGdqVFg5T21PSDRiVENzN0ZTRmh3ejI1QjhDZUtCYzM3aGNXZno3RUFXcEFmMEdvdkpnQkVtODBHZElQQ2Nla3RlRGpielNYOG1BOEVQUFJCbTl6MENETU5oS3pveDNaN05LOUdmdUdmNFNjUzNNLTZoMlFIVXI0a0lOMFMyeTFOUzNhY1RSRy1Wb1h1cXZoNWRWOUJrcTlka3UyMXNVRTdWdGZFdy1abmNSQW9PeFhzYV9zZjA?oc=5) | OkayAfrica | 2026-06-22T14:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO Issues First Comprehensive Guidelines For Ebola And Marburg Care Amid Congo Outbreak](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0xUclZLY1A4WGE1UVhhWDBETURXcXZ5bEJpbDF6cC1rZlJabkVXM0NhV29ld0NCTDJBdDM3VzlMWnMtbC0wZ2ZHVnB3Mk9weFl4R2k2RmdhOHF1TExWX0F0dEtOWGhmejAtUzFfbDQ2TmFHUEN2Vm8tdDVTZ0EwYjlYZElPZ3pfTEg5VGNFR2RZeUkyTnhGRmRIM1hTWDJhOGpqMzVaME1DVFBuWVNQX3F3RWRzVzRBTDJ6STNYQkg4cDdTaTdwNlA3cmlqVUx1a0JZ?oc=5) | BW Healthcare World | 2026-06-22T14:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases surpass 1,000 in DR Congo amid violence and displacement](https://news.google.com/rss/articles/CBMirAFBVV95cUxObENRVVRsMkZRdTBlbU83Ylk3b2dfZW81bUQyc2pJMUhGZ2oySzF5RXMtWkd3YmtMaG5EQTZVVmtfOEJ1Yl9wRDIyR25XR296MzJPZzZJZ0hVTFFCY2NmZ2VIdW5IREJFRWRCR2ZERDVxVDQ0T2dxS1c3R3V5WnVQM2Q3OVlYcWVveU94U1JvRUNZMmxsSGU0dlplNWJfV0JHcVhvUTFFejJBbm410gGyAUFVX3lxTE4tbUx1NXFWMUcyWG1tZGFtTnlDNkYxYTM5bmtWc0dNOTNxN0F0alR6S3dZckZDa0NLVTJOYXdHd0RxcDV5VzZOdmhvNjdhdmdDYi1Kb3czallLb19CZGtlV3VmeEdPMllWYXV0NksxX21qQ1pIcGk3SG40cy1DZEVWZVRCYWZNckxmVWRsVTJjVmZJdVpoSmppVlZMSEg5UXo5WWhHNnFDVEJxejNFU0llRVE?oc=5) | Al Jazeera | 2026-06-22T12:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say](https://news.google.com/rss/articles/CBMid0FVX3lxTE9WZDNicmlwWnZxcmJiOXJCMWZPcFZFWTJveXVQV0RLNjYxbEU3d1B0dnYyLXNSOEpMOEc4V1I2MjJkcFBHWlRWZ1RVbkU5RXpMNjN3dXp0SVVpT1kxdkVoX1Y1V3Nvc3FicUZYdGVqOXJWUElyaVBr?oc=5) | Boston Herald | 2026-06-22T11:27+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Israel investigates 2nd suspected Ebola case linked to DR Congo outbreak](https://news.google.com/rss/articles/CBMinwFBVV95cUxQblU2dDEyZ0NtUTFTcFVnUXB3WXZOUXRVZ1V5cVpLbVhIb05FS2I3QnBpclNlQnU0Y1oxMnJIamtzTzdXeUp2ZWtUZEFaa0d3a1RJR1V0N1VnU011ZTdSMUl6OHRUQ0MtTWpOdGs1cmJpMDBId01KM1RGZkt4cnhBVXB4OEd4QTlmZ0ZLYWFMQmx3a2pVVHlzeDdpZ2dXcGc?oc=5) | All Israel News | 2026-06-22T09:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
