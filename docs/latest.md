@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-22
-Generated at: 2026-06-22T20:11
+Generated at: 2026-06-22T20:16
 Search window: 7 day(s) ending 2026-06-22
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-22
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (137), Policy, surveillance, and public health infrastructure (14), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (136), Policy, surveillance, and public health infrastructure (14), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-06-22
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 108 item(s) across 85 source(s).
-- Baseline snapshot created with 108 clustered item(s) across 85 source(s).
+- Newly tracked story cluster: 107 item(s) across 85 source(s).
+- Baseline snapshot created with 107 clustered item(s) across 85 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Historical epidemiology and ancient pathogens
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-06-22
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 108 item(s) across 85 source(s); 3 official/primary-source item(s).
+- Topic size: 107 item(s) across 85 source(s); 3 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Confirmed Ebola cases in DR Congo rise to 1,048](https://english.news.cn/20260623/a3b3b40c37a2406eba9ca6ca1c824b52/c.html) (Xinhua); [As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo](https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks) (Unicef)
@@ -453,15 +453,15 @@ Search window: 7 day(s) ending 2026-06-22
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases in Congo top 1,000. More than a quarter have died, officials say.](https://www.cbsnews.com/news/ebola-congo-cases-top-1000-deaths-surpass-250/) | CBS News | 2026-06-22T11:43+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say](https://www.tribdem.com/news/confirmed-ebola-cases-in-congo-outbreak-top-1-000-with-254-deaths-authorities-say/article_3e5a2e58-b0f0-57a3-966b-de49aef2ddb0.html) | The Tribune-Democrat | 2026-06-22T10:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Israel investigates 2nd suspected Ebola case linked to DR Congo outbreak](https://news.google.com/rss/articles/CBMinwFBVV95cUxQblU2dDEyZ0NtUTFTcFVnUXB3WXZOUXRVZ1V5cVpLbVhIb05FS2I3QnBpclNlQnU0Y1oxMnJIamtzTzdXeUp2ZWtUZEFaa0d3a1RJR1V0N1VnU011ZTdSMUl6OHRUQ0MtTWpOdGs1cmJpMDBId01KM1RGZkt4cnhBVXB4OEd4QTlmZ0ZLYWFMQmx3a2pVVHlzeDdpZ2dXcGc?oc=5) | All Israel News | 2026-06-22T09:52+00:00 | Outbreaks and emerging infections
+- [Israel investigates 2nd suspected Ebola case linked to DR Congo outbreak](https://allisraelnews.com/israel-investigates-2nd-suspected-ebola-case-linked-to-dr-congo-outbreak) | All Israel News | 2026-06-22T09:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases cross 1,000 in DR Congo as officials warn outbreak may be far larger than reported](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORDUzM2JrcUo0aWNmV2Q2ak9ibURXaE5ILXFVb1ZURUZQYmpBcC1OMXdLMXRfTmVDdjgyU3VpUFNtRU92RG1NaFppYUU2VW55c1dCcjkyNk9yVXBwRm5WOFdkWGQ0a09iMDZrT25lMXRMbjFWTEotX1dvZW5uUFA0cHJpa3hhaTluVTlYNmRFUGJMQmFRbVpsUWFQWFpVdm8tM2JOZi1Wcl80LVBrVjZYQThhamVPQjNWanUyU3RUdzFOb3pEMHdIVDgzaHo1OFY5blVyUDA5QXM?oc=5) | Business Insider Africa | 2026-06-22T09:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa urges African health sovereignty, self-reliance in wake of Ebola outbreak](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMUdsZ3BITS0welpSeUtoSzZrSTlITUtrRkY4Ty1CT1N3TVZtbHlObFVnZWdjTlM4enNUazdxdDExLU1iV0w0em1iOC1XTm1CSm5teHZKSVR3SE5KWVVtVWFxUDU2S2hzZ3MzVVQ0MVJVdm5zU1kyRGZLaU5GR2dNLVJjVVJXUHNpWGNlQ2pkUlpzeklNYUExS2dtazlnVXF1OUZVSl9MWjFYeGJlUXZVSEhiOVpRQWx4QU93SWtFcWh6N2tjMFE?oc=5) | Polity.org.za | 2026-06-22T08:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [True scale of Congo Ebola outbreak still unknown one month in, responders say](https://news.google.com/rss/articles/CBMihgJBVV95cUxQUW9uOWxnSG00dmxhdXJybUZ5MzgzZDZvdUxGRjdzQkhxems0TzVuNTUxX1ppb0FKNGNKSml3ODRPVzdmeF9jOXQ2RnhtS1lnaWJrbVZtUjJRSlJmM09LMEh3YzAyWFZ4bmx3OVVCQjdaUExUbWl5M0tTV1hIalNNeWxUSi1vTVhlRXZHN0ZlOURUa2dFa2dNMTl2LURIdVY5cWlPb0t6UFJST003RW1MNjBCVno3VVZHTWoydU1mRHdabko0ZlJOMGFWRHRmcXR4eDRiUWxEbG1uaFFKUG15ZTJTeTBVdWQxLVVzUWx5UGhsMmZSMGJuYS1xRWc5X1MzWk4tWGZB?oc=5) | Post and Courier | 2026-06-22T08:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVERtZkpCMzNrZ1lKNHVlQ1RaS2N1QVcyaVRMT3JTV2puMTVvWm1IUEhVWklQVVFteDkyWEtXbmRiRHY5alpBN0hydEJuZDF6WXhxa003NXRqdw?oc=5) | BBC | 2026-06-22T07:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
