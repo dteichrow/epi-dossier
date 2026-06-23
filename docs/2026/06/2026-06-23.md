@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-23
-Generated at: 2026-06-23T12:16
+Generated at: 2026-06-23T12:20
 Search window: 7 day(s) ending 2026-06-23
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-23
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List; Unknown; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (151), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (1)
+- Category mix: Outbreaks and emerging infections (150), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (1)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-06-23
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 111 item(s) across 87 source(s).
-- Baseline snapshot created with 111 clustered item(s) across 87 source(s).
+- Newly tracked story cluster: 110 item(s) across 86 source(s).
+- Baseline snapshot created with 110 clustered item(s) across 86 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 111 item(s) across 87 source(s); 4 official/primary-source item(s).
+- Topic size: 110 item(s) across 86 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [WHO: Ebola outbreak in Congo surpasses 1,000 cases in a month](https://voi.id/en/news/581400) (VOI.id)
@@ -62,6 +62,14 @@ Search window: 7 day(s) ending 2026-06-23
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Sri Lanka dengue outbreak nears 50,000 cases](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-nears-50000) (Outbreak News Today, 2026-06-23T13:41+00:00)
+- Detailed note: Colombo district accounts for 21 percent of the country’s cases (9,983), while Gampaha district has reported 8,809 cases (18.53%). Officials are reporting 13,689 cases in June to date alone, up from 8,590 cases seen in May 2026.
+- Evidence notes: [Sri Lanka dengue outbreak nears 50,000 cases](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-nears-50000) (Outbreak News Today); [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Watch Deadly H5 Bird Flu Spreads Worldwide With Australia Outbreak](https://www.bloomberg.com/news/videos/2026-06-23/h5-bird-flu-spreads-worldwide-with-australia-outbreak-video) (Bloomberg, 2026-06-23T00:00+00:00)
@@ -69,14 +77,6 @@ Search window: 7 day(s) ending 2026-06-23
 - Evidence notes: [Watch Deadly H5 Bird Flu Spreads Worldwide With Australia Outbreak](https://www.bloomberg.com/news/videos/2026-06-23/h5-bird-flu-spreads-worldwide-with-australia-outbreak-video) (Bloomberg); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters, 2026-06-19T16:13+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -425,6 +425,8 @@ Search window: 7 day(s) ending 2026-06-23
   Limited detail was available from feed metadata alone.
 - [Ebola Symptoms in Current Outbreak May Be Milder Than in Previous Ones](https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html) | The New York Times | 2026-06-23T15:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Sri Lanka dengue outbreak nears 50,000 cases](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-outbreak-nears-50000) | Outbreak News Today | 2026-06-23T13:41+00:00 | Outbreaks and emerging infections
+  Colombo district accounts for 21 percent of the country’s cases (9,983), while Gampaha district has reported 8,809 cases (18.53%). Officials are reporting 13,689 cases in June to date alone, up from 8,590 cases seen in May 2026. Since the beginning of the year and through June 22, the Sri Lanka National Dengue Control Unit (NDCU) has reported 47,530 dengue fever cases.
 - [Hantavirus quarantine ends for Americans held for six weeks in Nebraska](https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska) | The Guardian | 2026-06-23T13:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya Ebola: Health Minister Aden Duale orders halt to construction of US-backed quarantine centre](https://www.bbc.com/news/articles/c4gy6vk44pwo) | BBC | 2026-06-23T11:50+00:00 | Outbreaks and emerging infections
@@ -447,8 +449,6 @@ Search window: 7 day(s) ending 2026-06-23
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say](https://www.sbsun.com/2026/06/22/confirmed-ebola-cases-congo/) | San Bernardino Sun | 2026-06-22T21:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [As measles cases rise across the country, Mass. legislators face a decision on a key vaccine bill](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnV5b0VBMU00Y2VnQ1FBdTN5TDg0VnNqMWJvTDdUZEJOYUZVY29GZ1M2V1JYanJRZWY4ZE5CZ0psZlFzR21pbkFEU1lQZmlXLUZhVmo0QmR4QkxyQVluWl8wbk92dlFqaFg4V0VWTXNhbFhoTEZ6VmRta0xCNXA1ZW5jUjlDVERFbVg2TEJxZTdvRUlWOWxoSldSR0VJM2F5a2czUlJZVzFHVGtNSTh6RW5Ea2RDcXNTQ2ZhZ1JCRDNab29SZzlkZHNTQVJTa1BkSFgwOGVR?oc=5) | CommonWealth Beacon | 2026-06-22T21:24+00:00 | Outbreaks and emerging infections
-  legislators face a decision on a key vaccine bill CommonWealth Beacon
 
 ## Papers worth saving
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/)
