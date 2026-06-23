@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-22
-Generated at: 2026-06-22T19:41
+Generated at: 2026-06-22T20:11
 Search window: 7 day(s) ending 2026-06-22
 
 ## Executive scan
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-06-22
 
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 108 item(s) across 86 source(s).
-- Baseline snapshot created with 108 clustered item(s) across 86 source(s).
+- Newly tracked story cluster: 108 item(s) across 85 source(s).
+- Baseline snapshot created with 108 clustered item(s) across 85 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Historical epidemiology and ancient pathogens
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-06-22
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 108 item(s) across 86 source(s); 3 official/primary-source item(s).
+- Topic size: 108 item(s) across 85 source(s); 3 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Confirmed Ebola cases in DR Congo rise to 1,048](https://english.news.cn/20260623/a3b3b40c37a2406eba9ca6ca1c824b52/c.html) (Xinhua); [As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo](https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks) (Unicef)
