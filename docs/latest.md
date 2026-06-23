@@ -1,9 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-23
-Generated at: 2026-06-23T04:11
+Generated at: 2026-06-23T04:16
 Search window: 7 day(s) ending 2026-06-23
 
 ## Executive scan
+- [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
 - [AIRA Infodemic Trends Report 16–31 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-16-31-may-2026) (WHO Regional Office for Africa; 2026-06-19T13:16+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR; 2026-06-18T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News; 2026-06-18T16:35+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
@@ -11,15 +12,14 @@ Search window: 7 day(s) ending 2026-06-23
 - [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology; 2026-06-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search; 2026-06-17T00:00; Major epidemiology studies; relevance 5/5)
-- [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (144), Policy, surveillance, and public health infrastructure (12), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (142), Policy, surveillance, and public health infrastructure (12), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News)
-- Newly tracked story cluster: 107 item(s) across 88 source(s).
-- Baseline snapshot created with 107 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 105 item(s) across 86 source(s).
+- Baseline snapshot created with 105 clustered item(s) across 86 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - The New York Times now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-06-23
 
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 20 item(s) across 19 source(s).
-- Baseline snapshot created with 20 clustered item(s) across 19 source(s).
+- Newly tracked story cluster: 21 item(s) across 20 source(s).
+- Baseline snapshot created with 21 clustered item(s) across 20 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
 - Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters)
-- Newly tracked story cluster: 4 item(s) across 3 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Historical epidemiology and ancient pathogens
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-06-23
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 107 item(s) across 88 source(s); 3 official/primary-source item(s).
+- Topic size: 105 item(s) across 86 source(s); 3 official/primary-source item(s).
 - Lead item: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News, 2026-06-18T16:35+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo's Ebola outbreak sets first-month record with 1,048 cases, 267 deaths](https://timesofindia.indiatimes.com/world/rest-of-world/congos-ebola-outbreak-sets-first-month-record-with-1048-cases-267-deaths/articleshow/131934108.cms) (The Times of India); [How Bad Could the Ebola Outbreak Get? Latest on Testing, Tracing and Vaccines](https://www.nytimes.com/interactive/2026/06/23/world/africa/ebola-virus-outbreak-update.html) (The New York Times)
@@ -67,7 +67,7 @@ Search window: 7 day(s) ending 2026-06-23
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 20 item(s) across 19 source(s); 3 official/primary-source item(s).
+- Topic size: 21 item(s) across 20 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
 - Detailed note: The incidence of allergic rash also showed a 31% increase in the MMR8 group (45.39 per 100,000) compared to the MR8 group (34.71 per 100,000), though it remained below global safety thresholds. During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. China's immunization policy was updated in 2020, replacing the sequence of MR...
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Comparative safety assessment of measles-containing vaccination schedules in Jiangsu Province, China: A population-based pharmacovigilance study (2014-2024).](https://pubmed.ncbi.nlm.nih.gov/42306971/) (PubMed Infectious Disease Search); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [As measles cases rise across the country, Mass. legislators face a decision on a key vaccine bill](https://commonwealthbeacon.org/health-care/as-measles-cases-rise-across-the-country-mass-legislators-face-a-decision-on-a-key-vaccine-bill/) (CommonWealth Beacon); [US tops 2,100 measles cases so far this year, putting it on track to surpass 2025 total](https://www.cidrap.umn.edu/measles/us-tops-2100-measles-cases-so-far-year-putting-it-track-surpass-2025-total) (CIDRAP)
@@ -75,10 +75,10 @@ Search window: 7 day(s) ending 2026-06-23
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 4 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 3 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters, 2026-06-19T16:13+00:00)
 - Detailed note: Search across reports, market insights, and blog stories. We use cookies to improve your experience and for marketing.
-- Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters); [Dengue, Influenza, Meningitis spreading fast among children – Paediatrician](https://dailynews.lk/2026/06/15/local/1010774/dengue-influenza-meningitis-spreading-fast-among-children-paediatrician/) (dailynews.lk); [Middle East Rapid Dengue Antigen Tests - Market Analysis, Forecast, Size, Trends and Insights](https://www.indexbox.io/store/middle-east-rapid-dengue-antigen-tests-market-analysis-forecast-size-trends-and-insights/) (IndexBox)
+- Evidence notes: [Sri Lanka dengue fever cases surge to 44,000 cases this year](https://www.reuters.com/video/watch/idRW065019062026RP1/) (Reuters); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters); [Middle East Rapid Dengue Antigen Tests - Market Analysis, Forecast, Size, Trends and Insights](https://www.indexbox.io/store/middle-east-rapid-dengue-antigen-tests-market-analysis-forecast-size-trends-and-insights/) (IndexBox)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -90,12 +90,12 @@ Search window: 7 day(s) ending 2026-06-23
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Historical epidemiology and ancient pathogens
+### Miscellaneous signals
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies, 2026-06-18T00:00)
-- Detailed note: Individuals in the MPXV clade IIb infection cohort exhibited broad antibody binding but low neutralisation of MPXV clade Ib virus (median log 10 PRNT 50 1·02 [1·02-1·30] for clade Ia, 1·00 [1·00-1·00] for clade Ib, and 1·20 [IQR 1·00-1·76] for clade IIb). We analysed 232 plasma samples from 191 participants: 40 samples from 40 individuals in the Dryvax cohort, 62 samples from 33 individuals in the MVA-BN cohort,...
-- Evidence notes: [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/) (PubMed Historical Pathogen Case Studies); [Tracking the roots of zoonoses.](https://pubmed.ncbi.nlm.nih.gov/42313956/) (PubMed Historical Epidemiology)
-- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms. It also has value for historical epidemiology and blog-idea generation.
+- Lead item: [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search, 2026-06-22T00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search); [AIRA Infodemic Trends Report 16–31 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-16-31-may-2026) (WHO Regional Office for Africa)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
@@ -327,6 +327,16 @@ Search window: 7 day(s) ending 2026-06-23
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-06-22T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42328968/
+- Category: Major epidemiology studies
+- Summary: Maternal folic acid supplementation was significantly associated with improved outcomes among girls: higher memory scores ( β [95% CI], 0.232 [0.069, 0.394]), enhanced numerical reasoning skills (5.234, [2.188, 8.279]), lower Center for Epidemiological Studies Depression Scale score (-0.523 [-0.933, -0.113]), and reduced likelihood of depressive symptoms (-0.024 [-0.048, -0.001]). We analysed 1,953 children aged 10-15 years from the 2020 China Family Panel Studies. Using provincial NTD prevalence in 2009 from the Maternal and Child Health Surveillance system as a proxy for intervention intensity, we employed difference-in-differences models to estimate associations, adjusting for demographic and parental covariates.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### AIRA Infodemic Trends Report 16–31 May 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-19T13:16+00:00
@@ -417,18 +427,10 @@ Search window: 7 day(s) ending 2026-06-23
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
-- Source: Texas Department of State Health Services News
-- Date: Unknown
-- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak sets first-month record with 1,048 cases, 267 deaths](https://timesofindia.indiatimes.com/world/rest-of-world/congos-ebola-outbreak-sets-first-month-record-with-1048-cases-267-deaths/articleshow/131934108.cms) | The Times of India | 2026-06-23T10:30+00:00 | Outbreaks and emerging infections
@@ -443,7 +445,7 @@ Search window: 7 day(s) ending 2026-06-23
   Limited detail was available from feed metadata alone.
 - [Ebola cases in DR Congo rise to 710 as authorities deny lockdown rumors](https://iol.co.za/news/africa/2026-06-15-ebola-cases-in-dr-congo-rise-to-710-as-authorities-deny-lockdown-rumors/) | IOL | 2026-06-23T01:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Five Additional Countries Designated as Quarantine Management Areas for Ebola Risk... 173 Countries in Third Quarter](https://www.asiae.co.kr/en/article/social-general/2026062309214164559) | 아시아경제 | 2026-06-23T00:21+00:00 | Outbreaks and emerging infections
+- [Five Additional Countries Designated as Quarantine Management Areas for Ebola Risk... 173 Countries in Third Quarter](https://www.asiae.co.kr/en/article/2026062309214164559) | 아시아경제 | 2026-06-23T00:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Watch Deadly H5 Bird Flu Spreads Worldwide With Australia Outbreak](https://www.bloomberg.com/news/videos/2026-06-23/h5-bird-flu-spreads-worldwide-with-australia-outbreak-video) | Bloomberg | 2026-06-23T00:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -467,10 +469,14 @@ Search window: 7 day(s) ending 2026-06-23
   Limited detail was available from feed metadata alone.
 - [Today in Africa: DR Congo Ebola cases top 1,000 as Sudan RSF commanders defect](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaWtSWEw0dHdLTWpleVpmbEduZ2J6SzNrNHl0SWhwQkw0UHpKaVE3ZjFXZGdqVFg5T21PSDRiVENzN0ZTRmh3ejI1QjhDZUtCYzM3aGNXZno3RUFXcEFmMEdvdkpnQkVtODBHZElQQ2Nla3RlRGpielNYOG1BOEVQUFJCbTl6MENETU5oS3pveDNaN05LOUdmdUdmNFNjUzNNLTZoMlFIVXI0a0lOMFMyeTFOUzNhY1RSRy1Wb1h1cXZoNWRWOUJrcTlka3UyMXNVRTdWdGZFdy1abmNSQW9PeFhzYV9zZjA?oc=5) | OkayAfrica | 2026-06-22T14:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO Issues First Comprehensive Guidelines For Ebola And Marburg Care Amid Congo Outbreak](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0xUclZLY1A4WGE1UVhhWDBETURXcXZ5bEJpbDF6cC1rZlJabkVXM0NhV29ld0NCTDJBdDM3VzlMWnMtbC0wZ2ZHVnB3Mk9weFl4R2k2RmdhOHF1TExWX0F0dEtOWGhmejAtUzFfbDQ2TmFHUEN2Vm8tdDVTZ0EwYjlYZElPZ3pfTEg5VGNFR2RZeUkyTnhGRmRIM1hTWDJhOGpqMzVaME1DVFBuWVNQX3F3RWRzVzRBTDJ6STNYQkg4cDdTaTdwNlA3cmlqVUx1a0JZ?oc=5) | BW Healthcare World | 2026-06-22T14:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/16549716.2026.2691381
+  Journal/preprint server: Global health action
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42328968/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42328968/
 - [Neutralising antibody responses to MPXV clades Ia, Ib, and IIb after infection or vaccination: a multicountry observational study.](https://pubmed.ncbi.nlm.nih.gov/42314719/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1016/S1473-3099(26)00173-8
