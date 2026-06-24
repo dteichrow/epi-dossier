@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-24
-Generated at: 2026-06-24T03:32
+Generated at: 2026-06-24T03:42
 Search window: 7 day(s) ending 2026-06-24
 
 ## Executive scan
@@ -12,14 +12,22 @@ Search window: 7 day(s) ending 2026-06-24
 - [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News; 2026-06-18T16:35+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News; 2026-06-18T09:49+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (134), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (139), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Avian influenza and H5N1
+- Lead item: [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Nation Thailand now explicitly uses investigation or monitoring language.
+- Nation Thailand now includes deaths or fatal cases in the story frame.
+- Nation Thailand now includes quarantine language.
+
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
-- Newly tracked story cluster: 23 item(s) across 21 source(s).
-- Baseline snapshot created with 23 clustered item(s) across 21 source(s).
+- Newly tracked story cluster: 24 item(s) across 22 source(s).
+- Baseline snapshot created with 24 clustered item(s) across 22 source(s).
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,24 +40,24 @@ Search window: 7 day(s) ending 2026-06-24
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 107 item(s) across 81 source(s).
-- Baseline snapshot created with 107 clustered item(s) across 81 source(s).
+- Newly tracked story cluster: 109 item(s) across 84 source(s).
+- Baseline snapshot created with 109 clustered item(s) across 84 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 107 item(s) across 81 source(s); 4 official/primary-source item(s).
+- Topic size: 109 item(s) across 84 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo](https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks) (Unicef)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [France confirms 1st Ebola case linked to outbreak in the DRC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id\=134160026) (ABC News - Breaking News, Latest News and Videos)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 23 item(s) across 21 source(s); 2 official/primary-source item(s).
+- Topic size: 24 item(s) across 22 source(s); 2 official/primary-source item(s).
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR, 2026-06-18T17:00+00:00)
-- Detailed note: Since the outbreak began in January 2025, a total of 43 deaths have been confirmed for the 2025–2026 period, distributed across 11 states: Chihuahua 21, Jalisco 5, Zacatecas 5, Mexico City 4, Durango 2, Chiapas 1, Guerrero 1, Michoacán 1, Sinaloa 1, Sonora 1, and Tlaxcala 1. Based on data from the Special Surveillance System for Febrile Rash Illnesses (EFE)—and considering the date of rash onset—42,813 cases of...
+- Detailed note: During January 29–February 28, 2025, Texas reported 207 confirmed measles cases, primarily among members of a close-knit west Texas community. Weekly / June 18, 2026 / 75(23);300â302 Carolyn A.
 - Evidence notes: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR); [Measles Outbreaks 2025](https://www.cdc.gov/measles/data-research/) (CDC Current Outbreak List); [US tops 2,100 measles cases so far this year, putting it on track to surpass 2025 total](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm43MnpicTlGcGsyMEs1VDU4NTBkZHVrWGFGeUV3NWJhYnFpcGpLS2RHN0xNRDNfVXJkWC11ZEFjY0UydThaTHlhZm5seGNxaFJFX1pQMllXMDRHUnZNRTB2Z2NoeEQ1akhPaTJMZVAySU5DYWpKVkRORmJKYTVJcTlIS3BLSE9sNkstb2xMTllsbklNU0hycnhiMFBDdjBpVDJBVnNkU3doUndfU3c?oc=5) (CIDRAP); [Public Health Alerts: Measles outbreak in Cook County, Illinois, September-October 2025](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGV1cTNjX1l0Nl94ZzEyTVVVUHVoaXpDc1gwRjlmSTRWM3hEQzY3WWtIVzdQOXBZdmdERV8yNTBoNGNlNEZkOVBJaG4wdHA4T0s0THBGdUlobk8zY0xOU29vQlQ4ckIyODhPSG9VbTV0bVhsV3k4S3RsbHdCRFVNTUhSZlJxUmxzZTdxWHFmc1VlajRMRExtc3VXN191d2FSa0Flb3p4SXZjOXhOdnQ2NXZra1R2cnFFN24xY3pUTFVidw?oc=5) (CIDRAP); [Measles: Nampula records 155 cases and one death in five months](https://news.google.com/rss/articles/CBMingFBVV95cUxNVnhDUVdyejVsUWRxVXE1R0JoZXJCbUJIVFRfaUMyQXN3cEMtS0RaWFduZkZSeXhwc2dYRFRsLUQycDlkWmZzM0VNNF9JWlF0cHJObE5XMXJWdHZvdExjVUh5VG42VGYzSjBoeTlvQUtVRjh3RnA1OVBuOXFfcTUxclZweVZCZk5GVnBvcmZBWUc0SVg3M215OWY5YnZoQQ?oc=5) (CLUB OF MOZAMBIQUE)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
@@ -62,6 +70,14 @@ Search window: 7 day(s) ending 2026-06-24
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Avian influenza and H5N1
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand, 2026-06-21T03:20+00:00)
+- Detailed note: In addition to a human infection reported 10 days ago in Hong Kong , the CHP's latest weekly Avian Influenza report lists 15 known human infections on the mainland over the past 6 months. According to a report by Xinhua , Julie Collins, Australia’s Minister for Agriculture, Fisheries and Forestry, confirmed on Saturday (June 20) that H5N1 had been detected in a brown skua discovered on June 14 in a national park...
+- Evidence notes: [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand); [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://www.bbc.com/news/articles/c4gykxklvl5o) (BBC); [Viruses: Epidemiological and Virological Characteristics of H9N2 Avian Influenza Virus in Jiangsu Province, China, 2024](https://afludiary.blogspot.com/2026/06/viruses-epidemiological-and-virological.html) (Avian Flu Diary)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Miscellaneous signals
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
 - Lead item: [Same war, different homes: mental health outcomes of displaced versus non-displaced adolescents during war.](https://pubmed.ncbi.nlm.nih.gov/42334981/) (PubMed Infectious Disease Search, 2026-06-23T00:00)
@@ -69,14 +85,6 @@ Search window: 7 day(s) ending 2026-06-24
 - Evidence notes: [Same war, different homes: mental health outcomes of displaced versus non-displaced adolescents during war.](https://pubmed.ncbi.nlm.nih.gov/42334981/) (PubMed Infectious Disease Search); [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search); [AIRA Infodemic Trends Report 16–31 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-16-31-may-2026) (WHO Regional Office for Africa)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Avian influenza and H5N1
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian, 2026-06-24T06:19+00:00)
-- Detailed note: According to a report by Xinhua , Julie Collins, Australia’s Minister for Agriculture, Fisheries and Forestry, confirmed on Saturday (June 20) that H5N1 had been detected in a brown skua discovered on June 14 in a national park in southern Western Australia. A second sick bird, a giant petrel, was discovered in a nearby area and has been placed in quarantine for monitoring and further investigation.
-- Evidence notes: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -419,6 +427,8 @@ Search window: 7 day(s) ending 2026-06-24
 ## Other notable readings
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [France confirms 1st Ebola case linked to outbreak in the DRC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id\=134160026) | ABC News - Breaking News, Latest News and Videos | 2026-06-24T10:30+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Exclusive | CDC to End Hantavirus Response as U.S. Outbreak Risk Diminishes](https://www.wsj.com/politics/policy/cdc-to-end-hantavirus-response-as-u-s-outbreak-risk-diminishes-8e069b3c) | WSJ | 2026-06-24T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo](https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks) | Unicef | 2026-06-24T08:23+00:00 | Outbreaks and emerging infections
@@ -431,15 +441,11 @@ Search window: 7 day(s) ending 2026-06-24
   Limited detail was available from feed metadata alone.
 - [Did Trump's foreign aid cuts fuel the Ebola outbreak? : Short Wave](https://www.npr.org/2026/06/24/nx-s1-5866497/congo-ebola-virus-outbreak-news) | NPR | 2026-06-24T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) | The Guardian | 2026-06-24T06:19+00:00 | Virology and pathogen evolution
-  Limited detail was available from feed metadata alone.
 - [Hantavirus quarantine ends for Americans held for six weeks in Nebraska](https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska) | The Guardian | 2026-06-24T03:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak passes 1,000 cases in first month: WHO](https://www.turkiyetoday.com/lifestyle/who-says-congo-ebola-outbreak-passes-1000-cases-in-first-month-3222532) | Türkiye Today | 2026-06-24T01:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Construction of US-backed Ebola quarantine unit in Kenya is stopped](https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped) | CIDRAP | 2026-06-23T20:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola cases top 1,000](https://www.gzeromedia.com/amp/ebola-cases-top-1000-2677082985) | GZERO Media | 2026-06-23T16:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video: Why Milder Symptoms Could Make This Ebola Outbreak More Dangerous](https://www.nytimes.com/video/health/100000010970611/why-milder-symptoms-could-make-this-ebola-outbreak-more-dangerous.html) | The New York Times | 2026-06-23T16:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,6 +462,8 @@ Search window: 7 day(s) ending 2026-06-24
 - [Congo's Ebola outbreak has most cases in first month of any African outbreak, WHO says](https://uk.news.yahoo.com/congos-ebola-outbreak-most-cases-105028628.html) | Yahoo News UK | 2026-06-23T10:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases in DR Congo rise to 710 as authorities deny lockdown rumors](https://iol.co.za/news/africa/2026-06-15-ebola-cases-in-dr-congo-rise-to-710-as-authorities-deny-lockdown-rumors/) | IOL | 2026-06-23T10:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [How Bad Could the Ebola Outbreak Get? Latest on Testing, Tracing and Vaccines](https://www.nytimes.com/interactive/2026/06/23/world/africa/ebola-virus-outbreak-update.html) | The New York Times | 2026-06-23T09:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -477,6 +485,5 @@ Search window: 7 day(s) ending 2026-06-24
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
