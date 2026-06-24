@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-24
-Generated at: 2026-06-24T09:40
+Generated at: 2026-06-24T09:50
 Search window: 7 day(s) ending 2026-06-24
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-24
 - [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR; 2026-06-18T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News; 2026-06-18T16:35+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News; 2026-06-18T09:49+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (151), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (148), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -34,10 +34,9 @@ Search window: 7 day(s) ending 2026-06-24
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 121 item(s) across 94 source(s).
-- Baseline snapshot created with 121 clustered item(s) across 94 source(s).
+- Newly tracked story cluster: 118 item(s) across 91 source(s).
+- Baseline snapshot created with 118 clustered item(s) across 91 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- foreignpolicyjournal.com now includes quarantine language.
 
 ### Measles transmission and vaccination
 - Lead item: [Notes from the Field: Initial Public Health Response to a Measles Outbreak in a Close-Knit West Texas Community](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765860) (CDC MMWR)
@@ -54,7 +53,7 @@ Search window: 7 day(s) ending 2026-06-24
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 121 item(s) across 94 source(s); 5 official/primary-source item(s).
+- Topic size: 118 item(s) across 91 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -438,6 +437,8 @@ Search window: 7 day(s) ending 2026-06-24
   Limited detail was available from feed metadata alone.
 - [Clinical trial set to test two drugs for fast-growing Ebola outbreak](https://www.statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/) | statnews.com | 2026-06-24T16:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [WHO says global Ebola risk remains low despite rising cases in Africa](https://english.news.cn/20260625/01585de3742d4efda6496f709418d6d3/c.html) | Xinhua | 2026-06-24T16:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [France reports first Ebola patient as cases in Africa surge above 1,000](https://www.washingtonpost.com/world/2026/06/24/ebola-outbreak-could-be-worst-ever-cases-surge-past-1000-congo/) | The Washington Post | 2026-06-24T16:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Outbreak Sets Record First-Month Case Count As Kenya Halts US Quarantine Facility Construction](https://www.foreignpolicyjournal.com/2026/06/24/congo-ebola-outbreak-sets-record-first-month-case-count-as-kenya-halts-us-quarantine-facility-construction/) | foreignpolicyjournal.com | 2026-06-24T15:24+00:00 | Outbreaks and emerging infections
@@ -455,8 +456,6 @@ Search window: 7 day(s) ending 2026-06-24
 - [International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship](https://www.cidrap.umn.edu/hantavirus/international-public-health-response-helped-contain-andes-hantavirus-outbreak-dutch) | CIDRAP | 2026-06-24T13:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [France reports first Ebola case after doctor returning from DR Congo tests positive](https://news.sky.com/story/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive-13556940) | Sky News | 2026-06-24T12:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO gives update on Ebola outbreak - after France reports case](https://news.sky.com/video/who-gives-update-on-ebola-outbreak-after-france-reports-case-13557355) | Sky News | 2026-06-24T12:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [France Confirms First Ebola Case Linked to Congo Outbreak](https://www.moroccoworldnews.com/2026/06/324416/france-confirms-first-ebola-case-linked-to-congo-outbreak/) | Morocco World News | 2026-06-24T12:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
