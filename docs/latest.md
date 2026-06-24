@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-24
-Generated at: 2026-06-24T11:25
+Generated at: 2026-06-24T11:28
 Search window: 7 day(s) ending 2026-06-24
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-06-24
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [As first imported Ebola case is recorded in Europe, ECDC calls on EU member states to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News)
-- Newly tracked story cluster: 25 item(s) across 22 source(s).
-- Baseline snapshot created with 25 clustered item(s) across 22 source(s).
+- Newly tracked story cluster: 26 item(s) across 23 source(s).
+- Baseline snapshot created with 26 clustered item(s) across 23 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ECDC News currently frames broader public risk as low.
 - The Guardian now includes quarantine language.
@@ -41,8 +41,8 @@ Search window: 7 day(s) ending 2026-06-24
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 119 item(s) across 89 source(s).
-- Baseline snapshot created with 119 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 118 item(s) across 88 source(s).
+- Baseline snapshot created with 118 clustered item(s) across 88 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
@@ -54,7 +54,7 @@ Search window: 7 day(s) ending 2026-06-24
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 119 item(s) across 89 source(s); 5 official/primary-source item(s).
+- Topic size: 118 item(s) across 88 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -62,7 +62,7 @@ Search window: 7 day(s) ending 2026-06-24
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 25 item(s) across 22 source(s); 2 official/primary-source item(s).
+- Topic size: 26 item(s) across 23 source(s); 2 official/primary-source item(s).
 - Lead item: [As first imported Ebola case is recorded in Europe, ECDC calls on EU member states to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News, 2026-06-24T16:24+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
 - Evidence notes: [As first imported Ebola case is recorded in Europe, ECDC calls on EU member states to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes](https://www.wsj.com/politics/policy/cdc-to-end-hantavirus-response-as-u-s-outbreak-risk-diminishes-8e069b3c) (WSJ); [US CDC to wind down hantavirus response as outbreak eases](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-end-hantavirus-response-wsj-reports-2026-06-24/) (Reuters); [International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship](https://www.cidrap.umn.edu/hantavirus/international-public-health-response-helped-contain-andes-hantavirus-outbreak-dutch) (CIDRAP)
