@@ -14,21 +14,21 @@
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 175,
-    "sources_cached": 2,
+    "metadata_only_count": 163,
+    "sources_cached": 0,
     "sources_failed": 3,
-    "sources_live": 187,
+    "sources_live": 177,
     "story_count_change": 5,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 187,
-    "refresh_cache": 2,
+    "live": 177,
+    "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-24T13:24:49",
+  "generated_at": "2026-06-24T13:27:28",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
