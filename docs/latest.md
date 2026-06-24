@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-24
-Generated at: 2026-06-24T04:42
+Generated at: 2026-06-24T04:52
 Search window: 7 day(s) ending 2026-06-24
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-24
 - [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News; 2026-06-18T16:35+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola outbreak in DRC and Uganda - ECDC scales up support on the ground](https://www.ecdc.europa.eu/en/news-events/ebola-outbreak-drc-and-uganda-ecdc-scales-support-ground) (ECDC News; 2026-06-18T09:49+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa; 2026-06-15T09:13+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (140), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (143), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-06-24
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 109 item(s) across 86 source(s).
-- Baseline snapshot created with 109 clustered item(s) across 86 source(s).
+- Newly tracked story cluster: 113 item(s) across 90 source(s).
+- Baseline snapshot created with 113 clustered item(s) across 90 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 109 item(s) across 86 source(s); 4 official/primary-source item(s).
+- Topic size: 113 item(s) across 90 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo](https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks) (Unicef)
@@ -423,8 +423,6 @@ Search window: 7 day(s) ending 2026-06-24
   Colombo district accounts for 10,085 cases, or 20.89% of all cases. 14,446 cases reported in June alone. Outbreak News Today is a reader-supported publication.
 - [As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo](https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks) | Unicef | 2026-06-24T11:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [France detects first Ebola case outside Africa in current outbreak - International - World](https://english.ahram.org.eg/NewsContent/2/9/571545/World/International/France-detects-first-Ebola-case-outside-Africa-in-.aspx) | Ahram Online | 2026-06-24T11:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Outbreak Tops 1,000 Cases](https://africa.com/dr-congo-ebola-outbreak-tops-1000-cases/) | Africa.com | 2026-06-24T10:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US releases experimental Ebola drug for DR Congo outbreak trials](https://www.rfi.fr/en/africa/20260624-us-releases-experimental-ebola-drug-for-dr-congo-outbreak-trials) | RFI | 2026-06-24T10:32+00:00 | Outbreaks and emerging infections
@@ -448,6 +446,8 @@ Search window: 7 day(s) ending 2026-06-24
 - [Congo Ebola outbreak passes 1,000 cases in first month: WHO](https://www.turkiyetoday.com/lifestyle/who-says-congo-ebola-outbreak-passes-1000-cases-in-first-month-3222532) | Türkiye Today | 2026-06-24T01:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Construction of US-backed Ebola quarantine unit in Kenya is stopped](https://www.cidrap.umn.edu/ebola/construction-us-backed-ebola-quarantine-unit-kenya-stopped) | CIDRAP | 2026-06-23T20:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [US provides Ebola treatment for outbreak in Congo, bringing trials closer](https://www.reuters.com/business/healthcare-pharmaceuticals/us-provides-ebola-treatment-outbreak-congo-bringing-trials-closer-2026-06-23/) | Reuters | 2026-06-23T20:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases top 1,000](https://www.gzeromedia.com/amp/ebola-cases-top-1000-2677082985) | GZERO Media | 2026-06-23T16:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
