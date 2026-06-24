@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-24
-Generated at: 2026-06-24T02:42
+Generated at: 2026-06-24T02:52
 Search window: 7 day(s) ending 2026-06-24
 
 ## Executive scan
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-06-24
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 106 item(s) across 80 source(s).
-- Baseline snapshot created with 106 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 106 item(s) across 81 source(s).
+- Baseline snapshot created with 106 clustered item(s) across 81 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 106 item(s) across 80 source(s); 4 official/primary-source item(s).
+- Topic size: 106 item(s) across 81 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: Eugene Kabambi Communications Officer WHO DRC Tel : +243 81 715 1697 Office : +47 241 39 027 Email: kabambie [at] who.int (kabambie[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Links https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lo… carousel-bg...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [ECDC publishes practical guidance to improve Ebola preparedness](https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-practical-guidance-improve-ebola-preparedness) (ECDC News); [Dans l’ombre de l’épidémie, un outil innovant accélère la riposte à Ebola en Ituri](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/dans-lombre-de-lepidemie-un-outil-innovant-accelere-la-riposte-ebola-en-ituri) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo](https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks) (Unicef)
@@ -427,6 +427,8 @@ Search window: 7 day(s) ending 2026-06-24
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Outbreak Records Highest First-Month Caseload In Africa](https://news.abplive.com/news/world/ebola-outbreak-democratic-republic-congo-who-cases-kenya-halts-us-backed-ebola-facility-1852325) | ABP News | 2026-06-24T08:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | European Centre for Disease Prevention and Control (ECDC) | 2026-06-24T07:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Did Trump's foreign aid cuts fuel the Ebola outbreak? : Short Wave](https://www.npr.org/2026/06/24/nx-s1-5866497/congo-ebola-virus-outbreak-news) | NPR | 2026-06-24T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) | The Guardian | 2026-06-24T06:19+00:00 | Virology and pathogen evolution
@@ -454,8 +456,6 @@ Search window: 7 day(s) ending 2026-06-24
 - [Kenya Ebola: Health Minister Aden Duale orders halt to construction of US-backed quarantine centre](https://www.bbc.com/news/articles/c4gy6vk44pwo) | BBC | 2026-06-23T11:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says Ebola outbreak in Congo exceeds 1,000 cases in 1st month](https://www.aa.com.tr/en/world/who-says-ebola-outbreak-in-congo-exceeds-1-000-cases-in-1st-month/3975466) | Anadolu Ajansı | 2026-06-23T11:11+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo's Ebola outbreak has most cases in first month of any African outbreak, WHO says](https://uk.news.yahoo.com/congos-ebola-outbreak-most-cases-105028628.html) | Yahoo News UK | 2026-06-23T10:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
