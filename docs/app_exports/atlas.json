@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 24 clustered item(s) across 22 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 23 clustered item(s) across 21 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1865,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-24T05:42:57",
-  "run_id": "run_87f1d0ebaed827fa"
+  "generated_at": "2026-06-24T05:53:06",
+  "run_id": "run_565aaa959d880085"
 }
