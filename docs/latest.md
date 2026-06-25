@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-25
-Generated at: 2026-06-25T06:41
+Generated at: 2026-06-25T06:54
 Search window: 7 day(s) ending 2026-06-25
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-25
 - [Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42334339/) (PubMed Infectious Disease Search; 2026-06-23T00:00; Major epidemiology studies; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
 - [AIRA Infodemic Trends Report 16–31 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-16-31-may-2026) (WHO Regional Office for Africa; 2026-06-19T13:16+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (151), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (151), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (2)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-06-25
 - ECDC News currently frames broader public risk as low.
 
 ### Dengue and arboviruses
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka)
+- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Daily Mirror - Sri Lanka now explicitly uses investigation or monitoring language.
@@ -40,8 +40,8 @@ Search window: 7 day(s) ending 2026-06-25
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 124 item(s) across 91 source(s).
-- Baseline snapshot created with 124 clustered item(s) across 91 source(s).
+- Newly tracked story cluster: 126 item(s) across 91 source(s).
+- Baseline snapshot created with 126 clustered item(s) across 91 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Polio and wastewater surveillance
@@ -53,9 +53,9 @@ Search window: 7 day(s) ending 2026-06-25
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 124 item(s) across 91 source(s); 2 official/primary-source item(s).
+- Topic size: 126 item(s) across 91 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
-- Detailed note: Cluster remains active across 124 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: Cluster remains active across 126 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Scientists Lack Access to Virus Samples Behind Congo’s Largest Bundibugyo Outbreak](https://www.bloomberg.com/news/articles/2026-06-25/ebola-scientists-lack-virus-samples-needed-to-test-vaccine-in-congo-outbreak?srnd\=all) (Bloomberg); [Trump shifts Africa strategy as worsening Ebola outbreak triggers $1.4 billion response from Washington](https://africa.businessinsider.com/local/lifestyle/trump-shifts-africa-strategy-as-worsening-ebola-outbreak-triggers-dollar14-billion/7k0ff86) (Business Insider Africa); [Deadly haemorrhagic fever: France detects first Ebola case outside Africa in current outbreak](https://today.rtl.lu/news/world/france-detects-first-ebola-case-outside-africa-in-current-outbreak-1522651301) (RTL Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
@@ -86,9 +86,9 @@ Search window: 7 day(s) ending 2026-06-25
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka, 2026-06-25T04:09+00:00)
-- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Colombo, June 25 (Daily Mirror) - Sri Lanka is currently seeing both dengue fever and seasonal influenza circulating at the same time, and doctors are urging the public not to try and self-diagnose at home.
-- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters); [Yemen : Health Authorities in Taiz Report Dengue Outbreak in Dhubab al-Mandeb](https://www.yemenonline.info/special-reports/12867) (Yemen Online)
+- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka, 2026-06-25T05:02+00:00)
+- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Seasonal influenza—commonly known as flu—remains a regular public health concern in Sri Lanka, particularly during two peak periods from April to June and again from November to January.
+- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters); [Yemen : Health Authorities in Taiz Report Dengue Outbreak in Dhubab al-Mandeb](https://www.yemenonline.info/special-reports/12867) (Yemen Online)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -435,8 +435,8 @@ Search window: 7 day(s) ending 2026-06-25
   Limited detail was available from feed metadata alone.
 - [Trump shifts Africa strategy as worsening Ebola outbreak triggers $1.4 billion response from Washington](https://africa.businessinsider.com/local/lifestyle/trump-shifts-africa-strategy-as-worsening-ebola-outbreak-triggers-dollar14-billion/7k0ff86) | Business Insider Africa | 2026-06-25T07:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) | Daily Mirror - Sri Lanka | 2026-06-25T04:09+00:00 | Outbreaks and emerging infections
-  Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Colombo, June 25 (Daily Mirror) - Sri Lanka is currently seeing both dengue fever and seasonal influenza circulating at the same time, and doctors are urging the public not to try and self-diagnose at home. Seasonal influenza—commonly known as flu—remains a regular public health concern in Sri Lanka, particularly during two peak periods from April to June and again from November to January.
+- [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) | Daily Mirror - Sri Lanka | 2026-06-25T05:02+00:00 | Outbreaks and emerging infections
+  Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Seasonal influenza—commonly known as flu—remains a regular public health concern in Sri Lanka, particularly during two peak periods from April to June and again from November to January. Health experts say the early symptoms of dengue and influenza are very similar, especially in the first few days, which often leads to confusion and delay in proper treatment.
 - [Deadly haemorrhagic fever: France detects first Ebola case outside Africa in current outbreak](https://today.rtl.lu/news/world/france-detects-first-ebola-case-outside-africa-in-current-outbreak-1522651301) | RTL Today | 2026-06-24T23:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo says number of confirmed Ebola cases rises to 1,118](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1118-2026-06-24/) | Reuters | 2026-06-24T22:25+00:00 | Outbreaks and emerging infections
