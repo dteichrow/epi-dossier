@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-25
-Generated at: 2026-06-25T11:10
+Generated at: 2026-06-25T11:16
 Search window: 7 day(s) ending 2026-06-25
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-25
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42334339/) (PubMed Infectious Disease Search; 2026-06-23T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (154), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (2)
-- Source health: 2 source(s) failed during collection: USDA APHIS Avian Influenza, California Department of Public Health News.
+- Category mix: Outbreaks and emerging infections (149), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
@@ -31,17 +31,18 @@ Search window: 7 day(s) ending 2026-06-25
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ECDC News currently frames broader public risk as low.
 
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 132 item(s) across 96 source(s).
-- Baseline snapshot created with 132 clustered item(s) across 96 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
-### Dengue and arboviruses
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka)
+### Measles transmission and vaccination
+- Lead item: [Measles exposure alert issued for LAX terminal and airport hotel after infected traveler arrives](https://www.mixvale.com.br/2026/06/19/measles-exposure-alert-issued-for-lax-terminal-and-airport-hotel-after-infected-traveler-arrives/) (Mix Vale)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Daily Mirror - Sri Lanka now explicitly uses investigation or monitoring language.
+- Outbreak News Today now includes deaths or fatal cases in the story frame.
+- WGAL now foregrounds vaccination or vaccine policy in the story.
+
+### Ebola virus disease
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 127 item(s) across 91 source(s).
+- Baseline snapshot created with 127 clustered item(s) across 91 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Polio and wastewater surveillance
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa)
@@ -52,10 +53,10 @@ Search window: 7 day(s) ending 2026-06-25
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 132 item(s) across 96 source(s); 2 official/primary-source item(s).
+- Topic size: 127 item(s) across 91 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
-- Detailed note: Cluster remains active across 132 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Kenya screens over 140,000 travellers for Ebola, all suspected cases test negative](https://eastleighvoice.co.ke/health/372280/kenya-screens-over-140000-travellers-for-ebola-all-suspected-cases-test-negative) (The Eastleigh Voice); [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) (Reuters); [France Confirms First Ebola Case Linked To DR Congo Outbreak](https://news.abplive.com/news/world/france-first-ebola-case-democratic-republic-congo-outbreak-humanitarian-aid-doctor-paris-1852647) (ABP Live English)
+- Detailed note: Cluster remains active across 127 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) (Reuters); [France Confirms First Ebola Case Linked To DR Congo Outbreak](https://news.abplive.com/news/world/france-first-ebola-case-democratic-republic-congo-outbreak-humanitarian-aid-doctor-paris-1852647) (ABP Live English); [Trump shifts Africa strategy as worsening Ebola outbreak triggers $1.4 billion response from Washington](https://africa.businessinsider.com/local/lifestyle/trump-shifts-africa-strategy-as-worsening-ebola-outbreak-triggers-dollar14-billion/7k0ff86) (Business Insider Africa)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -83,14 +84,6 @@ Search window: 7 day(s) ending 2026-06-25
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka, 2026-06-25T04:09+00:00)
-- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Colombo, June 25 (Daily Mirror) - Sri Lanka is currently seeing both dengue fever and seasonal influenza circulating at the same time, and doctors are urging the public not to try and self-diagnose at home.
-- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka); [Military deployed in Sri Lanka to fight surging dengue outbreak](https://www.telegraph.co.uk/global-health/science-and-disease/military-deployed-in-sri-lanka-to-fight-dengue-outbreak/) (The Telegraph); [NASA looks to improve forecasting of dengue risks in Puerto Rico](https://www.foxweather.com/earth-space/nasa-forecast-dengue-mosquito-risk-puerto-rico) (FOX Weather)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Polio and wastewater surveillance
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa, 2026-06-25T07:56+00:00)
@@ -98,6 +91,14 @@ Search window: 7 day(s) ending 2026-06-25
 - Evidence notes: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Niger records fresh polio, diphtheria cases](https://thenationonlineng.net/niger-records-fresh-polio-diphtheria-cases/) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://guardian.ng/news/niger-activates-surveillance-after-fresh-polio-diphtheria-cases/) (The Guardian Nigeria News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka, 2026-06-25T04:09+00:00)
+- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Colombo, June 25 (Daily Mirror) - Sri Lanka is currently seeing both dengue fever and seasonal influenza circulating at the same time, and doctors are urging the public not to try and self-diagnose at home.
+- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka); [Military deployed in Sri Lanka to fight surging dengue outbreak](https://www.telegraph.co.uk/global-health/science-and-disease/military-deployed-in-sri-lanka-to-fight-dengue-outbreak/) (The Telegraph)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -432,8 +433,6 @@ Search window: 7 day(s) ending 2026-06-25
 ## Other notable readings
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Kenya screens over 140,000 travellers for Ebola, all suspected cases test negative](https://eastleighvoice.co.ke/health/372280/kenya-screens-over-140000-travellers-for-ebola-all-suspected-cases-test-negative) | The Eastleigh Voice | 2026-06-25T16:41+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) | Reuters | 2026-06-25T15:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [France Confirms First Ebola Case Linked To DR Congo Outbreak](https://news.abplive.com/news/world/france-first-ebola-case-democratic-republic-congo-outbreak-humanitarian-aid-doctor-paris-1852647) | ABP Live English | 2026-06-25T11:18+00:00 | Outbreaks and emerging infections
@@ -450,6 +449,8 @@ Search window: 7 day(s) ending 2026-06-25
   Limited detail was available from feed metadata alone.
 - [WHO announces 2 trials of experimental drugs in Ebola outbreak](https://www.cidrap.umn.edu/ebola/who-announces-2-trials-experimental-drugs-ebola-outbreak) | CIDRAP | 2026-06-24T20:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [The town where the latest Ebola outbreak likely began](https://www.npr.org/2026/06/24/nx-s1-5869699/the-town-where-the-latest-ebola-outbreak-likely-began) | NPR | 2026-06-24T20:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Lives at risk in DR Congo as Ebola outbreak continues to outpace response](https://news.un.org/en/story/2026/06/1167801) | UN News | 2026-06-24T18:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US CDC concludes hantavirus response as outbreak eases](https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5) | Reuters | 2026-06-24T18:09+00:00 | Outbreaks and emerging infections
@@ -464,11 +465,11 @@ Search window: 7 day(s) ending 2026-06-25
   Limited detail was available from feed metadata alone.
 - [Explainer: Critical constraints risk further Ebola spread as cases surpass 1,000](https://ethiopianmonitor.com/2026/06/24/explainer-critical-constraints-risk-further-ebola-spread-as-cases-surpass-1000/) | Ethiopian Monitor | 2026-06-24T15:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Global Ebola risk 'remains low', WHO chief says](https://thepeninsulaqatar.com/article/24/06/2026/global-ebola-risk-remains-low-who-chief-says) | The Peninsula Qatar | 2026-06-24T14:53+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5) | CIDRAP | 2026-06-24T13:03+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Congo needs "more resources" to halt Ebola outbreak, Africa CDC doctor says](https://www.cbsnews.com/video/congo-needs-more-resources-to-halt-ebola-outbreak-africa-cdc-doctor-says/) | CBS News | 2026-06-24T11:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [US releases experimental Ebola drug for DR Congo outbreak trials](https://www.rfi.fr/en/africa/20260624-us-releases-experimental-ebola-drug-for-dr-congo-outbreak-trials) | RFI | 2026-06-24T10:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
