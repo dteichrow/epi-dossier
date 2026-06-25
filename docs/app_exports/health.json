@@ -13,31 +13,26 @@
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 143,
+    "metadata_only_count": 146,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 159,
+    "sources_failed": 1,
+    "sources_live": 162,
     "story_count_change": 4,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 159,
+    "live": 162,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-24T17:31:46",
+  "generated_at": "2026-06-24T17:52:07",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/medrxiv/2026-06-16/2026-06-24",
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
     }
   ]
 }
