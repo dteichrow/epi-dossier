@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-25
-Generated at: 2026-06-25T05:12
+Generated at: 2026-06-25T05:16
 Search window: 7 day(s) ending 2026-06-25
 
 ## Executive scan
@@ -13,7 +13,7 @@ Search window: 7 day(s) ending 2026-06-25
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42334339/) (PubMed Infectious Disease Search; 2026-06-23T00:00; Major epidemiology studies; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (150), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (2)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Source health: 2 source(s) failed during collection: USDA APHIS Avian Influenza, medRxiv Infectious Disease.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
@@ -40,8 +40,8 @@ Search window: 7 day(s) ending 2026-06-25
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 122 item(s) across 89 source(s).
-- Baseline snapshot created with 122 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 122 item(s) across 88 source(s).
+- Baseline snapshot created with 122 clustered item(s) across 88 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Polio and wastewater surveillance
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-06-25
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 122 item(s) across 89 source(s); 2 official/primary-source item(s).
+- Topic size: 122 item(s) across 88 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: Cluster remains active across 122 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Scientists Lack Access to Virus Samples Behind Congo’s Largest Bundibugyo Outbreak](https://www.bloomberg.com/news/articles/2026-06-25/ebola-scientists-lack-virus-samples-needed-to-test-vaccine-in-congo-outbreak?srnd\=all) (Bloomberg.com); [Deadly haemorrhagic fever: France detects first Ebola case outside Africa in current outbreak](https://today.rtl.lu/news/world/france-detects-first-ebola-case-outside-africa-in-current-outbreak-1522651301) (RTL Today); [Congo says number of confirmed Ebola cases rises to 1,118](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1118-2026-06-24/) (Reuters)
@@ -447,6 +447,8 @@ Search window: 7 day(s) ending 2026-06-25
   Limited detail was available from feed metadata alone.
 - [WHO announces 2 trials of experimental drugs in Ebola outbreak](https://www.cidrap.umn.edu/ebola/who-announces-2-trials-experimental-drugs-ebola-outbreak) | CIDRAP | 2026-06-24T20:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [The town where the latest Ebola outbreak likely began](https://www.npr.org/2026/06/24/nx-s1-5869699/the-town-where-the-latest-ebola-outbreak-likely-began) | NPR | 2026-06-24T20:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [France reports first Ebola patient as cases in Africa surge above 1,000](https://www.washingtonpost.com/world/2026/06/24/ebola-outbreak-could-be-worst-ever-cases-surge-past-1000-congo/) | The Washington Post | 2026-06-24T19:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Lives at risk in DR Congo as Ebola outbreak continues to outpace response](https://news.un.org/en/story/2026/06/1167801) | UN News | 2026-06-24T18:32+00:00 | Outbreaks and emerging infections
@@ -468,8 +470,6 @@ Search window: 7 day(s) ending 2026-06-25
 - [Congo needs "more resources" to halt Ebola outbreak, Africa CDC doctor says](https://www.cbsnews.com/video/congo-needs-more-resources-to-halt-ebola-outbreak-africa-cdc-doctor-says/) | CBS News | 2026-06-24T11:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Explainer: Critical constraints risk further Ebola spread as cases surpass 1,000](https://english.news.cn/20260624/50f1de1cc55c4f869f809c8ec66f4dd2/c.html) | Xinhua | 2026-06-24T10:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [France confirms first Ebola case linked to DR Congo outbreak](https://www.euractiv.com/news/france-confirms-first-ebola-case-linked-to-dr-congo-outbreak/) | Euractiv | 2026-06-24T10:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving

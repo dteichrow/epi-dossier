@@ -13,7 +13,7 @@
     ],
     "metadata_only_count": 157,
     "sources_cached": 0,
-    "sources_failed": 1,
+    "sources_failed": 2,
     "sources_live": 171,
     "story_count_change": 5,
     "wrapper_only_count": 5
@@ -25,12 +25,17 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-25T05:12:23",
+  "generated_at": "2026-06-25T05:16:49",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
+    },
+    {
+      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/medrxiv/2026-06-17/2026-06-25",
+      "source": "medRxiv Infectious Disease",
+      "source_type": "medrxiv"
     }
   ]
 }
