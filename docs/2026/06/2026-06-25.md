@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-25
-Generated at: 2026-06-25T11:50
+Generated at: 2026-06-25T12:00
 Search window: 7 day(s) ending 2026-06-25
 
 ## Executive scan
@@ -12,15 +12,15 @@ Search window: 7 day(s) ending 2026-06-25
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42334339/) (PubMed Infectious Disease Search; 2026-06-23T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (149), Policy, surveillance, and public health infrastructure (22), Virology and pathogen evolution (2)
-- Source health: 2 source(s) failed during collection: USDA APHIS Avian Influenza, California Department of Public Health News.
+- Category mix: Outbreaks and emerging infections (148), Policy, surveillance, and public health infrastructure (21), Virology and pathogen evolution (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
-- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian)
+- Lead item: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN)
 - Newly tracked story cluster: 4 item(s) across 4 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- Nation Thailand now explicitly uses investigation or monitoring language.
+- VOV.VN now explicitly uses investigation or monitoring language.
 - CIDRAP now includes deaths or fatal cases in the story frame.
 - Nation Thailand now includes quarantine language.
 
@@ -40,23 +40,23 @@ Search window: 7 day(s) ending 2026-06-25
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 127 item(s) across 91 source(s).
-- Baseline snapshot created with 127 clustered item(s) across 91 source(s).
+- Newly tracked story cluster: 126 item(s) across 92 source(s).
+- Baseline snapshot created with 126 clustered item(s) across 92 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
-### Dengue and arboviruses
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka)
+### Polio and wastewater surveillance
+- Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Daily Mirror - Sri Lanka now explicitly uses investigation or monitoring language.
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 127 item(s) across 91 source(s); 2 official/primary-source item(s).
+- Topic size: 126 item(s) across 92 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
-- Detailed note: Cluster remains active across 127 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Africa CDC Seeks USD 1.4 Billion To Combat Escalating Ebola Outbreak](https://www.latestly.com/world/africa-cdc-seeks-usd-1-4-billion-to-combat-escalating-ebola-outbreak-7490145.html) (LatestLY); [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) (Reuters); [France Confirms First Ebola Case Linked To DR Congo Outbreak](https://news.abplive.com/news/world/france-first-ebola-case-democratic-republic-congo-outbreak-humanitarian-aid-doctor-paris-1852647) (ABP Live English)
+- Detailed note: Cluster remains active across 126 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Africa CDC Seeks USD 1.4 Billion To Combat Escalating Ebola Outbreak](https://www.latestly.com/world/africa-cdc-seeks-usd-1-4-billion-to-combat-escalating-ebola-outbreak-7490145.html) (LatestLY); [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) (Reuters); [France Detects First Ebola Case Outside Africa Amid Rising Congo Outbreak](https://webvarta.com/international/global/france-first-ebola-outbreak/) (Webvarta News Agency)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -78,17 +78,9 @@ Search window: 7 day(s) ending 2026-06-25
 
 ### Avian influenza and H5N1
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
-- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian, 2026-06-24T06:19+00:00)
-- Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. According to a report by...
-- Evidence notes: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [Australia reports second H5N1 bird flu case in migratory seabird](https://theedgemalaysia.com/node/807742) (The Edge Malaysia); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka, 2026-06-25T04:09+00:00)
-- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Colombo, June 25 (Daily Mirror) - Sri Lanka is currently seeing both dengue fever and seasonal influenza circulating at the same time, and doctors are urging the public not to try and self-diagnose at home.
-- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka); [Military deployed in Sri Lanka to fight surging dengue outbreak](https://www.telegraph.co.uk/global-health/science-and-disease/military-deployed-in-sri-lanka-to-fight-dengue-outbreak/) (The Telegraph); [NASA looks to improve forecasting of dengue risks in Puerto Rico](https://www.foxweather.com/earth-space/nasa-forecast-dengue-mosquito-risk-puerto-rico) (FOX Weather)
+- Lead item: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN, 2026-06-24T08:49+00:00)
+- Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. Before the disease was...
+- Evidence notes: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN); [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -99,6 +91,14 @@ Search window: 7 day(s) ending 2026-06-25
 - Evidence notes: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Niger records fresh polio, diphtheria cases](https://thenationonlineng.net/niger-records-fresh-polio-diphtheria-cases/) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://guardian.ng/news/niger-activates-surveillance-after-fresh-polio-diphtheria-cases/) (The Guardian Nigeria News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka, 2026-06-25T04:09+00:00)
+- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Colombo, June 25 (Daily Mirror) - Sri Lanka is currently seeing both dengue fever and seasonal influenza circulating at the same time, and doctors are urging the public not to try and self-diagnose at home.
+- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka); [Military deployed in Sri Lanka to fight surging dengue outbreak](https://www.telegraph.co.uk/global-health/science-and-disease/military-deployed-in-sri-lanka-to-fight-dengue-outbreak/) (The Telegraph)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -437,6 +437,8 @@ Search window: 7 day(s) ending 2026-06-25
   Limited detail was available from feed metadata alone.
 - [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) | Reuters | 2026-06-25T15:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [France Detects First Ebola Case Outside Africa Amid Rising Congo Outbreak](https://webvarta.com/international/global/france-first-ebola-outbreak/) | Webvarta News Agency | 2026-06-25T12:46+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [France Confirms First Ebola Case Linked To DR Congo Outbreak](https://news.abplive.com/news/world/france-first-ebola-case-democratic-republic-congo-outbreak-humanitarian-aid-doctor-paris-1852647) | ABP Live English | 2026-06-25T11:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Trump shifts Africa strategy as worsening Ebola outbreak triggers $1.4 billion response from Washington](https://africa.businessinsider.com/local/lifestyle/trump-shifts-africa-strategy-as-worsening-ebola-outbreak-triggers-dollar14-billion/7k0ff86) | Business Insider Africa | 2026-06-25T07:29+00:00 | Outbreaks and emerging infections
@@ -468,8 +470,6 @@ Search window: 7 day(s) ending 2026-06-25
 - [Explainer: Critical constraints risk further Ebola spread as cases surpass 1,000](https://ethiopianmonitor.com/2026/06/24/explainer-critical-constraints-risk-further-ebola-spread-as-cases-surpass-1000/) | Ethiopian Monitor | 2026-06-24T15:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5) | CIDRAP | 2026-06-24T13:03+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [Congo needs "more resources" to halt Ebola outbreak, Africa CDC doctor says](https://www.cbsnews.com/video/congo-needs-more-resources-to-halt-ebola-outbreak-africa-cdc-doctor-says/) | CBS News | 2026-06-24T11:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
