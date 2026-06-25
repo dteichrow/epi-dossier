@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-24
-Generated at: 2026-06-24T22:11
+Generated at: 2026-06-24T22:16
 Search window: 7 day(s) ending 2026-06-24
 
 ## Executive scan
@@ -38,6 +38,12 @@ Search window: 7 day(s) ending 2026-06-24
 - Baseline snapshot created with 117 clustered item(s) across 86 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
+### Dengue and arboviruses
+- Lead item: [Sri Lanka troops to battle deadly dengue mosquitoes as cases rise](https://insiderpaper.com/sri-lanka-troops-to-battle-deadly-dengue-mosquitoes-as-cases-rise/) (Insider Paper)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Insider Paper now includes deaths or fatal cases in the story frame.
+
 
 ## Major topics
 ### Ebola virus disease
@@ -73,10 +79,10 @@ Search window: 7 day(s) ending 2026-06-24
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters, 2026-06-19T16:00+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters); [Yemen : Health Authorities in Taiz Report Dengue Outbreak in Dhubab al-Mandeb](https://www.yemenonline.info/special-reports/12867) (Yemen Online)
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Sri Lanka troops to battle deadly dengue mosquitoes as cases rise](https://insiderpaper.com/sri-lanka-troops-to-battle-deadly-dengue-mosquitoes-as-cases-rise/) (Insider Paper, 2026-06-23T10:25+00:00)
+- Detailed note: Nearly 50,000 cases have been reported this year, with 29 deaths, although that is still far below the 2017 peak, when 186,000 patients and 440 deaths were reported. Sri Lanka is deploying the military to contain the spread of mosquito-borne dengue fever, as health authorities warned on Tuesday that hospitals are being overwhelmed with more than 1,000 admissions daily.
+- Evidence notes: [Sri Lanka troops to battle deadly dengue mosquitoes as cases rise](https://insiderpaper.com/sri-lanka-troops-to-battle-deadly-dengue-mosquitoes-as-cases-rise/) (Insider Paper); [Sri Lanka battles surge in dengue fever, with more than 44,000 cases so far this year](https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-battles-surge-dengue-fever-with-more-than-44000-cases-so-far-this-year-2026-06-19/) (Reuters); [Yemen : Health Authorities in Taiz Report Dengue Outbreak in Dhubab al-Mandeb](https://www.yemenonline.info/special-reports/12867) (Yemen Online)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
