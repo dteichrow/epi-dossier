@@ -13,7 +13,7 @@
     ],
     "metadata_only_count": 157,
     "sources_cached": 0,
-    "sources_failed": 2,
+    "sources_failed": 3,
     "sources_live": 171,
     "story_count_change": 5,
     "wrapper_only_count": 5
@@ -25,7 +25,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-25T05:16:49",
+  "generated_at": "2026-06-25T05:32:56",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
@@ -36,6 +36,11 @@
       "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/medrxiv/2026-06-17/2026-06-25",
       "source": "medRxiv Infectious Disease",
       "source_type": "medrxiv"
+    },
+    {
+      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-06-17/2026-06-25",
+      "source": "bioRxiv Infectious Disease",
+      "source_type": "biorxiv"
     }
   ]
 }
