@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T01:12
+Generated at: 2026-06-26T01:16
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-06-26
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 124 item(s) across 89 source(s).
-- Baseline snapshot created with 124 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 124 item(s) across 90 source(s).
+- Baseline snapshot created with 124 clustered item(s) across 90 source(s).
 - Health and Me now includes deaths or fatal cases in the story frame.
 - Mexico Business News now foregrounds vaccination or vaccine policy in the story.
 
@@ -47,7 +47,7 @@ Search window: 7 day(s) ending 2026-06-26
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 124 item(s) across 89 source(s); 2 official/primary-source item(s).
+- Topic size: 124 item(s) across 90 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: As of June 25, 2026, health authorities have reported 1,139 confirmed cases and 293 confirmed deaths across affected countries, according to data published by the CDC and national ministries of health. While the CDC assesses the risk to the US public as low, the agency has implemented travel-related measures and enhanced screening protocols to reduce the likelihood of imported cases.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Cases Reach 1,155, Deaths Top 300 in Congo; WHO Warns of 70% Risk of Spread to South Sudan](https://www.healthandme.com/health-news/ebola-cases-reach-1155-deaths-top-300-in-congo-who-warns-of-70-risk-of-spread-to-south-sudan-article-154763509) (Health and Me); [Congo's Ebola outbreak crosses 1,150 cases as Unicef warns children face the greatest risk](https://www.firstpost.com/world/congos-ebola-outbreak-crosses-1150-cases-as-unicef-warns-children-face-the-greatest-risk-14026286.html) (Firstpost); [Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn](https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html) (The New York Times)
