@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-25
-Generated at: 2026-06-25T20:21
+Generated at: 2026-06-25T20:31
 Search window: 7 day(s) ending 2026-06-25
 
 ## Executive scan
@@ -12,29 +12,29 @@ Search window: 7 day(s) ending 2026-06-25
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42334339/) (PubMed Infectious Disease Search; 2026-06-23T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (131), Policy, surveillance, and public health infrastructure (18), Virology and pathogen evolution (2)
+- Category mix: Outbreaks and emerging infections (147), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
-- Lead item: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- VOV.VN now explicitly uses investigation or monitoring language.
+- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Nation Thailand now explicitly uses investigation or monitoring language.
 - CIDRAP now includes deaths or fatal cases in the story frame.
 - Nation Thailand now includes quarantine language.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
-- Newly tracked story cluster: 29 item(s) across 26 source(s).
-- Baseline snapshot created with 29 clustered item(s) across 26 source(s).
+- Newly tracked story cluster: 28 item(s) across 25 source(s).
+- Baseline snapshot created with 28 clustered item(s) across 25 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ECDC News currently frames broader public risk as low.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 109 item(s) across 81 source(s).
-- Baseline snapshot created with 109 clustered item(s) across 81 source(s).
+- Newly tracked story cluster: 125 item(s) across 90 source(s).
+- Baseline snapshot created with 125 clustered item(s) across 90 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Polio and wastewater surveillance
@@ -46,15 +46,15 @@ Search window: 7 day(s) ending 2026-06-25
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 109 item(s) across 81 source(s); 2 official/primary-source item(s).
+- Topic size: 125 item(s) across 90 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
-- Detailed note: Cluster remains active across 109 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: Cluster remains active across 125 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn](https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html) (The New York Times); [DRC’s Ebola outbreak has 70 per cent chance of spreading to South Sudan, new modelling predicts](https://www.telegraph.co.uk/global-health/science-and-disease/drc-ebola-outbreak-could-spread-to-south-sudan/) (The Telegraph); [World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign](https://news.un.org/en/story/2026/06/1167812) (UN News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 29 item(s) across 26 source(s); 4 official/primary-source item(s).
+- Topic size: 28 item(s) across 25 source(s); 4 official/primary-source item(s).
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
 - Detailed note: You can now register to attend this year’s European Scientific Conference on Applied Infectious Disease Epidemiology (ESCAIDE), taking place in Stockholm and online on 18–20 November 2026. ECDC underlines that the risk of sustained transmission within the EU/EEA is very low provided that effective measures for early detection, isolation and treatment of patients are in place. Topics A-Z A B C D E F G H I J K L M...
 - Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews)
@@ -69,14 +69,6 @@ Search window: 7 day(s) ending 2026-06-25
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Avian influenza and H5N1
-- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
-- Lead item: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN, 2026-06-24T08:49+00:00)
-- Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. Before the disease was...
-- Evidence notes: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN); [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Polio and wastewater surveillance
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa, 2026-06-25T07:56+00:00)
@@ -84,6 +76,14 @@ Search window: 7 day(s) ending 2026-06-25
 - Evidence notes: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Niger records fresh polio, diphtheria cases](https://thenationonlineng.net/niger-records-fresh-polio-diphtheria-cases/) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://guardian.ng/news/niger-activates-surveillance-after-fresh-polio-diphtheria-cases/) (The Guardian Nigeria News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Avian influenza and H5N1
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian, 2026-06-24T06:19+00:00)
+- Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. According to a report by...
+- Evidence notes: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -432,8 +432,6 @@ Search window: 7 day(s) ending 2026-06-25
   Limited detail was available from feed metadata alone.
 - [World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign](https://news.un.org/en/story/2026/06/1167812) | UN News | 2026-06-25T21:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa CDC Seeks USD 1.4 Billion To Combat Escalating Ebola Outbreak](https://www.latestly.com/world/africa-cdc-seeks-usd-1-4-billion-to-combat-escalating-ebola-outbreak-7490145.html) | LatestLY | 2026-06-25T18:17+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Saudi Arabia bans citizens from travelling to three African countries over Ebola outbreak](https://gulfnews.com/amp/story/world%2Fgulf%2Fsaudi%2Fsaudi-arabia-bans-citizens-from-travelling-to-three-african-countries-over-ebola-outbreak-1.500587096) | Gulf News | 2026-06-25T18:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) | Reuters | 2026-06-25T15:10+00:00 | Outbreaks and emerging infections
@@ -463,6 +461,8 @@ Search window: 7 day(s) ending 2026-06-25
 - [Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5) | WSJ | 2026-06-24T17:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says Congo's Ebola outbreak still fast-moving and health workers under threat](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-outbreak-is-still-outpacing-response-whos-tedros-says-2026-06-24/) | Reuters | 2026-06-24T15:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?](https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html) | The New York Times | 2026-06-24T15:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
