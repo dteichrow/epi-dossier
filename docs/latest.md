@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T02:42
+Generated at: 2026-06-26T02:52
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-26
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (145), Policy, surveillance, and public health infrastructure (19), Virology and pathogen evolution (2)
+- Category mix: Outbreaks and emerging infections (144), Policy, surveillance, and public health infrastructure (19), Virology and pathogen evolution (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -33,8 +33,8 @@ Search window: 7 day(s) ending 2026-06-26
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
-- Newly tracked story cluster: 27 item(s) across 24 source(s).
-- Baseline snapshot created with 27 clustered item(s) across 24 source(s).
+- Newly tracked story cluster: 26 item(s) across 23 source(s).
+- Baseline snapshot created with 26 clustered item(s) across 23 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ECDC News currently frames broader public risk as low.
 
@@ -55,7 +55,7 @@ Search window: 7 day(s) ending 2026-06-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 27 item(s) across 24 source(s); 4 official/primary-source item(s).
+- Topic size: 26 item(s) across 23 source(s); 4 official/primary-source item(s).
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
 - Detailed note: You can now register to attend this year’s European Scientific Conference on Applied Infectious Disease Epidemiology (ESCAIDE), taking place in Stockholm and online on 18–20 November 2026. ECDC underlines that the risk of sustained transmission within the EU/EEA is very low provided that effective measures for early detection, isolation and treatment of patients are in place. Topics A-Z A B C D E F G H I J K L M...
 - Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews)
