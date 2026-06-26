@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T13:01
+Generated at: 2026-06-26T13:11
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -12,17 +12,24 @@ Search window: 7 day(s) ending 2026-06-26
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (156), Policy, surveillance, and public health infrastructure (17), Virology and pathogen evolution (2)
+- Category mix: Outbreaks and emerging infections (150), Policy, surveillance, and public health infrastructure (19), Virology and pathogen evolution (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
-- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Lead item: [H5N1 emerged in Asia 30 years ago. Here's what happened next](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (Australian Broadcasting Corporation)
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
 - Nation Thailand now explicitly uses investigation or monitoring language.
 - CIDRAP now includes deaths or fatal cases in the story frame.
 - Nation Thailand now includes quarantine language.
+
+### Ebola virus disease
+- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 131 item(s) across 91 source(s).
+- Baseline snapshot created with 131 clustered item(s) across 91 source(s).
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+- Reuters now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
@@ -31,31 +38,19 @@ Search window: 7 day(s) ending 2026-06-26
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ECDC News currently frames broader public risk as low.
 
-### Ebola virus disease
-- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 136 item(s) across 96 source(s).
-- Baseline snapshot created with 136 clustered item(s) across 96 source(s).
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
 ### Polio and wastewater surveillance
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
-### Measles transmission and vaccination
-- Lead item: [The ghost of measles: why a preventable disease is haunting Bangladesh](https://www.tbsnews.net/thoughts/ghost-measles-why-preventable-disease-haunting-bangladesh-1472846) (The Business Standard)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
+- India's News.Net now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 136 item(s) across 96 source(s); 3 official/primary-source item(s).
+- Topic size: 131 item(s) across 91 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [US CDC raises Ebola outbreak response to highest level](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-raises-response-ebola-outbreak-highest-level-says-risk-spread-us-is-low-2026-06-26/) (Reuters); [More than a month into DR Congo Ebola outbreak, doctors warn 'this epidemic will last'](https://www.modernghana.com/news/1505878/more-than-a-month-into-dr-congo-ebola-outbreak.html) (Modern Ghana)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [US starts vaccine effort for Ebola Bundibugyo as outbreak spreads](https://www.reuters.com/business/healthcare-pharmaceuticals/us-ship-experimental-ebola-therapy-drc-uganda-outbreak-worsens-2026-06-26/) (Reuters); [More than a month into DR Congo Ebola outbreak, doctors warn 'this epidemic will last'](https://www.modernghana.com/news/1505878/more-than-a-month-into-dr-congo-ebola-outbreak.html) (Modern Ghana)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -68,18 +63,18 @@ Search window: 7 day(s) ending 2026-06-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Polio and wastewater surveillance
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa, 2026-06-25T07:56+00:00)
-- Detailed note: Publications ochembac@who.int Thu, 25/06/2026 - 08:56 Two drops. Inside this month’s edition of the TBA: ✅33,000+ settlements reached ✅1.2M+ children vaccinated ✅Solar‑powered labs securing Nigeria’s diagnostic future ✅Zero‑dose children found in the hardest‑to‑reach places A publication that covers the contributions, milestones and bottlenecks of WHO in the fight against Polio in Nigeria.
-- Evidence notes: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Niger records fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMifkFVX3lxTFBILXJrQlZNMjI5Nk5TMVRJRGFrNW5VTDRuYTdBZllORnFvWFpIVmN3Z004RmpLTDN2VG12aG85ay1rdUd1TGIwLURZMllFYnc1U3l0TjJjdk9XODVfSV8yNnhDWjNmak4wbUlvX0xzbGg1MjU3VEttaHR6NGFtZw?oc=5) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1gtdFhMSkNIZHdWRzR5TTZ2M01ETDdKYkNmbmg3N0lPU3dXbnJSdmYyOW0wdTFHeHIyaURtcXNPSWpVelhRckw4NHFHa2ZCd2RyaGZGaE40QXc2WEliRFRYalhLNXZSUzFDWXdaUFdoUS1sVUFPc3pMbnQ2bDhfN0R1NlNTUm1qNjZwWFhleUxNZW8?oc=5) (The Guardian Nigeria News)
+- Detailed note: Shimla (Himachal Pradesh) [India], June 26 (ANI): Himachal Pradesh has completed all preparations for the National Immunization Day (NID) Pulse Polio Campaign to be held on Sunday, June 28, with the Health Department aiming to administer Oral Polio Vaccine (OPV) drops to nearly 5.94 lakh children below the age of five through 4,753 Pulse Polio booths across the state. Publications ochembac@who.int Thu, 25/06/2026...
+- Evidence notes: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Himachal targets 5.94 lakh children in statewide pulse polio drive on June 28](https://www.indiasnews.net/news/279149128/himachal-targets-594-lakh-children-in-statewide-pulse-polio-drive-on-june-28) (India's News.Net); [Niger records fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMifkFVX3lxTFBILXJrQlZNMjI5Nk5TMVRJRGFrNW5VTDRuYTdBZllORnFvWFpIVmN3Z004RmpLTDN2VG12aG85ay1rdUd1TGIwLURZMllFYnc1U3l0TjJjdk9XODVfSV8yNnhDWjNmak4wbUlvX0xzbGg1MjU3VEttaHR6NGFtZw?oc=5) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1gtdFhMSkNIZHdWRzR5TTZ2M01ETDdKYkNmbmg3N0lPU3dXbnJSdmYyOW0wdTFHeHIyaURtcXNPSWpVelhRckw4NHFHa2ZCd2RyaGZGaE40QXc2WEliRFRYalhLNXZSUzFDWXdaUFdoUS1sVUFPc3pMbnQ2bDhfN0R1NlNTUm1qNjZwWFhleUxNZW8?oc=5) (The Guardian Nigeria News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Avian influenza and H5N1
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian, 2026-06-24T06:19+00:00)
+- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
+- Lead item: [H5N1 emerged in Asia 30 years ago. Here's what happened next](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (Australian Broadcasting Corporation, 2026-06-25T19:11+00:00)
 - Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. According to a report by...
-- Evidence notes: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
+- Evidence notes: [H5N1 emerged in Asia 30 years ago. Here's what happened next](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (Australian Broadcasting Corporation); [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -430,16 +425,16 @@ Search window: 7 day(s) ending 2026-06-26
 
 
 ## Other notable readings
-- [US CDC raises Ebola outbreak response to highest level](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-raises-response-ebola-outbreak-highest-level-says-risk-spread-us-is-low-2026-06-26/) | Reuters | 2026-06-26T18:34+00:00 | Outbreaks and emerging infections
+- [US starts vaccine effort for Ebola Bundibugyo as outbreak spreads](https://www.reuters.com/business/healthcare-pharmaceuticals/us-ship-experimental-ebola-therapy-drc-uganda-outbreak-worsens-2026-06-26/) | Reuters | 2026-06-26T19:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [More than a month into DR Congo Ebola outbreak, doctors warn 'this epidemic will last'](https://www.modernghana.com/news/1505878/more-than-a-month-into-dr-congo-ebola-outbreak.html) | Modern Ghana | 2026-06-26T18:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Escalates in the Democratic Republic of Congo](https://www.devdiscourse.com/article/health/3941516-ebola-outbreak-escalates-in-the-democratic-republic-of-congo?amp) | Devdiscourse | 2026-06-26T17:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US to ship experimental Ebola therapy to DRC and Uganda as outbreak worsens](https://www.reuters.com/business/healthcare-pharmaceuticals/us-ship-experimental-ebola-therapy-drc-uganda-outbreak-worsens-2026-06-26/) | Reuters | 2026-06-26T16:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [What is behind DR Congo's latest Ebola outbreak, and should the world be concerned?](https://news.az/news/what-is-behind-dr-congo-s-latest-ebola-outbreak-and-should-the-world-be-concerned) | Latest news from Azerbaijan | 2026-06-26T15:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Himachal targets 5.94 lakh children in statewide pulse polio drive on June 28](https://www.indiasnews.net/news/279149128/himachal-targets-594-lakh-children-in-statewide-pulse-polio-drive-on-june-28) | India's News.Net | 2026-06-26T15:01+00:00 | Outbreaks and emerging infections
+  Shimla (Himachal Pradesh) [India], June 26 (ANI): Himachal Pradesh has completed all preparations for the National Immunization Day (NID) Pulse Polio Campaign to be held on Sunday, June 28, with the Health Department aiming to administer Oral Polio Vaccine (OPV) drops to nearly 5.94 lakh children below the age of five through 4,753 Pulse Polio booths across the state. To ensure that no eligible child is left out, health teams will conduct intensive house-to-house visits on June 29 and 30 to vaccinate children who may have missed receiving the vaccine on the booth day. The state's preparedness was reviewed at a meeting of the State Task Force for Immunization (STFI) held on June 23 under the chairmanship of Health Secretary M Sudha Devi, IAS.
 - [Ebola outbreak surpasses 1,000 cases in Congo: New study warns of high risk of spread to neighbouring cou](https://timesofindia.indiatimes.com/health/ebola-outbreak-surpasses-1000-cases-in-congo-new-study-warns-of-high-risk-of-spread-to-neighbouring-countries/articleshow/132018818.cms) | The Times of India | 2026-06-26T14:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Chaotic Push to Train Staff for US Ebola Outbreak Facility Alarms Health Workers](https://www.bloomberg.com/news/features/2026-06-26/trump-administration-s-ebola-response-raises-alarm-among-us-health-workers) | Bloomberg.com | 2026-06-26T13:15+00:00 | Outbreaks and emerging infections
@@ -468,8 +463,8 @@ Search window: 7 day(s) ending 2026-06-26
   Limited detail was available from feed metadata alone.
 - [World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign](https://news.un.org/en/story/2026/06/1167812) | UN News | 2026-06-25T21:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) | Reuters | 2026-06-25T15:10+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [H5N1 emerged in Asia 30 years ago. Here's what happened next](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) | Australian Broadcasting Corporation | 2026-06-25T19:11+00:00 | Outbreaks and emerging infections
+  Here's what happened next Australian Broadcasting Corporation
 
 ## Papers worth saving
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/)
