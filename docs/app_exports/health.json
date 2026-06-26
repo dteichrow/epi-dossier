@@ -12,21 +12,21 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 165,
+    "metadata_only_count": 164,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 178,
-    "story_count_change": 4,
+    "sources_live": 176,
+    "story_count_change": 5,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 178,
+    "live": 176,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-26T13:31:02",
+  "generated_at": "2026-06-26T13:42:00",
   "source_failures": [
     {
       "error": "Exceeded 30 redirects.",
