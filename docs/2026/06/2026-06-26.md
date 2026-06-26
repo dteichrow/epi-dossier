@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T00:32
+Generated at: 2026-06-26T01:12
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -12,17 +12,24 @@ Search window: 7 day(s) ending 2026-06-26
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (143), Policy, surveillance, and public health infrastructure (17), Virology and pathogen evolution (2)
+- Category mix: Outbreaks and emerging infections (143), Policy, surveillance, and public health infrastructure (19), Virology and pathogen evolution (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
-- Lead item: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- VOV.VN now explicitly uses investigation or monitoring language.
+- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Nation Thailand now explicitly uses investigation or monitoring language.
 - CIDRAP now includes deaths or fatal cases in the story frame.
 - Nation Thailand now includes quarantine language.
+
+### Ebola virus disease
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 124 item(s) across 89 source(s).
+- Baseline snapshot created with 124 clustered item(s) across 89 source(s).
+- Health and Me now includes deaths or fatal cases in the story frame.
+- Mexico Business News now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
@@ -31,30 +38,18 @@ Search window: 7 day(s) ending 2026-06-26
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ECDC News currently frames broader public risk as low.
 
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 121 item(s) across 86 source(s).
-- Baseline snapshot created with 121 clustered item(s) across 86 source(s).
-- Health and Me now includes deaths or fatal cases in the story frame.
-
 ### Polio and wastewater surveillance
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
-### Dengue and arboviruses
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Daily Mirror - Sri Lanka now explicitly uses investigation or monitoring language.
-
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 121 item(s) across 86 source(s); 2 official/primary-source item(s).
+- Topic size: 124 item(s) across 89 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
-- Detailed note: Cluster remains active across 121 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: As of June 25, 2026, health authorities have reported 1,139 confirmed cases and 293 confirmed deaths across affected countries, according to data published by the CDC and national ministries of health. While the CDC assesses the risk to the US public as low, the agency has implemented travel-related measures and enhanced screening protocols to reduce the likelihood of imported cases.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Cases Reach 1,155, Deaths Top 300 in Congo; WHO Warns of 70% Risk of Spread to South Sudan](https://www.healthandme.com/health-news/ebola-cases-reach-1155-deaths-top-300-in-congo-who-warns-of-70-risk-of-spread-to-south-sudan-article-154763509) (Health and Me); [Congo's Ebola outbreak crosses 1,150 cases as Unicef warns children face the greatest risk](https://www.firstpost.com/world/congos-ebola-outbreak-crosses-1150-cases-as-unicef-warns-children-face-the-greatest-risk-14026286.html) (Firstpost); [Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn](https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
@@ -66,14 +61,6 @@ Search window: 7 day(s) ending 2026-06-26
 - Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Avian influenza and H5N1
-- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
-- Lead item: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN, 2026-06-24T08:49+00:00)
-- Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. Before the disease was...
-- Evidence notes: [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN); [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
 - Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
@@ -91,13 +78,21 @@ Search window: 7 day(s) ending 2026-06-26
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
+### Avian influenza and H5N1
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka, 2026-06-25T05:02+00:00)
-- Detailed note: Sports Japan draw 1-1 with Sweden at World Cup to finish second in Group F Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners Australia reach 2026 World Cup knockouts after 0-0 draw with Paraguay West Indies wrap Sri Lanka up for 308 despite Dhananjaya 120 Amshi de Silva runs through Unicorns to give Super Kings second win Japan draw 1-1 with Sweden at World Cup to finish second in Group F...
-- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Special Dengue Prevention Week declared in Colombo District from June 15 to 21](http://island.lk/special-dengue-prevention-week-declared-in-colombo-district-from-june-15-to-21/) (Island.lk); [Military deployed in Sri Lanka to fight surging dengue outbreak](https://www.telegraph.co.uk/global-health/science-and-disease/military-deployed-in-sri-lanka-to-fight-dengue-outbreak/) (telegraph.co.uk)
+- Lead item: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian, 2026-06-24T06:19+00:00)
+- Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. According to a report by...
+- Evidence notes: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka, 2026-06-25T05:02+00:00)
+- Detailed note: Sports Japan draw 1-1 with Sweden at World Cup to finish second in Group F Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners Australia reach 2026 World Cup knockouts after 0-0 draw with Paraguay West Indies wrap Sri Lanka up for 308 despite Dhananjaya 120 Amshi de Silva runs through Unicorns to give Super Kings second win Japan draw 1-1 with Sweden at World Cup to finish second in Group F...
+- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Special Dengue Prevention Week declared in Colombo District from June 15 to 21](http://island.lk/special-dengue-prevention-week-declared-in-colombo-district-from-june-15-to-21/) (Island.lk)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -436,6 +431,8 @@ Search window: 7 day(s) ending 2026-06-26
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn](https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html) | The New York Times | 2026-06-25T22:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Bundibugyo Ebola Surpasses 1,100 Cases, CDC Expands Response](https://mexicobusiness.news/health/news/bundibugyo-ebola-surpasses-1100-cases-cdc-expands-response) | Mexico Business News | 2026-06-25T22:40+00:00 | Outbreaks and emerging infections
+  As of June 25, 2026, health authorities have reported 1,139 confirmed cases and 293 confirmed deaths across affected countries, according to data published by the CDC and national ministries of health. While the CDC assesses the risk to the US public as low, the agency has implemented travel-related measures and enhanced screening protocols to reduce the likelihood of imported cases. The PAHO is also preparing shipments of materials and reagents for molecular detection of Bundibugyo ebolavirus in selected countries with appropriate biosafety capabilities, based on regional risk assessments.
 - [Saudi Arabia bans citizens from traveling to 3 African countries over outbreak of Ebola](https://saudigazette.com.sa/article/662503) | Saudi Gazette | 2026-06-25T22:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign](https://news.un.org/en/story/2026/06/1167812) | UN News | 2026-06-25T21:02+00:00 | Outbreaks and emerging infections
@@ -467,8 +464,6 @@ Search window: 7 day(s) ending 2026-06-26
 - [Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5) | WSJ | 2026-06-24T17:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says Congo's Ebola outbreak still fast-moving and health workers under threat](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-outbreak-is-still-outpacing-response-whos-tedros-says-2026-06-24/) | Reuters | 2026-06-24T15:51+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?](https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html) | The New York Times | 2026-06-24T15:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
