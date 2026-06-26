@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T10:16
+Generated at: 2026-06-26T10:30
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-26
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (155), Policy, surveillance, and public health infrastructure (18), Virology and pathogen evolution (2)
+- Category mix: Outbreaks and emerging infections (156), Policy, surveillance, and public health infrastructure (18), Virology and pathogen evolution (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -33,8 +33,8 @@ Search window: 7 day(s) ending 2026-06-26
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 137 item(s) across 97 source(s).
-- Baseline snapshot created with 137 clustered item(s) across 97 source(s).
+- Newly tracked story cluster: 138 item(s) across 97 source(s).
+- Baseline snapshot created with 138 clustered item(s) across 97 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Polio and wastewater surveillance
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-06-26
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 137 item(s) across 97 source(s); 3 official/primary-source item(s).
+- Topic size: 138 item(s) across 97 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [US to ship experimental Ebola therapy to DRC and Uganda as outbreak worsens](https://www.reuters.com/business/healthcare-pharmaceuticals/us-ship-experimental-ebola-therapy-drc-uganda-outbreak-worsens-2026-06-26/) (Reuters); [What is behind DR Congo's latest Ebola outbreak, and should the world be concerned?](https://news.az/news/what-is-behind-dr-congo-s-latest-ebola-outbreak-and-should-the-world-be-concerned) (Latest news from Azerbaijan)
@@ -436,7 +436,7 @@ Search window: 7 day(s) ending 2026-06-26
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak surpasses 1,000 cases in Congo: New study warns of high risk of spread to neighbouring cou](https://timesofindia.indiatimes.com/health/ebola-outbreak-surpasses-1000-cases-in-congo-new-study-warns-of-high-risk-of-spread-to-neighbouring-countries/articleshow/132018818.cms) | The Times of India | 2026-06-26T14:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Chaotic Push to Train Staff for US Ebola Outbreak Facility Alarms Health Workers](https://www.bloomberg.com/news/features/2026-06-26/trump-administration-s-ebola-response-raises-alarm-among-us-health-workers) | Bloomberg.com | 2026-06-26T13:15+00:00 | Outbreaks and emerging infections
+- [Chaotic Push to Train Staff for US Ebola Outbreak Facility Alarms Health Workers](https://www.bloomberg.com/news/features/2026-06-26/trump-administration-s-ebola-response-raises-alarm-among-us-health-workers) | Bloomberg | 2026-06-26T13:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [No Bundibugyo Ebola cases recorded in South Sudan, Ministry and WHO Say](https://www.eyeradio.org/no-bundibugyo-ebola-cases-recorded-in-south-sudan-ministry-and-who-say/) | Eye Radio | 2026-06-26T11:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
