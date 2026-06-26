@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T14:31
+Generated at: 2026-06-26T14:51
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-26
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (17), Virology and pathogen evolution (2)
-- Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (162), Policy, surveillance, and public health infrastructure (16), Virology and pathogen evolution (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-06-26
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 138 item(s) across 99 source(s).
-- Baseline snapshot created with 138 clustered item(s) across 99 source(s).
+- Newly tracked story cluster: 140 item(s) across 99 source(s).
+- Baseline snapshot created with 140 clustered item(s) across 99 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Reuters now foregrounds vaccination or vaccine policy in the story.
 
@@ -43,7 +43,7 @@ Search window: 7 day(s) ending 2026-06-26
 - Newly tracked story cluster: 4 item(s) across 4 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 4 source(s).
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
-- local21news.com now foregrounds vaccination or vaccine policy in the story.
+- FOX43 now foregrounds vaccination or vaccine policy in the story.
 
 ### Polio and wastewater surveillance
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa)
@@ -54,7 +54,7 @@ Search window: 7 day(s) ending 2026-06-26
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 138 item(s) across 99 source(s); 3 official/primary-source item(s).
+- Topic size: 140 item(s) across 99 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [As Ebola deaths top 300, African officials meet to boost regional readiness](https://www.cidrap.umn.edu/ebola/ebola-deaths-top-300-african-officials-meet-boost-regional-readiness) (CIDRAP); [US starts vaccine effort for Ebola Bundibugyo as outbreak spreads](https://www.reuters.com/business/healthcare-pharmaceuticals/us-ship-experimental-ebola-therapy-drc-uganda-outbreak-worsens-2026-06-26/) (Reuters)
@@ -87,11 +87,11 @@ Search window: 7 day(s) ending 2026-06-26
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Special Dengue Prevention Week declared in Colombo District from June 15 to 21](http://island.lk/special-dengue-prevention-week-declared-in-colombo-district-from-june-15-to-21/) (Island.lk, 2026-06-13T07:00+00:00)
+- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka, 2026-06-25T05:02+00:00)
 - Detailed note: Sports Should not drop someone just to give Sooryavanshi an opportunity: Sitanshu Kotak Hetmyer, Stoinis and Jasdeep combine to hand Freedom 88-run defeat Japan draw 1-1 with Sweden at World Cup to finish second in Group F Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners Australia reach 2026 World Cup knockouts after 0-0 draw with Paraguay Should not drop someone just to give Sooryavanshi...
-- Evidence notes: [Special Dengue Prevention Week declared in Colombo District from June 15 to 21](http://island.lk/special-dengue-prevention-week-declared-in-colombo-district-from-june-15-to-21/) (Island.lk); [Military deployed in Sri Lanka to fight surging dengue outbreak](https://www.telegraph.co.uk/global-health/science-and-disease/military-deployed-in-sri-lanka-to-fight-dengue-outbreak/) (The Telegraph)
+- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Special Dengue Prevention Week declared in Colombo District from June 15 to 21](http://island.lk/special-dengue-prevention-week-declared-in-colombo-district-from-june-15-to-21/) (Island.lk)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Miscellaneous signals
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -458,6 +458,8 @@ Search window: 7 day(s) ending 2026-06-26
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in Congo Spreads to Uganda, Study Warns South Sudan At High Risk](https://www.outlookindia.com/international/ebola-outbreak-in-congo-spreads-to-uganda-study-warns-south-sudan-at-high-risk) | Outlook India | 2026-06-26T07:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola Outbreak in DRC: High Risk of Spread to South Sudan, Says Lancet Study - News and Statistics](https://www.indexbox.io/blog/ebola-outbreak-in-drc-could-reach-south-sudan-lancet-study-warns/) | IndexBox | 2026-06-26T05:50+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola Cases Reach 1,155, Deaths Top 300 in Congo; WHO Warns of 70% Risk of Spread to South Sudan](https://www.healthandme.com/health-news/ebola-cases-reach-1155-deaths-top-300-in-congo-who-warns-of-70-risk-of-spread-to-south-sudan-article-154763509) | Health and Me | 2026-06-26T04:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola scientists lack access to virus samples behind Congo’s largest Bundibugyo outbreak](https://www.japantimes.co.jp/news/2026/06/26/world/science-health/ebola-virus-samples-access/) | The Japan Times | 2026-06-26T00:51+00:00 | Outbreaks and emerging infections
@@ -469,8 +471,6 @@ Search window: 7 day(s) ending 2026-06-26
 - [Saudi Arabia bans citizens from traveling to 3 African countries over outbreak of Ebola](https://saudigazette.com.sa/article/662503) | Saudi Gazette | 2026-06-25T22:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak update](https://outbreaknewstoday.substack.com/p/congo-ebola-outbreak-update) | Outbreak News Today | 2026-06-25T22:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign](https://news.un.org/en/story/2026/06/1167812) | UN News | 2026-06-25T21:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
