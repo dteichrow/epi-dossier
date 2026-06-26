@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T03:13
+Generated at: 2026-06-26T03:16
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-26
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (144), Policy, surveillance, and public health infrastructure (19), Virology and pathogen evolution (2)
+- Category mix: Outbreaks and emerging infections (141), Policy, surveillance, and public health infrastructure (19), Virology and pathogen evolution (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -33,8 +33,8 @@ Search window: 7 day(s) ending 2026-06-26
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
-- Newly tracked story cluster: 26 item(s) across 23 source(s).
-- Baseline snapshot created with 26 clustered item(s) across 23 source(s).
+- Newly tracked story cluster: 23 item(s) across 21 source(s).
+- Baseline snapshot created with 23 clustered item(s) across 21 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ECDC News currently frames broader public risk as low.
 
@@ -55,7 +55,7 @@ Search window: 7 day(s) ending 2026-06-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 26 item(s) across 23 source(s); 4 official/primary-source item(s).
+- Topic size: 23 item(s) across 21 source(s); 4 official/primary-source item(s).
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
 - Detailed note: You can now register to attend this year’s European Scientific Conference on Applied Infectious Disease Epidemiology (ESCAIDE), taking place in Stockholm and online on 18–20 November 2026. ECDC underlines that the risk of sustained transmission within the EU/EEA is very low provided that effective measures for early detection, isolation and treatment of patients are in place. Topics A-Z A B C D E F G H I J K L M...
 - Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews.com)
@@ -455,6 +455,8 @@ Search window: 7 day(s) ending 2026-06-26
   Limited detail was available from feed metadata alone.
 - [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) | Daily Mirror - Sri Lanka | 2026-06-25T05:02+00:00 | Outbreaks and emerging infections
   Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Seasonal influenza—commonly known as flu—remains a regular public health concern in Sri Lanka, particularly during two peak periods from April to June and again from November to January. Health experts say the early symptoms of dengue and influenza are very similar, especially in the first few days, which often leads to confusion and delay in proper treatment.
+- [France reports first Ebola patient as cases in Africa surge above 1,000](https://www.redlakenationnews.com/story/2026/06/25/news/france-reports-first-ebola-patient-as-cases-in-africa-surge-above-1000/141113.html) | Red Lake Nation News | 2026-06-25T02:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Deadly haemorrhagic fever: France detects first Ebola case outside Africa in current outbreak](https://today.rtl.lu/news/world/france-detects-first-ebola-case-outside-africa-in-current-outbreak-1522651301) | RTL Today | 2026-06-24T23:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) | Euronews.com | 2026-06-24T21:07+00:00 | Policy, surveillance, and public health infrastructure
@@ -462,8 +464,6 @@ Search window: 7 day(s) ending 2026-06-26
 - [WHO announces 2 trials of experimental drugs in Ebola outbreak](https://www.cidrap.umn.edu/ebola/who-announces-2-trials-experimental-drugs-ebola-outbreak) | CIDRAP | 2026-06-24T20:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [The town where the latest Ebola outbreak likely began](https://www.npr.org/2026/06/24/nx-s1-5869699/the-town-where-the-latest-ebola-outbreak-likely-began) | NPR | 2026-06-24T20:13+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [France reports first Ebola patient as cases in Africa surge above 1,000](https://www.washingtonpost.com/world/2026/06/24/ebola-outbreak-could-be-worst-ever-cases-surge-past-1000-congo/) | The Washington Post | 2026-06-24T19:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
