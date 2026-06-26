@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T01:16
+Generated at: 2026-06-26T02:02
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-26
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (143), Policy, surveillance, and public health infrastructure (19), Virology and pathogen evolution (2)
+- Category mix: Outbreaks and emerging infections (145), Policy, surveillance, and public health infrastructure (18), Virology and pathogen evolution (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-06-26
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 124 item(s) across 90 source(s).
-- Baseline snapshot created with 124 clustered item(s) across 90 source(s).
+- Newly tracked story cluster: 125 item(s) across 90 source(s).
+- Baseline snapshot created with 125 clustered item(s) across 90 source(s).
 - Health and Me now includes deaths or fatal cases in the story frame.
 - Mexico Business News now foregrounds vaccination or vaccine policy in the story.
 
@@ -47,7 +47,7 @@ Search window: 7 day(s) ending 2026-06-26
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 124 item(s) across 90 source(s); 2 official/primary-source item(s).
+- Topic size: 125 item(s) across 90 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: As of June 25, 2026, health authorities have reported 1,139 confirmed cases and 293 confirmed deaths across affected countries, according to data published by the CDC and national ministries of health. While the CDC assesses the risk to the US public as low, the agency has implemented travel-related measures and enhanced screening protocols to reduce the likelihood of imported cases.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Cases Reach 1,155, Deaths Top 300 in Congo; WHO Warns of 70% Risk of Spread to South Sudan](https://www.healthandme.com/health-news/ebola-cases-reach-1155-deaths-top-300-in-congo-who-warns-of-70-risk-of-spread-to-south-sudan-article-154763509) (Health and Me); [Congo's Ebola outbreak crosses 1,150 cases as Unicef warns children face the greatest risk](https://www.firstpost.com/world/congos-ebola-outbreak-crosses-1150-cases-as-unicef-warns-children-face-the-greatest-risk-14026286.html) (Firstpost); [Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn](https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html) (The New York Times)
@@ -439,6 +439,8 @@ Search window: 7 day(s) ending 2026-06-26
   Limited detail was available from feed metadata alone.
 - [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) | Reuters | 2026-06-25T15:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak 'serious' but not 'out of control', head of Africa CDC says - Tête à tête](https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260625-ebola-outbreak-serious-but-not-out-of-control-head-of-africa-cdc-says) | France 24 | 2026-06-25T14:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [France Detects First Ebola Case Outside Africa Amid Rising Congo Outbreak](https://webvarta.com/international/global/france-first-ebola-outbreak/) | Webvarta News Agency | 2026-06-25T12:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [First Ebola Case Outside Africa in 2026 Outbreak Confirmed](https://www.sciencealert.com/first-ebola-case-outside-africa-in-2026-outbreak-confirmed) | ScienceAlert | 2026-06-25T08:04+00:00 | Outbreaks and emerging infections
@@ -447,6 +449,8 @@ Search window: 7 day(s) ending 2026-06-26
   Limited detail was available from feed metadata alone.
 - [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) | Daily Mirror - Sri Lanka | 2026-06-25T05:02+00:00 | Outbreaks and emerging infections
   Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Seasonal influenza—commonly known as flu—remains a regular public health concern in Sri Lanka, particularly during two peak periods from April to June and again from November to January. Health experts say the early symptoms of dengue and influenza are very similar, especially in the first few days, which often leads to confusion and delay in proper treatment.
+- [France reports first Ebola patient as cases in Africa surge above 1,000](https://www.redlakenationnews.com/story/2026/06/25/news/france-reports-first-ebola-patient-as-cases-in-africa-surge-above-1000/141113.html) | Red Lake Nation News | 2026-06-25T02:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Deadly haemorrhagic fever: France detects first Ebola case outside Africa in current outbreak](https://today.rtl.lu/news/world/france-detects-first-ebola-case-outside-africa-in-current-outbreak-1522651301) | RTL Today | 2026-06-24T23:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) | Euronews | 2026-06-24T21:07+00:00 | Policy, surveillance, and public health infrastructure
@@ -455,15 +459,11 @@ Search window: 7 day(s) ending 2026-06-26
   Limited detail was available from feed metadata alone.
 - [The town where the latest Ebola outbreak likely began](https://www.npr.org/2026/06/24/nx-s1-5869699/the-town-where-the-latest-ebola-outbreak-likely-began) | NPR | 2026-06-24T20:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [France reports first Ebola patient as cases in Africa surge above 1,000](https://www.washingtonpost.com/world/2026/06/24/ebola-outbreak-could-be-worst-ever-cases-surge-past-1000-congo/) | The Washington Post | 2026-06-24T19:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [US CDC concludes hantavirus response as outbreak eases](https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5) | Reuters | 2026-06-24T18:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer](https://www.nbcnews.com/health/health-news/us-provides-experimental-ebola-treatment-outbreak-congo-rcna351603) | NBC News | 2026-06-24T17:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5) | WSJ | 2026-06-24T17:48+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO says Congo's Ebola outbreak still fast-moving and health workers under threat](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-outbreak-is-still-outpacing-response-whos-tedros-says-2026-06-24/) | Reuters | 2026-06-24T15:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
