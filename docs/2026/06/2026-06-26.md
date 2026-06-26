@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T03:32
+Generated at: 2026-06-26T03:42
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -8,12 +8,12 @@ Search window: 7 day(s) ending 2026-06-26
 - [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News; 2026-06-25T12:11+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-06-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search; 2026-06-22T00:00; Major epidemiology studies; relevance 5/5)
-- [AIRA Infodemic Trends Report 16–31 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-16-31-may-2026) (WHO Regional Office for Africa; 2026-06-19T13:16+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (137), Policy, surveillance, and public health infrastructure (19), Virology and pathogen evolution (2)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (49), Policy, surveillance, and public health infrastructure (11), Virology and pathogen evolution (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
@@ -24,19 +24,19 @@ Search window: 7 day(s) ending 2026-06-26
 - CIDRAP now includes deaths or fatal cases in the story frame.
 - Nation Thailand now includes quarantine language.
 
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 123 item(s) across 93 source(s).
-- Baseline snapshot created with 123 clustered item(s) across 93 source(s).
-- Health and Me now includes deaths or fatal cases in the story frame.
-- Mexico Business News now foregrounds vaccination or vaccine policy in the story.
-
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
-- Newly tracked story cluster: 25 item(s) across 22 source(s).
-- Baseline snapshot created with 25 clustered item(s) across 22 source(s).
+- Newly tracked story cluster: 27 item(s) across 24 source(s).
+- Baseline snapshot created with 27 clustered item(s) across 24 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ECDC News currently frames broader public risk as low.
+
+### Ebola virus disease
+- Lead item: [Ebola Outbreak in Congo Spreads to Uganda, Study Warns South Sudan At High Risk](https://www.outlookindia.com/international/ebola-outbreak-in-congo-spreads-to-uganda-study-warns-south-sudan-at-high-risk) (Outlook India)
+- Newly tracked story cluster: 24 item(s) across 23 source(s).
+- Baseline snapshot created with 24 clustered item(s) across 23 source(s).
+- Health and Me now includes deaths or fatal cases in the story frame.
+- Mexico Business News now foregrounds vaccination or vaccine policy in the story.
 
 ### Polio and wastewater surveillance
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa)
@@ -46,29 +46,37 @@ Search window: 7 day(s) ending 2026-06-26
 
 
 ## Major topics
-### Ebola virus disease
-- Topic size: 123 item(s) across 93 source(s); 2 official/primary-source item(s).
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
-- Detailed note: Cluster remains active across 123 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Outbreak in Congo Spreads to Uganda, Study Warns South Sudan At High Risk](https://www.outlookindia.com/international/ebola-outbreak-in-congo-spreads-to-uganda-study-warns-south-sudan-at-high-risk) (Outlook India); [Ebola Cases Reach 1,155, Deaths Top 300 in Congo; WHO Warns of 70% Risk of Spread to South Sudan](https://www.healthandme.com/health-news/ebola-cases-reach-1155-deaths-top-300-in-congo-who-warns-of-70-risk-of-spread-to-south-sudan-article-154763509) (Health and Me); [Ebola scientists lack access to virus samples behind Congo’s largest Bundibugyo outbreak](https://www.japantimes.co.jp/news/2026/06/26/world/science-health/ebola-virus-samples-access/) (The Japan Times)
+### Hantavirus and cruise-ship outbreak
+- Topic size: 27 item(s) across 24 source(s); 4 official/primary-source item(s).
+- Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
+- Detailed note: You can now register to attend this year’s European Scientific Conference on Applied Infectious Disease Epidemiology (ESCAIDE), taking place in Stockholm and online on 18–20 November 2026. ECDC underlines that the risk of sustained transmission within the EU/EEA is very low provided that effective measures for early detection, isolation and treatment of patients are in place. Topics A-Z A B C D E F G H I J K L M...
+- Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://www.euronews.com/health/2026/06/24/deadly-hantavirus-outbreak-should-end-on-2-july-who-says) (Euronews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Hantavirus and cruise-ship outbreak
-- Topic size: 25 item(s) across 22 source(s); 4 official/primary-source item(s).
-- Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
-- Detailed note: You can now register to attend this year’s European Scientific Conference on Applied Infectious Disease Epidemiology (ESCAIDE), taking place in Stockholm and online on 18–20 November 2026. ECDC underlines that the risk of sustained transmission within the EU/EEA is very low provided that effective measures for early detection, isolation and treatment of patients are in place. Topics A-Z A B C D E F G H I J K L M...
-- Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews.com)
+### Ebola virus disease
+- Topic size: 24 item(s) across 23 source(s); 0 official/primary-source item(s).
+- Lead item: [Ebola Outbreak in Congo Spreads to Uganda, Study Warns South Sudan At High Risk](https://www.outlookindia.com/international/ebola-outbreak-in-congo-spreads-to-uganda-study-warns-south-sudan-at-high-risk) (Outlook India, 2026-06-26T07:31+00:00)
+- Detailed note: Cluster remains active across 24 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Ebola Outbreak in Congo Spreads to Uganda, Study Warns South Sudan At High Risk](https://www.outlookindia.com/international/ebola-outbreak-in-congo-spreads-to-uganda-study-warns-south-sudan-at-high-risk) (Outlook India); [Ebola Cases Reach 1,155, Deaths Top 300 in Congo; WHO Warns of 70% Risk of Spread to South Sudan](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeENqUmh0MzNKVVppbWdMbXhXZjJ2NVFzZ29CV2NySlR4TExLV2lmdW9Ld2JpT2ttVmlUdWtXY3kxNWhlRlZicEtqV0Q2QlNidVE0TnBNbzJBMU5Mcmk4THVpdGIxM2NvOS05TUFpWjNJV21oRUxJNEVneDk3SThxR0NpUFVLVy1IUmpZQVRvLUZuVkt6MXRLay1tbXhfV3NqbGY4RjVack9MT0p6blRqbFNVVS1seTFCRWIyVzFVQzZzMzlRNDNtcGV6RFhNMm1UQ0M5X1ZjQnVSZ1YzaWdtYWkwRlY?oc=5) (Health and Me); [Ebola scientists lack access to virus samples behind Congo’s largest Bundibugyo outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk1aTlyeDVqNlhBX3VEMDlkY3djUDFvNkJqTWZlRl9GeGVuc1NlcXcycXo3MnZiSjE3MXFlby0xZ194dDF4RHUyN0kxbWdIU0lMc1liUGhSX2Z1N0NUaEdKdGRiYlpVWGs5MWUxc3pSOU56RG04QXJCSGJZOU45aWdTVFVNLXUzcnBTRFhvV011WEd5c3puRg?oc=5) (The Japan Times); [Congo's Ebola outbreak crosses 1,150 cases as Unicef warns children face the greatest risk](https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2FGYlFnT19oVVNCWVFJdkFGNlYwYlNwRHpSZXBQNmgyQUptQlNqMG52bS1xMkhKOGpfV2g1T1lObWtUYzZxZlFpTHZqelFrYXlNODcyTElfVG5ib0pyYmFJbHlOMVI5X0VRN2xQVUk4b0FEUEpiRHBlb3dGRWdoTC1hWXoyd0cycHBvWUNFcE5EX1Z0cmU0eXd4UV8wQm01bm1jdmR3aVhRd1l2Q2owaWlHUHRSbUM3dElYN2haOEZwVmVDQkpoNkxoMm9OUVE?oc=5) (Firstpost); [Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn](https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE1MbTNnQ0xSOWpYT2ZSTFIzbmFrV0FZM1laQ3N2QnFBWlVwcWhpcFFIdVp4NmRTdUlGdURUR0p2YnZNQzJsZ0JqZVc5aklab0xrc0I3WTlDT1dReUpvRFB6YndwdDJFS05rWThTQUJyWmZjWDRGbVQwRC1aWWs1dg?oc=5) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Polio and wastewater surveillance
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa, 2026-06-25T07:56+00:00)
 - Detailed note: Publications ochembac@who.int Thu, 25/06/2026 - 08:56 Two drops. Inside this month’s edition of the TBA: ✅33,000+ settlements reached ✅1.2M+ children vaccinated ✅Solar‑powered labs securing Nigeria’s diagnostic future ✅Zero‑dose children found in the hardest‑to‑reach places A publication that covers the contributions, milestones and bottlenecks of WHO in the fight against Polio in Nigeria.
-- Evidence notes: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Niger records fresh polio, diphtheria cases](https://thenationonlineng.net/niger-records-fresh-polio-diphtheria-cases/) (The Nation Newspaper); [Niger steps up surveillance after fresh polio and diphtheria cases](https://dailypost.ng/2026/06/15/niger-steps-up-surveillance-after-fresh-polio-and-diphtheria-cases/) (Daily Post Nigeria)
+- Evidence notes: [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Niger records fresh polio, diphtheria cases](https://thenationonlineng.net/niger-records-fresh-polio-diphtheria-cases/) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://guardian.ng/news/niger-activates-surveillance-after-fresh-polio-diphtheria-cases/) (The Guardian Nigeria News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Miscellaneous signals
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-06-24T14:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Avian influenza and H5N1
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
@@ -76,7 +84,7 @@ Search window: 7 day(s) ending 2026-06-26
 - Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. According to a report by...
 - Evidence notes: [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP); [H5N1 bird flu found on mainland Australia for the first time](https://www.nationthailand.com/news/world/40067683) (Nation Thailand)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -85,14 +93,6 @@ Search window: 7 day(s) ending 2026-06-26
 - Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Special Dengue Prevention Week declared in Colombo District from June 15 to 21](http://island.lk/special-dengue-prevention-week-declared-in-colombo-district-from-june-15-to-21/) (Island.lk)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search, 2026-06-22T00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.](https://pubmed.ncbi.nlm.nih.gov/42328968/) (PubMed Infectious Disease Search); [AIRA Infodemic Trends Report 16–31 May 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-16-31-may-2026) (WHO Regional Office for Africa)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
 ## Last major outbreaks on file
@@ -363,14 +363,24 @@ Search window: 7 day(s) ending 2026-06-26
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
-- Source: ECDC News
-- Date: 2026-06-23T17:36+02:00
-- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited usable detail remained after boilerplate cleanup.
+### FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-24T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1383 with date posted 6/13/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Powdered Infant Formula.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-06-24T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1380 with date posted 6/3/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Requeson/Soft Ricotta Cheese.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 ### The equity and effectiveness of China's 2009 folic acid supplementation programme for long-term child development.
@@ -383,30 +393,10 @@ Search window: 7 day(s) ending 2026-06-26
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### AIRA Infodemic Trends Report 16–31 May 2026
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-19T13:16+00:00
-- URL: https://www.afro.who.int/countries/democratic-republic-of-congo/publication/aira-infodemic-trends-report-16-31-may-2026
-- Category: Outbreaks and emerging infections
-- Summary: For more information, please contact: Elodie at hoelodie [at] who.int ( hoelodie[at]who[dot]int ) and Salif Diarra at diarrasa [at] who.int (diarrasa[at]who[dot]int) Infodemic Insights report 16-31 may, 2026- 178 copy.pdf 3.04 MB Rapport sur les informations liées à l’infodémie du 16 au 31 Mai 2026 - No. Publications diarrasa@who.int Fri, 19/06/2026 - 14:16 Top concerns Ebola Bundibugyo: “Ebola business”, corruption and financial-interest narratives become highly visible During this period, many conversations framed Ebola Bundibugyo as a possible opportunity to attract funding, enrich political or health actors, or justify external intervention. Some comments also associated Ebola risk with Congolese people, Ugandans or foreign travellers, creating a risk of stigmatization.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
 - Date: Unknown
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
-- Relevance score: 5/5
-
-### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
-- Source: Texas Department of State Health Services News
-- Date: Unknown
-- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
@@ -423,47 +413,57 @@ Search window: 7 day(s) ending 2026-06-26
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Ebola Cases Reach 1,155, Deaths Top 300 in Congo; WHO Warns of 70% Risk of Spread to South Sudan
+- Source: Health and Me
+- Date: 2026-06-26T04:44+00:00
+- URL: https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeENqUmh0MzNKVVppbWdMbXhXZjJ2NVFzZ29CV2NySlR4TExLV2lmdW9Ld2JpT2ttVmlUdWtXY3kxNWhlRlZicEtqV0Q2QlNidVE0TnBNbzJBMU5Mcmk4THVpdGIxM2NvOS05TUFpWjNJV21oRUxJNEVneDk3SThxR0NpUFVLVy1IUmpZQVRvLUZuVkt6MXRLay1tbXhfV3NqbGY4RjVack9MT0p6blRqbFNVVS1seTFCRWIyVzFVQzZzMzlRNDNtcGV6RFhNMm1UQ0M5X1ZjQnVSZ1YzaWdtYWkwRlY?oc=5
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Ebola Cases Reach 1,155, Deaths Top 300 in Congo; WHO Warns of 70% Risk of Spread to South Sudan](https://www.healthandme.com/health-news/ebola-cases-reach-1155-deaths-top-300-in-congo-who-warns-of-70-risk-of-spread-to-south-sudan-article-154763509) | Health and Me | 2026-06-26T04:44+00:00 | Outbreaks and emerging infections
+- [Ebola scientists lack access to virus samples behind Congo’s largest Bundibugyo outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk1aTlyeDVqNlhBX3VEMDlkY3djUDFvNkJqTWZlRl9GeGVuc1NlcXcycXo3MnZiSjE3MXFlby0xZ194dDF4RHUyN0kxbWdIU0lMc1liUGhSX2Z1N0NUaEdKdGRiYlpVWGs5MWUxc3pSOU56RG04QXJCSGJZOU45aWdTVFVNLXUzcnBTRFhvV011WEd5c3puRg?oc=5) | The Japan Times | 2026-06-26T00:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola scientists lack access to virus samples behind Congo’s largest Bundibugyo outbreak](https://www.japantimes.co.jp/news/2026/06/26/world/science-health/ebola-virus-samples-access/) | The Japan Times | 2026-06-26T00:51+00:00 | Outbreaks and emerging infections
+- [Congo's Ebola outbreak crosses 1,150 cases as Unicef warns children face the greatest risk](https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2FGYlFnT19oVVNCWVFJdkFGNlYwYlNwRHpSZXBQNmgyQUptQlNqMG52bS1xMkhKOGpfV2g1T1lObWtUYzZxZlFpTHZqelFrYXlNODcyTElfVG5ib0pyYmFJbHlOMVI5X0VRN2xQVUk4b0FEUEpiRHBlb3dGRWdoTC1hWXoyd0cycHBvWUNFcE5EX1Z0cmU0eXd4UV8wQm01bm1jdmR3aVhRd1l2Q2owaWlHUHRSbUM3dElYN2haOEZwVmVDQkpoNkxoMm9OUVE?oc=5) | Firstpost | 2026-06-26T00:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn](https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html) | The New York Times | 2026-06-25T22:57+00:00 | Outbreaks and emerging infections
+- [Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn](https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE1MbTNnQ0xSOWpYT2ZSTFIzbmFrV0FZM1laQ3N2QnFBWlVwcWhpcFFIdVp4NmRTdUlGdURUR0p2YnZNQzJsZ0JqZVc5aklab0xrc0I3WTlDT1dReUpvRFB6YndwdDJFS05rWThTQUJyWmZjWDRGbVQwRC1aWWs1dg?oc=5) | The New York Times | 2026-06-25T22:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [France Confirms First Ebola Case Linked To DR Congo Outbreak](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMy1RYjJfNHdpa25sOEdWejZlVnVtYjJtUWpSWjZqRW9HVnltVGl5NEVaLXp2LS1wSjBCalhZa3lGRlRrTEJQUjVvV1FvUVNZeF8wQmZIdkFPYnJjeUd6ck9uN2NmRklPV2REVnFQQ1NSNE1UZEZCRnpGQWZYeS13aEJYVnZ5TzZiVF9rb0wtdDRNNmIwQnlzTV9sVzI3MkowYWJuOW9hX3E0VVlSTnQwUU41UVRFQzJNeFRSZUJCWWZ0RFNFZWJRd09PVVdMZ3hmREhLSmEzRkw1WlJyYktxXzJrY3R4Tk0?oc=5) | Dailyhunt | 2026-06-25T22:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bundibugyo Ebola Surpasses 1,100 Cases, CDC Expands Response](https://mexicobusiness.news/health/news/bundibugyo-ebola-surpasses-1100-cases-cdc-expands-response) | Mexico Business News | 2026-06-25T22:40+00:00 | Outbreaks and emerging infections
   As of June 25, 2026, health authorities have reported 1,139 confirmed cases and 293 confirmed deaths across affected countries, according to data published by the CDC and national ministries of health. While the CDC assesses the risk to the US public as low, the agency has implemented travel-related measures and enhanced screening protocols to reduce the likelihood of imported cases. The PAHO is also preparing shipments of materials and reagents for molecular detection of Bundibugyo ebolavirus in selected countries with appropriate biosafety capabilities, based on regional risk assessments.
-- [DRC’s Ebola outbreak has 70 per cent chance of spreading to South Sudan, new modelling predicts](https://www.yahoo.com/news/world/articles/drc-ebola-outbreak-70-per-223000684.html) | Yahoo | 2026-06-25T22:30+00:00 | Outbreaks and emerging infections
+- [DRC’s Ebola outbreak has 70 per cent chance of spreading to South Sudan, new modelling predicts](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUpGMVdFXzBfRHNmak5jbWlCVUl3XzZubTZySl9BOHRXVDFQbWMxdGN4VDBPRzF0SGtkMURQdXptZk5fR1lreTdyemtoQjRrYlpULXNzTzYtTDEtYVoydHA4ZGRVcm11bmFXSmEza1ZNOW56TGlLTFhOaXB1cmx4RzQ4andWaG9jT1E?oc=5) | Yahoo | 2026-06-25T22:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Saudi Arabia bans citizens from traveling to 3 African countries over outbreak of Ebola](https://saudigazette.com.sa/article/662503) | Saudi Gazette | 2026-06-25T22:14+00:00 | Outbreaks and emerging infections
+- [Saudi Arabia bans citizens from traveling to 3 African countries over outbreak of Ebola](https://news.google.com/rss/articles/CBMiVEFVX3lxTE05LVVvQjZVSS0xY1ZaVkluWlVjVmdtZ0NUZkp5QUtPQ3ZEb0tDVnBWMklSWk1oSFJ3MWlRVmJ1cTd5NHU1YVVBV0lqaUtYbzIwWFlLdQ?oc=5) | Saudi Gazette | 2026-06-25T22:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign](https://news.un.org/en/story/2026/06/1167812) | UN News | 2026-06-25T21:02+00:00 | Outbreaks and emerging infections
+- [World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBMDJMY3RQUkFaam5jSjNGVEZoOEJEay16YW1MMmJ4a2YzWmk3NmxGenJDbDNnUmV0ekcyNXRqbW5jMm9jcnRCYkJJU01PR1BkVmxLV0gzTQ?oc=5) | UN News | 2026-06-25T21:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/) | Reuters | 2026-06-25T15:10+00:00 | Outbreaks and emerging infections
+- [As Ebola Bundibugyo outbreak rages, knowledge gaps still challenge response](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXZuRUxoZkt6UFROOXNmajFzenZOYzlxUGtmWkpkYzNmLW93eFhLYU8zU3dSY29IY0VaRzNhYzZORDgzNnBYWHhjelJabDZtNk9nX3RwQjRRVHF6akRQZS1XdjJIOTBDSmNtblFqbmZ2VXFGVDc3ckhVb09sSzlPNHZxWm92MmZjN3ZYN1Z1ZmgtcWIyQ3ZfeEhJdGtVeU1nbXp3aHpCMFBvOUNjTjJzc1NDbzRpMWhuV2c4by12MjNQSUJ2VF9iUDcwb2xFRDBfRGlJNWR6elpEbE0?oc=5) | Reuters | 2026-06-25T15:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak 'serious' but not 'out of control', head of Africa CDC says - Tête à tête](https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260625-ebola-outbreak-serious-but-not-out-of-control-head-of-africa-cdc-says) | France 24 | 2026-06-25T14:11+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak 'serious' but not 'out of control', head of Africa CDC says - Tête à tête](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHQySGxZd3pBNUw1TFVNTDk5Zk1PczZ1Z21Xd01PSUlZREpZeHh0bjhuVUw0amxtN0FZMXVLak1zWnRqM0NXYlc4MnpEU09hS2I1Zk0yWGRuTVl1NFZXS1RBb1gtaVh0TVhXYXdvV3BQcUktbjdsS3dUWWFYdHpieEh3bVdMVjctMXd5VU4yRlM0Wi02Y21WaWg2VjlYaXRvMXFnTVRBaXg0QU9SWU5oa2t6X1ZGX2p0RjhkWTUtMlhOUVJ1Q2VvYW94RzZsbloyUHdNNWpycEItZw?oc=5) | France 24 | 2026-06-25T14:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [France Detects First Ebola Case Outside Africa Amid Rising Congo Outbreak](https://webvarta.com/international/global/france-first-ebola-outbreak/) | Webvarta News Agency | 2026-06-25T12:46+00:00 | Outbreaks and emerging infections
+- [First Ebola Case Outside Africa in 2026 Outbreak Confirmed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWM4QXpOc3o0aGcxckNDd05fRU5jTmhYMjZpUHdHYURpbzMtVVVvbWY4ckZ0ald3R05XQkFXY0lMM3JCMFZ3dkdSV00wbDduM2hoY1g2OElmckZaNWVRRnI4dDdTaWtUSWVfYl9ybHNxejIzYkVEdG1IbHh0UVp0NjBhV3dxOGdDT2pDV1VqMno?oc=5) | ScienceAlert | 2026-06-25T08:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [First Ebola Case Outside Africa in 2026 Outbreak Confirmed](https://www.sciencealert.com/first-ebola-case-outside-africa-in-2026-outbreak-confirmed) | ScienceAlert | 2026-06-25T08:04+00:00 | Outbreaks and emerging infections
+- [Trump shifts Africa strategy as worsening Ebola outbreak triggers $1.4 billion response from Washington](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMVhGdXdITzREOG1EYUhISjhlbVBGaVFwTXg2WVBBWk1XWkV6aHdXTHNGS3lhdzh0cTRLNTJrX2d6ZUFsNkFIQ3dZWmVSbFJ0MjRYTUVFenZMaHJya25wMFFxTDRYcDBoUDY5blNTN2JjWEhyTUF4aF9uMEFIOFBRM2pRVW5HVXd1ZmRtNUp5b0ZjSEFlS2tHdjVxTUZDNnluRGdQUUVJelRwSkZxdjh0dmZEV0ZDQnJ6SmNNN3RYVkNhVUZ1ZnRiVWZBcnEzM2pmbDB6WmdWRFo?oc=5) | Business Insider Africa | 2026-06-25T07:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) | Daily Mirror - Sri Lanka | 2026-06-25T05:02+00:00 | Outbreaks and emerging infections
   Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Seasonal influenza—commonly known as flu—remains a regular public health concern in Sri Lanka, particularly during two peak periods from April to June and again from November to January. Health experts say the early symptoms of dengue and influenza are very similar, especially in the first few days, which often leads to confusion and delay in proper treatment.
-- [France reports first Ebola patient as cases in Africa surge above 1,000](https://www.redlakenationnews.com/story/2026/06/25/news/france-reports-first-ebola-patient-as-cases-in-africa-surge-above-1000/141113.html) | Red Lake Nation News | 2026-06-25T02:57+00:00 | Outbreaks and emerging infections
+- [France reports first Ebola patient as cases in Africa surge above 1,000](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQTliaXI3MV9LajFIZmhVTnRtU0hua0dMYzMwUWRobDc4c1Fxb2dEa3NSNHREeXpCekJnRDdQQWpuVERkdzBJaTNSQTFiMXl0ZUcycG1JOXc0LTRoWmtxdHFBWk9IS21rbTVjdVYweUN4RFVwMjR0cDhrOE81RlFia1gwdjg1T2ZkWmFsdEV4QzNNTTB3Z09DMFBxdmdtSlI2azhKdXplRzlpYk9XVmVBTjlGUXd5dTR5ODB6STQtbmlLTmZBSk5ONzVDNXZjemhRdFZnbA?oc=5) | Red Lake Nation News | 2026-06-25T02:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Deadly haemorrhagic fever: France detects first Ebola case outside Africa in current outbreak](https://today.rtl.lu/news/world/france-detects-first-ebola-case-outside-africa-in-current-outbreak-1522651301) | RTL Today | 2026-06-24T23:57+00:00 | Outbreaks and emerging infections
+- [Deadly haemorrhagic fever: France detects first Ebola case outside Africa in current outbreak](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFlxY1JRUnFpZXlPcWU3dWlxYURHRWZFU3FkR2VLRDFCYWRuaTlqM3JiRkR2TlBTX0dHLURKaW00eW4ybXMydnQ4enpJSFN3RkV3VUtvTkJrOFRfRF9HR3J0a2FSOUNnaGNfV2dWRUVKclZsOTBpbnZSODUzeUU2RnptLXZwNHY2czc1allEVHlEazZ3bWhwYjBPR2diV0RPOWs1alVNcTM1VVlmdUE?oc=5) | RTL Today | 2026-06-24T23:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) | Euronews.com | 2026-06-24T21:07+00:00 | Policy, surveillance, and public health infrastructure
+- [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://www.euronews.com/health/2026/06/24/deadly-hantavirus-outbreak-should-end-on-2-july-who-says) | Euronews.com | 2026-06-24T21:07+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [WHO announces 2 trials of experimental drugs in Ebola outbreak](https://www.cidrap.umn.edu/ebola/who-announces-2-trials-experimental-drugs-ebola-outbreak) | CIDRAP | 2026-06-24T20:36+00:00 | Outbreaks and emerging infections
+- [WHO announces 2 trials of experimental drugs in Ebola outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0JoV2h0Y3pWT0lNdGlTWkhvU1Z4TVBodm03MHh2UUl3amlUa3FYekFlMDlXa3owc1dwYTZ4QkFkOE1OalpzRjM0RnVwZlhDTEZpY0l2MVJBWUdWY0FEaEs3ZHlJRmxBcGtuakxERU1rRVhfcDlfY1ZBQWU5LURBaExJUlBabzc0ZXgzQmlmU2QwczQ?oc=5) | CIDRAP | 2026-06-24T20:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [The town where the latest Ebola outbreak likely began](https://www.npr.org/2026/06/24/nx-s1-5869699/the-town-where-the-latest-ebola-outbreak-likely-began) | NPR | 2026-06-24T20:13+00:00 | Outbreaks and emerging infections
+- [Reported Ebola cases have surged above 1,000 in the Democratic Republic of Congo, and health experts are warning this could be one of the worst outbreaks, rivaling the largest on record, which killed 11,365 people in West Africa from 2014 to 2016.](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZWlEQnNDT3Q3cUs5X0J5SlpqTDN0ZjM0a05xSWphMS1ESUR3Qk9tbzZsVmJqeFJkR0dwNTFQeFBkT3g2U1Z2b1pncGZFUFM0bk44a2dEVUZJa0NYVnRaWkxWX1gtdWQxNi1TUzBDU1FyMl9xX0l3Y1VwMFhrYTRYanJRaS0wUG9odlFDMDdockw1cGdFS0JJM2g5bV85R3QxcVJUR2xxWWpGZjR6cUJtcDJTd1JKTVdrOHZ3elR5d2lZTEZaaXZ2OUs0dUxkdVlSQnFXQ0xOaW1XYnFQMUE?oc=5) | facebook.com | 2026-06-24T20:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US CDC concludes hantavirus response as outbreak eases](https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5) | Reuters | 2026-06-24T18:09+00:00 | Outbreaks and emerging infections
+- [The town where the latest Ebola outbreak likely began](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEdORWRyNnRGMWRRMTJobjF4YmxPVGZUMk0tMS1aNEFzUG5hS1pRZFJ4bWR5aGpoX2FZdHBBaWlESjJYWE5OYk9GdERvdVozMGlsU2lNSkI0dDNadE12UVZfdnpkdzZfdk12X3ZzR2hWUk9yaHU2aERrOUNhc3VFMnJLdlhDSVgweTdBcXdRRzctc1NRa1FmWm5qQnROeUk?oc=5) | NPR | 2026-06-24T20:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer](https://www.nbcnews.com/health/health-news/us-provides-experimental-ebola-treatment-outbreak-congo-rcna351603) | NBC News | 2026-06-24T17:53+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5) | WSJ | 2026-06-24T17:48+00:00 | Outbreaks and emerging infections
+- [US CDC concludes hantavirus response as outbreak eases](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-end-hantavirus-response-wsj-reports-2026-06-24/) | Reuters | 2026-06-24T18:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
