@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-26
-Generated at: 2026-06-26T06:59
+Generated at: 2026-06-26T07:16
 Search window: 7 day(s) ending 2026-06-26
 
 ## Executive scan
@@ -55,7 +55,7 @@ Search window: 7 day(s) ending 2026-06-26
 - Topic size: 139 item(s) across 102 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-06-23T17:36+02:00)
 - Detailed note: Cluster remains active across 139 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Chaotic Push to Train Staff for US Ebola Outbreak Facility Alarms Health Workers](https://www.bloomberg.com/news/features/2026-06-26/trump-administration-s-ebola-response-raises-alarm-among-us-health-workers) (Bloomberg.com); [No Bundibugyo Ebola cases recorded in South Sudan, Ministry and WHO Say](https://www.eyeradio.org/no-bundibugyo-ebola-cases-recorded-in-south-sudan-ministry-and-who-say/) (Eye Radio); [White House asks Congress for $1.4B to fight Ebola outbreak](https://www.newsnationnow.com/health/white-house-congress-1-4b-ebola/) (NewsNation)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Chaotic Push to Train Staff for US Ebola Outbreak Facility Alarms Health Workers](https://www.bloomberg.com/news/features/2026-06-26/trump-administration-s-ebola-response-raises-alarm-among-us-health-workers) (Bloomberg.com); [No Bundibugyo Ebola cases recorded in South Sudan, Ministry and WHO Say](https://www.eyeradio.org/no-bundibugyo-ebola-cases-recorded-in-south-sudan-ministry-and-who-say/?amp) (Eye Radio); [White House asks Congress for $1.4B to fight Ebola outbreak](https://www.newsnationnow.com/health/white-house-congress-1-4b-ebola/) (NewsNation)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -432,7 +432,7 @@ Search window: 7 day(s) ending 2026-06-26
 ## Other notable readings
 - [Chaotic Push to Train Staff for US Ebola Outbreak Facility Alarms Health Workers](https://www.bloomberg.com/news/features/2026-06-26/trump-administration-s-ebola-response-raises-alarm-among-us-health-workers) | Bloomberg.com | 2026-06-26T13:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [No Bundibugyo Ebola cases recorded in South Sudan, Ministry and WHO Say](https://www.eyeradio.org/no-bundibugyo-ebola-cases-recorded-in-south-sudan-ministry-and-who-say/) | Eye Radio | 2026-06-26T11:45+00:00 | Outbreaks and emerging infections
+- [No Bundibugyo Ebola cases recorded in South Sudan, Ministry and WHO Say](https://www.eyeradio.org/no-bundibugyo-ebola-cases-recorded-in-south-sudan-ministry-and-who-say/?amp) | Eye Radio | 2026-06-26T11:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [White House asks Congress for $1.4B to fight Ebola outbreak](https://www.newsnationnow.com/health/white-house-congress-1-4b-ebola/) | NewsNation | 2026-06-26T10:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
