@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-27
-Generated at: 2026-06-27T05:48
+Generated at: 2026-06-27T05:49
 Search window: 7 day(s) ending 2026-06-27
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-06-27
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (155), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (3)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (157), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (3)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
@@ -40,8 +40,8 @@ Search window: 7 day(s) ending 2026-06-27
 
 ### Polio and wastewater surveillance
 - Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 5 item(s) across 5 source(s).
+- Baseline snapshot created with 5 clustered item(s) across 5 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Tuberculosis and antimicrobial resistance
@@ -56,7 +56,7 @@ Search window: 7 day(s) ending 2026-06-27
 - Topic size: 141 item(s) across 94 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola cases top 1,200 in DR Congo as government battles community resistance](https://www.aa.com.tr/en/africa/ebola-cases-top-1-200-in-dr-congo-as-government-battles-community-resistance/3979806) (Anadolu Ajansı)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [🔴ଡରାଇଲାଣି ଇବୋଲା Ebola Virus Threat: Centre Issues High-Alert Health Advisory for Passengers & States](https://kanaknews.com/videos/health/ebola-ebola-virus-threat-center-issues-high-alert-health-advisory-for-passengers-states-12111582/amp) (Kanak News Odisha)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -68,6 +68,14 @@ Search window: 7 day(s) ending 2026-06-27
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Polio and wastewater surveillance
+- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
+- Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search, 2026-06-26T00:00)
+- Detailed note: Post-dose 3 seroprotection rates were 100% against diphtheria (≥0.1 UI/mL), tetanus (≥0.1 UI/mL), and polio type 1/2/3 (≥8/dil), 94.5% against hepatitis B (≥10 mIU/mL), and 92.3% against polyribosylribitol phosphate (≥1 µg/mL). A total of 143 infants received at least one vaccination (22 born at 24-27 weeks of gestation, 29 at 28-30 weeks, 38 at 31-33 weeks, and 54 at 34-36 weeks), 135 received three doses, and...
+- Evidence notes: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search); [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Quick takes: More New World screwworm cases, Salmonella outbreak in Europe, polio in 4 nations](https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4) (CIDRAP); [Niger records fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMifkFVX3lxTFBILXJrQlZNMjI5Nk5TMVRJRGFrNW5VTDRuYTdBZllORnFvWFpIVmN3Z004RmpLTDN2VG12aG85ay1rdUd1TGIwLURZMllFYnc1U3l0TjJjdk9XODVfSV8yNnhDWjNmak4wbUlvX0xzbGg1MjU3VEttaHR6NGFtZw?oc=5) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1gtdFhMSkNIZHdWRzR5TTZ2M01ETDdKYkNmbmg3N0lPU3dXbnJSdmYyOW0wdTFHeHIyaURtcXNPSWpVelhRckw4NHFHa2ZCd2RyaGZGaE40QXc2WEliRFRYalhLNXZSUzFDWXdaUFdoUS1sVUFPc3pMbnQ2bDhfN0R1NlNTUm1qNjZwWFhleUxNZW8?oc=5) (The Guardian Nigeria News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Avian influenza and H5N1
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [H5N1 emerged in Asia 30 years ago. Here's what happened next](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (Australian Broadcasting Corporation, 2026-06-25T19:11+00:00)
@@ -75,14 +83,6 @@ Search window: 7 day(s) ending 2026-06-27
 - Evidence notes: [H5N1 emerged in Asia 30 years ago. Here's what happened next](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (Australian Broadcasting Corporation); [Dong Thap detects H5N1 avian influenza outbreak, culls infected ducks](https://english.vov.vn/en/society/dong-thap-detects-h5n1-avian-influenza-outbreak-culls-infected-ducks-post1309296.vov) (VOV.VN); [Bird flu confirmed in South Australia as infected petrel brings deadly H5N1 cases to three](https://www.theguardian.com/environment/2026/jun/24/bird-flu-case-confirmed-south-australia-western-australia-suspected) (The Guardian); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Polio and wastewater surveillance
-- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
-- Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search, 2026-06-26T00:00)
-- Detailed note: Post-dose 3 seroprotection rates were 100% against diphtheria (≥0.1 UI/mL), tetanus (≥0.1 UI/mL), and polio type 1/2/3 (≥8/dil), 94.5% against hepatitis B (≥10 mIU/mL), and 92.3% against polyribosylribitol phosphate (≥1 µg/mL). A total of 143 infants received at least one vaccination (22 born at 24-27 weeks of gestation, 29 at 28-30 weeks, 38 at 31-33 weeks, and 54 at 34-36 weeks), 135 received three doses, and...
-- Evidence notes: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search); [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Quick takes: More New World screwworm cases, Salmonella outbreak in Europe, polio in 4 nations](https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4) (CIDRAP)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -435,8 +435,6 @@ Search window: 7 day(s) ending 2026-06-27
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Ebola cases top 1,200 in DR Congo as government battles community resistance](https://www.aa.com.tr/en/africa/ebola-cases-top-1-200-in-dr-congo-as-government-battles-community-resistance/3979806) | Anadolu Ajansı | 2026-06-27T11:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [🔴ଡରାଇଲାଣି ଇବୋଲା Ebola Virus Threat: Centre Issues High-Alert Health Advisory for Passengers & States](https://kanaknews.com/videos/health/ebola-ebola-virus-threat-center-issues-high-alert-health-advisory-for-passengers-states-12111582/amp) | Kanak News Odisha | 2026-06-27T08:10+00:00 | Outbreaks and emerging infections
   To prevent the virus from entering the country, the Centre has mandated strict screening protocols, hospital isolation readiness across states, and an Air Suvidha self-declaration form for international travelers arriving from or transiting through affected regions. Following the World Health Organization (WHO) declaring the Ebola outbreak a Public Health Emergency of International Concern, the Indian Ministry of Health and Family Welfare has issued a comprehensive travel and health advisory. Get the latest updates on news, politics, sports, business, current affairs, entertainment, technology and health updates from Kanak News.
 - [Sri Lanka’s dengue outbreak reaches epidemic level as cases top 50,000: Health officials](https://www.aa.com.tr/en/asia-pacific/sri-lanka-s-dengue-outbreak-reaches-epidemic-level-as-cases-top-50-000-health-officials/3979458) | Anadolu Ajansı | 2026-06-27T04:54+00:00 | Outbreaks and emerging infections
@@ -453,8 +451,6 @@ Search window: 7 day(s) ending 2026-06-27
   Limited detail was available from feed metadata alone.
 - [More than a month into DR Congo Ebola outbreak, doctors warn 'this epidemic will last'](https://www.france24.com/en/africa/20260626-dr-congo-patients-cured-doctors-warn-outbreak-far-contained) | France 24 | 2026-06-26T17:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Multi-country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 6](https://reliefweb.int/report/democratic-republic-congo/multi-country-bundibugyo-ebola-virus-disease-outbreak-situation-report-no-6) | ReliefWeb | 2026-06-26T15:56+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola outbreak spreads to Europe as France confirms first case](https://www.msn.com/en-in/news/insight/ebola-outbreak-spreads-to-europe-as-france-confirms-first-case/gm-GMFB9C8B5F?gemSnapshotKey\=GMFB9C8B5F-snapshot-35\&uxmode\=ruby) | MSN | 2026-06-26T15:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Ebola Outbreak Exceeds 1,000 Cases, And Is Detected In France And Uganda](https://www.iflscience.com/bundibugyo-ebola-outbreak-exceeds-1000-cases-with-first-case-outside-africa-and-70-chance-of-spread-to-a-new-country-83929) | IFLScience | 2026-06-26T15:18+00:00 | Outbreaks and emerging infections
@@ -465,11 +461,15 @@ Search window: 7 day(s) ending 2026-06-27
   Limited detail was available from feed metadata alone.
 - [Ebola death toll in DRC passes 300 as outbreak widens](https://www.msn.com/en-ca/news/insight/ebola-death-toll-in-drc-passes-300-as-outbreak-widens/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-45\&uxmode\=ruby) | MSN | 2026-06-26T14:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Chaotic Push to Train Staff for US Ebola Outbreak Facility Alarms Health Workers](https://www.bloomberg.com/news/features/2026-06-26/trump-administration-s-ebola-response-raises-alarm-among-us-health-workers) | Bloomberg.com | 2026-06-26T13:15+00:00 | Outbreaks and emerging infections
+- [Chaotic Push to Train Staff for US Ebola Outbreak Facility Alarms Health Workers](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQU9UWDhSel9rcEtLT3BBZmJhOXluMjdUMWw0dDdEYlBlYTM2R2NGM2dJYlYxNmpscHhZZ1dfRWJOeDVfY1pZMm9RSzE3dXdEWG5LZ1RERFh5djRJeDJ5YS1GaFc4UEFaNTdwTzE4eU5hUzBNSExrNG5XNlc5SDdMbVo1dkhZakRTYXJlbk1vRllYOWliUW5qamNQeUFBaDJPRURuVEdYY2E3VjFrb0VwWXRiRmFZbHdFNW9YdnRaT0RYRjg?oc=5) | Bloomberg.com | 2026-06-26T13:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO warns Ebola outbreak could hit South Sudan within weeks](https://www.msn.com/en-gb/news/insight/france-confirms-first-ebola-case-in-returning-doctor/gm-GME76B07DC?gemSnapshotKey\=GME76B07DC-snapshot-4\&uxmode\=ruby) | MSN | 2026-06-26T12:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [As Ebola spreads in Eastern DRC, WFP warns food, livelihoods and access are critical to containing the outbreak](https://reliefweb.int/report/democratic-republic-congo/ebola-spreads-eastern-drc-wfp-warns-food-livelihoods-and-access-are-critical-containing-outbreak) | ReliefWeb | 2026-06-26T11:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [No Bundibugyo Ebola cases recorded in South Sudan, Ministry and WHO Say](https://www.eyeradio.org/no-bundibugyo-ebola-cases-recorded-in-south-sudan-ministry-and-who-say/) | Eye Radio | 2026-06-26T11:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [South Sudan says suspected Ebola cases test negative](https://www.radiotamazuj.org/en/news/article/south-sudan-says-suspected-ebola-cases-test-negative) | Radio Tamazuj | 2026-06-26T10:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
