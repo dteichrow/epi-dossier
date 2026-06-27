@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-27
-Generated at: 2026-06-27T10:16
+Generated at: 2026-06-27T10:19
 Search window: 7 day(s) ending 2026-06-27
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-27
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (160), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (158), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-06-27
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 142 item(s) across 91 source(s).
-- Baseline snapshot created with 142 clustered item(s) across 91 source(s).
+- Newly tracked story cluster: 140 item(s) across 90 source(s).
+- Baseline snapshot created with 140 clustered item(s) across 90 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-06-27
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 142 item(s) across 91 source(s); 4 official/primary-source item(s).
+- Topic size: 140 item(s) across 90 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Video CDC raises emergency response for Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/134271560/) (ABC News - Breaking News, Latest News and Videos)
@@ -72,7 +72,7 @@ Search window: 7 day(s) ending 2026-06-27
 - Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search, 2026-06-26T00:00)
 - Detailed note: Post-dose 3 seroprotection rates were 100% against diphtheria (≥0.1 UI/mL), tetanus (≥0.1 UI/mL), and polio type 1/2/3 (≥8/dil), 94.5% against hepatitis B (≥10 mIU/mL), and 92.3% against polyribosylribitol phosphate (≥1 µg/mL). A total of 143 infants received at least one vaccination (22 born at 24-27 weeks of gestation, 29 at 28-30 weeks, 38 at 31-33 weeks, and 54 at 34-36 weeks), 135 received three doses, and...
-- Evidence notes: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search); [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Quick takes: More New World screwworm cases, Salmonella outbreak in Europe, polio in 4 nations](https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4) (CIDRAP); [Niger records fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMifkFVX3lxTFBILXJrQlZNMjI5Nk5TMVRJRGFrNW5VTDRuYTdBZllORnFvWFpIVmN3Z004RmpLTDN2VG12aG85ay1rdUd1TGIwLURZMllFYnc1U3l0TjJjdk9XODVfSV8yNnhDWjNmak4wbUlvX0xzbGg1MjU3VEttaHR6NGFtZw?oc=5) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1gtdFhMSkNIZHdWRzR5TTZ2M01ETDdKYkNmbmg3N0lPU3dXbnJSdmYyOW0wdTFHeHIyaURtcXNPSWpVelhRckw4NHFHa2ZCd2RyaGZGaE40QXc2WEliRFRYalhLNXZSUzFDWXdaUFdoUS1sVUFPc3pMbnQ2bDhfN0R1NlNTUm1qNjZwWFhleUxNZW8?oc=5) (The Guardian Nigeria News)
+- Evidence notes: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search); [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Quick takes: More New World screwworm cases, Salmonella outbreak in Europe, polio in 4 nations](https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4) (CIDRAP); [Niger records fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMifkFVX3lxTFBILXJrQlZNMjI5Nk5TMVRJRGFrNW5VTDRuYTdBZllORnFvWFpIVmN3Z004RmpLTDN2VG12aG85ay1rdUd1TGIwLURZMllFYnc1U3l0TjJjdk9XODVfSV8yNnhDWjNmak4wbUlvX0xzbGg1MjU3VEttaHR6NGFtZw?oc=5) (The Nation Newspaper); [Niger steps up surveillance after fresh polio and diphtheria cases](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEwzUWpXSjZPWGtxajdzdTVEbGU0Ty1zMHNuM2N2THQ2RFBjYUpCTmItQzM0aGwzSExhRjhkeVRlTHFMNF9xZFZQWDN3WUFkT0I5b1pBODhwNTNvbkNuZ2dfeXhBYXZkblVfazB2TGxJakVYWS1yUXlYRHlUM1FqajVqMEdsYXNMV0N4UHdPZlc0VHBWblh1MndnaGNxX3hT?oc=5) (Daily Post Nigeria)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -409,6 +409,16 @@ Search window: 7 day(s) ending 2026-06-27
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-06-23T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42334339/
+- Category: Major epidemiology studies
+- Summary: We conducted eight Focus Group Discussions (FGDs) and 53 interviews with 132 participants purposively selected from three Nigerian states, Oyo, Nasarawa, and the Federal Capital Territory. Operational enablers, including risk communication and multisectoral coordination. Participants made several cross-cutting recommendations for optimizing less-established adult and childhood vaccination programs across five themes: 1.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### WHO South Africa 2025 Annual Report
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-17T08:21+00:00
@@ -419,18 +429,10 @@ Search window: 7 day(s) ending 2026-06-27
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
-- Source: Texas Department of State Health Services News
-- Date: Unknown
-- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Video CDC raises emergency response for Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/134271560/) | ABC News - Breaking News, Latest News and Videos | 2026-06-27T14:22+00:00 | Outbreaks and emerging infections
@@ -469,8 +471,6 @@ Search window: 7 day(s) ending 2026-06-27
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches Europe as WHO warns of South Sudan risk](https://www.msn.com/en-au/news/insight/ebola-outbreak-reaches-europe-as-who-warns-of-south-sudan-risk/gm-GM525C8603?gemSnapshotKey\=GM525C8603-snapshot-38\&uxmode\=ruby) | MSN | 2026-06-26T14:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola death toll in DRC passes 300 as outbreak widens](https://www.msn.com/en-ca/news/insight/ebola-death-toll-in-drc-passes-300-as-outbreak-widens/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-45\&uxmode\=ruby) | MSN | 2026-06-26T14:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Quantifying the community transmission of Mycobacterium tuberculosis in a rapidly growing Chinese city: a nine-year population-based genomic and spatial analysis.](https://pubmed.ncbi.nlm.nih.gov/42360842/)
@@ -485,6 +485,12 @@ Search window: 7 day(s) ending 2026-06-27
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42359964/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42359964/
+- [Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42334339/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/17441692.2026.2691434
+  Journal/preprint server: Global public health
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42334339/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42334339/
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in the Dominican Republic.](https://pubmed.ncbi.nlm.nih.gov/42360922/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/14760584.2026.2694383
