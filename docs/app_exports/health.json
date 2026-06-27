@@ -12,35 +12,35 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 164,
-    "sources_cached": 0,
+    "metadata_only_count": 165,
+    "sources_cached": 2,
     "sources_failed": 3,
-    "sources_live": 177,
+    "sources_live": 179,
     "story_count_change": 5,
-    "wrapper_only_count": 5
+    "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 177,
-    "refresh_cache": 0,
+    "live": 179,
+    "refresh_cache": 2,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-27T04:24:50",
+  "generated_at": "2026-06-27T05:05:45",
   "source_failures": [
     {
-      "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
-      "source": "USDA APHIS Avian Influenza",
+      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "rss"
+    },
+    {
+      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
     },
     {
-      "error": "400 Client Error: Bad Request for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42360272%2C42359789%2C42359581%2C42343873%2C42337391%2C42334339%2C42328968%2C42323841%2C42360842%2C42360305%2C42359964%2C42348835%2C42348792%2C42348662%2C42348585%2C42345123%2C42343869%2C42343643%2C42342558%2C42342556%2C42342410%2C42342360%2C42340409%2C42339852%2C42339818&retmode=xml",
-      "source": "PubMed Infectious Disease Search",
-      "source_type": "pubmed"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
-      "source": "California Department of Public Health News",
+      "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
+      "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
     }
   ]
