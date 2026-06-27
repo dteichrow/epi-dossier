@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-27
-Generated at: 2026-06-27T06:49
+Generated at: 2026-06-27T06:59
 Search window: 7 day(s) ending 2026-06-27
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-27
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (156), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (147), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-06-27
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 141 item(s) across 92 source(s).
-- Baseline snapshot created with 141 clustered item(s) across 92 source(s).
+- Newly tracked story cluster: 130 item(s) across 85 source(s).
+- Baseline snapshot created with 130 clustered item(s) across 85 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-06-27
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 141 item(s) across 92 source(s); 4 official/primary-source item(s).
+- Topic size: 130 item(s) across 85 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola cases top 1,200 in DR Congo as government battles community resistance](https://www.aa.com.tr/en/africa/ebola-cases-top-1-200-in-dr-congo-as-government-battles-community-resistance/3979806) (Anadolu Ajansı)
@@ -437,6 +437,8 @@ Search window: 7 day(s) ending 2026-06-27
   Limited detail was available from feed metadata alone.
 - [Ebola cases top 1,200 in DR Congo as government battles community resistance](https://www.aa.com.tr/en/africa/ebola-cases-top-1-200-in-dr-congo-as-government-battles-community-resistance/3979806) | Anadolu Ajansı | 2026-06-27T11:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [🔴ଡରାଇଲାଣି ଇବୋଲା Ebola Virus Threat: Centre Issues High-Alert Health Advisory for Passengers & States](https://kanaknews.com/videos/health/ebola-ebola-virus-threat-center-issues-high-alert-health-advisory-for-passengers-states-12111582/amp) | Kanak News Odisha | 2026-06-27T08:10+00:00 | Outbreaks and emerging infections
+  To prevent the virus from entering the country, the Centre has mandated strict screening protocols, hospital isolation readiness across states, and an Air Suvidha self-declaration form for international travelers arriving from or transiting through affected regions. Following the World Health Organization (WHO) declaring the Ebola outbreak a Public Health Emergency of International Concern, the Indian Ministry of Health and Family Welfare has issued a comprehensive travel and health advisory. Get the latest updates on news, politics, sports, business, current affairs, entertainment, technology and health updates from Kanak News.
 - [Sri Lanka’s dengue outbreak reaches epidemic level as cases top 50,000: Health officials](https://www.aa.com.tr/en/asia-pacific/sri-lanka-s-dengue-outbreak-reaches-epidemic-level-as-cases-top-50-000-health-officials/3979458) | Anadolu Ajansı | 2026-06-27T04:54+00:00 | Outbreaks and emerging infections
   Sri Lanka is facing a dengue epidemic after confirmed infections surpassed 50,000 in 2026, with 29 deaths reported, media reports said Saturday, citing health authorities. Kapila Kannangara, acting director of the National Dengue Control Unit, said the country is recording between 600 and 700 new cases each day, driven by favorable weather, widespread mosquito breeding and insufficient public participation in prevention efforts, according to the Daily Mirror. Health officials carried out a special dengue control campaign in 600 high-risk areas identified as hotspots during the southwest monsoon.
 - [Ebola death toll in Congo tops 300 as outbreak spreads](https://www.msn.com/en-ca/news/insight/ebola-death-toll-in-congo-tops-300-as-outbreak-spreads/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-58\&uxmode\=ruby) | MSN | 2026-06-27T02:35+00:00 | Outbreaks and emerging infections
@@ -468,8 +470,6 @@ Search window: 7 day(s) ending 2026-06-27
 - [WHO warns Ebola outbreak could hit South Sudan within weeks](https://www.msn.com/en-gb/news/insight/france-confirms-first-ebola-case-in-returning-doctor/gm-GME76B07DC?gemSnapshotKey\=GME76B07DC-snapshot-4\&uxmode\=ruby) | MSN | 2026-06-26T12:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [As Ebola spreads in Eastern DRC, WFP warns food, livelihoods and access are critical to containing the outbreak](https://reliefweb.int/report/democratic-republic-congo/ebola-spreads-eastern-drc-wfp-warns-food-livelihoods-and-access-are-critical-containing-outbreak) | ReliefWeb | 2026-06-26T11:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [No Bundibugyo Ebola cases recorded in South Sudan, Ministry and WHO Say](https://www.eyeradio.org/no-bundibugyo-ebola-cases-recorded-in-south-sudan-ministry-and-who-say/) | Eye Radio | 2026-06-26T11:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
