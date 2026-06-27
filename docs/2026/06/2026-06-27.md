@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-27
-Generated at: 2026-06-27T14:09
+Generated at: 2026-06-27T14:16
 Search window: 7 day(s) ending 2026-06-27
 
 ## Executive scan
@@ -26,34 +26,35 @@ Search window: 7 day(s) ending 2026-06-27
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 142 item(s) across 91 source(s).
-- Baseline snapshot created with 142 clustered item(s) across 91 source(s).
+- Newly tracked story cluster: 141 item(s) across 91 source(s).
+- Baseline snapshot created with 141 clustered item(s) across 91 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
-- Newly tracked story cluster: 24 item(s) across 23 source(s).
-- Baseline snapshot created with 24 clustered item(s) across 23 source(s).
+- Newly tracked story cluster: 25 item(s) across 24 source(s).
+- Baseline snapshot created with 25 clustered item(s) across 24 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The Guardian now includes quarantine language.
 
+### Measles transmission and vaccination
+- Lead item: [Bangladesh measles outbreak claims seven more lives, death toll rises to 709](https://telanganatoday.com/bangladesh-measles-outbreak-claims-seven-more-lives-death-toll-rises-to-709) (Telangana Today)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Telangana Today now includes deaths or fatal cases in the story frame.
+- Telangana Today now foregrounds vaccination or vaccine policy in the story.
+
 ### Polio and wastewater surveillance
 - Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 6 item(s) across 6 source(s).
-- Baseline snapshot created with 6 clustered item(s) across 6 source(s).
+- Newly tracked story cluster: 5 item(s) across 5 source(s).
+- Baseline snapshot created with 5 clustered item(s) across 5 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
-### Tuberculosis and antimicrobial resistance
-- Lead item: [Quantifying the community transmission of Mycobacterium tuberculosis in a rapidly growing Chinese city: a nine-year population-based genomic and spatial analysis.](https://pubmed.ncbi.nlm.nih.gov/42360842/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 142 item(s) across 91 source(s); 4 official/primary-source item(s).
+- Topic size: 141 item(s) across 91 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak raises fresh fears as virus crosses into Uganda](https://www.thedailystar.net/health/news/ebola-outbreak-raises-fresh-fears-virus-crosses-uganda-4209721) (The Daily Star)
@@ -61,7 +62,7 @@ Search window: 7 day(s) ending 2026-06-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 24 item(s) across 23 source(s); 3 official/primary-source item(s).
+- Topic size: 25 item(s) across 24 source(s); 3 official/primary-source item(s).
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
 - Detailed note: You can now register to attend this year’s European Scientific Conference on Applied Infectious Disease Epidemiology (ESCAIDE), taking place in Stockholm and online on 18–20 November 2026. Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida...
 - Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews.com); [US CDC concludes hantavirus response as outbreak eases](https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5) (Reuters)
@@ -69,7 +70,7 @@ Search window: 7 day(s) ending 2026-06-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Polio and wastewater surveillance
-- Topic size: 6 item(s) across 6 source(s); 2 official/primary-source item(s).
+- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search, 2026-06-26T00:00)
 - Detailed note: Post-dose 3 seroprotection rates were 100% against diphtheria (≥0.1 UI/mL), tetanus (≥0.1 UI/mL), and polio type 1/2/3 (≥8/dil), 94.5% against hepatitis B (≥10 mIU/mL), and 92.3% against polyribosylribitol phosphate (≥1 µg/mL). A total of 143 infants received at least one vaccination (22 born at 24-27 weeks of gestation, 29 at 28-30 weeks, 38 at 31-33 weeks, and 54 at 34-36 weeks), 135 received three doses, and...
 - Evidence notes: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search); [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Quick takes: More New World screwworm cases, Salmonella outbreak in Europe, polio in 4 nations](https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4) (CIDRAP); [Niger records fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMifkFVX3lxTFBILXJrQlZNMjI5Nk5TMVRJRGFrNW5VTDRuYTdBZllORnFvWFpIVmN3Z004RmpLTDN2VG12aG85ay1rdUd1TGIwLURZMllFYnc1U3l0TjJjdk9XODVfSV8yNnhDWjNmak4wbUlvX0xzbGg1MjU3VEttaHR6NGFtZw?oc=5) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1gtdFhMSkNIZHdWRzR5TTZ2M01ETDdKYkNmbmg3N0lPU3dXbnJSdmYyOW0wdTFHeHIyaURtcXNPSWpVelhRckw4NHFHa2ZCd2RyaGZGaE40QXc2WEliRFRYalhLNXZSUzFDWXdaUFdoUS1sVUFPc3pMbnQ2bDhfN0R1NlNTUm1qNjZwWFhleUxNZW8?oc=5) (The Guardian Nigeria News)
@@ -85,12 +86,12 @@ Search window: 7 day(s) ending 2026-06-27
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [As measles outbreak continues, state officials push for vaccination](https://www.ldnews.com/story/news/local/2026/06/26/measles-outbreak-rising-in-lancaster-lebanon-region-vaccination-urged/90670940007/) (Lebanon Daily News, 2026-06-26T19:31+00:00)
-- Detailed note: State officials have confirmed more than 70 measles cases in Pennsylvania, primarily in the Lancaster-Lebanon region. Since late April, the Lancaster and Lebanon area has seen 70 cases of measles, leading to calls for more people to get vaccinated.
-- Evidence notes: [As measles outbreak continues, state officials push for vaccination](https://www.ldnews.com/story/news/local/2026/06/26/measles-outbreak-rising-in-lancaster-lebanon-region-vaccination-urged/90670940007/) (Lebanon Daily News); [Measles deaths cross 700 in Bangladesh](https://www.newagebd.net/post/childrens-health/304169/measles-deaths-cross-700-in-bangladesh) (Newagebd.net)
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh measles outbreak claims seven more lives, death toll rises to 709](https://telanganatoday.com/bangladesh-measles-outbreak-claims-seven-more-lives-death-toll-rises-to-709) (Telangana Today, 2026-06-27T13:28+00:00)
+- Detailed note: The latest update has taken the number of suspected measles fatalities to 615, while the number of laboratory-confirmed measles deaths has risen to 94, the United News of Bangladesh (UNB) reported. Public health officials warn the crisis could worsen rapidly as the country enters its annual dengue season Dhaka: As many as seven more children died from the measles outbreak in Bangladesh on Saturday, raising the...
+- Evidence notes: [Bangladesh measles outbreak claims seven more lives, death toll rises to 709](https://telanganatoday.com/bangladesh-measles-outbreak-claims-seven-more-lives-death-toll-rises-to-709) (Telangana Today); [Measles deaths cross 700 in Bangladesh](https://www.newagebd.net/post/childrens-health/304169/measles-deaths-cross-700-in-bangladesh) (Newagebd.net); [Rising number of measles cases in Lancaster-Lebanon areas prompts increased vaccine efforts](https://www.fox43.com/video/news/local/lancaster-county/rising-number-of-measles-cases-in-lancaster-lebanon-areas-prompts-increased-vaccine-efforts/521-231af3f8-ab1f-403f-8a3b-2552eee11d92) (fox43.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -439,6 +440,8 @@ Search window: 7 day(s) ending 2026-06-27
   Limited detail was available from feed metadata alone.
 - [Video CDC raises emergency response for Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/134271560/) | ABC News - Breaking News, Latest News and Videos | 2026-06-27T14:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Bangladesh measles outbreak claims seven more lives, death toll rises to 709](https://telanganatoday.com/bangladesh-measles-outbreak-claims-seven-more-lives-death-toll-rises-to-709) | Telangana Today | 2026-06-27T13:28+00:00 | Outbreaks and emerging infections
+  The latest update has taken the number of suspected measles fatalities to 615, while the number of laboratory-confirmed measles deaths has risen to 94, the United News of Bangladesh (UNB) reported. Public health officials warn the crisis could worsen rapidly as the country enters its annual dengue season Dhaka: As many as seven more children died from the measles outbreak in Bangladesh on Saturday, raising the total number of confirmed and suspected deaths to 709 since March 15 this year, amid an escalating health crisis in the country, local media reported. During the 24-hour period, 744 new suspected measles cases were reported in Bangladesh, raising the number of suspected cases in the country to 98,266.
 - [Uganda Hosts Regional Meeting to Boost Ebola Preparedness Amid Ongoing Outbreak - WHO | Regional Office for Africa](https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak) | WHO | 2026-06-27T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases top 1,200 in DR Congo as government battles community resistance](https://www.aa.com.tr/en/africa/ebola-cases-top-1-200-in-dr-congo-as-government-battles-community-resistance/3979806) | Anadolu Ajansı | 2026-06-27T11:42+00:00 | Outbreaks and emerging infections
@@ -457,11 +460,7 @@ Search window: 7 day(s) ending 2026-06-27
   Limited detail was available from feed metadata alone.
 - [As Ebola deaths top 300, African officials meet to boost regional readiness](https://www.cidrap.umn.edu/ebola/ebola-deaths-top-300-african-officials-meet-boost-regional-readiness) | CIDRAP | 2026-06-26T20:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [As measles outbreak continues, state officials push for vaccination](https://www.ldnews.com/story/news/local/2026/06/26/measles-outbreak-rising-in-lancaster-lebanon-region-vaccination-urged/90670940007/) | Lebanon Daily News | 2026-06-26T19:31+00:00 | Outbreaks and emerging infections
-  State officials have confirmed more than 70 measles cases in Pennsylvania, primarily in the Lancaster-Lebanon region. Since late April, the Lancaster and Lebanon area has seen 70 cases of measles, leading to calls for more people to get vaccinated. State officials provided an update on the Department of Health's response to rising measles cases in the Lancaster-Lebanon region, and continued to urge residents to get vaccinated amid the increased outbreak.
 - [Quick takes: More New World screwworm cases, Salmonella outbreak in Europe, polio in 4 nations](https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4) | CIDRAP | 2026-06-26T19:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [US CDC raises Ebola outbreak response to highest level](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-raises-response-ebola-outbreak-highest-level-says-risk-spread-us-is-low-2026-06-26/) | Reuters | 2026-06-26T18:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Escalates in the Democratic Republic of Congo](https://www.devdiscourse.com/article/health/3941516-ebola-outbreak-escalates-in-the-democratic-republic-of-congo?amp) | Devdiscourse | 2026-06-26T17:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -470,6 +469,8 @@ Search window: 7 day(s) ending 2026-06-27
 - [Ebola outbreak spreads to Europe as France confirms first case](https://www.msn.com/en-in/news/insight/ebola-outbreak-spreads-to-europe-as-france-confirms-first-case/gm-GMFB9C8B5F?gemSnapshotKey\=GMFB9C8B5F-snapshot-35\&uxmode\=ruby) | MSN | 2026-06-26T15:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Ebola Outbreak Exceeds 1,000 Cases, And Is Detected In France And Uganda](https://www.iflscience.com/bundibugyo-ebola-outbreak-exceeds-1000-cases-with-first-case-outside-africa-and-70-chance-of-spread-to-a-new-country-83929) | IFLScience | 2026-06-26T15:18+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak spreads to France as DRC cases surpass 1,150](https://www.msn.com/en-in/news/insight/ebola-outbreak-spreads-to-france-as-drc-cases-surpass-1-150/gm-GMFB9C8B5F?gemSnapshotKey\=GMFB9C8B5F-snapshot-19\&uxmode\=ruby) | MSN | 2026-06-26T14:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
