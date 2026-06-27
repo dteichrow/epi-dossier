@@ -12,21 +12,21 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 160,
+    "metadata_only_count": 163,
     "sources_cached": 0,
     "sources_failed": 3,
-    "sources_live": 175,
-    "story_count_change": 5,
+    "sources_live": 178,
+    "story_count_change": 6,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 175,
+    "live": 178,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-27T02:09:45",
+  "generated_at": "2026-06-27T02:55:53",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
