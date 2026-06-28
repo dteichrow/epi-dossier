@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-28
-Generated at: 2026-06-28T01:36
+Generated at: 2026-06-28T01:50
 Search window: 7 day(s) ending 2026-06-28
 
 ## Executive scan
@@ -13,7 +13,7 @@ Search window: 7 day(s) ending 2026-06-28
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (162), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (4)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
@@ -40,8 +40,8 @@ Search window: 7 day(s) ending 2026-06-28
 
 ### Polio and wastewater surveillance
 - Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 6 item(s) across 6 source(s).
-- Baseline snapshot created with 6 clustered item(s) across 6 source(s).
+- Newly tracked story cluster: 5 item(s) across 5 source(s).
+- Baseline snapshot created with 5 clustered item(s) across 5 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
@@ -69,7 +69,7 @@ Search window: 7 day(s) ending 2026-06-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Polio and wastewater surveillance
-- Topic size: 6 item(s) across 6 source(s); 2 official/primary-source item(s).
+- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search, 2026-06-26T00:00)
 - Detailed note: Post-dose 3 seroprotection rates were 100% against diphtheria (≥0.1 UI/mL), tetanus (≥0.1 UI/mL), and polio type 1/2/3 (≥8/dil), 94.5% against hepatitis B (≥10 mIU/mL), and 92.3% against polyribosylribitol phosphate (≥1 µg/mL). A total of 143 infants received at least one vaccination (22 born at 24-27 weeks of gestation, 29 at 28-30 weeks, 38 at 31-33 weeks, and 54 at 34-36 weeks), 135 received three doses, and...
 - Evidence notes: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search); [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa); [Quick takes: More New World screwworm cases, Salmonella outbreak in Europe, polio in 4 nations](https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4) (CIDRAP); [Niger records fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMifkFVX3lxTFBILXJrQlZNMjI5Nk5TMVRJRGFrNW5VTDRuYTdBZllORnFvWFpIVmN3Z004RmpLTDN2VG12aG85ay1rdUd1TGIwLURZMllFYnc1U3l0TjJjdk9XODVfSV8yNnhDWjNmak4wbUlvX0xzbGg1MjU3VEttaHR6NGFtZw?oc=5) (The Nation Newspaper); [Niger activates surveillance after fresh polio, diphtheria cases](https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1gtdFhMSkNIZHdWRzR5TTZ2M01ETDdKYkNmbmg3N0lPU3dXbnJSdmYyOW0wdTFHeHIyaURtcXNPSWpVelhRckw4NHFHa2ZCd2RyaGZGaE40QXc2WEliRFRYalhLNXZSUzFDWXdaUFdoUS1sVUFPc3pMbnQ2bDhfN0R1NlNTUm1qNjZwWFhleUxNZW8?oc=5) (The Guardian Nigeria News)
@@ -80,7 +80,7 @@ Search window: 7 day(s) ending 2026-06-28
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times, 2026-06-28T04:00+00:00)
 - Detailed note: Among 1,250 participants, DENV IgG seroprevalence was 38.1% (95% CI: 34.5%-41.8%), increasing with age, and highest within peri-urban Kimpoko sites (54.9%). CHIKV IgG seroprevalence was 24.2% (95% CI: 21.1%-27.6%), increasing with age and comparable between peri-urban Kimpoko and rural Bu, with few seropositives in the city-center. Doctors warn that waiting too long at home can be risky, especially if the illness...
-- Evidence notes: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times); [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka); [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation); [Dengue and chikungunya virus transmission in Kinshasa, Democratic Republic of the Congo](https://www.medrxiv.org/content/10.64898/2026.06.11.26355423v1) (medRxiv Infectious Disease)
+- Evidence notes: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times); [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation); [Dengue and chikungunya virus transmission in Kinshasa, Democratic Republic of the Congo](https://www.medrxiv.org/content/10.64898/2026.06.11.26355423v1) (medRxiv Infectious Disease)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Some items are preprints and may change after review.
 
@@ -433,6 +433,8 @@ Search window: 7 day(s) ending 2026-06-28
 ## Other notable readings
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Three Children Gone in Two Days: Jharkhand faces alarming cerebral malaria outbreak](https://www.dynamitenews.com/national/three-children-gone-in-two-days-jharkhand-faces-alarming-cerebral-malaria-outbreak/amp) | Dynamite News | 2026-06-28T06:26+00:00 | Outbreaks and emerging infections
+  District Surveillance Officer Dr Asad said that with the onset of the monsoon, an unexpected spike in malaria and cerebral malaria cases has been reported across these villages. The deceased have been identified as Lakhkhi Sardar, a Class VII student of PM Shri Kasturba Gandhi Residential School; Rahul Sardar (8) from Daudrodia village; and Subola Sardar (8) from Kandar village. Fresh cases are still emerging from affected villages, while more than 20 patients -- many of them children -- have been admitted to the Mahatma Gandhi Memorial (MGM) Medical College and Hospital in Jamshedpur.
 - [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) | The New York Times | 2026-06-28T04:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Balancing the risks of catching Ebola while covering the outbreak](https://www.npr.org/2026/06/27/nx-s1-5873422/balancing-the-risks-of-catching-ebola-while-covering-the-outbreak) | NPR | 2026-06-27T23:36+00:00 | Outbreaks and emerging infections
@@ -453,6 +455,8 @@ Search window: 7 day(s) ending 2026-06-28
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo surpasses 1,150 cases as France reports first case](https://www.msn.com/en-in/news/insight/ebola-outbreak-in-congo-surpasses-1-150-cases-as-france-reports-first-case/gm-GMFB9C8B5F?gemSnapshotKey\=GMFB9C8B5F-snapshot-45) | MSN | 2026-06-27T05:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [DRC Ebola outbreak tops 1,000 cases; study warns of 70% risk of cross-border spread](https://indianexpress.com/article/health-wellness/drc-ebola-outbreak-cases-study-risk-cross-border-spread-10758105/) | The Indian Express | 2026-06-27T05:35+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola deaths in DRC surpass 300 as outbreak strains response](https://www.msn.com/en-ca/news/insight/ebola-deaths-in-drc-surpass-300-as-outbreak-strains-response/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-34\&uxmode\=ruby) | MSN | 2026-06-26T22:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US starts vaccine effort for Ebola Bundibugyo as outbreak spreads](https://www.reuters.com/business/healthcare-pharmaceuticals/us-ship-experimental-ebola-therapy-drc-uganda-outbreak-worsens-2026-06-26/) | Reuters | 2026-06-26T22:09+00:00 | Outbreaks and emerging infections
@@ -466,10 +470,6 @@ Search window: 7 day(s) ending 2026-06-28
 - [US CDC raises Ebola outbreak response to highest level](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-raises-response-ebola-outbreak-highest-level-says-risk-spread-us-is-low-2026-06-26/) | Reuters | 2026-06-26T18:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Escalates in the Democratic Republic of Congo](https://www.devdiscourse.com/article/health/3941516-ebola-outbreak-escalates-in-the-democratic-republic-of-congo?amp) | Devdiscourse | 2026-06-26T17:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [More than a month into DR Congo Ebola outbreak, doctors warn 'this epidemic will last'](https://www.france24.com/en/africa/20260626-dr-congo-patients-cured-doctors-warn-outbreak-far-contained) | France 24 | 2026-06-26T17:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Ebola Outbreak Exceeds 1,000 Cases, And Is Detected In France And Uganda](https://www.iflscience.com/bundibugyo-ebola-outbreak-exceeds-1000-cases-with-first-case-outside-africa-and-70-chance-of-spread-to-a-new-country-83929) | IFLScience | 2026-06-26T15:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving

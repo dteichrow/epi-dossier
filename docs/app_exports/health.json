@@ -15,7 +15,7 @@
     ],
     "metadata_only_count": 170,
     "sources_cached": 0,
-    "sources_failed": 3,
+    "sources_failed": 1,
     "sources_live": 185,
     "story_count_change": 7,
     "wrapper_only_count": 6
@@ -27,18 +27,8 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-28T01:36:52",
+  "generated_at": "2026-06-28T01:50:34",
   "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
-      "source_type": "html_list"
-    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
