@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-28
-Generated at: 2026-06-28T06:16
+Generated at: 2026-06-28T06:58
 Search window: 7 day(s) ending 2026-06-28
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-28
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (155), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-06-28
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 138 item(s) across 88 source(s).
-- Baseline snapshot created with 138 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 134 item(s) across 86 source(s).
+- Baseline snapshot created with 134 clustered item(s) across 86 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-06-28
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 138 item(s) across 88 source(s); 4 official/primary-source item(s).
+- Topic size: 134 item(s) across 86 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [11 African nations join forces in Kampala to combat Ebola outbreak](https://www.monitor.co.ug/uganda/news/national/11-african-nations-join-forces-in-kampala-to-combat-ebola-outbreak-5511432) (Daily Monitor)
@@ -79,8 +79,8 @@ Search window: 7 day(s) ending 2026-06-28
 ### Dengue and arboviruses
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times, 2026-06-28T04:00+00:00)
-- Detailed note: Among 1,250 participants, DENV IgG seroprevalence was 38.1% (95% CI: 34.5%-41.8%), increasing with age, and highest within peri-urban Kimpoko sites (54.9%). CHIKV IgG seroprevalence was 24.2% (95% CI: 21.1%-27.6%), increasing with age and comparable between peri-urban Kimpoko and rural Bu, with few seropositives in the city-center. Doctors warn that waiting too long at home can be risky, especially if the illness...
-- Evidence notes: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times); [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation); [Dengue and chikungunya virus transmission in Kinshasa, Democratic Republic of the Congo](https://www.medrxiv.org/content/10.64898/2026.06.11.26355423v1) (medRxiv Infectious Disease)
+- Detailed note: Among 1,250 participants, DENV IgG seroprevalence was 38.1% (95% CI: 34.5%-41.8%), increasing with age, and highest within peri-urban Kimpoko sites (54.9%). CHIKV IgG seroprevalence was 24.2% (95% CI: 21.1%-27.6%), increasing with age and comparable between peri-urban Kimpoko and rural Bu, with few seropositives in the city-center. Others Obituary: Barrister Mainul Hosein Today’s Newspaper Front Page Back Page...
+- Evidence notes: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times); [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Dengue and chikungunya virus transmission in Kinshasa, Democratic Republic of the Congo](https://www.medrxiv.org/content/10.64898/2026.06.11.26355423v1) (medRxiv Infectious Disease); [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Some items are preprints and may change after review.
 
@@ -435,8 +435,6 @@ Search window: 7 day(s) ending 2026-06-28
   Limited detail was available from feed metadata alone.
 - [11 African nations join forces in Kampala to combat Ebola outbreak](https://www.monitor.co.ug/uganda/news/national/11-african-nations-join-forces-in-kampala-to-combat-ebola-outbreak-5511432) | Daily Monitor | 2026-06-28T10:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Three Children Gone in Two Days: Jharkhand faces alarming cerebral malaria outbreak](https://www.dynamitenews.com/national/three-children-gone-in-two-days-jharkhand-faces-alarming-cerebral-malaria-outbreak/amp) | Dynamite News | 2026-06-28T06:26+00:00 | Outbreaks and emerging infections
-  District Surveillance Officer Dr Asad said that with the onset of the monsoon, an unexpected spike in malaria and cerebral malaria cases has been reported across these villages. The deceased have been identified as Lakhkhi Sardar, a Class VII student of PM Shri Kasturba Gandhi Residential School; Rahul Sardar (8) from Daudrodia village; and Subola Sardar (8) from Kandar village. Fresh cases are still emerging from affected villages, while more than 20 patients -- many of them children -- have been admitted to the Mahatma Gandhi Memorial (MGM) Medical College and Hospital in Jamshedpur.
 - [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) | The New York Times | 2026-06-28T04:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Balancing the risks of catching Ebola while covering the outbreak](https://www.npr.org/2026/06/27/nx-s1-5873422/balancing-the-risks-of-catching-ebola-while-covering-the-outbreak) | NPR | 2026-06-27T23:36+00:00 | Outbreaks and emerging infections
@@ -470,6 +468,8 @@ Search window: 7 day(s) ending 2026-06-28
 - [Ebola Outbreak Escalates in the Democratic Republic of Congo](https://www.devdiscourse.com/article/health/3941516-ebola-outbreak-escalates-in-the-democratic-republic-of-congo?amp) | Devdiscourse | 2026-06-26T17:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [More than a month into DR Congo Ebola outbreak, doctors warn 'this epidemic will last'](https://www.france24.com/en/africa/20260626-dr-congo-patients-cured-doctors-warn-outbreak-far-contained) | France 24 | 2026-06-26T17:23+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola death toll hits 300 as cases surge to 1,155](https://www.trtafrika.com/article/1dcba6a93cb6) | TRT Afrika | 2026-06-26T15:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
