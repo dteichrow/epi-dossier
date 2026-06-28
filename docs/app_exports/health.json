@@ -27,7 +27,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-27T21:03:24",
+  "generated_at": "2026-06-27T21:19:56",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
@@ -36,12 +36,12 @@
     },
     {
       "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
+      "source": "medRxiv Infectious Disease",
+      "source_type": "medrxiv"
     },
     {
       "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
+      "source": "bioRxiv Infectious Disease",
       "source_type": "biorxiv"
     }
   ]
