@@ -13,51 +13,26 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 163,
-    "sources_cached": 2,
-    "sources_failed": 6,
-    "sources_live": 177,
-    "story_count_change": 6,
+    "metadata_only_count": 169,
+    "sources_cached": 0,
+    "sources_failed": 1,
+    "sources_live": 184,
+    "story_count_change": 7,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 177,
-    "refresh_cache": 2,
+    "live": 184,
+    "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-28T03:59:51",
+  "generated_at": "2026-06-28T04:16:49",
   "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
-      "source_type": "html_list"
-    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/medrxiv/2026-06-20/2026-06-28",
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-06-20/2026-06-28",
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-06-20/2026-06-28",
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
     }
   ]
 }
