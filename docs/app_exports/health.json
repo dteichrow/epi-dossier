@@ -13,21 +13,21 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 168,
+    "metadata_only_count": 167,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 182,
+    "sources_live": 183,
     "story_count_change": 7,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 182,
+    "live": 183,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-28T04:20:47",
+  "generated_at": "2026-06-28T04:40:46",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
