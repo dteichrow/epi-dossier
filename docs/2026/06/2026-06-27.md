@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-27
-Generated at: 2026-06-27T23:40
+Generated at: 2026-06-27T23:50
 Search window: 7 day(s) ending 2026-06-27
 
 ## Executive scan
@@ -13,7 +13,7 @@ Search window: 7 day(s) ending 2026-06-27
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (167), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (3)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Avian influenza and H5N1
@@ -94,9 +94,9 @@ Search window: 7 day(s) ending 2026-06-27
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation, 2026-06-24T05:43+00:00)
-- Detailed note: Nearly 50,000 cases have been reported this year, with 29 deaths, although that is still far below the 2017 peak, when 186,000 patients and 440 deaths were reported. Sri Lanka is deploying the military to contain the spread of mosquito-borne dengue fever, as health authorities warned on Tuesday that hospitals are being overwhelmed with more than 1,000 admissions daily.
-- Evidence notes: [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation); [Sri Lanka troops to battle deadly dengue mosquitoes as cases rise](https://insiderpaper.com/sri-lanka-troops-to-battle-deadly-dengue-mosquitoes-as-cases-rise/) (Insider Paper)
+- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka, 2026-06-25T05:02+00:00)
+- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Seasonal influenza—commonly known as flu—remains a regular public health concern in Sri Lanka, particularly during two peak periods from April to June and again from November to January.
+- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -447,11 +447,13 @@ Search window: 7 day(s) ending 2026-06-27
   Limited detail was available from feed metadata alone.
 - [Ebola deaths in DRC surpass 300 as cases spread beyond borders](https://www.msn.com/en-ca/news/insight/ebola-deaths-in-drc-surpass-300-as-cases-spread-beyond-borders/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-31\&uxmode\=ruby) | MSN | 2026-06-27T08:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola death toll in Congo tops 300 as outbreak spreads](https://www.msn.com/en-ca/news/insight/ebola-death-toll-in-congo-tops-300-as-outbreak-spreads/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-58\&uxmode\=ruby) | MSN | 2026-06-27T08:35+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola surges in Congo and Uganda, cases hit 1,203 with 321 deaths - CHOSUNBIZ](https://biz.chosun.com/en/en-international/2026/06/27/PCNLXRMT5RDVTIBZVGDSC55H7M/) | Chosunbiz | 2026-06-27T08:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo surpasses 1,150 cases as France reports first case](https://www.msn.com/en-in/news/insight/ebola-outbreak-in-congo-surpasses-1-150-cases-as-france-reports-first-case/gm-GMFB9C8B5F?gemSnapshotKey\=GMFB9C8B5F-snapshot-45) | MSN | 2026-06-27T07:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola death toll in Congo tops 300 as outbreak spreads](https://www.msn.com/en-ca/news/insight/ebola-death-toll-in-congo-tops-300-as-outbreak-spreads/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-58\&uxmode\=ruby) | MSN | 2026-06-27T02:35+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak spreads to France as DRC cases surpass 1,150](https://www.msn.com/en-in/news/insight/ebola-outbreak-spreads-to-france-as-drc-cases-surpass-1-150/gm-GMFB9C8B5F?gemSnapshotKey\=GMFB9C8B5F-snapshot-19\&uxmode\=ruby) | MSN | 2026-06-27T03:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola deaths in DRC surpass 300 as outbreak strains response](https://www.msn.com/en-ca/news/insight/ebola-deaths-in-drc-surpass-300-as-outbreak-strains-response/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-34\&uxmode\=ruby) | MSN | 2026-06-26T22:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -468,8 +470,6 @@ Search window: 7 day(s) ending 2026-06-27
 - [Ebola Outbreak Escalates in the Democratic Republic of Congo](https://www.devdiscourse.com/article/health/3941516-ebola-outbreak-escalates-in-the-democratic-republic-of-congo?amp) | Devdiscourse | 2026-06-26T17:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [More than a month into DR Congo Ebola outbreak, doctors warn 'this epidemic will last'](https://www.france24.com/en/africa/20260626-dr-congo-patients-cured-doctors-warn-outbreak-far-contained) | France 24 | 2026-06-26T17:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Ebola Outbreak Exceeds 1,000 Cases, And Is Detected In France And Uganda](https://www.iflscience.com/bundibugyo-ebola-outbreak-exceeds-1000-cases-with-first-case-outside-africa-and-70-chance-of-spread-to-a-new-country-83929) | IFLScience | 2026-06-26T15:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
