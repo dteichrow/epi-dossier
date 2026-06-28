@@ -13,21 +13,21 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 171,
+    "metadata_only_count": 155,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 187,
+    "sources_failed": 4,
+    "sources_live": 171,
     "story_count_change": 6,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 187,
+    "live": 171,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-27T21:19:56",
+  "generated_at": "2026-06-27T21:39:56",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
@@ -35,13 +35,18 @@
       "source_type": "html_list"
     },
     {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "source": "medRxiv Infectious Disease",
       "source_type": "medrxiv"
     },
     {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "source": "bioRxiv Infectious Disease",
+      "source_type": "biorxiv"
+    },
+    {
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
       "source_type": "biorxiv"
     }
   ]
