@@ -13,21 +13,21 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 171,
+    "metadata_only_count": 172,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 187,
+    "sources_failed": 4,
+    "sources_live": 188,
     "story_count_change": 6,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 187,
+    "live": 188,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-27T17:52:33",
+  "generated_at": "2026-06-27T18:20:04",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
@@ -38,6 +38,16 @@
       "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
       "source": "medRxiv Infectious Disease",
       "source_type": "medrxiv"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "source": "bioRxiv Infectious Disease",
+      "source_type": "biorxiv"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
+      "source_type": "biorxiv"
     }
   ]
 }
