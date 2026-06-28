@@ -13,30 +13,25 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 148,
-    "sources_cached": 1,
-    "sources_failed": 5,
-    "sources_live": 161,
-    "story_count_change": 6,
-    "wrapper_only_count": 4
+    "metadata_only_count": 168,
+    "sources_cached": 0,
+    "sources_failed": 3,
+    "sources_live": 184,
+    "story_count_change": 7,
+    "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 161,
-    "refresh_cache": 1,
+    "live": 184,
+    "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-28T15:20:00",
+  "generated_at": "2026-06-28T15:23:55",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
       "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.ecdc.europa.eu/en/taxonomy/term/1307/feed",
-      "source": "ECDC News",
       "source_type": "rss"
     },
     {
@@ -47,11 +42,6 @@
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
-      "source_type": "html_list"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://healthweb-back.health.ny.gov/press/releases/",
-      "source": "New York State Department of Health Press Releases",
       "source_type": "html_list"
     }
   ]
