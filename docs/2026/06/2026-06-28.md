@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-28
-Generated at: 2026-06-28T03:10
+Generated at: 2026-06-28T03:16
 Search window: 7 day(s) ending 2026-06-28
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-28
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (153), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (165), Policy, surveillance, and public health infrastructure (18), Major epidemiology studies (4)
 - Source health: 4 source(s) failed during collection: USDA APHIS Avian Influenza, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
@@ -26,15 +26,15 @@ Search window: 7 day(s) ending 2026-06-28
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 139 item(s) across 87 source(s).
-- Baseline snapshot created with 139 clustered item(s) across 87 source(s).
+- Newly tracked story cluster: 144 item(s) across 89 source(s).
+- Baseline snapshot created with 144 clustered item(s) across 89 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
-- Newly tracked story cluster: 22 item(s) across 21 source(s).
-- Baseline snapshot created with 22 clustered item(s) across 21 source(s).
+- Newly tracked story cluster: 25 item(s) across 24 source(s).
+- Baseline snapshot created with 25 clustered item(s) across 24 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The Guardian now includes quarantine language.
 
@@ -44,16 +44,16 @@ Search window: 7 day(s) ending 2026-06-28
 - Baseline snapshot created with 6 clustered item(s) across 6 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
-### Tuberculosis and antimicrobial resistance
-- Lead item: [Quantifying the community transmission of Mycobacterium tuberculosis in a rapidly growing Chinese city: a nine-year population-based genomic and spatial analysis.](https://pubmed.ncbi.nlm.nih.gov/42360842/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+### Dengue and arboviruses
+- Lead item: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Daily Mirror - Sri Lanka now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 139 item(s) across 87 source(s); 4 official/primary-source item(s).
+- Topic size: 144 item(s) across 89 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Balancing the risks of catching Ebola while covering the outbreak](https://www.npr.org/2026/06/27/nx-s1-5873422/balancing-the-risks-of-catching-ebola-while-covering-the-outbreak) (NPR)
@@ -61,7 +61,7 @@ Search window: 7 day(s) ending 2026-06-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 22 item(s) across 21 source(s); 3 official/primary-source item(s).
+- Topic size: 25 item(s) across 24 source(s); 3 official/primary-source item(s).
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
 - Detailed note: You can now register to attend this year’s European Scientific Conference on Applied Infectious Disease Epidemiology (ESCAIDE), taking place in Stockholm and online on 18–20 November 2026. Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida...
 - Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews); [US CDC concludes hantavirus response as outbreak eases](https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5) (Reuters)
@@ -84,6 +84,14 @@ Search window: 7 day(s) ending 2026-06-28
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times, 2026-06-28T04:00+00:00)
+- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Colombo, June 25 (Daily Mirror) - Sri Lanka is currently seeing both dengue fever and seasonal influenza circulating at the same time, and doctors are urging the public not to try and self-diagnose at home.
+- Evidence notes: [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times); [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/breaking-news/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/108-343847) (Daily Mirror - Sri Lanka); [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Quantifying the community transmission of Mycobacterium tuberculosis in a rapidly growing Chinese city: a nine-year population-based genomic and spatial analysis.](https://pubmed.ncbi.nlm.nih.gov/42360842/) (PubMed Infectious Disease Search, 2026-06-26T00:00)
@@ -91,14 +99,6 @@ Search window: 7 day(s) ending 2026-06-28
 - Evidence notes: [Quantifying the community transmission of Mycobacterium tuberculosis in a rapidly growing Chinese city: a nine-year population-based genomic and spatial analysis.](https://pubmed.ncbi.nlm.nih.gov/42360842/) (PubMed Infectious Disease Search); [WHO South Africa 2025 Annual Report](https://www.afro.who.int/countries/south-africa/publication/who-south-africa-2025-annual-report) (WHO Regional Office for Africa)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka, 2026-06-25T05:02+00:00)
-- Detailed note: Doctors warn that waiting too long at home can be risky, especially if the illness turns out to be dengue, where early monitoring is important. Seasonal influenza—commonly known as flu—remains a regular public health concern in Sri Lanka, particularly during two peak periods from April to June and again from November to January.
-- Evidence notes: [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -437,9 +437,11 @@ Search window: 7 day(s) ending 2026-06-28
   Limited detail was available from feed metadata alone.
 - ["Ensuring future free from polio": Puducherry CM launches vaccination drive](https://www.lokmattimes.com/national/ensuring-future-free-from-polio-puducherry-cm-launches-vaccination-drive/amp/) | lokmattimes.com | 2026-06-28T07:15+00:00 | Outbreaks and emerging infections
   Children could be at risk of infection if parents do not pay proper attention, and the camp is being held to ensure a future free from polio," CM Rangaswamy told reporters. Chief Ministers across several states on Sunday launched the National Pulse Polio Immunisation campaign, urging parents to ensure that children below the age of five receive polio drops to keep the country free from the disease. Speaking on the occasion of Polio Day, CM Rangaswamy said the Health Department was conducting the vaccination campaign to protect children from polio infection.
+- [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) | The New York Times | 2026-06-28T04:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Balancing the risks of catching Ebola while covering the outbreak](https://www.npr.org/2026/06/27/nx-s1-5873422/balancing-the-risks-of-catching-ebola-while-covering-the-outbreak) | NPR | 2026-06-27T23:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Video CDC raises emergency response for Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/134271560/) | ABC News - Breaking News, Latest News and Videos | 2026-06-27T14:22+00:00 | Policy, surveillance, and public health infrastructure
+- [Video CDC raises emergency response for Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/134271560/) | ABC News - Breaking News, Latest News and Videos | 2026-06-27T14:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola deaths in Congo surpass 300 as outbreak accelerates](https://www.msn.com/en-ca/news/insight/ebola-deaths-in-congo-surpass-300-as-outbreak-accelerates/gm-GMD886BB2D?gemSnapshotKey\=GMD886BB2D-snapshot-47\&uxmode\=ruby) | MSN | 2026-06-27T11:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -466,8 +468,6 @@ Search window: 7 day(s) ending 2026-06-28
 - [Quick takes: More New World screwworm cases, Salmonella outbreak in Europe, polio in 4 nations](https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cases-salmonella-outbreak-europe-polio-4) | CIDRAP | 2026-06-26T19:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US CDC raises Ebola outbreak response to highest level](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-raises-response-ebola-outbreak-highest-level-says-risk-spread-us-is-low-2026-06-26/) | Reuters | 2026-06-26T18:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Bundibugyo Outbreak Exceeds 1100 Cases Uganda DRC](https://www.idse.net/Tropical-Diseases/Article/06-26/Ebola-Bundibugyo-Outbreak-Exceeds-1100-Cases-Uganda-DRC/80935) | Infectious Disease Special Edition | 2026-06-26T18:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Escalates in the Democratic Republic of Congo](https://www.devdiscourse.com/article/health/3941516-ebola-outbreak-escalates-in-the-democratic-republic-of-congo?amp) | Devdiscourse | 2026-06-26T17:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
