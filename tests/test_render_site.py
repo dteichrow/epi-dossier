@@ -185,6 +185,176 @@ def test_render_story_page_adds_outbreak_intelligence_layer():
     assert 'data-story-filter="intel-category"' in content
 
 
+def test_render_story_dashboard_prefers_newer_case_count_over_stale_who_quote():
+    story = {
+        "display_title": "Ebola virus disease",
+        "lead_title": "Ebola outbreak updates",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "WHO",
+        "item_count": 2,
+        "source_count": 2,
+        "official_item_ids": [],
+        "press_item_ids": ["older", "newer"],
+        "publisher_names": ["Emirates 24|7", "Infectious Disease Special Edition"],
+        "freshness_counts": {"live": 2},
+        "latest_update_summary": "Publisher counts changed.",
+        "latest_update_bullets": [],
+        "related_references": [],
+        "first_seen_at": "2026-05-20T09:43:00",
+        "latest_updated_at": "2026-05-22T18:16:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "older": {
+            "title": "Ebola outbreak: 600 suspected cases, 139 deaths, numbers expected to rise, says WHO chief",
+            "preferred_url": "https://example.com/older",
+            "publisher_name": "Emirates 24|7",
+            "published_at": "2026-05-20T09:43+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "link_quality": "metadata_only",
+            "source_confidence": "metadata_only_signal",
+            "freshness_state": "live",
+            "low_detail": True,
+        },
+        "newer": {
+            "title": "Bundibugyo Ebola Outbreak Nears 750 Suspected Cases, 177 Deaths",
+            "preferred_url": "https://example.com/newer",
+            "publisher_name": "Infectious Disease Special Edition",
+            "published_at": "2026-05-22T18:16+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "link_quality": "metadata_only",
+            "source_confidence": "metadata_only_signal",
+            "freshness_state": "live",
+            "low_detail": True,
+        },
+    }
+
+    content = render_story_page(story, items_by_id, date(2026, 5, 22), datetime(2026, 5, 22, 18, 30))
+
+    assert "Suspected cases" in content
+    assert "<strong>750</strong>" in content
+    assert "<strong>177</strong>" in content
+    assert "600</strong>" not in content
+    assert "139</strong>" not in content
+
+
+def test_render_story_dashboard_prefers_precise_recent_counts_over_threshold_shorthand():
+    story = {
+        "display_title": "Ebola virus disease",
+        "lead_title": "Ebola outbreak updates",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "Health and Me",
+        "item_count": 3,
+        "source_count": 3,
+        "official_item_ids": [],
+        "press_item_ids": ["latest_threshold", "specialist_threshold", "precise_same_day"],
+        "publisher_names": ["Health and Me", "CIDRAP", "Chosunbiz"],
+        "freshness_counts": {"live": 3},
+        "latest_update_summary": "Publisher counts changed.",
+        "latest_update_bullets": [],
+        "related_references": [],
+        "first_seen_at": "2026-06-26T20:37:00",
+        "latest_updated_at": "2026-06-27T16:02:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "latest_threshold": {
+            "title": "Congo Ebola Outbreak Tops 1,200 Cases; US CDC On Highest Alert",
+            "preferred_url": "https://example.com/latest-threshold",
+            "publisher_name": "Health and Me",
+            "published_at": "2026-06-27T16:02+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "link_quality": "metadata_only",
+            "source_confidence": "metadata_only_signal",
+            "publisher_tier": "general",
+            "freshness_state": "live",
+            "low_detail": True,
+        },
+        "specialist_threshold": {
+            "title": "As Ebola deaths top 300, African officials meet to boost regional readiness",
+            "preferred_url": "https://example.com/specialist-threshold",
+            "publisher_name": "CIDRAP",
+            "published_at": "2026-06-26T20:37+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "link_quality": "metadata_only",
+            "source_confidence": "metadata_only_signal",
+            "publisher_tier": "specialist_health",
+            "freshness_state": "live",
+            "low_detail": True,
+        },
+        "precise_same_day": {
+            "title": "Ebola surges in Congo and Uganda, cases hit 1,203 with 321 deaths",
+            "preferred_url": "https://example.com/precise",
+            "publisher_name": "Chosunbiz",
+            "published_at": "2026-06-27T08:20+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "link_quality": "metadata_only",
+            "source_confidence": "metadata_only_signal",
+            "publisher_tier": "general",
+            "freshness_state": "live",
+            "low_detail": True,
+        },
+    }
+
+    content = render_story_page(story, items_by_id, date(2026, 6, 27), datetime(2026, 6, 27, 16, 30))
+
+    assert "<strong>1,203</strong>" in content
+    assert "<strong>321</strong>" in content
+    assert "<strong>Over 1,200</strong>" not in content
+    assert "<strong>Over 300</strong>" not in content
+
+
+def test_render_story_dashboard_does_not_promote_metadata_only_pheic_headline():
+    story = {
+        "display_title": "Ebola virus disease",
+        "lead_title": "Ebola outbreak updates",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "Africa CDC",
+        "item_count": 2,
+        "source_count": 2,
+        "official_item_ids": [],
+        "press_item_ids": ["media_pheic"],
+        "publisher_names": ["Africa CDC", "Example News"],
+        "freshness_counts": {"live": 2},
+        "latest_update_summary": "Story remains active.",
+        "latest_update_bullets": [],
+        "related_references": [
+            {
+                "name": "Ebola virus disease",
+                "reference_url": "file:///tmp/ebola.html",
+                "pathogen": "Bundibugyo virus",
+                "latest_outbreak": {
+                    "location": "DRC / Uganda",
+                    "summary": "Africa CDC declared the outbreak a Public Health Emergency of Continental Security.",
+                    "source_name": "Africa CDC PHECS declaration",
+                    "as_of": "2026-05-18",
+                },
+            }
+        ],
+        "first_seen_at": "2026-05-18T07:00:00",
+        "latest_updated_at": "2026-06-27T16:02:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "media_pheic": {
+            "title": "WHO declares Ebola outbreak a public health emergency of international concern",
+            "preferred_url": "https://example.com/media-pheic",
+            "publisher_name": "Example News",
+            "published_at": "2026-05-17T07:00+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "link_quality": "metadata_only",
+            "source_confidence": "metadata_only_signal",
+            "freshness_state": "live",
+            "low_detail": True,
+        },
+    }
+
+    content = render_story_page(story, items_by_id, date(2026, 6, 27), datetime(2026, 6, 27, 16, 30))
+
+    assert "Africa CDC continental emergency" in content
+    assert "WHO PHEIC declared" not in content
+
+
 def test_render_story_page_keeps_real_summaries_for_aggregator_only_items():
     story = {
         "display_title": "Hantavirus and cruise-ship outbreak",

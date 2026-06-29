@@ -1616,14 +1616,14 @@ def humanize_data_value(key: str, value: str) -> str:
 
 
 def render_outbreak_dashboard(story: dict[str, Any], items: list[dict[str, Any]]) -> str:
-    suspected_cases = infer_outbreak_metric(story, items, "suspected_cases")
+    cases = infer_outbreak_metric(story, items, "cases")
     deaths = infer_outbreak_metric(story, items, "deaths")
     affected_countries = infer_affected_countries(story, items)
     emergency_status = infer_emergency_status(story, items)
     pathogen_lineage = infer_pathogen_lineage(story, items)
     last_updated = normalize_whitespace(str(story.get("latest_updated_at") or story.get("updated_at") or "Unknown")) or "Unknown"
     rows = [
-        ("Suspected cases", suspected_cases["value"], suspected_cases["note"]),
+        (cases.get("label", "Cases"), cases["value"], cases["note"]),
         ("Deaths", deaths["value"], deaths["note"]),
         ("Affected countries", affected_countries["value"], affected_countries["note"]),
         ("WHO / emergency status", emergency_status["value"], emergency_status["note"]),
@@ -1648,39 +1648,81 @@ def render_outbreak_dashboard(story: dict[str, Any], items: list[dict[str, Any]]
 
 def infer_outbreak_metric(story: dict[str, Any], items: list[dict[str, Any]], metric_kind: str) -> dict[str, str]:
     patterns = metric_patterns(metric_kind)
-    candidates: list[tuple[int, str, dict[str, str]]] = []
+    candidates: list[dict[str, Any]] = []
     for source in story_analysis_sources(story, items):
         text = source["text"]
         for pattern in patterns:
             for match in re.finditer(pattern, text, flags=re.I):
                 if metric_context_looks_historical(text, match.start(), match.end()):
                     continue
-                value = format_metric_value(match.groupdict().get("qualifier", ""), match.group("number"))
-                candidates.append((metric_candidate_score(source, text), value, source))
+                qualifier = metric_display_qualifier(match.groupdict().get("qualifier", ""), text, match.start(), match.end())
+                value = format_metric_value(qualifier, match.group("number"))
+                numeric_value = int(match.group("number").replace(",", ""))
+                metric_label = case_metric_label(match.groupdict().get("case_status", "")) if metric_kind == "cases" else ""
+                candidates.append(
+                    {
+                        "score": metric_candidate_score(source, text),
+                        "raw_timestamp": sort_timestamp_value(source.get("date", "")),
+                        "numeric_value": numeric_value,
+                        "precision_score": metric_precision_score(qualifier, text, match.start(), match.end()),
+                        "value": value,
+                        "source": source,
+                        "metric_label": metric_label,
+                    }
+                )
     if candidates:
-        _score, value, source = max(candidates, key=lambda candidate: candidate[0])
-        return {"value": value, "note": metric_note_for_source(source, metric_kind)}
-    fallback = "Unknown" if metric_kind == "suspected_cases" else "Unknown"
+        selected = select_metric_candidate(candidates)
+        value = selected["value"]
+        source = selected["source"]
+        metric_label = selected["metric_label"]
+        result = {"value": value, "note": metric_note_for_source(source, metric_kind, metric_label)}
+        if metric_kind == "cases":
+            result["label"] = metric_label or "Cases"
+        return result
+    fallback = "Unknown"
     note = (
-        "The monitor does not expose a firm suspected-case total."
-        if metric_kind == "suspected_cases"
+        "The monitor does not expose a firm case total."
+        if metric_kind == "cases"
         else "The monitor does not expose a firm death total."
     )
-    return {"value": fallback, "note": note}
+    result = {"value": fallback, "note": note}
+    if metric_kind == "cases":
+        result["label"] = "Cases"
+    return result
+
+
+def select_metric_candidate(candidates: list[dict[str, Any]]) -> dict[str, Any]:
+    newest_raw_timestamp = max(int(candidate.get("raw_timestamp", 0)) for candidate in candidates)
+    recent_window_start = newest_raw_timestamp - (36 * 60 * 60)
+    recent_candidates = [
+        candidate
+        for candidate in candidates
+        if int(candidate.get("raw_timestamp", 0)) >= recent_window_start
+    ]
+    candidate_pool = recent_candidates or candidates
+    return max(
+        candidate_pool,
+        key=lambda candidate: (
+            int(candidate.get("precision_score", 0)),
+            int(candidate.get("numeric_value", 0)),
+            int(candidate.get("score", 0)),
+        ),
+    )
 
 
 def metric_patterns(metric_kind: str) -> list[str]:
     number = r"(?P<number>\d[\d,]*)"
-    qualifier = r"(?P<qualifier>at least|more than|over|about|around|approximately|approx\.?)?\s*"
-    if metric_kind == "suspected_cases":
+    qualifier = r"(?P<qualifier>at least|more than|over|about|around|approximately|approx\.?|almost|nearly|close to)?\s*"
+    if metric_kind == "cases":
         return [
-            rf"{qualifier}{number}\s+(?:suspected|probable)\s+(?:[a-z-]+\s+){{0,4}}cases?",
-            rf"{qualifier}{number}\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?:suspected|under investigation)",
-            rf"(?:suspected|probable)\s+(?:[a-z-]+\s+){{0,4}}cases?\D{{0,18}}{qualifier}{number}",
+            rf"{qualifier}{number}\s+(?P<case_status>suspected|probable|confirmed|reported|total)?\s*(?:[a-z-]+\s+){{0,3}}cases?",
+            rf"{qualifier}{number}\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?P<case_status>suspected|probable|confirmed|reported|under investigation)",
+            rf"(?P<case_status>suspected|probable|confirmed|reported|total)\s+(?:[a-z-]+\s+){{0,4}}cases?\D{{0,24}}{qualifier}{number}",
+            rf"cases?\s+(?:top|hit|rise(?:s)? to|climb(?:s)? to|reach(?:es)?|reaching|exceed(?:s)?|surpass(?:es)?)\s+{qualifier}{number}",
         ]
     return [
         rf"{qualifier}{number}\s+(?:suspected\s+)?(?:deaths?|dead|fatalities)",
-        rf"(?:deaths?|death toll|fatalities)\s+(?:top|hit|rise(?:s)? to|climb(?:s)? to|reach(?:es)?|exceed(?:s)?)\s+{qualifier}{number}",
+        rf"(?:deaths?|death toll|fatalities)\s+(?:top|hit|rise(?:s)? to|climb(?:s)? to|reach(?:es)?|reaching|exceed(?:s)?|surpass(?:es)?)\s+{qualifier}{number}",
         rf"{qualifier}{number}\s+associated deaths?",
     ]
 
@@ -1758,23 +1800,44 @@ def metric_candidate_score(source: dict[str, str], text: str) -> int:
     source_kind = source.get("source_kind", "")
     source_status = source.get("source_status", "")
     if source_status == "Official report":
-        score += 350_000_000
+        score += 72 * 60 * 60
     elif source_kind in {"wire", "specialist_health"}:
-        score += 450_000_000
+        score += 24 * 60 * 60
     elif source_kind == "major_newsroom":
-        score += 250_000_000
+        score += 12 * 60 * 60
     elif source_status == "Needs verification":
-        score -= 80_000_000
+        score -= 6 * 60 * 60
     if re.search(r"\bwho says\b|\bsays who\b|\bwho chief\b|\baccording to who\b", lowered):
-        score += 500_000_000
+        score += 12 * 60 * 60
     if "per bbc" in lowered or any(term in lowered for term in ("pre-world cup", "world cup", "fifa", "training camp")):
-        score -= 350_000_000
+        score -= 72 * 60 * 60
     return score
 
 
 def metric_context_looks_historical(text: str, start: int, end: int) -> bool:
     context = text[max(0, start - 90) : min(len(text), end + 90)].lower()
     return any(token in context for token in ("2007", "2014", "2016", "first identified", "past outbreaks", "historical"))
+
+
+def metric_display_qualifier(qualifier: str, text: str, start: int, end: int) -> str:
+    normalized_qualifier = normalize_whitespace(qualifier).lower()
+    if normalized_qualifier:
+        return normalized_qualifier
+    if metric_context_has_threshold_language(text, start, end):
+        return "over"
+    return ""
+
+
+def metric_precision_score(qualifier: str, text: str, start: int, end: int) -> int:
+    normalized_qualifier = normalize_whitespace(qualifier).lower()
+    if normalized_qualifier or metric_context_has_threshold_language(text, start, end):
+        return 1
+    return 2
+
+
+def metric_context_has_threshold_language(text: str, start: int, end: int) -> bool:
+    context = text[max(0, start - 45) : min(len(text), end + 25)].lower()
+    return bool(re.search(r"\b(top|tops|topped|exceed(?:s|ed)?|surpass(?:es|ed)?)\b", context))
 
 
 def format_metric_value(qualifier: str, number: str) -> str:
@@ -1786,6 +1849,9 @@ def format_metric_value(qualifier: str, number: str) -> str:
         "about": "About",
         "around": "Around",
         "approximately": "Approximately",
+        "almost": "Almost",
+        "nearly": "Nearly",
+        "close to": "Close to",
     }
     number = number.replace(",", "")
     formatted = f"{int(number):,}" if number.isdigit() else number
@@ -1794,16 +1860,39 @@ def format_metric_value(qualifier: str, number: str) -> str:
     return formatted
 
 
-def metric_note_for_source(source: dict[str, str], metric_kind: str) -> str:
+def case_metric_label(case_status: str) -> str:
+    status = normalize_whitespace(case_status).lower().replace("under investigation", "suspected")
+    labels = {
+        "suspected": "Suspected cases",
+        "probable": "Probable cases",
+        "confirmed": "Confirmed cases",
+        "reported": "Reported cases",
+        "total": "Total cases",
+    }
+    return labels.get(status, "Cases")
+
+
+def metric_note_for_source(source: dict[str, str], metric_kind: str, metric_label: str = "") -> str:
     source_name = source.get("source") or "monitor source"
     date_text = source.get("date") or "date not captured"
     source_status = source.get("source_status") or "Needs verification"
-    subject = "case count" if metric_kind == "suspected_cases" else "death count"
+    subject = metric_note_subject(metric_kind, metric_label)
     if source_status == "Official report":
         return f"Official-source {subject}; definitions may still change with case finding."
     if source_status == "Needs verification":
         return f"Observed in {source_name} ({date_text}); treat as not yet confirmed by this monitor."
     return f"Public-report {subject} from {source_name} ({date_text}); compare against official updates."
+
+
+def metric_note_subject(metric_kind: str, metric_label: str = "") -> str:
+    if metric_kind != "cases":
+        return "death count"
+    normalized_label = normalize_whitespace(metric_label).lower()
+    if not normalized_label or normalized_label == "cases":
+        return "case count"
+    if normalized_label.endswith(" cases"):
+        return f"{normalized_label[:-6]}-case count"
+    return f"{normalized_label} count"
 
 
 def infer_affected_countries(story: dict[str, Any], items: list[dict[str, Any]]) -> dict[str, str]:
@@ -1856,14 +1945,39 @@ def public_country_label(country: str) -> str:
 
 
 def infer_emergency_status(story: dict[str, Any], items: list[dict[str, Any]]) -> dict[str, str]:
-    text = combined_story_text(story, items)
-    if re.search(r"public health emergency of international concern|\bPHEIC\b", text, flags=re.I):
-        return {"value": "WHO PHEIC declared", "note": "Emergency status appears in official/source text."}
-    if re.search(r"public health emergency of continental security|\bPHECS\b", text, flags=re.I):
-        return {"value": "Africa CDC continental emergency", "note": "Continental emergency language appears in the reference/source layer."}
-    if re.search(r"\bWHO\b.{0,80}\bemergency\b|\bemergency\b.{0,80}\bWHO\b", text, flags=re.I):
-        return {"value": "WHO emergency language reported", "note": "The exact emergency category should be checked in the source."}
+    sources = story_analysis_sources(story, items)
+    official_text = emergency_status_text(sources, official_or_reference_status_source)
+    if has_who_pheic_language(official_text):
+        return {"value": "WHO PHEIC declared", "note": "Emergency status appears in the official/reference layer."}
+    if has_africa_cdc_phecs_language(official_text):
+        return {"value": "Africa CDC continental emergency", "note": "Official/reference layer reports a continental emergency declaration."}
+    public_report_text = emergency_status_text(sources, public_report_status_source)
+    if has_who_pheic_language(public_report_text):
+        return {"value": "WHO PHEIC reported, not verified", "note": "Reported in public-source text; confirm against WHO emergency notices."}
+    all_text = emergency_status_text(sources, lambda _source: True)
+    if re.search(r"\bWHO\b.{0,80}\bemergency\b|\bemergency\b.{0,80}\bWHO\b", all_text, flags=re.I):
+        return {"value": "WHO emergency language reported", "note": "The exact emergency category was not confirmed by the official/reference layer."}
     return {"value": "Unknown", "note": "No formal WHO/emergency status was extracted from the monitor data."}
+
+
+def emergency_status_text(sources: list[dict[str, Any]], predicate) -> str:
+    return normalize_whitespace(" ".join(str(source.get("text", "")) for source in sources if predicate(source)))
+
+
+def official_or_reference_status_source(source: dict[str, Any]) -> bool:
+    return source.get("source_status") == "Official report" or source.get("source_kind") in {"official", "reference"}
+
+
+def public_report_status_source(source: dict[str, Any]) -> bool:
+    return source.get("source_status") in {"Confirmed", "Media report"} or source.get("source_kind") in {"wire", "major_newsroom", "specialist_health"}
+
+
+def has_who_pheic_language(text: str) -> bool:
+    return bool(re.search(r"public health emergency of international concern|\bPHEIC\b", text, flags=re.I))
+
+
+def has_africa_cdc_phecs_language(text: str) -> bool:
+    return bool(re.search(r"public health emergency of continental security|\bPHECS\b", text, flags=re.I))
 
 
 def infer_pathogen_lineage(story: dict[str, Any], items: list[dict[str, Any]]) -> dict[str, str]:
@@ -1893,8 +2007,11 @@ def build_what_matters_bullets(story: dict[str, Any], items: list[dict[str, Any]
     text = combined_story_text(story, items)
     lower = text.lower()
     bullets: list[str] = []
-    if "public health emergency of international concern" in lower or "pheic" in lower:
-        bullets.append("WHO emergency status signals coordination and escalation; epidemic size still depends on cleaned surveillance data.")
+    emergency_status = infer_emergency_status(story, items)
+    if emergency_status["value"] != "Unknown":
+        bullets.append("Emergency declarations are coordination signals; epidemic size still depends on cleaned surveillance data.")
+    elif "who" in lower and "emergency" in lower:
+        bullets.append("Emergency language appears in the reporting cluster; the exact authority and category should be checked against official notices.")
     if any(term in lower for term in ("suspected case", "suspected cases", "suspected death", "suspected deaths", "confirmed case", "confirmed cases")):
         bullets.append("Suspected and confirmed counts are moving on different clocks: illness recognition, testing, reporting, and retrospective linkage can all lag.")
     if any(term in lower for term in ("kampala", "kinshasa", "urban", "capital", "city", "imported case", "imported cases")):
