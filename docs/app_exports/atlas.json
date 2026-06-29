@@ -620,7 +620,7 @@
       "related_stories": [
         {
           "display_title": "Ebola virus disease",
-          "latest_update_summary": "Baseline snapshot created with 145 clustered item(s) across 98 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 133 clustered item(s) across 91 source(s).",
           "story_id": "story_56666e9c6c86e976",
           "story_url": "stories/story_56666e9c6c86e976-ebola-virus-disease.html",
           "story_web_path": "stories/story_56666e9c6c86e976-ebola-virus-disease.html"
@@ -1865,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-29T09:30:09",
-  "run_id": "run_0172e3e2ce37142d"
+  "generated_at": "2026-06-29T09:32:17",
+  "run_id": "run_8d60e84e961755ef"
 }
