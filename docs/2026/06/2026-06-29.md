@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-29
-Generated at: 2026-06-29T07:59
+Generated at: 2026-06-29T08:09
 Search window: 7 day(s) ending 2026-06-29
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-29
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (146), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (147), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -56,7 +56,7 @@ Search window: 7 day(s) ending 2026-06-29
 - Topic size: 136 item(s) across 95 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Nipah: WHO DON Report & A Narrative Review On Nipah Pandemic Preparedness](https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html) (Avian Flu Diary)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in DR Congo spreads to fourth province](https://www.bssnews.net/international/401025) (Bangladesh Sangbad Sangstha (BSS))
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -409,16 +409,6 @@ Search window: 7 day(s) ending 2026-06-29
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-06-23T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42334339/
-- Category: Major epidemiology studies
-- Summary: We conducted eight Focus Group Discussions (FGDs) and 53 interviews with 132 participants purposively selected from three Nigerian states, Oyo, Nasarawa, and the Federal Capital Territory. Operational enablers, including risk communication and multisectoral coordination. Participants made several cross-cutting recommendations for optimizing less-established adult and childhood vaccination programs across five themes: 1.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### WHO South Africa 2025 Annual Report
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-17T08:21+00:00
@@ -429,12 +419,22 @@ Search window: 7 day(s) ending 2026-06-29
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
+- Source: Texas Department of State Health Services News
+- Date: Unknown
+- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak in DR Congo spreads to fourth province](https://www.bssnews.net/international/401025) | Bangladesh Sangbad Sangstha (BSS) | 2026-06-29T15:02+00:00 | Outbreaks and emerging infections
+  The case was detected in Haut-Uele, near the borders with South Sudan and the Central African Republic, involving a person who had travelled from Bunia, in neighbouring Ituri province -- the outbreak's epicentre. Limited detail was available from feed metadata alone.
 - [Nipah: WHO DON Report & A Narrative Review On Nipah Pandemic Preparedness](https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html) | Avian Flu Diary | 2026-06-29T11:26+00:00 | Outbreaks and emerging infections
   As of 18 June 2026, a total of 104 contacts had been identified and were under monitoring, including health and care workers, with no reported secondary cases to date. The case is an adult male who developed symptoms on 30 May 2026 and was hospitalized on 10 June 2026. While most outbreaks have remained small , in July of 2018, in IJID: Enhancing Preparation For Large Nipah Outbreaks Beyond Bangladesh , we looked at an article that appeared in the International Journal of Infectious Diseases , that discussed the potential of the Nipah virus producing a large urban epidemic , similar to what we saw in West Africa with Ebola in 2014.
 - [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) | The island.lk | 2026-06-29T11:15+00:00 | Outbreaks and emerging infections
@@ -485,12 +485,6 @@ Search window: 7 day(s) ending 2026-06-29
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42359964/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42359964/
-- [Stakeholder recommendations to optimize vaccination implementation and uptake for disease outbreaks: Qualitative insights from less-established adult and childhood vaccination programs in Nigeria.](https://pubmed.ncbi.nlm.nih.gov/42334339/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/17441692.2026.2691434
-  Journal/preprint server: Global public health
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42334339/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42334339/
 - [Modeling the potential public health and economic impact and cost-effectiveness of vaccination strategies using an adapted COVID-19 vaccine in the Dominican Republic.](https://pubmed.ncbi.nlm.nih.gov/42360922/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/14760584.2026.2694383
