@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-28
-Generated at: 2026-06-28T21:16
+Generated at: 2026-06-28T21:29
 Search window: 7 day(s) ending 2026-06-28
 
 ## Executive scan
@@ -71,7 +71,7 @@ Search window: 7 day(s) ending 2026-06-28
 ### Dengue and arboviruses
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka, 2026-06-28T20:16+00:00)
-- Detailed note: Among 1,250 participants, DENV IgG seroprevalence was 38.1% (95% CI: 34.5%-41.8%), increasing with age, and highest within peri-urban Kimpoko sites (54.9%). CHIKV IgG seroprevalence was 24.2% (95% CI: 21.1%-27.6%), increasing with age and comparable between peri-urban Kimpoko and rural Bu, with few seropositives in the city-center. South Indian industry is a bit patriarchal: Tamannaah South Indian industry is a...
+- Detailed note: Among 1,250 participants, DENV IgG seroprevalence was 38.1% (95% CI: 34.5%-41.8%), increasing with age, and highest within peri-urban Kimpoko sites (54.9%). CHIKV IgG seroprevalence was 24.2% (95% CI: 21.1%-27.6%), increasing with age and comparable between peri-urban Kimpoko and rural Bu, with few seropositives in the city-center. Others Obituary: Barrister Mainul Hosein Today’s Newspaper Front Page Back Page...
 - Evidence notes: [Sri Lanka Latest Breaking News and Headlines - Print Edition Dengue: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times); [Local Government, Rural Development and Cooperatives (LGRD) Minister Mirza Fakhrul Islam Alamgir speaks at the first meeting of the National Committee on the Prevention of Dengue and Other Mosquito-Borne Diseases at the Secretariat in the capital on T](https://dailynewnation.com/news/837087) (The New Nation); [Dengue and chikungunya virus transmission in Kinshasa, Democratic Republic of the Congo](https://www.medrxiv.org/content/10.64898/2026.06.11.26355423v1) (medRxiv Infectious Disease)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Some items are preprints and may change after review.
