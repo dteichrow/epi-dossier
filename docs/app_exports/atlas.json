@@ -620,7 +620,7 @@
       "related_stories": [
         {
           "display_title": "Ebola virus disease",
-          "latest_update_summary": "Baseline snapshot created with 136 clustered item(s) across 93 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 144 clustered item(s) across 104 source(s).",
           "story_id": "story_56666e9c6c86e976",
           "story_url": "stories/story_56666e9c6c86e976-ebola-virus-disease.html",
           "story_web_path": "stories/story_56666e9c6c86e976-ebola-virus-disease.html"
@@ -788,7 +788,7 @@
       "related_stories": [
         {
           "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "Baseline snapshot created with 22 clustered item(s) across 21 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 20 source(s).",
           "story_id": "story_f6d225b01f3f7094",
           "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
           "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -889,7 +889,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 22 clustered item(s) across 21 source(s).",
+              "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 20 source(s).",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1017,7 +1017,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 22 clustered item(s) across 21 source(s).",
+              "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 20 source(s).",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1145,7 +1145,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 22 clustered item(s) across 21 source(s).",
+              "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 20 source(s).",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1872,6 +1872,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-29T07:29:35",
-  "run_id": "run_a9ba2c412c8adde1"
+  "generated_at": "2026-06-29T07:33:01",
+  "run_id": "run_5307773588ecebca"
 }
