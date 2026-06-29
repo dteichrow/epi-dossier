@@ -12,25 +12,30 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 164,
+    "metadata_only_count": 163,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 178,
+    "sources_failed": 2,
+    "sources_live": 177,
     "story_count_change": 7,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 178,
+    "live": 177,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-29T01:50:15",
+  "generated_at": "2026-06-29T02:17:20",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
+      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]
