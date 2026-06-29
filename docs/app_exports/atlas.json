@@ -620,17 +620,10 @@
       "related_stories": [
         {
           "display_title": "Ebola virus disease",
-          "latest_update_summary": "Baseline snapshot created with 136 clustered item(s) across 93 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 137 clustered item(s) across 93 source(s).",
           "story_id": "story_56666e9c6c86e976",
           "story_url": "stories/story_56666e9c6c86e976-ebola-virus-disease.html",
           "story_web_path": "stories/story_56666e9c6c86e976-ebola-virus-disease.html"
-        },
-        {
-          "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
-          "story_id": "story_28a91c6d89267872",
-          "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
-          "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
         }
       ],
       "route_count": 3,
@@ -702,7 +695,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 2,
+      "story_count": 1,
       "subtitle": "Bird flyways, poultry systems, mammalian spillover, and farm-interface risk",
       "summary": "H5N1 belongs in the atlas because its contemporary geography is not a human epidemic map first; it is a bird-route, farm-system, and spillover map whose human layer remains contingent.",
       "variant_count": 0,
@@ -788,7 +781,7 @@
       "related_stories": [
         {
           "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 20 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 20 clustered item(s) across 19 source(s).",
           "story_id": "story_f6d225b01f3f7094",
           "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
           "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -889,7 +882,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 20 source(s).",
+              "latest_update_summary": "Baseline snapshot created with 20 clustered item(s) across 19 source(s).",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1017,7 +1010,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 20 source(s).",
+              "latest_update_summary": "Baseline snapshot created with 20 clustered item(s) across 19 source(s).",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1145,7 +1138,7 @@
           "related_stories": [
             {
               "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 20 source(s).",
+              "latest_update_summary": "Baseline snapshot created with 20 clustered item(s) across 19 source(s).",
               "story_id": "story_f6d225b01f3f7094",
               "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
               "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
@@ -1872,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-06-29T08:40:04",
-  "run_id": "run_5706da4c82e3df0c"
+  "generated_at": "2026-06-29T09:10:14",
+  "run_id": "run_7de6e3d88c6ac0e8"
 }
