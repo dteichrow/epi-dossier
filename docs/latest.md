@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-29
-Generated at: 2026-06-29T10:10
+Generated at: 2026-06-29T10:16
 Search window: 7 day(s) ending 2026-06-29
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-29
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (146), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (138), Policy, surveillance, and public health infrastructure (26), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 136 item(s) across 93 source(s).
-- Baseline snapshot created with 136 clustered item(s) across 93 source(s).
+- Newly tracked story cluster: 134 item(s) across 91 source(s).
+- Baseline snapshot created with 134 clustered item(s) across 91 source(s).
 - Avian Flu Diary now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-06-29
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 136 item(s) across 93 source(s); 4 official/primary-source item(s).
+- Topic size: 134 item(s) across 91 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in DR Congo spreads to fourth province](https://www.bssnews.net/international/401025) (Bangladesh Sangbad Sangstha (BSS))
@@ -433,7 +433,7 @@ Search window: 7 day(s) ending 2026-06-29
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [Chandel Launches Drive to Protect Children Against Polio](https://newire.in/articles/chandel-launches-drive-to-protect-children-against-polio) | newire.in | 2026-06-29T16:26+00:00 | Outbreaks and emerging infections
-  Any third-party media (images, videos, or audio) used belongs to its respective owners and is shared strictly for reporting, criticism, or review under the "Fair Dealing" provisions of Section 52 of the Copyright Act, 1957 (India). Goods train kills two railway workers on Assam bridge Timungpi Terang • 29 Jun 2026 More than 5,000 children are the target of this effort.
+  Any third-party media (images, videos, or audio) used belongs to its respective owners and is shared strictly for reporting, criticism, or review under the "Fair Dealing" provisions of Section 52 of the Copyright Act, 1957 (India). More than 5,000 children are the target of this effort. Joyson Mathew Monsang warned that the threat of polio still exists despite India being polio-free since 2014.
 - [Ebola outbreak in DR Congo spreads to fourth province](https://www.bssnews.net/international/401025) | Bangladesh Sangbad Sangstha (BSS) | 2026-06-29T15:02+00:00 | Outbreaks and emerging infections
   The case was detected in Haut-Uele, near the borders with South Sudan and the Central African Republic, involving a person who had travelled from Bunia, in neighbouring Ituri province -- the outbreak's epicentre. Limited detail was available from feed metadata alone.
 - [Nipah: WHO DON Report & A Narrative Review On Nipah Pandemic Preparedness](https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html) | Avian Flu Diary | 2026-06-29T11:26+00:00 | Outbreaks and emerging infections
