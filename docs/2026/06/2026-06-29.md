@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-29
-Generated at: 2026-06-29T11:30
+Generated at: 2026-06-29T11:33
 Search window: 7 day(s) ending 2026-06-29
 
 ## Executive scan
@@ -12,10 +12,18 @@ Search window: 7 day(s) ending 2026-06-29
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (139), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (3)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (142), Policy, surveillance, and public health infrastructure (25), Major epidemiology studies (3)
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Ebola virus disease
+- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 137 item(s) across 93 source(s).
+- Baseline snapshot created with 137 clustered item(s) across 93 source(s).
+- Avian Flu Diary now explicitly uses investigation or monitoring language.
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+- ECDC News currently frames broader public risk as low.
+
 ### Polio and wastewater surveillance
 - Lead item: [Immunogenicity and safety of a 2 + 1 schedule of the DTaP-IPV-HB-Hib hexavalent combination vaccine in preterm infants in Spain.](https://pubmed.ncbi.nlm.nih.gov/42359964/) (PubMed Infectious Disease Search)
 - Newly tracked story cluster: 5 item(s) across 5 source(s).
@@ -23,13 +31,6 @@ Search window: 7 day(s) ending 2026-06-29
 - Asianet Newsable now explicitly uses investigation or monitoring language.
 - Asianet Newsable now includes deaths or fatal cases in the story frame.
 - Asianet Newsable now mentions possible human-to-human transmission.
-
-### Ebola virus disease
-- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 136 item(s) across 92 source(s).
-- Baseline snapshot created with 136 clustered item(s) across 92 source(s).
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
@@ -53,7 +54,7 @@ Search window: 7 day(s) ending 2026-06-29
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 136 item(s) across 92 source(s); 4 official/primary-source item(s).
+- Topic size: 137 item(s) across 93 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo bans gatherings in Kinshasa and three provinces over Ebola outbreak](https://bdnews24.com/world/2e302d5aa3a4) (bdnews24.com)
@@ -92,13 +93,13 @@ Search window: 7 day(s) ending 2026-06-29
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Occupational and environmental epidemiology
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Ebola response worker who traveled from DRC to France is first in outbreak to test positive outside of Africa](https://www.cnn.com/2026/06/24/world/france-ebola-patient) (CNN, 2026-06-24T13:26+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola response worker who traveled from DRC to France is first in outbreak to test positive outside of Africa](https://www.cnn.com/2026/06/24/world/france-ebola-patient) (CNN)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+### Avian influenza and H5N1
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation, 2026-06-25T19:11+00:00)
+- Detailed note: Since 2015, a total of 163 cases of human infection with H9N2 avian flu, including two deaths (both in people with underlying conditions), have been reported to the World Health Organization in the Western Pacific, the organization said . This is the fifteenth H9N2 case recorded in the past 6 months on mainland China, with 11 of the cases occurring in children under the age of 10 years. Please let us know Hong...
+- Evidence notes: [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation); [H9N2 avian flu case in China and first H5N1 detection in Australian birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h9n2-avian-flu-case-china-and-first-h5n1-detection-australian-birds) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -441,6 +442,8 @@ Search window: 7 day(s) ending 2026-06-29
   Meanwhile, fever cases continued to remain high, with a total of 11,776 people seeking treatment for fever at hospitals and health centres across Kerala on Monday. The health department also reported 12 new dengue cases, eight malaria cases and six Shigella infections during the day. Meanwhile, Keralam Health Minister K Muralidharan on Sunday said the state has created 22,000 booths for the Pulse Polio Immunisation Drive and expressed confidence that most eligible children would receive polio drops during the campaign.
 - [Ebola outbreak in DR Congo spreads to fourth province](https://www.bssnews.net/international/401025) | Bangladesh Sangbad Sangstha (BSS) | 2026-06-29T15:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Nipah: WHO DON Report & A Narrative Review On Nipah Pandemic Preparedness](https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html) | Avian Flu Diary | 2026-06-29T11:26+00:00 | Outbreaks and emerging infections
+  As of 18 June 2026, a total of 104 contacts had been identified and were under monitoring, including health and care workers, with no reported secondary cases to date. The case is an adult male who developed symptoms on 30 May 2026 and was hospitalized on 10 June 2026. While most outbreaks have remained small , in July of 2018, in IJID: Enhancing Preparation For Large Nipah Outbreaks Beyond Bangladesh , we looked at an article that appeared in the International Journal of Infectious Diseases , that discussed the potential of the Nipah virus producing a large urban epidemic , similar to what we saw in West Africa with Ebola in 2014.
 - [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) | The island.lk | 2026-06-29T11:15+00:00 | Outbreaks and emerging infections
   Sports Australia, India, South Africa and Great Britain qualify for women’s event at LA28 Olympics South Korea football coach quits as president calls for probe into World Cup loss Padikkal fifty, Sudeera five-for before India A, Sri Lanka A settle for draw Canada score late to beat South Africa and reach last 16 at World Cup 2026 Tector and Moondra headline Ireland’s historic series sweep against India Australia, India, South Africa and Great Britain qualify for women’s event at LA28 Olympics Australia, India, South Africa and Great Britain qualify for women’s event at LA28 Olympics South Korea football coach quits as president calls for probe into World Cup loss South Korea football coach quits as president calls for probe into World Cup loss Padikkal fifty, Sudeera five-for before India A, Sri Lanka A settle for draw Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases in Congo at 1,274, including 360 deaths](https://www.scmp.com/news/world/africa/article/3358776/confirmed-ebola-cases-congo-1274-including-360-deaths) | South China Morning Post | 2026-06-29T10:47+00:00 | Outbreaks and emerging infections
@@ -468,8 +471,6 @@ Search window: 7 day(s) ending 2026-06-29
 - [WHO, Africa CDC launch Continental Incident Management Support Team to strengthen coordination for Ebola outbreak response - WHO | Regional Office for Africa](https://www.afro.who.int/countries/uganda/news/who-africa-cdc-launch-continental-incident-management-support-team-strengthen-coordination-ebola) | WHO | 2026-06-27T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda Hosts Regional Meeting to Boost Ebola Preparedness Amid Ongoing Outbreak - WHO | Regional Office for Africa](https://www.afro.who.int/countries/uganda/news/uganda-hosts-regional-meeting-boost-ebola-preparedness-amid-ongoing-outbreak) | WHO | 2026-06-27T12:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola surges in Congo and Uganda, cases hit 1,203 with 321 deaths - CHOSUNBIZ](https://biz.chosun.com/en/en-international/2026/06/27/PCNLXRMT5RDVTIBZVGDSC55H7M/) | Chosunbiz | 2026-06-27T08:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
