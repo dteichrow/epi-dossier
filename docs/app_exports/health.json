@@ -2,9 +2,7 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "ABC News",
       "Associated Press",
-      "BBC",
       "CBS News",
       "CIDRAP",
       "Guardian",
@@ -14,30 +12,25 @@
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 130,
+    "metadata_only_count": 137,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 145,
+    "sources_failed": 1,
+    "sources_live": 152,
     "story_count_change": 4,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 145,
+    "live": 152,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-06-30T12:43:05",
+  "generated_at": "2026-06-30T13:47:51",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
-      "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Max retries exceeded with url: /Programs/OPA (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cdph.ca.gov', port=443) at 0x1081a3750>, 'Connection to www.cdph.ca.gov timed out. (connect timeout=8)'))",
-      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]
