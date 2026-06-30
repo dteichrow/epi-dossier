@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-30
-Generated at: 2026-06-30T14:30
+Generated at: 2026-06-30T14:40
 Search window: 7 day(s) ending 2026-06-30
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-30
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (137), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (135), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-06-30
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
-- Newly tracked story cluster: 12 item(s) across 12 source(s).
-- Baseline snapshot created with 12 clustered item(s) across 12 source(s).
+- Newly tracked story cluster: 10 item(s) across 10 source(s).
+- Baseline snapshot created with 10 clustered item(s) across 10 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The Guardian now includes quarantine language.
 
@@ -53,10 +53,10 @@ Search window: 7 day(s) ending 2026-06-30
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 12 item(s) across 12 source(s); 2 official/primary-source item(s).
+- Topic size: 10 item(s) across 10 source(s); 2 official/primary-source item(s).
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
-- Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Canadians exposed to hantavirus on cruise ship complete isolation period](https://www.cbc.ca/news/canada/hantavirus-canadians-isolation-complete-9.7253334) (CBC); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews.com); [US CDC concludes hantavirus response as outbreak eases](https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5) (Reuters)
+- Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Canadians exposed to hantavirus on cruise ship complete isolation period](https://www.cbc.ca/news/canada/hantavirus-canadians-isolation-complete-9.7253334) (CBC); [US CDC concludes hantavirus response as outbreak eases](https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5) (Reuters); [Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5) (WSJ)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -429,8 +429,6 @@ Search window: 7 day(s) ending 2026-06-30
   Limited detail was available from feed metadata alone.
 - [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.npr.org/2026/06/30/nx-s1-5876431/what-its-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) | NPR | 2026-06-30T19:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola epidemic: WHO says Congo outbreak spreading faster than response capabilities](https://peopledaily.digital/news/ebola-epidemic-who-says-congo-outbreak-spreading-faster-than-response-capabilities) | People Daily | 2026-06-30T19:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [United Nations: Ebola outbreak could cost Africa $3.6 billion and threaten hundreds of thousands of jobs](https://www.voiceofemirates.com/en/news/2026/06/30/united-nations-ebola-outbreak-could-cost-africa-3-6-billion-and-threaten-hundreds-of-thousands-of-jobs/) | صوت الإمارات | 2026-06-30T16:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region](https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/) | statnews.com | 2026-06-30T16:03+00:00 | Outbreaks and emerging infections
@@ -462,6 +460,8 @@ Search window: 7 day(s) ending 2026-06-30
 - [Canadians exposed to hantavirus on cruise ship complete isolation period](https://www.cbc.ca/news/canada/hantavirus-canadians-isolation-complete-9.7253334) | CBC | 2026-06-29T23:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Cases Pass 1,200 with 360 Deaths](https://www.breitbart.com/africa/2026/06/29/dr-congo-ebola-cases-pass-1200-with-360-deaths/) | breitbart.com | 2026-06-29T18:58+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak spreads to fourth province, 360 dead](https://timesofindia.indiatimes.com/world/rest-of-world/dr-congo-ebola-outbreak-spreads-to-fourth-province-360-dead/articleshow/132075364.cms) | The Times of India | 2026-06-29T16:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
