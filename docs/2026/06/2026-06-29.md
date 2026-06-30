@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-29
-Generated at: 2026-06-29T16:51
+Generated at: 2026-06-29T17:01
 Search window: 7 day(s) ending 2026-06-29
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-06-29
 - [The Big Actions: May 2026](https://www.afro.who.int/countries/nigeria/publication/big-actions-may-2026) (WHO Regional Office for Africa; 2026-06-25T07:56+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-06-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (139), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (141), Policy, surveillance, and public health infrastructure (28), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,15 +26,15 @@ Search window: 7 day(s) ending 2026-06-29
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 134 item(s) across 90 source(s).
-- Baseline snapshot created with 134 clustered item(s) across 90 source(s).
+- Newly tracked story cluster: 138 item(s) across 94 source(s).
+- Baseline snapshot created with 138 clustered item(s) across 94 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News)
-- Newly tracked story cluster: 17 item(s) across 16 source(s).
-- Baseline snapshot created with 17 clustered item(s) across 16 source(s).
+- Newly tracked story cluster: 19 item(s) across 17 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The Guardian now includes quarantine language.
 
@@ -53,15 +53,15 @@ Search window: 7 day(s) ending 2026-06-29
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 134 item(s) across 90 source(s); 4 official/primary-source item(s).
+- Topic size: 138 item(s) across 94 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola cases in DR Congo rise to 710 as authorities deny lockdown rumors](https://iol.co.za/news/africa/2026-06-15-ebola-cases-in-dr-congo-rise-to-710-as-authorities-deny-lockdown-rumors/) (IOL)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [D.R. Congo Ebola Outbreak: Rising Numbers](https://www.devdiscourse.com/article/health/3942621-dr-congo-ebola-outbreak-rising-numbers) (Devdiscourse)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 17 item(s) across 16 source(s); 3 official/primary-source item(s).
+- Topic size: 19 item(s) across 17 source(s); 3 official/primary-source item(s).
 - Lead item: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News, 2026-06-25T14:01+02:00)
 - Detailed note: You can now register to attend this year’s European Scientific Conference on Applied Infectious Disease Epidemiology (ESCAIDE), taking place in Stockholm and online on 18–20 November 2026. Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida...
 - Evidence notes: [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News); [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Canadians exposed to hantavirus on cruise ship complete isolation period](https://www.cbc.ca/news/canada/hantavirus-canadians-isolation-complete-9.7253334) (CBC); [Deadly Hantavirus outbreak should end on 2 July, WHO says](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5) (Euronews.com)
@@ -79,7 +79,7 @@ Search window: 7 day(s) ending 2026-06-29
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) (The island.lk, 2026-06-29T11:15+00:00)
-- Detailed note: Sports Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance New Zealand seal famous come-from-behind series with 160-run rout Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16 Australia, India, South Africa and Great Britain qualify for women’s event at LA28 Olympics South Korea football coach quits as president calls for probe into World Cup loss Kaia’s maiden ton,...
+- Detailed note: Sports The mess in Antigua Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance New Zealand seal famous come-from-behind series with 160-run rout Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16 Australia, India, South Africa and Great Britain qualify for women’s event at LA28 Olympics Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance...
 - Evidence notes: [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) (The island.lk); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
@@ -404,9 +404,9 @@ Search window: 7 day(s) ending 2026-06-29
 - Date: 2026-06-23T17:36+02:00
 - URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited usable detail remained after boilerplate cleanup.
+- Summary: On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 ### WHO South Africa 2025 Annual Report
@@ -437,24 +437,26 @@ Search window: 7 day(s) ending 2026-06-29
   Limited detail was available from feed metadata alone.
 - [Philippines: Mpox case confirmed in Mandaluyong City](https://outbreaknewstoday.substack.com/p/philippines-mpox-case-confirmed-in) | Outbreak News Today | 2026-06-29T22:26+00:00 | Outbreaks and emerging infections
   In addition, the Philippines Department of Health (DOH) said it has only reported 55 mpox cases in the country as of June 13, which is 79 percent lower (205 cases) than 2025. Necessary measures, including case investigation, contact tracing, and monitoring, are immediately implemented to prevent the spread of the disease. Philippines report increase in leptospirosis in 2026
+- [D.R. Congo Ebola Outbreak: Rising Numbers](https://www.devdiscourse.com/article/health/3942621-dr-congo-ebola-outbreak-rising-numbers) | Devdiscourse | 2026-06-29T22:07+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola cases in DR Congo rise to 710 as authorities deny lockdown rumors](https://iol.co.za/news/africa/2026-06-15-ebola-cases-in-dr-congo-rise-to-710-as-authorities-deny-lockdown-rumors/) | IOL | 2026-06-29T19:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo bans gatherings in Kinshasa and three provinces over Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-bans-gatherings-kinshasa-three-provinces-over-ebola-outbreak-2026-06-29/) | Reuters | 2026-06-29T19:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Cases Pass 1,200 with 360 Deaths](https://www.breitbart.com/africa/2026/06/29/dr-congo-ebola-cases-pass-1200-with-360-deaths/) | breitbart.com | 2026-06-29T18:58+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo bans gatherings in Kinshasa and three provinces over Ebola outbreak](https://www.straitstimes.com/world/congo-bans-gatherings-in-kinshasa-and-three-provinces-over-ebola-outbreak) | The Straits Times | 2026-06-29T17:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak spreads to fourth province, 360 dead](https://timesofindia.indiatimes.com/world/rest-of-world/dr-congo-ebola-outbreak-spreads-to-fourth-province-360-dead/articleshow/132075364.cms) | The Times of India | 2026-06-29T16:28+00:00 | Outbreaks and emerging infections
   With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Limited detail was available from feed metadata alone.
 - [Kerala on alert as rat fever kills two; dengue, fever cases rise](https://newsable.asianetnews.com/india/kerala-on-alert-as-rat-fever-kills-two-dengue-fever-cases-rise-articleshow-7uflo9r) | Asianet Newsable | 2026-06-29T16:00+00:00 | Outbreaks and emerging infections
   Meanwhile, fever cases continued to remain high, with a total of 11,776 people seeking treatment for fever at hospitals and health centres across Kerala on Monday. The health department also reported 12 new dengue cases, eight malaria cases and six Shigella infections during the day. Meanwhile, Keralam Health Minister K Muralidharan on Sunday said the state has created 22,000 booths for the Pulse Polio Immunisation Drive and expressed confidence that most eligible children would receive polio drops during the campaign.
 - [Ebola outbreak in DR Congo spreads to fourth province](https://www.bssnews.net/international/401025) | Bangladesh Sangbad Sangstha (BSS) | 2026-06-29T15:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+  The case was detected in Haut-Uele, near the borders with South Sudan and the Central African Republic, involving a person who had travelled from Bunia, in neighbouring Ituri province -- the outbreak's epicentre. Limited detail was available from feed metadata alone.
 - [FLASH : Measures to avoid possible entry of Ebola cases into Haiti (video)](https://www.haitilibre.com/en/news-47870-flash-measures-to-avoid-possible-entry-of-ebola-cases-into-haiti-video.html) | HaitiLibre.com | 2026-06-29T13:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Nipah: WHO DON Report & A Narrative Review On Nipah Pandemic Preparedness](https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html) | Avian Flu Diary | 2026-06-29T11:26+00:00 | Outbreaks and emerging infections
   As of 18 June 2026, a total of 104 contacts had been identified and were under monitoring, including health and care workers, with no reported secondary cases to date. The case is an adult male who developed symptoms on 30 May 2026 and was hospitalized on 10 June 2026. While most outbreaks have remained small , in July of 2018, in IJID: Enhancing Preparation For Large Nipah Outbreaks Beyond Bangladesh , we looked at an article that appeared in the International Journal of Infectious Diseases , that discussed the potential of the Nipah virus producing a large urban epidemic , similar to what we saw in West Africa with Ebola in 2014.
 - [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) | The island.lk | 2026-06-29T11:15+00:00 | Outbreaks and emerging infections
-  Sports Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance New Zealand seal famous come-from-behind series with 160-run rout Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16 Australia, India, South Africa and Great Britain qualify for women’s event at LA28 Olympics South Korea football coach quits as president calls for probe into World Cup loss Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance New Zealand seal famous come-from-behind series with 160-run rout New Zealand seal famous come-from-behind series with 160-run rout Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16 Limited detail was available from feed metadata alone.
+  Sports The mess in Antigua Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance New Zealand seal famous come-from-behind series with 160-run rout Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16 Australia, India, South Africa and Great Britain qualify for women’s event at LA28 Olympics Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance New Zealand seal famous come-from-behind series with 160-run rout New Zealand seal famous come-from-behind series with 160-run rout Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16 Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases in Congo at 1,274, including 360 deaths](https://www.scmp.com/news/world/africa/article/3358776/confirmed-ebola-cases-congo-1274-including-360-deaths) | South China Morning Post | 2026-06-29T10:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [#South_Sudan confirms no Ebola cases after seven suspected infections test negative South Sudan has confirmed that it remains free of #Ebola after seven suspected cases tested negative, with health authorities emphasizing that heightened surveillance an](https://www.facebook.com/AddisstandardEng/photos/south_sudan-confirms-no-ebola-cases-after-seven-suspected-infections-test-negati/1444631784368720/) | facebook.com | 2026-06-29T07:06+00:00 | Outbreaks and emerging infections
@@ -468,8 +470,6 @@ Search window: 7 day(s) ending 2026-06-29
 - [South Sudan Confirms No Ebola Cases After Seven Suspected Infections Test Negative](https://panafricanvisions.com/2026/06/south-sudan-confirms-no-ebola-cases-after-seven-suspected-infections-test-negative/) | pan african visions | 2026-06-28T22:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [11 African nations join forces in Kampala to combat Ebola outbreak](https://www.monitor.co.ug/uganda/news/national/11-african-nations-join-forces-in-kampala-to-combat-ebola-outbreak-5511432) | Daily Monitor | 2026-06-28T10:06+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) | The New York Times | 2026-06-28T04:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
