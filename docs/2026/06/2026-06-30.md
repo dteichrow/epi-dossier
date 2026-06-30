@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-30
-Generated at: 2026-06-30T02:12
+Generated at: 2026-06-30T02:16
 Search window: 7 day(s) ending 2026-06-30
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-06-30
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 126 item(s) across 90 source(s).
-- Baseline snapshot created with 126 clustered item(s) across 90 source(s).
+- Newly tracked story cluster: 126 item(s) across 89 source(s).
+- Baseline snapshot created with 126 clustered item(s) across 89 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -51,10 +51,10 @@ Search window: 7 day(s) ending 2026-06-30
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 126 item(s) across 90 source(s); 3 official/primary-source item(s).
+- Topic size: 126 item(s) across 89 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Outbreak Could Cost Africa up to $3.6 Bln, UN Says](https://english.aawsat.com/world/5290316-ebola-outbreak-could-cost-africa-36-bln-un-says) (Asharq Al-Awsat English); [DR Congo says 1,307 Ebola cases confirmed, including 377 deaths](https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths) (Al Jazeera)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Outbreak Threatens Africa's Economic Stability](https://www.devdiscourse.com/article/health/3942851-ebola-outbreak-threatens-africas-economic-stability) (Devdiscourse); [DR Congo says 1,307 Ebola cases confirmed, including 377 deaths](https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths) (Al Jazeera)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -429,7 +429,7 @@ Search window: 7 day(s) ending 2026-06-30
 
 
 ## Other notable readings
-- [Ebola Outbreak Could Cost Africa up to $3.6 Bln, UN Says](https://english.aawsat.com/world/5290316-ebola-outbreak-could-cost-africa-36-bln-un-says) | Asharq Al-Awsat English | 2026-06-30T09:06+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak Threatens Africa's Economic Stability](https://www.devdiscourse.com/article/health/3942851-ebola-outbreak-threatens-africas-economic-stability) | Devdiscourse | 2026-06-30T08:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo says 1,307 Ebola cases confirmed, including 377 deaths](https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths) | Al Jazeera | 2026-06-30T07:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
