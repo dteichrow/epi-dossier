@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-30
-Generated at: 2026-06-30T10:16
+Generated at: 2026-06-30T10:20
 Search window: 7 day(s) ending 2026-06-30
 
 ## Executive scan
@@ -13,7 +13,7 @@ Search window: 7 day(s) ending 2026-06-30
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (127), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (2)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -35,7 +35,7 @@ Search window: 7 day(s) ending 2026-06-30
 - Lead item: [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) (The island.lk)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Magzter now explicitly uses investigation or monitoring language.
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
@@ -66,8 +66,8 @@ Search window: 7 day(s) ending 2026-06-30
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) (The island.lk, 2026-06-29T11:15+00:00)
-- Detailed note: Sports Morocco beat Netherlands in dramatic World Cup shootout to reach last 16 Paraguay shock Germany in shootout win for one of all-time World Cup upsets The mess in Antigua Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance New Zealand seal famous come-from-behind series with 160-run rout Morocco beat Netherlands in dramatic World Cup shootout to reach last 16 Morocco beat...
-- Evidence notes: [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) (The island.lk); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka - newspaper](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times)
+- Detailed note: Sports Mooney, spinner take Australia to eighth T20 World Cup final Morocco beat Netherlands in dramatic World Cup shootout to reach last 16 Paraguay shock Germany in shootout win for one of all-time World Cup upsets The mess in Antigua Kaia’s maiden ton, Madhevere and Ervine’s fifties extend Zimbabwe’s dominance Mooney, spinner take Australia to eighth T20 World Cup final Mooney, spinner take Australia to eighth...
+- Evidence notes: [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) (The island.lk); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); [Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka](https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
