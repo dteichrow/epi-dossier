@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-30
-Generated at: 2026-06-30T08:49
+Generated at: 2026-06-30T09:11
 Search window: 7 day(s) ending 2026-06-30
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-30
 - [Registrations now open for online attendance of ESCAIDE 2026, Europe’s leading public health conference](https://www.ecdc.europa.eu/en/news-events/registrations-now-open-online-attendance-escaide-2026-europes-leading-public-health) (ECDC News; 2026-06-25T12:11+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (125), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (122), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 124 item(s) across 88 source(s).
-- Baseline snapshot created with 124 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 121 item(s) across 88 source(s).
+- Baseline snapshot created with 121 clustered item(s) across 88 source(s).
 - Modern Ghana now reports conflict over body retrieval or burial practices.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
@@ -52,10 +52,10 @@ Search window: 7 day(s) ending 2026-06-30
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 124 item(s) across 88 source(s); 3 official/primary-source item(s).
+- Topic size: 121 item(s) across 88 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Cases Traced to Congo Province Bordering on South Sudan](https://www.bloomberg.com/news/articles/2026-06-30/ebola-cases-traced-to-congo-province-bordering-on-south-sudan?) (Bloomberg.com); [Ebola outbreak: Safe burials become frontline in DR Congo battle](https://www.modernghana.com/videonews/aljazeera/1/674477) (Modern Ghana)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region](https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/) (statnews.com); [Ebola Cases Traced to Congo Province Bordering on South Sudan](https://www.bloomberg.com/news/articles/2026-06-30/ebola-cases-traced-to-congo-province-bordering-on-south-sudan?) (Bloomberg.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -418,10 +418,10 @@ Search window: 7 day(s) ending 2026-06-30
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### Ebola Cases Traced to Congo Province Bordering on South Sudan
-- Source: Bloomberg.com
-- Date: 2026-06-30T15:07+00:00
-- URL: https://www.bloomberg.com/news/articles/2026-06-30/ebola-cases-traced-to-congo-province-bordering-on-south-sudan?
+### Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region
+- Source: statnews.com
+- Date: 2026-06-30T15:59+00:00
+- URL: https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
@@ -430,17 +430,17 @@ Search window: 7 day(s) ending 2026-06-30
 
 
 ## Other notable readings
+- [Ebola Cases Traced to Congo Province Bordering on South Sudan](https://www.bloomberg.com/news/articles/2026-06-30/ebola-cases-traced-to-congo-province-bordering-on-south-sudan?) | Bloomberg.com | 2026-06-30T15:07+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Safe burials become frontline in DR Congo battle](https://www.modernghana.com/videonews/aljazeera/1/674477) | Modern Ghana | 2026-06-30T14:35+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [UN warns Ebola outbreak in DRC could push one million more people into poverty](https://eastleighvoice.co.ke/democratic-republic-of-congo/373837/un-warns-ebola-outbreak-in-drc-could-push-one-million-more-people-into-poverty?amp\=1) | The Eastleigh Voice | 2026-06-30T12:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [United Nations Warns Ebola Outbreak Could Cost Africa $3.6 Billion](https://www.legit.ng/world/1716945-united-nations-warns-ebola-outbreak-cost-africa-36-billion/) | Legit.ng | 2026-06-30T11:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DRC Ebola Toll Hits 1,307 Cases as Outbreak Expands](https://www.telesurenglish.net/drc-ebola-toll-hits-1307-cases/) | teleSUR English | 2026-06-30T11:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak could cost Africa up to $3.6 billion, UN says](https://www.straitstimes.com/world/ebola-outbreak-could-cost-africa-up-to-3-6-billion-un-says) | The Straits Times | 2026-06-30T10:45+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Outbreak in Africa: A Looming Development Crisis](https://www.devdiscourse.com/article/health/3942939-ebola-outbreak-in-africa-a-looming-development-crisis) | Devdiscourse | 2026-06-30T10:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [UN warns Ebola outbreak could cost Africa up to $3.6 billion](https://www.thecitizen.co.tz/tanzania/news/africa/un-warns-ebola-outbreak-could-cost-africa-up-to-3-6-billion-5513722) | thecitizen.co.tz | 2026-06-30T09:51+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Threatens Africa's Economic Stability](https://www.devdiscourse.com/article/health/3942851-ebola-outbreak-threatens-africas-economic-stability) | Devdiscourse | 2026-06-30T08:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Spreads To Fourth Province In DR Congo As Cases Rise To 1,274](https://www.healthandme.com/health-news/ebola-outbreak-spreads-to-fourth-province-in-dr-congo-as-cases-rise-to-1274-article-154805099) | Health and Me | 2026-06-30T07:30+00:00 | Outbreaks and emerging infections
   © 2026 Bennett, Coleman & Company Limited Limited detail was available from feed metadata alone.
