@@ -5,39 +5,35 @@
       "Associated Press",
       "CBS News",
       "CIDRAP",
+      "NPR",
       "New York Times",
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 103,
+    "metadata_only_count": 117,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 118,
+    "sources_failed": 2,
+    "sources_live": 131,
     "story_count_change": 3,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 118,
+    "live": 131,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-01T04:00:21",
+  "generated_at": "2026-07-01T04:14:01",
   "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
-      "source_type": "html_list"
-    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
+      "source_type": "html_list"
+    },
+    {
+      "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]
