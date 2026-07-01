@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-30
-Generated at: 2026-06-30T20:41
+Generated at: 2026-06-30T21:01
 Search window: 7 day(s) ending 2026-06-30
 
 ## Executive scan
@@ -433,7 +433,11 @@ Search window: 7 day(s) ending 2026-06-30
   Some say it limits dissent Boston Herald
 - [Ebola Cases Traced to Congo Province Bordering on South Sudan](https://www.bloomberg.com/news/articles/2026-06-30/ebola-cases-traced-to-congo-province-bordering-on-south-sudan?) | Bloomberg.com | 2026-06-30T15:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo](https://www.unicef.org/press-releases/ebola-cases-hit-1000-almost-3-million-children-and-adolescents-face-rising-risks) | UNICEF | 2026-06-30T14:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [UN warns Ebola outbreak in DRC could push one million more people into poverty](https://eastleighvoice.co.ke/democratic-republic-of-congo/373837/un-warns-ebola-outbreak-in-drc-could-push-one-million-more-people-into-poverty?amp\=1) | The Eastleigh Voice | 2026-06-30T12:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [UN warns Ebola outbreak could cost Africa $3.6bn and threaten 328,000 jobs](https://anewz.tv/world/world-news/21337/un-warns-ebola-could-cost-africa-36bn/news) | AnewZ | 2026-06-30T12:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak could cost Africa up to $3.6 billion, UN says](https://www.straitstimes.com/world/ebola-outbreak-could-cost-africa-up-to-3-6-billion-un-says) | The Straits Times | 2026-06-30T10:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -459,10 +463,6 @@ Search window: 7 day(s) ending 2026-06-30
   Limited detail was available from feed metadata alone.
 - [FLASH : Measures to avoid possible entry of Ebola cases into Haiti (video)](https://www.haitilibre.com/en/news-47870-flash-measures-to-avoid-possible-entry-of-ebola-cases-into-haiti-video.html) | HaitiLibre.com | 2026-06-29T13:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [CDC raising response to Ebola outbreak to the highest level](https://www.cbsnews.com/texas/video/cdc-raising-response-to-ebola-outbreak-to-the-highest-level/) | CBS News | 2026-06-29T12:00+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [Dengue risk zones identified in Kandy District as cases rise](http://island.lk/dengue-risk-zones-identified-in-kandy-district-as-cases-rise/) | The island.lk | 2026-06-29T11:15+00:00 | Outbreaks and emerging infections
-  Sports France beat Sweden as Mbappe draws level with Messi in World Cup goal chart Bowlers star in LOLC Holdings’ five wicket win Solomons’ unbeaten century steers Thomians Mooney, spinner take Australia to eighth T20 World Cup final Morocco beat Netherlands in dramatic World Cup shootout to reach last 16 France beat Sweden as Mbappe draws level with Messi in World Cup goal chart France beat Sweden as Mbappe draws level with Messi in World Cup goal chart Bowlers star in LOLC Holdings’ five wicket win Bowlers star in LOLC Holdings’ five wicket win Solomons’ unbeaten century steers Thomians Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/)
