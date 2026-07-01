@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-01
-Generated at: 2026-07-01T10:39
+Generated at: 2026-07-01T10:59
 Search window: 7 day(s) ending 2026-07-01
 
 ## Executive scan
@@ -11,8 +11,8 @@ Search window: 7 day(s) ending 2026-07-01
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa; 2026-06-26T16:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [What is Ebola and are there cases in the UK?](https://www.bbc.com/news/articles/c4gyj7ene79o) (BBC; 2026-07-01T17:01+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (120), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (2)
+- [Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh](https://link.springer.com/article/10.1186/s41182-026-01018-1) (Springer Nature Link; 2026-07-01T16:41+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (121), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-07-01
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 117 item(s) across 80 source(s).
-- Baseline snapshot created with 117 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 118 item(s) across 82 source(s).
+- Baseline snapshot created with 118 clustered item(s) across 82 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -45,10 +45,10 @@ Search window: 7 day(s) ending 2026-07-01
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 117 item(s) across 80 source(s); 2 official/primary-source item(s).
+- Topic size: 118 item(s) across 82 source(s); 2 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [What is Ebola and are there cases in the UK?](https://www.bbc.com/news/articles/c4gyj7ene79o) (BBC); [White House Adds Pandemic Response Staff as Ebola Cases Rise](https://www.bloomberg.com/news/articles/2026-07-01/white-house-adds-pandemic-response-staff-as-ebola-cases-rise) (Bloomberg.com); [Africa CDC confirms Marburg virus death, threatening complications to Ebola outbreak](https://www.independent.co.uk/news/world/africa/uganda-marburg-virus-ebola-outbreak-b3006893.html) (The Independent)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [White House Adds Pandemic Response Staff as Ebola Cases Rise](https://www.bloomberg.com/news/articles/2026-07-01/white-house-adds-pandemic-response-staff-as-ebola-cases-rise) (Bloomberg.com); [A Risky Burial in the Heart of an Ebola Outbreak](https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html) (The New York Times); [Ebola outbreak could cost Africa up to $3.6b: UN](https://www.tbsnews.net/worldbiz/africa/ebola-outbreak-could-cost-africa-36b-un-1476941) (The Business Standard)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -391,16 +391,6 @@ Search window: 7 day(s) ending 2026-07-01
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### What is Ebola and are there cases in the UK?
-- Source: BBC
-- Date: 2026-07-01T17:01+00:00
-- URL: https://www.bbc.com/news/articles/c4gyj7ene79o
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 ### Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh
 - Source: Springer Nature Link
 - Date: 2026-07-01T16:41+00:00
@@ -421,12 +411,18 @@ Search window: 7 day(s) ending 2026-07-01
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Dengue Dilemma: Bangladesh Braces for Potential Outbreak Surge
+- Source: Devdiscourse
+- Date: 2026-07-01T14:27+00:00
+- URL: https://www.devdiscourse.com/article/health/3943789-dengue-dilemma-bangladesh-braces-for-potential-outbreak-surge
+- Category: Outbreaks and emerging infections
+- Summary: During June alone, there were 2,907 cases and 13 deaths, markedly higher than May's 715 cases and one death. By the end of June, health ministry data indicated a total of 5,924 infections and 18 deaths for 2023. Over recent weeks, the mosquito-borne disease, which can lead to severe complications and even fatalities, has seen an uptick in cases, prompting widespread concern.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Africa CDC confirms Marburg virus death, threatening complications to Ebola outbreak](https://www.independent.co.uk/news/world/africa/uganda-marburg-virus-ebola-outbreak-b3006893.html) | The Independent | 2026-07-01T15:21+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Dengue Dilemma: Bangladesh Braces for Potential Outbreak Surge](https://www.devdiscourse.com/article/health/3943789-dengue-dilemma-bangladesh-braces-for-potential-outbreak-surge) | Devdiscourse | 2026-07-01T14:27+00:00 | Outbreaks and emerging infections
-  During June alone, there were 2,907 cases and 13 deaths, markedly higher than May's 715 cases and one death. By the end of June, health ministry data indicated a total of 5,924 infections and 18 deaths for 2023. Over recent weeks, the mosquito-borne disease, which can lead to severe complications and even fatalities, has seen an uptick in cases, prompting widespread concern.
 - [Ebola cases traced to Congo province, bordering on South Sudan](https://www.straitstimes.com/world/ebola-cases-traced-to-congo-province-bordering-on-south-sudan) | The Straits Times | 2026-07-01T09:19+00:00 | Outbreaks and emerging infections
   South Sudan is at high risk due to weak health infrastructure and cross-border movement, despite activating a preparedness plan covering 15 counties. The outbreak involves the Bundibugyo strain, with no approved vaccine, amid South Sudan's ongoing food insecurity and a severe cholera outbreak worsening humanitarian challenges. Sign up now: Get ST's newsletters delivered to your inbox Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan.
 - [A Risky Burial in the Heart of an Ebola Outbreak](https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html) | The New York Times | 2026-07-01T09:01+00:00 | Outbreaks and emerging infections
@@ -462,6 +458,10 @@ Search window: 7 day(s) ending 2026-07-01
 - [United Nations Warns Ebola Outbreak Could Cost Africa $3.6 Billion](https://www.legit.ng/world/1716945-united-nations-warns-ebola-outbreak-cost-africa-36-billion/) | Legit.ng | 2026-06-30T11:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak could cost Africa up to $3.6 billion, UN says](https://www.straitstimes.com/world/ebola-outbreak-could-cost-africa-up-to-3-6-billion-un-says) | The Straits Times | 2026-06-30T10:45+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak Could Push Nearly One Million More People into Poverty and Cost Africa Billions, warns UN Development Programme](https://www.undp.org/press-releases/ebola-outbreak-could-push-nearly-one-million-more-people-poverty-and-cost-africa-billions-warns-un-development-programme) | UNDP | 2026-06-30T08:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo says 1,307 Ebola cases confirmed, including 377 deaths](https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths) | Al Jazeera | 2026-06-30T07:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
