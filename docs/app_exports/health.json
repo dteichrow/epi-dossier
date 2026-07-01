@@ -4,26 +4,39 @@
     "major_publisher_families_seen": [
       "ABC News",
       "BBC",
+      "CBS News",
       "CIDRAP",
       "CNN",
-      "New York Times"
+      "New York Times",
+      "Reuters",
+      "STAT"
     ],
-    "metadata_only_count": 26,
+    "metadata_only_count": 132,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 44,
+    "sources_failed": 3,
+    "sources_live": 150,
     "story_count_change": 6,
-    "wrapper_only_count": 1
+    "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 44,
+    "live": 150,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-01T15:50:32",
+  "generated_at": "2026-07-01T15:57:40",
   "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "rss"
+    },
+    {
+      "error": "401 Client Error: Unauthorized for url: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+      "source": "FDA Foodborne Outbreaks",
+      "source_type": "html_list"
+    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
