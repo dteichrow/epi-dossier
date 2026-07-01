@@ -4,6 +4,7 @@
     "major_publisher_families_seen": [
       "ABC News",
       "Associated Press",
+      "BBC",
       "CBS News",
       "CIDRAP",
       "CNN",
@@ -11,21 +12,21 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 120,
+    "metadata_only_count": 122,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 135,
+    "sources_live": 138,
     "story_count_change": 4,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 135,
+    "live": 138,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-01T09:16:35",
+  "generated_at": "2026-07-01T09:19:10",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
