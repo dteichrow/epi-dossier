@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-01
-Generated at: 2026-07-01T14:16
+Generated at: 2026-07-01T14:30
 Search window: 7 day(s) ending 2026-07-01
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-01
 - [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News; 2026-07-01T14:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa; 2026-06-30T08:44+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/) (PubMed Infectious Disease Search; 2026-06-30T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (37), Policy, surveillance, and public health infrastructure (2), Occupational and environmental epidemiology (1)
+- Category mix: Outbreaks and emerging infections (37), Policy, surveillance, and public health infrastructure (2), Major epidemiology studies (1)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -38,9 +38,9 @@ Search window: 7 day(s) ending 2026-07-01
 - Haaretz now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
-- Lead item: [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) (CIDRAP)
-- Newly tracked story cluster: 17 item(s) across 12 source(s).
-- Baseline snapshot created with 17 clustered item(s) across 12 source(s).
+- Lead item: [Ebola Has Now Spread to a Fourth DRC Province Near the South Sudan Border as Regional Health Concerns Grow](https://www.medicaldaily.com/ebola-fourth-province-haut-uele-south-sudan-border-drc-july-2026-475880) (Medical Daily)
+- Newly tracked story cluster: 18 item(s) across 13 source(s).
+- Baseline snapshot created with 18 clustered item(s) across 13 source(s).
 - CIDRAP now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -52,10 +52,10 @@ Search window: 7 day(s) ending 2026-07-01
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 17 item(s) across 12 source(s); 0 official/primary-source item(s).
-- Lead item: [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) (CIDRAP, 2026-07-01T20:42+00:00)
-- Detailed note: Cluster remains active across 17 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) (CIDRAP); [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) (Yahoo); [Marburg virus death reported in Uganda during devastating Ebola outbreak](https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FqeW80NWwzMWw0M0pRZzhyeG5MZWlIczJYWHlRdF84d0VUUzFXaEFrbHN0bHlLbmRkdllwV3IxTVZ5bmpoRm54Sk50bDB2clZqcUlOVXdGVW9iVmFjWG9nb2NkbUIybUQxdzdtcHhIdjlHSkk0b0lybWhDcERNWGpXSWdxTDh0MDhxVUlnTUFDd3NLa09tV3JSOA?oc=5) (The Independent); [Ebola outbreak could cost Africa $3.6bn, says UN](https://news.google.com/rss/articles/CBMingFBVV95cUxOUDR5VzJFU3YxbDZzMWxFQUxEN20xdVVzMHVyMjFiOHk2VmdPQ3kwa3ZWTTlEM214ajB1N3otUi1OV19UZF9JRlNIVjVBQy0xMUlfR0xOOE1jeWdobjNrM0pCWjNEUDEyay1WY2x3OFdzV0ktRkFqVVR2VXNsUnNzRUhtSzNRSDB6c0lnZFZKQUFwRTBhcWVFOFlOcjhmQdIBogFBVV95cUxPa3Z1LThrel81anRPak9tSy15YlFaVzFLanp0VEFYdmJiSWo2VkRVR211RXp0NHJoTFRUYXhiSm1zbVV2UUtSazdudWJmWUxxeGV4b21pb3hvV25fV1l3d2l3dWs2YzZKYTVFNGlGUjZSd2xtZ2hYTjliUElkNV9fdm5xSHBoS3ZmWGI3SVdjUmVnSkIzNnFLYnZBSTFiM1QySHc?oc=5) (Kuwait Times); [What is Ebola and are there cases in the UK?](https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TEJkTDI5Q00yQXBNRHc4UzMtanVuUFhwaEN6aTVXeDZkNTNtTzdtY0NRSm10SDF1YzZ3cGNJdlU4WGNZaEp6bm14SjdTNWdhd183Y1NnLWVrZw?oc=5) (BBC)
+- Topic size: 18 item(s) across 13 source(s); 0 official/primary-source item(s).
+- Lead item: [Ebola Has Now Spread to a Fourth DRC Province Near the South Sudan Border as Regional Health Concerns Grow](https://www.medicaldaily.com/ebola-fourth-province-haut-uele-south-sudan-border-drc-july-2026-475880) (Medical Daily, 2026-07-01T21:00+00:00)
+- Detailed note: Harvard Tracked 147,000 Adults for 30 Years and Found the Exact Strength Training Amount That Reduces Death Risk the Most Harvard tracked 147,000 adults 30 years and found 90–119 minutes of weekly strength training cuts death risk 13%, CVD death 19%, and neurological death 27%. Chan School of Public Health study of 147,000 adults over 30 years, published June 2, 2026 in the British Journal of Sports Medicine,...
+- Evidence notes: [Ebola Has Now Spread to a Fourth DRC Province Near the South Sudan Border as Regional Health Concerns Grow](https://www.medicaldaily.com/ebola-fourth-province-haut-uele-south-sudan-border-drc-july-2026-475880) (Medical Daily); [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) (CIDRAP); [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) (Yahoo); [Marburg virus death reported in Uganda during devastating Ebola outbreak](https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FqeW80NWwzMWw0M0pRZzhyeG5MZWlIczJYWHlRdF84d0VUUzFXaEFrbHN0bHlLbmRkdllwV3IxTVZ5bmpoRm54Sk50bDB2clZqcUlOVXdGVW9iVmFjWG9nb2NkbUIybUQxdzdtcHhIdjlHSkk0b0lybWhDcERNWGpXSWdxTDh0MDhxVUlnTUFDd3NLa09tV3JSOA?oc=5) (The Independent); [Ebola outbreak could cost Africa $3.6bn, says UN](https://news.google.com/rss/articles/CBMingFBVV95cUxOUDR5VzJFU3YxbDZzMWxFQUxEN20xdVVzMHVyMjFiOHk2VmdPQ3kwa3ZWTTlEM214ajB1N3otUi1OV19UZF9JRlNIVjVBQy0xMUlfR0xOOE1jeWdobjNrM0pCWjNEUDEyay1WY2x3OFdzV0ktRkFqVVR2VXNsUnNzRUhtSzNRSDB6c0lnZFZKQUFwRTBhcWVFOFlOcjhmQdIBogFBVV95cUxPa3Z1LThrel81anRPak9tSy15YlFaVzFLanp0VEFYdmJiSWo2VkRVR211RXp0NHJoTFRUYXhiSm1zbVV2UUtSazdudWJmWUxxeGV4b21pb3hvV25fV1l3d2l3dWs2YzZKYTVFNGlGUjZSd2xtZ2hYTjliUElkNV9fdm5xSHBoS3ZmWGI3SVdjUmVnSkIzNnFLYnZBSTFiM1QySHc?oc=5) (Kuwait Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -418,18 +418,20 @@ Search window: 7 day(s) ending 2026-07-01
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg
-- Source: CIDRAP
-- Date: 2026-07-01T20:42+00:00
-- URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5
+### Ebola Has Now Spread to a Fourth DRC Province Near the South Sudan Border as Regional Health Concerns Grow
+- Source: Medical Daily
+- Date: 2026-07-01T21:00+00:00
+- URL: https://www.medicaldaily.com/ebola-fourth-province-haut-uele-south-sudan-border-drc-july-2026-475880
 - Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
+- Summary: Harvard Tracked 147,000 Adults for 30 Years and Found the Exact Strength Training Amount That Reduces Death Risk the Most Harvard tracked 147,000 adults 30 years and found 90–119 minutes of weekly strength training cuts death risk 13%, CVD death 19%, and neurological death 27%. Chan School of Public Health study of 147,000 adults over 30 years, published June 2, 2026 in the British Journal of Sports Medicine, found that 90–119 minutes of weekly strength training reduces all-cause mortality by 13%, CVD death by 19%, and neurological death by 27%. Psilocybin Therapy Could Be FDA-Approved by Early 2027 — Here Is the Realistic Timeline for Patients Waiting Now COMP360 psilocybin therapy could win FDA approval by early 2027.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) | CIDRAP | 2026-07-01T20:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) | Yahoo | 2026-07-01T19:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Marburg virus death reported in Uganda during devastating Ebola outbreak](https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FqeW80NWwzMWw0M0pRZzhyeG5MZWlIczJYWHlRdF84d0VUUzFXaEFrbHN0bHlLbmRkdllwV3IxTVZ5bmpoRm54Sk50bDB2clZqcUlOVXdGVW9iVmFjWG9nb2NkbUIybUQxdzdtcHhIdjlHSkk0b0lybWhDcERNWGpXSWdxTDh0MDhxVUlnTUFDd3NLa09tV3JSOA?oc=5) | The Independent | 2026-07-01T18:20+00:00 | Outbreaks and emerging infections
@@ -450,8 +452,8 @@ Search window: 7 day(s) ending 2026-07-01
   Limited detail was available from feed metadata alone.
 - [In the frontlines of a safe and dignified Ebola outbreak response in Uganda - WHO | Regional Office for Africa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUVnWkxjeHdHY3JlTkNpVTZuNmtEclB3NVRhMzBVMms3eUk4dEJtNHFLbERWdE5iUy02YVBacUJjU29ROVN1NkRYbWxQN0I2S1VoNVJpXzN6cEZtMEI4M2xNcjhLU1c5bzdHSkN5WjFwWmpMUnRtX3JoMUY0dU1QcGptUVJQVk9qZnFEY0owY2NxZFlIU0s0RnE3c1Z0c3NmbTdMUHVBa0JCclE?oc=5) | WHO | 2026-07-01T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola cases traced to Congo province, bordering on South Sudan](https://www.straitstimes.com/world/ebola-cases-traced-to-congo-province-bordering-on-south-sudan) | The Straits Times | 2026-07-01T09:19+00:00 | Outbreaks and emerging infections
-  South Sudan is at high risk due to weak health infrastructure and cross-border movement, despite activating a preparedness plan covering 15 counties. The outbreak involves the Bundibugyo strain, with no approved vaccine, amid South Sudan's ongoing food insecurity and a severe cholera outbreak worsening humanitarian challenges. Sign up now: Get ST's newsletters delivered to your inbox Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan.
+- [Ebola cases traced to Congo province, bordering on South Sudan](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDVSZmlWMU92MnFIZ1ZmUjZ4b0dRWW9VYTdUM2xaOFVXbmo4UzBXNWpyTW5rYzNQOGpjWW9tejJPR09OQ1dpMkxfa2hSMXIyU0FuWno4VUQ5akgzZ2dISl8yakZiOGNGZkZ6cTQ4bTMzTFlFaVFVb3NWQ2s4TmpfbkJUdFlTRXJ6YXprcjR6cEJhU2ZSc3dfbTVnMnc?oc=5) | The Straits Times | 2026-07-01T09:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [A Risky Burial in the Heart of an Ebola Outbreak](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTcnZwT0trM2RkdDJYb3JpMGo4cldHRHF3TDFtc3BJeG95QVpzNmx3YVg0dE94dWo5T2p4VGNrMHpqNjlTSjB3bTdfeFRyYmdSdjhkRHFKTWdLMHpyNlJRM21fc0NyS05FZHlQVnA1aUZ2OFA5NkFSWnRSMzE?oc=5) | The New York Times | 2026-07-01T09:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak could cost Africa up to $3.6b: UN](https://news.google.com/rss/articles/CBMikAFBVV95cUxORkpxUWhQVzZwcU9ESk5BandhS1B1VG1ibm9OSm1ZNzU5NlA4TTB6R1Vnc21wVHpIak92TkV5TGRhb0xvMWp4VFBBeXVlTGhHb01YaXpMR0pENGlEOWcwejU2VDg3WXVtMjhGVE1RZWRaX0prdDNCdVJYRGpNVm1KeGI0WUFKSEN1d1IySndTNW7SAZYBQVVfeXFMTzRNaURBYW5HcURIblhxeUt4VmVMSTJwdXBMNEptdmY0YThtem5FSWhEeVhwbjdHY0FHQm9mb3VGOXhWUnJSTks4MTRlajdQSk5Eb1cycGl6M3pvRnpVXzh6LUx3bHBUaFhUd0h3eTBTYWVWOERvTVVZSTdJWEVRMjFPaEduNGJ6X0thUERoV1hDX3A5RW5R?oc=5) | The Business Standard | 2026-07-01T09:00+00:00 | Outbreaks and emerging infections
@@ -465,8 +467,6 @@ Search window: 7 day(s) ending 2026-07-01
 - [UK patient tested for possible Ebola as cases rise in Africa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkFJZjBYMFk5U1N6ZHJoR2NHLTVsMFpWVjJwUG5rZ3Z1Vkt2MFo0anRnYW4xSHAyVHpydlFJM3F0ajhGNTU5Zml1elBMbnZCU1FrYzhyX0pYX3MtR0Y4UEx6SFVrNTRHRmRMTHpPM20tREhhT3RLV2h1YW9OMzFxRWhTVVhIaXNVdTJpNVp6aWpPR2JFNy00R2w0cEpFZnJ5RUdtc1paZGPSAagBQVVfeXFMTmZBSWYwWDBZOVNTemRyaEdjRy01bDBaVlYycFBua2d2dVZLdjBaNGp0Z2FuMUhwMlR6cnZRSTNxdGo4RjU1OWZpdXpQTG52QlNRa2M4cl9KWF9zLUdGOFBMekhVazU0R0ZkTEx6TzNtLURIYU90S1dodWFvTjMxcUVoU1VYSGlzVXUyaTVaemlqT0diRTctNEdsNHBKRWZyeUVHbXNaWmRj?oc=5) | South China Morning Post | 2026-06-30T22:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak will cause major harm to Africa’s economies, UN warns](https://news.google.com/rss/articles/CBMingFBVV95cUxQRXlrS1RRSEZ0em5LeWNoVy1zcW05ZmM0SERDWF9tYWxyM0R4LVktdTgxcTFBWVNaNC1ub1RiQWlJdHpIUWczQ3pvQWJWaFJHaU5SZVVqTFppYS1xMlBtdDBhM1BNZ2Z4cVREaExuLTcwaHJVLUJ5c0lNV3VBeGxCbzk3M051NFhCajNrRjZ6NlptckZCSGdwdW5pbGN4UQ?oc=5) | CIDRAP | 2026-06-30T20:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [World News in Brief: Aid convoy attacked in South Sudan, Ebola threatens livelihoods, UN deplores death penalty](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pZS1TZXZjUDF1M0hwY1hManNqS3RTQjZOVUxoSVE0MEpUNGFvWkstd1lHMUxubk8wTC0zcjRYSnpvTmhrS3BwOFFRalFSX1k1bmJGZ1k0VQ?oc=5) | UN News | 2026-06-30T20:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) | NCPR: North Country Public Radio | 2026-06-30T19:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
