@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-06-30
-Generated at: 2026-06-30T17:16
+Generated at: 2026-06-30T17:41
 Search window: 7 day(s) ending 2026-06-30
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-06-30
 - [Multi-country Salmonella outbreak linked to alfalfa sprouted seeds](https://www.ecdc.europa.eu/en/news-events/multi-country-salmonella-outbreak-linked-alfalfa-sprouted-seeds) (ECDC News; 2026-06-25T14:01+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News; 2026-06-24T16:24+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (133), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (131), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 127 item(s) across 87 source(s).
-- Baseline snapshot created with 127 clustered item(s) across 87 source(s).
+- Newly tracked story cluster: 125 item(s) across 86 source(s).
+- Baseline snapshot created with 125 clustered item(s) across 86 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-06-30
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 127 item(s) across 87 source(s); 3 official/primary-source item(s).
+- Topic size: 125 item(s) across 86 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [As first imported Ebola case is recorded in Europe, ECDC calls on EU Member States to continue investing in preparedness](https://www.ecdc.europa.eu/en/news-events/first-imported-ebola-case-recorded-europe-ecdc-calls-eu-member-states-continue) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Outbreak Escalates in Eastern Congo](https://www.devdiscourse.com/article/health/3943320-ebola-outbreak-escalates-in-eastern-congo) (Devdiscourse); [Africa may lose $3.6 billion to Ebola outbreak, says UN](https://gazettengr.com/africa-may-lose-3-6-billion-to-ebola-outbreak-says-un/) (Peoples Gazette Nigeria)
@@ -72,7 +72,7 @@ Search window: 7 day(s) ending 2026-06-30
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR, 2026-06-30T17:00+00:00)
 - Detailed note: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. Surveillance Summaries / July 2, 2026 / 75(4);1â11 Jeremy A.
-- Evidence notes: [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR); [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.npr.org/2026/06/30/nx-s1-5876431/what-its-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NPR); [Scots hospital ward partially closed due to a 'suspected Ebola virus' case](https://news.stv.tv/west-central/glasgow-hospital-ward-partially-closed-due-to-suspected-ebola-virus-case) (STV News)
+- Evidence notes: [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR); [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio); [Scots hospital ward partially closed due to a 'suspected Ebola virus' case](https://news.stv.tv/west-central/glasgow-hospital-ward-partially-closed-due-to-suspected-ebola-virus-case) (STV News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -429,8 +429,6 @@ Search window: 7 day(s) ending 2026-06-30
   Limited detail was available from feed metadata alone.
 - [World News in Brief: Aid convoy attacked in South Sudan, Ebola threatens livelihoods, UN deplores death penalty](https://news.un.org/en/story/2026/06/1167847) | UN News | 2026-06-30T20:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.npr.org/2026/06/30/nx-s1-5876431/what-its-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) | NPR | 2026-06-30T19:36+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region](https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/) | statnews.com | 2026-06-30T16:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Cases Traced to Congo Province Bordering on South Sudan](https://www.bloomberg.com/news/articles/2026-06-30/ebola-cases-traced-to-congo-province-bordering-on-south-sudan?) | Bloomberg.com | 2026-06-30T15:07+00:00 | Outbreaks and emerging infections
@@ -462,6 +460,8 @@ Search window: 7 day(s) ending 2026-06-30
 - [DR Congo Ebola outbreak spreads to fourth province, 360 dead](https://timesofindia.indiatimes.com/world/rest-of-world/dr-congo-ebola-outbreak-spreads-to-fourth-province-360-dead/articleshow/132075364.cms) | The Times of India | 2026-06-29T16:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo spreads to fourth province](https://www.bssnews.net/international/401025) | Bangladesh Sangbad Sangstha (BSS) | 2026-06-29T15:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [FLASH : Measures to avoid possible entry of Ebola cases into Haiti (video)](https://www.haitilibre.com/en/news-47870-flash-measures-to-avoid-possible-entry-of-ebola-cases-into-haiti-video.html) | HaitiLibre.com | 2026-06-29T13:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
