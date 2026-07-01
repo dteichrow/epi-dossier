@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-01
-Generated at: 2026-07-01T07:16
+Generated at: 2026-07-01T07:19
 Search window: 7 day(s) ending 2026-07-01
 
 ## Executive scan
@@ -12,28 +12,28 @@ Search window: 7 day(s) ending 2026-07-01
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa; 2026-06-26T16:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Nepal Battles Bird Flu Outbreak: Over Half a Million Birds Culled](https://www.devdiscourse.com/article/health/3943645-nepal-battles-bird-flu-outbreak-over-half-a-million-birds-culled?amp) (Devdiscourse; 2026-07-01T10:55+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (115), Policy, surveillance, and public health infrastructure (14), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (117), Policy, surveillance, and public health infrastructure (3), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News)
-- Newly tracked story cluster: 7 item(s) across 7 source(s).
-- Baseline snapshot created with 7 clustered item(s) across 7 source(s).
+- Newly tracked story cluster: 6 item(s) across 6 source(s).
+- Baseline snapshot created with 6 clustered item(s) across 6 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
-- Lead item: [Bangladesh on alert for dengue surge as wet weather fuels spread](https://www.trtworld.com/article/c630b623063a) (TRT World)
+- Lead item: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Magzter now explicitly uses investigation or monitoring language.
-- TRT World now includes deaths or fatal cases in the story frame.
+- Herald Malaysia Online now includes deaths or fatal cases in the story frame.
 
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 111 item(s) across 75 source(s).
-- Baseline snapshot created with 111 clustered item(s) across 75 source(s).
+- Newly tracked story cluster: 103 item(s) across 73 source(s).
+- Baseline snapshot created with 103 clustered item(s) across 73 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-07-01
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 111 item(s) across 75 source(s); 2 official/primary-source item(s).
+- Topic size: 103 item(s) across 73 source(s); 2 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-01T14:16+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [A Risky Burial in the Heart of an Ebola Outbreak](https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html) (The New York Times); [Ebola outbreak could cost Africa up to $3.6b: UN](https://www.tbsnews.net/worldbiz/africa/ebola-outbreak-could-cost-africa-36b-un-1476941) (The Business Standard); [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://www.healthandme.com/health-news/ebola-scare-in-uk-suspected-patient-at-glasgow-hospital-tests-negative-article-154816804) (Health and Me)
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-07-01
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 7 item(s) across 7 source(s); 2 official/primary-source item(s).
+- Topic size: 6 item(s) across 6 source(s); 2 official/primary-source item(s).
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News, 2026-07-01T14:00+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
 - Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) (ABC News - Breaking News, Latest News and Videos); [Canadians exposed to hantavirus on cruise ship complete isolation period](https://www.cbc.ca/news/canada/hantavirus-canadians-isolation-complete-9.7253334) (CBC); [Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship](https://www.timescolonist.com/local-news/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship-12493533) (Times Colonist)
@@ -68,6 +68,14 @@ Search window: 7 day(s) ending 2026-07-01
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online, 2026-07-01T04:47+00:00)
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
+- Evidence notes: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka - newspaper](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Bangladesh dengue situation likely to worsen, health experts warn](https://en.somoynews.tv/news/2026-07-01/Mu4UR9W9) (Somoy News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
 ### Miscellaneous signals
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
 - Lead item: [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa, 2026-06-30T08:44+00:00)
@@ -75,14 +83,6 @@ Search window: 7 day(s) ending 2026-07-01
 - Evidence notes: [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa); [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/) (PubMed Infectious Disease Search); [Colombian expert warns of potential infectious disease risks after Venezuela earthquakes](https://www.bastillepost.com/global/article/5979009-colombian-expert-warns-of-potential-infectious-disease-risks-after-venezuela-earthquakes) (巴士的報)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh on alert for dengue surge as wet weather fuels spread](https://www.trtworld.com/article/c630b623063a) (TRT World, 2026-07-01T07:37+00:00)
-- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
-- Evidence notes: [Bangladesh on alert for dengue surge as wet weather fuels spread](https://www.trtworld.com/article/c630b623063a) (TRT World); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka - newspaper](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -425,8 +425,6 @@ Search window: 7 day(s) ending 2026-07-01
 ## Other notable readings
 - [Ebola outbreak could cost Africa up to $3.6b: UN](https://www.tbsnews.net/worldbiz/africa/ebola-outbreak-could-cost-africa-36b-un-1476941) | The Business Standard | 2026-07-01T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bangladesh on alert for dengue surge as wet weather fuels spread](https://www.trtworld.com/article/c630b623063a) | TRT World | 2026-07-01T07:37+00:00 | Outbreaks and emerging infections
-  “But the bigger challenge will likely be outside the capital, where several districts are at risk of a much steeper rise in infections.” In 2023, more than 321,000 people were infected and 1,705 died. Dengue deaths rose from one at the end of May to 18 by the end of June, while reported infections climbed more than eightfold, from 714 to 5,924, according to health ministry data. The spread of the disease has accelerated in recent weeks, raising concerns following the nation's deadliest ever outbreak in 2023.
 - [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) | ABC News - Breaking News, Latest News and Videos | 2026-07-01T07:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://www.healthandme.com/health-news/ebola-scare-in-uk-suspected-patient-at-glasgow-hospital-tests-negative-article-154816804) | Health and Me | 2026-07-01T05:35+00:00 | Outbreaks and emerging infections
@@ -462,6 +460,8 @@ Search window: 7 day(s) ending 2026-07-01
 - [Congo bans gatherings in Kinshasa and three provinces over Ebola outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-bans-gatherings-kinshasa-three-provinces-over-ebola-outbreak-2026-06-29/) | Reuters | 2026-06-29T19:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Cases Pass 1,200 with 360 Deaths](https://www.breitbart.com/africa/2026/06/29/dr-congo-ebola-cases-pass-1200-with-360-deaths/amp/) | breitbart.com | 2026-06-29T18:58+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak spreads to fourth province, 360 dead](https://timesofindia.indiatimes.com/world/rest-of-world/dr-congo-ebola-outbreak-spreads-to-fourth-province-360-dead/amp_articleshow/132075364.cms) | The Times of India | 2026-06-29T16:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
