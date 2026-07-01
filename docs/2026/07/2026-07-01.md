@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-01
-Generated at: 2026-07-01T13:16
+Generated at: 2026-07-01T13:40
 Search window: 7 day(s) ending 2026-07-01
 
 ## Executive scan
@@ -10,16 +10,16 @@ Search window: 7 day(s) ending 2026-07-01
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News; 2026-07-01T14:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa; 2026-06-30T08:44+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/) (PubMed Infectious Disease Search; 2026-06-30T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (37), Policy, surveillance, and public health infrastructure (2), Major epidemiology studies (1)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (38), Policy, surveillance, and public health infrastructure (2), Major epidemiology studies (1)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News)
-- Newly tracked story cluster: 5 item(s) across 5 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 5 source(s).
+- Newly tracked story cluster: 6 item(s) across 6 source(s).
+- Baseline snapshot created with 6 clustered item(s) across 6 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
 
@@ -39,39 +39,33 @@ Search window: 7 day(s) ending 2026-07-01
 
 ### Ebola virus disease
 - Lead item: [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) (Yahoo)
-- Newly tracked story cluster: 17 item(s) across 12 source(s).
-- Baseline snapshot created with 17 clustered item(s) across 12 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
-### Occupational and environmental epidemiology
-- Lead item: [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 19 item(s) across 15 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 15 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 17 item(s) across 12 source(s); 0 official/primary-source item(s).
+- Topic size: 19 item(s) across 15 source(s); 0 official/primary-source item(s).
 - Lead item: [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) (Yahoo, 2026-07-01T19:34+00:00)
-- Detailed note: Cluster remains active across 17 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) (Yahoo); [Marburg virus death reported in Uganda during devastating Ebola outbreak](https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FqeW80NWwzMWw0M0pRZzhyeG5MZWlIczJYWHlRdF84d0VUUzFXaEFrbHN0bHlLbmRkdllwV3IxTVZ5bmpoRm54Sk50bDB2clZqcUlOVXdGVW9iVmFjWG9nb2NkbUIybUQxdzdtcHhIdjlHSkk0b0lybWhDcERNWGpXSWdxTDh0MDhxVUlnTUFDd3NLa09tV3JSOA?oc=5) (The Independent); [What is Ebola and are there cases in the UK?](https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TEJkTDI5Q00yQXBNRHc4UzMtanVuUFhwaEN6aTVXeDZkNTNtTzdtY0NRSm10SDF1YzZ3cGNJdlU4WGNZaEp6bm14SjdTNWdhd183Y1NnLWVrZw?oc=5) (BBC); [Africa CDC confirms Marburg virus death, threatening complications to Ebola outbreak](https://news.google.com/rss/articles/CBMingFBVV95cUxNbFBNOVAyMHBoY3hJSDRtVjdHaGhtMEpWcVVSQTBQQ0Q2cmRyRmxVOTFSVXNESkxFZ3BCV1pRWFZqN2hfSnhiNE90bjNpa0d6OWNLbUJjeXVwZWhWV1VvMFExbmFvV213UmNCM0w5WDBGZnl4VnhadXdzb210TEI3SGExbVZmRVFmcmM2WFVGR3RtNWJNdy1iQzgyY0hfUQ?oc=5) (The Independent); [American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXR1TnZvNUVIVVYzTnJXSW9vYlFkbG4yOExvSVJTLUVoZ09qVlFrb1RnN1pTUUJYeExwbVF4Wi1XTGxabUxxSzNabFRHTzJKNU1MQ1NuZl9aV3ZKdkllX0l1RFRobWVjNngzRWZlUS1ZUDJpUk1ZOFFXWTZ3OVlIYUpmWUxHajhRVlRQUkhSUnFFNEhaa1RLMnA4b1M0cTVWNFJCck9XRE9qZ1VZ0gGyAUFVX3lxTFBZWEVENWx1NDRTOXktZUstTlpnSk9nWXNNUnQ3bGVlUFppTG13amFaQjZGUk9NQVNLQ3FreTNmTXQ2WlBfTHJNaWlFbzM0NzNZOUVVaDFnOERoVmJNbUpSbXRUZ3FSSTdKb0JzRTMtOHBFVDBfVGZKZW1GREl3UmVDWENfdFNlekZCNHNfWU5rOWJiV1F5UkhBQWRORDN4VGJxSDI4aU5jLVZKU2ROZXdoQVE?oc=5) (ABC News - Breaking News, Latest News and Videos)
+- Detailed note: Cluster remains active across 19 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) (Yahoo); [Marburg virus death reported in Uganda during devastating Ebola outbreak](https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FqeW80NWwzMWw0M0pRZzhyeG5MZWlIczJYWHlRdF84d0VUUzFXaEFrbHN0bHlLbmRkdllwV3IxTVZ5bmpoRm54Sk50bDB2clZqcUlOVXdGVW9iVmFjWG9nb2NkbUIybUQxdzdtcHhIdjlHSkk0b0lybWhDcERNWGpXSWdxTDh0MDhxVUlnTUFDd3NLa09tV3JSOA?oc=5) (The Independent); [Ebola outbreak could cost Africa $3.6bn, says UN](https://news.google.com/rss/articles/CBMingFBVV95cUxOUDR5VzJFU3YxbDZzMWxFQUxEN20xdVVzMHVyMjFiOHk2VmdPQ3kwa3ZWTTlEM214ajB1N3otUi1OV19UZF9JRlNIVjVBQy0xMUlfR0xOOE1jeWdobjNrM0pCWjNEUDEyay1WY2x3OFdzV0ktRkFqVVR2VXNsUnNzRUhtSzNRSDB6c0lnZFZKQUFwRTBhcWVFOFlOcjhmQdIBogFBVV95cUxPa3Z1LThrel81anRPak9tSy15YlFaVzFLanp0VEFYdmJiSWo2VkRVR211RXp0NHJoTFRUYXhiSm1zbVV2UUtSazdudWJmWUxxeGV4b21pb3hvV25fV1l3d2l3dWs2YzZKYTVFNGlGUjZSd2xtZ2hYTjliUElkNV9fdm5xSHBoS3ZmWGI3SVdjUmVnSkIzNnFLYnZBSTFiM1QySHc?oc=5) (Kuwait Times); [What is Ebola and are there cases in the UK?](https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TEJkTDI5Q00yQXBNRHc4UzMtanVuUFhwaEN6aTVXeDZkNTNtTzdtY0NRSm10SDF1YzZ3cGNJdlU4WGNZaEp6bm14SjdTNWdhd183Y1NnLWVrZw?oc=5) (BBC); [Africa CDC confirms Marburg virus death, threatening complications to Ebola outbreak](https://news.google.com/rss/articles/CBMingFBVV95cUxNbFBNOVAyMHBoY3hJSDRtVjdHaGhtMEpWcVVSQTBQQ0Q2cmRyRmxVOTFSVXNESkxFZ3BCV1pRWFZqN2hfSnhiNE90bjNpa0d6OWNLbUJjeXVwZWhWV1VvMFExbmFvV213UmNCM0w5WDBGZnl4VnhadXdzb210TEI3SGExbVZmRVFmcmM2WFVGR3RtNWJNdy1iQzgyY0hfUQ?oc=5) (The Independent)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 8 item(s) across 4 source(s); 7 official/primary-source item(s).
+- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
+- Topic size: 6 item(s) across 6 source(s); 2 official/primary-source item(s).
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News, 2026-07-01T14:00+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
-- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) (ABC News - Breaking News, Latest News and Videos); [Cruise ship faces second norovirus outbreak in a month, 20 people sick](https://www.usatoday.com/story/travel/cruises/2026/07/01/norovirus-outbreak-national-geographic-cruise-ship/90766847007/) (USA Today); [A patient is being tested for suspected Ebola in a Glasgow hospital, PA understands. A Public Health Scotland spokesperson said: "There are currently no confirmed cases of Ebola in Scotland and the risk to the general public remains low." #Ebola #Glasgow](https://www.tiktok.com/@skynews/video/7657280842816916758) (TikTok)
+- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) (ABC News - Breaking News, Latest News and Videos); [145 People Sickened In Norovirus Outbreaks On Cruise Ships: What To Know](https://dailyvoice.com/virginia/arlington/145-people-sickened-in-norovirus-outbreaks-on-cruise-ships-what-to-know/) (dailyvoice.com); [Cruise ship faces second norovirus outbreak in a month, 20 people sick](https://www.usatoday.com/story/travel/cruises/2026/07/01/norovirus-outbreak-national-geographic-cruise-ship/90766847007/) (USA Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -92,11 +86,11 @@ Search window: 7 day(s) ending 2026-07-01
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio, 2026-06-30T19:41+00:00)
-- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio); [Ebola response worker who traveled from DRC to France is first in outbreak to test positive outside of Africa](https://www.cnn.com/2026/06/24/world/france-ebola-patient) (CNN); [Scots hospital ward partially closed due to a 'suspected Ebola virus' case](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMF81SS00Y2JubUpJZHhYaFRmbTg4bUt6Rm0wWm9tMjdvX1gwQ3oyOW9CRGFhYUJhWnk2ajJreTdieVM5SU03TzV0VGI2OGI0d3RRbUR0REFTTlRXbGw3akZlbXFMWUs1Z21PaVNIT0FtVi1UaEJEaGRvbDZkWUxaQkxTWF9nNEZfaGk4R2toQVlHYnhINzRVTWFOcjEzUEFOMUp0QkZRbno?oc=5) (STV News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio); [Scots hospital ward partially closed due to a 'suspected Ebola virus' case](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMF81SS00Y2JubUpJZHhYaFRmbTg4bUt6Rm0wWm9tMjdvX1gwQ3oyOW9CRGFhYUJhWnk2ajJreTdieVM5SU03TzV0VGI2OGI0d3RRbUR0REFTTlRXbGw3akZlbXFMWUs1Z21PaVNIT0FtVi1UaEJEaGRvbDZkWUxaQkxTWF9nNEZfaGk4R2toQVlHYnhINzRVTWFOcjEzUEFOMUp0QkZRbno?oc=5) (STV News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
@@ -388,16 +382,6 @@ Search window: 7 day(s) ending 2026-07-01
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Electronic Surveillance Monthly Bulletin (May 2026)
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-30T08:44+00:00
-- URL: https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026
-- Category: Outbreaks and emerging infections
-- Summary: Publications mongem@who.int Tue, 30/06/2026 - 09:44 The Bulletin provides standardized updates on eSURV/ISS implementation, key performance indicators in WHO AFRO, aiding stakeholders in monitoring active surveillance progress, addressing gaps, and guiding evidence-based decisions at regional and national, and subnational levels.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.
 - Source: PubMed Infectious Disease Search
 - Date: 2026-06-30T00:00
@@ -428,14 +412,24 @@ Search window: 7 day(s) ending 2026-07-01
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Marburg virus death reported in Uganda during devastating Ebola outbreak
+- Source: The Independent
+- Date: 2026-07-01T18:20+00:00
+- URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FqeW80NWwzMWw0M0pRZzhyeG5MZWlIczJYWHlRdF84d0VUUzFXaEFrbHN0bHlLbmRkdllwV3IxTVZ5bmpoRm54Sk50bDB2clZqcUlOVXdGVW9iVmFjWG9nb2NkbUIybUQxdzdtcHhIdjlHSkk0b0lybWhDcERNWGpXSWdxTDh0MDhxVUlnTUFDd3NLa09tV3JSOA?oc=5
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Marburg virus death reported in Uganda during devastating Ebola outbreak](https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FqeW80NWwzMWw0M0pRZzhyeG5MZWlIczJYWHlRdF84d0VUUzFXaEFrbHN0bHlLbmRkdllwV3IxTVZ5bmpoRm54Sk50bDB2clZqcUlOVXdGVW9iVmFjWG9nb2NkbUIybUQxdzdtcHhIdjlHSkk0b0lybWhDcERNWGpXSWdxTDh0MDhxVUlnTUFDd3NLa09tV3JSOA?oc=5) | The Independent | 2026-07-01T18:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Israel changes age for second measles vaccine in effort to stop outbreak](https://www.haaretz.com/science-and-health/2026-07-01/ty-article/israel-changes-age-for-second-measles-vaccine-in-effort-to-stop-outbreak/0000019f-1e29-d7c2-a79f-9f391c510000) | Haaretz | 2026-07-01T18:01+00:00 | Outbreaks and emerging infections
   A total of 1,226 patients were hospitalized over the course of the outbreak, although no measles patients are currently hospitalized. Since the outbreak began , more than 3,700 people have been diagnosed with measles. The ministry estimates that at least another 10,000 Israelis were infected but never diagnosed.
 - [Bangladesh Measles Outbreak Tops 100,000: How Vaccine Bureaucracy Killed 716 Children](https://www.techtimes.com/articles/319470/20260701/bangladesh-measles-outbreak-tops-100000-how-vaccine-bureaucracy-killed-716-children.htm) | Tech Times | 2026-07-01T17:58+00:00 | Outbreaks and emerging infections
   The country's Directorate General of Health Services logged 1,004 new suspected cases in a single 24-hour window and reported four additional deaths, bringing the cumulative toll since mid-March to 100,211 suspected cases, 11,851 laboratory-confirmed infections, and 716 deaths, the majority of them children under five. Measles, which requires at least 92 to 94 percent population immunity to interrupt transmission, circulated through a country whose vaccine coverage had collapsed from 88.6 percent in 2019 to an estimated 57 percent by 2025 — a gap that took years to accumulate and a single political transition to accelerate into catastrophe. Bangladesh's measles outbreak crossed 100,000 suspected cases on Sunday, June 29 — the largest active single-country measles outbreak currently tracked anywhere in the world.
+- [Ebola outbreak could cost Africa $3.6bn, says UN](https://news.google.com/rss/articles/CBMingFBVV95cUxOUDR5VzJFU3YxbDZzMWxFQUxEN20xdVVzMHVyMjFiOHk2VmdPQ3kwa3ZWTTlEM214ajB1N3otUi1OV19UZF9JRlNIVjVBQy0xMUlfR0xOOE1jeWdobjNrM0pCWjNEUDEyay1WY2x3OFdzV0ktRkFqVVR2VXNsUnNzRUhtSzNRSDB6c0lnZFZKQUFwRTBhcWVFOFlOcjhmQdIBogFBVV95cUxPa3Z1LThrel81anRPak9tSy15YlFaVzFLanp0VEFYdmJiSWo2VkRVR211RXp0NHJoTFRUYXhiSm1zbVV2UUtSazdudWJmWUxxeGV4b21pb3hvV25fV1l3d2l3dWs2YzZKYTVFNGlGUjZSd2xtZ2hYTjliUElkNV9fdm5xSHBoS3ZmWGI3SVdjUmVnSkIzNnFLYnZBSTFiM1QySHc?oc=5) | Kuwait Times | 2026-07-01T17:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [What is Ebola and are there cases in the UK?](https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TEJkTDI5Q00yQXBNRHc4UzMtanVuUFhwaEN6aTVXeDZkNTNtTzdtY0NRSm10SDF1YzZ3cGNJdlU4WGNZaEp6bm14SjdTNWdhd183Y1NnLWVrZw?oc=5) | BBC | 2026-07-01T17:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC confirms Marburg virus death, threatening complications to Ebola outbreak](https://news.google.com/rss/articles/CBMingFBVV95cUxNbFBNOVAyMHBoY3hJSDRtVjdHaGhtMEpWcVVSQTBQQ0Q2cmRyRmxVOTFSVXNESkxFZ3BCV1pRWFZqN2hfSnhiNE90bjNpa0d6OWNLbUJjeXVwZWhWV1VvMFExbmFvV213UmNCM0w5WDBGZnl4VnhadXdzb210TEI3SGExbVZmRVFmcmM2WFVGR3RtNWJNdy1iQzgyY0hfUQ?oc=5) | The Independent | 2026-07-01T15:21+00:00 | Outbreaks and emerging infections
@@ -443,6 +437,8 @@ Search window: 7 day(s) ending 2026-07-01
 - [American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXR1TnZvNUVIVVYzTnJXSW9vYlFkbG4yOExvSVJTLUVoZ09qVlFrb1RnN1pTUUJYeExwbVF4Wi1XTGxabUxxSzNabFRHTzJKNU1MQ1NuZl9aV3ZKdkllX0l1RFRobWVjNngzRWZlUS1ZUDJpUk1ZOFFXWTZ3OVlIYUpmWUxHajhRVlRQUkhSUnFFNEhaa1RLMnA4b1M0cTVWNFJCck9XRE9qZ1VZ0gGyAUFVX3lxTFBZWEVENWx1NDRTOXktZUstTlpnSk9nWXNNUnQ3bGVlUFppTG13amFaQjZGUk9NQVNLQ3FreTNmTXQ2WlBfTHJNaWlFbzM0NzNZOUVVaDFnOERoVmJNbUpSbXRUZ3FSSTdKb0JzRTMtOHBFVDBfVGZKZW1GREl3UmVDWENfdFNlekZCNHNfWU5rOWJiV1F5UkhBQWRORDN4VGJxSDI4aU5jLVZKU2ROZXdoQVE?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-07-01T15:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVERtZkpCMzNrZ1lKNHVlQ1RaS2N1QVcyaVRMT3JTV2puMTVvWm1IUEhVWklQVVFteDkyWEtXbmRiRHY5alpBN0hydEJuZDF6WXhxa003NXRqdw?oc=5) | BBC | 2026-07-01T12:02+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [In the frontlines of a safe and dignified Ebola outbreak response in Uganda - WHO | Regional Office for Africa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUVnWkxjeHdHY3JlTkNpVTZuNmtEclB3NVRhMzBVMms3eUk4dEJtNHFLbERWdE5iUy02YVBacUJjU29ROVN1NkRYbWxQN0I2S1VoNVJpXzN6cEZtMEI4M2xNcjhLU1c5bzdHSkN5WjFwWmpMUnRtX3JoMUY0dU1QcGptUVJQVk9qZnFEY0owY2NxZFlIU0s0RnE3c1Z0c3NmbTdMUHVBa0JCclE?oc=5) | WHO | 2026-07-01T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on South Sudan](https://www.straitstimes.com/world/ebola-cases-traced-to-congo-province-bordering-on-south-sudan) | The Straits Times | 2026-07-01T09:19+00:00 | Outbreaks and emerging infections
   South Sudan is at high risk due to weak health infrastructure and cross-border movement, despite activating a preparedness plan covering 15 counties. The outbreak involves the Bundibugyo strain, with no approved vaccine, amid South Sudan's ongoing food insecurity and a severe cholera outbreak worsening humanitarian challenges. Sign up now: Get ST's newsletters delivered to your inbox Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan.
@@ -452,21 +448,19 @@ Search window: 7 day(s) ending 2026-07-01
   Limited detail was available from feed metadata alone.
 - [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) | ABC News - Breaking News, Latest News and Videos | 2026-07-01T07:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzg0S0Ywb21jdXZkMUh4NGZMQ3g0YnU3dHhRVFlIR0txMDIwajJxcWM2eDY0ejBLTWRkTEVfa0M5OERFRWRZN2xNb3dORk1QWEE3dmVoVGQtQ0Z0amRDU2RvR1duOUw5bkd3ZmZqellaYi1TcDRSMGlxODN4RlpJbTRfdElOVFUwV1FGSDNkbHJDQ0VOMmd5ZGxjLWJJbjQ0SEk4ZDZyeGZiU3V3SzlJQmd0cnFmQ1hrNVcxUzhIYWFBd3RWOUFJ?oc=5) | Health and Me | 2026-07-01T05:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) | Herald Malaysia Online | 2026-07-01T04:47+00:00 | Outbreaks and emerging infections
   Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the mountain monk A Buddhist monk prays alongside devotees on the occasion of Poson Poya (full moon), a religious festival that marks the arrival of Buddhism in Sri Lanka, at the Kelaniya temple on the outskirts of Colombo on June 29. Sri Lanka recorded more than 51,000 dengue cases and 28 deaths in the first six months of this year, according to government data. According to the latest government data, Sri Lanka registered 53,159 dengue cases and 31 deaths until June.
-- [UK patient tested for possible Ebola as cases rise in Africa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkFJZjBYMFk5U1N6ZHJoR2NHLTVsMFpWVjJwUG5rZ3Z1Vkt2MFo0anRnYW4xSHAyVHpydlFJM3F0ajhGNTU5Zml1elBMbnZCU1FrYzhyX0pYX3MtR0Y4UEx6SFVrNTRHRmRMTHpPM20tREhhT3RLV2h1YW9OMzFxRWhTVVhIaXNVdTJpNVp6aWpPR2JFNy00R2w0cEpFZnJ5RUdtc1paZGPSAagBQVVfeXFMTmZBSWYwWDBZOVNTemRyaEdjRy01bDBaVlYycFBua2d2dVZLdjBaNGp0Z2FuMUhwMlR6cnZRSTNxdGo4RjU1OWZpdXpQTG52QlNRa2M4cl9KWF9zLUdGOFBMekhVazU0R0ZkTEx6TzNtLURIYU90S1dodWFvTjMxcUVoU1VYSGlzVXUyaTVaemlqT0diRTctNEdsNHBKRWZyeUVHbXNaWmRj?oc=5) | South China Morning Post | 2026-06-30T22:05+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola outbreak will cause major harm to Africa’s economies, UN warns](https://news.google.com/rss/articles/CBMingFBVV95cUxQRXlrS1RRSEZ0em5LeWNoVy1zcW05ZmM0SERDWF9tYWxyM0R4LVktdTgxcTFBWVNaNC1ub1RiQWlJdHpIUWczQ3pvQWJWaFJHaU5SZVVqTFppYS1xMlBtdDBhM1BNZ2Z4cVREaExuLTcwaHJVLUJ5c0lNV3VBeGxCbzk3M051NFhCajNrRjZ6NlptckZCSGdwdW5pbGN4UQ?oc=5) | CIDRAP | 2026-06-30T20:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [World News in Brief: Aid convoy attacked in South Sudan, Ebola threatens livelihoods, UN deplores death penalty](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pZS1TZXZjUDF1M0hwY1hManNqS3RTQjZOVUxoSVE0MEpUNGFvWkstd1lHMUxubk8wTC0zcjRYSnpvTmhrS3BwOFFRalFSX1k1bmJGZ1k0VQ?oc=5) | UN News | 2026-06-30T20:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Person in UK Tested for Possible Ebola as Cases Rise in Africa](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGtXMUZIbnlnRW9hMGNYSHcwMVhYb1NRLVAtWVhaeVVQMzdpWkhVeHVWS2JCanc0ZUxsUnJNY1RKZ1FibVhCRUVYcUx2TTB5LUZkVU1XQVZNdW1ka1lSVkh2N3ltV29ackVsaGRic3lEQmRqdnI4R21MREtaSHpQYnQ2eDdXRTFDTG1zM1RjNVJZTmtxSmRjWnY0M09LUFY1NXJlNnM2UXphVmpsczJZeWVVZw?oc=5) | Bloomberg.com | 2026-06-30T20:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) | NCPR: North Country Public Radio | 2026-06-30T19:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Patient tested for suspected Ebola virus at Glasgow hospital](https://news.google.com/rss/articles/CBMiXEFVX3lxTE55ajkxRzlVTXpDY1lxYWJvZFlaYlVpNFVxdVEyMzdNUDQyOVZrUzg3cE0xRndpd1ZaLXBZYy1jRUlPbjhPanlKS2JzMnEwMHNvc050bmFVeHM3eDhB?oc=5) | BBC | 2026-06-30T18:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak could cost Africa up to $3.6 billion, UN says](https://news.google.com/rss/articles/CBMivwFBVV95cUxQb0N3SFN5Y0M5eWhsRUFlMDdHcXdRdXVLYWc2c0RWLUV4N1NKSGNSdzJ0N1FpUnI3UFBEblNXcWkzQ1R3REw4QkExblhhaUZZd0ZJN1AzTmdqNjRPbExPaHFfb3l5MHk2MWlHeWwwNDZscjh3bVVMajJwV18xMllDbmNlaGtIQ1prYlNHOVJBbC1QMjN0U1NoWmhCTDdLb2FwMFI3V3RDb2JiblVtdzh1VnI2S3oyRXlBdHV0THZoNA?oc=5) | Reuters | 2026-06-30T15:57+00:00 | Outbreaks and emerging infections
+- [UN warns Ebola outbreak could push nearly 1M more people into poverty in Congo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVU4S05rV0dEY2pRcVJLN2dzMEUwNVg2WkI4MGMzV1dGQWJfS2hzWVJRMWhKdzZFdmFjcm9WZGtUbDEzY1F3ZDNSeDZaWDdUVkVTbkdtSEpnVEsxd3FqQTNNN3RVWHl6N2RqV0hUZkFjREszSUV6cFN4UjNvY1lwWVJVamZzRDVDS1ZfRFhWVnBNQnN4RHNqU1N1eTlQNTBMalhjM3REM2piel9sOHNGRHlUMHdoNnBHd1E?oc=5) | Anadolu Ajansı | 2026-06-30T15:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo bans gatherings in areas far from Ebola outbreak. Some say it limits dissent](https://news.google.com/rss/articles/CBMiekFVX3lxTE5rUUhzNC05TGN0TklCYkd2dm8tSF9QaHNyXzQtdDR4YWFBalk1MDQ3MmQyeWNqazZ6bl8xUWZyVHNCb1RybzFvemtIUlFySkpZY2habFdfMFdtVVFUZko1T1UzWXllbXVjTzJudlg4TU9NNEh1dXNLYkJB?oc=5) | Boston Herald | 2026-06-30T15:13+00:00 | Outbreaks and emerging infections
   Some say it limits dissent Boston Herald
