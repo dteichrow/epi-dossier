@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-01
-Generated at: 2026-07-01T06:43
+Generated at: 2026-07-01T06:57
 Search window: 7 day(s) ending 2026-07-01
 
 ## Executive scan
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-07-01T13:37+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-07-01T13:56+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News; 2026-07-01T14:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa; 2026-06-30T08:44+00:00; Outbreaks and emerging infections; relevance 5/5)
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-01
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa; 2026-06-26T16:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Nepal Battles Bird Flu Outbreak: Over Half a Million Birds Culled](https://www.devdiscourse.com/article/health/3943645-nepal-battles-bird-flu-outbreak-over-half-a-million-birds-culled?amp) (Devdiscourse; 2026-07-01T10:55+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (114), Policy, surveillance, and public health infrastructure (15), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (112), Policy, surveillance, and public health infrastructure (15), Occupational and environmental epidemiology (2)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -24,16 +24,16 @@ Search window: 7 day(s) ending 2026-07-01
 - ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
-- Lead item: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online)
+- Lead item: [Bangladesh on alert for dengue surge as wet weather fuels spread](https://www.trtworld.com/article/c630b623063a) (TRT World)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Magzter now explicitly uses investigation or monitoring language.
-- Herald Malaysia Online now includes deaths or fatal cases in the story frame.
+- TRT World now includes deaths or fatal cases in the story frame.
 
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 112 item(s) across 78 source(s).
-- Baseline snapshot created with 112 clustered item(s) across 78 source(s).
+- Newly tracked story cluster: 110 item(s) across 77 source(s).
+- Baseline snapshot created with 110 clustered item(s) across 77 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -45,8 +45,8 @@ Search window: 7 day(s) ending 2026-07-01
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 112 item(s) across 78 source(s); 2 official/primary-source item(s).
-- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-01T13:37+00:00)
+- Topic size: 110 item(s) across 77 source(s); 2 official/primary-source item(s).
+- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-01T13:56+00:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [A Risky Burial in the Heart of an Ebola Outbreak](https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html) (The New York Times); [Ebola outbreak could cost Africa up to $3.6b: UN](https://www.tbsnews.net/worldbiz/africa/ebola-outbreak-could-cost-africa-36b-un-1476941) (The Business Standard); [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://www.healthandme.com/health-news/ebola-scare-in-uk-suspected-patient-at-glasgow-hospital-tests-negative-article-154816804) (Health and Me)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -68,29 +68,29 @@ Search window: 7 day(s) ending 2026-07-01
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Miscellaneous signals
+- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Lead item: [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa, 2026-06-30T08:44+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa); [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/) (PubMed Infectious Disease Search); [Colombian expert warns of potential infectious disease risks after Venezuela earthquakes](https://www.bastillepost.com/global/article/5979009-colombian-expert-warns-of-potential-infectious-disease-risks-after-venezuela-earthquakes) (bastillepost.com)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online, 2026-07-01T04:47+00:00)
-- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
-- Evidence notes: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka - newspaper](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Bangladesh warns of dengue spike amid rains](https://news.az/news/bangladesh-warns-of-dengue-spike-amid-rains) (Latest news from Azerbaijan)
+- Lead item: [Bangladesh on alert for dengue surge as wet weather fuels spread](https://www.trtworld.com/article/c630b623063a) (TRT World, 2026-07-01T07:37+00:00)
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Thai Church marks Rerum Novarum anniversary with renewed call for labor justice Pope Leo XIV updates the Constitution of the Vicariate of Rome Pope’s final appeal to Society of Saint Pius X: Do not tear the seamless garment of Christ Pope: All Christians called to celebrate 2033 anniversary of Christ's Redemption...
+- Evidence notes: [Bangladesh on alert for dengue surge as wet weather fuels spread](https://www.trtworld.com/article/c630b623063a) (TRT World); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka - newspaper](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Avian influenza and H5N1
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Nepal Battles Bird Flu Outbreak: Over Half a Million Birds Culled](https://www.devdiscourse.com/article/health/3943645-nepal-battles-bird-flu-outbreak-over-half-a-million-birds-culled?amp) (Devdiscourse, 2026-07-01T10:55+00:00)
-- Detailed note: The outbreak first emerged in March and has extended to 11 of Nepal’s 77 districts, including Kathmandu. No human infections have been reported yet, officials confirmed. Here's what happened next Australian Broadcasting Corporation
-- Evidence notes: [Nepal Battles Bird Flu Outbreak: Over Half a Million Birds Culled](https://www.devdiscourse.com/article/health/3943645-nepal-battles-bird-flu-outbreak-over-half-a-million-birds-culled?amp) (Devdiscourse); [H5N1 emerged in Asia 30 years ago. Here's what happened next](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (Australian Broadcasting Corporation)
+- Detailed note: The outbreak first emerged in March and has extended to 11 of Nepal’s 77 districts, including Kathmandu. No human infections have been reported yet, officials confirmed.
+- Evidence notes: [Nepal Battles Bird Flu Outbreak: Over Half a Million Birds Culled](https://www.devdiscourse.com/article/health/3943645-nepal-battles-bird-flu-outbreak-over-half-a-million-birds-culled?amp) (Devdiscourse)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa, 2026-06-30T08:44+00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa); [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -323,7 +323,7 @@ Search window: 7 day(s) ending 2026-07-01
 ## Highest priority items
 ### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-01T13:37+00:00
+- Date: 2026-07-01T13:56+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -425,12 +425,14 @@ Search window: 7 day(s) ending 2026-07-01
 ## Other notable readings
 - [Ebola outbreak could cost Africa up to $3.6b: UN](https://www.tbsnews.net/worldbiz/africa/ebola-outbreak-could-cost-africa-36b-un-1476941) | The Business Standard | 2026-07-01T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Bangladesh on alert for dengue surge as wet weather fuels spread](https://www.trtworld.com/article/c630b623063a) | TRT World | 2026-07-01T07:37+00:00 | Outbreaks and emerging infections
+  “But the bigger challenge will likely be outside the capital, where several districts are at risk of a much steeper rise in infections.” In 2023, more than 321,000 people were infected and 1,705 died. Dengue deaths rose from one at the end of May to 18 by the end of June, while reported infections climbed more than eightfold, from 714 to 5,924, according to health ministry data. The spread of the disease has accelerated in recent weeks, raising concerns following the nation's deadliest ever outbreak in 2023.
 - [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) | ABC News - Breaking News, Latest News and Videos | 2026-07-01T07:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://www.healthandme.com/health-news/ebola-scare-in-uk-suspected-patient-at-glasgow-hospital-tests-negative-article-154816804) | Health and Me | 2026-07-01T05:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) | Herald Malaysia Online | 2026-07-01T04:47+00:00 | Outbreaks and emerging infections
-  Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the mountain monk A Buddhist monk prays alongside devotees on the occasion of Poson Poya (full moon), a religious festival that marks the arrival of Buddhism in Sri Lanka, at the Kelaniya temple on the outskirts of Colombo on June 29. Sri Lanka recorded more than 51,000 dengue cases and 28 deaths in the first six months of this year, according to government data. According to the latest government data, Sri Lanka registered 53,159 dengue cases and 31 deaths until June.
+  Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Thai Church marks Rerum Novarum anniversary with renewed call for labor justice Pope Leo XIV updates the Constitution of the Vicariate of Rome Pope’s final appeal to Society of Saint Pius X: Do not tear the seamless garment of Christ Pope: All Christians called to celebrate 2033 anniversary of Christ's Redemption Sister Smerilli new Prefect of the Dicastery for Integral Human Development A Buddhist monk prays alongside devotees on the occasion of Poson Poya (full moon), a religious festival that marks the arrival of Buddhism in Sri Lanka, at the Kelaniya temple on the outskirts of Colombo on June 29. Sri Lanka recorded more than 51,000 dengue cases and 28 deaths in the first six months of this year, according to government data. According to the latest government data, Sri Lanka registered 53,159 dengue cases and 31 deaths until June.
 - [UK patient tested for possible Ebola as cases rise in Africa](https://amp.scmp.com/news/world/europe/article/3358955/uk-patient-tested-possible-ebola-cases-rise-africa) | South China Morning Post | 2026-06-30T22:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak will cause major harm to Africa’s economies, UN warns](https://www.cidrap.umn.edu/ebola/ebola-outbreak-will-cause-major-harm-africa-s-economies-un-warns) | CIDRAP | 2026-06-30T20:27+00:00 | Outbreaks and emerging infections
@@ -446,8 +448,6 @@ Search window: 7 day(s) ending 2026-07-01
 - [UN warns Ebola outbreak in DRC could push one million more people into poverty](https://eastleighvoice.co.ke/democratic-republic-of-congo/373837/un-warns-ebola-outbreak-in-drc-could-push-one-million-more-people-into-poverty?amp\=1) | The Eastleigh Voice | 2026-06-30T12:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [United Nations Warns Ebola Outbreak Could Cost Africa $3.6 Billion](https://www.legit.ng/world/1716945-united-nations-warns-ebola-outbreak-cost-africa-36-billion/) | Legit.ng | 2026-06-30T11:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DRC Ebola Toll Hits 1,307 Cases as Outbreak Expands](https://www.telesurenglish.net/drc-ebola-toll-hits-1307-cases/) | teleSUR English | 2026-06-30T11:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Could Push Nearly One Million More People into Poverty and Cost Africa Billions, warns UN Development Programme](https://www.undp.org/press-releases/ebola-outbreak-could-push-nearly-one-million-more-people-poverty-and-cost-africa-billions-warns-un-development-programme) | UNDP | 2026-06-30T08:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
