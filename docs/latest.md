@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T06:48
+Generated at: 2026-07-02T06:58
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -25,10 +25,10 @@ Search window: 7 day(s) ending 2026-07-02
 - facebook.com now includes quarantine language.
 
 ### Dengue and arboviruses
-- Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India)
+- Lead item: [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) (Whalesbook)
 - Newly tracked story cluster: 4 item(s) across 4 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- Magzter now explicitly uses investigation or monitoring language.
+- Whalesbook now explicitly uses investigation or monitoring language.
 - Herald Malaysia Online now includes deaths or fatal cases in the story frame.
 
 ### Ebola virus disease
@@ -57,7 +57,7 @@ Search window: 7 day(s) ending 2026-07-02
 - Topic size: 9 item(s) across 8 source(s); 2 official/primary-source item(s).
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News, 2026-07-01T14:00+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
-- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [WHO says cruise ship-linked hantavirus outbreak over](https://www.cp24.com/news/world/2026/07/02/who-says-cruise-ship-linked-hantavirus-outbreak-over/) (CP24); [WHO declares hantavirus outbreak linked to cruise ship over](https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-hantavirus-outbreak-linked-cruise-ship-over-2026-07-02/) (Reuters); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) (ABC News - Breaking News, Latest News and Videos)
+- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) (ABC News - Breaking News, Latest News and Videos); [Hantavirus Outbreak Linked to Cruise Ship Declared Over](https://www.devdiscourse.com/article/health/3944225-hantavirus-outbreak-linked-to-cruise-ship-declared-over) (Devdiscourse); [BREAKING: The World Health Organization (WHO) on ​Thursday declared the ‌hantavirus outbreak linked to a cruise ​ship over after ​the last identified contact ⁠of an ​exposed person completed ​quarantine and tested negative for the virus. The outbreak,](https://www.facebook.com/PhilippineSTAR/photos/breaking-the-world-health-organization-who-on-thursday-declared-the-hantavirus-o/1541130318050842/) (facebook.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -71,10 +71,10 @@ Search window: 7 day(s) ending 2026-07-02
 
 ### Dengue and arboviruses
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
-- Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India, 2026-07-02T12:36+00:00)
+- Lead item: [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) (Whalesbook, 2026-07-02T07:25+00:00)
 - Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
-- Evidence notes: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India); [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) (news - Mongabay); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Evidence notes: [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) (Whalesbook); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue Cases Rising in Bangladesh, Experts Issue Warning](https://www.easterneye.biz/bangladesh-dengue-surge-experts-warn-cases-soar/) (EasternEye)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### COVID-19 and SARS-CoV-2
@@ -424,16 +424,10 @@ Search window: 7 day(s) ending 2026-07-02
 
 
 ## Other notable readings
-- [WHO says cruise ship-linked hantavirus outbreak over](https://www.cp24.com/news/world/2026/07/02/who-says-cruise-ship-linked-hantavirus-outbreak-over/) | CP24 | 2026-07-02T13:38+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [WHO declares hantavirus outbreak linked to cruise ship over](https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-hantavirus-outbreak-linked-cruise-ship-over-2026-07-02/) | Reuters | 2026-07-02T13:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) | The Times of India | 2026-07-02T12:36+00:00 | Outbreaks and emerging infections
-  New EPF Scheme 2026: What it means for your provident fund savings Trump tariffs uncertainty: Indian exporters see more enquiries from US, but not many orders - here’s why Silver price crash: It was being called the 'new gold'. Employees’ Provident Funds Scheme 2026 notified: Top things to know about contributions, withdrawals & Aadhaar details In case you want to opt out, please click "Do Not Sell or Share My Personal Information" link in the footer of this page.
 - [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) | The Guardian | 2026-07-02T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) | news - Mongabay | 2026-07-02T05:45+00:00 | Outbreaks and emerging infections
-  Sri Lanka has recorded more than 56,422 dengue cases from January to July 1, adding pressure to the country’s healthcare system as the caseload continues to increase. DEMATAGODA, Sri Lanka — Niroshan Peters, 54, a resident of Dematagoda , a densely populated suburb in Colombo , has no option but to live and work in an environment frequently polluted due to careless waste disposal. According to academics, unplanned urbanization and climate change are factors contributing to the spike in dengue cases in South Asia and many other regions.
+- [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) | Whalesbook | 2026-07-02T07:25+00:00 | Outbreaks and emerging infections
+  The disease, transmitted by the non-native southern house mosquito ( Culex quinquefasciatus ), has caused the number of native Hawaiian honeycreeper species to plummet from 55 to just 17. A recent study found the parasite present in 63 out of 64 surveyed sites across Kauai, Oahu, Maui, and Hawaii islands. As environmental, social, and governance (ESG) reporting standards become more stringent for corporations, the impact of climate change on biodiversity is increasingly recognized as a material business risk.
 - [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) | Temple Daily Telegram | 2026-07-02T05:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
@@ -460,9 +454,15 @@ Search window: 7 day(s) ending 2026-07-02
   Limited detail was available from feed metadata alone.
 - [In the frontlines of a safe and dignified Ebola outbreak response in Uganda - WHO | Regional Office for Africa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUVnWkxjeHdHY3JlTkNpVTZuNmtEclB3NVRhMzBVMms3eUk4dEJtNHFLbERWdE5iUy02YVBacUJjU29ROVN1NkRYbWxQN0I2S1VoNVJpXzN6cEZtMEI4M2xNcjhLU1c5bzdHSkN5WjFwWmpMUnRtX3JoMUY0dU1QcGptUVJQVk9qZnFEY0owY2NxZFlIU0s0RnE3c1Z0c3NmbTdMUHVBa0JCclE?oc=5) | WHO | 2026-07-01T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Amid Ebola Outbreak, Congo Pastors Pray and Fight Misinformation](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2ZWTUpxWkM2Q3dyZld2YXU5OXlkcjZyR0ZWNEctT0t1UmRnaFJtM19MaGNNVDJveXBPZ2l2aFdwWjdBZ18tU2tFUUdXQ0psZTdJaldvZ2JRektFemFsMF9KZHRueTVBbUE2NDVlUEpuaVcyN2NQZHRGVDNYVzFmUk5sSHBEbDdu?oc=5) | Christianity Today | 2026-07-01T10:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [A Risky Burial in the Heart of an Ebola Outbreak](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTcnZwT0trM2RkdDJYb3JpMGo4cldHRHF3TDFtc3BJeG95QVpzNmx3YVg0dE94dWo5T2p4VGNrMHpqNjlTSjB3bTdfeFRyYmdSdjhkRHFKTWdLMHpyNlJRM21fc0NyS05FZHlQVnA1aUZ2OFA5NkFSWnRSMzE?oc=5) | The New York Times | 2026-07-01T09:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases on the rise: These countries are at risk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjZhUEVJY3VhVHlfLUZLWmlBVkNzU3FNdFpBVHVsUHFtMDZwQUtiQ0FPcWJ2UGxDUkNFWEJDYVR3TXpTTFBNR1B2MXNqT2VVaTMxNl84LXRlWVpWRWlJWFZONWExRzh2c05GczgxWWxrZE9TTHRJUnFZc3lfTnlpc0xZSWlxUzF5R0ZDQWtkUQ?oc=5) | Modern.az | 2026-07-01T08:18+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) | ABC News - Breaking News, Latest News and Videos | 2026-07-01T07:04+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzg0S0Ywb21jdXZkMUh4NGZMQ3g0YnU3dHhRVFlIR0txMDIwajJxcWM2eDY0ejBLTWRkTEVfa0M5OERFRWRZN2xNb3dORk1QWEE3dmVoVGQtQ0Z0amRDU2RvR1duOUw5bkd3ZmZqellaYi1TcDRSMGlxODN4RlpJbTRfdElOVFUwV1FGSDNkbHJDQ0VOMmd5ZGxjLWJJbjQ0SEk4ZDZyeGZiU3V3SzlJQmd0cnFmQ1hrNVcxUzhIYWFBd3RWOUFJ?oc=5) | Health and Me | 2026-07-01T05:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
