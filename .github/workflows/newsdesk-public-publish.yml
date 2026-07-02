@@ -2,9 +2,9 @@ name: Newsdesk public publish
 
 on:
   schedule:
+    # Keep automated publishes sparse enough for GitHub Pages deployments to finish.
+    # Use workflow_dispatch for urgent refreshes.
     - cron: "17 * * * *"
-    - cron: "47 * * * *"
-    - cron: "5,20,35,50 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -20,7 +20,7 @@ on:
 
 concurrency:
   group: newsdesk-public-publish
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -73,17 +73,5 @@ jobs:
         if: >-
           github.event_name == 'workflow_dispatch' ||
           github.event_name == 'push' ||
-          github.event.schedule == '17 * * * *' ||
-          github.event.schedule == '47 * * * *'
+          github.event_name == 'schedule'
         run: .venv/bin/python src/public_publish.py
-
-      - name: Repair stale Newsdesk publish
-        if: >-
-          github.event_name == 'schedule' &&
-          github.event.schedule != '17 * * * *' &&
-          github.event.schedule != '47 * * * *'
-        env:
-          EPI_DOSSIER_WATCHDOG_STALE_MINUTES: "55"
-          EPI_DOSSIER_WATCHDOG_CHECK_NEW_ITEMS: "true"
-          EPI_DOSSIER_WATCHDOG_SEARCH_WINDOW_DAYS: "7"
-        run: .venv/bin/python src/public_publish_watchdog.py
