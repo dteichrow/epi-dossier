@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T09:09
+Generated at: 2026-07-02T09:16
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -12,23 +12,23 @@ Search window: 7 day(s) ending 2026-07-02
 - [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News; 2026-07-01T14:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/) (PubMed Infectious Disease Search; 2026-06-30T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (44), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (3)
+- Category mix: Outbreaks and emerging infections (44), Policy, surveillance, and public health infrastructure (4), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
-- Lead item: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTJuazNqSTRCbHRZN1VTbWhmWFR1cm04Zzc3RkxPcmRwRXR4eEpTNTFnRkVvT242cWRDTFpud2JEZVJKUjdtNnh4dnpGdnBTbi14elNaMXRyRUhLODZ2NUJZelFLV0xzQnJnTkFoM1VrNDdnRXdpczdVSzBTTEJwb3lIOUw2VjJHUk0tSzZjSl9CV2l0VmVZNtIBlwFBVV95cUxQNEhGc1h5bDlPenJ4aHpKRW1nenV4Y21zZ283Y2ptYU1IU05KaGRxb1FCbU1VZU5HbEN4SmJkQnRyMFVZeWQ2UndUcnV4NmdjeUpGa3FCS0VOcGVrWEp0UlNTZnN4Tm1fRlFveFVCaEtWTFFBalFYdVktVlVoUXJTa3pta3dfTTFWVDRYbDRwcHVFdlRGSjZF?oc=5) (Modern Ghana)
+- Lead item: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMif0FVX3lxTE1neHprV0pMQnhuUnpzVHozUzVub1F5MFJsTC1BRmZMY0ZEdXhSWlA5RERtUEkzM0JnSDFUNDdqbGUwSDJ4Q0NxRTM5aE4wRFVGQVBrWEdJVkZ3YXhVZzN6eEJ4eFMtVFlGLXR4d3F6ZHE1YjFlSlA0M2R6U21nMVE?oc=5) (eNCA)
 - Newly tracked story cluster: 19 item(s) across 18 source(s).
 - Baseline snapshot created with 19 clustered item(s) across 18 source(s).
-- Modern Ghana now includes deaths or fatal cases in the story frame.
+- eNCA now includes deaths or fatal cases in the story frame.
 - The Eastern Herald now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News)
-- Newly tracked story cluster: 13 item(s) across 12 source(s).
-- Baseline snapshot created with 13 clustered item(s) across 12 source(s).
+- Newly tracked story cluster: 14 item(s) across 13 source(s).
+- Baseline snapshot created with 14 clustered item(s) across 13 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
-- MyCentralOregon.com now includes quarantine language.
+- News/Talk/Sports 94.9 WSJM now includes quarantine language.
 
 ### Dengue and arboviruses
 - Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India)
@@ -47,17 +47,17 @@ Search window: 7 day(s) ending 2026-07-02
 ## Major topics
 ### Ebola virus disease
 - Topic size: 19 item(s) across 18 source(s); 0 official/primary-source item(s).
-- Lead item: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTJuazNqSTRCbHRZN1VTbWhmWFR1cm04Zzc3RkxPcmRwRXR4eEpTNTFnRkVvT242cWRDTFpud2JEZVJKUjdtNnh4dnpGdnBTbi14elNaMXRyRUhLODZ2NUJZelFLV0xzQnJnTkFoM1VrNDdnRXdpczdVSzBTTEJwb3lIOUw2VjJHUk0tSzZjSl9CV2l0VmVZNtIBlwFBVV95cUxQNEhGc1h5bDlPenJ4aHpKRW1nenV4Y21zZ283Y2ptYU1IU05KaGRxb1FCbU1VZU5HbEN4SmJkQnRyMFVZeWQ2UndUcnV4NmdjeUpGa3FCS0VOcGVrWEp0UlNTZnN4Tm1fRlFveFVCaEtWTFFBalFYdVktVlVoUXJTa3pta3dfTTFWVDRYbDRwcHVFdlRGSjZF?oc=5) (Modern Ghana, 2026-07-02T14:48+00:00)
+- Lead item: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMif0FVX3lxTE1neHprV0pMQnhuUnpzVHozUzVub1F5MFJsTC1BRmZMY0ZEdXhSWlA5RERtUEkzM0JnSDFUNDdqbGUwSDJ4Q0NxRTM5aE4wRFVGQVBrWEdJVkZ3YXhVZzN6eEJ4eFMtVFlGLXR4d3F6ZHE1YjFlSlA0M2R6U21nMVE?oc=5) (eNCA, 2026-07-02T14:43+00:00)
 - Detailed note: The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6...
-- Evidence notes: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTJuazNqSTRCbHRZN1VTbWhmWFR1cm04Zzc3RkxPcmRwRXR4eEpTNTFnRkVvT242cWRDTFpud2JEZVJKUjdtNnh4dnpGdnBTbi14elNaMXRyRUhLODZ2NUJZelFLV0xzQnJnTkFoM1VrNDdnRXdpczdVSzBTTEJwb3lIOUw2VjJHUk0tSzZjSl9CV2l0VmVZNtIBlwFBVV95cUxQNEhGc1h5bDlPenJ4aHpKRW1nenV4Y21zZ283Y2ptYU1IU05KaGRxb1FCbU1VZU5HbEN4SmJkQnRyMFVZeWQ2UndUcnV4NmdjeUpGa3FCS0VOcGVrWEp0UlNTZnN4Tm1fRlFveFVCaEtWTFFBalFYdVktVlVoUXJTa3pta3dfTTFWVDRYbDRwcHVFdlRGSjZF?oc=5) (Modern Ghana); [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) (The Eastern Herald); [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) (The Guardian); [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) (Temple Daily Telegram); [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) (Magzter)
+- Evidence notes: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMif0FVX3lxTE1neHprV0pMQnhuUnpzVHozUzVub1F5MFJsTC1BRmZMY0ZEdXhSWlA5RERtUEkzM0JnSDFUNDdqbGUwSDJ4Q0NxRTM5aE4wRFVGQVBrWEdJVkZ3YXhVZzN6eEJ4eFMtVFlGLXR4d3F6ZHE1YjFlSlA0M2R6U21nMVE?oc=5) (eNCA); [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) (The Eastern Herald); [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) (The Guardian); [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) (Temple Daily Telegram); [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) (Magzter)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 13 item(s) across 12 source(s); 2 official/primary-source item(s).
+- Topic size: 14 item(s) across 13 source(s); 2 official/primary-source item(s).
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News, 2026-07-01T14:00+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
-- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [WHO declares hantavirus outbreak linked to cruise ship over](https://www.theguardian.com/world/2026/jul/02/hantavirus-ends-who) (The Guardian); [Hantavirus outbreak linked to cruise ship over, WHO says](https://www.yahoo.com/news/science/articles/hantavirus-outbreak-linked-cruise-ship-153857358.html) (yahoo.com); [WHO declares cruise ship-linked hantavirus outbreak over](https://www.thedailystar.net/news/world/news/who-declares-cruise-ship-linked-hantavirus-outbreak-over-4214306) (The Daily Star)
+- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO](https://www.wsjm.com/2026/07/02/hantavirus-outbreak-linked-to-cruise-ship-over-after-last-contact-completes-quarantine-who/) (News/Talk/Sports 94.9 WSJM); [WHO declares hantavirus outbreak linked to cruise ship over](https://www.theguardian.com/world/2026/jul/02/hantavirus-ends-who) (The Guardian); [WHO declares cruise ship-linked hantavirus outbreak over](https://www.thedailystar.net/news/world/news/who-declares-cruise-ship-linked-hantavirus-outbreak-over-4214306) (The Daily Star)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -424,7 +424,9 @@ Search window: 7 day(s) ending 2026-07-02
 
 
 ## Other notable readings
-- [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTJuazNqSTRCbHRZN1VTbWhmWFR1cm04Zzc3RkxPcmRwRXR4eEpTNTFnRkVvT242cWRDTFpud2JEZVJKUjdtNnh4dnpGdnBTbi14elNaMXRyRUhLODZ2NUJZelFLV0xzQnJnTkFoM1VrNDdnRXdpczdVSzBTTEJwb3lIOUw2VjJHUk0tSzZjSl9CV2l0VmVZNtIBlwFBVV95cUxQNEhGc1h5bDlPenJ4aHpKRW1nenV4Y21zZ283Y2ptYU1IU05KaGRxb1FCbU1VZU5HbEN4SmJkQnRyMFVZeWQ2UndUcnV4NmdjeUpGa3FCS0VOcGVrWEp0UlNTZnN4Tm1fRlFveFVCaEtWTFFBalFYdVktVlVoUXJTa3pta3dfTTFWVDRYbDRwcHVFdlRGSjZF?oc=5) | Modern Ghana | 2026-07-02T14:48+00:00 | Outbreaks and emerging infections
+- [Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO](https://www.wsjm.com/2026/07/02/hantavirus-outbreak-linked-to-cruise-ship-over-after-last-contact-completes-quarantine-who/) | News/Talk/Sports 94.9 WSJM | 2026-07-02T16:09+00:00 | Outbreaks and emerging infections
+  Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO News/Talk/Sports 94.9 WSJM
+- [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMif0FVX3lxTE1neHprV0pMQnhuUnpzVHozUzVub1F5MFJsTC1BRmZMY0ZEdXhSWlA5RERtUEkzM0JnSDFUNDdqbGUwSDJ4Q0NxRTM5aE4wRFVGQVBrWEdJVkZ3YXhVZzN6eEJ4eFMtVFlGLXR4d3F6ZHE1YjFlSlA0M2R6U21nMVE?oc=5) | eNCA | 2026-07-02T14:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO declares hantavirus outbreak linked to cruise ship over](https://www.theguardian.com/world/2026/jul/02/hantavirus-ends-who) | The Guardian | 2026-07-02T13:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -461,8 +463,6 @@ Search window: 7 day(s) ending 2026-07-02
 - [A Risky Burial in the Heart of an Ebola Outbreak](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTcnZwT0trM2RkdDJYb3JpMGo4cldHRHF3TDFtc3BJeG95QVpzNmx3YVg0dE94dWo5T2p4VGNrMHpqNjlTSjB3bTdfeFRyYmdSdjhkRHFKTWdLMHpyNlJRM21fc0NyS05FZHlQVnA1aUZ2OFA5NkFSWnRSMzE?oc=5) | The New York Times | 2026-07-01T09:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases on the rise: These countries are at risk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjZhUEVJY3VhVHlfLUZLWmlBVkNzU3FNdFpBVHVsUHFtMDZwQUtiQ0FPcWJ2UGxDUkNFWEJDYVR3TXpTTFBNR1B2MXNqT2VVaTMxNl84LXRlWVpWRWlJWFZONWExRzh2c05GczgxWWxrZE9TTHRJUnFZc3lfTnlpc0xZSWlxUzF5R0ZDQWtkUQ?oc=5) | Modern.az | 2026-07-01T08:18+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzg0S0Ywb21jdXZkMUh4NGZMQ3g0YnU3dHhRVFlIR0txMDIwajJxcWM2eDY0ejBLTWRkTEVfa0M5OERFRWRZN2xNb3dORk1QWEE3dmVoVGQtQ0Z0amRDU2RvR1duOUw5bkd3ZmZqellaYi1TcDRSMGlxODN4RlpJbTRfdElOVFUwV1FGSDNkbHJDQ0VOMmd5ZGxjLWJJbjQ0SEk4ZDZyeGZiU3V3SzlJQmd0cnFmQ1hrNVcxUzhIYWFBd3RWOUFJ?oc=5) | Health and Me | 2026-07-01T05:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
