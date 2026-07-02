@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T10:46
+Generated at: 2026-07-02T10:56
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -23,17 +23,18 @@ Search window: 7 day(s) ending 2026-07-02
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
 - The Eastern Herald now foregrounds vaccination or vaccine policy in the story.
 
+### Dengue and arboviruses
+- Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India)
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
+- Magzter now explicitly uses investigation or monitoring language.
+- Herald Malaysia Online now includes deaths or fatal cases in the story frame.
+
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
 - Newly tracked story cluster: 4 item(s) across 3 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 3 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
-### Dengue and arboviruses
-- Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- Herald Malaysia Online now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies)
@@ -71,7 +72,7 @@ Search window: 7 day(s) ending 2026-07-02
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India, 2026-07-02T12:36+00:00)
 - Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
-- Evidence notes: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India); [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) (news - Mongabay); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [Dengue Cases Rising in Bangladesh, Experts Issue Warning](https://www.easterneye.biz/bangladesh-dengue-surge-experts-warn-cases-soar/) (EasternEye)
+- Evidence notes: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue Cases Rising in Bangladesh, Experts Issue Warning](https://www.easterneye.biz/bangladesh-dengue-surge-experts-warn-cases-soar/) (EasternEye)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -432,8 +433,6 @@ Search window: 7 day(s) ending 2026-07-02
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
 - [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) | The Guardian | 2026-07-02T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) | news - Mongabay | 2026-07-02T05:45+00:00 | Outbreaks and emerging infections
-  Sri Lanka has recorded more than 56,422 dengue cases from January to July 1, adding pressure to the country’s healthcare system as the caseload continues to increase. DEMATAGODA, Sri Lanka — Niroshan Peters, 54, a resident of Dematagoda , a densely populated suburb in Colombo , has no option but to live and work in an environment frequently polluted due to careless waste disposal. According to academics, unplanned urbanization and climate change are factors contributing to the spike in dengue cases in South Asia and many other regions.
 - [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) | Temple Daily Telegram | 2026-07-02T05:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
@@ -461,6 +460,8 @@ Search window: 7 day(s) ending 2026-07-02
 - [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) | Herald Malaysia Online | 2026-07-01T04:47+00:00 | Outbreaks and emerging infections
   Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the mountain monk A Buddhist monk prays alongside devotees on the occasion of Poson Poya (full moon), a religious festival that marks the arrival of Buddhism in Sri Lanka, at the Kelaniya temple on the outskirts of Colombo on June 29. Sri Lanka recorded more than 51,000 dengue cases and 28 deaths in the first six months of this year, according to government data. According to the latest government data, Sri Lanka registered 53,159 dengue cases and 31 deaths until June.
 - [Person in UK tests negative for Ebola amid rising cases in Africa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUhFbEo0OVpTdEktQWhrajBlVVNkMDZ6X3ZRRUFOVWx6b3UwaVFKdHBQVl9CME9FTWlmMFVXRnZGWW1EenB2TFA1aDlnT3RoSDZKc1BRVVk4OV9Gclkxd1U0dHMyOWtGUy1JWi1RR2RQWllwdTR4SHl0Y004YjFnOUZQQmk0S2dhN1hOYzllUHJ1bnRCMzJCb0tESDBXR1NtM2JSbE0yU2HSAagBQVVfeXFMTmZBSWYwWDBZOVNTemRyaEdjRy01bDBaVlYycFBua2d2dVZLdjBaNGp0Z2FuMUhwMlR6cnZRSTNxdGo4RjU1OWZpdXpQTG52QlNRa2M4cl9KWF9zLUdGOFBMekhVazU0R0ZkTEx6TzNtLURIYU90S1dodWFvTjMxcUVoU1VYSGlzVXUyaTVaemlqT0diRTctNEdsNHBKRWZyeUVHbXNaWmRj?oc=5) | South China Morning Post | 2026-06-30T22:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak will cause major harm to Africa’s economies, UN warns](https://news.google.com/rss/articles/CBMingFBVV95cUxQRXlrS1RRSEZ0em5LeWNoVy1zcW05ZmM0SERDWF9tYWxyM0R4LVktdTgxcTFBWVNaNC1ub1RiQWlJdHpIUWczQ3pvQWJWaFJHaU5SZVVqTFppYS1xMlBtdDBhM1BNZ2Z4cVREaExuLTcwaHJVLUJ5c0lNV3VBeGxCbzk3M051NFhCajNrRjZ6NlptckZCSGdwdW5pbGN4UQ?oc=5) | CIDRAP | 2026-06-30T20:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
