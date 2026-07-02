@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T03:31
+Generated at: 2026-07-02T03:41
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -18,15 +18,22 @@ Search window: 7 day(s) ending 2026-07-02
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News)
-- Newly tracked story cluster: 5 item(s) across 5 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 5 source(s).
+- Newly tracked story cluster: 6 item(s) across 5 source(s).
+- Baseline snapshot created with 6 clustered item(s) across 5 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
 
+### Dengue and arboviruses
+- Lead item: [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) (Whalesbook)
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
+- Whalesbook now explicitly uses investigation or monitoring language.
+- Herald Malaysia Online now includes deaths or fatal cases in the story frame.
+
 ### Ebola virus disease
 - Lead item: [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) (The Guardian)
-- Newly tracked story cluster: 20 item(s) across 17 source(s).
-- Baseline snapshot created with 20 clustered item(s) across 17 source(s).
+- Newly tracked story cluster: 19 item(s) across 17 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - CIDRAP now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -35,16 +42,10 @@ Search window: 7 day(s) ending 2026-07-02
 - Baseline snapshot created with 5 clustered item(s) across 3 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
-### Dengue and arboviruses
-- Lead item: [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) (Whalesbook)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Whalesbook now explicitly uses investigation or monitoring language.
-
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 20 item(s) across 17 source(s); 0 official/primary-source item(s).
+- Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
 - Lead item: [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) (The Guardian, 2026-07-02T09:00+00:00)
 - Detailed note: Harvard Tracked 147,000 Adults for 30 Years and Found the Exact Strength Training Amount That Reduces Death Risk the Most Harvard tracked 147,000 adults 30 years and found 90–119 minutes of weekly strength training cuts death risk 13%, CVD death 19%, and neurological death 27%. Chan School of Public Health study of 147,000 adults over 30 years, published June 2, 2026 in the British Journal of Sports Medicine,...
 - Evidence notes: [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) (The Guardian); [Ebola outbreak in DR Congo worsens as new cases emerge](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVZaZ3owNXhuZkx4OTJlM243QWt0ZkZqZHBURVRxdkNzU25NMWZ4WTBRZ1ljVGltNnVXSUViOWRqNld0ejRPZ2R4RHdMUFh3WEFaTTI3cTlfTk9Uak55Rjl6WWR3QXVyMV9BRWZlWUdnRndXVUZZTEhjeHpFWTJqdg?oc=5) (Latest news from Azerbaijan); [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) (Temple Daily Telegram); [Mob burns Ebola treatment centre, Congo toll hits 438](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWlNNGQ5SzAtTndqS1kyd2ZJbVZOMUE2ajJlWV9ROEFwX1EzZ05jd01KSUNVMktZcXV2UHc0ZzRQM01pTjVDRmNzTmhMaHlPbHBhYnZyZnhPVzlVYkZ3OGJRbzlsQzBnc2ZDUU9GMm1Bek5aZnhoMkhzbkdwX1VEYjk0MGpsMFdQSnhOZDhNWlJzaktTRHN2dUxNT2ZvSlo1YXc?oc=5) (The Canberra Times); [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) (Magzter)
@@ -60,10 +61,10 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
+- Topic size: 6 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News, 2026-07-01T14:00+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
-- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) (ABC News - Breaking News, Latest News and Videos); [Cruise ship faces second norovirus outbreak in a month, 20 people sick](https://www.usatoday.com/story/travel/cruises/2026/07/01/norovirus-outbreak-national-geographic-cruise-ship/90766847007/) (USA Today); [A patient is being tested for suspected Ebola in a Glasgow hospital, PA understands. A Public Health Scotland spokesperson said: "There are currently no confirmed cases of Ebola in Scotland and the risk to the general public remains low." #Ebola #Glasgow](https://www.tiktok.com/@skynews/video/7657280842816916758) (TikTok)
+- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/deadly-hantavirus-outbreak-suspected-aboard-cruise-ship/story?id\=132631359) (ABC News - Breaking News, Latest News and Videos); [125 people sick in third Princess cruise norovirus outbreak this year](https://www.usatoday.com/story/travel/cruises/2026/07/02/ruby-princess-cruise-norovirus-outbreak/90779510007/) (USA Today); [Cruise ship faces second norovirus outbreak in a month, 20 people sick](https://www.usatoday.com/story/travel/cruises/2026/07/01/norovirus-outbreak-national-geographic-cruise-ship/90766847007/) (USA Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -76,19 +77,19 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) (Whalesbook, 2026-07-02T07:25+00:00)
-- Detailed note: Sri Lanka has recorded more than 56,422 dengue cases from January to July 1, adding pressure to the country’s healthcare system as the caseload continues to increase. The disease, transmitted by the non-native southern house mosquito ( Culex quinquefasciatus ), has caused the number of native Hawaiian honeycreeper species to plummet from 55 to just 17. A recent study found the parasite present in 63 out of 64...
-- Evidence notes: [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) (Whalesbook); [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) (news - Mongabay); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
+- Evidence notes: [Avian Malaria Crisis in Hawaii Highlights Biodiversity Risks for India](https://www.whalesbook.com/news/English/environment/Avian-Malaria-Crisis-in-Hawaii-Highlights-Biodiversity-Risks-for-India/6a46127dbfe8447456fa7eca) (Whalesbook); [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) (news - Mongabay); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Measles transmission and vaccination
+### Occupational and environmental epidemiology
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Israel changes age for second measles vaccine in effort to stop outbreak](https://www.haaretz.com/science-and-health/2026-07-01/ty-article/israel-changes-age-for-second-measles-vaccine-in-effort-to-stop-outbreak/0000019f-1e29-d7c2-a79f-9f391c510000) (Haaretz, 2026-07-01T18:01+00:00)
-- Detailed note: A total of 1,226 patients were hospitalized over the course of the outbreak, although no measles patients are currently hospitalized. Since the outbreak began , more than 3,700 people have been diagnosed with measles.
-- Evidence notes: [Israel changes age for second measles vaccine in effort to stop outbreak](https://www.haaretz.com/science-and-health/2026-07-01/ty-article/israel-changes-age-for-second-measles-vaccine-in-effort-to-stop-outbreak/0000019f-1e29-d7c2-a79f-9f391c510000) (Haaretz); [Al-Shabab Launches Response To Contain Measles Outbreak - MEMRI | Middle East Media Research Institute](https://www.memri.org/jttm/al-qaeda-affiliate-somalia-al-shabab-launches-medical-response-campaign-contain-measles) (MEMRI)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Lead item: [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio, 2026-06-30T19:41+00:00)
+- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio); [Ebola response worker who traveled from DRC to France is first in outbreak to test positive outside of Africa](https://www.cnn.com/2026/06/24/world/france-ebola-patient) (CNN)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
