@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T08:39
+Generated at: 2026-07-02T08:49
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-02
 - [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News; 2026-07-01T14:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/) (PubMed Infectious Disease Search; 2026-06-30T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (42), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (2)
+- Category mix: Outbreaks and emerging infections (42), Policy, surveillance, and public health infrastructure (3), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News)
-- Newly tracked story cluster: 10 item(s) across 9 source(s).
-- Baseline snapshot created with 10 clustered item(s) across 9 source(s).
+- Newly tracked story cluster: 11 item(s) across 10 source(s).
+- Baseline snapshot created with 11 clustered item(s) across 10 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - Forbes now includes deaths or fatal cases in the story frame.
 
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-07-02
 
 ### Ebola virus disease
 - Lead item: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTJuazNqSTRCbHRZN1VTbWhmWFR1cm04Zzc3RkxPcmRwRXR4eEpTNTFnRkVvT242cWRDTFpud2JEZVJKUjdtNnh4dnpGdnBTbi14elNaMXRyRUhLODZ2NUJZelFLV0xzQnJnTkFoM1VrNDdnRXdpczdVSzBTTEJwb3lIOUw2VjJHUk0tSzZjSl9CV2l0VmVZNtIBlwFBVV95cUxQNEhGc1h5bDlPenJ4aHpKRW1nenV4Y21zZ283Y2ptYU1IU05KaGRxb1FCbU1VZU5HbEN4SmJkQnRyMFVZeWQ2UndUcnV4NmdjeUpGa3FCS0VOcGVrWEp0UlNTZnN4Tm1fRlFveFVCaEtWTFFBalFYdVktVlVoUXJTa3pta3dfTTFWVDRYbDRwcHVFdlRGSjZF?oc=5) (Modern Ghana)
-- Newly tracked story cluster: 19 item(s) across 17 source(s).
-- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
+- Newly tracked story cluster: 19 item(s) across 18 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 18 source(s).
 - Modern Ghana now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-07-02
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
+- Topic size: 19 item(s) across 18 source(s); 0 official/primary-source item(s).
 - Lead item: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTJuazNqSTRCbHRZN1VTbWhmWFR1cm04Zzc3RkxPcmRwRXR4eEpTNTFnRkVvT242cWRDTFpud2JEZVJKUjdtNnh4dnpGdnBTbi14elNaMXRyRUhLODZ2NUJZelFLV0xzQnJnTkFoM1VrNDdnRXdpczdVSzBTTEJwb3lIOUw2VjJHUk0tSzZjSl9CV2l0VmVZNtIBlwFBVV95cUxQNEhGc1h5bDlPenJ4aHpKRW1nenV4Y21zZ283Y2ptYU1IU05KaGRxb1FCbU1VZU5HbEN4SmJkQnRyMFVZeWQ2UndUcnV4NmdjeUpGa3FCS0VOcGVrWEp0UlNTZnN4Tm1fRlFveFVCaEtWTFFBalFYdVktVlVoUXJTa3pta3dfTTFWVDRYbDRwcHVFdlRGSjZF?oc=5) (Modern Ghana, 2026-07-02T14:48+00:00)
 - Detailed note: Harvard Tracked 147,000 Adults for 30 Years and Found the Exact Strength Training Amount That Reduces Death Risk the Most Harvard tracked 147,000 adults 30 years and found 90–119 minutes of weekly strength training cuts death risk 13%, CVD death 19%, and neurological death 27%. Chan School of Public Health study of 147,000 adults over 30 years, published June 2, 2026 in the British Journal of Sports Medicine,...
 - Evidence notes: [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTJuazNqSTRCbHRZN1VTbWhmWFR1cm04Zzc3RkxPcmRwRXR4eEpTNTFnRkVvT242cWRDTFpud2JEZVJKUjdtNnh4dnpGdnBTbi14elNaMXRyRUhLODZ2NUJZelFLV0xzQnJnTkFoM1VrNDdnRXdpczdVSzBTTEJwb3lIOUw2VjJHUk0tSzZjSl9CV2l0VmVZNtIBlwFBVV95cUxQNEhGc1h5bDlPenJ4aHpKRW1nenV4Y21zZ283Y2ptYU1IU05KaGRxb1FCbU1VZU5HbEN4SmJkQnRyMFVZeWQ2UndUcnV4NmdjeUpGa3FCS0VOcGVrWEp0UlNTZnN4Tm1fRlFveFVCaEtWTFFBalFYdVktVlVoUXJTa3pta3dfTTFWVDRYbDRwcHVFdlRGSjZF?oc=5) (Modern Ghana); [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) (The Guardian); [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) (Temple Daily Telegram); [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) (Magzter); [Ebola Has Now Spread to a Fourth DRC Province Near the South Sudan Border as Regional Health Concerns Grow](https://www.medicaldaily.com/ebola-fourth-province-haut-uele-south-sudan-border-drc-july-2026-475880) (Medical Daily)
@@ -53,10 +53,10 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 10 item(s) across 9 source(s); 2 official/primary-source item(s).
+- Topic size: 11 item(s) across 10 source(s); 2 official/primary-source item(s).
 - Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News, 2026-07-01T14:00+02:00)
 - Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
-- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [WHO declares hantavirus outbreak linked to cruise ship over](https://www.theguardian.com/world/2026/jul/02/hantavirus-ends-who) (The Guardian); [WHO declares cruise ship-linked hantavirus outbreak over](https://www.jacarandafm.com/news/news/who-declares-hantavirus-outbreak-over/) (Jacaranda FM); [The WHO declares the hantavirus outbreak concluded globally](https://www.democrata.es/en/health/the-who-declares-the-hantavirus-outbreak-concluded-globally/) (Demócrata)
+- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [WHO declares hantavirus outbreak linked to cruise ship over](https://www.theguardian.com/world/2026/jul/02/hantavirus-ends-who) (The Guardian); [WHO declares cruise ship-linked hantavirus outbreak over](https://www.thedailystar.net/news/world/news/who-declares-cruise-ship-linked-hantavirus-outbreak-over-4214306) (The Daily Star); [SAN FRANCISCO, CALIFORNIA — Ruby Princess Norovirus Outbreak Sickens 125 Passengers and Crew During Alaska Cruise Voyage](https://www.travelandtourworld.com/news/article/bz3vbgj45n8q/) (Travel And Tour World)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -441,9 +441,7 @@ Search window: 7 day(s) ending 2026-07-02
   Harvard Tracked 147,000 Adults for 30 Years and Found the Exact Strength Training Amount That Reduces Death Risk the Most Harvard tracked 147,000 adults 30 years and found 90–119 minutes of weekly strength training cuts death risk 13%, CVD death 19%, and neurological death 27%. Chan School of Public Health study of 147,000 adults over 30 years, published June 2, 2026 in the British Journal of Sports Medicine, found that 90–119 minutes of weekly strength training reduces all-cause mortality by 13%, CVD death by 19%, and neurological death by 27%. Psilocybin Therapy Could Be FDA-Approved by Early 2027 — Here Is the Realistic Timeline for Patients Waiting Now COMP360 psilocybin therapy could win FDA approval by early 2027.
 - [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) | CIDRAP | 2026-07-01T20:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) | Yahoo | 2026-07-01T19:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What is Ebola and are there cases in the UK?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nNFlnS1VEbjFlc3pTeHZvNTMwVEk5cnB1Y0Z2ZWNyc1JVekxNSEhDNGlXYk9NTU1sdjlPRDRQWlExNmdkb2Z6elF3ekM2UzJaN3J6ZVNzSkNmSTZV?oc=5) | BBC | 2026-07-01T17:01+00:00 | Outbreaks and emerging infections
+- [Mob burns Ebola treatment centre in eastern Congo, killing policeman](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUFnYWtFTFlDeGhXQ25XMmhRZXVXTzB2eTZiRXhEY0daOFRrNkZlU05WUkp4TmEyZ05lY25MQTlIdVkxbUZTaGh4RGxWSC05YWYzOUk3bjFlQ1laaGlGY2cyd1Y5MmVXS29CRkE0ZzlCVlR3QW84OWVmOHdKbWtXZTlNbmZCcERhR0hBLXpramNEek0?oc=5) | yahoo.com | 2026-07-01T19:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo, Uganda](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQWdYcFp0Ykw2V1NKMzhrOWpuNlZMNVpmeFNSQjFmZVVoZDdNT3psWEZBbXNDVktQUFBzbEJpUVlsaFM1dE5lMG1sNnZ0WTk2ckVYRWdXZEJCRk0?oc=5) | Anadolu Ajansı | 2026-07-01T16:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -462,6 +460,8 @@ Search window: 7 day(s) ending 2026-07-02
 - [A Risky Burial in the Heart of an Ebola Outbreak](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTcnZwT0trM2RkdDJYb3JpMGo4cldHRHF3TDFtc3BJeG95QVpzNmx3YVg0dE94dWo5T2p4VGNrMHpqNjlTSjB3bTdfeFRyYmdSdjhkRHFKTWdLMHpyNlJRM21fc0NyS05FZHlQVnA1aUZ2OFA5NkFSWnRSMzE?oc=5) | The New York Times | 2026-07-01T09:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases on the rise: These countries are at risk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjZhUEVJY3VhVHlfLUZLWmlBVkNzU3FNdFpBVHVsUHFtMDZwQUtiQ0FPcWJ2UGxDUkNFWEJDYVR3TXpTTFBNR1B2MXNqT2VVaTMxNl84LXRlWVpWRWlJWFZONWExRzh2c05GczgxWWxrZE9TTHRJUnFZc3lfTnlpc0xZSWlxUzF5R0ZDQWtkUQ?oc=5) | Modern.az | 2026-07-01T08:18+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzg0S0Ywb21jdXZkMUh4NGZMQ3g0YnU3dHhRVFlIR0txMDIwajJxcWM2eDY0ejBLTWRkTEVfa0M5OERFRWRZN2xNb3dORk1QWEE3dmVoVGQtQ0Z0amRDU2RvR1duOUw5bkd3ZmZqellaYi1TcDRSMGlxODN4RlpJbTRfdElOVFUwV1FGSDNkbHJDQ0VOMmd5ZGxjLWJJbjQ0SEk4ZDZyeGZiU3V3SzlJQmd0cnFmQ1hrNVcxUzhIYWFBd3RWOUFJ?oc=5) | Health and Me | 2026-07-01T05:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
