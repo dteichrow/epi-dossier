@@ -1295,7 +1295,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1465,7 +1465,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1865,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-07-02T04:21:52",
-  "run_id": "run_fb631ce7953800e4"
+  "generated_at": "2026-07-02T04:31:56",
+  "run_id": "run_640f3486fc537218"
 }
