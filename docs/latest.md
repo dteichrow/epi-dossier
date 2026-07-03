@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-03
-Generated at: 2026-07-03T04:16
+Generated at: 2026-07-03T04:32
 Search window: 7 day(s) ending 2026-07-03
 
 ## Executive scan
@@ -16,10 +16,17 @@ Search window: 7 day(s) ending 2026-07-03
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Dengue and arboviruses
+- Lead item: [Hyderabad Dengue Alert as Early Surge Threat Looms](https://indtoday.com/hyderabad-dengue-alert-as-early-surge-threat-looms/) (INDToday)
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
+- Magzter now explicitly uses investigation or monitoring language.
+- Herald Malaysia Online now includes deaths or fatal cases in the story frame.
+
 ### Ebola virus disease
-- Lead item: [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) (IOL)
-- Newly tracked story cluster: 20 item(s) across 19 source(s).
-- Baseline snapshot created with 20 clustered item(s) across 19 source(s).
+- Lead item: [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://eastleighvoice.co.ke/index.php/regional/374986/africa-cdc-chief-warns-drc-ebola-outbreak-remains-very-serious-as-clinical-trial-begins) (The Eastleigh Voice)
+- Newly tracked story cluster: 19 item(s) across 17 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - The Japan Times now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -34,19 +41,13 @@ Search window: 7 day(s) ending 2026-07-03
 - Baseline snapshot created with 5 clustered item(s) across 3 source(s).
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
-### Dengue and arboviruses
-- Lead item: [Hyderabad Dengue Alert as Early Surge Threat Looms](https://indtoday.com/hyderabad-dengue-alert-as-early-surge-threat-looms/) (INDToday)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Magzter now explicitly uses investigation or monitoring language.
-
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 20 item(s) across 19 source(s); 0 official/primary-source item(s).
-- Lead item: [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) (IOL, 2026-07-03T04:32+00:00)
+- Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
+- Lead item: [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://eastleighvoice.co.ke/index.php/regional/374986/africa-cdc-chief-warns-drc-ebola-outbreak-remains-very-serious-as-clinical-trial-begins) (The Eastleigh Voice, 2026-07-03T04:55+00:00)
 - Detailed note: "We aim to gain a closer understanding of how the Ebola outbreak is evolving and the assistance that the DRC has received from the international community," he said. Congo’s spreading Ebola outbreak The Japan Times Gu said Chinese authorities also plan to promote cooperation between Chinese and DRC institutions with the goal of supplying public health products to affected areas.
-- Evidence notes: [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) (IOL); [UN: Ebola outbreak in DRC could cost Africa $3.6 bln, put 300,000 jobs at risk](https://www.independent.co.ug/un-ebola-outbreak-in-drc-could-cost-africa-3-6-bln-put-300000-jobs-at-risk/) (The Independent Uganda); [Second team to bolster Ebola aid](https://www.chinadaily.com.cn/a/202607/03/WS6a470e0ca310986e2b46348f.html) (China Daily); [More than 400 dead in Dr. Congo’s spreading Ebola outbreak](https://news.google.com/rss/articles/CBMiekFVX3lxTE5RSTN0VnRyaEhyUno4cVhVa24wemZuWXV5clY1WmdnbzYwNDBJUFd4YzNZYTB6NUktUW9SUXlaVWNjbWpjRDVvdXMzVS1UWERHamZjY0d0dDZ3YTBIb1QzcklEc2l2SDVLc2dIRXZlT1k5a0psU1hmTXhB?oc=5) (The Japan Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) (South African Government News Agency)
+- Evidence notes: [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://eastleighvoice.co.ke/index.php/regional/374986/africa-cdc-chief-warns-drc-ebola-outbreak-remains-very-serious-as-clinical-trial-begins) (The Eastleigh Voice); [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFVBWGdmbmJySGt6VGZ6R1FOaURTZUJzVXYtbmk4ajRZWGFtS2QtVGRxbHpUamVFa2YySjBJX2ItTGpUVldSOHpxaWhlamptSnFhaDk3RXIwblNmNlo1Y0h3RGpGZXJVd1VaOGktY3pVbkI5eUtGU01WSnEwWlVyck1mcVB5X1NkQzJjanUwSkk5c1hKNG9zNjlSQnhfSFVqSVpHaTZqRjhmNExkX0IzVDNsVQ?oc=5) (IOL); [UN: Ebola outbreak in DRC could cost Africa $3.6 bln, put 300,000 jobs at risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2xhTk96bEtQUHFaaVJuYnZQQUlueVMtVVNpRVFud3pMd3pjdV8xZzNXRnN6VTlfRFgtREJkakpWWVBkVHA3ZWVCTFA0NjVLNV9xc1RCWVEtcF9WT3FQNndvOUV6YUMxZndIU29qTzZfX2JNczZUV2xEWEpzOTlGX0sydmZaTUxKTjA3TVF1S1Z0VkJNLVZ5YklOdG4xTjdYclRMQzJIbXM?oc=5) (The Independent Uganda); [Second team to bolster Ebola aid](https://www.chinadaily.com.cn/a/202607/03/WS6a470e0ca310986e2b46348f.html) (China Daily); [More than 400 dead in Dr. Congo’s spreading Ebola outbreak](https://news.google.com/rss/articles/CBMiekFVX3lxTE5RSTN0VnRyaEhyUno4cVhVa24wemZuWXV5clY1WmdnbzYwNDBJUFd4YzNZYTB6NUktUW9SUXlaVWNjbWpjRDVvdXMzVS1UWERHamZjY0d0dDZ3YTBIb1QzcklEc2l2SDVLc2dIRXZlT1k5a0psU1hmTXhB?oc=5) (The Japan Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -75,10 +76,10 @@ Search window: 7 day(s) ending 2026-07-03
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Hyderabad Dengue Alert as Early Surge Threat Looms](https://indtoday.com/hyderabad-dengue-alert-as-early-surge-threat-looms/) (INDToday, 2026-07-03T09:03+00:00)
-- Detailed note: Sri Lanka has recorded more than 56,422 dengue cases from January to July 1, adding pressure to the country’s healthcare system as the caseload continues to increase. The alert follows a review by the Union Health Ministry after the National Centre for Vector Borne Diseases Control (NCVBDC) reported 16,313 dengue cases across India by May this year. Moreover, the country recorded a 28 percent increase in new...
-- Evidence notes: [Hyderabad Dengue Alert as Early Surge Threat Looms](https://indtoday.com/hyderabad-dengue-alert-as-early-surge-threat-looms/) (INDToday); [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) (news - Mongabay); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
+- Evidence notes: [Hyderabad Dengue Alert as Early Surge Threat Looms](https://indtoday.com/hyderabad-dengue-alert-as-early-surge-threat-looms/) (INDToday); [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) (news - Mongabay); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -409,10 +410,10 @@ Search window: 7 day(s) ending 2026-07-03
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Ramaphosa pledges South African support as DRC battles Ebola outbreak
-- Source: IOL
-- Date: 2026-07-03T04:32+00:00
-- URL: https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/
+### Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins
+- Source: The Eastleigh Voice
+- Date: 2026-07-03T04:55+00:00
+- URL: https://eastleighvoice.co.ke/index.php/regional/374986/africa-cdc-chief-warns-drc-ebola-outbreak-remains-very-serious-as-clinical-trial-begins
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
@@ -421,9 +422,11 @@ Search window: 7 day(s) ending 2026-07-03
 
 
 ## Other notable readings
+- [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFVBWGdmbmJySGt6VGZ6R1FOaURTZUJzVXYtbmk4ajRZWGFtS2QtVGRxbHpUamVFa2YySjBJX2ItTGpUVldSOHpxaWhlamptSnFhaDk3RXIwblNmNlo1Y0h3RGpGZXJVd1VaOGktY3pVbkI5eUtGU01WSnEwWlVyck1mcVB5X1NkQzJjanUwSkk5c1hKNG9zNjlSQnhfSFVqSVpHaTZqRjhmNExkX0IzVDNsVQ?oc=5) | IOL | 2026-07-03T04:32+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation/) | CBS News | 2026-07-03T03:09+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [UN: Ebola outbreak in DRC could cost Africa $3.6 bln, put 300,000 jobs at risk](https://www.independent.co.ug/un-ebola-outbreak-in-drc-could-cost-africa-3-6-bln-put-300000-jobs-at-risk/) | The Independent Uganda | 2026-07-03T02:30+00:00 | Outbreaks and emerging infections
+- [UN: Ebola outbreak in DRC could cost Africa $3.6 bln, put 300,000 jobs at risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2xhTk96bEtQUHFaaVJuYnZQQUlueVMtVVNpRVFud3pMd3pjdV8xZzNXRnN6VTlfRFgtREJkakpWWVBkVHA3ZWVCTFA0NjVLNV9xc1RCWVEtcF9WT3FQNndvOUV6YUMxZndIU29qTzZfX2JNczZUV2xEWEpzOTlGX0sydmZaTUxKTjA3TVF1S1Z0VkJNLVZ5YklOdG4xTjdYclRMQzJIbXM?oc=5) | The Independent Uganda | 2026-07-03T02:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Second team to bolster Ebola aid](https://www.chinadaily.com.cn/a/202607/03/WS6a470e0ca310986e2b46348f.html) | China Daily | 2026-07-03T01:19+00:00 | Outbreaks and emerging infections
   "We aim to gain a closer understanding of how the Ebola outbreak is evolving and the assistance that the DRC has received from the international community," he said. Gu said Chinese authorities also plan to promote cooperation between Chinese and DRC institutions with the goal of supplying public health products to affected areas. The five-member team, comprising experts in laboratory testing and clinical treatment as well as a customs official, departed from Beijing early on Friday.
@@ -457,10 +460,8 @@ Search window: 7 day(s) ending 2026-07-03
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo, Uganda](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQWdYcFp0Ykw2V1NKMzhrOWpuNlZMNVpmeFNSQjFmZVVoZDdNT3psWEZBbXNDVktQUFBzbEJpUVlsaFM1dE5lMG1sNnZ0WTk2ckVYRWdXZEJCRk0?oc=5) | Anadolu Ajansı | 2026-07-01T16:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bethlehem-made test could help in Africa's Ebola outbreak](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRFFnS0xPdkt4ZVVVdl9kLUYxdlVORGdpcnc0b3JGYWhxRGtDaWluS3A1UmRzQ0NNVVhPTW5QNXZLZS1BaGg0NklTelE5Qkx4Ti1Hbm5IOHVudzlVRXlGTkZMMFMyWi1xX0N6TWoteDdLQVpIMVE4Q1dmekZ1V3U3SGRwYzVPby1DaWlwV0U3Wnd3X0hLVXpUVWNhbWZwNGZEc21ZdlJOeXk3c3lWcnE1Ty1QOWRQLUF2V05zTkQyYm9UOXFKVEJMcDNIZ2JXaUFyajgtQjFwR1ZkUUVRdlBqQlBvWW9Na2w5b2FCbFdjUl85UDNpbTB2VkhVY0pzcWk2T3J2V0VFYU5RcmM?oc=5) | WFMZ.com | 2026-07-01T13:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVERtZkpCMzNrZ1lKNHVlQ1RaS2N1QVcyaVRMT3JTV2puMTVvWm1IUEhVWklQVVFteDkyWEtXbmRiRHY5alpBN0hydEJuZDF6WXhxa003NXRqdw?oc=5) | BBC | 2026-07-01T12:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) | Herald Malaysia Online | 2026-07-01T04:47+00:00 | Outbreaks and emerging infections
+  Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the mountain monk A Buddhist monk prays alongside devotees on the occasion of Poson Poya (full moon), a religious festival that marks the arrival of Buddhism in Sri Lanka, at the Kelaniya temple on the outskirts of Colombo on June 29. Sri Lanka recorded more than 51,000 dengue cases and 28 deaths in the first six months of this year, according to government data. According to the latest government data, Sri Lanka registered 53,159 dengue cases and 31 deaths until June.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
