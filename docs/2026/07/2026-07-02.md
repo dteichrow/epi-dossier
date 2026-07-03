@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T22:01
+Generated at: 2026-07-02T22:06
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -17,18 +17,11 @@ Search window: 7 day(s) ending 2026-07-02
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
-- Lead item: [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://www.medpagetoday.com/infectiousdisease/ebola/122050) (MedPage Today)
+- Lead item: [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times)
 - Newly tracked story cluster: 19 item(s) across 17 source(s).
 - Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - CNA now includes deaths or fatal cases in the story frame.
 - The Eastern Herald now foregrounds vaccination or vaccine policy in the story.
-
-### Dengue and arboviruses
-- Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Magzter now explicitly uses investigation or monitoring language.
-- EasternEye now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
@@ -42,13 +35,19 @@ Search window: 7 day(s) ending 2026-07-02
 - Baseline snapshot created with 4 clustered item(s) across 3 source(s).
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
+### Dengue and arboviruses
+- Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Magzter now explicitly uses investigation or monitoring language.
+
 
 ## Major topics
 ### Ebola virus disease
 - Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
-- Lead item: [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://www.medpagetoday.com/infectiousdisease/ebola/122050) (MedPage Today, 2026-07-02T20:58+00:00)
+- Lead item: [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times, 2026-07-02T20:56+00:00)
 - Detailed note: Cluster remains active across 19 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://www.medpagetoday.com/infectiousdisease/ebola/122050) (MedPage Today); [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) (South African Government News Agency); [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3V6eXdXZjV6VGdLbDdjOHpjT1hheVVOY2ZNMnVpb3JVTHlWTy1ac29XVXZ4YURXdjFuYjExZl8zc0NteTRac1BFamNKZFhITTNOZllUYjhVWnNhUUZzcVRud29zbHhrTFVtdzQ4Ujh1ZmhEUzF2TlZrLXRFZlJqVm5Ceno?oc=5) (CNA); [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) (The Eastleigh Voice)
+- Evidence notes: [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://www.sanews.gov.za/south-africa/ramaphosa-calls-african-solidarity-drc-battles-ebola-outbreak) (South African Government News Agency); [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3V6eXdXZjV6VGdLbDdjOHpjT1hheVVOY2ZNMnVpb3JVTHlWTy1ac29XVXZ4YURXdjFuYjExZl8zc0NteTRac1BFamNKZFhITTNOZllUYjhVWnNhUUZzcVRud29zbHhrTFVtdzQ4Ujh1ZmhEUzF2TlZrLXRFZlJqVm5Ceno?oc=5) (CNA); [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) (The Eastleigh Voice); [Health workers tend to an Ebola patient at the Rwampara Treatment Center in Ituri, Congo.](https://news.google.com/rss/articles/CBMibEFVX3lxTE9nQi05WDZsRDdnN05uS2pLRWwycUo2Z3NGMUw5bnFrOVlIbDFtZjFTdjFxS2tOclJQdTk0cXAxZzJoLWtTczJCSWo2YVJRZnYtMzl3UTZwRFJGczNIQlNIdW11MDVaaU5tZlB0TA?oc=5) (Sandusky Register)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -79,8 +78,8 @@ Search window: 7 day(s) ending 2026-07-02
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India, 2026-07-02T12:36+00:00)
-- Detailed note: Bangladesh recorded 5,924 dengue infections and 18 deaths by the end of June Dengue cases in Dhaka could double in July and triple or quadruple by August Heavy rain, warm temperatures and high humidity are creating ideal breeding conditions for mosquitoes Bangladesh faces dengue surge as experts warn cases could soar > June infections quadrupled from May, with health officials preparing for a wider outbreak in...
-- Evidence notes: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue Cases Rising in Bangladesh, Experts Issue Warning](https://www.easterneye.biz/bangladesh-dengue-surge-experts-warn-cases-soar/) (EasternEye)
+- Detailed note: Sri Lanka has recorded more than 56,422 dengue cases from January to July 1, adding pressure to the country’s healthcare system as the caseload continues to increase. Employees’ Provident Funds Scheme 2026 notified: Top things to know about contributions, withdrawals & Aadhaar details In case you want to opt out, please click "Do Not Sell or Share My Personal Information" link in the footer of this page. New EPF...
+- Evidence notes: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India); [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) (news - Mongabay); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -401,16 +400,6 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens
-- Source: MedPage Today
-- Date: 2026-07-02T20:58+00:00
-- URL: https://www.medpagetoday.com/infectiousdisease/ebola/122050
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 ### Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town
 - Source: The New York Times
 - Date: 2026-07-02T20:56+00:00
@@ -421,10 +410,18 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Ramaphosa calls for African solidarity as DRC battles Ebola outbreak
+- Source: South African Government News Agency
+- Date: 2026-07-02T20:52+00:00
+- URL: https://www.sanews.gov.za/south-africa/ramaphosa-calls-african-solidarity-drc-battles-ebola-outbreak
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3V6eXdXZjV6VGdLbDdjOHpjT1hheVVOY2ZNMnVpb3JVTHlWTy1ac29XVXZ4YURXdjFuYjExZl8zc0NteTRac1BFamNKZFhITTNOZllUYjhVWnNhUUZzcVRud29zbHhrTFVtdzQ4Ujh1ZmhEUzF2TlZrLXRFZlJqVm5Ceno?oc=5) | CNA | 2026-07-02T20:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
@@ -439,6 +436,8 @@ Search window: 7 day(s) ending 2026-07-02
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
 - [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) | The Guardian | 2026-07-02T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) | news - Mongabay | 2026-07-02T05:45+00:00 | Outbreaks and emerging infections
+  Sri Lanka has recorded more than 56,422 dengue cases from January to July 1, adding pressure to the country’s healthcare system as the caseload continues to increase. DEMATAGODA, Sri Lanka — Niroshan Peters, 54, a resident of Dematagoda , a densely populated suburb in Colombo , has no option but to live and work in an environment frequently polluted due to careless waste disposal. According to academics, unplanned urbanization and climate change are factors contributing to the spike in dengue cases in South Asia and many other regions.
 - [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) | Temple Daily Telegram | 2026-07-02T05:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
@@ -457,12 +456,12 @@ Search window: 7 day(s) ending 2026-07-02
   Limited detail was available from feed metadata alone.
 - [Ebola cases on the rise: These countries are at risk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjZhUEVJY3VhVHlfLUZLWmlBVkNzU3FNdFpBVHVsUHFtMDZwQUtiQ0FPcWJ2UGxDUkNFWEJDYVR3TXpTTFBNR1B2MXNqT2VVaTMxNl84LXRlWVpWRWlJWFZONWExRzh2c05GczgxWWxrZE9TTHRJUnFZc3lfTnlpc0xZSWlxUzF5R0ZDQWtkUQ?oc=5) | Modern.az | 2026-07-01T08:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola Scare In UK: Suspected Patient At Glasgow Hospital Tests Negative](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzg0S0Ywb21jdXZkMUh4NGZMQ3g0YnU3dHhRVFlIR0txMDIwajJxcWM2eDY0ejBLTWRkTEVfa0M5OERFRWRZN2xNb3dORk1QWEE3dmVoVGQtQ0Z0amRDU2RvR1duOUw5bkd3ZmZqellaYi1TcDRSMGlxODN4RlpJbTRfdElOVFUwV1FGSDNkbHJDQ0VOMmd5ZGxjLWJJbjQ0SEk4ZDZyeGZiU3V3SzlJQmd0cnFmQ1hrNVcxUzhIYWFBd3RWOUFJ?oc=5) | Health and Me | 2026-07-01T05:35+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) | NCPR: North Country Public Radio | 2026-06-30T19:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) | Magzter | 2026-06-29T06:16+00:00 | Outbreaks and emerging infections
   Most cases are mild to moderate. A smaller share progress to severe dengue, which is the phase that requires hospital monitoring and, occasionally, intensive care. Dengue and seasonal influenza look almost identical for the first two or three days, and that overlap costs lives every single year, not just during outbreak years.
-- [DR Congo cancels pre-World Cup camp due to Ebola outbreak, FIFA ‘monitoring’ situation - The Athletic](https://www.nytimes.com/athletic/7295322/2026/05/20/dr-congo-world-cup-ebola/) | The New York Times | 2026-06-27T07:00+00:00 | Outbreaks and emerging infections
-  The World Health Organisation has called it “a public health emergency of international concern” with 139 suspected deaths and over 600 cases due to the disease, per the BBC . DR Congo have confirmed that they have moved the camp to Belgium, where they are due to play Denmark on June 3, with a further pre-tournament fixture in Spain on June 9. Simon Barber/Getty Images DR Congo have cancelled their pre-World Cup training camp in the capital Kinshasa due to the Ebola outbreak in the country.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
