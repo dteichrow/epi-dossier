@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T22:06
+Generated at: 2026-07-02T22:16
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-02
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Occupational and environmental epidemiology (2), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (33), Major epidemiology studies (2), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -22,6 +22,13 @@ Search window: 7 day(s) ending 2026-07-02
 - Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - CNA now includes deaths or fatal cases in the story frame.
 - The Eastern Herald now foregrounds vaccination or vaccine policy in the story.
+
+### Dengue and arboviruses
+- Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Magzter now explicitly uses investigation or monitoring language.
+- EasternEye now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
@@ -34,12 +41,6 @@ Search window: 7 day(s) ending 2026-07-02
 - Newly tracked story cluster: 4 item(s) across 3 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 3 source(s).
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
-
-### Dengue and arboviruses
-- Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Magzter now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
@@ -78,8 +79,8 @@ Search window: 7 day(s) ending 2026-07-02
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India, 2026-07-02T12:36+00:00)
-- Detailed note: Sri Lanka has recorded more than 56,422 dengue cases from January to July 1, adding pressure to the country’s healthcare system as the caseload continues to increase. Employees’ Provident Funds Scheme 2026 notified: Top things to know about contributions, withdrawals & Aadhaar details In case you want to opt out, please click "Do Not Sell or Share My Personal Information" link in the footer of this page. New EPF...
-- Evidence notes: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India); [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) (news - Mongabay); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
+- Detailed note: Bangladesh recorded 5,924 dengue infections and 18 deaths by the end of June Dengue cases in Dhaka could double in July and triple or quadruple by August Heavy rain, warm temperatures and high humidity are creating ideal breeding conditions for mosquitoes Bangladesh faces dengue surge as experts warn cases could soar > June infections quadrupled from May, with health officials preparing for a wider outbreak in...
+- Evidence notes: [Jaipur among ‘most vulnerable’ dists to dengue, scrub typhus in monsoon](https://timesofindia.indiatimes.com/city/jaipur/jaipur-among-most-vulnerable-dists-to-dengue-scrub-typhus-in-monsoon/amp_articleshow/132139419.cms) (The Times of India); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue Cases Rising in Bangladesh, Experts Issue Warning](https://www.easterneye.biz/bangladesh-dengue-surge-experts-warn-cases-soar/) (EasternEye)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -436,8 +437,6 @@ Search window: 7 day(s) ending 2026-07-02
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
 - [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) | The Guardian | 2026-07-02T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Sri Lanka intensifies fight against dengue and the mosquitos that cause the infection - news](https://news.mongabay.com/2026/07/sri-lanka-intensifies-fight-against-dengue-and-the-mosquitos-that-cause-the-infection/) | news - Mongabay | 2026-07-02T05:45+00:00 | Outbreaks and emerging infections
-  Sri Lanka has recorded more than 56,422 dengue cases from January to July 1, adding pressure to the country’s healthcare system as the caseload continues to increase. DEMATAGODA, Sri Lanka — Niroshan Peters, 54, a resident of Dematagoda , a densely populated suburb in Colombo , has no option but to live and work in an environment frequently polluted due to careless waste disposal. According to academics, unplanned urbanization and climate change are factors contributing to the spike in dengue cases in South Asia and many other regions.
 - [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) | Temple Daily Telegram | 2026-07-02T05:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
@@ -462,6 +461,8 @@ Search window: 7 day(s) ending 2026-07-02
   Limited detail was available from feed metadata alone.
 - [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) | Magzter | 2026-06-29T06:16+00:00 | Outbreaks and emerging infections
   Most cases are mild to moderate. A smaller share progress to severe dengue, which is the phase that requires hospital monitoring and, occasionally, intensive care. Dengue and seasonal influenza look almost identical for the first two or three days, and that overlap costs lives every single year, not just during outbreak years.
+- [DR Congo cancels pre-World Cup camp due to Ebola outbreak, FIFA ‘monitoring’ situation - The Athletic](https://www.nytimes.com/athletic/7295322/2026/05/20/dr-congo-world-cup-ebola/) | The New York Times | 2026-06-27T07:00+00:00 | Outbreaks and emerging infections
+  The World Health Organisation has called it “a public health emergency of international concern” with 139 suspected deaths and over 600 cases due to the disease, per the BBC . DR Congo have confirmed that they have moved the camp to Belgium, where they are due to play Denmark on June 3, with a further pre-tournament fixture in Spain on June 9. Simon Barber/Getty Images DR Congo have cancelled their pre-World Cup training camp in the capital Kinshasa due to the Ebola outbreak in the country.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
