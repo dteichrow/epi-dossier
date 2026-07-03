@@ -299,6 +299,10 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     monkeypatch.setattr(site_build, "docs_reference_filename", lambda *args, deploy_dir='docs', **kwargs: Path(deploy_dir) / "reference" / "measles.html")
     monkeypatch.setattr(site_build, "docs_archive_filename", lambda target_date, deploy_dir='docs', suffix='.html': Path(deploy_dir) / "2026" / "05" / f"2026-05-07{suffix}")
 
+    stale_story = deploy_dir / "stories" / "story_old-hantavirus-and-cruise-ship-outbreak.html"
+    stale_story.parent.mkdir(parents=True, exist_ok=True)
+    stale_story.write_text("archived story stays public", encoding="utf-8")
+
     assert site_build.main(["--date", "2026-05-07", "--output-mode", "both", "--deploy-dir", str(deploy_dir)]) == 0
     assert (deploy_dir / "index.html").exists()
     assert (deploy_dir / "notebook.html").exists()
@@ -306,6 +310,7 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     assert (deploy_dir / "watch.html").exists()
     assert (deploy_dir / "research.html").exists()
     assert (deploy_dir / "stories" / "story_1-measles-transmission-and-vaccination.html").exists()
+    assert stale_story.read_text(encoding="utf-8") == "archived story stays public"
     assert (deploy_dir / "reference" / "measles.html").exists()
     assert (deploy_dir / "archive" / "index.html").exists()
     latest_json = json.loads((deploy_dir / "app_exports" / "latest.json").read_text())

@@ -241,11 +241,10 @@ def write_public_surfaces(
     public_story_records = public_snapshot.get("stories", [])
     public_reference_records = public_snapshot.get("reference", [])
 
-    if public_story_records:
-        prune_generated_public_pages(
-            docs_root / "stories",
-            {Path(story.get("story_web_path", "")).name for story in public_story_records if story.get("story_web_path")},
-        )
+    # Story URLs circulate through newsletters, social posts, search indexes, and
+    # archive pages after they leave the active story list. Current stories are
+    # overwritten below, but older story pages should remain available instead
+    # of turning into public 404s after an automated refresh.
     prune_generated_public_pages(
         docs_root / "reference",
         {Path(reference.get("reference_web_path", "")).name for reference in public_reference_records if reference.get("reference_web_path")},
