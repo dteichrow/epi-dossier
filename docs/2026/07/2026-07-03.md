@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-03
-Generated at: 2026-07-03T08:06
+Generated at: 2026-07-03T08:16
 Search window: 7 day(s) ending 2026-07-03
 
 ## Executive scan
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-07-03
 
 ### Ebola virus disease
 - Lead item: [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı)
-- Newly tracked story cluster: 19 item(s) across 16 source(s).
-- Baseline snapshot created with 19 clustered item(s) across 16 source(s).
+- Newly tracked story cluster: 19 item(s) across 17 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-07-03
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 19 item(s) across 16 source(s); 0 official/primary-source item(s).
+- Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
 - Lead item: [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı, 2026-07-03T12:42+00:00)
 - Detailed note: Congo’s spreading Ebola outbreak The Japan Times
 - Evidence notes: [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı); [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFVBWGdmbmJySGt6VGZ6R1FOaURTZUJzVXYtbmk4ajRZWGFtS2QtVGRxbHpUamVFa2YySjBJX2ItTGpUVldSOHpxaWhlamptSnFhaDk3RXIwblNmNlo1Y0h3RGpGZXJVd1VaOGktY3pVbkI5eUtGU01WSnEwWlVyck1mcVB5X1NkQzJjanUwSkk5c1hKNG9zNjlSQnhfSFVqSVpHaTZqRjhmNExkX0IzVDNsVQ?oc=5) (IOL); [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXUwU3VrTjZPdlVndmZSUHlPMmp3dzloakh3QTc2UnQ1WGdpbEZJa1hRRHZLZENoa0xHUXNoOTh0bjZBSTZFUlZiZExDQVJRUlhHd2lFWW1qX0YyYW5IeHNDMk1zaWhLdE9OaXg4TmRqT3dZTF9UZTNyYjg3S0dfMTRFejZwQWFSd3BraEU3Y2lMajgtWVZLX1V1SWNGU2hMczE0TzlyalBtV0l1NWpHOGJ6WE9CeVR1dEk0c2NpVHRvb25yWlBrdEFKRVdrVXBvcTJNOUFxT3BLdw?oc=5) (The Eastleigh Voice); [UN: Ebola outbreak in DRC could cost Africa $3.6 bln, put 300,000 jobs at risk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2xhTk96bEtQUHFaaVJuYnZQQUlueVMtVVNpRVFud3pMd3pjdV8xZzNXRnN6VTlfRFgtREJkakpWWVBkVHA3ZWVCTFA0NjVLNV9xc1RCWVEtcF9WT3FQNndvOUV6YUMxZndIU29qTzZfX2JNczZUV2xEWEpzOTlGX0sydmZaTUxKTjA3TVF1S1Z0VkJNLVZ5YklOdG4xTjdYclRMQzJIbXM?oc=5) (The Independent Uganda); [More than 400 dead in Dr. Congo’s spreading Ebola outbreak](https://news.google.com/rss/articles/CBMiekFVX3lxTE5RSTN0VnRyaEhyUno4cVhVa24wemZuWXV5clY1WmdnbzYwNDBJUFd4YzNZYTB6NUktUW9SUXlaVWNjbWpjRDVvdXMzVS1UWERHamZjY0d0dDZ3YTBIb1QzcklEc2l2SDVLc2dIRXZlT1k5a0psU1hmTXhB?oc=5) (The Japan Times)
@@ -458,7 +458,7 @@ Search window: 7 day(s) ending 2026-07-03
   Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan, which is âa high-risk country because of its proximity to the affected areas and cross-border population movementâ, Africa Centres for Disease Control and Prevention said in a response to questions on June 30. The new infections involve two of the contacts of a confirmed Ituri case, who then travelled to Haut-Uele and were later diagnosed there, Congoâs government spokesman Patrick Muyaya said. Learn more about our privacy policy Three people exposed to the Ebola outbreak in the Democratic Republic of Congo have been traced to a province bordering South Sudan, increasing the chances the virus could spill into one of the worldâs most fragile states.
 - [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) | CIDRAP | 2026-07-01T20:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo, Uganda](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQWdYcFp0Ykw2V1NKMzhrOWpuNlZMNVpmeFNSQjFmZVVoZDdNT3psWEZBbXNDVktQUFBzbEJpUVlsaFM1dE5lMG1sNnZ0WTk2ckVYRWdXZEJCRk0?oc=5) | Anadolu Ajansı | 2026-07-01T16:12+00:00 | Outbreaks and emerging infections
+- [What is Ebola and are there cases in the UK?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nNFlnS1VEbjFlc3pTeHZvNTMwVEk5cnB1Y0Z2ZWNyc1JVekxNSEhDNGlXYk9NTU1sdjlPRDRQWlExNmdkb2Z6elF3ekM2UzJaN3J6ZVNzSkNmSTZV?oc=5) | BBC | 2026-07-01T17:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) | Herald Malaysia Online | 2026-07-01T04:47+00:00 | Outbreaks and emerging infections
   Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the mountain monk A Buddhist monk prays alongside devotees on the occasion of Poson Poya (full moon), a religious festival that marks the arrival of Buddhism in Sri Lanka, at the Kelaniya temple on the outskirts of Colombo on June 29. Sri Lanka recorded more than 51,000 dengue cases and 28 deaths in the first six months of this year, according to government data. According to the latest government data, Sri Lanka registered 53,159 dengue cases and 31 deaths until June.
