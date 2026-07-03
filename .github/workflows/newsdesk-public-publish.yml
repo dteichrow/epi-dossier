@@ -24,6 +24,8 @@ concurrency:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   publish:
@@ -75,3 +77,51 @@ jobs:
           github.event_name == 'push' ||
           github.event_name == 'schedule'
         run: .venv/bin/python src/public_publish.py
+
+  deploy:
+    name: Deploy published Newsdesk to GitHub Pages
+    needs: publish
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
+
+    steps:
+      - name: Check out published main
+        uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload public site artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: docs
+
+      - name: Let Pages settle before deployment
+        run: sleep 45
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+        with:
+          reporting_interval: 10000
+          error_count: 20
+
+      - name: Wait before retrying Pages deployment
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 75
+
+      - name: Retry GitHub Pages deployment
+        id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v5
+        with:
+          reporting_interval: 10000
+          error_count: 20
