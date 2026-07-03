@@ -38,6 +38,12 @@ jobs:
         with:
           path: docs
 
+      - name: Let Pages settle before deployment
+        run: sleep 45
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+        with:
+          reporting_interval: 10000
+          error_count: 20
