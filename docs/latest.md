@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T20:36
+Generated at: 2026-07-02T20:46
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-02
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Major epidemiology studies (2), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (33), Historical epidemiology / ancient disease / paleopathology (2), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
-- Lead item: [Scientists Launch the First Drug Trial Against Congo’s Bundibugyo Ebola Outbreak](https://easternherald.com/2026/07/03/bundibugyo-ebola-congo-clinical-trial-ituri/) (The Eastern Herald)
-- Newly tracked story cluster: 19 item(s) across 16 source(s).
-- Baseline snapshot created with 19 clustered item(s) across 16 source(s).
+- Lead item: [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://www.medpagetoday.com/infectiousdisease/ebola/122050) (MedPage Today)
+- Newly tracked story cluster: 19 item(s) across 17 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - CNA now includes deaths or fatal cases in the story frame.
 - The Eastern Herald now foregrounds vaccination or vaccine policy in the story.
 
@@ -45,10 +45,10 @@ Search window: 7 day(s) ending 2026-07-02
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 19 item(s) across 16 source(s); 0 official/primary-source item(s).
-- Lead item: [Scientists Launch the First Drug Trial Against Congo’s Bundibugyo Ebola Outbreak](https://easternherald.com/2026/07/03/bundibugyo-ebola-congo-clinical-trial-ituri/) (The Eastern Herald, 2026-07-02T21:33+00:00)
+- Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
+- Lead item: [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://www.medpagetoday.com/infectiousdisease/ebola/122050) (MedPage Today, 2026-07-02T20:58+00:00)
 - Detailed note: Cluster remains active across 19 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Scientists Launch the First Drug Trial Against Congo’s Bundibugyo Ebola Outbreak](https://easternherald.com/2026/07/03/bundibugyo-ebola-congo-clinical-trial-ituri/) (The Eastern Herald); [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://www.medpagetoday.com/infectiousdisease/ebola/122050) (MedPage Today); [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://news.google.com/rss/articles/CBMihAFBVV95cUxObmpwbF9ob1dBZzZ4cEp0VVNseFhneXNibkxkTjZSS19yRTJZZ2M2RmFPOFdFWnV1YVdsQ3llaG92U25aZERraGJpc2t2WHhiNkdnZS1NT3hOQnI1T0psZTctQ29GX014d2E3V3pfaDJBbXhQVzZucDdrT2JiNGg4ZGw2YWI?oc=5) (The New York Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) (South African Government News Agency); [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3V6eXdXZjV6VGdLbDdjOHpjT1hheVVOY2ZNMnVpb3JVTHlWTy1ac29XVXZ4YURXdjFuYjExZl8zc0NteTRac1BFamNKZFhITTNOZllUYjhVWnNhUUZzcVRud29zbHhrTFVtdzQ4Ujh1ZmhEUzF2TlZrLXRFZlJqVm5Ceno?oc=5) (CNA)
+- Evidence notes: [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://www.medpagetoday.com/infectiousdisease/ebola/122050) (MedPage Today); [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) (South African Government News Agency); [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3V6eXdXZjV6VGdLbDdjOHpjT1hheVVOY2ZNMnVpb3JVTHlWTy1ac29XVXZ4YURXdjFuYjExZl8zc0NteTRac1BFamNKZFhITTNOZllUYjhVWnNhUUZzcVRud29zbHhrTFVtdzQ4Ujh1ZmhEUzF2TlZrLXRFZlJqVm5Ceno?oc=5) (CNA); [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -411,10 +411,10 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Scientists Launch the First Drug Trial Against Congo’s Bundibugyo Ebola Outbreak
-- Source: The Eastern Herald
-- Date: 2026-07-02T21:33+00:00
-- URL: https://easternherald.com/2026/07/03/bundibugyo-ebola-congo-clinical-trial-ituri/
+### Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens
+- Source: MedPage Today
+- Date: 2026-07-02T20:58+00:00
+- URL: https://www.medpagetoday.com/infectiousdisease/ebola/122050
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
@@ -423,9 +423,7 @@ Search window: 7 day(s) ending 2026-07-02
 
 
 ## Other notable readings
-- [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://www.medpagetoday.com/infectiousdisease/ebola/122050) | MedPage Today | 2026-07-02T20:58+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://news.google.com/rss/articles/CBMihAFBVV95cUxObmpwbF9ob1dBZzZ4cEp0VVNseFhneXNibkxkTjZSS19yRTJZZ2M2RmFPOFdFWnV1YVdsQ3llaG92U25aZERraGJpc2t2WHhiNkdnZS1NT3hOQnI1T0psZTctQ29GX014d2E3V3pfaDJBbXhQVzZucDdrT2JiNGg4ZGw2YWI?oc=5) | The New York Times | 2026-07-02T20:56+00:00 | Outbreaks and emerging infections
+- [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) | The New York Times | 2026-07-02T20:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -458,6 +456,8 @@ Search window: 7 day(s) ending 2026-07-02
 - [In the frontlines of a safe and dignified Ebola outbreak response in Uganda - WHO | Regional Office for Africa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUVnWkxjeHdHY3JlTkNpVTZuNmtEclB3NVRhMzBVMms3eUk4dEJtNHFLbERWdE5iUy02YVBacUJjU29ROVN1NkRYbWxQN0I2S1VoNVJpXzN6cEZtMEI4M2xNcjhLU1c5bzdHSkN5WjFwWmpMUnRtX3JoMUY0dU1QcGptUVJQVk9qZnFEY0owY2NxZFlIU0s0RnE3c1Z0c3NmbTdMUHVBa0JCclE?oc=5) | WHO | 2026-07-01T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [A Risky Burial in the Heart of an Ebola Outbreak](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTcnZwT0trM2RkdDJYb3JpMGo4cldHRHF3TDFtc3BJeG95QVpzNmx3YVg0dE94dWo5T2p4VGNrMHpqNjlTSjB3bTdfeFRyYmdSdjhkRHFKTWdLMHpyNlJRM21fc0NyS05FZHlQVnA1aUZ2OFA5NkFSWnRSMzE?oc=5) | The New York Times | 2026-07-01T09:01+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola cases on the rise: These countries are at risk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjZhUEVJY3VhVHlfLUZLWmlBVkNzU3FNdFpBVHVsUHFtMDZwQUtiQ0FPcWJ2UGxDUkNFWEJDYVR3TXpTTFBNR1B2MXNqT2VVaTMxNl84LXRlWVpWRWlJWFZONWExRzh2c05GczgxWWxrZE9TTHRJUnFZc3lfTnlpc0xZSWlxUzF5R0ZDQWtkUQ?oc=5) | Modern.az | 2026-07-01T08:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) | NCPR: North Country Public Radio | 2026-06-30T19:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
