@@ -17,8 +17,8 @@ from typing import Any
 REPO_ROOT = Path(__file__).resolve().parents[1]
 PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
 PUBLIC_PUBLISH = REPO_ROOT / "src/public_publish.py"
-PUBLIC_MANIFEST_URL = "https://dteichrow.github.io/epi-dossier/app_exports/manifest.json"
-PUBLIC_LATEST_URL = "https://dteichrow.github.io/epi-dossier/app_exports/latest.json"
+PUBLIC_MANIFEST_URL = "https://dteichrow.github.io/app_exports/manifest.json"
+PUBLIC_LATEST_URL = "https://dteichrow.github.io/app_exports/latest.json"
 WATCHDOG_STATE_PATH = REPO_ROOT / "data" / "public_publish_watchdog_state.json"
 DEFAULT_STALE_MINUTES = 45
 DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES = 30

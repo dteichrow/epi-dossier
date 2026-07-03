@@ -5,9 +5,9 @@ from src import public_publish_watchdog
 from src.utils import stable_id
 
 
-def test_watchdog_defaults_to_canonical_project_manifest():
-    assert public_publish_watchdog.PUBLIC_MANIFEST_URL.endswith("/epi-dossier/app_exports/manifest.json")
-    assert public_publish_watchdog.PUBLIC_LATEST_URL.endswith("/epi-dossier/app_exports/latest.json")
+def test_watchdog_defaults_to_canonical_public_manifest():
+    assert public_publish_watchdog.PUBLIC_MANIFEST_URL.endswith("/app_exports/manifest.json")
+    assert public_publish_watchdog.PUBLIC_LATEST_URL.endswith("/app_exports/latest.json")
     assert public_publish_watchdog.DEFAULT_STALE_MINUTES == 45
     assert public_publish_watchdog.DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES == 30
 
