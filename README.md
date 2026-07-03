@@ -128,6 +128,22 @@ The live public site is integrated into the broader Edge of Epidemiology umbrell
 - https://dteichrow.github.io/reference/
 - https://dteichrow.github.io/stories/
 
+## Public Repo Hygiene
+
+This repository is public. Keep the tracked surface limited to code, source configuration, tests, public documentation, and generated public `docs/` output.
+
+Do not commit local job-search material, outreach queues, Gmail/message IDs, private operating notes, generated resumes, browser-control scripts, `.env` files, SQLite databases, logs, or one-off scratch output. The `.gitignore` intentionally blocks those local surfaces, especially `notes/`, `output/`, `tmp/`, local SQLite state, and session-specific automation scripts.
+
+Before publishing from a dirty checkout, inspect exactly what would be staged:
+
+```bash
+git status --short
+git diff --stat
+git diff --cached --stat
+```
+
+If the checkout contains unrelated local work, prefer the guarded publisher or a clean temporary worktree from `origin/main` instead of committing from the messy working tree.
+
 ## Notes For Reviewers
 
 This is a working personal research/publication system, not a packaged commercial product. The useful review target is the workflow: source intake, normalization, scoring, structured outputs, QA, and publication discipline.

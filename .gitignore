@@ -3,9 +3,12 @@
 __pycache__/
 .pytest_cache/
 *.pyc
+.env
+.env.*
 
 # Local caches and machine state
 /data/*.sqlite
+/data/*.sqlite-*
 /data/public_publish_watchdog_state.json
 /data/http_cache/
 /data/source_items/
@@ -16,3 +19,30 @@ __pycache__/
 
 # Local-only reader surface; public deploy artifacts live in docs/
 /Daily Dossiers/
+
+# Private/local work products that should not be swept into the public repo.
+# The public project should contain pipeline code, source configuration, tests,
+# and generated public docs, not job-search, outreach, or client material.
+/notes/*
+!/notes/pathogen-atlas-research-notes-2026-05-10.md
+/output/
+/tmp/
+/assets/occupational-epi-images/
+
+# Local AppleScript/browser automation created during one-off operating sessions.
+/scripts/*brave*.applescript
+/scripts/*wave*.applescript
+/scripts/*office*.applescript
+/scripts/*reminder*.applescript
+/scripts/*plain_language*.applescript
+/scripts/setup_*calendar.applescript
+/scripts/setup_*calendar*.applescript
+/scripts/setup_*notes.applescript
+/scripts/setup_home_bridge.applescript
+/scripts/setup_substack_cta_note.applescript
+/scripts/setup_six_piece_distribution_pilot.applescript
+/scripts/sync_notes_to_action_reminders.applescript
+/scripts/create_notes_action_queue_once.applescript
+/scripts/apply_substack_metadata_updates.js
+/scripts/export_resume_pdf_basic.py
+/scripts/build_ai_tools_resume_variant.py
