@@ -1,18 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-03
-Generated at: 2026-07-03T15:36
+Generated at: 2026-07-03T15:46
 Search window: 7 day(s) ending 2026-07-03
 
 ## Executive scan
-- [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR; 2026-07-02T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies; 2026-07-02T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Occupational and environmental epidemiology (3), Major epidemiology studies (3)
+- [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters; 2026-07-03T21:11+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (35), Major epidemiology studies (2), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,69 +25,63 @@ Search window: 7 day(s) ending 2026-07-03
 
 ### Ebola virus disease
 - Lead item: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters)
-- Newly tracked story cluster: 20 item(s) across 17 source(s).
-- Baseline snapshot created with 20 clustered item(s) across 17 source(s).
+- Newly tracked story cluster: 23 item(s) across 20 source(s).
+- Baseline snapshot created with 23 clustered item(s) across 20 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
-
-### Occupational and environmental epidemiology
-- Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
-- Newly tracked story cluster: 5 item(s) across 4 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 4 source(s).
-- CBS News now explicitly uses investigation or monitoring language.
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 5 item(s) across 3 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 4 item(s) across 3 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 20 item(s) across 17 source(s); 0 official/primary-source item(s).
+- Topic size: 23 item(s) across 20 source(s); 0 official/primary-source item(s).
 - Lead item: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters, 2026-07-03T21:11+00:00)
-- Detailed note: Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters); [UN Warns Ebola Outbreak in DR Congo Threatens 300,000 Jobs](https://allafrica.com/view/group/main/main/id/00097331.html) (allAfrica.com); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) (allAfrica.com); [More than 400 dead in #DR_Congo's spreading Ebola outbreak An #Ebola outbreak in the DR Congo has killed more than 400 people and is still spreading, with a first case reported in the major city of #Kisangani nearly 600 kilometres (370 miles) from its epi](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc0NELWJqUVZlcFBVOUl1R1Q4Rzc5TVU5YjBycWNMNVBrbDRQdWVxUnM1VFV0enE5alpsa1NpcDBjUjVjZ3dLMWYtd1hHY3VpaG5JRGJnM25FaUxjaGs2NkNnTWZoTUF5OW5lalBMOXUzWjVQY0RKQ285VV9FLVd3WTVsRXlyMUlMZGk0TDFpNDhPLTQzUmRYSFJSN01xcHZyNllENHpWcUJmMVBBbnRIaWZIR1FEdndvRlN5RzRwZ2NlcHA2cFUxMk9fYTY0S2ZybTc5UHpuVS1TRUJYNnNpSQ?oc=5) (facebook.com)
+- Detailed note: Cluster remains active across 23 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters); [UN Warns Ebola Outbreak in DR Congo Threatens 300,000 Jobs](https://allafrica.com/view/group/main/main/id/00097331.html) (allAfrica.com); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) (allAfrica.com); [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) (Daily Sabah)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Occupational and environmental epidemiology
-- Topic size: 5 item(s) across 4 source(s); 2 official/primary-source item(s).
-- Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR, 2026-07-02T17:00+00:00)
-- Detailed note: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. Weekly / July 2, 2026 / 75(25);322â326 Sarah Gallalee, PhD 1 ,2 ; Hannah M. During 2022-2024, a total of 13,507 clinical C.
-- Evidence notes: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR); [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR); [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation/) (CBS News); [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio); [Ebola response worker who traveled from DRC to France is first in outbreak to test positive outside of Africa](https://www.cnn.com/2026/06/24/world/france-ebola-patient) (CNN)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Miscellaneous signals
-- Topic size: 5 item(s) across 2 source(s); 5 official/primary-source item(s).
+- Topic size: 6 item(s) across 2 source(s); 6 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Perceptions, knowledge, and access to the HPV vaccine among parents and healthcare providers in South Quito, Ecuador in 2025: A qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42396795/) (PubMed Infectious Disease Search)
+- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026) (FDA Foodborne Outbreaks)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### COVID-19 and SARS-CoV-2
-- Topic size: 5 item(s) across 3 source(s); 5 official/primary-source item(s).
-- Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
-- Detailed note: Adequate knowledge about free vaccination (adjusted odds ratio [aOR] 3.86), routine vaccination (aOR 5.72), and obligation to make efforts to receive vaccination (aOR 2.21) were positively associated with acceptance, whereas anxiety about vaccination was negatively associated (aOR 0.37). The proportions of participants with ≥3 doses of COVID-19 vaccine (77% versus 59%) and those enrolled in the Faculty of...
-- Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Evaluating the societal value of adult respiratory vaccination in Sweden: a benefit-cost analysis.](https://pubmed.ncbi.nlm.nih.gov/42384548/) (PubMed Infectious Disease Search); [Determinants of HPV vaccination acceptance among young adult women in Japan's catch-up generation: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42386385/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Dengue alert in Puttur as monsoon sets in](https://timesofindia.indiatimes.com/city/mangaluru/dengue-alert-in-puttur-as-monsoon-sets-in/amp_articleshow/132159647.cms) (The Times of India, 2026-07-03T11:02+00:00)
-- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Thai Church marks Rerum Novarum anniversary with renewed call for labor justice This July 1, there is much to be concerned about Hong Kong New ASIF statute: A further step toward international standards Faces that haunt me Pope Leo XIV updates the Constitution of the Vicariate of Rome A Buddhist monk prays alongside...
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
 - Evidence notes: [Dengue alert in Puttur as monsoon sets in](https://timesofindia.indiatimes.com/city/mangaluru/dengue-alert-in-puttur-as-monsoon-sets-in/amp_articleshow/132159647.cms) (The Times of India); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Sri Lanka National Dengue Control Unit: Current Status of Dengue in Sri Lanka (As of 02.07.2026 midnight)](https://reliefweb.int/report/sri-lanka/sri-lanka-national-dengue-control-unit-current-status-dengue-sri-lanka-02072026-midnight) (ReliefWeb)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
+- Detailed note: Adequate knowledge about free vaccination (adjusted odds ratio [aOR] 3.86), routine vaccination (aOR 5.72), and obligation to make efforts to receive vaccination (aOR 2.21) were positively associated with acceptance, whereas anxiety about vaccination was negatively associated (aOR 0.37). The proportions of participants with ≥3 doses of COVID-19 vaccine (77% versus 59%) and those enrolled in the Faculty of...
+- Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Determinants of HPV vaccination acceptance among young adult women in Japan's catch-up generation: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42386385/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) (Mwebantu, 2026-07-03T12:03+00:00)
 - Detailed note: BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained...
 - Evidence notes: [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) (Mwebantu)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
+### Avian influenza and H5N1
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation, 2026-06-25T07:00+00:00)
+- Detailed note: Please let us know Hong Kong was first to respond to an outbreak of H5N1 bird flu three decades ago.
+- Evidence notes: [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -320,16 +314,6 @@ Search window: 7 day(s) ending 2026-07-03
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
-### Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025
-- Source: CDC MMWR
-- Date: 2026-07-02T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941
-- Category: Occupational and environmental epidemiology
-- Summary: Weekly / July 2, 2026 / 75(25);322â326 Sarah Gallalee, PhD 1 ,2 ; Hannah M. Two of four total patients with legionellosis were hospitalized; none died. Legionella bacteria can pose a health risk when they contaminate building water systems.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### A historical overview of the anti-vaccine movement and its public health implications.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-02T00:00
@@ -380,6 +364,16 @@ Search window: 7 day(s) ending 2026-07-03
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1365: Salmonella Newport & Kentucky linked to Moringa Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-01T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1365 with date posted 2/11/2026. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Moringa Powder.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-01T00:00
@@ -387,16 +381,6 @@ Search window: 7 day(s) ending 2026-07-03
 - Category: Historical epidemiology / ancient disease / paleopathology
 - Summary: The study integrates epidemiological data and contextual historical information such as crime statistics, archival records, and secondary scholarship to explore whether epidemic-driven mortality crises are associated with subsequent changes in violence and injury profiles. A comparison between epidemic and socio-economic profiles strongly suggests that the significant increases in violent crime recorded after the Covid-19 pandemic are highly localised, and may be more strongly related to lockdown responses, including alcohol restrictions, rather than the effects of disease itself. This paper explores historical and contemporary intersections between mass-mortality epidemics and violent crime in South Africa, focusing on four major epidemics - Spanish Flu, tuberculosis, HIV, and Covid-19.
 - Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Surveillance Summaries: Surveillance for Candida auris
-- Source: CDC MMWR
-- Date: 2026-06-30T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938
-- Category: Occupational and environmental epidemiology
-- Summary: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. During 2022-2024, a total of 13,507 clinical C.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
@@ -420,23 +404,31 @@ Search window: 7 day(s) ending 2026-07-03
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### China dispatches 2nd medical team to DR Congo as Ebola fatalities rise
+- Source: Anadolu Ajansı
+- Date: 2026-07-03T12:42+00:00
+- URL: https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) | Mwebantu | 2026-07-03T12:03+00:00 | Outbreaks and emerging infections
   BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Investors have regained appetite for Zambia after default, Citi says ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Limited detail was available from feed metadata alone.
 - [Dengue alert in Puttur as monsoon sets in](https://timesofindia.indiatimes.com/city/mangaluru/dengue-alert-in-puttur-as-monsoon-sets-in/amp_articleshow/132159647.cms) | The Times of India | 2026-07-03T11:02+00:00 | Outbreaks and emerging infections
   In case you want to opt out, please click "Do Not Sell or Share My Personal Information" link in the footer of this page. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously. We encourage you to review our Terms of Service , and Privacy Policy .
 - [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) | allAfrica.com | 2026-07-03T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) | Daily Sabah | 2026-07-03T08:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [More than 400 dead in #DR_Congo's spreading Ebola outbreak An #Ebola outbreak in the DR Congo has killed more than 400 people and is still spreading, with a first case reported in the major city of #Kisangani nearly 600 kilometres (370 miles) from its epi](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc0NELWJqUVZlcFBVOUl1R1Q4Rzc5TVU5YjBycWNMNVBrbDRQdWVxUnM1VFV0enE5alpsa1NpcDBjUjVjZ3dLMWYtd1hHY3VpaG5JRGJnM25FaUxjaGs2NkNnTWZoTUF5OW5lalBMOXUzWjVQY0RKQ285VV9FLVd3WTVsRXlyMUlMZGk0TDFpNDhPLTQzUmRYSFJSN01xcHZyNllENHpWcUJmMVBBbnRIaWZIR1FEdndvRlN5RzRwZ2NlcHA2cFUxMk9fYTY0S2ZybTc5UHpuVS1TRUJYNnNpSQ?oc=5) | facebook.com | 2026-07-03T08:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXUwU3VrTjZPdlVndmZSUHlPMmp3dzloakh3QTc2UnQ1WGdpbEZJa1hRRHZLZENoa0xHUXNoOTh0bjZBSTZFUlZiZExDQVJRUlhHd2lFWW1qX0YyYW5IeHNDMk1zaWhLdE9OaXg4TmRqT3dZTF9UZTNyYjg3S0dfMTRFejZwQWFSd3BraEU3Y2lMajgtWVZLX1V1SWNGU2hMczE0TzlyalBtV0l1NWpHOGJ6WE9CeVR1dEk0c2NpVHRvb25yWlBrdEFKRVdrVXBvcTJNOUFxT3BLdw?oc=5) | The Eastleigh Voice | 2026-07-03T04:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFVBWGdmbmJySGt6VGZ6R1FOaURTZUJzVXYtbmk4ajRZWGFtS2QtVGRxbHpUamVFa2YySjBJX2ItTGpUVldSOHpxaWhlamptSnFhaDk3RXIwblNmNlo1Y0h3RGpGZXJVd1VaOGktY3pVbkI5eUtGU01WSnEwWlVyck1mcVB5X1NkQzJjanUwSkk5c1hKNG9zNjlSQnhfSFVqSVpHaTZqRjhmNExkX0IzVDNsVQ?oc=5) | IOL | 2026-07-03T04:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation/) | CBS News | 2026-07-03T03:09+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 - [More than 400 dead in Dr. Congo’s spreading Ebola outbreak](https://news.google.com/rss/articles/CBMiekFVX3lxTE5RSTN0VnRyaEhyUno4cVhVa24wemZuWXV5clY1WmdnbzYwNDBJUFd4YzNZYTB6NUktUW9SUXlaVWNjbWpjRDVvdXMzVS1UWERHamZjY0d0dDZ3YTBIb1QzcklEc2l2SDVLc2dIRXZlT1k5a0psU1hmTXhB?oc=5) | The Japan Times | 2026-07-03T01:10+00:00 | Outbreaks and emerging infections
   Congo’s spreading Ebola outbreak The Japan Times
@@ -460,6 +452,8 @@ Search window: 7 day(s) ending 2026-07-03
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
 - [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) | The Guardian | 2026-07-02T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) | Temple Daily Telegram | 2026-07-02T05:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
   Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan, which is âa high-risk country because of its proximity to the affected areas and cross-border population movementâ, Africa Centres for Disease Control and Prevention said in a response to questions on June 30. The new infections involve two of the contacts of a confirmed Ituri case, who then travelled to Haut-Uele and were later diagnosed there, Congoâs government spokesman Patrick Muyaya said. Learn more about our privacy policy Three people exposed to the Ebola outbreak in the Democratic Republic of Congo have been traced to a province bordering South Sudan, increasing the chances the virus could spill into one of the worldâs most fragile states.
 
@@ -482,12 +476,6 @@ Search window: 7 day(s) ending 2026-07-03
   Journal/preprint server: Global public health
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42396795/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42396795/
-- [Evaluating the societal value of adult respiratory vaccination in Sweden: a benefit-cost analysis.](https://pubmed.ncbi.nlm.nih.gov/42384548/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/14760584.2026.2689614
-  Journal/preprint server: Expert review of vaccines
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42384548/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42384548/
 - [Determinants of HPV vaccination acceptance among young adult women in Japan's catch-up generation: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42386385/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2697396
@@ -503,6 +491,5 @@ Search window: 7 day(s) ending 2026-07-03
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
