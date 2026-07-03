@@ -87,7 +87,7 @@ jobs:
       cancel-in-progress: false
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url || steps.deployment_retry_2.outputs.page_url }}
 
     steps:
       - name: Check out published main
@@ -121,6 +121,19 @@ jobs:
       - name: Retry GitHub Pages deployment
         id: deployment_retry
         if: steps.deployment.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+        with:
+          reporting_interval: 10000
+          error_count: 20
+
+      - name: Wait before final Pages deployment retry
+        if: steps.deployment.outcome == 'failure' && steps.deployment_retry.outcome == 'failure'
+        run: sleep 150
+
+      - name: Final GitHub Pages deployment retry
+        id: deployment_retry_2
+        if: steps.deployment.outcome == 'failure' && steps.deployment_retry.outcome == 'failure'
         uses: actions/deploy-pages@v5
         with:
           reporting_interval: 10000

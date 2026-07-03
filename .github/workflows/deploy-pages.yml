@@ -1,12 +1,8 @@
 name: Deploy GitHub Pages
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "docs/**"
-      - ".github/workflows/deploy-pages.yml"
+  # Manual fallback only. The Newsdesk publisher already deploys after it writes
+  # docs; auto-running this on the same push creates duplicate Pages deploys.
   workflow_dispatch:
 
 permissions:
