@@ -4,6 +4,7 @@
     "major_publisher_families_seen": [
       "CBS News",
       "CNN",
+      "Guardian",
       "New York Times",
       "Reuters"
     ],
@@ -21,7 +22,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-03T16:16:40",
+  "generated_at": "2026-07-03T16:26:36",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
