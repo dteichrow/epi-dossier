@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-03
-Generated at: 2026-07-03T14:16
+Generated at: 2026-07-03T14:26
 Search window: 7 day(s) ending 2026-07-03
 
 ## Executive scan
@@ -12,21 +12,21 @@ Search window: 7 day(s) ending 2026-07-03
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Occupational and environmental epidemiology (3), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (33), Major epidemiology studies (3), Occupational and environmental epidemiology (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Dengue and arboviruses
 - Lead item: [Dengue alert in Puttur as monsoon sets in](https://timesofindia.indiatimes.com/city/mangaluru/dengue-alert-in-puttur-as-monsoon-sets-in/amp_articleshow/132159647.cms) (The Times of India)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Magzter now explicitly uses investigation or monitoring language.
 - Herald Malaysia Online now includes deaths or fatal cases in the story frame.
 
 ### Ebola virus disease
-- Lead item: [Congo Starts Ebola Treatment Trial As Cases Reach 1,427, Deaths Hit 440](https://www.healthandme.com/health-news/congo-starts-ebola-treatment-trial-as-cases-reach-1427-deaths-hit-440-article-154917904) (Health and Me)
-- Newly tracked story cluster: 20 item(s) across 17 source(s).
-- Baseline snapshot created with 20 clustered item(s) across 17 source(s).
+- Lead item: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters)
+- Newly tracked story cluster: 19 item(s) across 17 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - Health and Me now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -41,13 +41,19 @@ Search window: 7 day(s) ending 2026-07-03
 - Baseline snapshot created with 5 clustered item(s) across 3 source(s).
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
+### Measles transmission and vaccination
+- Lead item: [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) (Mwebantu)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 20 item(s) across 17 source(s); 0 official/primary-source item(s).
-- Lead item: [Congo Starts Ebola Treatment Trial As Cases Reach 1,427, Deaths Hit 440](https://www.healthandme.com/health-news/congo-starts-ebola-treatment-trial-as-cases-reach-1427-deaths-hit-440-article-154917904) (Health and Me, 2026-07-03T18:30+00:00)
-- Detailed note: Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Congo Starts Ebola Treatment Trial As Cases Reach 1,427, Deaths Hit 440](https://www.healthandme.com/health-news/congo-starts-ebola-treatment-trial-as-cases-reach-1427-deaths-hit-440-article-154917904) (Health and Me); [UN Warns Ebola Outbreak in DR Congo Threatens 300,000 Jobs](https://allafrica.com/view/group/main/main/id/00097331.html) (allAfrica.com); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) (allAfrica.com); [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) (Daily Sabah)
+- Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
+- Lead item: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters, 2026-07-03T21:11+00:00)
+- Detailed note: Cluster remains active across 19 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters); [Congo Starts Ebola Treatment Trial As Cases Reach 1,427, Deaths Hit 440](https://www.healthandme.com/health-news/congo-starts-ebola-treatment-trial-as-cases-reach-1427-deaths-hit-440-article-154917904) (Health and Me); [UN Warns Ebola Outbreak in DR Congo Threatens 300,000 Jobs](https://news.google.com/rss/articles/CBMia0FVX3lxTE81OXR5bkg5SkZpR05Rd3cwUWd5UVNQUlZqNkM2TDhtZUxQcnJIb0dmTDA0Rkl4ano2dzVFSzVZZWlRZGlzNHZnMW5zWjBSbXJzUzdDS3pFRzYyOHJTVXlwSkRNemwxNHdCY0dz?oc=5) (allAfrica.com); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) (allAfrica.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -75,21 +81,21 @@ Search window: 7 day(s) ending 2026-07-03
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue alert in Puttur as monsoon sets in](https://timesofindia.indiatimes.com/city/mangaluru/dengue-alert-in-puttur-as-monsoon-sets-in/amp_articleshow/132159647.cms) (The Times of India, 2026-07-03T11:02+00:00)
-- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
-- Evidence notes: [Dengue alert in Puttur as monsoon sets in](https://timesofindia.indiatimes.com/city/mangaluru/dengue-alert-in-puttur-as-monsoon-sets-in/amp_articleshow/132159647.cms) (The Times of India); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Sri Lanka National Dengue Control Unit: Current Status of Dengue in Sri Lanka (As of 02.07.2026 midnight)](https://reliefweb.int/report/sri-lanka/sri-lanka-national-dengue-control-unit-current-status-dengue-sri-lanka-02072026-midnight) (ReliefWeb)
+### Measles transmission and vaccination
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) (Mwebantu, 2026-07-03T12:03+00:00)
+- Detailed note: BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained...
+- Evidence notes: [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) (Mwebantu); [With 5 more deaths, Bangladesh’s measles-related toll rises to 729](https://www.thedailystar.net/health/disease/news/5-more-deaths-bangladeshs-measles-related-toll-rises-729-4214926) (The Daily Star); [Al-Shabab Launches Response To Contain Measles Outbreak - MEMRI | Middle East Media Research Institute](https://www.memri.org/jttm/al-qaeda-affiliate-somalia-al-shabab-launches-medical-response-campaign-contain-measles) (MEMRI)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Measles transmission and vaccination
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) (Mwebantu, 2026-07-03T12:03+00:00)
-- Detailed note: BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained...
-- Evidence notes: [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) (Mwebantu)
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Dengue alert in Puttur as monsoon sets in](https://timesofindia.indiatimes.com/city/mangaluru/dengue-alert-in-puttur-as-monsoon-sets-in/amp_articleshow/132159647.cms) (The Times of India, 2026-07-03T11:02+00:00)
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
+- Evidence notes: [Dengue alert in Puttur as monsoon sets in](https://timesofindia.indiatimes.com/city/mangaluru/dengue-alert-in-puttur-as-monsoon-sets-in/amp_articleshow/132159647.cms) (The Times of India); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -400,6 +406,16 @@ Search window: 7 day(s) ending 2026-07-03
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Congo says number of confirmed Ebola cases rises to 1,502
+- Source: Reuters
+- Date: 2026-07-03T21:11+00:00
+- URL: https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 ### Congo Starts Ebola Treatment Trial As Cases Reach 1,427, Deaths Hit 440
 - Source: Health and Me
 - Date: 2026-07-03T18:30+00:00
@@ -410,19 +426,11 @@ Search window: 7 day(s) ending 2026-07-03
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### UN Warns Ebola Outbreak in DR Congo Threatens 300,000 Jobs
-- Source: allAfrica.com
-- Date: 2026-07-03T12:57+00:00
-- URL: https://allafrica.com/view/group/main/main/id/00097331.html
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
-- [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
+- [UN Warns Ebola Outbreak in DR Congo Threatens 300,000 Jobs](https://news.google.com/rss/articles/CBMia0FVX3lxTE81OXR5bkg5SkZpR05Rd3cwUWd5UVNQUlZqNkM2TDhtZUxQcnJIb0dmTDA0Rkl4ano2dzVFSzVZZWlRZGlzNHZnMW5zWjBSbXJzUzdDS3pFRzYyOHJTVXlwSkRNemwxNHdCY0dz?oc=5) | allAfrica.com | 2026-07-03T12:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) | Mwebantu | 2026-07-03T12:03+00:00 | Outbreaks and emerging infections
   BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Investors have regained appetite for Zambia after default, Citi says ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Limited detail was available from feed metadata alone.
@@ -431,6 +439,8 @@ Search window: 7 day(s) ending 2026-07-03
 - [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) | allAfrica.com | 2026-07-03T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) | Daily Sabah | 2026-07-03T08:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [More than 400 dead in #DR_Congo's spreading Ebola outbreak An #Ebola outbreak in the DR Congo has killed more than 400 people and is still spreading, with a first case reported in the major city of #Kisangani nearly 600 kilometres (370 miles) from its epi](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc0NELWJqUVZlcFBVOUl1R1Q4Rzc5TVU5YjBycWNMNVBrbDRQdWVxUnM1VFV0enE5alpsa1NpcDBjUjVjZ3dLMWYtd1hHY3VpaG5JRGJnM25FaUxjaGs2NkNnTWZoTUF5OW5lalBMOXUzWjVQY0RKQ285VV9FLVd3WTVsRXlyMUlMZGk0TDFpNDhPLTQzUmRYSFJSN01xcHZyNllENHpWcUJmMVBBbnRIaWZIR1FEdndvRlN5RzRwZ2NlcHA2cFUxMk9fYTY0S2ZybTc5UHpuVS1TRUJYNnNpSQ?oc=5) | facebook.com | 2026-07-03T08:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXUwU3VrTjZPdlVndmZSUHlPMmp3dzloakh3QTc2UnQ1WGdpbEZJa1hRRHZLZENoa0xHUXNoOTh0bjZBSTZFUlZiZExDQVJRUlhHd2lFWW1qX0YyYW5IeHNDMk1zaWhLdE9OaXg4TmRqT3dZTF9UZTNyYjg3S0dfMTRFejZwQWFSd3BraEU3Y2lMajgtWVZLX1V1SWNGU2hMczE0TzlyalBtV0l1NWpHOGJ6WE9CeVR1dEk0c2NpVHRvb25yWlBrdEFKRVdrVXBvcTJNOUFxT3BLdw?oc=5) | The Eastleigh Voice | 2026-07-03T04:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -452,16 +462,12 @@ Search window: 7 day(s) ending 2026-07-03
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak could cost Africa $3.6 billion](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjhBSkpXTEs4NVJKV3ZKdHZUVEdUaWVsYV9pcGNVa3JVc1p1bGx2SDJBcGxVUk1IUTlxZUJyT1RFX09xOVUwdUQwX2RIZzZjMGpiVzc3NUp3ajdha0JyUWt6M3Ezb005ZklZNEI1cVprTjBla1otQ0pDLWhJT2NpM2pkc1FjeTFTZHc?oc=5) | Times of Suriname | 2026-07-02T14:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak cases and deaths rise in Congo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5) | Outbreak News Today | 2026-07-02T13:06+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://news.google.com/rss/articles/CBMihAFBVV95cUxObmpwbF9ob1dBZzZ4cEp0VVNseFhneXNibkxkTjZSS19yRTJZZ2M2RmFPOFdFWnV1YVdsQ3llaG92U25aZERraGJpc2t2WHhiNkdnZS1NT3hOQnI1T0psZTctQ29GX014d2E3V3pfaDJBbXhQVzZucDdrT2JiNGg4ZGw2YWI?oc=5) | The New York Times | 2026-07-02T12:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) | The Eastern Herald | 2026-07-02T10:32+00:00 | Outbreaks and emerging infections
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
-- [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) | The Guardian | 2026-07-02T09:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
   Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan, which is âa high-risk country because of its proximity to the affected areas and cross-border population movementâ, Africa Centres for Disease Control and Prevention said in a response to questions on June 30. The new infections involve two of the contacts of a confirmed Ituri case, who then travelled to Haut-Uele and were later diagnosed there, Congoâs government spokesman Patrick Muyaya said. Learn more about our privacy policy Three people exposed to the Ebola outbreak in the Democratic Republic of Congo have been traced to a province bordering South Sudan, increasing the chances the virus could spill into one of the worldâs most fragile states.
+- [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) | Herald Malaysia Online | 2026-07-01T04:47+00:00 | Outbreaks and emerging infections
+  Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the mountain monk A Buddhist monk prays alongside devotees on the occasion of Poson Poya (full moon), a religious festival that marks the arrival of Buddhism in Sri Lanka, at the Kelaniya temple on the outskirts of Colombo on June 29. Sri Lanka recorded more than 51,000 dengue cases and 28 deaths in the first six months of this year, according to government data. According to the latest government data, Sri Lanka registered 53,159 dengue cases and 31 deaths until June.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
