@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T21:16
+Generated at: 2026-07-02T22:01
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-02
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Major epidemiology studies (2), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (33), Occupational and environmental epidemiology (2), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -56,8 +56,8 @@ Search window: 7 day(s) ending 2026-07-02
 - Topic size: 7 item(s) across 4 source(s); 5 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Estimating clinical and economic impacts and cost-effectiveness of introducing 20-valent pneumococcal conjugate vaccine in Taiwan's pediatric National Immunization Program and impacts of a delayed implementation.](https://pubmed.ncbi.nlm.nih.gov/42392190/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
@@ -401,16 +401,6 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-06-30T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42377320/
-- Category: Major epidemiology studies
-- Summary: Bacteremia (OR=5.91, p <0.001), diabetes mellitus (OR=2.27, p =0.008), and pulmonary infection (OR=2.26, p =0.005) were identified as risk factors for mortality. Melioidosis predominantly affected male patients (86.8%, 481/554) and those aged 45 -64 years (57.7%). Pan-genome analysis confirmed chromosomal functional compartmentalization of the bipartite genome, and genome-wide association study identified high-confidence genetic markers (OR >3 or <0.33) significantly associated with mortality and bacteremia.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens
 - Source: MedPage Today
 - Date: 2026-07-02T20:58+00:00
@@ -421,10 +411,18 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town
+- Source: The New York Times
+- Date: 2026-07-02T20:56+00:00
+- URL: https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) | The New York Times | 2026-07-02T20:56+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3V6eXdXZjV6VGdLbDdjOHpjT1hheVVOY2ZNMnVpb3JVTHlWTy1ac29XVXZ4YURXdjFuYjExZl8zc0NteTRac1BFamNKZFhITTNOZllUYjhVWnNhUUZzcVRud29zbHhrTFVtdzQ4Ujh1ZmhEUzF2TlZrLXRFZlJqVm5Ceno?oc=5) | CNA | 2026-07-02T20:41+00:00 | Outbreaks and emerging infections
@@ -443,8 +441,6 @@ Search window: 7 day(s) ending 2026-07-02
   Limited detail was available from feed metadata alone.
 - [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) | Temple Daily Telegram | 2026-07-02T05:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo could push a million more people into poverty](https://news.google.com/rss/articles/CBMifkFVX3lxTFBiOXhwM2VsTTJzVUJFTFFZSmNnOXZpMkFhajYxTWMwZ1pHTm1OQjVEcWkxRV9LY19Sd0ZYbGY1VlNQejZ5bVR5VzBFS1NCVXU4MW9oYmxYdGxyczVuQjcxNUJjNGt6MTNFMklKUG5uTzRVbi1LV0E0TUdQak9aZw?oc=5) | AOL.com | 2026-07-02T04:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
   Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan, which is âa high-risk country because of its proximity to the affected areas and cross-border population movementâ, Africa Centres for Disease Control and Prevention said in a response to questions on June 30. The new infections involve two of the contacts of a confirmed Ituri case, who then travelled to Haut-Uele and were later diagnosed there, Congoâs government spokesman Patrick Muyaya said. Learn more about our privacy policy Three people exposed to the Ebola outbreak in the Democratic Republic of Congo have been traced to a province bordering South Sudan, increasing the chances the virus could spill into one of the worldâs most fragile states.
 - [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) | CIDRAP | 2026-07-01T20:42+00:00 | Outbreaks and emerging infections
@@ -459,10 +455,14 @@ Search window: 7 day(s) ending 2026-07-02
   Limited detail was available from feed metadata alone.
 - [A Risky Burial in the Heart of an Ebola Outbreak](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTcnZwT0trM2RkdDJYb3JpMGo4cldHRHF3TDFtc3BJeG95QVpzNmx3YVg0dE94dWo5T2p4VGNrMHpqNjlTSjB3bTdfeFRyYmdSdjhkRHFKTWdLMHpyNlJRM21fc0NyS05FZHlQVnA1aUZ2OFA5NkFSWnRSMzE?oc=5) | The New York Times | 2026-07-01T09:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola cases on the rise: These countries are at risk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjZhUEVJY3VhVHlfLUZLWmlBVkNzU3FNdFpBVHVsUHFtMDZwQUtiQ0FPcWJ2UGxDUkNFWEJDYVR3TXpTTFBNR1B2MXNqT2VVaTMxNl84LXRlWVpWRWlJWFZONWExRzh2c05GczgxWWxrZE9TTHRJUnFZc3lfTnlpc0xZSWlxUzF5R0ZDQWtkUQ?oc=5) | Modern.az | 2026-07-01T08:18+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) | NCPR: North Country Public Radio | 2026-06-30T19:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) | Magzter | 2026-06-29T06:16+00:00 | Outbreaks and emerging infections
   Most cases are mild to moderate. A smaller share progress to severe dengue, which is the phase that requires hospital monitoring and, occasionally, intensive care. Dengue and seasonal influenza look almost identical for the first two or three days, and that overlap costs lives every single year, not just during outbreak years.
+- [DR Congo cancels pre-World Cup camp due to Ebola outbreak, FIFA ‘monitoring’ situation - The Athletic](https://www.nytimes.com/athletic/7295322/2026/05/20/dr-congo-world-cup-ebola/) | The New York Times | 2026-06-27T07:00+00:00 | Outbreaks and emerging infections
+  The World Health Organisation has called it “a public health emergency of international concern” with 139 suspected deaths and over 600 cases due to the disease, per the BBC . DR Congo have confirmed that they have moved the camp to Belgium, where they are due to play Denmark on June 3, with a further pre-tournament fixture in Spain on June 9. Simon Barber/Getty Images DR Congo have cancelled their pre-World Cup training camp in the capital Kinshasa due to the Ebola outbreak in the country.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
@@ -477,12 +477,12 @@ Search window: 7 day(s) ending 2026-07-02
   Journal/preprint server: International journal of injury control and safety promotion
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42385127/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42385127/
-- [Genomic landscape and phylogenetic insights of Burkholderia pseudomallei over two decades in southern China and its global surveillance.](https://pubmed.ncbi.nlm.nih.gov/42377320/)
+- [Estimating clinical and economic impacts and cost-effectiveness of introducing 20-valent pneumococcal conjugate vaccine in Taiwan's pediatric National Immunization Program and impacts of a delayed implementation.](https://pubmed.ncbi.nlm.nih.gov/42392190/)
   Source: PubMed Infectious Disease Search
-  DOI: 10.1080/22221751.2026.2691358
-  Journal/preprint server: Emerging microbes & infections
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42377320/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42377320/
+  DOI: 10.1080/21645515.2026.2694843
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42392190/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42392190/
 - [Determinants of HPV vaccination acceptance among young adult women in Japan's catch-up generation: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42386385/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2697396
