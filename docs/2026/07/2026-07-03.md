@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-03
-Generated at: 2026-07-03T01:31
+Generated at: 2026-07-03T02:16
 Search window: 7 day(s) ending 2026-07-03
 
 ## Executive scan
@@ -38,9 +38,9 @@ Search window: 7 day(s) ending 2026-07-03
 ## Major topics
 ### Ebola virus disease
 - Topic size: 20 item(s) across 18 source(s); 0 official/primary-source item(s).
-- Lead item: [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) (IOL, 2026-07-03T04:32+00:00)
+- Lead item: [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) (IOL, 2026-07-03T05:04+00:00)
 - Detailed note: "We aim to gain a closer understanding of how the Ebola outbreak is evolving and the assistance that the DRC has received from the international community," he said. Congo’s spreading Ebola outbreak The Japan Times Gu said Chinese authorities also plan to promote cooperation between Chinese and DRC institutions with the goal of supplying public health products to affected areas.
-- Evidence notes: [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) (IOL); [Second team to bolster Ebola aid](https://www.chinadaily.com.cn/a/202607/03/WS6a470e0ca310986e2b46348f.html) (China Daily); [More than 400 dead in Dr. Congo’s spreading Ebola outbreak](https://www.japantimes.co.jp/news/2026/07/03/world/congo-ebola-deaths/) (The Japan Times); [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://news.google.com/rss/articles/CBMihAFBVV95cUxObmpwbF9ob1dBZzZ4cEp0VVNseFhneXNibkxkTjZSS19yRTJZZ2M2RmFPOFdFWnV1YVdsQ3llaG92U25aZERraGJpc2t2WHhiNkdnZS1NT3hOQnI1T0psZTctQ29GX014d2E3V3pfaDJBbXhQVzZucDdrT2JiNGg4ZGw2YWI?oc=5) (The New York Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) (South African Government News Agency)
+- Evidence notes: [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) (IOL); [Second team to bolster Ebola aid](https://www.chinadaily.com.cn/a/202607/03/WS6a470e0ca310986e2b46348f.html) (China Daily); [More than 400 dead in Dr. Congo’s spreading Ebola outbreak](https://www.japantimes.co.jp/news/2026/07/03/world/congo-ebola-deaths/) (The Japan Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) (South African Government News Agency); [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -70,16 +70,16 @@ Search window: 7 day(s) ending 2026-07-03
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Hyderabad on dengue alert as changing mosquito behaviour challenges traditional control measures](https://telanganatoday.com/hyderabad-on-dengue-alert-as-changing-mosquito-behaviour-challenges-traditional-control-measures) (telanganatoday.com, 2026-07-03T08:14+00:00)
-- Detailed note: Intermittent nature of present monsoons ideal for dengue mosquito breeding 80 percent of dengue cases are asymptomatic cases Asymptomatic patients carry live dengue virus in their bloodstream Aedes feeds on asymptomatic carriers and transmit the virus to vulnerable populations Dengue now has four different strains DENV 1 to 4) and recovering from one does not give protection from another One can fall sick with...
-- Evidence notes: [Hyderabad on dengue alert as changing mosquito behaviour challenges traditional control measures](https://telanganatoday.com/hyderabad-on-dengue-alert-as-changing-mosquito-behaviour-challenges-traditional-control-measures) (telanganatoday.com); [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka)
+- Lead item: [Hyderabad Dengue Alert as Early Surge Threat Looms](https://indtoday.com/hyderabad-dengue-alert-as-early-surge-threat-looms/) (INDToday, 2026-07-03T09:03+00:00)
+- Detailed note: The alert follows a review by the Union Health Ministry after the National Centre for Vector Borne Diseases Control (NCVBDC) reported 16,313 dengue cases across India by May this year. Moreover, the country recorded a 28 percent increase in new dengue cases during May, much earlier than the usual monsoon season. Most cases are mild to moderate.
+- Evidence notes: [Hyderabad Dengue Alert as Early Surge Threat Looms](https://indtoday.com/hyderabad-dengue-alert-as-early-surge-threat-looms/) (INDToday); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Avian influenza and H5N1
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation, 2026-06-25T19:11+00:00)
-- Detailed note: Cluster remains active across 1 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: Please let us know Hong Kong was first to respond to an outbreak of H5N1 bird flu three decades ago.
 - Evidence notes: [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
@@ -403,19 +403,19 @@ Search window: 7 day(s) ending 2026-07-03
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Hyderabad on dengue alert as changing mosquito behaviour challenges traditional control measures
-- Source: telanganatoday.com
-- Date: 2026-07-03T08:14+00:00
-- URL: https://telanganatoday.com/hyderabad-on-dengue-alert-as-changing-mosquito-behaviour-challenges-traditional-control-measures
+### Hyderabad Dengue Alert as Early Surge Threat Looms
+- Source: INDToday
+- Date: 2026-07-03T09:03+00:00
+- URL: https://indtoday.com/hyderabad-dengue-alert-as-early-surge-threat-looms/
 - Category: Outbreaks and emerging infections
-- Summary: Intermittent nature of present monsoons ideal for dengue mosquito breeding 80 percent of dengue cases are asymptomatic cases Asymptomatic patients carry live dengue virus in their bloodstream Aedes feeds on asymptomatic carriers and transmit the virus to vulnerable populations Dengue now has four different strains DENV 1 to 4) and recovering from one does not give protection from another One can fall sick with different dengue strains every year If tested positive multiple times for different strains, it can lead to Dengue Hemorrhagic Fever (DHF) or Dengue Shock Syndrome (DSS) DHF/DSS cause platelet drops, internal plasma leaking, and multi-organ failure Hyderabad: The prevention, management, and control of dengue in Hyderabad and other key urban centers of Telangana has escalated into a major public health challenge as the disease has evolved aggressively. The local health authorities have urged people to be cautious because a few days ago the National Center for Vector Borne Diseases Control (NCVBDC) indicated that the country had already recorded 16,313 dengue cases by May. All states witnessed a sharp 28 percent spike in new cases in May alone, much before the actual onset of monsoons.
+- Summary: The alert follows a review by the Union Health Ministry after the National Centre for Vector Borne Diseases Control (NCVBDC) reported 16,313 dengue cases across India by May this year. Moreover, the country recorded a 28 percent increase in new dengue cases during May, much earlier than the usual monsoon season. Officials from the Integrated Disease Surveillance Programme (IDSP) explained that construction sites, rooftop layouts, government buildings , and other places where clean water collects have become major breeding grounds for mosquitoes in Hyderabad .
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) | IOL | 2026-07-03T04:32+00:00 | Outbreaks and emerging infections
+- [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) | IOL | 2026-07-03T05:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation/) | CBS News | 2026-07-03T03:09+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
@@ -423,8 +423,6 @@ Search window: 7 day(s) ending 2026-07-03
   "We aim to gain a closer understanding of how the Ebola outbreak is evolving and the assistance that the DRC has received from the international community," he said. Gu said Chinese authorities also plan to promote cooperation between Chinese and DRC institutions with the goal of supplying public health products to affected areas. The five-member team, comprising experts in laboratory testing and clinical treatment as well as a customs official, departed from Beijing early on Friday.
 - [More than 400 dead in Dr. Congo’s spreading Ebola outbreak](https://www.japantimes.co.jp/news/2026/07/03/world/congo-ebola-deaths/) | The Japan Times | 2026-07-03T01:10+00:00 | Outbreaks and emerging infections
   Congo’s spreading Ebola outbreak The Japan Times
-- [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://news.google.com/rss/articles/CBMihAFBVV95cUxObmpwbF9ob1dBZzZ4cEp0VVNseFhneXNibkxkTjZSS19yRTJZZ2M2RmFPOFdFWnV1YVdsQ3llaG92U25aZERraGJpc2t2WHhiNkdnZS1NT3hOQnI1T0psZTctQ29GX014d2E3V3pfaDJBbXhQVzZucDdrT2JiNGg4ZGw2YWI?oc=5) | The New York Times | 2026-07-02T20:56+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
@@ -432,6 +430,8 @@ Search window: 7 day(s) ending 2026-07-03
 - [Health workers tend to an Ebola patient at the Rwampara Treatment Center in Ituri, Congo.](https://news.google.com/rss/articles/CBMibEFVX3lxTE9nQi05WDZsRDdnN05uS2pLRWwycUo2Z3NGMUw5bnFrOVlIbDFtZjFTdjFxS2tOclJQdTk0cXAxZzJoLWtTczJCSWo2YVJRZnYtMzl3UTZwRFJGczNIQlNIdW11MDVaaU5tZlB0TA?oc=5) | Sandusky Register | 2026-07-02T15:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak cases and deaths rise in Congo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5) | Outbreak News Today | 2026-07-02T13:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://news.google.com/rss/articles/CBMihAFBVV95cUxObmpwbF9ob1dBZzZ4cEp0VVNseFhneXNibkxkTjZSS19yRTJZZ2M2RmFPOFdFWnV1YVdsQ3llaG92U25aZERraGJpc2t2WHhiNkdnZS1NT3hOQnI1T0psZTctQ29GX014d2E3V3pfaDJBbXhQVzZucDdrT2JiNGg4ZGw2YWI?oc=5) | The New York Times | 2026-07-02T12:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) | The Eastern Herald | 2026-07-02T10:32+00:00 | Outbreaks and emerging infections
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
