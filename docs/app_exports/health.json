@@ -10,7 +10,7 @@
       "Guardian",
       "New York Times"
     ],
-    "metadata_only_count": 51,
+    "metadata_only_count": 50,
     "sources_cached": 0,
     "sources_failed": 3,
     "sources_live": 66,
@@ -24,7 +24,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-02T22:55:27",
+  "generated_at": "2026-07-02T23:00:17",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",

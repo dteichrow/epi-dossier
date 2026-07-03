@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-02
-Generated at: 2026-07-02T22:55
+Generated at: 2026-07-02T23:00
 Search window: 7 day(s) ending 2026-07-02
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-02
 - [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa; 2026-06-30T08:44+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says](https://www.nytimes.com/2026/07/02/world/hantavirus-cruise-outbreak-timeline-events.html) (The New York Times; 2026-07-02T22:25+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (58), Policy, surveillance, and public health infrastructure (2), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (58), Historical epidemiology / ancient disease / paleopathology (2), Occupational and environmental epidemiology (2)
 - Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-07-02
 
 ### Ebola virus disease
 - Lead item: [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times)
-- Newly tracked story cluster: 20 item(s) across 18 source(s).
-- Baseline snapshot created with 20 clustered item(s) across 18 source(s).
+- Newly tracked story cluster: 19 item(s) across 17 source(s).
+- Baseline snapshot created with 19 clustered item(s) across 17 source(s).
 - CNA now includes deaths or fatal cases in the story frame.
 - The Eastern Herald now foregrounds vaccination or vaccine policy in the story.
 
@@ -59,10 +59,10 @@ Search window: 7 day(s) ending 2026-07-02
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 20 item(s) across 18 source(s); 0 official/primary-source item(s).
+- Topic size: 19 item(s) across 17 source(s); 0 official/primary-source item(s).
 - Lead item: [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times, 2026-07-02T20:56+00:00)
-- Detailed note: Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://www.sanews.gov.za/south-africa/ramaphosa-calls-african-solidarity-drc-battles-ebola-outbreak) (South African Government News Agency); [More than 400 dead in DR Congo's spreading Ebola outbreak](https://www.channelnewsasia.com/world/ebola-outbreak-dr-congo-400-dead-6228901) (CNA); [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) (The Eastleigh Voice); [Health workers tend to an Ebola patient at the Rwampara Treatment Center in Ituri, Congo.](https://news.google.com/rss/articles/CBMibEFVX3lxTE9nQi05WDZsRDdnN05uS2pLRWwycUo2Z3NGMUw5bnFrOVlIbDFtZjFTdjFxS2tOclJQdTk0cXAxZzJoLWtTczJCSWo2YVJRZnYtMzl3UTZwRFJGczNIQlNIdW11MDVaaU5tZlB0TA?oc=5) (Sandusky Register)
+- Detailed note: Cluster remains active across 19 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html) (The New York Times); [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://www.sanews.gov.za/south-africa/ramaphosa-calls-african-solidarity-drc-battles-ebola-outbreak) (South African Government News Agency); [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3V6eXdXZjV6VGdLbDdjOHpjT1hheVVOY2ZNMnVpb3JVTHlWTy1ac29XVXZ4YURXdjFuYjExZl8zc0NteTRac1BFamNKZFhITTNOZllUYjhVWnNhUUZzcVRud29zbHhrTFVtdzQ4Ujh1ZmhEUzF2TlZrLXRFZlJqVm5Ceno?oc=5) (CNA); [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXBwdkM1eTJDYlEyME9pLXZGYnh4TTVwbjhtUmJfYUlzV3JieTZLbFFPUWNRM1dNb2o0WkpWenVnVWxSNGkxTk96NmpOc0hqODdSSC0wNmsxS2M3U29fVjIwMm1fY1U1dHR1eElFRE93ZTNZWF9OaG5kaTVNb3ZQaE9sMEc0ZXNJRnFZZnB2QzhUMURodThKZjdqVnUzd19CSVhhNjlVeUVETGUtaWlTanN4ZDJGOGJRSm5IZ2VPdnRLcGJhbkIyekFQUU0?oc=5) (The Eastleigh Voice); [Health workers tend to an Ebola patient at the Rwampara Treatment Center in Ituri, Congo.](https://news.google.com/rss/articles/CBMibEFVX3lxTE9nQi05WDZsRDdnN05uS2pLRWwycUo2Z3NGMUw5bnFrOVlIbDFtZjFTdjFxS2tOclJQdTk0cXAxZzJoLWtTczJCSWo2YVJRZnYtMzl3UTZwRFJGczNIQlNIdW11MDVaaU5tZlB0TA?oc=5) (Sandusky Register)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -433,9 +433,9 @@ Search window: 7 day(s) ending 2026-07-02
   Limited detail was available from feed metadata alone.
 - [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://www.sanews.gov.za/south-africa/ramaphosa-calls-african-solidarity-drc-battles-ebola-outbreak) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [More than 400 dead in DR Congo's spreading Ebola outbreak](https://www.channelnewsasia.com/world/ebola-outbreak-dr-congo-400-dead-6228901) | CNA | 2026-07-02T20:41+00:00 | Outbreaks and emerging infections
+- [More than 400 dead in DR Congo's spreading Ebola outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3V6eXdXZjV6VGdLbDdjOHpjT1hheVVOY2ZNMnVpb3JVTHlWTy1ac29XVXZ4YURXdjFuYjExZl8zc0NteTRac1BFamNKZFhITTNOZllUYjhVWnNhUUZzcVRud29zbHhrTFVtdzQ4Ujh1ZmhEUzF2TlZrLXRFZlJqVm5Ceno?oc=5) | CNA | 2026-07-02T20:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
+- [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXBwdkM1eTJDYlEyME9pLXZGYnh4TTVwbjhtUmJfYUlzV3JieTZLbFFPUWNRM1dNb2o0WkpWenVnVWxSNGkxTk96NmpOc0hqODdSSC0wNmsxS2M3U29fVjIwMm1fY1U1dHR1eElFRE93ZTNZWF9OaG5kaTVNb3ZQaE9sMEc0ZXNJRnFZZnB2QzhUMURodThKZjdqVnUzd19CSVhhNjlVeUVETGUtaWlTanN4ZDJGOGJRSm5IZ2VPdnRLcGJhbkIyekFQUU0?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Hantavirus outbreak linked to cruise ship over, says WHO](https://www.cbc.ca/news/health/who-hantavirus-outbreak-over-cruise-ship-9.7255872) | CBC | 2026-07-02T17:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
