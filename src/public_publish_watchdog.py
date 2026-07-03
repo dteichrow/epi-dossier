@@ -21,6 +21,7 @@ PUBLIC_MANIFEST_URL = "https://dteichrow.github.io/epi-dossier/app_exports/manif
 PUBLIC_LATEST_URL = "https://dteichrow.github.io/epi-dossier/app_exports/latest.json"
 WATCHDOG_STATE_PATH = REPO_ROOT / "data" / "public_publish_watchdog_state.json"
 DEFAULT_STALE_MINUTES = 45
+DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES = 30
 DEFAULT_TIMEOUT_SECONDS = 15
 DEFAULT_SEARCH_WINDOW_DAYS = 7
 NAIVE_UTC_FUTURE_TOLERANCE = timedelta(minutes=5)
@@ -248,6 +249,10 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     stale_minutes = env_int("EPI_DOSSIER_WATCHDOG_STALE_MINUTES", DEFAULT_STALE_MINUTES)
+    new_item_min_publish_interval_minutes = env_int(
+        "EPI_DOSSIER_WATCHDOG_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES",
+        DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES,
+    )
     timeout_seconds = env_int("EPI_DOSSIER_WATCHDOG_TIMEOUT_SECONDS", DEFAULT_TIMEOUT_SECONDS)
     search_window_days = env_int("EPI_DOSSIER_WATCHDOG_SEARCH_WINDOW_DAYS", DEFAULT_SEARCH_WINDOW_DAYS)
     check_new_items = env_bool("EPI_DOSSIER_WATCHDOG_CHECK_NEW_ITEMS", True)
@@ -270,6 +275,13 @@ def main(argv: list[str] | None = None) -> int:
         return run_public_publish()
 
     if check_new_items:
+        if age_minutes < new_item_min_publish_interval_minutes:
+            log(
+                "Manifest is fresh enough to skip new-item publish check; "
+                f"age={age_minutes:.1f} minutes; "
+                f"minimum={new_item_min_publish_interval_minutes} minutes."
+            )
+            return 0
         try:
             live_snapshot = fetch_live_latest(timeout_seconds=timeout_seconds)
             candidates = run_candidate_search(search_window_days)
