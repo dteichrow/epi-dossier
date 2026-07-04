@@ -1260,7 +1260,15 @@
       "reference_name": "Dengue",
       "reference_url": "reference/dengue.html",
       "reference_web_path": "reference/dengue.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Dengue and arboviruses",
+          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
+          "story_id": "story_ccfeaff28d46baf6",
+          "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
+          "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
+        }
+      ],
       "route_count": 3,
       "slug": "dengue",
       "spread_routes": [
@@ -1330,7 +1338,7 @@
         }
       ],
       "status": "consensus",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Aedes routes, urbanization, and shipping-enabled vector expansion",
       "summary": "Dengue makes the atlas useful for modern readers because it shows how vector range expansion, used-tire shipping, urbanization, and travel can redraw the map without requiring a single ancient origin story.",
       "variant_count": 0,
@@ -1820,15 +1828,14 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "BBC",
       "CBS News",
       "Reuters"
     ],
-    "metadata_only_count": 21,
+    "metadata_only_count": 22,
     "sources_cached": 0,
     "sources_failed": 1,
     "sources_live": 41,
-    "story_count_change": 3,
+    "story_count_change": 4,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
@@ -1838,7 +1845,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-04T11:26:34",
+  "generated_at": "2026-07-04T11:36:31",
   "high_priority_item_ids": [
     "item_32569b1dffd41b42",
     "item_ee6fa5a3200537c2",
@@ -1891,7 +1898,7 @@
       "resolved_url": "https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15",
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:51.901138+00:00",
+      "source_cached_at": "2026-07-04T18:35:49.477513+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15",
@@ -1901,7 +1908,7 @@
       "title": "Uganda confirms six new Ebola cases, total infections rise to 15",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -1942,17 +1949,17 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:39.451034+00:00",
+      "source_cached_at": "2026-07-04T18:35:37.418144+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than",
       "story_id": "story_ccfeaff28d46baf6",
-      "story_status": "",
+      "story_status": "expanding_coverage",
       "summary": "The Sri Lanka National Dengue Control Unit (NDCU) of the Ministry of Health reported 21,547 dengue fever cases in June and already 3,422 cases in the first days of July, bringing the outbreak total in the country to 58,810 through July 3. During the week ending June 28, 6,009 cases were reported across 26 districts, a nearly 15% increase over the total cases reported in the prior week. Year to date, Colombo district has reported 12,017 cases, followed by Gampaha with 11,740.",
       "title": "Sri Lanka dengue update: More than 21,500 cases in June",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -1993,7 +2000,7 @@
       "resolved_url": "https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674",
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:44.751353+00:00",
+      "source_cached_at": "2026-07-04T18:35:42.632219+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674",
@@ -2003,7 +2010,7 @@
       "title": "Ebola Outbreak: DR Congo Launches New Ebola Drug Trial",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2044,7 +2051,7 @@
       "resolved_url": "https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak",
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:51.901138+00:00",
+      "source_cached_at": "2026-07-04T18:35:49.477513+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak",
@@ -2054,7 +2061,7 @@
       "title": "Zimbabwe sets up Ebola isolation facilities amid regional outbreak",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2094,7 +2101,7 @@
       "resolved_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:49.242321+00:00",
+      "source_cached_at": "2026-07-04T18:35:47.047292+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/",
@@ -2104,7 +2111,7 @@
       "title": "Legionnaires' disease cluster on NYC's Upper East Side under investigation",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2145,7 +2152,7 @@
       "resolved_url": null,
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:51.901138+00:00",
+      "source_cached_at": "2026-07-04T18:35:49.477513+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmxKaUNpYXFNSktCZ2Vna1RLNWpfQ0IzSldyOTVwZWUwaHdFYlJmd0R5aFhyUTRrN1RRUUY2bEsybzlkSkpJNlY2X1R2emhUd2szZEVWMmxNaV8yUXdYYVlYbks4TGloRW84bzB6SmxfMFBCVXdRY0NuSTA5NkNrMVBfQkNkdktPU2VqNHB1dkhxNjVYc0llSE1LSlVRTTQtTXlpYm9yRndQcmdrMjd2bmhaYVJnaDhPbTY1cDVoOE4yOW1PeDZlZmhvZkZ2TmUtZEZWeQ?oc=5",
@@ -2155,7 +2162,7 @@
       "title": "Ebola cases in DR Congo rise to 676 amid community transmission",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2196,7 +2203,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case",
       "source": "Google News West Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:51.210344+00:00",
+      "source_cached_at": "2026-07-04T18:35:48.809974+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case",
@@ -2206,7 +2213,7 @@
       "title": "Liberia reports yellow fever case in Grand Gedah County",
       "topic_id": "topic_26c96a34d972cfb7",
       "topic_name": "Yellow fever",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2247,7 +2254,7 @@
       "resolved_url": null,
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:44.751353+00:00",
+      "source_cached_at": "2026-07-04T18:35:42.632219+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWpHWVlLTDBhYU5OWlBSY3lOWGdzUXV6eV9jRmFVdktkRTFhYTVCYnNFaHB2S1piLWlkZEo4bldLNWFEQ1VJU2dUVVdidk51NThVM1NvWGNIaFRzY1ZiUHBUZllZNnNRandtZ290bkxvUUZHelBvNjlQUmh0R3V1QlZlYTFtYk9fYU1TdVROUGxrOVRmUl82enpZWU9HVUZTUlpJ0gGoAUFVX3lxTE5heXBpMWhJN0tKTHpDVUFVMlBpeTlsRU56aE1LcWVDQ3BVV0wtV3BtajVZQTFPWC1sMVdTdmVKUE1EdEYtODByRGFSSHFiRWZkOGhWZS15ZEdjMnV2MVpWS0laVC1KWUc1Vk1hRzVraVltbk94cWxwd19ndHFfMXhhRDhic3lBVmJSMzV3V2Z1U21uMUE4dE9jRzNnY2doajJ4OFZfZ2pPUQ?oc=5",
@@ -2257,7 +2264,7 @@
       "title": "Border between DR Congo and Rwanda reopens amid Ebola outbreak",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2298,7 +2305,7 @@
       "resolved_url": null,
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:39.451034+00:00",
+      "source_cached_at": "2026-07-04T18:35:37.418144+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkJwRjhWSzVFQWx4ellEeGlvcWlTRERzQ2ZUZVR1ajYwR1J6WThSN1lHVFNldFk2aHRSTE1iMVJQU19Ga09aRTk1OVA4d0R3N2l0b1hvOWg3bFVsVzFha3NZQlZPR29ielNIRUVvVFhyYjh0VW85dFFwcklyWHlfQmstWXhOcnUxb0g4cnZMMjh0bTBTUjJsQ3F4M2lhR2dESm5kM2ZwZHlFRllvcTBSbDZuUVBCWGZlNG5rMGJzVQ?oc=5",
@@ -2308,7 +2315,7 @@
       "title": "Congo says number of confirmed Ebola cases rises to 1,502",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2349,7 +2356,7 @@
       "resolved_url": null,
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:44.751353+00:00",
+      "source_cached_at": "2026-07-04T18:35:42.632219+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5",
@@ -2359,7 +2366,7 @@
       "title": "China dispatches 2nd medical team to DR Congo as Ebola fatalities rise",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2400,7 +2407,7 @@
       "resolved_url": "https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/",
       "source": "Google News Southern Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:53.206742+00:00",
+      "source_cached_at": "2026-07-04T18:35:50.810165+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/",
@@ -2410,7 +2417,7 @@
       "title": "Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit",
       "topic_id": "topic_0cc2d5322bc76f8f",
       "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2451,7 +2458,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:52.599713+00:00",
+      "source_cached_at": "2026-07-04T18:35:50.090904+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5",
@@ -2461,7 +2468,7 @@
       "title": "Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2502,7 +2509,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:52.599713+00:00",
+      "source_cached_at": "2026-07-04T18:35:50.090904+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDMtY2pnbDU4RWtodTMweHA3LW5LNE9PYVg5RmJZYXlyVXZuQ2RFSmpsVFp2bDJET2tiTDZ2OFRhVnpDWklJN1FwUk1zMTMyby1ySVNSTHJfd3dLWHE1R3FESjZWdlFoWHNnU1psQUM1LU5EQTY5UzNvRENvTVo3LTVuYnF5X0EtMlF3eHlZNDRxWFQwdTktSzBPcDA2d19TUk8wSFFsaGJ0XzZ6em55VmRvSQ?oc=5",
@@ -2512,7 +2519,7 @@
       "title": "DRC trials experimental treatment for rare Ebola strain as outbreak worsens",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2553,7 +2560,7 @@
       "resolved_url": null,
       "source": "Google News Ebola Burial and Treatment Response",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:45.444095+00:00",
+      "source_cached_at": "2026-07-04T18:35:43.246634+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5",
@@ -2563,58 +2570,7 @@
       "title": "Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Ebola Burial and Treatment Response",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc0NELWJqUVZlcFBVOUl1R1Q4Rzc5TVU5YjBycWNMNVBrbDRQdWVxUnM1VFV0enE5alpsa1NpcDBjUjVjZ3dLMWYtd1hHY3VpaG5JRGJnM25FaUxjaGs2NkNnTWZoTUF5OW5lalBMOXUzWjVQY0RKQ285VV9FLVd3WTVsRXlyMUlMZGk0TDFpNDhPLTQzUmRYSFJSN01xcHZyNllENHpWcUJmMVBBbnRIaWZIR1FEdndvRlN5RzRwZ2NlcHA2cFUxMk9fYTY0S2ZybTc5UHpuVS1TRUJYNnNpSQ?oc=5",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "Democratic Republic of the Congo",
-      "display_source": "facebook.com",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "outbreaks",
-        "watch",
-        "africa"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_087ed0bd697e1276",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": false,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc0NELWJqUVZlcFBVOUl1R1Q4Rzc5TVU5YjBycWNMNVBrbDRQdWVxUnM1VFV0enE5alpsa1NpcDBjUjVjZ3dLMWYtd1hHY3VpaG5JRGJnM25FaUxjaGs2NkNnTWZoTUF5OW5lalBMOXUzWjVQY0RKQ285VV9FLVd3WTVsRXlyMUlMZGk0TDFpNDhPLTQzUmRYSFJSN01xcHZyNllENHpWcUJmMVBBbnRIaWZIR1FEdndvRlN5RzRwZ2NlcHA2cFUxMk9fYTY0S2ZybTc5UHpuVS1TRUJYNnNpSQ?oc=5",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-07-03T08:05+00:00",
-      "publisher": "facebook.com",
-      "publisher_access": "unknown",
-      "publisher_name": "facebook.com",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc0NELWJqUVZlcFBVOUl1R1Q4Rzc5TVU5YjBycWNMNVBrbDRQdWVxUnM1VFV0enE5alpsa1NpcDBjUjVjZ3dLMWYtd1hHY3VpaG5JRGJnM25FaUxjaGs2NkNnTWZoTUF5OW5lalBMOXUzWjVQY0RKQ285VV9FLVd3WTVsRXlyMUlMZGk0TDFpNDhPLTQzUmRYSFJSN01xcHZyNllENHpWcUJmMVBBbnRIaWZIR1FEdndvRlN5RzRwZ2NlcHA2cFUxMk9fYTY0S2ZybTc5UHpuVS1TRUJYNnNpSQ?oc=5",
-      "region": "Africa",
-      "relevance_score": 5,
-      "resolved_url": null,
-      "source": "Google News Ebola Burial and Treatment Response",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:45.444095+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc0NELWJqUVZlcFBVOUl1R1Q4Rzc5TVU5YjBycWNMNVBrbDRQdWVxUnM1VFV0enE5alpsa1NpcDBjUjVjZ3dLMWYtd1hHY3VpaG5JRGJnM25FaUxjaGs2NkNnTWZoTUF5OW5lalBMOXUzWjVQY0RKQ285VV9FLVd3WTVsRXlyMUlMZGk0TDFpNDhPLTQzUmRYSFJSN01xcHZyNllENHpWcUJmMVBBbnRIaWZIR1FEdndvRlN5RzRwZ2NlcHA2cFUxMk9fYTY0S2ZybTc5UHpuVS1TRUJYNnNpSQ?oc=5",
-      "story_id": "story_56666e9c6c86e976",
-      "story_status": "expanding_coverage",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "More than 400 dead in #DR_Congo's spreading Ebola outbreak An #Ebola outbreak in the DR Congo has killed more than 400 people and is still spreading, with a first case reported in the major city of #Kisangani nearly 600 kilometres (370 miles) from its epi",
-      "topic_id": "topic_56666e9c6c86e976",
-      "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2655,7 +2611,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:52.599713+00:00",
+      "source_cached_at": "2026-07-04T18:35:50.090904+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFVBWGdmbmJySGt6VGZ6R1FOaURTZUJzVXYtbmk4ajRZWGFtS2QtVGRxbHpUamVFa2YySjBJX2ItTGpUVldSOHpxaWhlamptSnFhaDk3RXIwblNmNlo1Y0h3RGpGZXJVd1VaOGktY3pVbkI5eUtGU01WSnEwWlVyck1mcVB5X1NkQzJjanUwSkk5c1hKNG9zNjlSQnhfSFVqSVpHaTZqRjhmNExkX0IzVDNsVQ?oc=5",
@@ -2665,7 +2621,7 @@
       "title": "Ramaphosa pledges South African support as DRC battles Ebola outbreak",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2706,7 +2662,7 @@
       "resolved_url": null,
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:44.751353+00:00",
+      "source_cached_at": "2026-07-04T18:35:42.632219+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RSTN0VnRyaEhyUno4cVhVa24wemZuWXV5clY1WmdnbzYwNDBJUFd4YzNZYTB6NUktUW9SUXlaVWNjbWpjRDVvdXMzVS1UWERHamZjY0d0dDZ3YTBIb1QzcklEc2l2SDVLc2dIRXZlT1k5a0psU1hmTXhB?oc=5",
@@ -2716,7 +2672,7 @@
       "title": "More than 400 dead in Congo\u2019s spreading Ebola outbreak",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2757,7 +2713,7 @@
       "resolved_url": null,
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:44.751353+00:00",
+      "source_cached_at": "2026-07-04T18:35:42.632219+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tYmVhTVZmeG1ia0ZwVnM1TFVjd25acGdQVTh3NGxaWk1OSDlaa05PaGhNSmZQNXNFNTNqVEt2U2hSRmViT1VycXZNRnhrcG9HaVY3SUVzRU1tNlg4VEVWY0p4UXV5VktLMGIw?oc=5",
@@ -2767,7 +2723,7 @@
       "title": "Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2808,7 +2764,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:52.599713+00:00",
+      "source_cached_at": "2026-07-04T18:35:50.090904+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5",
@@ -2818,7 +2774,7 @@
       "title": "Ramaphosa calls for African solidarity as DRC battles Ebola outbreak",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2859,7 +2815,7 @@
       "resolved_url": null,
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:51.901138+00:00",
+      "source_cached_at": "2026-07-04T18:35:49.477513+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5",
@@ -2869,7 +2825,7 @@
       "title": "Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2910,7 +2866,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:04.707564+00:00",
+      "source_cached_at": "2026-07-04T18:35:04.207790+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941",
@@ -2920,7 +2876,7 @@
       "title": "Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2961,7 +2917,7 @@
       "resolved_url": null,
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:52.599713+00:00",
+      "source_cached_at": "2026-07-04T18:35:50.090904+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjhBSkpXTEs4NVJKV3ZKdHZUVEdUaWVsYV9pcGNVa3JVc1p1bGx2SDJBcGxVUk1IUTlxZUJyT1RFX09xOVUwdUQwX2RIZzZjMGpiVzc3NUp3ajdha0JyUWt6M3Ezb005ZklZNEI1cVprTjBla1otQ0pDLWhJT2NpM2pkc1FjeTFTZHc?oc=5",
@@ -2971,7 +2927,58 @@
       "title": "Ebola outbreak could cost Africa $3.6 billion",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Hemorrhagic Fever and Zoonoses",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "Democratic Republic of the Congo",
+      "display_source": "Outbreak News Today",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "outbreaks",
+        "watch",
+        "africa"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_5b257431f34c7314",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-07-02T13:06+00:00",
+      "publisher": "Outbreak News Today",
+      "publisher_access": "unknown",
+      "publisher_name": "Outbreak News Today",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5",
+      "region": "Africa",
+      "relevance_score": 5,
+      "resolved_url": null,
+      "source": "Google News Hemorrhagic Fever and Zoonoses",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-07-04T18:35:42.632219+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5",
+      "story_id": "story_56666e9c6c86e976",
+      "story_status": "expanding_coverage",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Ebola outbreak cases and deaths rise in Congo",
+      "topic_id": "topic_56666e9c6c86e976",
+      "topic_name": "Ebola virus disease",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3012,7 +3019,7 @@
       "resolved_url": "https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/",
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:52.599713+00:00",
+      "source_cached_at": "2026-07-04T18:35:50.090904+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/",
@@ -3022,7 +3029,7 @@
       "title": "Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3060,7 +3067,7 @@
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:27.736974+00:00",
+      "source_cached_at": "2026-07-04T18:35:25.753683+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42391692/",
@@ -3070,7 +3077,7 @@
       "title": "A historical overview of the anti-vaccine movement and its public health implications.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage."
     },
     {
@@ -3111,7 +3118,7 @@
       "resolved_url": "https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN",
       "source": "Google News East Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:51.901138+00:00",
+      "source_cached_at": "2026-07-04T18:35:49.477513+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN",
@@ -3121,7 +3128,7 @@
       "title": "Ebola cases traced to Congo province, bordering on \u2018high-risk\u2019 South Sudan",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3161,7 +3168,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:12.201588+00:00",
+      "source_cached_at": "2026-07-04T18:35:10.173183+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026",
@@ -3171,7 +3178,7 @@
       "title": "FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3211,7 +3218,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:12.201588+00:00",
+      "source_cached_at": "2026-07-04T18:35:10.173183+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026",
@@ -3221,7 +3228,7 @@
       "title": "FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3261,7 +3268,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:12.201588+00:00",
+      "source_cached_at": "2026-07-04T18:35:10.173183+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026",
@@ -3271,7 +3278,7 @@
       "title": "FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3311,7 +3318,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:12.201588+00:00",
+      "source_cached_at": "2026-07-04T18:35:10.173183+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026",
@@ -3321,8 +3328,59 @@
       "title": "FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Vector-borne Outbreaks",
+      "canonical_url": "https://heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
+      "content_class": "live_outbreak_development",
+      "country": "",
+      "display_source": "Herald Malaysia Online",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "outbreaks",
+        "watch",
+        "asia"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_853fbc052a5162d6",
+      "journal": null,
+      "link_quality": "resolved_article",
+      "local_signal": false,
+      "low_detail": false,
+      "official": false,
+      "preferred_url": "https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1",
+      "preferred_url_kind": "resolved_article",
+      "published_at": "2026-07-01T04:47+00:00",
+      "publisher": "Herald Malaysia Online",
+      "publisher_access": "unknown",
+      "publisher_name": "Herald Malaysia Online",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVktcjZnUVlnY0xIbG45WXloNnNkaHY1UUZ6LTYzZC1YV2V4bU9XSThjS29pNkF2b0dIM0xERllvbVJPUUFoeUpILXpKTnJBZXVNNFdUS0paajR1anlIR1RITE1mVzZ5amlDT2M3UWdZRXY1VE9YeXFUUzlsVlBVeXFDZE1ORHZ1NjhpZFJOWk96SzhrZHZaS1c0cGNOWFNWcHY0N0J6OHVqcUU3TVdJ?oc=5",
+      "region": "South Asia",
+      "relevance_score": 5,
+      "resolved_url": "https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1",
+      "source": "Google News Vector-borne Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-07-04T18:35:42.023885+00:00",
+      "source_confidence": "general_outlet",
+      "source_type": "rss",
+      "source_url": "https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1",
+      "story_id": "story_ccfeaff28d46baf6",
+      "story_status": "expanding_coverage",
+      "summary": "Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Thai Church marks Rerum Novarum anniversary with renewed call for labor justice This July 1, there is much to be concerned about Hong Kong New ASIF statute: A further step toward international standards Faces that haunt me Pope Leo XIV updates the Constitution of the Vicariate of Rome A Buddhist monk prays alongside devotees on the occasion of Poson Poya (full moon), a religious festival that marks the arrival of Buddhism in Sri Lanka, at the Kelaniya temple on the outskirts of Colombo on June 29. Sri Lanka recorded more than 51,000 dengue cases and 28 deaths in the first six months of this year, according to government data. According to the latest government data, Sri Lanka registered 53,159 dengue cases and 31 deaths until June.",
+      "title": "Sri Lankan Christians join anti-dengue drive on Buddhist feast day",
+      "topic_id": "topic_ccfeaff28d46baf6",
+      "topic_name": "Dengue and arboviruses",
+      "updated_at": "2026-07-04T11:36:31",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
       "abstract_url": null,
@@ -3359,7 +3417,7 @@
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:27.736974+00:00",
+      "source_cached_at": "2026-07-04T18:35:25.753683+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42385127/",
@@ -3369,59 +3427,8 @@
       "title": "Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News India Outbreaks",
-      "canonical_url": "https://bbc.com/news/articles/cly7z8ey088o",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Summary stays within source text and metadata; no outside facts were added.",
-      "content_class": "live_outbreak_development",
-      "country": "Democratic Republic of the Congo / Uganda",
-      "display_source": "BBC",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "outbreaks",
-        "watch",
-        "africa"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_214f1424c1290c60",
-      "journal": null,
-      "link_quality": "resolved_article",
-      "local_signal": false,
-      "low_detail": false,
-      "official": false,
-      "preferred_url": "https://www.bbc.com/news/articles/cly7z8ey088o",
-      "preferred_url_kind": "resolved_article",
-      "published_at": "2026-06-30T23:04+00:00",
-      "publisher": "BBC",
-      "publisher_access": "open",
-      "publisher_name": "BBC",
-      "publisher_tier": "major_newsroom",
-      "raw_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiS2lSalQyM2VQMFdiTjIyTzdXdXpXZ3RTeVRGU2RiVEVxWmphcVJIV3hFaWZlaWpYejBZLWdPa08tUVhUNWMwTE9rc19sY0dkZmd4Vk1RUmNYUQ?oc=5",
-      "region": "Africa",
-      "relevance_score": 5,
-      "resolved_url": "https://www.bbc.com/news/articles/cly7z8ey088o",
-      "source": "Google News India Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:54.432715+00:00",
-      "source_confidence": "major_newsroom",
-      "source_type": "rss",
-      "source_url": "https://www.bbc.com/news/articles/cly7z8ey088o",
-      "story_id": "story_56666e9c6c86e976",
-      "story_status": "expanding_coverage",
-      "summary": "If confirmed it would have been the first case in the UK since an outbreak in the Democratic Republic of Congo and Uganda in May. The outbreak in Africa has been declared a public health emergency of international concern by the World Health Organization (WHO). A patient suspected of having the Ebola virus at a Glasgow hospital has tested negative, health officials have confirmed.",
-      "title": "Patient tests negative after Ebola alert at Glasgow hospital",
-      "topic_id": "topic_56666e9c6c86e976",
-      "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
       "abstract_url": null,
@@ -3460,7 +3467,7 @@
       "resolved_url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak",
       "source": "Google News Ebola Burial and Treatment Response",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:45.444095+00:00",
+      "source_cached_at": "2026-07-04T18:35:43.246634+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak",
@@ -3470,7 +3477,7 @@
       "title": "What it\u2019s like to be a healthcare worker at the center of an Ebola outbreak",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3511,7 +3518,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:04.707564+00:00",
+      "source_cached_at": "2026-07-04T18:35:04.207790+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938",
@@ -3521,7 +3528,7 @@
       "title": "Surveillance Summaries: Surveillance for Candida auris",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3562,7 +3569,7 @@
       "resolved_url": "https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html",
       "source": "Google News Southeast Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:55.175233+00:00",
+      "source_cached_at": "2026-07-04T18:35:52.770952+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html",
@@ -3572,7 +3579,7 @@
       "title": "Nipah: WHO DON Report & A Narrative Review On Nipah Pandemic Preparedness",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3613,68 +3620,17 @@
       "resolved_url": "https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION",
       "source": "Google News South Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:53.821361+00:00",
+      "source_cached_at": "2026-07-04T18:35:51.428637+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION",
       "story_id": "story_ccfeaff28d46baf6",
-      "story_status": "",
+      "story_status": "expanding_coverage",
       "summary": "Most cases are mild to moderate. A smaller share progress to severe dengue, which is the phase that requires hospital monitoring and, occasionally, intensive care. Dengue and seasonal influenza look almost identical for the first two or three days, and that overlap costs lives every single year, not just during outbreak years.",
       "title": "DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-07-04T11:26:34",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Southeast Asia Outbreaks",
-      "canonical_url": "https://abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290",
-      "category": "Outbreaks and emerging infections",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "live_outbreak_development",
-      "country": "",
-      "display_source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "outbreaks",
-        "watch",
-        "asia"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_76f35114ed3a03aa",
-      "journal": null,
-      "link_quality": "resolved_article",
-      "local_signal": false,
-      "low_detail": false,
-      "official": false,
-      "preferred_url": "https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290",
-      "preferred_url_kind": "resolved_article",
-      "published_at": "2026-06-25T07:00+00:00",
-      "publisher": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "publisher_access": "unknown",
-      "publisher_name": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "publisher_tier": "general",
-      "raw_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUp5em5pWlVBMmh4OGNNRWJBNGpyaHdObUxUUzVnczRPdTItVFRQSTgwbHA4ZjI4V0dOTGpwcjZOTmVSdGtJSFpwM3J1ZzNJQmlkRDhRblFKY3kwU1pKZmxLUHFFb1lyUkJLZG10QzNGMkdlT3RVcnlJeDRFRFJTekhOYjZtTXRrWjdrNG0zbko?oc=5",
-      "region": "Southeast Asia",
-      "relevance_score": 5,
-      "resolved_url": "https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290",
-      "source": "Google News Southeast Asia Outbreaks",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:55.175233+00:00",
-      "source_confidence": "general_outlet",
-      "source_type": "rss",
-      "source_url": "https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290",
-      "story_id": "story_28a91c6d89267872",
-      "story_status": "",
-      "summary": "Please let us know Hong Kong was first to respond to an outbreak of H5N1 bird flu three decades ago. Limited detail was available from feed metadata alone.",
-      "title": "H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "topic_id": "topic_28a91c6d89267872",
-      "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3715,7 +3671,7 @@
       "resolved_url": null,
       "source": "CDC Current Outbreak List",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:04.969871+00:00",
+      "source_cached_at": "2026-07-04T18:35:04.465798+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
@@ -3725,7 +3681,7 @@
       "title": "Coronavirus Disease 2019 (COVID-19)",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3764,7 +3720,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:22.095050+00:00",
+      "source_cached_at": "2026-07-04T18:35:20.043442+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42396795/",
@@ -3774,7 +3730,7 @@
       "title": "Perceptions, knowledge, and access to the HPV vaccine among parents and healthcare providers in South Quito, Ecuador in 2025: A qualitative study.",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -3813,7 +3769,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:22.095050+00:00",
+      "source_cached_at": "2026-07-04T18:35:20.043442+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42392190/",
@@ -3823,7 +3779,7 @@
       "title": "Estimating clinical and economic impacts and cost-effectiveness of introducing 20-valent pneumococcal conjugate vaccine in Taiwan's pediatric National Immunization Program and impacts of a delayed implementation.",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -3862,7 +3818,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:22.095050+00:00",
+      "source_cached_at": "2026-07-04T18:35:20.043442+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42386385/",
@@ -3872,7 +3828,7 @@
       "title": "Determinants of HPV vaccination acceptance among young adult women in Japan's catch-up generation: A cross-sectional study.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -3912,7 +3868,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/new-york-city-officials-report-on",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-04T18:25:49.242321+00:00",
+      "source_cached_at": "2026-07-04T18:35:47.047292+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/new-york-city-officials-report-on",
@@ -3922,8 +3878,59 @@
       "title": "New York City officials report on Legionnaires' disease cluster in Manhattan",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
+    },
+    {
+      "abstract_url": null,
+      "aggregator_source": "Google News Vector-borne Outbreaks",
+      "canonical_url": "https://newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts",
+      "category": "Outbreaks and emerging infections",
+      "caveats": "Usable source detail was limited after cleanup.",
+      "content_class": "metadata_only_signal",
+      "country": "",
+      "display_source": "Newagebd.net",
+      "doi": null,
+      "editions": [
+        "index",
+        "notebook",
+        "outbreaks",
+        "watch",
+        "asia"
+      ],
+      "evidence_type": "news_report",
+      "freshness_state": "live",
+      "item_id": "item_bd144212ea996a72",
+      "journal": null,
+      "link_quality": "metadata_only",
+      "local_signal": false,
+      "low_detail": true,
+      "official": false,
+      "preferred_url": "https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts",
+      "preferred_url_kind": "metadata_only",
+      "published_at": "2026-07-04T14:29+00:00",
+      "publisher": "Newagebd.net",
+      "publisher_access": "unknown",
+      "publisher_name": "Newagebd.net",
+      "publisher_tier": "general",
+      "raw_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXViQURIQzVTQ256TklLMEtkbVZuMlRSMGxCb01mRm1iMXdwTHp6Ym1jcFBNN3JnSmpRXzd6U0VYeE9JQ0ltbzRVaUlsVEJrRzZTbHVDOUM5d0IxT2dlZjczalJhekRGSmViM1BjUXRsZmx2T3ZnOWpUYjk3YlJsZU9RWnFUNHl1MERNQURpd2J0SS05bTR2NTRGRWNMMkF2Wl9ITWh3TWxtcHBOang1OEZqWmFZYVpG?oc=5",
+      "region": "South Asia",
+      "relevance_score": 2,
+      "resolved_url": "https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts",
+      "source": "Google News Vector-borne Outbreaks",
+      "source_cache_age_hours": 0.0,
+      "source_cached_at": "2026-07-04T18:35:42.023885+00:00",
+      "source_confidence": "metadata_only_signal",
+      "source_type": "rss",
+      "source_url": "https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts",
+      "story_id": "story_ccfeaff28d46baf6",
+      "story_status": "expanding_coverage",
+      "summary": "Limited detail was available from feed metadata alone.",
+      "title": "Dengue now a year-round public health challenge in Bangladesh: experts",
+      "topic_id": "topic_ccfeaff28d46baf6",
+      "topic_name": "Dengue and arboviruses",
+      "updated_at": "2026-07-04T11:36:31",
+      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     }
   ],
   "reference": [
@@ -4013,7 +4020,7 @@
       "related_stories": [
         {
           "display_title": "Ebola virus disease",
-          "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 18 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 20 clustered item(s) across 17 source(s).",
           "story_id": "story_56666e9c6c86e976",
           "story_url": "stories/story_56666e9c6c86e976-ebola-virus-disease.html",
           "story_web_path": "stories/story_56666e9c6c86e976-ebola-virus-disease.html"
@@ -4555,9 +4562,21 @@
       "prevention": "Mosquito control, bite avoidance, and vaccine policy where appropriate.",
       "reference_url": "reference/dengue.html",
       "reference_web_path": "reference/dengue.html",
-      "related_stories": [],
-      "related_story_ids": [],
-      "related_story_urls": [],
+      "related_stories": [
+        {
+          "display_title": "Dengue and arboviruses",
+          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
+          "story_id": "story_ccfeaff28d46baf6",
+          "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
+          "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
+        }
+      ],
+      "related_story_ids": [
+        "story_ccfeaff28d46baf6"
+      ],
+      "related_story_urls": [
+        "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
+      ],
       "research_caveats": "Reported case totals can surge when testing changes, and severity comparisons across countries are often not apples to apples.",
       "reservoir_or_vector": "Aedes aegypti and Aedes albopictus mosquitoes drive transmission.",
       "severity": "Most illness is self-limited, but severe dengue can decompensate quickly.",
@@ -5833,7 +5852,7 @@
       "why_reporters_care": "Zika matters because congenital outcomes, pregnancy guidance, travel messaging, and mosquito ecology can turn a mild-adult disease story into a major public-health communications event."
     }
   ],
-  "run_id": "run_989a3a3c202dc87c",
+  "run_id": "run_a5a5e15dcd1d4620",
   "search_window": "7 day(s) ending 2026-07-04",
   "source_failures": [
     {
@@ -5845,7 +5864,7 @@
   "source_health": [
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:04.088096+00:00",
+      "cached_at": "2026-07-04T18:35:03.639683+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5855,7 +5874,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:04.707815+00:00",
+      "cached_at": "2026-07-04T18:35:04.208053+00:00",
       "error": null,
       "item_count": 300,
       "mode": "live",
@@ -5865,7 +5884,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:04.834628+00:00",
+      "cached_at": "2026-07-04T18:35:04.348081+00:00",
       "error": null,
       "item_count": 21,
       "mode": "live",
@@ -5875,7 +5894,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:04.969931+00:00",
+      "cached_at": "2026-07-04T18:35:04.465828+00:00",
       "error": null,
       "item_count": 6,
       "mode": "live",
@@ -5885,7 +5904,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:05.361707+00:00",
+      "cached_at": "2026-07-04T18:35:04.841709+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5895,7 +5914,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:06.633468+00:00",
+      "cached_at": "2026-07-04T18:35:05.817609+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5905,7 +5924,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:07.785622+00:00",
+      "cached_at": "2026-07-04T18:35:07.022220+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5915,7 +5934,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:09.430779+00:00",
+      "cached_at": "2026-07-04T18:35:08.996959+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5925,7 +5944,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:09.934307+00:00",
+      "cached_at": "2026-07-04T18:35:09.340116+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5935,7 +5954,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:10.041411+00:00",
+      "cached_at": "2026-07-04T18:35:09.445370+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -5945,7 +5964,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:10.962330+00:00",
+      "cached_at": "2026-07-04T18:35:09.821811+00:00",
       "error": null,
       "item_count": 6,
       "mode": "live",
@@ -5955,7 +5974,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:12.201639+00:00",
+      "cached_at": "2026-07-04T18:35:10.173236+00:00",
       "error": null,
       "item_count": 54,
       "mode": "live",
@@ -5975,7 +5994,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:22.095109+00:00",
+      "cached_at": "2026-07-04T18:35:20.043502+00:00",
       "error": null,
       "item_count": 25,
       "mode": "live",
@@ -5985,7 +6004,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:23.764086+00:00",
+      "cached_at": "2026-07-04T18:35:21.736191+00:00",
       "error": null,
       "item_count": 2,
       "mode": "live",
@@ -5995,7 +6014,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:25.646359+00:00",
+      "cached_at": "2026-07-04T18:35:23.699240+00:00",
       "error": null,
       "item_count": 2,
       "mode": "live",
@@ -6005,7 +6024,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:27.737013+00:00",
+      "cached_at": "2026-07-04T18:35:25.753720+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -6015,7 +6034,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:28.594508+00:00",
+      "cached_at": "2026-07-04T18:35:26.419959+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6025,7 +6044,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:30.422697+00:00",
+      "cached_at": "2026-07-04T18:35:28.636912+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6035,7 +6054,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:32.031843+00:00",
+      "cached_at": "2026-07-04T18:35:30.170198+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6045,7 +6064,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:35.582828+00:00",
+      "cached_at": "2026-07-04T18:35:34.570274+00:00",
       "error": null,
       "item_count": 19,
       "mode": "live",
@@ -6055,7 +6074,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:35.981493+00:00",
+      "cached_at": "2026-07-04T18:35:34.983672+00:00",
       "error": null,
       "item_count": 16,
       "mode": "live",
@@ -6065,7 +6084,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:36.593180+00:00",
+      "cached_at": "2026-07-04T18:35:35.528569+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -6075,7 +6094,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:36.869643+00:00",
+      "cached_at": "2026-07-04T18:35:36.009708+00:00",
       "error": null,
       "item_count": 4,
       "mode": "live",
@@ -6085,7 +6104,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:38.332748+00:00",
+      "cached_at": "2026-07-04T18:35:36.279121+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6095,7 +6114,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:38.800293+00:00",
+      "cached_at": "2026-07-04T18:35:36.752108+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6105,7 +6124,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:39.451165+00:00",
+      "cached_at": "2026-07-04T18:35:37.418266+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6115,7 +6134,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:40.116300+00:00",
+      "cached_at": "2026-07-04T18:35:38.031914+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6125,9 +6144,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:40.724185+00:00",
+      "cached_at": "2026-07-04T18:35:38.634376+00:00",
       "error": null,
-      "item_count": 81,
+      "item_count": 82,
       "mode": "live",
       "official": false,
       "source": "Google News Global Health Reporting",
@@ -6135,9 +6154,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:41.337283+00:00",
+      "cached_at": "2026-07-04T18:35:39.187789+00:00",
       "error": null,
-      "item_count": 76,
+      "item_count": 75,
       "mode": "live",
       "official": false,
       "source": "Google News Hantavirus and Cruise Outbreaks",
@@ -6145,7 +6164,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:41.974942+00:00",
+      "cached_at": "2026-07-04T18:35:39.973666+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6155,7 +6174,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:42.675994+00:00",
+      "cached_at": "2026-07-04T18:35:40.682808+00:00",
       "error": null,
       "item_count": 60,
       "mode": "live",
@@ -6165,7 +6184,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:43.402954+00:00",
+      "cached_at": "2026-07-04T18:35:41.311796+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6175,7 +6194,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:44.127939+00:00",
+      "cached_at": "2026-07-04T18:35:42.024003+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6185,7 +6204,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:44.751474+00:00",
+      "cached_at": "2026-07-04T18:35:42.632346+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6195,7 +6214,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:45.444199+00:00",
+      "cached_at": "2026-07-04T18:35:43.246740+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6205,7 +6224,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:46.072575+00:00",
+      "cached_at": "2026-07-04T18:35:43.979564+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6215,7 +6234,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:46.780880+00:00",
+      "cached_at": "2026-07-04T18:35:44.564198+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6225,7 +6244,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:47.390005+00:00",
+      "cached_at": "2026-07-04T18:35:45.196338+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6235,7 +6254,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:47.985688+00:00",
+      "cached_at": "2026-07-04T18:35:45.906985+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6245,7 +6264,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:48.629546+00:00",
+      "cached_at": "2026-07-04T18:35:46.527007+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6255,7 +6274,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:49.242444+00:00",
+      "cached_at": "2026-07-04T18:35:47.047413+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6265,7 +6284,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:49.957711+00:00",
+      "cached_at": "2026-07-04T18:35:47.600175+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6275,7 +6294,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:50.667443+00:00",
+      "cached_at": "2026-07-04T18:35:48.270574+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6285,7 +6304,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:51.210412+00:00",
+      "cached_at": "2026-07-04T18:35:48.810042+00:00",
       "error": null,
       "item_count": 15,
       "mode": "live",
@@ -6295,9 +6314,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:51.901255+00:00",
+      "cached_at": "2026-07-04T18:35:49.477646+00:00",
       "error": null,
-      "item_count": 99,
+      "item_count": 100,
       "mode": "live",
       "official": false,
       "source": "Google News East Africa Outbreaks",
@@ -6305,7 +6324,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:52.599840+00:00",
+      "cached_at": "2026-07-04T18:35:50.091044+00:00",
       "error": null,
       "item_count": 65,
       "mode": "live",
@@ -6315,7 +6334,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:53.206865+00:00",
+      "cached_at": "2026-07-04T18:35:50.810288+00:00",
       "error": null,
       "item_count": 63,
       "mode": "live",
@@ -6325,7 +6344,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:53.821490+00:00",
+      "cached_at": "2026-07-04T18:35:51.428757+00:00",
       "error": null,
       "item_count": 76,
       "mode": "live",
@@ -6335,7 +6354,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:54.432818+00:00",
+      "cached_at": "2026-07-04T18:35:52.030208+00:00",
       "error": null,
       "item_count": 45,
       "mode": "live",
@@ -6345,7 +6364,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:55.175365+00:00",
+      "cached_at": "2026-07-04T18:35:52.771078+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6355,7 +6374,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:55.925646+00:00",
+      "cached_at": "2026-07-04T18:35:53.486576+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6365,7 +6384,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:56.606110+00:00",
+      "cached_at": "2026-07-04T18:35:54.331279+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6375,7 +6394,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:57.053088+00:00",
+      "cached_at": "2026-07-04T18:35:54.894949+00:00",
       "error": null,
       "item_count": 47,
       "mode": "live",
@@ -6385,7 +6404,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:57.451054+00:00",
+      "cached_at": "2026-07-04T18:35:55.387577+00:00",
       "error": null,
       "item_count": 50,
       "mode": "live",
@@ -6395,7 +6414,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:57.880775+00:00",
+      "cached_at": "2026-07-04T18:35:55.798189+00:00",
       "error": null,
       "item_count": 47,
       "mode": "live",
@@ -6405,7 +6424,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:58.324584+00:00",
+      "cached_at": "2026-07-04T18:35:56.309955+00:00",
       "error": null,
       "item_count": 53,
       "mode": "live",
@@ -6415,7 +6434,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-04T18:25:58.686358+00:00",
+      "cached_at": "2026-07-04T18:35:56.696182+00:00",
       "error": null,
       "item_count": 14,
       "mode": "live",
@@ -6446,18 +6465,18 @@
         "africa"
       ],
       "evidence_type": "news_report",
-      "first_seen_at": "2026-07-04T11:26:34",
+      "first_seen_at": "2026-07-04T11:36:31",
       "flags": [
         "deaths_reported"
       ],
       "freshness_counts": {
         "fallback_cache": 0,
-        "live": 21,
+        "live": 20,
         "refresh_cache": 0,
         "retained": 0,
         "unknown": 0
       },
-      "item_count": 21,
+      "item_count": 20,
       "item_ids": [
         "item_32569b1dffd41b42",
         "item_d902da20fa88e076",
@@ -6469,19 +6488,19 @@
         "item_3db8823862318c18",
         "item_46647cab34902bed",
         "item_0b2f4d7436f32682",
-        "item_087ed0bd697e1276",
         "item_f0af62655983c20c",
         "item_589fe01f46d0fc4c",
         "item_35f8c1f9bc73e7f5",
-        "item_f7b4d764edf8e633"
+        "item_f7b4d764edf8e633",
+        "item_fdf25729e33ebf25"
       ],
       "latest_timestamp": "2026-07-04T13:12+00:00",
       "latest_update_bullets": [
-        "Baseline snapshot created with 21 clustered item(s) across 18 source(s).",
+        "Baseline snapshot created with 20 clustered item(s) across 17 source(s).",
         "Anadolu Ajans\u0131 now includes deaths or fatal cases in the story frame."
       ],
-      "latest_update_summary": "Baseline snapshot created with 21 clustered item(s) across 18 source(s).",
-      "latest_updated_at": "2026-07-04T11:26:34",
+      "latest_update_summary": "Baseline snapshot created with 20 clustered item(s) across 17 source(s).",
+      "latest_updated_at": "2026-07-04T11:36:31",
       "lead_source": "The Eastleigh Voice",
       "lead_title": "Uganda confirms six new Ebola cases, total infections rise to 15",
       "lead_url": "https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15",
@@ -6498,28 +6517,27 @@
         "item_3db8823862318c18",
         "item_46647cab34902bed",
         "item_0b2f4d7436f32682",
-        "item_087ed0bd697e1276",
         "item_f0af62655983c20c",
         "item_589fe01f46d0fc4c",
         "item_35f8c1f9bc73e7f5",
         "item_f7b4d764edf8e633",
         "item_fdf25729e33ebf25",
         "item_e5c6f7592feb9383",
+        "item_5b257431f34c7314",
         "item_98d2e3322b842994",
         "item_7a7abc3d646b45fa",
-        "item_214f1424c1290c60",
         "item_d337f32155b94e8f"
       ],
       "primary_region": "Africa",
-      "publisher_family_count": 2,
+      "publisher_family_count": 1,
       "publisher_names": [
         "Anadolu Ajans\u0131",
         "Avian Flu Diary",
-        "BBC",
         "Daily Sabah",
         "IOL",
         "Magzter",
         "MedPage Today",
+        "Outbreak News Today",
         "RFI",
         "Reuters",
         "South African Government News Agency",
@@ -6529,8 +6547,7 @@
         "Times of Suriname",
         "WION",
         "africanews.com",
-        "allAfrica.com",
-        "facebook.com"
+        "allAfrica.com"
       ],
       "related_reference_names": [
         "Ebola virus disease"
@@ -6579,17 +6596,17 @@
       "source_confidence_counts": {
         "aggregator_only": 0,
         "general_outlet": 3,
-        "major_newsroom": 1,
+        "major_newsroom": 0,
         "metadata_only_signal": 17,
         "official_agency": 0,
         "specialist_health": 0,
         "wire": 0
       },
-      "source_count": 18,
+      "source_count": 17,
       "source_kind_counts": {
         "aggregator_only": 0,
         "general_outlet": 3,
-        "major_newsroom": 1,
+        "major_newsroom": 0,
         "metadata_only_signal": 17,
         "official": 0,
         "specialist_health": 0,
@@ -6598,11 +6615,11 @@
       "source_names": [
         "Anadolu Ajans\u0131",
         "Avian Flu Diary",
-        "BBC",
         "Daily Sabah",
         "IOL",
         "Magzter",
         "MedPage Today",
+        "Outbreak News Today",
         "RFI",
         "Reuters",
         "South African Government News Agency",
@@ -6612,8 +6629,7 @@
         "Times of Suriname",
         "WION",
         "africanews.com",
-        "allAfrica.com",
-        "facebook.com"
+        "allAfrica.com"
       ],
       "status": "expanding_coverage",
       "story_id": "story_56666e9c6c86e976",
@@ -6622,22 +6638,22 @@
       "timeline": [
         {
           "bullets": [
-            "Baseline snapshot created with 21 clustered item(s) across 18 source(s).",
+            "Baseline snapshot created with 20 clustered item(s) across 17 source(s).",
             "Anadolu Ajans\u0131 now includes deaths or fatal cases in the story frame."
           ],
-          "generated_at": "2026-07-04T11:26:34",
+          "generated_at": "2026-07-04T11:36:31",
           "is_new_story": true,
-          "item_count": 21,
-          "run_id": "run_989a3a3c202dc87c",
-          "source_count": 18,
+          "item_count": 20,
+          "run_id": "run_a5a5e15dcd1d4620",
+          "source_count": 17,
           "story_id": "story_56666e9c6c86e976",
           "topic_name": "Ebola virus disease",
-          "update_id": "story_update_2377c2c51b376a84"
+          "update_id": "story_update_be99d2bedb079fda"
         }
       ],
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "what_happened": "Uganda confirms six new Ebola cases, total infections rise to 15",
       "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
@@ -6660,7 +6676,7 @@
         "official"
       ],
       "evidence_type": "news_report",
-      "first_seen_at": "2026-07-04T11:26:34",
+      "first_seen_at": "2026-07-04T11:36:31",
       "flags": [
         "active_investigation"
       ],
@@ -6685,7 +6701,7 @@
         "CBS News now explicitly uses investigation or monitoring language."
       ],
       "latest_update_summary": "Baseline snapshot created with 5 clustered item(s) across 4 source(s).",
-      "latest_updated_at": "2026-07-04T11:26:34",
+      "latest_updated_at": "2026-07-04T11:36:31",
       "lead_source": "CDC MMWR",
       "lead_title": "Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025",
       "lead_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941",
@@ -6745,21 +6761,174 @@
             "Baseline snapshot created with 5 clustered item(s) across 4 source(s).",
             "CBS News now explicitly uses investigation or monitoring language."
           ],
-          "generated_at": "2026-07-04T11:26:34",
+          "generated_at": "2026-07-04T11:36:31",
           "is_new_story": true,
           "item_count": 5,
-          "run_id": "run_989a3a3c202dc87c",
+          "run_id": "run_a5a5e15dcd1d4620",
           "source_count": 4,
           "story_id": "story_17a354bcafcca4ce",
           "topic_name": "Occupational and environmental epidemiology",
-          "update_id": "story_update_4f83b399a27c2ae4"
+          "update_id": "story_update_41f47442b64e1b51"
         }
       ],
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "what_happened": "Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025",
       "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 3 newsroom source(s)."
+    },
+    {
+      "claim_types": [
+        "severity_or_death",
+        "new_geography"
+      ],
+      "content_class": "tracked_outbreak_file",
+      "country": "",
+      "current_status_summary": "Expanding coverage",
+      "display_title": "Dengue and arboviruses",
+      "editions": [
+        "index",
+        "notebook",
+        "outbreaks",
+        "watch",
+        "asia"
+      ],
+      "evidence_type": "news_report",
+      "first_seen_at": "2026-07-04T11:36:31",
+      "flags": [
+        "active_investigation",
+        "deaths_reported"
+      ],
+      "freshness_counts": {
+        "fallback_cache": 0,
+        "live": 4,
+        "refresh_cache": 0,
+        "retained": 0,
+        "unknown": 0
+      },
+      "item_count": 4,
+      "item_ids": [
+        "item_ee6fa5a3200537c2",
+        "item_853fbc052a5162d6",
+        "item_ca3234697459a58b",
+        "item_bd144212ea996a72"
+      ],
+      "latest_timestamp": "2026-07-04T12:45+00:00",
+      "latest_update_bullets": [
+        "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
+        "Magzter now explicitly uses investigation or monitoring language.",
+        "Herald Malaysia Online now includes deaths or fatal cases in the story frame."
+      ],
+      "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
+      "latest_updated_at": "2026-07-04T11:36:31",
+      "lead_source": "Outbreak News Today",
+      "lead_title": "Sri Lanka dengue update: More than 21,500 cases in June",
+      "lead_url": "https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than",
+      "new_since_last_refresh": true,
+      "official_item_ids": [],
+      "press_item_ids": [
+        "item_ee6fa5a3200537c2",
+        "item_853fbc052a5162d6",
+        "item_ca3234697459a58b",
+        "item_bd144212ea996a72"
+      ],
+      "primary_region": "South Asia",
+      "publisher_family_count": 0,
+      "publisher_names": [
+        "Herald Malaysia Online",
+        "Magzter",
+        "Newagebd.net",
+        "Outbreak News Today"
+      ],
+      "related_reference_names": [
+        "Dengue"
+      ],
+      "related_reference_urls": [
+        "reference/dengue.html"
+      ],
+      "related_references": [
+        {
+          "latest_outbreak": {
+            "as_of": "2025-12-26 publication covering 2024",
+            "label": "Unprecedented global 2024 surge",
+            "location": "Global, especially the Americas",
+            "period": "2024",
+            "source_name": "WHO Weekly Epidemiological Record",
+            "source_url": "https://www.who.int/publications/i/item/who-wer10052-665-678",
+            "summary": "WHO's 2024 update recorded 14,434,584 dengue cases worldwide, including 11,201 deaths, with more than 90% of reported cases coming from the Region of the Americas."
+          },
+          "metrics_that_matter": [
+            "Cases, severe dengue, hospitalizations, and deaths.",
+            "Serotype shifts, if reported, because they can change severity expectations.",
+            "Urban mosquito control failure and the pace of geographic expansion."
+          ],
+          "name": "Dengue",
+          "outbreak_settings": [
+            "Dense urban settings",
+            "Rainy seasons",
+            "Expanding mosquito ranges"
+          ],
+          "pathogen": "Dengue virus",
+          "reference_url": "reference/dengue.html",
+          "reference_web_path": "reference/dengue.html",
+          "research_caveats": "Reported case totals can surge when testing changes, and severity comparisons across countries are often not apples to apples.",
+          "surveillance_note": "This belongs near the top of any global outbreak desk because climate, vector range and urban vulnerability all keep widening the playing field.",
+          "transmission": "Aedes mosquitoes",
+          "treatment": "Supportive care with careful fluid management.",
+          "vaccine_status": "Vaccines exist in a limited and policy-contingent way; most outbreak control still depends on vector ecology and clinical recognition."
+        }
+      ],
+      "source_confidence_counts": {
+        "aggregator_only": 0,
+        "general_outlet": 3,
+        "major_newsroom": 0,
+        "metadata_only_signal": 1,
+        "official_agency": 0,
+        "specialist_health": 0,
+        "wire": 0
+      },
+      "source_count": 4,
+      "source_kind_counts": {
+        "aggregator_only": 0,
+        "general_outlet": 3,
+        "major_newsroom": 0,
+        "metadata_only_signal": 1,
+        "official": 0,
+        "specialist_health": 0,
+        "wire": 0
+      },
+      "source_names": [
+        "Herald Malaysia Online",
+        "Magzter",
+        "Newagebd.net",
+        "Outbreak News Today"
+      ],
+      "status": "expanding_coverage",
+      "story_id": "story_ccfeaff28d46baf6",
+      "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
+      "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
+      "timeline": [
+        {
+          "bullets": [
+            "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
+            "Magzter now explicitly uses investigation or monitoring language.",
+            "Herald Malaysia Online now includes deaths or fatal cases in the story frame."
+          ],
+          "generated_at": "2026-07-04T11:36:31",
+          "is_new_story": true,
+          "item_count": 4,
+          "run_id": "run_a5a5e15dcd1d4620",
+          "source_count": 4,
+          "story_id": "story_ccfeaff28d46baf6",
+          "topic_name": "Dengue and arboviruses",
+          "update_id": "story_update_159e15c6c717ee0c"
+        }
+      ],
+      "topic_id": "topic_ccfeaff28d46baf6",
+      "topic_name": "Dengue and arboviruses",
+      "updated_at": "2026-07-04T11:36:31",
+      "what_happened": "Sri Lanka dengue update: More than 21,500 cases in June",
+      "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
     {
       "claim_types": [
@@ -6775,7 +6944,7 @@
         "notebook"
       ],
       "evidence_type": "research_linked",
-      "first_seen_at": "2026-07-04T11:26:34",
+      "first_seen_at": "2026-07-04T11:36:31",
       "flags": [
         "vaccine_signal"
       ],
@@ -6799,7 +6968,7 @@
         "PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story."
       ],
       "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 3 source(s).",
-      "latest_updated_at": "2026-07-04T11:26:34",
+      "latest_updated_at": "2026-07-04T11:36:31",
       "lead_source": "PubMed Historical Pathogen Case Studies",
       "lead_title": "A historical overview of the anti-vaccine movement and its public health implications.",
       "lead_url": "https://pubmed.ncbi.nlm.nih.gov/42391692/",
@@ -6855,30 +7024,30 @@
             "Baseline snapshot created with 4 clustered item(s) across 3 source(s).",
             "PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story."
           ],
-          "generated_at": "2026-07-04T11:26:34",
+          "generated_at": "2026-07-04T11:36:31",
           "is_new_story": true,
           "item_count": 4,
-          "run_id": "run_989a3a3c202dc87c",
+          "run_id": "run_a5a5e15dcd1d4620",
           "source_count": 3,
           "story_id": "story_afd8f5934e291e02",
           "topic_name": "COVID-19 and SARS-CoV-2",
-          "update_id": "story_update_6bd155bfc1311620"
+          "update_id": "story_update_d39df82bbee5d33d"
         }
       ],
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-04T11:26:34",
+      "updated_at": "2026-07-04T11:36:31",
       "what_happened": "A historical overview of the anti-vaccine movement and its public health implications.",
       "why_it_matters": "This file matters because official outbreak tracking remains active even if publisher coverage is thin."
     }
   ],
-  "story_count": 3,
+  "story_count": 4,
   "target_date": "2026-07-04",
-  "topic_count": 8,
+  "topic_count": 7,
   "topics": [
     {
       "display_title": "Ebola virus disease",
-      "item_count": 21,
+      "item_count": 20,
       "item_ids": [
         "item_32569b1dffd41b42",
         "item_d902da20fa88e076",
@@ -6891,12 +7060,12 @@
         "item_46647cab34902bed",
         "item_0b2f4d7436f32682"
       ],
-      "source_count": 18,
+      "source_count": 17,
       "story_id": "story_56666e9c6c86e976",
-      "summary": "Cluster remains active across 21 related item(s), but usable factual summary text was limited after cleanup.",
+      "summary": "Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-04T11:26:34"
+      "updated_at": "2026-07-04T11:36:31"
     },
     {
       "display_title": "Miscellaneous signals",
@@ -6914,7 +7083,7 @@
       "summary": "Over the long-term, PCV20 2+1 would avert 162,435 pneumococcal disease cases and 4,340 deaths vs PCV13 2+1, while generating $2.3 billion in cost savings, indicating dominance. Eight themes emerged: (1) parents desire more information about HPV, (2) neither parents nor HCPs associate HPV with cancer in men, (3) mothers have more knowledge than fathers, (4) fear of side effects contributes to vaccine hesitancy,...",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-04T11:26:34"
+      "updated_at": "2026-07-04T11:36:31"
     },
     {
       "display_title": "Occupational and environmental epidemiology",
@@ -6931,7 +7100,23 @@
       "summary": "auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. Weekly / July 2, 2026 / 75(25);322\u00e2\u0080\u0093326 Sarah Gallalee, PhD 1 ,2 ; Hannah M. During 2022-2024, a total of 13,507 clinical C.",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-04T11:26:34"
+      "updated_at": "2026-07-04T11:36:31"
+    },
+    {
+      "display_title": "Dengue and arboviruses",
+      "item_count": 4,
+      "item_ids": [
+        "item_ee6fa5a3200537c2",
+        "item_853fbc052a5162d6",
+        "item_ca3234697459a58b",
+        "item_bd144212ea996a72"
+      ],
+      "source_count": 4,
+      "story_id": "story_ccfeaff28d46baf6",
+      "summary": "Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Thai Church marks Rerum Novarum anniversary with renewed call for labor justice This July 1, there is much to be concerned about Hong Kong New ASIF statute: A further step toward international standards Faces that haunt me Pope Leo XIV updates the Constitution of the Vicariate of Rome A Buddhist monk prays alongside...",
+      "topic_id": "topic_ccfeaff28d46baf6",
+      "topic_name": "Dengue and arboviruses",
+      "updated_at": "2026-07-04T11:36:31"
     },
     {
       "display_title": "COVID-19 and SARS-CoV-2",
@@ -6947,21 +7132,7 @@
       "summary": "Adequate knowledge about free vaccination (adjusted odds ratio [aOR] 3.86), routine vaccination (aOR 5.72), and obligation to make efforts to receive vaccination (aOR 2.21) were positively associated with acceptance, whereas anxiety about vaccination was negatively associated (aOR 0.37). The proportions of participants with \u22653 doses of COVID-19 vaccine (77% versus 59%) and those enrolled in the Faculty of...",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-04T11:26:34"
-    },
-    {
-      "display_title": "Dengue and arboviruses",
-      "item_count": 2,
-      "item_ids": [
-        "item_ee6fa5a3200537c2",
-        "item_ca3234697459a58b"
-      ],
-      "source_count": 2,
-      "story_id": "story_ccfeaff28d46baf6",
-      "summary": "The Sri Lanka National Dengue Control Unit (NDCU) of the Ministry of Health reported 21,547 dengue fever cases in June and already 3,422 cases in the first days of July, bringing the outbreak total in the country to 58,810 through July 3. During the week ending June 28, 6,009 cases were reported across 26 districts, a nearly 15% increase over the total cases reported in the prior week. Most cases are mild to...",
-      "topic_id": "topic_ccfeaff28d46baf6",
-      "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-07-04T11:26:34"
+      "updated_at": "2026-07-04T11:36:31"
     },
     {
       "display_title": "Yellow fever",
@@ -6974,7 +7145,7 @@
       "summary": "Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16.",
       "topic_id": "topic_26c96a34d972cfb7",
       "topic_name": "Yellow fever",
-      "updated_at": "2026-07-04T11:26:34"
+      "updated_at": "2026-07-04T11:36:31"
     },
     {
       "display_title": "Measles transmission and vaccination",
@@ -6987,20 +7158,7 @@
       "summary": "BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained...",
       "topic_id": "topic_0cc2d5322bc76f8f",
       "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-07-04T11:26:34"
-    },
-    {
-      "display_title": "Avian influenza and H5N1",
-      "item_count": 1,
-      "item_ids": [
-        "item_76f35114ed3a03aa"
-      ],
-      "source_count": 1,
-      "story_id": "story_28a91c6d89267872",
-      "summary": "Please let us know Hong Kong was first to respond to an outbreak of H5N1 bird flu three decades ago.",
-      "topic_id": "topic_28a91c6d89267872",
-      "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-07-04T11:26:34"
+      "updated_at": "2026-07-04T11:36:31"
     }
   ]
 }
