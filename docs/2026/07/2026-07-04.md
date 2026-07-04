@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T04:06
+Generated at: 2026-07-04T04:16
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-07-04
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı)
-- Newly tracked story cluster: 20 item(s) across 19 source(s).
-- Baseline snapshot created with 20 clustered item(s) across 19 source(s).
+- Newly tracked story cluster: 21 item(s) across 20 source(s).
+- Baseline snapshot created with 21 clustered item(s) across 20 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -37,9 +37,9 @@ Search window: 7 day(s) ending 2026-07-04
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 20 item(s) across 19 source(s); 0 official/primary-source item(s).
+- Topic size: 21 item(s) across 20 source(s); 0 official/primary-source item(s).
 - Lead item: [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı, 2026-07-03T12:42+00:00)
-- Detailed note: Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: Cluster remains active across 21 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://allafrica.com/stories/202607030200.html) (allAfrica.com); [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://www.dailysabah.com/world/africa/congo-ebola-death-toll-tops-400-as-outbreak-spreads-to-major-city) (Daily Sabah); [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXUwU3VrTjZPdlVndmZSUHlPMmp3dzloakh3QTc2UnQ1WGdpbEZJa1hRRHZLZENoa0xHUXNoOTh0bjZBSTZFUlZiZExDQVJRUlhHd2lFWW1qX0YyYW5IeHNDMk1zaWhLdE9OaXg4TmRqT3dZTF9UZTNyYjg3S0dfMTRFejZwQWFSd3BraEU3Y2lMajgtWVZLX1V1SWNGU2hMczE0TzlyalBtV0l1NWpHOGJ6WE9CeVR1dEk0c2NpVHRvb25yWlBrdEFKRVdrVXBvcTJNOUFxT3BLdw?oc=5) (The Eastleigh Voice); [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFVBWGdmbmJySGt6VGZ6R1FOaURTZUJzVXYtbmk4ajRZWGFtS2QtVGRxbHpUamVFa2YySjBJX2ItTGpUVldSOHpxaWhlamptSnFhaDk3RXIwblNmNlo1Y0h3RGpGZXJVd1VaOGktY3pVbkI5eUtGU01WSnEwWlVyck1mcVB5X1NkQzJjanUwSkk5c1hKNG9zNjlSQnhfSFVqSVpHaTZqRjhmNExkX0IzVDNsVQ?oc=5) (IOL)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
@@ -76,12 +76,12 @@ Search window: 7 day(s) ending 2026-07-04
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Avian influenza and H5N1
+### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Health Ministry issues nationwide alert over spreading bird flu outbreak](https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/) (Nepalnews.com, 2026-07-04T01:14+00:00)
-- Detailed note: KATHMANDU: The Ministry of Health and Food Hygiene has issued an urgent nationwide alert following the detection of bird flu (avian influenza) across 100 locations in 11 districts, including the Kathmandu Valley. More ENTERTAINMENT CLIMATE SCIENCE & TECHNOLOGY WEATHER TRAVEL REMINISCENCE ARCHIVE Copyright © 2025 Nepal News. Please let us know Hong Kong was first to respond to an outbreak of H5N1 bird flu three...
-- Evidence notes: [Health Ministry issues nationwide alert over spreading bird flu outbreak](https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/) (Nepalnews.com); [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Lead item: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online, 2026-07-01T04:47+00:00)
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
+- Evidence notes: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
@@ -403,20 +403,18 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Health Ministry issues nationwide alert over spreading bird flu outbreak
-- Source: Nepalnews.com
-- Date: 2026-07-04T01:14+00:00
-- URL: https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/
+### Liberia reports yellow fever case in Grand Gedah County
+- Source: Outbreak News Today
+- Date: 2026-07-04T00:15+00:00
+- URL: https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case
 - Category: Outbreaks and emerging infections
-- Summary: KATHMANDU: The Ministry of Health and Food Hygiene has issued an urgent nationwide alert following the detection of bird flu (avian influenza) across 100 locations in 11 districts, including the Kathmandu Valley. More ENTERTAINMENT CLIMATE SCIENCE & TECHNOLOGY WEATHER TRAVEL REMINISCENCE ARCHIVE Copyright © 2025 Nepal News. The public is advised to monitor for symptoms such as fever, cough, sore throat, breathing difficulties, muscle aches, fatigue, and diarrhea, and to practice strict hygiene measures.
+- Summary: Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
-  Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
 - [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) | Mwebantu | 2026-07-03T12:22+00:00 | Outbreaks and emerging infections
@@ -455,6 +453,8 @@ Search window: 7 day(s) ending 2026-07-04
   Limited detail was available from feed metadata alone.
 - [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
   Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan, which is âa high-risk country because of its proximity to the affected areas and cross-border population movementâ, Africa Centres for Disease Control and Prevention said in a response to questions on June 30. The new infections involve two of the contacts of a confirmed Ituri case, who then travelled to Haut-Uele and were later diagnosed there, Congoâs government spokesman Patrick Muyaya said. Learn more about our privacy policy Three people exposed to the Ebola outbreak in the Democratic Republic of Congo have been traced to a province bordering South Sudan, increasing the chances the virus could spill into one of the worldâs most fragile states.
+- [Ebola deaths in Africa top 400 as Uganda reports death of child from Marburg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dCRFo5Y1RXVElpMWw1WFBQem5PeVE3WWdmaXQ4a2RhMFBqZFZwaFNNcVUxblplM0RveEhESk5QRDJFM1VZUVc0dE43dEI3aDVwdkZJQUNhampjd2xfUnRRdW81SF9GN0YzVnc3Nm8tbFhqVlRJT3NsLTk0QnJCYlRucmZLSGxXMDZEMG9Sd0hOejYwbmJSUHB1SQ?oc=5) | CIDRAP | 2026-07-01T20:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
@@ -490,7 +490,6 @@ Search window: 7 day(s) ending 2026-07-04
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
