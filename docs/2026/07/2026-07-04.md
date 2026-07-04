@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T13:06
+Generated at: 2026-07-04T13:16
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -20,7 +20,7 @@ Search window: 7 day(s) ending 2026-07-04
 - Lead item: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore)
 - Newly tracked story cluster: 20 item(s) across 16 source(s).
 - Baseline snapshot created with 20 clustered item(s) across 16 source(s).
-- The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
+- Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
@@ -46,7 +46,7 @@ Search window: 7 day(s) ending 2026-07-04
 - Topic size: 20 item(s) across 16 source(s); 0 official/primary-source item(s).
 - Lead item: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore, 2026-07-04T16:40+00:00)
 - Detailed note: Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore); [Africa CDC urges regional action as Ebola outbreak spreads across DRC, Uganda](https://eastleighvoice.co.ke/index.php/health/351477/africa-cdc-urges-regional-action-as-ebola-outbreak-spreads-across-drc-uganda) (The Eastleigh Voice); [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/355625/congolese-virologist-urges-stronger-surveillance-as-ebola-outbreak-spreads) (The Eastleigh Voice); [WHO identifies promising Ebola vaccine candidates amid rising cases in DRC and Uganda](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEVKVWlfaWt2ZXNubFcyMUd4RVN0RldDamNXMy1hbHpmMUxyaXRLM09Malg1eWRkRVNYVDliT2dWS0VHQWM0NUp3a2VsZk9KWnBKUVdteDlSTXZiZUlOXy1DcU8xZ0FiOGNabDFoYVhQbGJyQks3SDM0NzAyTjlzaHZTYVBoUWRsdUF3eG16RUowcFdCaFVnM0V0UUF3X0VwbGRQRzV2dFppVmlLVkNVeTJHVU9vLUF2VWFhOUNlY21GNTR2WlBmUmV0MERtUGZYLVJ6Rg?oc=5) (The Eastleigh Voice)
+- Evidence notes: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore); [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice); [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) (The Eastleigh Voice); [Ebola cases in DR Congo rise to 676 amid community transmission](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmxKaUNpYXFNSktCZ2Vna1RLNWpfQ0IzSldyOTVwZWUwaHdFYlJmd0R5aFhyUTRrN1RRUUY2bEsybzlkSkpJNlY2X1R2emhUd2szZEVWMmxNaV8yUXdYYVlYbks4TGloRW84bzB6SmxfMFBCVXdRY0NuSTA5NkNrMVBfQkNkdktPU2VqNHB1dkhxNjVYc0llSE1LSlVRTTQtTXlpYm9yRndQcmdrMjd2bmhaYVJnaDhPbTY1cDVoOE4yOW1PeDZlZmhvZkZ2TmUtZEZWeQ?oc=5) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -409,29 +409,27 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Sri Lanka dengue update: More than 21,500 cases in June
-- Source: Outbreak News Today
-- Date: 2026-07-04T12:45+00:00
-- URL: https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than
+### Uganda confirms six new Ebola cases, total infections rise to 15
+- Source: The Eastleigh Voice
+- Date: 2026-07-04T13:12+00:00
+- URL: https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15
 - Category: Outbreaks and emerging infections
-- Summary: The Sri Lanka National Dengue Control Unit (NDCU) of the Ministry of Health reported 21,547 dengue fever cases in June and already 3,422 cases in the first days of July, bringing the outbreak total in the country to 58,810 through July 3. During the week ending June 28, 6,009 cases were reported across 26 districts, a nearly 15% increase over the total cases reported in the prior week. Year to date, Colombo district has reported 12,017 cases, followed by Gampaha with 11,740.
+- Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Africa CDC urges regional action as Ebola outbreak spreads across DRC, Uganda](https://eastleighvoice.co.ke/index.php/health/351477/africa-cdc-urges-regional-action-as-ebola-outbreak-spreads-across-drc-uganda) | The Eastleigh Voice | 2026-07-04T10:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) | Outbreak News Today | 2026-07-04T12:45+00:00 | Outbreaks and emerging infections
+  The Sri Lanka National Dengue Control Unit (NDCU) of the Ministry of Health reported 21,547 dengue fever cases in June and already 3,422 cases in the first days of July, bringing the outbreak total in the country to 58,810 through July 3. During the week ending June 28, 6,009 cases were reported across 26 districts, a nearly 15% increase over the total cases reported in the prior week. Year to date, Colombo district has reported 12,017 cases, followed by Gampaha with 11,740.
 - [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) | WION | 2026-07-04T09:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/355625/congolese-virologist-urges-stronger-surveillance-as-ebola-outbreak-spreads) | The Eastleigh Voice | 2026-07-04T08:04+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO identifies promising Ebola vaccine candidates amid rising cases in DRC and Uganda](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEVKVWlfaWt2ZXNubFcyMUd4RVN0RldDamNXMy1hbHpmMUxyaXRLM09Malg1eWRkRVNYVDliT2dWS0VHQWM0NUp3a2VsZk9KWnBKUVdteDlSTXZiZUlOXy1DcU8xZ0FiOGNabDFoYVhQbGJyQks3SDM0NzAyTjlzaHZTYVBoUWRsdUF3eG16RUowcFdCaFVnM0V0UUF3X0VwbGRQRzV2dFppVmlLVkNVeTJHVU9vLUF2VWFhOUNlY21GNTR2WlBmUmV0MERtUGZYLVJ6Rg?oc=5) | The Eastleigh Voice | 2026-07-04T07:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0k4M0p1X1FVWEtab21FUnlnbnkzUjNnTzVjZDdTcVRqMl9oemhTenZRZ1lmcjU0ZHBGS2pJelNsYi0wQV9HUlQ1NG5FZUZpU0hsd0NBVXZMdnNvWHQwTThScV9JVFl4NEhCQm51TXU3cWxodXV1NFR4TlBzNjAtQUwtQ2ZvV2hjZXNLeE9zSHFWUzJGX3p1SXM0VlhNWGtITlM3djZFM0pTUjVRWG9naG9mNGQ3dUY5LXJz?oc=5) | The Eastleigh Voice | 2026-07-04T07:02+00:00 | Outbreaks and emerging infections
+- [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) | The Eastleigh Voice | 2026-07-04T07:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
+  Limited detail was available from feed metadata alone.
+- [Ebola cases in DR Congo rise to 676 amid community transmission](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmxKaUNpYXFNSktCZ2Vna1RLNWpfQ0IzSldyOTVwZWUwaHdFYlJmd0R5aFhyUTRrN1RRUUY2bEsybzlkSkpJNlY2X1R2emhUd2szZEVWMmxNaV8yUXdYYVlYbks4TGloRW84bzB6SmxfMFBCVXdRY0NuSTA5NkNrMVBfQkNkdktPU2VqNHB1dkhxNjVYc0llSE1LSlVRTTQtTXlpYm9yRndQcmdrMjd2bmhaYVJnaDhPbTY1cDVoOE4yOW1PeDZlZmhvZkZ2TmUtZEZWeQ?oc=5) | The Eastleigh Voice | 2026-07-04T01:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
   Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
@@ -458,6 +456,8 @@ Search window: 7 day(s) ending 2026-07-04
 - [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://news.google.com/rss/articles/CBMia0FVX3lxTE0tYmVhTVZmeG1ia0ZwVnM1TFVjd25acGdQVTh3NGxaWk1OSDlaa05PaGhNSmZQNXNFNTNqVEt2U2hSRmViT1VycXZNRnhrcG9HaVY3SUVzRU1tNlg4VEVWY0p4UXV5VktLMGIw?oc=5) | MedPage Today | 2026-07-02T20:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) | The Eastern Herald | 2026-07-02T10:32+00:00 | Outbreaks and emerging infections
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
