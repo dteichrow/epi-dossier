@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T10:06
+Generated at: 2026-07-04T10:16
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -16,18 +16,11 @@ Search window: 7 day(s) ending 2026-07-04
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Dengue and arboviruses
-- Lead item: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- Magzter now explicitly uses investigation or monitoring language.
-- Herald Malaysia Online now includes deaths or fatal cases in the story frame.
-
 ### Ebola virus disease
-- Lead item: [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice)
-- Newly tracked story cluster: 20 item(s) across 17 source(s).
-- Baseline snapshot created with 20 clustered item(s) across 17 source(s).
-- Anadolu Ajansı now includes deaths or fatal cases in the story frame.
+- Lead item: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore)
+- Newly tracked story cluster: 21 item(s) across 18 source(s).
+- Baseline snapshot created with 21 clustered item(s) across 18 source(s).
+- France 24 now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
@@ -41,13 +34,19 @@ Search window: 7 day(s) ending 2026-07-04
 - Baseline snapshot created with 4 clustered item(s) across 3 source(s).
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
+### Dengue and arboviruses
+- Lead item: [Nadda Reviews Delhi’s Dengue Preparedness, Pushes Hospitals to Stay Ahead of Peak Season](https://boldnewsonline.com/amp/nadda-reviews-delhis-dengue-preparedness-pushes-hospitals-to-stay-ahead-of-peak-season/) (boldnewsonline.com)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- boldnewsonline.com now explicitly uses investigation or monitoring language.
+
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 20 item(s) across 17 source(s); 0 official/primary-source item(s).
-- Lead item: [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice, 2026-07-04T13:12+00:00)
-- Detailed note: Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice); [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) (The Eastleigh Voice); [Ebola cases in DR Congo rise to 676 amid community transmission](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmxKaUNpYXFNSktCZ2Vna1RLNWpfQ0IzSldyOTVwZWUwaHdFYlJmd0R5aFhyUTRrN1RRUUY2bEsybzlkSkpJNlY2X1R2emhUd2szZEVWMmxNaV8yUXdYYVlYbks4TGloRW84bzB6SmxfMFBCVXdRY0NuSTA5NkNrMVBfQkNkdktPU2VqNHB1dkhxNjVYc0llSE1LSlVRTTQtTXlpYm9yRndQcmdrMjd2bmhaYVJnaDhPbTY1cDVoOE4yOW1PeDZlZmhvZkZ2TmUtZEZWeQ?oc=5) (The Eastleigh Voice); [Border between DR Congo and Rwanda reopens amid Ebola outbreak](https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWpHWVlLTDBhYU5OWlBSY3lOWGdzUXV6eV9jRmFVdktkRTFhYTVCYnNFaHB2S1piLWlkZEo4bldLNWFEQ1VJU2dUVVdidk51NThVM1NvWGNIaFRzY1ZiUHBUZllZNnNRandtZ290bkxvUUZHelBvNjlQUmh0R3V1QlZlYTFtYk9fYU1TdVROUGxrOVRmUl82enpZWU9HVUZTUlpJ0gGoAUFVX3lxTE5heXBpMWhJN0tKTHpDVUFVMlBpeTlsRU56aE1LcWVDQ3BVV0wtV3BtajVZQTFPWC1sMVdTdmVKUE1EdEYtODByRGFSSHFiRWZkOGhWZS15ZEdjMnV2MVpWS0laVC1KWUc1Vk1hRzVraVltbk94cWxwd19ndHFfMXhhRDhic3lBVmJSMzV3V2Z1U21uMUE4dE9jRzNnY2doajJ4OFZfZ2pPUQ?oc=5) (africanews.com)
+- Topic size: 21 item(s) across 18 source(s); 0 official/primary-source item(s).
+- Lead item: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore, 2026-07-04T16:40+00:00)
+- Detailed note: Cluster remains active across 21 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore); [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice); [Congo reports 54 new confirmed Ebola cases](https://outbreaknewstoday.substack.com/p/congo-reports-54-new-confirmed-ebola) (Outbreak News Today); [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0k4M0p1X1FVWEtab21FUnlnbnkzUjNnTzVjZDdTcVRqMl9oemhTenZRZ1lmcjU0ZHBGS2pJelNsYi0wQV9HUlQ1NG5FZUZpU0hsd0NBVXZMdnNvWHQwTThScV9JVFl4NEhCQm51TXU3cWxodXV1NFR4TlBzNjAtQUwtQ2ZvV2hjZXNLeE9zSHFWUzJGX3p1SXM0VlhNWGtITlM3djZFM0pTUjVRWG9naG9mNGQ3dUY5LXJz?oc=5) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -67,14 +66,6 @@ Search window: 7 day(s) ending 2026-07-04
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today, 2026-07-04T12:45+00:00)
-- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
-- Evidence notes: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue now a year-round public health challenge in Bangladesh: experts](https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts) (Newagebd.net)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### COVID-19 and SARS-CoV-2
 - Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
@@ -82,6 +73,14 @@ Search window: 7 day(s) ending 2026-07-04
 - Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Determinants of HPV vaccination acceptance among young adult women in Japan's catch-up generation: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42386385/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Nadda Reviews Delhi’s Dengue Preparedness, Pushes Hospitals to Stay Ahead of Peak Season](https://boldnewsonline.com/amp/nadda-reviews-delhis-dengue-preparedness-pushes-hospitals-to-stay-ahead-of-peak-season/) (boldnewsonline.com, 2026-07-04T12:45+00:00)
+- Detailed note: NEW DELHI, Jul 3: With the monsoon setting in and the risk of seasonal outbreaks rising, Union Health Minister J.P. The city has repeatedly faced outbreaks of varying intensity, with hospitals often coming under pressure when fever cases begin climbing in clusters. Most cases are mild to moderate.
+- Evidence notes: [Nadda Reviews Delhi’s Dengue Preparedness, Pushes Hospitals to Stay Ahead of Peak Season](https://boldnewsonline.com/amp/nadda-reviews-delhis-dengue-preparedness-pushes-hospitals-to-stay-ahead-of-peak-season/) (boldnewsonline.com); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue now a year-round public health challenge in Bangladesh: experts](https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts) (Newagebd.net)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Yellow fever
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -400,6 +399,16 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### France: first Ebola case 'recovered' and 'discharged from hospital'
+- Source: Yahoo News Singapore
+- Date: 2026-07-04T16:40+00:00
+- URL: https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 ### Uganda confirms six new Ebola cases, total infections rise to 15
 - Source: The Eastleigh Voice
 - Date: 2026-07-04T13:12+00:00
@@ -410,21 +419,15 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Sri Lanka dengue update: More than 21,500 cases in June
-- Source: Outbreak News Today
-- Date: 2026-07-04T12:45+00:00
-- URL: https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than
-- Category: Outbreaks and emerging infections
-- Summary: The Sri Lanka National Dengue Control Unit (NDCU) of the Ministry of Health reported 21,547 dengue fever cases in June and already 3,422 cases in the first days of July, bringing the outbreak total in the country to 58,810 through July 3. During the week ending June 28, 6,009 cases were reported across 26 districts, a nearly 15% increase over the total cases reported in the prior week. Year to date, Colombo district has reported 12,017 cases, followed by Gampaha with 11,740.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Nadda Reviews Delhi’s Dengue Preparedness, Pushes Hospitals to Stay Ahead of Peak Season](https://boldnewsonline.com/amp/nadda-reviews-delhis-dengue-preparedness-pushes-hospitals-to-stay-ahead-of-peak-season/) | boldnewsonline.com | 2026-07-04T12:45+00:00 | Outbreaks and emerging infections
+  NEW DELHI, Jul 3: With the monsoon setting in and the risk of seasonal outbreaks rising, Union Health Minister J.P. The city has repeatedly faced outbreaks of varying intensity, with hospitals often coming under pressure when fever cases begin climbing in clusters. Nadda on Thursday reviewed Delhi’s preparedness for dengue and other vector borne diseases, directing authorities to strengthen surveillance, hospital readiness, testing networks and awareness campaigns to prevent a surge during the peak transmission months.
+- [Congo reports 54 new confirmed Ebola cases](https://outbreaknewstoday.substack.com/p/congo-reports-54-new-confirmed-ebola) | Outbreak News Today | 2026-07-04T11:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) | WION | 2026-07-04T09:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) | The Eastleigh Voice | 2026-07-04T07:02+00:00 | Outbreaks and emerging infections
+- [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0k4M0p1X1FVWEtab21FUnlnbnkzUjNnTzVjZDdTcVRqMl9oemhTenZRZ1lmcjU0ZHBGS2pJelNsYi0wQV9HUlQ1NG5FZUZpU0hsd0NBVXZMdnNvWHQwTThScV9JVFl4NEhCQm51TXU3cWxodXV1NFR4TlBzNjAtQUwtQ2ZvV2hjZXNLeE9zSHFWUzJGX3p1SXM0VlhNWGtITlM3djZFM0pTUjVRWG9naG9mNGQ3dUY5LXJz?oc=5) | The Eastleigh Voice | 2026-07-04T07:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
@@ -432,15 +435,21 @@ Search window: 7 day(s) ending 2026-07-04
   Limited detail was available from feed metadata alone.
 - [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
   Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
+- [Eye on Africa - More than 400 dead in DR Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3FhU1F3bmtCMWl4dVo1SW9HazVvTWdFdlBBenpVakdJTmZJcWxIN3R6ZExITlRlNzB0bEpvWl9kWk05aU8xWnQ0OWtLUkNremhMcDhvWXB1WE9iZTM2RWdpTHJSX2RHNl9rNDVYd0ZldlNmOU1ucFBPUGhpOEtKag?oc=5) | France 24 | 2026-07-03T21:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Border between DR Congo and Rwanda reopens amid Ebola outbreak](https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWpHWVlLTDBhYU5OWlBSY3lOWGdzUXV6eV9jRmFVdktkRTFhYTVCYnNFaHB2S1piLWlkZEo4bldLNWFEQ1VJU2dUVVdidk51NThVM1NvWGNIaFRzY1ZiUHBUZllZNnNRandtZ290bkxvUUZHelBvNjlQUmh0R3V1QlZlYTFtYk9fYU1TdVROUGxrOVRmUl82enpZWU9HVUZTUlpJ0gGoAUFVX3lxTE5heXBpMWhJN0tKTHpDVUFVMlBpeTlsRU56aE1LcWVDQ3BVV0wtV3BtajVZQTFPWC1sMVdTdmVKUE1EdEYtODByRGFSSHFiRWZkOGhWZS15ZEdjMnV2MVpWS0laVC1KWUc1Vk1hRzVraVltbk94cWxwd19ndHFfMXhhRDhic3lBVmJSMzV3V2Z1U21uMUE4dE9jRzNnY2doajJ4OFZfZ2pPUQ?oc=5) | africanews.com | 2026-07-03T21:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo says number of confirmed Ebola cases rises to 1,502](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkJwRjhWSzVFQWx4ellEeGlvcWlTRERzQ2ZUZVR1ajYwR1J6WThSN1lHVFNldFk2aHRSTE1iMVJQU19Ga09aRTk1OVA4d0R3N2l0b1hvOWg3bFVsVzFha3NZQlZPR29ielNIRUVvVFhyYjh0VW85dFFwcklyWHlfQmstWXhOcnUxb0g4cnZMMjh0bTBTUjJsQ3F4M2lhR2dESm5kM2ZwZHlFRllvcTBSbDZuUVBCWGZlNG5rMGJzVQ?oc=5) | Reuters | 2026-07-03T21:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Uganda Ebola outbreak update](https://news.google.com/rss/articles/CBMieEFVX3lxTFBEY2xWZmNzUl9zN2Jsd2FMSzE5X2JxRGFFSWdOeE5DemZiZEY2NHR3ckI2NEdsYTl0NUZubG1uaExZSFFTUE0yQnBUaVdUTU5CSElOQzRVVlQxUFNyQ1J4SERERnVpQ2lqT3FCcGJkUmlzUDNhY1pfdw?oc=5) | Outbreak News Today | 2026-07-03T15:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) | Mwebantu | 2026-07-03T12:22+00:00 | Outbreaks and emerging infections
   BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Investors have regained appetite for Zambia after default, Citi says ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Limited detail was available from feed metadata alone.
 - [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) | allAfrica.com | 2026-07-03T10:30+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DRC trials experimental treatment for rare Ebola strain as outbreak worsens](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDMtY2pnbDU4RWtodTMweHA3LW5LNE9PYVg5RmJZYXlyVXZuQ2RFSmpsVFp2bDJET2tiTDZ2OFRhVnpDWklJN1FwUk1zMTMyby1ySVNSTHJfd3dLWHE1R3FESjZWdlFoWHNnU1psQUM1LU5EQTY5UzNvRENvTVo3LTVuYnF5X0EtMlF3eHlZNDRxWFQwdTktSzBPcDA2d19TUk8wSFFsaGJ0XzZ6em55VmRvSQ?oc=5) | RFI | 2026-07-03T09:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) | Daily Sabah | 2026-07-03T08:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -451,16 +460,6 @@ Search window: 7 day(s) ending 2026-07-04
 - [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://news.google.com/rss/articles/CBMia0FVX3lxTE0tYmVhTVZmeG1ia0ZwVnM1TFVjd25acGdQVTh3NGxaWk1OSDlaa05PaGhNSmZQNXNFNTNqVEt2U2hSRmViT1VycXZNRnhrcG9HaVY3SUVzRU1tNlg4VEVWY0p4UXV5VktLMGIw?oc=5) | MedPage Today | 2026-07-02T20:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak could cost Africa $3.6 billion](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjhBSkpXTEs4NVJKV3ZKdHZUVEdUaWVsYV9pcGNVa3JVc1p1bGx2SDJBcGxVUk1IUTlxZUJyT1RFX09xOVUwdUQwX2RIZzZjMGpiVzc3NUp3ajdha0JyUWt6M3Ezb005ZklZNEI1cVprTjBla1otQ0pDLWhJT2NpM2pkc1FjeTFTZHc?oc=5) | Times of Suriname | 2026-07-02T14:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak cases and deaths rise in Congo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5) | Outbreak News Today | 2026-07-02T13:06+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) | The Eastern Herald | 2026-07-02T10:32+00:00 | Outbreaks and emerging infections
-  The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
-- [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) | The Guardian | 2026-07-02T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
