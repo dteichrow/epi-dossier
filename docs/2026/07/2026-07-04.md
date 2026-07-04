@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T10:46
+Generated at: 2026-07-04T10:56
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -447,11 +447,11 @@ Search window: 7 day(s) ending 2026-07-04
   Limited detail was available from feed metadata alone.
 - [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak tops 400 deaths as virus reaches major city](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXZZaUxLTFVDb2pVMGlyQV8tNGJ2MkJFaU5TeU1yOUJvZ1M2T2UwdlBNM3JaZmtKZDNGQTBLb0NES2ZNLXdRbUNBV2FNdXdlQWVtYlZXVmMtOGJ5Y1V3alJpdmZKLUNmWWwtcU9sQi1zTGF0QXFmZ19SUzVHdEdOYkVUb0N4aXF4Sjk0QW5tZjVmMnUwOHRRRkR1aUtlcmN2ZFhJak12d3RBbXlld0x3VFQzdjByQXJwN2RaRVhucGtEMFR5ZEI2QTB5ZVlyaHh3WVM1XzFZenc?oc=5) | Le Monde.fr | 2026-07-02T20:27+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak could cost Africa $3.6 billion](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjhBSkpXTEs4NVJKV3ZKdHZUVEdUaWVsYV9pcGNVa3JVc1p1bGx2SDJBcGxVUk1IUTlxZUJyT1RFX09xOVUwdUQwX2RIZzZjMGpiVzc3NUp3ajdha0JyUWt6M3Ezb005ZklZNEI1cVprTjBla1otQ0pDLWhJT2NpM2pkc1FjeTFTZHc?oc=5) | Times of Suriname | 2026-07-02T14:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak cases and deaths rise in Congo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5) | Outbreak News Today | 2026-07-02T13:06+00:00 | Outbreaks and emerging infections
+- [Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3dPbTA3Wl8tUnBEZEVMaXNJOVhpb2VCMmMzY0RjajRfZURWREUxWThFWTRJWlpNV0ZrWUxYVXBTV19COEFJVUIybXIxOW5vZ0NDeXBmTDh4c1Jfdng3a215eDBuRF9vVU1XTFdvSEtORm1odHdnQm5UWnhaTFJKWTNKVlo2b2JGQmF1bWRIdVVFVEI1Mk5WdnFyNzhZeVBxTlJZNmxWd281Zw?oc=5) | Ars Technica | 2026-07-02T16:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) | The Eastern Herald | 2026-07-02T10:32+00:00 | Outbreaks and emerging infections
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
