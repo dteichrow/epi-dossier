@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T06:16
+Generated at: 2026-07-04T06:26
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -17,7 +17,7 @@ Search window: 7 day(s) ending 2026-07-04
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
-- Lead item: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters)
+- Lead item: [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION)
 - Newly tracked story cluster: 21 item(s) across 20 source(s).
 - Baseline snapshot created with 21 clustered item(s) across 20 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
@@ -38,9 +38,9 @@ Search window: 7 day(s) ending 2026-07-04
 ## Major topics
 ### Ebola virus disease
 - Topic size: 21 item(s) across 20 source(s); 0 official/primary-source item(s).
-- Lead item: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters, 2026-07-03T21:11+00:00)
+- Lead item: [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION, 2026-07-04T09:12+00:00)
 - Detailed note: Cluster remains active across 21 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://allafrica.com/stories/202607030200.html) (allAfrica.com); [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) (Daily Sabah); [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXUwU3VrTjZPdlVndmZSUHlPMmp3dzloakh3QTc2UnQ1WGdpbEZJa1hRRHZLZENoa0xHUXNoOTh0bjZBSTZFUlZiZExDQVJRUlhHd2lFWW1qX0YyYW5IeHNDMk1zaWhLdE9OaXg4TmRqT3dZTF9UZTNyYjg3S0dfMTRFejZwQWFSd3BraEU3Y2lMajgtWVZLX1V1SWNGU2hMczE0TzlyalBtV0l1NWpHOGJ6WE9CeVR1dEk0c2NpVHRvb25yWlBrdEFKRVdrVXBvcTJNOUFxT3BLdw?oc=5) (The Eastleigh Voice)
+- Evidence notes: [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) (allAfrica.com); [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) (Daily Sabah)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -393,6 +393,16 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Ebola Outbreak: DR Congo Launches New Ebola Drug Trial
+- Source: WION
+- Date: 2026-07-04T09:12+00:00
+- URL: https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 ### Legionnaires' disease cluster on NYC's Upper East Side under investigation
 - Source: CBS News
 - Date: 2026-07-04T03:47+00:00
@@ -403,18 +413,10 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Health Ministry issues nationwide alert over spreading bird flu outbreak
-- Source: Nepalnews.com
-- Date: 2026-07-04T01:14+00:00
-- URL: https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/
-- Category: Outbreaks and emerging infections
-- Summary: KATHMANDU: The Ministry of Health and Food Hygiene has issued an urgent nationwide alert following the detection of bird flu (avian influenza) across 100 locations in 11 districts, including the Kathmandu Valley. More ENTERTAINMENT CLIMATE SCIENCE & TECHNOLOGY WEATHER TRAVEL REMINISCENCE ARCHIVE Copyright © 2025 Nepal News. The public is advised to monitor for symptoms such as fever, cough, sore throat, breathing difficulties, muscle aches, fatigue, and diarrhea, and to practice strict hygiene measures.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Health Ministry issues nationwide alert over spreading bird flu outbreak](https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/) | Nepalnews.com | 2026-07-04T01:14+00:00 | Outbreaks and emerging infections
+  KATHMANDU: The Ministry of Health and Food Hygiene has issued an urgent nationwide alert following the detection of bird flu (avian influenza) across 100 locations in 11 districts, including the Kathmandu Valley. More ENTERTAINMENT CLIMATE SCIENCE & TECHNOLOGY WEATHER TRAVEL REMINISCENCE ARCHIVE Copyright © 2025 Nepal News. The public is advised to monitor for symptoms such as fever, cough, sore throat, breathing difficulties, muscle aches, fatigue, and diarrhea, and to practice strict hygiene measures.
 - [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
   Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
 - [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) | Reuters | 2026-07-03T21:11+00:00 | Outbreaks and emerging infections
@@ -423,7 +425,7 @@ Search window: 7 day(s) ending 2026-07-04
   Limited detail was available from feed metadata alone.
 - [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) | Mwebantu | 2026-07-03T12:22+00:00 | Outbreaks and emerging infections
   BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Investors have regained appetite for Zambia after default, Citi says ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Limited detail was available from feed metadata alone.
-- [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://allafrica.com/stories/202607030200.html) | allAfrica.com | 2026-07-03T10:30+00:00 | Outbreaks and emerging infections
+- [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) | allAfrica.com | 2026-07-03T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) | Daily Sabah | 2026-07-03T08:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -452,8 +454,6 @@ Search window: 7 day(s) ending 2026-07-04
 - [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5) | The Guardian | 2026-07-02T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town](https://news.google.com/rss/articles/CBMihAFBVV95cUxObmpwbF9ob1dBZzZ4cEp0VVNseFhneXNibkxkTjZSS19yRTJZZ2M2RmFPOFdFWnV1YVdsQ3llaG92U25aZERraGJpc2t2WHhiNkdnZS1NT3hOQnI1T0psZTctQ29GX014d2E3V3pfaDJBbXhQVzZucDdrT2JiNGg4ZGw2YWI?oc=5) | The New York Times | 2026-07-02T07:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [An AP journalist describes a month in the epicenter of Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFZqNWplVjQweWFJLTI2UU5zX2ZOWVVhVkFaVXNGQmd2SEU2YnJLM3dqYkNSZi13MEV2WlFnbUl1T3BlbVJocWRVRkN1NmdVRWE5cnVVVzhDNzUyQ2JXeW9MNndUdHhxVElmQTJnb3ducXpzTWNXTzQwZHdhRzVJZVFDZlI4Q09vMWkzbjhWdXJkUHk2dkE?oc=5) | Temple Daily Telegram | 2026-07-02T05:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
