@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T07:36
+Generated at: 2026-07-04T07:46
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-07-04
 
 ### Ebola virus disease
 - Lead item: [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION)
-- Newly tracked story cluster: 21 item(s) across 19 source(s).
-- Baseline snapshot created with 21 clustered item(s) across 19 source(s).
+- Newly tracked story cluster: 21 item(s) across 20 source(s).
+- Baseline snapshot created with 21 clustered item(s) across 20 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -44,10 +44,10 @@ Search window: 7 day(s) ending 2026-07-04
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 21 item(s) across 19 source(s); 0 official/primary-source item(s).
+- Topic size: 21 item(s) across 20 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION, 2026-07-04T09:12+00:00)
 - Detailed note: Cluster remains active across 21 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/355625/congolese-virologist-urges-stronger-surveillance-as-ebola-outbreak-spreads) (The Eastleigh Voice); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) (The Eastleigh Voice); [Congo says number of confirmed Ebola cases rises to 1,502](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkJwRjhWSzVFQWx4ellEeGlvcWlTRERzQ2ZUZVR1ajYwR1J6WThSN1lHVFNldFk2aHRSTE1iMVJQU19Ga09aRTk1OVA4d0R3N2l0b1hvOWg3bFVsVzFha3NZQlZPR29ielNIRUVvVFhyYjh0VW85dFFwcklyWHlfQmstWXhOcnUxb0g4cnZMMjh0bTBTUjJsQ3F4M2lhR2dESm5kM2ZwZHlFRllvcTBSbDZuUVBCWGZlNG5rMGJzVQ?oc=5) (Reuters); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) (Anadolu Ajansı)
+- Evidence notes: [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Ebola cases in DR Congo rise to 676 amid community transmission](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/367093/ebola-cases-in-dr-congo-rise-to-676-amid-community-transmission) (The Eastleigh Voice); [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) (allAfrica.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -422,15 +422,13 @@ Search window: 7 day(s) ending 2026-07-04
 
 
 ## Other notable readings
-- [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/355625/congolese-virologist-urges-stronger-surveillance-as-ebola-outbreak-spreads) | The Eastleigh Voice | 2026-07-04T08:04+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) | The Eastleigh Voice | 2026-07-04T07:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
+  Limited detail was available from feed metadata alone.
+- [Ebola cases in DR Congo rise to 676 amid community transmission](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/367093/ebola-cases-in-dr-congo-rise-to-676-amid-community-transmission) | The Eastleigh Voice | 2026-07-04T01:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
   Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
-- [Congo says number of confirmed Ebola cases rises to 1,502](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkJwRjhWSzVFQWx4ellEeGlvcWlTRERzQ2ZUZVR1ajYwR1J6WThSN1lHVFNldFk2aHRSTE1iMVJQU19Ga09aRTk1OVA4d0R3N2l0b1hvOWg3bFVsVzFha3NZQlZPR29ielNIRUVvVFhyYjh0VW85dFFwcklyWHlfQmstWXhOcnUxb0g4cnZMMjh0bTBTUjJsQ3F4M2lhR2dESm5kM2ZwZHlFRllvcTBSbDZuUVBCWGZlNG5rMGJzVQ?oc=5) | Reuters | 2026-07-03T21:11+00:00 | Outbreaks and emerging infections
+- [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) | Reuters | 2026-07-03T21:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -447,6 +445,8 @@ Search window: 7 day(s) ending 2026-07-04
 - [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://news.google.com/rss/articles/CBMia0FVX3lxTE0tYmVhTVZmeG1ia0ZwVnM1TFVjd25acGdQVTh3NGxaWk1OSDlaa05PaGhNSmZQNXNFNTNqVEt2U2hSRmViT1VycXZNRnhrcG9HaVY3SUVzRU1tNlg4VEVWY0p4UXV5VktLMGIw?oc=5) | MedPage Today | 2026-07-02T20:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak tops 400 deaths as virus reaches major city](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXZZaUxLTFVDb2pVMGlyQV8tNGJ2MkJFaU5TeU1yOUJvZ1M2T2UwdlBNM3JaZmtKZDNGQTBLb0NES2ZNLXdRbUNBV2FNdXdlQWVtYlZXVmMtOGJ5Y1V3alJpdmZKLUNmWWwtcU9sQi1zTGF0QXFmZ19SUzVHdEdOYkVUb0N4aXF4Sjk0QW5tZjVmMnUwOHRRRkR1aUtlcmN2ZFhJak12d3RBbXlld0x3VFQzdjByQXJwN2RaRVhucGtEMFR5ZEI2QTB5ZVlyaHh3WVM1XzFZenc?oc=5) | Le Monde.fr | 2026-07-02T20:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
