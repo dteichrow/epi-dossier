@@ -1,38 +1,32 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T04:49
+Generated at: 2026-07-04T04:56
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
 - [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR; 2026-07-02T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies; 2026-07-02T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News; 2026-07-01T14:00+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa; 2026-06-30T08:44+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa; 2026-06-26T16:55+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (151), Policy, surveillance, and public health infrastructure (8), Occupational and environmental epidemiology (3)
-- Source health: 3 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (33), Occupational and environmental epidemiology (3), Major epidemiology studies (2)
+- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
-- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 111 item(s) across 75 source(s).
-- Baseline snapshot created with 111 clustered item(s) across 75 source(s).
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News)
-- Newly tracked story cluster: 38 item(s) across 35 source(s).
-- Baseline snapshot created with 38 clustered item(s) across 35 source(s).
-- Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
+- Lead item: [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/355625/congolese-virologist-urges-stronger-surveillance-as-ebola-outbreak-spreads) (The Eastleigh Voice)
+- Newly tracked story cluster: 20 item(s) across 17 source(s).
+- Baseline snapshot created with 20 clustered item(s) across 17 source(s).
+- Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
 - Newly tracked story cluster: 4 item(s) across 3 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 3 source(s).
-- CDC MMWR now explicitly uses investigation or monitoring language.
+- CBS News now explicitly uses investigation or monitoring language.
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies)
@@ -43,25 +37,25 @@ Search window: 7 day(s) ending 2026-07-04
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 111 item(s) across 75 source(s); 2 official/primary-source item(s).
-- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa, 2026-06-26T16:55+00:00)
-- Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/355625/congolese-virologist-urges-stronger-surveillance-as-ebola-outbreak-spreads) (The Eastleigh Voice); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) (The Eastleigh Voice); [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters)
+- Topic size: 20 item(s) across 17 source(s); 0 official/primary-source item(s).
+- Lead item: [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/355625/congolese-virologist-urges-stronger-surveillance-as-ebola-outbreak-spreads) (The Eastleigh Voice, 2026-07-04T08:04+00:00)
+- Detailed note: Cluster remains active across 20 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/355625/congolese-virologist-urges-stronger-surveillance-as-ebola-outbreak-spreads) (The Eastleigh Voice); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) (The Eastleigh Voice); [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) (Reuters); [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) (Anadolu Ajansı); [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) (allAfrica.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Hantavirus and cruise-ship outbreak
-- Topic size: 38 item(s) across 35 source(s); 2 official/primary-source item(s).
-- Lead item: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News, 2026-07-01T14:00+02:00)
-- Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
-- Evidence notes: [Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products](https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [More than 100 passengers on US cruise ship sick from suspected norovirus](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3VtMGs0T3lBWTNCQUZyWWVXVG9uV3plMFk0RFUtYk9kSDdKclAzWEtpN1BJRDZKcWpmSmt5VGVMQWRLY1dPN091V0pNZ0NTSnBTVkdJM1RlaUFtZE9iUWxHWkdWdkRPR3F4RFZLNEphTTRONkNrbFYwUkk4UXZ5R0U1X0c?oc=5) (The Guardian); [Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5) (The New York Times); [Norovirus outbreak on Princess cruise ship to Alaska, Canada sickens 125 passengers and crew](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVFPa2NlRV9VWmtOMC1sRi1CSGtHWkJoQWJ3OVhOdndyOHN3NGYxYXgxS0pxM0g0S19XWkotOVdWY0h5X2lBQjNLWlRqZkVlTDVwbVRjVktRM0ZuUVJhQ1JoQkN3UkV2UTlXVzFod3RrU2xsMUhMZTBFYWd6aXI5ak40WUh5OXAwNmFnOHV0NkZ1ZWROYUNuOEdXeG9UY0ZDbkZpSEl6UXZFd3ZKVHctY0hxam9aLTFtU08w?oc=5) (CBS News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+### Miscellaneous signals
+- Topic size: 5 item(s) across 2 source(s); 5 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Perceptions, knowledge, and access to the HPV vaccine among parents and healthcare providers in South Quito, Ecuador in 2025: A qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42396795/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Occupational and environmental epidemiology
 - Topic size: 4 item(s) across 3 source(s); 2 official/primary-source item(s).
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR, 2026-07-02T17:00+00:00)
-- Detailed note: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. Weekly / July 2, 2026 / 75(25);322â326 Sarah Gallalee, PhD 1 ,2 ; Hannah M. Surveillance Summaries / July 2, 2026 / 75(4);1â11 Jeremy A.
+- Detailed note: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. Weekly / July 2, 2026 / 75(25);322â326 Sarah Gallalee, PhD 1 ,2 ; Hannah M. During 2022-2024, a total of 13,507 clinical C.
 - Evidence notes: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR); [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR); [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) (CBS News); [What it’s like to be a healthcare worker at the center of an Ebola outbreak](https://www.northcountrypublicradio.org/news/npr/nx-s1-5876431/what-it-s-like-to-be-a-healthcare-worker-at-the-center-of-an-ebola-outbreak) (NCPR: North Country Public Radio)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
@@ -84,11 +78,11 @@ Search window: 7 day(s) ending 2026-07-04
 
 ### Avian influenza and H5N1
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation, 2026-06-25T07:00+00:00)
-- Detailed note: Please let us know Hong Kong was first to respond to an outbreak of H5N1 bird flu three decades ago.
-- Evidence notes: [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation); [Health Ministry issues nationwide alert over spreading bird flu outbreak](https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/) (Nepalnews.com)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Lead item: [Health Ministry issues nationwide alert over spreading bird flu outbreak](https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/) (Nepalnews.com, 2026-07-04T01:14+00:00)
+- Detailed note: KATHMANDU: The Ministry of Health and Food Hygiene has issued an urgent nationwide alert following the detection of bird flu (avian influenza) across 100 locations in 11 districts, including the Kathmandu Valley. More ENTERTAINMENT CLIMATE SCIENCE & TECHNOLOGY WEATHER TRAVEL REMINISCENCE ARCHIVE Copyright © 2025 Nepal News. Please let us know Hong Kong was first to respond to an outbreak of H5N1 bird flu three...
+- Evidence notes: [Health Ministry issues nationwide alert over spreading bird flu outbreak](https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/) (Nepalnews.com); [H5N1 emerged in Asia 30 years ago. Here's what happened next - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-06-26/asia-response-to-h5n1-variant-bird-flu/106839290) (ABC News & Headlines – Australian Broadcasting Corporation)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -339,12 +333,42 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products
-- Source: ECDC News
-- Date: 2026-07-01T14:00+02:00
-- URL: https://www.ecdc.europa.eu/en/news-events/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe
+### FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-01T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1383 with date posted 6/13/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Powdered Infant Formula.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-01T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1380 with date posted 6/3/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Requeson/Soft Ricotta Cheese.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-01T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1358 with date posted 1/14/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Moringa Leaf Powder.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-01T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1369 with date posted 3/16/2026. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Raw Cheddar Cheese.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -364,49 +388,9 @@ Search window: 7 day(s) ending 2026-07-04
 - Date: 2026-06-30T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938
 - Category: Occupational and environmental epidemiology
-- Summary: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. Surveillance Summaries / July 2, 2026 / 75(4);1â11 Jeremy A. During 2022-2024, a total of 13,507 clinical C.
+- Summary: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. During 2022-2024, a total of 13,507 clinical C.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Electronic Surveillance Monthly Bulletin (May 2026)
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-30T08:44+00:00
-- URL: https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026
-- Category: Outbreaks and emerging infections
-- Summary: Publications mongem@who.int Tue, 30/06/2026 - 09:44 The Bulletin provides standardized updates on eSURV/ISS implementation, key performance indicators in WHO AFRO, aiding stakeholders in monitoring active surveillance progress, addressing gaps, and guiding evidence-based decisions at regional and national, and subnational levels.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-26T16:55+00:00
-- URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2
-- Category: Outbreaks and emerging infections
-- Summary: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has been reported across the three affected provinces of Ituri, North Kivu, and South Kivu. Publications orlunwop@who.int Fri, 26/06/2026 - 17:55 Event description Since the last update of 14 June 2026 (Situation Report #5), the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has continued to evolve, with cumulative incidence surpassing the milestone of 1000 laboratory-confirmed cases and the number of affected health zones continuing to increase.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
-- Source: Texas Department of State Health Services News
-- Date: Unknown
-- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
-- Relevance score: 5/5
-
-### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
-- Source: Texas Department of State Health Services News
-- Date: Unknown
-- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
 ### Congolese virologist urges stronger surveillance as Ebola outbreak spreads
@@ -419,48 +403,58 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Zimbabwe sets up Ebola isolation facilities amid regional outbreak
+- Source: The Eastleigh Voice
+- Date: 2026-07-04T07:02+00:00
+- URL: https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) | The Eastleigh Voice | 2026-07-04T07:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
+- [Health Ministry issues nationwide alert over spreading bird flu outbreak](https://english.nepalnews.com/s/health/health-ministry-issues-nationwide-alert-over-spreading-bird-flu-outbreak/) | Nepalnews.com | 2026-07-04T01:14+00:00 | Outbreaks and emerging infections
+  KATHMANDU: The Ministry of Health and Food Hygiene has issued an urgent nationwide alert following the detection of bird flu (avian influenza) across 100 locations in 11 districts, including the Kathmandu Valley. More ENTERTAINMENT CLIMATE SCIENCE & TECHNOLOGY WEATHER TRAVEL REMINISCENCE ARCHIVE Copyright © 2025 Nepal News. The public is advised to monitor for symptoms such as fever, cough, sore throat, breathing difficulties, muscle aches, fatigue, and diarrhea, and to practice strict hygiene measures.
 - [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+  Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
 - [Congo says number of confirmed Ebola cases rises to 1,502](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-rises-1502-2026-07-03/) | Reuters | 2026-07-03T21:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://www.aa.com.tr/en/health/china-dispatches-2nd-medical-team-to-dr-congo-as-ebola-fatalities-rise/3985350) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
+- [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) | Mwebantu | 2026-07-03T12:22+00:00 | Outbreaks and emerging infections
   BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Investors have regained appetite for Zambia after default, Citi says ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Limited detail was available from feed metadata alone.
-- [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://allafrica.com/stories/202607030200.html) | allAfrica.com | 2026-07-03T10:30+00:00 | Outbreaks and emerging infections
+- [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) | allAfrica.com | 2026-07-03T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://www.dailysabah.com/world/africa/congo-ebola-death-toll-tops-400-as-outbreak-spreads-to-major-city) | Daily Sabah | 2026-07-03T08:51+00:00 | Outbreaks and emerging infections
+- [Congo Ebola death toll tops 400 as outbreak spreads to major city | Daily Sabah](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlJDV3Z5TzZqZXpIbVpvdU5IbjB3bldFMHlHeUlDWVR4aHhZY2VIcVBmZ2JFRHdFVFM2ZlNnZDJXbGZYWWIxSEhHNU1La0s5RWU3ek44NE10cnNIeXVGc2UzZ2xibU1hdlk0ZkJNT09ScDFSdEt6MUhRYklheEZkRVVaVEJYY281NkpqSjVNdkJfVllscHl0N1B6M2xWYU1NZTVneXFJT23SAa4BQVVfeXFMTVpOUmxob3FTa2ROR3VMWW1nWm1iRlRuOEhmbjRxU19sVGRKTHE2UG80TV9CN1lRbXF6eTJrbTFCYnllVm5idEJEdDZWdS1NbkdSN2doNHA0ZnY3Q2dhMmE4VEdpQjJDMFV4eE5MRDlFalp5M0FBRlpDTkIyRmp6WGUzQUpFelFEc3l4S3RzYXhISFhkcEt3eER5QWJqc2xUS0pUR19YRmFuUHZkckNn?oc=5) | Daily Sabah | 2026-07-03T08:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://eastleighvoice.co.ke/index.php/regional/374986/africa-cdc-chief-warns-drc-ebola-outbreak-remains-very-serious-as-clinical-trial-begins) | The Eastleigh Voice | 2026-07-03T04:55+00:00 | Outbreaks and emerging infections
+- [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXUwU3VrTjZPdlVndmZSUHlPMmp3dzloakh3QTc2UnQ1WGdpbEZJa1hRRHZLZENoa0xHUXNoOTh0bjZBSTZFUlZiZExDQVJRUlhHd2lFWW1qX0YyYW5IeHNDMk1zaWhLdE9OaXg4TmRqT3dZTF9UZTNyYjg3S0dfMTRFejZwQWFSd3BraEU3Y2lMajgtWVZLX1V1SWNGU2hMczE0TzlyalBtV0l1NWpHOGJ6WE9CeVR1dEk0c2NpVHRvb25yWlBrdEFKRVdrVXBvcTJNOUFxT3BLdw?oc=5) | The Eastleigh Voice | 2026-07-03T04:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) | IOL | 2026-07-03T04:32+00:00 | Outbreaks and emerging infections
+- [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFVBWGdmbmJySGt6VGZ6R1FOaURTZUJzVXYtbmk4ajRZWGFtS2QtVGRxbHpUamVFa2YySjBJX2ItTGpUVldSOHpxaWhlamptSnFhaDk3RXIwblNmNlo1Y0h3RGpGZXJVd1VaOGktY3pVbkI5eUtGU01WSnEwWlVyck1mcVB5X1NkQzJjanUwSkk5c1hKNG9zNjlSQnhfSFVqSVpHaTZqRjhmNExkX0IzVDNsVQ?oc=5) | IOL | 2026-07-03T04:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [More than 100 passengers on US cruise ship sick from suspected norovirus](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3VtMGs0T3lBWTNCQUZyWWVXVG9uV3plMFk0RFUtYk9kSDdKclAzWEtpN1BJRDZKcWpmSmt5VGVMQWRLY1dPN091V0pNZ0NTSnBTVkdJM1RlaUFtZE9iUWxHWkdWdkRPR3F4RFZLNEphTTRONkNrbFYwUkk4UXZ5R0U1X0c?oc=5) | The Guardian | 2026-07-03T01:42+00:00 | Outbreaks and emerging infections
+- [More than 400 dead in Congo’s spreading Ebola outbreak](https://news.google.com/rss/articles/CBMiekFVX3lxTE5RSTN0VnRyaEhyUno4cVhVa24wemZuWXV5clY1WmdnbzYwNDBJUFd4YzNZYTB6NUktUW9SUXlaVWNjbWpjRDVvdXMzVS1UWERHamZjY0d0dDZ3YTBIb1QzcklEc2l2SDVLc2dIRXZlT1k5a0psU1hmTXhB?oc=5) | The Japan Times | 2026-07-03T01:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [More than 400 dead in Congo’s spreading Ebola outbreak](https://www.japantimes.co.jp/news/2026/07/03/world/congo-ebola-deaths/) | The Japan Times | 2026-07-03T01:10+00:00 | Outbreaks and emerging infections
+- [Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens](https://news.google.com/rss/articles/CBMia0FVX3lxTE0tYmVhTVZmeG1ia0ZwVnM1TFVjd25acGdQVTh3NGxaWk1OSDlaa05PaGhNSmZQNXNFNTNqVEt2U2hSRmViT1VycXZNRnhrcG9HaVY3SUVzRU1tNlg4VEVWY0p4UXV5VktLMGIw?oc=5) | MedPage Today | 2026-07-02T20:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5) | The New York Times | 2026-07-02T22:00+00:00 | Outbreaks and emerging infections
+- [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWJvWFBXQmVrQU9fOF9GWVNSSVptVEEtVDR0Nk5GUERUMzZvRmV4cVJzeElfVE9nU0dEMzhWb0w2Zk1MdFVGaENpTmdoRXFWSDRCXzhPMy1XZk8zQ2l6T1lxM05JUVJsNHNaYnpYSGZfTGJ6M0ZxQ1ZHb3lpZk50T0JJMURvVm5ZZmpoQUF1NzIyekE1VTloclNySkpENFFLR2c?oc=5) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Norovirus outbreak on Princess cruise ship to Alaska, Canada sickens 125 passengers and crew](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVFPa2NlRV9VWmtOMC1sRi1CSGtHWkJoQWJ3OVhOdndyOHN3NGYxYXgxS0pxM0g0S19XWkotOVdWY0h5X2lBQjNLWlRqZkVlTDVwbVRjVktRM0ZuUVJhQ1JoQkN3UkV2UTlXVzFod3RrU2xsMUhMZTBFYWd6aXI5ak40WUh5OXAwNmFnOHV0NkZ1ZWROYUNuOEdXeG9UY0ZDbkZpSEl6UXZFd3ZKVHctY0hxam9aLTFtU08w?oc=5) | CBS News | 2026-07-02T21:05+00:00 | Outbreaks and emerging infections
+- [DR Congo Ebola outbreak tops 400 deaths as virus reaches major city](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXZZaUxLTFVDb2pVMGlyQV8tNGJ2MkJFaU5TeU1yOUJvZ1M2T2UwdlBNM3JaZmtKZDNGQTBLb0NES2ZNLXdRbUNBV2FNdXdlQWVtYlZXVmMtOGJ5Y1V3alJpdmZKLUNmWWwtcU9sQi1zTGF0QXFmZ19SUzVHdEdOYkVUb0N4aXF4Sjk0QW5tZjVmMnUwOHRRRkR1aUtlcmN2ZFhJak12d3RBbXlld0x3VFQzdjByQXJwN2RaRVhucGtEMFR5ZEI2QTB5ZVlyaHh3WVM1XzFZenc?oc=5) | Le Monde.fr | 2026-07-02T20:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ramaphosa calls for African solidarity as DRC battles Ebola outbreak](https://www.sanews.gov.za/south-africa/ramaphosa-calls-african-solidarity-drc-battles-ebola-outbreak) | South African Government News Agency | 2026-07-02T20:52+00:00 | Outbreaks and emerging infections
+- [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak tops 400 deaths as virus reaches major city](https://www.lemonde.fr/en/international/article/2026/07/02/dr-congo-ebola-outbreak-tops-400-deaths-as-virus-reaches-major-city_6755094_4.html) | Le Monde.fr | 2026-07-02T20:27+00:00 | Outbreaks and emerging infections
+- [Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3dPbTA3Wl8tUnBEZEVMaXNJOVhpb2VCMmMzY0RjajRfZURWREUxWThFWTRJWlpNV0ZrWUxYVXBTV19COEFJVUIybXIxOW5vZ0NDeXBmTDh4c1Jfdng3a215eDBuRF9vVU1XTFdvSEtORm1odHdnQm5UWnhaTFJKWTNKVlo2b2JGQmF1bWRIdVVFVEI1Mk5WdnFyNzhZeVBxTlJZNmxWd281Zw?oc=5) | Ars Technica | 2026-07-02T16:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://eastleighvoice.co.ke/index.php/africa/374908/ramaphosa-in-dr-congo-as-africa-races-to-contain-expanding-ebola-outbreak) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak could cost Africa $3.6 billion](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjhBSkpXTEs4NVJKV3ZKdHZUVEdUaWVsYV9pcGNVa3JVc1p1bGx2SDJBcGxVUk1IUTlxZUJyT1RFX09xOVUwdUQwX2RIZzZjMGpiVzc3NUp3ajdha0JyUWt6M3Ezb005ZklZNEI1cVprTjBla1otQ0pDLWhJT2NpM2pkc1FjeTFTZHc?oc=5) | Times of Suriname | 2026-07-02T14:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hantavirus outbreak linked to cruise ship over, says WHO](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGxtc3pIRm1MbnJ6cFo3M1J4VHJWcWZRQW4zX2hvSTVhSzFRRXVzVVBlZkh3dnZYYno0MDdsdmxhQl84M3VRMHl5VlNOQ1N4U0Rrb2dnU25ua1hfOFN5dHlRM1Q1YzhLcHBTdkQ1cGhpVzNNV01ieWc3MXpneTRWUjZ5NTEwYXBS?oc=5) | CBC | 2026-07-02T17:35+00:00 | Outbreaks and emerging infections
+- [Malaria fears grow in Congo's Ebola outbreak hotspots](https://news.google.com/rss/articles/CBMingFBVV95cUxNQVNRaWUtVklJWFI4bmRPeTlaeTVRMTBiMVNYTU1mcFhuN0RyUUx2VXk1UnNNcTZvcU5Ddk5mYlZ1TTUtblZNRmx0cE0zU3UtYUVQMjVLbTdWRG5ULWlNRng5Vkprd05PcFNPOFJ1RlZKdVpueUYtWW1icmJSV0VkQnh6NjNwemg3bVkzOEFQZ21SOHJwVnl1VW1CbW1ZQQ?oc=5) | Polity.org.za | 2026-07-02T13:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO says Hantavirus outbreak linked to ship is over](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zNHVHSzdETnIxcTlkMDNGbk9QTlNlcjBBQXI3ekZmX1Z0emJKaVhwLXZNVllUNjRvMHUtTjJwZTZ1dG1TQllzaGUySDZYN3llM3BtWmZldGxBTElu?oc=5) | BBC | 2026-07-02T16:30+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak cases and deaths rise in Congo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUwtN2xwMXNQb3oyQkhPWU4yWmN2MU9vMzZfd1NEdWZ0cHRHUFRkdURhN2p2YXJBQTVoV1NZMWFrWnZfcG1CMlRJZWp0b1I4QU5xTlJqckoyZjVNRkFxZktfRkdsSzZ0OUotemRIR0JFSW1MTlA4VGNSVkcydWpUTWZ5VQ?oc=5) | Outbreak News Today | 2026-07-02T13:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages](https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/) | Ars Technica | 2026-07-02T16:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) | The Eastern Herald | 2026-07-02T10:32+00:00 | Outbreaks and emerging infections
+  The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
@@ -493,13 +487,10 @@ Search window: 7 day(s) ending 2026-07-04
   Across distinct historical periods, including early smallpox vaccination, mid-20th-century vaccine controversies, the 1998 Wakefield publication, and the COVID-19 pandemic, recurring themes emerge. The COVID-19 pandemic marked a critical inflection point, with vaccine hesitancy becoming increasingly politicized and, in some cases, economically incentivized through monetized online content. This narrative historical review examines the evolution of vaccine hesitancy and anti-vaccine sentiment from the smallpox era to the COVID-19 pandemic.
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) | PubMed Historical Pathogen Case Studies
   The study integrates epidemiological data and contextual historical information such as crime statistics, archival records, and secondary scholarship to explore whether epidemic-driven mortality crises are associated with subsequent changes in violence and injury profiles. A comparison between epidemic and socio-economic profiles strongly suggests that the significant increases in violent crime recorded after the Covid-19 pandemic are highly localised, and may be more strongly related to lockdown responses, including alcohol restrictions, rather than the effects of disease itself. This paper explores historical and contemporary intersections between mass-mortality epidemics and violent crime in South Africa, focusing on four major epidemics - Spanish Flu, tuberculosis, HIV, and Covid-19.
-- [A Risky Burial in the Heart of an Ebola Outbreak](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTcnZwT0trM2RkdDJYb3JpMGo4cldHRHF3TDFtc3BJeG95QVpzNmx3YVg0dE94dWo5T2p4VGNrMHpqNjlTSjB3bTdfeFRyYmdSdjhkRHFKTWdLMHpyNlJRM21fc0NyS05FZHlQVnA1aUZ2OFA5NkFSWnRSMzE?oc=5) | The New York Times
-  Limited detail was available from feed metadata alone.
-- [Why are cruise ships so gross? The reason viruses spread so fast, plus Expert tips for staying safe on your next cruise, as a new norovirus outbreak plagues travellers](https://ca.style.yahoo.com/why-are-cruise-ships-so-gross-the-reason-viruses-spread-so-fast-plus-expert-tips-for-staying-safe-on-your-next-cruise-as-a-new-norovirus-outbreak-plagues-travellers-180000941.html) | Yahoo Lifestyle Canada
-  Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
+- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
