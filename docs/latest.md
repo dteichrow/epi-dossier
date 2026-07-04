@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T10:56
+Generated at: 2026-07-04T11:06
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -16,10 +16,17 @@ Search window: 7 day(s) ending 2026-07-04
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Dengue and arboviruses
+- Lead item: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Magzter now explicitly uses investigation or monitoring language.
+- Herald Malaysia Online now includes deaths or fatal cases in the story frame.
+
 ### Ebola virus disease
-- Lead item: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore)
-- Newly tracked story cluster: 22 item(s) across 19 source(s).
-- Baseline snapshot created with 22 clustered item(s) across 19 source(s).
+- Lead item: [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice)
+- Newly tracked story cluster: 21 item(s) across 18 source(s).
+- Baseline snapshot created with 21 clustered item(s) across 18 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -37,10 +44,10 @@ Search window: 7 day(s) ending 2026-07-04
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 22 item(s) across 19 source(s); 0 official/primary-source item(s).
-- Lead item: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore, 2026-07-04T16:40+00:00)
-- Detailed note: Cluster remains active across 22 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [France: first Ebola case 'recovered' and 'discharged from hospital'](https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html) (Yahoo News Singapore); [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice); [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) (The Eastleigh Voice); [Ebola cases in DR Congo rise to 676 amid community transmission](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmxKaUNpYXFNSktCZ2Vna1RLNWpfQ0IzSldyOTVwZWUwaHdFYlJmd0R5aFhyUTRrN1RRUUY2bEsybzlkSkpJNlY2X1R2emhUd2szZEVWMmxNaV8yUXdYYVlYbks4TGloRW84bzB6SmxfMFBCVXdRY0NuSTA5NkNrMVBfQkNkdktPU2VqNHB1dkhxNjVYc0llSE1LSlVRTTQtTXlpYm9yRndQcmdrMjd2bmhaYVJnaDhPbTY1cDVoOE4yOW1PeDZlZmhvZkZ2TmUtZEZWeQ?oc=5) (The Eastleigh Voice)
+- Topic size: 21 item(s) across 18 source(s); 0 official/primary-source item(s).
+- Lead item: [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice, 2026-07-04T13:12+00:00)
+- Detailed note: Cluster remains active across 21 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Uganda confirms six new Ebola cases, total infections rise to 15](https://eastleighvoice.co.ke/index.php/health/361262/uganda-confirms-six-new-ebola-cases-total-infections-rise-to-15) (The Eastleigh Voice); [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) (WION); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) (The Eastleigh Voice); [Ebola cases in DR Congo rise to 676 amid community transmission](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmxKaUNpYXFNSktCZ2Vna1RLNWpfQ0IzSldyOTVwZWUwaHdFYlJmd0R5aFhyUTRrN1RRUUY2bEsybzlkSkpJNlY2X1R2emhUd2szZEVWMmxNaV8yUXdYYVlYbks4TGloRW84bzB6SmxfMFBCVXdRY0NuSTA5NkNrMVBfQkNkdktPU2VqNHB1dkhxNjVYc0llSE1LSlVRTTQtTXlpYm9yRndQcmdrMjd2bmhaYVJnaDhPbTY1cDVoOE4yOW1PeDZlZmhvZkZ2TmUtZEZWeQ?oc=5) (The Eastleigh Voice); [Border between DR Congo and Rwanda reopens amid Ebola outbreak](https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWpHWVlLTDBhYU5OWlBSY3lOWGdzUXV6eV9jRmFVdktkRTFhYTVCYnNFaHB2S1piLWlkZEo4bldLNWFEQ1VJU2dUVVdidk51NThVM1NvWGNIaFRzY1ZiUHBUZllZNnNRandtZ290bkxvUUZHelBvNjlQUmh0R3V1QlZlYTFtYk9fYU1TdVROUGxrOVRmUl82enpZWU9HVUZTUlpJ0gGoAUFVX3lxTE5heXBpMWhJN0tKTHpDVUFVMlBpeTlsRU56aE1LcWVDQ3BVV0wtV3BtajVZQTFPWC1sMVdTdmVKUE1EdEYtODByRGFSSHFiRWZkOGhWZS15ZEdjMnV2MVpWS0laVC1KWUc1Vk1hRzVraVltbk94cWxwd19ndHFfMXhhRDhic3lBVmJSMzV3V2Z1U21uMUE4dE9jRzNnY2doajJ4OFZfZ2pPUQ?oc=5) (africanews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -69,10 +76,10 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter, 2026-06-29T06:16+00:00)
-- Detailed note: Most cases are mild to moderate. A smaller share progress to severe dengue, which is the phase that requires hospital monitoring and, occasionally, intensive care.
-- Evidence notes: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue now a year-round public health challenge in Bangladesh: experts](https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts) (Newagebd.net)
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online, 2026-07-01T04:47+00:00)
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
+- Evidence notes: [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue now a year-round public health challenge in Bangladesh: experts](https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts) (Newagebd.net)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -393,16 +400,6 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### France: first Ebola case 'recovered' and 'discharged from hospital'
-- Source: Yahoo News Singapore
-- Date: 2026-07-04T16:40+00:00
-- URL: https://sg.news.yahoo.com/france-first-ebola-case-recovered-164046345.html
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 ### Uganda confirms six new Ebola cases, total infections rise to 15
 - Source: The Eastleigh Voice
 - Date: 2026-07-04T13:12+00:00
@@ -413,10 +410,18 @@ Search window: 7 day(s) ending 2026-07-04
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Ebola Outbreak: DR Congo Launches New Ebola Drug Trial
+- Source: WION
+- Date: 2026-07-04T09:12+00:00
+- URL: https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Ebola Outbreak: DR Congo Launches New Ebola Drug Trial](https://www.wionews.com/videos/ebola-outbreak-dr-congo-launches-new-ebola-drug-trial-1783156340674) | WION | 2026-07-04T09:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/africa/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) | The Eastleigh Voice | 2026-07-04T07:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
@@ -451,10 +456,12 @@ Search window: 7 day(s) ending 2026-07-04
   Limited detail was available from feed metadata alone.
 - [Ramaphosa in DR Congo as Africa races to contain expanding Ebola outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHdvazV4SnZCTUU3SmppcEFRdFZwLWtwMzBkMXdraTg0cFQyVnFQREpFaklxWk5fWFRJWW1nZDlfZW9ieWpIN24ydXJZcFR6RHphN3Y1Z3BONXJubXhsZDhCWHlUOWpXeHQxYVo4V0x0Tkp3UllBVU9Dc0xJZGU4MU0yWFRFVjUzU2E5ZW9PZUdIR2ptV2xDRDJsMzVVMmRlV01DZlh6anlFdDRseldobnNWUVlsdVZCRFFTb1JrMG55T2wy?oc=5) | The Eastleigh Voice | 2026-07-02T19:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3dPbTA3Wl8tUnBEZEVMaXNJOVhpb2VCMmMzY0RjajRfZURWREUxWThFWTRJWlpNV0ZrWUxYVXBTV19COEFJVUIybXIxOW5vZ0NDeXBmTDh4c1Jfdng3a215eDBuRF9vVU1XTFdvSEtORm1odHdnQm5UWnhaTFJKWTNKVlo2b2JGQmF1bWRIdVVFVEI1Mk5WdnFyNzhZeVBxTlJZNmxWd281Zw?oc=5) | Ars Technica | 2026-07-02T16:30+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak could cost Africa $3.6 billion](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjhBSkpXTEs4NVJKV3ZKdHZUVEdUaWVsYV9pcGNVa3JVc1p1bGx2SDJBcGxVUk1IUTlxZUJyT1RFX09xOVUwdUQwX2RIZzZjMGpiVzc3NUp3ajdha0JyUWt6M3Ezb005ZklZNEI1cVprTjBla1otQ0pDLWhJT2NpM2pkc1FjeTFTZHc?oc=5) | Times of Suriname | 2026-07-02T14:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) | The Eastern Herald | 2026-07-02T10:32+00:00 | Outbreaks and emerging infections
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
+- [Ebola cases traced to Congo province, bordering on ‘high-risk’ South Sudan](https://www.magzter.com/stories/newspaper/The-Straits-Times/EBOLA-CASES-TRACED-TO-CONGO-PROVINCE-BORDERING-ON-HIGHRISK-SOUTH-SUDAN) | Magzter | 2026-07-01T21:21+00:00 | Outbreaks and emerging infections
+  Any outbreak in the Haut-Uele region would significantly raise the threat to neighbouring South Sudan, which is âa high-risk country because of its proximity to the affected areas and cross-border population movementâ, Africa Centres for Disease Control and Prevention said in a response to questions on June 30. The new infections involve two of the contacts of a confirmed Ituri case, who then travelled to Haut-Uele and were later diagnosed there, Congoâs government spokesman Patrick Muyaya said. Learn more about our privacy policy Three people exposed to the Ebola outbreak in the Democratic Republic of Congo have been traced to a province bordering South Sudan, increasing the chances the virus could spill into one of the worldâs most fragile states.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
