@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T12:46
+Generated at: 2026-07-04T12:56
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-07-04
 - Lead item: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Magzter now explicitly uses investigation or monitoring language.
+- Daily Mirror - Sri Lanka now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
@@ -77,8 +77,8 @@ Search window: 7 day(s) ending 2026-07-04
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today, 2026-07-04T12:45+00:00)
-- Detailed note: The Sri Lanka National Dengue Control Unit (NDCU) of the Ministry of Health reported 21,547 dengue fever cases in June and already 3,422 cases in the first days of July, bringing the outbreak total in the country to 58,810 through July 3. During the week ending June 28, 6,009 cases were reported across 26 districts, a nearly 15% increase over the total cases reported in the prior week. Most cases are mild to...
-- Evidence notes: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue now a year-round public health challenge in Bangladesh: experts](https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts) (Newagebd.net)
+- Detailed note: The Sri Lanka National Dengue Control Unit (NDCU) of the Ministry of Health reported 21,547 dengue fever cases in June and already 3,422 cases in the first days of July, bringing the outbreak total in the country to 58,810 through July 3. During the week ending June 28, 6,009 cases were reported across 26 districts, a nearly 15% increase over the total cases reported in the prior week. Doctors warn that waiting...
+- Evidence notes: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today); [Don’t guess at home whether it’s dengue or flu-get checked early: Doctors - Daily Mirror](https://www.dailymirror.lk/print/front-page/Dont-guess-at-home-whether-its-dengue-or-flu-get-checked-early-Doctors/238-343856) (Daily Mirror - Sri Lanka); [Dengue now a year-round public health challenge in Bangladesh: experts](https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts) (Newagebd.net)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
