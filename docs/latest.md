@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T19:16
+Generated at: 2026-07-04T19:26
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-04
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (33), Occupational and environmental epidemiology (4), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (33), Occupational and environmental epidemiology (4), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -430,8 +430,8 @@ Search window: 7 day(s) ending 2026-07-04
 
 
 ## Other notable readings
-- [Taiwan reports 1st locally acquired cholera case since 2023](https://outbreaknewstoday.substack.com/p/taiwan-reports-1st-locally-acquired-dd3) | Outbreak News Today | 2026-07-04T20:28+00:00 | Outbreaks and emerging infections
-  Medical institutions that discover suspected cases should report them within 24 hours. The Taiwan Centers for Disease Control (CDC) announced on June 23, the first confirmed case of locally acquired cholera in Taiwan this year. Without treatment, the mortality rate for severely ill patients can exceed 50%; with timely replenishment of fluids and electrolytes and appropriate treatment, the mortality rate can be reduced to below 1%.
+- [Anthrax case reported in Uvs province in western Mongolia](https://outbreaknewstoday.substack.com/p/anthrax-case-reported-in-uvs-province) | Outbreak News Today | 2026-07-04T20:14+00:00 | Outbreaks and emerging infections
+  Response measures include epidemiological surveillance, containment of disease transmission, and the implementation of emergency outbreak control activities. Although this form has a low fatality rate with timely antibiotic treatment, the gastrointestinal and inhalational forms—much less frequent—can be severe and potentially fatal. Human cases are concentrated in rural populations engaged in livestock farming, with seasonal peaks linked to periods of heightened pastoral activity.
 - [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTU9LVlRvMEpXbU5pVWJnVDFaRHdjbUlJaE1BWWtZczJjTldjWTZ3amMyS2hJUUxoT3VJUVcyT1c3YVRoMy1DeDcxalpXM0ZVM2lHbXBCcnN2SkxJSmhsRV9TYmcwM1NqU1BVRzcza010b0hFdk0yVjJhRmkyY3htckpxbXU1UXRWbkZIS3BKNm5iamE4azBlUUJGQjN4Y2RjLVBwUW5YSEhQSUxxamFuaWFYSlJ1YnM0R01XVi1yWk5jV19pdDVoTFk0eVdGVGgxZ2Z3?oc=5) | The Eastleigh Voice | 2026-07-04T19:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [25 suspected Ebola cases test negative as Kenya steps up surveillance at entry points](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc1dFc2hOWEo2dnZwbmV4WEk0bDZHcUFqREFsN3JEZko5MXJ0aHFYM2taOGFsdFkwUnJfa3NZaTBLQ2RnbUpGUzJBY3R3ckF2TVBMSU1wOW5nQzFKN1FaS29LOVNWbTIwQkwxMjZKUHBmN2RpQlh0U3hGWVlmR1hMQmloc29ETGN6Vm1WbFRYRFlYNTlSeEdNZk8tRmlyb0V2UU9IOVNyV0hrTlhlWDRlcTJHaTJGWUxVZ1lva21RSmJJcmcyYk9vX3dBeHF2YzVzbVNDaw?oc=5) | The Eastleigh Voice | 2026-07-04T19:22+00:00 | Outbreaks and emerging infections
@@ -439,6 +439,8 @@ Search window: 7 day(s) ending 2026-07-04
 - [Congo Ebola Outbreak: 499 Dead in Alarming, Deadly Health Emergency](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUd2k4dGxxSTJhakhWYjFlX0Q1V2dGYjRRak1YT0hia053VV80ZlpFRUR3SW0tUUxYcXFWUF91N0pYODRIME5Nc0c2eEY5aFB0emlaakllODBiTHlSUjRjS3F3?oc=5) | teleSUR English | 2026-07-04T18:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda confirms six new Ebola cases, total infections rise to 15](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1BETUFBOVZ3LXk4RUpUU1ZDbEJpZmdadTlYcEtRYms3aVgzSXJlQUVJTTUxbnRLUGtDMk9SVkE4VzB3eTBlNDlDYUhERlRBRWhiVGlQWnFvR2xuMHFqT2MwVWk2SFYza3BrLVdnQVZqQjluM3NkNjV0eE96My1yRGFBU1g0dTR3QnpfTGlKX2tNeFNpamEySGhrcFl3VmM2aEgwZXlpZEhuZGg5LW8wWl9kdHZ1ZlU?oc=5) | The Eastleigh Voice | 2026-07-04T13:12+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo's Ebola cases hit 363, as Uganda reports 4 recoveries](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSFNDa1hRVUNPZ2xhejk2QWlvUGVUaHdIdXZDdXgyRXVYVUpDa0NhekZRNWlRcUZrdzlVcTV1UjIxa1RxcnNfM0FuS29iYlBJWDZKNTU0TkZubkNQVXRqQjlISUVvOF93U18wTU12Wlo5b0g3UFd5VGVFV0Znc05ZTnRoYTA0RW1VcXBzMUR3M0ZOQWRMVzljZWZLYjZCc21tRUpqNzhHTHBvQVU1THlFMi1BWQ?oc=5) | The Eastleigh Voice | 2026-07-04T13:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Explainer: Why Ebola vaccines and treatments remain limited despite repeated outbreaks](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM0ZwWUE2MUViTEpEM1EwOFh1V3oyWlM4OFdERHBnQWpQb2NFTmZyaVBNMnEyWUwxWGo3WlhhY1Q3S3lDRnFNVExlWUN5enJWbjBEMWw4aU1mTlBZWHlOQmFQWGk2ZDY5dHZKcUJNcVcyaWVESXptdTFfc3lLNTZlUnJuUEpRZWUySFJQbWlSQzdfaGtrODNPSkdQdTdrMndnZFQ1QmIwX0FnT3RaeHBIQjFYVk15YkNTWjVJOGJIMU9oRW52aWR5Z2QyU0xOaVNhZFp6Qw?oc=5) | The Eastleigh Voice | 2026-07-04T12:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -463,8 +465,6 @@ Search window: 7 day(s) ending 2026-07-04
 - [Border between DR Congo and Rwanda reopens amid Ebola outbreak](https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWpHWVlLTDBhYU5OWlBSY3lOWGdzUXV6eV9jRmFVdktkRTFhYTVCYnNFaHB2S1piLWlkZEo4bldLNWFEQ1VJU2dUVVdidk51NThVM1NvWGNIaFRzY1ZiUHBUZllZNnNRandtZ290bkxvUUZHelBvNjlQUmh0R3V1QlZlYTFtYk9fYU1TdVROUGxrOVRmUl82enpZWU9HVUZTUlpJ0gGoAUFVX3lxTE5heXBpMWhJN0tKTHpDVUFVMlBpeTlsRU56aE1LcWVDQ3BVV0wtV3BtajVZQTFPWC1sMVdTdmVKUE1EdEYtODByRGFSSHFiRWZkOGhWZS15ZEdjMnV2MVpWS0laVC1KWUc1Vk1hRzVraVltbk94cWxwd19ndHFfMXhhRDhic3lBVmJSMzV3V2Z1U21uMUE4dE9jRzNnY2doajJ4OFZfZ2pPUQ?oc=5) | africanews.com | 2026-07-03T21:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo says number of confirmed Ebola cases rises to 1,502](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkJwRjhWSzVFQWx4ellEeGlvcWlTRERzQ2ZUZVR1ajYwR1J6WThSN1lHVFNldFk2aHRSTE1iMVJQU19Ga09aRTk1OVA4d0R3N2l0b1hvOWg3bFVsVzFha3NZQlZPR29ielNIRUVvVFhyYjh0VW85dFFwcklyWHlfQmstWXhOcnUxb0g4cnZMMjh0bTBTUjJsQ3F4M2lhR2dESm5kM2ZwZHlFRllvcTBSbDZuUVBCWGZlNG5rMGJzVQ?oc=5) | Reuters | 2026-07-03T21:11+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Zambia Records 119 Confirmed Measles Cases, Western Province Hardest Hit](https://www.mwebantu.com/zambia-records-119-confirmed-measles-cases-western-province-hardest-hit/) | Mwebantu | 2026-07-03T12:22+00:00 | Outbreaks and emerging infections
   BUSINESS Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Mikalo Finance Official Relaunch Mikalo Finance Official Relaunch ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Airtel Africa Sustainability Report Media Roundtable Airtel Africa Sustainability Report Media Roundtable Investors have regained appetite for Zambia after default, Citi says Investors have regained appetite for Zambia after default, Citi says ZRA seizes smuggled heavy-duty grader in Kapiri Mposhi, prevents K615,000 revenue loss Limited detail was available from feed metadata alone.
