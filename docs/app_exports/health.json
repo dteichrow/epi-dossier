@@ -3,14 +3,13 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "CBS News",
-      "CNN",
-      "Reuters"
+      "CNN"
     ],
-    "metadata_only_count": 24,
+    "metadata_only_count": 25,
     "sources_cached": 0,
     "sources_failed": 2,
     "sources_live": 41,
-    "story_count_change": 4,
+    "story_count_change": 5,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
@@ -20,7 +19,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-05T06:16:31",
+  "generated_at": "2026-07-05T06:26:39",
   "source_failures": [
     {
       "error": "500 Server Error: Internal Server Error for url: https://ncdc.gov.ng/feed/",
