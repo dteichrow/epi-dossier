@@ -3,13 +3,14 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "CBS News",
-      "CNN"
+      "CNN",
+      "Reuters"
     ],
     "metadata_only_count": 23,
     "sources_cached": 0,
     "sources_failed": 1,
     "sources_live": 40,
-    "story_count_change": 5,
+    "story_count_change": 4,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
@@ -19,7 +20,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-05T07:16:41",
+  "generated_at": "2026-07-05T07:26:35",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
