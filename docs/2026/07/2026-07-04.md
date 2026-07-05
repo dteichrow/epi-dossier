@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T21:16
+Generated at: 2026-07-04T21:26
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -16,13 +16,6 @@ Search window: 7 day(s) ending 2026-07-04
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Ebola virus disease
-- Lead item: [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) (The Eastleigh Voice)
-- Newly tracked story cluster: 18 item(s) across 8 source(s).
-- Baseline snapshot created with 18 clustered item(s) across 8 source(s).
-- teleSUR English now includes deaths or fatal cases in the story frame.
-- The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
-
 ### Measles transmission and vaccination
 - Lead item: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
@@ -36,6 +29,12 @@ Search window: 7 day(s) ending 2026-07-04
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Magzter now explicitly uses investigation or monitoring language.
 - Herald Malaysia Online now includes deaths or fatal cases in the story frame.
+
+### Ebola virus disease
+- Lead item: [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) (The Eastleigh Voice)
+- Newly tracked story cluster: 18 item(s) across 8 source(s).
+- Baseline snapshot created with 18 clustered item(s) across 8 source(s).
+- teleSUR English now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
@@ -55,7 +54,7 @@ Search window: 7 day(s) ending 2026-07-04
 - Topic size: 18 item(s) across 8 source(s); 0 official/primary-source item(s).
 - Lead item: [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) (The Eastleigh Voice, 2026-07-04T21:08+00:00)
 - Detailed note: Cluster remains active across 18 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) (The Eastleigh Voice); [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTU9LVlRvMEpXbU5pVWJnVDFaRHdjbUlJaE1BWWtZczJjTldjWTZ3amMyS2hJUUxoT3VJUVcyT1c3YVRoMy1DeDcxalpXM0ZVM2lHbXBCcnN2SkxJSmhsRV9TYmcwM1NqU1BVRzcza010b0hFdk0yVjJhRmkyY3htckpxbXU1UXRWbkZIS3BKNm5iamE4azBlUUJGQjN4Y2RjLVBwUW5YSEhQSUxxamFuaWFYSlJ1YnM0R01XVi1yWk5jV19pdDVoTFk0eVdGVGgxZ2Z3?oc=5) (The Eastleigh Voice); [25 suspected Ebola cases test negative as Kenya steps up surveillance at entry points](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc1dFc2hOWEo2dnZwbmV4WEk0bDZHcUFqREFsN3JEZko5MXJ0aHFYM2taOGFsdFkwUnJfa3NZaTBLQ2RnbUpGUzJBY3R3ckF2TVBMSU1wOW5nQzFKN1FaS29LOVNWbTIwQkwxMjZKUHBmN2RpQlh0U3hGWVlmR1hMQmloc29ETGN6Vm1WbFRYRFlYNTlSeEdNZk8tRmlyb0V2UU9IOVNyV0hrTlhlWDRlcTJHaTJGWUxVZ1lva21RSmJJcmcyYk9vX3dBeHF2YzVzbVNDaw?oc=5) (The Eastleigh Voice); [Congo Ebola Outbreak: 499 Dead in Alarming, Deadly Health Emergency](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUd2k4dGxxSTJhakhWYjFlX0Q1V2dGYjRRak1YT0hia053VV80ZlpFRUR3SW0tUUxYcXFWUF91N0pYODRIME5Nc0c2eEY5aFB0emlaakllODBiTHlSUjRjS3F3?oc=5) (teleSUR English); [Uganda confirms six new Ebola cases, total infections rise to 15](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1BETUFBOVZ3LXk4RUpUU1ZDbEJpZmdadTlYcEtRYms3aVgzSXJlQUVJTTUxbnRLUGtDMk9SVkE4VzB3eTBlNDlDYUhERlRBRWhiVGlQWnFvR2xuMHFqT2MwVWk2SFYza3BrLVdnQVZqQjluM3NkNjV0eE96My1yRGFBU1g0dTR3QnpfTGlKX2tNeFNpamEySGhrcFl3VmM2aEgwZXlpZEhuZGg5LW8wWl9kdHZ1ZlU?oc=5) (The Eastleigh Voice)
+- Evidence notes: [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) (The Eastleigh Voice); [Kenya among 10 countries at risk of Ebola amid outbreak in DRC and Uganda- Africa CDC](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTU9LVlRvMEpXbU5pVWJnVDFaRHdjbUlJaE1BWWtZczJjTldjWTZ3amMyS2hJUUxoT3VJUVcyT1c3YVRoMy1DeDcxalpXM0ZVM2lHbXBCcnN2SkxJSmhsRV9TYmcwM1NqU1BVRzcza010b0hFdk0yVjJhRmkyY3htckpxbXU1UXRWbkZIS3BKNm5iamE4azBlUUJGQjN4Y2RjLVBwUW5YSEhQSUxxamFuaWFYSlJ1YnM0R01XVi1yWk5jV19pdDVoTFk0eVdGVGgxZ2Z3?oc=5) (The Eastleigh Voice); [25 suspected Ebola cases test negative as Kenya steps up surveillance at entry points](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc1dFc2hOWEo2dnZwbmV4WEk0bDZHcUFqREFsN3JEZko5MXJ0aHFYM2taOGFsdFkwUnJfa3NZaTBLQ2RnbUpGUzJBY3R3ckF2TVBMSU1wOW5nQzFKN1FaS29LOVNWbTIwQkwxMjZKUHBmN2RpQlh0U3hGWVlmR1hMQmloc29ETGN6Vm1WbFRYRFlYNTlSeEdNZk8tRmlyb0V2UU9IOVNyV0hrTlhlWDRlcTJHaTJGWUxVZ1lva21RSmJJcmcyYk9vX3dBeHF2YzVzbVNDaw?oc=5) (The Eastleigh Voice); [Congo Ebola Outbreak: 499 Dead in Alarming, Deadly Health Emergency](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUd2k4dGxxSTJhakhWYjFlX0Q1V2dGYjRRak1YT0hia053VV80ZlpFRUR3SW0tUUxYcXFWUF91N0pYODRIME5Nc0c2eEY5aFB0emlaakllODBiTHlSUjRjS3F3?oc=5) (teleSUR English); [Canada halts immigration applications from DRC, Uganda and South Sudan amid Ebola outbreak](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3JVcnl1cDVldC0xRWJLYUw4V1k0WmE5OGVheXF3SXlvNEwyT1NvMlVMSDRBRkM3WkxiNDU1U3ZRN2E0SGxmVFhGRGJRQ1F3ZnpkeF91Zkd5QndVNnZuX2dQcVlTbzFzbDk3WFZnV3JuNVEyWk1uRzFaZmVPRFo0UHNMSHI5bU1pQWtzbVBCMDFzalpMdGdQX0NEbTF4MXg5OHNsVG9sWUgtWFJlYXFJNWdBV3FyLWkyMWZ6T3haNU9ydng3VTRyUjJxSW1tbzJtLUh3QTBvLXc0VWFkY2F4X3E0eUxBekZtWlFLU1Z4bHh2eFpDbkxv?oc=5) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -438,11 +437,11 @@ Search window: 7 day(s) ending 2026-07-04
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Outbreak: 499 Dead in Alarming, Deadly Health Emergency](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUd2k4dGxxSTJhakhWYjFlX0Q1V2dGYjRRak1YT0hia053VV80ZlpFRUR3SW0tUUxYcXFWUF91N0pYODRIME5Nc0c2eEY5aFB0emlaakllODBiTHlSUjRjS3F3?oc=5) | teleSUR English | 2026-07-04T18:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Canada halts immigration applications from DRC, Uganda and South Sudan amid Ebola outbreak](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3JVcnl1cDVldC0xRWJLYUw4V1k0WmE5OGVheXF3SXlvNEwyT1NvMlVMSDRBRkM3WkxiNDU1U3ZRN2E0SGxmVFhGRGJRQ1F3ZnpkeF91Zkd5QndVNnZuX2dQcVlTbzFzbDk3WFZnV3JuNVEyWk1uRzFaZmVPRFo0UHNMSHI5bU1pQWtzbVBCMDFzalpMdGdQX0NEbTF4MXg5OHNsVG9sWUgtWFJlYXFJNWdBV3FyLWkyMWZ6T3haNU9ydng3VTRyUjJxSW1tbzJtLUh3QTBvLXc0VWFkY2F4X3E0eUxBekZtWlFLU1Z4bHh2eFpDbkxv?oc=5) | The Eastleigh Voice | 2026-07-04T16:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Uganda confirms six new Ebola cases, total infections rise to 15](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1BETUFBOVZ3LXk4RUpUU1ZDbEJpZmdadTlYcEtRYms3aVgzSXJlQUVJTTUxbnRLUGtDMk9SVkE4VzB3eTBlNDlDYUhERlRBRWhiVGlQWnFvR2xuMHFqT2MwVWk2SFYza3BrLVdnQVZqQjluM3NkNjV0eE96My1yRGFBU1g0dTR3QnpfTGlKX2tNeFNpamEySGhrcFl3VmM2aEgwZXlpZEhuZGg5LW8wWl9kdHZ1ZlU?oc=5) | The Eastleigh Voice | 2026-07-04T13:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo's Ebola cases hit 363, as Uganda reports 4 recoveries](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSFNDa1hRVUNPZ2xhejk2QWlvUGVUaHdIdXZDdXgyRXVYVUpDa0NhekZRNWlRcUZrdzlVcTV1UjIxa1RxcnNfM0FuS29iYlBJWDZKNTU0TkZubkNQVXRqQjlISUVvOF93U18wTU12Wlo5b0g3UFd5VGVFV0Znc05ZTnRoYTA0RW1VcXBzMUR3M0ZOQWRMVzljZWZLYjZCc21tRUpqNzhHTHBvQVU1THlFMi1BWQ?oc=5) | The Eastleigh Voice | 2026-07-04T13:07+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Explainer: Why Ebola vaccines and treatments remain limited despite repeated outbreaks](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM0ZwWUE2MUViTEpEM1EwOFh1V3oyWlM4OFdERHBnQWpQb2NFTmZyaVBNMnEyWUwxWGo3WlhhY1Q3S3lDRnFNVExlWUN5enJWbjBEMWw4aU1mTlBZWHlOQmFQWGk2ZDY5dHZKcUJNcVcyaWVESXptdTFfc3lLNTZlUnJuUEpRZWUySFJQbWlSQzdfaGtrODNPSkdQdTdrMndnZFQ1QmIwX0FnT3RaeHBIQjFYVk15YkNTWjVJOGJIMU9oRW52aWR5Z2QyU0xOaVNhZFp6Qw?oc=5) | The Eastleigh Voice | 2026-07-04T12:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC urges regional action as Ebola outbreak spreads across DRC, Uganda](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1JRX2hsc0c4WDNhT0FMZ3VLOG5LeVo1RS1BNnAtclloV3hJaGFfYy1kSVF6ZFY3WDVQcWlVZUtlb1Jtdy04MXpvMjVUcVM2Mk1jYXZSWGtkc2pUQkFZQXM2dGZvTTJyQ3REOGVGYW0xT0IxSFBwMDFFQ1N1UWVuRWJyWi1FZmhLRW1tQUIyQzBBcjlURWdBQzhieW5ZLXlTNFhXWmRsejJ6Q0NWUnVyZUZSc0JpYVBNd19ZMkxZY21Pb3A3dHNleA?oc=5) | The Eastleigh Voice | 2026-07-04T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
