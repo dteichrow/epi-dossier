@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-05
-Generated at: 2026-07-05T03:16
+Generated at: 2026-07-05T03:26
 Search window: 7 day(s) ending 2026-07-05
 
 ## Executive scan
@@ -70,7 +70,7 @@ Search window: 7 day(s) ending 2026-07-05
 ### Dengue and arboviruses
 - Topic size: 4 item(s) across 4 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today, 2026-07-04T12:45+00:00)
-- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Thai Church marks Rerum Novarum anniversary with renewed call for labor justice This July 1, there is much to be concerned about Hong Kong New ASIF statute: A further step toward international standards Faces that haunt me Pope Leo XIV updates the Constitution of the Vicariate of Rome A Buddhist monk prays alongside...
+- Detailed note: Sri Lanka registered about 53,159 dengue cases and 31 deaths this year Jul 01, 2026 Related News Delegation of Ecumenical Patriarchate of Constantinople visits Rome Archbishop Hicks of New York: Don't lose hope, Jesus is on the boat with us Beyond the Shipwreck: Transforming the Global Migrant Phenomenon Lefebvrians consecrate four new bishops without a papal mandate Lebanese Christians remember Br Estephan, the...
 - Evidence notes: [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) (Outbreak News Today); [Sri Lankan Christians join anti-dengue drive on Buddhist feast day](https://www.heraldmalaysia.com/news/sri-lankan-christians-join-anti-dengue-drive-on-buddhist-feast-day/90054/1) (Herald Malaysia Online); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Bangladesh faces rising Dengue risk](https://en.ittefaq.com.bd/17226/bangladesh-faces-rising-dengue-risk) (The Daily Ittefaq)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
@@ -446,11 +446,11 @@ Search window: 7 day(s) ending 2026-07-05
   Limited detail was available from feed metadata alone.
 - [Sri Lanka dengue update: More than 21,500 cases in June](https://outbreaknewstoday.substack.com/p/sri-lanka-dengue-update-more-than) | Outbreak News Today | 2026-07-04T12:45+00:00 | Outbreaks and emerging infections
   The Sri Lanka National Dengue Control Unit (NDCU) of the Ministry of Health reported 21,547 dengue fever cases in June and already 3,422 cases in the first days of July, bringing the outbreak total in the country to 58,810 through July 3. During the week ending June 28, 6,009 cases were reported across 26 districts, a nearly 15% increase over the total cases reported in the prior week. Year to date, Colombo district has reported 12,017 cases, followed by Gampaha with 11,740.
+- [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmlMWlRuRk01U0tPdlZLdW82UjNHN1hTd081bDgySUVJLVRkSzlpWDFCN0hiUFNHWDlhaFFvYjc5ZWlXdlN5MmNKRmtfX2JlUHZDaGtJTW0xWFhxWFYyYUpOVnhEd05DY0hxVWdudDI1Ukh4QXJQRV9FN19wU2FFMVNaSGJWckNhTGhWTUt6R29yeUNfNGFUeFB6SnQtTkQyaElvejQ2N29wTmt4aHRiVTNJREhiaF83RU91a0RlMXR3Wl9sVGc?oc=5) | The Eastleigh Voice | 2026-07-04T12:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Africa CDC urges regional action as Ebola outbreak spreads across DRC, Uganda](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1JRX2hsc0c4WDNhT0FMZ3VLOG5LeVo1RS1BNnAtclloV3hJaGFfYy1kSVF6ZFY3WDVQcWlVZUtlb1Jtdy04MXpvMjVUcVM2Mk1jYXZSWGtkc2pUQkFZQXM2dGZvTTJyQ3REOGVGYW0xT0IxSFBwMDFFQ1N1UWVuRWJyWi1FZmhLRW1tQUIyQzBBcjlURWdBQzhieW5ZLXlTNFhXWmRsejJ6Q0NWUnVyZUZSc0JpYVBNd19ZMkxZY21Pb3A3dHNleA?oc=5) | The Eastleigh Voice | 2026-07-04T10:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases in DR Congo jump to over 1,500, death toll rises to 473](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUVnd2pmMVdpZTcwMVlJaWJBSVQ4NHdOUzFoNVBUZUxVZHhQcHVBU2R6NXJpWGtkUXpnajNaQzgySC1kVUhpX3lkOTNHNkZXeG91ZEJHVkJuOGw5Wk9JbUE5WDlkLUtSeGF6SWJ3U2FydHN1RHJWakE1UlFla2VhbTdRRXRYNzAzcFQ4RFViRXd2WDdqdnlWTFMzTTNEYm5aSndrckxoQXZYdw?oc=5) | Anadolu Ajansı | 2026-07-04T10:11+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congolese virologist urges stronger surveillance as Ebola outbreak spreads](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSzB3UUdCM3pRY2FGTV9Xbkh2VExsOWY2c1B2TWIxOFdMOTlfSUc5Q05sMDFBWVJIdTlrdUxEYVNZNVhEZGhudUUySG5hSWZ2TC12Tm12QXp1dXRtc0RuY1htZEE0eWZOazZ2MWRhV1NpNXZIX3hULW9ZaHBpUFp3LVpEbUFOM0lPMUVsM0lSNUg0dVZWVFEtdVBSVHdVTDVKRTJ0aC1YakQ1NjJVNGhrOEU4RC1Lb0hrS3ljRlJLa0hBN184YUYxdzRqdTI2R1R4LWR1YlZFb3p0S2VWcWFoUTFFdw?oc=5) | The Eastleigh Voice | 2026-07-04T08:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
