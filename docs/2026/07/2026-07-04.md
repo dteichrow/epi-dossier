@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-04
-Generated at: 2026-07-04T17:36
+Generated at: 2026-07-04T17:46
 Search window: 7 day(s) ending 2026-07-04
 
 ## Executive scan
@@ -452,6 +452,8 @@ Search window: 7 day(s) ending 2026-07-04
   Limited detail was available from feed metadata alone.
 - [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
   Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
+- [Eye on Africa - More than 400 dead in DR Congo's Ebola outbreak](https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3FhU1F3bmtCMWl4dVo1SW9HazVvTWdFdlBBenpVakdJTmZJcWxIN3R6ZExITlRlNzB0bEpvWl9kWk05aU8xWnQ0OWtLUkNremhMcDhvWXB1WE9iZTM2RWdpTHJSX2RHNl9rNDVYd0ZldlNmOU1ucFBPUGhpOEtKag?oc=5) | France 24 | 2026-07-03T21:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Border between DR Congo and Rwanda reopens amid Ebola outbreak](https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWpHWVlLTDBhYU5OWlBSY3lOWGdzUXV6eV9jRmFVdktkRTFhYTVCYnNFaHB2S1piLWlkZEo4bldLNWFEQ1VJU2dUVVdidk51NThVM1NvWGNIaFRzY1ZiUHBUZllZNnNRandtZ290bkxvUUZHelBvNjlQUmh0R3V1QlZlYTFtYk9fYU1TdVROUGxrOVRmUl82enpZWU9HVUZTUlpJ0gGoAUFVX3lxTE5heXBpMWhJN0tKTHpDVUFVMlBpeTlsRU56aE1LcWVDQ3BVV0wtV3BtajVZQTFPWC1sMVdTdmVKUE1EdEYtODByRGFSSHFiRWZkOGhWZS15ZEdjMnV2MVpWS0laVC1KWUc1Vk1hRzVraVltbk94cWxwd19ndHFfMXhhRDhic3lBVmJSMzV3V2Z1U21uMUE4dE9jRzNnY2doajJ4OFZfZ2pPUQ?oc=5) | africanews.com | 2026-07-03T21:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo says number of confirmed Ebola cases rises to 1,502](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkJwRjhWSzVFQWx4ellEeGlvcWlTRERzQ2ZUZVR1ajYwR1J6WThSN1lHVFNldFk2aHRSTE1iMVJQU19Ga09aRTk1OVA4d0R3N2l0b1hvOWg3bFVsVzFha3NZQlZPR29ielNIRUVvVFhyYjh0VW85dFFwcklyWHlfQmstWXhOcnUxb0g4cnZMMjh0bTBTUjJsQ3F4M2lhR2dESm5kM2ZwZHlFRllvcTBSbDZuUVBCWGZlNG5rMGJzVQ?oc=5) | Reuters | 2026-07-03T21:11+00:00 | Outbreaks and emerging infections
@@ -463,8 +465,6 @@ Search window: 7 day(s) ending 2026-07-04
 - [Africa CDC chief warns DRC Ebola outbreak remains "very serious" as clinical trial begins](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXUwU3VrTjZPdlVndmZSUHlPMmp3dzloakh3QTc2UnQ1WGdpbEZJa1hRRHZLZENoa0xHUXNoOTh0bjZBSTZFUlZiZExDQVJRUlhHd2lFWW1qX0YyYW5IeHNDMk1zaWhLdE9OaXg4TmRqT3dZTF9UZTNyYjg3S0dfMTRFejZwQWFSd3BraEU3Y2lMajgtWVZLX1V1SWNGU2hMczE0TzlyalBtV0l1NWpHOGJ6WE9CeVR1dEk0c2NpVHRvb25yWlBrdEFKRVdrVXBvcTJNOUFxT3BLdw?oc=5) | The Eastleigh Voice | 2026-07-03T11:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbllJZ1ZYT2hXNDgwZ0ZXdHJpQThfVGdTem9vMi1XQnVkNFhnbl85WDloSUdYek9RUEMteHdqcjZWUmhycDVqY2h2V3p6Z3RFUjJRdE5UNE9BUnc?oc=5) | allAfrica.com | 2026-07-03T10:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DRC trials experimental treatment for rare Ebola strain as outbreak worsens](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDMtY2pnbDU4RWtodTMweHA3LW5LNE9PYVg5RmJZYXlyVXZuQ2RFSmpsVFp2bDJET2tiTDZ2OFRhVnpDWklJN1FwUk1zMTMyby1ySVNSTHJfd3dLWHE1R3FESjZWdlFoWHNnU1psQUM1LU5EQTY5UzNvRENvTVo3LTVuYnF5X0EtMlF3eHlZNDRxWFQwdTktSzBPcDA2d19TUk8wSFFsaGJ0XzZ6em55VmRvSQ?oc=5) | RFI | 2026-07-03T09:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Spreads to Fourth Province in Congo as U.N. Warns of $3.6 Billion Economic Hit](https://easternherald.com/2026/07/02/ebola-congo-fourth-province-undp-economic-warning/) | The Eastern Herald | 2026-07-02T10:32+00:00 | Outbreaks and emerging infections
   The Bundibugyo strain behind this outbreak, DRC’s 17th, has now confirmed 1,307 cases and 377 deaths since the government declared the emergency on May 15, with nearly 200 new infections recorded since last week’s already-alarming tallies, Al Jazeera reported . Under the worst case, if the virus crosses into Rwanda and Angola while fuel costs remain elevated by the conflict in Iran, the projection reaches $3.6 billion in continental economic losses and 328,000 jobs eliminated. The World Health Organization’s own field director acknowledged in June that contact tracing was reaching only 45 percent of identified cases, against the 90-plus percent coverage needed to interrupt transmission.
