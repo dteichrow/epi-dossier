@@ -7,7 +7,7 @@
     ],
     "metadata_only_count": 25,
     "sources_cached": 0,
-    "sources_failed": 2,
+    "sources_failed": 1,
     "sources_live": 41,
     "story_count_change": 5,
     "wrapper_only_count": 2
@@ -19,13 +19,8 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-05T06:26:39",
+  "generated_at": "2026-07-05T06:36:34",
   "source_failures": [
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
