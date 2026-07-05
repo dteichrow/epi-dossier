@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-05
-Generated at: 2026-07-05T12:16
+Generated at: 2026-07-05T12:26
 Search window: 7 day(s) ending 2026-07-05
 
 ## Executive scan
@@ -40,7 +40,7 @@ Search window: 7 day(s) ending 2026-07-05
 - Topic size: 18 item(s) across 8 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://www.wionews.com/videos/ebola-outbreak-democratic-republic-of-congo-grapples-with-rising-ebola-cases-1783273329805) (WION, 2026-07-05T17:42+00:00)
 - Detailed note: Cluster remains active across 18 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://www.wionews.com/videos/ebola-outbreak-democratic-republic-of-congo-grapples-with-rising-ebola-cases-1783273329805) (WION); [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/index.php/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) (The Eastleigh Voice); [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) (The Eastleigh Voice); [Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’](https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0RtbW1oaWlWMHAtOFk2aVZHbjI1WThXX2prUzd0MTFXaHc1N01NUFVrTnNZSUxFSG82aEdXYUFZN3FsSlZ6Q3l4REFaVmFsVzY2ZVJ6WWJxamo3OE54MnNzY01PbnVjcHlwY2lGZVAzUFpONHB3bXNtNGs5cjBtNmJ4RjdKeFN5aG5UeGJDR0FaMkh2S09ndHJzVUZoTF8zd0FuM21qSXFxSEdUSjZXdHpac090dWZzdG1qMG5oYVM3NTh1T0RR?oc=5) (The Eastleigh Voice); [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjNTalZrT1haanpFM3FFNU8yWTNwODgzQ0lwUkVPNDlhdWxrSXlLbV9leno5OV96bkIySF9NM00yZmszX1BvN2lUSWJhQzE2S2JvYktCaGRkeFluVHNUSHBHV2d5MFFyWEtfZlFzdW5Ydk9mekdJRjVLUWFNbHpVWnV1NU80NkVWZnVwZDdZZ2J0NzVHWnR0N292UWhZYl9nTkJBRlpoTDVod29RUzZhcGx6OTVwOElnMlE?oc=5) (The Eastleigh Voice)
+- Evidence notes: [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://www.wionews.com/videos/ebola-outbreak-democratic-republic-of-congo-grapples-with-rising-ebola-cases-1783273329805) (WION); [New Ebola treatment trial brings hope to Congo as outbreak death toll rises](https://www.emirates247.com/world/new-ebola-treatment-trial-brings-hope-to-congo-as-outbreak-death-toll-rises/3296) (Emirates 24|7); [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/index.php/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) (The Eastleigh Voice); [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) (The Eastleigh Voice); [Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’](https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0RtbW1oaWlWMHAtOFk2aVZHbjI1WThXX2prUzd0MTFXaHc1N01NUFVrTnNZSUxFSG82aEdXYUFZN3FsSlZ6Q3l4REFaVmFsVzY2ZVJ6WWJxamo3OE54MnNzY01PbnVjcHlwY2lGZVAzUFpONHB3bXNtNGs5cjBtNmJ4RjdKeFN5aG5UeGJDR0FaMkh2S09ndHJzVUZoTF8zd0FuM21qSXFxSEdUSjZXdHpac090dWZzdG1qMG5oYVM3NTh1T0RR?oc=5) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -76,13 +76,13 @@ Search window: 7 day(s) ending 2026-07-05
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Dengue and arboviruses
+### Measles transmission and vaccination
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter, 2026-06-29T06:16+00:00)
-- Detailed note: Most cases are mild to moderate. A smaller share progress to severe dengue, which is the phase that requires hospital monitoring and, occasionally, intensive care.
-- Evidence notes: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Bangladesh faces rising Dengue risk](https://en.ittefaq.com.bd/17226/bangladesh-faces-rising-dengue-risk) (The Daily Ittefaq)
+- Lead item: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice, 2026-07-04T22:16+00:00)
+- Detailed note: According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties.
+- Evidence notes: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (News On AIR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -417,6 +417,8 @@ Search window: 7 day(s) ending 2026-07-05
 ## Other notable readings
 - ['Biological terrorism' in occupied Ukraine? Kyiv accuses Russia of creating anthrax outbreak risk](https://timesofindia.indiatimes.com/world/europe/biological-terrorism-in-occupied-ukraine-kyiv-accuses-russia-of-creating-anthrax-outbreak-risk/articleshow/132197985.cms) | The Times of India | 2026-07-05T15:59+00:00 | Outbreaks and emerging infections
   Voltaireâs quote has the answer Watch: Two 2,000-pound bison clash on Yellowstone road as tourists watch With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.
+- [New Ebola treatment trial brings hope to Congo as outbreak death toll rises](https://www.emirates247.com/world/new-ebola-treatment-trial-brings-hope-to-congo-as-outbreak-death-toll-rises/3296) | Emirates 24|7 | 2026-07-05T07:02+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/index.php/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) | The Eastleigh Voice | 2026-07-05T00:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) | The Eastleigh Voice | 2026-07-04T22:16+00:00 | Outbreaks and emerging infections
@@ -453,8 +455,6 @@ Search window: 7 day(s) ending 2026-07-05
   Limited detail was available from feed metadata alone.
 - [China dispatches 2nd medical team to DR Congo as Ebola fatalities rise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWpPUnNscjdKSWZ5RlRBbnhiZGt4ZmZ6VS00MHhHdkRxNFJDRURaU24xcUNTS2hMdWtUWmJtc29tMFlpOUpTUGdIeVhZd3ZNREFQYnQtNzBNQ0FrOVBDdkZudG5fSU1ZMGpJVll3MUp1ZzA0YzRMTm9wWlp1bF9pTXdGS2VKd2JHNHVJS3pVS1R1NEdSMERlMGZyeDVSeFpXZ3NyU2RlcFZUZldPV3Br?oc=5) | Anadolu Ajansı | 2026-07-03T12:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Spreads To Fourth Province In DR Congo As Cases Rise To 1,274](https://www.healthandme.com/health-news/ebola-outbreak-spreads-to-fourth-province-in-dr-congo-as-cases-rise-to-1274-article-154805099) | Health and Me | 2026-06-30T07:30+00:00 | Outbreaks and emerging infections
-  © 2026 Bennett, Coleman & Company Limited Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
