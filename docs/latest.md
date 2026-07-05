@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-05
-Generated at: 2026-07-05T10:16
+Generated at: 2026-07-05T10:26
 Search window: 7 day(s) ending 2026-07-05
 
 ## Executive scan
@@ -30,8 +30,8 @@ Search window: 7 day(s) ending 2026-07-05
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 4 item(s) across 3 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
 
@@ -61,10 +61,10 @@ Search window: 7 day(s) ending 2026-07-05
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### COVID-19 and SARS-CoV-2
-- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
-- Detailed note: Adequate knowledge about free vaccination (adjusted odds ratio [aOR] 3.86), routine vaccination (aOR 5.72), and obligation to make efforts to receive vaccination (aOR 2.21) were positively associated with acceptance, whereas anxiety about vaccination was negatively associated (aOR 0.37). The proportions of participants with ≥3 doses of COVID-19 vaccine (77% versus 59%) and those enrolled in the Faculty of...
-- Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Determinants of HPV vaccination acceptance among young adult women in Japan's catch-up generation: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42386385/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
+- Detailed note: Across distinct historical periods, including early smallpox vaccination, mid-20th-century vaccine controversies, the 1998 Wakefield publication, and the COVID-19 pandemic, recurring themes emerge. The COVID-19 pandemic marked a critical inflection point, with vaccine hesitancy becoming increasingly politicized and, in some cases, economically incentivized through monetized online content. The study integrates...
+- Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -475,12 +475,6 @@ Search window: 7 day(s) ending 2026-07-05
   Journal/preprint server: Global public health
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42396795/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42396795/
-- [Determinants of HPV vaccination acceptance among young adult women in Japan's catch-up generation: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42386385/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2697396
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42386385/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42386385/
 
 ## Historical epi / weird epi corner
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) | PubMed Historical Pathogen Case Studies
