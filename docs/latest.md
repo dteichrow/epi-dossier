@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T06:36
+Generated at: 2026-07-06T06:46
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -17,10 +17,10 @@ Search window: 7 day(s) ending 2026-07-06
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
-- Lead item: [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.seattlepi.com/news/world/ebola-deaths-in-congo-top-500-as-health-workers-a22333814) (Seattlepi.com)
+- Lead item: [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.nhregister.com/news/world/article/ebola-deaths-in-congo-top-500-as-health-workers-22333814.php) (New Haven Register)
 - Newly tracked story cluster: 17 item(s) across 9 source(s).
 - Baseline snapshot created with 17 clustered item(s) across 9 source(s).
-- Seattlepi.com now includes deaths or fatal cases in the story frame.
+- New Haven Register now includes deaths or fatal cases in the story frame.
 - The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
@@ -46,9 +46,9 @@ Search window: 7 day(s) ending 2026-07-06
 ## Major topics
 ### Ebola virus disease
 - Topic size: 17 item(s) across 9 source(s); 0 official/primary-source item(s).
-- Lead item: [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.seattlepi.com/news/world/ebola-deaths-in-congo-top-500-as-health-workers-a22333814) (Seattlepi.com, 2026-07-06T12:58+00:00)
+- Lead item: [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.nhregister.com/news/world/article/ebola-deaths-in-congo-top-500-as-health-workers-22333814.php) (New Haven Register, 2026-07-06T13:06+00:00)
 - Detailed note: Cluster remains active across 17 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.seattlepi.com/news/world/ebola-deaths-in-congo-top-500-as-health-workers-a22333814) (Seattlepi.com); [Experimental Ebola trial begins in Congo as death toll tops 500](https://www.straitstimes.com/world/experimental-ebola-trial-begins-in-congo-as-death-toll-tops-500) (The Straits Times); [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report); [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1RhUmJXQ0I5TElENHpqdndNcV9ibWJGNnV3eWlGWnZnMTNpUEYtRmppOFVkQWdDMWpUeHpoMXR2SGdHSGdUUkp3anVnOEVPdzJLQmRaSGpBY09aVjdtd1FQRGhtVlh6WkY5LTNsSExBRTFEV2hzY1JMU2QzNWxzakRn?oc=5) (China Daily - Global Edition); [Ebola death toll in DR Congo surpasses 500](https://news.google.com/rss/articles/CBMicEFVX3lxTE9KSVdNc1lQNE04Q1hHQ3pKc0JYVXBpTjBMNHBDdnBSSlYxbENFMFpOTFdRakRzemtpUUY1THd6Nll4SGZWZ0hhd0w2b3hoV3NnUnowaEotZXQ2bHdmTGl5NVgxb3NFZlFJV2xBckVmMFI?oc=5) (Latest news from Azerbaijan)
+- Evidence notes: [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.nhregister.com/news/world/article/ebola-deaths-in-congo-top-500-as-health-workers-22333814.php) (New Haven Register); [Experimental Ebola trial begins in Congo as death toll tops 500](https://www.straitstimes.com/world/experimental-ebola-trial-begins-in-congo-as-death-toll-tops-500) (The Straits Times); [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report); [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1RhUmJXQ0I5TElENHpqdndNcV9ibWJGNnV3eWlGWnZnMTNpUEYtRmppOFVkQWdDMWpUeHpoMXR2SGdHSGdUUkp3anVnOEVPdzJLQmRaSGpBY09aVjdtd1FQRGhtVlh6WkY5LTNsSExBRTFEV2hzY1JMU2QzNWxzakRn?oc=5) (China Daily - Global Edition); [Ebola death toll in DR Congo surpasses 500](https://news.google.com/rss/articles/CBMicEFVX3lxTE9KSVdNc1lQNE04Q1hHQ3pKc0JYVXBpTjBMNHBDdnBSSlYxbENFMFpOTFdRakRzemtpUUY1THd6Nll4SGZWZ0hhd0w2b3hoV3NnUnowaEotZXQ2bHdmTGl5NVgxb3NFZlFJV2xBckVmMFI?oc=5) (Latest news from Azerbaijan)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -402,9 +402,9 @@ Search window: 7 day(s) ending 2026-07-06
 - Relevance score: 5/5
 
 ### Ebola deaths in Congo top 500 as health workers threaten to strike
-- Source: Seattlepi.com
-- Date: 2026-07-06T12:58+00:00
-- URL: https://www.seattlepi.com/news/world/ebola-deaths-in-congo-top-500-as-health-workers-a22333814
+- Source: New Haven Register
+- Date: 2026-07-06T13:06+00:00
+- URL: https://www.nhregister.com/news/world/article/ebola-deaths-in-congo-top-500-as-health-workers-22333814.php
 - Category: Outbreaks and emerging infections
 - Summary: Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage.
