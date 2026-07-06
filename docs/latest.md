@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T02:46
+Generated at: 2026-07-06T02:53
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-06
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (30), Occupational and environmental epidemiology (5), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (30), Occupational and environmental epidemiology (5), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -21,6 +21,13 @@ Search window: 7 day(s) ending 2026-07-06
 - Newly tracked story cluster: 17 item(s) across 7 source(s).
 - Baseline snapshot created with 17 clustered item(s) across 7 source(s).
 - U.S. News & World Report now includes deaths or fatal cases in the story frame.
+- The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
+
+### Measles transmission and vaccination
+- Lead item: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- The Eastleigh Voice now includes deaths or fatal cases in the story frame.
 - The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
 
 ### Occupational and environmental epidemiology
@@ -61,6 +68,14 @@ Search window: 7 day(s) ending 2026-07-06
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Measles transmission and vaccination
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice, 2026-07-04T22:16+00:00)
+- Detailed note: According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties.
+- Evidence notes: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice); [Yemen: Sharp Rise in Measles Cases Leaves Nearly 90 Dead, Over 14,000 Infected in Gov't-Held Areas](https://yemenonline.info/special-reports/12981) (Yemen Online); [Al-Shabab Launches Response To Contain Measles Outbreak - MEMRI | Middle East Media Research Institute](https://www.memri.org/jttm/al-qaeda-affiliate-somalia-al-shabab-launches-medical-response-campaign-contain-measles) (MEMRI)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### COVID-19 and SARS-CoV-2
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
@@ -76,14 +91,6 @@ Search window: 7 day(s) ending 2026-07-06
 - Evidence notes: [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) (Newswire); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice, 2026-07-04T22:16+00:00)
-- Detailed note: According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties.
-- Evidence notes: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice); [Al-Shabab Launches Response To Contain Measles Outbreak - MEMRI | Middle East Media Research Institute](https://www.memri.org/jttm/al-qaeda-affiliate-somalia-al-shabab-launches-medical-response-campaign-contain-measles) (MEMRI)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
