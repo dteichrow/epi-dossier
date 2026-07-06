@@ -1,18 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T10:27
+Generated at: 2026-07-06T10:37
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-06T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
+- [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
 - [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR; 2026-07-02T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies; 2026-07-02T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (113), Occupational and environmental epidemiology (6), Policy, surveillance, and public health infrastructure (4)
+- Category mix: Outbreaks and emerging infections (116), Occupational and environmental epidemiology (6), Policy, surveillance, and public health infrastructure (5)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -22,6 +22,13 @@ Search window: 7 day(s) ending 2026-07-06
 - Baseline snapshot created with 7 clustered item(s) across 6 source(s).
 - CBS News now explicitly uses investigation or monitoring language.
 - USA Today now includes deaths or fatal cases in the story frame.
+
+### Malaria
+- Lead item: [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search)
+- Newly tracked story cluster: 6 item(s) across 5 source(s).
+- Baseline snapshot created with 6 clustered item(s) across 5 source(s).
+- thehawk.in now includes deaths or fatal cases in the story frame.
+- The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
 - Lead item: [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) (The Indian Awaaz)
@@ -37,10 +44,10 @@ Search window: 7 day(s) ending 2026-07-06
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
-- Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 4 item(s) across 3 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
-- PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
+- Lead item: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search)
+- Newly tracked story cluster: 5 item(s) across 3 source(s).
+- Baseline snapshot created with 5 clustered item(s) across 3 source(s).
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
@@ -48,7 +55,7 @@ Search window: 7 day(s) ending 2026-07-06
 - Topic size: 104 item(s) across 66 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.modernghana.com/news/1508273/death-toll-from-dr-congo-ebola-outbreak-passes.html) (Modern Ghana); [Ebola deaths in Congo top 500 as health workers threaten to strike](https://baynews9.com/fl/tampa/health/2026/07/06/500-ebola-deaths-in-congo-500-health-workers-threaten-to-strike) (Spectrum Bay News 9)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola deaths in Congo top 500 as health workers threaten to strike](https://baynews9.com/fl/tampa/health/2026/07/06/500-ebola-deaths-in-congo-500-health-workers-threaten-to-strike) (Spectrum Bay News 9); [DR Congo Opens New Ebola Treatment Centre](https://von.gov.ng/dr-congo-opens-new-ebola-treatment-centre/) (Voice of Nigeria)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -60,19 +67,27 @@ Search window: 7 day(s) ending 2026-07-06
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Malaria
+- Topic size: 6 item(s) across 5 source(s); 1 official/primary-source item(s).
+- Lead item: [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search, 2026-07-06T00:00)
+- Detailed note: Four exhibited outstanding performance, namely, MSP9 _603-609 (90.4% sensitivity, AUC = 0.980), AMA1 _457-466 (AUC = 0.910), MSP9 _458-464 (AUC = 0.802), and MSP9 _425-433 (AUC = 0.898), all with absolute specificity against P. Despite variable detection rates across regions (2.2-22.2%), with the highest rates in Brazil, all the epitopes remained 99-100% conserved globally, reflecting strong functional...
+- Evidence notes: [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search); [Lancet study finds significant child death reduction from malaria vaccine in Africa](https://eastleighvoice.co.ke/index.php/health/346943/lancet-study-finds-significant-child-death-reduction-from-malaria-vaccine-in-africa) (The Eastleigh Voice); [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) (Burma News International); [Turkana pilots innovative malaria intervention tool to combat seasonal outbreaks](https://eastleighvoice.co.ke/index.php/health/29329/turkana-pilots-innovative-malaria-intervention-tool-to-combat-seasonal-outbreaks) (The Eastleigh Voice); [Malawi Records Sharp Drop in Malaria Cases but Health Officials Say Fight Is Far From Over](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVERoRzllTGk3MkQ3ZTJGQlRucl9zbFhfbDFQZFZyRG9BaE9tT0FpNHdIU2t6ZkNWc1BTM1NGcTl6TXhaMFJsLVlvcEZTYlI4UEtkTWFVc1lQQmJSQ2V1bjRISGl6MFVPNnpNcEs2VkNXeFQ5SHlFemN2cEoyczRkLUV1NFYydlRGMDkyQ0FqaVBuek9kWDkwMmhGTExLa0p2eEFVMlNENUdRLVpzOWU4aEVkOE5HeXFCLUE?oc=5) (Nyasa Times)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Miscellaneous signals
-- Topic size: 6 item(s) across 3 source(s); 5 official/primary-source item(s).
+- Topic size: 5 item(s) across 3 source(s); 4 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Impaired fasting glucose is comparable to diabetes mellitus in predicting mortality and cardiovascular events in patients undergoing peritoneal dialysis: the role of β-cell function and insulin resistance.](https://pubmed.ncbi.nlm.nih.gov/42402705/) (PubMed Infectious Disease Search); [Perceptions, knowledge, and access to the HPV vaccine among parents and healthcare providers in South Quito, Ecuador in 2025: A qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42396795/) (PubMed Infectious Disease Search)
+- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Impaired fasting glucose is comparable to diabetes mellitus in predicting mortality and cardiovascular events in patients undergoing peritoneal dialysis: the role of β-cell function and insulin resistance.](https://pubmed.ncbi.nlm.nih.gov/42402705/) (PubMed Infectious Disease Search); [Rising Digital Health Investments Propel AI-driven Disease Outbreak Prediction Solutions](https://sg.finance.yahoo.com/news/rising-digital-health-investments-propel-081200803.html) (Yahoo Finance Singapore)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### COVID-19 and SARS-CoV-2
-- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
-- Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
+- Topic size: 5 item(s) across 3 source(s); 5 official/primary-source item(s).
+- Lead item: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search, 2026-07-06T00:00)
 - Detailed note: The mean and 95% uncertainty limits (UL) for total LAR of lung, thyroid, esophagus, stomach, liver, breast and Leukemia were 90 (95% UL, 80 - 116), 24 (95% UL, 18 - 33), 32 (95% UL, 26-39), 9 (95% UL, 8-11), 5 (95% UL, 4-6), 217 (95% UL, 194-244) and 30 ( 95% UL, 10-101) per 100,000 persons, respectively. The excess cancer burdens from radiation in Fars are estimated at approximately 55 years for solid cancers...
-- Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
+- Evidence notes: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search); [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -83,14 +98,6 @@ Search window: 7 day(s) ending 2026-07-06
 - Evidence notes: [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) (The Indian Awaaz); [Yemen: Sharp Rise in Measles Cases Leaves Nearly 90 Dead, Over 14,000 Infected in Gov't-Held Areas](https://yemenonline.info/special-reports/12981) (Yemen Online); [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Malaria
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) (Burma News International, 2026-07-06T09:37+00:00)
-- Detailed note: Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations.
-- Evidence notes: [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) (Burma News International)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -331,6 +338,26 @@ Search window: 7 day(s) ending 2026-07-06
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-07-06T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42405907/
+- Category: Major epidemiology studies
+- Summary: Four exhibited outstanding performance, namely, MSP9 _603-609 (90.4% sensitivity, AUC = 0.980), AMA1 _457-466 (AUC = 0.910), MSP9 _458-464 (AUC = 0.802), and MSP9 _425-433 (AUC = 0.898), all with absolute specificity against P. Despite variable detection rates across regions (2.2-22.2%), with the highest rates in Brazil, all the epitopes remained 99-100% conserved globally, reflecting strong functional immunological constraints. Crucially, the MSP9 _384-389 epitope distinguished asymptomatic infections (AUC = 0.756, P < 0.0005).
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-07-06T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42405958/
+- Category: Major epidemiology studies
+- Summary: We summarize the mechanisms and clinical relevance of licensed and advanced adjuvants, including alum, MF59, AS01/AS04, saponins, toll-like receptor agonists, and lipid nanoparticles, with emphasis on influenza, HPV, herpes zoster, and COVID-19 vaccines. By linking immunological mechanisms with delivery engineering and predictive modeling, this review highlights rational strategies to support safer and more effective human vaccines. While classical adjuvants such as aluminum salts and oil-in-water emulsions have enabled the success of many licensed vaccines, their largely empirical design limits adaptability to emerging pathogens and population-specific needs.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025
 - Source: CDC MMWR
 - Date: 2026-07-02T17:00+00:00
@@ -401,32 +428,14 @@ Search window: 7 day(s) ending 2026-07-06
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026
-- Source: WHO Regional Office for Africa
-- Date: 2026-06-26T16:55+00:00
-- URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2
-- Category: Outbreaks and emerging infections
-- Summary: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has been reported across the three affected provinces of Ituri, North Kivu, and South Kivu. Publications orlunwop@who.int Fri, 26/06/2026 - 17:55 Event description Since the last update of 14 June 2026 (Situation Report #5), the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has continued to evolve, with cumulative incidence surpassing the milestone of 1000 laboratory-confirmed cases and the number of affected health zones continuing to increase.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
-- Source: Texas Department of State Health Services News
-- Date: Unknown
-- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) | WHO Regional Office for Africa | 2026-06-26T16:55+00:00 | Outbreaks and emerging infections
+  Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has been reported across the three affected provinces of Ituri, North Kivu, and South Kivu. Publications orlunwop@who.int Fri, 26/06/2026 - 17:55 Event description Since the last update of 14 June 2026 (Situation Report #5), the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has continued to evolve, with cumulative incidence surpassing the milestone of 1000 laboratory-confirmed cases and the number of affected health zones continuing to increase.
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) | The Indian Awaaz | 2026-07-06T17:17+00:00 | Outbreaks and emerging infections
   It showed 87% borrowed money, 47% exhausted savings, and over 93% relied on informal jobs earning Tk6,000–Tk15,000 monthly before illness forced work stoppage. A joint Bangladesh Red Crescent Society (BDRCS) and IFRC assessment across 12 hospitals found every surveyed family needed financial support. The family has already spent nearly Tk80,000 through loans and selling belongings.
-- [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.modernghana.com/news/1508273/death-toll-from-dr-congo-ebola-outbreak-passes.html) | Modern Ghana | 2026-07-06T16:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola deaths in Congo top 500 as health workers threaten to strike](https://baynews9.com/fl/tampa/health/2026/07/06/500-ebola-deaths-in-congo-500-health-workers-threaten-to-strike) | Spectrum Bay News 9 | 2026-07-06T16:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Opens New Ebola Treatment Centre](https://von.gov.ng/dr-congo-opens-new-ebola-treatment-centre/) | Voice of Nigeria | 2026-07-06T15:47+00:00 | Outbreaks and emerging infections
@@ -435,11 +444,13 @@ Search window: 7 day(s) ending 2026-07-06
   UAE real estate maintains momentum as transactions surge 103% in the H1 of 2026... UAE allocates US$30 million in emergency aid for civilians in Sudan’s El Obeid... ADNOC launches global LNG marketing and trading platform...
 - [Ebola deaths in Congo top 500 as health workers threaten to strike - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/ebola-deaths-congo-top-500-health-workers-threaten-134514152) | ABC News - Breaking News, Latest News and Videos | 2026-07-06T13:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Lancet study finds significant child death reduction from malaria vaccine in Africa](https://eastleighvoice.co.ke/index.php/health/346943/lancet-study-finds-significant-child-death-reduction-from-malaria-vaccine-in-africa) | The Eastleigh Voice | 2026-07-06T10:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) | Burma News International | 2026-07-06T09:37+00:00 | Outbreaks and emerging infections
   Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations. Burma News International (BNI) is a network of 15 independent media and news organizations based in and around Burma Community health volunteers in eastern Demoso Township, Karenni (Kayah) State, are struggling to contain a widespread malaria outbreak amid critical shortages of anti-malarial medication and severe logistical delays.
-- [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) | U.S. News & World Report | 2026-07-06T05:14+00:00 | Outbreaks and emerging infections
+- [The number of deaths from Ebola in the DRC has exceeded 500](https://open.kg/en/news/in-the-world/108123-chislo-smertej-ot-jeboly-v-dr-kongo-prevysilo-500.html) | open.kg | 2026-07-06T08:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://global.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) | China Daily - Global Edition | 2026-07-06T01:38+00:00 | Outbreaks and emerging infections
+- [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) | U.S. News & World Report | 2026-07-06T05:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola death toll in DR Congo surpasses 500](https://news.az/news/ebola-death-toll-in-dr-congo-surpasses-500) | Latest news from Azerbaijan | 2026-07-05T23:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -449,6 +460,8 @@ Search window: 7 day(s) ending 2026-07-06
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/351860/dr-congo-ebola-death-toll-hits-87-as-outbreak-strain-lacks-vaccine-poses-high-risk) | The Eastleigh Voice | 2026-07-05T09:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Turkana pilots innovative malaria intervention tool to combat seasonal outbreaks](https://eastleighvoice.co.ke/index.php/health/29329/turkana-pilots-innovative-malaria-intervention-tool-to-combat-seasonal-outbreaks) | The Eastleigh Voice | 2026-07-05T05:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/index.php/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) | The Eastleigh Voice | 2026-07-05T00:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC declares Ebola outbreak public health emergency of continental security](https://eastleighvoice.co.ke/index.php/health/353019/africa-cdc-declares-ebola-outbreak-public-health-emergency-of-continental-security) | The Eastleigh Voice | 2026-07-04T22:42+00:00 | Outbreaks and emerging infections
@@ -457,14 +470,20 @@ Search window: 7 day(s) ending 2026-07-06
   According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties. The centre, run by the United Nations High Commissioner for Refugees (UNHCR) hosts about 302,805 registered refugees and asylum seekers in three camps (Dagahaley, Hagadera and Ifo) as of October 31, 2023.
 - [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) | The Eastleigh Voice | 2026-07-04T21:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’](https://eastleighvoice.co.ke/index.php/health/355092/ebola-outbreak-every-epidemic-begins-in-a-community-and-ends-in-a-community) | The Eastleigh Voice | 2026-07-04T20:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Zimbabwe sets up Ebola isolation facilities amid regional outbreak](https://eastleighvoice.co.ke/index.php/world/360798/zimbabwe-sets-up-ebola-isolation-facilities-amid-regional-outbreak) | The Eastleigh Voice | 2026-07-04T20:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Uganda closes border with eastern DRC to curb escalating Ebola outbreak](https://eastleighvoice.co.ke/index.php/regional/358074/uganda-closes-border-with-eastern-drc-to-curb-escalating-ebola-outbreak) | The Eastleigh Voice | 2026-07-04T20:19+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/22221751.2026.2686473
+  Journal/preprint server: Emerging microbes & infections
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42405907/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42405907/
+- [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2684345
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42405958/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42405958/
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1016/j.vaccine.2026.128903
@@ -489,12 +508,6 @@ Search window: 7 day(s) ending 2026-07-06
   Journal/preprint server: Journal of environmental health science & engineering
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42404200/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42404200/
-- [Perceptions, knowledge, and access to the HPV vaccine among parents and healthcare providers in South Quito, Ecuador in 2025: A qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42396795/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/17441692.2026.2697096
-  Journal/preprint server: Global public health
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42396795/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42396795/
 
 ## Historical epi / weird epi corner
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) | PubMed Historical Pathogen Case Studies
