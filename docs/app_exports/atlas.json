@@ -344,7 +344,15 @@
       "reference_name": "Measles",
       "reference_url": "reference/measles.html",
       "reference_web_path": "reference/measles.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Measles transmission and vaccination",
+          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
+          "story_id": "story_0cc2d5322bc76f8f",
+          "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
+          "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
+        }
+      ],
       "route_count": 2,
       "slug": "measles",
       "spread_routes": [
@@ -392,7 +400,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Dense settlement, cattle-linked ancestry, and colonial spread into immunologically naive populations",
       "summary": "Measles is a useful atlas pathogen because its deeper origin story is partly reconstructed from molecular-clock work, while its colonial spread story is brutally visible in the Americas and Pacific.",
       "variant_count": 0,
@@ -1817,6 +1825,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-07-06T09:47:04",
-  "run_id": "run_4ef752f101c2d8ef"
+  "generated_at": "2026-07-06T09:57:01",
+  "run_id": "run_8703d96118631a17"
 }
