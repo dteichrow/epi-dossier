@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T02:23
+Generated at: 2026-07-06T02:46
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-06
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (30), Occupational and environmental epidemiology (5), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (30), Occupational and environmental epidemiology (5), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -22,13 +22,6 @@ Search window: 7 day(s) ending 2026-07-06
 - Baseline snapshot created with 17 clustered item(s) across 7 source(s).
 - U.S. News & World Report now includes deaths or fatal cases in the story frame.
 - The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
-
-### Dengue and arboviruses
-- Lead item: [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) (Newswire)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Magzter now explicitly uses investigation or monitoring language.
-- Newswire now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
@@ -48,12 +41,12 @@ Search window: 7 day(s) ending 2026-07-06
 - Topic size: 17 item(s) across 7 source(s); 0 official/primary-source item(s).
 - Lead item: [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report, 2026-07-06T05:14+00:00)
 - Detailed note: Cluster remains active across 17 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report); [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://www.wionews.com/videos/ebola-outbreak-democratic-republic-of-congo-grapples-with-rising-ebola-cases-1783273329805) (WION); [Ebola treatment trial begins in Congo as outbreak continues to grow - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzBQWldoc1BPeTRfUkhjVGpMY3FSaDlIMHowYWc2dzNwdlZINEYzd0t1RFBDS3lnM3l2aDlYY0c2SF9XcjNXejBKZ2tkcGVmLThQano3SFU4Y2hXZnNpNWpSbU1IMHdPVV9vakJlMml3Q1B3NXNkQktZSmpWbjlqQU9n?oc=5) (ABC News & Headlines – Australian Broadcasting Corporation); [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNklHQ1Vuem05eG5YUnZUaTFjNEh4ZlI3ZVhTOXRzcGZCY1JCWE0tWU1SLWtscXU0OGhDcUw0R3NGWjJsX0hJVWdkMmtoSi1vMFhxdThySU54WDE1UGtBRUJCN292VHUtUmUyS0s2bEV3a05IZmdDRFJyaGZERVlTTXZvcllfcjBYV2NVeWxDbk1GSVhNeDZQUWc4WkRLM2ZPaVNSUUpuZFZsUjBjRDBsVk45ajJ2OG45YWNmR0R4VWNaYXFOMk56dV9pTk11aEszekRkUnJjR2ZMUkgzUS04NUlDSElIRnF6QW0tYVN3?oc=5) (The Eastleigh Voice); [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbjFwNFBCTEFyaHgybFZuWjFtTFVKLUNMdENsc0s0XzNiUzcxNVRjN09Uc08xQzlQRlc5UTdjR3EtM3NseThIZGNuVkY1UVpsSGs4TEpRb19rYmZIaGxVYzhBcmpKamR3UFdDTmpTTmZ5aDVGc3FUQURHMllvS1VCazNqelJncFFQM1piZlUtTzNENXJZNDFvci0teEJHWHZKczdzV0lla3ZIUDhlbGRMU2hWOXhQSlZxM3FRXzNMYXZvT09zbzB4S2I3TlFnYTVRcGZpN2thYVczMkRRRU5EUW9n?oc=5) (The Eastleigh Voice)
+- Evidence notes: [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report); [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://global.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) (China Daily - Global Edition); [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://news.google.com/rss/articles/CBMivgFBVV95cUxQanVzV1RMbUFlcVQ4MlRmUkZ6VXNRQUFkcURSeWtnWDE3eHE0ODQ4cTd2cXVIZEc4Rmp5RzBPdDE1ZWdNUXlicE04eE5IbTJadlhvdFgtMFlvcFZYQ09VUjdVSU1HV0VuWDBCYkhSSnFkdjVwUWZyckZZY29QTmNVakV5amdpRnV2RlBMajlzZkNaamp5d3U2RE80c1l1TEkwdlFTekF5S09JaGc4MmRCaGhkcHJsaXhEdUc5R0JB0gHDAUFVX3lxTE5Ca2lQeHpzaXJoVy1ZMkliVVJFM1pBNlFTcVhEZmhYMDFqQ3VQQTlRYzBha1V6M1BmdGN0Zk12YjZYX25hUUZOczVpcU1ROU1EdzlfMzZvejNFek0xZEEycl9ZeTVULWlyYk9WT3lIa0JSUHlieGIyaEp4WVplZFpWcktBZVFjWmpHMFg0aVU1VFVURHN5SVRJV19UZWI2U0RZbmgxdzNYUDdpZEk2TWx1LWFoa201MkZBQTdVcTRuWXRCcw?oc=5) (WION); [Ebola treatment trial begins in Congo as outbreak continues to grow - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzBQWldoc1BPeTRfUkhjVGpMY3FSaDlIMHowYWc2dzNwdlZINEYzd0t1RFBDS3lnM3l2aDlYY0c2SF9XcjNXejBKZ2tkcGVmLThQano3SFU4Y2hXZnNpNWpSbU1IMHdPVV9vakJlMml3Q1B3NXNkQktZSmpWbjlqQU9n?oc=5) (ABC News & Headlines – Australian Broadcasting Corporation); [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNklHQ1Vuem05eG5YUnZUaTFjNEh4ZlI3ZVhTOXRzcGZCY1JCWE0tWU1SLWtscXU0OGhDcUw0R3NGWjJsX0hJVWdkMmtoSi1vMFhxdThySU54WDE1UGtBRUJCN292VHUtUmUyS0s2bEV3a05IZmdDRFJyaGZERVlTTXZvcllfcjBYV2NVeWxDbk1GSVhNeDZQUWc4WkRLM2ZPaVNSUUpuZFZsUjBjRDBsVk45ajJ2OG45YWNmR0R4VWNaYXFOMk56dV9pTk11aEszekRkUnJjR2ZMUkgzUS04NUlDSElIRnF6QW0tYVN3?oc=5) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 6 item(s) across 2 source(s); 6 official/primary-source item(s).
+- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Impaired fasting glucose is comparable to diabetes mellitus in predicting mortality and cardiovascular events in patients undergoing peritoneal dialysis: the role of β-cell function and insulin resistance.](https://pubmed.ncbi.nlm.nih.gov/42402705/) (PubMed Infectious Disease Search)
@@ -68,14 +61,6 @@ Search window: 7 day(s) ending 2026-07-06
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) (Newswire, 2026-07-06T05:08+00:00)
-- Detailed note: Earlier months saw 8,590 cases in May, 5,651 in April, 6,013 in March, 5,721 in February, and 7,866 in January. Other high‑risk districts include Matara (4,428), Kalutara (4,092), Kandy (3,901), and Ratnapura (3,588). ARCHIVES ABOUT US PRIVACY POLICY TERMS OF USE ADVERTISE KUALA LUMPUR, July 6 — Dengue-related deaths in Malaysia have risen by 66.7 per cent this year as infections climbed nearly 30 per cent,...
-- Evidence notes: [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) (Newswire); [Dengue cases in Malaysia rise nearly 30pc in H1 2026, MoH says outbreak remains under control](https://www.malaymail.com/news/malaysia/2026/07/06/dengue-cases-in-malaysia-rise-nearly-30pc-in-h1-2026-moh-says-outbreak-remains-under-control/226482) (Malay Mail); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
 ### COVID-19 and SARS-CoV-2
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
@@ -83,6 +68,14 @@ Search window: 7 day(s) ending 2026-07-06
 - Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) (Newswire, 2026-07-06T05:08+00:00)
+- Detailed note: Earlier months saw 8,590 cases in May, 5,651 in April, 6,013 in March, 5,721 in February, and 7,866 in January. Other high‑risk districts include Matara (4,428), Kalutara (4,092), Kandy (3,901), and Ratnapura (3,588). Most cases are mild to moderate.
+- Evidence notes: [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) (Newswire); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Measles transmission and vaccination
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
@@ -423,9 +416,9 @@ Search window: 7 day(s) ending 2026-07-06
 
 
 ## Other notable readings
-- [Dengue cases in Malaysia rise nearly 30pc in H1 2026, MoH says outbreak remains under control](https://www.malaymail.com/news/malaysia/2026/07/06/dengue-cases-in-malaysia-rise-nearly-30pc-in-h1-2026-moh-says-outbreak-remains-under-control/226482) | Malay Mail | 2026-07-06T00:44+00:00 | Outbreaks and emerging infections
-  ARCHIVES ABOUT US PRIVACY POLICY TERMS OF USE ADVERTISE KUALA LUMPUR, July 6 — Dengue-related deaths in Malaysia have risen by 66.7 per cent this year as infections climbed nearly 30 per cent, although the Health Ministry (MoH) said the outbreak remains under control and follows the country’s usual transmission pattern. According to New Straits Times (NST), the ministry said 38,854 dengue cases were reported up to June 27, up 29.1 per cent from the same period last year. Deaths rose from 18 to 30 over the same period.
-- [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://www.wionews.com/videos/ebola-outbreak-democratic-republic-of-congo-grapples-with-rising-ebola-cases-1783273329805) | WION | 2026-07-05T17:42+00:00 | Outbreaks and emerging infections
+- [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://global.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) | China Daily - Global Edition | 2026-07-06T01:38+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://news.google.com/rss/articles/CBMivgFBVV95cUxQanVzV1RMbUFlcVQ4MlRmUkZ6VXNRQUFkcURSeWtnWDE3eHE0ODQ4cTd2cXVIZEc4Rmp5RzBPdDE1ZWdNUXlicE04eE5IbTJadlhvdFgtMFlvcFZYQ09VUjdVSU1HV0VuWDBCYkhSSnFkdjVwUWZyckZZY29QTmNVakV5amdpRnV2RlBMajlzZkNaamp5d3U2RE80c1l1TEkwdlFTekF5S09JaGc4MmRCaGhkcHJsaXhEdUc5R0JB0gHDAUFVX3lxTE5Ca2lQeHpzaXJoVy1ZMkliVVJFM1pBNlFTcVhEZmhYMDFqQ3VQQTlRYzBha1V6M1BmdGN0Zk12YjZYX25hUUZOczVpcU1ROU1EdzlfMzZvejNFek0xZEEycl9ZeTVULWlyYk9WT3lIa0JSUHlieGIyaEp4WVplZFpWcktBZVFjWmpHMFg0aVU1VFVURHN5SVRJV19UZWI2U0RZbmgxdzNYUDdpZEk2TWx1LWFoa201MkZBQTdVcTRuWXRCcw?oc=5) | WION | 2026-07-05T17:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - ['Biological terrorism' in occupied Ukraine? Kyiv accuses Russia of creating anthrax outbreak risk](https://timesofindia.indiatimes.com/world/europe/biological-terrorism-in-occupied-ukraine-kyiv-accuses-russia-of-creating-anthrax-outbreak-risk/articleshow/132197985.cms) | The Times of India | 2026-07-05T15:59+00:00 | Outbreaks and emerging infections
   Voltaireâs quote has the answer Watch: Two 2,000-pound bison clash on Yellowstone road as tourists watch With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.
@@ -455,14 +448,14 @@ Search window: 7 day(s) ending 2026-07-06
   Limited detail was available from feed metadata alone.
 - [Americans exposed to Ebola to get experimental antibody therapy amid Kenya quarantine row](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYTdZMzNqd3BjWmlzZTVRanJHRHVIcVBKWGR3VkM5Y2xVd2VnamN5b3NyV3QwM1gyNzlKckRCRVpSc3hMTEU3Y1Fsb1A0ZU5PQTF2Nk5mMHFPeVVOYjVMY25vTUpUV3E5WkpST0VfVFVyTEkwczU3MVktY05Ua3BtNHlBT0Z2TzcwZ1VWdjQ1SnE4dktEY3dtY2FCZkZLeTBtdzBZSWpSUTd6eVpFV3ZqLUt6VUpXaHAzMEMxMzNzd2VUNDdsWUk1T0xfMWdDV3pDMW5hdHlpWQ?oc=5) | The Eastleigh Voice | 2026-07-04T19:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo reports 54 new confirmed Ebola cases](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUFZclRZWFpoOVlJU2QzNHJLa05WeVRzZkRJRS1mRVFJckxuaFlNR3V4amxiUHJ0NG1WYlJXVVZLLXRDZUZrLWc2NXlZY1VXZ3Y1cDJGQnlQMWNkckRlNnlrdjRyXzcwLXdORzhZWlFWX0xPRldVb052eXUxZXZGZFVZcw?oc=5) | Outbreak News Today | 2026-07-04T11:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 - [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
   Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
 - [DR Congo Ebola outbreak spreads to fourth province, 360 dead](https://www.msn.com/en-in/health/health-news/dr-congo-ebola-outbreak-spreads-to-fourth-province-360-dead/ar-AA26ONXg) | MSN | 2026-06-29T18:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Nipah: WHO DON Report & A Narrative Review On Nipah Pandemic Preparedness](https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html) | Avian Flu Diary | 2026-06-29T11:26+00:00 | Outbreaks and emerging infections
+  As of 18 June 2026, a total of 104 contacts had been identified and were under monitoring, including health and care workers, with no reported secondary cases to date. The case is an adult male who developed symptoms on 30 May 2026 and was hospitalized on 10 June 2026. While most outbreaks have remained small , in July of 2018, in IJID: Enhancing Preparation For Large Nipah Outbreaks Beyond Bangladesh , we looked at an article that appeared in the International Journal of Infectious Diseases , that discussed the potential of the Nipah virus producing a large urban epidemic , similar to what we saw in West Africa with Ebola in 2014.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
