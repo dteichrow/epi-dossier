@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T11:07
+Generated at: 2026-07-06T11:17
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-07-06
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (115), Occupational and environmental epidemiology (6), Policy, surveillance, and public health infrastructure (4)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (116), Occupational and environmental epidemiology (6), Policy, surveillance, and public health infrastructure (5)
+- Source health: 2 source(s) failed during collection: USDA APHIS Avian Influenza, California Department of Public Health News.
 
 ## Ongoing stories and what changed
 ### Occupational and environmental epidemiology
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-07-06
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 103 item(s) across 65 source(s).
-- Baseline snapshot created with 103 clustered item(s) across 65 source(s).
+- Newly tracked story cluster: 104 item(s) across 66 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 66 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-07-06
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 103 item(s) across 65 source(s); 3 official/primary-source item(s).
+- Topic size: 104 item(s) across 66 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Death Toll Passes 500 In DR Congo Less Than Two Months After Outbreak Began](https://www.news18.com/world/ebola-death-toll-passes-500-in-dr-congo-less-than-two-months-after-outbreak-began-ws-l-10193794.html) (News18); [Ebola deaths in Congo top 500 as health workers threaten to strike](https://baynews9.com/fl/tampa/health/2026/07/06/500-ebola-deaths-in-congo-500-health-workers-threaten-to-strike) (Spectrum Bay News 9)
@@ -435,8 +435,6 @@ Search window: 7 day(s) ending 2026-07-06
   Limited detail was available from feed metadata alone.
 - [DR Congo Opens New Ebola Treatment Centre](https://von.gov.ng/dr-congo-opens-new-ebola-treatment-centre/) | Voice of Nigeria | 2026-07-06T15:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak confirmed death toll tops 500: WHO](https://thepeninsulaqatar.com/article/06/07/2026/ebola-outbreak-confirmed-death-toll-tops-500-who) | The Peninsula Qatar | 2026-07-06T14:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola deaths in Congo top 500 as health workers threaten to strike - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/ebola-deaths-congo-top-500-health-workers-threaten-134514152) | ABC News - Breaking News, Latest News and Videos | 2026-07-06T13:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Lancet study finds significant child death reduction from malaria vaccine in Africa](https://eastleighvoice.co.ke/index.php/health/346943/lancet-study-finds-significant-child-death-reduction-from-malaria-vaccine-in-africa) | The Eastleigh Voice | 2026-07-06T10:20+00:00 | Outbreaks and emerging infections
@@ -463,6 +461,8 @@ Search window: 7 day(s) ending 2026-07-06
   Limited detail was available from feed metadata alone.
 - [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) | The Eastleigh Voice | 2026-07-04T22:16+00:00 | Outbreaks and emerging infections
   According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties. The centre, run by the United Nations High Commissioner for Refugees (UNHCR) hosts about 302,805 registered refugees and asylum seekers in three camps (Dagahaley, Hagadera and Ifo) as of October 31, 2023.
+- [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://eastleighvoice.co.ke/index.php/news/354972/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa) | The Eastleigh Voice | 2026-07-04T21:08+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/)
