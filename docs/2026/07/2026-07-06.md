@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T08:16
+Generated at: 2026-07-06T08:26
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-06
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (113), Occupational and environmental epidemiology (6), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (112), Occupational and environmental epidemiology (6), Policy, surveillance, and public health infrastructure (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -23,10 +23,17 @@ Search window: 7 day(s) ending 2026-07-06
 - CBS News now explicitly uses investigation or monitoring language.
 - USA Today now includes deaths or fatal cases in the story frame.
 
+### Measles transmission and vaccination
+- Lead item: [Bangladesh reports 3 more suspected measles deaths, toll reaches 741](https://en.prothomalo.com/bangladesh/mj60eada3r) (Prothom Alo English)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Prothom Alo English now includes deaths or fatal cases in the story frame.
+- The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
+
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 105 item(s) across 65 source(s).
-- Baseline snapshot created with 105 clustered item(s) across 65 source(s).
+- Newly tracked story cluster: 104 item(s) across 64 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 64 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -38,10 +45,10 @@ Search window: 7 day(s) ending 2026-07-06
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 105 item(s) across 65 source(s); 3 official/primary-source item(s).
+- Topic size: 104 item(s) across 64 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DR Congo Ebola outbreak toll rises to 506 as confirmed cases reach 1,561](https://ilkha.com/english/world/dr-congo-ebola-outbreak-toll-rises-to-506-as-confirmed-cases-reach-1561-545394) (İlke Haber Ajansı); [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.seattlepi.com/news/world/ebola-deaths-in-congo-top-500-as-health-workers-a22333814) (Seattlepi.com)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DR Congo Ebola outbreak toll rises to 506 as confirmed cases reach 1,561](https://ilkha.com/english/world/dr-congo-ebola-outbreak-toll-rises-to-506-as-confirmed-cases-reach-1561-545394) (İlke Haber Ajansı); [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.nhregister.com/news/world/article/ebola-deaths-in-congo-top-500-as-health-workers-22333814.php) (New Haven Register)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -70,11 +77,11 @@ Search window: 7 day(s) ending 2026-07-06
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice, 2026-07-04T22:16+00:00)
-- Detailed note: According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties. UAE allocates US$30 million in emergency aid for civilians...
-- Evidence notes: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice); [Yemen: Sharp Rise in Measles Cases Leaves Nearly 90 Dead, Over 14,000 Infected in Gov't-Held Areas](https://yemenonline.info/special-reports/12981) (Yemen Online)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh reports 3 more suspected measles deaths, toll reaches 741](https://en.prothomalo.com/bangladesh/mj60eada3r) (Prothom Alo English, 2026-07-06T12:35+00:00)
+- Detailed note: Three more children died with symptoms consistent with measles in 24 hours until 8:00 am today, Monday, bringing Bangladesh’s combined tally of confirmed and suspected measles-related deaths to 741. According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. Since 15 March, a total of 89,734...
+- Evidence notes: [Bangladesh reports 3 more suspected measles deaths, toll reaches 741](https://en.prothomalo.com/bangladesh/mj60eada3r) (Prothom Alo English); [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice); [Yemen: Sharp Rise in Measles Cases Leaves Nearly 90 Dead, Over 14,000 Infected in Gov't-Held Areas](https://yemenonline.info/special-reports/12981) (Yemen Online)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Malaria
@@ -418,14 +425,14 @@ Search window: 7 day(s) ending 2026-07-06
 ## Other notable readings
 - [DR Congo Ebola outbreak toll rises to 506 as confirmed cases reach 1,561](https://ilkha.com/english/world/dr-congo-ebola-outbreak-toll-rises-to-506-as-confirmed-cases-reach-1561-545394) | İlke Haber Ajansı | 2026-07-06T13:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.seattlepi.com/news/world/ebola-deaths-in-congo-top-500-as-health-workers-a22333814) | Seattlepi.com | 2026-07-06T12:58+00:00 | Outbreaks and emerging infections
+- [Ebola deaths in Congo top 500 as health workers threaten to strike](https://www.nhregister.com/news/world/article/ebola-deaths-in-congo-top-500-as-health-workers-22333814.php) | New Haven Register | 2026-07-06T13:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Bangladesh reports 3 more suspected measles deaths, toll reaches 741](https://en.prothomalo.com/bangladesh/mj60eada3r) | Prothom Alo English | 2026-07-06T12:35+00:00 | Outbreaks and emerging infections
+  Three more children died with symptoms consistent with measles in 24 hours until 8:00 am today, Monday, bringing Bangladesh’s combined tally of confirmed and suspected measles-related deaths to 741. Since 15 March, a total of 89,734 patients with suspected measles have been hospitalised across the country, of whom 86,062 have recovered, according to DGHS data. With the latest update, the number of suspected measles deaths has risen to 648, while the number of laboratory-confirmed measles deaths remained unchanged at 93.
 - [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) | Burma News International | 2026-07-06T09:37+00:00 | Outbreaks and emerging infections
   Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations. Burma News International (BNI) is a network of 15 independent media and news organizations based in and around Burma Community health volunteers in eastern Demoso Township, Karenni (Kayah) State, are struggling to contain a widespread malaria outbreak amid critical shortages of anti-malarial medication and severe logistical delays.
 - [Experimental Ebola trial begins in Congo as death toll tops 500](https://www.straitstimes.com/world/experimental-ebola-trial-begins-in-congo-as-death-toll-tops-500) | The Straits Times | 2026-07-06T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [‘No child has been missed, right?’: Inside Ghaziabad polio campaign after virus found in sewage](https://indianexpress.com/article/cities/delhi/ghaziabad-polio-virus-sewage-campaign-10773424/) | The Indian Express | 2026-07-06T05:52+00:00 | Outbreaks and emerging infections
-  Two drops of polio vaccine land on her tongue. Rajkumari asks the baby’s name, age and father’s name, recording each answer in her register. Moments later, a young mother emerges carrying her five-month-old daughter.
 - [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) | U.S. News & World Report | 2026-07-06T05:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola death toll in DR Congo surpasses 500](https://news.az/news/ebola-death-toll-in-dr-congo-surpasses-500) | Latest news from Azerbaijan | 2026-07-05T23:45+00:00 | Outbreaks and emerging infections
