@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T10:07
+Generated at: 2026-07-06T10:17
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -12,21 +12,22 @@ Search window: 7 day(s) ending 2026-07-06
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (112), Policy, surveillance, and public health infrastructure (5), Occupational and environmental epidemiology (5)
+- Category mix: Outbreaks and emerging infections (113), Occupational and environmental epidemiology (6), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 104 item(s) across 66 source(s).
-- Baseline snapshot created with 104 clustered item(s) across 66 source(s).
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
 ### Occupational and environmental epidemiology
 - Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR)
-- Newly tracked story cluster: 6 item(s) across 5 source(s).
-- Baseline snapshot created with 6 clustered item(s) across 5 source(s).
+- Newly tracked story cluster: 7 item(s) across 6 source(s).
+- Baseline snapshot created with 7 clustered item(s) across 6 source(s).
 - CBS News now explicitly uses investigation or monitoring language.
+- USA Today now includes deaths or fatal cases in the story frame.
+
+### Ebola virus disease
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 103 item(s) across 65 source(s).
+- Baseline snapshot created with 103 clustered item(s) across 65 source(s).
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies)
@@ -37,10 +38,18 @@ Search window: 7 day(s) ending 2026-07-06
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 104 item(s) across 66 source(s); 3 official/primary-source item(s).
+- Topic size: 103 item(s) across 65 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola deaths in Congo top 500 as health workers threaten to strike](https://baynews9.com/fl/tampa/health/2026/07/06/500-ebola-deaths-in-congo-500-health-workers-threaten-to-strike) (Spectrum Bay News 9); [With Ebola Outbreak Spreading, Health Workers Threaten Strike](https://www.newser.com/story/392317/with-ebola-outbreak-spreading-health-workers-threaten-strike.html) (Newser)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.modernghana.com/news/1508273/death-toll-from-dr-congo-ebola-outbreak-passes.html) (Modern Ghana); [Ebola deaths in Congo top 500 as health workers threaten to strike](https://baynews9.com/fl/tampa/health/2026/07/06/500-ebola-deaths-in-congo-500-health-workers-threaten-to-strike) (Spectrum Bay News 9)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Occupational and environmental epidemiology
+- Topic size: 7 item(s) across 6 source(s); 2 official/primary-source item(s).
+- Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR, 2026-07-02T17:00+00:00)
+- Detailed note: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. Weekly / July 2, 2026 / 75(25);322â326 Sarah Gallalee, PhD 1 ,2 ; Hannah M. During 2022-2024, a total of 13,507 clinical C.
+- Evidence notes: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR); [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR); [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) (CBS News); [Ebola response worker who traveled from DRC to France is first in outbreak to test positive outside of Africa](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZE9ONlJCQTJPYlR3dVZna1NKVTRwejZfMnNrTDlfM3NOanNOU3VEMWY1bU5CTEgyV2F6Y2tBWU8yUnpncnFOTkQ4SDllTDdHamZZNzZNNXJ1ZzRRTC1PbUVCcXhWemM3?oc=5) (CNN); [Is Legionnaires' disease fatal? What to know as NYC reports outbreak](https://www.usatoday.com/story/news/2026/07/06/nyc-reports-legionnaires-disease-cluster-in-manhattan-is-it-fatal/90819389007/) (USA Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -51,14 +60,6 @@ Search window: 7 day(s) ending 2026-07-06
 - Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Impaired fasting glucose is comparable to diabetes mellitus in predicting mortality and cardiovascular events in patients undergoing peritoneal dialysis: the role of β-cell function and insulin resistance.](https://pubmed.ncbi.nlm.nih.gov/42402705/) (PubMed Infectious Disease Search); [Perceptions, knowledge, and access to the HPV vaccine among parents and healthcare providers in South Quito, Ecuador in 2025: A qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42396795/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Occupational and environmental epidemiology
-- Topic size: 6 item(s) across 5 source(s); 2 official/primary-source item(s).
-- Lead item: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR, 2026-07-02T17:00+00:00)
-- Detailed note: auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time. Weekly / July 2, 2026 / 75(25);322â326 Sarah Gallalee, PhD 1 ,2 ; Hannah M. During 2022-2024, a total of 13,507 clinical C.
-- Evidence notes: [Legionellosis Outbreaks Associated with Two Hotels - U.S. Virgin Islands, October 2024-April 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765941) (CDC MMWR); [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR); [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) (CBS News); [Ebola response worker who traveled from DRC to France is first in outbreak to test positive outside of Africa](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZE9ONlJCQTJPYlR3dVZna1NKVTRwejZfMnNrTDlfM3NOanNOU3VEMWY1bU5CTEgyV2F6Y2tBWU8yUnpncnFOTkQ4SDllTDdHamZZNzZNNXJ1ZzRRTC1PbUVCcXhWemM3?oc=5) (CNN); [Legionnaires’ cluster grows on the Upper East Side: Health Department](https://pix11.com/news/local-news/legionnaires-cluster-grows-on-the-upper-east-side-health-department/) (PIX11)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
@@ -76,13 +77,13 @@ Search window: 7 day(s) ending 2026-07-06
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
-### Avian influenza and H5N1
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Global Health Alert: Rising Ebola Cases, Biotechnology Acquisitions, and Avian Flu Concerns](https://www.devdiscourse.com/article/health/3945869-global-health-alert-rising-ebola-cases-biotechnology-acquisitions-and-avian-flu-concerns?amp) (Devdiscourse, 2026-07-06T12:57+00:00)
-- Detailed note: In business news, pharmaceutical giant Novartis announced an ambitious acquisition of Myricx Bio, aiming to strengthen its cancer treatment repertoire with a deal valued at $1.5 billion. Meanwhile, Australia faces an avian flu challenge as New South Wales becomes the third state to report H5N1 bird flu, sparking increased surveillance measures.
-- Evidence notes: [Global Health Alert: Rising Ebola Cases, Biotechnology Acquisitions, and Avian Flu Concerns](https://www.devdiscourse.com/article/health/3945869-global-health-alert-rising-ebola-cases-biotechnology-acquisitions-and-avian-flu-concerns?amp) (Devdiscourse)
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter, 2026-06-29T06:16+00:00)
+- Detailed note: Most cases are mild to moderate. A smaller share progress to severe dengue, which is the phase that requires hospital monitoring and, occasionally, intensive care.
+- Evidence notes: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Dengue now a year-round public health challenge in Bangladesh: experts](https://www.newagebd.net/post/miscellany/304900/dengue-now-a-year-round-public-health-challenge-in-bangladesh-experts) (Newagebd.net)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -415,6 +416,8 @@ Search window: 7 day(s) ending 2026-07-06
 
 
 ## Other notable readings
+- [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.modernghana.com/news/1508273/death-toll-from-dr-congo-ebola-outbreak-passes.html) | Modern Ghana | 2026-07-06T16:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola deaths in Congo top 500 as health workers threaten to strike](https://baynews9.com/fl/tampa/health/2026/07/06/500-ebola-deaths-in-congo-500-health-workers-threaten-to-strike) | Spectrum Bay News 9 | 2026-07-06T16:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [With Ebola Outbreak Spreading, Health Workers Threaten Strike](https://www.newser.com/story/392317/with-ebola-outbreak-spreading-health-workers-threaten-strike.html) | Newser | 2026-07-06T15:48+00:00 | Outbreaks and emerging infections
@@ -423,18 +426,16 @@ Search window: 7 day(s) ending 2026-07-06
   Limited detail was available from feed metadata alone.
 - [Yemen: Sharp Rise in Measles Cases Leaves Nearly 90 Dead, Over 14,000 Infected in Gov't-Held Areas](https://yemenonline.info/special-reports/12981) | Yemen Online | 2026-07-06T14:12+00:00 | Outbreaks and emerging infections
   UAE real estate maintains momentum as transactions surge 103% in the H1 of 2026... UAE allocates US$30 million in emergency aid for civilians in Sudan’s El Obeid... ADNOC launches global LNG marketing and trading platform...
+- [Ebola deaths in Congo top 500 as health workers threaten to strike - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/ebola-deaths-congo-top-500-health-workers-threaten-134514152) | ABC News - Breaking News, Latest News and Videos | 2026-07-06T13:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Global Health Alert: Rising Ebola Cases, Biotechnology Acquisitions, and Avian Flu Concerns](https://www.devdiscourse.com/article/health/3945869-global-health-alert-rising-ebola-cases-biotechnology-acquisitions-and-avian-flu-concerns?amp) | Devdiscourse | 2026-07-06T12:57+00:00 | Outbreaks and emerging infections
   In business news, pharmaceutical giant Novartis announced an ambitious acquisition of Myricx Bio, aiming to strengthen its cancer treatment repertoire with a deal valued at $1.5 billion. Meanwhile, Australia faces an avian flu challenge as New South Wales becomes the third state to report H5N1 bird flu, sparking increased surveillance measures. The virus was initially detected on Heard Island in the sub-Antarctic region.
 - [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) | Burma News International | 2026-07-06T09:37+00:00 | Outbreaks and emerging infections
   Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations. Burma News International (BNI) is a network of 15 independent media and news organizations based in and around Burma Community health volunteers in eastern Demoso Township, Karenni (Kayah) State, are struggling to contain a widespread malaria outbreak amid critical shortages of anti-malarial medication and severe logistical delays.
 - [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) | U.S. News & World Report | 2026-07-06T05:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://global.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) | China Daily - Global Edition | 2026-07-06T01:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola death toll in DR Congo surpasses 500](https://news.az/news/ebola-death-toll-in-dr-congo-surpasses-500) | Latest news from Azerbaijan | 2026-07-05T23:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- ['Biological terrorism' in occupied Ukraine? Kyiv accuses Russia of creating anthrax outbreak risk](https://timesofindia.indiatimes.com/world/europe/biological-terrorism-in-occupied-ukraine-kyiv-accuses-russia-of-creating-anthrax-outbreak-risk/articleshow/132197985.cms) | The Times of India | 2026-07-05T15:59+00:00 | Outbreaks and emerging infections
-  Voltaireâs quote has the answer Watch: Two 2,000-pound bison clash on Yellowstone road as tourists watch With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.
 - [Ebola treatment trial begins in Congo as outbreak continues to grow - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-07-05/ebola-treatment-trial-congo/106882406) | ABC News & Headlines – Australian Broadcasting Corporation | 2026-07-05T11:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/351860/dr-congo-ebola-death-toll-hits-87-as-outbreak-strain-lacks-vaccine-poses-high-risk) | The Eastleigh Voice | 2026-07-05T09:13+00:00 | Outbreaks and emerging infections
