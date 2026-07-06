@@ -25,7 +25,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-06T10:37:01",
+  "generated_at": "2026-07-06T10:46:57",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
