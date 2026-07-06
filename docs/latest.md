@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T03:53
+Generated at: 2026-07-06T04:46
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-07-06
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report)
-- Newly tracked story cluster: 17 item(s) across 7 source(s).
-- Baseline snapshot created with 17 clustered item(s) across 7 source(s).
+- Newly tracked story cluster: 18 item(s) across 8 source(s).
+- Baseline snapshot created with 18 clustered item(s) across 8 source(s).
 - U.S. News & World Report now includes deaths or fatal cases in the story frame.
 - The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
 
@@ -38,27 +38,19 @@ Search window: 7 day(s) ending 2026-07-06
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 3 item(s) across 2 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
+- Newly tracked story cluster: 4 item(s) across 3 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 17 item(s) across 7 source(s); 0 official/primary-source item(s).
+- Topic size: 18 item(s) across 8 source(s); 0 official/primary-source item(s).
 - Lead item: [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report, 2026-07-06T05:14+00:00)
-- Detailed note: Cluster remains active across 17 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report); [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://global.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) (China Daily - Global Edition); [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://news.google.com/rss/articles/CBMivgFBVV95cUxQanVzV1RMbUFlcVQ4MlRmUkZ6VXNRQUFkcURSeWtnWDE3eHE0ODQ4cTd2cXVIZEc4Rmp5RzBPdDE1ZWdNUXlicE04eE5IbTJadlhvdFgtMFlvcFZYQ09VUjdVSU1HV0VuWDBCYkhSSnFkdjVwUWZyckZZY29QTmNVakV5amdpRnV2RlBMajlzZkNaamp5d3U2RE80c1l1TEkwdlFTekF5S09JaGc4MmRCaGhkcHJsaXhEdUc5R0JB0gHDAUFVX3lxTE5Ca2lQeHpzaXJoVy1ZMkliVVJFM1pBNlFTcVhEZmhYMDFqQ3VQQTlRYzBha1V6M1BmdGN0Zk12YjZYX25hUUZOczVpcU1ROU1EdzlfMzZvejNFek0xZEEycl9ZeTVULWlyYk9WT3lIa0JSUHlieGIyaEp4WVplZFpWcktBZVFjWmpHMFg0aVU1VFVURHN5SVRJV19UZWI2U0RZbmgxdzNYUDdpZEk2TWx1LWFoa201MkZBQTdVcTRuWXRCcw?oc=5) (WION); [Ebola treatment trial begins in Congo as outbreak continues to grow - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzBQWldoc1BPeTRfUkhjVGpMY3FSaDlIMHowYWc2dzNwdlZINEYzd0t1RFBDS3lnM3l2aDlYY0c2SF9XcjNXejBKZ2tkcGVmLThQano3SFU4Y2hXZnNpNWpSbU1IMHdPVV9vakJlMml3Q1B3NXNkQktZSmpWbjlqQU9n?oc=5) (ABC News & Headlines – Australian Broadcasting Corporation); [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNklHQ1Vuem05eG5YUnZUaTFjNEh4ZlI3ZVhTOXRzcGZCY1JCWE0tWU1SLWtscXU0OGhDcUw0R3NGWjJsX0hJVWdkMmtoSi1vMFhxdThySU54WDE1UGtBRUJCN292VHUtUmUyS0s2bEV3a05IZmdDRFJyaGZERVlTTXZvcllfcjBYV2NVeWxDbk1GSVhNeDZQUWc4WkRLM2ZPaVNSUUpuZFZsUjBjRDBsVk45ajJ2OG45YWNmR0R4VWNaYXFOMk56dV9pTk11aEszekRkUnJjR2ZMUkgzUS04NUlDSElIRnF6QW0tYVN3?oc=5) (The Eastleigh Voice)
+- Detailed note: Cluster remains active across 18 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) (U.S. News & World Report); [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://global.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) (China Daily - Global Edition); [Ebola treatment trial begins in Congo as outbreak continues to grow - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-07-05/ebola-treatment-trial-congo/106882406) (ABC News & Headlines – Australian Broadcasting Corporation); [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNklHQ1Vuem05eG5YUnZUaTFjNEh4ZlI3ZVhTOXRzcGZCY1JCWE0tWU1SLWtscXU0OGhDcUw0R3NGWjJsX0hJVWdkMmtoSi1vMFhxdThySU54WDE1UGtBRUJCN292VHUtUmUyS0s2bEV3a05IZmdDRFJyaGZERVlTTXZvcllfcjBYV2NVeWxDbk1GSVhNeDZQUWc4WkRLM2ZPaVNSUUpuZFZsUjBjRDBsVk45ajJ2OG45YWNmR0R4VWNaYXFOMk56dV9pTk11aEszekRkUnJjR2ZMUkgzUS04NUlDSElIRnF6QW0tYVN3?oc=5) (The Eastleigh Voice); [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbjFwNFBCTEFyaHgybFZuWjFtTFVKLUNMdENsc0s0XzNiUzcxNVRjN09Uc08xQzlQRlc5UTdjR3EtM3NseThIZGNuVkY1UVpsSGs4TEpRb19rYmZIaGxVYzhBcmpKamR3UFdDTmpTTmZ5aDVGc3FUQURHMllvS1VCazNqelJncFFQM1piZlUtTzNENXJZNDFvci0teEJHWHZKczdzV0lla3ZIUDhlbGRMU2hWOXhQSlZxM3FRXzNMYXZvT09zbzB4S2I3TlFnYTVRcGZpN2thYVczMkRRRU5EUW9n?oc=5) (The Eastleigh Voice)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Miscellaneous signals
-- Topic size: 6 item(s) across 2 source(s); 6 official/primary-source item(s).
-- Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Impaired fasting glucose is comparable to diabetes mellitus in predicting mortality and cardiovascular events in patients undergoing peritoneal dialysis: the role of β-cell function and insulin resistance.](https://pubmed.ncbi.nlm.nih.gov/42402705/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Occupational and environmental epidemiology
 - Topic size: 5 item(s) across 4 source(s); 2 official/primary-source item(s).
@@ -68,29 +60,37 @@ Search window: 7 day(s) ending 2026-07-06
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Miscellaneous signals
+- Topic size: 5 item(s) across 2 source(s); 5 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Impaired fasting glucose is comparable to diabetes mellitus in predicting mortality and cardiovascular events in patients undergoing peritoneal dialysis: the role of β-cell function and insulin resistance.](https://pubmed.ncbi.nlm.nih.gov/42402705/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
+- Detailed note: The mean and 95% uncertainty limits (UL) for total LAR of lung, thyroid, esophagus, stomach, liver, breast and Leukemia were 90 (95% UL, 80 - 116), 24 (95% UL, 18 - 33), 32 (95% UL, 26-39), 9 (95% UL, 8-11), 5 (95% UL, 4-6), 217 (95% UL, 194-244) and 30 ( 95% UL, 10-101) per 100,000 persons, respectively. The excess cancer burdens from radiation in Fars are estimated at approximately 55 years for solid cancers...
+- Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Measles transmission and vaccination
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice, 2026-07-04T22:16+00:00)
 - Detailed note: According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties.
-- Evidence notes: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice); [Yemen: Sharp Rise in Measles Cases Leaves Nearly 90 Dead, Over 14,000 Infected in Gov't-Held Areas](https://yemenonline.info/special-reports/12981) (Yemen Online); [Al-Shabab Launches Response To Contain Measles Outbreak - MEMRI | Middle East Media Research Institute](https://www.memri.org/jttm/al-qaeda-affiliate-somalia-al-shabab-launches-medical-response-campaign-contain-measles) (MEMRI)
+- Evidence notes: [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice); [New South Wales Issues Measles Alert for Western Sydney Amid Rising Cases](https://newsonair.gov.in/new-south-wales-issues-measles-alert-for-western-sydney-amid-rising-cases/) (News On AIR); [Yemen: Sharp Rise in Measles Cases Leaves Nearly 90 Dead, Over 14,000 Infected in Gov't-Held Areas](https://yemenonline.info/special-reports/12981) (Yemen Online)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
-### COVID-19 and SARS-CoV-2
-- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies, 2026-07-02T00:00)
-- Detailed note: Across distinct historical periods, including early smallpox vaccination, mid-20th-century vaccine controversies, the 1998 Wakefield publication, and the COVID-19 pandemic, recurring themes emerge. The COVID-19 pandemic marked a critical inflection point, with vaccine hesitancy becoming increasingly politicized and, in some cases, economically incentivized through monetized online content. The study integrates...
-- Evidence notes: [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) (Newswire, 2026-07-06T05:08+00:00)
-- Detailed note: Earlier months saw 8,590 cases in May, 5,651 in April, 6,013 in March, 5,721 in February, and 7,866 in January. Other high‑risk districts include Matara (4,428), Kalutara (4,092), Kandy (3,901), and Ratnapura (3,588). Most cases are mild to moderate.
-- Evidence notes: [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) (Newswire); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
+### Malaria
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) (Burma News International, 2026-07-06T09:37+00:00)
+- Detailed note: Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations.
+- Evidence notes: [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) (Burma News International)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -423,15 +423,11 @@ Search window: 7 day(s) ending 2026-07-06
 
 
 ## Other notable readings
-- [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) | Newswire | 2026-07-06T05:08+00:00 | Outbreaks and emerging infections
-  Earlier months saw 8,590 cases in May, 5,651 in April, 6,013 in March, 5,721 in February, and 7,866 in January. Other high‑risk districts include Matara (4,428), Kalutara (4,092), Kandy (3,901), and Ratnapura (3,588). Sri Lanka has reported 61,060 dengue cases so far this year, with 39 deaths recorded, according to the latest National Dengue Control Unit surveillance figures.
 - [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://global.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) | China Daily - Global Edition | 2026-07-06T01:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://news.google.com/rss/articles/CBMivgFBVV95cUxQanVzV1RMbUFlcVQ4MlRmUkZ6VXNRQUFkcURSeWtnWDE3eHE0ODQ4cTd2cXVIZEc4Rmp5RzBPdDE1ZWdNUXlicE04eE5IbTJadlhvdFgtMFlvcFZYQ09VUjdVSU1HV0VuWDBCYkhSSnFkdjVwUWZyckZZY29QTmNVakV5amdpRnV2RlBMajlzZkNaamp5d3U2RE80c1l1TEkwdlFTekF5S09JaGc4MmRCaGhkcHJsaXhEdUc5R0JB0gHDAUFVX3lxTE5Ca2lQeHpzaXJoVy1ZMkliVVJFM1pBNlFTcVhEZmhYMDFqQ3VQQTlRYzBha1V6M1BmdGN0Zk12YjZYX25hUUZOczVpcU1ROU1EdzlfMzZvejNFek0xZEEycl9ZeTVULWlyYk9WT3lIa0JSUHlieGIyaEp4WVplZFpWcktBZVFjWmpHMFg0aVU1VFVURHN5SVRJV19UZWI2U0RZbmgxdzNYUDdpZEk2TWx1LWFoa201MkZBQTdVcTRuWXRCcw?oc=5) | WION | 2026-07-05T17:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - ['Biological terrorism' in occupied Ukraine? Kyiv accuses Russia of creating anthrax outbreak risk](https://timesofindia.indiatimes.com/world/europe/biological-terrorism-in-occupied-ukraine-kyiv-accuses-russia-of-creating-anthrax-outbreak-risk/articleshow/132197985.cms) | The Times of India | 2026-07-05T15:59+00:00 | Outbreaks and emerging infections
   Voltaireâs quote has the answer Watch: Two 2,000-pound bison clash on Yellowstone road as tourists watch With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.
-- [Ebola treatment trial begins in Congo as outbreak continues to grow - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzBQWldoc1BPeTRfUkhjVGpMY3FSaDlIMHowYWc2dzNwdlZINEYzd0t1RFBDS3lnM3l2aDlYY0c2SF9XcjNXejBKZ2tkcGVmLThQano3SFU4Y2hXZnNpNWpSbU1IMHdPVV9vakJlMml3Q1B3NXNkQktZSmpWbjlqQU9n?oc=5) | ABC News & Headlines – Australian Broadcasting Corporation | 2026-07-05T11:09+00:00 | Outbreaks and emerging infections
+- [Ebola treatment trial begins in Congo as outbreak continues to grow - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-07-05/ebola-treatment-trial-congo/106882406) | ABC News & Headlines – Australian Broadcasting Corporation | 2026-07-05T11:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNklHQ1Vuem05eG5YUnZUaTFjNEh4ZlI3ZVhTOXRzcGZCY1JCWE0tWU1SLWtscXU0OGhDcUw0R3NGWjJsX0hJVWdkMmtoSi1vMFhxdThySU54WDE1UGtBRUJCN292VHUtUmUyS0s2bEV3a05IZmdDRFJyaGZERVlTTXZvcllfcjBYV2NVeWxDbk1GSVhNeDZQUWc4WkRLM2ZPaVNSUUpuZFZsUjBjRDBsVk45ajJ2OG45YWNmR0R4VWNaYXFOMk56dV9pTk11aEszekRkUnJjR2ZMUkgzUS04NUlDSElIRnF6QW0tYVN3?oc=5) | The Eastleigh Voice | 2026-07-05T09:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -440,7 +436,7 @@ Search window: 7 day(s) ending 2026-07-06
 - [Africa CDC declares Ebola outbreak public health emergency of continental security](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2VBYnpiVlZ2bW5tTmdiZ05QQ25tXzZycVh4Mll0N1NkN0JzY3kzWXpwaTJVUHZNRUhsYkVnVzRjcTh1b2FkS2xKZjJhbmFiZk81cVFHblAxV3pIWGlMbkpvaG5aaWc5U1ItZ0JmVE9aM19ZRGt5SFRpMUpXMUtkM0NTaFljSHY3aWQ1b0ZPcmptUUwwdHA5MUc4SVVuSmwwcmlXNGRLV2xwcVVnWV9MMVJCU1lKR0dITUhoR3BfczcxZVpmeGNvU28tTlNzSVBR?oc=5) | The Eastleigh Voice | 2026-07-04T22:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) | The Eastleigh Voice | 2026-07-04T22:16+00:00 | Outbreaks and emerging infections
-  According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties. The centre, run by the United Nations High Commissioner for Refugees (UNHCR) hosts about 302,805 registered refugees and asylum seekers in three camps (Dagahaley, Hagadera and Ifo) as of October 31, 2023.
+  According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties. Latest Stories 2026 FIFA World Cup fixtures (Round of 16) Youths storm National Youth Council offices, give ministry two-week ultimatum after delayed polls EACC sues Mandera Governor over Nairobi school land allegedly grabbed for private housing KRA removes excise duty on bottled water effective July 1 The organisation also warned that due to its highly contagious nature, measles could result in severe complications, including pneumonia, malnutrition and death, exacerbated by overcrowded living conditions in the camps.
 - [Did US aid cuts worsen Ebola outbreak in Central Africa?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGxQSmVCRE1kVlVnN0c5VTYzNkR5NWlrQ1BuMjNIN2YzOFVrSG5hdC1DdTN3aXRXWWRFaG41c19VRmJFLTZGTzl5V05zUnFYMng2NFJLeFVHNmFYMjk5ajctaHgyTDdCNWJKZHNNbG85YWk2Q25hTlZvZE5yQVNWanRJQ3owN2xrRDNsNWFZNVVPc1RvS01GYzdNNktDSjIzclJxMEVyRWpnQQ?oc=5) | The Eastleigh Voice | 2026-07-04T21:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’](https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0RtbW1oaWlWMHAtOFk2aVZHbjI1WThXX2prUzd0MTFXaHc1N01NUFVrTnNZSUxFSG82aEdXYUFZN3FsSlZ6Q3l4REFaVmFsVzY2ZVJ6WWJxamo3OE54MnNzY01PbnVjcHlwY2lGZVAzUFpONHB3bXNtNGs5cjBtNmJ4RjdKeFN5aG5UeGJDR0FaMkh2S09ndHJzVUZoTF8zd0FuM21qSXFxSEdUSjZXdHpac090dWZzdG1qMG5oYVM3NTh1T0RR?oc=5) | The Eastleigh Voice | 2026-07-04T20:29+00:00 | Outbreaks and emerging infections
@@ -456,6 +452,10 @@ Search window: 7 day(s) ending 2026-07-06
 - [US–Africa Business Summit in Mauritius postponed over Ebola outbreak concerns](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVJhLXJkeWRQaHJkYkw5TXc4QmdwS1ZlS3JnaE1ncnl3eTBLVXdSbVVNaENWOUszWkRLUHlsU1pRbHI4NXJYWHFXMW02N0NXSG5RTm5PbmpSS09mSkNNbm9SZk91dlo2Tm8zNFl6Wnpud3hPRmJfLWZaem9obDY5QWZlQmQzRjBMWTFTY2J0NFdOWElDTXdDdWc5T0ZFQzU4Q1MyTFl1QlMxb05BVFc1Nk9GRzA5RFB5Nks4bWcxQ293dmN5OGF1OExB?oc=5) | The Eastleigh Voice | 2026-07-04T19:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans exposed to Ebola to get experimental antibody therapy amid Kenya quarantine row](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYTdZMzNqd3BjWmlzZTVRanJHRHVIcVBKWGR3VkM5Y2xVd2VnamN5b3NyV3QwM1gyNzlKckRCRVpSc3hMTEU3Y1Fsb1A0ZU5PQTF2Nk5mMHFPeVVOYjVMY25vTUpUV3E5WkpST0VfVFVyTEkwczU3MVktY05Ua3BtNHlBT0Z2TzcwZ1VWdjQ1SnE4dktEY3dtY2FCZkZLeTBtdzBZSWpSUTd6eVpFV3ZqLUt6VUpXaHAzMEMxMzNzd2VUNDdsWUk1T0xfMWdDV3pDMW5hdHlpWQ?oc=5) | The Eastleigh Voice | 2026-07-04T19:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola Outbreak: 499 Dead in Alarming, Deadly Health Emergency](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUd2k4dGxxSTJhakhWYjFlX0Q1V2dGYjRRak1YT0hia053VV80ZlpFRUR3SW0tUUxYcXFWUF91N0pYODRIME5Nc0c2eEY5aFB0emlaakllODBiTHlSUjRjS3F3?oc=5) | teleSUR English | 2026-07-04T18:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo reports 54 new confirmed Ebola cases](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUFZclRZWFpoOVlJU2QzNHJLa05WeVRzZkRJRS1mRVFJckxuaFlNR3V4amxiUHJ0NG1WYlJXVVZLLXRDZUZrLWc2NXlZY1VXZ3Y1cDJGQnlQMWNkckRlNnlrdjRyXzcwLXdORzhZWlFWX0xPRldVb052eXUxZXZGZFVZcw?oc=5) | Outbreak News Today | 2026-07-04T11:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
@@ -483,12 +483,12 @@ Search window: 7 day(s) ending 2026-07-06
   Journal/preprint server: Renal failure
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42402705/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42402705/
-- [Perceptions, knowledge, and access to the HPV vaccine among parents and healthcare providers in South Quito, Ecuador in 2025: A qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42396795/)
+- [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/)
   Source: PubMed Infectious Disease Search
-  DOI: 10.1080/17441692.2026.2697096
-  Journal/preprint server: Global public health
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42396795/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42396795/
+  DOI: 10.1007/s40201-026-00987-z
+  Journal/preprint server: Journal of environmental health science & engineering
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42404200/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42404200/
 
 ## Historical epi / weird epi corner
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) | PubMed Historical Pathogen Case Studies
