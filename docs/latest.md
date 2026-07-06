@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T02:53
+Generated at: 2026-07-06T03:53
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-06
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies; 2026-07-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Candida auris](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765938) (CDC MMWR; 2026-06-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (30), Occupational and environmental epidemiology (5), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (30), Occupational and environmental epidemiology (5), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-07-06
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 7 item(s) across 3 source(s); 6 official/primary-source item(s).
+- Topic size: 6 item(s) across 2 source(s); 6 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks, 2026-07-01T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks); [Impaired fasting glucose is comparable to diabetes mellitus in predicting mortality and cardiovascular events in patients undergoing peritoneal dialysis: the role of β-cell function and insulin resistance.](https://pubmed.ncbi.nlm.nih.gov/42402705/) (PubMed Infectious Disease Search)
@@ -401,6 +401,16 @@ Search window: 7 day(s) ending 2026-07-06
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak
+- Source: Burma News International
+- Date: 2026-07-06T09:37+00:00
+- URL: https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria
+- Category: Outbreaks and emerging infections
+- Summary: Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations. Burma News International (BNI) is a network of 15 independent media and news organizations based in and around Burma Community health volunteers in eastern Demoso Township, Karenni (Kayah) State, are struggling to contain a widespread malaria outbreak amid critical shortages of anti-malarial medication and severe logistical delays.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths
 - Source: U.S. News & World Report
 - Date: 2026-07-06T05:14+00:00
@@ -411,18 +421,10 @@ Search window: 7 day(s) ending 2026-07-06
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths
-- Source: Newswire
-- Date: 2026-07-06T05:08+00:00
-- URL: https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/
-- Category: Outbreaks and emerging infections
-- Summary: Earlier months saw 8,590 cases in May, 5,651 in April, 6,013 in March, 5,721 in February, and 7,866 in January. Other high‑risk districts include Matara (4,428), Kalutara (4,092), Kandy (3,901), and Ratnapura (3,588). Sri Lanka has reported 61,060 dengue cases so far this year, with 39 deaths recorded, according to the latest National Dengue Control Unit surveillance figures.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Sri Lanka’s dengue outbreak climbs to 61,060 cases and 39 deaths](https://www.newswire.lk/2026/07/06/sri-lankas-dengue-outbreak-climbs-to-61060-cases-and-39-deaths/) | Newswire | 2026-07-06T05:08+00:00 | Outbreaks and emerging infections
+  Earlier months saw 8,590 cases in May, 5,651 in April, 6,013 in March, 5,721 in February, and 7,866 in January. Other high‑risk districts include Matara (4,428), Kalutara (4,092), Kandy (3,901), and Ratnapura (3,588). Sri Lanka has reported 61,060 dengue cases so far this year, with 39 deaths recorded, according to the latest National Dengue Control Unit surveillance figures.
 - [Ebola deaths in DR Congo top 500 amid continued community transmission - China Daily](https://global.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) | China Daily - Global Edition | 2026-07-06T01:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Democratic Republic of Congo grapples with rising Ebola cases](https://news.google.com/rss/articles/CBMivgFBVV95cUxQanVzV1RMbUFlcVQ4MlRmUkZ6VXNRQUFkcURSeWtnWDE3eHE0ODQ4cTd2cXVIZEc4Rmp5RzBPdDE1ZWdNUXlicE04eE5IbTJadlhvdFgtMFlvcFZYQ09VUjdVSU1HV0VuWDBCYkhSSnFkdjVwUWZyckZZY29QTmNVakV5amdpRnV2RlBMajlzZkNaamp5d3U2RE80c1l1TEkwdlFTekF5S09JaGc4MmRCaGhkcHJsaXhEdUc5R0JB0gHDAUFVX3lxTE5Ca2lQeHpzaXJoVy1ZMkliVVJFM1pBNlFTcVhEZmhYMDFqQ3VQQTlRYzBha1V6M1BmdGN0Zk12YjZYX25hUUZOczVpcU1ROU1EdzlfMzZvejNFek0xZEEycl9ZeTVULWlyYk9WT3lIa0JSUHlieGIyaEp4WVplZFpWcktBZVFjWmpHMFg0aVU1VFVURHN5SVRJV19UZWI2U0RZbmgxdzNYUDdpZEk2TWx1LWFoa201MkZBQTdVcTRuWXRCcw?oc=5) | WION | 2026-07-05T17:42+00:00 | Outbreaks and emerging infections
@@ -461,8 +463,6 @@ Search window: 7 day(s) ending 2026-07-06
   Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
 - [DR Congo Ebola outbreak spreads to fourth province, 360 dead](https://www.msn.com/en-in/health/health-news/dr-congo-ebola-outbreak-spreads-to-fourth-province-360-dead/ar-AA26ONXg) | MSN | 2026-06-29T18:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Nipah: WHO DON Report & A Narrative Review On Nipah Pandemic Preparedness](https://afludiary.blogspot.com/2026/06/nipah-who-don-report-narrative-review.html) | Avian Flu Diary | 2026-06-29T11:26+00:00 | Outbreaks and emerging infections
-  As of 18 June 2026, a total of 104 contacts had been identified and were under monitoring, including health and care workers, with no reported secondary cases to date. The case is an adult male who developed symptoms on 30 May 2026 and was hospitalized on 10 June 2026. While most outbreaks have remained small , in July of 2018, in IJID: Enhancing Preparation For Large Nipah Outbreaks Beyond Bangladesh , we looked at an article that appeared in the International Journal of Infectious Diseases , that discussed the potential of the Nipah virus producing a large urban epidemic , similar to what we saw in West Africa with Ebola in 2014.
 
 ## Papers worth saving
 - [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
