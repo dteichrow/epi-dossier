@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T13:37
+Generated at: 2026-07-06T13:47
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-06
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-01T14:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (115), Occupational and environmental epidemiology (7), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (118), Occupational and environmental epidemiology (7), Policy, surveillance, and public health infrastructure (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -30,10 +30,17 @@ Search window: 7 day(s) ending 2026-07-06
 - thehawk.in now includes deaths or fatal cases in the story frame.
 - The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
 
+### Measles transmission and vaccination
+- Lead item: [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) (The Indian Awaaz)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- The Eastleigh Voice now includes deaths or fatal cases in the story frame.
+- The Eastleigh Voice now foregrounds vaccination or vaccine policy in the story.
+
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 101 item(s) across 65 source(s).
-- Baseline snapshot created with 101 clustered item(s) across 65 source(s).
+- Newly tracked story cluster: 104 item(s) across 66 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 66 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -45,7 +52,7 @@ Search window: 7 day(s) ending 2026-07-06
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 101 item(s) across 65 source(s); 3 official/primary-source item(s).
+- Topic size: 104 item(s) across 66 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [More than 500 dead in DR Congo Ebola outbreak](https://www.jamaicaobserver.com/2026/07/06/500-dead-dr-congo-ebola-outbreak/) (Jamaica Observer); [Ebola Death Toll Passes 500 In DR Congo Less Than Two Months After Outbreak Began](https://www.news18.com/world/ebola-death-toll-passes-500-in-dr-congo-less-than-two-months-after-outbreak-began-ws-l-10193794.html) (News18)
@@ -85,12 +92,12 @@ Search window: 7 day(s) ending 2026-07-06
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) (The Indian Awaaz, 2026-07-06T17:17+00:00)
 - Detailed note: According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties. It showed 87% borrowed money, 47% exhausted savings, and...
-- Evidence notes: [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) (The Indian Awaaz); [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice)
+- Evidence notes: [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) (The Indian Awaaz); [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice); [Yemen: Sharp Rise in Measles Cases Leaves Nearly 90 Dead, Over 14,000 Infected in Gov't-Held Areas](https://yemenonline.info/special-reports/12981) (Yemen Online)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -435,11 +442,7 @@ Search window: 7 day(s) ending 2026-07-06
   Limited detail was available from feed metadata alone.
 - [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) | The Indian Awaaz | 2026-07-06T17:17+00:00 | Outbreaks and emerging infections
   It showed 87% borrowed money, 47% exhausted savings, and over 93% relied on informal jobs earning Tk6,000–Tk15,000 monthly before illness forced work stoppage. A joint Bangladesh Red Crescent Society (BDRCS) and IFRC assessment across 12 hospitals found every surveyed family needed financial support. The family has already spent nearly Tk80,000 through loans and selling belongings.
-- [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.modernghana.com/news/1508273/death-toll-from-dr-congo-ebola-outbreak-passes.html) | Modern Ghana | 2026-07-06T16:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola deaths in Congo top 500 as health workers threaten to strike](https://baynews9.com/fl/tampa/health/2026/07/06/500-ebola-deaths-in-congo-500-health-workers-threaten-to-strike) | Spectrum Bay News 9 | 2026-07-06T16:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [African medical coalition urges coordinated action to contain Ebola outbreak](https://eastleighvoice.co.ke/index.php/africa/358598/african-medical-coalition-urges-coordinated-action-to-contain-ebola-outbreak) | The Eastleigh Voice | 2026-07-06T14:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak faces chaos as frontline workers threaten strike as death toll surpasses 500](https://www.independent.co.uk/news/world/africa/ebola-deaths-congo-healthcare-workers-strike-b3009761.html) | The Independent | 2026-07-06T14:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -462,6 +465,10 @@ Search window: 7 day(s) ending 2026-07-06
 - [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/351860/dr-congo-ebola-death-toll-hits-87-as-outbreak-strain-lacks-vaccine-poses-high-risk) | The Eastleigh Voice | 2026-07-05T09:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Turkana pilots innovative malaria intervention tool to combat seasonal outbreaks](https://eastleighvoice.co.ke/index.php/health/29329/turkana-pilots-innovative-malaria-intervention-tool-to-combat-seasonal-outbreaks) | The Eastleigh Voice | 2026-07-05T05:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/index.php/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) | The Eastleigh Voice | 2026-07-05T00:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa CDC declares Ebola outbreak public health emergency of continental security](https://eastleighvoice.co.ke/index.php/health/353019/africa-cdc-declares-ebola-outbreak-public-health-emergency-of-continental-security) | The Eastleigh Voice | 2026-07-04T22:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -510,6 +517,7 @@ Search window: 7 day(s) ending 2026-07-06
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
+- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
