@@ -1735,13 +1735,13 @@ def metric_patterns(metric_kind: str) -> list[str]:
     qualifier = r"(?P<qualifier>at least|more than|over|about|around|approximately|approx\.?|almost|nearly|close to)?\s*"
     if metric_kind == "cases":
         return [
-            rf"{qualifier}{number}\s+(?P<case_status>suspected|probable|confirmed|reported|total)?\s*(?:[a-z-]+\s+){{0,3}}cases?",
-            rf"{qualifier}{number}\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?P<case_status>suspected|probable|confirmed|reported|under investigation)",
-            rf"(?P<case_status>suspected|probable|confirmed|reported|total)\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?:(?:now|total(?:ing)?|reach(?:es|ed|ing)?|at|to|of)\s+){{0,2}}{qualifier}{number}",
+            rf"{qualifier}{number}\s+(?P<case_status>suspected|probable|laboratory-confirmed|confirmed|reported|total)?\s*(?:[a-z-]+\s+){{0,3}}cases?",
+            rf"{qualifier}{number}\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?P<case_status>suspected|probable|laboratory-confirmed|confirmed|reported|under investigation)",
+            rf"(?P<case_status>suspected|probable|laboratory-confirmed|confirmed|reported|total)\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?:(?:now|total(?:ing)?|reach(?:es|ed|ing)?|at|to|of)\s+){{0,2}}{qualifier}{number}",
             rf"cases?\s+(?:top|hit|rise(?:s)? to|climb(?:s)? to|reach(?:es)?|reaching|exceed(?:s)?|surpass(?:es)?)\s+{qualifier}{number}",
         ]
     return [
-        rf"{qualifier}{number}\s+(?:suspected\s+)?(?:deaths?|dead|fatalities)",
+        rf"{qualifier}{number}\s+(?:(?:suspected|probable|confirmed|reported|total|associated)\s+)?(?:deaths?|dead|fatalities)",
         rf"(?:deaths?|death toll|fatalities)\s+(?:top|hit|rise(?:s)? to|climb(?:s)? to|reach(?:es)?|reaching|exceed(?:s)?|surpass(?:es)?)\s+{qualifier}{number}",
         rf"{qualifier}{number}\s+associated deaths?",
     ]
@@ -1881,7 +1881,12 @@ def format_metric_value(qualifier: str, number: str) -> str:
 
 
 def case_metric_label(case_status: str) -> str:
-    status = normalize_whitespace(case_status).lower().replace("under investigation", "suspected")
+    status = (
+        normalize_whitespace(case_status)
+        .lower()
+        .replace("under investigation", "suspected")
+        .replace("laboratory-confirmed", "confirmed")
+    )
     labels = {
         "suspected": "Suspected cases",
         "probable": "Probable cases",
@@ -1897,7 +1902,7 @@ def metric_note_for_source(source: dict[str, str], metric_kind: str, metric_labe
     date_text = source.get("date") or "date not captured"
     source_status = source.get("source_status") or "Needs verification"
     subject = metric_note_subject(metric_kind, metric_label)
-    if source_status == "Official report":
+    if source_status in {"Official report", "Confirmed"} or source.get("source_kind") == "official":
         return f"Official-source {subject}; definitions may still change with case finding."
     if source_status == "Needs verification":
         return f"Observed in {source_name} ({date_text}); treat as not yet confirmed by this monitor."

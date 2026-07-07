@@ -130,7 +130,7 @@ def test_render_story_page_adds_outbreak_intelligence_layer():
             "preferred_url": "https://example.com/who",
             "publisher_name": "WHO Regional Office for Africa",
             "published_at": "2026-05-20T06:12+00:00",
-            "summary": "WHO received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone, Ituri Province, including reports of four health workers who died. Uganda subsequently confirmed two imported cases in Kampala. WHO determined the outbreak constituted a Public Health Emergency of International Concern.",
+            "summary": "WHO received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone, Ituri Province, including reports of four health workers who died. Uganda subsequently confirmed two imported cases in Kampala. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths, has been reported. WHO determined the outbreak constituted a Public Health Emergency of International Concern.",
             "link_quality": "wrapper_only",
             "source_confidence": "official_agency",
             "official": True,
@@ -167,8 +167,12 @@ def test_render_story_page_adds_outbreak_intelligence_layer():
 
     content = render_story_page(story, items_by_id, date(2026, 5, 20), datetime(2026, 5, 20, 21, 34))
     assert "Outbreak dashboard" in content
-    assert "About 395" in content
-    assert "<strong>106</strong>" in content
+    assert "<strong>1,048</strong>" in content
+    assert "<strong>267</strong>" in content
+    assert "Official-source confirmed-case count" in content
+    assert "Official-source death count" in content
+    assert "<strong>About 395</strong>" not in content
+    assert "<strong>106</strong>" not in content
     assert "<strong>At least 600</strong>" not in content
     assert "<strong>139</strong>" not in content
     assert "DRC; Uganda" in content
