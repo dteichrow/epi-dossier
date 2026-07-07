@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-06
-Generated at: 2026-07-06T18:17
+Generated at: 2026-07-06T18:27
 Search window: 7 day(s) ending 2026-07-06
 
 ## Executive scan
@@ -13,7 +13,7 @@ Search window: 7 day(s) ending 2026-07-06
 - [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
 - [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (113), Policy, surveillance, and public health infrastructure (5), Major epidemiology studies (4)
-- Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
+- Source health: 2 source(s) failed during collection: USDA APHIS Avian Influenza, California Department of Public Health News.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
