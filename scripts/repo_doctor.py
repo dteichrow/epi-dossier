@@ -42,14 +42,15 @@ REPO_REQUIRED_PATHS = {
 LIVE_ROUTES = {
     "epi-dossier": (
         "https://dteichrow.github.io/newsdesk/",
-        "https://dteichrow.github.io/newsdesk/app_exports/latest.json",
-        "https://dteichrow.github.io/newsdesk/stories/story_56666e9c6c86e976-ebola-virus-disease.html",
+        "https://dteichrow.github.io/app_exports/latest.json",
+        "https://dteichrow.github.io/stories/story_56666e9c6c86e976-ebola-virus-disease.html",
     ),
     "edge-site": (
         "https://dteichrow.github.io/",
         "https://dteichrow.github.io/essays/",
         "https://dteichrow.github.io/newsdesk/",
         "https://dteichrow.github.io/app_exports/latest.json",
+        "https://dteichrow.github.io/stories/story_56666e9c6c86e976-ebola-virus-disease.html",
     ),
 }
 
