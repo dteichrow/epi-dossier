@@ -57,8 +57,28 @@ jobs:
 
       - name: Install system tools
         run: |
+          set -euo pipefail
+
+          missing=()
+          command -v zsh >/dev/null 2>&1 || missing+=(zsh)
+          command -v rsync >/dev/null 2>&1 || missing+=(rsync)
+
+          if [ "${#missing[@]}" -eq 0 ]; then
+            echo "System tools already available: zsh rsync"
+            exit 0
+          fi
+
+          # The GitHub-hosted runner can ship third-party apt sources that are
+          # unrelated to this job. Keep those repos from breaking Newsdesk
+          # publishing when their metadata is temporarily invalid.
+          sudo find /etc/apt/sources.list.d \
+            -maxdepth 1 \
+            -type f \
+            \( -iname "*microsoft*" -o -iname "*azure-cli*" \) \
+            -print \
+            -delete
           sudo apt-get update
-          sudo apt-get install -y zsh rsync
+          sudo apt-get install -y --no-install-recommends "${missing[@]}"
 
       - name: Install epi-dossier dependencies
         run: |
