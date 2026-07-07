@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-07
-Generated at: 2026-07-07T16:47
+Generated at: 2026-07-07T16:57
 Search window: 7 day(s) ending 2026-07-07
 
 ## Executive scan
@@ -22,17 +22,17 @@ Search window: 7 day(s) ending 2026-07-07
 - Baseline snapshot created with 113 clustered item(s) across 73 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
-### COVID-19 and SARS-CoV-2
-- Lead item: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 5 item(s) across 3 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 3 source(s).
-- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
 ### Dengue and arboviruses
 - Lead item: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Magzter now explicitly uses investigation or monitoring language.
+
+### COVID-19 and SARS-CoV-2
+- Lead item: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search)
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
@@ -52,14 +52,6 @@ Search window: 7 day(s) ending 2026-07-07
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### COVID-19 and SARS-CoV-2
-- Topic size: 5 item(s) across 3 source(s); 5 official/primary-source item(s).
-- Lead item: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search, 2026-07-06T00:00)
-- Detailed note: The mean and 95% uncertainty limits (UL) for total LAR of lung, thyroid, esophagus, stomach, liver, breast and Leukemia were 90 (95% UL, 80 - 116), 24 (95% UL, 18 - 33), 32 (95% UL, 26-39), 9 (95% UL, 8-11), 5 (95% UL, 4-6), 217 (95% UL, 194-244) and 30 ( 95% UL, 10-101) per 100,000 persons, respectively. The excess cancer burdens from radiation in Fars are estimated at approximately 55 years for solid cancers...
-- Evidence notes: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search); [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) (PubMed Historical Pathogen Case Studies); [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today, 2026-07-07T20:51+00:00)
@@ -67,6 +59,14 @@ Search window: 7 day(s) ending 2026-07-07
 - Evidence notes: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today); [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Monsoon health alert: Doctor reveal early symptoms of malaria and dengue, warning signs and prevention tips](https://www.news9live.com/health/monsoon-alert-malaria-dengue-warning-signs-symptoms-treatment-prevention-2987022) (News9live)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search, 2026-07-06T00:00)
+- Detailed note: The mean and 95% uncertainty limits (UL) for total LAR of lung, thyroid, esophagus, stomach, liver, breast and Leukemia were 90 (95% UL, 80 - 116), 24 (95% UL, 18 - 33), 32 (95% UL, 26-39), 9 (95% UL, 8-11), 5 (95% UL, 4-6), 217 (95% UL, 194-244) and 30 ( 95% UL, 10-101) per 100,000 persons, respectively. The excess cancer burdens from radiation in Fars are estimated at approximately 55 years for solid cancers...
+- Evidence notes: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search); [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Chikungunya
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
@@ -393,32 +393,28 @@ Search window: 7 day(s) ending 2026-07-07
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### A historical overview of the anti-vaccine movement and its public health implications.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-02T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42391692/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Across distinct historical periods, including early smallpox vaccination, mid-20th-century vaccine controversies, the 1998 Wakefield publication, and the COVID-19 pandemic, recurring themes emerge. The COVID-19 pandemic marked a critical inflection point, with vaccine hesitancy becoming increasingly politicized and, in some cases, economically incentivized through monetized online content. This narrative historical review examines the evolution of vaccine hesitancy and anti-vaccine sentiment from the smallpox era to the COVID-19 pandemic.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026
+- Source: WHO Regional Office for Africa
+- Date: 2026-06-26T16:55+00:00
+- URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2
+- Category: Outbreaks and emerging infections
+- Summary: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has been reported across the three affected provinces of Ituri, North Kivu, and South Kivu. Publications orlunwop@who.int Fri, 26/06/2026 - 17:55 Event description Since the last update of 14 June 2026 (Situation Report #5), the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has continued to evolve, with cumulative incidence surpassing the milestone of 1000 laboratory-confirmed cases and the number of affected health zones continuing to increase.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-01T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42385127/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: The study integrates epidemiological data and contextual historical information such as crime statistics, archival records, and secondary scholarship to explore whether epidemic-driven mortality crises are associated with subsequent changes in violence and injury profiles. A comparison between epidemic and socio-economic profiles strongly suggests that the significant increases in violent crime recorded after the Covid-19 pandemic are highly localised, and may be more strongly related to lockdown responses, including alcohol restrictions, rather than the effects of disease itself. This paper explores historical and contemporary intersections between mass-mortality epidemics and violent crime in South Africa, focusing on four major epidemics - Spanish Flu, tuberculosis, HIV, and Covid-19.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
+- Source: Texas Department of State Health Services News
+- Date: Unknown
+- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) | WHO Regional Office for Africa | 2026-06-26T16:55+00:00 | Outbreaks and emerging infections
-  Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has been reported across the three affected provinces of Ituri, North Kivu, and South Kivu. Publications orlunwop@who.int Fri, 26/06/2026 - 17:55 Event description Since the last update of 14 June 2026 (Situation Report #5), the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has continued to evolve, with cumulative incidence surpassing the milestone of 1000 laboratory-confirmed cases and the number of affected health zones continuing to increase.
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
 - [Costa Rica: Chikungunya outbreak in Playa Langosta, Santa Cruz](https://outbreaknewstoday.substack.com/p/costa-rica-chikungunya-outbreak-in) | Outbreak News Today | 2026-07-07T21:17+00:00 | Outbreaks and emerging infections
   During epidemiological surveillance, 45 suspected cases were identified, and samples were taken for analysis. As a result, four cases were laboratory-confirmed, and another 17 are considered probable and are associated with the outbreak. From the moment the situation was detected, the MOH immediately activated epidemiological surveillance and vector control actions to contain the transmission of the virus and protect the health of people who reside, work or visit this community.
 - [Ebola Outbreak in Congo: Health Sector Faces New Challenges](https://www.devdiscourse.com/article/health/3946820-ebola-outbreak-in-congo-health-sector-faces-new-challenges) | Devdiscourse | 2026-07-07T21:00+00:00 | Outbreaks and emerging infections
@@ -455,6 +451,10 @@ Search window: 7 day(s) ending 2026-07-07
   Health officials in Lamu County have reported a cholera outbreak that has resulted in two deaths and affected 50 residents. More To Read Cholera outbreak kills 24 in Central African Republic Lamu makes history as first Kenyan county and African local authority to win global peace prize Bajuni elders give government 7-day ultimatum to reopen Lamu highway, threaten protests Intercommunal clashes add to warfare in western Sudan: UN Leaders demand probe after alleged assaults by armed men in Siyu, Lamu County High Court suspends Lamu night curfew pending determination of petition “Residents are urged to maintain high hygiene standards and promptly report any cholera cases or symptoms to the nearest health centre to prevent further spread of the disease,” Muhsin said. Reporting symptoms such as severe diarrhoea and vomiting immediately is vital for early treatment, which can significantly reduce the risk of severe illness and death.
 - [The number of deaths from Ebola in the DRC has exceeded 500](https://open.kg/en/news/in-the-world/108123-chislo-smertej-ot-jeboly-v-dr-kongo-prevysilo-500.html) | open.kg | 2026-07-06T08:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths](https://www.usnews.com/news/world/articles/2026-07-06/congo-says-confirmed-ebola-cases-rise-to-1-561-including-506-deaths) | U.S. News & World Report | 2026-07-06T05:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola deaths in DR Congo top 500 amid continued community transmission](https://www.chinadaily.com.cn/a/202607/06/WS6a4b0701a310986e2b463ab1.html) | China Daily | 2026-07-06T01:38+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/)
@@ -469,18 +469,6 @@ Search window: 7 day(s) ending 2026-07-07
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42405958/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42405958/
-- [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
-  Source: PubMed Historical Pathogen Case Studies
-  DOI: 10.1016/j.vaccine.2026.128903
-  Journal/preprint server: Vaccine
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42391692/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42391692/
-- [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/)
-  Source: PubMed Historical Pathogen Case Studies
-  DOI: 10.1080/17457300.2026.2689077
-  Journal/preprint server: International journal of injury control and safety promotion
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42385127/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42385127/
 - [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1007/s40201-026-00987-z
@@ -489,12 +477,8 @@ Search window: 7 day(s) ending 2026-07-07
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42404200/
 
 ## Historical epi / weird epi corner
-- [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) | PubMed Historical Pathogen Case Studies
-  Across distinct historical periods, including early smallpox vaccination, mid-20th-century vaccine controversies, the 1998 Wakefield publication, and the COVID-19 pandemic, recurring themes emerge. The COVID-19 pandemic marked a critical inflection point, with vaccine hesitancy becoming increasingly politicized and, in some cases, economically incentivized through monetized online content. This narrative historical review examines the evolution of vaccine hesitancy and anti-vaccine sentiment from the smallpox era to the COVID-19 pandemic.
-- [Syndemics, violence and injury: exploring historical relationships between infectious disease epidemics and violent crime in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42385127/) | PubMed Historical Pathogen Case Studies
-  The study integrates epidemiological data and contextual historical information such as crime statistics, archival records, and secondary scholarship to explore whether epidemic-driven mortality crises are associated with subsequent changes in violence and injury profiles. A comparison between epidemic and socio-economic profiles strongly suggests that the significant increases in violent crime recorded after the Covid-19 pandemic are highly localised, and may be more strongly related to lockdown responses, including alcohol restrictions, rather than the effects of disease itself. This paper explores historical and contemporary intersections between mass-mortality epidemics and violent crime in South Africa, focusing on four major epidemics - Spanish Flu, tuberculosis, HIV, and Covid-19.
+- No dedicated historical or paleopathology items stood out today.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
