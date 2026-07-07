@@ -6,6 +6,7 @@ on:
     branches:
       - main
     paths:
+      - ".github/workflows/newsdesk-public-publish.yml"
       - ".github/workflows/quality-gate.yml"
       - "OPERATIONS.md"
       - "README.md"

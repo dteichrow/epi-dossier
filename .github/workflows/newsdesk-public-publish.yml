@@ -10,8 +10,7 @@ on:
     branches:
       - main
     paths:
-      - ".github/workflows/newsdesk-public-publish.yml"
-      - "scripts/**"
+      - "scripts/publish_public_site.sh"
       - "src/**"
       - "requirements.txt"
       - "config/**"
