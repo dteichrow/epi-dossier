@@ -13,21 +13,21 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 141,
+    "metadata_only_count": 147,
     "sources_cached": 0,
     "sources_failed": 3,
-    "sources_live": 158,
-    "story_count_change": 5,
+    "sources_live": 163,
+    "story_count_change": 4,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 158,
+    "live": 163,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-07T14:47:07",
+  "generated_at": "2026-07-07T14:54:46",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
