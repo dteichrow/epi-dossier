@@ -94,3 +94,30 @@ jobs:
           github.event_name == 'push' ||
           github.event_name == 'schedule'
         run: .venv/bin/python src/public_publish.py
+
+      - name: Dispatch umbrella-site Newsdesk import
+        if: >-
+          success() &&
+          (
+            github.event_name == 'workflow_dispatch' ||
+            github.event_name == 'push' ||
+            github.event_name == 'schedule'
+          )
+        env:
+          GH_TOKEN: ${{ secrets.EOE_UMBRELLA_DISPATCH_TOKEN }}
+          UMBRELLA_REPO: dteichrow/dteichrow.github.io
+        run: |
+          set -euo pipefail
+
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "::notice title=Umbrella dispatch skipped::Set EOE_UMBRELLA_DISPATCH_TOKEN to trigger immediate dteichrow.github.io imports. The umbrella repo also runs a scheduled pull import."
+            exit 0
+          fi
+
+          gh api "repos/${UMBRELLA_REPO}/dispatches" \
+            --method POST \
+            -f event_type=newsdesk_published \
+            -f client_payload[source_repo]="${GITHUB_REPOSITORY}" \
+            -f client_payload[source_run_id]="${GITHUB_RUN_ID}" \
+            -f client_payload[source_sha]="${GITHUB_SHA}" \
+            -f client_payload[published_at]="$(date -u +%Y-%m-%dT%H:%M:%SZ)"

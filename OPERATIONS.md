@@ -24,7 +24,9 @@ python src/public_publish.py
 
 The GitHub Actions workflow `.github/workflows/newsdesk-public-publish.yml` runs the same guarded publisher on schedule, manual dispatch, and relevant pushes.
 
-Important boundary: this repository can generate and publish its own Newsdesk mirror. A full umbrella-site refresh depends on the public site repository being available to the publishing process. Do not assume this workflow alone updated every public route on `dteichrow.github.io`.
+Important boundary: this repository is the Newsdesk producer. It commits generated `docs/` output here, then asks `dteichrow/dteichrow.github.io` to import that output through an explicit `newsdesk_published` repository dispatch when `EOE_UMBRELLA_DISPATCH_TOKEN` is configured. The umbrella repo also runs a scheduled pull import, so the live site does not depend on a sibling checkout being present on the runner.
+
+The old local sibling-repo path remains a convenience for a Mac checkout that has both repositories side by side, but it is no longer the primary cloud publishing contract.
 
 ## Routine Health Check
 

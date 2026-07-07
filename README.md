@@ -139,6 +139,8 @@ The live public site is integrated into the broader Edge of Epidemiology umbrell
 - https://dteichrow.github.io/reference/
 - https://dteichrow.github.io/stories/
 
+Cloud publishing uses an explicit producer/consumer boundary. This repo publishes the Newsdesk artifact to its own `docs/` tree, then dispatches a `newsdesk_published` event to `dteichrow/dteichrow.github.io` when the `EOE_UMBRELLA_DISPATCH_TOKEN` secret is configured. The umbrella repo also pulls from `dteichrow/epi-dossier` on a schedule, so a missing local sibling checkout cannot strand the public site.
+
 ## Public Repo Hygiene
 
 This repository is public. Keep the tracked surface limited to code, source configuration, tests, public documentation, and generated public `docs/` output.

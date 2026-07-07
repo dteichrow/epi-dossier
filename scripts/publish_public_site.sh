@@ -257,7 +257,7 @@ push_newsdesk_mirror_commit() {
 
 publish_umbrella_newsdesk_mirror() {
   if [[ ! -d "$EDGE_REPO_ROOT/.git" ]]; then
-    echo "Skipping umbrella-site Newsdesk mirror because edge-of-epidemiology-site was not found."
+    echo "No local umbrella-site checkout found; dteichrow.github.io owns the scheduled and dispatched Newsdesk import."
     return 0
   fi
 
