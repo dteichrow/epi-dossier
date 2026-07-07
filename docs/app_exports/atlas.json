@@ -1422,7 +1422,15 @@
       "reference_name": "Malaria",
       "reference_url": "reference/malaria.html",
       "reference_web_path": "reference/malaria.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Malaria",
+          "latest_update_summary": "Baseline snapshot created with 6 clustered item(s) across 5 source(s).",
+          "story_id": "story_bd120a908eaabacf",
+          "story_url": "stories/story_bd120a908eaabacf-malaria.html",
+          "story_web_path": "stories/story_bd120a908eaabacf-malaria.html"
+        }
+      ],
       "route_count": 3,
       "slug": "malaria",
       "spread_routes": [
@@ -1491,7 +1499,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Anopheles ecologies, empire, labor, and the long retreat and return of a mosquito-borne world disease",
       "summary": "Malaria belongs in the atlas because it shows how vector ecology, land use, labor systems, altitude, war, and climate can redraw disease geography across centuries without one neat origin story doing all the work.",
       "variant_count": 0,
@@ -1817,6 +1825,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-07-06T17:47:20",
-  "run_id": "run_ced0594439e44124"
+  "generated_at": "2026-07-06T17:57:10",
+  "run_id": "run_35b32641cbc0fcaa"
 }
