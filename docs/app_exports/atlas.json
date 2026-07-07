@@ -770,15 +770,7 @@
       "reference_name": "Hantavirus syndrome",
       "reference_url": "reference/hantavirus-syndrome.html",
       "reference_web_path": "reference/hantavirus-syndrome.html",
-      "related_stories": [
-        {
-          "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "Baseline snapshot created with 19 clustered item(s) across 18 source(s).",
-          "story_id": "story_f6d225b01f3f7094",
-          "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
-          "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 2,
       "slug": "hantavirus",
       "spread_routes": [
@@ -826,7 +818,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Rodent-host lineages, hemorrhagic fever versus cardiopulmonary syndromes, and one crucial Andes-virus exception",
       "summary": "Hantaviruses belong in the atlas because they break the habit of pretending every pathogen has one clean human-travel route. The real map is rodent-host biogeography, ecological exposure settings, and the split between Old World hemorrhagic-fever viruses and New World cardiopulmonary viruses.",
       "variant_count": 3,
@@ -871,15 +863,7 @@
           "reference_name": "Hantavirus syndrome",
           "reference_url": "reference/hantavirus-syndrome.html",
           "reference_web_path": "reference/hantavirus-syndrome.html",
-          "related_stories": [
-            {
-              "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 19 clustered item(s) across 18 source(s).",
-              "story_id": "story_f6d225b01f3f7094",
-              "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
-              "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
-            }
-          ],
+          "related_stories": [],
           "route_count": 2,
           "slug": "hantaan-virus",
           "spread_routes": [
@@ -927,7 +911,7 @@
             }
           ],
           "status": "consensus",
-          "story_count": 1,
+          "story_count": 0,
           "subtitle": "Old World hemorrhagic fever with renal syndrome centered on Korean and northeast Asian rodent ecologies",
           "summary": "Hantaan virus is the classic Old World hantavirus frame and the right default for an encyclopedia view because it grounds the family in the hemorrhagic-fever geography that defined early recognition.",
           "variants": [],
@@ -999,15 +983,7 @@
           "reference_name": "Hantavirus syndrome",
           "reference_url": "reference/hantavirus-syndrome.html",
           "reference_web_path": "reference/hantavirus-syndrome.html",
-          "related_stories": [
-            {
-              "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 19 clustered item(s) across 18 source(s).",
-              "story_id": "story_f6d225b01f3f7094",
-              "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
-              "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
-            }
-          ],
+          "related_stories": [],
           "route_count": 2,
           "slug": "sin-nombre-virus",
           "spread_routes": [
@@ -1055,7 +1031,7 @@
             }
           ],
           "status": "consensus",
-          "story_count": 1,
+          "story_count": 0,
           "subtitle": "Four Corners emergence, deer-mouse ecology, and the New World cardiopulmonary turn",
           "summary": "Sin Nombre virus changed how many readers understand hantaviruses by making a rodent-borne ecological disease look suddenly emergent in the American Southwest.",
           "variants": [],
@@ -1127,15 +1103,7 @@
           "reference_name": "Hantavirus syndrome",
           "reference_url": "reference/hantavirus-syndrome.html",
           "reference_web_path": "reference/hantavirus-syndrome.html",
-          "related_stories": [
-            {
-              "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "Baseline snapshot created with 19 clustered item(s) across 18 source(s).",
-              "story_id": "story_f6d225b01f3f7094",
-              "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
-              "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
-            }
-          ],
+          "related_stories": [],
           "route_count": 2,
           "slug": "andes-virus",
           "spread_routes": [
@@ -1183,7 +1151,7 @@
             }
           ],
           "status": "mixed",
-          "story_count": 1,
+          "story_count": 0,
           "subtitle": "Southern cone rodent ecologies and the major person-to-person exception inside the hantavirus family",
           "summary": "Andes virus matters because it is the exception journalists remember, not the family baseline they should begin with.",
           "variants": [],
@@ -1857,6 +1825,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-07-07T14:39:49",
-  "run_id": "run_02638ddbbcbd0807"
+  "generated_at": "2026-07-07T14:47:06",
+  "run_id": "run_6f9fa82e1a1c1685"
 }
