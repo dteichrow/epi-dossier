@@ -4,23 +4,24 @@
     "major_publisher_families_seen": [
       "BBC",
       "New York Times",
-      "Reuters"
+      "Reuters",
+      "STAT"
     ],
-    "metadata_only_count": 102,
+    "metadata_only_count": 103,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 123,
+    "sources_live": 124,
     "story_count_change": 2,
     "wrapper_only_count": 1
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 123,
+    "live": 124,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-07T01:27:00",
+  "generated_at": "2026-07-07T01:37:07",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
