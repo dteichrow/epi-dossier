@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-07
-Generated at: 2026-07-07T09:07
+Generated at: 2026-07-07T09:17
 Search window: 7 day(s) ending 2026-07-07
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-07
 - [FDA outbreak investigation 1369: E. coli O157:H7 linked to Raw Cheddar Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
 - [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (124), Policy, surveillance, and public health infrastructure (5), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (123), Policy, surveillance, and public health infrastructure (5), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 116 item(s) across 74 source(s).
-- Baseline snapshot created with 116 clustered item(s) across 74 source(s).
+- Newly tracked story cluster: 115 item(s) across 72 source(s).
+- Baseline snapshot created with 115 clustered item(s) across 72 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -37,7 +37,7 @@ Search window: 7 day(s) ending 2026-07-07
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 116 item(s) across 74 source(s); 3 official/primary-source item(s).
+- Topic size: 115 item(s) across 72 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Death Toll in DR Congo Surpasses 500 as WHO Warns Outbreak Still Spreading](https://www.dawan.africa/news/ebola-death-toll-in-dr-congo-surpasses-500-as-who-warns-outbreak-still-spreading) (Dawan Africa); [More than 500 people have now died in the Ebola outbreak gripping the Democratic Republic of Congo, World Health Organization figures showed. | via ANC 24/7 Link to full story in the comments section.](https://www.facebook.com/abscbnNEWS/posts/more-than-500-people-have-now-died-in-the-ebola-outbreak-gripping-the-democratic/1583590307149553/) (facebook.com)
@@ -429,8 +429,6 @@ Search window: 7 day(s) ending 2026-07-07
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak exposes a fractured outbreak response system](https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/) | STAT | 2026-07-07T12:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Feature: In DR Congo's Kigonze camp, Ebola deals new blow to displaced families](https://english.news.cn/20260707/f836918302a54dd0821a00fae8f2917a/c.html) | Xinhua | 2026-07-07T10:04+00:00 | Outbreaks and emerging infections
-  "We estimate the population here at between 18,000 and 20,000 people, divided into 5,055 households," said Sijudose Etienne, president of the Kigonze displacement site. Health workers move briskly among newly built treatment facilities, while children carry yellow jerrycans of water and women prepare meals outside modest homes built for families who fled one crisis only to find themselves caught in another. The camp, he said, is split into three sectors and 73 blocks.
 - [Ebola Outbreak in Congo Still in ‘Expansion Phase’, WHO Says](https://english.aawsat.com/world/5293144-ebola-outbreak-congo-still-%E2%80%98expansion-phase%E2%80%99-who-says) | Asharq Al-Awsat English | 2026-07-07T09:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in Congo: A Growing Concern](https://www.devdiscourse.com/article/health/3946385-ebola-outbreak-in-congo-a-growing-concern) | Devdiscourse | 2026-07-07T09:05+00:00 | Outbreaks and emerging infections
@@ -453,6 +451,8 @@ Search window: 7 day(s) ending 2026-07-07
   Limited detail was available from feed metadata alone.
 - [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) | The Eastleigh Voice | 2026-07-06T11:20+00:00 | Outbreaks and emerging infections
   Health officials in Lamu County have reported a cholera outbreak that has resulted in two deaths and affected 50 residents. More To Read Cholera outbreak kills 24 in Central African Republic Lamu makes history as first Kenyan county and African local authority to win global peace prize Bajuni elders give government 7-day ultimatum to reopen Lamu highway, threaten protests Intercommunal clashes add to warfare in western Sudan: UN Leaders demand probe after alleged assaults by armed men in Siyu, Lamu County High Court suspends Lamu night curfew pending determination of petition “Residents are urged to maintain high hygiene standards and promptly report any cholera cases or symptoms to the nearest health centre to prevent further spread of the disease,” Muhsin said. Reporting symptoms such as severe diarrhoea and vomiting immediately is vital for early treatment, which can significantly reduce the risk of severe illness and death.
+- [DR Congo opens second Ebola treatment centre [Africanews Today]](https://www.africanews.com/2026/07/06/dr-congo-opens-second-ebola-treatment-centre-africanews-today/) | africanews.com | 2026-07-06T09:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) | Burma News International | 2026-07-06T09:37+00:00 | Outbreaks and emerging infections
   Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations. Burma News International (BNI) is a network of 15 independent media and news organizations based in and around Burma Community health volunteers in eastern Demoso Township, Karenni (Kayah) State, are struggling to contain a widespread malaria outbreak amid critical shortages of anti-malarial medication and severe logistical delays.
 
@@ -502,6 +502,5 @@ Search window: 7 day(s) ending 2026-07-07
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
