@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-07
-Generated at: 2026-07-07T12:47
+Generated at: 2026-07-07T12:57
 Search window: 7 day(s) ending 2026-07-07
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-07-07
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 111 item(s) across 71 source(s).
-- Baseline snapshot created with 111 clustered item(s) across 71 source(s).
+- Newly tracked story cluster: 111 item(s) across 72 source(s).
+- Baseline snapshot created with 111 clustered item(s) across 72 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -37,7 +37,7 @@ Search window: 7 day(s) ending 2026-07-07
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 111 item(s) across 71 source(s); 3 official/primary-source item(s).
+- Topic size: 111 item(s) across 72 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak in Congo still in ‘expansion phase’, WHO says](https://www.arabnews.pk/node/2650001/world) (Arab News PK); [Ebola Death Toll in DR Congo Surpasses 500 as WHO Warns Outbreak Still Spreading](https://www.dawan.africa/news/ebola-death-toll-in-dr-congo-surpasses-500-as-who-warns-outbreak-still-spreading) (Dawan Africa)
@@ -431,8 +431,6 @@ Search window: 7 day(s) ending 2026-07-07
   Limited detail was available from feed metadata alone.
 - [What if this Ebola outbreak can’t be stopped?](https://www.statnews.com/2026/07/07/ebola-outbreak-drc-uganda-endemic-control/) | STAT | 2026-07-07T08:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola death toll in DR Congo surpasses 500](https://www.aljazeera.com/news/2026/7/6/ebola-death-toll-in-dr-congo-surpasses-500) | Al Jazeera | 2026-07-07T04:37+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Russia’s Rospotrebnadzor Helps DRC, Uganda To Contain Ebola Outbreak – OpEd](https://www.eurasiareview.com/07072026-russias-rospotrebnadzor-helps-drc-uganda-to-contain-ebola-outbreak-oped/) | Eurasia Review | 2026-07-06T22:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.france24.com/en/africa/20260706-death-toll-from-dr-congo-ebola-outbreak-passes-500-as-healthcare-workers-threaten-strike) | France 24 | 2026-07-06T16:20+00:00 | Outbreaks and emerging infections
@@ -454,6 +452,8 @@ Search window: 7 day(s) ending 2026-07-07
 - [DR Congo Ebola death toll hits 87 as outbreak strain lacks vaccine, poses high risk](https://eastleighvoice.co.ke/index.php/democratic-republic-of-congo/351860/dr-congo-ebola-death-toll-hits-87-as-outbreak-strain-lacks-vaccine-poses-high-risk) | The Eastleigh Voice | 2026-07-05T09:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya protests Israel’s Ebola-linked travel ban, citing zero cases and regional health leadership](https://eastleighvoice.co.ke/index.php/health/368134/kenya-protests-israels-ebola-linked-travel-ban-citing-zero-cases-and-regional-health-leadership) | The Eastleigh Voice | 2026-07-05T00:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa CDC declares Ebola outbreak public health emergency of continental security](https://eastleighvoice.co.ke/index.php/health/353019/africa-cdc-declares-ebola-outbreak-public-health-emergency-of-continental-security) | The Eastleigh Voice | 2026-07-04T22:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -502,5 +502,6 @@ Search window: 7 day(s) ending 2026-07-07
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
+- Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
