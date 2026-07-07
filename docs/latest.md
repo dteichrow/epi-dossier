@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-07
-Generated at: 2026-07-07T11:07
+Generated at: 2026-07-07T11:17
 Search window: 7 day(s) ending 2026-07-07
 
 ## Executive scan
@@ -429,7 +429,7 @@ Search window: 7 day(s) ending 2026-07-07
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo still spreading, WHO says](https://www.reuters.com/world/africa/ebola-outbreak-congo-still-expansion-phase-who-says-2026-07-07/) | Reuters | 2026-07-07T13:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak exposes a fractured outbreak response system](https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/) | STAT | 2026-07-07T12:07+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak exposes a fractured outbreak response system](https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/) | STAT | 2026-07-07T12:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in Congo: A Growing Concern](https://www.devdiscourse.com/article/health/3946385-ebola-outbreak-in-congo-a-growing-concern) | Devdiscourse | 2026-07-07T09:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
