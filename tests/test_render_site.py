@@ -167,8 +167,10 @@ def test_render_story_page_adds_outbreak_intelligence_layer():
 
     content = render_story_page(story, items_by_id, date(2026, 5, 20), datetime(2026, 5, 20, 21, 34))
     assert "Outbreak dashboard" in content
-    assert "At least 600" in content
-    assert "139" in content
+    assert "About 395" in content
+    assert "<strong>106</strong>" in content
+    assert "<strong>At least 600</strong>" not in content
+    assert "<strong>139</strong>" not in content
     assert "DRC; Uganda" in content
     assert "WHO PHEIC declared" in content
     assert "Ebola viruses, including Bundibugyo virus" in content
@@ -185,7 +187,7 @@ def test_render_story_page_adds_outbreak_intelligence_layer():
     assert 'data-story-filter="intel-category"' in content
 
 
-def test_render_story_dashboard_prefers_newer_case_count_over_stale_who_quote():
+def test_render_story_dashboard_does_not_promote_media_only_counts():
     story = {
         "display_title": "Ebola virus disease",
         "lead_title": "Ebola outbreak updates",
@@ -231,14 +233,15 @@ def test_render_story_dashboard_prefers_newer_case_count_over_stale_who_quote():
 
     content = render_story_page(story, items_by_id, date(2026, 5, 22), datetime(2026, 5, 22, 18, 30))
 
-    assert "Suspected cases" in content
-    assert "<strong>750</strong>" in content
-    assert "<strong>177</strong>" in content
+    assert "<strong>Not yet confirmed</strong>" in content
+    assert "does not have an official or report-grade total" in content
+    assert "<strong>750</strong>" not in content
+    assert "<strong>177</strong>" not in content
     assert "600</strong>" not in content
     assert "139</strong>" not in content
 
 
-def test_render_story_dashboard_prefers_precise_recent_counts_over_threshold_shorthand():
+def test_render_story_dashboard_blocks_precise_media_counts_too():
     story = {
         "display_title": "Ebola virus disease",
         "lead_title": "Ebola outbreak updates",
@@ -298,8 +301,9 @@ def test_render_story_dashboard_prefers_precise_recent_counts_over_threshold_sho
 
     content = render_story_page(story, items_by_id, date(2026, 6, 27), datetime(2026, 6, 27, 16, 30))
 
-    assert "<strong>1,203</strong>" in content
-    assert "<strong>321</strong>" in content
+    assert "<strong>Not yet confirmed</strong>" in content
+    assert "<strong>1,203</strong>" not in content
+    assert "<strong>321</strong>" not in content
     assert "<strong>Over 1,200</strong>" not in content
     assert "<strong>Over 300</strong>" not in content
 

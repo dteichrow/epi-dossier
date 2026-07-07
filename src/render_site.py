@@ -1670,14 +1670,25 @@ def infer_outbreak_metric(story: dict[str, Any], items: list[dict[str, Any]], me
                         "metric_label": metric_label,
                     }
                 )
-    if candidates:
-        selected = select_metric_candidate(candidates)
+    authoritative_candidates = [candidate for candidate in candidates if metric_candidate_is_dashboard_authoritative(candidate)]
+    if authoritative_candidates:
+        selected = select_metric_candidate(authoritative_candidates)
         value = selected["value"]
         source = selected["source"]
         metric_label = selected["metric_label"]
         result = {"value": value, "note": metric_note_for_source(source, metric_kind, metric_label)}
         if metric_kind == "cases":
             result["label"] = metric_label or "Cases"
+        return result
+    if candidates:
+        note = (
+            "Media or preliminary reports mention case counts, but this monitor does not have an official or report-grade total."
+            if metric_kind == "cases"
+            else "Media or preliminary reports mention deaths, but this monitor does not have an official or report-grade total."
+        )
+        result = {"value": "Not yet confirmed", "note": note}
+        if metric_kind == "cases":
+            result["label"] = "Cases"
         return result
     fallback = "Unknown"
     note = (
@@ -1710,6 +1721,15 @@ def select_metric_candidate(candidates: list[dict[str, Any]]) -> dict[str, Any]:
     )
 
 
+def metric_candidate_is_dashboard_authoritative(candidate: dict[str, Any]) -> bool:
+    source = candidate.get("source", {})
+    source_status = source.get("source_status", "")
+    source_kind = source.get("source_kind", "")
+    if source_status in {"Official report", "Confirmed"}:
+        return True
+    return source_kind == "official"
+
+
 def metric_patterns(metric_kind: str) -> list[str]:
     number = r"(?P<number>\d[\d,]*)"
     qualifier = r"(?P<qualifier>at least|more than|over|about|around|approximately|approx\.?|almost|nearly|close to)?\s*"
@@ -1717,7 +1737,7 @@ def metric_patterns(metric_kind: str) -> list[str]:
         return [
             rf"{qualifier}{number}\s+(?P<case_status>suspected|probable|confirmed|reported|total)?\s*(?:[a-z-]+\s+){{0,3}}cases?",
             rf"{qualifier}{number}\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?P<case_status>suspected|probable|confirmed|reported|under investigation)",
-            rf"(?P<case_status>suspected|probable|confirmed|reported|total)\s+(?:[a-z-]+\s+){{0,4}}cases?\D{{0,24}}{qualifier}{number}",
+            rf"(?P<case_status>suspected|probable|confirmed|reported|total)\s+(?:[a-z-]+\s+){{0,4}}cases?\s+(?:(?:now|total(?:ing)?|reach(?:es|ed|ing)?|at|to|of)\s+){{0,2}}{qualifier}{number}",
             rf"cases?\s+(?:top|hit|rise(?:s)? to|climb(?:s)? to|reach(?:es)?|reaching|exceed(?:s)?|surpass(?:es)?)\s+{qualifier}{number}",
         ]
     return [
