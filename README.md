@@ -114,6 +114,17 @@ Run tests:
 pytest
 ```
 
+## Operational Health
+
+Use the repo doctor before publish work or after a failed automation run:
+
+```bash
+python scripts/repo_doctor.py
+python scripts/repo_doctor.py --json
+```
+
+The operational runbook is in [OPERATIONS.md](OPERATIONS.md). It defines the source-of-truth files, publish boundary, stale-site triage path, generated-file policy, and manual live checks.
+
 ## Public Workflow
 
 The project can publish generated `docs/` output to GitHub Pages, but the guarded publish path refuses to auto-publish when the repository has unsafe non-generated edits.
