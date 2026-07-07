@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-07
-Generated at: 2026-07-07T09:27
+Generated at: 2026-07-07T09:37
 Search window: 7 day(s) ending 2026-07-07
 
 ## Executive scan
@@ -27,6 +27,12 @@ Search window: 7 day(s) ending 2026-07-07
 - Newly tracked story cluster: 5 item(s) across 3 source(s).
 - Baseline snapshot created with 5 clustered item(s) across 3 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
+
+### Dengue and arboviruses
+- Lead item: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Magzter now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
@@ -55,26 +61,26 @@ Search window: 7 day(s) ending 2026-07-07
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter, 2026-06-29T06:16+00:00)
 - Detailed note: Most cases are mild to moderate. A smaller share progress to severe dengue, which is the phase that requires hospital monitoring and, occasionally, intensive care. By signing in or creating an account, you agree with Associated Broadcasting Company's Terms & Conditions and Privacy Policy .
-- Evidence notes: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Monsoon health alert: Doctor reveal early symptoms of malaria and dengue, warning signs and prevention tips](https://www.news9live.com/health/monsoon-alert-malaria-dengue-warning-signs-symptoms-treatment-prevention-2987022) (News9live)
+- Evidence notes: [DENGUE: SYMPTOMS, WARNING SIGNS AND PREVENTION | Daily Mirror - Sri Lanka](https://www.magzter.com/stories/newspaper/Daily-Mirror-Sri-Lanka/DENGUE-SYMPTOMS-WARNING-SIGNS-AND-PREVENTION) (Magzter); [Monsoon health alert: Doctor reveal early symptoms of malaria and dengue, warning signs and prevention tips](https://www.news9live.com/health/monsoon-alert-malaria-dengue-warning-signs-symptoms-treatment-prevention-2987022) (News9live); [Sri Lanka National Dengue Control Unit: Current Status of Dengue in Sri Lanka (As of 02.07.2026 midnight)](https://reliefweb.int/report/sri-lanka/sri-lanka-national-dengue-control-unit-current-status-dengue-sri-lanka-02072026-midnight) (ReliefWeb)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Measles transmission and vaccination
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) (The Indian Awaaz, 2026-07-06T17:17+00:00)
-- Detailed note: According to MSF, the first suspected case of measles was identified on February 26, 2024, and since then, there have been 100 suspected and 10 confirmed measles cases in the camp. They noted that since February, seven deaths among children under five and 460 cases have been recorded from March 24, in three health facilities in Yambio and Nzara counties. It showed 87% borrowed money, 47% exhausted savings, and...
-- Evidence notes: [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) (The Indian Awaaz); [Measles outbreak in Dagahaley Refugee Camp calls for urgent response](https://eastleighvoice.co.ke/index.php/health/29434/measles-outbreak-in-dagahaley-refugee-camp-calls-for-urgent-response) (The Eastleigh Voice)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cholera
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) (The Eastleigh Voice, 2026-07-06T11:20+00:00)
 - Detailed note: Health officials in Lamu County have reported a cholera outbreak that has resulted in two deaths and affected 50 residents. Latest Stories South Africa rejects Nigeria’s claims linking Nigerian man's death to anti-migrant protests Kylian Mbappé faces legal threat from Paraguayan senator over 'despicable woman' remark MSF seeks SHA funding for analogue insulin pens to improve diabetes treatment 10 arrested in...
 - Evidence notes: [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) (The Eastleigh Voice)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+
+### Malaria
+- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
+- Lead item: [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) (Burma News International, 2026-07-06T09:37+00:00)
+- Detailed note: Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations.
+- Evidence notes: [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) (Burma News International)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -437,8 +443,6 @@ Search window: 7 day(s) ending 2026-07-07
   Limited detail was available from feed metadata alone.
 - [Russia’s Rospotrebnadzor Helps DRC, Uganda To Contain Ebola Outbreak – OpEd](https://www.eurasiareview.com/07072026-russias-rospotrebnadzor-helps-drc-uganda-to-contain-ebola-outbreak-oped/) | Eurasia Review | 2026-07-06T22:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Measles outbreak pushes Bangladesh families into debt, joblessness](https://theindianawaaz.com/measles-outbreak-pushes-bangladesh-families-into-debt-joblessness/) | The Indian Awaaz | 2026-07-06T17:17+00:00 | Outbreaks and emerging infections
-  It showed 87% borrowed money, 47% exhausted savings, and over 93% relied on informal jobs earning Tk6,000–Tk15,000 monthly before illness forced work stoppage. A joint Bangladesh Red Crescent Society (BDRCS) and IFRC assessment across 12 hospitals found every surveyed family needed financial support. The family has already spent nearly Tk80,000 through loans and selling belongings.
 - [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.france24.com/en/africa/20260706-death-toll-from-dr-congo-ebola-outbreak-passes-500-as-healthcare-workers-threaten-strike) | France 24 | 2026-07-06T16:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [African medical coalition urges coordinated action to contain Ebola outbreak](https://eastleighvoice.co.ke/index.php/africa/358598/african-medical-coalition-urges-coordinated-action-to-contain-ebola-outbreak) | The Eastleigh Voice | 2026-07-06T14:54+00:00 | Outbreaks and emerging infections
@@ -449,6 +453,8 @@ Search window: 7 day(s) ending 2026-07-07
   Health officials in Lamu County have reported a cholera outbreak that has resulted in two deaths and affected 50 residents. Latest Stories South Africa rejects Nigeria’s claims linking Nigerian man's death to anti-migrant protests Kylian Mbappé faces legal threat from Paraguayan senator over 'despicable woman' remark MSF seeks SHA funding for analogue insulin pens to improve diabetes treatment 10 arrested in Nairobi as police clamp down on Saba Saba protests He added that more than 50 people have been confirmed to be affected by the disease in Witu Ward alone. More To Read Cholera outbreak kills 24 in Central African Republic Lamu makes history as first Kenyan county and African local authority to win global peace prize Bajuni elders give government 7-day ultimatum to reopen Lamu highway, threaten protests Intercommunal clashes add to warfare in western Sudan: UN Leaders demand probe after alleged assaults by armed men in Siyu, Lamu County High Court suspends Lamu night curfew pending determination of petition “Residents are urged to maintain high hygiene standards and promptly report any cholera cases or symptoms to the nearest health centre to prevent further spread of the disease,” Muhsin said.
 - [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) | Burma News International | 2026-07-06T09:37+00:00 | Outbreaks and emerging infections
   Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations. Burma News International (BNI) is a network of 15 independent media and news organizations based in and around Burma Community health volunteers in eastern Demoso Township, Karenni (Kayah) State, are struggling to contain a widespread malaria outbreak amid critical shortages of anti-malarial medication and severe logistical delays.
+- [The number of deaths from Ebola in the DRC has exceeded 500](https://open.kg/en/news/in-the-world/108123-chislo-smertej-ot-jeboly-v-dr-kongo-prevysilo-500.html) | open.kg | 2026-07-06T08:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/)
