@@ -10,21 +10,21 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 117,
+    "metadata_only_count": 112,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 138,
-    "story_count_change": 3,
+    "sources_live": 132,
+    "story_count_change": 2,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 138,
+    "live": 132,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-07T06:57:04",
+  "generated_at": "2026-07-07T07:07:04",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
