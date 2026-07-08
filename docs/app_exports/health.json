@@ -2,43 +2,31 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "ABC News",
       "Associated Press",
-      "CBS News",
       "CIDRAP",
       "New York Times",
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 120,
+    "metadata_only_count": 103,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 134,
-    "story_count_change": 3,
-    "wrapper_only_count": 4
+    "sources_failed": 2,
+    "sources_live": 118,
+    "story_count_change": 2,
+    "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 134,
+    "live": 118,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-08T13:40:39",
+  "generated_at": "2026-07-08T13:46:58",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
       "source": "CDC Current Outbreak List",
-      "source_type": "html_list"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
     },
     {
