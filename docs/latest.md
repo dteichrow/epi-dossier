@@ -1,9 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T03:56
+Generated at: 2026-07-08T04:06
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
+- [Integrative profiling of oral fungal communities across Mycobacterium Tuberculosis burden groups in Xpert-positive patients.](https://pubmed.ncbi.nlm.nih.gov/42415599/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies; 2026-07-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-06T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
@@ -11,8 +12,7 @@ Search window: 7 day(s) ending 2026-07-08
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
-- [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (111), Policy, surveillance, and public health infrastructure (8), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (111), Policy, surveillance, and public health infrastructure (7), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -21,12 +21,6 @@ Search window: 7 day(s) ending 2026-07-08
 - Newly tracked story cluster: 107 item(s) across 62 source(s).
 - Baseline snapshot created with 107 clustered item(s) across 62 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
-### COVID-19 and SARS-CoV-2
-- Lead item: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 4 item(s) across 3 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
-- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
 - Lead item: [Faridabad on Alert After Dengue, Malaria Cases; Anti-Larval Drive Intensified](https://www.punjabnewsline.com/news/faridabad-on-alert-after-dengue-malaria-cases-anti-larval-drive-intensified) (Punjab Newsline)
@@ -51,20 +45,12 @@ Search window: 7 day(s) ending 2026-07-08
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 6 item(s) across 2 source(s); 6 official/primary-source item(s).
+- Topic size: 5 item(s) across 2 source(s); 5 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks, 2026-07-06T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks); [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### COVID-19 and SARS-CoV-2
-- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
-- Lead item: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search, 2026-07-06T00:00)
-- Detailed note: The mean and 95% uncertainty limits (UL) for total LAR of lung, thyroid, esophagus, stomach, liver, breast and Leukemia were 90 (95% UL, 80 - 116), 24 (95% UL, 18 - 33), 32 (95% UL, 26-39), 9 (95% UL, 8-11), 5 (95% UL, 4-6), 217 (95% UL, 194-244) and 30 ( 95% UL, 10-101) per 100,000 persons, respectively. The excess cancer burdens from radiation in Fars are estimated at approximately 55 years for solid cancers...
-- Evidence notes: [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search); [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) (PubMed Historical Pathogen Case Studies); [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/) (PubMed Infectious Disease Search); [Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (CDC Current Outbreak List)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
@@ -80,6 +66,14 @@ Search window: 7 day(s) ending 2026-07-08
 - Detailed note: It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas.
 - Evidence notes: [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies); [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
+### Tuberculosis and antimicrobial resistance
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
+- Lead item: [Integrative profiling of oral fungal communities across Mycobacterium Tuberculosis burden groups in Xpert-positive patients.](https://pubmed.ncbi.nlm.nih.gov/42415599/) (PubMed Infectious Disease Search, 2026-07-08T00:00)
+- Detailed note: In this prospective multicenter cohort study (May-August 2024), 278 Xpert-positive TB patients were enrolled across five hospitals in China. Notably, MaAsLin 2 analysis confirmed that Penicillium and Podosphaera were independently associated with lower Mtb burden after adjusting for confounders.
+- Evidence notes: [Integrative profiling of oral fungal communities across Mycobacterium Tuberculosis burden groups in Xpert-positive patients.](https://pubmed.ncbi.nlm.nih.gov/42415599/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Cholera
@@ -319,6 +313,16 @@ Search window: 7 day(s) ending 2026-07-08
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### Integrative profiling of oral fungal communities across Mycobacterium Tuberculosis burden groups in Xpert-positive patients.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-07-08T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42415599/
+- Category: Major epidemiology studies
+- Summary: In this prospective multicenter cohort study (May-August 2024), 278 Xpert-positive TB patients were enrolled across five hospitals in China. Notably, MaAsLin 2 analysis confirmed that Penicillium and Podosphaera were independently associated with lower Mtb burden after adjusting for confounders. Oral fungal profiles were characterized via ITS sequencing, followed by taxonomic assignment, diversity analysis, and multivariable association testing (MaAsLin 2) to identify robust biomarkers.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-07T00:00
@@ -389,16 +393,6 @@ Search window: 7 day(s) ending 2026-07-08
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-07-06T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42405958/
-- Category: Major epidemiology studies
-- Summary: We summarize the mechanisms and clinical relevance of licensed and advanced adjuvants, including alum, MF59, AS01/AS04, saponins, toll-like receptor agonists, and lipid nanoparticles, with emphasis on influenza, HPV, herpes zoster, and COVID-19 vaccines. By linking immunological mechanisms with delivery engineering and predictive modeling, this review highlights rational strategies to support safer and more effective human vaccines. While classical adjuvants such as aluminum salts and oil-in-water emulsions have enabled the success of many licensed vaccines, their largely empirical design limits adaptability to emerging pathogens and population-specific needs.
-- Why it matters: Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-04T00:00
@@ -409,20 +403,18 @@ Search window: 7 day(s) ending 2026-07-08
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### A historical overview of the anti-vaccine movement and its public health implications.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-02T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42391692/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Across distinct historical periods, including early smallpox vaccination, mid-20th-century vaccine controversies, the 1998 Wakefield publication, and the COVID-19 pandemic, recurring themes emerge. The COVID-19 pandemic marked a critical inflection point, with vaccine hesitancy becoming increasingly politicized and, in some cases, economically incentivized through monetized online content. This narrative historical review examines the evolution of vaccine hesitancy and anti-vaccine sentiment from the smallpox era to the COVID-19 pandemic.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026
+- Source: WHO Regional Office for Africa
+- Date: 2026-06-26T16:55+00:00
+- URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2
+- Category: Outbreaks and emerging infections
+- Summary: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has been reported across the three affected provinces of Ituri, North Kivu, and South Kivu. Publications orlunwop@who.int Fri, 26/06/2026 - 17:55 Event description Since the last update of 14 June 2026 (Situation Report #5), the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has continued to evolve, with cumulative incidence surpassing the milestone of 1000 laboratory-confirmed cases and the number of affected health zones continuing to increase.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) | WHO Regional Office for Africa | 2026-06-26T16:55+00:00 | Outbreaks and emerging infections
-  Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has been reported across the three affected provinces of Ituri, North Kivu, and South Kivu. Publications orlunwop@who.int Fri, 26/06/2026 - 17:55 Event description Since the last update of 14 June 2026 (Situation Report #5), the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has continued to evolve, with cumulative incidence surpassing the milestone of 1000 laboratory-confirmed cases and the number of affected health zones continuing to increase.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola confirmed caseload tops 1,700 as WHO says outbreak still intensifying](https://myrepublica.nagariknetwork.com/news/dr-congo-ebola-confirmed-caseload-tops-1700-as-who-says-outbreak-still-inte-25-83.html) | myRepublica | 2026-07-08T10:25+00:00 | Outbreaks and emerging infections
@@ -461,8 +453,16 @@ Search window: 7 day(s) ending 2026-07-08
   Cholera outbreak kills 24 in Central African Republic To prevent the spread of cholera, residents have been urged to ensure water safety by boiling or treating it with chlorine or other disinfectants. Continue with a related story, or tap the speaker icon on the next page to listen. Limited detail was available from feed metadata alone.
 - [DR Congo opens second Ebola treatment centre [Africanews Today]](https://www.africanews.com/2026/07/06/dr-congo-opens-second-ebola-treatment-centre-africanews-today/) | africanews.com | 2026-07-06T09:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [The number of deaths from Ebola in the DRC has exceeded 500](https://open.kg/en/news/in-the-world/108123-chislo-smertej-ot-jeboly-v-dr-kongo-prevysilo-500.html) | open.kg | 2026-07-06T08:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [Integrative profiling of oral fungal communities across Mycobacterium Tuberculosis burden groups in Xpert-positive patients.](https://pubmed.ncbi.nlm.nih.gov/42415599/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/07853890.2026.2698284
+  Journal/preprint server: Annals of medicine
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42415599/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42415599/
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1038/s41598-026-39899-1
@@ -475,47 +475,22 @@ Search window: 7 day(s) ending 2026-07-08
   Journal/preprint server: Emerging microbes & infections
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42405907/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42405907/
-- [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2684345
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42405958/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42405958/
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1186/s12866-026-05366-0
   Journal/preprint server: BMC microbiology
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42401834/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42401834/
-- [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/)
-  Source: PubMed Historical Pathogen Case Studies
-  DOI: 10.1016/j.vaccine.2026.128903
-  Journal/preprint server: Vaccine
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42391692/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42391692/
-- [Impaired fasting glucose is comparable to diabetes mellitus in predicting mortality and cardiovascular events in patients undergoing peritoneal dialysis: the role of β-cell function and insulin resistance.](https://pubmed.ncbi.nlm.nih.gov/42402705/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/0886022X.2026.2692758
-  Journal/preprint server: Renal failure
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42402705/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42402705/
-- [Projection of lifetime cancer risk from high-resolution chest CT using the LAR model in Fars Province, Iran, during the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42404200/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1007/s40201-026-00987-z
-  Journal/preprint server: Journal of environmental health science & engineering
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42404200/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42404200/
 
 ## Historical epi / weird epi corner
+- [Integrative profiling of oral fungal communities across Mycobacterium Tuberculosis burden groups in Xpert-positive patients.](https://pubmed.ncbi.nlm.nih.gov/42415599/) | PubMed Infectious Disease Search
+  In this prospective multicenter cohort study (May-August 2024), 278 Xpert-positive TB patients were enrolled across five hospitals in China. Notably, MaAsLin 2 analysis confirmed that Penicillium and Podosphaera were independently associated with lower Mtb burden after adjusting for confounders. Oral fungal profiles were characterized via ITS sequencing, followed by taxonomic assignment, diversity analysis, and multivariable association testing (MaAsLin 2) to identify robust biomarkers.
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) | PubMed Historical Pathogen Case Studies
   The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
-- [A historical overview of the anti-vaccine movement and its public health implications.](https://pubmed.ncbi.nlm.nih.gov/42391692/) | PubMed Historical Pathogen Case Studies
-  Across distinct historical periods, including early smallpox vaccination, mid-20th-century vaccine controversies, the 1998 Wakefield publication, and the COVID-19 pandemic, recurring themes emerge. The COVID-19 pandemic marked a critical inflection point, with vaccine hesitancy becoming increasingly politicized and, in some cases, economically incentivized through monetized online content. This narrative historical review examines the evolution of vaccine hesitancy and anti-vaccine sentiment from the smallpox era to the COVID-19 pandemic.
 
 ## Possible blog/video angles
-- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
