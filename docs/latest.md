@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T01:46
+Generated at: 2026-07-08T01:57
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
@@ -433,8 +433,6 @@ Search window: 7 day(s) ending 2026-07-08
   With the monsoon season increasing the risk of mosquito-borne diseases, the department has launched a special anti-larval campaign across the district. During the ongoing drive, larvae were found at several locations, prompting the department to issue notices to 10 residents for failing to prevent mosquito breeding. Health authorities also warned that strict action may be taken against those who fail to maintain cleanliness and allow mosquito breeding in their premises.
 - [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) | Outbreak News Today | 2026-07-07T20:51+00:00 | Outbreaks and emerging infections
   The total cases since the beginning of the year is now 62,422 with Colombo and Gampaha districts reporting the most with 12,663 and 12,582 cases, respectively. Large epidemics were recorded in 2002, 2004, 2009, 2017, and 2019. The largest outbreak in Sri Lankan history occurred in 2017, with more than 186,000 reported dengue cases nationally.
-- [Ebola outbreak in Congo still in ‘expansion phase’, WHO says](https://www.cnbcafrica.com/2026/ebola-outbreak-in-congo-still-in-expansion-phase-who-says/) | CNBC Africa | 2026-07-07T18:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola Death Toll in DR Congo Surpasses 500 as WHO Warns Outbreak Still Spreading](https://www.dawan.africa/news/ebola-death-toll-in-dr-congo-surpasses-500-as-who-warns-outbreak-still-spreading) | Dawan Africa | 2026-07-07T16:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa Has Faced a Rare Ebola Outbreak for Months. Here’s What to Know.](https://www.cfr.org/articles/africa-has-faced-a-rare-ebola-outbreak-for-months-heres-what-to-know) | Council on Foreign Relations | 2026-07-07T15:38+00:00 | Outbreaks and emerging infections
@@ -446,6 +444,8 @@ Search window: 7 day(s) ending 2026-07-08
 - [Ebola outbreak exposes a fractured outbreak response system](https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/) | STAT | 2026-07-07T12:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo still expanding, not stabilized, WHO official says](https://www.jpost.com/international/article-901732) | The Jerusalem Post | 2026-07-07T10:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak in Congo Still in ‘Expansion Phase’, WHO Says](https://english.aawsat.com/world/5293144-ebola-outbreak-congo-still-%E2%80%98expansion-phase%E2%80%99-who-says) | Asharq Al-Awsat English | 2026-07-07T09:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What if this Ebola outbreak can’t be stopped?](https://www.statnews.com/2026/07/07/ebola-outbreak-drc-uganda-endemic-control/) | STAT | 2026-07-07T08:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
