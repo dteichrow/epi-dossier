@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T14:17
+Generated at: 2026-07-08T14:27
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
@@ -12,14 +12,13 @@ Search window: 7 day(s) ending 2026-07-08
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) (PubMed Historical Pathogen Case Studies; 2026-07-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa; 2026-06-26T16:55+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (112), Policy, surveillance, and public health infrastructure (3), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (111), Policy, surveillance, and public health infrastructure (3), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- New publisher/source coverage joined this story cluster: Deseret News, 巴士的報.
-- Story volume increased from 103 to 105 clustered item(s) in the current window.
+- New publisher/source coverage joined this story cluster: MedPage Today.
 - 1 newly observed linked item(s) were added since the last saved snapshot.
 
 
@@ -33,11 +32,11 @@ Search window: 7 day(s) ending 2026-07-08
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 5 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks, 2026-07-06T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [Safety monitoring of bivalent, quadrivalent, and 9-valent human papillomavirus vaccination in Japan: The vaccine effectiveness, networking, and universal safety (VENUS) study.](https://pubmed.ncbi.nlm.nih.gov/42415471/) (PubMed Infectious Disease Search); [New Mexico Confirms Three Cyclospora Cases Amid National Summer Parasite Outbreak: What Otero County Residents Should Know - 2nd Life Media Alamogordo Town News](https://2ndlifemediaalamogordo.town.news/g/alamogordo-nm/n/381055/new-mexico-confirms-three-cyclospora-cases-amid-national-summer-parasite) (2nd Life Media Alamogordo Town News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [Safety monitoring of bivalent, quadrivalent, and 9-valent human papillomavirus vaccination in Japan: The vaccine effectiveness, networking, and universal safety (VENUS) study.](https://pubmed.ncbi.nlm.nih.gov/42415471/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Dengue and arboviruses
@@ -405,13 +404,13 @@ Search window: 7 day(s) ending 2026-07-08
 ## Other notable readings
 - [DR Congo confirms 1,708 Ebola cases, 580 deaths since outbreak](https://www.thecable.ng/dr-congo-confirms-1708-ebola-cases-580-deaths-since-outbreak/) | TheCable | 2026-07-08T15:13+00:00 | Outbreaks and emerging infections
   Health authorities are monitoring contacts and patients at a follow-up rate of 75.2 percent across Ituri, North Kivu and South Kivu provinces. The latest figures, released by the DRC on Wednesday, also showed that 280 people have recovered from the disease, while 680 patients remain hospitalised. The Congolese government said surveillance, treatment, public awareness and community support activities were continuing in affected communities.
+- [Some Health Workers in Congo's Ebola Outbreak Go on Strike as Deaths Near 600](https://www.medpagetoday.com/infectiousdisease/ebola/122094) | MedPage Today | 2026-07-08T15:02+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [‘Heroes on the front line:’ Nonprofit discusses experience fighting Ebola outbreak on the ground in Eastern Congo](https://tylerpaper.com/2026/07/08/heroes-on-the-front-line-nonprofit-discusses-experience-fighting-ebola-outbreak-on-the-ground-in-eastern-congo/) | Tyler Morning Telegraph | 2026-07-08T10:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg | 2026-07-08T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO Warns DR Congo Ebola Outbreak Continues to Spread](https://allafrica.com/view/group/main/main/id/00097377.html) | allAfrica.com | 2026-07-08T08:13+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.eagletribune.com/region/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths/article_3207b8f9-5d83-5f68-8dc0-3841d87c2da8.html) | Eagle-Tribune | 2026-07-08T07:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola confirmed caseload tops 1,700 as WHO says outbreak still intensifying](https://english.news.cn/20260708/e08c0e1600ca4fffba6ee16264975f89/c.html) | Xinhua | 2026-07-08T04:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
