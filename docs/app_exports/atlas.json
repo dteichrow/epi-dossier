@@ -344,15 +344,7 @@
       "reference_name": "Measles",
       "reference_url": "reference/measles.html",
       "reference_web_path": "reference/measles.html",
-      "related_stories": [
-        {
-          "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: News On AIR, Prothom Alo English, Yemen Online.",
-          "story_id": "story_0cc2d5322bc76f8f",
-          "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
-          "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 2,
       "slug": "measles",
       "spread_routes": [
@@ -400,7 +392,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Dense settlement, cattle-linked ancestry, and colonial spread into immunologically naive populations",
       "summary": "Measles is a useful atlas pathogen because its deeper origin story is partly reconstructed from molecular-clock work, while its colonial spread story is brutally visible in the Americas and Pacific.",
       "variant_count": 0,
@@ -625,15 +617,7 @@
       "reference_name": "Avian influenza A(H5N1)",
       "reference_url": "reference/avian-influenza-a-h5n1.html",
       "reference_web_path": "reference/avian-influenza-a-h5n1.html",
-      "related_stories": [
-        {
-          "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Australian Broadcasting Corporation.",
-          "story_id": "story_28a91c6d89267872",
-          "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
-          "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 3,
       "slug": "avian-influenza-h5n1",
       "spread_routes": [
@@ -703,7 +687,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Bird flyways, poultry systems, mammalian spillover, and farm-interface risk",
       "summary": "H5N1 belongs in the atlas because its contemporary geography is not a human epidemic map first; it is a bird-route, farm-system, and spillover map whose human layer remains contingent.",
       "variant_count": 0,
@@ -786,15 +770,7 @@
       "reference_name": "Hantavirus syndrome",
       "reference_url": "reference/hantavirus-syndrome.html",
       "reference_web_path": "reference/hantavirus-syndrome.html",
-      "related_stories": [
-        {
-          "display_title": "Hantavirus and cruise-ship outbreak",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: Reuters, USA Today.",
-          "story_id": "story_f6d225b01f3f7094",
-          "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
-          "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 2,
       "slug": "hantavirus",
       "spread_routes": [
@@ -842,7 +818,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Rodent-host lineages, hemorrhagic fever versus cardiopulmonary syndromes, and one crucial Andes-virus exception",
       "summary": "Hantaviruses belong in the atlas because they break the habit of pretending every pathogen has one clean human-travel route. The real map is rodent-host biogeography, ecological exposure settings, and the split between Old World hemorrhagic-fever viruses and New World cardiopulmonary viruses.",
       "variant_count": 3,
@@ -887,15 +863,7 @@
           "reference_name": "Hantavirus syndrome",
           "reference_url": "reference/hantavirus-syndrome.html",
           "reference_web_path": "reference/hantavirus-syndrome.html",
-          "related_stories": [
-            {
-              "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Reuters, USA Today.",
-              "story_id": "story_f6d225b01f3f7094",
-              "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
-              "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
-            }
-          ],
+          "related_stories": [],
           "route_count": 2,
           "slug": "hantaan-virus",
           "spread_routes": [
@@ -943,7 +911,7 @@
             }
           ],
           "status": "consensus",
-          "story_count": 1,
+          "story_count": 0,
           "subtitle": "Old World hemorrhagic fever with renal syndrome centered on Korean and northeast Asian rodent ecologies",
           "summary": "Hantaan virus is the classic Old World hantavirus frame and the right default for an encyclopedia view because it grounds the family in the hemorrhagic-fever geography that defined early recognition.",
           "variants": [],
@@ -1015,15 +983,7 @@
           "reference_name": "Hantavirus syndrome",
           "reference_url": "reference/hantavirus-syndrome.html",
           "reference_web_path": "reference/hantavirus-syndrome.html",
-          "related_stories": [
-            {
-              "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Reuters, USA Today.",
-              "story_id": "story_f6d225b01f3f7094",
-              "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
-              "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
-            }
-          ],
+          "related_stories": [],
           "route_count": 2,
           "slug": "sin-nombre-virus",
           "spread_routes": [
@@ -1071,7 +1031,7 @@
             }
           ],
           "status": "consensus",
-          "story_count": 1,
+          "story_count": 0,
           "subtitle": "Four Corners emergence, deer-mouse ecology, and the New World cardiopulmonary turn",
           "summary": "Sin Nombre virus changed how many readers understand hantaviruses by making a rodent-borne ecological disease look suddenly emergent in the American Southwest.",
           "variants": [],
@@ -1143,15 +1103,7 @@
           "reference_name": "Hantavirus syndrome",
           "reference_url": "reference/hantavirus-syndrome.html",
           "reference_web_path": "reference/hantavirus-syndrome.html",
-          "related_stories": [
-            {
-              "display_title": "Hantavirus and cruise-ship outbreak",
-              "latest_update_summary": "New publisher/source coverage joined this story cluster: Reuters, USA Today.",
-              "story_id": "story_f6d225b01f3f7094",
-              "story_url": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html",
-              "story_web_path": "stories/story_f6d225b01f3f7094-hantavirus-and-cruise-ship-outbreak.html"
-            }
-          ],
+          "related_stories": [],
           "route_count": 2,
           "slug": "andes-virus",
           "spread_routes": [
@@ -1199,7 +1151,7 @@
             }
           ],
           "status": "mixed",
-          "story_count": 1,
+          "story_count": 0,
           "subtitle": "Southern cone rodent ecologies and the major person-to-person exception inside the hantavirus family",
           "summary": "Andes virus matters because it is the exception journalists remember, not the family baseline they should begin with.",
           "variants": [],
@@ -1308,15 +1260,7 @@
       "reference_name": "Dengue",
       "reference_url": "reference/dengue.html",
       "reference_web_path": "reference/dengue.html",
-      "related_stories": [
-        {
-          "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "New publisher/source coverage joined this story cluster: ReliefWeb.",
-          "story_id": "story_ccfeaff28d46baf6",
-          "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
-          "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
-        }
-      ],
+      "related_stories": [],
       "route_count": 3,
       "slug": "dengue",
       "spread_routes": [
@@ -1386,7 +1330,7 @@
         }
       ],
       "status": "consensus",
-      "story_count": 1,
+      "story_count": 0,
       "subtitle": "Aedes routes, urbanization, and shipping-enabled vector expansion",
       "summary": "Dengue makes the atlas useful for modern readers because it shows how vector range expansion, used-tire shipping, urbanization, and travel can redraw the map without requiring a single ancient origin story.",
       "variant_count": 0,
@@ -1873,6 +1817,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-07-08T13:37:03",
-  "run_id": "run_757715ea59283d48"
+  "generated_at": "2026-07-08T13:40:39",
+  "run_id": "run_710e648aa8acffc0"
 }
