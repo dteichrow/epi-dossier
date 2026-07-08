@@ -1,5 +1,6 @@
 from datetime import date, datetime
 
+from src import render_site
 from src.render_site import render_public_desk_page, render_public_homepage, render_reference_page, render_story_page
 
 
@@ -310,6 +311,114 @@ def test_render_story_dashboard_blocks_precise_media_counts_too():
     assert "<strong>321</strong>" not in content
     assert "<strong>Over 1,200</strong>" not in content
     assert "<strong>Over 300</strong>" not in content
+
+
+def test_render_story_dashboard_accepts_authority_citing_count_headline():
+    story = {
+        "display_title": "Ebola virus disease",
+        "lead_title": "Ebola outbreak updates",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "Health desk",
+        "item_count": 1,
+        "source_count": 1,
+        "official_item_ids": [],
+        "press_item_ids": ["authority_count"],
+        "publisher_names": ["U.S. News & World Report"],
+        "freshness_counts": {"live": 1},
+        "latest_update_summary": "Publisher counts changed.",
+        "latest_update_bullets": [],
+        "related_references": [],
+        "first_seen_at": "2026-07-06T05:14:00",
+        "latest_updated_at": "2026-07-06T05:14:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "authority_count": {
+            "title": "Congo Says Confirmed Ebola Cases Rise to 1,561, Including 506 Deaths",
+            "preferred_url": "https://example.com/usnews",
+            "publisher_name": "U.S. News & World Report",
+            "published_at": "2026-07-06T05:14+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "link_quality": "metadata_only",
+            "source_confidence": "metadata_only_signal",
+            "publisher_tier": "general",
+            "freshness_state": "live",
+            "low_detail": True,
+        },
+    }
+
+    content = render_story_page(story, items_by_id, date(2026, 7, 6), datetime(2026, 7, 6, 5, 30))
+
+    assert "<strong>1,561</strong>" in content
+    assert "<strong>506</strong>" in content
+    assert "Authority-citing public report from U.S. News &amp; World Report" in content
+
+
+def test_render_story_dashboard_override_supersedes_stale_official_counts(tmp_path, monkeypatch):
+    override_path = tmp_path / "outbreak_dashboard_overrides.yml"
+    override_path.write_text(
+        """
+overrides:
+  story_test_ebola:
+    source_name: Associated Press
+    source_status: Government data reported by AP
+    as_of: "2026-07-08"
+    cases:
+      label: Reported cases
+      value: "1,708"
+      note: "Latest government data reported by AP on 2026-07-08."
+    deaths:
+      value: "580"
+      note: "Latest government data reported by AP on 2026-07-08."
+""".strip()
+    )
+    monkeypatch.setattr(render_site, "DASHBOARD_OVERRIDES_PATH", override_path)
+    render_site.load_outbreak_dashboard_overrides.cache_clear()
+
+    story = {
+        "story_id": "story_test_ebola",
+        "display_title": "Ebola virus disease",
+        "lead_title": "Ebola outbreak updates",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "WHO",
+        "item_count": 1,
+        "source_count": 1,
+        "official_item_ids": ["official_1"],
+        "press_item_ids": [],
+        "publisher_names": ["WHO"],
+        "freshness_counts": {"live": 1},
+        "latest_update_summary": "Story remains active.",
+        "latest_update_bullets": [],
+        "related_references": [],
+        "first_seen_at": "2026-07-01T00:00:00",
+        "latest_updated_at": "2026-07-08T10:00:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "official_1": {
+            "title": "WHO situation report",
+            "preferred_url": "https://example.com/who",
+            "publisher_name": "WHO",
+            "published_at": "2026-07-01T00:00+00:00",
+            "summary": "A cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths, has been reported.",
+            "link_quality": "direct_article",
+            "source_confidence": "official_agency",
+            "official": True,
+            "region": "Africa",
+            "country": "Democratic Republic of the Congo",
+            "freshness_state": "live",
+        },
+    }
+
+    try:
+        content = render_story_page(story, items_by_id, date(2026, 7, 8), datetime(2026, 7, 8, 10, 0))
+    finally:
+        render_site.load_outbreak_dashboard_overrides.cache_clear()
+
+    assert '<span class="dashboard-label">Reported cases</span><strong>1,708</strong>' in content
+    assert '<span class="dashboard-label">Deaths</span><strong>580</strong>' in content
+    assert "<strong>1,048</strong>" not in content
+    assert "<strong>267</strong>" not in content
 
 
 def test_render_story_dashboard_does_not_promote_metadata_only_pheic_headline():

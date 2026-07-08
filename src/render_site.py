@@ -4,8 +4,12 @@ import html
 import json
 from collections import defaultdict
 from datetime import date, datetime
+from functools import lru_cache
+from pathlib import Path
 import re
 from typing import Any
+
+import yaml
 
 from .dedupe import titles_similar
 from .utils import format_timestamp, normalize_whitespace
@@ -13,6 +17,7 @@ from .utils import format_timestamp, normalize_whitespace
 
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 LOW_DETAIL_SUMMARY = "Limited detail was available from feed metadata alone."
+DASHBOARD_OVERRIDES_PATH = Path(__file__).resolve().parents[1] / "config" / "outbreak_dashboard_overrides.yml"
 BROAD_REGION_LABELS = {
     "",
     "africa",
@@ -1616,8 +1621,9 @@ def humanize_data_value(key: str, value: str) -> str:
 
 
 def render_outbreak_dashboard(story: dict[str, Any], items: list[dict[str, Any]]) -> str:
-    cases = infer_outbreak_metric(story, items, "cases")
-    deaths = infer_outbreak_metric(story, items, "deaths")
+    override = outbreak_dashboard_override_for_story(story)
+    cases = dashboard_override_metric(override, "cases") or infer_outbreak_metric(story, items, "cases")
+    deaths = dashboard_override_metric(override, "deaths") or infer_outbreak_metric(story, items, "deaths")
     affected_countries = infer_affected_countries(story, items)
     emergency_status = infer_emergency_status(story, items)
     pathogen_lineage = infer_pathogen_lineage(story, items)
@@ -1644,6 +1650,55 @@ def render_outbreak_dashboard(story: dict[str, Any], items: list[dict[str, Any]]
         f'<div class="outbreak-dashboard">{cards}</div>'
         "</div>"
     )
+
+
+@lru_cache(maxsize=1)
+def load_outbreak_dashboard_overrides() -> dict[str, Any]:
+    if not DASHBOARD_OVERRIDES_PATH.exists():
+        return {}
+    payload = yaml.safe_load(DASHBOARD_OVERRIDES_PATH.read_text()) or {}
+    if not isinstance(payload, dict):
+        return {}
+    overrides = payload.get("overrides", {})
+    return overrides if isinstance(overrides, dict) else {}
+
+
+def outbreak_dashboard_override_for_story(story: dict[str, Any]) -> dict[str, Any]:
+    overrides = load_outbreak_dashboard_overrides()
+    story_ids = [
+        normalize_whitespace(str(story.get("story_id", ""))),
+        normalize_whitespace(str(story.get("id", ""))),
+    ]
+    story_path = normalize_whitespace(str(story.get("story_web_path", "")))
+    if story_path:
+        story_ids.append(Path(story_path).stem)
+    for story_id in story_ids:
+        if story_id and isinstance(overrides.get(story_id), dict):
+            return overrides[story_id]
+    return {}
+
+
+def dashboard_override_metric(override: dict[str, Any], metric_kind: str) -> dict[str, str] | None:
+    metric = override.get(metric_kind, {}) if isinstance(override, dict) else {}
+    if not isinstance(metric, dict) or not metric.get("value"):
+        return None
+    result = {
+        "value": normalize_whitespace(str(metric.get("value", ""))),
+        "note": dashboard_override_metric_note(override, metric),
+    }
+    if metric_kind == "cases":
+        result["label"] = normalize_whitespace(str(metric.get("label") or "Reported cases"))
+    return result
+
+
+def dashboard_override_metric_note(override: dict[str, Any], metric: dict[str, Any]) -> str:
+    note = normalize_whitespace(str(metric.get("note", "")))
+    if note:
+        return note
+    source_name = normalize_whitespace(str(override.get("source_name") or "curated source"))
+    source_status = normalize_whitespace(str(override.get("source_status") or "Curated public report"))
+    as_of = normalize_whitespace(str(override.get("as_of") or "date not captured"))
+    return f"{source_status} from {source_name} ({as_of}); verify against official surveillance updates."
 
 
 def infer_outbreak_metric(story: dict[str, Any], items: list[dict[str, Any]], metric_kind: str) -> dict[str, str]:
@@ -1727,7 +1782,23 @@ def metric_candidate_is_dashboard_authoritative(candidate: dict[str, Any]) -> bo
     source_kind = source.get("source_kind", "")
     if source_status in {"Official report", "Confirmed"}:
         return True
-    return source_kind == "official"
+    if source_kind == "official":
+        return True
+    return metric_source_reports_authority_count(source)
+
+
+def metric_source_reports_authority_count(source: dict[str, Any]) -> bool:
+    source_kind = str(source.get("source_kind", ""))
+    if source_kind == "aggregator_only":
+        return False
+    text = str(source.get("text", "")).lower()
+    authority_patterns = [
+        r"\b(?:congo|drc|health ministry|ministry of health|health authorities|authorities|government|officials)\s+(?:says?|said|reported|recorded|confirmed|announced)\b",
+        r"\b(?:according to|citing)\s+(?:congo|drc|the health ministry|the ministry of health|health authorities|authorities|officials|government|who)\b",
+        r"\b(?:who|africa cdc|cdc|ecdc)\s+(?:says?|said|reported|confirmed|warns?)\b",
+        r"\blatest government data\b",
+    ]
+    return any(re.search(pattern, text) for pattern in authority_patterns)
 
 
 def metric_patterns(metric_kind: str) -> list[str]:
@@ -1904,6 +1975,8 @@ def metric_note_for_source(source: dict[str, str], metric_kind: str, metric_labe
     subject = metric_note_subject(metric_kind, metric_label)
     if source_status in {"Official report", "Confirmed"} or source.get("source_kind") == "official":
         return f"Official-source {subject}; definitions may still change with case finding."
+    if metric_source_reports_authority_count(source):
+        return f"Authority-citing public report from {source_name} ({date_text}); verify against official surveillance updates."
     if source_status == "Needs verification":
         return f"Observed in {source_name} ({date_text}); treat as not yet confirmed by this monitor."
     return f"Public-report {subject} from {source_name} ({date_text}); compare against official updates."

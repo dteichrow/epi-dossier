@@ -1,0 +1,13 @@
+overrides:
+  story_56666e9c6c86e976:
+    source_name: Associated Press
+    source_url: https://apnews.com/article/159288cd2a4be74e6cd61255e0f12044
+    source_status: Government data reported by AP
+    as_of: "2026-07-08"
+    cases:
+      label: Reported cases
+      value: "1,708"
+      note: "Latest government data reported by AP on 2026-07-08; verify against the next DRC or WHO situation report."
+    deaths:
+      value: "580"
+      note: "Latest government data reported by AP on 2026-07-08; verify against the next DRC or WHO situation report."
