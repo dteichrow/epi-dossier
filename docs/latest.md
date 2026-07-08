@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T01:06
+Generated at: 2026-07-08T01:16
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-08
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Immunodominant B-cell epitopes for precision surveillance of Plasmodium vivax malaria.](https://pubmed.ncbi.nlm.nih.gov/42405907/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
 - [Next-generation vaccine adjuvants: Integrating nanotechnology, systems immunology, and computational approaches for precision vaccinology.](https://pubmed.ncbi.nlm.nih.gov/42405958/) (PubMed Infectious Disease Search; 2026-07-06T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (111), Policy, surveillance, and public health infrastructure (4), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (112), Policy, surveillance, and public health infrastructure (5), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 103 item(s) across 62 source(s).
-- Baseline snapshot created with 103 clustered item(s) across 62 source(s).
+- Newly tracked story cluster: 105 item(s) across 63 source(s).
+- Baseline snapshot created with 105 clustered item(s) across 63 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### COVID-19 and SARS-CoV-2
@@ -43,10 +43,10 @@ Search window: 7 day(s) ending 2026-07-08
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 103 item(s) across 62 source(s); 3 official/primary-source item(s).
+- Topic size: 105 item(s) across 63 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.washingtonpost.com/world/2026/07/08/congo-ebola-healthworkers-ituri-bunia-strike-pay/c03309ae-7aa0-11f1-b194-f872dd4ec5aa_story.html) (The Washington Post); [Ebola Outbreak In Congo Still In ‘Expansion Phase ’-WHO](https://dmarketforces.com/ebola-outbreak-in-congo-still-in-expansion-phase-who/) (MarketForces Africa)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.oskaloosa.com/news/national_news/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths/article_c72ddc01-cd23-5ec8-bc32-4604baccd86f.html) (Oskaloosa Herald); [Ebola Outbreak In Congo Still In ‘Expansion Phase ’-WHO](https://dmarketforces.com/ebola-outbreak-in-congo-still-in-expansion-phase-who/) (MarketForces Africa)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -425,7 +425,7 @@ Search window: 7 day(s) ending 2026-07-08
   Democratic Republic of the Congo Since 14 June 2026, a total of 240 new laboratory-confirmed cases, including 75 new confirmed deaths, have been reported, representing a 29.7% increase in cumulative confirmed cases and a 39.1% increase in cumulative confirmed deaths. As of 21 June 2026, a cumulative total of 1048 laboratory-confirmed cases, including 267 confirmed deaths [case fatality ratio (CFR) 25.5%], has been reported across the three affected provinces of Ituri, North Kivu, and South Kivu. Publications orlunwop@who.int Fri, 26/06/2026 - 17:55 Event description Since the last update of 14 June 2026 (Situation Report #5), the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has continued to evolve, with cumulative incidence surpassing the milestone of 1000 laboratory-confirmed cases and the number of affected health zones continuing to increase.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.washingtonpost.com/world/2026/07/08/congo-ebola-healthworkers-ituri-bunia-strike-pay/c03309ae-7aa0-11f1-b194-f872dd4ec5aa_story.html) | The Washington Post | 2026-07-08T07:57+00:00 | Outbreaks and emerging infections
+- [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.oskaloosa.com/news/national_news/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths/article_c72ddc01-cd23-5ec8-bc32-4604baccd86f.html) | Oskaloosa Herald | 2026-07-08T07:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Faridabad on Alert After Dengue, Malaria Cases; Anti-Larval Drive Intensified](https://www.punjabnewsline.com/news/faridabad-on-alert-after-dengue-malaria-cases-anti-larval-drive-intensified) | Punjab Newsline | 2026-07-08T07:02+00:00 | Outbreaks and emerging infections
   With the monsoon season increasing the risk of mosquito-borne diseases, the department has launched a special anti-larval campaign across the district. During the ongoing drive, larvae were found at several locations, prompting the department to issue notices to 10 residents for failing to prevent mosquito breeding. Health authorities also warned that strict action may be taken against those who fail to maintain cleanliness and allow mosquito breeding in their premises.
