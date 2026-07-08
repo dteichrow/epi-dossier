@@ -429,6 +429,7 @@ def render_public_homepage(
           <span class="badge">Updated {escape(latest_snapshot.get("generated_at", "Unknown"))}</span>
         </div>
       </section>
+      {render_source_health_notice(latest_snapshot)}
       {render_page_section_nav([("Lead Outbreak Files", "#lead-outbreak-files"), ("Outbreak Terminal", "#outbreak-terminal"), ("What Changed Today", "#what-changed-today"), ("Reporter's Notebook", "#reporters-notebook"), ("Pathogen Atlas", "#pathogen-atlas"), ("Global Watch", "#global-watch"), ("Research + Reference", "#research-reference"), ("Archive + Backfile", "#archive-backfile")])}
       <section class="panel" id="lead-outbreak-files">
         <h2>Lead Outbreak Files</h2>
@@ -482,6 +483,26 @@ def render_public_homepage(
   </body>
 </html>
 """
+
+
+def render_source_health_notice(latest_snapshot: dict[str, Any]) -> str:
+    if not latest_snapshot.get("degraded"):
+        return ""
+    failures = [
+        normalize_whitespace(str(failure.get("source", "")))
+        for failure in latest_snapshot.get("source_failures", [])
+        if isinstance(failure, dict) and normalize_whitespace(str(failure.get("source", "")))
+    ]
+    failure_text = "; ".join(failures[:5]) if failures else "source failures reported"
+    if len(failures) > 5:
+        failure_text += f"; {len(failures) - 5} more"
+    return (
+        '<section class="source-health-notice" id="source-health-notice">'
+        '<p><strong>Source health:</strong> This refresh is degraded. '
+        f'Failed source(s): {escape(failure_text)}. '
+        "Absence of a signal from a failed source should not be read as no activity.</p>"
+        "</section>"
+    )
 
 
 def render_public_desk_page(
@@ -1702,29 +1723,7 @@ def dashboard_override_metric_note(override: dict[str, Any], metric: dict[str, A
 
 
 def infer_outbreak_metric(story: dict[str, Any], items: list[dict[str, Any]], metric_kind: str) -> dict[str, str]:
-    patterns = metric_patterns(metric_kind)
-    candidates: list[dict[str, Any]] = []
-    for source in story_analysis_sources(story, items):
-        text = source["text"]
-        for pattern in patterns:
-            for match in re.finditer(pattern, text, flags=re.I):
-                if metric_context_looks_historical(text, match.start(), match.end()):
-                    continue
-                qualifier = metric_display_qualifier(match.groupdict().get("qualifier", ""), text, match.start(), match.end())
-                value = format_metric_value(qualifier, match.group("number"))
-                numeric_value = int(match.group("number").replace(",", ""))
-                metric_label = case_metric_label(match.groupdict().get("case_status", "")) if metric_kind == "cases" else ""
-                candidates.append(
-                    {
-                        "score": metric_candidate_score(source, text),
-                        "raw_timestamp": sort_timestamp_value(source.get("date", "")),
-                        "numeric_value": numeric_value,
-                        "precision_score": metric_precision_score(qualifier, text, match.start(), match.end()),
-                        "value": value,
-                        "source": source,
-                        "metric_label": metric_label,
-                    }
-                )
+    candidates = collect_outbreak_metric_candidates(story, items, metric_kind)
     authoritative_candidates = [candidate for candidate in candidates if metric_candidate_is_dashboard_authoritative(candidate)]
     if authoritative_candidates:
         selected = select_metric_candidate(authoritative_candidates)
@@ -1755,6 +1754,33 @@ def infer_outbreak_metric(story: dict[str, Any], items: list[dict[str, Any]], me
     if metric_kind == "cases":
         result["label"] = "Cases"
     return result
+
+
+def collect_outbreak_metric_candidates(story: dict[str, Any], items: list[dict[str, Any]], metric_kind: str) -> list[dict[str, Any]]:
+    patterns = metric_patterns(metric_kind)
+    candidates: list[dict[str, Any]] = []
+    for source in story_analysis_sources(story, items):
+        text = source["text"]
+        for pattern in patterns:
+            for match in re.finditer(pattern, text, flags=re.I):
+                if metric_context_looks_historical(text, match.start(), match.end()):
+                    continue
+                qualifier = metric_display_qualifier(match.groupdict().get("qualifier", ""), text, match.start(), match.end())
+                value = format_metric_value(qualifier, match.group("number"))
+                numeric_value = int(match.group("number").replace(",", ""))
+                metric_label = case_metric_label(match.groupdict().get("case_status", "")) if metric_kind == "cases" else ""
+                candidates.append(
+                    {
+                        "score": metric_candidate_score(source, text),
+                        "raw_timestamp": sort_timestamp_value(source.get("date", "")),
+                        "numeric_value": numeric_value,
+                        "precision_score": metric_precision_score(qualifier, text, match.start(), match.end()),
+                        "value": value,
+                        "source": source,
+                        "metric_label": metric_label,
+                    }
+                )
+    return candidates
 
 
 def select_metric_candidate(candidates: list[dict[str, Any]]) -> dict[str, Any]:
@@ -3033,6 +3059,9 @@ def base_styles() -> str:
       .hero { background: linear-gradient(180deg, rgba(255,255,255,0.42), rgba(255,255,255,0)), linear-gradient(135deg, rgba(248,244,234,0.98), rgba(242,235,222,0.98)); position: relative; overflow: hidden; }
       .hero::before { content: ""; position: absolute; inset: 0; background-image: linear-gradient(rgba(23,48,70,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(23,48,70,0.04) 1px, transparent 1px); background-size: 28px 28px; opacity: 0.35; pointer-events: none; }
       .hero > * { position: relative; z-index: 1; }
+      .source-health-notice { border: 1px solid rgba(141,63,47,0.28); border-left: 4px solid rgba(141,63,47,0.58); background: rgba(255,252,247,0.86); border-radius: 16px; padding: 12px 16px; font-family: "Avenir Next", "Helvetica Neue", sans-serif; color: var(--ink-soft); }
+      .source-health-notice p { margin: 0; }
+      .source-health-notice strong { color: var(--accent); }
       .atlas-hero-grid { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.95fr); gap: 18px; align-items: stretch; }
       .atlas-layout { align-items: start; grid-template-columns: minmax(0, 1.55fr) minmax(280px, 0.95fr); }
       .atlas-map { min-height: 460px; border-radius: 22px; overflow: hidden; border: 1px solid rgba(187,169,143,0.74); background: linear-gradient(180deg, rgba(223,231,236,0.92), rgba(214,223,228,0.92)); }

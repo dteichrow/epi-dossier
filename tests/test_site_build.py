@@ -343,6 +343,42 @@ def test_site_build_writes_docs_outputs_without_file_uris(tmp_path, monkeypatch)
     assert "Questions To Chase" in notebook_text
 
 
+def test_public_exports_include_retained_story_evidence_items(tmp_path):
+    deploy_dir = tmp_path / "docs"
+    snapshot = {
+        "run_id": "run_1",
+        "generated_at": "2026-07-08T08:00:00",
+        "items": [{"item_id": "item_live", "title": "Live item"}],
+        "stories": [
+            {
+                "story_id": "story_1",
+                "topic_name": "Ebola virus disease",
+                "story_web_path": "stories/story_1-ebola-virus-disease.html",
+                "official_item_ids": ["item_retained"],
+                "press_item_ids": ["item_live"],
+                "item_ids": ["item_retained", "item_live"],
+            }
+        ],
+    }
+    retained = {
+        "item_retained": {
+            "item_id": "item_retained",
+            "title": "Retained WHO situation report",
+            "summary": "A retained item used by the story page renderer.",
+            "preferred_url": "https://example.com/who",
+        },
+        "item_live": {"item_id": "item_live", "title": "Live item"},
+    }
+
+    site_build.write_public_exports(snapshot, [], str(deploy_dir), story_items_by_id=retained)
+
+    latest_json = json.loads((deploy_dir / "app_exports" / "latest.json").read_text())
+    assert latest_json.get("item_count") == snapshot.get("item_count")
+    assert latest_json["story_item_count"] == 1
+    assert latest_json["story_items"][0]["item_id"] == "item_retained"
+    assert latest_json["story_items"][0]["title"] == "Retained WHO situation report"
+
+
 def test_site_build_preserves_existing_reader_html_when_reader_guard_blocks(tmp_path, monkeypatch):
     dated_html = tmp_path / "Daily Dossiers" / "2026" / "05" / "2026-05-07.html"
     legacy_html = tmp_path / "briefings" / "2026-05-07_epi_dossier.html"

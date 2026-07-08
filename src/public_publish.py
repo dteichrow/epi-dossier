@@ -12,6 +12,14 @@ from pathlib import Path
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+if __package__ in {None, ""}:
+    sys.path.insert(0, str(REPO_ROOT))
+    from src.outbreak_dashboard_quality import build_report as build_outbreak_dashboard_report
+    from src.outbreak_dashboard_quality import run_quality_checks as run_outbreak_dashboard_quality_checks
+else:
+    from .outbreak_dashboard_quality import build_report as build_outbreak_dashboard_report
+    from .outbreak_dashboard_quality import run_quality_checks as run_outbreak_dashboard_quality_checks
+
 EDGE_REPO_ROOT = REPO_ROOT.parent / "edge-of-epidemiology-site"
 PUBLISH_SCRIPT = REPO_ROOT / "scripts" / "publish_public_site.sh"
 PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
@@ -276,10 +284,21 @@ def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
 def check_configuration(stale_lock_seconds: int) -> int:
     script = prepare_publish_script()
     state = lock_state(lock_dir=LOCK_DIR, stale_seconds=stale_lock_seconds)
+    dashboard_report = build_outbreak_dashboard_report(run_outbreak_dashboard_quality_checks())
     print(f"public_publish_check_ok repo_root={REPO_ROOT}", flush=True)
     print(f"public_publish_check_ok script_bytes={len(script.encode())}", flush=True)
     print(f"public_publish_check_ok lock_state={state}", flush=True)
-    return 0
+    print(
+        "public_publish_check_ok outbreak_dashboard_errors="
+        f"{dashboard_report['summary']['errors']} outbreak_dashboard_warnings={dashboard_report['summary']['warnings']}",
+        flush=True,
+    )
+    for issue in dashboard_report["issues"]:
+        if issue["severity"] == "warn":
+            print(f"public_publish_check_warn {issue['story_id']} {issue['metric']}: {issue['message']}", flush=True)
+        elif issue["severity"] == "error":
+            print(f"public_publish_check_error {issue['story_id']} {issue['metric']}: {issue['message']}", flush=True)
+    return 1 if dashboard_report["summary"]["errors"] else 0
 
 
 def build_parser() -> argparse.ArgumentParser:

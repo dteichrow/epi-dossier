@@ -11,6 +11,7 @@ This repository produces the Newsdesk surfaces for The Edge of Epidemiology. Tre
 - `src/public_publish.py`: guarded publish wrapper.
 - `docs/`: generated public Newsdesk output committed by the publisher.
 - `docs/app_exports/latest.json`: public machine-readable latest item export.
+- `story_items` inside `docs/app_exports/latest.json`: retained evidence items needed to reproduce current story pages even when an item is no longer in the newest feed window.
 - `docs/stories/`: generated story-monitor pages.
 
 ## Normal Publish Path
@@ -42,6 +43,15 @@ Use live checks when diagnosing public drift:
 ```bash
 python scripts/repo_doctor.py --check-live
 ```
+
+Run the outbreak dashboard QA directly when a story monitor count looks wrong:
+
+```bash
+python -m src.outbreak_dashboard_quality
+python -m src.outbreak_dashboard_quality --json
+```
+
+This check is also part of `python scripts/repo_doctor.py --json`, `python src/public_publish.py --check`, and the public site build. It blocks release when a generated story page does not match the current snapshot policy, when a dashboard override is not traceable, or when a dashboard value is lower than a newer authority-citing count in the same story evidence.
 
 ## Failure Triage
 
@@ -90,6 +100,15 @@ https://dteichrow.github.io/newsdesk/stories/story_56666e9c6c86e976-ebola-virus-
 ```
 
 For outbreak pages, compare the top dashboard against the newest supported item in the feed and source links. If counts differ, label the dashboard as unknown, preliminary, or stale rather than presenting unsupported precision.
+
+## Outbreak Dashboard Count Policy
+
+- Official surveillance reports remain the preferred source for cleaned counts.
+- Authority-citing public reports can update the dashboard when the text explicitly ties the number to a ministry, government data, WHO, CDC, ECDC, Africa CDC, or equivalent public-health authority.
+- Metadata-only or aggregator-only count headlines do not become dashboard counts unless they pass the authority-citing rule or are curated in `config/outbreak_dashboard_overrides.yml`.
+- Overrides must include `source_name`, `source_url`, `source_status`, `as_of`, a numeric value, and a note for each overridden metric.
+- If a newer authority-citing count exceeds an override or rendered dashboard value, `src.outbreak_dashboard_quality` fails the build.
+- If a source refresh is degraded, the public Newsdesk home shows a source-health notice and the exported `health.json` carries the affected source list.
 
 ## Recovery
 

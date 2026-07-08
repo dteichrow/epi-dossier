@@ -14,6 +14,10 @@ from urllib.request import urlopen
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO_ROOT))
+
+from src.outbreak_dashboard_quality import build_report as build_outbreak_dashboard_report
+from src.outbreak_dashboard_quality import run_quality_checks as run_outbreak_dashboard_quality_checks
 
 COMMON_REQUIRED_PATHS = (
     "README.md",
@@ -228,6 +232,33 @@ def check_live_routes(repo_kind: str) -> list[Check]:
     return checks
 
 
+def check_outbreak_dashboard_quality(repo_kind: str) -> list[Check]:
+    if repo_kind != "epi-dossier":
+        return []
+    try:
+        report = build_outbreak_dashboard_report(run_outbreak_dashboard_quality_checks())
+    except Exception as exc:  # pragma: no cover - defensive doctor output
+        return [Check("outbreak_dashboard_quality", "error", f"Dashboard QA could not run: {exc}")]
+
+    errors = report["summary"]["errors"]
+    warnings = report["summary"]["warnings"]
+    if errors:
+        sample = "; ".join(
+            f"{issue['story_id']} {issue['metric']}: {issue['message']}"
+            for issue in report["issues"]
+            if issue["severity"] == "error"
+        )
+        return [Check("outbreak_dashboard_quality", "error", sample[:1200])]
+    if warnings:
+        sample = "; ".join(
+            f"{issue['story_id']} {issue['metric']}: {issue['message']}"
+            for issue in report["issues"]
+            if issue["severity"] == "warn"
+        )
+        return [Check("outbreak_dashboard_quality", "warn", sample[:1200])]
+    return [Check("outbreak_dashboard_quality", "ok", "Generated outbreak dashboards match snapshot policy and source hierarchy.")]
+
+
 def build_report(repo_kind: str, include_live: bool) -> dict[str, Any]:
     status, raw_status = collect_git_status()
     checks: list[Check] = []
@@ -235,6 +266,7 @@ def build_report(repo_kind: str, include_live: bool) -> dict[str, Any]:
     checks.extend(check_workflows())
     checks.extend(check_tracked_hygiene())
     checks.extend(check_git_cleanliness(status))
+    checks.extend(check_outbreak_dashboard_quality(repo_kind))
     if include_live:
         checks.extend(check_live_routes(repo_kind))
 

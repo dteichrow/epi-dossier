@@ -114,6 +114,12 @@ Run tests:
 pytest
 ```
 
+Validate outbreak dashboards and generated story pages:
+
+```bash
+python -m src.outbreak_dashboard_quality
+```
+
 ## Operational Health
 
 Use the repo doctor before publish work or after a failed automation run:
@@ -124,6 +130,10 @@ python scripts/repo_doctor.py --json
 ```
 
 The operational runbook is in [OPERATIONS.md](OPERATIONS.md). It defines the source-of-truth files, publish boundary, stale-site triage path, generated-file policy, and manual live checks.
+
+The repo doctor and guarded publisher now include outbreak-dashboard QA. That gate checks that curated dashboard overrides are traceable, rendered story pages match `docs/app_exports/latest.json`, and newer authority-citing counts cannot sit below stale dashboard values.
+
+The public `latest.json` export also carries `story_items`, a retained evidence backfile for current story pages. That keeps story dashboards reproducible from public artifacts even when an older item has aged out of the newest feed window.
 
 ## Public Workflow
 
@@ -162,3 +172,5 @@ If the checkout contains unrelated local work, prefer the guarded publisher or a
 This is a working personal research/publication system, not a packaged commercial product. The useful review target is the workflow: source intake, normalization, scoring, structured outputs, QA, and publication discipline.
 
 The closest analogy in clinical evidence work is the front half of an evidence product: define the monitored domain, ingest imperfect real-world/public source material, structure it, check reliability, and produce an artifact that a reader can inspect rather than blindly trust.
+
+For newsroom-style review, the relevant quality bar is evidence traceability rather than polish. Dashboard counts must be sourced to official surveillance, authority-citing public reports, or explicit curated overrides; degraded source refreshes are exposed in public health exports and on the Newsdesk home instead of being silently treated as complete surveillance.

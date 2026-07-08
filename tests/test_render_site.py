@@ -766,6 +766,27 @@ def test_render_public_homepage_includes_live_update_banner():
     assert "banner.style.display='none'" in content
 
 
+def test_render_public_homepage_surfaces_degraded_source_health():
+    latest_snapshot = {
+        "run_id": "run_1",
+        "generated_at": "2026-07-08T08:00:00",
+        "story_count": 0,
+        "item_count": 0,
+        "stories": [],
+        "items": [],
+        "atlas": [],
+        "degraded": True,
+        "source_failures": [{"source": "USDA APHIS Avian Influenza"}],
+    }
+
+    content = render_public_homepage(latest_snapshot, [], [])
+
+    assert 'id="source-health-notice"' in content
+    assert "This refresh is degraded" in content
+    assert "USDA APHIS Avian Influenza" in content
+    assert "Absence of a signal from a failed source should not be read as no activity." in content
+
+
 def test_render_public_research_page_uses_research_specific_sections():
     items = [
         {

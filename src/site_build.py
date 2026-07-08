@@ -9,6 +9,8 @@ from typing import Any
 
 from .database import SeenItemsDB
 from .main import parse_target_date, run_once
+from .outbreak_dashboard_quality import build_report as build_outbreak_dashboard_report
+from .outbreak_dashboard_quality import run_quality_checks as run_outbreak_dashboard_quality_checks
 from .render_html import validate_reader_story_sections
 from .render_site import (
     items_for_edition,
@@ -358,7 +360,20 @@ def write_public_surfaces(
         render_public_archive_page(archive_payload, public_snapshot, public_reference_records),
         encoding="utf-8",
     )
-    write_public_exports(publication_snapshot, archive_payload, deploy_dir)
+    write_public_exports(publication_snapshot, archive_payload, deploy_dir, story_items_by_id=items_by_id)
+    dashboard_report = build_outbreak_dashboard_report(
+        run_outbreak_dashboard_quality_checks(
+            snapshot_path=docs_root / "app_exports" / "latest.json",
+            docs_root=docs_root,
+        )
+    )
+    if dashboard_report["summary"]["errors"]:
+        detail = "; ".join(
+            f"{issue['story_id']} {issue['metric']}: {issue['message']}"
+            for issue in dashboard_report["issues"]
+            if issue["severity"] == "error"
+        )
+        raise RuntimeError(f"Outbreak dashboard QA failed after public render: {detail}")
 
 
 def render_legacy_atlas_redirect_html() -> str:
@@ -742,10 +757,19 @@ def append_site_build_log(
         handle.write(line)
 
 
-def write_public_exports(latest_snapshot: dict[str, Any], archive_payload: list[dict[str, Any]], deploy_dir: str) -> None:
+def write_public_exports(
+    latest_snapshot: dict[str, Any],
+    archive_payload: list[dict[str, Any]],
+    deploy_dir: str,
+    *,
+    story_items_by_id: dict[str, dict[str, Any]] | None = None,
+) -> None:
     public_dir = Path(docs_dir(deploy_dir)) / "app_exports"
     public_dir.mkdir(parents=True, exist_ok=True)
     public_latest = transform_public_payload(deepcopy(latest_snapshot))
+    public_story_items = build_public_story_items(public_latest, story_items_by_id or {})
+    public_latest["story_items"] = public_story_items
+    public_latest["story_item_count"] = len(public_story_items)
     atomic_write_json(public_dir / "latest.json", public_latest)
     atomic_write_json(public_dir / "atlas.json", {"atlas": public_latest.get("atlas", []), "generated_at": latest_snapshot.get("generated_at"), "run_id": latest_snapshot.get("run_id")})
     atomic_write_json(
@@ -787,6 +811,25 @@ def write_public_exports(latest_snapshot: dict[str, Any], archive_payload: list[
             },
         },
     )
+
+
+def build_public_story_items(public_latest: dict[str, Any], story_items_by_id: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+    current_item_ids = {item.get("item_id") for item in public_latest.get("items", []) if isinstance(item, dict) and item.get("item_id")}
+    required_item_ids: list[str] = []
+    for story in public_latest.get("stories", []):
+        if not isinstance(story, dict):
+            continue
+        for key in ("official_item_ids", "press_item_ids", "item_ids"):
+            for item_id in story.get(key, []) or []:
+                if item_id and item_id not in required_item_ids:
+                    required_item_ids.append(item_id)
+
+    retained_items = [
+        story_items_by_id[item_id]
+        for item_id in required_item_ids
+        if item_id not in current_item_ids and item_id in story_items_by_id
+    ]
+    return transform_public_payload(retained_items)
 
 
 def prune_generated_public_pages(directory: Path, expected_filenames: set[str]) -> None:
