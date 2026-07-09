@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T08:36
+Generated at: 2026-07-09T08:40
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -8,12 +8,12 @@ Search window: 7 day(s) ending 2026-07-09
 - [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies; 2026-07-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-06T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) (PubMed Historical Pathogen Case Studies; 2026-07-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (108), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (3)
-- Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
+- [Frutas y Hortalizas del Sur S.A. Initiates Recall of Frozen GreenWise Organic IQF Blueberries Due to Potential E. coli O145 Contamination](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765971) (CDC Travel Health Notices; 2026-07-03T17:06+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-3) (WHO Regional Office for Africa; 2026-06-30T12:35+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa; 2026-06-30T08:44+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (107), Policy, surveillance, and public health infrastructure (3), Major epidemiology studies (3)
+- Source health: 4 source(s) failed during collection: CDC Current Outbreak List, Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -48,14 +48,6 @@ Search window: 7 day(s) ending 2026-07-09
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Miscellaneous signals
-- Topic size: 3 item(s) across 1 source(s); 3 official/primary-source item(s).
-- Lead item: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks, 2026-07-06T14:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
-
 ### Measles transmission and vaccination
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) (BBC, 2026-07-08T22:03+00:00)
@@ -63,6 +55,14 @@ Search window: 7 day(s) ending 2026-07-09
 - Evidence notes: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) (BBC); [Larimer County measles case prompts exposure alert at Longmont hospital](https://www.coloradohometownweekly.com/2026/07/06/larimer-county-longmont-hospital-exposure/) (Colorado Hometown Weekly)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
+### Miscellaneous signals
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [Frutas y Hortalizas del Sur S.A. Initiates Recall of Frozen GreenWise Organic IQF Blueberries Due to Potential E. coli O145 Contamination](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765971) (CDC Travel Health Notices, 2026-07-03T17:06+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Frutas y Hortalizas del Sur S.A. Initiates Recall of Frozen GreenWise Organic IQF Blueberries Due to Potential E. coli O145 Contamination](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765971) (CDC Travel Health Notices); [Electronic Surveillance Monthly Bulletin (May 2026)](https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026) (WHO Regional Office for Africa)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Pertussis
 - Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
@@ -349,36 +349,6 @@ Search window: 7 day(s) ending 2026-07-09
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-06T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1389 with date posted 7/6/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Frozen Blueberries.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-06T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1383 with date posted 6/13/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Powdered Infant Formula.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-06T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1380 with date posted 6/3/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Requeson/Soft Ricotta Cheese.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-04T00:00
@@ -389,12 +359,32 @@ Search window: 7 day(s) ending 2026-07-09
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Frutas y Hortalizas del Sur S.A. Initiates Recall of Frozen GreenWise Organic IQF Blueberries Due to Potential E. coli O145 Contamination
+- Source: CDC Travel Health Notices
+- Date: 2026-07-03T17:06+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765971
+- Category: Outbreaks and emerging infections
+- Summary: Because it may be contaminated with Escherichia coli O145:H28 (E.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-06-30T12:35+00:00
 - URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-3
 - Category: Outbreaks and emerging infections
 - Summary: Democratic Republic of the Congo Since the last update of 21 June 2026 (Situation Report #6), cumulative case incidence in the Democratic Republic of the Congo has increased by 24.7%, with 259 new confirmed cases reported. Publications orlunwop@who.int Tue, 30/06/2026 - 13:35 Event description The Bundibugyo virus disease (BVD) outbreak remains active, with ongoing transmission in the Democratic Republic of the Congo and one imported case reported in France in a physician returning from the affected country. Cumulative deaths also increased by 41.2%, with 110 new confirmed deaths recorded during the reporting period.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Electronic Surveillance Monthly Bulletin (May 2026)
+- Source: WHO Regional Office for Africa
+- Date: 2026-06-30T08:44+00:00
+- URL: https://www.afro.who.int/publications/electronic-surveillance-monthly-bulletin-may-2026
+- Category: Outbreaks and emerging infections
+- Summary: Publications mongem@who.int Tue, 30/06/2026 - 09:44 The Bulletin provides standardized updates on eSURV/ISS implementation, key performance indicators in WHO AFRO, aiding stakeholders in monitoring active surveillance progress, addressing gaps, and guiding evidence-based decisions at regional and national, and subnational levels.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -409,10 +399,18 @@ Search window: 7 day(s) ending 2026-07-09
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
+### Ebola outbreak the ‘fastest growing ever’ – Africa CDC
+- Source: The Africa Report
+- Date: 2026-07-09T15:27+00:00
+- URL: https://www.theafricareport.com/424638/ebola-outbreak-the-fastest-growing-ever-africa-cdc/
+- Category: Outbreaks and emerging infections
+- Summary: Limited detail was available from feed metadata alone.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Ebola outbreak the ‘fastest growing ever’ – Africa CDC](https://www.theafricareport.com/424638/ebola-outbreak-the-fastest-growing-ever-africa-cdc/) | The Africa Report | 2026-07-09T15:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected provinces](https://apnews.com/article/congo-ebola-outbreak-deaths-957589a45723dcb092c986e1ec17da07) | AP News | 2026-07-09T14:50+00:00 | Outbreaks and emerging infections
@@ -432,7 +430,7 @@ Search window: 7 day(s) ending 2026-07-09
 - [Speech by Commissioner Lahbib at the European Parliament on the Ebola Outbreak in Democratic Republic of the Congo and Uganda](https://reliefweb.int/report/democratic-republic-congo/speech-commissioner-lahbib-european-parliament-ebola-outbreak-democratic-republic-congo-and-uganda) | ReliefWeb | 2026-07-08T14:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak: Ituri province accounts for nine out of 10 cases; Uganda reports no new cases in 2 weeks](https://outbreaknewstoday.substack.com/p/congo-ebola-outbreak-ituri-province) | Outbreak News Today | 2026-07-08T14:11+00:00 | Outbreaks and emerging infections
-  Ituri Province remains the epicenter of the outbreak, accounting for 90.9% (1477) of all confirmed cases and 84.3% (439) of all reported deaths nationwide. In an update on the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo (DRC), since the beginning of the outbreak, the Democratic Republic of the Congo has reported 1624 confirmed cases, including 521 confirmed deaths (CFR 32.1%). As of 5 July 2026, the outbreak had resulted in a total of 21 cases (20 confirmed and one probable).
+  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola confirmed caseload tops 1,700 as WHO says outbreak still intensifying](https://english.news.cn/20260708/e08c0e1600ca4fffba6ee16264975f89/c.html) | Xinhua | 2026-07-08T04:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Death Toll in DR Congo Surpasses 500 as WHO Warns Outbreak Still Spreading](https://www.dawan.africa/news/ebola-death-toll-in-dr-congo-surpasses-500-as-who-warns-outbreak-still-spreading) | Dawan Africa | 2026-07-07T16:03+00:00 | Outbreaks and emerging infections
@@ -451,6 +449,8 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Ebola deaths in Congo top 500 as health workers threaten to strike](https://apnews.com/article/congo-ebola-health-workers-strike-deaths-ituri-1831766b125395f48ff626fbf664fb36) | AP News | 2026-07-06T12:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) | The Eastleigh Voice | 2026-07-06T11:20+00:00 | Outbreaks and emerging infections
+  Cholera outbreak kills 24 in Central African Republic To prevent the spread of cholera, residents have been urged to ensure water safety by boiling or treating it with chlorine or other disinfectants. Continue with a related story, or tap the speaker icon on the next page to listen. Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/)
