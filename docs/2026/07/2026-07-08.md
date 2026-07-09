@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T21:57
+Generated at: 2026-07-08T22:07
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
@@ -16,18 +16,19 @@ Search window: 7 day(s) ending 2026-07-08
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Ebola virus disease
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 103 item(s) across 61 source(s).
+- Baseline snapshot created with 103 clustered item(s) across 61 source(s).
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+- AJMC now foregrounds vaccination or vaccine policy in the story.
+
 ### Historical epidemiology and ancient pathogens
 - Lead item: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search)
 - Newly tracked story cluster: 3 item(s) across 2 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
-
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 103 item(s) across 61 source(s).
-- Baseline snapshot created with 103 clustered item(s) across 61 source(s).
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
