@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T21:26
+Generated at: 2026-07-08T21:37
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
@@ -21,6 +21,7 @@ Search window: 7 day(s) ending 2026-07-08
 - Newly tracked story cluster: 103 item(s) across 61 source(s).
 - Baseline snapshot created with 103 clustered item(s) across 61 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+- AJMC now foregrounds vaccination or vaccine policy in the story.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search)
