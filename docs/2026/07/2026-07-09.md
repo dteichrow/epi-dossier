@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T12:56
+Generated at: 2026-07-09T13:07
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -428,9 +428,9 @@ Search window: 7 day(s) ending 2026-07-09
 ## Other notable readings
 - [Africa CDC reports progress, warns Ebola outbreak outpacing response in DRC](https://gazettengr.com/africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-drc/) | Peoples Gazette Nigeria | 2026-07-09T18:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
+- [Legionnaires' disease cluster in New York City grows to 36 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T15:43+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Legionnaires' disease cluster in New York City grows to 36 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T12:58+00:00 | Occupational and environmental epidemiology
+- [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [600 Dead In DR Congo Ebola Outbreak](https://www.channelstv.com/2026/07/09/600-dead-in-dr-congo-ebola-outbreak/) | Channels Television | 2026-07-09T09:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
