@@ -8,35 +8,25 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 104,
+    "metadata_only_count": 103,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 115,
+    "sources_failed": 2,
+    "sources_live": 117,
     "story_count_change": 2,
-    "wrapper_only_count": 4
+    "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 115,
+    "live": 117,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-09T08:40:22",
+  "generated_at": "2026-07-09T08:46:58",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
       "source": "CDC Current Outbreak List",
-      "source_type": "html_list"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
     },
     {
