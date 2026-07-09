@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T03:47
+Generated at: 2026-07-09T03:57
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-09
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) (PubMed Historical Pathogen Case Studies; 2026-07-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (104), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (3)
+- Category mix: Outbreaks and emerging infections (104), Policy, surveillance, and public health infrastructure (3), Major epidemiology studies (3)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -415,6 +415,8 @@ Search window: 7 day(s) ending 2026-07-09
   Updated numbers issued by the UN health agency showed there have been 1,759 confirmed cases in DR Congo since the outbreak was declared in mid-May, including 600 confirmed deaths. Two other people have died in neighbouring Uganda, where 17 patients have recovered out of 20 total confirmed cases. A total of 285 patients in the DRC have recovered, while 304 suspected cases of the viral haemorrhagic fever are under investigation.
 - [DR Congo Ebola outbreak death toll reaches 600](https://en.yenisafak.com/world/dr-congo-ebola-outbreak-death-toll-reaches-600-3720618) | Yeni Safak English | 2026-07-09T09:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.smdailyjournal.com/news/world/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths/article_cd643b13-0e0c-4520-8920-806f9237889e.html) | San Mateo Daily Journal | 2026-07-09T04:30+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Confirmed Ebola deaths in DR Congo hit 600](https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600) | Al Jazeera | 2026-07-09T01:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg.com | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
@@ -428,8 +430,6 @@ Search window: 7 day(s) ending 2026-07-09
 - [Galidesivir Cleared for Compassionate Use in Uganda’s Ebola Outbreak](https://www.contagionlive.com/view/galidesivir-cleared-for-compassionate-use-in-uganda-s-ebola-outbreak) | Contagion Live | 2026-07-08T16:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Speech by Commissioner Lahbib at the European Parliament on the Ebola Outbreak in Democratic Republic of the Congo and Uganda](https://reliefweb.int/report/democratic-republic-congo/speech-commissioner-lahbib-european-parliament-ebola-outbreak-democratic-republic-congo-and-uganda) | ReliefWeb | 2026-07-08T14:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.eagletribune.com/region/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths/article_3207b8f9-5d83-5f68-8dc0-3841d87c2da8.html) | Eagle-Tribune | 2026-07-08T07:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Death Toll in DR Congo Surpasses 500 as WHO Warns Outbreak Still Spreading](https://www.dawan.africa/news/ebola-death-toll-in-dr-congo-surpasses-500-as-who-warns-outbreak-still-spreading) | Dawan Africa | 2026-07-07T16:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
