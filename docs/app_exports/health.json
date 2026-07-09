@@ -11,18 +11,18 @@
     "metadata_only_count": 99,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 113,
+    "sources_live": 114,
     "story_count_change": 2,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 113,
+    "live": 114,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-09T08:16:56",
+  "generated_at": "2026-07-09T08:26:51",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
