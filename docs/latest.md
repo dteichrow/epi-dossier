@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T06:07
+Generated at: 2026-07-09T06:16
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -436,8 +436,6 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in Congo Still in ‘Expansion Phase’, WHO Says](https://english.aawsat.com/world/5293144-ebola-outbreak-congo-still-%E2%80%98expansion-phase%E2%80%99-who-says) | Asharq Al-Awsat English | 2026-07-07T09:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola deaths in DR Congo top 500 amid continued community transmission](https://www.globaltimes.cn/page/202607/1365319.shtml) | Global Times | 2026-07-07T03:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.france24.com/en/africa/20260706-death-toll-from-dr-congo-ebola-outbreak-passes-500-as-healthcare-workers-threaten-strike) | France 24 | 2026-07-06T16:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [African medical coalition urges coordinated action to contain Ebola outbreak](https://eastleighvoice.co.ke/index.php/africa/358598/african-medical-coalition-urges-coordinated-action-to-contain-ebola-outbreak) | The Eastleigh Voice | 2026-07-06T14:54+00:00 | Outbreaks and emerging infections
@@ -449,6 +447,8 @@ Search window: 7 day(s) ending 2026-07-09
 - [DR Congo opens second Ebola treatment centre [Africanews Today]](https://www.africanews.com/2026/07/06/dr-congo-opens-second-ebola-treatment-centre-africanews-today/) | africanews.com | 2026-07-06T09:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [The number of deaths from Ebola in the DRC has exceeded 500](https://open.kg/en/news/in-the-world/108123-chislo-smertej-ot-jeboly-v-dr-kongo-prevysilo-500.html) | open.kg | 2026-07-06T08:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [UNICEF Ebola Virus Disease Outbreak Humanitarian Flash Update No. 1 (Preparedness and Readiness in Western Eastern and Southern Africa Region), 6 July 2026](https://reliefweb.int/report/democratic-republic-congo/unicef-ebola-virus-disease-outbreak-humanitarian-flash-update-no-1-preparedness-and-readiness-western-eastern-and-southern-africa-region-6-july-2026) | ReliefWeb | 2026-07-06T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
