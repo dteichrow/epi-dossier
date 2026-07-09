@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T17:37
+Generated at: 2026-07-08T17:47
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-08
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) (PubMed Historical Pathogen Case Studies; 2026-07-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (110), Policy, surveillance, and public health infrastructure (4), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (110), Policy, surveillance, and public health infrastructure (4), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -401,7 +401,7 @@ Search window: 7 day(s) ending 2026-07-08
 - [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://www.ajmc.com/view/ebola-cases-top-1700-as-unpaid-health-workers-strike) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Photos from Congo and Uganda during Ebola outbreak](https://www.dailygazette.com/ap/national/photos-from-congo-and-uganda-during-ebola-outbreak/article_00a3a7c2-d947-5230-b790-1b0713bb6ec9.html) | The Daily Gazette | 2026-07-08T20:25+00:00 | Outbreaks and emerging infections
-  Updated: July 8, 2026 @ 8:05 pm Full Forecast Schenectady, NY (12308) Today A few passing clouds. Limited detail was available from feed metadata alone.
+  Updated: July 8, 2026 @ 8:25 pm Full Forecast Schenectady, NY (12308) Today A few passing clouds. Limited detail was available from feed metadata alone.
 - [Galidesivir Cleared for Compassionate Use in Uganda’s Ebola Outbreak](https://www.contagionlive.com/view/galidesivir-cleared-for-compassionate-use-in-uganda-s-ebola-outbreak) | Contagion Live | 2026-07-08T18:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Some health workers in Congo’s Ebola outbreak go on strike over pay issues as deaths near 600](https://www.bostonherald.com/2026/07/08/health-workers-strike-congo-ebola/) | Boston Herald | 2026-07-08T14:45+00:00 | Outbreaks and emerging infections
