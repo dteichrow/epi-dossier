@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T13:56
+Generated at: 2026-07-09T14:07
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-07-09
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
 - [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (19), Occupational and environmental epidemiology (16), Major epidemiology studies (3)
-- Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (20), Occupational and environmental epidemiology (16), Major epidemiology studies (3)
+- Source health: 3 source(s) failed during collection: CDC Current Outbreak List, WHO Regional Office for Africa, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Occupational and environmental epidemiology
@@ -440,7 +440,7 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola deaths in DR Congo hit 600](https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600) | Al Jazeera | 2026-07-09T01:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg.com | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
+- [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFl0TXZHVEVnU0E4bzJwUVJtbURCSFhiSU9yY0Z1aXlna09RWGRCZ2hoSEYwdC1semJZODVhRFdDSG4teTNQd0REenFzcXJaTjUtY1RHUDN0NTE0dFF3QnpJR2Q3N2VqX3lheVREQ244SUU0aGVUTXV3NjBYeWMydTdMdy1HVkk5TzdRcVpWSVE3SnNYeG1RSXZKRjNGSm02YjhhQ0MzQi16TTBUM05pbWVGQVBIZWNmZU5YWmtHeUpiVm5TelE?oc=5) | Bloomberg.com | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpycUNDRE5uNUxobFc4VGtrdHNiekV1Z3UzMVh2RlNBbmJxVGFmNVMzS3ZMVUhlSGJoMzJ0VDM2Z3lFS1FPMEFXb1FCelpZbmg2clREYThIWlhwMXRObDcxVzFxNkxFSDVNejFYNHM1TFQ5SnpzeWg2OFNUam5VanBBWDI?oc=5) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -464,8 +464,8 @@ Search window: 7 day(s) ending 2026-07-09
   Response measures include epidemiological surveillance, containment of disease transmission, and the implementation of emergency outbreak control activities. Although this form has a low fatality rate with timely antibiotic treatment, the gastrointestinal and inhalational forms—much less frequent—can be severe and potentially fatal. Human cases are concentrated in rural populations engaged in livestock farming, with seasonal peaks linked to periods of heightened pastoral activity.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) | PubMed Infectious Disease Search | 2026-07-08T00:00 | Major epidemiology studies
-  However, during COVID-19, governments frequently introduced vaccine mandates in contexts where people were already denied access to work, travel, and social activities due to lockdowns and restrictions. Accordingly, this paper explores COVID-19 vaccine mandates in New South Wales (Australia), France, Israel, Malaysia, Singapore, and Vietnam, where mandates primarily served as incentives to restore basic rights to travel, work, and access public spaces, that were restricted during the pandemic. This important context disrupts the standard operation of vaccine mandates.
+- [Liberia reports yellow fever case in Grand Gedah County](https://outbreaknewstoday.substack.com/p/liberia-reports-yellow-fever-case) | Outbreak News Today | 2026-07-04T00:15+00:00 | Outbreaks and emerging infections
+  Liberia reported two confirmed yellow fever cases and no deaths last year. Confirmation for yellow fever was performed at Institut Pasteur in Dakar, Senegal on June 16. He was vaccinated against yellow fever in 2009.
 
 ## Papers worth saving
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/)

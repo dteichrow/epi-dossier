@@ -8,24 +8,29 @@
     ],
     "metadata_only_count": 25,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 40,
+    "sources_failed": 3,
+    "sources_live": 41,
     "story_count_change": 4,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 40,
+    "live": 41,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-09T13:56:45",
+  "generated_at": "2026-07-09T14:07:44",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
       "source": "CDC Current Outbreak List",
       "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.afro.who.int', port=443): Read timed out. (read timeout=20)",
+      "source": "WHO Regional Office for Africa",
+      "source_type": "rss"
     },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
