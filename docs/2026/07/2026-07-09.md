@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T13:36
+Generated at: 2026-07-09T13:46
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-07-09
 - Topic size: 10 item(s) across 10 source(s); 0 official/primary-source item(s).
 - Lead item: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria, 2026-07-09T20:29+00:00)
 - Detailed note: Cluster remains active across 10 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post); [600 Dead In DR Congo Ebola Outbreak](https://www.channelstv.com/2026/07/09/600-dead-in-dr-congo-ebola-outbreak/) (Channels Television); [Confirmed Ebola deaths in DR Congo hit 600](https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600) (Al Jazeera); [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) (Bloomberg.com)
+- Evidence notes: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria); [Health Official Warns Ebola Outbreak Is 'Fastest Growing Ever' As DR Congo Death Toll Hits 600](https://www.news18.com/world/dr-congo-ebola-outbreak-fastest-growing-ever-kills-600-ws-l-10202098.html) (News18); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post); [600 Dead In DR Congo Ebola Outbreak](https://www.channelstv.com/2026/07/09/600-dead-in-dr-congo-ebola-outbreak/) (Channels Television); [Confirmed Ebola deaths in DR Congo hit 600](https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600) (Al Jazeera)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -428,6 +428,8 @@ Search window: 7 day(s) ending 2026-07-09
 ## Other notable readings
 - [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) | Premium Times Nigeria | 2026-07-09T20:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Health Official Warns Ebola Outbreak Is 'Fastest Growing Ever' As DR Congo Death Toll Hits 600](https://www.news18.com/world/dr-congo-ebola-outbreak-fastest-growing-ever-kills-600-ws-l-10202098.html) | News18 | 2026-07-09T20:18+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 36 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T15:43+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 - [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
@@ -440,7 +442,7 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg.com | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://www.ajmc.com/view/ebola-cases-top-1700-as-unpaid-health-workers-strike) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
+- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpycUNDRE5uNUxobFc4VGtrdHNiekV1Z3UzMVh2RlNBbmJxVGFmNVMzS3ZMVUhlSGJoMzJ0VDM2Z3lFS1FPMEFXb1FCelpZbmg2clREYThIWlhwMXRObDcxVzFxNkxFSDVNejFYNHM1TFQ5SnpzeWg2OFNUam5VanBBWDI?oc=5) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) | BBC | 2026-07-08T22:03+00:00 | Outbreaks and emerging infections
   Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months "I have never seen an outbreak this huge," says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily through breathing, coughing or sneezing. Vaccination rates had been higher than 90% until recently.
@@ -451,8 +453,6 @@ Search window: 7 day(s) ending 2026-07-09
 - [Congo Ebola outbreak: Ituri province accounts for nine out of 10 cases; Uganda reports no new cases in 2 weeks](https://outbreaknewstoday.substack.com/p/congo-ebola-outbreak-ituri-province) | Outbreak News Today | 2026-07-08T14:11+00:00 | Outbreaks and emerging infections
   Ituri Province remains the epicenter of the outbreak, accounting for 90.9% (1477) of all confirmed cases and 84.3% (439) of all reported deaths nationwide. In an update on the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo (DRC), since the beginning of the outbreak, the Democratic Republic of the Congo has reported 1624 confirmed cases, including 521 confirmed deaths (CFR 32.1%). As of 5 July 2026, the outbreak had resulted in a total of 21 cases (20 confirmed and one probable).
 - [Nearly 2 dozen sickened in Legionnaires' disease cluster in New York City - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/2-dozen-sickened-legionnaires-disease-cluster-new-york/story?id\=134519647) | ABC News - Breaking News, Latest News and Videos | 2026-07-08T10:48+00:00 | Occupational and environmental epidemiology
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola confirmed caseload tops 1,700 as WHO says outbreak still intensifying](https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ea3JuUHlVMldqU0xUQXJHM0lCU2hXN3BPOU11U0FabVhoZTFJMXRTS3pyb0xnT2g5X0RncUdqaHNjaFZOSExERWc4Z3N1ZVo3eVlaTG1EMDlzc3RTQk9iSExvc29oRVRyT1UyRWZpQnAyWUExbjNSVFNKNzc?oc=5) | Xinhua | 2026-07-08T04:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on Upper East Side continues to grow](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow/) | CBS News | 2026-07-07T03:21+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
