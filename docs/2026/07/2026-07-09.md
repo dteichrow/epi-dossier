@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T13:46
+Generated at: 2026-07-09T13:56
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -430,7 +430,7 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Health Official Warns Ebola Outbreak Is 'Fastest Growing Ever' As DR Congo Death Toll Hits 600](https://www.news18.com/world/dr-congo-ebola-outbreak-fastest-growing-ever-kills-600-ws-l-10202098.html) | News18 | 2026-07-09T20:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Legionnaires' disease cluster in New York City grows to 36 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T15:43+00:00 | Occupational and environmental epidemiology
+- [Legionnaires' disease cluster in New York City grows to 36 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T19:53+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 - [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
