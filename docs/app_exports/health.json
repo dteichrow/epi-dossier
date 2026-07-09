@@ -3,25 +3,26 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "Associated Press",
+      "BBC",
       "CIDRAP",
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 100,
+    "metadata_only_count": 98,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 115,
-    "story_count_change": 3,
+    "sources_live": 113,
+    "story_count_change": 2,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 115,
+    "live": 113,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-09T02:56:54",
+  "generated_at": "2026-07-09T03:07:04",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
