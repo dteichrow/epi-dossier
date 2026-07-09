@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T21:37
+Generated at: 2026-07-08T21:47
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
@@ -21,7 +21,6 @@ Search window: 7 day(s) ending 2026-07-08
 - Newly tracked story cluster: 103 item(s) across 61 source(s).
 - Baseline snapshot created with 103 clustered item(s) across 61 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- AJMC now foregrounds vaccination or vaccine policy in the story.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search)
@@ -412,7 +411,7 @@ Search window: 7 day(s) ending 2026-07-08
 ## Other notable readings
 - [Photos from Congo and Uganda during Ebola outbreak](https://www.messenger-inquirer.com/ap/ap_national_news/photos-from-congo-and-uganda-during-ebola-outbreak/article_7b8bad7a-0ced-55fe-9d47-0b4948bea1db.html) | Messenger-Inquirer | 2026-07-08T20:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Galidesivir Cleared for Compassionate Use in Uganda’s Ebola Outbreak](https://www.contagionlive.com/view/galidesivir-cleared-for-compassionate-use-in-uganda-s-ebola-outbreak) | Contagion Live | 2026-07-08T18:08+00:00 | Outbreaks and emerging infections
+- [Galidesivir Cleared for Compassionate Use in Uganda’s Ebola Outbreak](https://www.contagionlive.com/view/galidesivir-cleared-for-compassionate-use-in-uganda-s-ebola-outbreak) | Contagion Live | 2026-07-08T16:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Some health workers in Congo’s Ebola outbreak go on strike over pay issues as deaths near 600](https://www.bostonherald.com/2026/07/08/health-workers-strike-congo-ebola/) | Boston Herald | 2026-07-08T14:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
