@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T23:36
+Generated at: 2026-07-08T23:47
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
@@ -29,12 +29,6 @@ Search window: 7 day(s) ending 2026-07-08
 - Baseline snapshot created with 104 clustered item(s) across 61 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
-### Dengue and arboviruses
-- Lead item: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
 
 ## Major topics
 ### Ebola virus disease
@@ -62,10 +56,10 @@ Search window: 7 day(s) ending 2026-07-08
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
 - Lead item: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today, 2026-07-07T20:51+00:00)
-- Detailed note: The total cases since the beginning of the year is now 62,422 with Colombo and Gampaha districts reporting the most with 12,663 and 12,582 cases, respectively. Large epidemics were recorded in 2002, 2004, 2009, 2017, and 2019. By signing in or creating an account, you agree with Associated Broadcasting Company's Terms & Conditions and Privacy Policy .
-- Evidence notes: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); [Monsoon health alert: Doctor reveal early symptoms of malaria and dengue, warning signs and prevention tips](https://www.news9live.com/health/monsoon-alert-malaria-dengue-warning-signs-symptoms-treatment-prevention-2987022) (News9live)
+- Detailed note: The total cases since the beginning of the year is now 62,422 with Colombo and Gampaha districts reporting the most with 12,663 and 12,582 cases, respectively. Large epidemics were recorded in 2002, 2004, 2009, 2017, and 2019.
+- Evidence notes: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
