@@ -3,44 +3,25 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
-      "Associated Press",
       "BBC",
-      "CBS News",
-      "CIDRAP",
-      "Reuters",
-      "STAT"
+      "CBS News"
     ],
-    "metadata_only_count": 108,
+    "metadata_only_count": 26,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 120,
-    "story_count_change": 4,
-    "wrapper_only_count": 5
+    "sources_failed": 1,
+    "sources_live": 41,
+    "story_count_change": 3,
+    "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 120,
+    "live": 41,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-09T13:08:35",
+  "generated_at": "2026-07-09T13:19:31",
   "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
-      "source": "CDC Current Outbreak List",
-      "source_type": "html_list"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
-      "source_type": "html_list"
-    },
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
