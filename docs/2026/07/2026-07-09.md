@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T05:57
+Generated at: 2026-07-09T06:07
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -25,14 +25,14 @@ Search window: 7 day(s) ending 2026-07-09
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 97 item(s) across 56 source(s).
-- Baseline snapshot created with 97 clustered item(s) across 56 source(s).
+- Newly tracked story cluster: 97 item(s) across 55 source(s).
+- Baseline snapshot created with 97 clustered item(s) across 55 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 97 item(s) across 56 source(s); 3 official/primary-source item(s).
+- Topic size: 97 item(s) across 55 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since the last update of 21 June 2026 (Situation Report #6), cumulative case incidence in the Democratic Republic of the Congo has increased by 24.7%, with 259 new confirmed cases reported. The latest government data shows 1,708 recorded cases, including 580 deaths, and that the first month of this Ebola outbreak was already the worst on record, health authorities said....
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-3) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.timesfreepress.com/news/2026/jul/09/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths-near-600/) (Chattanooga Times Free Press); [Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected province](https://apnews.com/article/congo-ebola-outbreak-deaths-957589a45723dcb092c986e1ec17da07) (AP News)
@@ -434,8 +434,6 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo still spreading, WHO says](https://www.reuters.com/world/africa/ebola-outbreak-congo-still-expansion-phase-who-says-2026-07-07/) | Reuters | 2026-07-07T13:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak exposes a fractured outbreak response system](https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/) | STAT | 2026-07-07T12:10+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in Congo Still in ‘Expansion Phase’, WHO Says](https://english.aawsat.com/world/5293144-ebola-outbreak-congo-still-%E2%80%98expansion-phase%E2%80%99-who-says) | Asharq Al-Awsat English | 2026-07-07T09:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola deaths in DR Congo top 500 amid continued community transmission](https://www.globaltimes.cn/page/202607/1365319.shtml) | Global Times | 2026-07-07T03:22+00:00 | Outbreaks and emerging infections
@@ -449,6 +447,8 @@ Search window: 7 day(s) ending 2026-07-09
 - [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) | The Eastleigh Voice | 2026-07-06T11:20+00:00 | Outbreaks and emerging infections
   Cholera outbreak kills 24 in Central African Republic To prevent the spread of cholera, residents have been urged to ensure water safety by boiling or treating it with chlorine or other disinfectants. Continue with a related story, or tap the speaker icon on the next page to listen. Limited detail was available from feed metadata alone.
 - [DR Congo opens second Ebola treatment centre [Africanews Today]](https://www.africanews.com/2026/07/06/dr-congo-opens-second-ebola-treatment-centre-africanews-today/) | africanews.com | 2026-07-06T09:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [The number of deaths from Ebola in the DRC has exceeded 500](https://open.kg/en/news/in-the-world/108123-chislo-smertej-ot-jeboly-v-dr-kongo-prevysilo-500.html) | open.kg | 2026-07-06T08:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
