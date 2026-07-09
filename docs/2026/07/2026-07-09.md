@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T06:36
+Generated at: 2026-07-09T06:47
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -35,7 +35,7 @@ Search window: 7 day(s) ending 2026-07-09
 - Topic size: 98 item(s) across 56 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since the last update of 21 June 2026 (Situation Report #6), cumulative case incidence in the Democratic Republic of the Congo has increased by 24.7%, with 259 new confirmed cases reported. The latest government data shows 1,708 recorded cases, including 580 deaths, and that the first month of this Ebola outbreak was already the worst on record, health authorities said....
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-3) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.timesfreepress.com/news/2026/jul/09/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths-near-600/) (Chattanooga Times Free Press); [Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected province](https://apnews.com/article/congo-ebola-outbreak-deaths-957589a45723dcb092c986e1ec17da07) (AP News)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-3) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected provinces](https://apnews.com/article/congo-ebola-outbreak-deaths-957589a45723dcb092c986e1ec17da07) (AP News); [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.timesfreepress.com/news/2026/jul/09/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths-near-600/) (Chattanooga Times Free Press)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -410,15 +410,15 @@ Search window: 7 day(s) ending 2026-07-09
 
 
 ## Other notable readings
+- [Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected provinces](https://apnews.com/article/congo-ebola-outbreak-deaths-957589a45723dcb092c986e1ec17da07) | AP News | 2026-07-09T13:29+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://www.timesfreepress.com/news/2026/jul/09/some-health-workers-in-congos-ebola-outbreak-go-on-strike-over-pay-issues-as-deaths-near-600/) | Chattanooga Times Free Press | 2026-07-09T12:00+00:00 | Outbreaks and emerging infections
   The latest government data shows 1,708 recorded cases, including 580 deaths, and that the first month of this Ebola outbreak was already the worst on record, health authorities said. Biensi Kano, a member of the epidemiological surveillance committee in Ituri's capital, Bunia, told The Associated Press. In Ituri province, the hardest hit among the three provinces in eastern Congo affected by the outbreak, some of the health professionals and other front-line workers told The Associated Press they've not been paid their wages and bonuses since the outbreak was declared on May 15.
-- [Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected province](https://apnews.com/article/congo-ebola-outbreak-deaths-957589a45723dcb092c986e1ec17da07) | AP News | 2026-07-09T09:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [600 Dead In DR Congo Ebola Outbreak](https://www.channelstv.com/2026/07/09/600-dead-in-dr-congo-ebola-outbreak/) | Channels Television | 2026-07-09T09:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola deaths in DR Congo hit 600](https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600) | Al Jazeera | 2026-07-09T01:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
+- [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg.com | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://www.ajmc.com/view/ebola-cases-top-1700-as-unpaid-health-workers-strike) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -430,11 +430,11 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Speech by Commissioner Lahbib at the European Parliament on the Ebola Outbreak in Democratic Republic of the Congo and Uganda](https://reliefweb.int/report/democratic-republic-congo/speech-commissioner-lahbib-european-parliament-ebola-outbreak-democratic-republic-congo-and-uganda) | ReliefWeb | 2026-07-08T14:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [South Africa Prepares for Ebola Risk as Congo Outbreak Spreads](https://www.bloomberg.com/news/articles/2026-07-07/south-africa-prepares-for-ebola-risk-as-congo-outbreak-spreads) | Bloomberg | 2026-07-07T14:03+00:00 | Outbreaks and emerging infections
+- [South Africa Prepares for Ebola Risk as Congo Outbreak Spreads](https://www.bloomberg.com/news/articles/2026-07-07/south-africa-prepares-for-ebola-risk-as-congo-outbreak-spreads) | Bloomberg.com | 2026-07-07T14:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo still spreading, WHO says](https://www.reuters.com/world/africa/ebola-outbreak-congo-still-expansion-phase-who-says-2026-07-07/) | Reuters | 2026-07-07T13:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak in Congo Still in ‘Expansion Phase’, WHO Says](https://english.aawsat.com/world/5293144-ebola-outbreak-congo-still-%E2%80%98expansion-phase%E2%80%99-who-says) | Asharq Al-Awsat English | 2026-07-07T09:26+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak exposes a fractured outbreak response system](https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/) | STAT | 2026-07-07T12:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike](https://www.france24.com/en/africa/20260706-death-toll-from-dr-congo-ebola-outbreak-passes-500-as-healthcare-workers-threaten-strike) | France 24 | 2026-07-06T16:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.

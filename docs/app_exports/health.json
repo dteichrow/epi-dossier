@@ -5,7 +5,8 @@
       "Associated Press",
       "BBC",
       "CIDRAP",
-      "Reuters"
+      "Reuters",
+      "STAT"
     ],
     "metadata_only_count": 97,
     "sources_cached": 0,
@@ -21,7 +22,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-09T06:36:53",
+  "generated_at": "2026-07-09T06:47:20",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
