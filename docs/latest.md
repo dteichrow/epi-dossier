@@ -1,9 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-08
-Generated at: 2026-07-08T21:47
+Generated at: 2026-07-08T21:57
 Search window: 7 day(s) ending 2026-07-08
 
 ## Executive scan
+- [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
 - [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies; 2026-07-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-06T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
@@ -11,22 +12,22 @@ Search window: 7 day(s) ending 2026-07-08
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) (PubMed Historical Pathogen Case Studies; 2026-07-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 06, Data as of 21 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-2) (WHO Regional Office for Africa; 2026-06-26T16:55+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (109), Policy, surveillance, and public health infrastructure (4), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (109), Policy, surveillance, and public health infrastructure (4), Major epidemiology studies (3)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### Historical epidemiology and ancient pathogens
+- Lead item: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search)
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
+- PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
+- PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
+
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
 - Newly tracked story cluster: 103 item(s) across 61 source(s).
 - Baseline snapshot created with 103 clustered item(s) across 61 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
-### Historical epidemiology and ancient pathogens
-- Lead item: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 3 item(s) across 2 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
-- PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
@@ -62,19 +63,19 @@ Search window: 7 day(s) ending 2026-07-08
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
+### Pertussis
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
+- Lead item: [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search, 2026-07-08T00:00)
+- Detailed note: Clinically, pertussis presented special profile characterized by a high prevalence of cough (85.0%-90.2%) and a low incidence of fever (6.6%-12.8%). Notably, 52.4% (1759/3356) of cases occurred in school-aged children (6-17 years), marking a significant shift in susceptibility from preschool to school-aged children.
+- Evidence notes: [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
 ### Cholera
 - Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
 - Lead item: [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) (The Eastleigh Voice, 2026-07-06T11:20+00:00)
 - Detailed note: Cholera outbreak kills 24 in Central African Republic To prevent the spread of cholera, residents have been urged to ensure water safety by boiling or treating it with chlorine or other disinfectants. Continue with a related story, or tap the speaker icon on the next page to listen.
 - Evidence notes: [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) (The Eastleigh Voice)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
-
-### Anthrax
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Anthrax case reported in Uvs province in western Mongolia](https://outbreaknewstoday.substack.com/p/anthrax-case-reported-in-uvs-province) (Outbreak News Today, 2026-07-04T20:14+00:00)
-- Detailed note: Response measures include epidemiological surveillance, containment of disease transmission, and the implementation of emergency outbreak control activities. Although this form has a low fatality rate with timely antibiotic treatment, the gastrointestinal and inhalational forms—much less frequent—can be severe and potentially fatal.
-- Evidence notes: [Anthrax case reported in Uvs province in western Mongolia](https://outbreaknewstoday.substack.com/p/anthrax-case-reported-in-uvs-province) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
 
@@ -307,6 +308,16 @@ Search window: 7 day(s) ending 2026-07-08
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-07-08T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42419305/
+- Category: Major epidemiology studies
+- Summary: Clinically, pertussis presented special profile characterized by a high prevalence of cough (85.0%-90.2%) and a low incidence of fever (6.6%-12.8%). Notably, 52.4% (1759/3356) of cases occurred in school-aged children (6-17 years), marking a significant shift in susceptibility from preschool to school-aged children. Shanghai (7.8%) exhibited a markedly higher positivity rate than Beijing (2.1%) and Guangzhou & Shenzhen (2.6%).
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.
 - Source: PubMed Infectious Disease Search
 - Date: 2026-07-08T00:00
@@ -397,18 +408,10 @@ Search window: 7 day(s) ending 2026-07-08
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### Ebola Cases Top 1700 as Unpaid Health Workers Strike
-- Source: AJMC
-- Date: 2026-07-08T22:25+00:00
-- URL: https://www.ajmc.com/view/ebola-cases-top-1700-as-unpaid-health-workers-strike
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://www.ajmc.com/view/ebola-cases-top-1700-as-unpaid-health-workers-strike) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Photos from Congo and Uganda during Ebola outbreak](https://www.messenger-inquirer.com/ap/ap_national_news/photos-from-congo-and-uganda-during-ebola-outbreak/article_7b8bad7a-0ced-55fe-9d47-0b4948bea1db.html) | Messenger-Inquirer | 2026-07-08T20:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Galidesivir Cleared for Compassionate Use in Uganda’s Ebola Outbreak](https://www.contagionlive.com/view/galidesivir-cleared-for-compassionate-use-in-uganda-s-ebola-outbreak) | Contagion Live | 2026-07-08T16:40+00:00 | Outbreaks and emerging infections
@@ -447,10 +450,14 @@ Search window: 7 day(s) ending 2026-07-08
   Limited detail was available from feed metadata alone.
 - [The number of deaths from Ebola in the DRC has exceeded 500](https://open.kg/en/news/in-the-world/108123-chislo-smertej-ot-jeboly-v-dr-kongo-prevysilo-500.html) | open.kg | 2026-07-06T08:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [UNICEF Ebola Virus Disease Outbreak Humanitarian Flash Update No. 1 (Preparedness and Readiness in Western Eastern and Southern Africa Region), 6 July 2026](https://reliefweb.int/report/democratic-republic-congo/unicef-ebola-virus-disease-outbreak-humanitarian-flash-update-no-1-preparedness-and-readiness-western-eastern-and-southern-africa-region-6-july-2026) | ReliefWeb | 2026-07-06T07:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/22221751.2026.2695527
+  Journal/preprint server: Emerging microbes & infections
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42419305/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42419305/
 - [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21505594.2026.2700072
