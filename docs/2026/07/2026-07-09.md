@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T13:26
+Generated at: 2026-07-09T13:36
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -25,7 +25,7 @@ Search window: 7 day(s) ending 2026-07-09
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
-- Lead item: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DRC](https://gazettengr.com/africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-drc/) (Peoples Gazette Nigeria)
+- Lead item: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria)
 - Newly tracked story cluster: 10 item(s) across 10 source(s).
 - Baseline snapshot created with 10 clustered item(s) across 10 source(s).
 - The Jerusalem Post now reports conflict over body retrieval or burial practices.
@@ -57,9 +57,9 @@ Search window: 7 day(s) ending 2026-07-09
 
 ### Ebola virus disease
 - Topic size: 10 item(s) across 10 source(s); 0 official/primary-source item(s).
-- Lead item: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DRC](https://gazettengr.com/africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-drc/) (Peoples Gazette Nigeria, 2026-07-09T18:13+00:00)
+- Lead item: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria, 2026-07-09T20:29+00:00)
 - Detailed note: Cluster remains active across 10 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DRC](https://gazettengr.com/africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-drc/) (Peoples Gazette Nigeria); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post); [600 Dead In DR Congo Ebola Outbreak](https://www.channelstv.com/2026/07/09/600-dead-in-dr-congo-ebola-outbreak/) (Channels Television); [Confirmed Ebola deaths in DR Congo hit 600](https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600) (Al Jazeera); [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) (Bloomberg.com)
+- Evidence notes: [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post); [600 Dead In DR Congo Ebola Outbreak](https://www.channelstv.com/2026/07/09/600-dead-in-dr-congo-ebola-outbreak/) (Channels Television); [Confirmed Ebola deaths in DR Congo hit 600](https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600) (Al Jazeera); [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) (Bloomberg.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -426,7 +426,7 @@ Search window: 7 day(s) ending 2026-07-09
 
 
 ## Other notable readings
-- [Africa CDC reports progress, warns Ebola outbreak outpacing response in DRC](https://gazettengr.com/africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-drc/) | Peoples Gazette Nigeria | 2026-07-09T18:13+00:00 | Outbreaks and emerging infections
+- [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) | Premium Times Nigeria | 2026-07-09T20:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 36 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T15:43+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
