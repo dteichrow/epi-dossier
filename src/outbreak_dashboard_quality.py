@@ -232,7 +232,7 @@ def override_for_story(story: dict[str, Any], overrides: dict[str, Any]) -> dict
 
 
 def dashboard_metric(story: dict[str, Any], items: list[dict[str, Any]], override: dict[str, Any], metric_kind: str) -> dict[str, str]:
-    return render_site.dashboard_override_metric(override, metric_kind) or render_site.infer_outbreak_metric(story, items, metric_kind)
+    return render_site.outbreak_dashboard_metric(story, items, override, metric_kind)
 
 
 def validate_story_html(story: dict[str, Any], dashboard_metrics: dict[str, dict[str, str]], html_text: str) -> list[DashboardQualityIssue]:

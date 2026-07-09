@@ -421,6 +421,73 @@ overrides:
     assert "<strong>267</strong>" not in content
 
 
+def test_render_story_dashboard_uses_newer_authority_count_over_stale_override(tmp_path, monkeypatch):
+    override_path = tmp_path / "outbreak_dashboard_overrides.yml"
+    override_path.write_text(
+        """
+overrides:
+  story_test_ebola:
+    source_name: Associated Press
+    source_status: Government data reported by AP
+    as_of: "2026-07-08"
+    cases:
+      label: Reported cases
+      value: "1,708"
+      note: "Latest government data reported by AP on 2026-07-08."
+    deaths:
+      value: "580"
+      note: "Latest government data reported by AP on 2026-07-08."
+""".strip()
+    )
+    monkeypatch.setattr(render_site, "DASHBOARD_OVERRIDES_PATH", override_path)
+    render_site.load_outbreak_dashboard_overrides.cache_clear()
+
+    story = {
+        "story_id": "story_test_ebola",
+        "display_title": "Ebola virus disease",
+        "lead_title": "Ebola outbreak updates",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "Health desk",
+        "item_count": 1,
+        "source_count": 1,
+        "official_item_ids": [],
+        "press_item_ids": ["authority_new"],
+        "publisher_names": ["Example Wire"],
+        "freshness_counts": {"live": 1},
+        "latest_update_summary": "Story remains active.",
+        "latest_update_bullets": [],
+        "related_references": [],
+        "first_seen_at": "2026-07-01T00:00:00",
+        "latest_updated_at": "2026-07-09T18:00:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "authority_new": {
+            "title": "Congo health authorities report 1,724 Ebola cases and 612 deaths",
+            "preferred_url": "https://example.com/authority-count",
+            "publisher_name": "Example Wire",
+            "published_at": "2026-07-09T18:00+00:00",
+            "summary": "Health authorities reported a higher cumulative total in the latest update.",
+            "source_confidence": "wire",
+            "publisher_tier": "wire",
+            "link_quality": "resolved_article",
+            "freshness_state": "live",
+            "region": "Africa",
+            "country": "Democratic Republic of the Congo",
+        },
+    }
+
+    try:
+        content = render_story_page(story, items_by_id, date(2026, 7, 9), datetime(2026, 7, 9, 18, 15))
+    finally:
+        render_site.load_outbreak_dashboard_overrides.cache_clear()
+
+    assert '<span class="dashboard-label">Cases</span><strong>1,724</strong>' in content
+    assert '<span class="dashboard-label">Deaths</span><strong>612</strong>' in content
+    assert '<span class="dashboard-label">Reported cases</span><strong>1,708</strong>' not in content
+    assert '<span class="dashboard-label">Deaths</span><strong>580</strong>' not in content
+
+
 def test_render_story_dashboard_does_not_promote_metadata_only_pheic_headline():
     story = {
         "display_title": "Ebola virus disease",

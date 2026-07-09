@@ -118,7 +118,7 @@ def test_dashboard_quality_override_passes_when_rendered_dashboard_matches(tmp_p
     assert [issue for issue in issues if issue.severity == "error"] == []
 
 
-def test_dashboard_quality_flags_override_stale_after_newer_authority_count(tmp_path: Path) -> None:
+def test_dashboard_quality_flags_rendered_override_stale_after_newer_authority_count(tmp_path: Path) -> None:
     docs_root = tmp_path / "docs"
     story_path = docs_root / "stories" / "story_test_ebola.html"
     story_path.parent.mkdir(parents=True)
@@ -165,8 +165,8 @@ def test_dashboard_quality_flags_override_stale_after_newer_authority_count(tmp_
     issues = validate_snapshot(snapshot, docs_root=docs_root, overrides=overrides)
 
     errors = [issue for issue in issues if issue.severity == "error"]
-    assert any(issue.metric == "cases" and "lower than a newer authority-citing count" in issue.message for issue in errors)
-    assert any(issue.metric == "deaths" and "lower than a newer authority-citing count" in issue.message for issue in errors)
+    assert any(issue.metric == "cases" and "does not match" in issue.message for issue in errors)
+    assert any(issue.metric == "deaths" and "does not match" in issue.message for issue in errors)
 
 
 def test_dashboard_override_requires_traceable_source() -> None:

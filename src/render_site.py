@@ -1643,8 +1643,8 @@ def humanize_data_value(key: str, value: str) -> str:
 
 def render_outbreak_dashboard(story: dict[str, Any], items: list[dict[str, Any]]) -> str:
     override = outbreak_dashboard_override_for_story(story)
-    cases = dashboard_override_metric(override, "cases") or infer_outbreak_metric(story, items, "cases")
-    deaths = dashboard_override_metric(override, "deaths") or infer_outbreak_metric(story, items, "deaths")
+    cases = outbreak_dashboard_metric(story, items, override, "cases")
+    deaths = outbreak_dashboard_metric(story, items, override, "deaths")
     affected_countries = infer_affected_countries(story, items)
     emergency_status = infer_emergency_status(story, items)
     pathogen_lineage = infer_pathogen_lineage(story, items)
@@ -1671,6 +1671,13 @@ def render_outbreak_dashboard(story: dict[str, Any], items: list[dict[str, Any]]
         f'<div class="outbreak-dashboard">{cards}</div>'
         "</div>"
     )
+
+
+def outbreak_dashboard_metric(story: dict[str, Any], items: list[dict[str, Any]], override: dict[str, Any], metric_kind: str) -> dict[str, str]:
+    override_metric = dashboard_override_metric(override, metric_kind)
+    if override_metric and not dashboard_override_metric_is_stale(story, items, override, metric_kind, override_metric):
+        return override_metric
+    return infer_outbreak_metric(story, items, metric_kind)
 
 
 @lru_cache(maxsize=1)
@@ -1720,6 +1727,36 @@ def dashboard_override_metric_note(override: dict[str, Any], metric: dict[str, A
     source_status = normalize_whitespace(str(override.get("source_status") or "Curated public report"))
     as_of = normalize_whitespace(str(override.get("as_of") or "date not captured"))
     return f"{source_status} from {source_name} ({as_of}); verify against official surveillance updates."
+
+
+def dashboard_override_metric_is_stale(
+    story: dict[str, Any],
+    items: list[dict[str, Any]],
+    override: dict[str, Any],
+    metric_kind: str,
+    metric: dict[str, str],
+) -> bool:
+    override_value = metric_numeric_value(metric.get("value"))
+    if override_value is None:
+        return False
+    override_timestamp = sort_timestamp_value(str(override.get("as_of", "")))
+    candidates = collect_outbreak_metric_candidates(story, items, metric_kind)
+    for candidate in candidates:
+        if not metric_candidate_is_dashboard_authoritative(candidate):
+            continue
+        candidate_value = int(candidate.get("numeric_value") or 0)
+        candidate_timestamp = int(candidate.get("raw_timestamp") or 0)
+        if candidate_value > override_value and candidate_timestamp > override_timestamp:
+            return True
+    return False
+
+
+def metric_numeric_value(value: Any) -> int | None:
+    text = normalize_whitespace(str(value or ""))
+    match = re.search(r"\d[\d,]*", text)
+    if not match:
+        return None
+    return int(match.group(0).replace(",", ""))
 
 
 def infer_outbreak_metric(story: dict[str, Any], items: list[dict[str, Any]], metric_kind: str) -> dict[str, str]:
