@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T00:17
+Generated at: 2026-07-09T00:27
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -56,11 +56,11 @@ Search window: 7 day(s) ending 2026-07-09
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Measles transmission and vaccination
+### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.com/news/articles/cj0gel72mlgo) (BBC, 2026-07-08T22:03+00:00)
-- Detailed note: The death toll includes confirmed and suspected cases of measles. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily through breathing, coughing or sneezing.
-- Evidence notes: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.com/news/articles/cj0gel72mlgo) (BBC); [Larimer County measles case prompts exposure alert at Longmont hospital](https://www.coloradohometownweekly.com/2026/07/06/larimer-county-longmont-hospital-exposure/) (Colorado Hometown Weekly)
+- Lead item: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today, 2026-07-07T20:51+00:00)
+- Detailed note: The total cases since the beginning of the year is now 62,422 with Colombo and Gampaha districts reporting the most with 12,663 and 12,582 cases, respectively. Large epidemics were recorded in 2002, 2004, 2009, 2017, and 2019.
+- Evidence notes: [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) (Outbreak News Today); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -415,8 +415,6 @@ Search window: 7 day(s) ending 2026-07-09
   The total numbers, released on Wednesday, were confirmed as of Tuesday, while 51 new cases and 20 deaths were recorded in the previous 24 hours. list 1 of 3 Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak Limited detail was available from feed metadata alone.
 - [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://www.ajmc.com/view/ebola-cases-top-1700-as-unpaid-health-workers-strike) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.com/news/articles/cj0gel72mlgo) | BBC | 2026-07-08T22:03+00:00 | Outbreaks and emerging infections
-  The death toll includes confirmed and suspected cases of measles. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily through breathing, coughing or sneezing. Vaccination rates had been higher than 90% until recently.
 - [Photos from Congo and Uganda during Ebola outbreak](https://www.messenger-inquirer.com/ap/ap_national_news/photos-from-congo-and-uganda-during-ebola-outbreak/article_7b8bad7a-0ced-55fe-9d47-0b4948bea1db.html) | Messenger-Inquirer | 2026-07-08T20:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Galidesivir Cleared for Compassionate Use in Uganda’s Ebola Outbreak](https://www.contagionlive.com/view/galidesivir-cleared-for-compassionate-use-in-uganda-s-ebola-outbreak) | Contagion Live | 2026-07-08T16:40+00:00 | Outbreaks and emerging infections
@@ -429,6 +427,8 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg.com | 2026-07-08T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Sri Lanka reports more than 1,000 dengue cases a day in July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-more-than-1000) | Outbreak News Today | 2026-07-07T20:51+00:00 | Outbreaks and emerging infections
+  The total cases since the beginning of the year is now 62,422 with Colombo and Gampaha districts reporting the most with 12,663 and 12,582 cases, respectively. Large epidemics were recorded in 2002, 2004, 2009, 2017, and 2019. The largest outbreak in Sri Lankan history occurred in 2017, with more than 186,000 reported dengue cases nationally.
 - [South Africa Prepares for Ebola Risk as Congo Outbreak Spreads](https://www.bloomberg.com/news/articles/2026-07-07/south-africa-prepares-for-ebola-risk-as-congo-outbreak-spreads) | Bloomberg.com | 2026-07-07T14:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo still spreading, WHO says](https://www.reuters.com/world/africa/ebola-outbreak-congo-still-expansion-phase-who-says-2026-07-07/) | Reuters | 2026-07-07T13:09+00:00 | Outbreaks and emerging infections
@@ -493,7 +493,6 @@ Search window: 7 day(s) ending 2026-07-09
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
 
 ## Possible blog/video angles
-- Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
