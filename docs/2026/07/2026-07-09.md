@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T08:46
+Generated at: 2026-07-09T08:56
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-09
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-06T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) (PubMed Historical Pathogen Case Studies; 2026-07-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (109), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (3)
+- Category mix: Outbreaks and emerging infections (108), Major epidemiology studies (3), Policy, surveillance, and public health infrastructure (3)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 104 item(s) across 60 source(s).
-- Baseline snapshot created with 104 clustered item(s) across 60 source(s).
+- Newly tracked story cluster: 103 item(s) across 60 source(s).
+- Baseline snapshot created with 103 clustered item(s) across 60 source(s).
 - The Jerusalem Post now reports conflict over body retrieval or burial practices.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -33,7 +33,7 @@ Search window: 7 day(s) ending 2026-07-09
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 104 item(s) across 60 source(s); 3 official/primary-source item(s).
+- Topic size: 103 item(s) across 60 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
 - Detailed note: Democratic Republic of the Congo Since the last update of 21 June 2026 (Situation Report #6), cumulative case incidence in the Democratic Republic of the Congo has increased by 24.7%, with 259 new confirmed cases reported. Publications orlunwop@who.int Tue, 30/06/2026 - 13:35 Event description The Bundibugyo virus disease (BVD) outbreak remains active, with ongoing transmission in the Democratic Republic of the...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-3) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak the ‘fastest growing ever’ – Africa CDC](https://www.theafricareport.com/424638/ebola-outbreak-the-fastest-growing-ever-africa-cdc/) (The Africa Report); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post)
