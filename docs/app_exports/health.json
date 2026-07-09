@@ -10,7 +10,7 @@
     ],
     "metadata_only_count": 105,
     "sources_cached": 0,
-    "sources_failed": 5,
+    "sources_failed": 2,
     "sources_live": 119,
     "story_count_change": 2,
     "wrapper_only_count": 2
@@ -22,7 +22,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-08T19:27:15",
+  "generated_at": "2026-07-08T19:37:04",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
@@ -33,21 +33,6 @@
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/medrxiv/2026-06-30/2026-07-08",
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/biorxiv/2026-06-30/2026-07-08",
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/biorxiv/2026-06-30/2026-07-08",
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
     }
   ]
 }
