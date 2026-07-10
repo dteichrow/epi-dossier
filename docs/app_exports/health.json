@@ -5,41 +5,28 @@
       "ABC News",
       "BBC",
       "CBS News",
-      "CIDRAP",
       "Guardian",
-      "NPR",
-      "Reuters",
-      "STAT"
+      "NPR"
     ],
-    "metadata_only_count": 111,
-    "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 129,
-    "story_count_change": 6,
-    "wrapper_only_count": 4
+    "metadata_only_count": 23,
+    "sources_cached": 5,
+    "sources_failed": 2,
+    "sources_live": 36,
+    "story_count_change": 4,
+    "wrapper_only_count": 2
   },
   "freshness_summary": {
-    "fallback_cache": 0,
-    "live": 129,
-    "refresh_cache": 0,
+    "fallback_cache": 1,
+    "live": 36,
+    "refresh_cache": 4,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T10:13:31",
+  "generated_at": "2026-07-10T10:18:59",
   "source_failures": [
     {
-      "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
+      "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html [cache fallback used]",
       "source": "CDC Current Outbreak List",
-      "source_type": "html_list"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
     },
     {
