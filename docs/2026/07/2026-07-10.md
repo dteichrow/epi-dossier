@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T04:46
+Generated at: 2026-07-10T04:56
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -44,10 +44,10 @@ Search window: 7 day(s) ending 2026-07-10
 - Baseline snapshot created with 8 clustered item(s) across 8 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
-### Dengue and arboviruses
-- Lead item: [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+### Tuberculosis and antimicrobial resistance
+- Lead item: [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies)
+- Newly tracked story cluster: 2 item(s) across 2 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
@@ -64,7 +64,7 @@ Search window: 7 day(s) ending 2026-07-10
 - Topic size: 8 item(s) across 8 source(s); 0 official/primary-source item(s).
 - Lead item: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy, 2026-07-10T09:49+00:00)
 - Detailed note: Cluster remains active across 8 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy); [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English); [Ebola outbreak in DR Congo spreads at record pace, WHO warns](https://moldova1.md/p/80410/ebola-outbreak-in-dr-congo-spreads-at-record-pace-who-warns) (Moldova 1); [Ebola Kills 600 in DR Congo as Outbreak Spreads at Record Pace](https://en.sedaily.com/international/2026/07/10/ebola-kills-600-in-dr-congo-as-outbreak-spreads-at-record) (Seoul Economic Daily); [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) (Ommcom News)
+- Evidence notes: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy); [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English); [Congo-Kinshasa: Africa CDC Reports Progress, Warns Ebola Outbreak Outpacing Response in DR Congo](https://allafrica.com/stories/202607100103.html) (allAfrica.com); [Congo’s Ebola Outbreak Expands, Death Toll Climbs To 600](https://stratnewsglobal.com/world-news/congos-ebola-outbreak-expands-death-toll-climbs-to-600/) (StratNews Global); [Ebola outbreak in DR Congo spreads at record pace, WHO warns](https://moldova1.md/p/80410/ebola-outbreak-in-dr-congo-spreads-at-record-pace-who-warns) (Moldova 1)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -76,14 +76,6 @@ Search window: 7 day(s) ending 2026-07-10
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
-### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka, 2026-07-05T04:56+00:00)
-- Detailed note: It looks like nothing was found at this location.
-- Evidence notes: [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); [Mangaluru: Health dept urges public to stay alert over gradual rise in jaundice, dengue cases](https://daijiworld.com/news/newsDisplay?newsID\=1319552) (Daijiworld); [A Clinical and Operational Preparedness Framework for Dengue in Colombia: Integrating Surveillance, Clinical Response, Prevention, and Health System Planning](https://www.cureus.com/articles/501637-a-clinical-and-operational-preparedness-framework-for-dengue-in-colombia-integrating-surveillance-clinical-response-prevention-and-health-system-planning) (Cureus)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Historical epidemiology and ancient pathogens
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
 - Lead item: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search, 2026-07-08T00:00)
@@ -91,6 +83,14 @@ Search window: 7 day(s) ending 2026-07-10
 - Evidence notes: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search); [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies); [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) (BBC, 2026-07-08T22:03+00:00)
+- Detailed note: Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months "I have never seen an outbreak this huge," says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily...
+- Evidence notes: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) (BBC); [Bangladesh measles crisis: 2 more children die, 747 cases since March](https://www.wionews.com/videos/bangladesh-measles-crisis-2-more-children-die-747-cases-since-march-1783683759544) (WION)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -443,15 +443,15 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [Philippines reports bird flu outbreak among backyard birds, WOAH says, Asia News](https://www.asiaone.com/asia/philippines-reports-bird-flu-outbreak-among-backyard-birds-woah-says) | AsiaOne | 2026-07-10T08:39+00:00 | Outbreaks and emerging infections
   PARIS - The Philippines has reported an outbreak of highly pathogenic H5N1 bird flu among backyard birds in its Oriental Mindoro province, the World Organisation for Animal Health (WOAH) said on Friday (July 10). The H5N1 virus was detected in a flock of 39 poultry in the town of Capalan, the Paris-based WOAH said, citing a report from the Philippine authorities. The spread of avian influenza, commonly called bird flu, has raised concerns among governments and the poultry industry after it ravaged flocks around the world in recent years, disrupting supply, fuelling higher food prices and raising the risk of human transmission.
+- [Congo-Kinshasa: Africa CDC Reports Progress, Warns Ebola Outbreak Outpacing Response in DR Congo](https://allafrica.com/stories/202607100103.html) | allAfrica.com | 2026-07-10T05:45+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo’s Ebola Outbreak Expands, Death Toll Climbs To 600](https://stratnewsglobal.com/world-news/congos-ebola-outbreak-expands-death-toll-climbs-to-600/) | StratNews Global | 2026-07-10T05:45+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo spreads at record pace, WHO warns](https://moldova1.md/p/80410/ebola-outbreak-in-dr-congo-spreads-at-record-pace-who-warns) | Moldova 1 | 2026-07-10T04:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Kills 600 in DR Congo as Outbreak Spreads at Record Pace](https://en.sedaily.com/international/2026/07/10/ebola-kills-600-in-dr-congo-as-outbreak-spreads-at-record) | Seoul Economic Daily | 2026-07-10T02:48+00:00 | Outbreaks and emerging infections
+- [Ebola Kills 600 in DR Congo as Outbreak Spreads at Record Pace](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnlKTVZZdXExYU1yY3BKRGNuWnpGM2hGRDFPVmppT3F4bEJTandncE5YRGNHdjJYZzh5bE9HeGtYdGNoRnRXMXp3cVViUW1STWFZWE90OHJ5WlRjQWFZc0VSeXZzYXNkdU1iZ3diRm5yblRUTW9qRjA0QjZvOUlBRHpuaVEwWVMzcUk3OU1WYjVWSnVrcDhOalhKQjJCYmQyaFY2LWZYSXg?oc=5) | Seoul Economic Daily | 2026-07-10T02:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) | Ommcom News | 2026-07-10T02:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in Democratic Republic of Congo is ‘fastest growing’ ever as 600 die, officials say](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2c4a3FMZDVTd3N4cXRLRktHZTJoNHBwdnBsUkU2MVpMaWxuVmZYMjg2aW4wZmxqWFUxcFNWb3FvekVGUmJhdUhpcTZ6QlREX013NWJGM3VZVzM2RnREVzNUczFoVmdld181aUs1TmQ5SGMwZUd3aTBLaFg1QW1iTHBaS3BTb0xDUk1ZRVZmUlNwZWRVRExMT1g4dWZXN0NjNXQzTkw3XzRfejkwak5nV0dTY0hzSnNKSmZXUlJabVFYZk1BdVZMcWdEZl9RRE0?oc=5) | CTV News | 2026-07-10T01:55+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak continues to spread in Eastern Congo](https://news.google.com/rss/articles/CBMikwFBVV95cUxNci1zd0dSUHZoMUVQd3F2YktMQnlBRzQ1SXlTOXI1ZV9vUHplUEpuX09VeC1zb0kzZndZMnN6SEVFUUZrdFRKaktCd1IzbERhSWpEMnhkUklwX0kzMVpSaE5jbUYzN193ZFZQUGh6TW9hMHNUOUNBMnNkTGF3Uzg0Uzgtd3B3Qzc2TVZiVk9pMWxSMEk?oc=5) | Global News | 2026-07-09T19:44+00:00 | Outbreaks and emerging infections
+- [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcDE0MEdyeU9mR0RzYWtuRFBBZ2d4WjJnNXVRcVFTSlNtWnFpSkJnRWZDMkwtUUJVSTFLOTZTT0JMZ3F3YkxDT3V6NERNMTBkVWdib0RXWk9PWXF5elFlYVFIbndPMDZWTVdjQ1hxTV85Z05uYnUxeFFLZkZNRE91U242bXU0YmpxVTBrY05XaWxqZnY5NUlfSy1wRTZpOFhCY1J6dTNwSGlINFpzWGRNcE95REc2RUFVMkxpMDlIaG9NZmtCMGgxd3Z2OA?oc=5) | Ommcom News | 2026-07-10T02:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T17:01+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
