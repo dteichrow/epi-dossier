@@ -1834,21 +1834,21 @@
       "Guardian",
       "NPR"
     ],
-    "metadata_only_count": 23,
+    "metadata_only_count": 22,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 41,
+    "sources_live": 40,
     "story_count_change": 6,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 41,
+    "live": 40,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T11:16:47",
+  "generated_at": "2026-07-10T11:26:50",
   "high_priority_item_ids": [
     "item_ba22dc0575d9e3b2",
     "item_64b6e906b00a7a6c",
@@ -1861,7 +1861,7 @@
     "item_39c76ef67f2f2e70",
     "item_73e6cea2104b8305"
   ],
-  "item_count": 41,
+  "item_count": 40,
   "items": [
     {
       "abstract_url": null,
@@ -1901,7 +1901,7 @@
       "resolved_url": "https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/",
       "source": "Google News Ebola Burial and Treatment Response",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:42.804452+00:00",
+      "source_cached_at": "2026-07-10T18:25:45.808640+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/",
@@ -1911,7 +1911,7 @@
       "title": "Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -1952,7 +1952,7 @@
       "resolved_url": "https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm",
       "source": "Google News Southeast Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:53.136974+00:00",
+      "source_cached_at": "2026-07-10T18:25:54.872815+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm",
@@ -1962,7 +1962,7 @@
       "title": "H5N1 outbreak in Philippines amid Australian fears",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2003,7 +2003,7 @@
       "resolved_url": "https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc",
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:36.470300+00:00",
+      "source_cached_at": "2026-07-10T18:25:40.100562+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc",
@@ -2013,7 +2013,7 @@
       "title": "Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2054,7 +2054,7 @@
       "resolved_url": "https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html",
       "source": "Google News India Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:52.356931+00:00",
+      "source_cached_at": "2026-07-10T18:25:54.208823+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html",
@@ -2064,7 +2064,7 @@
       "title": "Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2105,7 +2105,7 @@
       "resolved_url": "https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-uganda-un-aid-b3012557.html",
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:41.932198+00:00",
+      "source_cached_at": "2026-07-10T18:25:45.191230+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-uganda-un-aid-b3012557.html",
@@ -2115,7 +2115,7 @@
       "title": "Ebola outbreak in DR Congo \u2018fastest growing on record\u2019",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2156,7 +2156,7 @@
       "resolved_url": "https://www.polity.org.za/article/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10",
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:41.932198+00:00",
+      "source_cached_at": "2026-07-10T18:25:45.191230+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.polity.org.za/article/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10",
@@ -2166,7 +2166,7 @@
       "title": "Congo Ebola outbreak still spreading largely undetected, WHO official says",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2207,7 +2207,7 @@
       "resolved_url": "https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/",
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:41.932198+00:00",
+      "source_cached_at": "2026-07-10T18:25:45.191230+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/",
@@ -2217,7 +2217,7 @@
       "title": "Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2258,7 +2258,7 @@
       "resolved_url": null,
       "source": "Google News Hemorrhagic Fever and Zoonoses",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:41.932198+00:00",
+      "source_cached_at": "2026-07-10T18:25:45.191230+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3eGtyMHVXRGJndkxkY3p0bENLTlZzR010cDloX0xYdjNSZlczMEtzd1JGSjBtZ1FnSEhMTHJiRlVSMzVqNUlRVGlKSXJqM3JINzN0OFl4ZWZkNE81aEVsT2hXYnpTTFRYaTV6N1lSNmdSdEEy?oc=5",
@@ -2268,7 +2268,7 @@
       "title": "DR Congo Ebola Death Toll Tops 600 as Outbreak Expands",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2309,7 +2309,7 @@
       "resolved_url": null,
       "source": "Google News Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:36.470300+00:00",
+      "source_cached_at": "2026-07-10T18:25:40.100562+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNTlUVDdaRHR0U3BHd096MTJCbU91NDZ3WmxJR3oxbzUzMmprd3pNeW1vUjd5ZU5paW9vSUlaaGFUZ0Zib2lQODl2b2tKY3pzeUxRb2h6elh4ckgtWVNWZTJ4N3h1cWlmSmJQUzhRNTA?oc=5",
@@ -2319,7 +2319,7 @@
       "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2357,7 +2357,7 @@
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:25.454008+00:00",
+      "source_cached_at": "2026-07-10T18:25:28.815309+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42430119/",
@@ -2367,7 +2367,7 @@
       "title": "Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage."
     },
     {
@@ -2407,7 +2407,7 @@
       "resolved_url": "https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\\=134612583",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\\=134612583",
@@ -2417,7 +2417,7 @@
       "title": "Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2458,7 +2458,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:05.625922+00:00",
+      "source_cached_at": "2026-07-10T18:25:10.080363+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980",
@@ -2468,7 +2468,7 @@
       "title": "Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2509,7 +2509,7 @@
       "resolved_url": null,
       "source": "CDC MMWR",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:05.625922+00:00",
+      "source_cached_at": "2026-07-10T18:25:10.080363+00:00",
       "source_confidence": "official_agency",
       "source_type": "rss",
       "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979",
@@ -2519,7 +2519,7 @@
       "title": "Acute Flaccid Myelitis Surveillance",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2560,7 +2560,7 @@
       "resolved_url": "https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905",
       "source": "Google News Central Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:50.528225+00:00",
+      "source_cached_at": "2026-07-10T18:25:52.540650+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905",
@@ -2570,7 +2570,7 @@
       "title": "Ebola death toll hits 600 in DR Congo as virus reported in new province",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2610,7 +2610,7 @@
       "resolved_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/",
@@ -2620,7 +2620,7 @@
       "title": "Legionnaires' disease cluster on Upper East Side grows",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2660,7 +2660,7 @@
       "resolved_url": "https://www.cbsnews.com/newyork/news/upper-east-side-legionnaires-disease-cluster-cooling-tower-testing/",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/newyork/news/upper-east-side-legionnaires-disease-cluster-cooling-tower-testing/",
@@ -2670,7 +2670,7 @@
       "title": "Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2708,7 +2708,7 @@
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:25.454008+00:00",
+      "source_cached_at": "2026-07-10T18:25:28.815309+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42426264/",
@@ -2718,7 +2718,7 @@
       "title": "Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -2759,7 +2759,7 @@
       "resolved_url": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo",
       "source": "Google News Major Outbreak Desks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:37.225923+00:00",
+      "source_cached_at": "2026-07-10T18:25:40.701095+00:00",
       "source_confidence": "major_newsroom",
       "source_type": "rss",
       "source_url": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo",
@@ -2769,7 +2769,7 @@
       "title": "Bangladesh made huge progress on measles but now children keep dying",
       "topic_id": "topic_0cc2d5322bc76f8f",
       "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -2809,7 +2809,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:12.904290+00:00",
+      "source_cached_at": "2026-07-10T18:25:15.815914+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026",
@@ -2819,7 +2819,7 @@
       "title": "FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2859,7 +2859,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:12.904290+00:00",
+      "source_cached_at": "2026-07-10T18:25:15.815914+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026",
@@ -2869,7 +2869,7 @@
       "title": "FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2909,7 +2909,7 @@
       "resolved_url": null,
       "source": "FDA Foodborne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:12.904290+00:00",
+      "source_cached_at": "2026-07-10T18:25:15.815914+00:00",
       "source_confidence": "official_agency",
       "source_type": "html_list",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026",
@@ -2919,7 +2919,7 @@
       "title": "FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -2957,7 +2957,7 @@
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:25.454008+00:00",
+      "source_cached_at": "2026-07-10T18:25:28.815309+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42419446/",
@@ -2967,7 +2967,7 @@
       "title": "Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage."
     },
     {
@@ -3006,7 +3006,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:22.836289+00:00",
+      "source_cached_at": "2026-07-10T18:25:25.967446+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42421287/",
@@ -3016,58 +3016,8 @@
       "title": "Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Comes from an official or primary-source channel."
-    },
-    {
-      "abstract_url": null,
-      "aggregator_source": "Google News Occupational and Public Health",
-      "canonical_url": "https://cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow",
-      "category": "Occupational and environmental epidemiology",
-      "caveats": "Usable source detail was limited after cleanup.",
-      "content_class": "metadata_only_signal",
-      "country": "",
-      "display_source": "CBS News",
-      "doi": null,
-      "editions": [
-        "index",
-        "notebook",
-        "outbreaks",
-        "watch"
-      ],
-      "evidence_type": "news_report",
-      "freshness_state": "live",
-      "item_id": "item_7c4f3a9cba059597",
-      "journal": null,
-      "link_quality": "metadata_only",
-      "local_signal": false,
-      "low_detail": true,
-      "official": false,
-      "preferred_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow/",
-      "preferred_url_kind": "metadata_only",
-      "published_at": "2026-07-07T03:21+00:00",
-      "publisher": "CBS News",
-      "publisher_access": "open",
-      "publisher_name": "CBS News",
-      "publisher_tier": "major_newsroom",
-      "raw_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVc1TGw0RkZpMk5HZHllMGZqSHliNlQzSTdSZnlRZzMwdElrSTBkcXJHa2g1Sm9nT2dxaGh1T1Fnd0M5WFRHSkZxMUVBLTJqU1hUQXVvS29IdHJmZ3A4dy1OellYU2R5M2hCenNROVVCVFB2SE11Wm1jZERsN3BkX2RiYXhHZnpKVy1DWUhZT1dmMzVmR20zZHBXX2xPZE5CY2F3MHhBYw?oc=5",
-      "region": "Cross-region / unassigned",
-      "relevance_score": 5,
-      "resolved_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow/",
-      "source": "Google News Occupational and Public Health",
-      "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
-      "source_confidence": "metadata_only_signal",
-      "source_type": "rss",
-      "source_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow/",
-      "story_id": "story_17a354bcafcca4ce",
-      "story_status": "expanding_coverage",
-      "summary": "Limited detail was available from feed metadata alone.",
-      "title": "Legionnaires' disease cluster on Upper East Side continues to grow",
-      "topic_id": "topic_17a354bcafcca4ce",
-      "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
-      "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
       "abstract_url": null,
@@ -3104,7 +3054,7 @@
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:25.454008+00:00",
+      "source_cached_at": "2026-07-10T18:25:28.815309+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42414335/",
@@ -3114,7 +3064,7 @@
       "title": "Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel."
     },
     {
@@ -3154,7 +3104,7 @@
       "resolved_url": "https://abcnews.com/US/2-dozen-sickened-legionnaires-disease-cluster-new-york/story?id\\=134519647",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://abcnews.com/US/2-dozen-sickened-legionnaires-disease-cluster-new-york/story?id\\=134519647",
@@ -3164,7 +3114,7 @@
       "title": "Nearly 2 dozen sickened in Legionnaires' disease cluster in New York City - ABC News - Breaking News, Latest News and Videos",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3205,7 +3155,7 @@
       "resolved_url": "https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others",
       "source": "Google News Southern Africa Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:51.172664+00:00",
+      "source_cached_at": "2026-07-10T18:25:53.115229+00:00",
       "source_confidence": "general_outlet",
       "source_type": "rss",
       "source_url": "https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others",
@@ -3215,7 +3165,7 @@
       "title": "Cholera outbreak in Lamu County claims two lives, affects 50 others",
       "topic_id": "topic_9ba6e7897955eb36",
       "topic_name": "Cholera",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3256,7 +3206,7 @@
       "resolved_url": "https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147",
       "source": "Google News South Asia Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:51.740988+00:00",
+      "source_cached_at": "2026-07-10T18:25:53.698143+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147",
@@ -3266,7 +3216,7 @@
       "title": "Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     },
     {
@@ -3306,7 +3256,7 @@
       "resolved_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/",
@@ -3316,7 +3266,7 @@
       "title": "Legionnaires' disease cluster on NYC's Upper East Side under investigation",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3354,7 +3304,7 @@
       "resolved_url": null,
       "source": "PubMed Historical Pathogen Case Studies",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:25.454008+00:00",
+      "source_cached_at": "2026-07-10T18:25:28.815309+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42401834/",
@@ -3364,7 +3314,7 @@
       "title": "Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage."
     },
     {
@@ -3403,7 +3353,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:22.836289+00:00",
+      "source_cached_at": "2026-07-10T18:25:25.967446+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42421423/",
@@ -3413,7 +3363,7 @@
       "title": "Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -3452,7 +3402,7 @@
       "resolved_url": null,
       "source": "PubMed Infectious Disease Search",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:22.836289+00:00",
+      "source_cached_at": "2026-07-10T18:25:25.967446+00:00",
       "source_confidence": "specialist_health",
       "source_type": "pubmed",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42429434/",
@@ -3462,7 +3412,7 @@
       "title": "Real-world effectiveness of HPV vaccination against high-risk type HPV DNA positivity among adult women aged 18 - 45years in China: A matched test-negative design study.",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Comes from an official or primary-source channel."
     },
     {
@@ -3502,7 +3452,7 @@
       "resolved_url": "https://www.fox5ny.com/news/nyc-legionnaires-disease-cluster-upper-east-side-grows-36-cases",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.fox5ny.com/news/nyc-legionnaires-disease-cluster-upper-east-side-grows-36-cases",
@@ -3512,7 +3462,7 @@
       "title": "Legionnaires' outbreak grows to 46 on Upper East Side",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3552,7 +3502,7 @@
       "resolved_url": "https://gothamist.com/news/ues-legionnaires-disease-cluster-has-hospitalized-17-but-no-deaths-yet-officials-say",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://gothamist.com/news/ues-legionnaires-disease-cluster-has-hospitalized-17-but-no-deaths-yet-officials-say",
@@ -3562,7 +3512,7 @@
       "title": "UES Legionnaires' disease cluster has hospitalized 17, but no deaths yet, officials say",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3602,7 +3552,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/nyc-legionnaires-disease-cluster",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/nyc-legionnaires-disease-cluster",
@@ -3612,7 +3562,7 @@
       "title": "NYC Legionnaires' disease cluster update",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3652,7 +3602,7 @@
       "resolved_url": "https://www.prnewswire.com/news-releases/alliance-to-prevent-legionnaires-disease-issues-statement-on-new-york-city-legionnaires-disease-cluster-302819790.html",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.prnewswire.com/news-releases/alliance-to-prevent-legionnaires-disease-issues-statement-on-new-york-city-legionnaires-disease-cluster-302819790.html",
@@ -3662,7 +3612,7 @@
       "title": "Alliance to Prevent Legionnaires' Disease Issues Statement on New York City Legionnaires' Disease Cluster",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3702,7 +3652,7 @@
       "resolved_url": "https://www.centraloregondaily.com/news/nation-world/nearly-2-dozen-sickened-in-legionnaires-disease-cluster-in-new-york-city/video_e295c146-6f3d-503b-9b51-468e7debda35.html",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.centraloregondaily.com/news/nation-world/nearly-2-dozen-sickened-in-legionnaires-disease-cluster-in-new-york-city/video_e295c146-6f3d-503b-9b51-468e7debda35.html",
@@ -3712,7 +3662,7 @@
       "title": "Nearly 2 dozen sickened in Legionnaires' disease cluster in New York City",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3752,7 +3702,7 @@
       "resolved_url": "https://pix11.com/news/local-news/legionnaires-cluster-increases-on-the-upper-east-side-officials/",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://pix11.com/news/local-news/legionnaires-cluster-increases-on-the-upper-east-side-officials/",
@@ -3762,7 +3712,7 @@
       "title": "Legionnaires\u2019 cluster continues to grow in Manhattan: officials",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3801,7 +3751,7 @@
       "resolved_url": "https://www.usatoday.com/story/news/2026/07/06/nyc-reports-legionnaires-disease-cluster-in-manhattan-is-it-fatal/90819389007/",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.usatoday.com/story/news/2026/07/06/nyc-reports-legionnaires-disease-cluster-in-manhattan-is-it-fatal/90819389007/",
@@ -3811,7 +3761,7 @@
       "title": "Is Legionnaires' disease fatal? What to know as NYC reports outbreak",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3851,7 +3801,7 @@
       "resolved_url": "https://outbreaknewstoday.substack.com/p/new-york-city-officials-report-on",
       "source": "Google News Occupational and Public Health",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:46.995454+00:00",
+      "source_cached_at": "2026-07-10T18:25:49.645212+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://outbreaknewstoday.substack.com/p/new-york-city-officials-report-on",
@@ -3861,7 +3811,7 @@
       "title": "New York City officials report on Legionnaires' disease cluster in Manhattan",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response. Useful for occupational or environmental epidemiology coverage."
     },
     {
@@ -3900,7 +3850,7 @@
       "resolved_url": "https://www.cureus.com/articles/501637-a-clinical-and-operational-preparedness-framework-for-dengue-in-colombia-integrating-surveillance-clinical-response-prevention-and-health-system-planning",
       "source": "Google News Vector-borne Outbreaks",
       "source_cache_age_hours": 0.0,
-      "source_cached_at": "2026-07-10T18:15:41.259667+00:00",
+      "source_cached_at": "2026-07-10T18:25:44.505767+00:00",
       "source_confidence": "metadata_only_signal",
       "source_type": "rss",
       "source_url": "https://www.cureus.com/articles/501637-a-clinical-and-operational-preparedness-framework-for-dengue-in-colombia-integrating-surveillance-clinical-response-prevention-and-health-system-planning",
@@ -3910,7 +3860,7 @@
       "title": "A Clinical and Operational Preparedness Framework for Dengue in Colombia: Integrating Surveillance, Clinical Response, Prevention, and Health System Planning",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "why_it_matters": "Directly relevant to outbreak detection, transmission monitoring, or response."
     }
   ],
@@ -5845,7 +5795,7 @@
       "why_reporters_care": "Zika matters because congenital outcomes, pregnancy guidance, travel messaging, and mosquito ecology can turn a mild-adult disease story into a major public-health communications event."
     }
   ],
-  "run_id": "run_d43da4cf7374453c",
+  "run_id": "run_854f18bd90ec4ffb",
   "search_window": "7 day(s) ending 2026-07-10",
   "source_failures": [
     {
@@ -5862,7 +5812,7 @@
   "source_health": [
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:04.976654+00:00",
+      "cached_at": "2026-07-10T18:25:09.437546+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5872,7 +5822,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:05.626201+00:00",
+      "cached_at": "2026-07-10T18:25:10.080616+00:00",
       "error": null,
       "item_count": 300,
       "mode": "live",
@@ -5882,7 +5832,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:05.768918+00:00",
+      "cached_at": "2026-07-10T18:25:10.232184+00:00",
       "error": null,
       "item_count": 21,
       "mode": "live",
@@ -5902,7 +5852,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:06.077763+00:00",
+      "cached_at": "2026-07-10T18:25:10.606208+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5912,7 +5862,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:09.069462+00:00",
+      "cached_at": "2026-07-10T18:25:11.554738+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5922,7 +5872,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:10.156081+00:00",
+      "cached_at": "2026-07-10T18:25:12.624952+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5932,7 +5882,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:11.671685+00:00",
+      "cached_at": "2026-07-10T18:25:13.834272+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -5942,7 +5892,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:11.894678+00:00",
+      "cached_at": "2026-07-10T18:25:14.710449+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -5952,7 +5902,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:12.010947+00:00",
+      "cached_at": "2026-07-10T18:25:14.837015+00:00",
       "error": null,
       "item_count": 20,
       "mode": "live",
@@ -5962,7 +5912,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:12.445704+00:00",
+      "cached_at": "2026-07-10T18:25:15.328976+00:00",
       "error": null,
       "item_count": 6,
       "mode": "live",
@@ -5972,7 +5922,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:12.904340+00:00",
+      "cached_at": "2026-07-10T18:25:15.815966+00:00",
       "error": null,
       "item_count": 55,
       "mode": "live",
@@ -5992,7 +5942,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:22.836344+00:00",
+      "cached_at": "2026-07-10T18:25:25.967508+00:00",
       "error": null,
       "item_count": 25,
       "mode": "live",
@@ -6002,7 +5952,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:23.251630+00:00",
+      "cached_at": "2026-07-10T18:25:26.660162+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6012,7 +5962,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:23.691787+00:00",
+      "cached_at": "2026-07-10T18:25:27.075691+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6022,7 +5972,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:25.454084+00:00",
+      "cached_at": "2026-07-10T18:25:28.815346+00:00",
       "error": null,
       "item_count": 5,
       "mode": "live",
@@ -6032,7 +5982,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:26.161876+00:00",
+      "cached_at": "2026-07-10T18:25:29.674112+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6042,7 +5992,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:27.940481+00:00",
+      "cached_at": "2026-07-10T18:25:31.142900+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6052,7 +6002,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:29.853296+00:00",
+      "cached_at": "2026-07-10T18:25:32.746312+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6062,7 +6012,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:33.606481+00:00",
+      "cached_at": "2026-07-10T18:25:37.199058+00:00",
       "error": null,
       "item_count": 19,
       "mode": "live",
@@ -6072,7 +6022,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:34.038006+00:00",
+      "cached_at": "2026-07-10T18:25:37.913263+00:00",
       "error": null,
       "item_count": 16,
       "mode": "live",
@@ -6082,7 +6032,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:34.196481+00:00",
+      "cached_at": "2026-07-10T18:25:38.377174+00:00",
       "error": null,
       "item_count": 10,
       "mode": "live",
@@ -6092,7 +6042,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:34.596933+00:00",
+      "cached_at": "2026-07-10T18:25:38.727236+00:00",
       "error": null,
       "item_count": 4,
       "mode": "live",
@@ -6102,7 +6052,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:35.237401+00:00",
+      "cached_at": "2026-07-10T18:25:38.937984+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6112,7 +6062,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:35.782575+00:00",
+      "cached_at": "2026-07-10T18:25:39.420617+00:00",
       "error": null,
       "item_count": 0,
       "mode": "live",
@@ -6122,7 +6072,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:36.470432+00:00",
+      "cached_at": "2026-07-10T18:25:40.100696+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6132,7 +6082,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:37.226056+00:00",
+      "cached_at": "2026-07-10T18:25:40.701227+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6142,7 +6092,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:37.846194+00:00",
+      "cached_at": "2026-07-10T18:25:41.385344+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6152,7 +6102,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:38.483212+00:00",
+      "cached_at": "2026-07-10T18:25:41.898059+00:00",
       "error": null,
       "item_count": 79,
       "mode": "live",
@@ -6162,7 +6112,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:39.314308+00:00",
+      "cached_at": "2026-07-10T18:25:42.573629+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6172,7 +6122,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:39.963124+00:00",
+      "cached_at": "2026-07-10T18:25:43.255293+00:00",
       "error": null,
       "item_count": 60,
       "mode": "live",
@@ -6182,7 +6132,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:40.650792+00:00",
+      "cached_at": "2026-07-10T18:25:43.877499+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6192,7 +6142,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:41.259798+00:00",
+      "cached_at": "2026-07-10T18:25:44.505893+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6202,7 +6152,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:41.932327+00:00",
+      "cached_at": "2026-07-10T18:25:45.191357+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6212,7 +6162,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:42.804555+00:00",
+      "cached_at": "2026-07-10T18:25:45.808747+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6222,7 +6172,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:43.519652+00:00",
+      "cached_at": "2026-07-10T18:25:46.443137+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6232,7 +6182,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:44.242653+00:00",
+      "cached_at": "2026-07-10T18:25:47.154933+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6242,7 +6192,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:45.056124+00:00",
+      "cached_at": "2026-07-10T18:25:47.751593+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6252,7 +6202,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:45.663834+00:00",
+      "cached_at": "2026-07-10T18:25:48.452209+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6262,7 +6212,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:46.304573+00:00",
+      "cached_at": "2026-07-10T18:25:49.094483+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6272,7 +6222,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:46.995571+00:00",
+      "cached_at": "2026-07-10T18:25:49.645341+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6282,7 +6232,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:47.716648+00:00",
+      "cached_at": "2026-07-10T18:25:50.251374+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6292,7 +6242,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:48.430352+00:00",
+      "cached_at": "2026-07-10T18:25:50.894271+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6302,7 +6252,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:49.063540+00:00",
+      "cached_at": "2026-07-10T18:25:51.367968+00:00",
       "error": null,
       "item_count": 15,
       "mode": "live",
@@ -6312,9 +6262,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:49.747630+00:00",
+      "cached_at": "2026-07-10T18:25:51.958275+00:00",
       "error": null,
-      "item_count": 70,
+      "item_count": 71,
       "mode": "live",
       "official": false,
       "source": "Google News East Africa Outbreaks",
@@ -6322,7 +6272,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:50.528344+00:00",
+      "cached_at": "2026-07-10T18:25:52.540764+00:00",
       "error": null,
       "item_count": 64,
       "mode": "live",
@@ -6332,7 +6282,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:51.172774+00:00",
+      "cached_at": "2026-07-10T18:25:53.115332+00:00",
       "error": null,
       "item_count": 66,
       "mode": "live",
@@ -6342,9 +6292,9 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:51.741100+00:00",
+      "cached_at": "2026-07-10T18:25:53.698259+00:00",
       "error": null,
-      "item_count": 78,
+      "item_count": 77,
       "mode": "live",
       "official": false,
       "source": "Google News South Asia Outbreaks",
@@ -6352,7 +6302,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:52.357027+00:00",
+      "cached_at": "2026-07-10T18:25:54.208928+00:00",
       "error": null,
       "item_count": 33,
       "mode": "live",
@@ -6362,7 +6312,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:53.137089+00:00",
+      "cached_at": "2026-07-10T18:25:54.872944+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6372,7 +6322,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:53.857024+00:00",
+      "cached_at": "2026-07-10T18:25:55.968257+00:00",
       "error": null,
       "item_count": 100,
       "mode": "live",
@@ -6382,7 +6332,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:54.510384+00:00",
+      "cached_at": "2026-07-10T18:25:56.796928+00:00",
       "error": null,
       "item_count": 80,
       "mode": "live",
@@ -6392,7 +6342,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:55.042160+00:00",
+      "cached_at": "2026-07-10T18:25:57.375246+00:00",
       "error": null,
       "item_count": 47,
       "mode": "live",
@@ -6402,7 +6352,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:55.538897+00:00",
+      "cached_at": "2026-07-10T18:25:57.866813+00:00",
       "error": null,
       "item_count": 49,
       "mode": "live",
@@ -6412,7 +6362,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:56.045104+00:00",
+      "cached_at": "2026-07-10T18:25:58.288488+00:00",
       "error": null,
       "item_count": 46,
       "mode": "live",
@@ -6422,7 +6372,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:56.503063+00:00",
+      "cached_at": "2026-07-10T18:25:58.783729+00:00",
       "error": null,
       "item_count": 51,
       "mode": "live",
@@ -6432,7 +6382,7 @@
     },
     {
       "cache_age_hours": 0.0,
-      "cached_at": "2026-07-10T18:15:56.950152+00:00",
+      "cached_at": "2026-07-10T18:25:59.162897+00:00",
       "error": null,
       "item_count": 14,
       "mode": "live",
@@ -6462,7 +6412,7 @@
         "africa"
       ],
       "evidence_type": "news_report",
-      "first_seen_at": "2026-07-10T11:16:47",
+      "first_seen_at": "2026-07-10T11:26:50",
       "flags": [
         "deaths_reported"
       ],
@@ -6490,7 +6440,7 @@
         "Anadolu Ajans\u0131 now includes deaths or fatal cases in the story frame."
       ],
       "latest_update_summary": "Baseline snapshot created with 8 clustered item(s) across 8 source(s).",
-      "latest_updated_at": "2026-07-10T11:16:47",
+      "latest_updated_at": "2026-07-10T11:26:50",
       "lead_source": "New York Post",
       "lead_title": "Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease",
       "lead_url": "https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/",
@@ -6601,19 +6551,19 @@
             "Baseline snapshot created with 8 clustered item(s) across 8 source(s).",
             "Anadolu Ajans\u0131 now includes deaths or fatal cases in the story frame."
           ],
-          "generated_at": "2026-07-10T11:16:47",
+          "generated_at": "2026-07-10T11:26:50",
           "is_new_story": true,
           "item_count": 8,
-          "run_id": "run_d43da4cf7374453c",
+          "run_id": "run_854f18bd90ec4ffb",
           "source_count": 8,
           "story_id": "story_56666e9c6c86e976",
           "topic_name": "Ebola virus disease",
-          "update_id": "story_update_b0ffb87bf68b9c70"
+          "update_id": "story_update_3184b8e09be437ef"
         }
       ],
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "what_happened": "Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease",
       "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
@@ -6632,26 +6582,25 @@
         "notebook"
       ],
       "evidence_type": "research_linked",
-      "first_seen_at": "2026-07-10T11:16:47",
+      "first_seen_at": "2026-07-10T11:26:50",
       "flags": [
         "active_investigation",
         "vaccine_signal"
       ],
       "freshness_counts": {
         "fallback_cache": 0,
-        "live": 16,
+        "live": 15,
         "refresh_cache": 0,
         "retained": 0,
         "unknown": 0
       },
-      "item_count": 16,
+      "item_count": 15,
       "item_ids": [
         "item_3437eedd81668aa6",
         "item_4d9d4afe532e9c57",
         "item_1968c28e95422afd",
         "item_974ff7365fbf023a",
         "item_5897be658c079094",
-        "item_7c4f3a9cba059597",
         "item_7b361f917bc7f8e6",
         "item_fc014c5bc85d8c2b",
         "item_93cfb0904e487665",
@@ -6660,16 +6609,17 @@
         "item_e657f1ddc4974972",
         "item_c1b30649a4d76bd2",
         "item_b5af75cc9ab034ad",
-        "item_2a17be38219190f1"
+        "item_2a17be38219190f1",
+        "item_b5a6730edd068e66"
       ],
       "latest_timestamp": "2026-07-09T17:00+00:00",
       "latest_update_bullets": [
-        "Baseline snapshot created with 16 clustered item(s) across 11 source(s).",
+        "Baseline snapshot created with 15 clustered item(s) across 11 source(s).",
         "CBS News now explicitly uses investigation or monitoring language.",
         "CDC MMWR now foregrounds vaccination or vaccine policy in the story."
       ],
-      "latest_update_summary": "Baseline snapshot created with 16 clustered item(s) across 11 source(s).",
-      "latest_updated_at": "2026-07-10T11:16:47",
+      "latest_update_summary": "Baseline snapshot created with 15 clustered item(s) across 11 source(s).",
+      "latest_updated_at": "2026-07-10T11:26:50",
       "lead_source": "CDC MMWR",
       "lead_title": "Acute Flaccid Myelitis Surveillance",
       "lead_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979",
@@ -6682,7 +6632,6 @@
         "item_3437eedd81668aa6",
         "item_1968c28e95422afd",
         "item_974ff7365fbf023a",
-        "item_7c4f3a9cba059597",
         "item_7b361f917bc7f8e6",
         "item_fc014c5bc85d8c2b",
         "item_93cfb0904e487665",
@@ -6716,7 +6665,7 @@
         "aggregator_only": 0,
         "general_outlet": 0,
         "major_newsroom": 0,
-        "metadata_only_signal": 14,
+        "metadata_only_signal": 13,
         "official_agency": 2,
         "specialist_health": 0,
         "wire": 0
@@ -6726,7 +6675,7 @@
         "aggregator_only": 0,
         "general_outlet": 0,
         "major_newsroom": 0,
-        "metadata_only_signal": 14,
+        "metadata_only_signal": 13,
         "official": 2,
         "specialist_health": 0,
         "wire": 0
@@ -6751,23 +6700,23 @@
       "timeline": [
         {
           "bullets": [
-            "Baseline snapshot created with 16 clustered item(s) across 11 source(s).",
+            "Baseline snapshot created with 15 clustered item(s) across 11 source(s).",
             "CBS News now explicitly uses investigation or monitoring language.",
             "CDC MMWR now foregrounds vaccination or vaccine policy in the story."
           ],
-          "generated_at": "2026-07-10T11:16:47",
+          "generated_at": "2026-07-10T11:26:50",
           "is_new_story": true,
-          "item_count": 16,
-          "run_id": "run_d43da4cf7374453c",
+          "item_count": 15,
+          "run_id": "run_854f18bd90ec4ffb",
           "source_count": 11,
           "story_id": "story_17a354bcafcca4ce",
           "topic_name": "Occupational and environmental epidemiology",
-          "update_id": "story_update_11c3db1344b74f42"
+          "update_id": "story_update_159a3ce57b22b5d4"
         }
       ],
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "what_happened": "Acute Flaccid Myelitis Surveillance",
       "why_it_matters": "This story has both official follow-up and broad publisher corroboration across 9 newsroom source(s)."
     },
@@ -6785,7 +6734,7 @@
         "asia"
       ],
       "evidence_type": "news_report",
-      "first_seen_at": "2026-07-10T11:16:47",
+      "first_seen_at": "2026-07-10T11:26:50",
       "flags": [],
       "freshness_counts": {
         "fallback_cache": 0,
@@ -6806,7 +6755,7 @@
         "Story tracking is now active for this cluster; future runs will report only new developments against this baseline."
       ],
       "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
-      "latest_updated_at": "2026-07-10T11:16:47",
+      "latest_updated_at": "2026-07-10T11:26:50",
       "lead_source": "Bhaskar English",
       "lead_title": "Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...",
       "lead_url": "https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html",
@@ -6896,19 +6845,19 @@
             "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
             "Story tracking is now active for this cluster; future runs will report only new developments against this baseline."
           ],
-          "generated_at": "2026-07-10T11:16:47",
+          "generated_at": "2026-07-10T11:26:50",
           "is_new_story": true,
           "item_count": 3,
-          "run_id": "run_d43da4cf7374453c",
+          "run_id": "run_854f18bd90ec4ffb",
           "source_count": 3,
           "story_id": "story_ccfeaff28d46baf6",
           "topic_name": "Dengue and arboviruses",
-          "update_id": "story_update_4251d5abfaee868e"
+          "update_id": "story_update_7fb37392ea12f31f"
         }
       ],
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "what_happened": "Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...",
       "why_it_matters": "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
     },
@@ -6925,7 +6874,7 @@
         "notebook"
       ],
       "evidence_type": "research_linked",
-      "first_seen_at": "2026-07-10T11:16:47",
+      "first_seen_at": "2026-07-10T11:26:50",
       "flags": [],
       "freshness_counts": {
         "fallback_cache": 0,
@@ -6946,7 +6895,7 @@
         "Story tracking is now active for this cluster; future runs will report only new developments against this baseline."
       ],
       "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 2 source(s).",
-      "latest_updated_at": "2026-07-10T11:16:47",
+      "latest_updated_at": "2026-07-10T11:26:50",
       "lead_source": "PubMed Historical Pathogen Case Studies",
       "lead_title": "Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.",
       "lead_url": "https://pubmed.ncbi.nlm.nih.gov/42430119/",
@@ -6999,19 +6948,19 @@
             "Baseline snapshot created with 3 clustered item(s) across 2 source(s).",
             "Story tracking is now active for this cluster; future runs will report only new developments against this baseline."
           ],
-          "generated_at": "2026-07-10T11:16:47",
+          "generated_at": "2026-07-10T11:26:50",
           "is_new_story": true,
           "item_count": 3,
-          "run_id": "run_d43da4cf7374453c",
+          "run_id": "run_854f18bd90ec4ffb",
           "source_count": 2,
           "story_id": "story_8b3f807bbfd61cab",
           "topic_name": "Tuberculosis and antimicrobial resistance",
-          "update_id": "story_update_68e0e1f026c6936d"
+          "update_id": "story_update_4f909e4801f165a5"
         }
       ],
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "what_happened": "Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.",
       "why_it_matters": "This file matters because official outbreak tracking remains active even if publisher coverage is thin."
     },
@@ -7029,7 +6978,7 @@
         "notebook"
       ],
       "evidence_type": "research_linked",
-      "first_seen_at": "2026-07-10T11:16:47",
+      "first_seen_at": "2026-07-10T11:26:50",
       "flags": [
         "vaccine_signal"
       ],
@@ -7051,7 +7000,7 @@
         "PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story."
       ],
       "latest_update_summary": "Baseline snapshot created with 2 clustered item(s) across 1 source(s).",
-      "latest_updated_at": "2026-07-10T11:16:47",
+      "latest_updated_at": "2026-07-10T11:26:50",
       "lead_source": "PubMed Historical Pathogen Case Studies",
       "lead_title": "Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.",
       "lead_url": "https://pubmed.ncbi.nlm.nih.gov/42414335/",
@@ -7101,19 +7050,19 @@
             "Baseline snapshot created with 2 clustered item(s) across 1 source(s).",
             "PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story."
           ],
-          "generated_at": "2026-07-10T11:16:47",
+          "generated_at": "2026-07-10T11:26:50",
           "is_new_story": true,
           "item_count": 2,
-          "run_id": "run_d43da4cf7374453c",
+          "run_id": "run_854f18bd90ec4ffb",
           "source_count": 1,
           "story_id": "story_b461b8ac8c062700",
           "topic_name": "Historical epidemiology and ancient pathogens",
-          "update_id": "story_update_fb7c3c246fc340b0"
+          "update_id": "story_update_4cb7b398250208e8"
         }
       ],
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "what_happened": "Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.",
       "why_it_matters": "This file matters because official outbreak tracking remains active even if publisher coverage is thin."
     },
@@ -7131,7 +7080,7 @@
         "notebook"
       ],
       "evidence_type": "research_linked",
-      "first_seen_at": "2026-07-10T11:16:47",
+      "first_seen_at": "2026-07-10T11:26:50",
       "flags": [
         "evacuation_measures",
         "vaccine_signal"
@@ -7155,7 +7104,7 @@
         "PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story."
       ],
       "latest_update_summary": "Baseline snapshot created with 2 clustered item(s) across 2 source(s).",
-      "latest_updated_at": "2026-07-10T11:16:47",
+      "latest_updated_at": "2026-07-10T11:26:50",
       "lead_source": "CDC MMWR",
       "lead_title": "Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter",
       "lead_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980",
@@ -7244,19 +7193,19 @@
             "CDC MMWR now includes evacuation reporting.",
             "PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story."
           ],
-          "generated_at": "2026-07-10T11:16:47",
+          "generated_at": "2026-07-10T11:26:50",
           "is_new_story": true,
           "item_count": 2,
-          "run_id": "run_d43da4cf7374453c",
+          "run_id": "run_854f18bd90ec4ffb",
           "source_count": 2,
           "story_id": "story_afd8f5934e291e02",
           "topic_name": "COVID-19 and SARS-CoV-2",
-          "update_id": "story_update_04f574ff1deb9788"
+          "update_id": "story_update_e0f056387d62e9cb"
         }
       ],
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-10T11:16:47",
+      "updated_at": "2026-07-10T11:26:50",
       "what_happened": "Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter",
       "why_it_matters": "This file matters because official outbreak tracking remains active even if publisher coverage is thin."
     }
@@ -7269,25 +7218,25 @@
   "topics": [
     {
       "display_title": "Occupational and environmental epidemiology",
-      "item_count": 16,
+      "item_count": 15,
       "item_ids": [
         "item_3437eedd81668aa6",
         "item_4d9d4afe532e9c57",
         "item_1968c28e95422afd",
         "item_974ff7365fbf023a",
         "item_5897be658c079094",
-        "item_7c4f3a9cba059597",
         "item_7b361f917bc7f8e6",
         "item_fc014c5bc85d8c2b",
         "item_93cfb0904e487665",
-        "item_24d6e1f53a98e0cd"
+        "item_24d6e1f53a98e0cd",
+        "item_cef429eaef5674f9"
       ],
       "source_count": 11,
       "story_id": "story_17a354bcafcca4ce",
       "summary": "During 2020\u20132025, 17\u201348 AFM cases were reported annually, despite increases in EV-D68\u2013associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120\u2013238 cases per year). Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions.",
       "topic_id": "topic_17a354bcafcca4ce",
       "topic_name": "Occupational and environmental epidemiology",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "Ebola virus disease",
@@ -7307,7 +7256,7 @@
       "summary": "Cluster remains active across 8 related item(s), but usable factual summary text was limited after cleanup.",
       "topic_id": "topic_56666e9c6c86e976",
       "topic_name": "Ebola virus disease",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "Miscellaneous signals",
@@ -7323,7 +7272,7 @@
       "summary": "Significant protection at\u22652y was observed across all age-at-vaccination groups: 45.7% (25.0% to 60.7%) for ages 18-26, 39.6% (23.5% to 52.4%) for ages 27-35, and 35.5% (12.6% to 52.4%) for ages 36-45. Among 7,060 matched pairs, overall VE increased significantly with time since vaccination: 6.4% (95% CI: -3.9% to 15.7%) at <1y, 17.9% (5.5% to 28.7%) at 1-<2y, and 40.2% (29.6% to 49.2%) at \u22652y. FDA lists reference...",
       "topic_id": "topic_900601687147a144",
       "topic_name": "Miscellaneous signals",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "Dengue and arboviruses",
@@ -7338,7 +7287,7 @@
       "summary": "As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city.",
       "topic_id": "topic_ccfeaff28d46baf6",
       "topic_name": "Dengue and arboviruses",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "Tuberculosis and antimicrobial resistance",
@@ -7353,7 +7302,7 @@
       "summary": "It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). High resistance was also observed among second-line and legacy drugs, including...",
       "topic_id": "topic_8b3f807bbfd61cab",
       "topic_name": "Tuberculosis and antimicrobial resistance",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "COVID-19 and SARS-CoV-2",
@@ -7367,7 +7316,7 @@
       "summary": "Weekly / July 9, 2026 / 75(26);337\u00e2\u0080\u0093342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness. However, during COVID-19, governments frequently introduced vaccine mandates in contexts where people were already denied access to work,...",
       "topic_id": "topic_afd8f5934e291e02",
       "topic_name": "COVID-19 and SARS-CoV-2",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "Historical epidemiology and ancient pathogens",
@@ -7381,7 +7330,7 @@
       "summary": "It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 \u00d7 10 3 -2.10 \u00d7 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 \u00d7 10 5 T.pallidum/mL). The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas.",
       "topic_id": "topic_b461b8ac8c062700",
       "topic_name": "Historical epidemiology and ancient pathogens",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "Avian influenza and H5N1",
@@ -7394,7 +7343,7 @@
       "summary": "One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1.",
       "topic_id": "topic_28a91c6d89267872",
       "topic_name": "Avian influenza and H5N1",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "Measles transmission and vaccination",
@@ -7407,7 +7356,7 @@
       "summary": "Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months \"I have never seen an outbreak this huge,\" says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily...",
       "topic_id": "topic_0cc2d5322bc76f8f",
       "topic_name": "Measles transmission and vaccination",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     },
     {
       "display_title": "Cholera",
@@ -7420,7 +7369,7 @@
       "summary": "Lamu's public participation model gains global recognition To prevent the spread of cholera, residents have been urged to ensure water safety by boiling or treating it with chlorine or other disinfectants. Continue with a related story, or tap the speaker icon on the next page to listen.",
       "topic_id": "topic_9ba6e7897955eb36",
       "topic_name": "Cholera",
-      "updated_at": "2026-07-10T11:16:47"
+      "updated_at": "2026-07-10T11:26:50"
     }
   ]
 }
