@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T00:06
+Generated at: 2026-07-10T00:16
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -451,11 +451,11 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [600 Dead In DR Congo Ebola Outbreak](https://news.google.com/rss/articles/CBMif0FVX3lxTE9RT0NQX090V2ZFZUVFbmtOaDU4ejlJMkJkb0RMZm9uZnNUNDE0Y2NwN1FfUEhtVTk0TFVKMUFvTnVUMXR6ODBJVlZROHZaMF9fejh5Zjloei13dzJsNldaMm9LclFPSV93TVpzY1VoaEcxUnQyZ251RW9ONGJxa3c?oc=5) | Channels Television | 2026-07-09T09:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) | Anadolu Ajansı | 2026-07-09T09:09+00:00 | Outbreaks and emerging infections
   The World Health Organization (WHO) Regional Office for Africa said Tuesday that the outbreak is marked by growing number of community deaths and the continued spread of infections into previously unaffected health zones in Ituri and North Kivu provinces. Health Ministry data showed that the number of confirmed cases has reached 1,759 as community transmission continued. The death toll from the current Ebola virus disease outbreak in the Democratic Republic of Congo has reached 600, according to data released late Wednesday by the country's health authorities.
 - [DR Congo Ebola outbreak death toll reaches 600](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlVncnQzYV9CcjJvVk81RElWbkJuaFEtTzNfc2o4MjNpOUM2RldEZ3pDQWxiaTRTcjYwZS1qRTNEeXpxa0wxdzZNM0daMXdwUWw2bkc4cVphN0toUWdDSlVSNXR3NkpMQzFjd2NNbHNSa25KUlFnV3hzMTJxR1FCTlVPSklKRlhTTFFoZWpB?oc=5) | Yeni Safak English | 2026-07-09T09:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak the ‘fastest growing ever’ – Africa CDC](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHY5Wk16YktzbklXLU1WODFISURuNmIxd3Y0WmVSSHF0RC1yRmJtSVZ0TjZINFoxNk9vZlJFOGF6dXNEZmdOazBPTEllTU52RFlrZ3JHekgwVW0tTG0wMlozSDF5bEdSamVSWFp5VVpNdFdVUVhGYl9HYXp4Sk9SZXFwZ1pnUjJXel9wWURhNFR4NVB3?oc=5) | The Africa Report | 2026-07-09T03:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on Upper East Side grows](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/) | CBS News | 2026-07-09T03:18+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
