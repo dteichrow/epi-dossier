@@ -5,8 +5,7 @@
       "ABC News",
       "BBC",
       "CBS News",
-      "Guardian",
-      "NPR"
+      "Guardian"
     ],
     "metadata_only_count": 23,
     "sources_cached": 0,
@@ -22,7 +21,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T12:26:52",
+  "generated_at": "2026-07-10T12:36:54",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
