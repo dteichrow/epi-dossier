@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T17:36
+Generated at: 2026-07-09T17:46
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -446,7 +446,7 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFl0TXZHVEVnU0E4bzJwUVJtbURCSFhiSU9yY0Z1aXlna09RWGRCZ2hoSEYwdC1semJZODVhRFdDSG4teTNQd0REenFzcXJaTjUtY1RHUDN0NTE0dFF3QnpJR2Q3N2VqX3lheVREQ244SUU0aGVUTXV3NjBYeWMydTdMdy1HVkk5TzdRcVpWSVE3SnNYeG1RSXZKRjNGSm02YjhhQ0MzQi16TTBUM05pbWVGQVBIZWNmZU5YWmtHeUpiVm5TelE?oc=5) | Bloomberg.com | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpycUNDRE5uNUxobFc4VGtrdHNiekV1Z3UzMVh2RlNBbmJxVGFmNVMzS3ZMVUhlSGJoMzJ0VDM2Z3lFS1FPMEFXb1FCelpZbmg2clREYThIWlhwMXRObDcxVzFxNkxFSDVNejFYNHM1TFQ5SnpzeWg2OFNUam5VanBBWDI?oc=5) | Journal of Managed Care | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
+- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpycUNDRE5uNUxobFc4VGtrdHNiekV1Z3UzMVh2RlNBbmJxVGFmNVMzS3ZMVUhlSGJoMzJ0VDM2Z3lFS1FPMEFXb1FCelpZbmg2clREYThIWlhwMXRObDcxVzFxNkxFSDVNejFYNHM1TFQ5SnpzeWg2OFNUam5VanBBWDI?oc=5) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) | BBC | 2026-07-08T22:03+00:00 | Outbreaks and emerging infections
   Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months "I have never seen an outbreak this huge," says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily through breathing, coughing or sneezing. Vaccination rates had been higher than 90% until recently.
