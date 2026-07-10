@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T12:16
+Generated at: 2026-07-10T12:26
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -445,9 +445,9 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) | teleSUR English | 2026-07-10T09:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa CDC Warns Ebola Outbreak Outpacing Response](https://news.google.com/rss/articles/CBMia0FVX3lxTE5KbWxXUXhwTlFTc2dvY3dVV1VIZDR0TVE3bEh4MFNtNmUxZ3NvazFsOTVneFlYanBjT3M3ZzBMZE1UWkNiemNqeHFtYkw3cGZlZTlvLUN3QlU5VXZHMUxMckxQdmZRVjh0eU9v?oc=5) | allAfrica.com | 2026-07-10T08:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola death toll reaches 600, as new cases suspected in other parts of Congo](https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNTlUVDdaRHR0U3BHd096MTJCbU91NDZ3WmxJR3oxbzUzMmprd3pNeW1vUjd5ZU5paW9vSUlaaGFUZ0Zib2lQODl2b2tKY3pzeUxRb2h6elh4ckgtWVNWZTJ4N3h1cWlmSmJQUzhRNTA?oc=5) | NPR | 2026-07-10T06:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTG1pS25CU0lvR0N2T1FlcnJsdDlBVHp6UzU4bTVubVdBLWFjSzVkUmpPQ3hvVjhHRGZsT2d6b29PeGNTY3dZdjNIR0h5LU5WYWxIckhOa0pDcmlBUUdmZFFvODhkTW0yZkM1VFhhdUZla3VIQlJGNjBvbVJMLU4wOXNjTUNoOWRsTDJ3VlBJU05LbEpqbExTM0g4VG5meTduT3c2cmFHbTcxdXZQaURBWkdubGYyWk5BeGdleW1PcXljTm5hSU9GdXZEa29ycEIzTGc?oc=5) | The Guardian | 2026-07-10T06:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T17:01+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
