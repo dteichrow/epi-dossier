@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T18:56
+Generated at: 2026-07-09T20:03
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -11,8 +11,8 @@ Search window: 7 day(s) ending 2026-07-09
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (19), Occupational and environmental epidemiology (17), Major epidemiology studies (3)
+- [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (18), Occupational and environmental epidemiology (17), Major epidemiology studies (4)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -45,6 +45,12 @@ Search window: 7 day(s) ending 2026-07-09
 - CDC MMWR now includes evacuation reporting.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
+### Tuberculosis and antimicrobial resistance
+- Lead item: [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies)
+- Newly tracked story cluster: 2 item(s) across 2 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+
 
 ## Major topics
 ### Occupational and environmental epidemiology
@@ -59,7 +65,7 @@ Search window: 7 day(s) ending 2026-07-09
 - Topic size: 11 item(s) across 11 source(s); 0 official/primary-source item(s).
 - Lead item: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing, 2026-07-09T22:25+00:00)
 - Detailed note: The World Health Organization (WHO) Regional Office for Africa said Tuesday that the outbreak is marked by growing number of community deaths and the continued spread of infections into previously unaffected health zones in Ituri and North Kivu provinces. Health Ministry data showed that the number of confirmed cases has reached 1,759 as community transmission continued.
-- Evidence notes: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [600 dead in DR Congo Ebola outbreak](https://www.ewn.co.za/600-dead-in-dr-congo-ebola-outbreak/) (EWN); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03TXVneW1OQVBYcml0X2xpMlByQlMtZFhERTZHVGh0bVJOTENXekEzRHpvSzlrMnlscEJLcjMzTktWZ3NuTUpneTdKeENlYUpnaVBwTVVJNGxPS1ZnUnhv?oc=5) (The Jerusalem Post); [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) (Anadolu Ajansı); [DR Congo Ebola outbreak death toll reaches 600](https://en.yenisafak.com/world/dr-congo-ebola-outbreak-death-toll-reaches-600-3720618) (Yeni Safak English)
+- Evidence notes: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [600 dead in DR Congo Ebola outbreak](https://www.ewn.co.za/600-dead-in-dr-congo-ebola-outbreak/) (EWN); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post); [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) (Anadolu Ajansı); [DR Congo Ebola outbreak death toll reaches 600](https://en.yenisafak.com/world/dr-congo-ebola-outbreak-death-toll-reaches-600-3720618) (Yeni Safak English)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -93,7 +99,7 @@ Search window: 7 day(s) ending 2026-07-09
 - Detailed note: Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months "I have never seen an outbreak this huge," says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily...
 - Evidence notes: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) (BBC); [Larimer County measles case prompts exposure alert at Longmont hospital](https://www.coloradohometownweekly.com/2026/07/06/larimer-county-longmont-hospital-exposure/) (Colorado Hometown Weekly)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -394,6 +400,26 @@ Search window: 7 day(s) ending 2026-07-09
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-07-08T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42419446/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). Out of 56,695 screened individuals, 5,742 were diagnosed with pulmonary TB. After matching, 191 intervention patients were compared with 191 historical and 191 concurrent controls.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-07-08T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42421287/
+- Category: Major epidemiology studies
+- Summary: The GeneXpert unit cost was $23.53 under expected utilization but $78.63 in the worst-case scenario. The unit cost of the integrated approach ranged from $16.04 (best-case) to $18.97 (worst-case). The integrated, high-throughput Cobas 8800 system maintained consistent testing volumes (median, 94 samples/day), whereas throughput was sporadic on decentralized GeneXpert platforms (median, four samples/day) because of supply chain disruptions and stockouts.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.
 - Source: PubMed Infectious Disease Search
 - Date: 2026-07-08T00:00
@@ -404,33 +430,17 @@ Search window: 7 day(s) ending 2026-07-09
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-07T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42414335/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42401834/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) | PubMed Historical Pathogen Case Studies | 2026-07-07T00:00 | Historical epidemiology / ancient disease / paleopathology
+  The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
+- [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies | 2026-07-04T00:00 | Historical epidemiology / ancient disease / paleopathology
+  It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
 - [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) | Boing Boing | 2026-07-09T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [600 dead in DR Congo Ebola outbreak](https://www.ewn.co.za/600-dead-in-dr-congo-ebola-outbreak/) | EWN | 2026-07-09T20:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03TXVneW1OQVBYcml0X2xpMlByQlMtZFhERTZHVGh0bVJOTENXekEzRHpvSzlrMnlscEJLcjMzTktWZ3NuTUpneTdKeENlYUpnaVBwTVVJNGxPS1ZnUnhv?oc=5) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
+- [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [NYC outbreak: Allergies or Legionnaires’? How to spot the difference](https://www.fox5ny.com/news/nyc-legionnaires-disease-cluster-upper-east-side-grows-36-cases) | FOX 5 New York | 2026-07-09T12:07+00:00 | Occupational and environmental epidemiology
   How to spot the difference FOX 5 New York
@@ -444,7 +454,7 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg.com | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpycUNDRE5uNUxobFc4VGtrdHNiekV1Z3UzMVh2RlNBbmJxVGFmNVMzS3ZMVUhlSGJoMzJ0VDM2Z3lFS1FPMEFXb1FCelpZbmg2clREYThIWlhwMXRObDcxVzFxNkxFSDVNejFYNHM1TFQ5SnpzeWg2OFNUam5VanBBWDI?oc=5) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
+- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://www.ajmc.com/view/ebola-cases-top-1700-as-unpaid-health-workers-strike) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) | BBC | 2026-07-08T22:03+00:00 | Outbreaks and emerging infections
   Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months "I have never seen an outbreak this huge," says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily through breathing, coughing or sneezing. Vaccination rates had been higher than 90% until recently.
@@ -460,12 +470,8 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) | Daily Mirror - Sri Lanka | 2026-07-05T04:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Anthrax case reported in Uvs province in western Mongolia](https://outbreaknewstoday.substack.com/p/anthrax-case-reported-in-uvs-province) | Outbreak News Today | 2026-07-04T20:14+00:00 | Outbreaks and emerging infections
-  Response measures include epidemiological surveillance, containment of disease transmission, and the implementation of emergency outbreak control activities. Although this form has a low fatality rate with timely antibiotic treatment, the gastrointestinal and inhalational forms—much less frequent—can be severe and potentially fatal. Human cases are concentrated in rural populations engaged in livestock farming, with seasonal peaks linked to periods of heightened pastoral activity.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) | PubMed Infectious Disease Search | 2026-07-08T00:00 | Major epidemiology studies
-  However, during COVID-19, governments frequently introduced vaccine mandates in contexts where people were already denied access to work, travel, and social activities due to lockdowns and restrictions. Accordingly, this paper explores COVID-19 vaccine mandates in New South Wales (Australia), France, Israel, Malaysia, Singapore, and Vietnam, where mandates primarily served as incentives to restore basic rights to travel, work, and access public spaces, that were restricted during the pandemic. This important context disrupts the standard operation of vaccine mandates.
 
 ## Papers worth saving
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/)
@@ -474,6 +480,18 @@ Search window: 7 day(s) ending 2026-07-09
   Journal/preprint server: Emerging microbes & infections
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42419305/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42419305/
+- [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1016/j.ijid.2026.108971
+  Journal/preprint server: International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42419446/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42419446/
+- [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/13696998.2026.2696186
+  Journal/preprint server: Journal of medical economics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42421287/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42421287/
 - [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21505594.2026.2700072
@@ -500,6 +518,10 @@ Search window: 7 day(s) ending 2026-07-09
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42421423/
 
 ## Historical epi / weird epi corner
+- [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) | PubMed Historical Pathogen Case Studies
+  It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). Out of 56,695 screened individuals, 5,742 were diagnosed with pulmonary TB. After matching, 191 intervention patients were compared with 191 historical and 191 concurrent controls.
+- [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/) | PubMed Infectious Disease Search
+  The GeneXpert unit cost was $23.53 under expected utilization but $78.63 in the worst-case scenario. The unit cost of the integrated approach ranged from $16.04 (best-case) to $18.97 (worst-case). The integrated, high-throughput Cobas 8800 system maintained consistent testing volumes (median, 94 samples/day), whereas throughput was sporadic on decentralized GeneXpert platforms (median, four samples/day) because of supply chain disruptions and stockouts.
 - [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) | PubMed Infectious Disease Search
   Incorporated into a portable "sample-in, result-out" device, the assay enabled direct lineage identification from infected gerbil liver samples within 120 min, accurately detecting the epidemiologically critical sublineage 2.MED3.1.4 in field-collected specimens. We curated and validated 25 canonical single nucleotide polymorphisms (canSNPs) to resolve 24 global lineages, along with 12 region-specific canSNPs distinguishing 9 predominant sublineages circulating in Inner Mongolia, China. The system exhibited high sensitivity (detection limit: 50 genome copies per reaction) and achieved 100% accuracy in a double-blind evaluation of 166 Y.
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) | PubMed Historical Pathogen Case Studies
