@@ -1260,7 +1260,15 @@
       "reference_name": "Dengue",
       "reference_url": "reference/dengue.html",
       "reference_web_path": "reference/dengue.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Dengue and arboviruses",
+          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
+          "story_id": "story_ccfeaff28d46baf6",
+          "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
+          "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
+        }
+      ],
       "route_count": 3,
       "slug": "dengue",
       "spread_routes": [
@@ -1330,7 +1338,7 @@
         }
       ],
       "status": "consensus",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Aedes routes, urbanization, and shipping-enabled vector expansion",
       "summary": "Dengue makes the atlas useful for modern readers because it shows how vector range expansion, used-tire shipping, urbanization, and travel can redraw the map without requiring a single ancient origin story.",
       "variant_count": 0,
@@ -1817,6 +1825,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-07-10T11:47:01",
-  "run_id": "run_01e0cc98250ea94a"
+  "generated_at": "2026-07-10T11:49:30",
+  "run_id": "run_7e29d41e30d720ce"
 }
