@@ -21,7 +21,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T16:16:58",
+  "generated_at": "2026-07-10T16:26:55",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
