@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T09:16
+Generated at: 2026-07-10T09:26
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-07-10
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
-- Lead item: [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian)
+- Lead item: [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post)
 - Newly tracked story cluster: 8 item(s) across 8 source(s).
 - Baseline snapshot created with 8 clustered item(s) across 8 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
@@ -61,9 +61,9 @@ Search window: 7 day(s) ending 2026-07-10
 
 ### Ebola virus disease
 - Topic size: 8 item(s) across 8 source(s); 0 official/primary-source item(s).
-- Lead item: [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian, 2026-07-10T12:39+00:00)
+- Lead item: [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post, 2026-07-10T14:46+00:00)
 - Detailed note: Cluster remains active across 8 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian); [Ebola outbreak in DR Congo ‘fastest growing on record’](https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-uganda-un-aid-b3012557.html) (The Independent); [Congo Ebola outbreak still spreading largely undetected: WHO official](https://www.straitstimes.com/world/congo-ebola-outbreak-still-spreading-largely-undetected-who-official) (The Straits Times); [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy); [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English)
+- Evidence notes: [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian); [Ebola outbreak in DR Congo ‘fastest growing on record’](https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-uganda-un-aid-b3012557.html) (The Independent); [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy); [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -436,6 +436,8 @@ Search window: 7 day(s) ending 2026-07-10
   The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies | 2026-07-04T00:00 | Historical epidemiology / ancient disease / paleopathology
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
+- [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) | New York Post | 2026-07-10T14:46+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm) | RTHK News | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
   One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
 - [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) | The Guardian | 2026-07-10T12:39+00:00 | Outbreaks and emerging infections
@@ -443,8 +445,6 @@ Search window: 7 day(s) ending 2026-07-10
 - [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) | Bhaskar English | 2026-07-10T12:18+00:00 | Outbreaks and emerging infections
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
 - [Ebola outbreak in DR Congo ‘fastest growing on record’](https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-uganda-un-aid-b3012557.html) | The Independent | 2026-07-10T11:41+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo Ebola outbreak still spreading largely undetected: WHO official](https://www.straitstimes.com/world/congo-ebola-outbreak-still-spreading-largely-undetected-who-official) | The Straits Times | 2026-07-10T10:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) | Modern Diplomacy | 2026-07-10T09:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
