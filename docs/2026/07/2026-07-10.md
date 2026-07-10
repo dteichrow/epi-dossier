@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T15:36
+Generated at: 2026-07-10T15:46
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -16,6 +16,14 @@ Search window: 7 day(s) ending 2026-07-10
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### COVID-19 and SARS-CoV-2
+- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR)
+- Newly tracked story cluster: 4 item(s) across 3 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
+- PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
+- CDC MMWR now includes evacuation reporting.
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
+
 ### Occupational and environmental epidemiology
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR)
 - Newly tracked story cluster: 16 item(s) across 11 source(s).
@@ -23,18 +31,11 @@ Search window: 7 day(s) ending 2026-07-10
 - CBS News now explicitly uses investigation or monitoring language.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
-### COVID-19 and SARS-CoV-2
-- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- CDC MMWR now includes evacuation reporting.
-- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
 ### Ebola virus disease
 - Lead item: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP)
 - Newly tracked story cluster: 7 item(s) across 7 source(s).
 - Baseline snapshot created with 7 clustered item(s) across 7 source(s).
-- Times of Suriname now includes deaths or fatal cases in the story frame.
+- France 24 now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English)
@@ -62,9 +63,17 @@ Search window: 7 day(s) ending 2026-07-10
 - Topic size: 7 item(s) across 7 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP, 2026-07-10T21:04+00:00)
 - Detailed note: Cluster remains active across 7 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Six hundred dead in DR Congo Ebola outbreak](https://www.surinametimes.com/artikel/six-hundred-dead-in-dr-congo-ebola-outbreak) (Times of Suriname); [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) (France 24)
+- Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) (France 24); [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.polity.org.za/article/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10) (Polity.org.za)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 4 item(s) across 3 source(s); 3 official/primary-source item(s).
+- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR, 2026-07-09T17:00+00:00)
+- Detailed note: Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Of these, 7.4% and 8.0% died in hospital, respectively; similar proportions were observed for influenza (5.5% and 5.0%). Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness.
+- Evidence notes: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR); [The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals](https://www.cidrap.umn.edu/climate-change/eaton-wildfire-evacuation-shelter-near-la-saw-outbreaks-norovirus-covid-and-flu) (CIDRAP); [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) (PubMed Infectious Disease Search); [RSV-related hospital admissions in a subset of hospitals in England and Scotland: A real-world study (2018-2023).](https://pubmed.ncbi.nlm.nih.gov/42430512/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
 - Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
@@ -73,14 +82,6 @@ Search window: 7 day(s) ending 2026-07-10
 - Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [Real-world effectiveness of HPV vaccination against high-risk type HPV DNA positivity among adult women aged 18 - 45years in China: A matched test-negative design study.](https://pubmed.ncbi.nlm.nih.gov/42429434/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### COVID-19 and SARS-CoV-2
-- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
-- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR, 2026-07-09T17:00+00:00)
-- Detailed note: Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness. However, during COVID-19, governments frequently introduced vaccine mandates in contexts where people were already denied access to work,...
-- Evidence notes: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR); [The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals](https://www.cidrap.umn.edu/climate-change/eaton-wildfire-evacuation-shelter-near-la-saw-outbreaks-norovirus-covid-and-flu) (CIDRAP); [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
@@ -439,15 +440,15 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) | New York Post | 2026-07-10T14:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Six hundred dead in DR Congo Ebola outbreak](https://www.surinametimes.com/artikel/six-hundred-dead-in-dr-congo-ebola-outbreak) | Times of Suriname | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
+- [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm?spTabChangeable\=0) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
   One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) | France 24 | 2026-07-10T12:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) | Bhaskar English | 2026-07-10T12:18+00:00 | Outbreaks and emerging infections
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
-- [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1ctYy13WkJXUDR3Q1lQbU5ZeVdidXVoM3dMVnZpcU5WOVVIejY5RVZYb0tqV185LXZsSldLVkNNcFFIU3ZDX2thbkF3V1JvU0lBYS1SUW1vWkJkVlh1bGdQT1l3UExDRE4yNC14dHF2MEtrWXpzYXVBaUFuU0lVczdDV05EWUZkT3BWYTVDY012bXBVZmlZczZMOTl3ZjZuaGhoUHFyM3BHbXhaMFJHQVFwMDBtVHBFRlE?oc=5) | Polity.org.za | 2026-07-10T09:54+00:00 | Outbreaks and emerging infections
+- [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.polity.org.za/article/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10) | Polity.org.za | 2026-07-10T09:54+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0ZXREFiVGpKQkdUYkhvTGhLbEFHdE1kR0JZRTQ0STBMN1NLQlp1LWdDcDAzMDlLYTZCUzlnMVY5WnJReURhelZMVVg2cFExMEVQXzRaQVJzSjBiSlc0WjBZYkYtSFlTTTZOenBNMnZzTG5BazRhdUwxS0oyVkxKN0FOMGhFNWVlUTVDTXhEZzV4SmlJS1E?oc=5) | Modern Diplomacy | 2026-07-10T09:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T17:01+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
@@ -519,6 +520,12 @@ Search window: 7 day(s) ending 2026-07-10
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42429434/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42429434/
+- [RSV-related hospital admissions in a subset of hospitals in England and Scotland: A real-world study (2018-2023).](https://pubmed.ncbi.nlm.nih.gov/42430512/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2675075
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42430512/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42430512/
 
 ## Historical epi / weird epi corner
 - [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) | PubMed Historical Pathogen Case Studies
