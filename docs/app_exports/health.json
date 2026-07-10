@@ -5,13 +5,14 @@
       "ABC News",
       "BBC",
       "CBS News",
-      "NPR"
+      "NPR",
+      "Reuters"
     ],
     "metadata_only_count": 25,
     "sources_cached": 0,
     "sources_failed": 2,
     "sources_live": 43,
-    "story_count_change": 6,
+    "story_count_change": 5,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
@@ -21,7 +22,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T01:16:43",
+  "generated_at": "2026-07-10T01:26:41",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
