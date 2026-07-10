@@ -1,34 +1,35 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T21:20
+Generated at: 2026-07-09T21:26
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
 - [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
+- [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
 - [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies; 2026-07-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-06T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (109), Occupational and environmental epidemiology (17), Major epidemiology studies (4)
-- Source health: 4 source(s) failed during collection: CDC Current Outbreak List, Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (18), Occupational and environmental epidemiology (17), Major epidemiology studies (4)
+- Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 107 item(s) across 59 source(s).
-- Baseline snapshot created with 107 clustered item(s) across 59 source(s).
-- The Jerusalem Post now reports conflict over body retrieval or burial practices.
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
 ### Occupational and environmental epidemiology
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR)
 - Newly tracked story cluster: 16 item(s) across 12 source(s).
 - Baseline snapshot created with 16 clustered item(s) across 12 source(s).
 - CBS News now explicitly uses investigation or monitoring language.
 - Gothamist now includes deaths or fatal cases in the story frame.
+- CDC MMWR now foregrounds vaccination or vaccine policy in the story.
+
+### Ebola virus disease
+- Lead item: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing)
+- Newly tracked story cluster: 11 item(s) across 11 source(s).
+- Baseline snapshot created with 11 clustered item(s) across 11 source(s).
+- The Jerusalem Post now reports conflict over body retrieval or burial practices.
+- Boing Boing now includes deaths or fatal cases in the story frame.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search)
@@ -52,21 +53,29 @@ Search window: 7 day(s) ending 2026-07-09
 
 
 ## Major topics
-### Ebola virus disease
-- Topic size: 107 item(s) across 59 source(s); 3 official/primary-source item(s).
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-06T17:36+02:00)
-- Detailed note: Democratic Republic of the Congo Since the last update of 21 June 2026 (Situation Report #6), cumulative case incidence in the Democratic Republic of the Congo has increased by 24.7%, with 259 new confirmed cases reported. Publications orlunwop@who.int Tue, 30/06/2026 - 13:35 Event description The Bundibugyo virus disease (BVD) outbreak remains active, with ongoing transmission in the Democratic Republic of the...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-3) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Occupational and environmental epidemiology
 - Topic size: 16 item(s) across 12 source(s); 1 official/primary-source item(s).
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR, 2026-07-09T17:00+00:00)
-- Detailed note: How to spot the difference FOX 5 New York
+- Detailed note: During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). How to spot the difference FOX 5 New York
 - Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [NYC outbreak: Allergies or Legionnaires’? How to spot the difference](https://www.fox5ny.com/news/nyc-legionnaires-disease-cluster-upper-east-side-grows-36-cases) (FOX 5 New York); [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://www.cbsnews.com/newyork/news/upper-east-side-legionnaires-disease-cluster-cooling-tower-testing/) (CBS News); [Nearly 2 dozen sickened in Legionnaires' disease cluster in New York City - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/2-dozen-sickened-legionnaires-disease-cluster-new-york/story?id\=134519647) (ABC News - Breaking News, Latest News and Videos); [Legionnaires' disease cluster on Upper East Side continues to grow](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Ebola virus disease
+- Topic size: 11 item(s) across 11 source(s); 0 official/primary-source item(s).
+- Lead item: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing, 2026-07-09T22:25+00:00)
+- Detailed note: The World Health Organization (WHO) Regional Office for Africa said Tuesday that the outbreak is marked by growing number of community deaths and the continued spread of infections into previously unaffected health zones in Ituri and North Kivu provinces. Health Ministry data showed that the number of confirmed cases has reached 1,759 as community transmission continued.
+- Evidence notes: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria); [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) (Global News); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post); [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) (Anadolu Ajansı)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Miscellaneous signals
+- Topic size: 4 item(s) across 1 source(s); 4 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks, 2026-07-08T14:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
@@ -79,7 +88,7 @@ Search window: 7 day(s) ending 2026-07-09
 ### COVID-19 and SARS-CoV-2
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR, 2026-07-09T17:00+00:00)
-- Detailed note: However, during COVID-19, governments frequently introduced vaccine mandates in contexts where people were already denied access to work, travel, and social activities due to lockdowns and restrictions. This report describes illnesses and infection prevention and control protocols at a wildfire evacuation shelter during the Eaton wildfire in Pasadena, California. Accordingly, this paper explores COVID-19 vaccine...
+- Detailed note: Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness. However, during COVID-19, governments frequently introduced vaccine mandates in contexts where people were already denied access to work,...
 - Evidence notes: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR); [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
@@ -91,14 +100,6 @@ Search window: 7 day(s) ending 2026-07-09
 - Evidence notes: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) (BBC); [Larimer County measles case prompts exposure alert at Longmont hospital](https://www.coloradohometownweekly.com/2026/07/06/larimer-county-longmont-hospital-exposure/) (Colorado Hometown Weekly)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Tuberculosis and antimicrobial resistance
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies, 2026-07-08T00:00)
-- Detailed note: It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). The GeneXpert unit cost was $23.53 under expected utilization but $78.63 in the...
-- Evidence notes: [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies); [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
 ## Last major outbreaks on file
@@ -334,7 +335,7 @@ Search window: 7 day(s) ending 2026-07-09
 - Date: 2026-07-09T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980
 - Category: Occupational and environmental epidemiology
-- Summary: This report describes illnesses and infection prevention and control protocols at a wildfire evacuation shelter during the Eaton wildfire in Pasadena, California.
+- Summary: Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness. Chai, MD 4 ,5 ; Ellora Karmarkar, MD 4 ; Matt Feaster, PhD 1 ( View author affiliations ) Since 2015, multiple evacuation shelters have opened in response to California wildfires.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -344,7 +345,47 @@ Search window: 7 day(s) ending 2026-07-09
 - Date: 2026-07-09T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979
 - Category: Occupational and environmental epidemiology
-- Summary: This report describes acute flaccid myelitis cases reported during 2020-2025.
+- Summary: During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Weekly / July 9, 2026 / 75(26);329â336 Adriana S.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-08T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1389 with date posted 7/6/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Frozen Blueberries.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-08T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1383 with date posted 6/13/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Powdered Infant Formula.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-08T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1380 with date posted 6/3/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Requeson/Soft Ricotta Cheese.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-08T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1358 with date posted 1/14/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Moringa Leaf Powder.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -389,52 +430,12 @@ Search window: 7 day(s) ending 2026-07-09
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-07T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42414335/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
-- Source: ECDC News
-- Date: 2026-07-06T17:36+02:00
-- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited usable detail remained after boilerplate cleanup.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
-### Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42401834/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Frutas y Hortalizas del Sur S.A. Initiates Recall of Frozen GreenWise Organic IQF Blueberries Due to Potential E. coli O145 Contamination
-- Source: CDC Travel Health Notices
-- Date: 2026-07-03T17:06+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=765971
-- Category: Outbreaks and emerging infections
-- Summary: Because it may be contaminated with Escherichia coli O145:H28 (E.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
-- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-3) | WHO Regional Office for Africa | 2026-06-30T12:35+00:00 | Outbreaks and emerging infections
-  Democratic Republic of the Congo Since the last update of 21 June 2026 (Situation Report #6), cumulative case incidence in the Democratic Republic of the Congo has increased by 24.7%, with 259 new confirmed cases reported. Publications orlunwop@who.int Tue, 30/06/2026 - 13:35 Event description The Bundibugyo virus disease (BVD) outbreak remains active, with ongoing transmission in the Democratic Republic of the Congo and one imported case reported in France in a physician returning from the affected country. Cumulative deaths also increased by 41.2%, with 110 new confirmed deaths recorded during the reporting period.
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
+- [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) | PubMed Historical Pathogen Case Studies | 2026-07-07T00:00 | Historical epidemiology / ancient disease / paleopathology
+  The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
+- [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies | 2026-07-04T00:00 | Historical epidemiology / ancient disease / paleopathology
+  It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
 - [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) | Boing Boing | 2026-07-09T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) | Premium Times Nigeria | 2026-07-09T20:29+00:00 | Outbreaks and emerging infections
@@ -442,8 +443,6 @@ Search window: 7 day(s) ending 2026-07-09
 - [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) | Global News | 2026-07-09T19:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected provinces](https://apnews.com/article/congo-ebola-outbreak-deaths-957589a45723dcb092c986e1ec17da07) | AP News | 2026-07-09T14:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [NYC outbreak: Allergies or Legionnaires’? How to spot the difference](https://www.fox5ny.com/news/nyc-legionnaires-disease-cluster-upper-east-side-grows-36-cases) | FOX 5 New York | 2026-07-09T12:07+00:00 | Occupational and environmental epidemiology
   How to spot the difference FOX 5 New York
@@ -457,19 +456,21 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg.com | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://www.ajmc.com/view/ebola-cases-top-1700-as-unpaid-health-workers-strike) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
+- [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpycUNDRE5uNUxobFc4VGtrdHNiekV1Z3UzMVh2RlNBbmJxVGFmNVMzS3ZMVUhlSGJoMzJ0VDM2Z3lFS1FPMEFXb1FCelpZbmg2clREYThIWlhwMXRObDcxVzFxNkxFSDVNejFYNHM1TFQ5SnpzeWg2OFNUam5VanBBWDI?oc=5) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) | BBC | 2026-07-08T22:03+00:00 | Outbreaks and emerging infections
   Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months "I have never seen an outbreak this huge," says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily through breathing, coughing or sneezing. Vaccination rates had been higher than 90% until recently.
-- [Photos from Congo and Uganda during Ebola outbreak](https://www.gjsentinel.com/news/us/photos-from-congo-and-uganda-during-ebola-outbreak/article_57d17bb4-0775-563e-9ebc-4179f6adbc35.html) | The Grand Junction Daily Sentinel | 2026-07-08T20:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Speech by Commissioner Lahbib at the European Parliament on the Ebola Outbreak in Democratic Republic of the Congo and Uganda](https://reliefweb.int/report/democratic-republic-congo/speech-commissioner-lahbib-european-parliament-ebola-outbreak-democratic-republic-congo-and-uganda) | ReliefWeb | 2026-07-08T14:33+00:00 | Outbreaks and emerging infections
+- [Photos from Congo and Uganda during Ebola outbreak](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMTN1MG1hbUh6MFdtVk9FOHV2aTg0RkRtN3pPWDBzMC12VXN3aXAwbENlS1V5cmNiRWt3TGxrV1Z6cm94YW94QlVnaFhua2R0ckhmdVI2WmpiQVNycU43b1FTMFBwcXlqcE9mZnFYWXFfbFR2ekFiS2dQV044Tm1lbTBiUlQzbUE4X042UEdfQURyMVpqay1pN0hZR2xWMjFLQ2cyRmtpRUt5d3FRSmQ5cUtBLUhNVEFCbXNhRzA4Tm91T19HakRIOGd2M3pTSDFD0gHWAUFVX3lxTE5NUjNBenk5VWhtcmFMN1FldHFXV0xBM2JMMXp4TDJsdDNTSHNKdVZxdnl5a0VUUm1mR3ZyTjV5WDBHNUlwNU8teGhhMVpud05ydEFRNUFsUmNiZjZ5eXdxWUdYaGNTLU1YNUpid053cDBRQ0k3bC04NGdTSXplYzRvb0gtTm80amVpQmRxaXk5WlR4WWlJeFZqNzY3N2dxNXZxTThCcFdkVE9uRndfREtrZzE0dnlMRjE3ZGZjdjNiYWJSZWhMNEhBN2tobndUVnBVSDFHN2c?oc=5) | The Grand Junction Daily Sentinel | 2026-07-08T20:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak: Ituri province accounts for nine out of 10 cases; Uganda reports no new cases in 2 weeks](https://outbreaknewstoday.substack.com/p/congo-ebola-outbreak-ituri-province) | Outbreak News Today | 2026-07-08T14:11+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+  Ituri Province remains the epicenter of the outbreak, accounting for 90.9% (1477) of all confirmed cases and 84.3% (439) of all reported deaths nationwide. In an update on the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo (DRC), since the beginning of the outbreak, the Democratic Republic of the Congo has reported 1624 confirmed cases, including 521 confirmed deaths (CFR 32.1%). As of 5 July 2026, the outbreak had resulted in a total of 21 cases (20 confirmed and one probable).
 - [Nearly 2 dozen sickened in Legionnaires' disease cluster in New York City - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/2-dozen-sickened-legionnaires-disease-cluster-new-york/story?id\=134519647) | ABC News - Breaking News, Latest News and Videos | 2026-07-08T10:48+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600](https://apnews.com/article/congo-ebola-healthworkers-ituri-bunia-strike-pay-159288cd2a4be74e6cd61255e0f12044) | AP News | 2026-07-08T07:39+00:00 | Outbreaks and emerging infections
+- [Legionnaires' disease cluster on Upper East Side continues to grow](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow/) | CBS News | 2026-07-07T03:21+00:00 | Occupational and environmental epidemiology
+  Limited detail was available from feed metadata alone.
+- [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) | Daily Mirror - Sri Lanka | 2026-07-05T04:56+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
