@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T00:36
+Generated at: 2026-07-10T00:46
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -64,7 +64,7 @@ Search window: 7 day(s) ending 2026-07-10
 - Topic size: 10 item(s) across 10 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) (Ommcom News, 2026-07-10T02:14+00:00)
 - Detailed note: Cluster remains active across 10 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) (Ommcom News); [Some doctors, nurses and community health workers on the front lines of Democratic Republic of Congo’s Ebola outbreak, which is one of the worst ever, went on strike this week. https://wapo.st/44l5ADS](https://www.facebook.com/washingtonpost/posts/some-doctors-nurses-and-community-health-workers-on-the-front-lines-of-democrati/1397374918921046/) (facebook.com); [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria); [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) (Global News)
+- Evidence notes: [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) (Ommcom News); [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria); [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) (Global News); [Ebola outbreak is 'fastest growing ever' as 600 die](https://www.yahoo.com/news/science/articles/ebola-outbreak-fastest-growing-ever-141743221.html) (Yahoo)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -441,13 +441,13 @@ Search window: 7 day(s) ending 2026-07-10
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
 - [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) | Ommcom News | 2026-07-10T02:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Some doctors, nurses and community health workers on the front lines of Democratic Republic of Congo’s Ebola outbreak, which is one of the worst ever, went on strike this week. https://wapo.st/44l5ADS](https://www.facebook.com/washingtonpost/posts/some-doctors-nurses-and-community-health-workers-on-the-front-lines-of-democrati/1397374918921046/) | facebook.com | 2026-07-10T01:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) | Boing Boing | 2026-07-09T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) | Premium Times Nigeria | 2026-07-09T20:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) | Global News | 2026-07-09T19:44+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak is 'fastest growing ever' as 600 die](https://www.yahoo.com/news/science/articles/ebola-outbreak-fastest-growing-ever-141743221.html) | Yahoo | 2026-07-09T18:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
