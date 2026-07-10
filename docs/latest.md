@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T04:56
+Generated at: 2026-07-10T05:06
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-10
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (18), Occupational and environmental epidemiology (14), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (17), Occupational and environmental epidemiology (14), Major epidemiology studies (4)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -39,9 +39,9 @@ Search window: 7 day(s) ending 2026-07-10
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
-- Lead item: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy)
-- Newly tracked story cluster: 8 item(s) across 8 source(s).
-- Baseline snapshot created with 8 clustered item(s) across 8 source(s).
+- Lead item: [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian)
+- Newly tracked story cluster: 8 item(s) across 7 source(s).
+- Baseline snapshot created with 8 clustered item(s) across 7 source(s).
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Tuberculosis and antimicrobial resistance
@@ -61,10 +61,10 @@ Search window: 7 day(s) ending 2026-07-10
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 8 item(s) across 8 source(s); 0 official/primary-source item(s).
-- Lead item: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy, 2026-07-10T09:49+00:00)
+- Topic size: 8 item(s) across 7 source(s); 0 official/primary-source item(s).
+- Lead item: [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian, 2026-07-10T11:50+00:00)
 - Detailed note: Cluster remains active across 8 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy); [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English); [Congo-Kinshasa: Africa CDC Reports Progress, Warns Ebola Outbreak Outpacing Response in DR Congo](https://allafrica.com/stories/202607100103.html) (allAfrica.com); [Congo’s Ebola Outbreak Expands, Death Toll Climbs To 600](https://stratnewsglobal.com/world-news/congos-ebola-outbreak-expands-death-toll-climbs-to-600/) (StratNews Global); [Ebola outbreak in DR Congo spreads at record pace, WHO warns](https://moldova1.md/p/80410/ebola-outbreak-in-dr-congo-spreads-at-record-pace-who-warns) (Moldova 1)
+- Evidence notes: [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian); [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy); [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English); [Africa CDC Warns Ebola Outbreak Outpacing Response](https://allafrica.com/view/group/main/main/id/00097403.html) (allAfrica.com); [Congo-Kinshasa: Africa CDC Reports Progress, Warns Ebola Outbreak Outpacing Response in DR Congo](https://allafrica.com/stories/202607100103.html) (allAfrica.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -437,21 +437,19 @@ Search window: 7 day(s) ending 2026-07-10
   The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies | 2026-07-04T00:00 | Historical epidemiology / ancient disease / paleopathology
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
+- [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) | The Guardian | 2026-07-10T11:50+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) | Modern Diplomacy | 2026-07-10T09:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) | teleSUR English | 2026-07-10T09:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Philippines reports bird flu outbreak among backyard birds, WOAH says, Asia News](https://www.asiaone.com/asia/philippines-reports-bird-flu-outbreak-among-backyard-birds-woah-says) | AsiaOne | 2026-07-10T08:39+00:00 | Outbreaks and emerging infections
-  PARIS - The Philippines has reported an outbreak of highly pathogenic H5N1 bird flu among backyard birds in its Oriental Mindoro province, the World Organisation for Animal Health (WOAH) said on Friday (July 10). The H5N1 virus was detected in a flock of 39 poultry in the town of Capalan, the Paris-based WOAH said, citing a report from the Philippine authorities. The spread of avian influenza, commonly called bird flu, has raised concerns among governments and the poultry industry after it ravaged flocks around the world in recent years, disrupting supply, fuelling higher food prices and raising the risk of human transmission.
+- [Africa CDC Warns Ebola Outbreak Outpacing Response](https://allafrica.com/view/group/main/main/id/00097403.html) | allAfrica.com | 2026-07-10T08:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Congo-Kinshasa: Africa CDC Reports Progress, Warns Ebola Outbreak Outpacing Response in DR Congo](https://allafrica.com/stories/202607100103.html) | allAfrica.com | 2026-07-10T05:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo’s Ebola Outbreak Expands, Death Toll Climbs To 600](https://stratnewsglobal.com/world-news/congos-ebola-outbreak-expands-death-toll-climbs-to-600/) | StratNews Global | 2026-07-10T05:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo spreads at record pace, WHO warns](https://moldova1.md/p/80410/ebola-outbreak-in-dr-congo-spreads-at-record-pace-who-warns) | Moldova 1 | 2026-07-10T04:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Kills 600 in DR Congo as Outbreak Spreads at Record Pace](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnlKTVZZdXExYU1yY3BKRGNuWnpGM2hGRDFPVmppT3F4bEJTandncE5YRGNHdjJYZzh5bE9HeGtYdGNoRnRXMXp3cVViUW1STWFZWE90OHJ5WlRjQWFZc0VSeXZzYXNkdU1iZ3diRm5yblRUTW9qRjA0QjZvOUlBRHpuaVEwWVMzcUk3OU1WYjVWSnVrcDhOalhKQjJCYmQyaFY2LWZYSXg?oc=5) | Seoul Economic Daily | 2026-07-10T02:48+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcDE0MEdyeU9mR0RzYWtuRFBBZ2d4WjJnNXVRcVFTSlNtWnFpSkJnRWZDMkwtUUJVSTFLOTZTT0JMZ3F3YkxDT3V6NERNMTBkVWdib0RXWk9PWXF5elFlYVFIbndPMDZWTVdjQ1hxTV85Z05uYnUxeFFLZkZNRE91U242bXU0YmpxVTBrY05XaWxqZnY5NUlfSy1wRTZpOFhCY1J6dTNwSGlINFpzWGRNcE95REc2RUFVMkxpMDlIaG9NZmtCMGgxd3Z2OA?oc=5) | Ommcom News | 2026-07-10T02:14+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak in DR Congo spreads at record pace, WHO warns](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQk5rc2ZXbTNwdHhDOWxzYWJtbFZ0VnBaZE9BcGJWRVJxdzRud0JGa2hWTTVNN2x0aXVZTDNIZEtwVkZXNWtIZG5nVlJpUms1dlVJSjRhV3dpTVBLbnVuY3lHbkxwTlo4M25tRFRoeWFrWVMzUUowRkYwbF9UVVlIRGVsYzVnWWFyRzdOSWZUV2I?oc=5) | Moldova 1 | 2026-07-10T04:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T17:01+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
@@ -471,6 +469,8 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
+- [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) | PubMed Infectious Disease Search | 2026-07-08T00:00 | Major epidemiology studies
+  However, during COVID-19, governments frequently introduced vaccine mandates in contexts where people were already denied access to work, travel, and social activities due to lockdowns and restrictions. Accordingly, this paper explores COVID-19 vaccine mandates in New South Wales (Australia), France, Israel, Malaysia, Singapore, and Vietnam, where mandates primarily served as incentives to restore basic rights to travel, work, and access public spaces, that were restricted during the pandemic. This important context disrupts the standard operation of vaccine mandates.
 
 ## Papers worth saving
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/)
@@ -537,7 +537,6 @@ Search window: 7 day(s) ending 2026-07-10
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
 
 ## Possible blog/video angles
-- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
