@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T03:16
+Generated at: 2026-07-10T03:26
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -24,7 +24,7 @@ Search window: 7 day(s) ending 2026-07-10
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
-- Lead item: [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English)
+- Lead item: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy)
 - Newly tracked story cluster: 8 item(s) across 8 source(s).
 - Baseline snapshot created with 8 clustered item(s) across 8 source(s).
 - The Jerusalem Post now reports conflict over body retrieval or burial practices.
@@ -62,9 +62,9 @@ Search window: 7 day(s) ending 2026-07-10
 
 ### Ebola virus disease
 - Topic size: 8 item(s) across 8 source(s); 0 official/primary-source item(s).
-- Lead item: [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English, 2026-07-10T09:10+00:00)
-- Detailed note: The World Health Organization (WHO) Regional Office for Africa said Tuesday that the outbreak is marked by growing number of community deaths and the continued spread of infections into previously unaffected health zones in Ituri and North Kivu provinces. Health Ministry data showed that the number of confirmed cases has reached 1,759 as community transmission continued.
-- Evidence notes: [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English); [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) (Ommcom News); [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) (Global News); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post)
+- Lead item: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy, 2026-07-10T09:49+00:00)
+- Detailed note: Cluster remains active across 8 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy); [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) (teleSUR English); [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) (Ommcom News); [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) (Global News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -439,6 +439,8 @@ Search window: 7 day(s) ending 2026-07-10
   The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies | 2026-07-04T00:00 | Historical epidemiology / ancient disease / paleopathology
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
+- [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) | Modern Diplomacy | 2026-07-10T09:49+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) | teleSUR English | 2026-07-10T09:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Philippines reports bird flu outbreak among backyard birds, WOAH says, Asia News](https://www.asiaone.com/asia/philippines-reports-bird-flu-outbreak-among-backyard-birds-woah-says) | AsiaOne | 2026-07-10T08:39+00:00 | Outbreaks and emerging infections
@@ -451,7 +453,7 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T17:01+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
+- [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03TXVneW1OQVBYcml0X2xpMlByQlMtZFhERTZHVGh0bVJOTENXekEzRHpvSzlrMnlscEJLcjMzTktWZ3NuTUpneTdKeENlYUpnaVBwTVVJNGxPS1ZnUnhv?oc=5) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) | Anadolu Ajansı | 2026-07-09T09:09+00:00 | Outbreaks and emerging infections
   The World Health Organization (WHO) Regional Office for Africa said Tuesday that the outbreak is marked by growing number of community deaths and the continued spread of infections into previously unaffected health zones in Ituri and North Kivu provinces. Health Ministry data showed that the number of confirmed cases has reached 1,759 as community transmission continued. The death toll from the current Ebola virus disease outbreak in the Democratic Republic of Congo has reached 600, according to data released late Wednesday by the country's health authorities.
@@ -460,8 +462,6 @@ Search window: 7 day(s) ending 2026-07-10
 - [Legionnaires' disease cluster on Upper East Side grows](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/) | CBS News | 2026-07-09T03:18+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 - [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://www.cbsnews.com/newyork/news/upper-east-side-legionnaires-disease-cluster-cooling-tower-testing/) | CBS News | 2026-07-09T02:53+00:00 | Occupational and environmental epidemiology
-  Limited detail was available from feed metadata alone.
-- [Confirmed Ebola deaths in DR Congo hit 600](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYi1NSk5uTDYxMHUzN3JfbngzcG5jTEhMSmN3ZzBDNnBpQVpJa3I1dVFuZTFGMWRuUHo3V3laT21kUDFyMUdyMTJucmNVOXdNVENVdGZSZ2tJbDdrTW5sb3U0M003NTZDVjlKaFZUWWlmRENMRWhEYWxhODhqYWhjc3ZBekYxaFJNdkHSAY8BQVVfeXFMUDdfOU1CU3ExMGtwbHV1ckFYNFhhcWd2V2Z0TURyb0djbjl1SHljTGhFSHk3RXg1ZEpRTkxYZG9wR2UtTEozMTNySFJNUnprTGExZ0dKcURSallLUURYcmhkRVZJTmJLZ2U5eUhVT3FyeTFtcUlRQzRXQUtBa2RFU09XSmFtWThkMWFoZzlNdWs?oc=5) | Al Jazeera | 2026-07-09T01:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) | BBC | 2026-07-08T22:03+00:00 | Outbreaks and emerging infections
   Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months "I have never seen an outbreak this huge," says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily through breathing, coughing or sneezing. Vaccination rates had been higher than 90% until recently.
