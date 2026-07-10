@@ -8,7 +8,7 @@
       "Guardian",
       "NPR"
     ],
-    "metadata_only_count": 22,
+    "metadata_only_count": 23,
     "sources_cached": 0,
     "sources_failed": 2,
     "sources_live": 41,
@@ -22,7 +22,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T09:36:48",
+  "generated_at": "2026-07-10T09:46:45",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
