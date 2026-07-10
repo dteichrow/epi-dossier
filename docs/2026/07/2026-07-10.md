@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T10:26
+Generated at: 2026-07-10T10:36
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -62,7 +62,7 @@ Search window: 7 day(s) ending 2026-07-10
 - Topic size: 8 item(s) across 8 source(s); 0 official/primary-source item(s).
 - Lead item: [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post, 2026-07-10T14:46+00:00)
 - Detailed note: Cluster remains active across 8 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian); [Ebola outbreak in DR Congo ‘fastest growing on record’](https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-uganda-un-aid-b3012557.html) (The Independent); [Congo Ebola outbreak still spreading largely undetected: WHO official](https://www.straitstimes.com/world/congo-ebola-outbreak-still-spreading-largely-undetected-who-official) (The Straits Times); [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy)
+- Evidence notes: [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian); [Ebola outbreak in DR Congo ‘fastest growing on record’](https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-uganda-un-aid-b3012557.html) (The Independent); [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.polity.org.za/article/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10) (Polity.org.za); [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) (Modern Diplomacy)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -443,7 +443,7 @@ Search window: 7 day(s) ending 2026-07-10
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
 - [Ebola outbreak in DR Congo ‘fastest growing on record’](https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-uganda-un-aid-b3012557.html) | The Independent | 2026-07-10T11:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola outbreak still spreading largely undetected: WHO official](https://www.straitstimes.com/world/congo-ebola-outbreak-still-spreading-largely-undetected-who-official) | The Straits Times | 2026-07-10T10:26+00:00 | Outbreaks and emerging infections
+- [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.polity.org.za/article/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10) | Polity.org.za | 2026-07-10T09:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://moderndiplomacy.eu/2026/07/10/undetected-ebola-cases-fuel-congo-outbreak-who-warns/) | Modern Diplomacy | 2026-07-10T09:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
