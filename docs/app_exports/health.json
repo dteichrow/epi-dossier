@@ -6,7 +6,7 @@
       "BBC",
       "CBS News"
     ],
-    "metadata_only_count": 25,
+    "metadata_only_count": 24,
     "sources_cached": 0,
     "sources_failed": 2,
     "sources_live": 43,
@@ -20,7 +20,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T01:47:40",
+  "generated_at": "2026-07-10T01:56:43",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",

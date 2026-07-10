@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T01:47
+Generated at: 2026-07-10T01:56
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -439,6 +439,8 @@ Search window: 7 day(s) ending 2026-07-10
   The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies | 2026-07-04T00:00 | Historical epidemiology / ancient disease / paleopathology
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
+- [Philippines reports bird flu outbreak among backyard birds, WOAH says, Asia News](https://www.asiaone.com/asia/philippines-reports-bird-flu-outbreak-among-backyard-birds-woah-says) | AsiaOne | 2026-07-10T08:39+00:00 | Outbreaks and emerging infections
+  PARIS - The Philippines has reported an outbreak of highly pathogenic H5N1 bird flu among backyard birds in its Oriental Mindoro province, the World Organisation for Animal Health (WOAH) said on Friday (July 10). The H5N1 virus was detected in a flock of 39 poultry in the town of Capalan, the Paris-based WOAH said, citing a report from the Philippine authorities. The spread of avian influenza, commonly called bird flu, has raised concerns among governments and the poultry industry after it ravaged flocks around the world in recent years, disrupting supply, fuelling higher food prices and raising the risk of human transmission.
 - [Ebola Death Toll Exceeds 600 As Africa CDC Urges Sustained Efforts Against Fast-Growing Outbreak](https://ommcomnews.com/world-news/ebola-death-toll-exceeds-600-as-africa-cdc-urges-sustained-efforts-against-fast-growing-outbreak/) | Ommcom News | 2026-07-10T02:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) | Boing Boing | 2026-07-09T22:25+00:00 | Outbreaks and emerging infections
@@ -468,8 +470,6 @@ Search window: 7 day(s) ending 2026-07-10
 - [Nearly 2 dozen sickened in Legionnaires' disease cluster in New York City - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/2-dozen-sickened-legionnaires-disease-cluster-new-york/story?id\=134519647) | ABC News - Breaking News, Latest News and Videos | 2026-07-08T10:48+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on Upper East Side continues to grow](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow/) | CBS News | 2026-07-07T03:21+00:00 | Occupational and environmental epidemiology
-  Limited detail was available from feed metadata alone.
-- [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) | Daily Mirror - Sri Lanka | 2026-07-05T04:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -545,6 +545,7 @@ Search window: 7 day(s) ending 2026-07-10
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
 
 ## Possible blog/video angles
+- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
