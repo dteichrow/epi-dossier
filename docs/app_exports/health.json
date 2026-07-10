@@ -6,21 +6,21 @@
       "BBC",
       "CBS News"
     ],
-    "metadata_only_count": 25,
+    "metadata_only_count": 24,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 44,
+    "sources_failed": 2,
+    "sources_live": 43,
     "story_count_change": 5,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 44,
+    "live": 43,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T02:17:05",
+  "generated_at": "2026-07-10T02:26:40",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
@@ -30,11 +30,6 @@
     {
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
-      "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
-      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]
