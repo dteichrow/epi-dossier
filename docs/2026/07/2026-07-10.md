@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T15:46
+Generated at: 2026-07-10T15:56
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-10
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (17), Occupational and environmental epidemiology (16), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Occupational and environmental epidemiology (17), Outbreaks and emerging infections (17), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-07-10
 
 ### Occupational and environmental epidemiology
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR)
-- Newly tracked story cluster: 16 item(s) across 11 source(s).
-- Baseline snapshot created with 16 clustered item(s) across 11 source(s).
+- Newly tracked story cluster: 17 item(s) across 12 source(s).
+- Baseline snapshot created with 17 clustered item(s) across 12 source(s).
 - CBS News now explicitly uses investigation or monitoring language.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-07-10
 
 ## Major topics
 ### Occupational and environmental epidemiology
-- Topic size: 16 item(s) across 11 source(s); 2 official/primary-source item(s).
+- Topic size: 17 item(s) across 12 source(s); 2 official/primary-source item(s).
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR, 2026-07-09T17:00+00:00)
 - Detailed note: During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions.
 - Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) (ABC News - Breaking News, Latest News and Videos); [Legionnaires' disease cluster on Upper East Side grows](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/) (CBS News); [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://www.cbsnews.com/newyork/news/upper-east-side-legionnaires-disease-cluster-cooling-tower-testing/) (CBS News)
@@ -63,7 +63,7 @@ Search window: 7 day(s) ending 2026-07-10
 - Topic size: 7 item(s) across 7 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP, 2026-07-10T21:04+00:00)
 - Detailed note: Cluster remains active across 7 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) (France 24); [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.polity.org.za/article/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10) (Polity.org.za)
+- Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [During Current Outbreak, bioMérieux Delivers its Ebola Rapid Diagnostics Testing in Central Africa](https://www.contagionlive.com/view/during-current-outbreak-biom-rieux-delivers-its-ebola-rapid-diagnostics-testing-in-central-africa) (Contagion Live); [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) (France 24)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -442,13 +442,13 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm?spTabChangeable\=0) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
   One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
+- [During Current Outbreak, bioMérieux Delivers its Ebola Rapid Diagnostics Testing in Central Africa](https://www.contagionlive.com/view/during-current-outbreak-biom-rieux-delivers-its-ebola-rapid-diagnostics-testing-in-central-africa) | Contagion Live | 2026-07-10T12:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) | France 24 | 2026-07-10T12:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) | Bhaskar English | 2026-07-10T12:18+00:00 | Outbreaks and emerging infections
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
-- [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.polity.org.za/article/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10) | Polity.org.za | 2026-07-10T09:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Undetected Ebola Cases Fuel Congo Outbreak, WHO Warns](https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0ZXREFiVGpKQkdUYkhvTGhLbEFHdE1kR0JZRTQ0STBMN1NLQlp1LWdDcDAzMDlLYTZCUzlnMVY5WnJReURhelZMVVg2cFExMEVQXzRaQVJzSjBiSlc0WjBZYkYtSFlTTTZOenBNMnZzTG5BazRhdUwxS0oyVkxKN0FOMGhFNWVlUTVDTXhEZzV4SmlJS1E?oc=5) | Modern Diplomacy | 2026-07-10T09:49+00:00 | Outbreaks and emerging infections
+- [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1ctYy13WkJXUDR3Q1lQbU5ZeVdidXVoM3dMVnZpcU5WOVVIejY5RVZYb0tqV185LXZsSldLVkNNcFFIU3ZDX2thbkF3V1JvU0lBYS1SUW1vWkJkVlh1bGdQT1l3UExDRE4yNC14dHF2MEtrWXpzYXVBaUFuU0lVczdDV05EWUZkT3BWYTVDY012bXBVZmlZczZMOTl3ZjZuaGhoUHFyM3BHbXhaMFJHQVFwMDBtVHBFRlE?oc=5) | Polity.org.za | 2026-07-10T09:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T17:01+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
