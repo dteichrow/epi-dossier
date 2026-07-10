@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-09
-Generated at: 2026-07-09T23:46
+Generated at: 2026-07-09T23:56
 Search window: 7 day(s) ending 2026-07-09
 
 ## Executive scan
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-07-09
 
 ### Ebola virus disease
 - Lead item: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing)
-- Newly tracked story cluster: 11 item(s) across 11 source(s).
-- Baseline snapshot created with 11 clustered item(s) across 11 source(s).
+- Newly tracked story cluster: 10 item(s) across 10 source(s).
+- Baseline snapshot created with 10 clustered item(s) across 10 source(s).
 - The Jerusalem Post now reports conflict over body retrieval or burial practices.
 - Boing Boing now includes deaths or fatal cases in the story frame.
 
@@ -62,10 +62,10 @@ Search window: 7 day(s) ending 2026-07-09
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 11 item(s) across 11 source(s); 0 official/primary-source item(s).
+- Topic size: 10 item(s) across 10 source(s); 0 official/primary-source item(s).
 - Lead item: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing, 2026-07-09T22:25+00:00)
 - Detailed note: The World Health Organization (WHO) Regional Office for Africa said Tuesday that the outbreak is marked by growing number of community deaths and the continued spread of infections into previously unaffected health zones in Ituri and North Kivu provinces. Health Ministry data showed that the number of confirmed cases has reached 1,759 as community transmission continued.
-- Evidence notes: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria); [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) (Global News); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post); [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) (Anadolu Ajansı)
+- Evidence notes: [Congo's Ebola outbreak has killed 600 and is reaching new provinces](https://boingboing.net/2026/07/09/post-congos-ebola-outbreak-has-killed-600-and-is-reaching-new-provinces.html) (Boing Boing); [Africa CDC reports progress, warns Ebola outbreak outpacing response in DR Congo](https://www.premiumtimesng.com/health/health-news/894184-africa-cdc-reports-progress-warns-ebola-outbreak-outpacing-response-in-dr-congo.html) (Premium Times Nigeria); [Ebola outbreak continues to spread in Eastern Congo](https://globalnews.ca/video/11960115/ebola-outbreak-continues-to-spread-in-eastern-congo/) (Global News); [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) (The Jerusalem Post); [600 Dead In DR Congo Ebola Outbreak](https://www.channelstv.com/2026/07/09/600-dead-in-dr-congo-ebola-outbreak/) (Channels Television)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -446,6 +446,8 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://www.jpost.com/international/article-902042) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [600 Dead In DR Congo Ebola Outbreak](https://www.channelstv.com/2026/07/09/600-dead-in-dr-congo-ebola-outbreak/) | Channels Television | 2026-07-09T09:27+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) | Anadolu Ajansı | 2026-07-09T09:09+00:00 | Outbreaks and emerging infections
   The World Health Organization (WHO) Regional Office for Africa said Tuesday that the outbreak is marked by growing number of community deaths and the continued spread of infections into previously unaffected health zones in Ituri and North Kivu provinces. Health Ministry data showed that the number of confirmed cases has reached 1,759 as community transmission continued. The death toll from the current Ebola virus disease outbreak in the Democratic Republic of Congo has reached 600, according to data released late Wednesday by the country's health authorities.
 - [DR Congo Ebola outbreak death toll reaches 600](https://en.yenisafak.com/world/dr-congo-ebola-outbreak-death-toll-reaches-600-3720618) | Yeni Safak English | 2026-07-09T09:05+00:00 | Outbreaks and emerging infections
@@ -454,20 +456,18 @@ Search window: 7 day(s) ending 2026-07-09
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola deaths in DR Congo hit 600](https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600) | Al Jazeera | 2026-07-09T01:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://www.bloomberg.com/news/articles/2026-07-08/ebola-responders-reach-breaking-point-as-strike-hits-hardest-hit-congo-towns) | Bloomberg | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
+- [Ebola Health Workers Strike in Hardest-Hit Congo Towns as Outbreak Intensifies](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFl0TXZHVEVnU0E4bzJwUVJtbURCSFhiSU9yY0Z1aXlna09RWGRCZ2hoSEYwdC1semJZODVhRFdDSG4teTNQd0REenFzcXJaTjUtY1RHUDN0NTE0dFF3QnpJR2Q3N2VqX3lheVREQ244SUU0aGVUTXV3NjBYeWMydTdMdy1HVkk5TzdRcVpWSVE3SnNYeG1RSXZKRjNGSm02YjhhQ0MzQi16TTBUM05pbWVGQVBIZWNmZU5YWmtHeUpiVm5TelE?oc=5) | Bloomberg | 2026-07-09T01:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Cases Top 1700 as Unpaid Health Workers Strike](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpycUNDRE5uNUxobFc4VGtrdHNiekV1Z3UzMVh2RlNBbmJxVGFmNVMzS3ZMVUhlSGJoMzJ0VDM2Z3lFS1FPMEFXb1FCelpZbmg2clREYThIWlhwMXRObDcxVzFxNkxFSDVNejFYNHM1TFQ5SnpzeWg2OFNUam5VanBBWDI?oc=5) | AJMC | 2026-07-08T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) | BBC | 2026-07-08T22:03+00:00 | Outbreaks and emerging infections
   Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months "I have never seen an outbreak this huge," says paediatrician Dr Mohammed Golam Mawla, as we look around a measles ward in the Bangladeshi city of Mymensingh. Since March, government figures show nearly 750 people, mostly children, have died from the highly contagious disease, which spreads easily through breathing, coughing or sneezing. Vaccination rates had been higher than 90% until recently.
-- [Photos from Congo and Uganda during Ebola outbreak](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMTN1MG1hbUh6MFdtVk9FOHV2aTg0RkRtN3pPWDBzMC12VXN3aXAwbENlS1V5cmNiRWt3TGxrV1Z6cm94YW94QlVnaFhua2R0ckhmdVI2WmpiQVNycU43b1FTMFBwcXlqcE9mZnFYWXFfbFR2ekFiS2dQV044Tm1lbTBiUlQzbUE4X042UEdfQURyMVpqay1pN0hZR2xWMjFLQ2cyRmtpRUt5d3FRSmQ5cUtBLUhNVEFCbXNhRzA4Tm91T19HakRIOGd2M3pTSDFD0gHWAUFVX3lxTE5NUjNBenk5VWhtcmFMN1FldHFXV0xBM2JMMXp4TDJsdDNTSHNKdVZxdnl5a0VUUm1mR3ZyTjV5WDBHNUlwNU8teGhhMVpud05ydEFRNUFsUmNiZjZ5eXdxWUdYaGNTLU1YNUpid053cDBRQ0k3bC04NGdTSXplYzRvb0gtTm80amVpQmRxaXk5WlR4WWlJeFZqNzY3N2dxNXZxTThCcFdkVE9uRndfREtrZzE0dnlMRjE3ZGZjdjNiYWJSZWhMNEhBN2tobndUVnBVSDFHN2c?oc=5) | The Grand Junction Daily Sentinel | 2026-07-08T20:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo Ebola outbreak: Ituri province accounts for nine out of 10 cases; Uganda reports no new cases in 2 weeks](https://outbreaknewstoday.substack.com/p/congo-ebola-outbreak-ituri-province) | Outbreak News Today | 2026-07-08T14:11+00:00 | Outbreaks and emerging infections
-  Ituri Province remains the epicenter of the outbreak, accounting for 90.9% (1477) of all confirmed cases and 84.3% (439) of all reported deaths nationwide. In an update on the Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo (DRC), since the beginning of the outbreak, the Democratic Republic of the Congo has reported 1624 confirmed cases, including 521 confirmed deaths (CFR 32.1%). As of 5 July 2026, the outbreak had resulted in a total of 21 cases (20 confirmed and one probable).
 - [Nearly 2 dozen sickened in Legionnaires' disease cluster in New York City - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/2-dozen-sickened-legionnaires-disease-cluster-new-york/story?id\=134519647) | ABC News - Breaking News, Latest News and Videos | 2026-07-08T10:48+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on Upper East Side continues to grow](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-continues-to-grow/) | CBS News | 2026-07-07T03:21+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
+- [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) | The Eastleigh Voice | 2026-07-06T11:20+00:00 | Outbreaks and emerging infections
+  Lamu's public participation model gains global recognition To prevent the spread of cholera, residents have been urged to ensure water safety by boiling or treating it with chlorine or other disinfectants. Continue with a related story, or tap the speaker icon on the next page to listen. Limited detail was available from feed metadata alone.
 - [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) | Daily Mirror - Sri Lanka | 2026-07-05T04:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
