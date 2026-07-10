@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T06:56
+Generated at: 2026-07-10T07:06
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-10
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (18), Occupational and environmental epidemiology (14), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (18), Occupational and environmental epidemiology (14), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -437,6 +437,8 @@ Search window: 7 day(s) ending 2026-07-10
   The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies | 2026-07-04T00:00 | Historical epidemiology / ancient disease / paleopathology
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
+- [H5N1 outbreak in Philippines amid Australian fears](https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm?spTabChangeable\=0) | 香港電台 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
+  One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
 - [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) | The Guardian | 2026-07-10T12:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) | France 24 | 2026-07-10T12:24+00:00 | Outbreaks and emerging infections
@@ -447,8 +449,6 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Death Toll Tops 600 as Outbreak Expands](https://www.telesurenglish.net/dr-congo-ebola-death-toll-tops-600/) | teleSUR English | 2026-07-10T09:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Philippines reports bird flu outbreak among backyard birds, WOAH says, Asia News](https://www.asiaone.com/asia/philippines-reports-bird-flu-outbreak-among-backyard-birds-woah-says) | AsiaOne | 2026-07-10T08:39+00:00 | Outbreaks and emerging infections
-  PARIS - The Philippines has reported an outbreak of highly pathogenic H5N1 bird flu among backyard birds in its Oriental Mindoro province, the World Organisation for Animal Health (WOAH) said on Friday (July 10). The H5N1 virus was detected in a flock of 39 poultry in the town of Capalan, the Paris-based WOAH said, citing a report from the Philippine authorities. The spread of avian influenza, commonly called bird flu, has raised concerns among governments and the poultry industry after it ravaged flocks around the world in recent years, disrupting supply, fuelling higher food prices and raising the risk of human transmission.
 - [DR Congo: Ebola Outbreak A Crisis Within A Neglected Crisis](https://www.thedailyscrumnews.com/dr-congo-ebola-outbreak-a-crisis-within-a-neglected-crisis/) | The Daily Scrum News | 2026-07-10T06:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo’s Ebola Outbreak Expands, Death Toll Climbs To 600](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWg3aUNvaUJFUVlkcnNVeUQ0R2J1cDdMREhzdWN5THdJSkhaOS1jZUFJdl9FN3Z2Q1lqWVpiWFRRN2k1V2o5SVJuZG9mQkhhMUVuVkVGZUxvVlJtSmJDVF9ub3JBWGZNZmk2dncwdUcyZVZ6a2tLWkJlb1NPNkxvaTFRa0plNmh4eFBBWkU1bjhFdVlQeTBSUDFR?oc=5) | StratNews Global | 2026-07-10T05:45+00:00 | Outbreaks and emerging infections
