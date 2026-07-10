@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T06:06
+Generated at: 2026-07-10T06:16
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-10
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1358: Salmonella Typhimurium & Newport linked to Moringa Leaf Powder](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [IS481-based pertussis positivity transition from preschool to school-aged children and the ptxP3 predominance in high-load subset: a digital platform surveillance study in China.](https://pubmed.ncbi.nlm.nih.gov/42419305/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (18), Occupational and environmental epidemiology (14), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (18), Occupational and environmental epidemiology (14), Major epidemiology studies (4)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -23,13 +23,6 @@ Search window: 7 day(s) ending 2026-07-10
 - CBS News now explicitly uses investigation or monitoring language.
 - Gothamist now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
-
-### Ebola virus disease
-- Lead item: [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian)
-- Newly tracked story cluster: 8 item(s) across 8 source(s).
-- Baseline snapshot created with 8 clustered item(s) across 8 source(s).
-- The Jerusalem Post now reports conflict over body retrieval or burial practices.
-- Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [A field-deployable high-resolution SNP genotyping platform for rapid surveillance of Yersinia pestis.](https://pubmed.ncbi.nlm.nih.gov/42418343/) (PubMed Infectious Disease Search)
@@ -44,6 +37,12 @@ Search window: 7 day(s) ending 2026-07-10
 - Baseline snapshot created with 2 clustered item(s) across 2 source(s).
 - CDC MMWR now includes evacuation reporting.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
+
+### Ebola virus disease
+- Lead item: [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian)
+- Newly tracked story cluster: 8 item(s) across 8 source(s).
+- Baseline snapshot created with 8 clustered item(s) across 8 source(s).
+- Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Tuberculosis and antimicrobial resistance
 - Lead item: [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies)
@@ -454,7 +453,7 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T17:01+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Protesters burn treatment centers, attack healthcare workers to retrieve bodies of Ebola victims](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03TXVneW1OQVBYcml0X2xpMlByQlMtZFhERTZHVGh0bVJOTENXekEzRHpvSzlrMnlscEJLcjMzTktWZ3NuTUpneTdKeENlYUpnaVBwTVVJNGxPS1ZnUnhv?oc=5) | The Jerusalem Post | 2026-07-09T15:25+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak the ‘fastest growing ever’ – Africa CDC](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHY5Wk16YktzbklXLU1WODFISURuNmIxd3Y0WmVSSHF0RC1yRmJtSVZ0TjZINFoxNk9vZlJFOGF6dXNEZmdOazBPTEllTU52RFlrZ3JHekgwVW0tTG0wMlozSDF5bEdSamVSWFp5VVpNdFdVUVhGYl9HYXp4Sk9SZXFwZ1pnUjJXel9wWURhNFR4NVB3?oc=5) | The Africa Report | 2026-07-09T15:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) | Anadolu Ajansı | 2026-07-09T09:09+00:00 | Outbreaks and emerging infections
   The World Health Organization (WHO) Regional Office for Africa said Tuesday that the outbreak is marked by growing number of community deaths and the continued spread of infections into previously unaffected health zones in Ituri and North Kivu provinces. Health Ministry data showed that the number of confirmed cases has reached 1,759 as community transmission continued. The death toll from the current Ebola virus disease outbreak in the Democratic Republic of Congo has reached 600, according to data released late Wednesday by the country's health authorities.
