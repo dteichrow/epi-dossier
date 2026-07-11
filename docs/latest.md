@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T21:06
+Generated at: 2026-07-10T21:17
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-07-10
 ## Ongoing stories and what changed
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR)
-- Newly tracked story cluster: 4 item(s) across 3 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now includes evacuation reporting.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
@@ -33,9 +33,9 @@ Search window: 7 day(s) ending 2026-07-10
 
 ### Ebola virus disease
 - Lead item: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP)
-- Newly tracked story cluster: 7 item(s) across 7 source(s).
-- Baseline snapshot created with 7 clustered item(s) across 7 source(s).
-- Anadolu Ajansı now includes deaths or fatal cases in the story frame.
+- Newly tracked story cluster: 8 item(s) across 8 source(s).
+- Baseline snapshot created with 8 clustered item(s) across 8 source(s).
+- France 24 now includes deaths or fatal cases in the story frame.
 
 ### Tuberculosis and antimicrobial resistance
 - Lead item: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies)
@@ -60,20 +60,12 @@ Search window: 7 day(s) ending 2026-07-10
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 7 item(s) across 7 source(s); 0 official/primary-source item(s).
+- Topic size: 8 item(s) across 8 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP, 2026-07-10T21:04+00:00)
-- Detailed note: Cluster remains active across 7 related item(s), but usable factual summary text was limited after cleanup.
+- Detailed note: Cluster remains active across 8 related item(s), but usable factual summary text was limited after cleanup.
 - Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-external-update-3-10-july-2026) (ReliefWeb); [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### COVID-19 and SARS-CoV-2
-- Topic size: 4 item(s) across 3 source(s); 3 official/primary-source item(s).
-- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR, 2026-07-09T17:00+00:00)
-- Detailed note: Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Of these, 7.4% and 8.0% died in hospital, respectively; similar proportions were observed for influenza (5.5% and 5.0%). Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness.
-- Evidence notes: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR); [The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals](https://www.cidrap.umn.edu/climate-change/eaton-wildfire-evacuation-shelter-near-la-saw-outbreaks-norovirus-covid-and-flu) (CIDRAP); [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) (PubMed Infectious Disease Search); [RSV-related hospital admissions in a subset of hospitals in England and Scotland: A real-world study (2018-2023).](https://pubmed.ncbi.nlm.nih.gov/42430512/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
 - Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
@@ -89,6 +81,14 @@ Search window: 7 day(s) ending 2026-07-10
 - Detailed note: It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). High resistance was also observed among second-line and legacy drugs, including...
 - Evidence notes: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies); [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies); [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR, 2026-07-09T17:00+00:00)
+- Detailed note: Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Of these, 7.4% and 8.0% died in hospital, respectively; similar proportions were observed for influenza (5.5% and 5.0%). Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness.
+- Evidence notes: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR); [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) (PubMed Infectious Disease Search); [RSV-related hospital admissions in a subset of hospitals in England and Scotland: A real-world study (2018-2023).](https://pubmed.ncbi.nlm.nih.gov/42430512/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Measles transmission and vaccination
@@ -434,8 +434,6 @@ Search window: 7 day(s) ending 2026-07-10
   It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
 - [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) | CIDRAP | 2026-07-10T21:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals](https://www.cidrap.umn.edu/climate-change/eaton-wildfire-evacuation-shelter-near-la-saw-outbreaks-norovirus-covid-and-flu) | CIDRAP | 2026-07-10T20:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) | The Eastleigh Voice | 2026-07-10T18:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) | New York Post | 2026-07-10T14:46+00:00 | Outbreaks and emerging infections
@@ -447,6 +445,8 @@ Search window: 7 day(s) ending 2026-07-10
 - [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) | The Guardian | 2026-07-10T12:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [During Current Outbreak, bioMérieux Delivers its Ebola Rapid Diagnostics Testing in Central Africa](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2ZwVnJXUFR6bEx1UkUwazEwQ3ExX0pndjgxc1I4SElhNXY5T1dDcXhhTnE2dWNJQU01UTA1dU5NNU5jWFFjZU9PQTEwSUlzTzFOdy1ZUy1Ndm5YQkl4TFJqTXdobjlQbWQwMVNNVWQta21VeW5Nb3dzV3V5XzNtUGk4WGF2a3JmeHdPUmpSaUZ6b21pb2xWbXN3MEU0aGFmVVNYTmtNcWhGQk5FVUpudHdraWZwal9XaG1oTEpuY013ekJ1WEppZmZRUGc?oc=5) | Contagion Live | 2026-07-10T12:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://news.google.com/rss/articles/CBMingFBVV95cUxNbkVVcy1rbHlJRC1SS1lwVHA3amc3cmlJTDFsaWZXMnU2MWVxbW1KbFphcVNGa0tOc2czeVNLV0JuSmFMRk8wLWd0WnpXQ1NOOFhjTE9MeWRWdm5KTXBBS0FpTVBxSUVDYlFES2VWaWJGZmV2UXZRSlpSVmpXVVdOcy1PTHlGbEYtdWRwZ3RnUzdBNUtMVFppWWxGcUI4Zw?oc=5) | France 24 | 2026-07-10T12:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) | Bhaskar English | 2026-07-10T12:18+00:00 | Outbreaks and emerging infections
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
