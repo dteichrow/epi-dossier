@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-11
-Generated at: 2026-07-11T05:47
+Generated at: 2026-07-11T05:57
 Search window: 7 day(s) ending 2026-07-11
 
 ## Executive scan
@@ -33,9 +33,8 @@ Search window: 7 day(s) ending 2026-07-11
 
 ### Occupational and environmental epidemiology
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR)
-- Newly tracked story cluster: 15 item(s) across 11 source(s).
-- Baseline snapshot created with 15 clustered item(s) across 11 source(s).
-- Gothamist now includes deaths or fatal cases in the story frame.
+- Newly tracked story cluster: 15 item(s) across 12 source(s).
+- Baseline snapshot created with 15 clustered item(s) across 12 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Tuberculosis and antimicrobial resistance
@@ -55,10 +54,10 @@ Search window: 7 day(s) ending 2026-07-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 15 item(s) across 11 source(s); 2 official/primary-source item(s).
+- Topic size: 15 item(s) across 12 source(s); 2 official/primary-source item(s).
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR, 2026-07-09T17:00+00:00)
 - Detailed note: During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions.
-- Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [Legionnaires' disease cluster in New York City grows to 54 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) (ABC News - Breaking News, Latest News and Videos); [Legionnaires' disease cluster on Upper East Side grows](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/) (CBS News); [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGhOc3hnUjA0SDN2TERlMG5FMnJKWjlpM0RDb1BRWHBfc19mUkh5V29qRXVzSmhjUEV2c1BkY3BoVTNxVVFPdXRBNTJseHMwaXZqc043dDhZWXRUak9yWUtuMTRpUjZNZHM0ZlBvNWkxUXF4NUZraEE0dFNoYXFHLTYtZnlvYnduYjNjRnVlMDNGQ21BOGF2R0ZYM1BMOE9lVHFYSUcyMA?oc=5) (CBS News)
+- Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [Legionnaires' disease cluster in New York City grows to 54 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) (ABC News - Breaking News, Latest News and Videos); [Legionnaires' disease cluster on Upper East Side grows](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVpESmktR0pVMkFBVmRZY3pLYW5FNkplcXVIQUZCQUZEYTJKd1ZOa3FMS3h2ZXprdUxpWkFPenQ0SlBJNEJSRmFfZkNQYTUtNTA1bzN3elVLUUFpLVZPWjZHQmNySVdnS00yTnpVU0REVXd2eVJyTGI4cXhhZTEyX3RXOUEyMVZpUHRNTjJaVGxnc3JVV1k0?oc=5) (CBS News); [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGhOc3hnUjA0SDN2TERlMG5FMnJKWjlpM0RDb1BRWHBfc19mUkh5V29qRXVzSmhjUEV2c1BkY3BoVTNxVVFPdXRBNTJseHMwaXZqc043dDhZWXRUak9yWUtuMTRpUjZNZHM0ZlBvNWkxUXF4NUZraEE0dFNoYXFHLTYtZnlvYnduYjNjRnVlMDNGQ21BOGF2R0ZYM1BMOE9lVHFYSUcyMA?oc=5) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
