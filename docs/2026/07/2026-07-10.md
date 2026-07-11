@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T16:56
+Generated at: 2026-07-10T17:06
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-10
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Occupational and environmental epidemiology (17), Outbreaks and emerging infections (17), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (17), Occupational and environmental epidemiology (17), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
@@ -35,7 +35,7 @@ Search window: 7 day(s) ending 2026-07-10
 - Lead item: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP)
 - Newly tracked story cluster: 7 item(s) across 7 source(s).
 - Baseline snapshot created with 7 clustered item(s) across 7 source(s).
-- France 24 now includes deaths or fatal cases in the story frame.
+- Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Tuberculosis and antimicrobial resistance
 - Lead item: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies)
@@ -63,7 +63,7 @@ Search window: 7 day(s) ending 2026-07-10
 - Topic size: 7 item(s) across 7 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP, 2026-07-10T21:04+00:00)
 - Detailed note: Cluster remains active across 7 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [During Current Outbreak, bioMérieux Delivers its Ebola Rapid Diagnostics Testing in Central Africa](https://www.contagionlive.com/view/during-current-outbreak-biom-rieux-delivers-its-ebola-rapid-diagnostics-testing-in-central-africa) (Contagion Live); [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) (France 24)
+- Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-external-update-3-10-july-2026) (ReliefWeb); [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -442,14 +442,14 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
   One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
-- [During Current Outbreak, bioMérieux Delivers its Ebola Rapid Diagnostics Testing in Central Africa](https://www.contagionlive.com/view/during-current-outbreak-biom-rieux-delivers-its-ebola-rapid-diagnostics-testing-in-central-africa) | Contagion Live | 2026-07-10T12:36+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-external-update-3-10-july-2026) | ReliefWeb | 2026-07-10T13:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) | France 24 | 2026-07-10T12:24+00:00 | Outbreaks and emerging infections
+- [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) | The Guardian | 2026-07-10T12:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [During Current Outbreak, bioMérieux Delivers its Ebola Rapid Diagnostics Testing in Central Africa](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2ZwVnJXUFR6bEx1UkUwazEwQ3ExX0pndjgxc1I4SElhNXY5T1dDcXhhTnE2dWNJQU01UTA1dU5NNU5jWFFjZU9PQTEwSUlzTzFOdy1ZUy1Ndm5YQkl4TFJqTXdobjlQbWQwMVNNVWQta21VeW5Nb3dzV3V5XzNtUGk4WGF2a3JmeHdPUmpSaUZ6b21pb2xWbXN3MEU0aGFmVVNYTmtNcWhGQk5FVUpudHdraWZwal9XaG1oTEpuY013ekJ1WEppZmZRUGc?oc=5) | Contagion Live | 2026-07-10T12:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) | Bhaskar English | 2026-07-10T12:18+00:00 | Outbreaks and emerging infections
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
-- [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1ctYy13WkJXUDR3Q1lQbU5ZeVdidXVoM3dMVnZpcU5WOVVIejY5RVZYb0tqV185LXZsSldLVkNNcFFIU3ZDX2thbkF3V1JvU0lBYS1SUW1vWkJkVlh1bGdQT1l3UExDRE4yNC14dHF2MEtrWXpzYXVBaUFuU0lVczdDV05EWUZkT3BWYTVDY012bXBVZmlZczZMOTl3ZjZuaGhoUHFyM3BHbXhaMFJHQVFwMDBtVHBFRlE?oc=5) | Polity.org.za | 2026-07-10T09:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster in New York City grows to 46 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) | ABC News - Breaking News, Latest News and Videos | 2026-07-09T17:01+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
 - [Ebola death toll hits 600 in DR Congo as virus reported in new province](https://www.aa.com.tr/en/africa/ebola-death-toll-hits-600-in-dr-congo-as-virus-reported-in-new-province/3992905) | Anadolu Ajansı | 2026-07-09T09:09+00:00 | Outbreaks and emerging infections
