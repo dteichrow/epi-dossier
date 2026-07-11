@@ -10,9 +10,9 @@
       "NPR",
       "Reuters"
     ],
-    "metadata_only_count": 108,
+    "metadata_only_count": 107,
     "sources_cached": 0,
-    "sources_failed": 4,
+    "sources_failed": 2,
     "sources_live": 127,
     "story_count_change": 4,
     "wrapper_only_count": 5
@@ -24,21 +24,11 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-11T08:20:23",
+  "generated_at": "2026-07-11T08:27:52",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
       "source": "CDC Current Outbreak List",
-      "source_type": "html_list"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://ncdc.gov.ng/feed/",
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "rss"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
     },
     {
