@@ -10,19 +10,19 @@
     ],
     "metadata_only_count": 23,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 41,
-    "story_count_change": 4,
+    "sources_failed": 2,
+    "sources_live": 42,
+    "story_count_change": 5,
     "wrapper_only_count": 2
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 41,
+    "live": 42,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-10T23:46:54",
+  "generated_at": "2026-07-10T23:56:52",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
@@ -33,11 +33,6 @@
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=8)",
       "source": "USDA APHIS Avian Influenza",
       "source_type": "html_list"
-    },
-    {
-      "error": "400 Client Error: Bad Request for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42416860%2C42424525%2C42421423%2C42421198%2C42415700%2C42415230%2C42412066%2C42400399%2C42430512%2C42429434%2C42428029%2C42428027%2C42427275%2C42427251%2C42427240%2C42427235%2C42427053%2C42425544%2C42423644%2C42422968%2C42421595%2C42421558%2C42421443%2C42421287%2C42421205&retmode=xml",
-      "source": "PubMed Infectious Disease Search",
-      "source_type": "pubmed"
     }
   ]
 }

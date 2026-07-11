@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-10
-Generated at: 2026-07-10T23:46
+Generated at: 2026-07-10T23:56
 Search window: 7 day(s) ending 2026-07-10
 
 ## Executive scan
@@ -12,10 +12,18 @@ Search window: 7 day(s) ending 2026-07-10
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (20), Occupational and environmental epidemiology (16), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 3 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza, PubMed Infectious Disease Search.
+- Category mix: Outbreaks and emerging infections (17), Occupational and environmental epidemiology (16), Historical epidemiology / ancient disease / paleopathology (5)
+- Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
+### COVID-19 and SARS-CoV-2
+- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR)
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
+- PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
+- CDC MMWR now includes evacuation reporting.
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
+
 ### Occupational and environmental epidemiology
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR)
 - Newly tracked story cluster: 16 item(s) across 11 source(s).
@@ -31,8 +39,8 @@ Search window: 7 day(s) ending 2026-07-10
 
 ### Tuberculosis and antimicrobial resistance
 - Lead item: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 2 item(s) across 1 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 1 source(s).
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Historical epidemiology and ancient pathogens
@@ -55,15 +63,31 @@ Search window: 7 day(s) ending 2026-07-10
 - Topic size: 8 item(s) across 8 source(s); 0 official/primary-source item(s).
 - Lead item: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP, 2026-07-10T21:04+00:00)
 - Detailed note: Cluster remains active across 8 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://news.google.com/rss/articles/CBMingFBVV95cUxOQVBfR2N2UnRzN3lGcV9OajdMdXlVckFLSTVnMkJ0U2FjdTlSbW1vanFLV1JVeXljZXFIdV9xWUdPdTVlLXhCcnQ0MWdvQjg5WUQ5WVdBUHNnNGlnWHN5U0RDamlaaGZZMExlcUIzS0lJTDNWVElsdlI2Q0tVVXNiTU5fTVBRQmY0SzFuMzBCVHB0eWxSLThLdDJPVmU0QQ?oc=5) (New York Post); [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUxFZVN5UlpMQkUxMkZIMXlBT0UtOHJIeG1NTUtwUkZSYWRZQTl4b0FwZS1Obl9pcmRTQXJNeHBscDl5SXczdXRGaTNvY0xiUl95bnNEM0x5cWFfNjVIUGZpa0Z4NGVKR2NMTmxKRnp0OEF1bTZLQ1piMjVYdGtPRmZhM2dBc3Rqdmd1VktNRlJieUxIUW41UkVQeEFDOU83Ynd0djF4bU9xVGc3QlFYbXJpRzJhWnV6bFltN1NGQWJnQnd4UG9vRGhwaDVHalJyRTJR?oc=5) (ReliefWeb); [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTG1pS25CU0lvR0N2T1FlcnJsdDlBVHp6UzU4bTVubVdBLWFjSzVkUmpPQ3hvVjhHRGZsT2d6b29PeGNTY3dZdjNIR0h5LU5WYWxIckhOa0pDcmlBUUdmZFFvODhkTW0yZkM1VFhhdUZla3VIQlJGNjBvbVJMLU4wOXNjTUNoOWRsTDJ3VlBJU05LbEpqbExTM0g4VG5meTduT3c2cmFHbTcxdXZQaURBWkdubGYyWk5BeGdleW1PcXljTm5hSU9GdXZEa29ycEIzTGc?oc=5) (The Guardian)
+- Evidence notes: [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) (CIDRAP); [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) (The Eastleigh Voice); [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) (New York Post); [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-external-update-3-10-july-2026) (ReliefWeb); [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 4 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks, 2026-07-08T14:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [Five People, One China Buffet, and a Listeria Strain the State Found Right on the Counter](https://www.marlerblog.com/case-news/five-people-one-china-buffet-and-a-listeria-strain-the-state-found-right-on-the-counter/) (Marler Blog)
+- Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1380: Listeria monocytogenes linked to Requeson/Soft Ricotta Cheese](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026) (FDA Foodborne Outbreaks); [Real-world effectiveness of HPV vaccination against high-risk type HPV DNA positivity among adult women aged 18 - 45years in China: A matched test-negative design study.](https://pubmed.ncbi.nlm.nih.gov/42429434/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Tuberculosis and antimicrobial resistance
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies, 2026-07-10T00:00)
+- Detailed note: It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). High resistance was also observed among second-line and legacy drugs, including...
+- Evidence notes: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies); [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies); [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR, 2026-07-09T17:00+00:00)
+- Detailed note: Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Of these, 7.4% and 8.0% died in hospital, respectively; similar proportions were observed for influenza (5.5% and 5.0%). Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness.
+- Evidence notes: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR); [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) (PubMed Infectious Disease Search); [RSV-related hospital admissions in a subset of hospitals in England and Scotland: A real-world study (2018-2023).](https://pubmed.ncbi.nlm.nih.gov/42430512/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -74,22 +98,6 @@ Search window: 7 day(s) ending 2026-07-10
 - Evidence notes: [Bangladesh made huge progress on measles but now children keep dying](https://www.bbc.co.uk/news/articles/cj0gel72mlgo) (BBC); [Mexico measles outbreak tops 12,000 confirmed cases in 2026](https://outbreaknewstoday.substack.com/p/mexico-measles-outbreak-tops-12000) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English, 2026-07-10T12:18+00:00)
-- Detailed note: As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city.
-- Evidence notes: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
-
-### Tuberculosis and antimicrobial resistance
-- Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
-- Lead item: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies, 2026-07-10T00:00)
-- Detailed note: It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). High resistance was also observed among second-line and legacy drugs, including...
-- Evidence notes: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies); [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies)
-- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -400,6 +408,16 @@ Search window: 7 day(s) ending 2026-07-10
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-07-08T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42421287/
+- Category: Major epidemiology studies
+- Summary: The GeneXpert unit cost was $23.53 under expected utilization but $78.63 in the worst-case scenario. The unit cost of the integrated approach ranged from $16.04 (best-case) to $18.97 (worst-case). The integrated, high-throughput Cobas 8800 system maintained consistent testing volumes (median, 94 samples/day), whereas throughput was sporadic on decentralized GeneXpert platforms (median, four samples/day) because of supply chain disruptions and stockouts.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-07T00:00
@@ -410,29 +428,21 @@ Search window: 7 day(s) ending 2026-07-10
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42401834/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies | 2026-07-04T00:00 | Historical epidemiology / ancient disease / paleopathology
+  It showed strong quantitative agreement with qPCR across a wide dynamic range (4.98 × 10 3 -2.10 × 10 7 T. Bland-Altman analysis confirmed a close agreement (mean difference: -1.14 × 10 5 T.pallidum/mL). pallidum/mL), with an excellent correlation (r = 0.9967), without significant proportional or constant bias (Passing-Bablok slope = 1.003).
 - [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) | CIDRAP | 2026-07-10T21:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) | The Eastleigh Voice | 2026-07-10T18:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://news.google.com/rss/articles/CBMingFBVV95cUxOQVBfR2N2UnRzN3lGcV9OajdMdXlVckFLSTVnMkJ0U2FjdTlSbW1vanFLV1JVeXljZXFIdV9xWUdPdTVlLXhCcnQ0MWdvQjg5WUQ5WVdBUHNnNGlnWHN5U0RDamlaaGZZMExlcUIzS0lJTDNWVElsdlI2Q0tVVXNiTU5fTVBRQmY0SzFuMzBCVHB0eWxSLThLdDJPVmU0QQ?oc=5) | New York Post | 2026-07-10T14:46+00:00 | Outbreaks and emerging infections
+- [Congo Ebola outbreak spreading to new patients who have no known links to existing carriers of disease](https://nypost.com/2026/07/10/world-news/congo-ebola-outbreak-still-spreading-largely-undetected/) | New York Post | 2026-07-10T14:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm?spTabChangeable\=0) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
+- [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
   One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
-- [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUxFZVN5UlpMQkUxMkZIMXlBT0UtOHJIeG1NTUtwUkZSYWRZQTl4b0FwZS1Obl9pcmRTQXJNeHBscDl5SXczdXRGaTNvY0xiUl95bnNEM0x5cWFfNjVIUGZpa0Z4NGVKR2NMTmxKRnp0OEF1bTZLQ1piMjVYdGtPRmZhM2dBc3Rqdmd1VktNRlJieUxIUW41UkVQeEFDOU83Ynd0djF4bU9xVGc3QlFYbXJpRzJhWnV6bFltN1NGQWJnQnd4UG9vRGhwaDVHalJyRTJR?oc=5) | ReliefWeb | 2026-07-10T13:03+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-external-update-3-10-july-2026) | ReliefWeb | 2026-07-10T13:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTG1pS25CU0lvR0N2T1FlcnJsdDlBVHp6UzU4bTVubVdBLWFjSzVkUmpPQ3hvVjhHRGZsT2d6b29PeGNTY3dZdjNIR0h5LU5WYWxIckhOa0pDcmlBUUdmZFFvODhkTW0yZkM1VFhhdUZla3VIQlJGNjBvbVJMLU4wOXNjTUNoOWRsTDJ3VlBJU05LbEpqbExTM0g4VG5meTduT3c2cmFHbTcxdXZQaURBWkdubGYyWk5BeGdleW1PcXljTm5hSU9GdXZEa29ycEIzTGc?oc=5) | The Guardian | 2026-07-10T12:39+00:00 | Outbreaks and emerging infections
+- [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) | The Guardian | 2026-07-10T12:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [During Current Outbreak, bioMérieux Delivers its Ebola Rapid Diagnostics Testing in Central Africa](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2ZwVnJXUFR6bEx1UkUwazEwQ3ExX0pndjgxc1I4SElhNXY5T1dDcXhhTnE2dWNJQU01UTA1dU5NNU5jWFFjZU9PQTEwSUlzTzFOdy1ZUy1Ndm5YQkl4TFJqTXdobjlQbWQwMVNNVWQta21VeW5Nb3dzV3V5XzNtUGk4WGF2a3JmeHdPUmpSaUZ6b21pb2xWbXN3MEU0aGFmVVNYTmtNcWhGQk5FVUpudHdraWZwal9XaG1oTEpuY013ekJ1WEppZmZRUGc?oc=5) | Contagion Live | 2026-07-10T12:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,8 +466,6 @@ Search window: 7 day(s) ending 2026-07-10
   Limited detail was available from feed metadata alone.
 - [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) | The Eastleigh Voice | 2026-07-06T11:20+00:00 | Outbreaks and emerging infections
   New cholera outbreak alert for Sudan’s war-weary communities To prevent the spread of cholera, residents have been urged to ensure water safety by boiling or treating it with chlorine or other disinfectants. Continue with a related story, or tap the speaker icon on the next page to listen. Limited detail was available from feed metadata alone.
-- [Health Volunteers in Myanmar's Karenni (Kayah) State Rely on Borrowed Medicine Amid Severe Malaria Outbreak](https://www.bnionline.net/en/news/health-volunteers-myanmars-karenni-kayah-state-rely-borrowed-medicine-amid-severe-malaria) | Burma News International | 2026-07-06T09:37+00:00 | Outbreaks and emerging infections
-  Demographic data provided by the healthcare team shows that the most affected group consists of adults aged between 20 and 60, with men disproportionately outnumbering women due to the nature of outdoor work. Over the past month alone, at least 50 residents presented with malaria-like symptoms, with 13 testing positive after rapid diagnostic evaluations. Burma News International (BNI) is a network of 15 independent media and news organizations based in and around Burma Community health volunteers in eastern Demoso Township, Karenni (Kayah) State, are struggling to contain a widespread malaria outbreak amid critical shortages of anti-malarial medication and severe logistical delays.
 - [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) | Daily Mirror - Sri Lanka | 2026-07-05T04:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Legionnaires' disease cluster on NYC's Upper East Side under investigation](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-nycs-upper-east-side-under-investigation-1/) | CBS News | 2026-07-04T03:47+00:00 | Occupational and environmental epidemiology
@@ -482,6 +490,12 @@ Search window: 7 day(s) ending 2026-07-10
   Journal/preprint server: International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42419446/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42419446/
+- [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/13696998.2026.2696186
+  Journal/preprint server: Journal of medical economics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42421287/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42421287/
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1038/s41598-026-39899-1
@@ -494,6 +508,24 @@ Search window: 7 day(s) ending 2026-07-10
   Journal/preprint server: BMC microbiology
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42401834/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42401834/
+- [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/17441692.2026.2700817
+  Journal/preprint server: Global public health
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42421423/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42421423/
+- [Real-world effectiveness of HPV vaccination against high-risk type HPV DNA positivity among adult women aged 18 - 45years in China: A matched test-negative design study.](https://pubmed.ncbi.nlm.nih.gov/42429434/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2693440
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42429434/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42429434/
+- [RSV-related hospital admissions in a subset of hospitals in England and Scotland: A real-world study (2018-2023).](https://pubmed.ncbi.nlm.nih.gov/42430512/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2675075
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42430512/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42430512/
 
 ## Historical epi / weird epi corner
 - [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) | PubMed Historical Pathogen Case Studies
@@ -502,6 +534,8 @@ Search window: 7 day(s) ending 2026-07-10
   Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions. Understanding whether the disease entered and spread from pre-colonial Makassan (Indonesian) trade along the northern coast, or from the British First Fleet's arrival in southeastern Australia in 1788, is necessary to estimate the demographic impact. The impact of smallpox (variola) on Aboriginal communities in Australia beginning in 1789 was catastrophic and continues to cause intergenerational trauma.
 - [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) | PubMed Historical Pathogen Case Studies
   It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). Out of 56,695 screened individuals, 5,742 were diagnosed with pulmonary TB. After matching, 191 intervention patients were compared with 191 historical and 191 concurrent controls.
+- [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/) | PubMed Infectious Disease Search
+  The GeneXpert unit cost was $23.53 under expected utilization but $78.63 in the worst-case scenario. The unit cost of the integrated approach ranged from $16.04 (best-case) to $18.97 (worst-case). The integrated, high-throughput Cobas 8800 system maintained consistent testing volumes (median, 94 samples/day), whereas throughput was sporadic on decentralized GeneXpert platforms (median, four samples/day) because of supply chain disruptions and stockouts.
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) | PubMed Historical Pathogen Case Studies
   The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Overcoming the bottleneck in Treponema pallidum quantification: a novel flow cytometric assay for rapid, precise, and cost-effective detection.](https://pubmed.ncbi.nlm.nih.gov/42401834/) | PubMed Historical Pathogen Case Studies
