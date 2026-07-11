@@ -10,21 +10,21 @@
       "NPR",
       "Reuters"
     ],
-    "metadata_only_count": 109,
+    "metadata_only_count": 108,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 129,
+    "sources_live": 128,
     "story_count_change": 4,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 129,
+    "live": 128,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-11T12:37:20",
+  "generated_at": "2026-07-11T13:48:08",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
