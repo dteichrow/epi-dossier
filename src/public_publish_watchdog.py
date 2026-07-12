@@ -34,6 +34,7 @@ DEFAULT_REMOTE_DISPATCH_COOLDOWN_MINUTES = 45
 DEFAULT_UMBRELLA_REPOSITORY = "dteichrow/dteichrow.github.io"
 DEFAULT_UMBRELLA_WORKFLOW = "deploy-pages.yml"
 DEFAULT_UMBRELLA_DISPATCH_COOLDOWN_MINUTES = 30
+DEFAULT_ENABLE_UMBRELLA_DISPATCH = True
 NAIVE_UTC_FUTURE_TOLERANCE = timedelta(minutes=5)
 
 
@@ -424,6 +425,10 @@ def main(argv: list[str] | None = None) -> int:
         "EPI_DOSSIER_WATCHDOG_UMBRELLA_DISPATCH_COOLDOWN_MINUTES",
         DEFAULT_UMBRELLA_DISPATCH_COOLDOWN_MINUTES,
     )
+    enable_umbrella_dispatch = env_bool(
+        "EPI_DOSSIER_WATCHDOG_ENABLE_UMBRELLA_DISPATCH",
+        DEFAULT_ENABLE_UMBRELLA_DISPATCH,
+    )
     manifest_url = os.environ.get("EPI_DOSSIER_WATCHDOG_MANIFEST_URL", PUBLIC_MANIFEST_URL)
     upstream_manifest_url = os.environ.get("EPI_DOSSIER_WATCHDOG_UPSTREAM_MANIFEST_URL", UPSTREAM_MANIFEST_URL)
     try:
@@ -440,19 +445,20 @@ def main(argv: list[str] | None = None) -> int:
 
     generated_at = manifest.get("generated_at", "unknown")
     log(f"Manifest generated_at={generated_at}; age={age_minutes:.1f} minutes; threshold={stale_minutes} minutes.")
-    try:
-        upstream_manifest = fetch_manifest(url=cache_busting_url(upstream_manifest_url), timeout_seconds=timeout_seconds)
-    except (OSError, urllib.error.URLError, TimeoutError, ValueError, json.JSONDecodeError) as exc:
-        log(f"Upstream manifest check failed: {exc}")
-    else:
-        if manifest_is_newer(upstream_manifest, manifest):
-            log("Upstream Newsdesk artifact is newer than the live export; requesting umbrella import.")
-            if args.check:
-                return 0
-            return request_umbrella_publish(
-                dispatch_cooldown_minutes=umbrella_dispatch_cooldown_minutes,
-                upstream_generated_at=str(upstream_manifest.get("generated_at", "")),
-            )
+    if enable_umbrella_dispatch:
+        try:
+            upstream_manifest = fetch_manifest(url=cache_busting_url(upstream_manifest_url), timeout_seconds=timeout_seconds)
+        except (OSError, urllib.error.URLError, TimeoutError, ValueError, json.JSONDecodeError) as exc:
+            log(f"Upstream manifest check failed: {exc}")
+        else:
+            if manifest_is_newer(upstream_manifest, manifest):
+                log("Upstream Newsdesk artifact is newer than the live export; requesting umbrella import.")
+                if args.check:
+                    return 0
+                return request_umbrella_publish(
+                    dispatch_cooldown_minutes=umbrella_dispatch_cooldown_minutes,
+                    upstream_generated_at=str(upstream_manifest.get("generated_at", "")),
+                )
     if args.check:
         return 0
     if age_minutes >= stale_minutes:

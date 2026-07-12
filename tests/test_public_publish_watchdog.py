@@ -239,6 +239,26 @@ def test_umbrella_recovery_dispatch_has_an_independent_cooldown(monkeypatch, tmp
     assert public_publish_watchdog.load_watchdog_state(state_path)["last_umbrella_artifact_generated_at"] == "2026-05-05T06:35:00"
 
 
+def test_watchdog_can_skip_umbrella_dispatch_when_runner_has_no_cross_repo_credential(monkeypatch, tmp_path):
+    live_manifest = {"generated_at": "2026-05-05T06:00:00"}
+    calls = []
+
+    def unexpected_umbrella_dispatch(**kwargs):
+        raise AssertionError(f"umbrella dispatch should be disabled, got {kwargs}")
+
+    monkeypatch.setenv("EPI_DOSSIER_WATCHDOG_ENABLE_UMBRELLA_DISPATCH", "false")
+    monkeypatch.setenv("EPI_DOSSIER_WATCHDOG_CHECK_NEW_ITEMS", "false")
+    monkeypatch.setenv("EPI_DOSSIER_WATCHDOG_MANIFEST_URL", "https://example.test/live")
+    monkeypatch.setenv("EPI_DOSSIER_WATCHDOG_UPSTREAM_MANIFEST_URL", "https://example.test/upstream")
+    monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda **kwargs: calls.append(kwargs["url"]) or live_manifest)
+    monkeypatch.setattr(public_publish_watchdog, "request_umbrella_publish", unexpected_umbrella_dispatch)
+    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 1)
+    monkeypatch.setattr(public_publish_watchdog, "WATCHDOG_STATE_PATH", tmp_path / "watchdog-state.json")
+
+    assert public_publish_watchdog.main([]) == 0
+    assert calls == ["https://example.test/live"]
+
+
 def test_manifest_age_minutes_rejects_missing_generated_at():
     try:
         public_publish_watchdog.manifest_age_minutes({})

@@ -106,6 +106,9 @@ jobs:
         env:
           EPI_DOSSIER_WATCHDOG_STALE_MINUTES: "45"
           EPI_DOSSIER_WATCHDOG_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES: "30"
+          # Cross-repository delivery is handled by the authenticated local
+          # watchdog. This GITHUB_TOKEN cannot dispatch the umbrella workflow.
+          EPI_DOSSIER_WATCHDOG_ENABLE_UMBRELLA_DISPATCH: "false"
         run: .venv/bin/python src/public_publish_watchdog.py
 
       - name: Dispatch umbrella-site Newsdesk import
