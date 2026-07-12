@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-12
-Generated at: 2026-07-12T12:17
+Generated at: 2026-07-12T12:23
 Search window: 7 day(s) ending 2026-07-12
 
 ## Executive scan
@@ -13,6 +13,7 @@ Search window: 7 day(s) ending 2026-07-12
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies; 2026-07-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (96), Occupational and environmental epidemiology (14), Major epidemiology studies (5)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
