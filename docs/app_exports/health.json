@@ -7,24 +7,27 @@
       "CBS News",
       "CIDRAP",
       "Guardian",
+      "NBC News",
       "NPR",
-      "Reuters"
+      "New York Times",
+      "Reuters",
+      "STAT"
     ],
-    "metadata_only_count": 103,
+    "metadata_only_count": 190,
     "sources_cached": 0,
     "sources_failed": 4,
-    "sources_live": 124,
-    "story_count_change": 6,
-    "wrapper_only_count": 6
+    "sources_live": 214,
+    "story_count_change": 7,
+    "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 124,
+    "live": 214,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-12T13:45:09",
+  "generated_at": "2026-07-12T14:02:47",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
