@@ -1,3 +1,4 @@
+from src.app_exports import record_matches_edition
 from src.main import item_looks_like_story_followup, item_matches_briefing_scope
 from src.render_markdown import classify_topic
 from src.scoring import score_item
@@ -57,6 +58,38 @@ def test_google_news_followup_detection_uses_generic_outbreak_signals():
     assert item_looks_like_story_followup(item) is True
     assert item_matches_briefing_scope(item) is True
     assert score_item(item) >= 4
+
+
+def test_cyclosporiasis_official_alert_routes_to_the_outbreak_terminal():
+    item = Item(
+        title="Outbreak of cyclosporiasis occurring in Michigan",
+        source="Michigan Department of Health and Human Services Infectious Disease Updates",
+        url="https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/cyclosporiasis-outbreak",
+        category="Outbreaks and emerging infections",
+        summary="Officials are investigating a large and growing foodborne outbreak with more than 170 cases across southeast Michigan counties.",
+        source_type="html_list",
+        official=True,
+    )
+    outbreak_terminal = next(edition for edition in load_editions_config() if edition.key == "outbreaks")
+    record = {
+        "official": True,
+        "story_status": "active_investigation",
+        "evidence_type": "official_update",
+        "title": item.title,
+        "summary": item.summary,
+        "why_it_matters": "Official foodborne outbreak alert with rapidly rising case counts.",
+        "category": item.category,
+        "source": item.source,
+        "publisher_name": item.source,
+        "region": "North America",
+        "source_confidence": "official_agency",
+    }
+
+    assert "Cyclosporiasis" in {reference.name for reference in load_outbreak_reference()}
+    assert item_matches_briefing_scope(item) is True
+    assert classify_topic(item) == "Cyclosporiasis"
+    assert score_item(item) == 5
+    assert record_matches_edition(record, outbreak_terminal) is True
 
 
 def test_google_news_followup_requires_content_level_outbreak_activity():

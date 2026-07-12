@@ -65,7 +65,7 @@ def score_item(item: Item) -> int:
         score += 2
     if item.publisher_tier in {"wire", "major_newsroom", "specialist_health"} and not item.official:
         score += 1
-    if any(term in text for term in ("outbreak", "emerging", "cluster", "surveillance", "h5n1", "measles", "cholera", "dengue", "mpox", "marburg", "ebola", "anthrax", "nipah", "chikungunya", "yellow fever", "zika", "malaria", "meningococcal", "diphtheria", "pertussis", "legionnaires", "rabies", "hepatitis a", "norovirus", "oropouche", "rift valley fever", "mers", "avian influenza", "tuberculosis", "polio", "lassa")):
+    if any(term in text for term in ("outbreak", "emerging", "cluster", "surveillance", "h5n1", "measles", "cholera", "dengue", "mpox", "marburg", "ebola", "anthrax", "nipah", "chikungunya", "yellow fever", "zika", "malaria", "meningococcal", "diphtheria", "pertussis", "legionnaires", "rabies", "hepatitis a", "norovirus", "cyclospora", "cyclosporiasis", "campylobacter", "shigella", "vibrio", "yersinia", "botulism", "oropouche", "rift valley fever", "mers", "avian influenza", "tuberculosis", "polio", "lassa")):
         score += 2
     if has_disease_reference_signal(text) and any(
         term in text
@@ -143,6 +143,13 @@ def score_item(item: Item) -> int:
             "hantavirus",
             "measles",
             "cholera",
+            "cyclospora",
+            "cyclosporiasis",
+            "campylobacter",
+            "shigella",
+            "vibrio",
+            "yersinia",
+            "botulism",
             "dengue",
             "mpox",
             "marburg",

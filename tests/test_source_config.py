@@ -11,6 +11,7 @@ def test_source_config_includes_requested_official_state_and_cdc_sources():
     assert "Texas Department of State Health Services News" in names
     assert "Washington State Department of Health Newsroom" in names
     assert "Oregon Health Authority News Releases" in names
+    assert "Michigan Department of Health and Human Services Infectious Disease Updates" in names
 
 
 def test_fragile_official_sources_have_resilient_timeout_budgets():
@@ -24,3 +25,6 @@ def test_fragile_official_sources_have_resilient_timeout_budgets():
     assert sources_by_name["Nigeria Centre for Disease Control"].url == "https://www.ncdc.gov.ng/news/press"
     assert sources_by_name["Nigeria Centre for Disease Control"].required is False
     assert sources_by_name["Nigeria Centre for Disease Control"].max_items == 20
+    assert sources_by_name["Michigan Department of Health and Human Services Infectious Disease Updates"].refresh_hours == 1
+    assert "cyclospora" in sources_by_name["Google News Foodborne and Enteric Outbreaks"].url.lower()
+    assert "cyclosporiasis" in sources_by_name["Google News Great Lakes Public Health"].url.lower()

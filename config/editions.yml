@@ -58,6 +58,10 @@ editions:
       - rapid response
       - unknown illness
       - mystery illness
+      - cyclospora
+      - cyclosporiasis
+      - foodborne
+      - produce-linked
     exclude_terms:
       - workforce
       - health workforce

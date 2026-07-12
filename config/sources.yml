@@ -251,6 +251,18 @@ sources:
     timeout_seconds: 8
     max_attempts: 1
 
+  - name: Michigan Department of Health and Human Services Infectious Disease Updates
+    type: html_list
+    category: Outbreaks and emerging infections
+    url: https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases
+    official: true
+    outbreak_signal: true
+    item_selector: ".field-link a"
+    refresh_hours: 1
+    max_items: 60
+    timeout_seconds: 20
+    max_attempts: 2
+
   - name: Google News Outbreaks
     type: rss
     category: Outbreaks and emerging infections
@@ -367,7 +379,15 @@ sources:
   - name: Google News Foodborne and Enteric Outbreaks
     type: rss
     category: Outbreaks and emerging infections
-    url: https://news.google.com/rss/search?q=%28norovirus+OR+salmonella+OR+listeria+OR+shigella+OR+cholera+OR+hepatitis+A+OR+%22E.+coli%22%29+%28outbreak+OR+recall+OR+cluster+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    url: https://news.google.com/rss/search?q=%28norovirus+OR+salmonella+OR+listeria+OR+shigella+OR+cholera+OR+hepatitis+A+OR+%22E.+coli%22+OR+STEC+OR+campylobacter+OR+vibrio+OR+yersinia+OR+botulism+OR+cyclospora+OR+cyclosporiasis%29+%28outbreak+OR+recall+OR+cluster+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en
+    official: false
+    outbreak_signal: true
+    max_items: 100
+
+  - name: Google News Great Lakes Public Health
+    type: rss
+    category: Outbreaks and emerging infections
+    url: https://news.google.com/rss/search?q=%28Michigan+OR+Ohio+OR+MDHHS+OR+MDARD+OR+%22Ohio+Department+of+Health%22+OR+%22Lucas+County+Health%22%29+%28outbreak+OR+cyclospora+OR+cyclosporiasis+OR+foodborne+OR+surveillance+OR+%22health+alert%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en
     official: false
     outbreak_signal: true
     max_items: 100

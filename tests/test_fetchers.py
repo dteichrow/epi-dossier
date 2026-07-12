@@ -45,6 +45,10 @@ def test_fetch_rss_parses_entries(monkeypatch):
     assert items[0].publisher == "Reuters"
 
 
+def test_browserish_headers_use_a_standard_browser_user_agent_for_state_health_sites():
+    assert BROWSERISH_HEADERS["User-Agent"].startswith("Mozilla/5.0")
+
+
 def test_fetch_rss_normalizes_escaped_query_separator(monkeypatch):
     xml = """
     <rss version="2.0">
@@ -94,6 +98,33 @@ def test_fetch_html_list_drops_generic_anchor_titles(monkeypatch):
     items = fetch_html_list(source, logger=Mock())
     assert len(items) == 1
     assert items[0].title == "Outbreak investigation: Salmonella in cucumbers"
+
+
+def test_fetch_html_list_extracts_mdhhs_current_outbreak_links(monkeypatch):
+    html = """
+    <div class="field-link">
+      <a href="/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis">Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)</a>
+    </div>
+    """
+    response = Mock()
+    response.text = html
+    response.raise_for_status = Mock()
+    monkeypatch.setattr("src.fetchers.requests.get", lambda *args, **kwargs: response)
+    source = SourceConfig(
+        name="Michigan Department of Health and Human Services Infectious Disease Updates",
+        type="html_list",
+        category="Outbreaks and emerging infections",
+        url="https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases",
+        official=True,
+        item_selector=".field-link a",
+    )
+
+    items = fetch_html_list(source, logger=Mock())
+
+    assert len(items) == 1
+    assert items[0].title == "Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)"
+    assert items[0].url == "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis"
+    assert items[0].official is True
 
 
 def test_fetch_html_list_parses_fda_outbreak_rows(monkeypatch):

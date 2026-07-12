@@ -955,6 +955,46 @@ diseases:
       - "Cruise-ship outbreaks keep reminding editors that enormous audience interest can attach to pathogens that are usually medically self-limited."
     surveillance_note: "This is one of the most reliable high-volume local outbreak categories and should be surfaced more aggressively."
 
+  - name: Cyclosporiasis
+    pathogen: Cyclospora cayetanensis
+    transmission: Foodborne and waterborne fecal contamination; direct person-to-person spread is not the usual route.
+    categories: ["Enteric", "Foodborne", "Produce-associated outbreaks"]
+    aliases: ["cyclospora", "cyclospora cayetanensis", "cyclospora infection"]
+    reservoir_or_vector: "Human fecal contamination of food or water is the practical outbreak frame; fresh produce has been implicated repeatedly in prior North American outbreaks."
+    incubation: "Usually about one week, with a reported range of roughly 2 days to 2 weeks or more."
+    symptoms:
+      - "Prolonged or relapsing watery diarrhea, often with abdominal cramping, bloating, nausea, anorexia, and weight loss."
+      - "Dehydration and delayed clinical recognition can drive the practical burden, especially in younger, older, or immunocompromised people."
+    severity: "Usually not life-threatening, but outbreaks can be large, prolonged, and disruptive; severe dehydration and delayed diagnosis matter."
+    diagnostics: "Laboratories need a Cyclospora-specific stool test or molecular gastrointestinal panel; routine ova-and-parasite testing may not include it."
+    treatment: "Trimethoprim-sulfamethoxazole is the usual treatment when indicated, with hydration and clinical assessment for more severe illness."
+    prevention: "Source tracing, produce-control measures, safe food handling, and rapid provider awareness; washing alone may not eliminate risk from contaminated produce."
+    vaccine_status: "No vaccine is available."
+    why_reporters_care: "Cyclospora can produce a large, fast-moving foodborne cluster before a specific product is identified, making state surveillance and laboratory testing more informative than early recall speculation."
+    what_reporters_get_wrong: "A produce-associated outbreak does not establish a specific food vehicle. Early case growth, cross-border clustering, and a missing source are signals to follow, not proof about lettuce, berries, or any restaurant chain."
+    metrics_that_matter:
+      - "Case counts, hospitalizations, onset window, and the number of affected jurisdictions."
+      - "Whether officials have identified a common exposure, product, grower, or supplier."
+      - "Provider-testing guidance and evidence of delayed recognition or under-testing."
+    research_caveats: "State counts can move quickly as laboratories add targeted testing and retrospective case finding. Similar illness clusters across states do not by themselves prove a single multistate outbreak."
+    outbreak_settings: ["Fresh-produce supply chains", "Restaurants and food-service settings", "Cross-border state clusters"]
+    latest_outbreak:
+      label: Large and growing cyclosporiasis outbreak
+      period: "July 2026"
+      location: "Southeast Michigan, with related Ohio surveillance concern"
+      summary: "MDHHS reported 784 Michigan cases since June 22 as of July 7, 2026, while the source investigation remained unresolved. The state warned that standard stool testing may miss Cyclospora unless it is specifically requested."
+      source_name: "Michigan Department of Health and Human Services provider bulletin"
+      source_url: "https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/Keeping-Michigan-Healthy/Public-Health-Admin/Bulletins/Cyclosporiasis-Provider-Bulletin-NB-Copy.pdf"
+      as_of: "2026-07-07"
+    field_guide_links:
+      - label: "CDC Cyclospora overview"
+        url: "https://www.cdc.gov/cyclosporiasis/about/index.html"
+      - label: "MDHHS infectious disease updates"
+        url: "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases"
+    notable_outbreaks:
+      - "North American Cyclospora outbreaks have repeatedly been linked to fresh produce, but the food vehicle often remains unresolved early in investigation."
+    surveillance_note: "A sudden state-level rise is a serious signal even before a recall exists. The practical question is whether the increase reflects one source, several clusters, improved testing, or a combination of all three."
+
   - name: Hepatitis A
     pathogen: Hepatitis A virus
     transmission: Fecal-oral, foodborne, and close-contact spread
