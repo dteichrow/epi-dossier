@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-12
-Generated at: 2026-07-12T12:23
+Generated at: 2026-07-12T13:00
 Search window: 7 day(s) ending 2026-07-12
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-12
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies; 2026-07-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (96), Occupational and environmental epidemiology (14), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (96), Occupational and environmental epidemiology (14), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -441,6 +441,8 @@ Search window: 7 day(s) ending 2026-07-12
   Limited detail was available from feed metadata alone.
 - [American tests positive for Ebola in Congo, will be evacuated](https://www.spokesman.com/stories/2026/jul/11/american-tests-positive-for-ebola-in-congo-will-be/) | The Spokesman-Review | 2026-07-11T23:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak](https://www.foxnews.com/us/another-us-citizen-tests-positive-ebola-virus-working-congo-amid-record-outbreak) | Fox News | 2026-07-11T23:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [US aid worker in Congo infected with Ebola during record outbreak](https://www.ktvq.com/health/us-aid-worker-in-congo-infected-with-ebola-during-record-outbreak) | KTVQ | 2026-07-11T18:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases top 1,800 as DR Congo outbreak spreads](https://en.yenisafak.com/world/ebola-cases-top-1800-as-dr-congo-outbreak-spreads-3720700) | Yeni Safak English | 2026-07-11T10:42+00:00 | Outbreaks and emerging infections
@@ -459,7 +461,7 @@ Search window: 7 day(s) ending 2026-07-12
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) | The Eastleigh Voice | 2026-07-10T18:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm?spTabChangeable\=0) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
+- [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
   One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-external-update-3-10-july-2026) | ReliefWeb | 2026-07-10T13:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -469,8 +471,6 @@ Search window: 7 day(s) ending 2026-07-12
   Limited detail was available from feed metadata alone.
 - [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) | Bhaskar English | 2026-07-10T12:18+00:00 | Outbreaks and emerging infections
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
-- [Africa CDC Warns Ebola Outbreak Outpacing Response](https://allafrica.com/view/group/main/main/id/00097403.html) | allAfrica.com | 2026-07-10T08:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/)
