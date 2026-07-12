@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Ebola virus disease | The Pathogen Dispatch</title>
+    <title>Cyclosporiasis | The Pathogen Dispatch</title>
     <style>
       :root { --bg: #e8e1d3; --bg-deep: #d8cebc; --surface: #f8f4ea; --surface-alt: #f2ebde; --paper: #fffdf8; --ink: #1b2836; --ink-soft: #42515e; --line: #d6cab7; --accent: #8d3f2f; --accent-soft: rgba(141,63,47,0.10); --signal: #1f5b89; --signal-soft: rgba(31,91,137,0.12); --shadow: 0 24px 56px rgba(49, 36, 22, 0.10); }
       * { box-sizing: border-box; }
@@ -131,19 +131,19 @@
       <section class="live-update-banner panel utility-panel" id="live-update-banner" hidden aria-live="polite" role="status" data-live-update-banner="true"><div class="live-update-copy"><div class="section-nav-label">New edition available</div><p class="live-update-text" id="live-update-text">An updated edition is available. Load the latest run when you are ready.</p></div><div class="live-update-actions"><button class="live-update-dismiss" id="live-update-dismiss" type="button" onclick="(function(btn){const banner=btn.closest('[data-live-update-banner]');if(banner){banner.hidden=true;banner.style.display='none';const runId=(banner.dataset&&banner.dataset.pendingRunId)||'';const key=(banner.dataset&&banner.dataset.dismissKey)||('pathogen-dispatch-live-update-dismissed:'+window.location.pathname);try{window.sessionStorage.setItem(key, window.location.pathname+'::'+(runId||'unknown'));}catch(error){}}return false;})(this)">Keep reading</button><button class="live-update-button" id="live-update-refresh" type="button" onclick="(function(btn){const banner=btn.closest('[data-live-update-banner]');if(banner){banner.hidden=true;banner.style.display='none';}const url=new URL(window.location.href);url.searchParams.set('_edition', String(Date.now()));window.location.replace(url.toString());return false;})(this)">Load latest</button></div></section>
       <section class="hero" id="story-overview">
         <p class="kicker">Disease intelligence sheet</p>
-        <h1>Ebola virus disease</h1>
+        <h1>Cyclosporiasis</h1>
         <p class="subtitle">Curated desk background for reporters who need the pathogen, transmission, and outbreak frame fast.</p>
-        <div class="meta-row"><span class="badge">Hemorrhagic fever</span><span class="badge">High-fatality</span><span class="badge">Outbreak containment</span><span class="badge">Healthcare settings</span><span class="badge">Households</span><span class="badge">Funeral transmission chains</span><span class="badge">Mining and mobile work zones</span><span class="badge">Border corridors</span><span class="badge">Urban referral hospitals</span></div>
+        <div class="meta-row"><span class="badge">Enteric</span><span class="badge">Foodborne</span><span class="badge">Produce-associated outbreaks</span><span class="badge">Fresh-produce supply chains</span><span class="badge">Restaurants and food-service settings</span><span class="badge">Cross-border state clusters</span></div>
         
-        <p><strong>Pathogen / agent:</strong> Ebola viruses, including Bundibugyo virus in the current DRC/Uganda outbreak</p>
-        <p><strong>Transmission:</strong> Direct contact with blood, body fluids or contaminated materials</p>
-        <p><strong>Reservoir / vector:</strong> Fruit bats are the leading reservoir hypothesis; human amplification is contact-driven.</p>
-        <p><strong>Incubation:</strong> Usually 2 to 21 days.</p>
-        <p><strong>Severity:</strong> High fatality potential and intense healthcare-system stress.</p>
-        <p><strong>Diagnostics:</strong> PCR with strict biosafety and rapid isolation protocols.</p>
-        <p><strong>Treatment:</strong> Supportive care is central. Species-specific countermeasures matter: approved Ebola Zaire tools should not be lazily assumed to solve a Bundibugyo outbreak.</p>
-        <p><strong>Prevention:</strong> Isolation, PPE, safe burials, contact tracing, and vaccination where available.</p>
-        <p><strong>Vaccine / prevention status:</strong> Vaccination can be decisive for some Ebola species and response settings, but Bundibugyo-specific vaccine and therapeutic availability remains a central uncertainty in the 2026 outbreak.</p>
+        <p><strong>Pathogen / agent:</strong> Cyclospora cayetanensis</p>
+        <p><strong>Transmission:</strong> Foodborne and waterborne fecal contamination; direct person-to-person spread is not the usual route.</p>
+        <p><strong>Reservoir / vector:</strong> Human fecal contamination of food or water is the practical outbreak frame; fresh produce has been implicated repeatedly in prior North American outbreaks.</p>
+        <p><strong>Incubation:</strong> Usually about one week, with a reported range of roughly 2 days to 2 weeks or more.</p>
+        <p><strong>Severity:</strong> Usually not life-threatening, but outbreaks can be large, prolonged, and disruptive; severe dehydration and delayed diagnosis matter.</p>
+        <p><strong>Diagnostics:</strong> Laboratories need a Cyclospora-specific stool test or molecular gastrointestinal panel; routine ova-and-parasite testing may not include it.</p>
+        <p><strong>Treatment:</strong> Trimethoprim-sulfamethoxazole is the usual treatment when indicated, with hydration and clinical assessment for more severe illness.</p>
+        <p><strong>Prevention:</strong> Source tracing, produce-control measures, safe food handling, and rapid provider awareness; washing alone may not eliminate risk from contaminated produce.</p>
+        <p><strong>Vaccine / prevention status:</strong> No vaccine is available.</p>
       </section>
 
       <nav class="section-nav panel utility-panel" aria-label="Section navigation"><div class="section-nav-label">On this page</div><div class="section-nav-links"><a class="section-nav-link" href="#story-overview">Overview</a><a class="section-nav-link" href="#clinical-pattern">Clinical Pattern</a><a class="section-nav-link" href="#current-story-files">Current Story Files</a><a class="section-nav-link" href="#why-reporters-care">Why Reporters Care</a><a class="section-nav-link" href="#desk-notes">Desk Notes</a></div></nav>
@@ -151,38 +151,38 @@
       <section class="panel-grid">
         <section class="panel" id="clinical-pattern">
           <h2>Symptoms And Clinical Pattern</h2>
-          <ul class="bullet-list"><li>Fever, weakness, gastrointestinal symptoms, and severe malaise.</li><li>Bleeding is not universal but remains part of the classic frame.</li><li>Rapid systemic deterioration can occur.</li></ul>
+          <ul class="bullet-list"><li>Prolonged or relapsing watery diarrhea, often with abdominal cramping, bloating, nausea, anorexia, and weight loss.</li><li>Dehydration and delayed clinical recognition can drive the practical burden, especially in younger, older, or immunocompromised people.</li></ul>
         </section>
         <section class="panel">
           <h2>Official Background Links</h2>
-          <div class="meta-row"><a class="link-pill" href="https://www.cdc.gov/ebola/about/index.html">CDC overview</a><a class="link-pill" href="https://www.cdc.gov/ebola/situation-summary/index.html">CDC current situation</a><a class="link-pill" href="https://www.who.int/news-room/fact-sheets/detail/ebola-disease">WHO fact sheet</a><a class="link-pill" href="https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602">WHO Disease Outbreak News</a><a class="link-pill" href="https://africacdc.org/news-item/africa-cdc-declares-the-ongoing-bundibugyo-ebola-outbreak-a-public-health-emergency-of-continental-security/">Africa CDC PHECS declaration</a></div>
+          <div class="meta-row"><a class="link-pill" href="https://www.cdc.gov/cyclosporiasis/about/index.html">CDC Cyclospora overview</a><a class="link-pill" href="https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases">MDHHS infectious disease updates</a></div>
         </section>
       </section>
 
       <section class="panel" id="current-story-files">
         <h2>Current Story Files</h2>
-        <div class="card-grid"><article class="site-card"><div class="kicker">Active story file</div><h3><a href="../stories/story_56666e9c6c86e976-ebola-virus-disease.html">Ebola virus disease</a></h3><p>Baseline snapshot created with 88 clustered item(s) across 59 source(s).</p></article></div>
+        <div class="card-grid"><p class="empty-note">No active tracked stories are linked to this disease in the current run.</p></div>
       </section>
 
       <section class="panel" id="why-reporters-care">
         <h2>Why Reporters Care</h2>
-        <p><strong>Why this keeps becoming news:</strong> Ebola remains a defining outbreak-desk disease because healthcare transmission, funeral practices, laboratory capacity, community trust, and international alarm can all move faster than the confirmed count.</p>
-        <p><strong>What journalists often get wrong:</strong> Coverage often defaults to cinematic fatality framing or distant-risk reassurance and misses the operational details that determine control: isolation delays, healthcare spread, burial practices, contact follow-up, laboratory turnaround, and whether the headline count is lagging the epidemic.</p>
-        <ul class="bullet-list"><li>Suspected, probable, confirmed, and ruled-out cases by health zone and report date.</li><li>Deaths inside and outside formal care, especially community deaths and healthcare-worker deaths.</li><li>Contact tracing performance: listed contacts, high-risk contacts, follow-up completeness, symptomatic contacts, and contacts lost to follow-up.</li><li>Laboratory pipeline: samples collected, tested locally, sent to reference labs, indeterminate results, and turnaround time.</li><li>Cross-border and urban signals: imported cases, airport or border screening, capital-city care, and whether a place is a transmission site or a detection/care site.</li><li>Countermeasure reality: PPE, isolation beds, IPC support, safe burial teams, vaccine candidates, therapeutics, and operational research timelines.</li></ul>
+        <p><strong>Why this keeps becoming news:</strong> Cyclospora can produce a large, fast-moving foodborne cluster before a specific product is identified, making state surveillance and laboratory testing more informative than early recall speculation.</p>
+        <p><strong>What journalists often get wrong:</strong> A produce-associated outbreak does not establish a specific food vehicle. Early case growth, cross-border clustering, and a missing source are signals to follow, not proof about lettuce, berries, or any restaurant chain.</p>
+        <ul class="bullet-list"><li>Case counts, hospitalizations, onset window, and the number of affected jurisdictions.</li><li>Whether officials have identified a common exposure, product, grower, or supplier.</li><li>Provider-testing guidance and evidence of delayed recognition or under-testing.</li></ul>
       </section>
 
       <section class="panel">
         <h2>Last Major Outbreak On File</h2>
-        <p><strong>2026 Bundibugyo Ebola outbreak</strong> | Ituri Province, DRC, with imported cases reported in Kampala, Uganda | April 2026-present</p>
-        <p>Africa CDC declared the ongoing Bundibugyo ebolavirus disease outbreak affecting DRC and Uganda a Public Health Emergency of Continental Security on 18 May 2026, reporting about 395 suspected cases and 106 associated deaths in DRC and two cases with one death in Kampala, Uganda.</p>
-        <p><strong>Source:</strong> <a href="https://africacdc.org/news-item/africa-cdc-declares-the-ongoing-bundibugyo-ebola-outbreak-a-public-health-emergency-of-continental-security/">Africa CDC PHECS declaration</a> (2026-05-18)</p>
+        <p><strong>Large and growing cyclosporiasis outbreak</strong> | Southeast Michigan, with related Ohio surveillance concern | July 2026</p>
+        <p>MDHHS reported 784 Michigan cases since June 22 as of July 7, 2026, while the source investigation remained unresolved. The state warned that standard stool testing may miss Cyclospora unless it is specifically requested.</p>
+        <p><strong>Source:</strong> <a href="https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/Keeping-Michigan-Healthy/Public-Health-Admin/Bulletins/Cyclosporiasis-Provider-Bulletin-NB-Copy.pdf">Michigan Department of Health and Human Services provider bulletin</a> (2026-07-07)</p>
       </section>
 
       <section class="panel" id="desk-notes">
         <h2>Desk Notes And Historical Signals</h2>
-        <p><strong>Desk note:</strong> Track the gap between suspected deaths and confirmed cases, not just the latest confirmed total. For fast-moving Ebola, testing delays, unsafe burials, health-worker infections, and contact follow-up failures are outbreak intelligence.</p>
-        <p><strong>Research caveats:</strong> Early Ebola counts are often an accounting artifact as much as an epidemic curve. When access, insecurity, transport, and laboratory confirmation lag, suspected cases and deaths can be a better warning signal than confirmed cases alone.</p>
-        <ul class="bullet-list"><li>Ebola was first identified in 1976 in what is now the Democratic Republic of the Congo.</li><li>The 2007 Bundibugyo outbreak in Uganda established Bundibugyo virus as a distinct Ebola-causing species.</li><li>West Africa 2014-2016 remains the defining modern Ebola catastrophe.</li><li>The 2018-2020 eastern DRC Ebola outbreak showed how insecurity, mobility, healthcare transmission, and community trust can make control brutally hard even with modern countermeasures.</li></ul>
+        <p><strong>Desk note:</strong> A sudden state-level rise is a serious signal even before a recall exists. The practical question is whether the increase reflects one source, several clusters, improved testing, or a combination of all three.</p>
+        <p><strong>Research caveats:</strong> State counts can move quickly as laboratories add targeted testing and retrospective case finding. Similar illness clusters across states do not by themselves prove a single multistate outbreak.</p>
+        <ul class="bullet-list"><li>North American Cyclospora outbreaks have repeatedly been linked to fresh produce, but the food vehicle often remains unresolved early in investigation.</li></ul>
       </section>
     </main>
     <script>

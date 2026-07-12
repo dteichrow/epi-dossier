@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-12
-Generated at: 2026-07-12T13:26
+Generated at: 2026-07-12T13:45
 Search window: 7 day(s) ending 2026-07-12
 
 ## Executive scan
@@ -11,9 +11,9 @@ Search window: 7 day(s) ending 2026-07-12
 - [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies; 2026-07-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (97), Occupational and environmental epidemiology (14), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (96), Occupational and environmental epidemiology (14), Major epidemiology studies (5)
+- Source health: 4 source(s) failed during collection: CDC Current Outbreak List, Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-07-12
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR)
-- Newly tracked story cluster: 6 item(s) across 4 source(s).
-- Baseline snapshot created with 6 clustered item(s) across 4 source(s).
+- Newly tracked story cluster: 5 item(s) across 3 source(s).
+- Baseline snapshot created with 5 clustered item(s) across 3 source(s).
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now includes evacuation reporting.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
@@ -38,17 +38,17 @@ Search window: 7 day(s) ending 2026-07-12
 - Baseline snapshot created with 15 clustered item(s) across 11 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
+### Hantavirus and cruise-ship outbreak
+- Lead item: [Amidst heatwave across Europe, ECDC launches improved tool for monitoring the risk of infection in coastal waters](https://www.ecdc.europa.eu/en/news-events/amidst-heatwave-across-europe-ecdc-launches-improved-tool-monitoring-risk-infection) (ECDC News)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- ECDC News now explicitly uses investigation or monitoring language.
+
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/) (PubMed Ancient Pathogen Genomics)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - The Spokesman-Review now includes evacuation reporting.
-
-### Tuberculosis and antimicrobial resistance
-- Lead item: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 2 item(s) across 1 source(s).
-- Baseline snapshot created with 2 clustered item(s) across 1 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
@@ -69,19 +69,19 @@ Search window: 7 day(s) ending 2026-07-12
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
-- Topic size: 6 item(s) across 4 source(s); 5 official/primary-source item(s).
+- Topic size: 5 item(s) across 3 source(s); 4 official/primary-source item(s).
 - Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR, 2026-07-09T17:00+00:00)
 - Detailed note: Compared with matched controls, mean total costs during 11 months of post-acute follow-up were 27% higher among adults ($11,508 vs $9,040; p < 0.001) and 42% higher among pediatric patients with COVID-19 ($3,997 vs $2,812; p < 0.001). Among adults, cost ratios peaked at 1 month of follow-up (1.32; 95% CI: 1.31-1.33) and declined to 1.15 (95% CI: 1.14-1.15) at 11 months. Weekly / July 9, 2026 / 75(26);337â342...
 - Evidence notes: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR); [The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals](https://www.cidrap.umn.edu/climate-change/eaton-wildfire-evacuation-shelter-near-la-saw-outbreaks-norovirus-covid-and-flu) (CIDRAP); [Rethinking vaccine mandates through the lens of penalties and incentives: A 7S framework approach.](https://pubmed.ncbi.nlm.nih.gov/42421423/) (PubMed Infectious Disease Search); [Evaluation of long-term healthcare utilization and costs associated with COVID-19 among adults and children in the US.](https://pubmed.ncbi.nlm.nih.gov/42434926/) (PubMed Infectious Disease Search); [RSV-related hospital admissions in a subset of hospitals in England and Scotland: A real-world study (2018-2023).](https://pubmed.ncbi.nlm.nih.gov/42430512/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Miscellaneous signals
-- Topic size: 4 item(s) across 3 source(s); 3 official/primary-source item(s).
-- Lead item: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks, 2026-07-08T14:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks); [Real-world effectiveness of HPV vaccination against high-risk type HPV DNA positivity among adult women aged 18 - 45years in China: A matched test-negative design study.](https://pubmed.ncbi.nlm.nih.gov/42429434/) (PubMed Infectious Disease Search); [Argentina: Trichinosis outbreak in General Madariaga, Buenos Aires Province](https://outbreaknewstoday.substack.com/p/argentina-trichinosis-outbreak-in-cbb) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+### Hantavirus and cruise-ship outbreak
+- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Lead item: [Amidst heatwave across Europe, ECDC launches improved tool for monitoring the risk of infection in coastal waters](https://www.ecdc.europa.eu/en/news-events/amidst-heatwave-across-europe-ecdc-launches-improved-tool-monitoring-risk-infection) (ECDC News, 2026-07-07T09:10+02:00)
+- Detailed note: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo...
+- Evidence notes: [Amidst heatwave across Europe, ECDC launches improved tool for monitoring the risk of infection in coastal waters](https://www.ecdc.europa.eu/en/news-events/amidst-heatwave-across-europe-ecdc-launches-improved-tool-monitoring-risk-infection) (ECDC News); [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Hantavirus outbreak from cruise ship officially ends](https://www.thestar.com.my/lifestyle/health/2026/07/12/hantavirus-outbreak-from-cruise-ship-officially-ends) (The Star)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
@@ -309,6 +309,15 @@ Search window: 7 day(s) ending 2026-07-12
   Field guide: [CDC overview](https://www.cdc.gov/norovirus/about/index.html); [WHO outbreak resources](https://www.who.int/teams/integrated-health-services/food-safety)
   Notable earlier outbreaks: Cruise-ship outbreaks keep reminding editors that enormous audience interest can attach to pathogens that are usually medically self-limited.
   Desk note: This is one of the most reliable high-volume local outbreak categories and should be surfaced more aggressively.
+- **Cyclosporiasis** | Cyclospora cayetanensis
+  Transmission: Foodborne and waterborne fecal contamination; direct person-to-person spread is not the usual route.
+  Last major outbreak on file: Large and growing cyclosporiasis outbreak | Southeast Michigan, with related Ohio surveillance concern | July 2026
+  Summary: MDHHS reported 784 Michigan cases since June 22 as of July 7, 2026, while the source investigation remained unresolved. The state warned that standard stool testing may miss Cyclospora unless it is specifically requested.
+  Source: Michigan Department of Health and Human Services provider bulletin (2026-07-07)
+  URL: https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/Keeping-Michigan-Healthy/Public-Health-Admin/Bulletins/Cyclosporiasis-Provider-Bulletin-NB-Copy.pdf
+  Field guide: [CDC Cyclospora overview](https://www.cdc.gov/cyclosporiasis/about/index.html); [MDHHS infectious disease updates](https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases)
+  Notable earlier outbreaks: North American Cyclospora outbreaks have repeatedly been linked to fresh produce, but the food vehicle often remains unresolved early in investigation.
+  Desk note: A sudden state-level rise is a serious signal even before a recall exists. The practical question is whether the increase reflects one source, several clusters, improved testing, or a combination of all three.
 - **Hepatitis A** | Hepatitis A virus
   Transmission: Fecal-oral, foodborne, and close-contact spread
   Last major outbreak on file: Recurrent foodborne and community outbreaks | Global | Ongoing
@@ -399,26 +408,6 @@ Search window: 7 day(s) ending 2026-07-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-08T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1389 with date posted 7/6/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Frozen Blueberries.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-08T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1383 with date posted 6/13/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Powdered Infant Formula.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-08T00:00
@@ -429,12 +418,32 @@ Search window: 7 day(s) ending 2026-07-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Amidst heatwave across Europe, ECDC launches improved tool for monitoring the risk of infection in coastal waters
+- Source: ECDC News
+- Date: 2026-07-07T09:10+02:00
+- URL: https://www.ecdc.europa.eu/en/news-events/amidst-heatwave-across-europe-ecdc-launches-improved-tool-monitoring-risk-infection
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Topics A-Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Public health topics Spotlight Antimicrobial resistance (AMR) Dengue Ebola disease Hantavirus infection Mpox West Nile virus infection Video: Fighting a Candida auris outbreak - healthcare workers leading the change Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe ECDC is launching an updated data visualisation that predicts where the risk of being infected by Vibrio bacteria could be greatest.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-07-07T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42414335/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) | PubMed Historical Pathogen Case Studies | 2026-07-07T00:00 | Historical epidemiology / ancient disease / paleopathology
-  The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-06T17:36+02:00 | Policy, surveillance, and public health infrastructure
   On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak spreading largely undetected: WHO official](https://www.bastillepost.com/global/article/6004450-dr-congo-ebola-outbreak-spreading-largely-undetected-who-official) | bastillepost.com | 2026-07-12T07:47+00:00 | Outbreaks and emerging infections
