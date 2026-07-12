@@ -14,7 +14,7 @@
     <key>EnvironmentVariables</key>
     <dict>
       <key>EPI_DOSSIER_WATCHDOG_STALE_MINUTES</key>
-      <string>45</string>
+      <string>35</string>
       <key>EPI_DOSSIER_WATCHDOG_TIMEOUT_SECONDS</key>
       <string>15</string>
       <key>EPI_DOSSIER_WATCHDOG_MANIFEST_URL</key>

@@ -39,5 +39,5 @@ def test_newsdesk_schedule_uses_staggered_publish_and_repair_windows() -> None:
 
     assert "7,37 * * * *" in publish_step["if"]
     assert "22,52 * * * *" in watchdog_step["if"]
-    assert watchdog_step["env"]["EPI_DOSSIER_WATCHDOG_STALE_MINUTES"] == "45"
+    assert watchdog_step["env"]["EPI_DOSSIER_WATCHDOG_STALE_MINUTES"] == "35"
     assert watchdog_step["run"] == ".venv/bin/python src/public_publish_watchdog.py"

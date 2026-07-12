@@ -10,7 +10,7 @@ def test_watchdog_defaults_to_canonical_public_manifest():
     assert public_publish_watchdog.PUBLIC_MANIFEST_URL.endswith("/app_exports/manifest.json")
     assert public_publish_watchdog.PUBLIC_LATEST_URL.endswith("/app_exports/latest.json")
     assert public_publish_watchdog.UPSTREAM_MANIFEST_URL.endswith("/docs/app_exports/manifest.json")
-    assert public_publish_watchdog.DEFAULT_STALE_MINUTES == 45
+    assert public_publish_watchdog.DEFAULT_STALE_MINUTES == 35
     assert public_publish_watchdog.DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES == 30
 
 
@@ -24,6 +24,7 @@ def test_watchdog_launch_agent_checks_the_live_export_and_dispatches_remotely():
     assert "/opt/homebrew/bin/gh" in content
     assert "EPI_DOSSIER_WATCHDOG_UPSTREAM_MANIFEST_URL" in content
     assert "EPI_DOSSIER_WATCHDOG_UMBRELLA_WORKFLOW" in content
+    assert "<key>EPI_DOSSIER_WATCHDOG_STALE_MINUTES</key>\n      <string>35</string>" in content
 
 
 def test_manifest_age_minutes_handles_local_naive_generated_at():
@@ -103,7 +104,7 @@ def test_main_publishes_when_fresh_manifest_has_new_candidate(monkeypatch, tmp_p
     calls = []
     monkeypatch.setattr(public_publish_watchdog, "WATCHDOG_STATE_PATH", tmp_path / "watchdog-state.json")
     monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda url, timeout_seconds: {"generated_at": "fresh"})
-    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 35)
+    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 34)
     monkeypatch.setattr(public_publish_watchdog, "fetch_live_latest", lambda timeout_seconds: {"items": []})
     monkeypatch.setattr(
         public_publish_watchdog,
@@ -138,7 +139,7 @@ def test_main_does_not_republish_same_new_candidate_identity(monkeypatch, tmp_pa
     state_path = tmp_path / "watchdog-state.json"
     monkeypatch.setattr(public_publish_watchdog, "WATCHDOG_STATE_PATH", state_path)
     monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda url, timeout_seconds: {"generated_at": "fresh"})
-    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 35)
+    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 34)
     monkeypatch.setattr(public_publish_watchdog, "fetch_live_latest", lambda timeout_seconds: {"items": []})
     monkeypatch.setattr(
         public_publish_watchdog,
@@ -157,7 +158,7 @@ def test_main_publishes_when_new_candidate_identity_appears(monkeypatch, tmp_pat
     state_path = tmp_path / "watchdog-state.json"
     monkeypatch.setattr(public_publish_watchdog, "WATCHDOG_STATE_PATH", state_path)
     monkeypatch.setattr(public_publish_watchdog, "fetch_manifest", lambda url, timeout_seconds: {"generated_at": "fresh"})
-    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 35)
+    monkeypatch.setattr(public_publish_watchdog, "manifest_age_minutes", lambda manifest: 34)
     monkeypatch.setattr(public_publish_watchdog, "fetch_live_latest", lambda timeout_seconds: {"items": []})
     candidate_batches = [
         [SimpleNamespace(canonical_url="https://example.com/new", title="New", source="Example")],
