@@ -23,3 +23,4 @@ def test_fragile_official_sources_have_resilient_timeout_budgets():
     assert sources_by_name["Nigeria Centre for Disease Control"].type == "html_list"
     assert sources_by_name["Nigeria Centre for Disease Control"].url == "https://www.ncdc.gov.ng/news/press"
     assert sources_by_name["Nigeria Centre for Disease Control"].required is False
+    assert sources_by_name["Nigeria Centre for Disease Control"].max_items == 20

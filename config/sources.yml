@@ -76,7 +76,7 @@ sources:
     # without classifying the global monitor as degraded when other core sources are live.
     required: false
     item_selector: "#news article"
-    max_items: 120
+    max_items: 20
     timeout_seconds: 30
     max_attempts: 2
 
