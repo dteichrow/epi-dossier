@@ -34,7 +34,8 @@ SOURCE_ITEM_CACHE_DIR = DATA_DIR / "source_items"
 NCBI_MIN_INTERVAL_SECONDS = 0.5
 _LAST_NCBI_REQUEST_AT = 0.0
 HEADERS = {
-    "User-Agent": "epi-dossier/0.1 (+local source-first epidemiology digest)"
+    "User-Agent": "epi-dossier/1.0 (+https://github.com/dteichrow/epi-dossier)",
+    "Accept": "application/atom+xml,application/rss+xml,application/xml,text/xml,text/html;q=0.9,*/*;q=0.8",
 }
 BROWSERISH_HEADERS = {
     **HEADERS,
@@ -226,7 +227,7 @@ def fetch_html_list(
 ) -> list[Item]:
     response = resilient_get(
         source.url,
-        headers=HEADERS,
+        headers=BROWSERISH_HEADERS,
         timeout=source.timeout_seconds or DEFAULT_TIMEOUT,
         logger=logger,
         cache_namespace="html",

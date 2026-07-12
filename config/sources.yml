@@ -55,6 +55,8 @@ sources:
     official: true
     outbreak_signal: true
     max_items: 120
+    timeout_seconds: 30
+    max_attempts: 2
 
   - name: Africa CDC
     type: rss
@@ -111,8 +113,8 @@ sources:
     official: true
     outbreak_signal: true
     item_selector: "a[href*='/news/'], a[href*='/node/']"
-    timeout_seconds: 8
-    max_attempts: 1
+    timeout_seconds: 30
+    max_attempts: 2
 
   - name: PubMed Infectious Disease Search
     type: pubmed

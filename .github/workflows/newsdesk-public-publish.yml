@@ -2,9 +2,11 @@ name: Newsdesk public publish
 
 on:
   schedule:
-    # Keep automated publishes sparse enough for GitHub Pages deployments to finish.
-    # Use workflow_dispatch for urgent refreshes.
-    - cron: "17 * * * *"
+    # Primary publishes run twice hourly, staggered away from the umbrella site's
+    # import schedule. The watchdog checks 15 minutes later and repairs a missed
+    # primary dispatch once the public artifact is 45 minutes old.
+    - cron: "7,37 * * * *"
+    - cron: "22,52 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,7 +21,9 @@ on:
 
 concurrency:
   group: newsdesk-public-publish
-  cancel-in-progress: true
+  # A queued watchdog must never cancel an in-progress publication. A completed
+  # publication makes the watchdog a no-op; a missed one lets it publish.
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -92,8 +96,17 @@ jobs:
         if: >-
           github.event_name == 'workflow_dispatch' ||
           github.event_name == 'push' ||
-          github.event_name == 'schedule'
+          github.event.schedule == '7,37 * * * *'
         run: .venv/bin/python src/public_publish.py
+
+      - name: Repair stale Newsdesk publish
+        if: >-
+          github.event_name == 'schedule' &&
+          github.event.schedule == '22,52 * * * *'
+        env:
+          EPI_DOSSIER_WATCHDOG_STALE_MINUTES: "45"
+          EPI_DOSSIER_WATCHDOG_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES: "30"
+        run: .venv/bin/python src/public_publish_watchdog.py
 
       - name: Dispatch umbrella-site Newsdesk import
         if: >-
@@ -101,7 +114,7 @@ jobs:
           (
             github.event_name == 'workflow_dispatch' ||
             github.event_name == 'push' ||
-            github.event_name == 'schedule'
+            github.event.schedule == '7,37 * * * *'
           )
         env:
           GH_TOKEN: ${{ secrets.EOE_UMBRELLA_DISPATCH_TOKEN }}

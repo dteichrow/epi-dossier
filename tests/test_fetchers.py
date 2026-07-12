@@ -3,6 +3,7 @@ from datetime import date
 from unittest.mock import Mock
 
 from src.fetchers import (
+    BROWSERISH_HEADERS,
     CachedHTTPResponse,
     decode_google_news_batchexecute,
     enrich_item_text,
@@ -171,6 +172,7 @@ def test_fetch_html_list_honors_source_ssl_and_timeout_settings(monkeypatch):
     assert len(items) == 1
     assert captured["timeout"] == 8
     assert captured["verify"] is False
+    assert captured["headers"] == BROWSERISH_HEADERS
 
 
 def test_fetch_pubmed_uses_efetch_abstract_and_doi(monkeypatch):

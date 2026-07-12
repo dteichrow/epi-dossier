@@ -18,9 +18,17 @@
       <key>EPI_DOSSIER_WATCHDOG_TIMEOUT_SECONDS</key>
       <string>15</string>
       <key>EPI_DOSSIER_WATCHDOG_MANIFEST_URL</key>
-      <string>https://dteichrow.github.io/epi-dossier/app_exports/manifest.json</string>
-      <key>EPI_DOSSIER_SKIP_UMBRELLA_PUBLISH</key>
-      <string>1</string>
+      <string>https://dteichrow.github.io/app_exports/manifest.json</string>
+      <key>EPI_DOSSIER_WATCHDOG_PUBLISH_MODE</key>
+      <string>github_actions</string>
+      <key>EPI_DOSSIER_WATCHDOG_GITHUB_REPOSITORY</key>
+      <string>dteichrow/epi-dossier</string>
+      <key>EPI_DOSSIER_WATCHDOG_GITHUB_WORKFLOW</key>
+      <string>Newsdesk public publish</string>
+      <key>EPI_DOSSIER_WATCHDOG_GH_BIN</key>
+      <string>/opt/homebrew/bin/gh</string>
+      <key>EPI_DOSSIER_WATCHDOG_REMOTE_DISPATCH_COOLDOWN_MINUTES</key>
+      <string>45</string>
     </dict>
 
     <key>RunAtLoad</key>

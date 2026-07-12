@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 from types import SimpleNamespace
 
 from src import public_publish_watchdog
@@ -10,6 +11,16 @@ def test_watchdog_defaults_to_canonical_public_manifest():
     assert public_publish_watchdog.PUBLIC_LATEST_URL.endswith("/app_exports/latest.json")
     assert public_publish_watchdog.DEFAULT_STALE_MINUTES == 45
     assert public_publish_watchdog.DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES == 30
+
+
+def test_watchdog_launch_agent_checks_the_live_export_and_dispatches_remotely():
+    agent = Path(__file__).resolve().parents[1] / "automation" / "com.codex.epi-dossier.public-publish-watchdog.plist"
+    content = agent.read_text()
+
+    assert "https://dteichrow.github.io/app_exports/manifest.json" in content
+    assert "EPI_DOSSIER_WATCHDOG_PUBLISH_MODE" in content
+    assert "github_actions" in content
+    assert "/opt/homebrew/bin/gh" in content
 
 
 def test_manifest_age_minutes_handles_local_naive_generated_at():
@@ -158,6 +169,26 @@ def test_main_does_not_publish_when_fresh_manifest_has_no_new_candidates(monkeyp
 
     assert public_publish_watchdog.main([]) == 0
     assert calls == []
+
+
+def test_github_actions_recovery_dispatch_is_rate_limited(monkeypatch, tmp_path):
+    calls = []
+    state_path = tmp_path / "watchdog-state.json"
+    monkeypatch.setattr(public_publish_watchdog, "run_github_actions_publish", lambda **kwargs: calls.append(kwargs) or 0)
+
+    assert public_publish_watchdog.request_publish(
+        publish_mode="github_actions",
+        remote_dispatch_cooldown_minutes=45,
+        state_path=state_path,
+    ) == 0
+    assert public_publish_watchdog.request_publish(
+        publish_mode="github_actions",
+        remote_dispatch_cooldown_minutes=45,
+        state_path=state_path,
+    ) == 0
+
+    assert len(calls) == 1
+    assert public_publish_watchdog.load_watchdog_state(state_path)["last_github_actions_dispatch_at"]
 
 
 def test_manifest_age_minutes_rejects_missing_generated_at():

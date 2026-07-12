@@ -4,6 +4,7 @@ import argparse
 import hashlib
 import json
 import os
+import shutil
 import subprocess
 import sys
 import time
@@ -24,6 +25,11 @@ DEFAULT_STALE_MINUTES = 45
 DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES = 30
 DEFAULT_TIMEOUT_SECONDS = 15
 DEFAULT_SEARCH_WINDOW_DAYS = 7
+DEFAULT_PUBLISH_MODE = "local"
+DEFAULT_GITHUB_REPOSITORY = "dteichrow/epi-dossier"
+DEFAULT_GITHUB_WORKFLOW = "Newsdesk public publish"
+DEFAULT_GITHUB_REF = "main"
+DEFAULT_REMOTE_DISPATCH_COOLDOWN_MINUTES = 45
 NAIVE_UTC_FUTURE_TOLERANCE = timedelta(minutes=5)
 
 
@@ -53,6 +59,17 @@ def env_bool(name: str, default: bool) -> bool:
     if normalized in {"0", "false", "no", "off"}:
         return False
     log(f"Ignoring invalid {name}={raw!r}; using {default}.")
+    return default
+
+
+def env_choice(name: str, default: str, allowed: set[str]) -> str:
+    raw = os.environ.get(name)
+    if raw is None:
+        return default
+    normalized = raw.strip().lower()
+    if normalized in allowed:
+        return normalized
+    log(f"Ignoring invalid {name}={raw!r}; using {default!r}.")
     return default
 
 
@@ -240,6 +257,72 @@ def run_public_publish() -> int:
     return subprocess.call([str(PYTHON_BIN), str(PUBLIC_PUBLISH)], cwd=REPO_ROOT)
 
 
+def run_github_actions_publish(
+    *,
+    repository: str = DEFAULT_GITHUB_REPOSITORY,
+    workflow: str = DEFAULT_GITHUB_WORKFLOW,
+    ref: str = DEFAULT_GITHUB_REF,
+    gh_binary: str | None = None,
+) -> int:
+    executable = gh_binary or os.environ.get("EPI_DOSSIER_WATCHDOG_GH_BIN") or shutil.which("gh")
+    if not executable:
+        log("GitHub Actions publish was requested, but the gh CLI is not available.")
+        return 127
+    log(f"Requesting GitHub Actions publish for {repository} at {ref}.")
+    return subprocess.call(
+        [executable, "workflow", "run", workflow, "--repo", repository, "--ref", ref],
+        cwd=REPO_ROOT,
+    )
+
+
+def remote_dispatch_is_due(
+    cooldown_minutes: int,
+    *,
+    state_path: Path | None = None,
+    now: datetime | None = None,
+) -> bool:
+    state = load_watchdog_state(state_path)
+    last_raw = state.get("last_github_actions_dispatch_at")
+    if not isinstance(last_raw, str) or not last_raw:
+        return True
+    try:
+        last_dispatch = datetime.fromisoformat(last_raw)
+    except ValueError:
+        return True
+    current = now or datetime.now().astimezone()
+    if last_dispatch.tzinfo is None:
+        last_dispatch = last_dispatch.replace(tzinfo=current.tzinfo)
+    return current - last_dispatch >= timedelta(minutes=cooldown_minutes)
+
+
+def record_remote_dispatch(*, state_path: Path | None = None, now: datetime | None = None) -> None:
+    state = load_watchdog_state(state_path)
+    current = now or datetime.now().astimezone()
+    state["last_github_actions_dispatch_at"] = current.isoformat(timespec="seconds")
+    write_watchdog_state(state, state_path)
+
+
+def request_publish(
+    *,
+    publish_mode: str,
+    remote_dispatch_cooldown_minutes: int,
+    state_path: Path | None = None,
+) -> int:
+    if publish_mode != "github_actions":
+        return run_public_publish()
+    if not remote_dispatch_is_due(remote_dispatch_cooldown_minutes, state_path=state_path):
+        log("GitHub Actions recovery dispatch is within its cooldown; skipping duplicate request.")
+        return 0
+    result = run_github_actions_publish(
+        repository=os.environ.get("EPI_DOSSIER_WATCHDOG_GITHUB_REPOSITORY", DEFAULT_GITHUB_REPOSITORY),
+        workflow=os.environ.get("EPI_DOSSIER_WATCHDOG_GITHUB_WORKFLOW", DEFAULT_GITHUB_WORKFLOW),
+        ref=os.environ.get("EPI_DOSSIER_WATCHDOG_GITHUB_REF", DEFAULT_GITHUB_REF),
+    )
+    if result == 0:
+        record_remote_dispatch(state_path=state_path)
+    return result
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Check the public Newsdesk manifest and repair stale publishes.")
     parser.add_argument("--check", action="store_true", help="Check manifest freshness without invoking the publisher.")
@@ -256,6 +339,11 @@ def main(argv: list[str] | None = None) -> int:
     timeout_seconds = env_int("EPI_DOSSIER_WATCHDOG_TIMEOUT_SECONDS", DEFAULT_TIMEOUT_SECONDS)
     search_window_days = env_int("EPI_DOSSIER_WATCHDOG_SEARCH_WINDOW_DAYS", DEFAULT_SEARCH_WINDOW_DAYS)
     check_new_items = env_bool("EPI_DOSSIER_WATCHDOG_CHECK_NEW_ITEMS", True)
+    publish_mode = env_choice("EPI_DOSSIER_WATCHDOG_PUBLISH_MODE", DEFAULT_PUBLISH_MODE, {"local", "github_actions"})
+    remote_dispatch_cooldown_minutes = env_int(
+        "EPI_DOSSIER_WATCHDOG_REMOTE_DISPATCH_COOLDOWN_MINUTES",
+        DEFAULT_REMOTE_DISPATCH_COOLDOWN_MINUTES,
+    )
     manifest_url = os.environ.get("EPI_DOSSIER_WATCHDOG_MANIFEST_URL", PUBLIC_MANIFEST_URL)
     try:
         manifest = fetch_manifest(url=manifest_url, timeout_seconds=timeout_seconds)
@@ -264,7 +352,10 @@ def main(argv: list[str] | None = None) -> int:
         log(f"Manifest check failed: {exc}")
         if args.check:
             return 1
-        return run_public_publish()
+        return request_publish(
+            publish_mode=publish_mode,
+            remote_dispatch_cooldown_minutes=remote_dispatch_cooldown_minutes,
+        )
 
     generated_at = manifest.get("generated_at", "unknown")
     log(f"Manifest generated_at={generated_at}; age={age_minutes:.1f} minutes; threshold={stale_minutes} minutes.")
@@ -272,7 +363,10 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if age_minutes >= stale_minutes:
         log("Manifest is stale; invoking publisher.")
-        return run_public_publish()
+        return request_publish(
+            publish_mode=publish_mode,
+            remote_dispatch_cooldown_minutes=remote_dispatch_cooldown_minutes,
+        )
 
     if check_new_items:
         if age_minutes < new_item_min_publish_interval_minutes:
@@ -303,7 +397,10 @@ def main(argv: list[str] | None = None) -> int:
                 return 0
             for item in unattempted_items[:5]:
                 log(f"New candidate: {summarize_candidate(item)}")
-            result = run_public_publish()
+            result = request_publish(
+                publish_mode=publish_mode,
+                remote_dispatch_cooldown_minutes=remote_dispatch_cooldown_minutes,
+            )
             if result == 0:
                 record_candidate_publish_attempt(items=new_items, manifest=manifest)
             return result

@@ -268,12 +268,13 @@ def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
     except subprocess.TimeoutExpired:
         log(f"Publish exceeded {timeout_seconds}s; terminating process group.")
         terminate_process_group(process)
-        cleanup_empty_lock()
+        cleanup_empty_lock(lock_dir=LOCK_DIR)
         if temp_worktree is not None:
             remove_temp_worktree(temp_worktree)
         return 124
 
     log(f"Publish finished with exit code {return_code}.")
+    cleanup_empty_lock(lock_dir=LOCK_DIR)
     if temp_worktree is not None:
         remove_temp_worktree(temp_worktree)
         if return_code == 0:

@@ -1,5 +1,6 @@
 import os
 import time
+from types import SimpleNamespace
 
 from src import public_publish
 
@@ -48,6 +49,21 @@ def test_lock_state_removes_empty_stale_lock(tmp_path):
     state = public_publish.lock_state(lock_dir=lock_dir, stale_seconds=3600, now=time.time())
 
     assert state == public_publish.LOCK_CLEARED
+    assert not lock_dir.exists()
+
+
+def test_run_publish_cleans_empty_lock_after_failed_publish(monkeypatch, tmp_path):
+    lock_dir = tmp_path / "lock"
+    lock_dir.mkdir()
+    monkeypatch.setattr(public_publish, "LOCK_DIR", lock_dir)
+    monkeypatch.setattr(public_publish, "lock_state", lambda **_: public_publish.LOCK_READY)
+    monkeypatch.setattr(public_publish, "collect_blocking_changes", lambda: [])
+    monkeypatch.setattr(public_publish, "fetch_publish_ref", lambda: "origin/main")
+    monkeypatch.setattr(public_publish, "local_head_differs_from_ref", lambda _: False)
+    monkeypatch.setattr(public_publish, "prepare_publish_script", lambda **_: "exit 1")
+    monkeypatch.setattr(public_publish.subprocess, "Popen", lambda *args, **kwargs: SimpleNamespace(wait=lambda timeout: 1))
+
+    assert public_publish.run_publish(timeout_seconds=1, stale_lock_seconds=60) == 1
     assert not lock_dir.exists()
 
 
