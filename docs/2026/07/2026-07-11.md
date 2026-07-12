@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-11
-Generated at: 2026-07-11T21:57
+Generated at: 2026-07-11T23:07
 Search window: 7 day(s) ending 2026-07-11
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-07-11
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 91 item(s) across 59 source(s).
-- Baseline snapshot created with 91 clustered item(s) across 59 source(s).
+- Newly tracked story cluster: 91 item(s) across 58 source(s).
+- Baseline snapshot created with 91 clustered item(s) across 58 source(s).
 - Daily Sabah now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
@@ -53,10 +53,10 @@ Search window: 7 day(s) ending 2026-07-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 91 item(s) across 59 source(s); 4 official/primary-source item(s).
+- Topic size: 91 item(s) across 58 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola virus and Sudan virus infection in humans: a comparison to inform vaccine research and development.](https://pubmed.ncbi.nlm.nih.gov/42427240/) (PubMed Infectious Disease Search); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Kenya tests 129 suspected Ebola cases as DRC outbreak surpasses 600 deaths](https://eastleighvoice.co.ke/headlines/378183/kenya-tests-129-suspected-ebola-cases-as-drc-outbreak-surpasses-600-deaths) (The Eastleigh Voice)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola virus and Sudan virus infection in humans: a comparison to inform vaccine research and development.](https://pubmed.ncbi.nlm.nih.gov/42427240/) (PubMed Infectious Disease Search); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak](https://www.foxnews.com/us/another-us-citizen-tests-positive-ebola-virus-working-congo-amid-record-outbreak) (Fox News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -439,6 +439,8 @@ Search window: 7 day(s) ending 2026-07-11
   Limited detail was available from feed metadata alone.
 - [American tests positive for Ebola in Congo, will be evacuated](https://www.spokesman.com/stories/2026/jul/11/american-tests-positive-for-ebola-in-congo-will-be/) | The Spokesman-Review | 2026-07-11T23:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak](https://www.foxnews.com/us/another-us-citizen-tests-positive-ebola-virus-working-congo-amid-record-outbreak) | Fox News | 2026-07-11T23:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [US citizen working in DR Congo tests positive for Ebola](https://www.egyptindependent.com/us-citizen-working-in-dr-congo-tests-positive-for-ebola/) | Egypt Independent | 2026-07-11T12:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya tests 129 suspected Ebola cases as DRC outbreak surpasses 600 deaths](https://eastleighvoice.co.ke/headlines/378183/kenya-tests-129-suspected-ebola-cases-as-drc-outbreak-surpasses-600-deaths) | The Eastleigh Voice | 2026-07-11T10:53+00:00 | Outbreaks and emerging infections
@@ -469,8 +471,6 @@ Search window: 7 day(s) ending 2026-07-11
   Limited detail was available from feed metadata alone.
 - [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) | Bhaskar English | 2026-07-10T12:18+00:00 | Outbreaks and emerging infections
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
-- [Africa CDC Warns Ebola Outbreak Outpacing Response](https://allafrica.com/view/group/main/main/id/00097403.html) | allAfrica.com | 2026-07-10T08:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/)
