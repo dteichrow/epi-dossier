@@ -216,13 +216,27 @@ def test_umbrella_recovery_dispatch_has_an_independent_cooldown(monkeypatch, tmp
     state_path = tmp_path / "watchdog-state.json"
     monkeypatch.setattr(public_publish_watchdog, "run_github_actions_publish", lambda **kwargs: calls.append(kwargs) or 0)
 
-    assert public_publish_watchdog.request_umbrella_publish(dispatch_cooldown_minutes=30, state_path=state_path) == 0
-    assert public_publish_watchdog.request_umbrella_publish(dispatch_cooldown_minutes=30, state_path=state_path) == 0
+    assert public_publish_watchdog.request_umbrella_publish(
+        dispatch_cooldown_minutes=30,
+        state_path=state_path,
+        upstream_generated_at="2026-05-05T06:30:00",
+    ) == 0
+    assert public_publish_watchdog.request_umbrella_publish(
+        dispatch_cooldown_minutes=30,
+        state_path=state_path,
+        upstream_generated_at="2026-05-05T06:30:00",
+    ) == 0
+    assert public_publish_watchdog.request_umbrella_publish(
+        dispatch_cooldown_minutes=30,
+        state_path=state_path,
+        upstream_generated_at="2026-05-05T06:35:00",
+    ) == 0
 
-    assert len(calls) == 1
+    assert len(calls) == 2
     assert calls[0]["repository"] == "dteichrow/dteichrow.github.io"
     assert calls[0]["workflow"] == "deploy-pages.yml"
     assert public_publish_watchdog.load_watchdog_state(state_path)["last_umbrella_dispatch_at"]
+    assert public_publish_watchdog.load_watchdog_state(state_path)["last_umbrella_artifact_generated_at"] == "2026-05-05T06:35:00"
 
 
 def test_manifest_age_minutes_rejects_missing_generated_at():
