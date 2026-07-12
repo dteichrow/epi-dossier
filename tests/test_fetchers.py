@@ -10,11 +10,13 @@ from src.fetchers import (
     extract_google_news_decode_params,
     extract_google_news_embedded_urls,
     fetch_all_sources,
+    fetch_html_page,
     fetch_html_list,
     fetch_pubmed,
     fetch_rss,
     resilient_get,
 )
+from src.summarize import summarize_item
 from src.utils import Item, SourceConfig
 
 
@@ -125,6 +127,44 @@ def test_fetch_html_list_extracts_mdhhs_current_outbreak_links(monkeypatch):
     assert items[0].title == "Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)"
     assert items[0].url == "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis"
     assert items[0].official is True
+    assert items[0].published_at is not None
+    assert items[0].published_at.date().isoformat() == "2026-07-01"
+
+
+def test_fetch_html_page_captures_official_situation_counts_and_update_date(monkeypatch):
+    html = """
+    <html><body>
+      <main id="cyclo-status">
+        <p>Lucas County Positive Cases: 412. Northwest Ohio Positive Cases: 661.</p>
+        <p>Counts are preliminary and subject to verification. Last Update: 7/9/26</p>
+      </main>
+      <footer>Unrelated navigation</footer>
+    </body></html>
+    """
+    response = Mock()
+    response.text = html
+    response.raise_for_status = Mock()
+    monkeypatch.setattr("src.fetchers.requests.get", lambda *args, **kwargs: response)
+    source = SourceConfig(
+        name="Toledo-Lucas County Health Department Cyclosporiasis Update",
+        type="html_page",
+        category="Outbreaks and emerging infections",
+        url="https://lucascountyhealth.com/cyclo/",
+        official=True,
+        item_selector="#cyclo-status",
+    )
+
+    items = fetch_html_page(source, logger=Mock())
+
+    assert len(items) == 1
+    assert items[0].title == source.name
+    assert "Lucas County Positive Cases: 412" in items[0].summary
+    assert "Northwest Ohio Positive Cases: 661" in items[0].summary
+    assert "preliminary" in items[0].summary.lower()
+    assert "Unrelated navigation" not in items[0].summary
+    assert items[0].published_at is not None
+    assert items[0].published_at.date().isoformat() == "2026-07-09"
+    assert "Lucas County Positive Cases: 412" in summarize_item(items[0]).summary
 
 
 def test_fetch_html_list_parses_fda_outbreak_rows(monkeypatch):

@@ -47,6 +47,7 @@ MAX_PER_SOURCE = 4
 MAX_PUBMED_ITEMS = 6
 MAX_MAJOR_STUDY_ITEMS = 8
 MIN_OFFICIAL_SIGNAL_ITEMS = 6
+MAX_OFFICIAL_ITEMS_PER_OUTBREAK_TOPIC = 2
 MAX_POSTMERGE_ENRICH = 12
 MAX_ACTIVE_STORY_POSTMERGE_ENRICH = 40
 REGIONAL_MONITORING_WINDOW_DAYS = 14
@@ -707,6 +708,14 @@ def build_balanced_shortlist(items: list[Item]) -> list[Item]:
             research_item_count += 1
         return True
 
+    # Establish each known official outbreak topic before general balancing can
+    # spend the render budget on a busy news cycle.
+    active_official_outbreak_items = build_active_official_outbreak_items(items)
+    for item in active_official_outbreak_items:
+        if len(selected) >= MAX_ITEMS_TO_RENDER:
+            break
+        add(item)
+
     official_priority = [item for item in items if is_official_signal_item(item)]
     for item in official_priority:
         if len(selected) >= MIN_OFFICIAL_SIGNAL_ITEMS:
@@ -785,6 +794,37 @@ def build_balanced_shortlist(items: list[Item]) -> list[Item]:
         add(item)
 
     return dedupe_shortlist_by_url(selected)
+
+
+def build_active_official_outbreak_items(items: list[Item]) -> list[Item]:
+    """Keep a small official foothold for every named active outbreak topic."""
+    candidates_by_topic: dict[str, list[Item]] = {}
+    for item in items:
+        if not item.official or item.relevance_score < 4 or not is_official_signal_item(item):
+            continue
+        topic_name = classify_topic(item)
+        if topic_name == "Miscellaneous signals":
+            continue
+        candidates_by_topic.setdefault(topic_name, []).append(item)
+
+    topic_groups = [
+        sorted(
+            topic_items,
+            key=lambda item: (item.relevance_score, sortable_datetime(item.published_at)),
+            reverse=True,
+        )
+        for topic_items in candidates_by_topic.values()
+    ]
+    topic_groups.sort(
+        key=lambda topic_items: (topic_items[0].relevance_score, sortable_datetime(topic_items[0].published_at)),
+        reverse=True,
+    )
+
+    # One lead from every topic comes before a second item from any topic.
+    prioritized: list[Item] = []
+    for position in range(MAX_OFFICIAL_ITEMS_PER_OUTBREAK_TOPIC):
+        prioritized.extend(topic_items[position] for topic_items in topic_groups if len(topic_items) > position)
+    return prioritized
 
 
 def build_regional_priority_items(items: list[Item]) -> list[Item]:
@@ -1312,6 +1352,8 @@ def filter_by_date(items, target_date: date, window_days: int):
 
 
 def uses_regional_monitoring_window(item: Item) -> bool:
+    if item.metadata.get("source_outbreak_signal"):
+        return True
     return item.source in {
         "Google News Africa Outbreaks",
         "Google News West Africa Outbreaks",

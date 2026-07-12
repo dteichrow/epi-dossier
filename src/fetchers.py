@@ -14,6 +14,7 @@ from urllib.parse import parse_qs, quote, unquote, urlparse
 
 import feedparser
 import requests
+from bs4 import BeautifulSoup
 
 from .parsers import (
     clean_extracted_text,
@@ -179,6 +180,7 @@ def fetch_source(source: SourceConfig, logger: logging.Logger, start_date: date,
     fetcher_map = {
         "rss": fetch_rss,
         "html_list": fetch_html_list,
+        "html_page": fetch_html_page,
         "pubmed": fetch_pubmed,
         "medrxiv": fetch_medrxiv_like,
         "biorxiv": fetch_medrxiv_like,
@@ -256,12 +258,78 @@ def fetch_html_list(
                 source=source.name,
                 url=entry["url"],
                 category=source.category,
+                published_at=extract_display_date(title),
                 source_type=source.type,
                 official=source.official,
             )
         )
     logger.info("Fetched %s HTML list items from %s", len(items), source.name)
     return items
+
+
+def fetch_html_page(
+    source: SourceConfig,
+    logger: logging.Logger,
+    start_date: date | None = None,
+    end_date: date | None = None,
+) -> list[Item]:
+    """Capture a dated official situation page as one monitor record."""
+    response = resilient_get(
+        source.url,
+        headers=BROWSERISH_HEADERS,
+        timeout=source.timeout_seconds or DEFAULT_TIMEOUT,
+        logger=logger,
+        cache_namespace="html",
+        max_attempts=source.max_attempts or 3,
+        verify_ssl=source.verify_ssl,
+    )
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+    content = soup.select_one(source.item_selector) if source.item_selector else soup.body
+    page_text = normalize_whitespace((content or soup).get_text(" ", strip=True))
+    if not page_text:
+        return []
+    item = Item(
+        title=source.name,
+        source=source.name,
+        url=source.url or "",
+        category=source.category,
+        published_at=extract_display_date(page_text),
+        summary=build_html_page_summary(page_text),
+        source_type=source.type,
+        official=source.official,
+        metadata={"preserve_source_summary": True},
+    )
+    logger.info("Fetched official situation page from %s", source.name)
+    return [item]
+
+
+def extract_display_date(text: str) -> datetime | None:
+    """Extract a displayed numeric date from a government update caption or page."""
+    match = re.search(r"\blast\s+update\s*:\s*(\d{1,2}/\d{1,2}/\d{2,4})", text, flags=re.IGNORECASE)
+    if match is None:
+        match = re.search(r"\((\d{1,2}/\d{1,2}/\d{2,4})\)", text)
+    return parse_datetime(match.group(1)) if match else None
+
+
+def build_html_page_summary(page_text: str) -> str:
+    """Keep displayed official situation-page counts visible in the monitor card."""
+    count_pattern = re.compile(
+        r"\b(?:[A-Z][A-Za-z-]*\s+){0,4}(?:positive|confirmed|reported|suspected)\s+"
+        r"(?:cases?|deaths?|hospitalizations?)\s*:\s*[\d,]+",
+        flags=re.IGNORECASE,
+    )
+    counts = [normalize_whitespace(match.group(0)) for match in count_pattern.finditer(page_text)]
+    if not counts:
+        return page_text[:12000]
+
+    summary = "; ".join(dict.fromkeys(counts)) + "."
+    if "preliminary" in page_text.lower():
+        summary += " The health department labels these counts preliminary."
+    update_match = re.search(r"\blast\s+update\s*:\s*(\d{1,2}/\d{1,2}/\d{2,4})", page_text, flags=re.IGNORECASE)
+    if update_match:
+        summary += f" Last update: {update_match.group(1)}."
+    return summary
 
 
 def fetch_fda_outbreak_rows(source: SourceConfig, html: str, logger: logging.Logger) -> list[Item]:
@@ -906,6 +974,7 @@ def stamp_items_from_source(
     for item in items:
         item.metadata["source_name"] = source.name
         item.metadata["source_official"] = source.official
+        item.metadata["source_outbreak_signal"] = source.outbreak_signal
         item.metadata["source_freshness"] = freshness_state
         if source_cached_at is not None:
             item.metadata["source_cached_at"] = source_cached_at.isoformat()

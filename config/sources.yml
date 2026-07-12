@@ -263,6 +263,17 @@ sources:
     timeout_seconds: 20
     max_attempts: 2
 
+  - name: Toledo-Lucas County Health Department Cyclosporiasis Update
+    type: html_page
+    category: Outbreaks and emerging infections
+    url: https://lucascountyhealth.com/cyclo/
+    official: true
+    outbreak_signal: true
+    item_selector: "#cs-content"
+    refresh_hours: 1
+    timeout_seconds: 20
+    max_attempts: 2
+
   - name: Google News Outbreaks
     type: rss
     category: Outbreaks and emerging infections

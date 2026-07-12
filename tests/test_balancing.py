@@ -1,4 +1,6 @@
-from src.main import build_balanced_shortlist
+from datetime import datetime
+
+from src.main import build_balanced_shortlist, filter_by_date, uses_regional_monitoring_window
 from src.utils import Item
 
 
@@ -97,3 +99,60 @@ def test_build_balanced_shortlist_reserves_story_followups_for_active_outbreak()
     urls = {item.url for item in shortlist}
     assert "https://example.com/hanta-followup-1" in urls
     assert "https://example.com/hanta-followup-2" in urls
+
+
+def test_build_balanced_shortlist_retains_official_new_outbreak_topic_during_busy_cycle():
+    crowded_items = [
+        Item(
+            title=f"Official outbreak update {index}",
+            source=f"Health authority {index}",
+            url=f"https://example.com/official-{index}",
+            category="Outbreaks and emerging infections",
+            summary="Officials report an outbreak investigation and surveillance update.",
+            source_type="html_list",
+            official=True,
+            relevance_score=5,
+            published_at=datetime(2026, 7, 12),
+        )
+        for index in range(45)
+    ]
+    cyclosporiasis_items = [
+        Item(
+            title=title,
+            source="Michigan Department of Health and Human Services Infectious Disease Updates",
+            url=url,
+            category="Outbreaks and emerging infections",
+            summary="Official foodborne outbreak investigation with rapidly rising case counts.",
+            source_type="html_list",
+            official=True,
+            relevance_score=5,
+            published_at=datetime(2026, 7, day),
+        )
+        for title, url, day in (
+            ("Outbreak of cyclosporiasis occurring in Michigan", "https://example.com/cyclo-1", 1),
+            ("MDHHS update on growing cyclosporiasis outbreak", "https://example.com/cyclo-2", 4),
+        )
+    ]
+
+    shortlist = build_balanced_shortlist(crowded_items + cyclosporiasis_items)
+    urls = {item.url for item in shortlist}
+
+    assert "https://example.com/cyclo-1" in urls
+    assert "https://example.com/cyclo-2" in urls
+
+
+def test_outbreak_signal_sources_use_fourteen_day_monitoring_window():
+    item = Item(
+        title="Outbreak of cyclosporiasis occurring in Michigan",
+        source="Michigan Department of Health and Human Services Infectious Disease Updates",
+        url="https://example.com/cyclo",
+        category="Outbreaks and emerging infections",
+        summary="Official outbreak update.",
+        source_type="html_list",
+        official=True,
+        published_at=datetime(2026, 7, 1),
+        metadata={"source_outbreak_signal": True},
+    )
+
+    assert uses_regional_monitoring_window(item) is True
+    assert filter_by_date([item], target_date=datetime(2026, 7, 12).date(), window_days=7) == [item]

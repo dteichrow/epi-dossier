@@ -64,8 +64,11 @@ def split_sentences(text: str) -> list[str]:
 
 
 def summarize_item(item: Item) -> Item:
-    summary_sentences = build_fact_summary_sentences(item, max_sentences=3)
-    item.summary = " ".join(summary_sentences) if summary_sentences else low_detail_summary(item)
+    if item.metadata.get("preserve_source_summary") and item.summary:
+        item.summary = normalize_whitespace(item.summary)
+    else:
+        summary_sentences = build_fact_summary_sentences(item, max_sentences=3)
+        item.summary = " ".join(summary_sentences) if summary_sentences else low_detail_summary(item)
     item.why_it_matters = build_why_it_matters(item)
     item.caveats = build_caveats(item)
     return item
