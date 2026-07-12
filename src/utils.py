@@ -83,6 +83,7 @@ class SourceConfig:
     outbreak_signal: bool = False
     occupational_relevance: bool = False
     historical_relevance: bool = False
+    required: bool = True
     url: str | None = None
     search: str | None = None
     item_selector: str | None = None

@@ -84,6 +84,10 @@ MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 DOI_URL_RE = re.compile(r"(^|//)doi\.org/|/10\.\d{4,9}/", re.IGNORECASE)
 
 
+def source_failures_degrade(source_failures: list[dict[str, Any]]) -> bool:
+    return any(bool(failure.get("required", True)) for failure in source_failures)
+
+
 def is_doi_url(value: str) -> bool:
     return bool(DOI_URL_RE.search(value or ""))
 
@@ -115,7 +119,7 @@ def export_app_data(
     target_date: date,
     generated_at: datetime,
     search_window: str,
-    source_failures: list[dict[str, str]],
+    source_failures: list[dict[str, Any]],
     source_health: list[dict[str, Any]],
 ) -> dict[str, Any]:
     run_id = stable_id("run", target_date.isoformat(), generated_at.isoformat(timespec="seconds"))
@@ -146,7 +150,7 @@ def export_app_data(
         "target_date": target_date.isoformat(),
         "generated_at": exported_at,
         "search_window": search_window,
-        "degraded": bool(source_failures),
+        "degraded": source_failures_degrade(source_failures),
         "source_failures": source_failures,
         "source_health": source_health,
         "freshness_summary": build_freshness_summary(item_records),
@@ -182,7 +186,7 @@ def export_app_data(
         "item_count": len(item_records),
         "story_count": len(story_records),
         "topic_count": len(topic_records),
-        "degraded": bool(source_failures),
+        "degraded": source_failures_degrade(source_failures),
         "source_failures": source_failures,
         "source_health": source_health,
         "snapshot_path": str(app_exports_dir() / "latest.json"),

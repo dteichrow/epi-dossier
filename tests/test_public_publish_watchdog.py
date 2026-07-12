@@ -63,6 +63,13 @@ def test_manifest_is_newer_uses_the_generated_timestamp():
     )
 
 
+def test_cache_busting_url_preserves_existing_query_parameters(monkeypatch):
+    monkeypatch.setattr(public_publish_watchdog.time, "time_ns", lambda: 123)
+
+    assert public_publish_watchdog.cache_busting_url("https://example.com/manifest.json") == "https://example.com/manifest.json?watchdog=123"
+    assert public_publish_watchdog.cache_busting_url("https://example.com/manifest.json?cache=1") == "https://example.com/manifest.json?cache=1&watchdog=123"
+
+
 def test_find_new_candidate_items_detects_item_absent_from_live_feed():
     live_snapshot = {
         "items": [

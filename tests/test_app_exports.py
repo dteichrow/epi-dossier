@@ -171,6 +171,34 @@ def test_export_app_data_delta_and_failure_metadata(tmp_path, monkeypatch):
     db.close()
 
 
+def test_export_app_data_keeps_optional_source_failure_visible_without_degrading(tmp_path, monkeypatch):
+    monkeypatch.setattr("src.utils.APP_EXPORTS_DIR", tmp_path / "exports")
+    db = SeenItemsDB(tmp_path / "test.sqlite")
+    items = make_items()
+    updates, snapshots = analyze_story_updates(items, {})
+
+    snapshot = export_app_data(
+        db=db,
+        items=items,
+        story_updates=updates,
+        story_snapshots=snapshots,
+        outbreak_reference=make_reference(),
+        target_date=date(2026, 5, 5),
+        generated_at=datetime(2026, 5, 5, 6, 30),
+        search_window="2 day(s) ending 2026-05-05",
+        source_failures=[{"source": "Nigeria Centre for Disease Control", "source_type": "html_list", "required": False, "error": "403"}],
+        source_health=[{"source": "Nigeria Centre for Disease Control", "mode": "failed", "required": False, "item_count": 0}],
+    )
+
+    health = json.loads((tmp_path / "exports" / "health.json").read_text())
+
+    assert snapshot["degraded"] is False
+    assert snapshot["source_failures"][0]["source"] == "Nigeria Centre for Disease Control"
+    assert health["degraded"] is False
+    assert health["source_health"][0]["mode"] == "failed"
+    db.close()
+
+
 def test_export_app_data_marks_pubmed_as_research_not_official(tmp_path, monkeypatch):
     monkeypatch.setattr("src.utils.APP_EXPORTS_DIR", tmp_path / "exports")
     db = SeenItemsDB(tmp_path / "test.sqlite")

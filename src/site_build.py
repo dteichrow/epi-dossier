@@ -749,7 +749,7 @@ def append_site_build_log(
         f"fallback_cache_items={freshness.get('fallback_cache', 0)} retained_items={freshness.get('retained', 0)} "
         f"cache_sources={cache_sources} failed_sources={failed_sources} "
         f"wrapper_only={wrapper_only} metadata_only={metadata_only} "
-        f"degraded={bool(source_failures)} promoted_latest={promoted} docs_refreshed={docs_refreshed} "
+        f"degraded={bool(latest_snapshot.get('degraded'))} promoted_latest={promoted} docs_refreshed={docs_refreshed} "
         f"reader_guard={'ok' if reader_guard_ok else 'blocked'} "
         f"story_fallback={'yes' if story_render_fallback_used else 'no'}\n"
     )

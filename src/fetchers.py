@@ -144,6 +144,7 @@ def fetch_all_sources(
                     {
                         "source": source.name,
                         "source_type": source.type,
+                        "required": source.required,
                         "error": f"{exc} [cache fallback used]",
                     }
                 )
@@ -163,6 +164,7 @@ def fetch_all_sources(
                 {
                     "source": source.name,
                     "source_type": source.type,
+                    "required": source.required,
                     "error": str(exc),
                 }
             )
@@ -921,6 +923,7 @@ def build_source_health_entry(
         "source": source.name,
         "source_type": source.type,
         "official": source.official,
+        "required": source.required,
         "mode": mode,
         "item_count": item_count,
         "cached_at": cached_at.isoformat() if cached_at else None,

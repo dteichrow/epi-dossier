@@ -72,6 +72,9 @@ sources:
     url: https://www.ncdc.gov.ng/news/press
     official: true
     outbreak_signal: true
+    # The NCDC edge blocks GitHub-hosted collection; surface this in source health
+    # without classifying the global monitor as degraded when other core sources are live.
+    required: false
     item_selector: "#news article"
     max_items: 120
     timeout_seconds: 30

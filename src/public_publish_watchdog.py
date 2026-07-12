@@ -93,6 +93,11 @@ def fetch_manifest(url: str = PUBLIC_MANIFEST_URL, timeout_seconds: int = DEFAUL
     return fetch_json(url, timeout_seconds=timeout_seconds)
 
 
+def cache_busting_url(url: str) -> str:
+    separator = "&" if "?" in url else "?"
+    return f"{url}{separator}watchdog={time.time_ns()}"
+
+
 def parse_generated_at(value: str, now: datetime | None = None) -> datetime:
     generated = datetime.fromisoformat(value)
     if generated.tzinfo is not None:
@@ -425,7 +430,7 @@ def main(argv: list[str] | None = None) -> int:
     generated_at = manifest.get("generated_at", "unknown")
     log(f"Manifest generated_at={generated_at}; age={age_minutes:.1f} minutes; threshold={stale_minutes} minutes.")
     try:
-        upstream_manifest = fetch_manifest(url=upstream_manifest_url, timeout_seconds=timeout_seconds)
+        upstream_manifest = fetch_manifest(url=cache_busting_url(upstream_manifest_url), timeout_seconds=timeout_seconds)
     except (OSError, urllib.error.URLError, TimeoutError, ValueError, json.JSONDecodeError) as exc:
         log(f"Upstream manifest check failed: {exc}")
     else:
