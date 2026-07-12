@@ -9,6 +9,7 @@ from src.utils import stable_id
 def test_watchdog_defaults_to_canonical_public_manifest():
     assert public_publish_watchdog.PUBLIC_MANIFEST_URL.endswith("/app_exports/manifest.json")
     assert public_publish_watchdog.PUBLIC_LATEST_URL.endswith("/app_exports/latest.json")
+    assert public_publish_watchdog.UPSTREAM_MANIFEST_URL.endswith("/docs/app_exports/manifest.json")
     assert public_publish_watchdog.DEFAULT_STALE_MINUTES == 45
     assert public_publish_watchdog.DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES == 30
 
@@ -21,6 +22,8 @@ def test_watchdog_launch_agent_checks_the_live_export_and_dispatches_remotely():
     assert "EPI_DOSSIER_WATCHDOG_PUBLISH_MODE" in content
     assert "github_actions" in content
     assert "/opt/homebrew/bin/gh" in content
+    assert "EPI_DOSSIER_WATCHDOG_UPSTREAM_MANIFEST_URL" in content
+    assert "EPI_DOSSIER_WATCHDOG_UMBRELLA_WORKFLOW" in content
 
 
 def test_manifest_age_minutes_handles_local_naive_generated_at():
@@ -48,6 +51,16 @@ def test_manifest_age_minutes_handles_legacy_utc_naive_generated_at():
     age = public_publish_watchdog.manifest_age_minutes(manifest, now=now)
 
     assert 75 < age < 76
+
+
+def test_manifest_is_newer_uses_the_generated_timestamp():
+    now = datetime(2026, 5, 22, 7, 34, tzinfo=timezone(timedelta(hours=-7)))
+
+    assert public_publish_watchdog.manifest_is_newer(
+        {"generated_at": "2026-05-22T14:20:00+00:00"},
+        {"generated_at": "2026-05-22T14:17:29+00:00"},
+        now=now,
+    )
 
 
 def test_find_new_candidate_items_detects_item_absent_from_live_feed():
@@ -189,6 +202,20 @@ def test_github_actions_recovery_dispatch_is_rate_limited(monkeypatch, tmp_path)
 
     assert len(calls) == 1
     assert public_publish_watchdog.load_watchdog_state(state_path)["last_github_actions_dispatch_at"]
+
+
+def test_umbrella_recovery_dispatch_has_an_independent_cooldown(monkeypatch, tmp_path):
+    calls = []
+    state_path = tmp_path / "watchdog-state.json"
+    monkeypatch.setattr(public_publish_watchdog, "run_github_actions_publish", lambda **kwargs: calls.append(kwargs) or 0)
+
+    assert public_publish_watchdog.request_umbrella_publish(dispatch_cooldown_minutes=30, state_path=state_path) == 0
+    assert public_publish_watchdog.request_umbrella_publish(dispatch_cooldown_minutes=30, state_path=state_path) == 0
+
+    assert len(calls) == 1
+    assert calls[0]["repository"] == "dteichrow/dteichrow.github.io"
+    assert calls[0]["workflow"] == "deploy-pages.yml"
+    assert public_publish_watchdog.load_watchdog_state(state_path)["last_umbrella_dispatch_at"]
 
 
 def test_manifest_age_minutes_rejects_missing_generated_at():

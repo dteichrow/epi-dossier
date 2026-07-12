@@ -18,6 +18,7 @@ import requests
 from .parsers import (
     clean_extracted_text,
     extract_link_href,
+    extract_ncdc_news_rows,
     extract_fda_outbreak_table,
     extract_html_links,
     extract_meta_content,
@@ -237,6 +238,8 @@ def fetch_html_list(
     response.raise_for_status()
     if source.name == "FDA Foodborne Outbreaks":
         return fetch_fda_outbreak_rows(source, response.text, logger)
+    if source.name == "Nigeria Centre for Disease Control":
+        return fetch_ncdc_news_rows(source, response.text, logger)
     items: list[Item] = []
     for entry in extract_html_links(response.text, source.url, source.item_selector or "a")[: source.max_items or None]:
         title = clean_headline(entry["title"])
@@ -273,6 +276,25 @@ def fetch_fda_outbreak_rows(source: SourceConfig, html: str, logger: logging.Log
         for row in rows
     ]
     logger.info("Fetched %s FDA outbreak rows from %s", len(items), source.name)
+    return items
+
+
+def fetch_ncdc_news_rows(source: SourceConfig, html: str, logger: logging.Logger) -> list[Item]:
+    rows = extract_ncdc_news_rows(html, source.url or "", max_items=source.max_items)
+    items = [
+        Item(
+            title=row["title"],
+            source=source.name,
+            url=row["url"],
+            category=source.category,
+            published_at=row["published_at"],
+            summary=row["summary"],
+            source_type=source.type,
+            official=source.official,
+        )
+        for row in rows
+    ]
+    logger.info("Fetched %s NCDC news items from %s", len(items), source.name)
     return items
 
 

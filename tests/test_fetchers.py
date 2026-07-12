@@ -146,6 +146,39 @@ def test_fetch_html_list_parses_fda_outbreak_rows(monkeypatch):
     assert "Reported total case count: 12." in items[0].summary
 
 
+def test_fetch_html_list_parses_ncdc_press_rows(monkeypatch):
+    html = """
+    <section id="news">
+      <article>
+        <h3>National Public Health Advisory on State Preparedness for Bundibugyo Ebola Virus Disease</h3>
+        <h4>Thu 28 May 2026</h4>
+        NCDC advises state health authorities to prepare for the evolving regional outbreak.
+      </article>
+      <a href="/news/537/national-public-health-advisory">Read more</a>
+    </section>
+    """
+    response = Mock()
+    response.text = html
+    response.raise_for_status = Mock()
+    monkeypatch.setattr("src.fetchers.requests.get", lambda *args, **kwargs: response)
+
+    source = SourceConfig(
+        name="Nigeria Centre for Disease Control",
+        type="html_list",
+        category="Outbreaks and emerging infections",
+        url="https://www.ncdc.gov.ng/news/press",
+        official=True,
+        item_selector="#news article",
+        max_items=10,
+    )
+    items = fetch_html_list(source, logger=Mock())
+
+    assert len(items) == 1
+    assert items[0].title.startswith("National Public Health Advisory")
+    assert items[0].url == "https://www.ncdc.gov.ng/news/537/national-public-health-advisory"
+    assert items[0].published_at is not None
+
+
 def test_fetch_html_list_honors_source_ssl_and_timeout_settings(monkeypatch):
     response = Mock()
     response.text = "<html><body><a href='/a'>Test outbreak item</a></body></html>"

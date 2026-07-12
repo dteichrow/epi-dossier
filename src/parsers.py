@@ -47,6 +47,38 @@ def extract_html_links(html: str, base_url: str, selector: str) -> list[dict]:
     return items
 
 
+def extract_ncdc_news_rows(html: str, base_url: str, max_items: int | None = None) -> list[dict[str, Any]]:
+    soup = BeautifulSoup(html, "html.parser")
+    items: list[dict[str, Any]] = []
+    seen_urls: set[str] = set()
+    for article in soup.select("#news article"):
+        heading = article.find(["h1", "h2", "h3"])
+        anchor = article.parent.find("a", href=True) if article.parent else None
+        if heading is None or anchor is None:
+            continue
+        title = normalize_whitespace(heading.get_text(" ", strip=True))
+        url = absolute_url(base_url, str(anchor.get("href", "")))
+        if not title or not url or url in seen_urls:
+            continue
+        seen_urls.add(url)
+        date_node = article.find("h4")
+        summary = normalize_whitespace(article.get_text(" ", strip=True))
+        if date_node:
+            date_text = normalize_whitespace(date_node.get_text(" ", strip=True))
+            summary = normalize_whitespace(summary.removeprefix(title).removeprefix(date_text))
+        items.append(
+            {
+                "title": title,
+                "url": url,
+                "published_at": parse_datetime(date_node.get_text(" ", strip=True) if date_node else None),
+                "summary": summary,
+            }
+        )
+        if max_items is not None and len(items) >= max_items:
+            break
+    return items
+
+
 def extract_page_text(html: str, max_paragraphs: int = 6) -> str:
     soup = BeautifulSoup(html, "html.parser")
     paragraphs: list[str] = []

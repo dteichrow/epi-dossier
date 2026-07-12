@@ -20,6 +20,7 @@ PYTHON_BIN = REPO_ROOT / ".venv/bin/python"
 PUBLIC_PUBLISH = REPO_ROOT / "src/public_publish.py"
 PUBLIC_MANIFEST_URL = "https://dteichrow.github.io/app_exports/manifest.json"
 PUBLIC_LATEST_URL = "https://dteichrow.github.io/app_exports/latest.json"
+UPSTREAM_MANIFEST_URL = "https://raw.githubusercontent.com/dteichrow/epi-dossier/main/docs/app_exports/manifest.json"
 WATCHDOG_STATE_PATH = REPO_ROOT / "data" / "public_publish_watchdog_state.json"
 DEFAULT_STALE_MINUTES = 45
 DEFAULT_NEW_ITEM_MIN_PUBLISH_INTERVAL_MINUTES = 30
@@ -30,6 +31,9 @@ DEFAULT_GITHUB_REPOSITORY = "dteichrow/epi-dossier"
 DEFAULT_GITHUB_WORKFLOW = "Newsdesk public publish"
 DEFAULT_GITHUB_REF = "main"
 DEFAULT_REMOTE_DISPATCH_COOLDOWN_MINUTES = 45
+DEFAULT_UMBRELLA_REPOSITORY = "dteichrow/dteichrow.github.io"
+DEFAULT_UMBRELLA_WORKFLOW = "deploy-pages.yml"
+DEFAULT_UMBRELLA_DISPATCH_COOLDOWN_MINUTES = 30
 NAIVE_UTC_FUTURE_TOLERANCE = timedelta(minutes=5)
 
 
@@ -107,6 +111,18 @@ def manifest_age_minutes(manifest: dict[str, Any], now: datetime | None = None) 
         raise ValueError("manifest missing generated_at")
     generated = parse_generated_at(generated_raw, now=current)
     return (current - generated).total_seconds() / 60
+
+
+def manifest_is_newer(candidate: dict[str, Any], current: dict[str, Any], now: datetime | None = None) -> bool:
+    candidate_raw = str(candidate.get("generated_at", ""))
+    current_raw = str(current.get("generated_at", ""))
+    if not candidate_raw or not current_raw:
+        return False
+    reference_time = now or datetime.now().astimezone()
+    try:
+        return parse_generated_at(candidate_raw, now=reference_time) > parse_generated_at(current_raw, now=reference_time)
+    except ValueError:
+        return False
 
 
 def identity_values(*, canonical_url: str = "", item_id: str = "") -> set[str]:
@@ -275,14 +291,15 @@ def run_github_actions_publish(
     )
 
 
-def remote_dispatch_is_due(
+def github_dispatch_is_due(
     cooldown_minutes: int,
     *,
+    state_key: str,
     state_path: Path | None = None,
     now: datetime | None = None,
 ) -> bool:
     state = load_watchdog_state(state_path)
-    last_raw = state.get("last_github_actions_dispatch_at")
+    last_raw = state.get(state_key)
     if not isinstance(last_raw, str) or not last_raw:
         return True
     try:
@@ -295,11 +312,42 @@ def remote_dispatch_is_due(
     return current - last_dispatch >= timedelta(minutes=cooldown_minutes)
 
 
-def record_remote_dispatch(*, state_path: Path | None = None, now: datetime | None = None) -> None:
+def record_github_dispatch(
+    *,
+    state_key: str,
+    state_path: Path | None = None,
+    now: datetime | None = None,
+) -> None:
     state = load_watchdog_state(state_path)
     current = now or datetime.now().astimezone()
-    state["last_github_actions_dispatch_at"] = current.isoformat(timespec="seconds")
+    state[state_key] = current.isoformat(timespec="seconds")
     write_watchdog_state(state, state_path)
+
+
+def request_github_actions_dispatch(
+    *,
+    repository: str,
+    workflow: str,
+    ref: str,
+    remote_dispatch_cooldown_minutes: int,
+    state_key: str,
+    state_path: Path | None = None,
+) -> int:
+    if not github_dispatch_is_due(
+        remote_dispatch_cooldown_minutes,
+        state_key=state_key,
+        state_path=state_path,
+    ):
+        log("GitHub Actions recovery dispatch is within its cooldown; skipping duplicate request.")
+        return 0
+    result = run_github_actions_publish(
+        repository=repository,
+        workflow=workflow,
+        ref=ref,
+    )
+    if result == 0:
+        record_github_dispatch(state_key=state_key, state_path=state_path)
+    return result
 
 
 def request_publish(
@@ -310,17 +358,29 @@ def request_publish(
 ) -> int:
     if publish_mode != "github_actions":
         return run_public_publish()
-    if not remote_dispatch_is_due(remote_dispatch_cooldown_minutes, state_path=state_path):
-        log("GitHub Actions recovery dispatch is within its cooldown; skipping duplicate request.")
-        return 0
-    result = run_github_actions_publish(
+    return request_github_actions_dispatch(
         repository=os.environ.get("EPI_DOSSIER_WATCHDOG_GITHUB_REPOSITORY", DEFAULT_GITHUB_REPOSITORY),
         workflow=os.environ.get("EPI_DOSSIER_WATCHDOG_GITHUB_WORKFLOW", DEFAULT_GITHUB_WORKFLOW),
         ref=os.environ.get("EPI_DOSSIER_WATCHDOG_GITHUB_REF", DEFAULT_GITHUB_REF),
+        remote_dispatch_cooldown_minutes=remote_dispatch_cooldown_minutes,
+        state_key="last_github_actions_dispatch_at",
+        state_path=state_path,
     )
-    if result == 0:
-        record_remote_dispatch(state_path=state_path)
-    return result
+
+
+def request_umbrella_publish(
+    *,
+    dispatch_cooldown_minutes: int,
+    state_path: Path | None = None,
+) -> int:
+    return request_github_actions_dispatch(
+        repository=os.environ.get("EPI_DOSSIER_WATCHDOG_UMBRELLA_REPOSITORY", DEFAULT_UMBRELLA_REPOSITORY),
+        workflow=os.environ.get("EPI_DOSSIER_WATCHDOG_UMBRELLA_WORKFLOW", DEFAULT_UMBRELLA_WORKFLOW),
+        ref=os.environ.get("EPI_DOSSIER_WATCHDOG_UMBRELLA_REF", DEFAULT_GITHUB_REF),
+        remote_dispatch_cooldown_minutes=dispatch_cooldown_minutes,
+        state_key="last_umbrella_dispatch_at",
+        state_path=state_path,
+    )
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -344,7 +404,12 @@ def main(argv: list[str] | None = None) -> int:
         "EPI_DOSSIER_WATCHDOG_REMOTE_DISPATCH_COOLDOWN_MINUTES",
         DEFAULT_REMOTE_DISPATCH_COOLDOWN_MINUTES,
     )
+    umbrella_dispatch_cooldown_minutes = env_int(
+        "EPI_DOSSIER_WATCHDOG_UMBRELLA_DISPATCH_COOLDOWN_MINUTES",
+        DEFAULT_UMBRELLA_DISPATCH_COOLDOWN_MINUTES,
+    )
     manifest_url = os.environ.get("EPI_DOSSIER_WATCHDOG_MANIFEST_URL", PUBLIC_MANIFEST_URL)
+    upstream_manifest_url = os.environ.get("EPI_DOSSIER_WATCHDOG_UPSTREAM_MANIFEST_URL", UPSTREAM_MANIFEST_URL)
     try:
         manifest = fetch_manifest(url=manifest_url, timeout_seconds=timeout_seconds)
         age_minutes = manifest_age_minutes(manifest)
@@ -359,6 +424,18 @@ def main(argv: list[str] | None = None) -> int:
 
     generated_at = manifest.get("generated_at", "unknown")
     log(f"Manifest generated_at={generated_at}; age={age_minutes:.1f} minutes; threshold={stale_minutes} minutes.")
+    try:
+        upstream_manifest = fetch_manifest(url=upstream_manifest_url, timeout_seconds=timeout_seconds)
+    except (OSError, urllib.error.URLError, TimeoutError, ValueError, json.JSONDecodeError) as exc:
+        log(f"Upstream manifest check failed: {exc}")
+    else:
+        if manifest_is_newer(upstream_manifest, manifest):
+            log("Upstream Newsdesk artifact is newer than the live export; requesting umbrella import.")
+            if args.check:
+                return 0
+            return request_umbrella_publish(
+                dispatch_cooldown_minutes=umbrella_dispatch_cooldown_minutes,
+            )
     if args.check:
         return 0
     if age_minutes >= stale_minutes:

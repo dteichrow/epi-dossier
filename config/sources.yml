@@ -67,12 +67,15 @@ sources:
     max_items: 120
 
   - name: Nigeria Centre for Disease Control
-    type: rss
+    type: html_list
     category: Outbreaks and emerging infections
-    url: https://ncdc.gov.ng/feed/
+    url: https://www.ncdc.gov.ng/news/press
     official: true
     outbreak_signal: true
+    item_selector: "#news article"
     max_items: 120
+    timeout_seconds: 30
+    max_attempts: 2
 
   - name: ECDC News
     type: rss

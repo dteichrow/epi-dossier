@@ -19,6 +19,8 @@
       <string>15</string>
       <key>EPI_DOSSIER_WATCHDOG_MANIFEST_URL</key>
       <string>https://dteichrow.github.io/app_exports/manifest.json</string>
+      <key>EPI_DOSSIER_WATCHDOG_UPSTREAM_MANIFEST_URL</key>
+      <string>https://raw.githubusercontent.com/dteichrow/epi-dossier/main/docs/app_exports/manifest.json</string>
       <key>EPI_DOSSIER_WATCHDOG_PUBLISH_MODE</key>
       <string>github_actions</string>
       <key>EPI_DOSSIER_WATCHDOG_GITHUB_REPOSITORY</key>
@@ -29,6 +31,12 @@
       <string>/opt/homebrew/bin/gh</string>
       <key>EPI_DOSSIER_WATCHDOG_REMOTE_DISPATCH_COOLDOWN_MINUTES</key>
       <string>45</string>
+      <key>EPI_DOSSIER_WATCHDOG_UMBRELLA_REPOSITORY</key>
+      <string>dteichrow/dteichrow.github.io</string>
+      <key>EPI_DOSSIER_WATCHDOG_UMBRELLA_WORKFLOW</key>
+      <string>deploy-pages.yml</string>
+      <key>EPI_DOSSIER_WATCHDOG_UMBRELLA_DISPATCH_COOLDOWN_MINUTES</key>
+      <string>30</string>
     </dict>
 
     <key>RunAtLoad</key>
