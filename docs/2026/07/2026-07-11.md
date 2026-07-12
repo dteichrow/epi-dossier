@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-11
-Generated at: 2026-07-11T16:14
+Generated at: 2026-07-11T17:15
 Search window: 7 day(s) ending 2026-07-11
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-11
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies; 2026-07-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Leveraging existing high-throughput HIV platforms for molecular Mycobacterium tuberculosis testing in Busia, Kenya: Cost and operational insights.](https://pubmed.ncbi.nlm.nih.gov/42421287/) (PubMed Infectious Disease Search; 2026-07-08T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (74), Occupational and environmental epidemiology (15), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (99), Occupational and environmental epidemiology (14), Major epidemiology studies (5)
 - Source health: 4 source(s) failed during collection: CDC Current Outbreak List, Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 70 item(s) across 55 source(s).
-- Baseline snapshot created with 70 clustered item(s) across 55 source(s).
+- Newly tracked story cluster: 93 item(s) across 60 source(s).
+- Baseline snapshot created with 93 clustered item(s) across 60 source(s).
 - Daily Sabah now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
@@ -34,15 +34,15 @@ Search window: 7 day(s) ending 2026-07-11
 
 ### Occupational and environmental epidemiology
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR)
-- Newly tracked story cluster: 16 item(s) across 12 source(s).
-- Baseline snapshot created with 16 clustered item(s) across 12 source(s).
+- Newly tracked story cluster: 15 item(s) across 12 source(s).
+- Baseline snapshot created with 15 clustered item(s) across 12 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
-### Dengue and arboviruses
-- Lead item: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English)
+### Historical epidemiology and ancient pathogens
+- Lead item: [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- The Spokesman-Review now includes evacuation reporting.
 
 ### Tuberculosis and antimicrobial resistance
 - Lead item: [Prevalence of extensively drug-resistant tuberculosis and drug resistance patterns in Asia and Africa (2000-2025): systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42430119/) (PubMed Historical Pathogen Case Studies)
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-07-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 70 item(s) across 55 source(s); 4 official/primary-source item(s).
+- Topic size: 93 item(s) across 60 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola virus and Sudan virus infection in humans: a comparison to inform vaccine research and development.](https://pubmed.ncbi.nlm.nih.gov/42427240/) (PubMed Infectious Disease Search); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola cases top 1,800 as DR Congo outbreak spreads](https://en.yenisafak.com/world/ebola-cases-top-1800-as-dr-congo-outbreak-spreads-3720700) (Yeni Safak English)
@@ -61,7 +61,7 @@ Search window: 7 day(s) ending 2026-07-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 16 item(s) across 12 source(s); 2 official/primary-source item(s).
+- Topic size: 15 item(s) across 12 source(s); 2 official/primary-source item(s).
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR, 2026-07-09T17:00+00:00)
 - Detailed note: Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions. Understanding whether the disease entered and spread from pre-colonial Makassan (Indonesian) trade along the northern coast, or from the British First Fleet's arrival in southeastern Australia in 1788, is necessary to estimate the demographic impact.
 - Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [US aid worker in Congo infected with Ebola during record outbreak](https://www.scrippsnews.com/health/us-aid-worker-in-congo-infected-with-ebola-during-record-outbreak) (Scripps News); [Legionnaires' disease cluster in New York City grows to 54 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) (ABC News - Breaking News, Latest News and Videos); [Legionnaires' disease cluster on Upper East Side grows](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/) (CBS News)
@@ -76,13 +76,13 @@ Search window: 7 day(s) ending 2026-07-11
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English, 2026-07-10T12:18+00:00)
-- Detailed note: As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city.
-- Evidence notes: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); [Sri Lanka reports nearly 8,000 dengue cases in 2nd week of July](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-nearly-8000-dengue) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+### Historical epidemiology and ancient pathogens
+- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Lead item: [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies, 2026-07-07T00:00)
+- Detailed note: The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province.
+- Evidence notes: [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies); [American tests positive for Ebola in Congo, will be evacuated](https://www.spokesman.com/stories/2026/jul/11/american-tests-positive-for-ebola-in-congo-will-be/) (The Spokesman-Review); [US citizen working in DR Congo tests positive for Ebola](https://www.egyptindependent.com/us-citizen-working-in-dr-congo-tests-positive-for-ebola/) (Egypt Independent)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
@@ -92,13 +92,13 @@ Search window: 7 day(s) ending 2026-07-11
 - Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Historical epidemiology and ancient pathogens
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies, 2026-07-07T00:00)
-- Detailed note: The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province.
-- Evidence notes: [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies); [US citizen working in DR Congo tests positive for Ebola](https://www.egyptindependent.com/us-citizen-working-in-dr-congo-tests-positive-for-ebola/) (Egypt Independent)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English, 2026-07-10T12:18+00:00)
+- Detailed note: As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city.
+- Evidence notes: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -433,6 +433,8 @@ Search window: 7 day(s) ending 2026-07-11
 ## Other notable readings
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [American tests positive for Ebola in Congo, will be evacuated](https://www.spokesman.com/stories/2026/jul/11/american-tests-positive-for-ebola-in-congo-will-be/) | The Spokesman-Review | 2026-07-11T23:54+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [US aid worker in Congo infected with Ebola during record outbreak](https://www.scrippsnews.com/health/us-aid-worker-in-congo-infected-with-ebola-during-record-outbreak) | Scripps News | 2026-07-11T18:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [TOP STORIES | Upper East Side Legionnaires outbreak grows; US-Iran talks resume; weekend weather](https://www.fox5ny.com/video/fmc-1pwnpa3o2slglx0j) | FOX 5 New York | 2026-07-11T12:46+00:00 | Outbreaks and emerging infections
@@ -457,7 +459,7 @@ Search window: 7 day(s) ending 2026-07-11
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) | The Eastleigh Voice | 2026-07-10T18:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm?spTabChangeable\=0) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
+- [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
   One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-external-update-3-10-july-2026) | ReliefWeb | 2026-07-10T13:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -467,9 +469,7 @@ Search window: 7 day(s) ending 2026-07-11
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
 - [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10/) | Reuters | 2026-07-10T10:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa CDC Warns Ebola Outbreak Outpacing Response](https://allafrica.com/view/group/main/main/id/00097403.html) | allAfrica.com | 2026-07-10T08:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola death toll reaches 600, as new cases suspected in other parts of Congo](https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo) | NPR | 2026-07-10T06:33+00:00 | Outbreaks and emerging infections
+- [WHO Official: Congo Ebola Outbreak Still Spreading Largely Undetected](https://english.aawsat.com/world/5294430-who-official-congo-ebola-outbreak-still-spreading-largely-undetected) | Asharq Al-Awsat English | 2026-07-10T10:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
