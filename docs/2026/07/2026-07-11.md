@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-11
-Generated at: 2026-07-11T17:27
+Generated at: 2026-07-11T18:27
 Search window: 7 day(s) ending 2026-07-11
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-11
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies; 2026-07-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1389: E. coli O145:H28 linked to Frozen Blueberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1383: Clostridium botulinum linked to Powdered Infant Formula](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026) (FDA Foodborne Outbreaks; 2026-07-08T14:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (99), Occupational and environmental epidemiology (14), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (97), Occupational and environmental epidemiology (15), Major epidemiology studies (5)
 - Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 91 item(s) across 58 source(s).
-- Baseline snapshot created with 91 clustered item(s) across 58 source(s).
+- Newly tracked story cluster: 89 item(s) across 57 source(s).
+- Baseline snapshot created with 89 clustered item(s) across 57 source(s).
 - Daily Sabah now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
@@ -34,8 +34,8 @@ Search window: 7 day(s) ending 2026-07-11
 
 ### Occupational and environmental epidemiology
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR)
-- Newly tracked story cluster: 15 item(s) across 12 source(s).
-- Baseline snapshot created with 15 clustered item(s) across 12 source(s).
+- Newly tracked story cluster: 16 item(s) across 12 source(s).
+- Baseline snapshot created with 16 clustered item(s) across 12 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Historical epidemiology and ancient pathogens
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-07-11
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 91 item(s) across 58 source(s); 4 official/primary-source item(s).
+- Topic size: 89 item(s) across 57 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola virus and Sudan virus infection in humans: a comparison to inform vaccine research and development.](https://pubmed.ncbi.nlm.nih.gov/42427240/) (PubMed Infectious Disease Search); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola cases top 1,800 as DR Congo outbreak spreads](https://en.yenisafak.com/world/ebola-cases-top-1800-as-dr-congo-outbreak-spreads-3720700) (Yeni Safak English)
@@ -61,10 +61,10 @@ Search window: 7 day(s) ending 2026-07-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 15 item(s) across 12 source(s); 2 official/primary-source item(s).
+- Topic size: 16 item(s) across 12 source(s); 2 official/primary-source item(s).
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR, 2026-07-09T17:00+00:00)
 - Detailed note: During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions.
-- Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [US aid worker in Congo infected with Ebola during record outbreak](https://www.scrippsnews.com/health/us-aid-worker-in-congo-infected-with-ebola-during-record-outbreak) (Scripps News); [Legionnaires' disease cluster in New York City grows to 54 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) (ABC News - Breaking News, Latest News and Videos); [Legionnaires' disease cluster on Upper East Side grows](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/) (CBS News)
+- Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [Legionnaires' disease cluster in New York City grows to 54 cases - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/legionnaires-disease-cluster-new-york-city-grows-36/story?id\=134612583) (ABC News - Breaking News, Latest News and Videos); [Legionnaires' disease cluster on Upper East Side grows](https://www.cbsnews.com/newyork/video/legionnaires-disease-cluster-on-upper-east-side-grows/) (CBS News); [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://www.cbsnews.com/newyork/news/upper-east-side-legionnaires-disease-cluster-cooling-tower-testing/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -439,15 +439,11 @@ Search window: 7 day(s) ending 2026-07-11
   Limited detail was available from feed metadata alone.
 - [American tests positive for Ebola in Congo, will be evacuated](https://www.spokesman.com/stories/2026/jul/11/american-tests-positive-for-ebola-in-congo-will-be/) | The Spokesman-Review | 2026-07-11T23:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US aid worker in Congo infected with Ebola during record outbreak](https://www.scrippsnews.com/health/us-aid-worker-in-congo-infected-with-ebola-during-record-outbreak) | Scripps News | 2026-07-11T18:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [US citizen working in DR Congo tests positive for Ebola](https://www.egyptindependent.com/us-citizen-working-in-dr-congo-tests-positive-for-ebola/) | Egypt Independent | 2026-07-11T12:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases top 1,800 as DR Congo outbreak spreads](https://en.yenisafak.com/world/ebola-cases-top-1800-as-dr-congo-outbreak-spreads-3720700) | Yeni Safak English | 2026-07-11T10:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases top 1,800 as outbreak spreads to 4th Congo province | Daily Sabah](https://www.dailysabah.com/world/africa/ebola-cases-top-1800-as-outbreak-spreads-to-4th-congo-province) | Daily Sabah | 2026-07-11T10:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO: Congo Ebola outbreak may be far larger than reported](https://sharjah24.ae/en/Articles/2026/07/11/gh-8) | Sharjah24 | 2026-07-11T09:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ramaphosa pledges South African support as DRC battles Ebola outbreak](https://iol.co.za/news/politics/2026-07-03-ramaphosa-pledges-south-african-support-as-drc-battles-ebola-outbreak/) | IOL | 2026-07-11T09:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -459,17 +455,21 @@ Search window: 7 day(s) ending 2026-07-11
   Limited detail was available from feed metadata alone.
 - [The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals](https://www.cidrap.umn.edu/climate-change/eaton-wildfire-evacuation-shelter-near-la-saw-outbreaks-norovirus-covid-and-flu) | CIDRAP | 2026-07-10T20:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.cnbcafrica.com/2026/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says/) | CNBC Africa | 2026-07-10T20:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) | The Eastleigh Voice | 2026-07-10T18:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [H5N1 outbreak in Philippines amid Australian fears](https://news.rthk.hk/rthk/en/component/k2/1861783-20260710.htm) | 香港電台新聞網 | 2026-07-10T14:02+00:00 | Outbreaks and emerging infections
   One of several sick northern giant petrels found on Australian beaches that later tested positive for H5N1. Limited detail was available from feed metadata alone.
 - [Ebola Outbreak: Democratic Republic of the Congo and Uganda - External update #3 - 10 July 2026](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-democratic-republic-congo-and-uganda-external-update-3-10-july-2026) | ReliefWeb | 2026-07-10T13:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat](https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc) | The Guardian | 2026-07-10T12:39+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo leaves hundreds dead and children orphaned](https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned) | France 24 | 2026-07-10T12:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) | Bhaskar English | 2026-07-10T12:18+00:00 | Outbreaks and emerging infections
   As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Gorakhpur Health Dept Alert Amid Monsoon; Dengue Prevention Drive Launched With the risk of dengue expected to rise during the monsoon season, the Gorakhpur Health Department has stepped up preventive measures across the city. Waterlogging spots were identified, anti-larval chemicals were sprayed, and people were educated about measures to prevent dengue.
-- [Congo Ebola outbreak still spreading largely undetected, WHO official says](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-outbreak-still-spreading-largely-undetected-who-official-says-2026-07-10/) | Reuters | 2026-07-10T10:54+00:00 | Outbreaks and emerging infections
+- [Africa CDC Warns Ebola Outbreak Outpacing Response](https://allafrica.com/view/group/main/main/id/00097403.html) | allAfrica.com | 2026-07-10T08:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
