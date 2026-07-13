@@ -12,21 +12,21 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 200,
+    "metadata_only_count": 196,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 225,
+    "sources_failed": 2,
+    "sources_live": 221,
     "story_count_change": 8,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 225,
+    "live": 221,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-13T06:00:50",
+  "generated_at": "2026-07-13T06:18:16",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
@@ -38,12 +38,6 @@
       "error": "HTTPSConnectionPool(host='www.aphis.usda.gov', port=443): Read timed out. (read timeout=30)",
       "required": true,
       "source": "USDA APHIS Avian Influenza",
-      "source_type": "html_list"
-    },
-    {
-      "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
-      "required": true,
-      "source": "New York State Department of Health Press Releases",
       "source_type": "html_list"
     }
   ]
