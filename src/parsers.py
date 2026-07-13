@@ -120,7 +120,7 @@ def extract_fda_outbreak_table(html: str, base_url: str, max_items: int | None =
         ],
     )
     items: list[dict[str, Any]] = []
-    seen_urls: set[str] = set()
+    seen_rows: set[str] = set()
     for table in soup.find_all("table"):
         header_text = " ".join(normalize_whitespace(th.get_text(" ", strip=True)).lower() for th in table.find_all("th"))
         if "reference" not in header_text or "pathogen" not in header_text:
@@ -135,9 +135,10 @@ def extract_fda_outbreak_table(html: str, base_url: str, max_items: int | None =
                 if "/outbreak-investigation-" in candidate:
                     advisory_url = candidate
                     break
-            if not advisory_url or advisory_url in seen_urls:
+            row_key = advisory_url or f"{base_url}#reference-{reference}"
+            if row_key in seen_rows:
                 continue
-            seen_urls.add(advisory_url)
+            seen_rows.add(row_key)
             date_posted = cells[0]
             reference = cells[1]
             pathogen = cells[2]
@@ -162,7 +163,7 @@ def extract_fda_outbreak_table(html: str, base_url: str, max_items: int | None =
             items.append(
                 {
                     "title": title,
-                    "url": advisory_url,
+                    "url": advisory_url or base_url,
                     "summary": " ".join(summary_parts),
                     "published_at": parse_datetime(updated_at) or parse_datetime(date_posted),
                     "metadata": {
@@ -179,6 +180,77 @@ def extract_fda_outbreak_table(html: str, base_url: str, max_items: int | None =
             if max_items and len(items) >= max_items:
                 return items
     return items
+
+
+FDA_MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+)(?:\s+[^)]*)?\)")
+
+
+def extract_fda_outbreak_markdown(markdown: str, base_url: str, max_items: int | None = None) -> list[dict[str, Any]]:
+    """Parse the active FDA outbreak table returned by the reader fallback."""
+    active_section = markdown.partition("## Active Investigations")[2]
+    active_section = active_section.partition("## Closed Investigations")[0]
+    if not active_section:
+        return []
+
+    items: list[dict[str, Any]] = []
+    seen_rows: set[str] = set()
+    for line in active_section.splitlines():
+        if not line.lstrip().startswith("|"):
+            continue
+        cells = [clean_fda_markdown_cell(cell) for cell in line.strip().strip("|").split("|")]
+        if len(cells) < 7 or not cells[0] or cells[0].lower().startswith("date") or set(cells[0]) == {"-"}:
+            continue
+
+        date_posted, reference, pathogen, product, case_count, investigation_status, outbreak_status = cells[:7]
+        if not reference or not pathogen:
+            continue
+        links = FDA_MARKDOWN_LINK_RE.findall(line)
+        advisory_url = next((url for _label, url in links if "/outbreak-investigation-" in url), "")
+        row_key = advisory_url or f"{base_url}#reference-{reference}"
+        if row_key in seen_rows:
+            continue
+        seen_rows.add(row_key)
+
+        title = f"FDA outbreak investigation {reference}: {pathogen}"
+        if product and product.lower() != "not yet identified":
+            title += f" linked to {product}"
+        summary_parts = [
+            f"FDA lists reference {reference} with date posted {date_posted}.",
+            f"Pathogen or cause of illness: {pathogen}.",
+            f"Product linked to illnesses: {product}.",
+        ]
+        if case_count and "see advisory" not in case_count.lower():
+            summary_parts.append(f"Reported total case count: {case_count}.")
+        if investigation_status:
+            summary_parts.append(f"Investigation status: {investigation_status}.")
+        if outbreak_status:
+            summary_parts.append(f"Outbreak or event status: {outbreak_status}.")
+        items.append(
+            {
+                "title": title,
+                "url": advisory_url or base_url,
+                "summary": " ".join(summary_parts),
+                "published_at": parse_datetime(date_posted),
+                "metadata": {
+                    "reference_number": reference,
+                    "pathogen": pathogen,
+                    "product": product,
+                    "case_count": case_count,
+                    "investigation_status": investigation_status,
+                    "outbreak_status": outbreak_status,
+                    "collection_mode": "reader_fallback",
+                },
+            }
+        )
+        if max_items and len(items) >= max_items:
+            break
+    return items
+
+
+def clean_fda_markdown_cell(value: str) -> str:
+    value = FDA_MARKDOWN_LINK_RE.sub(lambda match: match.group(1), value)
+    value = re.sub(r"[*_`]", "", value)
+    return normalize_whitespace(value)
 
 
 def parse_pubmed_details_xml(xml_text: str) -> dict[str, dict[str, Any]]:

@@ -217,6 +217,48 @@ def test_fetch_html_list_parses_fda_outbreak_rows(monkeypatch):
     assert "Reported total case count: 12." in items[0].summary
 
 
+def test_fetch_html_list_uses_reader_for_blocked_fda_and_keeps_unadvised_active_rows(monkeypatch):
+    reader_markdown = """
+## Active Investigations
+
+| Date Posted | Reference # | Pathogen | Product | Total Case Count | Investigation Status | Outbreak/Event Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7/8/2026 | 1385 | [_Cyclospora_](https://www.fda.gov/food/foodborne-pathogens/cyclospora) | Not Yet Identified | 7 | Active | Ongoing [See Advice](https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling) |
+| 7/6/2026 | 1389 | _E. coli_ O145:H28 | Frozen Blueberries | [See](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-frozen-blueberries-july-2026) Advisory | Active | Ongoing |
+
+## Closed Investigations
+"""
+    calls: list[str] = []
+
+    def fake_resilient_get(url, **_kwargs):
+        calls.append(url)
+        if len(calls) == 1:
+            raise requests.HTTPError("403 response from FDA")
+        response = Mock()
+        response.text = reader_markdown
+        response.raise_for_status = Mock()
+        return response
+
+    monkeypatch.setattr("src.fetchers.resilient_get", fake_resilient_get)
+    source = SourceConfig(
+        name="FDA Foodborne Outbreaks",
+        type="html_list",
+        category="Outbreaks",
+        url="https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+        official=True,
+        max_items=10,
+    )
+
+    items = fetch_html_list(source, logger=Mock())
+
+    assert calls[1].startswith("https://r.jina.ai/http://https://www.fda.gov/")
+    assert len(items) == 2
+    assert items[0].title == "FDA outbreak investigation 1385: Cyclospora"
+    assert items[0].url == source.url
+    assert items[0].metadata["collection_mode"] == "reader_fallback"
+    assert items[1].url.endswith("outbreak-investigation-e-coli-frozen-blueberries-july-2026")
+
+
 def test_fetch_html_list_parses_ncdc_press_rows(monkeypatch):
     html = """
     <section id="news">

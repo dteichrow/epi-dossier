@@ -21,6 +21,7 @@ from .parsers import (
     extract_link_href,
     extract_ncdc_news_rows,
     extract_fda_outbreak_table,
+    extract_fda_outbreak_markdown,
     extract_html_links,
     extract_meta_content,
     extract_page_text,
@@ -233,6 +234,23 @@ def fetch_html_list(
     start_date: date | None = None,
     end_date: date | None = None,
 ) -> list[Item]:
+    if source.name == "FDA Foodborne Outbreaks":
+        try:
+            response = resilient_get(
+                source.url,
+                headers=BROWSERISH_HEADERS,
+                timeout=source.timeout_seconds or DEFAULT_TIMEOUT,
+                logger=logger,
+                cache_namespace="html",
+                max_attempts=source.max_attempts or 3,
+                verify_ssl=source.verify_ssl,
+            )
+            response.raise_for_status()
+            return fetch_fda_outbreak_rows(source, response.text, logger)
+        except requests.RequestException as exc:
+            logger.warning("FDA direct collection failed (%s); using reader fallback.", exc)
+            return fetch_fda_outbreak_reader_rows(source, logger)
+
     response = resilient_get(
         source.url,
         headers=BROWSERISH_HEADERS,
@@ -243,8 +261,6 @@ def fetch_html_list(
         verify_ssl=source.verify_ssl,
     )
     response.raise_for_status()
-    if source.name == "FDA Foodborne Outbreaks":
-        return fetch_fda_outbreak_rows(source, response.text, logger)
     if source.name == "Nigeria Centre for Disease Control":
         return fetch_ncdc_news_rows(source, response.text, logger)
     items: list[Item] = []
@@ -349,6 +365,37 @@ def fetch_fda_outbreak_rows(source: SourceConfig, html: str, logger: logging.Log
         for row in rows
     ]
     logger.info("Fetched %s FDA outbreak rows from %s", len(items), source.name)
+    return items
+
+
+def fetch_fda_outbreak_reader_rows(source: SourceConfig, logger: logging.Logger) -> list[Item]:
+    reader_url = f"https://r.jina.ai/http://{source.url}"
+    response = resilient_get(
+        reader_url,
+        headers=HEADERS,
+        timeout=source.timeout_seconds or DEFAULT_TIMEOUT,
+        logger=logger,
+        cache_namespace="fda_reader",
+        max_attempts=2,
+        verify_ssl=True,
+    )
+    response.raise_for_status()
+    rows = extract_fda_outbreak_markdown(response.text, source.url or "", max_items=source.max_items)
+    items = [
+        Item(
+            title=row["title"],
+            source=source.name,
+            url=row["url"],
+            category=source.category,
+            published_at=row["published_at"],
+            summary=row["summary"],
+            source_type=source.type,
+            official=source.official,
+            metadata=row["metadata"],
+        )
+        for row in rows
+    ]
+    logger.info("Fetched %s FDA outbreak rows through the reader fallback", len(items))
     return items
 
 
