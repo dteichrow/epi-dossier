@@ -31,15 +31,6 @@ sources:
     outbreak_signal: true
     max_items: 80
 
-  - name: CDC Current Outbreak List
-    type: html_list
-    category: Outbreaks and emerging infections
-    url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html
-    official: true
-    outbreak_signal: true
-    item_selector: "a"
-    max_items: 80
-
   - name: WHO Disease Outbreak News
     type: html_list
     category: Outbreaks and emerging infections
@@ -111,16 +102,6 @@ sources:
     official: true
     outbreak_signal: true
     item_selector: "a[href*='/outbreak-investigation-']"
-
-  - name: USDA APHIS Avian Influenza
-    type: html_list
-    category: Virology and pathogen evolution
-    url: https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza
-    official: true
-    outbreak_signal: true
-    item_selector: "a[href*='/news/'], a[href*='/node/']"
-    timeout_seconds: 30
-    max_attempts: 2
 
   - name: PubMed Infectious Disease Search
     type: pubmed

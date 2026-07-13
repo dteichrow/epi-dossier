@@ -162,7 +162,6 @@ editions:
       - news_report
     sources:
       - CDC Newsroom
-      - CDC Current Outbreak List
       - CDC MMWR
       - CDC Travel Health Notices
       - Africa CDC
@@ -171,7 +170,6 @@ editions:
       - ECDC News
       - California Department of Public Health News
       - New York State Department of Health Press Releases
-      - USDA APHIS Avian Influenza
     max_items: 14
     max_stories: 4
 

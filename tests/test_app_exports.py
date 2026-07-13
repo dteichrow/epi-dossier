@@ -1,7 +1,7 @@
 import json
 from datetime import date, datetime
 
-from src.app_exports import export_app_data
+from src.app_exports import export_app_data, infer_country, infer_story_primary_country
 from src.database import SeenItemsDB
 from src.render_markdown import analyze_story_updates
 from src.utils import APP_EXPORTS_DIR, DiseaseReference, Item, OutbreakEventReference
@@ -62,6 +62,39 @@ def make_reference():
             ),
         )
     ]
+
+
+def test_country_inference_does_not_use_publisher_domain_for_outbreak_geography():
+    item = Item(
+        title="Michigan and Ohio investigate a cyclosporiasis outbreak",
+        source="International Business Times UK",
+        url="https://www.ibtimes.co.uk/health/cyclosporiasis-outbreak",
+        category="Outbreaks and emerging infections",
+        summary="Health officials report a growing foodborne outbreak in Michigan and Ohio.",
+    )
+
+    assert infer_country(item) == "United States"
+
+
+def test_story_country_prefers_official_local_evidence_over_publisher_geography():
+    official = Item(
+        title="Cyclosporiasis provider update",
+        source="Michigan Department of Health and Human Services Infectious Disease Updates",
+        url="https://www.michigan.gov/mdhhs/example",
+        category="Outbreaks and emerging infections",
+        summary="Provider update for the current investigation.",
+        official=True,
+    )
+    press = Item(
+        title="UK media discuss the Michigan cyclosporiasis outbreak",
+        source="International Business Times UK",
+        url="https://www.ibtimes.co.uk/health/cyclosporiasis-outbreak",
+        category="Outbreaks and emerging infections",
+        summary="The United Kingdom article describes the Michigan and Ohio investigation.",
+    )
+
+    assert infer_country(press) == "United Kingdom / United States"
+    assert infer_story_primary_country([press, official]) == "United States"
 
 
 def test_export_app_data_stable_ids_and_latest_snapshot(tmp_path, monkeypatch):

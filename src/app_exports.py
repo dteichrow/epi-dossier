@@ -796,31 +796,45 @@ def infer_story_primary_region(items: list[Item]) -> str:
 
 
 def infer_country(item: Item) -> str:
-    text = " ".join([item.title.lower(), item.summary.lower(), item.url.lower()])
+    # Publisher domains describe where an outlet is based, not where an outbreak
+    # occurred. Geography therefore comes from the report text, except for named
+    # official state and local public-health sources whose jurisdiction is clear.
+    official_source = item.source.lower()
+    if item.official and any(
+        marker in official_source
+        for marker in (
+            "michigan department of health",
+            "toledo-lucas county health",
+            "ohio department of health",
+        )
+    ):
+        return "United States"
+
+    text = " ".join([item.title.lower(), item.summary.lower()])
     country_map = {
-        "Democratic Republic of the Congo": ("democratic republic of the congo", "drc", "dr congo", "congo", "ituri", "north kivu", "bunia", "kinshasa"),
-        "Uganda": ("uganda", "kampala"),
-        "South Sudan": ("south sudan",),
-        "Rwanda": ("rwanda",),
-        "Sierra Leone": ("sierra leone",),
-        "Liberia": ("liberia",),
-        "Guinea": ("guinea",),
-        "Nigeria": ("nigeria",),
-        "Kenya": ("kenya",),
-        "Tanzania": ("tanzania",),
-        "Ethiopia": ("ethiopia",),
-        "Ghana": ("ghana",),
-        "United Kingdom": ("united kingdom", "uk", "britain", "british"),
-        "Spain": ("spain", "canary islands", "tenerife"),
-        "Cape Verde": ("cape verde",),
-        "United States": ("united states", "u.s.", "usa", "california", "new york", "texas"),
-        "Canada": ("canada",),
-        "India": ("india",),
-        "Brazil": ("brazil",),
+        "Democratic Republic of the Congo": (r"\bdemocratic republic of (?:the )?congo\b", r"\bdrc\b", r"\bdr congo\b", r"\bcongo\b", r"\bituri\b", r"\bnorth kivu\b", r"\bbunia\b", r"\bkinshasa\b"),
+        "Uganda": (r"\buganda\b", r"\bkampala\b"),
+        "South Sudan": (r"\bsouth sudan\b",),
+        "Rwanda": (r"\brwanda\b",),
+        "Sierra Leone": (r"\bsierra leone\b",),
+        "Liberia": (r"\bliberia\b",),
+        "Guinea": (r"\bguinea\b",),
+        "Nigeria": (r"\bnigeria\b",),
+        "Kenya": (r"\bkenya\b",),
+        "Tanzania": (r"\btanzania\b",),
+        "Ethiopia": (r"\bethiopia\b",),
+        "Ghana": (r"\bghana\b",),
+        "United Kingdom": (r"\bunited kingdom\b", r"\bbritain\b", r"\bbritish\b", r"(?<!\w)uk(?!\w)"),
+        "Spain": (r"\bspain\b", r"\bcanary islands\b", r"\btenerife\b"),
+        "Cape Verde": (r"\bcape verde\b",),
+        "United States": (r"\bunited states\b", r"(?<!\w)u\.?s\.?a?(?!\w)", r"\bcalifornia\b", r"\bnew york\b", r"\btexas\b", r"\bmichigan\b", r"\bohio\b", r"\bwashington state\b", r"\boregon\b"),
+        "Canada": (r"\bcanada\b",),
+        "India": (r"\bindia\b",),
+        "Brazil": (r"\bbrazil\b",),
     }
     matches: list[str] = []
-    for country, terms in country_map.items():
-        if any(term in text for term in terms):
+    for country, patterns in country_map.items():
+        if any(re.search(pattern, text, flags=re.IGNORECASE) for pattern in patterns):
             matches.append(country)
     if len(matches) > 1:
         return " / ".join(matches[:2])
@@ -830,6 +844,10 @@ def infer_country(item: Item) -> str:
 
 
 def infer_story_primary_country(items: list[Item]) -> str:
+    official_countries = [infer_country(item) for item in items if item.official and infer_country(item)]
+    if official_countries:
+        return max(official_countries, key=official_countries.count)
+
     counts: dict[str, int] = {}
     for item in items:
         country = infer_country(item)

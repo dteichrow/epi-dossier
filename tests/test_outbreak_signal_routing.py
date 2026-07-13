@@ -129,7 +129,8 @@ def test_outbreak_terminal_and_official_alerts_are_configured_for_broad_monitori
     assert "public health emergency" in editions["outbreaks"].include_terms
     assert "Africa CDC" in editions["official"].sources
     assert "CDC Newsroom" in editions["official"].sources
-    assert "CDC Current Outbreak List" in editions["official"].sources
+    assert "CDC Travel Health Notices" in editions["official"].sources
+    assert "CDC Current Outbreak List" not in editions["official"].sources
 
 
 def test_ebola_reference_sheet_tracks_current_bundibugyo_outbreak_data():
