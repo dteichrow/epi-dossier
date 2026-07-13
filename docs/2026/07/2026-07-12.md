@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-07-12
 - [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-09T00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (176), Policy, surveillance, and public health infrastructure (15), Occupational and environmental epidemiology (14)
-- Source health: 4 source(s) failed during collection: CDC Current Outbreak List, Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, USDA APHIS Avian Influenza.
+- Category mix: Outbreaks and emerging infections (180), Policy, surveillance, and public health infrastructure (15), Occupational and environmental epidemiology (14)
+- Source health: 2 source(s) failed during collection: CDC Current Outbreak List, USDA APHIS Avian Influenza.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -34,8 +34,8 @@ Search window: 7 day(s) ending 2026-07-12
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 81 item(s) across 54 source(s).
-- Baseline snapshot created with 81 clustered item(s) across 54 source(s).
+- Newly tracked story cluster: 82 item(s) across 55 source(s).
+- Baseline snapshot created with 82 clustered item(s) across 55 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Occupational and environmental epidemiology
@@ -56,12 +56,12 @@ Search window: 7 day(s) ending 2026-07-12
 - Topic size: 93 item(s) across 63 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola virus and Sudan virus infection in humans: a comparison to inform vaccine research and development.](https://pubmed.ncbi.nlm.nih.gov/42427240/) (PubMed Infectious Disease Search); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DR Congo Ebola outbreak spreading largely undetected: WHO official](https://www.bastillepost.com/global/article/6004450-dr-congo-ebola-outbreak-spreading-largely-undetected-who-official) (bastillepost.com)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola virus and Sudan virus infection in humans: a comparison to inform vaccine research and development.](https://pubmed.ncbi.nlm.nih.gov/42427240/) (PubMed Infectious Disease Search); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [DR Congo Ebola outbreak spreading largely undetected: WHO official](https://www.bastillepost.com/global/article/6004450-dr-congo-ebola-outbreak-spreading-largely-undetected-who-official) (巴士的報)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 81 item(s) across 54 source(s); 3 official/primary-source item(s).
+- Topic size: 82 item(s) across 55 source(s); 3 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-09T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) (Michigan Department of Health and Human Services Infectious Disease Updates); [What to know about the cyclosporiasis outbreak hitting more than half of U.S. states](https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us) (NPR); [Cyclosporiasis cases in N.Y. continue to grow with 470 now statewide - CBS New York](https://news.google.com/rss/articles/CBMifkFVX3lxTFAyR015Mmg0V3Jjdi1OaXNvWE1Pb2I2dFRxazJzZ1FMZ01JUHJValJLa0Y2SlBrLUFIQWt5SEZOM3hWTTA0RVRiWEN4d1JTVUJEczd2Wm5lbG5yZHNWVE50LU9ETlVqWS1SMGEwRk1vSkJZT1kzNjNCdm91b1dtUQ?oc=5) (CBS News)
@@ -92,12 +92,12 @@ Search window: 7 day(s) ending 2026-07-12
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Historical epidemiology and ancient pathogens
-- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
-- Lead item: [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/) (PubMed Ancient Pathogen Genomics, 2026-07-11T00:00)
-- Detailed note: The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. Using ancient DNA, we traced the dynamics of LRRK2 and PRKN variants in Europe and showed that the common PD risk allele...
-- Evidence notes: [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/) (PubMed Ancient Pathogen Genomics); [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) (PubMed Historical Pathogen Case Studies); [American tests positive for Ebola in Congo, will be evacuated](https://www.spokesman.com/stories/2026/jul/11/american-tests-positive-for-ebola-in-congo-will-be/) (The Spokesman-Review)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
+### Hepatitis A
+- Topic size: 3 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks, 2026-07-08T14:00)
+- Detailed note: FDA lists reference 1143 with date posted 3/1/2023. Outbreak or event status: Ended See Advisory.
+- Evidence notes: [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Hepatitis-A outbreak in Kaithal puts Haryanas Health Dept on alert](https://www.tribuneindia.com/news/haryana/hepatitis-a-outbreak-in-kaithal-puts-haryanas-health-dept-on-alert/) (The Tribune)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 
@@ -428,18 +428,22 @@ Search window: 7 day(s) ending 2026-07-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-08T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42419446/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). Out of 56,695 screened individuals, 5,742 were diagnosed with pulmonary TB. After matching, 191 intervention patients were compared with 191 historical and 191 concurrent controls.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-08T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1143 with date posted 3/1/2023. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Frozen Strawberries.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) | FDA Foodborne Outbreaks | 2026-07-08T14:00 | Outbreaks and emerging infections
+  FDA lists reference 1066 with date posted 6/1/2022. Outbreak or event status: Ended See Advisory. Pathogen or cause of illness: Hepatitis A Virus.
+- [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) | PubMed Historical Pathogen Case Studies | 2026-07-08T00:00 | Historical epidemiology / ancient disease / paleopathology
+  It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). Out of 56,695 screened individuals, 5,742 were diagnosed with pulmonary TB. After matching, 191 intervention patients were compared with 191 historical and 191 concurrent controls.
 - [Fully illustrated morphological keys to the fleas (Siphonaptera) of Iran from superfamily to subspecies level.](https://pubmed.ncbi.nlm.nih.gov/42414335/) | PubMed Historical Pathogen Case Studies | 2026-07-07T00:00 | Historical epidemiology / ancient disease / paleopathology
   The primary objective of this work is to enhance the accuracy of flea taxonomy and to strengthen surveillance and control programs targeting flea-borne diseases, particularly in Iran's plague-endemic areas. The most recent documented epidemic occurred in 1966 in Sarab, East Azerbaijan Province. In response, extensive research has been conducted to investigate the diversity of Yersinia pestis-vectoring fleas (Siphonaptera) in Iran, resulting in the identification of 119 species and subspecies across diverse ecological zones.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-06T17:36+02:00 | Policy, surveillance, and public health infrastructure
@@ -452,7 +456,7 @@ Search window: 7 day(s) ending 2026-07-12
   Limited detail was available from feed metadata alone.
 - [What to know about the cyclosporiasis outbreak hitting more than half of U.S. states](https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us) | NPR | 2026-07-12T16:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak spreading largely undetected: WHO official](https://www.bastillepost.com/global/article/6004450-dr-congo-ebola-outbreak-spreading-largely-undetected-who-official) | bastillepost.com | 2026-07-12T07:47+00:00 | Outbreaks and emerging infections
+- [DR Congo Ebola outbreak spreading largely undetected: WHO official](https://www.bastillepost.com/global/article/6004450-dr-congo-ebola-outbreak-spreading-largely-undetected-who-official) | 巴士的報 | 2026-07-12T07:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [American tests positive for Ebola in Congo, will be evacuated](https://www.spokesman.com/stories/2026/jul/11/american-tests-positive-for-ebola-in-congo-will-be/) | The Spokesman-Review | 2026-07-11T23:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -475,10 +479,6 @@ Search window: 7 day(s) ending 2026-07-12
 - [Cyclosporiasis cases in N.Y. continue to grow with 470 now statewide - CBS New York](https://news.google.com/rss/articles/CBMifkFVX3lxTFAyR015Mmg0V3Jjdi1OaXNvWE1Pb2I2dFRxazJzZ1FMZ01JUHJValJLa0Y2SlBrLUFIQWt5SEZOM3hWTTA0RVRiWEN4d1JTVUJEczd2Wm5lbG5yZHNWVE50LU9ETlVqWS1SMGEwRk1vSkJZT1kzNjNCdm91b1dtUQ?oc=5) | CBS News | 2026-07-10T21:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo still outpacing response](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-still-outpacing-response) | CIDRAP | 2026-07-10T21:04+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlowcUotei1ZeHRxc0VXUVplZXNPcndFWVRzRVhZaGNYRHp0dWMtSXcyZ2VDTkM3a3l1X2I1QmtqeWFYWUNjc3lVMnFaRHpweEhiNThTcEdVQjJZdkw0S09NYmt6YnNxTHh5YmVtU0E1RGxDbGwzS2ZaeUoxU1l5ck0xTjUyUm1VNVowb0dLYmR5YXNWWlBxbDV1NUs2MS1nYUp2VlduMlRFODVhbUx2Z1AtQXU4VEZ6ZS1NM1dn?oc=5) | CIDRAP | 2026-07-10T20:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak remains "very active," peak not yet in sight: health minister](https://eastleighvoice.co.ke/democratic-republic-of-congo/377916/dr-congo-ebola-outbreak-remains-very-active-peak-not-yet-in-sight-health-minister?amp\=1) | The Eastleigh Voice | 2026-07-10T18:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
