@@ -9,24 +9,23 @@
       "NBC News",
       "NPR",
       "New York Times",
-      "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 192,
+    "metadata_only_count": 195,
     "sources_cached": 0,
     "sources_failed": 4,
-    "sources_live": 216,
+    "sources_live": 219,
     "story_count_change": 7,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 216,
+    "live": 219,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-13T04:45:54",
+  "generated_at": "2026-07-13T05:53:47",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
