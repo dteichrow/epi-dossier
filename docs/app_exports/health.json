@@ -13,21 +13,21 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 194,
+    "metadata_only_count": 193,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 218,
+    "sources_live": 217,
     "story_count_change": 7,
     "wrapper_only_count": 4
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 218,
+    "live": 217,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-13T12:06:48",
+  "generated_at": "2026-07-13T12:11:28",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
