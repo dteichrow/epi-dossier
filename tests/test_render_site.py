@@ -540,6 +540,90 @@ def test_render_story_dashboard_does_not_promote_metadata_only_pheic_headline():
     assert "WHO PHEIC declared" not in content
 
 
+def test_non_outbreak_topic_file_omits_dashboard_and_outbreak_label():
+    story = {
+        "display_title": "Occupational and environmental epidemiology",
+        "lead_title": "A broad evidence roundup",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "Desk",
+        "item_count": 1,
+        "source_count": 1,
+        "official_item_ids": [],
+        "press_item_ids": ["item_1"],
+        "publisher_names": ["CDC"],
+        "freshness_counts": {"live": 1},
+        "latest_update_summary": "The topic contains several unrelated public-health reports.",
+        "latest_update_bullets": [],
+        "related_references": [],
+        "outbreak_dashboard_enabled": False,
+        "first_seen_at": "2026-07-12T00:00:00",
+        "latest_updated_at": "2026-07-12T00:00:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "item_1": {
+            "title": "Occupational exposure report",
+            "preferred_url": "https://example.com/item",
+            "publisher_name": "CDC",
+            "published_at": "2026-07-12T00:00+00:00",
+            "summary": "A general occupational-health report.",
+            "link_quality": "direct_article",
+            "source_confidence": "official_agency",
+            "official": True,
+            "freshness_state": "live",
+        }
+    }
+
+    content = render_story_page(story, items_by_id, date(2026, 7, 12), datetime(2026, 7, 12, 1, 0))
+
+    assert 'id="outbreak-dashboard"' not in content
+    assert "Desk topic file" in content
+    assert "Tracked outbreak file" not in content
+    assert 'href="#outbreak-dashboard"' not in content
+
+
+def test_metric_candidates_exclude_incremental_and_other_disease_counts():
+    story = {
+        "display_title": "Ebola virus disease",
+        "topic_name": "Ebola virus disease",
+        "related_references": [{"name": "Ebola virus disease", "pathogen": "Ebola virus", "aliases": ["ebola"]}],
+    }
+    items = [
+        {
+            "title": "WHO reports an additional 317 confirmed Ebola cases and 144 deaths",
+            "summary": "This is an incremental update, not a cumulative total.",
+            "publisher_name": "WHO",
+            "published_at": "2026-07-11T00:00+00:00",
+            "official": True,
+            "source_confidence": "official_agency",
+            "link_quality": "direct_article",
+        },
+        {
+            "title": "Congo reports 1,708 confirmed Ebola cases and 600 deaths",
+            "summary": "The health ministry supplied the latest cumulative totals.",
+            "publisher_name": "AP",
+            "published_at": "2026-07-10T00:00+00:00",
+            "source_confidence": "wire",
+            "link_quality": "resolved_article",
+        },
+        {
+            "title": "Norovirus outbreak causes 104 cases",
+            "summary": "Passengers reported gastrointestinal illness during an unrelated investigation.",
+            "publisher_name": "CDC",
+            "published_at": "2026-07-11T00:00+00:00",
+            "official": True,
+            "source_confidence": "official_agency",
+            "link_quality": "direct_article",
+        },
+    ]
+
+    case_values = {candidate["numeric_value"] for candidate in render_site.collect_outbreak_metric_candidates(story, items, "cases")}
+    death_values = {candidate["numeric_value"] for candidate in render_site.collect_outbreak_metric_candidates(story, items, "deaths")}
+
+    assert case_values == {1708}
+    assert death_values == {600}
+
+
 def test_render_story_page_keeps_real_summaries_for_aggregator_only_items():
     story = {
         "display_title": "Hantavirus and cruise-ship outbreak",

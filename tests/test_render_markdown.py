@@ -1,6 +1,6 @@
 from datetime import date, datetime
 
-from src.render_markdown import StoryUpdate, render_markdown
+from src.render_markdown import StoryUpdate, classify_topic, render_markdown
 from src.utils import DiseaseReference, Item, OutbreakEventReference, ReferenceLink
 
 
@@ -195,3 +195,27 @@ def test_render_markdown_surfaces_source_failures_in_executive_scan():
     )
     assert "Source health: 2 source(s) failed during collection" in content
     assert "CDC Newsroom" in content
+
+
+def test_live_disease_signal_is_not_routed_to_historical_topic():
+    item = Item(
+        title="Second U.S. citizen tests positive for Ebola in Congo",
+        source="Example News",
+        url="https://example.com/ebola",
+        category="Historical Pathogen Case Studies",
+        summary="Officials are investigating active Ebola transmission and contact tracing.",
+    )
+
+    assert classify_topic(item) == "Ebola virus disease"
+
+
+def test_generic_cruise_ship_norovirus_signal_is_not_hantavirus():
+    item = Item(
+        title="Norovirus outbreak on cruise ship sickens passengers",
+        source="Example News",
+        url="https://example.com/norovirus",
+        category="Outbreaks and emerging infections",
+        summary="Officials reported 104 cases and continued investigation.",
+    )
+
+    assert classify_topic(item) == "Norovirus"

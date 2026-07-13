@@ -1,7 +1,13 @@
 import json
 from datetime import date, datetime
 
-from src.app_exports import export_app_data, infer_country, infer_story_primary_country
+from src.app_exports import (
+    enrich_story_reference_links,
+    export_app_data,
+    infer_country,
+    infer_story_primary_country,
+    story_supports_outbreak_dashboard,
+)
 from src.database import SeenItemsDB
 from src.render_markdown import analyze_story_updates
 from src.utils import APP_EXPORTS_DIR, DiseaseReference, Item, OutbreakEventReference
@@ -142,6 +148,7 @@ def test_export_app_data_stable_ids_and_latest_snapshot(tmp_path, monkeypatch):
     assert latest["stories"]
     assert "story_url" in latest["stories"][0]
     assert "related_references" in latest["stories"][0]
+    assert latest["stories"][0]["outbreak_dashboard_enabled"] is True
     assert "freshness_counts" in latest["stories"][0]
     assert latest["topics"]
     assert "reference" in latest
@@ -150,6 +157,37 @@ def test_export_app_data_stable_ids_and_latest_snapshot(tmp_path, monkeypatch):
     assert latest["run_id"]
     assert "entries" in archive
     db.close()
+
+
+def test_reference_links_follow_story_identity_not_incidental_source_mentions():
+    stories = [
+        {
+            "story_id": "story_covid",
+                "display_title": "COVID-19 and SARS-CoV-2",
+                "topic_name": "COVID-19 and SARS-CoV-2",
+                "story_url": "stories/story_covid.html",
+                "lead_title": "CDC report includes Norovirus and COVID-19 outbreaks",
+            "latest_update_summary": "A source headline mentions Norovirus alongside COVID-19.",
+        }
+    ]
+    references = [
+        {"name": "COVID-19", "pathogen": "SARS-CoV-2", "aliases": ["covid", "sars-cov-2"], "reference_url": "covid.html"},
+        {"name": "Norovirus", "pathogen": "Norovirus", "aliases": ["norovirus"], "reference_url": "norovirus.html"},
+    ]
+
+    enrich_story_reference_links(stories, references)
+
+    assert stories[0]["related_reference_names"] == ["COVID-19"]
+    assert references[1]["related_story_ids"] == []
+
+
+def test_only_single_reference_outbreak_editions_enable_dashboard():
+    assert story_supports_outbreak_dashboard(
+        {"editions": ["outbreaks", "watch"], "related_references": [{"name": "Ebola virus disease"}]}
+    )
+    assert not story_supports_outbreak_dashboard(
+        {"editions": ["index", "notebook"], "related_references": []}
+    )
 
 
 def test_export_app_data_delta_and_failure_metadata(tmp_path, monkeypatch):

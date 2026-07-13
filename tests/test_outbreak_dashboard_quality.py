@@ -184,3 +184,28 @@ def test_dashboard_override_requires_traceable_source() -> None:
     errors = [issue.message for issue in issues if issue.severity == "error"]
     assert "Dashboard override is missing source_url." in errors
     assert "Dashboard override is missing source_status." in errors
+
+
+def test_dashboard_quality_rejects_dashboard_on_non_outbreak_topic(tmp_path: Path) -> None:
+    docs_root = tmp_path / "docs"
+    story_path = docs_root / "stories" / "story_topic.html"
+    story_path.parent.mkdir(parents=True)
+    story_path.write_text('<section id="outbreak-dashboard"></section><p>Tracked outbreak file</p>', encoding="utf-8")
+    snapshot = {
+        "degraded": False,
+        "stories": [
+            {
+                "story_id": "story_topic",
+                "display_title": "Occupational and environmental epidemiology",
+                "story_web_path": "stories/story_topic.html",
+                "outbreak_dashboard_enabled": False,
+            }
+        ],
+        "items": [],
+    }
+
+    issues = validate_snapshot(snapshot, docs_root=docs_root, overrides={})
+
+    errors = [issue.message for issue in issues if issue.severity == "error"]
+    assert "Non-outbreak topic page still renders an outbreak dashboard." in errors
+    assert "Non-outbreak topic page still presents itself as a tracked outbreak file." in errors

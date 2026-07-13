@@ -100,6 +100,8 @@ def validate_snapshot(
     for story in stories:
         if story_in_outbreak_quality_scope(story):
             issues.extend(validate_story_dashboard(story, items_by_id, docs_root=docs_root, overrides=overrides))
+        else:
+            issues.extend(validate_non_outbreak_story_page(story, docs_root=docs_root))
     return issues
 
 
@@ -113,24 +115,24 @@ def snapshot_items_by_id(snapshot: dict[str, Any]) -> dict[str, dict[str, Any]]:
 
 
 def story_in_outbreak_quality_scope(story: dict[str, Any]) -> bool:
-    editions = {str(edition).lower() for edition in story.get("editions", [])}
-    text = " ".join(
-        str(value)
-        for value in [
-            story.get("display_title", ""),
-            story.get("topic_name", ""),
-            story.get("content_class", ""),
-            story.get("status", ""),
-            story.get("current_status_summary", ""),
-            story.get("latest_update_summary", ""),
-        ]
-    ).lower()
-    return (
-        "outbreaks" in editions
-        or "tracked_outbreak_file" in text
-        or "outbreak" in text
-        or bool(story.get("related_references"))
-    )
+    return render_site.story_has_outbreak_dashboard(story)
+
+
+def validate_non_outbreak_story_page(story: dict[str, Any], *, docs_root: Path) -> list[DashboardQualityIssue]:
+    story_id = str(story.get("story_id") or story.get("id") or "unknown-story")
+    story_path = normalize_whitespace(str(story.get("story_web_path", "")))
+    if not story_path:
+        return [DashboardQualityIssue("error", story_id, "html", "Story has no story_web_path; generated topic page cannot be verified.")]
+    html_path = docs_root / story_path
+    if not html_path.exists():
+        return [DashboardQualityIssue("error", story_id, "html", "Generated story page is missing.", str(html_path))]
+    html_text = html_path.read_text(encoding="utf-8", errors="replace")
+    issues: list[DashboardQualityIssue] = []
+    if 'id="outbreak-dashboard"' in html_text:
+        issues.append(DashboardQualityIssue("error", story_id, "html", "Non-outbreak topic page still renders an outbreak dashboard."))
+    if "Tracked outbreak file" in html_text:
+        issues.append(DashboardQualityIssue("error", story_id, "html", "Non-outbreak topic page still presents itself as a tracked outbreak file."))
+    return issues
 
 
 def validate_overrides(overrides: dict[str, Any], current_story_ids: set[str]) -> list[DashboardQualityIssue]:

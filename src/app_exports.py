@@ -39,6 +39,7 @@ from .utils import (
 
 ACTIVE_STORY_RETENTION_DAYS = 14
 ACTIVE_STORY_MIN_ITEMS = 3
+OUTBREAK_DASHBOARD_EDITION_KEYS = {"outbreaks", "watch", "africa", "asia"}
 HIGH_SIGNAL_PUBLISHER_FAMILIES = {
     "Reuters",
     "Associated Press",
@@ -373,20 +374,13 @@ def enrich_story_reference_links(story_records: list[dict[str, Any]], reference_
         return
 
     for story in story_records:
-        story_text = " ".join(
-            [
-                story.get("display_title", ""),
-                story.get("lead_title", ""),
-                story.get("latest_update_summary", ""),
-                " ".join(story.get("latest_update_bullets", [])),
-            ]
-        )
-        matches = [reference for reference in reference_records if story_matches_reference(story_text, reference)]
+        matches = [reference for reference in reference_records if story_matches_reference(story, reference)]
         story["related_reference_names"] = [reference["name"] for reference in matches]
         story["related_reference_urls"] = [reference["reference_url"] for reference in matches]
         story["related_references"] = [
             {
                 "name": reference["name"],
+                "aliases": reference.get("aliases", []),
                 "reference_url": reference["reference_url"],
                 "reference_web_path": reference.get("reference_web_path", ""),
                 "pathogen": reference.get("pathogen", ""),
@@ -502,8 +496,17 @@ def build_atlas_records(
     return atlas_records
 
 
-def story_matches_reference(story_text: str, reference: dict[str, Any]) -> bool:
-    haystack = normalize_text_for_match(story_text)
+def story_matches_reference(story: dict[str, Any], reference: dict[str, Any]) -> bool:
+    # A source headline can mention several pathogens. Disease-sheet links must
+    # therefore follow the story's named topic, not incidental source text.
+    haystack = normalize_text_for_match(
+        " ".join(
+            [
+                str(story.get("topic_name", "")),
+                str(story.get("display_title", "")),
+            ]
+        )
+    )
     return any(match_term_in_text(term, haystack) for term in reference_match_terms(reference))
 
 
@@ -942,6 +945,7 @@ def annotate_edition_membership(
         item["editions"] = [edition.key for edition in editions if record_matches_edition(item, edition)]
     for story in story_records:
         story["editions"] = [edition.key for edition in editions if record_matches_edition(story, edition, story_record=True)]
+        story["outbreak_dashboard_enabled"] = story_supports_outbreak_dashboard(story)
     for reference in reference_records:
         reference["editions"] = [
             edition.key
@@ -951,6 +955,12 @@ def annotate_edition_membership(
                 for category in reference.get("categories", [])
             )
         ]
+
+
+def story_supports_outbreak_dashboard(story: dict[str, Any]) -> bool:
+    editions = {str(edition).lower() for edition in story.get("editions", [])}
+    references = [reference for reference in story.get("related_references", []) if isinstance(reference, dict)]
+    return bool(editions.intersection(OUTBREAK_DASHBOARD_EDITION_KEYS)) and len(references) == 1
 
 
 def record_matches_edition(record: dict[str, Any], edition: EditionConfig, *, story_record: bool = False) -> bool:

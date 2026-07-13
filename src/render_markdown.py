@@ -18,7 +18,7 @@ from .utils import DiseaseReference, Item, format_timestamp, matched_disease_ref
 
 
 TOPIC_KEYWORDS = {
-    "Hantavirus and cruise-ship outbreak": ("hantavirus", "cruise ship", "cruise"),
+    "Hantavirus and cruise-ship outbreak": ("hantavirus", "andes virus"),
     "Polio and wastewater surveillance": ("poliovirus", "polio", "wastewater"),
     "Measles transmission and vaccination": ("measles", "vaccin"),
     "Avian influenza and H5N1": ("avian influenza", "h5n1", "bird flu"),
@@ -182,6 +182,11 @@ DISEASE_TOPIC_ACTIVITY_TERMS = (
     "retrieve body",
     "retrieve bodies",
     "body retrieval",
+    "tests positive",
+    "test positive",
+    "diagnosed",
+    "hospitalized",
+    "hospitalised",
     "treatment center",
     "treatment centre",
     "treatment facility",

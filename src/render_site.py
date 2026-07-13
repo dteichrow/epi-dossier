@@ -55,7 +55,14 @@ def render_story_page(
     press_items = collapse_story_page_items(press_items_raw, max_low_detail_per_publisher=2)
     combined_items = official_items + press_items
     timeline = story.get("timeline", [])
-    outbreak_dashboard = render_outbreak_dashboard(story, raw_combined_items)
+    dashboard_enabled = story_has_outbreak_dashboard(story)
+    outbreak_dashboard = render_outbreak_dashboard(story, raw_combined_items) if dashboard_enabled else ""
+    story_file_label = "Tracked outbreak file" if dashboard_enabled else "Desk topic file"
+    story_file_subtitle = (
+        "A durable desk file generated from the active dossier story cluster."
+        if dashboard_enabled
+        else "A durable desk topic file generated from the active dossier story cluster."
+    )
     what_matters_now = render_what_matters_now(story, raw_combined_items)
     historical_sidebars = render_historical_epidemiology_sidebars(story, raw_combined_items)
     publisher_badges = "".join(f'<span class="badge">{escape(name)}</span>' for name in story.get("publisher_names", [])[:12])
@@ -98,9 +105,9 @@ def render_story_page(
       {render_site_header_mode("../", nav_mode="web" if web_mode else "local", active_page="story")}
       {live_update_banner}
       <section class="hero" id="story-overview">
-        <p class="kicker">Tracked outbreak file</p>
+        <p class="kicker">{story_file_label}</p>
         <h1>{escape(story.get("display_title", "Story"))}</h1>
-        <p class="subtitle">A durable desk file generated from the active dossier story cluster.</p>
+        <p class="subtitle">{story_file_subtitle}</p>
         <div class="meta-row">
           <span class="badge accent">{story.get("item_count", 0)} item(s)</span>
           <span class="badge">{story.get("source_count", 0)} source(s)</span>
@@ -127,9 +134,9 @@ def render_story_page(
       </section>
 
       {render_page_section_nav(
-          [
-              ("Overview", "#story-overview"),
-              ("Dashboard", "#outbreak-dashboard"),
+          [("Overview", "#story-overview")]
+          + ([("Dashboard", "#outbreak-dashboard")] if dashboard_enabled else [])
+          + [
               ("What Matters", "#what-matters-now"),
               ("Context", "#historical-context"),
               ("Filters", "#story-filters"),
@@ -1673,6 +1680,14 @@ def render_outbreak_dashboard(story: dict[str, Any], items: list[dict[str, Any]]
     )
 
 
+def story_has_outbreak_dashboard(story: dict[str, Any]) -> bool:
+    if "outbreak_dashboard_enabled" in story:
+        return bool(story.get("outbreak_dashboard_enabled"))
+    # Older retained snapshots predate explicit scope metadata. Preserve their
+    # existing behavior until the next generated snapshot replaces them.
+    return True
+
+
 def outbreak_dashboard_metric(story: dict[str, Any], items: list[dict[str, Any]], override: dict[str, Any], metric_kind: str) -> dict[str, str]:
     override_metric = dashboard_override_metric(override, metric_kind)
     if override_metric and not dashboard_override_metric_is_stale(story, items, override, metric_kind, override_metric):
@@ -1797,10 +1812,12 @@ def collect_outbreak_metric_candidates(story: dict[str, Any], items: list[dict[s
     patterns = metric_patterns(metric_kind)
     candidates: list[dict[str, Any]] = []
     for source in story_analysis_sources(story, items):
+        if not metric_source_matches_story_scope(story, source):
+            continue
         text = source["text"]
         for pattern in patterns:
             for match in re.finditer(pattern, text, flags=re.I):
-                if metric_context_looks_historical(text, match.start(), match.end()):
+                if metric_context_looks_historical(text, match.start(), match.end()) or metric_context_looks_incremental(text, match.start(), match.end()):
                     continue
                 qualifier = metric_display_qualifier(match.groupdict().get("qualifier", ""), text, match.start(), match.end())
                 value = format_metric_value(qualifier, match.group("number"))
@@ -1818,6 +1835,46 @@ def collect_outbreak_metric_candidates(story: dict[str, Any], items: list[dict[s
                     }
                 )
     return candidates
+
+
+def metric_source_matches_story_scope(story: dict[str, Any], source: dict[str, str]) -> bool:
+    scope_terms = story_metric_scope_terms(story)
+    if not scope_terms:
+        return True
+    text = normalize_whitespace(str(source.get("text", ""))).lower()
+    return any(re.search(rf"(?<![a-z0-9]){re.escape(term)}(?![a-z0-9])", text) for term in scope_terms)
+
+
+def story_metric_scope_terms(story: dict[str, Any]) -> tuple[str, ...]:
+    ignored_terms = {
+        "and",
+        "including",
+        "outbreak",
+        "pathogen",
+        "syndrome",
+        "the",
+        "virus",
+        "viruses",
+        "disease",
+    }
+    values = [str(story.get("display_title", "")), str(story.get("topic_name", ""))]
+    for reference in story.get("related_references", []):
+        if not isinstance(reference, dict):
+            continue
+        values.extend(
+            [
+                str(reference.get("name", "")),
+                str(reference.get("pathogen", "")),
+                *(str(alias) for alias in reference.get("aliases", []) or []),
+            ]
+        )
+    terms = {
+        token.lower()
+        for value in values
+        for token in re.findall(r"[A-Za-z][A-Za-z0-9-]{2,}", value)
+        if token.lower() not in ignored_terms
+    }
+    return tuple(sorted(terms, key=len, reverse=True))
 
 
 def select_metric_candidate(candidates: list[dict[str, Any]]) -> dict[str, Any]:
@@ -1971,6 +2028,21 @@ def metric_candidate_score(source: dict[str, str], text: str) -> int:
 def metric_context_looks_historical(text: str, start: int, end: int) -> bool:
     context = text[max(0, start - 90) : min(len(text), end + 90)].lower()
     return any(token in context for token in ("2007", "2014", "2016", "first identified", "past outbreaks", "historical"))
+
+
+def metric_context_looks_incremental(text: str, start: int, end: int) -> bool:
+    before = text[max(0, start - 80) : start].lower()
+    after = text[end : min(len(text), end + 60)].lower()
+    sentence_start = max(text.rfind(".", 0, start), text.rfind(";", 0, start), text.rfind(":", 0, start)) + 1
+    sentence_before = text[sentence_start:start].lower()
+    prior_incremental_count = re.search(r"\b(?:an?\s+)?(?:additional|new)\s+\d[\d,]*\b", sentence_before)
+    prior_cumulative_total = re.search(r"\b(?:cumulative|total)\b", sentence_before)
+    return bool(
+        re.search(r"\b(?:an?\s+)?(?:additional|new)\s*$", before)
+        or re.search(r"\b(?:increase|increased|increase\s+of|added)\s+(?:of\s+)?$", before)
+        or re.match(r"\s+(?:new|additional)\s+(?:confirmed\s+|reported\s+)?(?:cases?|deaths?|fatalities)\b", after)
+        or (prior_incremental_count and not prior_cumulative_total)
+    )
 
 
 def metric_display_qualifier(qualifier: str, text: str, start: int, end: int) -> str:
