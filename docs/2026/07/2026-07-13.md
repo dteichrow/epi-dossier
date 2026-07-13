@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-13
-Generated at: 2026-07-13T12:57
+Generated at: 2026-07-13T13:02
 Search window: 7 day(s) ending 2026-07-13
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-13
 - [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies; 2026-07-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (175), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (11)
+- Category mix: Outbreaks and emerging infections (175), Policy, surveillance, and public health infrastructure (25), Occupational and environmental epidemiology (11)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-07-13
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 95 item(s) across 63 source(s).
-- Baseline snapshot created with 95 clustered item(s) across 63 source(s).
+- Newly tracked story cluster: 93 item(s) across 62 source(s).
+- Baseline snapshot created with 93 clustered item(s) across 62 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -59,10 +59,10 @@ Search window: 7 day(s) ending 2026-07-13
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 95 item(s) across 63 source(s); 3 official/primary-source item(s).
+- Topic size: 93 item(s) across 62 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak intensifies across Democratic Republic of the Congo (DRC) as risk of spread to South Sudan grows](https://www.socialnews.xyz/2026/07/13/ebola-outbreak-intensifies-across-democratic-republic-of-the-congo-drc-as-risk-of-spread-to-south-sudan-grows/) (Social News XYZ); [Second American diagnosed with Ebola in Congo outbreak](https://www.aol.com/articles/second-american-diagnosed-ebola-congo-131817000.html) (AOL.com)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak intensifies across Democratic Republic of the Congo (DRC) as risk of spread to South Sudan grows](https://www.socialnews.xyz/2026/07/13/ebola-outbreak-intensifies-across-democratic-republic-of-the-congo-drc-as-risk-of-spread-to-south-sudan-grows/) (Social News XYZ); [South Sudan intensifies preparedness as DRC Ebola outbreak surges](https://www.standardmedia.co.ke/health/health-science/article/2001552694/south-sudan-intensifies-preparedness-as-drc-ebola-outbreak-surges) (standardmedia.co.ke)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -452,11 +452,11 @@ Search window: 7 day(s) ending 2026-07-13
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak intensifies across Democratic Republic of the Congo (DRC) as risk of spread to South Sudan grows](https://www.socialnews.xyz/2026/07/13/ebola-outbreak-intensifies-across-democratic-republic-of-the-congo-drc-as-risk-of-spread-to-south-sudan-grows/) | Social News XYZ | 2026-07-13T17:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Second American diagnosed with Ebola in Congo outbreak](https://www.aol.com/articles/second-american-diagnosed-ebola-congo-131817000.html) | AOL.com | 2026-07-13T14:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Michigan's cyclosporiasis outbreak grows to more than 2,600 cases](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-grows-2600-cases/) | CBS News | 2026-07-13T14:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [South Sudan intensifies preparedness as DRC Ebola outbreak surges](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUlyQXBrN0VHcGxwZjgwVGZCeHphOVVNMUNvSTJFckJwQ3ctTFJscVd3alpCNEpPT1Zwcmw5UG5xWmxYN0lYVC0tVkV2dm1JeklKSllubjZzS2VBVHZTV2tJN1YtbDItWkZWMlFxQW9ubTdtQVlHZHQ3NWVLazZJVHBmd1ZIUV9WY2F1SnJMejBmR29VckktNjhNS05YSnJkX1NIZmxtWVdHbzJSbGljNFZWN2hrNDRrbDF1RzI0Vl9Yelh1STRUaDE2cFZpR1NlNExvWtIB2gFBVV95cUxQdUNmczdPQWVRMWpUTGZlVDFhYmtEXzh5emJScGNKLU52MzIxUHUtZUNUZHNadmhVcE5UUGFUcXloX0FManNhbTlSbVFFbFphSFdXcXZiYkhsdHpBLV83QW9vWVBaUFBaT3JUYWE0S0kzLS1ublRCXzd1dXRfMG01OWZnbWwyVktjdXpNdFFfaHlFNWpqSEo3VFRTTEZ2WmFaYlJqb3ZUcnpwdDVsY2FWNjVfSmRORUl6OFJhQ09YM3RtV05vVmg0TEp2T3VMckRfVG5SbjR3SUdnQQ?oc=5) | standardmedia.co.ke | 2026-07-13T13:19+00:00 | Outbreaks and emerging infections
+- [South Sudan intensifies preparedness as DRC Ebola outbreak surges](https://www.standardmedia.co.ke/health/health-science/article/2001552694/south-sudan-intensifies-preparedness-as-drc-ebola-outbreak-surges) | standardmedia.co.ke | 2026-07-13T13:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Second American diagnosed with Ebola in Congo outbreak](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkFRMUV5Y3VMT1cyaEg0R3VKRzBkdmU4d3hYc1ZLZGRxQmN4ekM3ei1hRG52VmZ5aUV3dXZDSVRHRF9RdUtJSlIyUlpNMVFoUkpkd3RIamhIN1RVb0p0aWR1V1ZIQV94MVlVVnlJRlJhRWtnSUQ2WUxGUUgzUFRUZ3owTzlLMG0zOEgwTGdyNkhVZkNMdDNxM3l3?oc=5) | Yahoo | 2026-07-13T13:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Dozens of people working at an Ebola treatment center in northeast Congo go on strike over unpaid salaries and bonuses](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLXZlVTZyWjY4S0JxWWQwUjdEVFFiZDJyZTd6NmlGa2t4RHFSdHpJZ3dSakpJMG5IczZabDFQejNURTNKWXlGWFdfNmg4RXg2ZkxPSUY1T2RLQXptNDFQMV9UR191ZTJ2RVdPRlFEdTdpMDR2Ym9fQVBRN3VJeGR2bm1ubXBuVkJiYmpmUGZBSzJCVG1tNGFEamo4TnhFTnRYdDdxeGREZ2ZsWHQ2bHpKWDNwaXBrbkhucmVzQ2dGUnh2QmlVdnVscndDRkVscVZSOGJWbDFJUDRJcURsMzJpcER3TU5MOVpxTDhCSUl2b2hybl9TQkQyaDloM1daYkpMNnFkREJSMXU?oc=5) | Journal-News.com | 2026-07-13T12:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
