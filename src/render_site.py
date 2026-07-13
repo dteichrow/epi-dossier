@@ -2037,12 +2037,19 @@ def metric_note_for_source(source: dict[str, str], metric_kind: str, metric_labe
     source_status = source.get("source_status") or "Needs verification"
     subject = metric_note_subject(metric_kind, metric_label)
     if source_status in {"Official report", "Confirmed"} or source.get("source_kind") == "official":
-        return f"Official-source {subject}; definitions may still change with case finding."
+        return f"Official-source {subject} as of {metric_source_as_of(date_text)}; definitions may still change with case finding."
     if metric_source_reports_authority_count(source):
         return f"Authority-citing public report from {source_name} ({date_text}); verify against official surveillance updates."
     if source_status == "Needs verification":
         return f"Observed in {source_name} ({date_text}); treat as not yet confirmed by this monitor."
     return f"Public-report {subject} from {source_name} ({date_text}); compare against official updates."
+
+
+def metric_source_as_of(date_text: str) -> str:
+    normalized = normalize_whitespace(date_text)
+    if re.match(r"^\d{4}-\d{2}-\d{2}", normalized):
+        return normalized[:10]
+    return normalized or "date not captured"
 
 
 def metric_note_subject(metric_kind: str, metric_label: str = "") -> str:

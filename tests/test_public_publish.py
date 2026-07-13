@@ -77,6 +77,7 @@ def test_check_configuration_reports_prepared_script(tmp_path, monkeypatch, caps
     monkeypatch.setattr(public_publish, "REPO_ROOT", tmp_path)
     monkeypatch.setattr(public_publish, "EDGE_REPO_ROOT", tmp_path / "edge-of-epidemiology-site")
     monkeypatch.setattr(public_publish, "LOCK_DIR", lock_dir)
+    monkeypatch.setattr(public_publish, "run_outbreak_dashboard_quality_checks", lambda: [])
 
     assert public_publish.main(["--check"]) == 0
 

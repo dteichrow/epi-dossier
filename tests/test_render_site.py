@@ -172,6 +172,7 @@ def test_render_story_page_adds_outbreak_intelligence_layer():
     assert "<strong>267</strong>" in content
     assert "Official-source confirmed-case count" in content
     assert "Official-source death count" in content
+    assert "as of 2026-05-20" in content
     assert "<strong>About 395</strong>" not in content
     assert "<strong>106</strong>" not in content
     assert "<strong>At least 600</strong>" not in content

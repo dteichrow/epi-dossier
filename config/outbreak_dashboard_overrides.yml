@@ -1,4 +1,13 @@
 overrides:
+  story_7ecd65705353b55c:
+    source_name: ABC News and consistent local reporting
+    source_url: https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id=134709100
+    source_status: Local reporting citing Michigan health officials
+    as_of: "2026-07-13"
+    cases:
+      label: Reported cases
+      value: "More than 2,600"
+      note: "Multiple July 13 local reports cite Michigan health officials. The official source on file still reports 784 cases as of July 7; this reported figure awaits a newer official update."
   story_56666e9c6c86e976:
     source_name: Associated Press
     source_url: https://apnews.com/article/159288cd2a4be74e6cd61255e0f12044
