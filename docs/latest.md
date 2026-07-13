@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-13
-Generated at: 2026-07-13T16:18
+Generated at: 2026-07-13T16:21
 Search window: 7 day(s) ending 2026-07-13
 
 ## Executive scan
@@ -33,14 +33,14 @@ Search window: 7 day(s) ending 2026-07-13
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 106 item(s) across 72 source(s).
-- Baseline snapshot created with 106 clustered item(s) across 72 source(s).
+- Newly tracked story cluster: 107 item(s) across 72 source(s).
+- Baseline snapshot created with 107 clustered item(s) across 72 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 93 item(s) across 62 source(s).
-- Baseline snapshot created with 93 clustered item(s) across 62 source(s).
+- Newly tracked story cluster: 92 item(s) across 62 source(s).
+- Baseline snapshot created with 92 clustered item(s) across 62 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-07-13
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 106 item(s) across 72 source(s); 4 official/primary-source item(s).
+- Topic size: 107 item(s) across 72 source(s); 4 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-13T00:00)
 - Detailed note: FDA lists reference 1385 with date posted 7/8/2026. Product linked to illnesses: Not Yet Identified. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1385: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) (Michigan Department of Health and Human Services Infectious Disease Updates); [Health Officials in Michigan Identify ‘Potential Source’ of Cyclospora Outbreak](https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html) (The New York Times)
@@ -60,7 +60,7 @@ Search window: 7 day(s) ending 2026-07-13
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 93 item(s) across 62 source(s); 3 official/primary-source item(s).
+- Topic size: 92 item(s) across 62 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Africa CDC calls for more protection for health workers as deadly Ebola outbreak shows no sign of slowing](https://www.cidrap.umn.edu/ebola/africa-cdc-calls-more-protection-health-workers-deadly-ebola-outbreak-shows-no-sign-slowing) (CIDRAP); [Ebola outbreak intensifies across Democratic Republic of the Congo (DRC) as risk of spread to South Sudan grows](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaXJmZkE0LVJZUGVlcXJ0Yy16b2pIQ1RpV0VNVFdFRHRKdEtUQ0ZYUGZ3NGJiM0FTQ0RXS3RBWmozRDVqekFuOWl4UFBrdGNJVEhVaXZjakJNOWk3UUhCOG5zU2NHVUJiVk1LYV82ajhQV2h3bHB3OFZqVUZ1eUFIYnFPNEJ5cVFkZXRxYXhZajV2UVhHeDI1WGhKbnpMdTVlT3Z1Q2tpWl80bTRDM3lLMjVQaHhTRGtyZThXb3l3dXVOaGl5b1pILW54TXcwNWhyNHZoa0pVSXA5eC1Pb1hGU1F30gHiAUFVX3lxTE1pcmZmQTQtUllQZWVxcnRjLXpvakhDVGlXRU1UV0VEdEp0S1RDRlhQZnc0YmIzQVNDRFdLdEFaajNENWp6QW45aXhQUGt0Y0lUSFVpdmNqQk05aTdRSEI4bnNTY0dVQmJWTUthXzZqOFBXaHdscHc4VmpVRnV5QUhicU80QnlxUWRldHFheFlqNXZRWEd4MjVYaEpuekx1NWVPdnVDa2laXzRtNEMzeUsyNVBoeFNEa3JlOFdveXd1dU5oaXlvWkgtbnhNdzA1aHI0dmhrSlVJcDl4LU9vWEZTUXc?oc=5) (Social News XYZ)
