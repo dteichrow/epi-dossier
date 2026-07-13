@@ -13,21 +13,21 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 184,
+    "metadata_only_count": 179,
     "sources_cached": 0,
     "sources_failed": 4,
-    "sources_live": 208,
+    "sources_live": 203,
     "story_count_change": 7,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 208,
+    "live": 203,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-13T07:59:10",
+  "generated_at": "2026-07-13T08:12:34",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
