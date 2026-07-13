@@ -16,6 +16,7 @@ from urllib.request import urlopen
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT))
 
+from src.outbreak_dashboard_quality import DashboardQualityIssue
 from src.outbreak_dashboard_quality import build_report as build_outbreak_dashboard_report
 from src.outbreak_dashboard_quality import run_quality_checks as run_outbreak_dashboard_quality_checks
 
@@ -236,19 +237,29 @@ def check_outbreak_dashboard_quality(repo_kind: str) -> list[Check]:
     if repo_kind != "epi-dossier":
         return []
     try:
-        report = build_outbreak_dashboard_report(run_outbreak_dashboard_quality_checks())
+        issues = run_outbreak_dashboard_quality_checks()
     except Exception as exc:  # pragma: no cover - defensive doctor output
         return [Check("outbreak_dashboard_quality", "error", f"Dashboard QA could not run: {exc}")]
 
-    errors = report["summary"]["errors"]
+    report = build_outbreak_dashboard_report(issues)
+    rebuild_required = [issue for issue in issues if dashboard_issue_requires_rebuild(issue)]
+    blocking_errors = [issue for issue in issues if issue.severity == "error" and issue not in rebuild_required]
     warnings = report["summary"]["warnings"]
-    if errors:
+    if blocking_errors:
         sample = "; ".join(
-            f"{issue['story_id']} {issue['metric']}: {issue['message']}"
-            for issue in report["issues"]
-            if issue["severity"] == "error"
+            f"{issue.story_id} {issue.metric}: {issue.message}"
+            for issue in blocking_errors
         )
         return [Check("outbreak_dashboard_quality", "error", sample[:1200])]
+    if rebuild_required:
+        sample = "; ".join(f"{issue.story_id} {issue.metric}: {issue.message}" for issue in rebuild_required)
+        return [
+            Check(
+                "outbreak_dashboard_quality",
+                "warn",
+                "Rendered dashboard is intentionally stale before regeneration; strict QA runs after the public build. " + sample[:1000],
+            )
+        ]
     if warnings:
         sample = "; ".join(
             f"{issue['story_id']} {issue['metric']}: {issue['message']}"
@@ -257,6 +268,10 @@ def check_outbreak_dashboard_quality(repo_kind: str) -> list[Check]:
         )
         return [Check("outbreak_dashboard_quality", "warn", sample[:1200])]
     return [Check("outbreak_dashboard_quality", "ok", "Generated outbreak dashboards match snapshot policy and source hierarchy.")]
+
+
+def dashboard_issue_requires_rebuild(issue: DashboardQualityIssue) -> bool:
+    return issue.severity == "error" and issue.message.startswith("Generated story page")
 
 
 def build_report(repo_kind: str, include_live: bool) -> dict[str, Any]:

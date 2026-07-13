@@ -41,3 +41,13 @@ def test_newsdesk_schedule_uses_staggered_publish_and_repair_windows() -> None:
     assert "22,52 * * * *" in watchdog_step["if"]
     assert watchdog_step["env"]["EPI_DOSSIER_WATCHDOG_STALE_MINUTES"] == "35"
     assert watchdog_step["run"] == ".venv/bin/python src/public_publish_watchdog.py"
+
+
+def test_quality_gate_uses_prebuild_dashboard_check() -> None:
+    workflow = load_workflow(".github/workflows/quality-gate.yml")
+    steps = workflow["jobs"]["validate"]["steps"]
+
+    prebuild_step = next(step for step in steps if step.get("name") == "Pre-publish dashboard and publisher configuration check")
+
+    assert prebuild_step["run"] == "python src/public_publish.py --check"
+    assert all(step.get("run") != "python -m src.outbreak_dashboard_quality --json" for step in steps)

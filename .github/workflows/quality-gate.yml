@@ -45,10 +45,7 @@ jobs:
       - name: Repo health check
         run: python scripts/repo_doctor.py --json
 
-      - name: Outbreak dashboard QA
-        run: python -m src.outbreak_dashboard_quality --json
-
-      - name: Publisher configuration check
+      - name: Pre-publish dashboard and publisher configuration check
         run: python src/public_publish.py --check
 
       - name: Tests
