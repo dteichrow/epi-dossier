@@ -285,21 +285,35 @@ def run_publish(timeout_seconds: int, stale_lock_seconds: int) -> int:
 def check_configuration(stale_lock_seconds: int) -> int:
     script = prepare_publish_script()
     state = lock_state(lock_dir=LOCK_DIR, stale_seconds=stale_lock_seconds)
-    dashboard_report = build_outbreak_dashboard_report(run_outbreak_dashboard_quality_checks())
+    dashboard_issues = run_outbreak_dashboard_quality_checks()
+    dashboard_report = build_outbreak_dashboard_report(dashboard_issues)
+    rebuild_required = [issue for issue in dashboard_issues if dashboard_issue_requires_rebuild(issue)]
+    blocking_issues = [issue for issue in dashboard_issues if issue not in rebuild_required]
+    blocking_report = build_outbreak_dashboard_report(blocking_issues)
     print(f"public_publish_check_ok repo_root={REPO_ROOT}", flush=True)
     print(f"public_publish_check_ok script_bytes={len(script.encode())}", flush=True)
     print(f"public_publish_check_ok lock_state={state}", flush=True)
     print(
         "public_publish_check_ok outbreak_dashboard_errors="
-        f"{dashboard_report['summary']['errors']} outbreak_dashboard_warnings={dashboard_report['summary']['warnings']}",
+        f"{dashboard_report['summary']['errors']} blocking_errors={blocking_report['summary']['errors']} "
+        f"rebuild_required={len(rebuild_required)} outbreak_dashboard_warnings={dashboard_report['summary']['warnings']}",
         flush=True,
     )
-    for issue in dashboard_report["issues"]:
-        if issue["severity"] == "warn":
-            print(f"public_publish_check_warn {issue['story_id']} {issue['metric']}: {issue['message']}", flush=True)
-        elif issue["severity"] == "error":
-            print(f"public_publish_check_error {issue['story_id']} {issue['metric']}: {issue['message']}", flush=True)
-    return 1 if dashboard_report["summary"]["errors"] else 0
+    for issue in dashboard_issues:
+        if issue in rebuild_required:
+            print(f"public_publish_check_rebuild_required {issue.story_id} {issue.metric}: {issue.message}", flush=True)
+            continue
+        if issue.severity == "warn":
+            print(f"public_publish_check_warn {issue.story_id} {issue.metric}: {issue.message}", flush=True)
+        elif issue.severity == "error":
+            print(f"public_publish_check_error {issue.story_id} {issue.metric}: {issue.message}", flush=True)
+    return 1 if blocking_report["summary"]["errors"] else 0
+
+
+def dashboard_issue_requires_rebuild(issue: object) -> bool:
+    severity = getattr(issue, "severity", "")
+    message = getattr(issue, "message", "")
+    return severity == "error" and isinstance(message, str) and message.startswith("Generated story page")
 
 
 def build_parser() -> argparse.ArgumentParser:

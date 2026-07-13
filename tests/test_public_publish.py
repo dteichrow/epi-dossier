@@ -3,6 +3,7 @@ import time
 from types import SimpleNamespace
 
 from src import public_publish
+from src.outbreak_dashboard_quality import DashboardQualityIssue
 
 
 def test_prepare_publish_script_pins_repo_root(tmp_path):
@@ -85,6 +86,30 @@ def test_check_configuration_reports_prepared_script(tmp_path, monkeypatch, caps
     assert "public_publish_check_ok" in output
     assert f"repo_root={tmp_path}" in output
     assert "lock_state=ready" in output
+
+
+def test_check_configuration_allows_expected_dashboard_rebuild(tmp_path, monkeypatch, capsys):
+    script_path = tmp_path / "publish_public_site.sh"
+    script_path.write_text('#!/bin/zsh\nREPO_ROOT="${0:A:h:h}"\necho "$REPO_ROOT"\n')
+    monkeypatch.setattr(public_publish, "PUBLISH_SCRIPT", script_path)
+    monkeypatch.setattr(public_publish, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(public_publish, "EDGE_REPO_ROOT", tmp_path / "edge-of-epidemiology-site")
+    monkeypatch.setattr(public_publish, "LOCK_DIR", tmp_path / "lock")
+    monkeypatch.setattr(
+        public_publish,
+        "run_outbreak_dashboard_quality_checks",
+        lambda: [
+            DashboardQualityIssue(
+                "error",
+                "story_test",
+                "cases",
+                "Generated story page dashboard does not match the current snapshot policy.",
+            )
+        ],
+    )
+
+    assert public_publish.main(["--check"]) == 0
+    assert "public_publish_check_rebuild_required story_test cases" in capsys.readouterr().out
 
 
 def test_blocking_paths_from_porcelain_ignores_generated_docs():

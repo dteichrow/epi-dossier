@@ -369,6 +369,7 @@ report_blocking_and_exit_if_needed
 
 cd "$REPO_ROOT"
 "$PYTHON_BIN" -m src.site_build --days 7 --output-mode both --deploy-dir docs
+"$PYTHON_BIN" -m src.outbreak_dashboard_quality
 
 report_blocking_and_exit_if_needed
 
