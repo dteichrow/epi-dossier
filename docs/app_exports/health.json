@@ -2,7 +2,6 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -27,7 +26,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-13T00:05:31",
+  "generated_at": "2026-07-13T00:18:28",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
