@@ -15,24 +15,42 @@
     ],
     "metadata_only_count": 193,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 218,
-    "story_count_change": 8,
-    "wrapper_only_count": 8
+    "sources_failed": 5,
+    "sources_live": 217,
+    "story_count_change": 7,
+    "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 218,
+    "live": 217,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-12T23:01:06",
+  "generated_at": "2026-07-13T00:03:22",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.cdc.gov/outbreaks/rss/us-outbreaks.html",
       "required": true,
       "source": "CDC Current Outbreak List",
+      "source_type": "html_list"
+    },
+    {
+      "error": "504 Server Error: Gateway Time-out for url: https://www.afro.who.int/rss.xml",
+      "required": true,
+      "source": "WHO Regional Office for Africa",
+      "source_type": "rss"
+    },
+    {
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+      "required": true,
+      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
     },
     {
