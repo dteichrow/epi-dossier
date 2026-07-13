@@ -13,32 +13,32 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 201,
+    "metadata_only_count": 198,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 224,
+    "sources_live": 223,
     "story_count_change": 7,
-    "wrapper_only_count": 4
+    "wrapper_only_count": 3
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 224,
+    "live": 223,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-13T13:18:17",
+  "generated_at": "2026-07-13T13:36:29",
   "source_failures": [
     {
-      "error": "HTTPSConnectionPool(host='www.cidrap.umn.edu', port=443): Read timed out. (read timeout=20)",
+      "error": "500 Server Error: 500 Service unavailable (with message) for url: https://www.afro.who.int/rss.xml",
       "required": true,
-      "source": "CIDRAP",
+      "source": "WHO Regional Office for Africa",
       "source_type": "rss"
     },
     {
-      "error": "cannot access local variable 'reference' where it is not associated with a value",
-      "required": true,
-      "source": "FDA Foodborne Outbreaks",
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
     }
   ]
