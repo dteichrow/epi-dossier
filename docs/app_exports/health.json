@@ -2,7 +2,6 @@
   "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -12,24 +11,23 @@
       "NPR",
       "New York Times",
       "PBS",
-      "Reuters",
-      "STAT"
+      "Reuters"
     ],
-    "metadata_only_count": 196,
+    "metadata_only_count": 211,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 218,
-    "story_count_change": 7,
+    "sources_live": 231,
+    "story_count_change": 6,
     "wrapper_only_count": 4
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 218,
+    "live": 231,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-13T23:41:17",
+  "generated_at": "2026-07-14T01:34:44",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
