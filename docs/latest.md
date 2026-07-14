@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-14
-Generated at: 2026-07-14T01:59
+Generated at: 2026-07-14T02:00
 Search window: 7 day(s) ending 2026-07-14
 
 ## Executive scan
@@ -11,9 +11,9 @@ Search window: 7 day(s) ending 2026-07-14
 - [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies; 2026-07-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (190), Policy, surveillance, and public health infrastructure (26), Occupational and environmental epidemiology (8)
-- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
+- [FDA outbreak investigation 1385: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-08T00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (191), Policy, surveillance, and public health infrastructure (26), Occupational and environmental epidemiology (8)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### COVID-19 and SARS-CoV-2
@@ -26,9 +26,9 @@ Search window: 7 day(s) ending 2026-07-14
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 113 item(s) across 75 source(s).
-- Baseline snapshot created with 113 clustered item(s) across 75 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- Newly tracked story cluster: 114 item(s) across 76 source(s).
+- Baseline snapshot created with 114 clustered item(s) across 76 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
@@ -51,10 +51,10 @@ Search window: 7 day(s) ending 2026-07-14
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 113 item(s) across 75 source(s); 3 official/primary-source item(s).
+- Topic size: 114 item(s) across 76 source(s); 4 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-13T00:00)
-- Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) (Michigan Department of Health and Human Services Infectious Disease Updates); [U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range](https://www.cbsnews.com/sacramento/news/cyclosporiasis-cases-on-the-rise-in-the-u-s-what-you-need-to-know/) (CBS News); [California cases remain within normal range amid U.S. cyclospora outbreak, expert says](https://www.cbsnews.com/sacramento/video/california-cases-remain-within-normal-range-amid-u-s-cyclospora-outbreak-expert-says/) (CBS News)
+- Detailed note: FDA lists reference 1385 with date posted 7/8/2026. Product linked to illnesses: Not Yet Identified. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1385: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) (Michigan Department of Health and Human Services Infectious Disease Updates); [U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range](https://www.cbsnews.com/sacramento/news/cyclosporiasis-cases-on-the-rise-in-the-u-s-what-you-need-to-know/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -406,6 +406,16 @@ Search window: 7 day(s) ending 2026-07-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1385: Cyclospora
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-08T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1385 with date posted 7/8/2026. Product linked to illnesses: Not Yet Identified. Outbreak or event status: Ongoing See Advice.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-08T00:00
@@ -426,18 +436,10 @@ Search window: 7 day(s) ending 2026-07-14
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)
-- Source: Michigan Department of Health and Human Services Infectious Disease Updates
-- Date: 2026-07-04T00:00
-- URL: https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) | Michigan Department of Health and Human Services Infectious Disease Updates | 2026-07-04T00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) | Michigan Department of Health and Human Services Infectious Disease Updates | 2026-07-01T00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
@@ -475,8 +477,6 @@ Search window: 7 day(s) ending 2026-07-14
 - [Michigan's cyclosporiasis outbreak grows to more than 2,600 cases](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-grows-2600-cases/) | CBS News | 2026-07-13T14:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO declares Ebola Bundibugyo strain outbreak a global health emergency](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEgzbS0tc29xSTRKZWlLaVlvZG14blhRREJ6TmFVR0FFZlFEQ3NRc2F0NkljWHBmV0Y3VG96bGdabzZRS0lXMXFoTkVmTzBoRks1bjdTU243Njg4TTh3eXR2dDNfNEVWRDVCVlNVT05kYS15MmtObEROdWRNSmVEZ2Rwa3psemlEZF9sbnlWdkdGNmtvT3pLbnVzTDMwSXNsZGJiWGs5cw?oc=5) | The News Mill | 2026-07-13T14:12+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [South Sudan intensifies preparedness as DRC Ebola outbreak surges](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUlyQXBrN0VHcGxwZjgwVGZCeHphOVVNMUNvSTJFckJwQ3ctTFJscVd3alpCNEpPT1Zwcmw5UG5xWmxYN0lYVC0tVkV2dm1JeklKSllubjZzS2VBVHZTV2tJN1YtbDItWkZWMlFxQW9ubTdtQVlHZHQ3NWVLazZJVHBmd1ZIUV9WY2F1SnJMejBmR29VckktNjhNS05YSnJkX1NIZmxtWVdHbzJSbGljNFZWN2hrNDRrbDF1RzI0Vl9Yelh1STRUaDE2cFZpR1NlNExvWtIB2gFBVV95cUxQdUNmczdPQWVRMWpUTGZlVDFhYmtEXzh5emJScGNKLU52MzIxUHUtZUNUZHNadmhVcE5UUGFUcXloX0FManNhbTlSbVFFbFphSFdXcXZiYkhsdHpBLV83QW9vWVBaUFBaT3JUYWE0S0kzLS1ublRCXzd1dXRfMG01OWZnbWwyVktjdXpNdFFfaHlFNWpqSEo3VFRTTEZ2WmFaYlJqb3ZUcnpwdDVsY2FWNjVfSmRORUl6OFJhQ09YM3RtV05vVmg0TEp2T3VMckRfVG5SbjR3SUdnQQ?oc=5) | standardmedia.co.ke | 2026-07-13T13:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
