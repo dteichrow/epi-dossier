@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-14
-Generated at: 2026-07-14T07:59
+Generated at: 2026-07-14T08:04
 Search window: 7 day(s) ending 2026-07-14
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-14
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies; 2026-07-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) (PubMed Historical Pathogen Case Studies; 2026-07-08T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (207), Policy, surveillance, and public health infrastructure (29), Occupational and environmental epidemiology (8)
+- Category mix: Outbreaks and emerging infections (208), Policy, surveillance, and public health infrastructure (30), Occupational and environmental epidemiology (8)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -26,14 +26,14 @@ Search window: 7 day(s) ending 2026-07-14
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 123 item(s) across 80 source(s).
-- Baseline snapshot created with 123 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 123 item(s) across 78 source(s).
+- Baseline snapshot created with 123 clustered item(s) across 78 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 101 item(s) across 70 source(s).
-- Baseline snapshot created with 101 clustered item(s) across 70 source(s).
+- Newly tracked story cluster: 103 item(s) across 71 source(s).
+- Baseline snapshot created with 103 clustered item(s) across 71 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-07-14
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 123 item(s) across 80 source(s); 3 official/primary-source item(s).
+- Topic size: 123 item(s) across 78 source(s); 3 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-13T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) (Michigan Department of Health and Human Services Infectious Disease Updates); [Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/07/14/authorities-investigate-taco-bell-lettuce-multistate-cyclosporiasis-outbreak/) (The Washington Post); [Michigan's cyclosporiasis outbreak reaches more than 3,300 cases, 55 counties](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-reaches-more-than-3300-cases/) (CBS News)
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-07-14
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 101 item(s) across 70 source(s); 3 official/primary-source item(s).
+- Topic size: 103 item(s) across 71 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [WHO says DR Congo Ebola outbreak could be two to four times larger](https://www.helsinkitimes.fi/world-int/29051-who-says-dr-congo-ebola-outbreak-could-be-two-to-four-times-larger.html) (Helsinki Times); [Singapore contributes $2.5m to support Ebola outbreak response in DR Congo and Uganda](https://www.straitstimes.com/singapore/singapore-contributes-2-5m-to-support-ebola-outbreak-response-in-congo-and-uganda) (The Straits Times)
@@ -460,8 +460,6 @@ Search window: 7 day(s) ending 2026-07-14
   Limited detail was available from feed metadata alone.
 - [SA health authorities vigilant as Uganda Ebola outbreak declared public health emergency](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDFvcXhsNElJN2NuWFNtQ092d1V2WXBuTkNpQW9BemVGYW9xUTJmY3JMdU1yYUc4bUF4Y2pEZGlUVnhQU0NSellhSHNrY19oOV8yOHR3WDNGVTBfS2trVVAtOEZUeU8xa1RhMW83eHAxMjdZaVRIY3p2aHM1NHI4aFRjVzBfNm1Xa2NUd3VPaXRiN0xrM3l4OVZnQVQ1ODE0cHBwZl9OODNXenhCUUZUQkxWWm5nUTFrZ3RXN1NR?oc=5) | EWN | 2026-07-14T11:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Lettuce, salad greens could be behind Cyclospora outbreak, health officials say](https://www.cbsnews.com/newyork/video/lettuce-salad-greens-could-be-behind-cyclospora-outbreak-health-officials-say/) | CBS News | 2026-07-14T11:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range](https://www.cbsnews.com/sacramento/news/cyclosporiasis-cases-on-the-rise-in-the-u-s-what-you-need-to-know/) | CBS News | 2026-07-14T05:54+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [US restricts direct return of citizens from DR Congo over Ebola outbreak](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWU04T3BGaWdjTWN4YnFJOWtXb3lCX3ZDSUZKMXJOZzNpS0ZUeXNEX081eHVaa254dFMwQ2Nwb2FHdV81RzU4aXlvWkh6emRjM3BhQW5MdHU2a1RBS1NVLWgzYkcyY2pKb2lRNTRLWEpwRWtxcmZpQXNNbHZaWXlYX3lMbGZ4Vm9yV1hUckdNTW1Rc2ZzZlZOQkxJbjNLQVYtRmxLUmVqRQ?oc=5) | Pajhwok Afghan News | 2026-07-14T05:22+00:00 | Outbreaks and emerging infections
@@ -469,6 +467,8 @@ Search window: 7 day(s) ending 2026-07-14
 - [‘Lettuce or Salad Greens’ Identified as Potential Source of Cyclospora Outbreak](https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html) | The New York Times | 2026-07-14T04:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak intensifies across Democratic Republic of the Congo (DRC) as risk of spread to South Sudan grows](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaXJmZkE0LVJZUGVlcXJ0Yy16b2pIQ1RpV0VNVFdFRHRKdEtUQ0ZYUGZ3NGJiM0FTQ0RXS3RBWmozRDVqekFuOWl4UFBrdGNJVEhVaXZjakJNOWk3UUhCOG5zU2NHVUJiVk1LYV82ajhQV2h3bHB3OFZqVUZ1eUFIYnFPNEJ5cVFkZXRxYXhZajV2UVhHeDI1WGhKbnpMdTVlT3Z1Q2tpWl80bTRDM3lLMjVQaHhTRGtyZThXb3l3dXVOaGl5b1pILW54TXcwNWhyNHZoa0pVSXA5eC1Pb1hGU1F30gHiAUFVX3lxTE1pcmZmQTQtUllQZWVxcnRjLXpvakhDVGlXRU1UV0VEdEp0S1RDRlhQZnc0YmIzQVNDRFdLdEFaajNENWp6QW45aXhQUGt0Y0lUSFVpdmNqQk05aTdRSEI4bnNTY0dVQmJWTUthXzZqOFBXaHdscHc4VmpVRnV5QUhicU80QnlxUWRldHFheFlqNXZRWEd4MjVYaEpuekx1NWVPdnVDa2laXzRtNEMzeUsyNVBoeFNEa3JlOFdveXd1dU5oaXlvWkgtbnhNdzA1aHI0dmhrSlVJcDl4LU9vWEZTUXc?oc=5) | Social News XYZ | 2026-07-14T04:27+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Lettuce, salad greens could be behind Cyclospora outbreak, health officials say](https://www.cbsnews.com/newyork/video/lettuce-salad-greens-could-be-behind-cyclospora-outbreak-health-officials-say/) | CBS News | 2026-07-13T22:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What we know about the cyclosporiasis outbreak linked to produce](https://www.pbs.org/newshour/show/what-we-know-about-the-cyclosporiasis-outbreak-linked-to-produce) | PBS | 2026-07-13T22:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
