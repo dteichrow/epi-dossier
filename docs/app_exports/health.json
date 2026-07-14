@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -13,26 +13,32 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 214,
+    "metadata_only_count": 215,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 234,
+    "sources_failed": 2,
+    "sources_live": 235,
     "story_count_change": 6,
-    "wrapper_only_count": 4
+    "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 234,
+    "live": 235,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-14T03:58:04",
+  "generated_at": "2026-07-14T04:14:31",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "401 Client Error: Unauthorized for url: https://r.jina.ai/http://https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+      "required": true,
+      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
     }
   ]
