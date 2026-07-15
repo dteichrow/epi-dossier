@@ -13,7 +13,7 @@ Search window: 7 day(s) ending 2026-07-15
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa; 2026-07-11T00:27+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/) (PubMed Ancient Pathogen Genomics; 2026-07-11T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (201), Policy, surveillance, and public health infrastructure (51), Occupational and environmental epidemiology (8)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -89,13 +89,13 @@ Search window: 7 day(s) ending 2026-07-15
 - Why this topic matters now: It may shape how new evidence is framed before broader consensus forms. It also has value for historical epidemiology and blog-idea generation.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### COVID-19 and SARS-CoV-2
-- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
-- Lead item: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR, 2026-07-09T17:00+00:00)
-- Detailed note: Compared with matched controls, mean total costs during 11 months of post-acute follow-up were 27% higher among adults ($11,508 vs $9,040; p < 0.001) and 42% higher among pediatric patients with COVID-19 ($3,997 vs $2,812; p < 0.001). Among adults, cost ratios peaked at 1 month of follow-up (1.32; 95% CI: 1.31-1.33) and declined to 1.15 (95% CI: 1.14-1.15) at 11 months. Weekly / July 9, 2026 / 75(26);337â342...
-- Evidence notes: [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR); [Evaluation of long-term healthcare utilization and costs associated with COVID-19 among adults and children in the US.](https://pubmed.ncbi.nlm.nih.gov/42434926/) (PubMed Infectious Disease Search)
+### Dengue and arboviruses
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [Philippines: Chikungunya outbreak reported in Samar, Prompts health advisory](https://outbreaknewstoday.substack.com/p/philippines-chikungunya-outbreak) (Outbreak News Today, 2026-07-11T11:22+00:00)
+- Detailed note: Sri Lanka's 2026 dengue outbreak has officially reached epidemic level, with more than 68,000 confirmed cases nationally and over 13,293 in July alone, the country's worst season since the 2019 epidemic. Data from the Gandara rural health unit showed all 84 confirmed cases were recorded in the villages of Ngoso and Catorse de Agosto, which have been under Code Red since June 30. Chikungunya epidemic risk: A call...
+- Evidence notes: [Philippines: Chikungunya outbreak reported in Samar, Prompts health advisory](https://outbreaknewstoday.substack.com/p/philippines-chikungunya-outbreak) (Outbreak News Today); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
