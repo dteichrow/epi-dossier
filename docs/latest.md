@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-14
-Generated at: 2026-07-14T18:58
+Generated at: 2026-07-14T19:17
 Search window: 7 day(s) ending 2026-07-14
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-15T01:46+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-15T02:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-14T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Planning and implementation of a community-wide tuberculosis screening intervention: a case study from Naujaat, Nunavut, Canada.](https://pubmed.ncbi.nlm.nih.gov/42447032/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
@@ -13,7 +13,7 @@ Search window: 7 day(s) ending 2026-07-14
 - [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR; 2026-07-09T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (207), Policy, surveillance, and public health infrastructure (43), Occupational and environmental epidemiology (9)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -32,9 +32,9 @@ Search window: 7 day(s) ending 2026-07-14
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 145 item(s) across 93 source(s).
-- Baseline snapshot created with 145 clustered item(s) across 93 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+- Newly tracked story cluster: 145 item(s) across 92 source(s).
+- Baseline snapshot created with 145 clustered item(s) across 92 source(s).
+- NBC News now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
@@ -51,10 +51,10 @@ Search window: 7 day(s) ending 2026-07-14
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 145 item(s) across 93 source(s); 4 official/primary-source item(s).
+- Topic size: 145 item(s) across 92 source(s); 3 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-14T00:00)
-- Detailed note: FDA lists reference 1385 with date posted 7/8/2026. Product linked to illnesses: Not Yet Identified. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1385: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) (Michigan Department of Health and Human Services Infectious Disease Updates); [Nearly 7,000 cases of cyclosporiasis confirmed or under investigation nationwide, CDC says](https://www.nbcnews.com/health/health-news/cyclosporiasis-7000-cases-us-cdc-parasite-explosive-diarrhea-rcna587445) (NBC News)
+- Detailed note: The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) (Michigan Department of Health and Human Services Infectious Disease Updates); [Nearly 7,000 cases of cyclosporiasis confirmed or under investigation nationwide, CDC says](https://www.nbcnews.com/health/health-news/cyclosporiasis-7000-cases-us-cdc-parasite-explosive-diarrhea-rcna587445) (NBC News); [FDA examines produce items in US cyclosporiasis outbreak as cases rise](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-says-lab-confirmed-us-cases-cyclosporiasis-top-1600-expects-count-rise-2026-07-14/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -76,7 +76,7 @@ Search window: 7 day(s) ending 2026-07-14
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 7 item(s) across 6 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-15T01:46+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-15T02:16+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5) (The New York Times); [WHO declares hantavirus outbreak linked to cruise ship over](https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5) (The Guardian); [WHO says Hantavirus outbreak linked to ship is over](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5) (BBC); [More than 100 passengers on US cruise ship sick from suspected norovirus](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3VtMGs0T3lBWTNCQUZyWWVXVG9uV3plMFk0RFUtYk9kSDdKclAzWEtpN1BJRDZKcWpmSmt5VGVMQWRLY1dPN091V0pNZ0NTSnBTVkdJM1RlaUFtZE9iUWxHWkdWdkRPR3F4RFZLNEphTTRONkNrbFYwUkk4UXZ5R0U1X0c?oc=5) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -338,7 +338,7 @@ Search window: 7 day(s) ending 2026-07-14
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-15T01:46+00:00
+- Date: 2026-07-15T02:16+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -426,20 +426,18 @@ Search window: 7 day(s) ending 2026-07-14
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1385: Cyclospora
-- Source: FDA Foodborne Outbreaks
+### Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.
+- Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-08T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1385 with date posted 7/8/2026. Product linked to illnesses: Not Yet Identified. Outbreak or event status: Ongoing See Advice.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- URL: https://pubmed.ncbi.nlm.nih.gov/42419446/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). Out of 56,695 screened individuals, 5,742 were diagnosed with pulmonary TB. After matching, 191 intervention patients were compared with 191 historical and 191 concurrent controls.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Lowering the cough threshold to one week reduces tuberculosis diagnostic delay: a real-world implementation study from Shenzhen, China.](https://pubmed.ncbi.nlm.nih.gov/42419446/) | PubMed Historical Pathogen Case Studies | 2026-07-08T00:00 | Historical epidemiology / ancient disease / paleopathology
-  It decreased the odds of bacteriological positivity compared to historical (adjusted OR 0.41; P<0.001) and concurrent controls (adjusted OR 0.28; P<0.001), increased the odds of prolonged patient delay (>30 days) (adjusted OR 5.11-5.56; P<0.001), and reduced prolonged health system delay (>14 days) (adjusted OR 0.10-0.14; P<0.001). Out of 56,695 screened individuals, 5,742 were diagnosed with pulmonary TB. After matching, 191 intervention patients were compared with 191 historical and 191 concurrent controls.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-06T17:36+02:00 | Policy, surveillance, and public health infrastructure
   Limited usable detail remained after boilerplate cleanup.
 - [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) | Michigan Department of Health and Human Services Infectious Disease Updates | 2026-07-04T00:00 | Outbreaks and emerging infections
@@ -477,6 +475,8 @@ Search window: 7 day(s) ending 2026-07-14
 - [Michigan's cyclosporiasis outbreak reaches more than 3,300 cases, 55 counties](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-reaches-more-than-3300-cases/) | CBS News | 2026-07-14T14:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Illinois cyclosporiasis outbreak grows to over 215 confirmed cases, public health officials say](https://www.cbsnews.com/chicago/news/illinois-cyclosporiasis-cases-parasite-cyclospora-outbreak/) | CBS News | 2026-07-14T14:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak's true scale could be four times bigger than official toll, WHO says](https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2k1RVFldlR0bS1wTVFZNmdRd0NOdm9qQ25vaTItWVVNQnlGQ3cyWjFjVERXWkllcjhtY0d1dGRfOVJUS21GZFMwSVVnMDF0U3YyaF9zQkZESEdlY1RrWHQ4Y1BId2s5ekcySkF1U2pvMGFXQmZJSjZCWmVUelV4Rm1zQXZGQ0xwLUtKNVZxWkR1bVdCSXlOYnY3Y9IBmgFBVV95cUxOWUw2YjEyV2NCTVo5VFFFM0RGNDdpOWV0cDd4M09zVzZzVWNvNWZpU2hQUDJXOFllQVFWTVpVc2lsM0w5UExCZWE2UnNuYlpOSUc0ME5Jb1o2NktSWDlnem1pOElMUVpVOVBmVDVyYUItUi1TNmI0dTlXV0c3RWhXY3prTWp6dmlRcjkwdjdXem5NTmRUaFBRTk93?oc=5) | Modern Ghana | 2026-07-14T13:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
