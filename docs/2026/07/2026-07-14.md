@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-14
-Generated at: 2026-07-14T23:58
+Generated at: 2026-07-15T00:02
 Search window: 7 day(s) ending 2026-07-14
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-15T06:41+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-15T06:58+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-14T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-07-14
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 136 item(s) across 85 source(s).
-- Baseline snapshot created with 136 clustered item(s) across 85 source(s).
+- Newly tracked story cluster: 138 item(s) across 87 source(s).
+- Baseline snapshot created with 138 clustered item(s) across 87 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 92 item(s) across 67 source(s).
-- Baseline snapshot created with 92 clustered item(s) across 67 source(s).
+- Newly tracked story cluster: 90 item(s) across 65 source(s).
+- Baseline snapshot created with 90 clustered item(s) across 65 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-07-14
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 136 item(s) across 85 source(s); 4 official/primary-source item(s).
+- Topic size: 138 item(s) across 87 source(s); 4 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-14T00:00)
 - Detailed note: FDA lists reference 1385 with date posted 7/8/2026. Product linked to illnesses: Not Yet Identified. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1385: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Outbreak of cyclosporiasis occurring in Michigan (7/1/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis) (Michigan Department of Health and Human Services Infectious Disease Updates); [Nearly 7,000 cases of cyclosporiasis confirmed or under investigation nationwide, CDC says](https://www.nbcnews.com/health/health-news/cyclosporiasis-7000-cases-us-cdc-parasite-explosive-diarrhea-rcna587445) (NBC News)
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-07-14
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 92 item(s) across 67 source(s); 3 official/primary-source item(s).
+- Topic size: 90 item(s) across 65 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Americans in Congo barred from immediately returning home amidst Ebola outbreak](https://www.politico.com/news/2026/07/14/american-ebola-relief-workers-barred-from-returning-home-immediately-00997100) (Politico); [Gilead launches Ebola antiviral trial in DR Congo as cases near 2,000](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk5fVlFYOFRPR3gtbUF2b0p5V0tkZFJxNWhGb1JIdkJRcnFnOUFjTW90YUlCSU5Rbm90YXdOWkE2eDhHTUJFbVdqNVVONUtDU1g4XzFiTVYyaEM3SjJwV2ZwaTg0V3FST2pERmNPSnRSVVdnb0t2VG1WZmZXejlZQWZXbFFRMzluU1paLVQ3SkZsamVDMGhBeTBhMA?oc=5) (CIDRAP)
@@ -70,13 +70,13 @@ Search window: 7 day(s) ending 2026-07-14
 - Topic size: 9 item(s) across 8 source(s); 2 official/primary-source item(s).
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR, 2026-07-09T17:00+00:00)
 - Detailed note: During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions.
-- Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [Legionnaires' disease cluster on Upper East Side grows](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVpESmktR0pVMkFBVmRZY3pLYW5FNkplcXVIQUZCQUZEYTJKd1ZOa3FMS3h2ZXprdUxpWkFPenQ0SlBJNEJSRmFfZkNQYTUtNTA1bzN3elVLUUFpLVZPWjZHQmNySVdnS00yTnpVU0REVXd2eVJyTGI4cXhhZTEyX3RXOUEyMVZpUHRNTjJaVGxnc3JVV1k0?oc=5) (CBS News); [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGhOc3hnUjA0SDN2TERlMG5FMnJKWjlpM0RDb1BRWHBfc19mUkh5V29qRXVzSmhjUEV2c1BkY3BoVTNxVVFPdXRBNTJseHMwaXZqc043dDhZWXRUak9yWUtuMTRpUjZNZHM0ZlBvNWkxUXF4NUZraEE0dFNoYXFHLTYtZnlvYnduYjNjRnVlMDNGQ21BOGF2R0ZYM1BMOE9lVHFYSUcyMA?oc=5) (CBS News); [NYC Legionnaires Disease Cluster Slows as Cooling Tower Remediation Continues - The American Journal of Managed Care® (AJMC®)](https://www.ajmc.com/view/nyc-legionnaires-disease-cluster-slows-as-cooling-tower-remediation-continues) (The American Journal of Managed Care® (AJMC®))
+- Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [Legionnaires' disease cluster on Upper East Side grows](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVpESmktR0pVMkFBVmRZY3pLYW5FNkplcXVIQUZCQUZEYTJKd1ZOa3FMS3h2ZXprdUxpWkFPenQ0SlBJNEJSRmFfZkNQYTUtNTA1bzN3elVLUUFpLVZPWjZHQmNySVdnS00yTnpVU0REVXd2eVJyTGI4cXhhZTEyX3RXOUEyMVZpUHRNTjJaVGxnc3JVV1k0?oc=5) (CBS News); [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGhOc3hnUjA0SDN2TERlMG5FMnJKWjlpM0RDb1BRWHBfc19mUkh5V29qRXVzSmhjUEV2c1BkY3BoVTNxVVFPdXRBNTJseHMwaXZqc043dDhZWXRUak9yWUtuMTRpUjZNZHM0ZlBvNWkxUXF4NUZraEE0dFNoYXFHLTYtZnlvYnduYjNjRnVlMDNGQ21BOGF2R0ZYM1BMOE9lVHFYSUcyMA?oc=5) (CBS News); [NYC Legionnaires Disease Cluster Slows as Cooling Tower Remediation Continues - The American Journal of Managed Care® (AJMC®)](https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDJ1TVVtV0lNdVRKc2l4QzZQNFk3RWtRYUZDLW9fdXl1R19vTk5wbTM3RDVfdTBiSFByX2l0aHNYM08tdmZLTloxZGJpTDFXSE1vd2o3aklhSjhhbDBwRVZrQnd0d29iYm9NWEs3ZTRCQ3NkOWtmR295WWpHcU5WNnY1Ny1CRzhLT3lhYTU4Zm5HeFp4ajJSazRRWlNGVFZpamJWVkt3?oc=5) (The American Journal of Managed Care® (AJMC®))
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 7 item(s) across 6 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-15T06:41+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-15T06:58+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5) (The New York Times); [WHO declares hantavirus outbreak linked to cruise ship over](https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5) (The Guardian); [WHO says Hantavirus outbreak linked to ship is over](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5) (BBC); [More than 100 passengers on US cruise ship sick from suspected norovirus](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3VtMGs0T3lBWTNCQUZyWWVXVG9uV3plMFk0RFUtYk9kSDdKclAzWEtpN1BJRDZKcWpmSmt5VGVMQWRLY1dPN091V0pNZ0NTSnBTVkdJM1RlaUFtZE9iUWxHWkdWdkRPR3F4RFZLNEphTTRONkNrbFYwUkk4UXZ5R0U1X0c?oc=5) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -338,7 +338,7 @@ Search window: 7 day(s) ending 2026-07-14
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-15T06:41+00:00
+- Date: 2026-07-15T06:58+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
