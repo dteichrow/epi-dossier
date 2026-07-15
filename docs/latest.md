@@ -1,37 +1,44 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-15
-Generated at: 2026-07-15T09:45
+Generated at: 2026-07-15T10:18
 Search window: 7 day(s) ending 2026-07-15
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-15T16:45+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-15T17:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-14T00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
+- [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology; 2026-07-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa; 2026-07-11T00:27+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/) (PubMed Ancient Pathogen Genomics; 2026-07-11T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (217), Policy, surveillance, and public health infrastructure (45), Occupational and environmental epidemiology (8)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (220), Policy, surveillance, and public health infrastructure (41), Occupational and environmental epidemiology (9)
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
+### Historical epidemiology and ancient pathogens
+- Lead item: [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies)
+- Newly tracked story cluster: 5 item(s) across 3 source(s).
+- Baseline snapshot created with 5 clustered item(s) across 3 source(s).
+- PubMed Historical Pathogen Case Studies now includes deaths or fatal cases in the story frame.
+- PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
+
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 149 item(s) across 99 source(s).
-- Baseline snapshot created with 149 clustered item(s) across 99 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+- Newly tracked story cluster: 147 item(s) across 98 source(s).
+- Baseline snapshot created with 147 clustered item(s) across 98 source(s).
+- NBC News now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 100 item(s) across 68 source(s).
-- Baseline snapshot created with 100 clustered item(s) across 68 source(s).
+- Newly tracked story cluster: 101 item(s) across 69 source(s).
+- Baseline snapshot created with 101 clustered item(s) across 69 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR)
-- Newly tracked story cluster: 9 item(s) across 8 source(s).
-- Baseline snapshot created with 9 clustered item(s) across 8 source(s).
+- Newly tracked story cluster: 10 item(s) across 9 source(s).
+- Baseline snapshot created with 10 clustered item(s) across 9 source(s).
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
@@ -40,32 +47,26 @@ Search window: 7 day(s) ending 2026-07-15
 - Baseline snapshot created with 6 clustered item(s) across 5 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 
-### Historical epidemiology and ancient pathogens
-- Lead item: [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 4 item(s) across 3 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 3 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 149 item(s) across 99 source(s); 3 official/primary-source item(s).
+- Topic size: 147 item(s) across 98 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-14T00:00)
-- Detailed note: FDA lists reference 1385 with date posted 7/8/2026. Product linked to illnesses: Not Yet Identified. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1385: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [How much did CDC cuts really impact this cyclosporiasis outbreak?](https://www.washingtonpost.com/health/2026/07/15/how-much-did-cdc-cuts-really-impact-this-cyclosporiasis-outbreak/) (The Washington Post); [Michigan's cyclosporiasis outbreak expands to more than 3,700 cases](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-expands-more-than-3700-cases/) (CBS News)
+- Detailed note: The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [How much did CDC cuts really impact this cyclosporiasis outbreak?](https://www.washingtonpost.com/health/2026/07/15/how-much-did-cdc-cuts-really-impact-this-cyclosporiasis-outbreak/) (The Washington Post); [Michigan's cyclosporiasis outbreak expands to more than 3,700 cases](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-expands-more-than-3700-cases/) (CBS News); [Authorities investigate Taco Bell and lettuce as cyclosporiasis outbreak surges](https://www.washingtonpost.com/health/2026/07/14/authorities-investigate-taco-bell-lettuce-multistate-cyclosporiasis-outbreak/) (The Washington Post)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 100 item(s) across 68 source(s); 3 official/primary-source item(s).
+- Topic size: 101 item(s) across 69 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola outbreak tops 2,000 cases in DR Congo](https://medicalxpress.com/news/2026-07-ebola-outbreak-tops-cases-dr.html) (Medical Xpress); [Ebola cases in Congo surpass 2,000 as government reports 754 deaths](https://www.cbc.ca/news/world/ebola-outbreak-congo-deaths-9.7270812) (CBC)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [More health workers on strike as confirmed Ebola cases in Congo top 2,000](https://www.largsandmillportnews.com/news/national/26283555.health-workers-strike-confirmed-ebola-cases-congo-top-2-000/) (Largs and Millport News); [Ebola outbreak tops 2,000 cases in DR Congo](https://medicalxpress.com/news/2026-07-ebola-outbreak-tops-cases-dr.html) (Medical Xpress)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 9 item(s) across 8 source(s); 2 official/primary-source item(s).
+- Topic size: 10 item(s) across 9 source(s); 2 official/primary-source item(s).
 - Lead item: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR, 2026-07-09T17:00+00:00)
 - Detailed note: During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions.
 - Evidence notes: [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) (CDC MMWR); [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) (PubMed Historical Pathogen Case Studies); [Legionnaires' disease cluster on Upper East Side grows](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVpESmktR0pVMkFBVmRZY3pLYW5FNkplcXVIQUZCQUZEYTJKd1ZOa3FMS3h2ZXprdUxpWkFPenQ0SlBJNEJSRmFfZkNQYTUtNTA1bzN3elVLUUFpLVZPWjZHQmNySVdnS00yTnpVU0REVXd2eVJyTGI4cXhhZTEyX3RXOUEyMVZpUHRNTjJaVGxnc3JVV1k0?oc=5) (CBS News); [Upper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGhOc3hnUjA0SDN2TERlMG5FMnJKWjlpM0RDb1BRWHBfc19mUkh5V29qRXVzSmhjUEV2c1BkY3BoVTNxVVFPdXRBNTJseHMwaXZqc043dDhZWXRUak9yWUtuMTRpUjZNZHM0ZlBvNWkxUXF4NUZraEE0dFNoYXFHLTYtZnlvYnduYjNjRnVlMDNGQ21BOGF2R0ZYM1BMOE9lVHFYSUcyMA?oc=5) (CBS News); [Cholera outbreak in Lamu County claims two lives, affects 50 others](https://eastleighvoice.co.ke/index.php/coast/59536/cholera-outbreak-in-lamu-county-claims-two-lives-affects-50-others) (The Eastleigh Voice)
@@ -74,27 +75,27 @@ Search window: 7 day(s) ending 2026-07-15
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 6 item(s) across 5 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-15T16:45+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-15T17:16+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5) (The New York Times); [WHO declares hantavirus outbreak linked to cruise ship over](https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5) (The Guardian); [WHO says Hantavirus outbreak linked to ship is over](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5) (BBC); [More than 100 passengers on US cruise ship sick from suspected norovirus](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3VtMGs0T3lBWTNCQUZyWWVXVG9uV3plMFk0RFUtYk9kSDdKclAzWEtpN1BJRDZKcWpmSmt5VGVMQWRLY1dPN091V0pNZ0NTSnBTVkdJM1RlaUFtZE9iUWxHWkdWdkRPR3F4RFZLNEphTTRONkNrbFYwUkk4UXZ5R0U1X0c?oc=5) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
-- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
-- Lead item: [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies, 2026-07-14T00:00)
+- Topic size: 5 item(s) across 3 source(s); 5 official/primary-source item(s).
+- Lead item: [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies, 2026-07-15T00:00)
 - Detailed note: The principal tagging allele reached an estimated frequency of 49.0% approximately 8500 years before present, then declined progressively to 3.9% in the present-day reference population. Comparison with ankylosing spondylitis genome-wide association data showed that HLA-B27-linked alleles conferring increased disease risk had negative selection coefficients, indicating sustained selection against this haplotype...
-- Evidence notes: [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies); [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology); [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology); [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/) (PubMed Ancient Pathogen Genomics)
+- Evidence notes: [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies); [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies); [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology); [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology); [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/) (PubMed Ancient Pathogen Genomics)
 - Why this topic matters now: It may shape how new evidence is framed before broader consensus forms. It also has value for historical epidemiology and blog-idea generation.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Dengue and arboviruses
 - Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: ['I Waited Too Long': Mother's Grief as Dengue Claims Son, Cases Surge in Cambodia](https://cambodianess.com/article/i-waited-too-long-mothers-grief-as-dengue-claims-son-cases-surge-in-cambodia) (Cambodianess, 2026-07-15T12:19+00:00)
-- Detailed note: Sri Lanka's 2026 dengue outbreak has officially reached epidemic level, with more than 68,000 confirmed cases nationally and over 13,293 in July alone, the country's worst season since the 2019 epidemic. His death has left one family devastated, but it also serves as a stark reminder of the growing danger posed by Cambodia's rapidly escalating dengue outbreak, as thousands of infections are reported during the...
-- Evidence notes: ['I Waited Too Long': Mother's Grief as Dengue Claims Son, Cases Surge in Cambodia](https://cambodianess.com/article/i-waited-too-long-mothers-grief-as-dengue-claims-son-cases-surge-in-cambodia) (Cambodianess); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
+- Lead item: [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka, 2026-07-07T07:00+00:00)
+- Detailed note: Sri Lanka's 2026 dengue outbreak has officially reached epidemic level, with more than 68,000 confirmed cases nationally and over 13,293 in July alone, the country's worst season since the 2019 epidemic. Most cases are mild to moderate.
+- Evidence notes: [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); ['I Waited Too Long': Mother's Grief as Dengue Claims Son, Cases Surge in Cambodia](https://cambodianess.com/article/i-waited-too-long-mothers-grief-as-dengue-claims-son-cases-surge-in-cambodia) (Cambodianess)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -336,7 +337,7 @@ Search window: 7 day(s) ending 2026-07-15
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-15T16:45+00:00
+- Date: 2026-07-15T17:16+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -344,12 +345,12 @@ Search window: 7 day(s) ending 2026-07-15
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.
+### A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.
 - Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-14T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42448529/
+- Date: 2026-07-15T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42455589/
 - Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Adverse outcomes include stillbirth, neonatal death, prematurity, and long-term neurologic, skeletal, and auditory complications. Evidence-based prevention strategies include universal early pregnancy screening, repeat testing for high-risk patients, prompt penicillin treatment, strengthened partner services, and expanded prenatal care access. System-level challenges such as inconsistent screening practices, treatment delays, and under-resourced public health programs-further sustain transmission.
+- Summary: Childhood immunisation is one of the most successful public health interventions in history, preventing millions of deaths and substantially reducing global child mortality. Finally, the review highlights opportunities in the current vaccine pipeline and the importance of sustained global collaboration to ensure equitable protection for all children. This mini-review summarises the historical development of childhood vaccines, the role of global coordination in expanding immunisation coverage, and the innovations that have enabled safe and effective vaccine delivery to children worldwide.
 - Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -364,13 +365,13 @@ Search window: 7 day(s) ending 2026-07-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Meningococcal meningitis in India: An expert consensus on use of MCVs.
-- Source: PubMed Infectious Disease Search
+### The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.
+- Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-14T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42446494/
-- Category: Major epidemiology studies
-- Summary: This consensus document, developed from literature review, outbreak analyses, and deliberations by 14 Indian experts, highlights outbreaks from 1966 (Delhi: 616 cases, case fatality ration: CFR 20.9%) to 2022-2023 (Kolkata). Systematic review evidence shows 12.1% prevalence in epidemics (CFR 12.8%) and 0.76% in endemic settings (CFR 3.0%), though true burden is underestimated due to weak surveillance. Experts recommend vaccination at 9-12 months with booster at 10-11 y, mandatory reporting, sentinel surveillance, and clinician awareness.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- URL: https://pubmed.ncbi.nlm.nih.gov/42448529/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: Adverse outcomes include stillbirth, neonatal death, prematurity, and long-term neurologic, skeletal, and auditory complications. Evidence-based prevention strategies include universal early pregnancy screening, repeat testing for high-risk patients, prompt penicillin treatment, strengthened partner services, and expanded prenatal care access. System-level challenges such as inconsistent screening practices, treatment delays, and under-resourced public health programs-further sustain transmission.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
@@ -381,6 +382,16 @@ Search window: 7 day(s) ending 2026-07-15
 - Category: Historical epidemiology / ancient disease / paleopathology
 - Summary: We identify Africa as a pivotal frontier for the field and outline strategic priorities for moving from isolated detections toward continent-scale reconstructions of past disease landscapes, with potential relevance for understanding long-term patterns of endemicity, emergence, and epidemic risk. Ancient pathogen genomics has redefined how infectious disease histories are reconstructed, revealing unexpected origins, transmission routes, and lineage turnovers that are invisible from modern genomes alone. Yet, this perspective remains heavily biased toward Eurasia, leaving Africa-central to human evolution and home to diverse ecological settings relevant to zoonotic and vector-borne disease emergence-largely unexplored.
 - Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Meningococcal meningitis in India: An expert consensus on use of MCVs.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-07-14T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42446494/
+- Category: Major epidemiology studies
+- Summary: This consensus document, developed from literature review, outbreak analyses, and deliberations by 14 Indian experts, highlights outbreaks from 1966 (Delhi: 616 cases, case fatality ration: CFR 20.9%) to 2022-2023 (Kolkata). Systematic review evidence shows 12.1% prevalence in epidemics (CFR 12.8%) and 0.76% in endemic settings (CFR 3.0%), though true burden is underestimated due to weak surveillance. Experts recommend vaccination at 9-12 months with booster at 10-11 y, mandatory reporting, sentinel surveillance, and clinician awareness.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
@@ -424,22 +435,12 @@ Search window: 7 day(s) ending 2026-07-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Acute Flaccid Myelitis Surveillance
-- Source: CDC MMWR
-- Date: 2026-07-09T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979
-- Category: Occupational and environmental epidemiology
-- Summary: During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Weekly / July 9, 2026 / 75(26);329â336 Adriana S.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) | CDC MMWR | 2026-07-09T17:00+00:00 | Occupational and environmental epidemiology
+  During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Weekly / July 9, 2026 / 75(26);329â336 Adriana S.
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) | PubMed Historical Pathogen Case Studies | 2026-07-09T00:00 | Historical epidemiology / ancient disease / paleopathology
   Assuming 60% lethality based on global data, the loss of approximately 220,000 people would have occurred in these regions. Understanding whether the disease entered and spread from pre-colonial Makassan (Indonesian) trade along the northern coast, or from the British First Fleet's arrival in southeastern Australia in 1788, is necessary to estimate the demographic impact. The impact of smallpox (variola) on Aboriginal communities in Australia beginning in 1789 was catastrophic and continues to cause intergenerational trauma.
-- [FDA outbreak investigation 1385: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-07-08T00:00 | Outbreaks and emerging infections
-  FDA lists reference 1385 with date posted 7/8/2026. Product linked to illnesses: Not Yet Identified. Outbreak or event status: Ongoing See Advice.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-06T17:36+02:00 | Policy, surveillance, and public health infrastructure
   Limited usable detail remained after boilerplate cleanup.
 - [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) | Michigan Department of Health and Human Services Infectious Disease Updates | 2026-07-04T00:00 | Outbreaks and emerging infections
@@ -448,27 +449,27 @@ Search window: 7 day(s) ending 2026-07-15
   Limited detail was available from feed metadata alone.
 - [How much did CDC cuts really impact this cyclosporiasis outbreak?](https://www.washingtonpost.com/health/2026/07/15/how-much-did-cdc-cuts-really-impact-this-cyclosporiasis-outbreak/) | The Washington Post | 2026-07-15T16:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [More health workers on strike as confirmed Ebola cases in Congo top 2,000](https://www.largsandmillportnews.com/news/national/26283555.health-workers-strike-confirmed-ebola-cases-congo-top-2-000/) | Largs and Millport News | 2026-07-15T15:01+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak tops 2,000 cases in DR Congo](https://medicalxpress.com/news/2026-07-ebola-outbreak-tops-cases-dr.html) | Medical Xpress | 2026-07-15T14:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Michigan's cyclosporiasis outbreak expands to more than 3,700 cases](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-expands-more-than-3700-cases/) | CBS News | 2026-07-15T14:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases in Congo surpass 2,000 as government reports 754 deaths](https://www.cbc.ca/news/world/ebola-outbreak-congo-deaths-9.7270812) | CBC | 2026-07-15T14:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Democratic Republic of Congo (DRC) Ebola outbreak response needs urgent scale-up after two months](https://www.zawya.com/en/press-release/africa-press-releases/democratic-republic-of-congo-drc-ebola-outbreak-response-needs-urgent-scale-up-after-two-months-d0xt6f4u) | ZAWYA | 2026-07-15T14:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Ebola cases in Congo surge, health workers go on strike over unpaid wages](https://www.kompas.id/artikel/ebola-cases-in-congo-surge-health-workers-go-on-strike-because-they-havent-been-paid) | Kompas.id | 2026-07-15T13:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- ['I Waited Too Long': Mother's Grief as Dengue Claims Son, Cases Surge in Cambodia](https://cambodianess.com/article/i-waited-too-long-mothers-grief-as-dengue-claims-son-cases-surge-in-cambodia) | Cambodianess | 2026-07-15T12:19+00:00 | Outbreaks and emerging infections
-  His death has left one family devastated, but it also serves as a stark reminder of the growing danger posed by Cambodia's rapidly escalating dengue outbreak, as thousands of infections are reported during the height of the monsoon season. Her son, Keng Kimjon, died on July 10 after weeks of worsening symptoms that were repeatedly mistaken for less serious illnesses. A day after his death, she cannot stop replaying the agonizing hours before they reached the hospital and wondering whether taking him there sooner might have saved his life.
+- [More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/confirmed-ebola-cases-top-2000-congo-including-754-134772609) | ABC News - Breaking News, Latest News and Videos | 2026-07-15T12:32+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [DRC Ebola cases surpass 2,000 as more health workers begin strike](https://www.aljazeera.com/news/2026/7/15/drc-ebola-cases-surpass-2000-as-more-health-workers-begin-strike) | Al Jazeera | 2026-07-15T12:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What Is The Bundibugyo Ebola Strain? DR Congo Outbreak Explained](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGhoeUxKcGhDNFZfZDdvYmVjcnBJZFF4NnREcXI4amsxQ1R5am5pQ2diWGhTVnZiajVRa05VREwtdGRNTTdWRk9NX3VQZk5FSlJwZ3RQRjBZNU55ZGRKUnFiMTFIYkR4Tm9ybW15YUhBYk90Ukx6RHhIOGhUX1VXQnVyUW1JN1g1aU9ZQ0ZIbFpQTkRJUGE5Ymx2d09RUDNEVy1XRkdhVmVkREXSAbMBQVVfeXFMTXF3UXJHR1lqUm5LdlRRc3RPWEFpdThwR2o3LWx2Vm1wTFlDaER6aWM3UVBMRlY0THVILUJ1M3hiTnprVWFGd1hlbWNyLXNVWV83Y3NoSjA5TGtqTlJ2Q1QtVzF0VFZhaGRGdzNDTGtYQ2F2eXF4WE9NVnpjMk4yRkFGaG9pbmVvcExkeWxMRzNrRGNKbjdiME9abEotRTdaNFJzZlZnT2ZBN3VXOXZGcHZGX1E?oc=5) | NDTV Profit | 2026-07-15T11:43+00:00 | Outbreaks and emerging infections
+- [What Is The Bundibugyo Ebola Strain? DR Congo Outbreak Explained](https://www.ndtvprofit.com/science/what-is-the-bundibugyo-ebola-strain-dr-congo-outbreak-explained-11774397) | NDTV Profit | 2026-07-15T11:43+00:00 | Outbreaks and emerging infections
   DR Congo Outbreak Explained NDTV Profit
-- [What we know about the cyclosporiasis outbreak as cases rise across dozens of states](https://www.cbsnews.com/video/what-we-know-about-the-cyclosporiasis-outbreak-as-cases-rise-across-dozens-of-states/) | CBS News | 2026-07-15T11:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Runaway Ebola Outbreak in Congo Hits 2,000+ Cases and Rising](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm8zclJtNE8wQi1XRGlVQ2NBTS1OeF9rRjZ0ZWtoVFZlQ3pVVko3QkJkYlpuSWl4QTV4RjE1VFBtNGpBZXlIOFl1UXVPeHBxSjJlLUE0VjJxVkU1RHZBX0hMQ3dOUjFpWWVlaFdVSVZWRVpUcktOY3VhdW8yYVNzTXpTR3JCMlZNMFM4cXRPZXJHSDZ2Mjd3MHZ5MjRkUzJFdm5lZzVwNkUwWE3SAasBQVVfeXFMTXJvM3JSbTRPMEItV0RpVUNjQU0tTnhfa0Y2dGVraFRWZUN6VVZKN0JCZGJabklpeEE1eEYxNVRQbTRqQWV5SDhZdVF1T3hwcUoyZS1BNFYycVZFNUR2QV9ITEN3TlIxaVllZWhXVUlWVkVaVHJLTmN1YXVvMmFTc016U0dyQjJWTTBTOHF0T2VyR0g2djI3dzB2eTI0ZFMyRXZuZWc1cDZFMFhN?oc=5) | breitbart.com | 2026-07-15T10:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [MSF urges Ebola response scale-up as Congo outbreak nears 2,000 cases](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnc2MmhQSTd5Vm9KejFPQUU2Z0pwSkp1aEkxZEQxT2c2RFdBczEtbWtqbG1iVU1FZDV6OEU0NDZxbFJwV3k3QlJMUHRXMFl1T08yRTJRUXpiNW04VGx3cmhVN2xTbGRZQ0E4RXMzNjFCLWw1ejBMOUVuaVdEVVB4bjhRLTJCeVhVcElnZnJjRG9ITTZtMGxyTlo2WV9wQWE0V2owai1QSlAtNmYyMlBQWU54ckVOdXpNdUw4SGJLb0hyemI5MVpmY3k0enZ5UTZ5cGxj?oc=5) | Reuters | 2026-07-15T09:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola Outbreak Passes 2,000 Confirmed Cases](https://news.google.com/rss/articles/CBMie0FVX3lxTE5UVkwyY2V0WXQ4ZnZZbWdQVU1fRkw0QU5BZVRuTlFaWG9wQkZ1VG1hYWhOM1pFdmxSYzRnZG1YZjFKb3hEZDBvUnJVS0tFN2dzdTh0N0pQRG5QZEE1dm1ZOGExR1JZdWw5bkJlRGhQTGRsV1RocDE0S1NVRQ?oc=5) | teleSUR English | 2026-07-15T09:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [More health workers go on strike as confirmed Ebola cases in Congo top 2,000, including 754 deaths](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUFJOVHhRcHp6VHF5MDJjcEpzUWhUX3YzdnNSSDcwZlkwR2RNWXFjZXNBQ0ZRZGE1T0RnaU1yZGZSZUg3bk9FNVlIZWNGMXpkOElsSWZwMlJGUlVOUDdpY0kzZWZaTzJFbHpSal9RVmxpRFdnTVRiWi15dlJlbVJwY0hNOVhYQjhVNGJ6VU1hdHFIVGo3T2dyMTlfa0pDcDYtR2dwMmpZSEVBM09RcnFNSjZzcW5aTkdzZEVWYnhWWk14ejYzNnFXc0w2eW9MSUl0bkQ0Y2xtaWM5OG1EWGxfSVZOZnY2RVNWek5HbHRyaw?oc=5) | The Cumberland Times-News | 2026-07-15T09:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -478,24 +479,30 @@ Search window: 7 day(s) ending 2026-07-15
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1111/apa.70677
+  Journal/preprint server: Acta paediatrica (Oslo, Norway : 1992)
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42455589/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42455589/
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1016/j.semperi.2026.152280
   Journal/preprint server: Seminars in perinatology
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42448529/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42448529/
-- [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2676385
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42446494/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42446494/
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/)
   Source: PubMed Historical Epidemiology
   DOI: 10.1016/j.tim.2026.06.004
   Journal/preprint server: Trends in microbiology
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42442994/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42442994/
+- [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2676385
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42446494/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42446494/
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/)
   Source: PubMed Historical Epidemiology
   DOI: 10.1016/j.autrev.2026.104140
@@ -520,14 +527,10 @@ Search window: 7 day(s) ending 2026-07-15
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42441828/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42441828/
-- [Evaluation of long-term healthcare utilization and costs associated with COVID-19 among adults and children in the US.](https://pubmed.ncbi.nlm.nih.gov/42434926/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/13696998.2026.2699643
-  Journal/preprint server: Journal of medical economics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42434926/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42434926/
 
 ## Historical epi / weird epi corner
+- [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) | PubMed Historical Pathogen Case Studies
+  Childhood immunisation is one of the most successful public health interventions in history, preventing millions of deaths and substantially reducing global child mortality. Finally, the review highlights opportunities in the current vaccine pipeline and the importance of sustained global collaboration to ensure equitable protection for all children. This mini-review summarises the historical development of childhood vaccines, the role of global coordination in expanding immunisation coverage, and the innovations that have enabled safe and effective vaccine delivery to children worldwide.
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) | PubMed Historical Pathogen Case Studies
   Adverse outcomes include stillbirth, neonatal death, prematurity, and long-term neurologic, skeletal, and auditory complications. Evidence-based prevention strategies include universal early pregnancy screening, repeat testing for high-risk patients, prompt penicillin treatment, strengthened partner services, and expanded prenatal care access. System-level challenges such as inconsistent screening practices, treatment delays, and under-resourced public health programs-further sustain transmission.
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) | PubMed Historical Epidemiology
