@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -13,27 +13,39 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 251,
+    "metadata_only_count": 255,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 275,
+    "sources_failed": 3,
+    "sources_live": 279,
     "story_count_change": 6,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 275,
+    "live": 279,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-15T07:58:44",
+  "generated_at": "2026-07-15T08:05:09",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
+    },
+    {
+      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-07-07/2026-07-15",
+      "required": true,
+      "source": "bioRxiv Infectious Disease",
+      "source_type": "biorxiv"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "required": true,
+      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
+      "source_type": "biorxiv"
     }
   ]
 }
