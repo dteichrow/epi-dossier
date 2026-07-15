@@ -1,19 +1,19 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-15
-Generated at: 2026-07-15T14:15
+Generated at: 2026-07-15T14:17
 Search window: 7 day(s) ending 2026-07-15
 
 ## Executive scan
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-15T21:15+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology; 2026-07-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (228), Policy, surveillance, and public health infrastructure (42), Occupational and environmental epidemiology (9)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa; 2026-07-11T00:27+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (226), Policy, surveillance, and public health infrastructure (42), Occupational and environmental epidemiology (9)
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
 ### Occupational and environmental epidemiology
@@ -30,36 +30,37 @@ Search window: 7 day(s) ending 2026-07-15
 - PubMed Historical Pathogen Case Studies now includes deaths or fatal cases in the story frame.
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
+### Dengue and arboviruses
+- Lead item: ['I Waited Too Long': Mother's Grief as Dengue Claims Son, Cases Surge in Cambodia](https://cambodianess.com/article/i-waited-too-long-mothers-grief-as-dengue-claims-son-cases-surge-in-cambodia) (Cambodianess)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Daily Mirror - Sri Lanka now explicitly uses investigation or monitoring language.
+- Cambodianess now includes deaths or fatal cases in the story frame.
+
 ### Cyclosporiasis
-- Lead item: [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks)
-- Newly tracked story cluster: 152 item(s) across 100 source(s).
-- Baseline snapshot created with 152 clustered item(s) across 100 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
+- Newly tracked story cluster: 151 item(s) across 99 source(s).
+- Baseline snapshot created with 151 clustered item(s) across 99 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 104 item(s) across 72 source(s).
-- Baseline snapshot created with 104 clustered item(s) across 72 source(s).
+- Newly tracked story cluster: 103 item(s) across 71 source(s).
+- Baseline snapshot created with 103 clustered item(s) across 71 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-
-### Hantavirus and cruise-ship outbreak
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 5 item(s) across 4 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 4 source(s).
-- Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 152 item(s) across 100 source(s); 3 official/primary-source item(s).
-- Lead item: [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks, 2026-07-15T00:00)
-- Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See CDC Investigation Notice. The health department labels these counts preliminary.
-- Evidence notes: [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Cyclospora Cases Are Rising. Here’s What to Know.](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) (The New York Times); [Taco Bell voluntarily removes some ingredients at select restaurants amid cyclosporiasis outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) (ABC News - Breaking News, Latest News and Videos)
+- Topic size: 151 item(s) across 99 source(s); 2 official/primary-source item(s).
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-15T00:00)
+- Detailed note: The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Cyclospora Cases Are Rising. Here’s What to Know.](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) (The New York Times); [Taco Bell voluntarily removes some ingredients at select restaurants amid cyclosporiasis outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) (ABC News - Breaking News, Latest News and Videos); [Michigan's cyclosporiasis outbreak continues to expand](https://www.cbsnews.com/detroit/video/michigans-cyclosporiasis-outbreak-continues-to-expand/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 104 item(s) across 72 source(s); 3 official/primary-source item(s).
+- Topic size: 103 item(s) across 71 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Unpaid health workers strike as DR Congo's Ebola outbreak accelerates](https://www.modernghana.com/videonews/aljazeera/1/682910) (Modern Ghana); [Ebola cases surge past 2,000, now fastest-growing outbreak in history](https://www.cidrap.umn.edu/ebola/ebola-cases-surge-past-2000-now-fastest-growing-outbreak-history) (CIDRAP)
@@ -92,11 +93,11 @@ Search window: 7 day(s) ending 2026-07-15
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English, 2026-07-10T12:18+00:00)
-- Detailed note: Sri Lanka's 2026 dengue outbreak has officially reached epidemic level, with more than 68,000 confirmed cases nationally and over 13,293 in July alone, the country's worst season since the 2019 epidemic. As part of the initiative, a special Dengue Prevention Drive was conducted at the District Hospital campus on Thursday at 2 PM. Most cases are mild to moderate.
-- Evidence notes: [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); ['I Waited Too Long': Mother's Grief as Dengue Claims Son, Cases Surge in Cambodia](https://cambodianess.com/article/i-waited-too-long-mothers-grief-as-dengue-claims-son-cases-surge-in-cambodia) (Cambodianess)
+- Lead item: ['I Waited Too Long': Mother's Grief as Dengue Claims Son, Cases Surge in Cambodia](https://cambodianess.com/article/i-waited-too-long-mothers-grief-as-dengue-claims-son-cases-surge-in-cambodia) (Cambodianess, 2026-07-15T12:19+00:00)
+- Detailed note: Sri Lanka's 2026 dengue outbreak has officially reached epidemic level, with more than 68,000 confirmed cases nationally and over 13,293 in July alone, the country's worst season since the 2019 epidemic. His death has left one family devastated, but it also serves as a stark reminder of the growing danger posed by Cambodia's rapidly escalating dengue outbreak, as thousands of infections are reported during the...
+- Evidence notes: ['I Waited Too Long': Mother's Grief as Dengue Claims Son, Cases Surge in Cambodia](https://cambodianess.com/article/i-waited-too-long-mothers-grief-as-dengue-claims-son-cases-surge-in-cambodia) (Cambodianess); [Gorakhpur District Hospital launches Dengue prevention campaign: Health dept on alert amid monsoon, urges w...](https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-health-dept-alert-monsoon-dengue-prevention-drive-138408858.html) (Bhaskar English); [Dengue in Sri Lanka: Symptoms, Warning Signs and Prevention - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-in-Sri-Lanka-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -346,16 +347,6 @@ Search window: 7 day(s) ending 2026-07-15
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1390: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-15T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See CDC Investigation Notice. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-15T00:00
@@ -436,10 +427,18 @@ Search window: 7 day(s) ending 2026-07-15
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter
+- Source: CDC MMWR
+- Date: 2026-07-09T17:00+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980
+- Category: Occupational and environmental epidemiology
+- Summary: Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness. Chai, MD 4 ,5 ; Ellora Karmarkar, MD 4 ; Matt Feaster, PhD 1 ( View author affiliations ) Since 2015, multiple evacuation shelters have opened in response to California wildfires.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980) | CDC MMWR | 2026-07-09T17:00+00:00 | Occupational and environmental epidemiology
-  Weekly / July 9, 2026 / 75(26);337â342 Rudy Patrick, PhD 1 ,2 ,3, *; Katie Lee, PhD 3 ,4, *; Melody Kuan 1 ; Melany Chan, MPH 1 ; Sara Y. Enhanced surveillance identified 104 cases of norovirus, 56 of COVID-19, 29 of influenza, and 30 of nonspecified respiratory illness. Chai, MD 4 ,5 ; Ellora Karmarkar, MD 4 ; Matt Feaster, PhD 1 ( View author affiliations ) Since 2015, multiple evacuation shelters have opened in response to California wildfires.
 - [Acute Flaccid Myelitis Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765979) | CDC MMWR | 2026-07-09T17:00+00:00 | Occupational and environmental epidemiology
   During 2020–2025, 17–48 AFM cases were reported annually, despite increases in EV-D68–associated respiratory illnesses in 2022, 2024, and 2025. peaks in AFM cases in 2014, 2016, and 2018 (120–238 cases per year). Weekly / July 9, 2026 / 75(26);329â336 Adriana S.
 - [Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure.](https://pubmed.ncbi.nlm.nih.gov/42426264/) | PubMed Historical Pathogen Case Studies | 2026-07-09T00:00 | Historical epidemiology / ancient disease / paleopathology
@@ -460,6 +459,8 @@ Search window: 7 day(s) ending 2026-07-15
   Limited detail was available from feed metadata alone.
 - [Michigan's cyclosporiasis outbreak continues to expand](https://www.cbsnews.com/detroit/video/michigans-cyclosporiasis-outbreak-continues-to-expand/) | CBS News | 2026-07-15T20:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [How much did CDC cuts really impact this cyclosporiasis outbreak?](https://www.washingtonpost.com/health/2026/07/15/how-much-did-cdc-cuts-really-impact-this-cyclosporiasis-outbreak/) | The Washington Post | 2026-07-15T20:00+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo](https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html) | The New York Times | 2026-07-15T19:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Confirmed Ebola cases in Congo top 2,000, with 754 dead](https://www.spokesman.com/stories/2026/jul/15/confirmed-ebola-cases-in-congo-top-2000-with-754-d/) | The Spokesman-Review | 2026-07-15T19:18+00:00 | Outbreaks and emerging infections
@@ -470,13 +471,13 @@ Search window: 7 day(s) ending 2026-07-15
   Limited detail was available from feed metadata alone.
 - [Americans returning from Congo face new travel restrictions amid Ebola outbreak](https://www.independent.co.uk/news/health/ebola-outbreak-americans-congo-cdc-b3015642.html) | The Independent | 2026-07-15T17:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [How much did CDC cuts really impact this cyclosporiasis outbreak?](https://www.washingtonpost.com/health/2026/07/15/how-much-did-cdc-cuts-really-impact-this-cyclosporiasis-outbreak/) | The Washington Post | 2026-07-15T17:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [More health workers on strike as confirmed Ebola cases in Congo top 2,000](https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3dqM0xzalhFYTA2cWZScmNyMlItZllCNVJ2R2Jib3BjMTUyMGtMbk8yc1F4NXprVkVhYTk0dlpUZmdfcUo5SzR3NEk5MTZ5a0xyRlp5Z2RnYndjRFZnZVh5MG5WN1VSTEdVNDUwbkpBd2w1UjRZNEVZallMWnMzS09BOA?oc=5) | Yahoo News UK | 2026-07-15T14:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Michigan's cyclosporiasis outbreak expands to more than 3,700 cases](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-expands-more-than-3700-cases/) | CBS News | 2026-07-15T14:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Outbreak Tops 2,000 Cases as Health Workers Strike](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVDF1a19QQ0c0LVJuRVJ5cERUTGZRNXN6bTJfWEVNYlZSVmltcTNwN1JqaVBjREdqQ1NLTnN5SXJ1cFZNS2xyODM3dTkyUksxWHgzRm5uUTFRTDN4NHZGVkV0eFFab2VnMEhpOWZkZFYxNm5DamVGaTZ5T19WaTh3aWRR?oc=5) | Yahoo | 2026-07-15T14:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola cases in Congo surge, health workers go on strike over unpaid wages](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNExCUlNpaDQ4dGpqVHl0OW5MVXpnd01pclNkd09tVEIydV8xZHpxaVkwVjQ3dzh4ZlhaTkhPRmNrUWhzOHVBNDlGbWtLa1RGYzNsaVkweTg4LU1BTXJLbWNUcVFvcTBiUXFYQVk4aWpXVGlGRHp3NW1sQ3VpNGFXZzNzbXllMG53X1ZQM0pVUm9YQ2hpTTBDaEhwQmJWM2oyRDBBX0pQRlJLVXpMNDRxc24xWmk?oc=5) | Kompas.id | 2026-07-15T13:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
