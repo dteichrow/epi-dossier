@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-16
-Generated at: 2026-07-16T02:58
+Generated at: 2026-07-16T03:17
 Search window: 7 day(s) ending 2026-07-16
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-16T09:57+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-16T10:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-07-16
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology; 2026-07-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa; 2026-07-11T00:27+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (228), Policy, surveillance, and public health infrastructure (48), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (223), Policy, surveillance, and public health infrastructure (49), Historical epidemiology / ancient disease / paleopathology (5)
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
 ### Historical epidemiology and ancient pathogens
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 163 item(s) across 108 source(s).
-- Baseline snapshot created with 163 clustered item(s) across 108 source(s).
+- Newly tracked story cluster: 159 item(s) across 105 source(s).
+- Baseline snapshot created with 159 clustered item(s) across 105 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-07-16
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 163 item(s) across 108 source(s); 2 official/primary-source item(s).
+- Topic size: 159 item(s) across 105 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-15T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [The foods you should avoid as the cyclosporiasis outbreak grows](https://www.cbsnews.com/video/here-are-the-foods-you-should-avoid-as-cyclosporiasis-outbreak-grows/) (CBS News); [Eyes on the CDC in the cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/eyes-cdc-cyclosporiasis-outbreak-rcna587666) (NBC News); [Cyclospora Outbreak: What to Know About Symptoms and Food Safety](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) (The New York Times)
@@ -63,7 +63,7 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-16T09:57+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-16T10:16+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFdYemdYRmxFSkVVTlBMUWt3WkdSMFJSeHZUUkpmMmpOd0NRVjNXTXozU2FkLUpKc01zUzNaNWxhV1o5UWN4U2U1WU9YQTlCRk5QMWFrUzVCeHZXQ0FkdEcxU2ZZSkUwY0l2aFFEQTVFQ1NBZ0VmU3ZrMlB4aG1qSGZsVDY2TVp2NjlYUHdtZHJlMng3TlRHb1pMOWtrb2ZwaVRmci1RV09WWEVzRGE4S1JmdmM0VzUwMmRBanBrdkR5S0JrbGU5QURmUlhPTXhBbHfSAdcBQVVfeXFMUGxBc1VlSXdkb2ktbDhnVnptaVpXV0NfUWg2UzVkNWFSTUd0NU9OcTRhZ2Uwb1NqUGlHQ01lWUkwMmttQ3NYRWhoM3JyTFVKcDg4RUJVaktSclJ4Ykp1azFpaU9wLTFiOHdpSkI3TzIwRlM3NTZHd0hSTEJGOVZ3R01zdzRQeGJzSTVHbmpidjFkSW9hMV84Ykk5Z0wyWW43X3VXM05zUnhfTHU4ZVQyYmhzU2c0OEdMSXA5TXNRVmFPWGNlZkJYTDlYNVRYU3VLVV84d2RTUWM?oc=5) (ABC7 Bay Area)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -325,7 +325,7 @@ Search window: 7 day(s) ending 2026-07-16
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-16T09:57+00:00
+- Date: 2026-07-16T10:16+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -451,6 +451,8 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [Democratic Republic of Congo: Two months into Ebola disease outbreak, virus spreads at alarming rate](https://www.doctorswithoutborders.ca/democratic-republic-of-congo-two-months-into-ebola-disease-outbreak-virus-spreads-at-alarming-rate/) | doctorswithoutborders.ca | 2026-07-16T00:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Philippines: Samar records hundreds of suspected chikungunya cases](https://outbreaknewstoday.substack.com/p/philippines-samar-records-hundreds) | Outbreak News Today | 2026-07-15T22:56+00:00 | Outbreaks and emerging infections
+  In a follow-up on the Samar chikungunya outbreak, Provincial Health Office (PHO) Samar report the number of suspect chikungunya cases are now at 225- with the highest number of suspected cases with 124, followed by Gandara with 98, and Paranas with three. Serious complications are uncommon, but atypical severe cases can cause long-term symptoms and even death, especially in older people and in children under one year old. To confirm the outbreak, the PHO has sent 12 blood samples—six each from Basey and Gandara—to the Research Institute for Tropical Medicine (RITM) for laboratory testing.
 - [The foods you should avoid as the cyclosporiasis outbreak grows](https://www.cbsnews.com/video/here-are-the-foods-you-should-avoid-as-cyclosporiasis-outbreak-grows/) | CBS News | 2026-07-15T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Eyes on the CDC in the cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/eyes-cdc-cyclosporiasis-outbreak-rcna587666) | NBC News | 2026-07-15T22:00+00:00 | Outbreaks and emerging infections
@@ -462,8 +464,6 @@ Search window: 7 day(s) ending 2026-07-16
 - [Why the Ebola outbreak in Africa is tough to track](https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFRaeVQyS3k3aHJ4aW01Z2pJTDFIcUpHbGsxQlhkRkpLNmtTa0poWGpiZnpzcXlmdkxucGpma1plbFZtdHI5UTNuMklMX1dCc0djMnp1NFlUWmdaR1lrWkI4S1VpRFoteHQzNlc4N2dtNkVjLWdXbzlubFJBeXdfRlRzaVdoNERnTkZ6VGVB?oc=5) | WCVB | 2026-07-15T21:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases surge past 2,000, now fastest-growing outbreak in history](https://news.google.com/rss/articles/CBMingFBVV95cUxQc281N2pETmNoek5lbWRzV3dfUjBuUDBhemFUSWdEWEdYQlExZjY2X3M0Uk9CV3RLbUJfQVJ2WWlaaFZJbVhFcWJzSWJidG1RRVZOMmhnaEZGbEYtWkYySldoX29vQjB5TjJxSTVPRlI5bVhYcDV5UXlOQS11Q0pMTzJ6em5EVFNGd3FuYnhtVzJheU42WDRqNG9IdzBUZw?oc=5) | CIDRAP | 2026-07-15T20:15+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [How much did CDC cuts really impact this cyclosporiasis outbreak?](https://www.washingtonpost.com/health/2026/07/15/how-much-did-cdc-cuts-really-impact-this-cyclosporiasis-outbreak/) | The Washington Post | 2026-07-15T20:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
