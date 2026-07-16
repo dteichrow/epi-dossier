@@ -1,5 +1,5 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -14,26 +14,26 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 257,
+    "metadata_only_count": 258,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 281,
+    "sources_live": 280,
     "story_count_change": 3,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 281,
+    "live": 280,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-16T00:17:10",
+  "generated_at": "2026-07-16T00:17:17",
   "source_failures": [
     {
-      "error": "cannot access local variable 'reference' where it is not associated with a value",
-      "required": true,
-      "source": "FDA Foodborne Outbreaks",
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
     }
   ]
