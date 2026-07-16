@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-16
-Generated at: 2026-07-16T08:16
+Generated at: 2026-07-16T08:17
 Search window: 7 day(s) ending 2026-07-16
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-07-16
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology; 2026-07-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa; 2026-07-11T00:27+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (244), Policy, surveillance, and public health infrastructure (47), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (244), Policy, surveillance, and public health infrastructure (48), Historical epidemiology / ancient disease / paleopathology (5)
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
 ### Historical epidemiology and ancient pathogens
@@ -25,14 +25,14 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 162 item(s) across 104 source(s).
-- Baseline snapshot created with 162 clustered item(s) across 104 source(s).
+- Newly tracked story cluster: 164 item(s) across 105 source(s).
+- Baseline snapshot created with 164 clustered item(s) across 105 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 117 item(s) across 88 source(s).
-- Baseline snapshot created with 117 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 116 item(s) across 87 source(s).
+- Baseline snapshot created with 116 clustered item(s) across 87 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Hantavirus and cruise-ship outbreak
@@ -44,7 +44,7 @@ Search window: 7 day(s) ending 2026-07-16
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 162 item(s) across 104 source(s); 2 official/primary-source item(s).
+- Topic size: 164 item(s) across 105 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-15T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [As cyclosporiasis cases rise, consumers are left guessing which foods to avoid](https://www.cbsnews.com/news/cyclospora-outbreak-foods-to-avoid/) (CBS News); [Video Former CDC staffer on cyclospora outbreak response - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/video/former-cdc-staffer-cyclospora-outbreak-response-134815191) (ABC News - Breaking News, Latest News and Videos); [What’s safe to eat during the cyclospora outbreak](https://www.cnn.com/2026/07/15/health/video/whats-safe-to-eat-during-cyclospora-outbreak-digvid-vrtc) (CNN)
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-07-16
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 117 item(s) across 88 source(s); 3 official/primary-source item(s).
+- Topic size: 116 item(s) across 87 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. The crude case fatality ratio (CFR) rose from 28.8% to 32.1%.
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola Patients Flee After Attack on Congo Hospital Disrupts Outbreak Response](https://brusselsmorning.com/ebola-patients-flee-2026/100885/) (Brussels Morning); [Tensions Erupt in Congo as Ebola Outbreak Spirals](https://www.devdiscourse.com/article/health/3951358-tensions-erupt-in-congo-as-ebola-outbreak-spirals) (Devdiscourse)
