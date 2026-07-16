@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-16
-Generated at: 2026-07-16T03:58
+Generated at: 2026-07-16T04:12
 Search window: 7 day(s) ending 2026-07-16
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-16
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology; 2026-07-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa; 2026-07-11T00:27+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (223), Policy, surveillance, and public health infrastructure (48), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (220), Policy, surveillance, and public health infrastructure (50), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 161 item(s) across 107 source(s).
-- Baseline snapshot created with 161 clustered item(s) across 107 source(s).
+- Newly tracked story cluster: 160 item(s) across 106 source(s).
+- Baseline snapshot created with 160 clustered item(s) across 106 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
@@ -38,7 +38,7 @@ Search window: 7 day(s) ending 2026-07-16
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 161 item(s) across 107 source(s); 2 official/primary-source item(s).
+- Topic size: 160 item(s) across 106 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-15T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [The foods you should avoid as the cyclosporiasis outbreak grows](https://www.cbsnews.com/video/here-are-the-foods-you-should-avoid-as-cyclosporiasis-outbreak-grows/) (CBS News); [Eyes on the CDC in the cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/eyes-cdc-cyclosporiasis-outbreak-rcna587666) (NBC News); [Cyclospora Outbreak: What to Know About Symptoms and Food Safety](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) (The New York Times)
@@ -439,8 +439,6 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [The Ebola outbreak in the Congo may be worse than feared](https://observer.co.uk/news/the-sensemaker/article/the-ebola-outbreak-in-the-congo-may-be-worse-than-feared) | The Observer | 2026-07-16T05:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Workers at an Ebola treatment center go on strike over unpaid salaries and bonuses at Rwampara General Hospital in Ituri, northeastern Congo, on Monday.](https://sanduskyregister.com/photo-single/1392207/?mode\=team) | Sandusky Register | 2026-07-16T05:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak disrupts US-backed minerals talks, threatening critical supply chains for crypto mining hardware](https://cryptobriefing.com/congo-ebola-disrupts-us-minerals-talks-crypto/) | Crypto Briefing | 2026-07-16T03:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [UNICEF Democratic Republic of the Congo Humanitarian Situation Report No. 1 – Ebola Outbreak (Bundibugyo Virus), 15 May–30 June 2026](https://reliefweb.int/report/democratic-republic-congo/unicef-democratic-republic-congo-humanitarian-situation-report-no-1-ebola-outbreak-bundibugyo-virus-15-may-30-june-2026) | ReliefWeb | 2026-07-16T03:16+00:00 | Outbreaks and emerging infections
@@ -464,6 +462,8 @@ Search window: 7 day(s) ending 2026-07-16
 - [Ebola cases surge past 2,000, now fastest-growing outbreak in history](https://news.google.com/rss/articles/CBMingFBVV95cUxQc281N2pETmNoek5lbWRzV3dfUjBuUDBhemFUSWdEWEdYQlExZjY2X3M0Uk9CV3RLbUJfQVJ2WWlaaFZJbVhFcWJzSWJidG1RRVZOMmhnaEZGbEYtWkYySldoX29vQjB5TjJxSTVPRlI5bVhYcDV5UXlOQS11Q0pMTzJ6em5EVFNGd3FuYnhtVzJheU42WDRqNG9IdzBUZw?oc=5) | CIDRAP | 2026-07-15T20:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How much did CDC cuts really impact this cyclosporiasis outbreak?](https://www.washingtonpost.com/health/2026/07/15/how-much-did-cdc-cuts-really-impact-this-cyclosporiasis-outbreak/) | The Washington Post | 2026-07-15T20:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [MSF urges Ebola response scale-up as Congo outbreak nears 2,000 cases](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcFJGb3dOeVNOaXNFZzVNeU95dUxuQVZaU3ZKQ2ZDeVlkbGpWYkZyV0ZDRkU0R3ZERlA1Z3lCSHhIN0dDX25NVzhhVE1QOFFHb0xoY014dmx3eHRoNjQ2VmtwWlY0bzhCaThSdXRMOXk5VElBcF8ybHd0VGtTdUNFdGdhZGNkbjNOcExQc0syRU5qN2lUMTg2aVVZbVpNenI2enc?oc=5) | CNBC Africa | 2026-07-15T19:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -524,6 +524,5 @@ Search window: 7 day(s) ending 2026-07-16
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
