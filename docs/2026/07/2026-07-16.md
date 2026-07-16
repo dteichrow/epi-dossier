@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-16
-Generated at: 2026-07-16T09:55
+Generated at: 2026-07-16T09:58
 Search window: 7 day(s) ending 2026-07-16
 
 ## Executive scan
@@ -8,12 +8,12 @@ Search window: 7 day(s) ending 2026-07-16
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa; 2026-07-16T09:37+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-16T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (240), Policy, surveillance, and public health infrastructure (47), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, Florida Department of Health Press Releases.
+- [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology; 2026-07-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (237), Policy, surveillance, and public health infrastructure (44), Historical epidemiology / ancient disease / paleopathology (5)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Historical epidemiology and ancient pathogens
@@ -25,14 +25,14 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 167 item(s) across 112 source(s).
-- Baseline snapshot created with 167 clustered item(s) across 112 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+- Newly tracked story cluster: 160 item(s) across 107 source(s).
+- Baseline snapshot created with 160 clustered item(s) across 107 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 108 item(s) across 81 source(s).
-- Baseline snapshot created with 108 clustered item(s) across 81 source(s).
+- Newly tracked story cluster: 109 item(s) across 80 source(s).
+- Baseline snapshot created with 109 clustered item(s) across 80 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Hantavirus and cruise-ship outbreak
@@ -44,15 +44,15 @@ Search window: 7 day(s) ending 2026-07-16
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 167 item(s) across 112 source(s); 3 official/primary-source item(s).
+- Topic size: 160 item(s) across 107 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-16T00:00)
-- Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See CDC Investigation Notice. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [As cyclosporiasis cases rise, consumers are left guessing which foods to avoid](https://www.cbsnews.com/news/cyclospora-outbreak-foods-to-avoid/) (CBS News); [What’s safe to eat during the cyclospora outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFY3Szd2Z05NcFZTOU85eFhtZjJ5STNTaHpyVlJlOW14VzBIT0FOa0gyY1FXZ3ZGVVF2WVNYMlVrcGZJejYyOENfc2p0MVo1MUZqZW96VkV0ZnlKZHhla0xMclZVXzJudWxlbm9QSWQ0Q0pibmRYTkhLdUhyMDUyTFNtQXdrX1RsQlNJMTUxdW9HX2ZSRDl3R3BaUDlZbWpjLUE?oc=5) (CNN)
+- Detailed note: The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [As cyclosporiasis cases rise, consumers are left guessing which foods to avoid](https://www.cbsnews.com/news/cyclospora-outbreak-foods-to-avoid/) (CBS News); [What’s safe to eat during the cyclospora outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFY3Szd2Z05NcFZTOU85eFhtZjJ5STNTaHpyVlJlOW14VzBIT0FOa0gyY1FXZ3ZGVVF2WVNYMlVrcGZJejYyOENfc2p0MVo1MUZqZW96VkV0ZnlKZHhla0xMclZVXzJudWxlbm9QSWQ0Q0pibmRYTkhLdUhyMDUyTFNtQXdrX1RsQlNJMTUxdW9HX2ZSRDl3R3BaUDlZbWpjLUE?oc=5) (CNN); [Eyes on the CDC in the cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXlqdDc2MTNpaUNzYUJHajE1QmYxSEVJZjUwRFFkaE0yRGlOU0k3blhZZWtOS1VWVFRNMm1qaEhycUVOOGRuOV9XVUpTeGgwVXlXcjI0bmFxaUhBa2ZreVZmR0NYbUQzcHJPV05XTTlnX2Z6N21YdkFNQUh6N3FINFN6RElYdnZWZE9wX2xFcw?oc=5) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 108 item(s) across 81 source(s); 4 official/primary-source item(s).
+- Topic size: 109 item(s) across 80 source(s); 4 official/primary-source item(s).
 - Lead item: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa, 2026-07-16T09:37+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk...
 - Evidence notes: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Americans in DRC will no longer be able to fly directly to US amid Ebola outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/americans-drc-longer-fly-directly-us-amid-ebola/story?id\=134805108) (ABC News - Breaking News, Latest News and Videos)
@@ -369,32 +369,12 @@ Search window: 7 day(s) ending 2026-07-16
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1390: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-15T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See CDC Investigation Notice. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-14T00:00
 - URL: https://pubmed.ncbi.nlm.nih.gov/42448529/
 - Category: Historical epidemiology / ancient disease / paleopathology
 - Summary: Adverse outcomes include stillbirth, neonatal death, prematurity, and long-term neurologic, skeletal, and auditory complications. Evidence-based prevention strategies include universal early pregnancy screening, repeat testing for high-risk patients, prompt penicillin treatment, strengthened partner services, and expanded prenatal care access. System-level challenges such as inconsistent screening practices, treatment delays, and under-resourced public health programs-further sustain transmission.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Ancient pathogen genomics in Africa: Current evidence and future directions.
-- Source: PubMed Historical Epidemiology
-- Date: 2026-07-14T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42442994/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: We identify Africa as a pivotal frontier for the field and outline strategic priorities for moving from isolated detections toward continent-scale reconstructions of past disease landscapes, with potential relevance for understanding long-term patterns of endemicity, emergence, and epidemic risk. Ancient pathogen genomics has redefined how infectious disease histories are reconstructed, revealing unexpected origins, transmission routes, and lineage turnovers that are invisible from modern genomes alone. Yet, this perspective remains heavily biased toward Eurasia, leaving Africa-central to human evolution and home to diverse ecological settings relevant to zoonotic and vector-borne disease emergence-largely unexplored.
 - Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -406,6 +386,16 @@ Search window: 7 day(s) ending 2026-07-16
 - Category: Major epidemiology studies
 - Summary: This consensus document, developed from literature review, outbreak analyses, and deliberations by 14 Indian experts, highlights outbreaks from 1966 (Delhi: 616 cases, case fatality ration: CFR 20.9%) to 2022-2023 (Kolkata). Systematic review evidence shows 12.1% prevalence in epidemics (CFR 12.8%) and 0.76% in endemic settings (CFR 3.0%), though true burden is underestimated due to weak surveillance. Experts recommend vaccination at 9-12 months with booster at 10-11 y, mandatory reporting, sentinel surveillance, and clinician awareness.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Ancient pathogen genomics in Africa: Current evidence and future directions.
+- Source: PubMed Historical Epidemiology
+- Date: 2026-07-14T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42442994/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: We identify Africa as a pivotal frontier for the field and outline strategic priorities for moving from isolated detections toward continent-scale reconstructions of past disease landscapes, with potential relevance for understanding long-term patterns of endemicity, emergence, and epidemic risk. Ancient pathogen genomics has redefined how infectious disease histories are reconstructed, revealing unexpected origins, transmission routes, and lineage turnovers that are invisible from modern genomes alone. Yet, this perspective remains heavily biased toward Eurasia, leaving Africa-central to human evolution and home to diverse ecological settings relevant to zoonotic and vector-borne disease emergence-largely unexplored.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
@@ -429,10 +419,18 @@ Search window: 7 day(s) ending 2026-07-16
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.
+- Source: PubMed Ancient Pathogen Genomics
+- Date: 2026-07-11T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42436173/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: Using ancient DNA, we traced the dynamics of LRRK2 and PRKN variants in Europe and showed that the common PD risk allele LRRK2 G2019S-also protective against salmonellosis-was absent in Paleolithic populations but rose rapidly during the Early Neolithic, likely driven by selection from emerging human-adapted Salmonella. LRRK2 (leucine-rich repeat kinase 2) and Parkin (PRKN) act in shared pathways and are implicated in Parkinson's disease (PD), leprosy, and other diseases. We examined the evolutionary history of LRRK2 and PRKN in primates and human populations and found evidence of positive selection on both genes, alongside strong constraint at LRRK2 disease-associated sites.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Evolutionary history of LRRK2 and PRKN in leprosy and Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42436173/) | PubMed Ancient Pathogen Genomics | 2026-07-11T00:00 | Historical epidemiology / ancient disease / paleopathology
-  Using ancient DNA, we traced the dynamics of LRRK2 and PRKN variants in Europe and showed that the common PD risk allele LRRK2 G2019S-also protective against salmonellosis-was absent in Paleolithic populations but rose rapidly during the Early Neolithic, likely driven by selection from emerging human-adapted Salmonella. LRRK2 (leucine-rich repeat kinase 2) and Parkin (PRKN) act in shared pathways and are implicated in Parkinson's disease (PD), leprosy, and other diseases. We examined the evolutionary history of LRRK2 and PRKN in primates and human populations and found evidence of positive selection on both genes, alongside strong constraint at LRRK2 disease-associated sites.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-06T17:36+02:00 | Policy, surveillance, and public health infrastructure
   On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) | Michigan Department of Health and Human Services Infectious Disease Updates | 2026-07-04T00:00 | Outbreaks and emerging infections
@@ -471,6 +469,8 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak disrupts US-backed minerals talks, sources say](https://www.polity.org.za/article/congo-ebola-outbreak-disrupts-us-backed-minerals-talks-sources-say-2026-07-15) | Polity.org.za | 2026-07-15T21:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Cyclospora Outbreak: What to Know About Symptoms and Food Safety](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2xLb0Z4NGx2X0V2TUdYNmthN2kyaWxnUW5yLWFFRHJZSDhIckJoNWxrc0pnSWtFcE9LVFpkQjlWMVAtR0lZeVVoV3k5YjhwWUF6Wmk3Xzc5WGNmVnpGOTJ3Z3FXaEoybjhBZWVYaDJGN2pXbUIwYS1WajRnYXV6MDZzbm9UZDZfcjlaVg?oc=5) | The New York Times | 2026-07-15T21:34+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/)
@@ -485,18 +485,18 @@ Search window: 7 day(s) ending 2026-07-16
   Journal/preprint server: Seminars in perinatology
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42448529/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42448529/
-- [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/)
-  Source: PubMed Historical Epidemiology
-  DOI: 10.1016/j.tim.2026.06.004
-  Journal/preprint server: Trends in microbiology
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42442994/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42442994/
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2676385
   Journal/preprint server: Human vaccines & immunotherapeutics
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42446494/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42446494/
+- [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/)
+  Source: PubMed Historical Epidemiology
+  DOI: 10.1016/j.tim.2026.06.004
+  Journal/preprint server: Trends in microbiology
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42442994/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42442994/
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/)
   Source: PubMed Historical Epidemiology
   DOI: 10.1016/j.autrev.2026.104140
