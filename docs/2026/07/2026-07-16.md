@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-16
-Generated at: 2026-07-16T16:17
+Generated at: 2026-07-16T16:18
 Search window: 7 day(s) ending 2026-07-16
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-07-16
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (252), Policy, surveillance, and public health infrastructure (43), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
+- Category mix: Outbreaks and emerging infections (250), Policy, surveillance, and public health infrastructure (42), Historical epidemiology / ancient disease / paleopathology (5)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Polio and wastewater surveillance
@@ -39,28 +39,28 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 171 item(s) across 108 source(s).
-- Baseline snapshot created with 171 clustered item(s) across 108 source(s).
+- Newly tracked story cluster: 169 item(s) across 107 source(s).
+- Baseline snapshot created with 169 clustered item(s) across 107 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 112 item(s) across 77 source(s).
-- Baseline snapshot created with 112 clustered item(s) across 77 source(s).
+- Newly tracked story cluster: 111 item(s) across 78 source(s).
+- Baseline snapshot created with 111 clustered item(s) across 78 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 171 item(s) across 108 source(s); 2 official/primary-source item(s).
+- Topic size: 169 item(s) across 107 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-16T00:00)
 - Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Cyclosporiasis outbreak possibly traced to lettuce from Mexico used by Taco Bell, source says](https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/) (CBS News); [Lettuce supplier identified as potential source of cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/) (The Washington Post); [Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak](https://www.nbcnews.com/video/iceberg-lettuce-supplier-being-investigated-by-fda-as-source-of-cyclosporiasis-outbreak-266809925739) (NBC News)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Lettuce supplier identified as potential source of cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/) (The Washington Post); [Cyclosporiasis outbreak possibly traced to lettuce from Mexico used by Taco Bell, source says](https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/) (CBS News); [Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak](https://www.nbcnews.com/video/iceberg-lettuce-supplier-being-investigated-by-fda-as-source-of-cyclosporiasis-outbreak-266809925739) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 112 item(s) across 77 source(s); 4 official/primary-source item(s).
+- Topic size: 111 item(s) across 78 source(s); 4 official/primary-source item(s).
 - Lead item: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa, 2026-07-16T09:37+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk...
 - Evidence notes: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths](https://www.timesfreepress.com/news/2026/jul/16/more-health-workers-strike-as-ebola-cases-in-congo-exceed-2000-including-754-deaths/) (Chattanooga Times Free Press)
@@ -447,9 +447,9 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Cyclosporiasis outbreak possibly traced to lettuce from Mexico used by Taco Bell, source says](https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/) | CBS News | 2026-07-16T23:13+00:00 | Outbreaks and emerging infections
+- [Lettuce supplier identified as potential source of cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/) | The Washington Post | 2026-07-16T23:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Lettuce supplier identified as potential source of cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/) | The Washington Post | 2026-07-16T23:10+00:00 | Outbreaks and emerging infections
+- [Cyclosporiasis outbreak possibly traced to lettuce from Mexico used by Taco Bell, source says](https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/) | CBS News | 2026-07-16T23:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak](https://www.nbcnews.com/video/iceberg-lettuce-supplier-being-investigated-by-fda-as-source-of-cyclosporiasis-outbreak-266809925739) | NBC News | 2026-07-16T22:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -460,8 +460,6 @@ Search window: 7 day(s) ending 2026-07-16
 - [Last Ebola patient in Uganda discharged as outbreak surges in DR Congo](https://www.cidrap.umn.edu/ebola/last-ebola-patient-uganda-discharged-outbreak-surges-dr-congo) | CIDRAP | 2026-07-16T20:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Cases Surge in the Democratic Republic of Congo](https://www.devdiscourse.com/article/health/3951573-ebola-cases-surge-in-the-democratic-republic-of-congo?amp) | Devdiscourse | 2026-07-16T20:28+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Uganda starts final 42-day wait before declaring Ebola outbreak over](https://eastleighvoice.co.ke/uganda/380061/uganda-starts-final-42-day-wait-before-declaring-ebola-outbreak-over) | The Eastleigh Voice | 2026-07-16T19:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cambodia confirms human H5N1 avian flu case as H5N1 hits more Utah egg farms](https://www.cidrap.umn.edu/avian-influenza-bird-flu/cambodia-confirms-human-h5n1-avian-flu-case-h5n1-hits-more-utah-egg-farms) | CIDRAP | 2026-07-16T18:52+00:00 | Virology and pathogen evolution
   Most recent cases in Cambodia have involved a reassortant (2.3.2.1e) between an older H5N1 clade that has circulated in Cambodia since 2014 and the newer clade 2.3.4.4b virus that is circulating globally. Cambodia reported 19 human cases of H5N1 in 2025, eight of which were fatal. Topics & Projects Antimicrobial Stewardship Chronic Wasting Disease Osterholm Update Podcasts About CIDRAP CIDRAP in the News Our Staff Our Director Osterholm in the Press Shop Merchandise Contact Us About Earlier this week Cambodian officials announced the country’s fifth human H5N1 avian flu case this year, this one involving a 9-month-old girl.
@@ -478,6 +476,8 @@ Search window: 7 day(s) ending 2026-07-16
 - [Florida is one of the states with reported cases of Cyclospora, but how many cases are in South Florida?](https://news.google.com/rss/articles/CBMingFBVV95cUxQa25DeWlTMEYyaHpGaGU3TnkxMkNOMEl6VWQ0dEE5TkJJbTBzUTN6Tno3dkVqY1M3S2VYNHBWcS1wcTZueDVVWEhpTzBFMGlCQjRfSFJPbVo1RFFmVV9MLWxmY2dCc1Z2R1FuS0Nad0tPUUFGYmVSRXNBMzVpMTdCeEk0Ti1OeHVhZVFwNTJRS0k3dTc4eVNzbWpfM2VkZw?oc=5) | CBS News | 2026-07-16T16:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola 'spreading faster than any previous outbreak' in DR Congo, WHO warns](https://www.france24.com/en/africa/20260716-ebola-spreading-faster-than-any-previous-outbreak-dr-congo-who-warns) | France 24 | 2026-07-16T15:02+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [As cyclosporiasis cases rise, consumers are left guessing which foods to avoid](https://news.google.com/rss/articles/CBMickFVX3lxTE03T3paWVNkZEIya0lIWmNnMDFQX0hCUmtPN1RTZl9sZTRHQkM0RTFEdDFZbVppZVdibzN4NWI5UTN2NFBVVDFvNWxPVUZUOF9iQ3NyTThVdktZNm8xRXFTbzcxX1pyanBhajBkSlpQTGo0dw?oc=5) | CBS News | 2026-07-16T14:19+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
