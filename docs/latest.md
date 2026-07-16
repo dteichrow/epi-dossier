@@ -1,19 +1,19 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-16
-Generated at: 2026-07-16T06:09
+Generated at: 2026-07-16T06:17
 Search window: 7 day(s) ending 2026-07-16
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-16T12:58+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-16T13:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology; 2026-07-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (229), Policy, surveillance, and public health infrastructure (48), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa; 2026-07-11T00:27+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (225), Policy, surveillance, and public health infrastructure (48), Historical epidemiology / ancient disease / paleopathology (5)
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
 ### Historical epidemiology and ancient pathogens
@@ -24,15 +24,15 @@ Search window: 7 day(s) ending 2026-07-16
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
-- Lead item: [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks)
-- Newly tracked story cluster: 166 item(s) across 112 source(s).
-- Baseline snapshot created with 166 clustered item(s) across 112 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
+- Newly tracked story cluster: 163 item(s) across 110 source(s).
+- Baseline snapshot created with 163 clustered item(s) across 110 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 99 item(s) across 76 source(s).
-- Baseline snapshot created with 99 clustered item(s) across 76 source(s).
+- Newly tracked story cluster: 98 item(s) across 75 source(s).
+- Baseline snapshot created with 98 clustered item(s) across 75 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Hantavirus and cruise-ship outbreak
@@ -44,15 +44,15 @@ Search window: 7 day(s) ending 2026-07-16
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 166 item(s) across 112 source(s); 3 official/primary-source item(s).
-- Lead item: [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks, 2026-07-15T00:00)
-- Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See CDC Investigation Notice. The health department labels these counts preliminary.
-- Evidence notes: [FDA outbreak investigation 1390: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [What’s safe to eat during the cyclospora outbreak](https://www.cnn.com/2026/07/15/health/video/whats-safe-to-eat-during-cyclospora-outbreak-digvid-vrtc) (CNN); [Eyes on the CDC in the cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/eyes-cdc-cyclosporiasis-outbreak-rcna587666) (NBC News)
+- Topic size: 163 item(s) across 110 source(s); 2 official/primary-source item(s).
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-15T00:00)
+- Detailed note: The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [What’s safe to eat during the cyclospora outbreak](https://www.cnn.com/2026/07/15/health/video/whats-safe-to-eat-during-cyclospora-outbreak-digvid-vrtc) (CNN); [Eyes on the CDC in the cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/eyes-cdc-cyclosporiasis-outbreak-rcna587666) (NBC News); [Cyclospora Outbreak: What to Know About Symptoms and Food Safety](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 99 item(s) across 76 source(s); 3 official/primary-source item(s).
+- Topic size: 98 item(s) across 75 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Uganda begins countdown to end of Ebola outbreak](https://africa24tv.com/uganda-begins-countdown-to-end-of-ebola-outbreak/) (Africa24 TV); [WHO takes questions on Ebola outbreak, global health issues](https://www.cbc.ca/player/play/video/9.7272138) (CBC)
@@ -69,7 +69,7 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-16T12:58+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-16T13:16+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Postscript to the Hantavirus Outbreak](https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5) (tristandc.com); [Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFdYemdYRmxFSkVVTlBMUWt3WkdSMFJSeHZUUkpmMmpOd0NRVjNXTXozU2FkLUpKc01zUzNaNWxhV1o5UWN4U2U1WU9YQTlCRk5QMWFrUzVCeHZXQ0FkdEcxU2ZZSkUwY0l2aFFEQTVFQ1NBZ0VmU3ZrMlB4aG1qSGZsVDY2TVp2NjlYUHdtZHJlMng3TlRHb1pMOWtrb2ZwaVRmci1RV09WWEVzRGE4S1JmdmM0VzUwMmRBanBrdkR5S0JrbGU5QURmUlhPTXhBbHfSAdcBQVVfeXFMUGxBc1VlSXdkb2ktbDhnVnptaVpXV0NfUWg2UzVkNWFSTUd0NU9OcTRhZ2Uwb1NqUGlHQ01lWUkwMmttQ3NYRWhoM3JyTFVKcDg4RUJVaktSclJ4Ykp1azFpaU9wLTFiOHdpSkI3TzIwRlM3NTZHd0hSTEJGOVZ3R01zdzRQeGJzSTVHbmpidjFkSW9hMV84Ykk5Z0wyWW43X3VXM05zUnhfTHU4ZVQyYmhzU2c0OEdMSXA5TXNRVmFPWGNlZkJYTDlYNVRYU3VLVV84d2RTUWM?oc=5) (ABC7 Bay Area)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -331,22 +331,12 @@ Search window: 7 day(s) ending 2026-07-16
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-16T12:58+00:00
+- Date: 2026-07-16T13:16+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1390: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-15T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See CDC Investigation Notice. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 ### A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.
@@ -429,10 +419,18 @@ Search window: 7 day(s) ending 2026-07-16
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
+- Source: ECDC News
+- Date: 2026-07-06T17:36+02:00
+- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited usable detail remained after boilerplate cleanup.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-06T17:36+02:00 | Policy, surveillance, and public health infrastructure
-  Limited usable detail remained after boilerplate cleanup.
 - [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) | Michigan Department of Health and Human Services Infectious Disease Updates | 2026-07-04T00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
@@ -465,6 +463,8 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [What’s safe to eat during the cyclospora outbreak](https://www.cnn.com/2026/07/15/health/video/whats-safe-to-eat-during-cyclospora-outbreak-digvid-vrtc) | CNN | 2026-07-15T23:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Philippines: Samar records hundreds of suspected chikungunya cases](https://outbreaknewstoday.substack.com/p/philippines-samar-records-hundreds) | Outbreak News Today | 2026-07-15T22:56+00:00 | Outbreaks and emerging infections
+  In a follow-up on the Samar chikungunya outbreak, Provincial Health Office (PHO) Samar report the number of suspect chikungunya cases are now at 225- with the highest number of suspected cases with 124, followed by Gandara with 98, and Paranas with three. Serious complications are uncommon, but atypical severe cases can cause long-term symptoms and even death, especially in older people and in children under one year old. To confirm the outbreak, the PHO has sent 12 blood samples—six each from Basey and Gandara—to the Research Institute for Tropical Medicine (RITM) for laboratory testing.
 - [Eyes on the CDC in the cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/eyes-cdc-cyclosporiasis-outbreak-rcna587666) | NBC News | 2026-07-15T22:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak disrupts US-backed minerals talks, sources say](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmVtSTFEYVEzVElHb2pUdGtWRjhsNERJSXFfeWkzeFFUMHFGR3VEZU9RYS1VX1ZGMmZuNE1GRVIxeFRkM2hYUmxDR3BwM3hoTmthM2l3THZwRUVuWjc5R3R6Q0VwcWZQU0dBNFBwVzFWSmR2c0o2ZzNfc2J5WDNPNEVVZElzM3NpVk1scHdFc21vUFNMeGFnTWxsRHZqY204aHlGMmxrU0pMOGRXUTNDcQ?oc=5) | Polity.org.za | 2026-07-15T21:57+00:00 | Outbreaks and emerging infections
