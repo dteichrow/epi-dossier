@@ -14,45 +14,27 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 269,
+    "metadata_only_count": 266,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 296,
+    "sources_failed": 1,
+    "sources_live": 294,
     "story_count_change": 6,
-    "wrapper_only_count": 10
+    "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 296,
+    "live": 294,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-15T17:14:38",
+  "generated_at": "2026-07-15T17:17:40",
   "source_failures": [
     {
-      "error": "504 Server Error: Gateway Time-out for url: https://www.afro.who.int/rss.xml",
+      "error": "cannot access local variable 'reference' where it is not associated with a value",
       "required": true,
-      "source": "WHO Regional Office for Africa",
-      "source_type": "rss"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
+      "source": "FDA Foodborne Outbreaks",
       "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
     }
   ]
 }
