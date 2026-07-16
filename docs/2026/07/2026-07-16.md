@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-16
-Generated at: 2026-07-16T15:17
+Generated at: 2026-07-16T15:37
 Search window: 7 day(s) ending 2026-07-16
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-16T22:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-16T22:36+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa; 2026-07-16T09:37+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-16T00:00; Outbreaks and emerging infections; relevance 5/5)
@@ -13,7 +13,7 @@ Search window: 7 day(s) ending 2026-07-16
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Meningococcal meningitis in India: An expert consensus on use of MCVs.](https://pubmed.ncbi.nlm.nih.gov/42446494/) (PubMed Infectious Disease Search; 2026-07-14T00:00; Major epidemiology studies; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (247), Policy, surveillance, and public health infrastructure (39), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Polio and wastewater surveillance
@@ -39,8 +39,8 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 164 item(s) across 103 source(s).
-- Baseline snapshot created with 164 clustered item(s) across 103 source(s).
+- Newly tracked story cluster: 164 item(s) across 104 source(s).
+- Baseline snapshot created with 164 clustered item(s) across 104 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
@@ -52,10 +52,10 @@ Search window: 7 day(s) ending 2026-07-16
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 164 item(s) across 103 source(s); 2 official/primary-source item(s).
+- Topic size: 164 item(s) across 104 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-16T00:00)
 - Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Iceberg lettuce sold at Taco Bell linked to cyclospora outbreak](https://www.cnn.com/2026/07/16/health/cyclospora-outbreak-shredded-lettuce) (CNN); [Iceberg lettuce supplier investigated as possible source in cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/fda-names-source-cyclosporiasis-outbreak-rcna587899) (NBC News); [Taco Bell lettuce supplied by Taylor Farms linked to US cyclosporiasis outbreak, Washington Post reports](https://www.reuters.com/business/healthcare-pharmaceuticals/taco-bell-lettuce-supplied-by-taylor-farms-linked-us-cyclosporiasis-outbreak-2026-07-16/) (Reuters)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Lettuce supplier identified as potential source of cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/) (The Washington Post); [Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak](https://www.nbcnews.com/video/iceberg-lettuce-supplier-being-investigated-by-fda-as-source-of-cyclosporiasis-outbreak-266809925739) (NBC News); [Taco Bell lettuce supplied by Taylor Farms linked to US cyclosporiasis outbreak, Washington Post reports](https://www.reuters.com/business/healthcare-pharmaceuticals/taco-bell-lettuce-supplied-by-taylor-farms-linked-us-cyclosporiasis-outbreak-2026-07-16/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -85,7 +85,7 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-16T22:16+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-16T22:36+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons.](https://www.washingtonpost.com/opinions/2026/07/16/hantavirus-cruise-ship-outbreak-has-ended-here-are-5-lessons/) (The Washington Post); [Postscript to the Hantavirus Outbreak](https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5) (tristandc.com); [Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFdYemdYRmxFSkVVTlBMUWt3WkdSMFJSeHZUUkpmMmpOd0NRVjNXTXozU2FkLUpKc01zUzNaNWxhV1o5UWN4U2U1WU9YQTlCRk5QMWFrUzVCeHZXQ0FkdEcxU2ZZSkUwY0l2aFFEQTVFQ1NBZ0VmU3ZrMlB4aG1qSGZsVDY2TVp2NjlYUHdtZHJlMng3TlRHb1pMOWtrb2ZwaVRmci1RV09WWEVzRGE4S1JmdmM0VzUwMmRBanBrdkR5S0JrbGU5QURmUlhPTXhBbHfSAdcBQVVfeXFMUGxBc1VlSXdkb2ktbDhnVnptaVpXV0NfUWg2UzVkNWFSTUd0NU9OcTRhZ2Uwb1NqUGlHQ01lWUkwMmttQ3NYRWhoM3JyTFVKcDg4RUJVaktSclJ4Ykp1azFpaU9wLTFiOHdpSkI3TzIwRlM3NTZHd0hSTEJGOVZ3R01zdzRQeGJzSTVHbmpidjFkSW9hMV84Ykk5Z0wyWW43X3VXM05zUnhfTHU4ZVQyYmhzU2c0OEdMSXA5TXNRVmFPWGNlZkJYTDlYNVRYU3VLVV84d2RTUWM?oc=5) (ABC7 Bay Area)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -339,7 +339,7 @@ Search window: 7 day(s) ending 2026-07-16
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-16T22:16+00:00
+- Date: 2026-07-16T22:36+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -447,13 +447,11 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Iceberg lettuce sold at Taco Bell linked to cyclospora outbreak](https://www.cnn.com/2026/07/16/health/cyclospora-outbreak-shredded-lettuce) | CNN | 2026-07-16T21:52+00:00 | Outbreaks and emerging infections
+- [Lettuce supplier identified as potential source of cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/) | The Washington Post | 2026-07-16T22:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Iceberg lettuce supplier investigated as possible source in cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/fda-names-source-cyclosporiasis-outbreak-rcna587899) | NBC News | 2026-07-16T21:51+00:00 | Outbreaks and emerging infections
+- [Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak](https://www.nbcnews.com/video/iceberg-lettuce-supplier-being-investigated-by-fda-as-source-of-cyclosporiasis-outbreak-266809925739) | NBC News | 2026-07-16T22:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Taco Bell lettuce supplied by Taylor Farms linked to US cyclosporiasis outbreak, Washington Post reports](https://www.reuters.com/business/healthcare-pharmaceuticals/taco-bell-lettuce-supplied-by-taylor-farms-linked-us-cyclosporiasis-outbreak-2026-07-16/) | Reuters | 2026-07-16T21:49+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Lettuce supplier is potential source of cyclosporiasis outbreak, investigators say](https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/) | The Washington Post | 2026-07-16T21:18+00:00 | Outbreaks and emerging infections
+- [Taco Bell lettuce supplied by Taylor Farms linked to US cyclosporiasis outbreak, Washington Post reports](https://www.reuters.com/business/healthcare-pharmaceuticals/taco-bell-lettuce-supplied-by-taylor-farms-linked-us-cyclosporiasis-outbreak-2026-07-16/) | Reuters | 2026-07-16T22:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths](https://www.timesfreepress.com/news/2026/jul/16/more-health-workers-strike-as-ebola-cases-in-congo-exceed-2000-including-754-deaths/) | Chattanooga Times Free Press | 2026-07-16T21:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -465,7 +463,11 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Uganda starts 42-day countdown to being declared free of the virus](https://www.bbc.com/news/articles/cx2myxjv172o) | BBC | 2026-07-16T17:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone](https://news.un.org/en/story/2026/07/1167959) | UN News | 2026-07-16T17:09+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Humanitarian workers escape violence at DR Congo Ebola treatment center: Report](https://www.aa.com.tr/en/africa/humanitarian-workers-escape-violence-at-dr-congo-ebola-treatment-center-report/4000633) | Anadolu Ajansı | 2026-07-16T17:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?](https://www.bbc.com/news/articles/cz72p75zg4qo) | BBC | 2026-07-16T16:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Florida is one of the states with reported cases of Cyclospora, but how many cases are in South Florida?](https://news.google.com/rss/articles/CBMingFBVV95cUxQa25DeWlTMEYyaHpGaGU3TnkxMkNOMEl6VWQ0dEE5TkJJbTBzUTN6Tno3dkVqY1M3S2VYNHBWcS1wcTZueDVVWEhpTzBFMGlCQjRfSFJPbVo1RFFmVV9MLWxmY2dCc1Z2R1FuS0Nad0tPUUFGYmVSRXNBMzVpMTdCeEk0Ti1OeHVhZVFwNTJRS0k3dTc4eVNzbWpfM2VkZw?oc=5) | CBS News | 2026-07-16T16:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -476,8 +478,6 @@ Search window: 7 day(s) ending 2026-07-16
 - [Ebola Patients Flee After Attack on Congo Hospital Disrupts Outbreak Response](https://brusselsmorning.com/ebola-patients-flee-2026/100885/) | Brussels Morning | 2026-07-16T13:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda starts final phase before declaring Ebola outbreak over](https://news.az/news/uganda-starts-final-phase-before-declaring-ebola-outbreak-over) | Latest news from Azerbaijan | 2026-07-16T12:05+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Democratic Republic of the Congo (DRC) Activates Emergency Delivery plan to break Bundibugyo Ebola transmission](https://africa24tv.com/democratic-republic-of-the-congo-drc-activates-emergency-delivery-plan-to-break-bundibugyo-ebola-transmission/) | Africa24 TV | 2026-07-16T11:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -538,6 +538,7 @@ Search window: 7 day(s) ending 2026-07-16
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
+- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
