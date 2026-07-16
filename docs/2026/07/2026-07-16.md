@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-16
-Generated at: 2026-07-16T00:13
+Generated at: 2026-07-16T00:17
 Search window: 7 day(s) ending 2026-07-16
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-07-16
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) (PubMed Historical Epidemiology; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of Spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) (PubMed Historical Epidemiology; 2026-07-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa; 2026-07-11T00:27+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (229), Policy, surveillance, and public health infrastructure (46), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (229), Policy, surveillance, and public health infrastructure (45), Historical epidemiology / ancient disease / paleopathology (5)
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
 ### Historical epidemiology and ancient pathogens
@@ -31,8 +31,8 @@ Search window: 7 day(s) ending 2026-07-16
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 101 item(s) across 78 source(s).
-- Baseline snapshot created with 101 clustered item(s) across 78 source(s).
+- Newly tracked story cluster: 100 item(s) across 77 source(s).
+- Baseline snapshot created with 100 clustered item(s) across 77 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
@@ -46,10 +46,10 @@ Search window: 7 day(s) ending 2026-07-16
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 101 item(s) across 78 source(s); 3 official/primary-source item(s).
+- Topic size: 100 item(s) across 77 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa, 2026-07-11T00:27+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Publications orlunwop@who.int Sat, 11/07/2026 - 01:27 Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Workers at an Ebola treatment center go on strike over unpaid salaries and bonuses at Rwampara General Hospital in Ituri, northeastern Congo, on Monday.](https://sanduskyregister.com/photo-single/1392207/?mode\=team) (Sandusky Register); [Congo Ebola outbreak disrupts US-backed minerals talks, threatening critical supply chains for crypto mining hardware](https://cryptobriefing.com/congo-ebola-disrupts-us-minerals-talks-crypto/) (Crypto Briefing)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [UNICEF Calls for Faster Global Support to Contain Congo Ebola Outbreak](https://www.devdiscourse.com/article/health/3951112-unicef-calls-for-faster-global-support-to-contain-congo-ebola-outbreak) (Devdiscourse); [Workers at an Ebola treatment center go on strike over unpaid salaries and bonuses at Rwampara General Hospital in Ituri, northeastern Congo, on Monday.](https://sanduskyregister.com/photo-single/1392207/?mode\=team) (Sandusky Register)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -429,6 +429,8 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [UNICEF Calls for Faster Global Support to Contain Congo Ebola Outbreak](https://www.devdiscourse.com/article/health/3951112-unicef-calls-for-faster-global-support-to-contain-congo-ebola-outbreak) | Devdiscourse | 2026-07-16T07:12+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Workers at an Ebola treatment center go on strike over unpaid salaries and bonuses at Rwampara General Hospital in Ituri, northeastern Congo, on Monday.](https://sanduskyregister.com/photo-single/1392207/?mode\=team) | Sandusky Register | 2026-07-16T05:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak disrupts US-backed minerals talks, threatening critical supply chains for crypto mining hardware](https://cryptobriefing.com/congo-ebola-disrupts-us-minerals-talks-crypto/) | Crypto Briefing | 2026-07-16T03:24+00:00 | Outbreaks and emerging infections
@@ -439,6 +441,8 @@ Search window: 7 day(s) ending 2026-07-16
   Limited detail was available from feed metadata alone.
 - [What’s safe to eat during the cyclospora outbreak](https://www.cnn.com/2026/07/15/health/video/whats-safe-to-eat-during-cyclospora-outbreak-digvid-vrtc) | CNN | 2026-07-15T23:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Philippines: Samar records hundreds of suspected chikungunya cases](https://outbreaknewstoday.substack.com/p/philippines-samar-records-hundreds) | Outbreak News Today | 2026-07-15T22:56+00:00 | Outbreaks and emerging infections
+  In a follow-up on the Samar chikungunya outbreak, Provincial Health Office (PHO) Samar report the number of suspect chikungunya cases are now at 225- with the highest number of suspected cases with 124, followed by Gandara with 98, and Paranas with three. Serious complications are uncommon, but atypical severe cases can cause long-term symptoms and even death, especially in older people and in children under one year old. To confirm the outbreak, the PHO has sent 12 blood samples—six each from Basey and Gandara—to the Research Institute for Tropical Medicine (RITM) for laboratory testing.
 - [The foods you should avoid as the cyclosporiasis outbreak grows](https://www.cbsnews.com/video/here-are-the-foods-you-should-avoid-as-cyclosporiasis-outbreak-grows/) | CBS News | 2026-07-15T22:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Eyes on the CDC in the cyclosporiasis outbreak](https://www.nbcnews.com/health/health-news/eyes-cdc-cyclosporiasis-outbreak-rcna587666) | NBC News | 2026-07-15T22:00+00:00 | Outbreaks and emerging infections
@@ -460,10 +464,6 @@ Search window: 7 day(s) ending 2026-07-16
 - [Ebola outbreak tops 2,000 cases in DR Congo](https://news.google.com/rss/articles/CBMifEFVX3lxTE5SWEpwTDJNRmtocUlROXZ5UWhpR1FHbDB6cjZ1akNQb2w1ZmMtNTFtLTFPZkhaZDljbjRxdVZrSFpKcDZERUpibGdWVVAta0RqeGVkb3ZGblJxMWdLaUFSNEhGZjZpMEZSN2gwQmdTdG5TaVFUMFZDMkZwdUY?oc=5) | Medical Xpress | 2026-07-15T14:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Michigan's cyclosporiasis outbreak expands to more than 3,700 cases](https://www.cbsnews.com/detroit/news/michigans-cyclosporiasis-outbreak-expands-more-than-3700-cases/) | CBS News | 2026-07-15T14:18+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo Ebola Outbreak Tops 2,000 Cases as Health Workers Strike](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVDF1a19QQ0c0LVJuRVJ5cERUTGZRNXN6bTJfWEVNYlZSVmltcTNwN1JqaVBjREdqQ1NLTnN5SXJ1cFZNS2xyODM3dTkyUksxWHgzRm5uUTFRTDN4NHZGVkV0eFFab2VnMEhpOWZkZFYxNm5DamVGaTZ5T19WaTh3aWRR?oc=5) | Yahoo | 2026-07-15T14:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO declares Ebola Bundibugyo strain outbreak a global health emergency](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEgzbS0tc29xSTRKZWlLaVlvZG14blhRREJ6TmFVR0FFZlFEQ3NRc2F0NkljWHBmV0Y3VG96bGdabzZRS0lXMXFoTkVmTzBoRks1bjdTU243Njg4TTh3eXR2dDNfNEVWRDVCVlNVT05kYS15MmtObEROdWRNSmVEZ2Rwa3psemlEZF9sbnlWdkdGNmtvT3pLbnVzTDMwSXNsZGJiWGs5cw?oc=5) | The News Mill | 2026-07-15T13:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
