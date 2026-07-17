@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-17
-Generated at: 2026-07-17T10:18
+Generated at: 2026-07-17T10:46
 Search window: 7 day(s) ending 2026-07-17
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-17T17:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-17T17:37+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Health and demographic surveillance sites in Ethiopia: a scoping review of infrastructure and gaps for longitudinal studies on health and aging.](https://pubmed.ncbi.nlm.nih.gov/42466594/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa; 2026-07-16T09:37+00:00; Outbreaks and emerging infections; relevance 5/5)
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-17
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (264), Policy, surveillance, and public health infrastructure (48), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (259), Policy, surveillance, and public health infrastructure (48), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 113 item(s) across 80 source(s).
-- Baseline snapshot created with 113 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 107 item(s) across 76 source(s).
+- Baseline snapshot created with 107 clustered item(s) across 76 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - TheCable now includes quarantine language.
 
@@ -39,8 +39,8 @@ Search window: 7 day(s) ending 2026-07-17
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 189 item(s) across 118 source(s).
-- Baseline snapshot created with 189 clustered item(s) across 118 source(s).
+- Newly tracked story cluster: 190 item(s) across 120 source(s).
+- Baseline snapshot created with 190 clustered item(s) across 120 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Polio and wastewater surveillance
@@ -52,15 +52,15 @@ Search window: 7 day(s) ending 2026-07-17
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 189 item(s) across 118 source(s); 3 official/primary-source item(s).
+- Topic size: 190 item(s) across 120 source(s); 3 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-16T00:00)
 - Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Iceberg lettuce served at Taco Bell in 5 states linked to Cyclospora outbreak, says FDA](https://www.cidrap.umn.edu/cyclospora/iceberg-lettuce-served-taco-bell-5-states-linked-cyclospora-outbreak-says-fda) (CIDRAP); [Taylor Farms to recall products linked to cyclosporiasis outbreak, Bloomberg News reports](https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-recall-products-linked-cyclosporiasis-outbreak-bloomberg-news-2026-07-17/) (Reuters)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [MDHHS makes recommendations on preventing foodborne illness amid growing cyclosporiasis outbreak (7/4/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak) (Michigan Department of Health and Human Services Infectious Disease Updates); [Cyclospora outbreak possibly linked to lettuce from Mexico, CDC says](https://www.cbsnews.com/miami/video/cyclospora-outbreak-possibly-linked-to-lettuce-from-mexico-cdc-says/) (CBS News); [Iceberg lettuce served at Taco Bell in 5 states linked to Cyclospora outbreak, says FDA](https://www.cidrap.umn.edu/cyclospora/iceberg-lettuce-served-taco-bell-5-states-linked-cyclospora-outbreak-says-fda) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 113 item(s) across 80 source(s); 4 official/primary-source item(s).
+- Topic size: 107 item(s) across 76 source(s); 4 official/primary-source item(s).
 - Lead item: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa, 2026-07-16T09:37+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk...
 - Evidence notes: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Report: Seven American Ebola responders moved to Kenya quarantine after US travel ban](https://www.thecable.ng/report-seven-american-ebola-responders-moved-to-kenya-quarantine-after-us-travel-ban/) (TheCable)
@@ -93,7 +93,7 @@ Search window: 7 day(s) ending 2026-07-17
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-17T17:16+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-17T17:37+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons.](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDFTbkFaV3VvX2Fmc1VuY2E0Y2JZUXZ0RVJFSk1CN0x1eVdkVFExejdmQzc4V2NYMHJsRTZnUEJYQ1pjeC16SmR1ZEpNM0cwSDM4cldrSHpZWGotenRiX2V4X0NwSVRiQkJkdnNEUF96TFh4cjgzZTJEQTJUako4bXJfYS10ZlF5aklNZDRQNzVpdUpWU0hUZ0dGejJaYnFxZ2xMMFgycUE0Sl9UY0w3OF9n?oc=5) (The Washington Post); [Postscript to the Hantavirus Outbreak](https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5) (tristandc.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -339,7 +339,7 @@ Search window: 7 day(s) ending 2026-07-17
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-17T17:16+00:00
+- Date: 2026-07-17T17:37+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -449,13 +449,19 @@ Search window: 7 day(s) ending 2026-07-17
   Limited detail was available from feed metadata alone.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Cyclospora outbreak possibly linked to lettuce from Mexico, CDC says](https://www.cbsnews.com/miami/video/cyclospora-outbreak-possibly-linked-to-lettuce-from-mexico-cdc-says/) | CBS News | 2026-07-17T17:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Report: Seven American Ebola responders moved to Kenya quarantine after US travel ban](https://www.thecable.ng/report-seven-american-ebola-responders-moved-to-kenya-quarantine-after-us-travel-ban/) | TheCable | 2026-07-17T17:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Iceberg lettuce served at Taco Bell in 5 states linked to Cyclospora outbreak, says FDA](https://www.cidrap.umn.edu/cyclospora/iceberg-lettuce-served-taco-bell-5-states-linked-cyclospora-outbreak-says-fda) | CIDRAP | 2026-07-17T17:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO says DR Congo Ebola outbreak is outpacing response](https://english.nepalnews.com/s/international/who-says-dr-congo-ebola-outbreak-is-outpacing-response/) | Nepalnews.com | 2026-07-17T16:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Federal investigators looking into iceburg lettuce as possible source of cyclosporiasis outbreak](https://www.cbsnews.com/newyork/video/federal-investigators-looking-into-iceburg-lettuce-as-possible-source-of-cyclosporiasis-outbreak/) | CBS News | 2026-07-17T16:34+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Taylor Farms to recall products linked to cyclosporiasis outbreak, Bloomberg News reports](https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-recall-products-linked-cyclosporiasis-outbreak-bloomberg-news-2026-07-17/) | Reuters | 2026-07-17T16:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) | ABC News - Breaking News, Latest News and Videos | 2026-07-17T15:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Iceberg lettuce at some Taco Bell restaurants investigated in cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMimgFBVV95cUxORXBqQXhGMGM0LTRKLWdWaHdUd2dWSG16SmxHY182Vlo0cy1IXzZ6NEx0a01DcktVcF9jLUhkeGxibWRXam5fZVAtQW1TX3JIeElEeHV0bHBrMkhCdFdZSXRKUFRiQmR1alYwcEhZdWpxU0d5UVhsZzVob19BRVhRN29EOGN3RDVmQVhSQllSTWlUaFhQR0F0XzFR?oc=5) | NBC News | 2026-07-17T15:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -472,12 +478,6 @@ Search window: 7 day(s) ending 2026-07-17
 - [7 Americans quarantine at Kenya Ebola facility, Aid group says](https://www.theeastafrican.co.ke/tea/sustainability/health/7-americans-quarantine-at-kenya-ebola-facility-5529762) | The EastAfrican | 2026-07-17T09:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [CDC, FDA link Taco Bell lettuce supplier to multistate cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRlJTMUxXb0pCV2tOOVdjOU5oWmhBOW4zQzdBb0VyUUw5cGNoUGpfdGJiRUlvMEJVMVlkbE93TUtZNm1jb3RGcmVleWtCZ0hsS3ZQRUc5enVsYS11RjhodGQtcWFsZ0s5T1gxNTBDcTlYSUVrYUROdmxXRGd6NEZsQnUtQ0NVUGVXbDRndTExVFdrNF9NVjZ3S0NkNUhKV1R4bUZCamxOMG9kcEF1UWYyQUc5bWd0cXF3dDFUX25FVndtVjAxTEQw?oc=5) | The Washington Post | 2026-07-17T06:24+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Salinas-based Taylor Farms linked to U.S. cyclospora outbreak, report says](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQi1nNzFMVks1aC1yVkE5WmcxRkVZNkgzYW9IVHE5MG9KbC1rbFZnY0pwUHR6SUlPQ0FOQ3F0bkpXbzVqM0RzWkdqLXVSQXRjeWtIX2MyZndUQW5KanZFRkthdG96b1NPRnhtbEp3VDJsSVhOMWxnZWhPVGJjZVNiVzVFaDQ2RGNQdVl6MzhmUGd6NFdJ?oc=5) | CBS News | 2026-07-17T06:13+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Deadly Ebola outbreak spreading at record pace, WHO warns](https://www.cbc.ca/player/play/video/9.7273625) | CBC | 2026-07-17T03:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola cases top 2,100 as WHO warns further spread - China Daily](https://global.chinadaily.com.cn/a/202607/17/WS6a59839ca310986e2b465bcf.html) | China Daily - Global Edition | 2026-07-17T01:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
