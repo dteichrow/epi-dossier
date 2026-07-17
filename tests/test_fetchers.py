@@ -259,6 +259,40 @@ def test_fetch_html_list_uses_reader_for_blocked_fda_and_keeps_unadvised_active_
     assert items[1].url.endswith("outbreak-investigation-e-coli-frozen-blueberries-july-2026")
 
 
+def test_fetch_html_list_keeps_unadvised_fda_table_rows(monkeypatch):
+    html = """
+    <table>
+      <thead><tr>
+        <th>Date Posted</th><th>Reference #</th><th>Pathogen</th><th>Product</th>
+        <th>Total Case Count</th><th>Investigation Status</th><th>Outbreak/Event Status</th>
+      </tr></thead>
+      <tbody><tr>
+        <td>7/17/2026</td><td>1392</td><td>Cyclospora</td><td>Not Yet Identified</td>
+        <td>14</td><td>Active</td><td>Ongoing</td>
+      </tr></tbody>
+    </table>
+    """
+    response = Mock()
+    response.text = html
+    response.raise_for_status = Mock()
+    monkeypatch.setattr("src.fetchers.resilient_get", lambda *_args, **_kwargs: response)
+    source = SourceConfig(
+        name="FDA Foodborne Outbreaks",
+        type="html_list",
+        category="Outbreaks",
+        url="https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+        official=True,
+        max_items=10,
+    )
+
+    items = fetch_html_list(source, logger=Mock())
+
+    assert len(items) == 1
+    assert items[0].title == "FDA outbreak investigation 1392: Cyclospora"
+    assert items[0].url == source.url
+    assert "Reported total case count: 14." in items[0].summary
+
+
 def test_fetch_html_list_parses_ncdc_press_rows(monkeypatch):
     html = """
     <section id="news">

@@ -1832,6 +1832,7 @@ def collect_outbreak_metric_candidates(story: dict[str, Any], items: list[dict[s
                         "value": value,
                         "source": source,
                         "metric_label": metric_label,
+                        "match_start": match.start(),
                     }
                 )
     return candidates
@@ -1889,8 +1890,8 @@ def select_metric_candidate(candidates: list[dict[str, Any]]) -> dict[str, Any]:
     return max(
         candidate_pool,
         key=lambda candidate: (
-            int(candidate.get("precision_score", 0)),
             int(candidate.get("numeric_value", 0)),
+            int(candidate.get("precision_score", 0)),
             int(candidate.get("score", 0)),
         ),
     )
@@ -1904,18 +1905,32 @@ def metric_candidate_is_dashboard_authoritative(candidate: dict[str, Any]) -> bo
         return True
     if source_kind == "official":
         return True
-    return metric_source_reports_authority_count(source)
+    if source_kind == "wire":
+        return True
+    return metric_source_reports_authority_count(
+        source,
+        metric_start=candidate.get("match_start"),
+    )
 
 
-def metric_source_reports_authority_count(source: dict[str, Any]) -> bool:
+def metric_source_reports_authority_count(
+    source: dict[str, Any],
+    *,
+    metric_start: int | None = None,
+) -> bool:
     source_kind = str(source.get("source_kind", ""))
     if source_kind == "aggregator_only":
         return False
     text = str(source.get("text", "")).lower()
+    if metric_start is not None:
+        # Count attribution must govern the number itself. A later "WHO warns"
+        # clause should not turn an otherwise unsourced headline total into an
+        # authority-citing surveillance count.
+        text = text[max(0, int(metric_start) - 140) : int(metric_start)]
     authority_patterns = [
         r"\b(?:congo|drc|health ministry|ministry of health|health authorities|authorities|government|officials)\s+(?:says?|said|reported|recorded|confirmed|announced)\b",
         r"\b(?:according to|citing)\s+(?:congo|drc|the health ministry|the ministry of health|health authorities|authorities|officials|government|who)\b",
-        r"\b(?:who|africa cdc|cdc|ecdc)\s+(?:says?|said|reported|confirmed|warns?)\b",
+        r"\b(?:who|africa cdc|cdc|ecdc)\s+(?:says?|said|reported|confirmed)\b",
         r"\blatest government data\b",
     ]
     return any(re.search(pattern, text) for pattern in authority_patterns)
@@ -2049,6 +2064,8 @@ def metric_display_qualifier(qualifier: str, text: str, start: int, end: int) ->
     normalized_qualifier = normalize_whitespace(qualifier).lower()
     if normalized_qualifier:
         return normalized_qualifier
+    if metric_context_has_near_language(text, start, end):
+        return "nearly"
     if metric_context_has_threshold_language(text, start, end):
         return "over"
     return ""
@@ -2064,6 +2081,11 @@ def metric_precision_score(qualifier: str, text: str, start: int, end: int) -> i
 def metric_context_has_threshold_language(text: str, start: int, end: int) -> bool:
     context = text[max(0, start - 45) : min(len(text), end + 25)].lower()
     return bool(re.search(r"\b(top|tops|topped|exceed(?:s|ed)?|surpass(?:es|ed)?)\b", context))
+
+
+def metric_context_has_near_language(text: str, start: int, end: int) -> bool:
+    context = text[max(0, start - 45) : min(len(text), end + 25)].lower()
+    return bool(re.search(r"\b(?:near|nears|neared|approach(?:es|ed|ing)?)\b", context))
 
 
 def format_metric_value(qualifier: str, number: str) -> str:
@@ -2110,6 +2132,8 @@ def metric_note_for_source(source: dict[str, str], metric_kind: str, metric_labe
     subject = metric_note_subject(metric_kind, metric_label)
     if source_status in {"Official report", "Confirmed"} or source.get("source_kind") == "official":
         return f"Official-source {subject} as of {metric_source_as_of(date_text)}; definitions may still change with case finding."
+    if source.get("source_kind") == "wire":
+        return f"Report-grade wire {subject} from {source_name} ({date_text}); compare against official surveillance updates."
     if metric_source_reports_authority_count(source):
         return f"Authority-citing public report from {source_name} ({date_text}); verify against official surveillance updates."
     if source_status == "Needs verification":

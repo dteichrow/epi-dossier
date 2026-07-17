@@ -355,6 +355,78 @@ def test_render_story_dashboard_accepts_authority_citing_count_headline():
     assert "Authority-citing public report from U.S. News &amp; World Report" in content
 
 
+def test_dashboard_prefers_report_grade_total_over_local_official_suboutbreak():
+    story = {
+        "display_title": "Ebola virus disease",
+        "topic_name": "Ebola virus disease",
+        "lead_title": "Ebola outbreak updates",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "WHO",
+        "item_count": 3,
+        "source_count": 3,
+        "official_item_ids": ["uganda_official"],
+        "press_item_ids": ["reuters_total", "who_warning"],
+        "publisher_names": ["WHO", "Reuters", "Example News"],
+        "freshness_counts": {"live": 3},
+        "latest_update_summary": "DRC and Uganda updates are both present.",
+        "latest_update_bullets": [],
+        "related_references": [{"name": "Ebola virus disease", "pathogen": "Ebola virus", "aliases": ["ebola"]}],
+        "first_seen_at": "2026-07-16T09:37:00",
+        "latest_updated_at": "2026-07-17T01:21:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "uganda_official": {
+            "title": "Uganda begins countdown to end of Ebola outbreak",
+            "preferred_url": "https://example.com/uganda",
+            "publisher_name": "WHO",
+            "published_at": "2026-07-16T09:37+00:00",
+            "summary": "Uganda reported 20 confirmed Ebola cases and two deaths.",
+            "official": True,
+            "source_confidence": "official_agency",
+            "link_quality": "direct_article",
+            "country": "Uganda",
+            "freshness_state": "live",
+        },
+        "reuters_total": {
+            "title": "MSF urges Ebola response scale-up as Congo outbreak nears 2,000 cases and 750 deaths",
+            "preferred_url": "https://example.com/reuters",
+            "publisher_name": "Reuters",
+            "published_at": "2026-07-16T09:51+00:00",
+            "summary": "The report describes the larger DRC outbreak.",
+            "source_confidence": "wire",
+            "publisher_tier": "wire",
+            "link_quality": "metadata_only",
+            "country": "Democratic Republic of the Congo",
+            "freshness_state": "live",
+        },
+        "who_warning": {
+            "title": "DR Congo Ebola cases top 2,200 as WHO warns further spread",
+            "preferred_url": "https://example.com/warning",
+            "publisher_name": "Example News",
+            "published_at": "2026-07-17T01:21+00:00",
+            "summary": "Limited detail was available from feed metadata alone.",
+            "source_confidence": "metadata_only_signal",
+            "link_quality": "metadata_only",
+            "country": "Democratic Republic of the Congo",
+            "freshness_state": "live",
+        },
+    }
+
+    content = render_story_page(story, items_by_id, date(2026, 7, 17), datetime(2026, 7, 17, 2, 0))
+    warning_candidate = next(
+        candidate
+        for candidate in render_site.collect_outbreak_metric_candidates(story, list(items_by_id.values()), "cases")
+        if candidate["numeric_value"] == 2200
+    )
+
+    assert "<strong>Nearly 2,000</strong>" in content
+    assert "<strong>Nearly 750</strong>" in content
+    assert "<strong>20</strong>" not in content
+    assert "Report-grade wire case count from Reuters" in content
+    assert not render_site.metric_candidate_is_dashboard_authoritative(warning_candidate)
+
+
 def test_render_story_dashboard_override_supersedes_stale_official_counts(tmp_path, monkeypatch):
     override_path = tmp_path / "outbreak_dashboard_overrides.yml"
     override_path.write_text(

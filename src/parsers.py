@@ -129,6 +129,13 @@ def extract_fda_outbreak_table(html: str, base_url: str, max_items: int | None =
             cells = [clean_extracted_text(td.get_text(" ", strip=True)) for td in row.find_all("td")]
             if len(cells) < 6:
                 continue
+            date_posted = cells[0]
+            reference = cells[1]
+            pathogen = cells[2]
+            product = cells[3]
+            case_count = cells[4]
+            investigation_status = cells[5] if len(cells) > 5 else ""
+            outbreak_status = cells[6] if len(cells) > 6 else ""
             advisory_url = ""
             for anchor in row.find_all("a", href=True):
                 candidate = absolute_url(base_url, anchor["href"])
@@ -139,13 +146,6 @@ def extract_fda_outbreak_table(html: str, base_url: str, max_items: int | None =
             if row_key in seen_rows:
                 continue
             seen_rows.add(row_key)
-            date_posted = cells[0]
-            reference = cells[1]
-            pathogen = cells[2]
-            product = cells[3]
-            case_count = cells[4]
-            investigation_status = cells[5] if len(cells) > 5 else ""
-            outbreak_status = cells[6] if len(cells) > 6 else ""
             title = f"FDA outbreak investigation {reference}: {pathogen}"
             if product and product.lower() != "not yet identified":
                 title += f" linked to {product}"
