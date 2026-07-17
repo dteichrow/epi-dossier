@@ -9,12 +9,11 @@
       "CNN",
       "Guardian",
       "NBC News",
-      "NPR",
       "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 309,
+    "metadata_only_count": 310,
     "sources_cached": 0,
     "sources_failed": 1,
     "sources_live": 336,
@@ -28,7 +27,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-17T16:18:45",
+  "generated_at": "2026-07-17T16:34:34",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
