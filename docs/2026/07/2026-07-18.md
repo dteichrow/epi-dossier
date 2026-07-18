@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-18
-Generated at: 2026-07-18T03:56
+Generated at: 2026-07-18T04:00
 Search window: 7 day(s) ending 2026-07-18
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-18
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa; 2026-07-16T09:37+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Analysis of tuberculosis and multiple diseases as co-morbidities: a narrative review.](https://pubmed.ncbi.nlm.nih.gov/42464522/) (PubMed Infectious Disease Search; 2026-07-16T00:00; Major epidemiology studies; relevance 5/5)
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (262), Policy, surveillance, and public health infrastructure (56), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (261), Policy, surveillance, and public health infrastructure (57), Major epidemiology studies (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -54,7 +54,7 @@ Search window: 7 day(s) ending 2026-07-18
 - Topic size: 203 item(s) across 122 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-17T00:00)
 - Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) (ABC News - Breaking News, Latest News and Videos); [FDA identifies potential culprit in cyclosporiasis outbreak as illness spreads nationwide](https://www.cbsnews.com/video/fda-identifies-potential-culprit-in-cyclosporiasis-outbreak/) (CBS News); [Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases](https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html) (The New York Times); [What to know about the cyclosporiasis outbreak as Taylor Farms pulls iceberg lettuce](https://www.cbsnews.com/video/what-to-know-cyclosporiasis-outbreak-taylor-farms-pulls-iceberg-lettuce/) (CBS News)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) (ABC News - Breaking News, Latest News and Videos); [FDA identifies potential culprit in cyclosporiasis outbreak as illness spreads nationwide](https://www.cbsnews.com/video/fda-identifies-potential-culprit-in-cyclosporiasis-outbreak/) (CBS News); [Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases](https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html) (The New York Times); [Cyclospora Cases Are Rising. Here’s What to Know.](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -448,7 +448,7 @@ Search window: 7 day(s) ending 2026-07-18
   On 17 May 2026, the World Health Organization (WHO) declared the Ebola virus disease outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo (DRC) and...
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) | ABC News - Breaking News, Latest News and Videos | 2026-07-18T10:46+00:00 | Outbreaks and emerging infections
+- [Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) | ABC News - Breaking News, Latest News and Videos | 2026-07-18T10:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - ['Ebola outbreak is brutal, painful and very distressing'](https://www.bbc.co.uk/news/articles/c14y478rvdlo) | BBC | 2026-07-18T06:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -462,11 +462,11 @@ Search window: 7 day(s) ending 2026-07-18
   Limited detail was available from feed metadata alone.
 - [Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases](https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html) | The New York Times | 2026-07-17T22:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What to know about the cyclosporiasis outbreak as Taylor Farms pulls iceberg lettuce](https://www.cbsnews.com/video/what-to-know-cyclosporiasis-outbreak-taylor-farms-pulls-iceberg-lettuce/) | CBS News | 2026-07-17T21:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRW1GQW84b3h4b0k5dUJUOEhzazNZbUVKckZESUs3NEEzSDVsUEdrcXlLdTJlajI0MGFmeXI0b2RMaXNfelJVZWdYX3dwY25jeVB2VDB0VkZvYjdDNDN4bThQRXBsNkRnbVhER0xFWkNUZkh4emtZQS1yd08wNjV6Z1NmRmNKeXIyYzZFOTU3aFhKUUhYZUNUUFY1SW5RLWtUSXRlMFBrZHR5ZmdGOEpsSUFpVlFuajY1NHNYMzQtaGtXTk4tODRQTWZnV1VhcG9PYWIw?oc=5) | Politico | 2026-07-17T21:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cyclospora Cases Are Rising. Here’s What to Know.](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) | The New York Times | 2026-07-17T20:44+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak](https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/) | CBS News | 2026-07-17T20:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US aid workers quarantined in Kenya as CDC expands Ebola travel restrictions](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWhRRU9CU3pRb1N1cFpsc0FUa1dac0xDc1JVS0VZQ1RqdnFXZmtfOVQwMWtWOU1FUXV6T1RMN2I2X2NoX1cwellzbWI0NThrMTlxa3h4LWZkN1FhQjhXaktfaGhhQVNCY0tVckFidzdNeExFSlM2ZzM1Rm5ES1pzY0dYblJmZUdzdUpVUW1TV3N1VGlWTlVOSFBCR29fZmt4RUNTLWdn?oc=5) | CIDRAP | 2026-07-17T19:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
