@@ -9,25 +9,24 @@
       "CNN",
       "Guardian",
       "NBC News",
-      "NPR",
       "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 303,
+    "metadata_only_count": 301,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 327,
+    "sources_live": 324,
     "story_count_change": 6,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 327,
+    "live": 324,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-18T15:48:44",
+  "generated_at": "2026-07-18T16:19:15",
   "source_failures": []
 }
