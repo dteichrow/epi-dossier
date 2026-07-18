@@ -1,18 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-18
-Generated at: 2026-07-18T06:57
+Generated at: 2026-07-18T07:09
 Search window: 7 day(s) ending 2026-07-18
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-18T13:47+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-18T14:09+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-17T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health and demographic surveillance sites in Ethiopia: a scoping review of infrastructure and gaps for longitudinal studies on health and aging.](https://pubmed.ncbi.nlm.nih.gov/42466594/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
-- [Accuracy and safety of C-TST for tuberculosis infection: A clinical trial in Brazil.](https://pubmed.ncbi.nlm.nih.gov/42467493/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa; 2026-07-16T09:37+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Analysis of tuberculosis and multiple diseases as co-morbidities: a narrative review.](https://pubmed.ncbi.nlm.nih.gov/42464522/) (PubMed Infectious Disease Search; 2026-07-16T00:00; Major epidemiology studies; relevance 5/5)
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (259), Policy, surveillance, and public health infrastructure (57), Historical epidemiology / ancient disease / paleopathology (5)
+- [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (256), Policy, surveillance, and public health infrastructure (58), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -32,14 +32,14 @@ Search window: 7 day(s) ending 2026-07-18
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 201 item(s) across 123 source(s).
-- Baseline snapshot created with 201 clustered item(s) across 123 source(s).
+- Newly tracked story cluster: 201 item(s) across 124 source(s).
+- Baseline snapshot created with 201 clustered item(s) across 124 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 106 item(s) across 70 source(s).
-- Baseline snapshot created with 106 clustered item(s) across 70 source(s).
+- Newly tracked story cluster: 104 item(s) across 70 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 70 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Hantavirus and cruise-ship outbreak
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-07-18
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 201 item(s) across 123 source(s); 2 official/primary-source item(s).
+- Topic size: 201 item(s) across 124 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-17T00:00)
 - Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak](https://www.theguardian.com/society/2026/jul/18/trump-cyclosporiasis-outbreak) (The Guardian); [Taco Bell to stop using lettuce identified with cyclosporiasis outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/taco-bell-removes-lettuce-some-states-over-cyclosporiasis-link-2026-07-17/) (Reuters); [FDA identifies potential culprit in cyclosporiasis outbreak as illness spreads nationwide](https://www.cbsnews.com/video/fda-identifies-potential-culprit-in-cyclosporiasis-outbreak/) (CBS News)
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-07-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 106 item(s) across 70 source(s); 4 official/primary-source item(s).
+- Topic size: 104 item(s) across 70 source(s); 4 official/primary-source item(s).
 - Lead item: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa, 2026-07-16T09:37+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk...
 - Evidence notes: [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); ['Ebola outbreak is brutal, painful and very distressing'](https://www.bbc.co.uk/news/articles/c14y478rvdlo) (BBC)
@@ -84,7 +84,7 @@ Search window: 7 day(s) ending 2026-07-18
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-18T13:47+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-18T14:09+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons.](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDFTbkFaV3VvX2Fmc1VuY2E0Y2JZUXZ0RVJFSk1CN0x1eVdkVFExejdmQzc4V2NYMHJsRTZnUEJYQ1pjeC16SmR1ZEpNM0cwSDM4cldrSHpZWGotenRiX2V4X0NwSVRiQkJkdnNEUF96TFh4cjgzZTJEQTJUako4bXJfYS10ZlF5aklNZDRQNzVpdUpWU0hUZ0dGejJaYnFxZ2xMMFgycUE0Sl9UY0w3OF9n?oc=5) (The Washington Post); [Postscript to the Hantavirus Outbreak](https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5) (tristandc.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -338,7 +338,7 @@ Search window: 7 day(s) ending 2026-07-18
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-18T13:47+00:00
+- Date: 2026-07-18T14:09+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -366,16 +366,6 @@ Search window: 7 day(s) ending 2026-07-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Accuracy and safety of C-TST for tuberculosis infection: A clinical trial in Brazil.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-07-17T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42467493/
-- Category: Major epidemiology studies
-- Summary: With strategy (a) and (b), C-TST sensitivity was 0.67 and 0.68, specificity was 0.92 and 0.9, compared to 0.74 sensitivity and 0.78 specificity for PPD RT-23. Among 446 participants (141 PTB; 305 controls), at the 5-mm cut-off, C-TST showed lower sensitivity but higher specificity than PPD RT-23. Adverse events were more frequent in PTB: 12.1% (C-TST) and 6.4% (PPD RT-23); none were serious.
-- Why it matters: Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance
 - Source: CDC MMWR
 - Date: 2026-07-16T17:00+00:00
@@ -393,16 +383,6 @@ Search window: 7 day(s) ending 2026-07-18
 - Category: Outbreaks and emerging infections
 - Summary: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. : +256 414 335505 Cell: +256 772 507906 Email: sensasib [at] who.int (sensasib[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Health Topics Ebola Disease carousel-bg
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Analysis of tuberculosis and multiple diseases as co-morbidities: a narrative review.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-07-16T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42464522/
-- Category: Major epidemiology studies
-- Summary: Relevant literature was identified through PubMed, Web of Science, and World Health Organization publications, focusing on studies published between 2001 and 2025. Tuberculosis (TB) remains the leading cause of death from infectious diseases worldwide, and its control is increasingly complicated by chronic comorbidities. Understanding these interactions may support bidirectional screening, risk stratification, and integrated management.
-- Why it matters: Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
@@ -436,14 +416,28 @@ Search window: 7 day(s) ending 2026-07-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Ancient pathogen genomics in Africa: Current evidence and future directions.
+- Source: PubMed Historical Epidemiology
+- Date: 2026-07-14T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42442994/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: We identify Africa as a pivotal frontier for the field and outline strategic priorities for moving from isolated detections toward continent-scale reconstructions of past disease landscapes, with potential relevance for understanding long-term patterns of endemicity, emergence, and epidemic risk. Ancient pathogen genomics has redefined how infectious disease histories are reconstructed, revealing unexpected origins, transmission routes, and lineage turnovers that are invisible from modern genomes alone. Yet, this perspective remains heavily biased toward Eurasia, leaving Africa-central to human evolution and home to diverse ecological settings relevant to zoonotic and vector-borne disease emergence-largely unexplored.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of spondyloarthritis in West Eurasia.
+- Source: PubMed Ancient Pathogen Genomics
+- Date: 2026-07-13T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42442590/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: The estimated frequency of HLA-B27 reached 49.0% approximately 8500 years before present, then declined progressively to 3.9% in the present-day reference population. Comparison with genome-wide association study (GWAS) data for ankylosing spondylitis (AS) showed that HLA-B27-linked alleles conferring increased disease risk had negative selection coefficients, indicating sustained selection against HLA-B27 over the past 10,000 years. To investigate its long-term population history, this study examined three HLA-B27-tagging variants-rs116488202, rs4349859, and rs116666910-in present-day populations from UK biobank and 1000 Genomes Project, and in 15,836 ancient West Eurasian individuals.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Planning and implementation of a community-wide tuberculosis screening intervention: a case study from Naujaat, Nunavut, Canada.](https://pubmed.ncbi.nlm.nih.gov/42447032/) | PubMed Infectious Disease Search | 2026-07-14T00:00 | Major epidemiology studies
-  As a result, 31 individuals with latent TB infection and <5 active TB cases were diagnosed and offered treatment, representing nearly 4% of those undergoing 2-step testing. In response to this outbreak, the Naujaat community-wide TB screening (CWS) clinic was held from April 15 th to May 29 th , 2024, with support from the Nunavut Tunavik Incorporated (NTI) leadership and community engagement teams. A TB outbreak was declared in Naujaat, Nunavut following an increase in reported cases starting in January 2023.
-- [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) | PubMed Historical Epidemiology | 2026-07-14T00:00 | Historical epidemiology / ancient disease / paleopathology
-  We identify Africa as a pivotal frontier for the field and outline strategic priorities for moving from isolated detections toward continent-scale reconstructions of past disease landscapes, with potential relevance for understanding long-term patterns of endemicity, emergence, and epidemic risk. Ancient pathogen genomics has redefined how infectious disease histories are reconstructed, revealing unexpected origins, transmission routes, and lineage turnovers that are invisible from modern genomes alone. Yet, this perspective remains heavily biased toward Eurasia, leaving Africa-central to human evolution and home to diverse ecological settings relevant to zoonotic and vector-borne disease emergence-largely unexplored.
-- [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) | PubMed Ancient Pathogen Genomics | 2026-07-13T00:00 | Historical epidemiology / ancient disease / paleopathology
-  The estimated frequency of HLA-B27 reached 49.0% approximately 8500 years before present, then declined progressively to 3.9% in the present-day reference population. Comparison with genome-wide association study (GWAS) data for ankylosing spondylitis (AS) showed that HLA-B27-linked alleles conferring increased disease risk had negative selection coefficients, indicating sustained selection against HLA-B27 over the past 10,000 years. To investigate its long-term population history, this study examined three HLA-B27-tagging variants-rs116488202, rs4349859, and rs116666910-in present-day populations from UK biobank and 1000 Genomes Project, and in 15,836 ancient West Eurasian individuals.
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) | WHO Regional Office for Africa | 2026-07-11T00:27+00:00 | Outbreaks and emerging infections
   An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. The crude case fatality ratio (CFR) rose from 28.8% to 32.1%. The outbreak is marked by growing numbers of community deaths, and the continued spread of infection into previously unaffected health zones.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-06T17:36+02:00 | Policy, surveillance, and public health infrastructure
@@ -458,7 +452,7 @@ Search window: 7 day(s) ending 2026-07-18
   Limited detail was available from feed metadata alone.
 - [‘Walking Ebola’ helps explain why Congo’s outbreak is so hard to stop – and how to treat it](https://www.straitstimes.com/world/walking-ebola-helps-explain-why-congos-outbreak-is-so-hard-to-stop-and-how-to-treat-it) | The Straits Times | 2026-07-18T01:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [7 Americans at US-backed Ebola isolation facility in Kenya, charity group says - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/7-americans-us-backed-ebola-isolation-facility-kenya/story?id\=134861044) | ABC News - Breaking News, Latest News and Videos | 2026-07-17T23:51+00:00 | Outbreaks and emerging infections
+- [7 Americans at US-backed Ebola isolation facility in Kenya, charity group says - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTZ2ZnZCeXVGbmYwQ3lRUE5oTFU1TUpwSFNfQ0tzQ1JVazFzMXdNMlg4S2RqWVdvc2hyQm5BQ1p3LVg3bWduVHlreWkzdVRDWGJibjN5dUJrdzZTSmNqNnJsUmNTd2p4Y25kMjZxcWhhVXpib3ZWdzB4ekczOUt0QUlsMjZjRFg1YjFnYmxmSWVMeHE4dGpsbXV1SzhJVUFsM193N1M1OXrSAa4BQVVfeXFMT2RNX0NZeVlKakMtY2ZQWEtQekdYSE4zVDdQNFNoRmJMcF9vN0xnNUlqUC1iWEJ3dXVKWm13SXh3UXVKZndjMUhHMkVrSkhfY3dKVjRhWjh0cDBEdFZjSlM0RkJTNWljZEEwZy1mVXVyMDN5QUdCbUl0cmtUQldoNHdsNWJFX09FdWI5QTBBb1lDZEZaZ1ZFNmFTaFdKbnQxeUNJTklLejZteF9XQ0l3?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-07-17T23:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Taco Bell to stop using lettuce identified with cyclosporiasis outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/taco-bell-removes-lettuce-some-states-over-cyclosporiasis-link-2026-07-17/) | Reuters | 2026-07-17T23:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -478,6 +472,12 @@ Search window: 7 day(s) ending 2026-07-18
   Limited detail was available from feed metadata alone.
 - [What to Know About the Cyclosporiasis Outbreak and How to Stay Safe](https://www.wsj.com/health/wellness/cyclosporiasis-symptoms-treatment-diagnosis-a7885dff) | WSJ | 2026-07-17T19:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [How health officials are tracking the cyclospora outbreaks](https://www.nbcnews.com/health/health-news/cyclospora-outbreak-foods-2026-how-health-officials-track-parasite-rcna587354) | NBC News | 2026-07-17T18:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Cyclospora outbreak possibly linked to lettuce from Mexico, CDC says](https://www.cbsnews.com/miami/video/cyclospora-outbreak-possibly-linked-to-lettuce-from-mexico-cdc-says/) | CBS News | 2026-07-17T17:14+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Report: Seven American Ebola responders moved to Kenya quarantine after US travel ban](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWZVVjhEN1FxRE41bF9tYjlIaUZUT1hIRVkxd3ppNEUwTXU2RkFhUGFhNlpOSkd2TDUyZjJmU0ZtRHB1NGZHbmZNLVB1R2VQb291OHZpMlpmaE02ZlpMWFBacFNHS094SnlSSGEzQWZ6QVNyVkx6WktWaXBMRW5UdVNSQi1YdVIwbzhnOWtraTJWSnNpOW8tNFYwZmJJSzBzeVhlQi1iQzNLOTdKbnc?oc=5) | TheCable | 2026-07-17T17:09+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Health and demographic surveillance sites in Ethiopia: a scoping review of infrastructure and gaps for longitudinal studies on health and aging.](https://pubmed.ncbi.nlm.nih.gov/42466594/)
@@ -486,18 +486,6 @@ Search window: 7 day(s) ending 2026-07-18
   Journal/preprint server: Global health action
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42466594/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42466594/
-- [Accuracy and safety of C-TST for tuberculosis infection: A clinical trial in Brazil.](https://pubmed.ncbi.nlm.nih.gov/42467493/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/25310429.2026.2704303
-  Journal/preprint server: Pulmonology
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42467493/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42467493/
-- [Analysis of tuberculosis and multiple diseases as co-morbidities: a narrative review.](https://pubmed.ncbi.nlm.nih.gov/42464522/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/07853890.2026.2702807
-  Journal/preprint server: Annals of medicine
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42464522/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42464522/
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1111/apa.70677
@@ -510,12 +498,6 @@ Search window: 7 day(s) ending 2026-07-18
   Journal/preprint server: Seminars in perinatology
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42448529/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42448529/
-- [Planning and implementation of a community-wide tuberculosis screening intervention: a case study from Naujaat, Nunavut, Canada.](https://pubmed.ncbi.nlm.nih.gov/42447032/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/22423982.2026.2700154
-  Journal/preprint server: International journal of circumpolar health
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42447032/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42447032/
 - [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/)
   Source: PubMed Historical Epidemiology
   DOI: 10.1016/j.tim.2026.06.004
@@ -550,8 +532,6 @@ Search window: 7 day(s) ending 2026-07-18
   We identify Africa as a pivotal frontier for the field and outline strategic priorities for moving from isolated detections toward continent-scale reconstructions of past disease landscapes, with potential relevance for understanding long-term patterns of endemicity, emergence, and epidemic risk. Ancient pathogen genomics has redefined how infectious disease histories are reconstructed, revealing unexpected origins, transmission routes, and lineage turnovers that are invisible from modern genomes alone. Yet, this perspective remains heavily biased toward Eurasia, leaving Africa-central to human evolution and home to diverse ecological settings relevant to zoonotic and vector-borne disease emergence-largely unexplored.
 - [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) | PubMed Ancient Pathogen Genomics
   The estimated frequency of HLA-B27 reached 49.0% approximately 8500 years before present, then declined progressively to 3.9% in the present-day reference population. Comparison with genome-wide association study (GWAS) data for ankylosing spondylitis (AS) showed that HLA-B27-linked alleles conferring increased disease risk had negative selection coefficients, indicating sustained selection against HLA-B27 over the past 10,000 years. To investigate its long-term population history, this study examined three HLA-B27-tagging variants-rs116488202, rs4349859, and rs116666910-in present-day populations from UK biobank and 1000 Genomes Project, and in 15,836 ancient West Eurasian individuals.
-- [The Perils of Cross-District Ebola Burial Practices in Congo](https://www.devdiscourse.com/article/health/3951862-the-perils-of-cross-district-ebola-burial-practices-in-congo) | Devdiscourse
-  As of July 14, more than 2,000 Ebola cases and 700 deaths have been documented in Congo and Uganda. The majority of deaths have been outside medical facilities, the International Organization for Migration (IOM) revealed. HOME NEWS RESEARCH LIVE DISCOURSE PERSPECTIVES AND INSIGHTS SUBMIT PRESS RELEASE The transport of Ebola victims' bodies for funerals in their home communities poses a significant risk of spreading the virus, according to the U.N.
 - [Letter to the Editor on "The plague of Athens (430-427 BC): Integration of historical, clinical, and ancient DNA data supports an invasive non-typhoidal Salmonella enterica etiology", by Trakatelli et al, 2026.](https://pubmed.ncbi.nlm.nih.gov/42468736/) | PubMed Ancient Pathogen Genomics
   Publication type: Letter.
 
