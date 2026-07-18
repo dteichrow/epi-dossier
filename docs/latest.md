@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-18
-Generated at: 2026-07-18T13:00
+Generated at: 2026-07-18T13:03
 Search window: 7 day(s) ending 2026-07-18
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-18
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (252), Policy, surveillance, and public health infrastructure (58), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (252), Policy, surveillance, and public health infrastructure (60), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-07-18
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 203 item(s) across 124 source(s).
-- Baseline snapshot created with 203 clustered item(s) across 124 source(s).
+- Newly tracked story cluster: 205 item(s) across 125 source(s).
+- Baseline snapshot created with 205 clustered item(s) across 125 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-07-18
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 203 item(s) across 124 source(s); 2 official/primary-source item(s).
+- Topic size: 205 item(s) across 125 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-17T00:00)
 - Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Lettuce Supplier Linked to Cyclospora Outbreak Is a Global Salad Giant](https://www.wsj.com/business/lettuce-supplier-linked-to-cyclospora-outbreak-is-a-global-salad-giant-b6f4630b) (WSJ); [Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) (ABC News - Breaking News, Latest News and Videos); [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) (The New York Times)
@@ -446,7 +446,7 @@ Search window: 7 day(s) ending 2026-07-18
   Limited detail was available from feed metadata alone.
 - [Lettuce Supplier Linked to Cyclospora Outbreak Is a Global Salad Giant](https://www.wsj.com/business/lettuce-supplier-linked-to-cyclospora-outbreak-is-a-global-salad-giant-b6f4630b) | WSJ | 2026-07-18T19:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) | ABC News - Breaking News, Latest News and Videos | 2026-07-18T18:52+00:00 | Outbreaks and emerging infections
+- [Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-cases-michigan-surpass-2600-health-officials/story?id\=134709100) | ABC News - Breaking News, Latest News and Videos | 2026-07-18T18:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) | The New York Times | 2026-07-18T16:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -462,8 +462,6 @@ Search window: 7 day(s) ending 2026-07-18
   Limited detail was available from feed metadata alone.
 - [7 Americans at US-backed Ebola isolation facility in Kenya, charity group says - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTZ2ZnZCeXVGbmYwQ3lRUE5oTFU1TUpwSFNfQ0tzQ1JVazFzMXdNMlg4S2RqWVdvc2hyQm5BQ1p3LVg3bWduVHlreWkzdVRDWGJibjN5dUJrdzZTSmNqNnJsUmNTd2p4Y25kMjZxcWhhVXpib3ZWdzB4ekczOUt0QUlsMjZjRFg1YjFnYmxmSWVMeHE4dGpsbXV1SzhJVUFsM193N1M1OXrSAa4BQVVfeXFMT2RNX0NZeVlKakMtY2ZQWEtQekdYSE4zVDdQNFNoRmJMcF9vN0xnNUlqUC1iWEJ3dXVKWm13SXh3UXVKZndjMUhHMkVrSkhfY3dKVjRhWjh0cDBEdFZjSlM0RkJTNWljZEEwZy1mVXVyMDN5QUdCbUl0cmtUQldoNHdsNWJFX09FdWI5QTBBb1lDZEZaZ1ZFNmFTaFdKbnQxeUNJTklLejZteF9XQ0l3?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-07-17T23:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases](https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html) | The New York Times | 2026-07-17T22:46+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
 - [Ohio cyclosporiasis cases top 1,200](https://www.axios.com/local/columbus/2026/07/17/ohio-cyclosporiasis-cases-top-1200) | Axios | 2026-07-17T21:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRW1GQW84b3h4b0k5dUJUOEhzazNZbUVKckZESUs3NEEzSDVsUEdrcXlLdTJlajI0MGFmeXI0b2RMaXNfelJVZWdYX3dwY25jeVB2VDB0VkZvYjdDNDN4bThQRXBsNkRnbVhER0xFWkNUZkh4emtZQS1yd08wNjV6Z1NmRmNKeXIyYzZFOTU3aFhKUUhYZUNUUFY1SW5RLWtUSXRlMFBrZHR5ZmdGOEpsSUFpVlFuajY1NHNYMzQtaGtXTk4tODRQTWZnV1VhcG9PYWIw?oc=5) | Politico | 2026-07-17T21:06+00:00 | Outbreaks and emerging infections
@@ -471,6 +469,8 @@ Search window: 7 day(s) ending 2026-07-18
 - [Cyclospora Cases Are Rising. Here’s What to Know.](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) | The New York Times | 2026-07-17T20:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak](https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/) | CBS News | 2026-07-17T20:29+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases](https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html) | The New York Times | 2026-07-17T19:57+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [US aid workers quarantined in Kenya as CDC expands Ebola travel restrictions](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWhRRU9CU3pRb1N1cFpsc0FUa1dac0xDc1JVS0VZQ1RqdnFXZmtfOVQwMWtWOU1FUXV6T1RMN2I2X2NoX1cwellzbWI0NThrMTlxa3h4LWZkN1FhQjhXaktfaGhhQVNCY0tVckFidzdNeExFSlM2ZzM1Rm5ES1pzY0dYblJmZUdzdUpVUW1TV3N1VGlWTlVOSFBCR29fZmt4RUNTLWdn?oc=5) | CIDRAP | 2026-07-17T19:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
