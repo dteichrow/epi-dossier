@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-19
-Generated at: 2026-07-19T07:58
+Generated at: 2026-07-19T08:14
 Search window: 7 day(s) ending 2026-07-19
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-19T14:56+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-19T15:14+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-17T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health and demographic surveillance sites in Ethiopia: a scoping review of infrastructure and gaps for longitudinal studies on health and aging.](https://pubmed.ncbi.nlm.nih.gov/42466594/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
@@ -39,8 +39,8 @@ Search window: 7 day(s) ending 2026-07-19
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 197 item(s) across 121 source(s).
-- Baseline snapshot created with 197 clustered item(s) across 121 source(s).
+- Newly tracked story cluster: 197 item(s) across 122 source(s).
+- Baseline snapshot created with 197 clustered item(s) across 122 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Hantavirus and cruise-ship outbreak
@@ -52,10 +52,10 @@ Search window: 7 day(s) ending 2026-07-19
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 197 item(s) across 121 source(s); 2 official/primary-source item(s).
+- Topic size: 197 item(s) across 122 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-17T00:00)
 - Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) (The New York Times); [Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says](https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/) (NewsNation); [The fallout from the cyclosporiasis outbreak linked to lettuce](https://www.cbsnews.com/newyork/video/the-fallout-from-the-cyclosporiasis-outbreak-linked-to-lettuce/) (CBS News)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says](https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/) (NewsNation); [The fallout from the cyclosporiasis outbreak linked to lettuce](https://www.cbsnews.com/newyork/video/the-fallout-from-the-cyclosporiasis-outbreak-linked-to-lettuce/) (CBS News); [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -85,7 +85,7 @@ Search window: 7 day(s) ending 2026-07-19
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-19T14:56+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-19T15:14+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons.](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDFTbkFaV3VvX2Fmc1VuY2E0Y2JZUXZ0RVJFSk1CN0x1eVdkVFExejdmQzc4V2NYMHJsRTZnUEJYQ1pjeC16SmR1ZEpNM0cwSDM4cldrSHpZWGotenRiX2V4X0NwSVRiQkJkdnNEUF96TFh4cjgzZTJEQTJUako4bXJfYS10ZlF5aklNZDRQNzVpdUpWU0hUZ0dGejJaYnFxZ2xMMFgycUE0Sl9UY0w3OF9n?oc=5) (The Washington Post); [Postscript to the Hantavirus Outbreak](https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5) (tristandc.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -339,7 +339,7 @@ Search window: 7 day(s) ending 2026-07-19
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-19T14:56+00:00
+- Date: 2026-07-19T15:14+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -447,8 +447,6 @@ Search window: 7 day(s) ending 2026-07-19
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak hits 2,267 cases as deaths reach 893](https://www.azernews.az/region/261277.html) | AzerNews | 2026-07-19T14:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) | The New York Times | 2026-07-19T14:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says](https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/) | NewsNation | 2026-07-19T13:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Why Is Kenya Hosting America's Ebola Quarantine Base?](https://www.outlookindia.com/international/why-is-kenya-hosting-americas-ebola-quarantine-base) | Outlook India | 2026-07-19T10:52+00:00 | Outbreaks and emerging infections
@@ -457,11 +455,11 @@ Search window: 7 day(s) ending 2026-07-19
   Limited detail was available from feed metadata alone.
 - [The fallout from the cyclosporiasis outbreak linked to lettuce](https://www.cbsnews.com/newyork/video/the-fallout-from-the-cyclosporiasis-outbreak-linked-to-lettuce/) | CBS News | 2026-07-19T04:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) | The New York Times | 2026-07-19T02:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Seven U.S. aid workers quarantined in Kenya during Ebola response](https://www.washingtonpost.com/health/2026/07/18/seven-us-aid-workers-quarantined-kenya-after-exposure-ebola/) | The Washington Post | 2026-07-19T02:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Denver farmers market shoppers weigh food safety concerns amid national Cyclospora outbreak](https://www.cbsnews.com/colorado/news/denver-farmers-market-shoppers-food-safety-cyclosporiasis/) | CBS News | 2026-07-18T23:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Cyclosporiasis outbreak sparks race to remove contaminated lettuce](https://www.cbsnews.com/video/cyclosporiasis-taco-bell-walmart-lettuce/) | CBS News | 2026-07-18T22:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Lettuce Supplier Linked to Cyclospora Outbreak Is a Global Salad Giant](https://www.wsj.com/business/lettuce-supplier-linked-to-cyclospora-outbreak-is-a-global-salad-giant-b6f4630b) | WSJ | 2026-07-18T21:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -478,6 +476,8 @@ Search window: 7 day(s) ending 2026-07-19
 - [Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRW1GQW84b3h4b0k5dUJUOEhzazNZbUVKckZESUs3NEEzSDVsUEdrcXlLdTJlajI0MGFmeXI0b2RMaXNfelJVZWdYX3dwY25jeVB2VDB0VkZvYjdDNDN4bThQRXBsNkRnbVhER0xFWkNUZkh4emtZQS1yd08wNjV6Z1NmRmNKeXIyYzZFOTU3aFhKUUhYZUNUUFY1SW5RLWtUSXRlMFBrZHR5ZmdGOEpsSUFpVlFuajY1NHNYMzQtaGtXTk4tODRQTWZnV1VhcG9PYWIw?oc=5) | Politico | 2026-07-17T21:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak](https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/) | CBS News | 2026-07-17T20:29+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases](https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html) | The New York Times | 2026-07-17T19:57+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
