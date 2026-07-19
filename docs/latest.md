@@ -1,19 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-19
-Generated at: 2026-07-19T08:14
+Generated at: 2026-07-19T08:17
 Search window: 7 day(s) ending 2026-07-19
 
 ## Executive scan
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-19T15:14+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-17T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-07-17T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks; 2026-07-17T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-17T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health and demographic surveillance sites in Ethiopia: a scoping review of infrastructure and gaps for longitudinal studies on health and aging.](https://pubmed.ncbi.nlm.nih.gov/42466594/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa; 2026-07-16T09:37+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
-- [The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.](https://pubmed.ncbi.nlm.nih.gov/42448529/) (PubMed Historical Pathogen Case Studies; 2026-07-14T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (61), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (253), Policy, surveillance, and public health infrastructure (61), Historical epidemiology / ancient disease / paleopathology (5)
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -30,15 +29,8 @@ Search window: 7 day(s) ending 2026-07-19
 - PubMed Historical Pathogen Case Studies now includes deaths or fatal cases in the story frame.
 - PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
-### Avian influenza and H5N1
-- Lead item: [New Zealand confirms first H5N1 bird flu case in native bird](https://www.reuters.com/business/healthcare-pharmaceuticals/new-zealand-confirms-first-h5n1-bird-flu-case-native-bird-2026-07-17/) (Reuters)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- CIDRAP now includes deaths or fatal cases in the story frame.
-- CIDRAP now foregrounds vaccination or vaccine policy in the story.
-
 ### Cyclosporiasis
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
+- Lead item: [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks)
 - Newly tracked story cluster: 197 item(s) across 122 source(s).
 - Baseline snapshot created with 197 clustered item(s) across 122 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
@@ -49,13 +41,19 @@ Search window: 7 day(s) ending 2026-07-19
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 
+### Polio and wastewater surveillance
+- Lead item: [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- CDC MMWR now brings wastewater surveillance into the story.
+
 
 ## Major topics
 ### Cyclosporiasis
 - Topic size: 197 item(s) across 122 source(s); 2 official/primary-source item(s).
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-17T00:00)
-- Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says](https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/) (NewsNation); [The fallout from the cyclosporiasis outbreak linked to lettuce](https://www.cbsnews.com/newyork/video/the-fallout-from-the-cyclosporiasis-outbreak-linked-to-lettuce/) (CBS News); [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) (The New York Times)
+- Lead item: [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks, 2026-07-17T14:00)
+- Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Outbreak or event status: Ongoing See Advisory. The health department labels these counts preliminary.
+- Evidence notes: [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says](https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/) (NewsNation); [The fallout from the cyclosporiasis outbreak linked to lettuce](https://www.cbsnews.com/newyork/video/the-fallout-from-the-cyclosporiasis-outbreak-linked-to-lettuce/) (CBS News); [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -347,6 +345,36 @@ Search window: 7 day(s) ending 2026-07-19
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1390 with date posted 7/15/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Iceberg Lettuce.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1143 with date posted 3/1/2023. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Frozen Strawberries.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1066 with date posted 6/1/2022. Outbreak or event status: Ended See Advisory. Pathogen or cause of illness: Hepatitis A Virus.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Toledo-Lucas County Health Department Cyclosporiasis Update
 - Source: Toledo-Lucas County Health Department Cyclosporiasis Update
 - Date: 2026-07-17T00:00
@@ -397,16 +425,6 @@ Search window: 7 day(s) ending 2026-07-19
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-15T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). Outbreak or event status: Ongoing See Advisory").
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### The uprise of congenital syphilis in the United States: a preventable failure of perinatal systems.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-07-14T00:00
@@ -417,28 +435,12 @@ Search window: 7 day(s) ending 2026-07-19
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Ancient pathogen genomics in Africa: Current evidence and future directions.
-- Source: PubMed Historical Epidemiology
-- Date: 2026-07-14T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42442994/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: We identify Africa as a pivotal frontier for the field and outline strategic priorities for moving from isolated detections toward continent-scale reconstructions of past disease landscapes, with potential relevance for understanding long-term patterns of endemicity, emergence, and epidemic risk. Ancient pathogen genomics has redefined how infectious disease histories are reconstructed, revealing unexpected origins, transmission routes, and lineage turnovers that are invisible from modern genomes alone. Yet, this perspective remains heavily biased toward Eurasia, leaving Africa-central to human evolution and home to diverse ecological settings relevant to zoonotic and vector-borne disease emergence-largely unexplored.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of spondyloarthritis in West Eurasia.
-- Source: PubMed Ancient Pathogen Genomics
-- Date: 2026-07-13T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42442590/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: The estimated frequency of HLA-B27 reached 49.0% approximately 8500 years before present, then declined progressively to 3.9% in the present-day reference population. Comparison with genome-wide association study (GWAS) data for ankylosing spondylitis (AS) showed that HLA-B27-linked alleles conferring increased disease risk had negative selection coefficients, indicating sustained selection against HLA-B27 over the past 10,000 years. To investigate its long-term population history, this study examined three HLA-B27-tagging variants-rs116488202, rs4349859, and rs116666910-in present-day populations from UK biobank and 1000 Genomes Project, and in 15,836 ancient West Eurasian individuals.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Ancient pathogen genomics in Africa: Current evidence and future directions.](https://pubmed.ncbi.nlm.nih.gov/42442994/) | PubMed Historical Epidemiology | 2026-07-14T00:00 | Historical epidemiology / ancient disease / paleopathology
+  We identify Africa as a pivotal frontier for the field and outline strategic priorities for moving from isolated detections toward continent-scale reconstructions of past disease landscapes, with potential relevance for understanding long-term patterns of endemicity, emergence, and epidemic risk. Ancient pathogen genomics has redefined how infectious disease histories are reconstructed, revealing unexpected origins, transmission routes, and lineage turnovers that are invisible from modern genomes alone. Yet, this perspective remains heavily biased toward Eurasia, leaving Africa-central to human evolution and home to diverse ecological settings relevant to zoonotic and vector-borne disease emergence-largely unexplored.
+- [Ten millennia of purifying selection on HLA-B27 reveals an ancient epidemic-scale burden of spondyloarthritis in West Eurasia.](https://pubmed.ncbi.nlm.nih.gov/42442590/) | PubMed Ancient Pathogen Genomics | 2026-07-13T00:00 | Historical epidemiology / ancient disease / paleopathology
+  The estimated frequency of HLA-B27 reached 49.0% approximately 8500 years before present, then declined progressively to 3.9% in the present-day reference population. Comparison with genome-wide association study (GWAS) data for ankylosing spondylitis (AS) showed that HLA-B27-linked alleles conferring increased disease risk had negative selection coefficients, indicating sustained selection against HLA-B27 over the past 10,000 years. To investigate its long-term population history, this study examined three HLA-B27-tagging variants-rs116488202, rs4349859, and rs116666910-in present-day populations from UK biobank and 1000 Genomes Project, and in 15,836 ancient West Eurasian individuals.
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) | WHO Regional Office for Africa | 2026-07-11T00:27+00:00 | Outbreaks and emerging infections
   An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. The crude case fatality ratio (CFR) rose from 28.8% to 32.1%. The outbreak is marked by growing numbers of community deaths, and the continued spread of infection into previously unaffected health zones.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-06T17:36+02:00 | Policy, surveillance, and public health infrastructure
@@ -467,17 +469,13 @@ Search window: 7 day(s) ending 2026-07-19
   Limited detail was available from feed metadata alone.
 - [Cyclospora Cases Are Rising. Here’s What to Know.](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html) | The New York Times | 2026-07-18T15:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Fastest-spreading Ebola outbreak may reach South Sudan within weeks](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYy1mbTdWeVlLZ0hPQzBIS0NiUTFkbE0wcmxmME9BX2x1dm4xWFRYX2JVUFg0a0Q1a2ZOTXBYZ1ZqR0puY2RISW1hWWtrTHRJVUdKVmhJZ1FPU01KNzBOUVVkR1doSmZTNVlpWmkyZ3ZlLVd4cGZudC1BdE5PR2hLb3RHeWZaZkZ1NFZjaFM5cFhMY19LX0RWSjRFYkZiLXVsVU5FNm5kRXVhLTEtOVNSTUc3V2Y1T3NnaXJVZA?oc=5) | MSN | 2026-07-18T11:40+00:00 | Outbreaks and emerging infections
+- [Fastest-spreading Ebola outbreak may reach South Sudan within weeks](https://www.msn.com/en-za/health/general/fastest-spreading-ebola-outbreak-may-reach-south-sudan-within-weeks/ar-AA26B372) | MSN | 2026-07-18T11:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [‘Walking Ebola’ helps explain why Congo’s outbreak is so hard to stop – and how to treat it](https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3IyVXVkQUJhRjczOVdrZWlZRWEwbGV1cDE3cVJFLUxHa1VidWdxOWxLano5SW1ldTY3QmFWemVnQ2o3WklFLUtXT0w5aTFvalNIeGZ1SXNzenNTZnlwMEVsbEp6ZDZUOWxZX05LTXdjMmdCQmhQQVhjbUliQXV3WWt3VXF1dTRpel9hU25PUzAtcWFwb2VQSjhYbTI3VmpEWi1ROTBkcVNuTEVhdld4bjE4eTJhNzJrMGNXeEZB?oc=5) | The Straits Times | 2026-07-18T01:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [7 Americans at US-backed Ebola isolation facility in Kenya, charity group says - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTZ2ZnZCeXVGbmYwQ3lRUE5oTFU1TUpwSFNfQ0tzQ1JVazFzMXdNMlg4S2RqWVdvc2hyQm5BQ1p3LVg3bWduVHlreWkzdVRDWGJibjN5dUJrdzZTSmNqNnJsUmNTd2p4Y25kMjZxcWhhVXpib3ZWdzB4ekczOUt0QUlsMjZjRFg1YjFnYmxmSWVMeHE4dGpsbXV1SzhJVUFsM193N1M1OXrSAa4BQVVfeXFMT2RNX0NZeVlKakMtY2ZQWEtQekdYSE4zVDdQNFNoRmJMcF9vN0xnNUlqUC1iWEJ3dXVKWm13SXh3UXVKZndjMUhHMkVrSkhfY3dKVjRhWjh0cDBEdFZjSlM0RkJTNWljZEEwZy1mVXVyMDN5QUdCbUl0cmtUQldoNHdsNWJFX09FdWI5QTBBb1lDZEZaZ1ZFNmFTaFdKbnQxeUNJTklLejZteF9XQ0l3?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-07-17T23:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRW1GQW84b3h4b0k5dUJUOEhzazNZbUVKckZESUs3NEEzSDVsUEdrcXlLdTJlajI0MGFmeXI0b2RMaXNfelJVZWdYX3dwY25jeVB2VDB0VkZvYjdDNDN4bThQRXBsNkRnbVhER0xFWkNUZkh4emtZQS1yd08wNjV6Z1NmRmNKeXIyYzZFOTU3aFhKUUhYZUNUUFY1SW5RLWtUSXRlMFBrZHR5ZmdGOEpsSUFpVlFuajY1NHNYMzQtaGtXTk4tODRQTWZnV1VhcG9PYWIw?oc=5) | Politico | 2026-07-17T21:06+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak](https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/) | CBS News | 2026-07-17T20:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases](https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html) | The New York Times | 2026-07-17T19:57+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
