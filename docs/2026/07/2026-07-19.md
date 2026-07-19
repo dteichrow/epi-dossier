@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-19
-Generated at: 2026-07-19T06:55
+Generated at: 2026-07-19T06:59
 Search window: 7 day(s) ending 2026-07-19
 
 ## Executive scan
@@ -39,8 +39,8 @@ Search window: 7 day(s) ending 2026-07-19
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 199 item(s) across 121 source(s).
-- Baseline snapshot created with 199 clustered item(s) across 121 source(s).
+- Newly tracked story cluster: 199 item(s) across 120 source(s).
+- Baseline snapshot created with 199 clustered item(s) across 120 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Hantavirus and cruise-ship outbreak
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-07-19
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 199 item(s) across 121 source(s); 2 official/primary-source item(s).
+- Topic size: 199 item(s) across 120 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-17T00:00)
 - Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says](https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/) (NewsNation); [The fallout from the cyclosporiasis outbreak linked to lettuce](https://www.cbsnews.com/newyork/video/the-fallout-from-the-cyclosporiasis-outbreak-linked-to-lettuce/) (CBS News); [Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak](https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html) (The New York Times)
