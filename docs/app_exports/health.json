@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -13,27 +13,27 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 280,
+    "metadata_only_count": 282,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 298,
+    "sources_live": 305,
     "story_count_change": 5,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 298,
+    "live": 305,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-19T16:40:19",
+  "generated_at": "2026-07-19T17:17:25",
   "source_failures": [
     {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
+      "error": "404 Client Error: Not Found for url: https://feeds.skynews.com/feeds/rss/world.xml",
+      "required": true,
+      "source": "Sky News World",
+      "source_type": "rss"
     }
   ]
 }
