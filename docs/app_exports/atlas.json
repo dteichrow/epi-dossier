@@ -625,7 +625,15 @@
       "reference_name": "Avian influenza A(H5N1)",
       "reference_url": "reference/avian-influenza-a-h5n1.html",
       "reference_web_path": "reference/avian-influenza-a-h5n1.html",
-      "related_stories": [],
+      "related_stories": [
+        {
+          "display_title": "Avian influenza and H5N1",
+          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
+          "story_id": "story_28a91c6d89267872",
+          "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
+          "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
+        }
+      ],
       "route_count": 3,
       "slug": "avian-influenza-h5n1",
       "spread_routes": [
@@ -695,7 +703,7 @@
         }
       ],
       "status": "mixed",
-      "story_count": 0,
+      "story_count": 1,
       "subtitle": "Bird flyways, poultry systems, mammalian spillover, and farm-interface risk",
       "summary": "H5N1 belongs in the atlas because its contemporary geography is not a human epidemic map first; it is a bird-route, farm-system, and spillover map whose human layer remains contingent.",
       "variant_count": 0,
@@ -1857,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-07-20T07:17:11",
-  "run_id": "run_fa4b5b9fbb802770"
+  "generated_at": "2026-07-20T07:58:36",
+  "run_id": "run_56aac486af881ac5"
 }
