@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-21
-Generated at: 2026-07-21T13:08
+Generated at: 2026-07-21T13:17
 Search window: 7 day(s) ending 2026-07-21
 
 ## Executive scan
@@ -9,11 +9,10 @@ Search window: 7 day(s) ending 2026-07-21
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-21T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Context-dependent risk stratification using a tuberculin skin test induration threshold of ≥ 15 mm in school tuberculosis screening in Hangzhou, China: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42477851/) (PubMed Historical Pathogen Case Studies; 2026-07-21T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [[The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].](https://pubmed.ncbi.nlm.nih.gov/42478916/) (PubMed Historical Pathogen Case Studies; 2026-07-21T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Health and demographic surveillance sites in Ethiopia: a scoping review of infrastructure and gaps for longitudinal studies on health and aging.](https://pubmed.ncbi.nlm.nih.gov/42466594/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
-- [Accuracy and safety of C-TST for tuberculosis infection: A clinical trial in Brazil.](https://pubmed.ncbi.nlm.nih.gov/42467493/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
-- [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (243), Policy, surveillance, and public health infrastructure (57), Historical epidemiology / ancient disease / paleopathology (4)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-07-17T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-17T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks; 2026-07-17T14:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (241), Policy, surveillance, and public health infrastructure (58), Historical epidemiology / ancient disease / paleopathology (4)
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
@@ -40,8 +39,8 @@ Search window: 7 day(s) ending 2026-07-21
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 191 item(s) across 120 source(s).
-- Baseline snapshot created with 191 clustered item(s) across 120 source(s).
+- Newly tracked story cluster: 188 item(s) across 120 source(s).
+- Baseline snapshot created with 188 clustered item(s) across 120 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
@@ -53,9 +52,9 @@ Search window: 7 day(s) ending 2026-07-21
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 191 item(s) across 120 source(s); 2 official/primary-source item(s).
+- Topic size: 188 item(s) across 120 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-21T00:00)
-- Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
+- Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Outbreak or event status: Ongoing See Advisory. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Cyclospora outbreak: Are you avoiding lettuce this summer?](https://www.axios.com/local/chicago/2026/07/21/cyclospora-outbreak-fda-taylor-farms-lettuce-summer-illinois-vegetables) (Axios); [RFK Jr says cyclospora outbreak is ‘under control’ after FDA recall reversal](https://www.theguardian.com/us-news/2026/jul/21/rfk-jr-cyclospora-outbreak) (The Guardian); [Cyclosporiasis outbreak in the US, by the numbers](https://www.cnn.com/2026/07/21/health/cyclospora-cases-count) (CNN)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
@@ -95,9 +94,9 @@ Search window: 7 day(s) ending 2026-07-21
 ### Avian influenza and H5N1
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [New Zealand confirms first H5N1 bird flu case in native bird](https://www.reuters.com/business/healthcare-pharmaceuticals/new-zealand-confirms-first-h5n1-bird-flu-case-native-bird-2026-07-17/) (Reuters, 2026-07-17T04:46+00:00)
-- Detailed note: Most recent cases in Cambodia have involved a reassortant (2.3.2.1e) between an older H5N1 clade that has circulated in Cambodia since 2014 and the newer clade 2.3.4.4b virus that is circulating globally. Cambodia reported 19 human cases of H5N1 in 2025, eight of which were fatal.
+- Detailed note: Most recent cases in Cambodia have involved a reassortant (2.3.2.1e) between an older H5N1 clade that has circulated in Cambodia since 2014 and the newer clade 2.3.4.4b virus that is circulating globally. Cambodia reported 19 human cases of H5N1 in 2025, eight of which were fatal. The previous case was reported in April in Svay Rieng province, near the border with Vietnam, and involved a 66-year-old woman who was...
 - Evidence notes: [New Zealand confirms first H5N1 bird flu case in native bird](https://www.reuters.com/business/healthcare-pharmaceuticals/new-zealand-confirms-first-h5n1-bird-flu-case-native-bird-2026-07-17/) (Reuters); [Cambodia confirms human H5N1 avian flu case as H5N1 hits more Utah egg farms](https://www.cidrap.umn.edu/avian-influenza-bird-flu/cambodia-confirms-human-h5n1-avian-flu-case-h5n1-hits-more-utah-egg-farms) (CIDRAP); [Cambodia reports 5th H5N1 avian influenza case of 2026](https://outbreaknewstoday.substack.com/p/cambodia-reports-5th-h5n1-avian-influenza-cff) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
@@ -388,6 +387,36 @@ Search window: 7 day(s) ending 2026-07-21
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1143 with date posted 3/1/2023. Outbreak or event status: Ended See Advisory. Product linked to illnesses: Frozen Strawberries.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1390 with date posted 7/15/2026. Outbreak or event status: Ongoing See Advisory. Product linked to illnesses: Iceberg Lettuce.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-17T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1066 with date posted 6/1/2022. Outbreak or event status: Ended See Advisory. Pathogen or cause of illness: Hepatitis A Virus.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Health and demographic surveillance sites in Ethiopia: a scoping review of infrastructure and gaps for longitudinal studies on health and aging.
 - Source: PubMed Infectious Disease Search
 - Date: 2026-07-17T00:00
@@ -408,40 +437,14 @@ Search window: 7 day(s) ending 2026-07-21
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance
-- Source: CDC MMWR
-- Date: 2026-07-16T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003
-- Category: Occupational and environmental epidemiology
-- Summary: Auguste Dutcher, PhD 3 ; Stephanie Schauer, PhD 2 ; Matthew Deraedt, PharmD 2 ,4 ; Megan Rasmussen, MPH 2 ; Ryan Westergaard, MD, PhD 1 ; Dagmara Antkiewicz, PhD 3 ; Erica Henning 3 ; Devin Everett 3 ; Martin Shafer, PhD 3 ( View author affiliations ) Wastewater (sewage) surveillance has been increasingly used to support public health surveillance for infectious diseases, including measles, in the United States. Weekly / July 16, 2026 / 75(27);344â348 Ian Pray, PhD 1 ,2 ; Adélaïde Roguet, PhD 3 ; H. This report describes how wastewater surveillance identified one of two unrelated measles cases reported to the Wisconsin Department of Health Services in February 2026.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Uganda begins countdown to end of Ebola outbreak
-- Source: WHO Regional Office for Africa
-- Date: 2026-07-16T09:37+00:00
-- URL: https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak
-- Category: Outbreaks and emerging infections
-- Summary: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. : +256 414 335505 Cell: +256 772 507906 Email: sensasib [at] who.int (sensasib[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Health Topics Ebola Disease carousel-bg
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-15T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42455589/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Childhood immunisation is one of the most successful public health interventions in history, preventing millions of deaths and substantially reducing global child mortality. Finally, the review highlights opportunities in the current vaccine pipeline and the importance of sustained global collaboration to ensure equitable protection for all children. This mini-review summarises the historical development of childhood vaccines, the role of global coordination in expanding immunisation coverage, and the innovations that have enabled safe and effective vaccine delivery to children worldwide.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
-- [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-07-15T00:00 | Outbreaks and emerging infections
-  FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). Outbreak or event status: Ongoing See Advisory").
+- [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) | CDC MMWR | 2026-07-16T17:00+00:00 | Occupational and environmental epidemiology
+  Auguste Dutcher, PhD 3 ; Stephanie Schauer, PhD 2 ; Matthew Deraedt, PharmD 2 ,4 ; Megan Rasmussen, MPH 2 ; Ryan Westergaard, MD, PhD 1 ; Dagmara Antkiewicz, PhD 3 ; Erica Henning 3 ; Devin Everett 3 ; Martin Shafer, PhD 3 ( View author affiliations ) Wastewater (sewage) surveillance has been increasingly used to support public health surveillance for infectious diseases, including measles, in the United States. Weekly / July 16, 2026 / 75(27);344â348 Ian Pray, PhD 1 ,2 ; Adélaïde Roguet, PhD 3 ; H. This report describes how wastewater surveillance identified one of two unrelated measles cases reported to the Wisconsin Department of Health Services in February 2026.
+- [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) | WHO Regional Office for Africa | 2026-07-16T09:37+00:00 | Outbreaks and emerging infections
+  Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. : +256 414 335505 Cell: +256 772 507906 Email: sensasib [at] who.int (sensasib[at]who[dot]int) Saida Swaleh Communications and Media Relations Officer WHO Regional Office for Africa Email: saida.swaleh [at] who.int (saida[dot]swaleh[at]who[dot]int) Related Health Topics Ebola Disease carousel-bg
+- [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) | PubMed Historical Pathogen Case Studies | 2026-07-15T00:00 | Historical epidemiology / ancient disease / paleopathology
+  Childhood immunisation is one of the most successful public health interventions in history, preventing millions of deaths and substantially reducing global child mortality. Finally, the review highlights opportunities in the current vaccine pipeline and the importance of sustained global collaboration to ensure equitable protection for all children. This mini-review summarises the historical development of childhood vaccines, the role of global coordination in expanding immunisation coverage, and the innovations that have enabled safe and effective vaccine delivery to children worldwide.
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) | WHO Regional Office for Africa | 2026-07-11T00:27+00:00 | Outbreaks and emerging infections
   An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. The crude case fatality ratio (CFR) rose from 28.8% to 32.1%. The outbreak is marked by growing numbers of community deaths, and the continued spread of infection into previously unaffected health zones.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
@@ -454,7 +457,7 @@ Search window: 7 day(s) ending 2026-07-21
   Limited detail was available from feed metadata alone.
 - [Cyclosporiasis outbreak in the US, by the numbers](https://www.cnn.com/2026/07/21/health/cyclospora-cases-count) | CNN | 2026-07-21T18:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Mexico says there’s no evidence its lettuce started cyclospora outbreak](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMEJNU3lhQzZmZUtrU3dPWEM3aldKcG1wWXYwS242TWZGaHlYWUExYmkwM1RWVi1GckxyUi16VkNCdHRCTDlSSFlTbDVpclZRbG1IcEFEbGN5ZGJsLVk1T1JzZ3FESlAyc0pqV3pNQWFKX3gxbkpHTlhMOWd2Qm5wd1dha241M29kbkZIdTVnONIBlAFBVV95cUxQMXBsMmtMTm9pNnhPTXVvWmRzSW4tNnVGd2ZPRzJFWmMtWXlrR0YzNEU0eWlPY3VOenNhVFo3QUpvLVdDRDVRMDdVTk5BNTZSdTJxMnZGX1MyZzRLM29rdl9ZTlNrVDBjUklVdU0wdGVBWjMzc3d2cUVyejVqWTNBODNuNGtlSXlkbTQ3VXYwalhqUVo0?oc=5) | NewsNation | 2026-07-21T16:48+00:00 | Outbreaks and emerging infections
+- [Mexico says there’s no evidence its lettuce started cyclospora outbreak](https://www.newsnationnow.com/health/mexico-says-no-evidence-lettuce-started-outbreak/) | NewsNation | 2026-07-21T16:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Can I eat lettuce now? What to know about the cyclosporiasis outbreak.](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFQtVXhIalJRV2lXcHRtOEpWZVM3LVNPeERQRnNWT1gwcnNjSi1TX2ZSTUNtY3JIUDF3SEp6MnczQUg1dGt2a1RJUmFJX0FVbU1aYWhCTXhXaWZnV3FDb2ktUUY3TjJ6TU5Rb1paT1VoY3ZlTS1INjlKYzdWMmJQUnNnSnlaOW9DVkdiQmp2TDJ3MVFZQzAyVDZFX3dZX0QxcVJSRkNuSEdEN0ZScmhJUQ?oc=5) | The Washington Post | 2026-07-21T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -475,10 +478,6 @@ Search window: 7 day(s) ending 2026-07-21
 - [Ebola outbreak widens in DR Congo as cases top 2,400](https://news.az/news/ebola-outbreak-widens-in-dr-congo-as-cases-top-2-400) | Latest news from Azerbaijan | 2026-07-21T06:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda: New Bundibugyo Ebola Virus Variant Discovered, Offering Critical Insights for Future Outbreak Response](https://allafrica.com/stories/202607210070.html) | allAfrica.com | 2026-07-21T05:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Test results create more confusion around cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDFPTGNSZmdIajA2U0NTY29kR3pfMUU3cU40U3plOVQ3Rl9mbFhGQmJDa1Z0NWxzZFhsQ1U3b2hGbkQ4WmJKUUN1VG1KU2FVRjJJajVGblZiZ2NlaWh1ZlVOYmljNkVNTV84bHVTNW5TSEVadktXend2YlhlOVY0ZFBfTl9nWG5fR193ejUwMlNkWFVoVEtnUHhB?oc=5) | PBS | 2026-07-20T22:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Cyclospora outbreak surges. Here's how to lower infection risk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanI5aFNPemtZYXJ5TXV4Y2tsUmFyNXhYR1dQWTRwVjhqcXRyd2J4M2lYUGtQemY1a3VFblNwZV9JTTNPMl9wVEREOTlIbFBLSFEybENEVkZ5MjlXeDRrOXhiejVHa3V2Y1FrRVpXSm5MQ3NnTEE1MTdBY2lERDFBcVU3bm1VN1RZ?oc=5) | Axios | 2026-07-20T22:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
