@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-21
-Generated at: 2026-07-21T03:09
+Generated at: 2026-07-21T03:14
 Search window: 7 day(s) ending 2026-07-21
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-07-21
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa; 2026-07-16T09:37+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [A Global Perspective of Childhood Vaccinations: Past, Present, and Future-From Smallpox to mRNA.](https://pubmed.ncbi.nlm.nih.gov/42455589/) (PubMed Historical Pathogen Case Studies; 2026-07-15T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-15T00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (228), Policy, surveillance, and public health infrastructure (53), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, Oregon Health Authority News Releases.
+- Category mix: Outbreaks and emerging infections (227), Policy, surveillance, and public health infrastructure (54), Historical epidemiology / ancient disease / paleopathology (2)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
