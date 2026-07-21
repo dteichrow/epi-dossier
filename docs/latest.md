@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-21
-Generated at: 2026-07-21T05:10
+Generated at: 2026-07-21T05:14
 Search window: 7 day(s) ending 2026-07-21
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-21
 - [Accuracy and safety of C-TST for tuberculosis infection: A clinical trial in Brazil.](https://pubmed.ncbi.nlm.nih.gov/42467493/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa; 2026-07-16T09:37+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (238), Policy, surveillance, and public health infrastructure (54), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (240), Policy, surveillance, and public health infrastructure (54), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 95 item(s) across 77 source(s).
-- Baseline snapshot created with 95 clustered item(s) across 77 source(s).
+- Newly tracked story cluster: 97 item(s) across 79 source(s).
+- Baseline snapshot created with 97 clustered item(s) across 79 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - BusinessLine now foregrounds vaccination or vaccine policy in the story.
 
@@ -39,8 +39,8 @@ Search window: 7 day(s) ending 2026-07-21
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 183 item(s) across 116 source(s).
-- Baseline snapshot created with 183 clustered item(s) across 116 source(s).
+- Newly tracked story cluster: 183 item(s) across 117 source(s).
+- Baseline snapshot created with 183 clustered item(s) across 117 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Polio and wastewater surveillance
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-07-21
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 183 item(s) across 116 source(s); 2 official/primary-source item(s).
+- Topic size: 183 item(s) across 117 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-20T00:00)
 - Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Can I eat lettuce now? What to know about the cyclosporiasis outbreak.](https://www.washingtonpost.com/health/2026/07/21/can-i-eat-lettuce-now-what-know-about-cyclosporiasis-outbreak/) (The Washington Post); [The cyclospora outbreak, explained](https://www.cbsnews.com/texas/video/the-cyclospora-outbreak-explained/) (CBS News); [The Cyclosporiasis Outbreak Is a Master Class in Miscommunication](https://www.bloomberg.com/opinion/articles/2026-07-21/explosive-diarrhea-outbreak-is-a-master-class-in-miscommunication) (Bloomberg.com)
@@ -60,7 +60,7 @@ Search window: 7 day(s) ending 2026-07-21
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 95 item(s) across 77 source(s); 3 official/primary-source item(s).
+- Topic size: 97 item(s) across 79 source(s); 3 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-21T12:03+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Uganda safeguards essential health services during Ebola outbreak response - WHO | Regional Office for Africa](https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response) (WHO); [AfDB Deploys KES 1.7 Billion Emergency Fund to Contain Deadly DRC Ebola Outbreak](https://streamlinefeed.co.ke/news/afdb-deploys-kes-1-7-billion-emergency-fund-to-contain-deadly-drc-ebola-outbreak) (streamlinefeed.co.ke)
