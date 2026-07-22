@@ -14,20 +14,27 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 268,
+    "metadata_only_count": 277,
     "sources_cached": 0,
-    "sources_failed": 0,
-    "sources_live": 290,
-    "story_count_change": 5,
+    "sources_failed": 1,
+    "sources_live": 294,
+    "story_count_change": 4,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 290,
+    "live": 294,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-22T13:17:32",
-  "source_failures": []
+  "generated_at": "2026-07-22T13:58:05",
+  "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    }
+  ]
 }
