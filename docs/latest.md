@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-22
-Generated at: 2026-07-22T04:58
+Generated at: 2026-07-22T05:05
 Search window: 7 day(s) ending 2026-07-22
 
 ## Executive scan
@@ -33,14 +33,14 @@ Search window: 7 day(s) ending 2026-07-22
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 181 item(s) across 111 source(s).
-- Baseline snapshot created with 181 clustered item(s) across 111 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- Newly tracked story cluster: 184 item(s) across 113 source(s).
+- Baseline snapshot created with 184 clustered item(s) across 113 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [The Virus Will Not Wait—Neither Can We: Two Months Into the Ebola Emergency](https://www.afro.who.int/media-centre/statements-commentaries/virus-will-not-wait-neither-can-we-two-months-ebola-emergency) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 88 item(s) across 65 source(s).
-- Baseline snapshot created with 88 clustered item(s) across 65 source(s).
+- Newly tracked story cluster: 85 item(s) across 63 source(s).
+- Baseline snapshot created with 85 clustered item(s) across 63 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Tuberculosis and antimicrobial resistance
@@ -52,15 +52,15 @@ Search window: 7 day(s) ending 2026-07-22
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 181 item(s) across 111 source(s); 1 official/primary-source item(s).
+- Topic size: 184 item(s) across 113 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-21T00:00)
-- Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclosporiasis outbreak hits Taco Bell sales, unlikely to cause lasting scar, analysts say](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-outbreak-hits-taco-bell-sales-unlikely-cause-lasting-scar-2026-07-22/) (Reuters); [Did the Cyclospora Outbreak Start Here? ‘They’re Always Going to Blame Us Mexicans.’](https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html) (The New York Times); [Mass. lettuce farm says product safe to eat amid Cyclospora outbreak: "We do things fundamentally differently"](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc19jSC1yQ1ZCMzRuTEtNemxuR1p4V1ZZZ1FOaHZwOFBsM2d5T1M5R2NRdDdFbC10d0dscWc0MWJ6QzJCSmJSLTh6OTRRNmszQUtRYjZuaUszLTdUUXo3b3g4dGhQX2lNbXNmbnRhTmlCdmk3QzlvdjJ5cXdpOGVJM3FJMHNneXE2R0Eyd1NhbHAtSldLcWN2eE51MkQxdlVKRWVr?oc=5) (CBS News); [US cyclosporiasis cases top 4,100 as CDC investigates lettuce-linked outbreak](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbE5tM1ZVZ0kySVpLNS1BaDJQRTJmdVNJS1Y0ZzZGOG4wcGRlb3VvM01SVS0tSkZCOVpodi0wYzRYT3BjdmdHcU81RUVNbHM5c0RxRnhDN0hZT3NrMDBNYWxCS1gwZlAxTWdPN3RWdUhkR19SaldTcURxdHc2dk5GeGhSS1laSHZNV21yRjRTenhKNFhROXFnZTlxT2Y0NDNRSVVCeFo0N3RuU0pHR1FSN056d1JtVmlXdkF3bmRsRk94Rksz?oc=5) (Reuters)
+- Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Is the Cyclospora outbreak under control? Texas still tracking parasite as 98 cases confirmed](https://www.cbsnews.com/texas/video/is-the-cyclospora-outbreak-under-control-texas-still-tracking-parasite-as-98-cases-confirmed/) (CBS News); [Cyclosporiasis outbreak hits Taco Bell sales, unlikely to cause lasting scar, analysts say](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-outbreak-hits-taco-bell-sales-unlikely-cause-lasting-scar-2026-07-22/) (Reuters); [Did the Cyclospora Outbreak Start Here? ‘They’re Always Going to Blame Us Mexicans.’](https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 88 item(s) across 65 source(s); 5 official/primary-source item(s).
+- Topic size: 85 item(s) across 63 source(s); 5 official/primary-source item(s).
 - Lead item: [The Virus Will Not Wait—Neither Can We: Two Months Into the Ebola Emergency](https://www.afro.who.int/media-centre/statements-commentaries/virus-will-not-wait-neither-can-we-two-months-ebola-emergency) (WHO Regional Office for Africa, 2026-07-22T09:50+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July, the Democratic Republic of the Congo had reported 2,073 cases and 796 deaths, making this the third-largest...
 - Evidence notes: [The Virus Will Not Wait—Neither Can We: Two Months Into the Ebola Emergency](https://www.afro.who.int/media-centre/statements-commentaries/virus-will-not-wait-neither-can-we-two-months-ebola-emergency) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -427,19 +427,23 @@ Search window: 7 day(s) ending 2026-07-22
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026
-- Source: WHO Regional Office for Africa
-- Date: 2026-07-11T00:27+00:00
-- URL: https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1
+### FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-15T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
 - Category: Outbreaks and emerging infections
-- Summary: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. The crude case fatality ratio (CFR) rose from 28.8% to 32.1%. The outbreak is marked by growing numbers of community deaths, and the continued spread of infection into previously unaffected health zones.
+- Summary: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). Outbreak or event status: Ongoing See Advisory").
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) | WHO Regional Office for Africa | 2026-07-11T00:27+00:00 | Outbreaks and emerging infections
+  An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. The crude case fatality ratio (CFR) rose from 28.8% to 32.1%. The outbreak is marked by growing numbers of community deaths, and the continued spread of infection into previously unaffected health zones.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Is the Cyclospora outbreak under control? Texas still tracking parasite as 98 cases confirmed](https://www.cbsnews.com/texas/video/is-the-cyclospora-outbreak-under-control-texas-still-tracking-parasite-as-98-cases-confirmed/) | CBS News | 2026-07-22T11:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cyclosporiasis outbreak hits Taco Bell sales, unlikely to cause lasting scar, analysts say](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-outbreak-hits-taco-bell-sales-unlikely-cause-lasting-scar-2026-07-22/) | Reuters | 2026-07-22T11:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -458,10 +462,6 @@ Search window: 7 day(s) ending 2026-07-22
 - [Africa CDC calls for urgent action as DR Congo Ebola cases pass 2,400](https://www.turkiyetoday.com/world/africa-cdc-calls-for-urgent-action-as-dr-congo-ebola-cases-pass-2400-3224389) | Türkiye Today | 2026-07-22T07:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak expands in DR Congo as WHO sees signs of stabilization](https://www.bastillepost.com/global/article/6027798-ebola-outbreak-expands-in-dr-congo-as-who-sees-signs-of-stabilization) | 巴士的報 | 2026-07-22T06:49+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak: Can Africa hold the line after USAID cuts?](https://www.dw.com/en/ebola-outbreak-can-africa-hold-the-line-after-usaid-cuts/audio-77247442) | DW.com | 2026-07-22T00:19+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Health: AfDB $13m to bolster Ebola response-outbreak in DRC,](https://www.newvision.co.ug/category/health/afdb-13m-to-bolster-ebola-response-outbreak-i-NV_237461_072026) | NewVision.co.ug | 2026-07-22T00:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Mass. lettuce farm says product safe to eat amid Cyclospora outbreak: "We do things fundamentally differently"](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc19jSC1yQ1ZCMzRuTEtNemxuR1p4V1ZZZ1FOaHZwOFBsM2d5T1M5R2NRdDdFbC10d0dscWc0MWJ6QzJCSmJSLTh6OTRRNmszQUtRYjZuaUszLTdUUXo3b3g4dGhQX2lNbXNmbnRhTmlCdmk3QzlvdjJ5cXdpOGVJM3FJMHNneXE2R0Eyd1NhbHAtSldLcWN2eE51MkQxdlVKRWVr?oc=5) | CBS News | 2026-07-21T23:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
