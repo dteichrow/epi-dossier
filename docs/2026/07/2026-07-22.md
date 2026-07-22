@@ -1,25 +1,25 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-22
-Generated at: 2026-07-22T11:22
+Generated at: 2026-07-22T12:08
 Search window: 7 day(s) ending 2026-07-22
 
 ## Executive scan
-- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-07-22T18:07+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-22T18:07+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-22T19:08+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News; 2026-07-22T18:58+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The Virus Will Not Wait—Neither Can We: Two Months Into the Ebola Emergency](https://www.afro.who.int/media-centre/statements-commentaries/virus-will-not-wait-neither-can-we-two-months-ebola-emergency) (WHO Regional Office for Africa; 2026-07-22T09:50+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Context-dependent risk stratification using a tuberculin skin test induration threshold of ≥ 15 mm in school tuberculosis screening in Hangzhou, China: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42477851/) (PubMed Historical Pathogen Case Studies; 2026-07-21T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (221), Policy, surveillance, and public health infrastructure (58), Virology and pathogen evolution (3)
+- Category mix: Outbreaks and emerging infections (220), Policy, surveillance, and public health infrastructure (61), Virology and pathogen evolution (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 5 item(s) across 5 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 5 source(s).
+- Newly tracked story cluster: 6 item(s) across 6 source(s).
+- Baseline snapshot created with 6 clustered item(s) across 6 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - NDTV now includes deaths or fatal cases in the story frame.
 - The New York Times now includes quarantine language.
@@ -33,37 +33,37 @@ Search window: 7 day(s) ending 2026-07-22
 
 ### Cyclosporiasis
 - Lead item: [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks)
-- Newly tracked story cluster: 180 item(s) across 112 source(s).
-- Baseline snapshot created with 180 clustered item(s) across 112 source(s).
+- Newly tracked story cluster: 180 item(s) across 113 source(s).
+- Baseline snapshot created with 180 clustered item(s) across 113 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 88 item(s) across 67 source(s).
-- Baseline snapshot created with 88 clustered item(s) across 67 source(s).
+- Newly tracked story cluster: 89 item(s) across 67 source(s).
+- Baseline snapshot created with 89 clustered item(s) across 67 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 180 item(s) across 112 source(s); 2 official/primary-source item(s).
+- Topic size: 180 item(s) across 113 source(s); 2 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks, 2026-07-22T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
-- Evidence notes: [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclosporiasis outbreak hits Taco Bell sales, unlikely to cause lasting scar, analysts say](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-outbreak-hits-taco-bell-sales-unlikely-cause-lasting-scar-2026-07-22/) (Reuters); [More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/11500-cyclosporiasis-cases-reported-41-states-cdc/story?id\=134979908) (ABC News - Breaking News, Latest News and Videos); [Cyclosporiasis cases in Michigan climb to over 7,000, state health officials say](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-climb-over-7000-state-health-officials-say-2026-07-22/) (Reuters)
+- Evidence notes: [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Why does lettuce remain the top suspect in the Cyclospora outbreak?](https://www.newsnationnow.com/health/lettuce-still-suspect-cyclospora-outbreak/) (NewsNation); [Cyclosporiasis outbreak hits Taco Bell sales, unlikely to cause lasting scar, analysts say](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-outbreak-hits-taco-bell-sales-unlikely-cause-lasting-scar-2026-07-22/) (Reuters); [Illinois reports 408 confirmed or probable cases of cyclosporiasis](https://www.cbsnews.com/chicago/news/illinois-reports-408-confirmed-probable-cyclosporiasis-cases/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 88 item(s) across 67 source(s); 5 official/primary-source item(s).
-- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-22T18:07+00:00)
+- Topic size: 89 item(s) across 67 source(s); 5 official/primary-source item(s).
+- Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-22T18:58+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July, the Democratic Republic of the Congo had reported 2,073 cases and 796 deaths, making this the third-largest...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [The Virus Will Not Wait—Neither Can We: Two Months Into the Ebola Emergency](https://www.afro.who.int/media-centre/statements-commentaries/virus-will-not-wait-neither-can-we-two-months-ebola-emergency) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 5 item(s) across 5 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-22T18:07+00:00)
+- Topic size: 6 item(s) across 6 source(s); 1 official/primary-source item(s).
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-22T19:08+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5) (The New York Times); [After cruise ship outbreak, review examines how hantavirus affects the brain](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5) (CIDRAP); [Hantavirus Outbreak In Venezuela: 3 Dead, 2 More Suspected Deaths](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnhQaXQtSDI3ZzNtTWZKM1F6SFY3UFphVFVwTk8wbFJWLUxUX2Y5UVlVSFVZZmxOSDNKOTdDR2czY3JJM3BGMVoyeWJGNjJWQXR2Qmd5RUdRNDR2MlFXSG8yLUZlUjh6R05tLV9BTGYwZHlFczZ5S2syZ0kySmhQa1JBOGZiVkppSC16NWU2dWRTX3lfa0JERUFvUHdQSUJYMHc?oc=5) (NDTV); [Postscript to the Hantavirus Outbreak](https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5) (tristandc.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -331,20 +331,20 @@ Search window: 7 day(s) ending 2026-07-22
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
-### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
+### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-22T18:07+00:00
-- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
+- Date: 2026-07-22T19:08+00:00
+- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
+### Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-22T18:07+00:00
-- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
+- Date: 2026-07-22T18:58+00:00
+- URL: https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
@@ -433,33 +433,33 @@ Search window: 7 day(s) ending 2026-07-22
 
 
 ## Other notable readings
+- [Why does lettuce remain the top suspect in the Cyclospora outbreak?](https://www.newsnationnow.com/health/lettuce-still-suspect-cyclospora-outbreak/) | NewsNation | 2026-07-22T18:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola death toll surpasses 1,000 in DR Congo, Uganda](https://www.aa.com.tr/en/africa/ebola-death-toll-surpasses-1-000-in-dr-congo-uganda/4006176) | Anadolu Ajansı | 2026-07-22T18:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cyclosporiasis outbreak hits Taco Bell sales, unlikely to cause lasting scar, analysts say](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-outbreak-hits-taco-bell-sales-unlikely-cause-lasting-scar-2026-07-22/) | Reuters | 2026-07-22T17:18+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Illinois reports 408 confirmed or probable cases of cyclosporiasis](https://www.cbsnews.com/chicago/news/illinois-reports-408-confirmed-probable-cyclosporiasis-cases/) | CBS News | 2026-07-22T17:14+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/11500-cyclosporiasis-cases-reported-41-states-cdc/story?id\=134979908) | ABC News - Breaking News, Latest News and Videos | 2026-07-22T15:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cyclosporiasis cases in Michigan climb to over 7,000, state health officials say](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-climb-over-7000-state-health-officials-say-2026-07-22/) | Reuters | 2026-07-22T15:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo's Ebola outbreak has killed nearly 1,000 people - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-ebola-outbreak-killed-1000-people-134975874) | ABC News - Breaking News, Latest News and Videos | 2026-07-22T13:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Michigan's cyclosporiasis outbreak count tops 7,100; increases by 600 from Tuesday](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMF9wTU1DcDJIbHVnNXlMM1pBc19qYnZQVURyNkhnTkJqazlmRTNIN2VIeC1qaHBORVpqaUlwYmRYM29OWU9ZaGRpZkhBXzBQVndsc2JpSlA2ZmFnR0tNSHdmdElVbk5WWGJncW5RdWxjeFpEc2RhMXQ5YlNIX0U1UQ?oc=5) | CBS News | 2026-07-22T13:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Race Against Time: Fighting Bundibugyo Ebola Outbreak in Congo](https://www.devdiscourse.com/article/health/3954070-race-against-time-fighting-bundibugyo-ebola-outbreak-in-congo) | Devdiscourse | 2026-07-22T12:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak has killed nearly 1,000 people](https://www.transylvaniatimes.com/news/nation_world/congos-ebola-outbreak-has-killed-nearly-1-000-people/article_55eaecca-a86f-5c94-a33a-f7bac1167e31.html) | The Transylvania Times | 2026-07-22T12:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Over 1,000 deaths recorded in Ebola outbreak in DRC, Uganda: WHO](https://www.bssnews.net/news/407933) | Bangladesh Sangbad Sangstha (BSS) | 2026-07-22T10:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congo says nearly 1,000 die of Ebola, confirmed cases rise to 2,473](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-nearly-1000-die-ebola-confirmed-cases-rise-2473-2026-07-22/) | Reuters | 2026-07-22T09:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Did the Cyclospora Outbreak Start Here? ‘They’re Always Going to Blame Us’](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUWdTbEU3blNLcVBtU3hPUkFIdVZTeFhkSjRJMDNydkhlZS0tZG9jeDEtMlhNMFFWcG5VM09TcUM4YW9RdTBuTERrSUlYSThUSFVFLVR0VnpqZUh5VHJxRE94dHBoUFlETTVFeEpyRThsY1pqME5hU05ZbkZyRVNZMFZnb3RReFJPci1kR0tZSlJDam9wdmc?oc=5) | The New York Times | 2026-07-22T09:02+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak highlights need for increased public health funding in South Sudan, foreign embassies say](https://www.eyeradio.org/ebola-outbreak-highlights-need-for-increased-public-health-funding-in-south-sudan-foreign-embassies-say/) | Eye Radio | 2026-07-22T08:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health: AfDB $13m to bolster Ebola response-outbreak in DRC,](https://www.newvision.co.ug/category/health/afdb-13m-to-bolster-ebola-response-outbreak-i-NV_237461_072026) | NewVision.co.ug | 2026-07-22T08:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Africa CDC calls for urgent action as DR Congo Ebola cases pass 2,400](https://www.turkiyetoday.com/world/africa-cdc-calls-for-urgent-action-as-dr-congo-ebola-cases-pass-2400-3224389) | Türkiye Today | 2026-07-22T07:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [RFK Jr. says cyclosporiasis outbreak "under control" as CDC reports over 4,000 confirmed cases](https://news.google.com/rss/articles/CBMivgFBVV95cUxPbnVoZW5yWF8wYmRjNjgxemZLY2ZXVlVBdk5HRG41US1BSXJtaURUTlBRQk9VbUJha1REWktEdzUtSEJFeE5jaVY3RTV2b2gwTHc3YUpQMXFZUWl3cXg4U0hGYk1oN3A2VGVWV2hjd29udk1RU2dEbkY3a2NqWm50N1REOUVreVJEUXpzdHFWckEyYzIxRGR3TWlxS3Y1VnU2NUM5X2NFNnVVaE9VQWRFTFVlbjdmdmxraHJjRHVR?oc=5) | CBS News | 2026-07-22T04:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Mass. lettuce farm says product safe to eat amid Cyclospora outbreak: "We do things fundamentally differently"](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc19jSC1yQ1ZCMzRuTEtNemxuR1p4V1ZZZ1FOaHZwOFBsM2d5T1M5R2NRdDdFbC10d0dscWc0MWJ6QzJCSmJSLTh6OTRRNmszQUtRYjZuaUszLTdUUXo3b3g4dGhQX2lNbXNmbnRhTmlCdmk3QzlvdjJ5cXdpOGVJM3FJMHNneXE2R0Eyd1NhbHAtSldLcWN2eE51MkQxdlVKRWVr?oc=5) | CBS News | 2026-07-21T23:19+00:00 | Outbreaks and emerging infections
+- [RFK Jr. says cyclosporiasis outbreak "under control" as CDC reports over 4,000 confirmed cases](https://news.google.com/rss/articles/CBMivgFBVV95cUxPbnVoZW5yWF8wYmRjNjgxemZLY2ZXVlVBdk5HRG41US1BSXJtaURUTlBRQk9VbUJha1REWktEdzUtSEJFeE5jaVY3RTV2b2gwTHc3YUpQMXFZUWl3cXg4U0hGYk1oN3A2VGVWV2hjd29udk1RU2dEbkY3a2NqWm50N1REOUVreVJEUXpzdHFWckEyYzIxRGR3TWlxS3Y1VnU2NUM5X2NFNnVVaE9VQWRFTFVlbjdmdmxraHJjRHVR?oc=5) | CBS News | 2026-07-21T23:52+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [RFK Jr. says cyclosporiasis outbreak is ‘under control’ as Mexico casts doubt on link to Taylor Farms facility](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcWwyWWJKZ0FaUW9vUUtXMTJXTFpNY1NlNWVhQnh4cFB5bm9wNGQ0WVFfQ0JiWWZDcW12N0dsN25Vb3B1c09MWXFwRlN6cy1CYzJmOFQ5c1BCSzZsT2JqQlR4dlU3UXlGWEJ5UVNlMmYzUW5xbGtYQnJwZTFfSWUwbmJFYUVjc2hpX2hSMW5wdllSVnVRQzJqNkVnWVh0RVR2OUJ2V3BINXJOZ2NYUVVjUzhJUkw1QTRpSDEtNXJRQ1NQdw?oc=5) | NBC News | 2026-07-21T21:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
