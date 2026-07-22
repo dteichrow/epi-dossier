@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-21
-Generated at: 2026-07-21T17:58
+Generated at: 2026-07-21T18:07
 Search window: 7 day(s) ending 2026-07-21
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-21
 - [[The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].](https://pubmed.ncbi.nlm.nih.gov/42478916/) (PubMed Historical Pathogen Case Studies; 2026-07-21T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Accuracy and safety of C-TST for tuberculosis infection: A clinical trial in Brazil.](https://pubmed.ncbi.nlm.nih.gov/42467493/) (PubMed Infectious Disease Search; 2026-07-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Genotype-Specific Detection of Measles Virus Using Wastewater Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766003) (CDC MMWR; 2026-07-16T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (218), Policy, surveillance, and public health infrastructure (61), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (220), Policy, surveillance, and public health infrastructure (60), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -41,28 +41,28 @@ Search window: 7 day(s) ending 2026-07-21
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 185 item(s) across 109 source(s).
-- Baseline snapshot created with 185 clustered item(s) across 109 source(s).
+- Newly tracked story cluster: 183 item(s) across 109 source(s).
+- Baseline snapshot created with 183 clustered item(s) across 109 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 80 item(s) across 61 source(s).
-- Baseline snapshot created with 80 clustered item(s) across 61 source(s).
+- Newly tracked story cluster: 83 item(s) across 64 source(s).
+- Baseline snapshot created with 83 clustered item(s) across 64 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 185 item(s) across 109 source(s); 2 official/primary-source item(s).
+- Topic size: 183 item(s) across 109 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-21T00:00)
 - Detailed note: FDA lists reference 1390 with date posted 7/15/2026. Reported total case count: See") Advisory"). The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Mass. lettuce farm says product safe to eat amid Cyclospora outbreak: "We do things fundamentally differently"](https://www.cbsnews.com/boston/news/massachusetts-lettuce-little-leaf-farms-safe-cyclospora-outbreak/) (CBS News); [US cyclosporiasis cases top 4,100 as CDC investigates lettuce-linked outbreak](https://www.reuters.com/legal/litigation/us-cyclosporiasis-cases-top-4100-cdc-investigates-lettuce-linked-outbreak-2026-07-21/) (Reuters); [RFK Jr. says cyclospora outbreak is "under control"](https://www.cbsnews.com/video/kennedy-says-cyclospora-outbreak-is-under-control/) (CBS News)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1390: Cyclospora linked to Iceberg Lettuce](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Mass. lettuce farm says product safe to eat amid Cyclospora outbreak: "We do things fundamentally differently"](https://www.cbsnews.com/boston/news/massachusetts-lettuce-little-leaf-farms-safe-cyclospora-outbreak/) (CBS News); [RFK Jr. says cyclospora outbreak is "under control"](https://www.cbsnews.com/video/kennedy-says-cyclospora-outbreak-is-under-control/) (CBS News); [RFK Jr. says cyclosporiasis outbreak is ‘under control’ as Mexico casts doubt on link to Taylor Farms facility](https://www.nbcnews.com/health/health-news/rfk-jr-says-cyclosporiasis-outbreak-control-mexico-casts-doubt-link-ta-rcna588604) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 80 item(s) across 61 source(s); 4 official/primary-source item(s).
+- Topic size: 83 item(s) across 64 source(s); 4 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-22T00:58+00:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Africa health body wants urgent action as Ebola cases top 2,400 in DR Congo](https://www.anews.com.tr/africa/2026/07/22/africa-health-body-wants-urgent-action-as-ebola-cases-top-2400-in-dr-congo) (A News)
@@ -449,8 +449,6 @@ Search window: 7 day(s) ending 2026-07-21
   Limited detail was available from feed metadata alone.
 - [Mass. lettuce farm says product safe to eat amid Cyclospora outbreak: "We do things fundamentally differently"](https://www.cbsnews.com/boston/news/massachusetts-lettuce-little-leaf-farms-safe-cyclospora-outbreak/) | CBS News | 2026-07-21T23:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US cyclosporiasis cases top 4,100 as CDC investigates lettuce-linked outbreak](https://www.reuters.com/legal/litigation/us-cyclosporiasis-cases-top-4100-cdc-investigates-lettuce-linked-outbreak-2026-07-21/) | Reuters | 2026-07-21T23:18+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Potential Ebola patients monitored in London hospital after being evacuated from DR Congo](https://www.lbc.co.uk/article/humanitarian-worker-uk-hospital-ebola-exposure-5HjddyJ_2/) | lbc.co.uk | 2026-07-21T22:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa health body wants urgent action as Ebola cases top 2,400 in DR Congo](https://www.anews.com.tr/africa/2026/07/22/africa-health-body-wants-urgent-action-as-ebola-cases-top-2400-in-dr-congo) | A News | 2026-07-21T22:23+00:00 | Outbreaks and emerging infections
@@ -458,8 +456,6 @@ Search window: 7 day(s) ending 2026-07-21
 - [RFK Jr. says cyclospora outbreak is "under control"](https://www.cbsnews.com/video/kennedy-says-cyclospora-outbreak-is-under-control/) | CBS News | 2026-07-21T22:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [RFK Jr. says cyclosporiasis outbreak is ‘under control’ as Mexico casts doubt on link to Taylor Farms facility](https://www.nbcnews.com/health/health-news/rfk-jr-says-cyclosporiasis-outbreak-control-mexico-casts-doubt-link-ta-rcna588604) | NBC News | 2026-07-21T21:58+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Officials are still trying to pinpoint the source of a Cyclosporiasis outbreak](https://www.cbsnews.com/texas/video/officials-are-still-trying-to-pinpoint-the-source-of-a-cyclosporiasis-outbreak/) | CBS News | 2026-07-21T21:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [FDA doubles down on Taylor Farms as source of cyclosporiasis outbreak sickening thousands](https://www.cbsnews.com/minnesota/video/fda-doubles-down-on-taylor-farms-as-source-of-cyclosporiasis-outbreak-sickening-thousands/) | CBS News | 2026-07-21T21:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -480,6 +476,10 @@ Search window: 7 day(s) ending 2026-07-21
 - [Michigan cyclosporiasis outbreak tops 6,500 cases, state health officials say](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnhvNFZyRFNSVl8xR01tMUp5cTN5UVo3N21YRmF0N3RPamx5cGRDVERCVlViMXcxbVJlem5wbWpOLVQtdmVaZmdaUVdYeFdWbzB2amRGRV9NUVlPMnhmUjNwLW1BSmV5Sl96cmhOWHRsQklYRmVCZkhjRGt3M2g2dW11ZnFoekk?oc=5) | CBS News | 2026-07-21T14:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda safeguards essential health services during Ebola outbreak response | OMS | Bureau régional pour l'Afrique - WHO | Regional Office for Africa](https://www.afro.who.int/fr/node/23760) | WHO | 2026-07-21T13:30+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization](https://news.un.org/en/story/2026/07/1167983) | UN News | 2026-07-21T12:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO says Ebola outbreak in Congo tops 2,400 cases, nearly 1,000 deaths](https://www.aa.com.tr/en/health/who-says-ebola-outbreak-in-congo-tops-2-400-cases-nearly-1-000-deaths/4004708) | Anadolu Ajansı | 2026-07-21T12:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
