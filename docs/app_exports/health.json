@@ -14,25 +14,18 @@
     ],
     "metadata_only_count": 270,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 288,
-    "story_count_change": 5,
+    "sources_failed": 0,
+    "sources_live": 291,
+    "story_count_change": 6,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 288,
+    "live": 291,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-22T05:05:47",
-  "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
-    }
-  ]
+  "generated_at": "2026-07-22T05:17:28",
+  "source_failures": []
 }
