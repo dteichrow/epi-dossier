@@ -14,20 +14,20 @@
       "STAT"
     ],
     "metadata_only_count": 278,
-    "sources_cached": 0,
+    "sources_cached": 4,
     "sources_failed": 1,
-    "sources_live": 296,
+    "sources_live": 292,
     "story_count_change": 4,
     "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 296,
-    "refresh_cache": 0,
+    "live": 292,
+    "refresh_cache": 4,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-23T02:36:59",
+  "generated_at": "2026-07-23T03:12:26",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
