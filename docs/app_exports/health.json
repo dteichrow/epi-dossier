@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -13,12 +13,12 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 270,
+    "metadata_only_count": 274,
     "sources_cached": 0,
-    "sources_failed": 0,
+    "sources_failed": 2,
     "sources_live": 291,
-    "story_count_change": 4,
-    "wrapper_only_count": 9
+    "story_count_change": 3,
+    "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
@@ -27,6 +27,19 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-23T01:17:19",
-  "source_failures": []
+  "generated_at": "2026-07-23T01:18:31",
+  "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.oregon.gov', port=443): Max retries exceeded with url: /oha/erd/pages/news-releases.aspx (Caused by NameResolutionError(\"HTTPSConnection(host='www.oregon.gov', port=443): Failed to resolve 'www.oregon.gov' ([Errno -3] Temporary failure in name resolution)\"))",
+      "required": true,
+      "source": "Oregon Health Authority News Releases",
+      "source_type": "html_list"
+    }
+  ]
 }
