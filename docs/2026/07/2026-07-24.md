@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-24
-Generated at: 2026-07-24T05:08
+Generated at: 2026-07-24T05:12
 Search window: 7 day(s) ending 2026-07-24
 
 ## Executive scan
@@ -9,17 +9,17 @@ Search window: 7 day(s) ending 2026-07-24
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-23T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Lessons learned from the deployment of oral cholera vaccine by maintaining the controlled temperature chain (CTC) in an urban setting, Bangladesh.](https://pubmed.ncbi.nlm.nih.gov/42488967/) (PubMed Infectious Disease Search; 2026-07-23T00:00; Major epidemiology studies; relevance 5/5)
 - [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) (PubMed Historical Pathogen Case Studies; 2026-07-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Context-dependent risk stratification using a tuberculin skin test induration threshold of ≥ 15 mm in school tuberculosis screening in Hangzhou, China: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42477851/) (PubMed Historical Pathogen Case Studies; 2026-07-21T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [[The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].](https://pubmed.ncbi.nlm.nih.gov/42478916/) (PubMed Historical Pathogen Case Studies; 2026-07-21T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (223), Policy, surveillance, and public health infrastructure (63), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (224), Policy, surveillance, and public health infrastructure (64), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 93 item(s) across 67 source(s).
-- Baseline snapshot created with 93 clustered item(s) across 67 source(s).
+- Newly tracked story cluster: 92 item(s) across 66 source(s).
+- Baseline snapshot created with 92 clustered item(s) across 66 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -39,9 +39,9 @@ Search window: 7 day(s) ending 2026-07-24
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 180 item(s) across 104 source(s).
-- Baseline snapshot created with 180 clustered item(s) across 104 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- Newly tracked story cluster: 183 item(s) across 106 source(s).
+- Baseline snapshot created with 183 clustered item(s) across 106 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) (PubMed Historical Pathogen Case Studies)
@@ -52,15 +52,15 @@ Search window: 7 day(s) ending 2026-07-24
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 180 item(s) across 104 source(s); 1 official/primary-source item(s).
+- Topic size: 183 item(s) across 106 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-23T00:00)
-- Detailed note: cyclospora outbreak to 9 states The Washington Post The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [CDC expands largest known U.S. cyclospora outbreak to 9 states](https://www.washingtonpost.com/health/2026/07/24/cdc-expands-largest-known-us-cyclospora-outbreak-9-states/) (The Washington Post); [FDA investigating new outbreak of cyclospora parasite](https://www.cbsnews.com/philadelphia/video/fda-investigating-new-outbreak-of-cyclospora-parasite/) (CBS News); [Cyclosporiasis: Case rates rise in five outbreak states](https://www.axios.com/2026/07/23/cyclosporiasis-cases-rates-rise-outbreak-states) (Axios); [Cyclosporiasis outbreak has shoppers buying local produce, Pittsburgh farmers market says](https://www.cbsnews.com/pittsburgh/news/cyclosporiasis-outbreak-buying-local-farmers-markets/) (CBS News)
+- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. cyclospora outbreak to 9 states The Washington Post
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [CDC expands largest known U.S. cyclospora outbreak to 9 states](https://www.washingtonpost.com/health/2026/07/24/cdc-expands-largest-known-us-cyclospora-outbreak-9-states/) (The Washington Post); [FDA investigating new outbreak of cyclospora parasite](https://www.cbsnews.com/philadelphia/video/fda-investigating-new-outbreak-of-cyclospora-parasite/) (CBS News); [Cyclosporiasis: Case rates rise in five outbreak states](https://www.axios.com/2026/07/23/cyclosporiasis-cases-rates-rise-outbreak-states) (Axios)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 93 item(s) across 67 source(s); 5 official/primary-source item(s).
+- Topic size: 92 item(s) across 66 source(s); 5 official/primary-source item(s).
 - Lead item: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa, 2026-07-24T07:27+00:00)
 - Detailed note: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo:...
 - Evidence notes: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 09, Data as of 12 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -387,6 +387,16 @@ Search window: 7 day(s) ending 2026-07-24
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1392: Cyclospora
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-22T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
 - Source: ECDC News
 - Date: 2026-07-21T17:36+02:00
@@ -427,18 +437,10 @@ Search window: 7 day(s) ending 2026-07-24
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Uganda begins countdown to end of Ebola outbreak
-- Source: WHO Regional Office for Africa
-- Date: 2026-07-16T09:37+00:00
-- URL: https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak
-- Category: Outbreaks and emerging infections
-- Summary: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. Maintaining strong surveillance, rapid investigation of alerts and community engagement into the future will be essential to achieving and sustaining success." Although no new confirmed cases have been reported since 21 June 2026, health authorities continue to enhance cross-border surveillance and operational readiness across all border areas to sustain rapid detection and trigger new response operations when needed.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) | WHO Regional Office for Africa | 2026-07-16T09:37+00:00 | Outbreaks and emerging infections
+  Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. Maintaining strong surveillance, rapid investigation of alerts and community engagement into the future will be essential to achieving and sustaining success." Although no new confirmed cases have been reported since 21 June 2026, health authorities continue to enhance cross-border surveillance and operational readiness across all border areas to sustain rapid detection and trigger new response operations when needed.
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 09, Data as of 12 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-2) | WHO Regional Office for Africa | 2026-07-14T13:36+00:00 | Outbreaks and emerging infections
   The outbreak was characterized by a rising incidence of reported cases, increasing mortality and continued geographic expansion into additional provinces and health zones, indicating ongoing propagation across affected areas. Outside the Democratic Republic of the Congo, the epidemiological situation remained unchanged, with no new cases reported in Uganda or France and no evidence of secondary transmission. Nevertheless, continued geographic expansion and increasing transmission intensity within the Democratic Republic of the Congo elevate the likelihood of cross-border spread and reinforce the need for sustained regional surveillance, preparedness and response measures.
 - [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
@@ -473,11 +475,9 @@ Search window: 7 day(s) ending 2026-07-24
   Limited detail was available from feed metadata alone.
 - [FDA says it identified new cyclospora outbreak linked to unspecified product](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVWZoNDZQalJ6aHpBTWhoeGpLMVJ5emNqaGgzbVBfaXl3MnRaczBPdVFXZXdqQ3REVk5FT0FIRWNVSEtNNjJFUDBEa0Z4dVI3T28zQ0NSbjRfRnVmcy0wX2hpZ3pBb0FWcjNCck5Pblh5QzhELW9FbXFZN0hUT0VacUR3?oc=5) | CBS News | 2026-07-23T16:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [F.D.A. Announces New Cyclosporiasis Outbreak With 72 Cases](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFUxUm9pWDB3UUlMbW5pZ0daNXpaWlNodURSZHR6b0ZzRTVKZHAzTjJNMUZScm8xQUl3THpYdmNCQTZ6WjZtU1hZbUdrZTFobXYzN1EtOFpmTVhCRXVTU3l6Mzg5Z19KbDV3TEJyMDQ3Wk5IVjkyTVk4Nm5IWXgzNGVtREpNWGM?oc=5) | The New York Times | 2026-07-23T15:43+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - ['This is a Fire' – Congo Ebola Outbreak Fastest Spreading in History](https://cbn.com/news/health/fire-congo-ebola-outbreak-fastest-spreading-history) | cbn.com | 2026-07-23T15:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Michigan cyclosporiasis outbreak continues to spike, reaching 7,664 cases](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTNVMk01Y0VJOWQyQWhQTWRfOENua3ZsVDVMYmFHUS1zVjNLVDlDc1RLNlhPeExwUU5BamFFVGRtbXVRNmREdEltNXd6TkowOXptY0piZ1dSYUdFUTdDdXJZajI3ZG9RcmhiUHVpUHhqNlJYNzBWSjhyQTVyOFdUWE0wSUpkbFVO?oc=5) | CBS News | 2026-07-23T15:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [F.D.A. Announces New Cyclosporiasis Outbreak With 72 Cases](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFUxUm9pWDB3UUlMbW5pZ0daNXpaWlNodURSZHR6b0ZzRTVKZHAzTjJNMUZScm8xQUl3THpYdmNCQTZ6WjZtU1hZbUdrZTFobXYzN1EtOFpmTVhCRXVTU3l6Mzg5Z19KbDV3TEJyMDQ3Wk5IVjkyTVk4Nm5IWXgzNGVtREpNWGM?oc=5) | The New York Times | 2026-07-23T14:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
