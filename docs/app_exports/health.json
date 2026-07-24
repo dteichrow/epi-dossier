@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -14,26 +14,26 @@
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 285,
+    "metadata_only_count": 292,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 304,
+    "sources_live": 314,
     "story_count_change": 5,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 304,
+    "live": 314,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-23T18:12:27",
+  "generated_at": "2026-07-23T18:17:30",
   "source_failures": [
     {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
+      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
+      "required": true,
+      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]
