@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-23
-Generated at: 2026-07-23T21:56
+Generated at: 2026-07-23T22:00
 Search window: 7 day(s) ending 2026-07-23
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-23
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Context-dependent risk stratification using a tuberculin skin test induration threshold of ≥ 15 mm in school tuberculosis screening in Hangzhou, China: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42477851/) (PubMed Historical Pathogen Case Studies; 2026-07-21T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [[The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].](https://pubmed.ncbi.nlm.nih.gov/42478916/) (PubMed Historical Pathogen Case Studies; 2026-07-21T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (231), Policy, surveillance, and public health infrastructure (56), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (229), Policy, surveillance, and public health infrastructure (56), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 102 item(s) across 74 source(s).
-- Baseline snapshot created with 102 clustered item(s) across 74 source(s).
+- Newly tracked story cluster: 100 item(s) across 73 source(s).
+- Baseline snapshot created with 100 clustered item(s) across 73 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - CIDRAP now foregrounds vaccination or vaccine policy in the story.
@@ -40,8 +40,8 @@ Search window: 7 day(s) ending 2026-07-23
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 172 item(s) across 97 source(s).
-- Baseline snapshot created with 172 clustered item(s) across 97 source(s).
+- Newly tracked story cluster: 172 item(s) across 96 source(s).
+- Baseline snapshot created with 172 clustered item(s) across 96 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Historical epidemiology and ancient pathogens
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-07-23
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 172 item(s) across 97 source(s); 2 official/primary-source item(s).
+- Topic size: 172 item(s) across 96 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-23T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/11500-cyclosporiasis-cases-reported-41-states-cdc/story?id\=134979908) (ABC News - Breaking News, Latest News and Videos); [Cyclosporiasis: Case rates rise in five outbreak states](https://www.axios.com/2026/07/23/cyclosporiasis-cases-rates-rise-outbreak-states) (Axios); [Taylor Farms reportedly shut down Mexican processing facility linked to cyclospora outbreak](https://www.cbsnews.com/video/taylor-farms-reportedly-shut-down-mexican-processing-facility-linked-cyclpospora-outbreak/) (CBS News)
@@ -61,7 +61,7 @@ Search window: 7 day(s) ending 2026-07-23
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 102 item(s) across 74 source(s); 4 official/primary-source item(s).
+- Topic size: 100 item(s) across 73 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-07-21T17:36+02:00)
 - Detailed note: An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-1) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [What to Know About the Ebola Outbreak Centered in Congo](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) (The New York Times)
@@ -448,8 +448,6 @@ Search window: 7 day(s) ending 2026-07-23
   Limited detail was available from feed metadata alone.
 - [Cyclosporiasis: Case rates rise in five outbreak states](https://www.axios.com/2026/07/23/cyclosporiasis-cases-rates-rise-outbreak-states) | Axios | 2026-07-23T23:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What to Know About the Ebola Outbreak Centered in Congo](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-07-23T23:36+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Taylor Farms reportedly shut down Mexican processing facility linked to cyclospora outbreak](https://www.cbsnews.com/video/taylor-farms-reportedly-shut-down-mexican-processing-facility-linked-cyclpospora-outbreak/) | CBS News | 2026-07-23T23:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How Taco Bell is responding to the cyclospora outbreak](https://www.cbsnews.com/video/how-taco-bell-responding-cyclospora-outbreak/) | CBS News | 2026-07-23T22:32+00:00 | Outbreaks and emerging infections
@@ -458,13 +456,13 @@ Search window: 7 day(s) ending 2026-07-23
   Limited detail was available from feed metadata alone.
 - [N.H. health officials tracking cyclospora outbreak](https://www.cbsnews.com/boston/video/n-h-health-officials-tracking-cyclospora-outbreak/) | CBS News | 2026-07-23T21:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [What to Know About the Ebola Outbreak Centered in Congo](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html) | The New York Times | 2026-07-23T20:16+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [U.S. health officials investigate new outbreak of parasite cyclospora](https://www.pbs.org/newshour/health/u-s-health-officials-investigate-new-outbreak-of-parasite-cyclospora) | PBS | 2026-07-23T19:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Taylor Farms temporarily shuts Mexico processing facility as U.S. cyclosporiasis cases rise, source says](https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-reports-7644-cyclosporiasis-cases-ongoing-outbreak-2026-07-23/) | Reuters | 2026-07-23T19:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [FDA identifies new Cyclospora outbreak with unknown source](https://www.cidrap.umn.edu/cyclospora/fda-identifies-new-cyclospora-outbreak-unknown-source) | CIDRAP | 2026-07-23T19:15+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [East Texan who operates nonprofit in Africa says Ebola outbreak will be ‘devastating’](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1JTcFNERC1EZm5UZGFIajl3NWJNMzZNVkM0RTd2RXpHWGpOM3ZFQUd3aVZIR203bWVTNmloODRRbmsxR1hvZWhRWGMzX0pkcFZkaVVLT1RiMWpiRHpxZGVvb0F1Sng0bFRWYkZZUnB5TjZMd0h0elBwa0ZTUDNHc2ctU0hqZXR0bk5MckR0MmpGWm9OYnZLUUFNQ2R4SEdmbzY0LWxXanIyMlpDVFIzOVBtT3hlX3lJRGtJ?oc=5) | KLTV.com | 2026-07-23T19:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Existing vaccines induce antibody response against the Ebola virus that's driving Congo outbreak](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHlLM2RJckxOazRxMGQ1VEZjMzdHa2UtU2Q5SHU4VXp6anNjMkVwRmI2WkhBWGpGM0EzY0lJQXdWSnJNNmE2d3pBQmsyQ0ZLRDc1bmhrNUd6aGpCOWVlZnVYeXNNVmRBdDRDMmRDYU9ZT3V0RWVwLXlkTW04c1ozVjZMZ0pycFowOHBwRzZBOWI2TWJFakZ0bkFsTFdqS1BYUm9UM3lRZ0lpT0x5amtJVXpaTHZ4TlIyem5wUzRFTng0Zw?oc=5) | CIDRAP | 2026-07-23T18:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -479,6 +477,8 @@ Search window: 7 day(s) ending 2026-07-23
 - [DR Congo's Ebola outbreak becomes fastest ever recorded](https://news.google.com/rss/articles/CBMioAFBVV95cUxObFpEcktiTW9IOEU0TFBoenh5bXE2Rmx1V0N0UTZHZkJfSlFFUDJZZ1d2LXZ2YzZlZmJwY0pZeF9ZNWFuYmhwclQzSGk0eFVuNkJKQkNpdlFkWlJRS0N2ZXl0VTV2SzU3ZlZpd2FwZnA1M3IwNnZ4dnNOdXlCSElYZTdjT2lwTkYwZTNob0dnNFdfN3MwenRJX2lDdDJxUGxz?oc=5) | The Danville Register and Bee | 2026-07-23T13:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Fast-food chains take hits amid Cyclospora outbreak](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnJzaDB3blE1blQ4U1FCcFQwanh4NGpRYWlaSWtVRzBqMVRqNVV2MkkyYXQ5NTJuVGZTdEQ3cjEtUXA3MlZXZGZnSnJZYWh0d1ZxTklyZnVvdlBrbXlKNUFKeEpBcTRjSG1DUXh1Rng5YTNabGZ0VHpYNDQ0TlA2ZzFwR0NRWVZyV1dSblhCZlp2dXRCd2pQanozSQ?oc=5) | CNN | 2026-07-23T13:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Why This Ebola Outbreak Poses an Unusual Threat](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEkxTmt3ajRuREJLV19OSmRDZTJibDFuZlkyTzFFR3Z1SVV4Q3NwaVg5Mjl1LS0wZm5YTENYNzc4eXgyNUJ3dEdMUlFYMzQzS1pZVWlfY2lTbkpoUWk5aUtBMU11N0ZnWFdrQW1zSmU4am9oai1RcHVRdFprTGJiWFBMX1ZjLWRWdUo5bzM3cVZJMGFibHlQUVNOUFFkWXMtcHp3?oc=5) | Bloomberg.com | 2026-07-23T13:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
