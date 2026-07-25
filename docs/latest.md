@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-25
-Generated at: 2026-07-25T06:59
+Generated at: 2026-07-25T07:02
 Search window: 7 day(s) ending 2026-07-25
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-25
 - [Lessons learned from the deployment of oral cholera vaccine by maintaining the controlled temperature chain (CTC) in an urban setting, Bangladesh.](https://pubmed.ncbi.nlm.nih.gov/42488967/) (PubMed Infectious Disease Search; 2026-07-23T00:00; Major epidemiology studies; relevance 5/5)
 - [Multidisciplinary Exploration of Computed-Tomographic and Ancient-DNA Data of an Iron Age Skull From Latvia With Multiple Lytic Bone Lesions: Differential Diagnosis Between Metastatic Carcinoma, Multiple Myeloma and Skeletal Tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/42500200/) (PubMed Historical Epidemiology; 2026-07-23T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) (PubMed Historical Pathogen Case Studies; 2026-07-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (226), Policy, surveillance, and public health infrastructure (71), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (225), Policy, surveillance, and public health infrastructure (73), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 95 item(s) across 73 source(s).
-- Baseline snapshot created with 95 clustered item(s) across 73 source(s).
+- Newly tracked story cluster: 95 item(s) across 72 source(s).
+- Baseline snapshot created with 95 clustered item(s) across 72 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -39,8 +39,8 @@ Search window: 7 day(s) ending 2026-07-25
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 191 item(s) across 117 source(s).
-- Baseline snapshot created with 191 clustered item(s) across 117 source(s).
+- Newly tracked story cluster: 192 item(s) across 118 source(s).
+- Baseline snapshot created with 192 clustered item(s) across 118 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Tuberculosis and antimicrobial resistance
@@ -52,7 +52,7 @@ Search window: 7 day(s) ending 2026-07-25
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 191 item(s) across 117 source(s); 2 official/primary-source item(s).
+- Topic size: 192 item(s) across 118 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-24T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. personally 'ran over cow' for Correspondents' Dinner 01:05 Limited detail was available from feed metadata alone.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Doctor says you should avoid lettuce amid cyclosporiasis outbreak](https://www.newsnationnow.com/jesse-weber-live/doctor-avoid-lettuce-cyclosporiasis-outbreak/) (NewsNation); [Trump takes questions on Iran and cyclosporiasis outbreak during White House event](https://www.nbcnews.com/now/video/trump-takes-questions-on-iran-and-cyclosporiasis-outbreak-during-white-house-event-267243589518) (NBC News); [How cyclospora outbreak impacts the food industry](https://www.cbsnews.com/pittsburgh/video/how-cyclospora-outbreak-impacts-the-food-industry/) (CBS News)
@@ -60,7 +60,7 @@ Search window: 7 day(s) ending 2026-07-25
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 95 item(s) across 73 source(s); 5 official/primary-source item(s).
+- Topic size: 95 item(s) across 72 source(s); 5 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-25T13:58+00:00)
 - Detailed note: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo:...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 09, Data as of 12 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-2) (WHO Regional Office for Africa)
