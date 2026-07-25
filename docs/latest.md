@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-24
-Generated at: 2026-07-24T20:57
+Generated at: 2026-07-24T21:02
 Search window: 7 day(s) ending 2026-07-24
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-24
 - [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) (PubMed Historical Pathogen Case Studies; 2026-07-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (233), Policy, surveillance, and public health infrastructure (65), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (231), Policy, surveillance, and public health infrastructure (67), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 100 item(s) across 77 source(s).
-- Baseline snapshot created with 100 clustered item(s) across 77 source(s).
+- Newly tracked story cluster: 100 item(s) across 76 source(s).
+- Baseline snapshot created with 100 clustered item(s) across 76 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - HuffPost now foregrounds vaccination or vaccine policy in the story.
@@ -40,8 +40,8 @@ Search window: 7 day(s) ending 2026-07-24
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 186 item(s) across 110 source(s).
-- Baseline snapshot created with 186 clustered item(s) across 110 source(s).
+- Newly tracked story cluster: 186 item(s) across 112 source(s).
+- Baseline snapshot created with 186 clustered item(s) across 112 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Historical epidemiology and ancient pathogens
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-07-24
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 186 item(s) across 110 source(s); 2 official/primary-source item(s).
+- Topic size: 186 item(s) across 112 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-24T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Chicago Tonight | Week in Review: Cyclosporiasis Outbreak; 4th District Congressional Race | Season 2026](https://www.pbs.org/video/week-in-review-cyclosporiasis-outbreak-4th-district-congressional-race-v3nddb/) (PBS); [Questions grow over potential impact of budget cuts on response to cyclospora outbreak](https://www.nbcnews.com/video/federal-program-cuts-spark-concern-over-fda-and-cdc-response-to-cyclospora-267253317506) (NBC News); [Cyclospora outbreak from tainted lettuce served at Taco Bell expands](https://www.nbcnews.com/nightly-news/video/cyclospora-outbreak-from-tainted-lettuce-served-at-taco-bell-expands-267249221972) (NBC News)
@@ -61,7 +61,7 @@ Search window: 7 day(s) ending 2026-07-24
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 100 item(s) across 77 source(s); 5 official/primary-source item(s).
+- Topic size: 100 item(s) across 76 source(s); 5 official/primary-source item(s).
 - Lead item: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa, 2026-07-24T07:27+00:00)
 - Detailed note: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo:...
 - Evidence notes: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 09, Data as of 12 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -454,8 +454,6 @@ Search window: 7 day(s) ending 2026-07-24
   Limited detail was available from feed metadata alone.
 - [Cyclospora outbreak from tainted lettuce served at Taco Bell expands](https://www.nbcnews.com/nightly-news/video/cyclospora-outbreak-from-tainted-lettuce-served-at-taco-bell-expands-267249221972) | NBC News | 2026-07-24T22:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Public health official on rapidly expanding cyclosporiasis outbreak](https://www.cnn.com/2026/07/24/health/video/expanding-cyclosporiasis-outbreak-lead-jake-tapper) | CNN | 2026-07-24T22:41+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [New potential outbreak of cyclospora being investigated by CDC](https://www.cbsnews.com/atlanta/video/new-potential-outbreak-of-cyclospora-being-investigated-by-cdc/) | CBS News | 2026-07-24T21:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Trump's former top food official: Cyclospora outbreak ‘approaching catastrophic’ level](https://www.politico.com/news/2026/07/24/cyclospora-outbreak-approaching-catastrophic-fda-01011946) | Politico | 2026-07-24T21:16+00:00 | Outbreaks and emerging infections
@@ -466,7 +464,7 @@ Search window: 7 day(s) ending 2026-07-24
   Limited detail was available from feed metadata alone.
 - [Volunteer In U.K. Receives First Experimental Ebola Vaccine As Congo Cases Rise](https://www.huffpost.com/entry/first-person-experimental-ebola-vaccine-oxford_n_6a638735e4b0811ae0402025) | HuffPost | 2026-07-24T20:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFZNMU1XbGRQZUpXQVJvRWxONVpXaE9NcGdOVFFCTmJKVkZyXzhMazBYWkF2Uk5Nc2VBLTF4MkZqYUJDS2ZaTEJCQXhJZDF5ZmR4WmpLYnViMkJxWGNuakNmc0RZaEZRU0xnQUg2UFNFU3dGZUFlMjBrWW9QdjcwNEllc1phRVBlYXNWdEZnUlpYcGhYWjk5eExKYXVqRS1HOGhFbnp2LUlkZm8?oc=5) | STAT | 2026-07-24T19:58+00:00 | Outbreaks and emerging infections
+- [I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak](https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/) | STAT | 2026-07-24T19:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Huge Cyclospora outbreak spreads to 9 states](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVkx2dmZFS2ZBT2w5NTlHdVFwR2lQY3pHeXgzRUMxZmowRk5tbFRyRnJoSXEwZmxkN0VJMng2eTJzMTd0WTJiLUdvZTQ2aEdaTlFxRy0tRzVjbjBYRkZYTzIwSnJJXzI3VmhFR2Y0eW45R3kyZUY1blVCUGhSS1Y3Y1g4ajNqdw?oc=5) | CIDRAP | 2026-07-24T18:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -474,11 +472,13 @@ Search window: 7 day(s) ending 2026-07-24
   Limited detail was available from feed metadata alone.
 - [Cyclospora outbreak expands to nine US states, health officials say](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WempOeVFUaHlHUjBMajBwWUhPblNwbUo0OWRvU1hEakt5eUs4ZzhmQ2cyWEUxSXhsTFV4cXdXdXBrY2J1ZnVsWTE3VHZmV243S01xSWFYN0tDOWJU?oc=5) | BBC | 2026-07-24T18:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [4 more states report cyclosporiasis outbreak. Here's how the FDA does a traceback investigation](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0RHRWEzeHhERFhUcVhITjczeXdKSDlZUVZSakI0d0t6bV9lNHZ0ZWZDYmh3b3VqNVRZYlRSV2wteE5BQy1GMjJrR091VjZ2TDZOc1d3TGlGUDYtSkpYR19RVVUweGQwajdhc2pNa0oyWEFsRHJaaU55UzRMSFRzSmZLNFdHWFE0Q0hkajc2Y0RFTjBFSkFhUkI1aG4zNGstOF9YYlpwZ2x0YU1XQ0J0Tg?oc=5) | Los Angeles Times | 2026-07-24T17:37+00:00 | Outbreaks and emerging infections
-  Here's how the FDA does a traceback investigation Los Angeles Times
 - [Cyclospora outbreak linked to shredded lettuce expands to 9 states](https://news.google.com/rss/articles/CBMif0FVX3lxTFAwT2R4eENfeC14MXVhcThpdG5rUkt5UXZlck9lVXl1U3dsU1BCT1NVckZVTDZCUUd6a3BOTXI0c0JsLVV6MHNMemkwZWxEaHhkVU1IWWo0T0M2RFFOUzNXVlhyUzBYRmRiMS1ERmI4elRkX21sZFI1c1VmSk9maVXSAYQBQVVfeXFMTzFGVHVSaGF4UEhBNVRILWxTYzB3cGR1M0dzWEU0bjJSU2xkYWFtSmFDUFVIdllyWDkxM1lBcDRmOFMwOGtXMU1PQ3Q3LW1Vb1A4WFgydk1HalIzLXRaRHNMTVZyMEJLbFVkQ2xXMVVMNW1HSDZvRTJubXBKOE10YVJEb3Vi?oc=5) | NewsNation | 2026-07-24T17:27+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [CDC Expands Cyclospora Outbreak Probe to Four More States](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUZna3AxREpKRUp0c3ZyYXNiUXd5a0xhbTN4VjdORUdZSWdsSlh4ZGZfeEN4R2lPYkRhVjRfNm1XdHk1YW5vOHc3NmRoc01QS3ZwZWIwdmVMS2R3YXQ2em5kU0QzbEtvR195d0pCVjg0WE15V1lGWWJFdnR5WkdCVmxZMGdwd1hReEhvRDdENmdCcGdzV0lYVm9kbHFnXzgwa1pmaXhHcw?oc=5) | WSJ | 2026-07-24T16:29+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [How the cyclospora lettuce outbreak sparked a massive consumer trust crisis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUc5M29kbHZOczZnWk5PT0ZiMDNTMTQwdGNiWjVQNWd1dDlDTFFMUkpYaDVxNFdxemNJc1hvZ0hkdDF1MVp3bXJsMWN6RDZhRmxtam9IQjhCVWtOc1U4VW1OLVZfYUU5RGIyYm9jUG5EVURzam9rVTUwZnlQSEs2YlRvZ1BPU0Q0VVVudzdBMGF5a1FSa0c5NGE0RmFmTmg3?oc=5) | NBC News | 2026-07-24T16:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Uganda Clears Final Ebola Patient, Starting 42-Day Countdown to Outbreak End](https://www.medicaldaily.com/uganda-ebola-last-patient-discharged-42-day-countdown-july-2026-476337) | Medical Daily | 2026-07-24T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
