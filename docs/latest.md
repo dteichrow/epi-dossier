@@ -1,25 +1,24 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-24
-Generated at: 2026-07-24T17:17
+Generated at: 2026-07-24T17:18
 Search window: 7 day(s) ending 2026-07-24
 
 ## Executive scan
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-25T00:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa; 2026-07-24T07:27+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-24T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search; 2026-07-24T00:00; Major epidemiology studies; relevance 5/5)
 - [Lessons learned from the deployment of oral cholera vaccine by maintaining the controlled temperature chain (CTC) in an urban setting, Bangladesh.](https://pubmed.ncbi.nlm.nih.gov/42488967/) (PubMed Infectious Disease Search; 2026-07-23T00:00; Major epidemiology studies; relevance 5/5)
-- [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) (PubMed Historical Pathogen Case Studies; 2026-07-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (233), Policy, surveillance, and public health infrastructure (65), Historical epidemiology / ancient disease / paleopathology (3)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (237), Policy, surveillance, and public health infrastructure (65), Historical epidemiology / ancient disease / paleopathology (3)
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 97 item(s) across 76 source(s).
-- Baseline snapshot created with 97 clustered item(s) across 76 source(s).
+- Newly tracked story cluster: 97 item(s) across 75 source(s).
+- Baseline snapshot created with 97 clustered item(s) across 75 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Yahoo News Singapore now foregrounds vaccination or vaccine policy in the story.
@@ -39,9 +38,9 @@ Search window: 7 day(s) ending 2026-07-24
 - WDRB now brings wastewater surveillance into the story.
 
 ### Cyclosporiasis
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 189 item(s) across 116 source(s).
-- Baseline snapshot created with 189 clustered item(s) across 116 source(s).
+- Lead item: [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks)
+- Newly tracked story cluster: 193 item(s) across 116 source(s).
+- Baseline snapshot created with 193 clustered item(s) across 116 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Historical epidemiology and ancient pathogens
@@ -53,15 +52,15 @@ Search window: 7 day(s) ending 2026-07-24
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 189 item(s) across 116 source(s); 2 official/primary-source item(s).
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-24T00:00)
+- Topic size: 193 item(s) across 116 source(s); 4 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks, 2026-07-24T14:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Chicago Tonight | Week in Review: Cyclosporiasis Outbreak; 4th District Congressional Race | Season 2026](https://www.pbs.org/video/week-in-review-cyclosporiasis-outbreak-4th-district-congressional-race-v3nddb/) (PBS); [Cyclospora outbreak from tainted lettuce served at Taco Bell expands](https://www.nbcnews.com/nightly-news/video/cyclospora-outbreak-from-tainted-lettuce-served-at-taco-bell-expands-267249221972) (NBC News); [New potential outbreak of cyclospora being investigated by CDC](https://www.cbsnews.com/atlanta/video/new-potential-outbreak-of-cyclospora-being-investigated-by-cdc/) (CBS News)
+- Evidence notes: [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Chicago Tonight | Week in Review: Cyclosporiasis Outbreak; 4th District Congressional Race | Season 2026](https://www.pbs.org/video/week-in-review-cyclosporiasis-outbreak-4th-district-congressional-race-v3nddb/) (PBS)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 97 item(s) across 76 source(s); 5 official/primary-source item(s).
+- Topic size: 97 item(s) across 75 source(s); 5 official/primary-source item(s).
 - Lead item: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa, 2026-07-24T07:27+00:00)
 - Detailed note: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo:...
 - Evidence notes: [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 09, Data as of 12 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-2) (WHO Regional Office for Africa); [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
@@ -77,10 +76,10 @@ Search window: 7 day(s) ending 2026-07-24
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 4 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Topic size: 3 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search, 2026-07-24T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search); [Lessons learned from the deployment of oral cholera vaccine by maintaining the controlled temperature chain (CTC) in an urban setting, Bangladesh.](https://pubmed.ncbi.nlm.nih.gov/42488967/) (PubMed Infectious Disease Search); [Philippines: Chikungunya in Samar update](https://outbreaknewstoday.substack.com/p/philippines-chikungunya-in-samar) (Outbreak News Today); [Argentina: Trichinosis outbreak in General Madariaga, Buenos Aires Province](https://outbreaknewstoday.substack.com/p/argentina-trichinosis-outbreak-in-cbb) (Outbreak News Today)
+- Evidence notes: [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search); [Lessons learned from the deployment of oral cholera vaccine by maintaining the controlled temperature chain (CTC) in an urban setting, Bangladesh.](https://pubmed.ncbi.nlm.nih.gov/42488967/) (PubMed Infectious Disease Search); [Argentina: Trichinosis outbreak in General Madariaga, Buenos Aires Province](https://outbreaknewstoday.substack.com/p/argentina-trichinosis-outbreak-in-cbb) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -348,6 +347,36 @@ Search window: 7 day(s) ending 2026-07-24
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1392: Cyclospora
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-24T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-24T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-24T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-07-24T07:27+00:00
@@ -398,16 +427,6 @@ Search window: 7 day(s) ending 2026-07-24
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1392: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-22T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
 - Source: ECDC News
 - Date: 2026-07-21T17:36+02:00
@@ -418,28 +437,12 @@ Search window: 7 day(s) ending 2026-07-24
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### Context-dependent risk stratification using a tuberculin skin test induration threshold of ≥ 15 mm in school tuberculosis screening in Hangzhou, China: a historical cohort study.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-21T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42477851/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: In the primary cohort, four incident active pulmonary TB cases occurred among students with TSTs ≥ 15 mm (0.25%; 169.03 per 100 000 person-years), whereas none occurred among students with TSTs 10-14 mm. The adjusted incidence density ratio was 22.74 (95% CI 2.42-3015.62; P = 0.004), with wide uncertainty due to sparse events. The 2020-2022 TST ≥ 15 mm routine-screening descriptive cohort had a similarly low absolute incidence (128.64 per 100 000 person-years).
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### [The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-21T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42478916/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: The study focuses on the career of the Navarrese physician Manuel Gil y Albéniz (1767-1849), who practised in the town of Cascante (Navarre). He also participated in scientific networks as a corresponding member of the Royal Academy of Medicine of Barcelona (1803) and the Medical-Surgical Society of Cádiz (1820). Although its early dissemination has been mainly studied from an institutional perspective, the contribution of local physicians to its implementation remains less well understood.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Context-dependent risk stratification using a tuberculin skin test induration threshold of ≥ 15 mm in school tuberculosis screening in Hangzhou, China: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42477851/) | PubMed Historical Pathogen Case Studies | 2026-07-21T00:00 | Historical epidemiology / ancient disease / paleopathology
+  In the primary cohort, four incident active pulmonary TB cases occurred among students with TSTs ≥ 15 mm (0.25%; 169.03 per 100 000 person-years), whereas none occurred among students with TSTs 10-14 mm. The adjusted incidence density ratio was 22.74 (95% CI 2.42-3015.62; P = 0.004), with wide uncertainty due to sparse events. The 2020-2022 TST ≥ 15 mm routine-screening descriptive cohort had a similarly low absolute incidence (128.64 per 100 000 person-years).
+- [[The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].](https://pubmed.ncbi.nlm.nih.gov/42478916/) | PubMed Historical Pathogen Case Studies | 2026-07-21T00:00 | Historical epidemiology / ancient disease / paleopathology
+  The study focuses on the career of the Navarrese physician Manuel Gil y Albéniz (1767-1849), who practised in the town of Cascante (Navarre). He also participated in scientific networks as a corresponding member of the Royal Academy of Medicine of Barcelona (1803) and the Medical-Surgical Society of Cádiz (1820). Although its early dissemination has been mainly studied from an institutional perspective, the contribution of local physicians to its implementation remains less well understood.
 - [WHO Botswana Q2 Newsletter 2026](https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026) | WHO Regional Office for Africa | 2026-07-17T12:58+00:00 | Outbreaks and emerging infections
   This quarter's edition showcases Botswana's nationwide polio vaccination campaign, strengthened preparedness for Ebola and Bundibugyo Virus Disease, advances in One Health collaboration, and investments in laboratory systems and health workforce planning. The newsletter also features progress in evidence-informed policymaking through the Data-to-Policy Initiative, improved mortality reporting, expanded Health Promoting Schools, enhanced tobacco control efforts, and steps towards eliminating malaria and neglected tropical diseases. In addition, it highlights Botswana's growing contribution to global public health through the WHO Collaborating Centre on HIV Drug Resistance.
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) | WHO Regional Office for Africa | 2026-07-16T09:37+00:00 | Outbreaks and emerging infections
@@ -450,6 +453,8 @@ Search window: 7 day(s) ending 2026-07-24
   Limited detail was available from feed metadata alone.
 - [Chicago Tonight | Week in Review: Cyclosporiasis Outbreak; 4th District Congressional Race | Season 2026](https://www.pbs.org/video/week-in-review-cyclosporiasis-outbreak-4th-district-congressional-race-v3nddb/) | PBS | 2026-07-24T23:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Philippines: Chikungunya in Samar update](https://outbreaknewstoday.substack.com/p/philippines-chikungunya-in-samar) | Outbreak News Today | 2026-07-24T23:47+00:00 | Outbreaks and emerging infections
+  The provincial surveillance report showed a sharp increase in cases from epiweek 23, peaking in week 26, mostly among 10-29-year-olds. June had the highest with 206 cases, and July had 108, indicating ongoing transmission despite a monthly decline. The towns of Basey and Gandara account for the bulk of the cases with 199 and 121 cases, respectively.
 - [Cyclospora outbreak from tainted lettuce served at Taco Bell expands](https://www.nbcnews.com/nightly-news/video/cyclospora-outbreak-from-tainted-lettuce-served-at-taco-bell-expands-267249221972) | NBC News | 2026-07-24T22:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [New potential outbreak of cyclospora being investigated by CDC](https://www.cbsnews.com/atlanta/video/new-potential-outbreak-of-cyclospora-being-investigated-by-cdc/) | CBS News | 2026-07-24T21:45+00:00 | Outbreaks and emerging infections
@@ -457,7 +462,7 @@ Search window: 7 day(s) ending 2026-07-24
 - [Public health official on rapidly expanding cyclosporiasis outbreak](https://www.cnn.com/2026/07/24/health/video/expanding-cyclosporiasis-outbreak-lead-jake-tapper) | CNN | 2026-07-24T21:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Trump takes questions on Iran and cyclosporiasis outbreak during White House event](https://www.nbcnews.com/now/video/trump-takes-questions-on-iran-and-cyclosporiasis-outbreak-during-white-house-event-267243589518) | NBC News | 2026-07-24T21:33+00:00 | Outbreaks and emerging infections
-  Boston Bay Area South Florida San Diego Connecticut White House Correspondents’ Association president says ‘we will not be intimidated’ during dinner 02:18 South Carolina to hold first Democratic 2028 primary, indicating DNC's push to court minority voters 04:03 James Talarico unveils border policy plan for TX Senate bid, saying 'both parties have failed us' 04:48 Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home 25:04 Limited detail was available from feed metadata alone.
+  Limited detail was available from feed metadata alone.
 - [Trump's former top food official: Cyclospora outbreak ‘approaching catastrophic’ level](https://www.politico.com/news/2026/07/24/cyclospora-outbreak-approaching-catastrophic-fda-01011946) | Politico | 2026-07-24T21:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Nearly 3,000 confirmed infected with Ebola in Congo after data review](https://www.cnbcafrica.com/2026/nearly-3000-confirmed-infected-with-ebola-in-congo-after-data-review) | CNBC Africa | 2026-07-24T21:00+00:00 | Outbreaks and emerging infections
@@ -468,18 +473,12 @@ Search window: 7 day(s) ending 2026-07-24
   Limited detail was available from feed metadata alone.
 - [Volunteer In U.K. Receives First Experimental Ebola Vaccine As Congo Cases Rise](https://sg.news.yahoo.com/volunteer-u-k-receives-first-200753733.html) | Yahoo News Singapore | 2026-07-24T20:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Huge Cyclospora outbreak spreads to 9 states](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVkx2dmZFS2ZBT2w5NTlHdVFwR2lQY3pHeXgzRUMxZmowRk5tbFRyRnJoSXEwZmxkN0VJMng2eTJzMTd0WTJiLUdvZTQ2aEdaTlFxRy0tRzVjbjBYRkZYTzIwSnJJXzI3VmhFR2Y0eW45R3kyZUY1blVCUGhSS1Y3Y1g4ajNqdw?oc=5) | CIDRAP | 2026-07-24T18:52+00:00 | Outbreaks and emerging infections
+- [Huge Cyclospora outbreak spreads to 9 states](https://www.cidrap.umn.edu/cyclospora/huge-cyclospora-outbreak-spreads-9-states) | CIDRAP | 2026-07-24T18:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Cyclospora outbreak expands to nine US states, health officials say](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WempOeVFUaHlHUjBMajBwWUhPblNwbUo0OWRvU1hEakt5eUs4ZzhmQ2cyWEUxSXhsTFV4cXdXdXBrY2J1ZnVsWTE3VHZmV243S01xSWFYN0tDOWJU?oc=5) | BBC | 2026-07-24T18:00+00:00 | Outbreaks and emerging infections
+- [Cyclospora outbreak expands to nine US states, health officials say](https://www.bbc.co.uk/news/articles/cwyqgnp8wv8o) | BBC | 2026-07-24T18:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Cyclosporiasis: Case rates rise in five outbreak states](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTlkWkRENFM5dXRWZERsX3pGTFhPbmQ5UnhHX3dyVy04MUZPNVVyT3pCWWJQYTZYOFY1RFJZamt2dGd6S0dGbS1QNkJWSkVqTDZ3bDVBQktjTWhfU1BzSkpvY19Bc2RFczY3QW5kUU44WlhUekt4TThVd01KbVgwcUR2Y3hBQmM?oc=5) | Axios | 2026-07-24T17:55+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [4 more states report cyclosporiasis outbreak. Here's how the FDA does a traceback investigation](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0RHRWEzeHhERFhUcVhITjczeXdKSDlZUVZSakI0d0t6bV9lNHZ0ZWZDYmh3b3VqNVRZYlRSV2wteE5BQy1GMjJrR091VjZ2TDZOc1d3TGlGUDYtSkpYR19RVVUweGQwajdhc2pNa0oyWEFsRHJaaU55UzRMSFRzSmZLNFdHWFE0Q0hkajc2Y0RFTjBFSkFhUkI1aG4zNGstOF9YYlpwZ2x0YU1XQ0J0Tg?oc=5) | Los Angeles Times | 2026-07-24T17:37+00:00 | Outbreaks and emerging infections
+- [4 more states report cyclosporiasis outbreak. Here's how the FDA does a traceback investigation](https://www.latimes.com/california/story/2026-07-24/cyclosporiasis-detectives-hunting-diarrhea-causing-parasite) | Los Angeles Times | 2026-07-24T17:37+00:00 | Outbreaks and emerging infections
   Here's how the FDA does a traceback investigation Los Angeles Times
-- [Cyclospora outbreak linked to shredded lettuce expands to 9 states](https://news.google.com/rss/articles/CBMif0FVX3lxTFAwT2R4eENfeC14MXVhcThpdG5rUkt5UXZlck9lVXl1U3dsU1BCT1NVckZVTDZCUUd6a3BOTXI0c0JsLVV6MHNMemkwZWxEaHhkVU1IWWo0T0M2RFFOUzNXVlhyUzBYRmRiMS1ERmI4elRkX21sZFI1c1VmSk9maVXSAYQBQVVfeXFMTzFGVHVSaGF4UEhBNVRILWxTYzB3cGR1M0dzWEU0bjJSU2xkYWFtSmFDUFVIdllyWDkxM1lBcDRmOFMwOGtXMU1PQ3Q3LW1Vb1A4WFgydk1HalIzLXRaRHNMTVZyMEJLbFVkQ2xXMVVMNW1HSDZvRTJubXBKOE10YVJEb3Vi?oc=5) | NewsNation | 2026-07-24T17:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [CDC Expands Cyclospora Outbreak Probe to Four More States](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUZna3AxREpKRUp0c3ZyYXNiUXd5a0xhbTN4VjdORUdZSWdsSlh4ZGZfeEN4R2lPYkRhVjRfNm1XdHk1YW5vOHc3NmRoc01QS3ZwZWIwdmVMS2R3YXQ2em5kU0QzbEtvR195d0pCVjg0WE15V1lGWWJFdnR5WkdCVmxZMGdwd1hReEhvRDdENmdCcGdzV0lYVm9kbHFnXzgwa1pmaXhHcw?oc=5) | WSJ | 2026-07-24T16:29+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/)
