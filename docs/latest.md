@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-26
-Generated at: 2026-07-26T16:21
+Generated at: 2026-07-26T16:25
 Search window: 7 day(s) ending 2026-07-26
 
 ## Executive scan
@@ -39,9 +39,9 @@ Search window: 7 day(s) ending 2026-07-26
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 181 item(s) across 111 source(s).
-- Baseline snapshot created with 181 clustered item(s) across 111 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+- Newly tracked story cluster: 180 item(s) across 111 source(s).
+- Baseline snapshot created with 180 clustered item(s) across 111 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) (PubMed Historical Pathogen Case Studies)
@@ -52,10 +52,10 @@ Search window: 7 day(s) ending 2026-07-26
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 181 item(s) across 111 source(s); 2 official/primary-source item(s).
+- Topic size: 180 item(s) across 111 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-24T00:00)
-- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Changes in eating as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/changes-in-eating-as-cyclospora-outbreak-grows/) (CBS News); [Former FDA head praises response to cyclospora outbreak, but says it's not "under control yet"](https://www.cbsnews.com/video/former-fda-head-praises-response-to-cyclospora-outbreak-but-says-its-not-under-control-yet/) (CBS News); [What's safe to eat amid cyclospora outbreak?](https://www.cbsnews.com/miami/video/whats-safe-to-eat-amid-cyclospora-outbreak/) (CBS News)
+- Detailed note: The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Changes in eating as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/changes-in-eating-as-cyclospora-outbreak-grows/) (CBS News); [Former FDA head praises response to cyclospora outbreak, but says it's not "under control yet"](https://www.cbsnews.com/video/former-fda-head-praises-response-to-cyclospora-outbreak-but-says-its-not-under-control-yet/) (CBS News); [What's safe to eat amid cyclospora outbreak?](https://www.cbsnews.com/miami/video/whats-safe-to-eat-amid-cyclospora-outbreak/) (CBS News); [Cyclospora outbreak has many changing eating habits, CBS News poll finds; mixed and partisan confidence in FDA](https://www.cbsnews.com/news/cyclospora-outbreak-fda-opinion-poll/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -427,20 +427,18 @@ Search window: 7 day(s) ending 2026-07-26
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1392: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-22T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
+### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
+- Source: ECDC News
+- Date: 2026-07-21T17:36+02:00
+- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited usable detail remained after boilerplate cleanup.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-21T17:36+02:00 | Policy, surveillance, and public health infrastructure
-  Limited usable detail remained after boilerplate cleanup.
 - [Context-dependent risk stratification using a tuberculin skin test induration threshold of ≥ 15 mm in school tuberculosis screening in Hangzhou, China: a historical cohort study.](https://pubmed.ncbi.nlm.nih.gov/42477851/) | PubMed Historical Pathogen Case Studies | 2026-07-21T00:00 | Historical epidemiology / ancient disease / paleopathology
   In the primary cohort, four incident active pulmonary TB cases occurred among students with TSTs ≥ 15 mm (0.25%; 169.03 per 100 000 person-years), whereas none occurred among students with TSTs 10-14 mm. The adjusted incidence density ratio was 22.74 (95% CI 2.42-3015.62; P = 0.004), with wide uncertainty due to sparse events. The 2020-2022 TST ≥ 15 mm routine-screening descriptive cohort had a similarly low absolute incidence (128.64 per 100 000 person-years).
 - [[The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].](https://pubmed.ncbi.nlm.nih.gov/42478916/) | PubMed Historical Pathogen Case Studies | 2026-07-21T00:00 | Historical epidemiology / ancient disease / paleopathology
@@ -467,7 +465,7 @@ Search window: 7 day(s) ending 2026-07-26
   Limited detail was available from feed metadata alone.
 - [DR Congo says the number of confirmed Ebola cases has surpassed 3,000](https://www.africanews.com/2026/07/26/dr-congo-says-the-number-of-confirmed-ebola-cases-has-surpassed-3000/) | africanews.com | 2026-07-26T09:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Tanzania steps up Ebola prevention measures as DRC outbreak rages on](https://www.bastillepost.com/global/article/6037272-tanzania-steps-up-ebola-prevention-measures-as-drc-outbreak-rages-on) | 巴士的報 | 2026-07-26T05:13+00:00 | Outbreaks and emerging infections
+- [Tanzania steps up Ebola prevention measures as DRC outbreak rages on](https://www.bastillepost.com/global/article/6037272-tanzania-steps-up-ebola-prevention-measures-as-drc-outbreak-rages-on) | bastillepost.com | 2026-07-26T05:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak In Congo: Over 1,300 Dead, Cases Near 3,000](https://www.ndtv.com/health/ebola-outbreak-in-congo-over-1-300-dead-cases-near-3-000-11822140) | NDTV | 2026-07-26T04:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -478,6 +476,8 @@ Search window: 7 day(s) ending 2026-07-26
 - [More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/health-workers-strike-ebola-cases-congo-3000-including-135077693) | ABC News - Breaking News, Latest News and Videos | 2026-07-26T02:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola treatment center workers strike](https://www.kare11.com/video/news/world/ebola-treatment-center-workers-strike/89-ae6f04de-e684-469b-9bfe-22d553111cf5) | kare11.com | 2026-07-26T01:49+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Cyclospora outbreak dubbed "lettuce-gate" as concerns over parasitic illness spread across U.S.](https://www.cbsnews.com/news/cyclospora-outbreak-iceberg-lettuce-cdc/) | CBS News | 2026-07-26T00:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
