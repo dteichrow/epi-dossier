@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-27
-Generated at: 2026-07-27T01:03
+Generated at: 2026-07-27T01:08
 Search window: 7 day(s) ending 2026-07-27
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-27
 - [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search; 2026-07-24T00:00; Major epidemiology studies; relevance 5/5)
 - [Lessons learned from the deployment of oral cholera vaccine by maintaining the controlled temperature chain (CTC) in an urban setting, Bangladesh.](https://pubmed.ncbi.nlm.nih.gov/42488967/) (PubMed Infectious Disease Search; 2026-07-23T00:00; Major epidemiology studies; relevance 5/5)
 - [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) (PubMed Historical Pathogen Case Studies; 2026-07-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (241), Policy, surveillance, and public health infrastructure (65), Historical epidemiology / ancient disease / paleopathology (3)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (244), Policy, surveillance, and public health infrastructure (61), Historical epidemiology / ancient disease / paleopathology (3)
+- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 115 item(s) across 84 source(s).
-- Baseline snapshot created with 115 clustered item(s) across 84 source(s).
+- Newly tracked story cluster: 116 item(s) across 85 source(s).
+- Baseline snapshot created with 116 clustered item(s) across 85 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -30,10 +30,17 @@ Search window: 7 day(s) ending 2026-07-27
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The New York Times now includes quarantine language.
 
+### Dengue and arboviruses
+- Lead item: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Al Jazeera now explicitly uses investigation or monitoring language.
+- BBC now includes deaths or fatal cases in the story frame.
+
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 179 item(s) across 111 source(s).
-- Baseline snapshot created with 179 clustered item(s) across 111 source(s).
+- Newly tracked story cluster: 177 item(s) across 107 source(s).
+- Baseline snapshot created with 177 clustered item(s) across 107 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Historical epidemiology and ancient pathogens
@@ -45,7 +52,7 @@ Search window: 7 day(s) ending 2026-07-27
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 179 item(s) across 111 source(s); 2 official/primary-source item(s).
+- Topic size: 177 item(s) across 107 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-24T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Cyclosporiasis outbreak creates mixed concern among Metro Detroit eateries and consumers](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-approach-restaurants-diners/) (CBS News); [Changes in eating as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/changes-in-eating-as-cyclospora-outbreak-grows/) (CBS News); [What's safe to eat amid cyclospora outbreak?](https://www.cbsnews.com/miami/video/whats-safe-to-eat-amid-cyclospora-outbreak/) (CBS News)
@@ -53,7 +60,7 @@ Search window: 7 day(s) ending 2026-07-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 115 item(s) across 84 source(s); 5 official/primary-source item(s).
+- Topic size: 116 item(s) across 85 source(s); 5 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-27T07:59+00:00)
 - Detailed note: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo:...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 09, Data as of 12 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-2) (WHO Regional Office for Africa)
@@ -67,6 +74,14 @@ Search window: 7 day(s) ending 2026-07-27
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5) (The New York Times); [After cruise ship outbreak, review examines how hantavirus affects the brain](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5) (CIDRAP); [Fact Check: ‘The Simpsons’ did not warn of hantavirus outbreak on ship](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjdxc05oRWR6U2xBZlowbkZyX3Bfd0RvaVdLNVBvU1NtVXctSXFUWXhnbERLNDZiRTAwVHVsOWhPR0tydWVoRlZIUENZZi1vOXVJSjlGemt4YXctckpYRFRBeUo5ZjhYLWtPSEY1ZWhTeDB0UUJtRF84dlNacmRaaWw2RzE4Rkd6TTVSc19HODRPVGczWGRwZA?oc=5) (Reuters); [Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUZxY2pqVkpKYlVkQ0M1djVlOTN2Xy1iLXhQbWtwVWhGNC1VejRJODQ0ZVlBOHAwUDFhWmljcU9jRXg0VWdsTlIxYVZiRE9lYlhlUEhsbExJUmgwSFVIdlpzTmZPTzZ1Sk9pTE53UnMyVzJIMExOSFZkRWNzNXVDRmRfZEZaRDR2QWt0NXFyeVcyVEFQUnlhaWZxLThHU2hKdkpnZ0hwblYxWVFYZy1sZGtfN3dKLVFDdzBCVnlkMzRQcW1XS3pKOVpsaW1jQXVKTWV6NVZZWDZ6VEVaMDhxLTNybFAyUdIB5gFBVV95cUxPLUZxY2pqVkpKYlVkQ0M1djVlOTN2Xy1iLXhQbWtwVWhGNC1VejRJODQ0ZVlBOHAwUDFhWmljcU9jRXg0VWdsTlIxYVZiRE9lYlhlUEhsbExJUmgwSFVIdlpzTmZPTzZ1Sk9pTE53UnMyVzJIMExOSFZkRWNzNXVDRmRfZEZaRDR2QWt0NXFyeVcyVEFQUnlhaWZxLThHU2hKdkpnZ0hwblYxWVFYZy1sZGtfN3dKLVFDdzBCVnlkMzRQcW1XS3pKOVpsaW1jQXVKTWV6NVZZWDZ6VEVaMDhxLTNybFAyUQ?oc=5) (Newswise)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera, 2026-07-26T13:43+00:00)
+- Detailed note: Sri Lanka's 2026 dengue outbreak has officially reached epidemic level, with more than 82,000 confirmed cases nationally and over 26,000+ in July alone, the country's worst season since the 2019 epidemic. According to the WHO, the number of global reported cases surged from around 500,000 in the year 2000 to 14.4 million in 2024. The virus has killed 56 people and infected more than 77,000 others in the South...
+- Evidence notes: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera); [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://www.bbc.co.uk/news/articles/cvgw8e0k1jyo) (BBC); [Dengue or Flu? How to Tell the Difference and Spot the Warning Signs - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 3 item(s) across 1 source(s); 3 official/primary-source item(s).
@@ -83,14 +98,6 @@ Search window: 7 day(s) ending 2026-07-27
 - Evidence notes: [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search); [Lessons learned from the deployment of oral cholera vaccine by maintaining the controlled temperature chain (CTC) in an urban setting, Bangladesh.](https://pubmed.ncbi.nlm.nih.gov/42488967/) (PubMed Infectious Disease Search); [Philippines: Chikungunya in Samar update](https://outbreaknewstoday.substack.com/p/philippines-chikungunya-in-samar) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera, 2026-07-26T13:43+00:00)
-- Detailed note: According to the WHO, the number of global reported cases surged from around 500,000 in the year 2000 to 14.4 million in 2024. The virus has killed 56 people and infected more than 77,000 others in the South Asian nation this year, with more than a quarter of them reported in July alone. Makalla has become one of Yemen’s worst-hit areas for dengue fever, a viral infection spread by mosquito bites that can cause...
-- Evidence notes: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera); [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://www.bbc.co.uk/news/articles/cvgw8e0k1jyo) (BBC)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -446,7 +453,7 @@ Search window: 7 day(s) ending 2026-07-27
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak tops 3,000 cases with no cure](https://www.turkiyetoday.com/world/congo-ebola-outbreak-tops-3000-cases-with-no-cure-3224730) | Türkiye Today | 2026-07-27T06:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola death toll tops 1,400 as vaccine trials start](https://www.dw.com/en/congo-ebola-death-toll-tops-1400-as-vaccine-trials-start/a-78124937) | dw.com | 2026-07-27T06:14+00:00 | Outbreaks and emerging infections
+- [Congo Ebola death toll tops 1,400 as vaccine trials start](https://www.dw.com/en/congo-ebola-death-toll-tops-1400-as-vaccine-trials-start/a-78124937) | DW.com | 2026-07-27T06:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo says number of confirmed Ebola cases rises to 3,200, 1,400 deaths: Why the outbreak is spreading quickly](https://gulfnews.com/world/africa/17ccvu7-congo-says-number-confirmed-ebola-cases-rises-1.500621172) | Gulf News | 2026-07-27T06:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,7 +463,7 @@ Search window: 7 day(s) ending 2026-07-27
   Limited detail was available from feed metadata alone.
 - [Cyclosporiasis outbreak creates mixed concern among Metro Detroit eateries and consumers](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-approach-restaurants-diners/) | CBS News | 2026-07-27T03:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak nears 3,000 cases as South Sudan spread raises Kenya border concerns](https://www.standardmedia.co.ke/health-science/article/2001553845/ebola-outbreak-nears-3000-cases-as-south-sudan-spread-raises-kenya-border-concerns) | standardmedia.co.ke | 2026-07-27T03:00+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak nears 3,000 cases as South Sudan spread raises Kenya border concerns](https://www.standardmedia.co.ke/health/health-science/article/2001553845/ebola-outbreak-nears-3000-cases-as-south-sudan-spread-raises-kenya-border-concerns) | standardmedia.co.ke | 2026-07-27T03:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak in Congo Set to Become Second-Largest on Record](https://www.bloomberg.com/news/articles/2026-07-27/ebola-cases-in-congo-reach-3-200-as-outbreak-nears-second-largest-on-record) | Bloomberg.com | 2026-07-27T02:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
