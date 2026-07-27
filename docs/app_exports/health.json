@@ -2,6 +2,7 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -14,39 +15,33 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 291,
+    "metadata_only_count": 287,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 318,
+    "sources_failed": 2,
+    "sources_live": 313,
     "story_count_change": 6,
-    "wrapper_only_count": 10
+    "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 318,
+    "live": 313,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-27T07:17:21",
+  "generated_at": "2026-07-27T07:58:34",
   "source_failures": [
     {
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "required": true,
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
     },
     {
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "error": "400 Client Error: Bad Request for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42500200&retmode=xml",
       "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "required": true,
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
+      "source": "PubMed Historical Epidemiology",
+      "source_type": "pubmed"
     }
   ]
 }
