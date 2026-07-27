@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-27
-Generated at: 2026-07-27T16:18
+Generated at: 2026-07-27T16:21
 Search window: 7 day(s) ending 2026-07-27
 
 ## Executive scan
@@ -8,11 +8,12 @@ Search window: 7 day(s) ending 2026-07-27
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-27T23:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-27T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) (PubMed Historical Pathogen Case Studies; 2026-07-25T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa; 2026-07-24T07:27+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (246), Policy, surveillance, and public health infrastructure (72), Historical epidemiology / ancient disease / paleopathology (3)
+- [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search; 2026-07-24T00:00; Major epidemiology studies; relevance 5/5)
+- [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) (PubMed Historical Pathogen Case Studies; 2026-07-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (244), Policy, surveillance, and public health infrastructure (71), Historical epidemiology / ancient disease / paleopathology (3)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -30,10 +31,17 @@ Search window: 7 day(s) ending 2026-07-27
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 - The New York Times now includes quarantine language.
 
+### Dengue and arboviruses
+- Lead item: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Al Jazeera now explicitly uses investigation or monitoring language.
+- BBC now includes deaths or fatal cases in the story frame.
+
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 193 item(s) across 115 source(s).
-- Baseline snapshot created with 193 clustered item(s) across 115 source(s).
+- Newly tracked story cluster: 190 item(s) across 114 source(s).
+- Baseline snapshot created with 190 clustered item(s) across 114 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Polio and wastewater surveillance
@@ -42,19 +50,13 @@ Search window: 7 day(s) ending 2026-07-27
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 
-### Dengue and arboviruses
-- Lead item: [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://www.bbc.com/news/articles/cvgw8e0k1jyo) (BBC)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- BBC now includes deaths or fatal cases in the story frame.
-
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 193 item(s) across 115 source(s); 4 official/primary-source item(s).
+- Topic size: 190 item(s) across 114 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-27T00:00)
-- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. An update on the Cyclospora outbreak available here .
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Taylor Farms CEO pressed by lawmaker over cyclospora outbreak and White House ties](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak-white-house-investigation/) (CBS News)
+- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Taylor Farms CEO pressed by lawmaker over cyclospora outbreak and White House ties](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak-white-house-investigation/) (CBS News); [Retailers shun central Mexico produce as US cyclospora outbreak spreads, former FDA chief says](https://www.reuters.com/business/healthcare-pharmaceuticals/former-fda-chief-says-central-mexico-may-have-broad-cyclosporiasis-contamination-2026-07-27/) (Reuters); [Cyclospora outbreak is affecting how and what Americans eat](https://www.cbsnews.com/atlanta/video/cyclospora-outbreak-is-affecting-how-and-what-americans-eat/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -84,11 +86,11 @@ Search window: 7 day(s) ending 2026-07-27
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://www.bbc.com/news/articles/cvgw8e0k1jyo) (BBC, 2026-07-23T06:24+00:00)
-- Detailed note: According to the WHO, the number of global reported cases surged from around 500,000 in the year 2000 to 14.4 million in 2024. The virus has killed 56 people and infected more than 77,000 others in the South Asian nation this year, with more than a quarter of them reported in July alone.
-- Evidence notes: [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://www.bbc.com/news/articles/cvgw8e0k1jyo) (BBC); [Dengue or Flu? How to Tell the Difference and Spot the Warning Signs - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka); [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera)
+- Lead item: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera, 2026-07-26T13:43+00:00)
+- Detailed note: Sri Lanka's 2026 dengue outbreak has officially reached epidemic level, with more than 82,000 confirmed cases nationally and over 26,000+ in July alone, the country's worst season since the 2019 epidemic. According to the WHO, the number of global reported cases surged from around 500,000 in the year 2000 to 14.4 million in 2024. The virus has killed 56 people and infected more than 77,000 others in the South...
+- Evidence notes: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera); [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://www.bbc.com/news/articles/cvgw8e0k1jyo) (BBC); [Dengue or Flu? How to Tell the Difference and Spot the Warning Signs - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 ### Historical epidemiology and ancient pathogens
 - Topic size: 3 item(s) across 1 source(s); 3 official/primary-source item(s).
@@ -376,36 +378,6 @@ Search window: 7 day(s) ending 2026-07-27
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-24T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1392: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-24T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-24T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-07-24T07:27+00:00
@@ -436,12 +408,38 @@ Search window: 7 day(s) ending 2026-07-27
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1392: Cyclospora
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-22T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
+- Source: ECDC News
+- Date: 2026-07-21T17:36+02:00
+- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Limited usable detail remained after boilerplate cleanup.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Usable source detail was limited after cleanup.
+- Relevance score: 5/5
+
+### [The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-07-21T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42478916/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: The study focuses on the career of the Navarrese physician Manuel Gil y Albéniz (1767-1849), who practised in the town of Cascante (Navarre). He also participated in scientific networks as a corresponding member of the Royal Academy of Medicine of Barcelona (1803) and the Medical-Surgical Society of Cádiz (1820). Although its early dissemination has been mainly studied from an institutional perspective, the contribution of local physicians to its implementation remains less well understood.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-21T17:36+02:00 | Policy, surveillance, and public health infrastructure
-  Limited usable detail remained after boilerplate cleanup.
-- [[The origins of smallpox vaccination in Navarre: The contribution of the physician Manuel Gil y Albéniz (1801-1836)].](https://pubmed.ncbi.nlm.nih.gov/42478916/) | PubMed Historical Pathogen Case Studies | 2026-07-21T00:00 | Historical epidemiology / ancient disease / paleopathology
-  The study focuses on the career of the Navarrese physician Manuel Gil y Albéniz (1767-1849), who practised in the town of Cascante (Navarre). He also participated in scientific networks as a corresponding member of the Royal Academy of Medicine of Barcelona (1803) and the Medical-Surgical Society of Cádiz (1820). Although its early dissemination has been mainly studied from an institutional perspective, the contribution of local physicians to its implementation remains less well understood.
 - [WHO Botswana Q2 Newsletter 2026](https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026) | WHO Regional Office for Africa | 2026-07-17T12:58+00:00 | Outbreaks and emerging infections
   This quarter's edition showcases Botswana's nationwide polio vaccination campaign, strengthened preparedness for Ebola and Bundibugyo Virus Disease, advances in One Health collaboration, and investments in laboratory systems and health workforce planning. The newsletter also features progress in evidence-informed policymaking through the Data-to-Policy Initiative, improved mortality reporting, expanded Health Promoting Schools, enhanced tobacco control efforts, and steps towards eliminating malaria and neglected tropical diseases. In addition, it highlights Botswana's growing contribution to global public health through the WHO Collaborating Centre on HIV Drug Resistance.
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) | WHO Regional Office for Africa | 2026-07-16T09:37+00:00 | Outbreaks and emerging infections
@@ -462,7 +460,7 @@ Search window: 7 day(s) ending 2026-07-27
   Limited detail was available from feed metadata alone.
 - [Cyclosporiasis outbreak includes a cluster in 9 states](https://www.nbcnews.com/video/shorts/cyclosporiasis-outbreak-includes-a-cluster-in-9-states-267315269960) | NBC News | 2026-07-27T14:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo's Ebola outbreak tops 3000 cases](https://www.jacarandafm.com/news/news/dr-congos-ebola-outbreak-tops-3000-cases/) | Jacaranda FM | 2026-07-27T13:57+00:00 | Outbreaks and emerging infections
+- [DR Congo's Ebola outbreak tops 3000 cases](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRm42cHhRWktnOTlHanBlYXFhTHNSVjktUGV0emxXYnpFTWt3RjVlMzFfOEc4S2VNeHYxeDI2Tm1rTkFTZ3lPOVJCQm9JTUtIRnpKMVVyWGtiZ1VlMFV3ajRpWDBUS2lpQms0WjBSUF9URXdlUzY1TGhVenlUZVBwY2owVkdCZw?oc=5) | Jacaranda FM | 2026-07-27T13:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Experimental Ebola vaccine enters first human trial as Congo outbreak worsens](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzYzMXRBY2hadlpUNmpzQVJaM1llc2dGUFJyUUN2SlotVkVNbXpqV2QyNkgxMlBJU1YwM3dqSE1FOTBQR3MyNk5LMXByWWxLV1RWYVNZSDdoVXJZZlczOWJuSUFRU2VOdW9fYWJXcmVyZXdDM1JDX3N1WG1NeVFzT1JDYmlNd1B4QTZRMXo0WjFsX2sw?oc=5) | AnewZ | 2026-07-27T13:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -477,6 +475,10 @@ Search window: 7 day(s) ending 2026-07-27
 - [Since the latest outbreak: Ebola cases pass 3,000 in Democratic Republic of the Congo](https://news.google.com/rss/articles/CBMiowFBVV95cUxQLW81YjRJYUE5dng4alFSN3lCZzVzODliNkhtbVM2N2hnREVrN2MxZXcwdkg2SHl1dk9KaVhaRkZQV0hNT2xzd3pnNE82SF9WT1pheW5TVVNJUmczcVBLRTY0ZVp2OWhDX0RnSUNEbFNycUVOYzZtOTliSTlFdVZXVjF0U3NMdkhxX1ZPUllydnFfeEFBS01KckFQVmhoSkNkUERz?oc=5) | RTL Today | 2026-07-27T07:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo set to become second-largest on record after confirmed cases reach 3,200](https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0pHQWs0U296RS1fQWxkem5yRGZKWndrSGVIdGV3NG9MSkowTlBQdXZ0UFh1OXFBZTQyekVjNTlnVzZKNENaMlpmMkd1M2VKY0trZkhjMXVaOEk0V0F5aUk4ODV5UENYdHRPYWVfanBZRlVGcmJRUG93aUQ4aGQ1VnBuaW5ZM21uX2xqTkhKTDZsTGZVU09sX2pWMGlhSGU1?oc=5) | The Japan Times | 2026-07-27T07:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola outbreak tops 3,000 cases with no cure](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmhHRlliOEx2alpwVTJnaHdEY3BBUDJYVW0wbWhNazNCMkFJQXZxUWFYdFhNMW5EQmJMUUxUSWJXUU43VU1VT2pDUVRCdlZBRFRCZ0ZDNlFTMnNNSV91TE42dFp6T0hpVVNEcVRuWng3YVJNTXhQcnluU0N2MzY0R2dfVGJhVGl4NC1OSENTVW1fRDFlcVJz?oc=5) | Türkiye Today | 2026-07-27T06:31+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo says number of confirmed Ebola cases rises to 3,200, 1,400 deaths: Why the outbreak is spreading quickly](https://news.google.com/rss/articles/CBMioAFBVV95cUxQengxZWZ1VDVTQTlOZjNxYnQxeTd0MFhfR0JJem04bDg1MUJPTS1KLTI3WDdDTTg3OTN3WUVjUnAyb1RYS3hVaE9NcXBQbzNqUmVBX293WF9xOF8tZ1dBRERLd0VEMmlqM0tkc1g5V3N5aWlxeGdOSkQ3WHdCUTVjVWh3bXpzd3pMQWItWXZJUmFrbWpEYlpUYWtiTm1nNXo20gGzAUFVX3lxTE5KSEZWS2ZJUndIWVJPUUhCUFl6NUkyVmpzZUpyYU1yQXpKR0VPcVVVVEF6dHZjdnVMZFpEU2JPM25ZRW91ODFrOW5KZk5EaHRiWGZmSmV1T1RGOFB6M25FelMyVlRGbllGdzFmTFA5YXA1eWJ0eEUtd2RNWlNmYWFBOGJHb3lvM3o0ZnJJb3YwdERsZ210dnJENHNScjBLSmdDcEpQenB3Um9XXzQwd2VBczRV?oc=5) | Gulf News | 2026-07-27T06:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
