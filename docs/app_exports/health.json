@@ -1,8 +1,7 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -17,25 +16,31 @@
     ],
     "metadata_only_count": 284,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 309,
-    "story_count_change": 5,
-    "wrapper_only_count": 12
+    "sources_failed": 2,
+    "sources_live": 311,
+    "story_count_change": 6,
+    "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 309,
+    "live": 311,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-27T02:59:02",
+  "generated_at": "2026-07-27T03:17:23",
   "source_failures": [
     {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
+      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/medrxiv/2026-07-19/2026-07-27",
+      "required": true,
+      "source": "medRxiv Infectious Disease",
+      "source_type": "medrxiv"
+    },
+    {
+      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/biorxiv/2026-07-19/2026-07-27",
+      "required": true,
+      "source": "bioRxiv Infectious Disease",
+      "source_type": "biorxiv"
     }
   ]
 }
