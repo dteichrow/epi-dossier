@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-27
-Generated at: 2026-07-27T12:58
+Generated at: 2026-07-27T13:11
 Search window: 7 day(s) ending 2026-07-27
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-07-27
 - [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search; 2026-07-24T00:00; Major epidemiology studies; relevance 5/5)
 - [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) (PubMed Historical Pathogen Case Studies; 2026-07-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (249), Policy, surveillance, and public health infrastructure (68), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (66), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -40,20 +40,20 @@ Search window: 7 day(s) ending 2026-07-27
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 191 item(s) across 115 source(s).
-- Baseline snapshot created with 191 clustered item(s) across 115 source(s).
+- Newly tracked story cluster: 190 item(s) across 114 source(s).
+- Baseline snapshot created with 190 clustered item(s) across 114 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Polio and wastewater surveillance
 - Lead item: [WHO Botswana Q2 Newsletter 2026](https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
 - WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 191 item(s) across 115 source(s); 2 official/primary-source item(s).
+- Topic size: 190 item(s) across 114 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-27T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Michigan reports 9,253 cyclosporiasis cases as infection outbreak expands](https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-reports-9253-cyclosporiasis-cases-ongoing-outbreak-2026-07-27/) (Reuters); [Poll: Cyclospora outbreak changing 40% of Americans' eating habits](https://www.cbsnews.com/chicago/video/poll-cyclospora-outbreak-changing-40-of-americans-eating-habits/) (CBS News); [Michigan cyclosporiasis outbreak continues as case count tops 9,200](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-9200-cases-jul-27/) (CBS News)
@@ -77,18 +77,18 @@ Search window: 7 day(s) ending 2026-07-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Polio and wastewater surveillance
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [WHO Botswana Q2 Newsletter 2026](https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026) (WHO Regional Office for Africa, 2026-07-17T12:58+00:00)
 - Detailed note: Over the past three decades, the country has achieved a 99.8 per cent reduction in polio cases, bringing it closer than ever to ending a disease that once paralysed thousands of children every year. The optimism comes as Pakistan has recorded just three polio cases in 2026, with virus transmission now largely restricted to southern Khyber Pakhtunkhwa. This quarter's edition showcases Botswana's nationwide polio...
-- Evidence notes: [WHO Botswana Q2 Newsletter 2026](https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026) (WHO Regional Office for Africa); [WHO sees ‘historic opportunity’ to end polio in Pakistan](https://gulfnews.com/world/asia/pakistan/who-sees-historic-opportunity-to-end-polio-in-pakistan-1.500621730) (Gulf News); [WHO Regional Director reaffirms support as Pakistan intensifies “critical” efforts to interrupt polio transmission over the next 6 months](https://news.google.com/rss/articles/CBMikAJBVV95cUxPZU5LaXhsSXBTQ1hsd0RrVFZKRm9LVmxmdFE0eVk5TmRqTjV0S3dWMlppVTJ5SXZOZ2ptLWZCOEV1S0h6MDRvVVpYQ1R1bGVlMGp5OFNmU3RfMWNrdnFCalR6TW1tWVU5dDdpYVRuR3ZhS1NwaFdLMU9MNHR5TURDRTZYUmVwSWtrNWU2VmZ5RlJMdnR6MkVOYzhtVlFqaEdhdm9YQlBmU0tuSkJNckFTbXF0X2NueHoydWJudGMxVGJOeHhPb0VyUlJHejFmNGU4QUlVdGQ2WTN0RU9jdjU4S1FGakxDbVFFbGFPa0NQUnhVb1FTVGlUZ2ZpekgwWkx0MmQ1VG8xbkFmNXllNWhOYw?oc=5) (emro.who.int)
+- Evidence notes: [WHO Botswana Q2 Newsletter 2026](https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026) (WHO Regional Office for Africa); [WHO sees ‘historic opportunity’ to end polio in Pakistan](https://gulfnews.com/world/asia/pakistan/who-sees-historic-opportunity-to-end-polio-in-pakistan-1.500621730) (Gulf News); [WHO says Pakistan can interrupt polio transmission in 6–12 months by intensifying efforts](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BN192UTdxQVA0OTZIbXJYS1U5YVY2Z2RkcXFPNVNrbWV6LUJBVGpFX3B5VVBoSS1KczV2TU8yci05Zk55cE1lNEczYkxyVUxRU3F3ZXpGUEI?oc=5) (Arab News PK); [WHO Regional Director reaffirms support as Pakistan intensifies “critical” efforts to interrupt polio transmission over the next 6 months](https://news.google.com/rss/articles/CBMikAJBVV95cUxPZU5LaXhsSXBTQ1hsd0RrVFZKRm9LVmxmdFE0eVk5TmRqTjV0S3dWMlppVTJ5SXZOZ2ptLWZCOEV1S0h6MDRvVVpYQ1R1bGVlMGp5OFNmU3RfMWNrdnFCalR6TW1tWVU5dDdpYVRuR3ZhS1NwaFdLMU9MNHR5TURDRTZYUmVwSWtrNWU2VmZ5RlJMdnR6MkVOYzhtVlFqaEdhdm9YQlBmU0tuSkJNckFTbXF0X2NueHoydWJudGMxVGJOeHhPb0VyUlJHejFmNGU4QUlVdGQ2WTN0RU9jdjU4S1FGakxDbVFFbGFPa0NQUnhVb1FTVGlUZ2ZpekgwWkx0MmQ1VG8xbkFmNXllNWhOYw?oc=5) (emro.who.int)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera, 2026-07-26T13:43+00:00)
-- Detailed note: According to the WHO, the number of global reported cases surged from around 500,000 in the year 2000 to 14.4 million in 2024. The virus has killed 56 people and infected more than 77,000 others in the South Asian nation this year, with more than a quarter of them reported in July alone. Makalla has become one of Yemen’s worst-hit areas for dengue fever, a viral infection spread by mosquito bites that can cause...
-- Evidence notes: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera); [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://www.bbc.com/news/articles/cvgw8e0k1jyo) (BBC); [Dengue or Flu? How to Tell the Difference and Spot the Warning Signs - Daily Mirror](https://www.dailymirror.lk/print/news-features/Dengue-Symptoms-Warning-Signs-and-Prevention/131-344147) (Daily Mirror - Sri Lanka)
+- Detailed note: According to the WHO, the number of global reported cases surged from around 500,000 in the year 2000 to 14.4 million in 2024. The virus has killed 56 people and infected more than 77,000 others in the South Asian nation this year, with more than a quarter of them reported in July alone. A new study found the countryâs biggest outbreak peaked unusually early in 2023, with Dhaka and coastal districts facing the...
+- Evidence notes: [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera); [Bangladesh’s dengue map is changing. A new study found the country’s biggest outbreak peaked unusually ea](https://timesofindia.indiatimes.com/science/bangladeshs-dengue-map-is-changing-a-new-study-found-the-countrys-biggest-outbreak-peaked-unusually-early-in-2023-with-dhaka-and-coastal-districts-facing-the-highest-risk/articleshow/132579601.cms) (The Times of India); [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://www.bbc.com/news/articles/cvgw8e0k1jyo) (BBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
@@ -478,7 +478,7 @@ Search window: 7 day(s) ending 2026-07-27
   Limited detail was available from feed metadata alone.
 - [Congo Ebola outbreak tops 3,000 cases with no cure](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmhHRlliOEx2alpwVTJnaHdEY3BBUDJYVW0wbWhNazNCMkFJQXZxUWFYdFhNMW5EQmJMUUxUSWJXUU43VU1VT2pDUVRCdlZBRFRCZ0ZDNlFTMnNNSV91TE42dFp6T0hpVVNEcVRuWng3YVJNTXhQcnluU0N2MzY0R2dfVGJhVGl4NC1OSENTVW1fRDFlcVJz?oc=5) | Türkiye Today | 2026-07-27T06:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola death toll tops 1,400 as vaccine trials start](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVVmMERKN3NTSmpXbGloOEdQUXR2cG5OVGQxRXdJZ2hPZTdLTVZrNXg2bDZKY3pFMG1uNEozWXNGekVMU2ZoOWd1RERHWFBxUS1wcEZRX2d0dUFjMXJsQW5jLXZGWThMZnNvZldXMVRmWWUydm54Skx3ZkZpRkduaFEtcVB2SF9XNEt1NEdVdDZyajDSAZMBQVVfeXFMTmVZbXhCbTdESFhvQjhPRFF6SjdKdnRfTDg2ZEFNSnJRS3dpOWRwOXdCaDlQSWo5N0RZeERuVXNJNU85aV9xb0dtRmE0UXFSTHpkQXhOdTRKUDNzY1FNZFNGaHV6VE1fTWsxQWk2M3ZidE84Z0daUjczY2VJdDh4NldVUEc1c0pqcjgwV0JvUTFUU1Vn?oc=5) | DW.com | 2026-07-27T06:14+00:00 | Outbreaks and emerging infections
+- [Congo says number of confirmed Ebola cases rises to 3,200, 1,400 deaths: Why the outbreak is spreading quickly](https://news.google.com/rss/articles/CBMioAFBVV95cUxQengxZWZ1VDVTQTlOZjNxYnQxeTd0MFhfR0JJem04bDg1MUJPTS1KLTI3WDdDTTg3OTN3WUVjUnAyb1RYS3hVaE9NcXBQbzNqUmVBX293WF9xOF8tZ1dBRERLd0VEMmlqM0tkc1g5V3N5aWlxeGdOSkQ3WHdCUTVjVWh3bXpzd3pMQWItWXZJUmFrbWpEYlpUYWtiTm1nNXo20gGzAUFVX3lxTE5KSEZWS2ZJUndIWVJPUUhCUFl6NUkyVmpzZUpyYU1yQXpKR0VPcVVVVEF6dHZjdnVMZFpEU2JPM25ZRW91ODFrOW5KZk5EaHRiWGZmSmV1T1RGOFB6M25FelMyVlRGbllGdzFmTFA5YXA1eWJ0eEUtd2RNWlNmYWFBOGJHb3lvM3o0ZnJJb3YwdERsZ210dnJENHNScjBLSmdDcEpQenB3Um9XXzQwd2VBczRV?oc=5) | Gulf News | 2026-07-27T06:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
