@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-28
-Generated at: 2026-07-28T08:10
+Generated at: 2026-07-28T08:17
 Search window: 7 day(s) ending 2026-07-28
 
 ## Executive scan
@@ -10,16 +10,15 @@ Search window: 7 day(s) ending 2026-07-28
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 10, Data as of 19 July 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-4) (WHO Regional Office for Africa; 2026-07-27T09:33+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-27T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) (PubMed Historical Pathogen Case Studies; 2026-07-25T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa; 2026-07-24T07:27+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search; 2026-07-24T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (239), Policy, surveillance, and public health infrastructure (50), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (241), Policy, surveillance, and public health infrastructure (52), Historical epidemiology / ancient disease / paleopathology (2)
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 104 item(s) across 80 source(s).
-- Baseline snapshot created with 104 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 105 item(s) across 81 source(s).
+- Baseline snapshot created with 105 clustered item(s) across 81 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -32,8 +31,8 @@ Search window: 7 day(s) ending 2026-07-28
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 173 item(s) across 103 source(s).
-- Baseline snapshot created with 173 clustered item(s) across 103 source(s).
+- Newly tracked story cluster: 176 item(s) across 104 source(s).
+- Baseline snapshot created with 176 clustered item(s) across 104 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Hantavirus and cruise-ship outbreak
@@ -51,15 +50,15 @@ Search window: 7 day(s) ending 2026-07-28
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 173 item(s) across 103 source(s); 2 official/primary-source item(s).
+- Topic size: 176 item(s) across 104 source(s); 4 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-27T00:00)
-- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Cyclosporiasis cases show ‘vulnerabilities’ in US food safety system, experts say](https://www.theguardian.com/us-news/2026/jul/28/cyclosporiasis-outbreak-us-food-safety) (The Guardian); [As cyclosporiasis spreads across the US, what goes into a disease outbreak investigation? - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-spreads-us-disease-outbreak-investigation/story?id\=134948862) (ABC News - Breaking News, Latest News and Videos); [Cyclospora outbreak may involve more than lettuce, former CDC lead says](https://www.newsnationnow.com/health/cyclospora-outbreak-fresh-produce-robert-redfield/) (NewsNation)
+- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. An update on the Cyclospora outbreak available here .
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Cyclosporiasis cases show ‘vulnerabilities’ in US food safety system, experts say](https://www.theguardian.com/us-news/2026/jul/28/cyclosporiasis-outbreak-us-food-safety) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 104 item(s) across 80 source(s); 5 official/primary-source item(s).
+- Topic size: 105 item(s) across 81 source(s); 5 official/primary-source item(s).
 - Lead item: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News, 2026-07-28T15:06+00:00)
 - Detailed note: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo:...
 - Evidence notes: [Health Advisory May 20, 2026 Health Advisory: Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda The CDC has issued the Health Advisory linked below about the ongoing Ebola Bundibugyo outbreak in .....](https://www.dshs.texas.gov/news-alerts/health-advisory-ebola-disease-outbreak-democratic-republic-congo-and-uganda) (Texas Department of State Health Services News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 10, Data as of 19 July 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-4) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa)
@@ -396,6 +395,36 @@ Search window: 7 day(s) ending 2026-07-28
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-24T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1392: Cyclospora
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-24T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-24T14:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-07-24T07:27+00:00
@@ -406,44 +435,20 @@ Search window: 7 day(s) ending 2026-07-28
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-07-24T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42497098/
-- Category: Major epidemiology studies
-- Summary: From 2009 to 2024, a total of 3,420 cases of AEFI associated with NIP vaccines were reported, with an annual average reporting rate of 15.8 per 100,000 doses. Among these, the reporting rate of common vaccine reactions was 14.87 per 100,000, and that of rare vaccine reactions was 0.54 per 100,000. Differences in reporting rates between districts were statistically significant (χ 2 = 618.9, p < .05).
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Impacts of the One Big Beautiful Bill Act on African Public Health Systems.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-07-22T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42487996/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: OBBBA institutionalizes reduced funding baselines under an "America First Global Health Strategy," constraining bilateral assistance and limiting flexible mechanisms that previously supported surveillance, laboratory systems, workforce development, and pandemic preparedness. We conclude that coordinated responses by African governments, regional bodies, international institutions, and development partners are urgently required to mitigate risks, protect treatment continuity, and sustain progress toward global health security and the Sustainable Development Goals. Drawing on existing empirical evidence, modeling studies, and historical analogues of funding disruptions, we argue that abrupt reductions in US global health financing risk reversing hard-won gains in disease control, exacerbating health system fragility, and increasing vulnerability to emerging infectious threats.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1392: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-22T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) | PubMed Infectious Disease Search | 2026-07-24T00:00 | Major epidemiology studies
+  From 2009 to 2024, a total of 3,420 cases of AEFI associated with NIP vaccines were reported, with an annual average reporting rate of 15.8 per 100,000 doses. Among these, the reporting rate of common vaccine reactions was 14.87 per 100,000, and that of rare vaccine reactions was 0.54 per 100,000. Differences in reporting rates between districts were statistically significant (χ 2 = 618.9, p < .05).
+- [Impacts of the One Big Beautiful Bill Act on African Public Health Systems.](https://pubmed.ncbi.nlm.nih.gov/42487996/) | PubMed Historical Pathogen Case Studies | 2026-07-22T00:00 | Historical epidemiology / ancient disease / paleopathology
+  OBBBA institutionalizes reduced funding baselines under an "America First Global Health Strategy," constraining bilateral assistance and limiting flexible mechanisms that previously supported surveillance, laboratory systems, workforce development, and pandemic preparedness. We conclude that coordinated responses by African governments, regional bodies, international institutions, and development partners are urgently required to mitigate risks, protect treatment continuity, and sustain progress toward global health security and the Sustainable Development Goals. Drawing on existing empirical evidence, modeling studies, and historical analogues of funding disruptions, we argue that abrupt reductions in US global health financing risk reversing hard-won gains in disease control, exacerbating health system fragility, and increasing vulnerability to emerging infectious threats.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-21T17:36+02:00 | Policy, surveillance, and public health infrastructure
   Limited usable detail remained after boilerplate cleanup.
 - [WHO Botswana Q2 Newsletter 2026](https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026) | WHO Regional Office for Africa | 2026-07-17T12:58+00:00 | Outbreaks and emerging infections
   This quarter's edition showcases Botswana's nationwide polio vaccination campaign, strengthened preparedness for Ebola and Bundibugyo Virus Disease, advances in One Health collaboration, and investments in laboratory systems and health workforce planning. The newsletter also features progress in evidence-informed policymaking through the Data-to-Policy Initiative, improved mortality reporting, expanded Health Promoting Schools, enhanced tobacco control efforts, and steps towards eliminating malaria and neglected tropical diseases. In addition, it highlights Botswana's growing contribution to global public health through the WHO Collaborating Centre on HIV Drug Resistance.
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) | WHO Regional Office for Africa | 2026-07-16T09:37+00:00 | Outbreaks and emerging infections
   Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. Maintaining strong surveillance, rapid investigation of alerts and community engagement into the future will be essential to achieving and sustaining success." Although no new confirmed cases have been reported since 21 June 2026, health authorities continue to enhance cross-border surveillance and operational readiness across all border areas to sustain rapid detection and trigger new response operations when needed.
+- [Ebola death toll nearly surpasses DR Congo’s worst outbreak numbers in just 10 weeks](https://sg.news.yahoo.com/ebola-death-toll-nearly-surpasses-145255831.html) | Yahoo News Singapore | 2026-07-28T14:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Uganda declared Ebola-free after imported cases were contained as Congo outbreak grew](https://www.indiatoday.in/world/story/uganda-declared-ebola-free-as-congo-outbreak-continues-ptag-2958307-2026-07-28) | India Today | 2026-07-28T13:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya steps up Ebola preparedness as Uganda declares end of 2026 outbreak](https://peopledaily.digital/news/kenya-steps-up-ebola-preparedness-as-uganda-declares-end-of-2026-outbreak) | People Daily | 2026-07-28T13:55+00:00 | Outbreaks and emerging infections
@@ -471,12 +476,6 @@ Search window: 7 day(s) ending 2026-07-28
 - [Ebola response workers strike in DR Congo as death toll spikes](https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes) | Al Jazeera | 2026-07-28T02:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Case tally reaches 3,200 as UK approves human trial of vaccine for Bundibugyo strain](https://www.livemint.com/news/world/ebola-outbreak-case-tally-reaches-3-200-as-uk-approves-human-trial-of-vaccine-for-bundibugyo-strain-11785204125755.html) | livemint.com | 2026-07-28T02:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Cyclospora outbreak may involve more than lettuce, former CDC lead says](https://www.newsnationnow.com/health/cyclospora-outbreak-fresh-produce-robert-redfield/) | NewsNation | 2026-07-28T02:02+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO declares Ebola Bundibugyo strain outbreak a global health emergency](https://thenewsmill.com/2026/05/who-declares-ebola-bundibugyo-strain-outbreak-a-global-health-emergency/) | The News Mill | 2026-07-28T00:47+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Cyclospora and salmonella outbreaks raise concerns about U.S. food safety](https://www.pbs.org/newshour/show/cyclospora-and-salmonella-outbreaks-raise-concerns-about-u-s-food-safety) | PBS | 2026-07-27T22:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
