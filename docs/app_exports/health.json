@@ -14,27 +14,20 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 272,
+    "metadata_only_count": 288,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 294,
+    "sources_failed": 0,
+    "sources_live": 312,
     "story_count_change": 6,
     "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 294,
+    "live": 312,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-28T14:08:38",
-  "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
-    }
-  ]
+  "generated_at": "2026-07-28T14:17:44",
+  "source_failures": []
 }
