@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-29
-Generated at: 2026-07-29T06:17
+Generated at: 2026-07-29T06:19
 Search window: 7 day(s) ending 2026-07-29
 
 ## Executive scan
@@ -9,10 +9,11 @@ Search window: 7 day(s) ending 2026-07-29
 - [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR; 2026-07-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa; 2026-07-28T15:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-28T00:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks; 2026-07-24T14:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (295), Policy, surveillance, and public health infrastructure (54), Major epidemiology studies (1)
+- [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa; 2026-07-24T07:27+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (294), Policy, surveillance, and public health infrastructure (54), Occupational and environmental epidemiology (1)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -24,8 +25,8 @@ Search window: 7 day(s) ending 2026-07-29
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 173 item(s) across 103 source(s).
-- Baseline snapshot created with 173 clustered item(s) across 103 source(s).
+- Newly tracked story cluster: 172 item(s) across 103 source(s).
+- Baseline snapshot created with 172 clustered item(s) across 103 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Measles transmission and vaccination
@@ -49,10 +50,10 @@ Search window: 7 day(s) ending 2026-07-29
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 173 item(s) across 103 source(s); 4 official/primary-source item(s).
+- Topic size: 172 item(s) across 103 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-28T00:00)
-- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. An update on the Cyclospora outbreak available here .
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Cyclospora outbreak may have peaked in Michigan after lettuce recall](https://www.nbcnews.com/health/health-news/cyclospora-outbreak-michigan-new-cases-down-parasite-lettuce-cdc-rcna589699) (NBC News)
+- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Lettuce, salad OK to consume despite cyclospora outbreak: Frank Yiannis](https://www.newsnationnow.com/health/lettuce-salad-consume-cyclospora-outbreak-frank-yiannis/) (NewsNation); [Cyclospora outbreak may have peaked in Michigan after lettuce recall](https://www.nbcnews.com/health/health-news/cyclospora-outbreak-michigan-new-cases-down-parasite-lettuce-cdc-rcna589699) (NBC News); [Cyclospora outbreak may involve more than lettuce, former CDC lead says](https://www.newsnationnow.com/health/cyclospora-outbreak-fresh-produce-robert-redfield/) (NewsNation)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -92,7 +93,7 @@ Search window: 7 day(s) ending 2026-07-29
 - Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [Dengue or Flu? How to Tell the Difference and Spot the Warning Signs - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-or-Flu-How-to-Tell-the-Difference-and-Spot-the-Warning-Signs/131-344147) (Daily Mirror - Sri Lanka, 2026-07-24T04:56+00:00)
 - Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Dengue or Flu? How to Tell the Difference and Spot the Warning Signs - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-or-Flu-How-to-Tell-the-Difference-and-Spot-the-Warning-Signs/131-344147) (Daily Mirror - Sri Lanka); [Sri Lanka uses air force drones to tackle spreading dengue outbreak](https://sightmagazine.com.au/news/sri-lanka-uses-air-force-drones-to-tackle-spreading-dengue-outbreak/) (sightmagazine.com.au); [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera)
+- Evidence notes: [Dengue or Flu? How to Tell the Difference and Spot the Warning Signs - Daily Mirror](https://www.dailymirror.lk/news-features/Dengue-or-Flu-How-to-Tell-the-Difference-and-Spot-the-Warning-Signs/131-344147) (Daily Mirror - Sri Lanka); [Yemen’s health workers race to halt latest outbreak of deadly dengue fever](https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever) (Al Jazeera); [Sri Lanka uses air force drones to tackle spreading dengue outbreak](https://sightmagazine.com.au/news/sri-lanka-uses-air-force-drones-to-tackle-spreading-dengue-outbreak/) (sightmagazine.com.au)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -384,42 +385,22 @@ Search window: 7 day(s) ending 2026-07-29
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-24T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1392: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-24T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-24T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-07-24T07:27+00:00
 - URL: https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026
 - Category: Outbreaks and emerging infections
 - Summary: 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo: Communities remained highly engaged throughout the outbreak, but continued to raise important questions about transmission, symptoms, care pathways, and supportive treatment. Narratives suggesting that the outbreak was politically or financially motivated persisted, alongside misinformation about medicines and traditional remedies, increasing the risk of delayed care-seeking and self-medication. The report highlights that widespread awareness of the outbreak has not yet translated into the practical understanding needed to seek timely care and fully cooperate with response efforts.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1392: Cyclospora
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-22T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 72. Product linked to illnesses: Not Yet Identified.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -434,18 +415,36 @@ Search window: 7 day(s) ending 2026-07-29
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### WHO Botswana Q2 Newsletter 2026
+- Source: WHO Regional Office for Africa
+- Date: 2026-07-17T12:58+00:00
+- URL: https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026
+- Category: Outbreaks and emerging infections
+- Summary: This quarter's edition showcases Botswana's nationwide polio vaccination campaign, strengthened preparedness for Ebola and Bundibugyo Virus Disease, advances in One Health collaboration, and investments in laboratory systems and health workforce planning. The newsletter also features progress in evidence-informed policymaking through the Data-to-Policy Initiative, improved mortality reporting, expanded Health Promoting Schools, enhanced tobacco control efforts, and steps towards eliminating malaria and neglected tropical diseases. In addition, it highlights Botswana's growing contribution to global public health through the WHO Collaborating Centre on HIV Drug Resistance.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Uganda begins countdown to end of Ebola outbreak
+- Source: WHO Regional Office for Africa
+- Date: 2026-07-16T09:37+00:00
+- URL: https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak
+- Category: Outbreaks and emerging infections
+- Summary: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. Maintaining strong surveillance, rapid investigation of alerts and community engagement into the future will be essential to achieving and sustaining success." Although no new confirmed cases have been reported since 21 June 2026, health authorities continue to enhance cross-border surveillance and operational readiness across all border areas to sustain rapid detection and trigger new response operations when needed.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [WHO Botswana Q2 Newsletter 2026](https://www.afro.who.int/countries/botswana/publication/who-botswana-q2-newsletter-2026) | WHO Regional Office for Africa | 2026-07-17T12:58+00:00 | Outbreaks and emerging infections
-  This quarter's edition showcases Botswana's nationwide polio vaccination campaign, strengthened preparedness for Ebola and Bundibugyo Virus Disease, advances in One Health collaboration, and investments in laboratory systems and health workforce planning. The newsletter also features progress in evidence-informed policymaking through the Data-to-Policy Initiative, improved mortality reporting, expanded Health Promoting Schools, enhanced tobacco control efforts, and steps towards eliminating malaria and neglected tropical diseases. In addition, it highlights Botswana's growing contribution to global public health through the WHO Collaborating Centre on HIV Drug Resistance.
-- [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) | WHO Regional Office for Africa | 2026-07-16T09:37+00:00 | Outbreaks and emerging infections
-  Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. Maintaining strong surveillance, rapid investigation of alerts and community engagement into the future will be essential to achieving and sustaining success." Although no new confirmed cases have been reported since 21 June 2026, health authorities continue to enhance cross-border surveillance and operational readiness across all border areas to sustain rapid detection and trigger new response operations when needed.
+- [Lettuce, salad OK to consume despite cyclospora outbreak: Frank Yiannis](https://www.newsnationnow.com/health/lettuce-salad-consume-cyclospora-outbreak-frank-yiannis/) | NewsNation | 2026-07-29T12:28+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Cyclospora outbreak may have peaked in Michigan after lettuce recall](https://www.nbcnews.com/health/health-news/cyclospora-outbreak-michigan-new-cases-down-parasite-lettuce-cdc-rcna589699) | NBC News | 2026-07-29T12:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cyclospora outbreak may involve more than lettuce, former CDC lead says](https://www.newsnationnow.com/health/cyclospora-outbreak-fresh-produce-robert-redfield/) | NewsNation | 2026-07-29T12:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda Ends Ebola Outbreak as Neighbouring Congo Battles Escalating Crisis](https://www.yahoo.com/news/videos/uganda-ends-ebola-outbreak-neighbouring-114500364.html) | Yahoo | 2026-07-29T11:45+00:00 | Outbreaks and emerging infections
-  Uganda has officially declared itself free of Ebola after completing the World Health Organization's required 42-day monitoring period without recording any new infections following the recovery of its last patient Thousands of Spaniards evacuated from huge wildfires returned home on Wednesday while in France firefighters braced for worsening conditions in their own battle with raging flames.In Greece, firefighters battled a blaze on the Aegean island of Paros, where strong winds were fanning the flames. Anthony Fauci is testifying to the Senate on the origins of the COVID-19 pandemic, setting up a showdown between the infectious disease expert and GOP Sen. US and Saudi forces said they struck an Iraqi militant alliance on Wednesday, as the Middle East war expands beyond its main focus in Iran to involve the Islamic republic's proxies.The Hashed al-Shaabi alliance, also known as the Popular Mobilisation Forces, was created in 2014 to fight jihadists before it was formally integrated into the armed forces.
+  Uganda has officially declared itself free of Ebola after completing the World Health Organization's required 42-day monitoring period without recording any new infections following the recovery of its last patient Thousands of Spaniards evacuated from huge wildfires returned home on Wednesday while in France firefighters braced for worsening conditions in their own battle with raging flames.In Greece, firefighters battled a blaze on the Aegean island of Paros, where strong winds were fanning the flames. Anthony Fauci is testifying to the Senate on the origins of the COVID-19 pandemic, setting up a showdown between the infectious disease expert and GOP Sen. President Donald Trump vowed to hit back hard at Iran after it attacked US bases in Jordan on Wednesday, as the Middle East war reignited and once again drew in the Islamic republic's proxies.Iran meanwhile launched missiles at US ally Jordan, with state media later reporting an American attack near the Islamic republic's border with Iraq.
 - [South Sudan remains Ebola-free despite regional outbreaks, says Health Ministry](https://www.eyeradio.org/south-sudan-remains-ebola-free-despite-regional-outbreaks-says-health-ministry/) | Eye Radio | 2026-07-29T06:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Response Workers Strike in DR Congo as Outbreak Death Toll Exceeds 1,400](https://shiawaves.com/english/news/world/africa/dr-congo/144282-ebola-response-workers-strike-in-dr-congo-as-outbreak-death-toll-exceeds-1400/) | ShiaWaves | 2026-07-29T06:49+00:00 | Outbreaks and emerging infections
@@ -466,8 +465,6 @@ Search window: 7 day(s) ending 2026-07-29
   Limited detail was available from feed metadata alone.
 - [A difficult-to-trace parasite, messaging missteps contribute to summer of overwhelming Cyclospora outbreaks](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNem5ES3dPQUhfSWRjYzEydnQ2Tnl4d0x2aHpRZDhEOHVjRFBpNkFadEpRcHR0ZUdBa0R6ZmFQclNFbXN6aW5EblZ5WE5XaDdNY0ZOY2IxUVlQSGZqSU9FclJla3YzSUozeUQyaWRpNUtUZFVfV3o4RmFRUTJMQlA0OGV6ZXQtRDE2cl9jM1h3LWFseG4zS2MwUUJYLXBqcHNNMXE2RDdnaE5GVkNSOGM2ajRGSnRPSUVRRThmbnoxUUw?oc=5) | CIDRAP | 2026-07-28T18:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Health officials investigate 14 confirmed cyclospora cases in Galveston County](https://www.houstonchronicle.com/news/houston-texas/trending/article/cyclospora-cases-galveston-county-22363308.php) | Houston Chronicle | 2026-07-28T18:57+00:00 | Outbreaks and emerging infections
-  The Galveston County Health District said Monday there are 14 confirmed cases, with four new cases under investigation into an increase in illnesses caused by the foodborne parasite, according to a news release and a health alert on Facebook. The local investigation comes as federal health officials track thousands of cyclosporiasis cases nationwide, many linked to recalled iceberg lettuce sourced from central Mexico. Philip Keiser, the county’s local health authority, in a statement.
 - [Uganda Says It’s Ebola Outbreak Is Over](https://www.forbes.com/sites/maryroeloffs/2026/07/28/uganda-says-its-ebola-free-as-cases-in-congo-near-record-numbers/) | Forbes | 2026-07-28T18:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [As Cyclospora Cases Climb, FDA Official Says Food Supply Is Safe](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDVqOENNcVItcE56VWdhTzlKdF91RlNxaEJudXNqcXU2LXJlaEsxbWZwT05GMEJILTRfS1phVUNWWHlxMFUzVUw5eFFSUU5OVDdxNjQzX3M1amY3VzFFd1RxWEJWZHZ0WFVLa1Z3VEk5bVliZzAzMlJsUzJkRHJvUg?oc=5) | The New York Times | 2026-07-28T18:25+00:00 | Outbreaks and emerging infections
@@ -475,6 +472,10 @@ Search window: 7 day(s) ending 2026-07-29
 - [Uganda declares Ebola outbreak over after 42-day monitoring period](https://gulfnews.com/world/africa/uganda-declares-ebola-outbreak-over-after-42-day-monitoring-period-1.500623147) | Gulf News | 2026-07-28T17:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Michigan cyclosporiasis outbreak grows to over 9,600 cases](https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3ZIZDVlQmRTMGd5alJqeEFlWVJYbFZJWFRBSjZJblJxendnOXpienY4S0EzVGFGelZQdzVKWnllclBYVTRMMUZYclYwdnNZYkcxeWlTSk40ak9qU0ZDTkstY0JRYmJtd3Fubk52V2RIVFdONERpVjdsODNGeDBiNzJtejlHNDMxVE81MlBwU3Q?oc=5) | CBS News | 2026-07-28T16:58+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola death toll nearly surpasses DR Congo’s worst outbreak numbers in just 10 weeks](https://www.independent.co.uk/news/world/africa/ebola-dr-congo-death-toll-b3023134.html) | The Independent | 2026-07-28T14:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Uganda declares country Ebola-free after 42 days with no new cases](https://eastleighvoice.co.ke/uganda/384039/uganda-declares-country-ebola-free-after-42-days-with-no-new-cases?amp\=1) | The Eastleigh Voice | 2026-07-28T13:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
