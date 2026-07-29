@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-29
-Generated at: 2026-07-29T07:58
+Generated at: 2026-07-29T08:02
 Search window: 7 day(s) ending 2026-07-29
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-07-29
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa; 2026-07-24T07:27+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (293), Policy, surveillance, and public health infrastructure (56), Occupational and environmental epidemiology (1)
+- Category mix: Outbreaks and emerging infections (292), Policy, surveillance, and public health infrastructure (56), Occupational and environmental epidemiology (1)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 108 item(s) across 84 source(s).
-- Baseline snapshot created with 108 clustered item(s) across 84 source(s).
+- Newly tracked story cluster: 106 item(s) across 83 source(s).
+- Baseline snapshot created with 106 clustered item(s) across 83 source(s).
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -31,9 +31,9 @@ Search window: 7 day(s) ending 2026-07-29
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 61 item(s) across 57 source(s).
-- Baseline snapshot created with 61 clustered item(s) across 57 source(s).
-- The New York Times now foregrounds vaccination or vaccine policy in the story.
+- Newly tracked story cluster: 62 item(s) across 58 source(s).
+- Baseline snapshot created with 62 clustered item(s) across 58 source(s).
+- Devdiscourse now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-07-29
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 108 item(s) across 84 source(s); 4 official/primary-source item(s).
+- Topic size: 106 item(s) across 83 source(s); 4 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
 - Detailed note: Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) (WHO Regional Office for Africa); [Uganda Ends Ebola Outbreak as Neighbouring Congo Battles Escalating Crisis](https://www.yahoo.com/news/videos/uganda-ends-ebola-outbreak-neighbouring-114500364.html) (Yahoo)
@@ -66,10 +66,10 @@ Search window: 7 day(s) ending 2026-07-29
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 61 item(s) across 57 source(s); 1 official/primary-source item(s).
+- Topic size: 62 item(s) across 58 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-07-29T14:50+00:00)
 - Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Virginia among states leading U.S. measles cases surge](https://www.axios.com/local/richmond/2026/07/28/virginia-measles-cases-fourth-highest-us-cdc) (Axios); [Measles cases are surging in Pennsylvania](https://news.google.com/rss/articles/CBMingFBVV95cUxNZUs5QllpbG9MRDB5UWI3SW5SNWllZm1yQkRNaEQ3aXBJajhVNFA3YVA4S01xSkY4MElnLVJFeTVUS1FyejRadGx1aklyMURKZFJFR1hTbVRkbEdUSXp6WktQQUJ3OWtUV1pBOXFFejFZWHFFNV9OcVR6NGxXcEJqazgwd0t4VkFvOHg1QV9pQlJlMEgxTUF3SG1VUmdLdw?oc=5) (Axios); [These seven states are hot spots for 2026's record measles outbreak](https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbWVDR1RSbnBiaU13S0lPY054MGM5R3Y3SlFhU0IzWWhHTDhZbXBUSVJ4VmFkX3dlV1dBeUZLM2EtelF5eWZjREIwVWJkdFliUG8tczZEcUxyaVVkV19JZ293cHV4U0d2OG9xS2YzZE1vWDliaVNR?oc=5) (Axios); [CDC: Ever-expanding US measles outbreak tops last year's total](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYk9JekpUREZ4U2RRTFZ4MlFkdk1wWjJVczVOc0txMXRoSTZzZF9UNGRZaE9FdHgwS3NrS3BaVnJnT3o4WDdjWXBuMjhBRUQ5cTh4YWdNaE54aEl1ZUU2NXltX0wySHhlOUoxd01VdjhSRnRuM2g0dl82TkE1NDB0OHFCX1p0aEU4eWxzaEJBdUJYRXp5eWVRdXJtbw?oc=5) (CIDRAP)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Virginia among states leading U.S. measles cases surge](https://www.axios.com/local/richmond/2026/07/28/virginia-measles-cases-fourth-highest-us-cdc) (Axios); [Measles cases are surging in Pennsylvania](https://news.google.com/rss/articles/CBMingFBVV95cUxNZUs5QllpbG9MRDB5UWI3SW5SNWllZm1yQkRNaEQ3aXBJajhVNFA3YVA4S01xSkY4MElnLVJFeTVUS1FyejRadGx1aklyMURKZFJFR1hTbVRkbEdUSXp6WktQQUJ3OWtUV1pBOXFFejFZWHFFNV9OcVR6NGxXcEJqazgwd0t4VkFvOHg1QV9pQlJlMEgxTUF3SG1VUmdLdw?oc=5) (Axios); [US Measles Cases Hit 35-Year High Amid Declining Vaccinations](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDJRZkdfRUx6b2paMFlSNWR0RzNhWU5hWG44MGRYLWZmMGtjS0RQa0hCa19MTjdDRDUySGtTeWJNd3pPdDB0TWpRQU96THVwdGhyNDhfb2ZyMDlrMXhRUnVLdGVSNUpRQU1sSHlLNHFVLWZGREhvcVV2SjhESUZWd2d3QkRIekFjM3podG1BbWJTdjQyVTMxYmtDZWtGWXBuTnJyTDBId1BUXzlGMkpheS1nbFpsdm9M0gG4AUFVX3lxTE5sMlFmR19FTHpvalowWVI1ZHRHM2FZTmFYbjgwZFgtZmYwa2NLRFBrSEJrX0xON0NENTJIa1N5Yk13ek90MHRNalFBT3pMdXB0aHI0OF9vZnIwOWsxeFFSdUt0ZVI1SlFBTWxIeUs0cVUtZkZESG9xVXZKOERJRlZ3Z3dCREh6QWMzemh0bUFtYlN2NDJVMzFia0Nla0ZZcG5OcnJMMEh3UFRfOUYySmF5LWdsWmx2b0w?oc=5) (Devdiscourse); [These seven states are hot spots for 2026's record measles outbreak](https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbWVDR1RSbnBiaU13S0lPY054MGM5R3Y3SlFhU0IzWWhHTDhZbXBUSVJ4VmFkX3dlV1dBeUZLM2EtelF5eWZjREIwVWJkdFliUG8tczZEcUxyaVVkV19JZ293cHV4U0d2OG9xS2YzZE1vWDliaVNR?oc=5) (Axios)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -444,7 +444,7 @@ Search window: 7 day(s) ending 2026-07-29
 - [Cyclospora outbreak may involve more than lettuce, former CDC lead says](https://www.newsnationnow.com/health/cyclospora-outbreak-fresh-produce-robert-redfield/) | NewsNation | 2026-07-29T12:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Uganda Ends Ebola Outbreak as Neighbouring Congo Battles Escalating Crisis](https://www.yahoo.com/news/videos/uganda-ends-ebola-outbreak-neighbouring-114500364.html) | Yahoo | 2026-07-29T11:45+00:00 | Outbreaks and emerging infections
-  Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed. Three young girls were murdered in the atrocity at a Taylor Swift-themed dance class on 15 July 2024. Uganda has officially declared itself free of Ebola after completing the World Health Organization's required 42-day monitoring period without recording any new infections following the recovery of its last patient Strikes launched by the U.S.
+  Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed. Uganda has officially declared itself free of Ebola after completing the World Health Organization's required 42-day monitoring period without recording any new infections following the recovery of its last patient The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature. NAIROBI, July 29 (Reuters) - Prominent detained Ugandan opposition figure Kizza Besigye collapsed on Wednesday while attending a court session in the capital Kampala where he is on trial for treason,
 - [Uganda Declared Ebola-Free As Congo Outbreak Grows To 3,262 Cases, 1,437 Deaths](https://www.healthandme.com/health-news/uganda-declared-ebola-free-as-congo-outbreak-grows-to-3262-cases-1437-deaths-article-155211178) | Health and Me | 2026-07-29T09:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [South Sudan remains Ebola-free despite regional outbreaks, says Health Ministry](https://www.eyeradio.org/south-sudan-remains-ebola-free-despite-regional-outbreaks-says-health-ministry/) | Eye Radio | 2026-07-29T06:51+00:00 | Outbreaks and emerging infections
