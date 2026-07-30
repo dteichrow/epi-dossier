@@ -1,18 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-29
-Generated at: 2026-07-29T21:20
+Generated at: 2026-07-29T22:16
 Search window: 7 day(s) ending 2026-07-29
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-30T04:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-07-30T04:06+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-30T05:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-07-30T05:02+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation](https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action) (ECDC News; 2026-07-29T12:30+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-29T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) (PubMed Ancient Pathogen Genomics; 2026-07-29T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR; 2026-07-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa; 2026-07-28T15:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) (WHO Regional Office for Africa; 2026-07-28T13:25+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [World Hepatitis Day 2026: Ensuring that life-saving interventions are accessible to everyone who needs them is a common challenge](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-ensuring-life-saving-interventions-are-accessible-everyone-who) (ECDC News; 2026-07-28T08:37+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Policy, surveillance, and public health infrastructure (9), Outbreaks and emerging infections (8), Major epidemiology studies (5)
+- Category mix: Policy, surveillance, and public health infrastructure (9), Outbreaks and emerging infections (8), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 34 source(s) failed during collection: Nigeria Centre for Disease Control, Google News Outbreaks, Google News Major Outbreak Desks, Google News Global Health Reporting, Google News Hantavirus and Cruise Outbreaks, plus 29 more.
 
 ## Ongoing stories and what changed
@@ -23,32 +23,37 @@ Search window: 7 day(s) ending 2026-07-29
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
-### Cyclosporiasis
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
-- CIDRAP now foregrounds vaccination or vaccine policy in the story.
-
-### COVID-19 and SARS-CoV-2
-- Lead item: [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 4 item(s) across 2 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 2 source(s).
-- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
 - Newly tracked story cluster: 3 item(s) across 2 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 
+### Cyclosporiasis
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+
+### COVID-19 and SARS-CoV-2
+- Lead item: [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
+
+### Historical epidemiology and ancient pathogens
+- Lead item: [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) (PubMed Ancient Pathogen Genomics)
+- Newly tracked story cluster: 2 item(s) across 2 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+
 
 ## Major topics
 ### Miscellaneous signals
-- Topic size: 6 item(s) across 3 source(s); 6 official/primary-source item(s).
+- Topic size: 5 item(s) across 3 source(s); 5 official/primary-source item(s).
 - Lead item: [As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation](https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action) (ECDC News, 2026-07-29T12:30+02:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation](https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action) (ECDC News); [New guidance launched to help Europe detect respiratory virus threats earlier](https://www.ecdc.europa.eu/en/news-events/new-guidance-launched-help-europe-detect-respiratory-virus-threats-earlier) (ECDC News); [HPV vaccination in the WHO South-East Asia Region: A scoping review of uptake, implementation challenges, and pathways to acceleration.](https://pubmed.ncbi.nlm.nih.gov/42518306/) (PubMed Infectious Disease Search); [Epidemiological characteristics of varicella and factors associated with breakthrough varicella among children aged 0-14 years in Jiangsu Province, China.](https://pubmed.ncbi.nlm.nih.gov/42522339/) (PubMed Infectious Disease Search); [Influenza Cases Widespread in California](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-086.aspx) (California Department of Public Health News)
+- Evidence notes: [As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation](https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action) (ECDC News); [New guidance launched to help Europe detect respiratory virus threats earlier](https://www.ecdc.europa.eu/en/news-events/new-guidance-launched-help-europe-detect-respiratory-virus-threats-earlier) (ECDC News); [Epidemiological characteristics of varicella and factors associated with breakthrough varicella among children aged 0-14 years in Jiangsu Province, China.](https://pubmed.ncbi.nlm.nih.gov/42522339/) (PubMed Infectious Disease Search); [Influenza Cases Widespread in California](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-086.aspx) (California Department of Public Health News); [CDPH Releases Reports on Healthcare-Associated Infections, Influenza Vaccination Rates Among Healthcare Personnel](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-082.aspx) (California Department of Public Health News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -60,17 +65,9 @@ Search window: 7 day(s) ending 2026-07-29
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### COVID-19 and SARS-CoV-2
-- Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
-- Lead item: [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) (WHO Regional Office for Africa, 2026-07-28T13:25+00:00)
-- Detailed note: Individual-level determinants associated with lower vaccine uptake included male biological sex (aOR: 0.57, 95% CI: 0.37-0.88, younger age (aOR: 0.50, 95% CI: 0.41-0.61), smoking (aOR: 0.43, 95% CI: 0.18-1.02), reduced independence (aOR: 0.59, 95% CI: 0.31-1.10), and age-only eligibility (aOR 0.41, 95% CI: 0.19-0.86). The XBB.1.5 VE was 52% (95% confidence interval (CI): 41 to 60) and 75% (95%CI: 60 to 84)...
-- Evidence notes: [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) (WHO Regional Office for Africa); [Analysis of vaccine adverse events associated with rheumatoid arthritis: A pharmacovigilance study based on the VAERS database.](https://pubmed.ncbi.nlm.nih.gov/42522140/) (PubMed Infectious Disease Search); [Determinants of seasonal influenza and COVID-19 vaccine uptake in high-risk individuals in northern Sweden.](https://pubmed.ncbi.nlm.nih.gov/42518305/) (PubMed Infectious Disease Search); [Adapted XBB.1.5 vaccine effectiveness against severe COVID-19 outcomes among immunocompromised persons in 2023-24 in six European countries: a VEBIS-EHR network study.](https://pubmed.ncbi.nlm.nih.gov/42504085/) (PubMed Infectious Disease Search)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
-
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-30T04:16+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-30T05:16+00:00)
 - Detailed note: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and...
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [World Hepatitis Day 2026: Ensuring that life-saving interventions are accessible to everyone who needs them is a common challenge](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-ensuring-life-saving-interventions-are-accessible-everyone-who) (ECDC News); [World Hepatitis Day 2026: Despite progress towards eliminating hepatitis in Europe, gaps in prevention measures keep 2030 targets out of reach](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-despite-progress-towards-eliminating-hepatitis-europe-gaps) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -81,16 +78,24 @@ Search window: 7 day(s) ending 2026-07-29
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-29T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The response to the current large outbreak is a communications failure, not a failure of the investigation.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [CIDRAP Op-Ed: The Cyclospora outbreak was, and still is, a communications failure](https://www.cidrap.umn.edu/cyclospora/cidrap-op-ed-cyclospora-outbreak-was-and-still-communications-failure) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) (WHO Regional Office for Africa, 2026-07-28T13:25+00:00)
+- Detailed note: The XBB.1.5 VE was 52% (95% confidence interval (CI): 41 to 60) and 75% (95%CI: 60 to 84) against hospitalization and death, respectively, 14-59 days after vaccination, and VE decreased with time since vaccination with no remaining protection at 180-365 days after vaccination. The COVID‑19 vaccine had the most reports (n = 24,266) but a weak signal (ROR = 1.25); the Lyme disease vaccine (ROR = 27.81), the rubella...
+- Evidence notes: [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) (WHO Regional Office for Africa); [Analysis of vaccine adverse events associated with rheumatoid arthritis: A pharmacovigilance study based on the VAERS database.](https://pubmed.ncbi.nlm.nih.gov/42522140/) (PubMed Infectious Disease Search); [Adapted XBB.1.5 vaccine effectiveness against severe COVID-19 outcomes among immunocompromised persons in 2023-24 in six European countries: a VEBIS-EHR network study.](https://pubmed.ncbi.nlm.nih.gov/42504085/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Measles transmission and vaccination
-- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-07-30T04:06+00:00)
-- Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+### Historical epidemiology and ancient pathogens
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) (PubMed Ancient Pathogen Genomics, 2026-07-29T00:00)
+- Detailed note: An exploratory mixed-methods design combined structured questionnaires with a Free Word Association Test to investigate shared meanings of leprosy among 34 persons affected by leprosy (age available for 23 participants; range, 20-85 years) and 19 primary healthcare professionals. Genome-wide data from 36 individuals (spanning Lyalovo-Volosovo traditions, 6800-4800 cal BP) place the Sakhtysh population within the...
+- Evidence notes: [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) (PubMed Ancient Pathogen Genomics); [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) (PubMed Historical Pathogen Case Studies)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
 ## Last major outbreaks on file
@@ -332,7 +337,7 @@ Search window: 7 day(s) ending 2026-07-29
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-30T04:16+00:00
+- Date: 2026-07-30T05:16+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -342,7 +347,7 @@ Search window: 7 day(s) ending 2026-07-29
 
 ### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-07-30T04:06+00:00
+- Date: 2026-07-30T05:02+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -366,6 +371,16 @@ Search window: 7 day(s) ending 2026-07-29
 - URL: https://lucascountyhealth.com/cyclo/
 - Category: Outbreaks and emerging infections
 - Summary: Lucas County Positive Cases: 1,183; Northwest Ohio Positive Cases: 2,856. The health department labels these counts preliminary. Last update: 7/29/26.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.
+- Source: PubMed Ancient Pathogen Genomics
+- Date: 2026-07-29T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42527941/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: Genome-wide data from 36 individuals (spanning Lyalovo-Volosovo traditions, 6800-4800 cal BP) place the Sakhtysh population within the EHG cluster, with high genetic affinity to contemporaneous groups across northwestern Russia and the eastern Baltic. Specific alleles like B*27:05 are observed at high frequencies (~ 50%), despite being relatively rare in modern populations, suggesting shifts in selective pressures. We report HLA genotypes for 27 Sakhtysh individuals, representing the first true HLA calls from ancient hunter-gatherers.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -420,18 +435,10 @@ Search window: 7 day(s) ending 2026-07-29
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Analysis of vaccine adverse events associated with rheumatoid arthritis: A pharmacovigilance study based on the VAERS database.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-07-28T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42522140/
-- Category: Major epidemiology studies
-- Summary: The COVID‑19 vaccine had the most reports (n = 24,266) but a weak signal (ROR = 1.25); the Lyme disease vaccine (ROR = 27.81), the rubella vaccine (ROR = 5.69), and the anthrax vaccine (ROR = 3.90) exhibited the strongest signals. Among 11,532,185 reports, 34,498 RA‑related adverse events (AEs) (0.03%) involved 5006 subjects. Subgroup signals: Lyme disease vaccine except 2021-2026; rubella vaccine only in females/≤17; anthrax vaccine in 18-64.
-- Why it matters: Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Analysis of vaccine adverse events associated with rheumatoid arthritis: A pharmacovigilance study based on the VAERS database.](https://pubmed.ncbi.nlm.nih.gov/42522140/) | PubMed Infectious Disease Search | 2026-07-28T00:00 | Major epidemiology studies
+  The COVID‑19 vaccine had the most reports (n = 24,266) but a weak signal (ROR = 1.25); the Lyme disease vaccine (ROR = 27.81), the rubella vaccine (ROR = 5.69), and the anthrax vaccine (ROR = 3.90) exhibited the strongest signals. Among 11,532,185 reports, 34,498 RA‑related adverse events (AEs) (0.03%) involved 5006 subjects. Subgroup signals: Lyme disease vaccine except 2021-2026; rubella vaccine only in females/≤17; anthrax vaccine in 18-64.
 - [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) | PubMed Historical Pathogen Case Studies | 2026-07-25T00:00 | Historical epidemiology / ancient disease / paleopathology
   An exploratory mixed-methods design combined structured questionnaires with a Free Word Association Test to investigate shared meanings of leprosy among 34 persons affected by leprosy (age available for 23 participants; range, 20-85 years) and 19 primary healthcare professionals. These results suggest that stigma in leprosy cannot be reduced to insufficient knowledge alone, but should instead be understood as a biosocial phenomenon produced through the interaction of social meanings, embodied experience, and institutional conditions. Although most affected participants recognized that leprosy is curable, substantial knowledge gaps were identified, particularly regarding transmission pathways.
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) | WHO Regional Office for Africa | 2026-07-24T07:27+00:00 | Outbreaks and emerging infections
@@ -449,13 +456,9 @@ Search window: 7 day(s) ending 2026-07-29
 - [Uganda begins countdown to end of Ebola outbreak](https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak) | WHO Regional Office for Africa | 2026-07-16T09:37+00:00 | Outbreaks and emerging infections
   Uganda declared the outbreak on 15 May 2026 and as of 16 July 2026, 20 confirmed cases and two deaths have been reported. As of 16 July 2026, all 836 contacts have been followed up, while surveillance systems were strengthened across 36 high-risk districts and at 38 points of entry. Maintaining strong surveillance, rapid investigation of alerts and community engagement into the future will be essential to achieving and sustaining success." Although no new confirmed cases have been reported since 21 June 2026, health authorities continue to enhance cross-border surveillance and operational readiness across all border areas to sustain rapid detection and trigger new response operations when needed.
 - [CIDRAP Op-Ed: The Cyclospora outbreak was, and still is, a communications failure](https://www.cidrap.umn.edu/cyclospora/cidrap-op-ed-cyclospora-outbreak-was-and-still-communications-failure) | CIDRAP | 2026-07-27T11:16-05:00 | Outbreaks and emerging infections
-  With most foodborne bacteria, a lab grows the organism, sequences it, and uploads the genetic fingerprint to PulseNet , the national network that flags when a case in one state matches a case in another. The response to the current large outbreak is a communications failure, not a failure of the investigation. The US Centers for Disease Control and Prevention (CDC) has instead been working from partial genotyping, because Cyclospora 's genome is complicated enough to defeat the sequencing methods that work for bacteria.
-- [HPV vaccination in the WHO South-East Asia Region: A scoping review of uptake, implementation challenges, and pathways to acceleration.](https://pubmed.ncbi.nlm.nih.gov/42518306/) | PubMed Infectious Disease Search | 2026-07-28T00:00 | Major epidemiology studies
-  Following the Arksey and O'Malley framework and PRISMA-Scoping Review (ScR) guidelines, 46 studies published between January 2003 and February 2026 were analyzed. Ten of eleven SEAR countries have introduced HPV vaccination nationally, with Bhutan, Sri Lanka, and Thailand achieving coverage above 90%, while several countries remain in early implementation or expansion phases. Four cross-cutting barriers were identified: policy and financial constraints, sociocultural resistance, weak health-system capacity, and vaccine hesitancy.
+  The response to the current large outbreak is a communications failure, not a failure of the investigation.
 - [Epidemiological characteristics of varicella and factors associated with breakthrough varicella among children aged 0-14 years in Jiangsu Province, China.](https://pubmed.ncbi.nlm.nih.gov/42522339/) | PubMed Infectious Disease Search | 2026-07-29T00:00 | Major epidemiology studies
   During 2023-2024, older age groups showed lower BV proportion (5-9 years: OR = 0.49; 10-14 years: OR = 0.58; both p < 0.001), while the 10-14 years group showed higher BV proportion (OR = 1.08, p < 0.001) during 2021-2022. Among 162,844 cases, 34.3% were BV, and 10-14-year age group increased significantly from 24.7% in 2021 to 61.1% in 2024 ( p < 0.001). Autumn onset (OR = 1.14) and cases from central (OR = 1.39) and southern Jiangsu (OR = 2.31) were positively associated with BV proportion (all p < 0.001).
-- [Determinants of seasonal influenza and COVID-19 vaccine uptake in high-risk individuals in northern Sweden.](https://pubmed.ncbi.nlm.nih.gov/42518305/) | PubMed Infectious Disease Search | 2026-07-28T00:00 | Major epidemiology studies
-  Individual-level determinants associated with lower vaccine uptake included male biological sex (aOR: 0.57, 95% CI: 0.37-0.88, younger age (aOR: 0.50, 95% CI: 0.41-0.61), smoking (aOR: 0.43, 95% CI: 0.18-1.02), reduced independence (aOR: 0.59, 95% CI: 0.31-1.10), and age-only eligibility (aOR 0.41, 95% CI: 0.19-0.86). Co-administration of both vaccines was high (OR 55.33, 95% CI: 30.86-99.22). In multimorbid individuals, meeting more eligibility criteria showed no significant association with higher uptake (aOR: 1.14, 95% CI: 0.93-1.39).
 - [Adapted XBB.1.5 vaccine effectiveness against severe COVID-19 outcomes among immunocompromised persons in 2023-24 in six European countries: a VEBIS-EHR network study.](https://pubmed.ncbi.nlm.nih.gov/42504085/) | PubMed Infectious Disease Search | 2026-07-26T00:00 | Major epidemiology studies
   The XBB.1.5 VE was 52% (95% confidence interval (CI): 41 to 60) and 75% (95%CI: 60 to 84) against hospitalization and death, respectively, 14-59 days after vaccination, and VE decreased with time since vaccination with no remaining protection at 180-365 days after vaccination. Adapted XBB.1.5 vaccine provided moderate protection within 120 days after vaccination against severe COVID-19 outcomes among ICPs aged ≥18 years during a period with BA.2.86/JN.1 replacing the XBB.1.5 variant. VE was calculated by time since vaccination (14-59, 60-119, 120-179, 180-365 days after vaccination) for ICPs by pooling study site level confounder adjusted hazard ratios (aHR) of vaccination, estimated with Cox proportional hazards regression models, using a random effect meta-analysis with VE = 100 × (1-pooled aHR).
 - [Influenza Cases Widespread in California](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-086.aspx) | California Department of Public Health News | Unknown | Policy, surveillance, and public health infrastructure
@@ -464,6 +467,12 @@ Search window: 7 day(s) ending 2026-07-29
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/)
+  Source: PubMed Ancient Pathogen Genomics
+  DOI: 10.1186/s13059-026-04214-8
+  Journal/preprint server: Genome biology
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42527941/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42527941/
 - [Analysis of vaccine adverse events associated with rheumatoid arthritis: A pharmacovigilance study based on the VAERS database.](https://pubmed.ncbi.nlm.nih.gov/42522140/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2709262
@@ -482,24 +491,12 @@ Search window: 7 day(s) ending 2026-07-29
   Journal/preprint server: Ecology and evolution
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42500200/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42500200/
-- [HPV vaccination in the WHO South-East Asia Region: A scoping review of uptake, implementation challenges, and pathways to acceleration.](https://pubmed.ncbi.nlm.nih.gov/42518306/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2693359
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42518306/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42518306/
 - [Epidemiological characteristics of varicella and factors associated with breakthrough varicella among children aged 0-14 years in Jiangsu Province, China.](https://pubmed.ncbi.nlm.nih.gov/42522339/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/14760584.2026.2708202
   Journal/preprint server: Expert review of vaccines
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42522339/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42522339/
-- [Determinants of seasonal influenza and COVID-19 vaccine uptake in high-risk individuals in northern Sweden.](https://pubmed.ncbi.nlm.nih.gov/42518305/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2688595
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42518305/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42518305/
 - [Adapted XBB.1.5 vaccine effectiveness against severe COVID-19 outcomes among immunocompromised persons in 2023-24 in six European countries: a VEBIS-EHR network study.](https://pubmed.ncbi.nlm.nih.gov/42504085/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/14760584.2026.2708184
@@ -508,6 +505,8 @@ Search window: 7 day(s) ending 2026-07-29
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42504085/
 
 ## Historical epi / weird epi corner
+- [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) | PubMed Ancient Pathogen Genomics
+  Genome-wide data from 36 individuals (spanning Lyalovo-Volosovo traditions, 6800-4800 cal BP) place the Sakhtysh population within the EHG cluster, with high genetic affinity to contemporaneous groups across northwestern Russia and the eastern Baltic. Specific alleles like B*27:05 are observed at high frequencies (~ 50%), despite being relatively rare in modern populations, suggesting shifts in selective pressures. We report HLA genotypes for 27 Sakhtysh individuals, representing the first true HLA calls from ancient hunter-gatherers.
 - [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) | PubMed Historical Pathogen Case Studies
   An exploratory mixed-methods design combined structured questionnaires with a Free Word Association Test to investigate shared meanings of leprosy among 34 persons affected by leprosy (age available for 23 participants; range, 20-85 years) and 19 primary healthcare professionals. These results suggest that stigma in leprosy cannot be reduced to insufficient knowledge alone, but should instead be understood as a biosocial phenomenon produced through the interaction of social meanings, embodied experience, and institutional conditions. Although most affected participants recognized that leprosy is curable, substantial knowledge gaps were identified, particularly regarding transmission pathways.
 - [Multidisciplinary Exploration of Computed-Tomographic and Ancient-DNA Data of an Iron Age Skull From Latvia With Multiple Lytic Bone Lesions: Differential Diagnosis Between Metastatic Carcinoma, Multiple Myeloma and Skeletal Tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/42500200/) | PubMed Historical Epidemiology
