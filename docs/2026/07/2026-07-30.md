@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-30
-Generated at: 2026-07-30T15:56
+Generated at: 2026-07-30T16:00
 Search window: 7 day(s) ending 2026-07-30
 
 ## Executive scan
@@ -12,20 +12,20 @@ Search window: 7 day(s) ending 2026-07-30
 - [Ancient DNA shows how smallpox got to the Americas.](https://pubmed.ncbi.nlm.nih.gov/42531407/) (PubMed Historical Pathogen Case Studies; 2026-07-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) (PubMed Ancient Pathogen Genomics; 2026-07-29T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR; 2026-07-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (298), Policy, surveillance, and public health infrastructure (54), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (298), Policy, surveillance, and public health infrastructure (56), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 184 item(s) across 112 source(s).
-- Baseline snapshot created with 184 clustered item(s) across 112 source(s).
+- Newly tracked story cluster: 185 item(s) across 112 source(s).
+- Baseline snapshot created with 185 clustered item(s) across 112 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 95 item(s) across 69 source(s).
-- Baseline snapshot created with 95 clustered item(s) across 69 source(s).
+- Newly tracked story cluster: 96 item(s) across 69 source(s).
+- Baseline snapshot created with 96 clustered item(s) across 69 source(s).
 - Malay Mail now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
@@ -49,7 +49,7 @@ Search window: 7 day(s) ending 2026-07-30
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 184 item(s) across 112 source(s); 2 official/primary-source item(s).
+- Topic size: 185 item(s) across 112 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-30T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Taco Bell customers returning after cyclosporiasis outbreak, executives say](https://www.washingtonpost.com/food/2026/07/30/taco-bell-customers-returning-after-cyclosporiasis-outbreak-executives-say/) (The Washington Post); [Taylor Farms details safety protocols amid cyclospora outbreak](https://www.newsnationnow.com/health/taylor-farms-cyclospora-safety/) (NewsNation); [Cyclospora infections increasing in 2 US outbreaks](https://www.cidrap.umn.edu/cyclospora/cyclospora-infections-increasing-2-us-outbreaks) (CIDRAP)
@@ -57,7 +57,7 @@ Search window: 7 day(s) ending 2026-07-30
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 95 item(s) across 69 source(s); 3 official/primary-source item(s).
+- Topic size: 96 item(s) across 69 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
 - Detailed note: Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo: Communities remained highly engaged throughout the...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Ebola 'rapidly spreading' in DR Congo as death toll tops 1,500](https://www.anews.com.tr/africa/2026/07/30/ebola-rapidly-spreading-in-dr-congo-as-death-toll-tops-1500) (A News); [Ebola Outbreak Is Now the Second-Deadliest Ever, and in Record Time](https://news.google.com/rss/articles/CBMifEFVX3lxTFBURTE2S2VEY1ZwZkRMbURmbTE4d09rWmhfcng1SWNKREhQT0YtbmlkdnVJUEliSmdWZGJOb1RoQXQtaVNkY0c5VEtXYVBsNjFGMzJVYlFMbmZ3dUQ5N3hNRTRKbUFyODJXVFRNR1BUMmRRcnpUelBIZU9ZcW4?oc=5) (The New York Times)
