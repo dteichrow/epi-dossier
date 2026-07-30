@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-30
-Generated at: 2026-07-30T11:58
+Generated at: 2026-07-30T12:03
 Search window: 7 day(s) ending 2026-07-30
 
 ## Executive scan
@@ -11,21 +11,21 @@ Search window: 7 day(s) ending 2026-07-30
 - [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR; 2026-07-28T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa; 2026-07-28T15:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa; 2026-07-24T07:27+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-07-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (294), Policy, surveillance, and public health infrastructure (53), Major epidemiology studies (2)
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-22T00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (299), Policy, surveillance, and public health infrastructure (54), Major epidemiology studies (2)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 182 item(s) across 108 source(s).
-- Baseline snapshot created with 182 clustered item(s) across 108 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- Newly tracked story cluster: 184 item(s) across 109 source(s).
+- Baseline snapshot created with 184 clustered item(s) across 109 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 96 item(s) across 71 source(s).
-- Baseline snapshot created with 96 clustered item(s) across 71 source(s).
+- Newly tracked story cluster: 100 item(s) across 76 source(s).
+- Baseline snapshot created with 100 clustered item(s) across 76 source(s).
 - ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
@@ -49,15 +49,15 @@ Search window: 7 day(s) ending 2026-07-30
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 182 item(s) across 108 source(s); 1 official/primary-source item(s).
+- Topic size: 184 item(s) across 109 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-30T00:00)
-- Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Taco Bell customers returning after cyclosporiasis outbreak, executives say](https://www.washingtonpost.com/food/2026/07/30/taco-bell-customers-returning-after-cyclosporiasis-outbreak-executives-say/) (The Washington Post); [Michigan cyclosporiasis outbreak continues](https://www.cbsnews.com/detroit/video/michigan-cyclosporiasis-outbreak-continues/) (CBS News); [Michigan cyclosporiasis outbreak tops 10,000 cases; 33 additional hospitalizations in past week](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-cases-193-hospital-cases-july-30/) (CBS News); [Sales at Taco Bell Recover Following Outbreak From Cyclospora](https://www.nytimes.com/2026/07/30/business/taco-bell-sales-cyclospora.html) (The New York Times)
+- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Taco Bell customers returning after cyclosporiasis outbreak, executives say](https://www.washingtonpost.com/food/2026/07/30/taco-bell-customers-returning-after-cyclosporiasis-outbreak-executives-say/) (The Washington Post); [Michigan cyclosporiasis outbreak continues](https://www.cbsnews.com/detroit/video/michigan-cyclosporiasis-outbreak-continues/) (CBS News); [Michigan cyclosporiasis outbreak tops 10,000 cases; 33 additional hospitalizations in past week](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-cases-193-hospital-cases-july-30/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 96 item(s) across 71 source(s); 3 official/primary-source item(s).
+- Topic size: 100 item(s) across 76 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
 - Detailed note: Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. She said the funding will help reinforce emergency health measures, limit the spread of the virus and reduce illness and deaths in communities most affected by the outbreak. 🗓...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Ebola deaths surpass 1,500 in DRC as outbreak continues to spread - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/ebola-deaths-surpass-1500-drc-outbreak-continues-spread/story?id\=135221474) (ABC News - Breaking News, Latest News and Videos); [Cabinet Welcomes AfDB's $13 Million Ebola Response for Central Africa](https://www.devdiscourse.com/article/law-order/3957342-cabinet-welcomes-afdbs-13-million-ebola-response-for-central-africa?amp) (Devdiscourse)
@@ -404,6 +404,16 @@ Search window: 7 day(s) ending 2026-07-30
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1392: Cyclospora
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-07-22T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
 - Source: ECDC News
 - Date: 2026-07-21T17:36+02:00
@@ -424,18 +434,10 @@ Search window: 7 day(s) ending 2026-07-30
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Taco Bell customers returning after cyclosporiasis outbreak, executives say
-- Source: The Washington Post
-- Date: 2026-07-30T18:37+00:00
-- URL: https://www.washingtonpost.com/food/2026/07/30/taco-bell-customers-returning-after-cyclosporiasis-outbreak-executives-say/
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Taco Bell customers returning after cyclosporiasis outbreak, executives say](https://www.washingtonpost.com/food/2026/07/30/taco-bell-customers-returning-after-cyclosporiasis-outbreak-executives-say/) | The Washington Post | 2026-07-30T18:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Michigan cyclosporiasis outbreak continues](https://www.cbsnews.com/detroit/video/michigan-cyclosporiasis-outbreak-continues/) | CBS News | 2026-07-30T17:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Michigan cyclosporiasis outbreak tops 10,000 cases; 33 additional hospitalizations in past week](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-cases-193-hospital-cases-july-30/) | CBS News | 2026-07-30T16:59+00:00 | Outbreaks and emerging infections
@@ -462,19 +464,17 @@ Search window: 7 day(s) ending 2026-07-30
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Outbreak Becomes Fastest-Growing In History, Killing 1,500](https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTlydDd5OUhqQXd2M1JDODE1UkdDZEJDQ21JaDZEX2hMNGY4V0U0NWUyeUlaYVNMTEMzVGp5TFBPS1pXQjJ6RC1LOWhacFd1ZTM3VTlOd01CWjlnS0s5YThBT0VSblFrTFpXZjJLbmhEQ2M5ZElzeXdmZ0tvMzI3QnlhVmhBLTctQXBGNnFyRmJ4QW5YTkJ3?oc=5) | The Whistler Newspaper | 2026-07-30T12:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo’s Ebola Outbreak Turns Deadlier as Death Toll Surpasses 1,500](https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1VPVjVuUnJKcTlyaEtkYzJlZmd1TUwtMVJnU3FNLTN6Y0Zjb1RqWU9SVUhJeUE2QktTQk9JQmFCT1hpVWNYdWpidXhKOUVMb3ZXb2JUZGNwWXpRdkZ3TjFpM0IzV2dRWHp2b2JubU1NSVlfelktb2lSdkF0TTFuVTZEcS1SSGVaZGxqR0Zodm9JNkNNTlBkb0JUMnRhQ1hDcGFCRHYwdGlybjlaMi0tVdIBtgFBVV95cUxOZG9lQ0xZTW5oaDRTTUxCR0JJbjVHUnU2N1lyWlFLTG1aM01sNm14TjRUdkIzaEVrRUlRZF9pNDR4aWlYbUtzV0ZUN1JkdTRpWjQ4UEJjbmZWbFZCTUI2OWpFbU4yX3Q3TlhVclo5Z29lT0dfMmVmbFJGejlKVFpDQ3ZmUVFzdFlVcHZySnZseklYVHpEcW5hVmM3Q3Z6M0tteUhaeXBudHdNeXVWdHRibFNLYUhvZw?oc=5) | deccanchronicle.com | 2026-07-30T11:51+00:00 | Outbreaks and emerging infections
+- [Congo’s Ebola Outbreak Turns Deadlier as Death Toll Surpasses 1,500](https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1VPVjVuUnJKcTlyaEtkYzJlZmd1TUwtMVJnU3FNLTN6Y0Zjb1RqWU9SVUhJeUE2QktTQk9JQmFCT1hpVWNYdWpidXhKOUVMb3ZXb2JUZGNwWXpRdkZ3TjFpM0IzV2dRWHp2b2JubU1NSVlfelktb2lSdkF0TTFuVTZEcS1SSGVaZGxqR0Zodm9JNkNNTlBkb0JUMnRhQ1hDcGFCRHYwdGlybjlaMi0tVdIBtgFBVV95cUxOZG9lQ0xZTW5oaDRTTUxCR0JJbjVHUnU2N1lyWlFLTG1aM01sNm14TjRUdkIzaEVrRUlRZF9pNDR4aWlYbUtzV0ZUN1JkdTRpWjQ4UEJjbmZWbFZCTUI2OWpFbU4yX3Q3TlhVclo5Z29lT0dfMmVmbFJGejlKVFpDQ3ZmUVFzdFlVcHZySnZseklYVHpEcW5hVmM3Q3Z6M0tteUhaeXBudHdNeXVWdHRibFNLYUhvZw?oc=5) | Deccan Chronicle | 2026-07-30T11:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Taco Bell sales fell after cyclospora outbreak](https://www.cnn.com/2026/07/30/business/yum-brands-taco-bell-earnings-q2-2026) | CNN | 2026-07-30T11:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [North Texas health experts warn parents over record measles outbreak as school year begins](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzdMMXU0M0F5SGxNUktqVHJfcmk5ODVRMzh3dTVUdS1FclA2YkVmU0xIeUtQZC12MUZvWmFuemZtaFU2MzJ5LWZBNGhVeWdNZzBsd24yeklVQ1BYN3RjUmlfN0szZU5KUW42TjB0SlhtWjNoVmpDZWQ4eGVJd2ZiZVVLSklHY2I2QnpxYTBVcGNORGNxRXByYnBOWVJwV05ZTkhjNTc0dWZTMWJLQjV0T2s1Y2pMUWl0ZGt1WGdBb1ZhWmxDRWc?oc=5) | CBS News | 2026-07-30T11:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Singapore Firm To Develop ‘Most Promising’ Ebola Vaccine](https://www.channelstv.com/2026/07/30/singapore-firm-to-develop-most-promising-ebola-vaccine/) | Channels Television | 2026-07-30T10:50+00:00 | Outbreaks and emerging infections
+  Nearly 1,500 people have died in the conflict-wracked African country from the Bundibugyo strain of Ebola, for which there are no vaccines or treatments. If early trials are successful and the vaccine is authorised, CEPI and Hilleman said they hoped to "ensure rapid, affordable supply of doses in outbreak-affected countries and low- and middle-income settings". But there are several different efforts racing to develop a vaccine for the previously rare strain in the hope of stemming the escalating outbreak.
 - [Over 1,500 dead in Ebola outbreak in Congo](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUVLQnJyRXB2VUxkLWNIb212OFNLczFGWVlzWHNickp2NVFQQlRiQnQxVndlR0ZHZmZVbWtNVlQ2M0hXUVRQS0xrNzBleFNldFV6M3lBQlZoRW1meTB0Qm9xWFR4LWdCMEd4Mkg0bXJMbHZ2UFFra1p4YkxxTWlCNVUwN0c?oc=5) | yahoo.com | 2026-07-30T10:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Singapore group will develop 'most promising' Ebola vaccine](https://www.manilatimes.net/2026/07/30/world/singapore-group-will-develop-most-promising-ebola-vaccine/2394784) | The Manila Times | 2026-07-30T09:59+00:00 | Outbreaks and emerging infections
-  Nearly 1,500 people have died in the conflict-wracked African country from the Bundibugyo strain of Ebola, for which there are no vaccines or treatments. But there are several different efforts racing to develop a vaccine for the previously rare strain in the hope of stemming the escalating outbreak. The Singapore-based Hilleman Laboratories announced on Thursday it would advance the rVSV Bundibugyo jab so it can be tested on humans during clinical trials.
 - [Congo says the death toll in fastest-growing Ebola outbreak has passed 1,500](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnRvQjZzQzF3UFlIdHdzT3dWdzdzZzQ5WGhiMDRzb2p4VHoyYjFOejY4RmgySHV2RnJORXE3aWVUa01qLXdsLWI1RUtReWdwTFZ0SVo5U0FzRmpkaVZUVGctS1lHcmNndWdLcU5sUU9DRDBrU09aQUNVU19Tdl9nS0x4QnNnbURxUEF5X1YyMHZranh6UlE?oc=5) | Temple Daily Telegram | 2026-07-30T08:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola vaccine race accelerates as Congo outbreak outpaces response](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3ZWc251ODI3M3JVZXJPYnFEVjlYbTdaeGRIVV8wNFJXU0tNUUtIM0tNeklEYVYyVmh0eGZCMU1VOXM4VEJVLVlMTklPc3psVG9tUl83VTBTSi12Q2dfdmZtSjJnODJ1R2FlYXpsSEFGVmxBTTQxYlJaekZaT3N1RWJBZWtWWUFoLTkzajZiTVQ4ZEJpM3ZxOG9XNzFTSUNKN1lfUVpfZHdVVzJFbGc?oc=5) | Moneyweb | 2026-07-30T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
