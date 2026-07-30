@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -11,23 +11,37 @@
       "NBC News",
       "NPR",
       "New York Times",
+      "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 332,
+    "metadata_only_count": 268,
     "sources_cached": 0,
-    "sources_failed": 0,
-    "sources_live": 353,
-    "story_count_change": 5,
-    "wrapper_only_count": 9
+    "sources_failed": 2,
+    "sources_live": 286,
+    "story_count_change": 3,
+    "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 353,
+    "live": 286,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-07-30T10:17:26",
-  "source_failures": []
+  "generated_at": "2026-07-30T10:56:30",
+  "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.dshs.texas.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)')))",
+      "required": true,
+      "source": "Texas Department of State Health Services News",
+      "source_type": "html_list"
+    }
+  ]
 }
