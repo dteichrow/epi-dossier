@@ -1,99 +1,100 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-30
-Generated at: 2026-07-30T22:17
+Generated at: 2026-07-30T22:21
 Search window: 7 day(s) ending 2026-07-30
 
 ## Executive scan
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-07-31T05:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-07-31T05:10+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR; 2026-07-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
+- [FSIS Issues Public Health Alert for Chicken Salad Product that May Be Contaminated with Listeriapha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766123) (CDC Travel Health Notices; 2026-07-30T16:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-30T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies; 2026-07-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ancient DNA shows how smallpox got to the Americas.](https://pubmed.ncbi.nlm.nih.gov/42531407/) (PubMed Historical Pathogen Case Studies; 2026-07-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-07-29T14:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-07-29T14:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (293), Policy, surveillance, and public health infrastructure (59), Historical epidemiology / ancient disease / paleopathology (4)
+- [As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation](https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action) (ECDC News; 2026-07-29T12:30+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Policy, surveillance, and public health infrastructure (9), Outbreaks and emerging infections (6), Historical epidemiology / ancient disease / paleopathology (4)
+- Source health: 34 source(s) failed during collection: Nigeria Centre for Disease Control, Google News Outbreaks, Google News Major Outbreak Desks, Google News Global Health Reporting, Google News Hantavirus and Cruise Outbreaks, plus 29 more.
 
 ## Ongoing stories and what changed
-### Cyclosporiasis
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 184 item(s) across 108 source(s).
-- Baseline snapshot created with 184 clustered item(s) across 108 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+### Historical epidemiology and ancient pathogens
+- Lead item: [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies)
+- Newly tracked story cluster: 4 item(s) across 2 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 2 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 99 item(s) across 71 source(s).
-- Baseline snapshot created with 99 clustered item(s) across 71 source(s).
-- Malay Mail now foregrounds vaccination or vaccine policy in the story.
-
-### Measles transmission and vaccination
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 62 item(s) across 54 source(s).
-- Baseline snapshot created with 62 clustered item(s) across 54 source(s).
-- The New York Times now foregrounds vaccination or vaccine policy in the story.
-
-### Historical epidemiology and ancient pathogens
-- Lead item: [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 5 item(s) across 3 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 2 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 2 item(s) across 2 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
+
+### Occupational and environmental epidemiology
+- Lead item: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR)
+- Newly tracked story cluster: 2 item(s) across 1 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 1 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+
+### COVID-19 and SARS-CoV-2
+- Lead item: [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 2 item(s) across 2 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 2 source(s).
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
-### Cyclosporiasis
-- Topic size: 184 item(s) across 108 source(s); 4 official/primary-source item(s).
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-30T00:00)
-- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. An update on the Cyclospora outbreak available here .
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Taco Bell’s Plan to Win Back Customers After Cyclospora Illness Outbreak](https://www.wsj.com/business/hospitality/taco-bells-plan-to-win-back-customers-after-cyclospora-illness-outbreak-a7ab5ae6) (WSJ)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Ebola virus disease
-- Topic size: 99 item(s) across 71 source(s); 3 official/primary-source item(s).
-- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
-- Detailed note: Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo: Communities remained highly engaged throughout the...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Ebola 'rapidly spreading' in DR Congo as death toll tops 1,500](https://www.anews.com.tr/africa/2026/07/30/ebola-rapidly-spreading-in-dr-congo-as-death-toll-tops-1500) (A News); [Ebola Outbreak Is Now the Second-Deadliest Ever, and in Record Time](https://news.google.com/rss/articles/CBMifEFVX3lxTFBURTE2S2VEY1ZwZkRMbURmbTE4d09rWmhfcng1SWNKREhQT0YtbmlkdnVJUEliSmdWZGJOb1RoQXQtaVNkY0c5VEtXYVBsNjFGMzJVYlFMbmZ3dUQ5N3hNRTRKbUFyODJXVFRNR1BUMmRRcnpUelBIZU9ZcW4?oc=5) (The New York Times)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Measles transmission and vaccination
-- Topic size: 62 item(s) across 54 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-07-31T05:10+00:00)
-- Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [North Texas health experts warn parents over record measles outbreak as school year begins](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzdMMXU0M0F5SGxNUktqVHJfcmk5ODVRMzh3dTVUdS1FclA2YkVmU0xIeUtQZC12MUZvWmFuemZtaFU2MzJ5LWZBNGhVeWdNZzBsd24yeklVQ1BYN3RjUmlfN0szZU5KUW42TjB0SlhtWjNoVmpDZWQ4eGVJd2ZiZVVLSklHY2I2QnpxYTBVcGNORGNxRXByYnBOWVJwV05ZTkhjNTc0dWZTMWJLQjV0T2s1Y2pMUWl0ZGt1WGdBb1ZhWmxDRWc?oc=5) (CBS News); [North Texas doctors warn parents amid rising measles cases](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTJwVDNmeld1WWxTLXo1aW05a3pVbVR2MFJtWlVlT2pZbndQeHhqWHgxY0lIUU9FSFg3TWJUaHNqQnM5Zms3dDdwMGI2NzJkY3B4UmtNTDAxcnFCNWgtdDNiWjdwOC1UMG9xdm9ia3FDZWlOR0tacVJBejlTUmU2TVVzajVLVTZaYk9BQWlwbHdPXzdnbFE?oc=5) (CBS News); [Virginia among states leading U.S. measles cases surge](https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2lNTVV5LTh1UGQ1cUpTckRNbk40UHpXM09VUnRsdWxuZjhSeXpxTmpnMzJnQS1hd2ZCVDV4aDJBc3ZGeUhzTjBvODF2aHhSMi1xRzZTa1c2OXVHZXZZcWdmT2lEVXdvekZFR1ZLSWhDZzR3NEhnUEJvY2NoUGtrb0pXbl9HajVKM2dOWTFxSVFQbFJCMWdn?oc=5) (Axios); [CDC: Ever-expanding US measles outbreak tops last year's total](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYk9JekpUREZ4U2RRTFZ4MlFkdk1wWjJVczVOc0txMXRoSTZzZF9UNGRZaE9FdHgwS3NrS3BaVnJnT3o4WDdjWXBuMjhBRUQ5cTh4YWdNaE54aEl1ZUU2NXltX0wySHhlOUoxd01VdjhSRnRuM2g0dl82TkE1NDB0OHFCX1p0aEU4eWxzaEJBdUJYRXp5eWVRdXJtbw?oc=5) (CIDRAP)
+### Miscellaneous signals
+- Topic size: 8 item(s) across 4 source(s); 8 official/primary-source item(s).
+- Lead item: [FSIS Issues Public Health Alert for Chicken Salad Product that May Be Contaminated with Listeriapha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766123) (CDC Travel Health Notices, 2026-07-30T16:00+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FSIS Issues Public Health Alert for Chicken Salad Product that May Be Contaminated with Listeriapha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766123) (CDC Travel Health Notices); [As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation](https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action) (ECDC News); [World Hepatitis Day 2026: Despite progress towards eliminating hepatitis in Europe, gaps in prevention measures keep 2030 targets out of reach](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-despite-progress-towards-eliminating-hepatitis-europe-gaps) (ECDC News); [Passive surveillance of adverse events following immunization for National Immunization Program vaccines in Shenyang, China, 2009-2024.](https://pubmed.ncbi.nlm.nih.gov/42497098/) (PubMed Infectious Disease Search); [New guidance launched to help Europe detect respiratory virus threats earlier](https://www.ecdc.europa.eu/en/news-events/new-guidance-launched-help-europe-detect-respiratory-virus-threats-earlier) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
-- Topic size: 5 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
 - Lead item: [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies, 2026-07-30T00:00)
 - Detailed note: An exploratory mixed-methods design combined structured questionnaires with a Free Word Association Test to investigate shared meanings of leprosy among 34 persons affected by leprosy (age available for 23 participants; range, 20-85 years) and 19 primary healthcare professionals. Genome-wide data from 36 individuals (spanning Lyalovo-Volosovo traditions, 6800-4800 cal BP) place the Sakhtysh population within the...
-- Evidence notes: [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies); [Ancient DNA shows how smallpox got to the Americas.](https://pubmed.ncbi.nlm.nih.gov/42531407/) (PubMed Historical Pathogen Case Studies); [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) (PubMed Ancient Pathogen Genomics); [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) (PubMed Historical Pathogen Case Studies); [A day in the life of Congo’s overstretched Ebola surveillance teams](https://news.google.com/rss/articles/CBMingFBVV95cUxOVHM4ZUtJSFRUSjhBRE5PODJmZ0VIMHItYXJ1ZHFuUy00ZXdOT2p1bVh1NGJCYUd3OS1LNV9DN0trLTcxdDVTeWxCNW1fdFl3ZEk5a1JJT3dISTN4eDBZaVBpYW1TbGthVmM1bWQ5bGYtTTZkUjBGSWpKeVB4SDEyYWtacjdmZzZPMmpocFJzUzZRa2h2MjR6blZ5dU1tZw?oc=5) (The Japan Times)
+- Evidence notes: [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies); [Ancient DNA shows how smallpox got to the Americas.](https://pubmed.ncbi.nlm.nih.gov/42531407/) (PubMed Historical Pathogen Case Studies); [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) (PubMed Ancient Pathogen Genomics); [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Ebola virus disease
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
+- Detailed note: Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo: Communities remained highly engaged throughout the...
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-07-31T05:16+00:00)
-- Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [After cruise ship outbreak, review examines how hantavirus affects the brain](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5) (CIDRAP); [Fact Check: ‘The Simpsons’ did not warn of hantavirus outbreak on ship](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjdxc05oRWR6U2xBZlowbkZyX3Bfd0RvaVdLNVBvU1NtVXctSXFUWXhnbERLNDZiRTAwVHVsOWhPR0tydWVoRlZIUENZZi1vOXVJSjlGemt4YXctckpYRFRBeUo5ZjhYLWtPSEY1ZWhTeDB0UUJtRF84dlNacmRaaWw2RzE4Rkd6TTVSc19HODRPVGczWGRwZA?oc=5) (Reuters)
+- Detailed note: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and...
+- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [World Hepatitis Day 2026: Ensuring that life-saving interventions are accessible to everyone who needs them is a common challenge](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-ensuring-life-saving-interventions-are-accessible-everyone-who) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Occupational and environmental epidemiology
-- Topic size: 3 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
 - Lead item: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR, 2026-07-30T17:00+00:00)
 - Detailed note: Sajewski, PhD 1 ,2 ; Carolyn Mackey, MPH 3 ,4 ,5 ; Stepy Thomas, MSPH 3 ,4 ,5 ; Kyle Winston, MPH 3 ,4 ,5 ; Dana Goodenough, MPH 3 ,4 ,5 ; Alison M. Weekly / July 30, 2026 / 75(29);377â383 Reese Tierney, MPH 1 ; Robin Pendley Louis, DrPH 1 ; David J. Surveillance Summaries / July 30, 2026 / 75(5);1â19 Elizabeth T.
-- Evidence notes: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR); [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR); [Suspected Ebola case is being monitored at a London hospital after 'exposure in the Democratic Republic of the Congo'](https://www.dailymail.com/health/article-15994837/Suspected-ebola-case-treated-London-hospital-exposure-Democratic-Republic-Congo.html) (Daily Mail)
+- Evidence notes: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR); [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+
+### Cyclosporiasis
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-30T00:00)
+- Detailed note: The response to the current large outbreak is a communications failure, not a failure of the investigation. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [CIDRAP Op-Ed: The Cyclospora outbreak was, and still is, a communications failure](https://www.cidrap.umn.edu/cyclospora/cidrap-op-ed-cyclospora-outbreak-was-and-still-communications-failure) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
 ## Last major outbreaks on file
@@ -363,6 +364,16 @@ Search window: 7 day(s) ending 2026-07-30
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FSIS Issues Public Health Alert for Chicken Salad Product that May Be Contaminated with Listeriapha
+- Source: CDC Travel Health Notices
+- Date: 2026-07-30T16:00+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766123
+- Category: Outbreaks and emerging infections
+- Summary: WASHINGTON, JUL 30, 2026 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for Curry Chicken Salad due to concerns that...
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Toledo-Lucas County Health Department Cyclosporiasis Update
 - Source: Toledo-Lucas County Health Department Cyclosporiasis Update
 - Date: 2026-07-30T00:00
@@ -393,32 +404,12 @@ Search window: 7 day(s) ending 2026-07-30
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-29T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1392: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-29T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-29T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+### As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation
+- Source: ECDC News
+- Date: 2026-07-29T12:30+02:00
+- URL: https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: The risk of catching some infectious diseases is growing amidst longer, warmer summers across Europe, making close cooperation across borders and sectors vital to predict, prevent, and respond effectively, ECDC said today.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -433,12 +424,26 @@ Search window: 7 day(s) ending 2026-07-30
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Surveillance Summaries: Active Surveillance for Invasive Mold Disease
+- Source: CDC MMWR
+- Date: 2026-07-28T17:00+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089
+- Category: Occupational and environmental epidemiology
+- Summary: Sajewski, PhD 1 ,2 ; Carolyn Mackey, MPH 3 ,4 ,5 ; Stepy Thomas, MSPH 3 ,4 ,5 ; Kyle Winston, MPH 3 ,4 ,5 ; Dana Goodenough, MPH 3 ,4 ,5 ; Alison M. Surveillance Summaries / July 30, 2026 / 75(5);1â19 Elizabeth T. Binder, MS 6 ; Andrea Cool, MPH 7 ; Donika Grandberry, MPH 8 ; Mitsuru Toda, PhD 1 ; Lalitha Gade, MPharm 1 ; Anastasia P.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) | CDC MMWR | 2026-07-28T17:00+00:00 | Occupational and environmental epidemiology
-  Sajewski, PhD 1 ,2 ; Carolyn Mackey, MPH 3 ,4 ,5 ; Stepy Thomas, MSPH 3 ,4 ,5 ; Kyle Winston, MPH 3 ,4 ,5 ; Dana Goodenough, MPH 3 ,4 ,5 ; Alison M. Surveillance Summaries / July 30, 2026 / 75(5);1â19 Elizabeth T. Binder, MS 6 ; Andrea Cool, MPH 7 ; Donika Grandberry, MPH 8 ; Mitsuru Toda, PhD 1 ; Lalitha Gade, MPharm 1 ; Anastasia P.
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) | WHO Regional Office for Africa | 2026-07-28T15:31+00:00 | Outbreaks and emerging infections
   Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. The cumulative number of reported cases has exceeded the two previously documented Bundibugyo virus disease outbreaks, making this the largest outbreak caused by the Bundibugyo virus to date. These epidemiological trends underscore the need for strengthened surveillance, cross-border collaboration, and preparedness to rapidly detect and contain any international spread.
+- [WHO Eswatini January to June 2026 Newsletter](https://www.afro.who.int/countries/eswatini/publication/who-eswatini-january-june-2026-newsletter) | WHO Regional Office for Africa | 2026-07-28T13:25+00:00 | Outbreaks and emerging infections
+  Health topics All topics » A B C D E F G H I L M N O P R S T U V W Y Z Popular Coronavirus (COVID-19) Substance Abuse Ebola Disease Communicable Diseases HIV/AIDS Malaria Water Tuberculosis (TB) World Tuberculosis Day 2019 Countries All countries » A B C D E G K L M N R S T U Z News from countries Ghana reviews one year of pandemic fund implementation 30 Jul 2026 | News Release Restoring hope through fistula repair surgery in Cameroon 30 Jul 2026 | News Release Nigerian youths help shape Africa’s future health priorities 30 Jul 2026 | News Release Enhancing infection prevention measures in health facilities to curb Ebola spread 30 Jul 2026 | News Release A Century of Advancing Public Health: WHO Ethiopia Congratulates the Ethiopian Public Health Institute on Its 100th Anniversary 29 Jul 2026 | News Release Spotlight Uganda In the frontlines of a safe and dignified Ebola outbreak response in Uganda 01 Jul 2026 | Feature Story Newsroom Media Centre Feature Stories News Releases Programmes and Clusters News Photo Stories Statements and commentaries Headlines Nigerian youths help shape Africa’s future health priorities 30 Jul 2026 | News Release Enhancing infection prevention measures in health facilities to curb Ebola spread 30 Jul 2026 | News Release Every mother deserves support: strengthening maternal mental health care in Kenya 30 Jul 2026 | News Release Ghana reviews one year of pandemic fund implementation 30 Jul 2026 | News Release In the frontlines of a safe and dignified Ebola outbreak response in Uganda 01 Jul 2026 | Feature Story About us About WHO in the African region » About Us Contact us Governance Leadership Organizational structure Programmes and clusters Regional Director for Africa Accountability » Financial reports General Programme of Work Building a Healthier Africa, Together: A manifesto for transformation
+- [World Hepatitis Day 2026: Ensuring that life-saving interventions are accessible to everyone who needs them is a common challenge](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-ensuring-life-saving-interventions-are-accessible-everyone-who) | ECDC News | 2026-07-28T08:37+02:00 | Policy, surveillance, and public health infrastructure
+  Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe World Hepatitis Day is an opportunity to raise awareness of the risk of contracting hepatitis and the health threats it can bring, while at the same time recognising the progress Europe has made to strengthen prevention.
+- [World Hepatitis Day 2026: Despite progress towards eliminating hepatitis in Europe, gaps in prevention measures keep 2030 targets out of reach](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-despite-progress-towards-eliminating-hepatitis-europe-gaps) | ECDC News | 2026-07-28T08:00+02:00 | Policy, surveillance, and public health infrastructure
+  While Europe has made steady progress in preventing hepatitis B and C the region is set to miss the 2030 target to eliminate viral hepatitis as a public health threat.
 - [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) | PubMed Historical Pathogen Case Studies | 2026-07-25T00:00 | Historical epidemiology / ancient disease / paleopathology
   An exploratory mixed-methods design combined structured questionnaires with a Free Word Association Test to investigate shared meanings of leprosy among 34 persons affected by leprosy (age available for 23 participants; range, 20-85 years) and 19 primary healthcare professionals. These results suggest that stigma in leprosy cannot be reduced to insufficient knowledge alone, but should instead be understood as a biosocial phenomenon produced through the interaction of social meanings, embodied experience, and institutional conditions. Although most affected participants recognized that leprosy is curable, substantial knowledge gaps were identified, particularly regarding transmission pathways.
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) | WHO Regional Office for Africa | 2026-07-24T07:27+00:00 | Outbreaks and emerging infections
@@ -447,33 +452,17 @@ Search window: 7 day(s) ending 2026-07-30
   From 2009 to 2024, a total of 3,420 cases of AEFI associated with NIP vaccines were reported, with an annual average reporting rate of 15.8 per 100,000 doses. Among these, the reporting rate of common vaccine reactions was 14.87 per 100,000, and that of rare vaccine reactions was 0.54 per 100,000. Differences in reporting rates between districts were statistically significant (χ 2 = 618.9, p < .05).
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-21T17:36+02:00 | Policy, surveillance, and public health infrastructure
   Limited usable detail remained after boilerplate cleanup.
-- [Taco Bell’s Plan to Win Back Customers After Cyclospora Illness Outbreak](https://www.wsj.com/business/hospitality/taco-bells-plan-to-win-back-customers-after-cyclospora-illness-outbreak-a7ab5ae6) | WSJ | 2026-07-30T23:05+00:00 | Outbreaks and emerging infections
+- [New guidance launched to help Europe detect respiratory virus threats earlier](https://www.ecdc.europa.eu/en/news-events/new-guidance-launched-help-europe-detect-respiratory-virus-threats-earlier) | ECDC News | 2026-07-20T13:14+02:00 | Policy, surveillance, and public health infrastructure
+  Today ECDC published new guidance on respiratory virus surveillance for the EU/EEA.
+- [CIDRAP Op-Ed: The Cyclospora outbreak was, and still is, a communications failure](https://www.cidrap.umn.edu/cyclospora/cidrap-op-ed-cyclospora-outbreak-was-and-still-communications-failure) | CIDRAP | 2026-07-27T11:16-05:00 | Outbreaks and emerging infections
+  The response to the current large outbreak is a communications failure, not a failure of the investigation.
+- [Effects of climatic factors on rotavirus infection in Bangladesh: a time series analysis and future projections.](https://pubmed.ncbi.nlm.nih.gov/42529955/) | PubMed Infectious Disease Search | 2026-07-30T00:00 | Major epidemiology studies
+  Hospitalisation risk peaked at the 95th percentile of t-max (RR: 5.9; 95% CI: 3.6-9.7). Countrywide, 1,781 (41%) cases were attributable to temperatures above the reference value (25.4°C), reflecting regional heterogeneity. Scenario-based exploratory projections suggested the highest risk at 0-week lag, with risk increasing again at week-4 lag above 41.7°C.
+- [Adapted XBB.1.5 vaccine effectiveness against severe COVID-19 outcomes among immunocompromised persons in 2023-24 in six European countries: a VEBIS-EHR network study.](https://pubmed.ncbi.nlm.nih.gov/42504085/) | PubMed Infectious Disease Search | 2026-07-26T00:00 | Major epidemiology studies
+  The XBB.1.5 VE was 52% (95% confidence interval (CI): 41 to 60) and 75% (95%CI: 60 to 84) against hospitalization and death, respectively, 14-59 days after vaccination, and VE decreased with time since vaccination with no remaining protection at 180-365 days after vaccination. Adapted XBB.1.5 vaccine provided moderate protection within 120 days after vaccination against severe COVID-19 outcomes among ICPs aged ≥18 years during a period with BA.2.86/JN.1 replacing the XBB.1.5 variant. VE was calculated by time since vaccination (14-59, 60-119, 120-179, 180-365 days after vaccination) for ICPs by pooling study site level confounder adjusted hazard ratios (aHR) of vaccination, estimated with Cox proportional hazards regression models, using a random effect meta-analysis with VE = 100 × (1-pooled aHR).
+- [Influenza Cases Widespread in California](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-086.aspx) | California Department of Public Health News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Ebola 'rapidly spreading' in DR Congo as death toll tops 1,500](https://www.anews.com.tr/africa/2026/07/30/ebola-rapidly-spreading-in-dr-congo-as-death-toll-tops-1500) | A News | 2026-07-30T20:42+00:00 | Outbreaks and emerging infections
-  A Health Ministry update showed a surge in new cases, with the number of infections doubling every 20 days since the outbreak declaration in mid-May. Limited detail was available from feed metadata alone.
-- [Cyclospora infections increasing in 2 US outbreaks](https://www.cidrap.umn.edu/cyclospora/cyclospora-infections-increasing-2-us-outbreaks) | CIDRAP | 2026-07-30T19:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Is Now the Second-Deadliest Ever, and in Record Time](https://news.google.com/rss/articles/CBMifEFVX3lxTFBURTE2S2VEY1ZwZkRMbURmbTE4d09rWmhfcng1SWNKREhQT0YtbmlkdnVJUEliSmdWZGJOb1RoQXQtaVNkY0c5VEtXYVBsNjFGMzJVYlFMbmZ3dUQ5N3hNRTRKbUFyODJXVFRNR1BUMmRRcnpUelBIZU9ZcW4?oc=5) | The New York Times | 2026-07-30T19:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa CDC chief says ‘no magical solution’ for intensifying deadly Ebola outbreak](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1I2clNmN05jNHRkVzVrODhCTU1KMEpDRVJtbEdWLU9GX2xGVFhEX2p4aGhhV3NITUM0V2FSY2MwTEFXc0tLYkhGanVMOVdseXMzV1B6S1Z5RUV1TG1FbmxJTmE4Z0wwY0FLckE3VFZiRF9tSmpndVNuUzFuYVJ5NHRHLVdRdVBtZGVJM1VPb01KZnNjUmtWYk1ndmwwWVp0M2g5bmUtNndzenhuNFE?oc=5) | CIDRAP | 2026-07-30T19:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Michigan cyclosporiasis outbreak continues](https://www.cbsnews.com/detroit/video/michigan-cyclosporiasis-outbreak-continues/) | CBS News | 2026-07-30T17:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Singapore organisation leads Ebola vaccine push as Congo outbreak kills nearly 1,500](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUG9kNGVWaEZLUnBZczZjbVhGbE5yRjZ0VHV3TXlYS2pDdjNNMWhhTUNrYUM3WFZVaWhZaVB6NkNqekV2aVM1ZVplWnNzRGRlaDdkdGw2WjYtZVJ1QjhSUWd2LVVueUlmdDNwVEhDWXFNUHhlTXhqMXRRTmpaLVJUTWpiNktFbmVnSVpLRHhUZnBiQzNnLVI5Z0VHVkMwQnBBSURNVVBqMGwzUXZIbkFIcWJwcmdERllDMUFJRzA3ZlBDSFE0MFEwVFZkcXpmVEw3YnVwZjFPQTdzQdIB3wFBVV95cUxPVzQxamxzRW50T1g5bC01YWNhZVRhMU5Xc0hrblhkRTZlWm9FdFA1V0VKQ2wwQ0szZVRrZjdSSVpiVTR0OWppNko2QXo3cEhSSUViRDA1RFNMaDA3VUQ1R2FTZnZhb2xZRG5DcHRPR1hxcjJqc2VPLW5xWktNTld6T2Q2YkI0WnlIMlByaloxQW9Ib3ZKbFpaSTVKVWQ4UzAwSC03aWI5YTBubW5oSFMzRmc0alZHMWxDZ2NMeTlIaE1yblZ4U1JRVnRvUW5MSm1WM1FmTW5YcEFydjdXNkdR?oc=5) | Malay Mail | 2026-07-30T17:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Michigan cyclosporiasis outbreak tops 10,000 cases; 33 additional hospitalizations in past week](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-cases-193-hospital-cases-july-30/) | CBS News | 2026-07-30T16:59+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola death toll surpasses 1,500 in DR Congo outbreak](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0VLRE54ZDM2THNqYlFCUF90WnJ5ZWt4WHNibDZabnpLYXQ3RmY0QjVGSVdBM1NfdHUydkRSYzcwdldiZWZIMEpqUmw2Y21MT3JWSE5YWUxIQlJaMVp1MDJFRkJtT1J3Qy1XcGJrTE95cUlXQzFka3dsazlfbkdxTlZUUVZYWHo0N09KLUJxdGk?oc=5) | EnviroNews Nigeria | 2026-07-30T16:06+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Taco Bell Sales Recover Following Cyclospora Outbreak](https://www.nytimes.com/2026/07/30/business/taco-bell-sales-cyclospora.html) | The New York Times | 2026-07-30T15:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [U.N. Warns of Growing Hunger Crisis in Eastern Congo Amid Ebola Outbreak](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGZNWl9sTnM5dXNwWHFzZ2ZwYzNnaFVvcUNGOHlkSG51NEhyaVh4Yks0WG9NVWhqZmo2WFRGQXlRenIxX2ppYmtQUTZrMW04U3lFY1h2bk9uQlFKS3VwWmtEMWp2ckE0S1N1bEprODhfTHc4cnRaSlE0V092YWF1ZWxfOWl4eWUwZzh2ckpjT1hNNmtMV0RBWURqeGNjOXpfNVFLYkFYUVQwNnpVZlk4S2lNbExZYkE2NTRn?oc=5) | Democracy Now! | 2026-07-30T14:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Yum says Taco Bell sales recovering after temporary hit from cyclospora outbreak](https://www.reuters.com/business/yum-posts-solid-results-cyclospora-outbreak-threatens-taco-bell-momentum-2026-07-30/) | Reuters | 2026-07-30T14:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [UN officials urge stronger Ebola response in DR Congo as outbreak outpaces efforts](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZm1kdTJhX3g4NTM0ZWtuQWNRWE5fUmRPWmtjLTdJOWdEYjFYdzlobmdvRW1IT2l0bWxlRmpiQVZsMTRkQmdaeTNnM25DdTZjX05jVjU0Z3NMOHZmaUFTaTAwNWdiRnZEQ3hnQ2tRNDBWMFhsZ3pjSDdNeHZ4WmVyUHJFU2xPa09US09PVUhYcFNDaFlac1V2TFBCakpfVVlpbXhFeFZrUlZvSXh6VnJqU0x1bUZ0SnVyazRXeW5YenIxc2xwOXNMLQ?oc=5) | Nepalnews.com | 2026-07-30T14:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Yum Brands Says It’s Moving Quickly to Address Cyclospora Outbreak](https://www.wsj.com/business/earnings/yum-brands-profit-more-than-doubles-amid-cyclosporiasis-outbreak-linked-to-taco-bell-fae6b73f) | WSJ | 2026-07-30T13:59+00:00 | Outbreaks and emerging infections
+- [CDPH Releases Reports on Healthcare-Associated Infections, Influenza Vaccination Rates Among Healthcare Personnel](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-082.aspx) | California Department of Public Health News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -513,6 +502,12 @@ Search window: 7 day(s) ending 2026-07-30
   Journal/preprint server: Global health action
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42529955/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42529955/
+- [Adapted XBB.1.5 vaccine effectiveness against severe COVID-19 outcomes among immunocompromised persons in 2023-24 in six European countries: a VEBIS-EHR network study.](https://pubmed.ncbi.nlm.nih.gov/42504085/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/14760584.2026.2708184
+  Journal/preprint server: Expert review of vaccines
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42504085/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42504085/
 
 ## Historical epi / weird epi corner
 - [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) | PubMed Historical Pathogen Case Studies
