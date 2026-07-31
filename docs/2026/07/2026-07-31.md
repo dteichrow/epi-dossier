@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-07-31
-Generated at: 2026-07-31T06:17
+Generated at: 2026-07-31T06:20
 Search window: 7 day(s) ending 2026-07-31
 
 ## Executive scan
@@ -11,22 +11,22 @@ Search window: 7 day(s) ending 2026-07-31
 - [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies; 2026-07-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Informal PrEP: Rethinking approaches to pharmaceutical access and HIV prevention pathways.](https://pubmed.ncbi.nlm.nih.gov/42533522/) (PubMed Infectious Disease Search; 2026-07-30T00:00; Major epidemiology studies; relevance 5/5)
 - [Ancient DNA shows how smallpox got to the Americas.](https://pubmed.ncbi.nlm.nih.gov/42531407/) (PubMed Historical Pathogen Case Studies; 2026-07-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-07-29T14:00; Outbreaks and emerging infections; relevance 5/5)
+- [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) (PubMed Ancient Pathogen Genomics; 2026-07-29T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (302), Policy, surveillance, and public health infrastructure (49), Historical epidemiology / ancient disease / paleopathology (4)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
+### Cyclosporiasis
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
+- Newly tracked story cluster: 172 item(s) across 102 source(s).
+- Baseline snapshot created with 172 clustered item(s) across 102 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 107 item(s) across 74 source(s).
 - Baseline snapshot created with 107 clustered item(s) across 74 source(s).
 - Межа. Новини України. now includes deaths or fatal cases in the story frame.
-- Межа. Новини України. now foregrounds vaccination or vaccine policy in the story.
-
-### Cyclosporiasis
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 172 item(s) across 101 source(s).
-- Baseline snapshot created with 172 clustered item(s) across 101 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
@@ -49,17 +49,17 @@ Search window: 7 day(s) ending 2026-07-31
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 172 item(s) across 101 source(s); 4 official/primary-source item(s).
+- Topic size: 172 item(s) across 102 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-30T00:00)
-- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. An update on the Cyclospora outbreak available here .
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Taylor Farms details safety protocols amid cyclospora outbreak](https://www.newsnationnow.com/health/taylor-farms-cyclospora-safety/) (NewsNation)
+- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Taylor Farms details safety protocols amid cyclospora outbreak](https://www.newsnationnow.com/health/taylor-farms-cyclospora-safety/) (NewsNation); [Taco Bell’s Plan to Win Back Customers After Cyclospora Illness Outbreak](https://www.wsj.com/business/hospitality/taco-bells-plan-to-win-back-customers-after-cyclospora-illness-outbreak-a7ab5ae6) (WSJ); [Cyclospora infections increasing in 2 US outbreaks](https://www.cidrap.umn.edu/cyclospora/cyclospora-infections-increasing-2-us-outbreaks) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
 - Topic size: 107 item(s) across 74 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
-- Detailed note: Currently, the largest outbreak after this event remains the 2014–2016 West Africa outbreak, which ended with over 28,600 cases and 11,325 deaths. According to the World Health Organization, since mid-May there have been at least 3,553 confirmed cases and no fewer than 1,558 deaths. Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by...
+- Detailed note: Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. 🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo: Communities remained highly engaged throughout the...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Ebola outbreak in DR Congo surges, cases climb to 3,553 with 1,558 deaths](https://mezha.net/eng/bukvy/597e550d_ebola_outbreak_in/) (Межа. Новини України.); [DR Congo records world’s second-largest Ebola outbreak as infections rise](https://sana.sy/en/health/2333331/) (سانا)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
@@ -404,54 +404,50 @@ Search window: 7 day(s) ending 2026-07-31
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-29T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+### Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.
+- Source: PubMed Ancient Pathogen Genomics
+- Date: 2026-07-29T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42527941/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: Genome-wide data from 36 individuals (spanning Lyalovo-Volosovo traditions, 6800-4800 cal BP) place the Sakhtysh population within the EHG cluster, with high genetic affinity to contemporaneous groups across northwestern Russia and the eastern Baltic. Specific alleles like B*27:05 are observed at high frequencies (~ 50%), despite being relatively rare in modern populations, suggesting shifts in selective pressures. We report HLA genotypes for 27 Sakhtysh individuals, representing the first true HLA calls from ancient hunter-gatherers.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1392: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-29T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
+### Surveillance Summaries: Active Surveillance for Invasive Mold Disease
+- Source: CDC MMWR
+- Date: 2026-07-28T17:00+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089
+- Category: Occupational and environmental epidemiology
+- Summary: Sajewski, PhD 1 ,2 ; Carolyn Mackey, MPH 3 ,4 ,5 ; Stepy Thomas, MSPH 3 ,4 ,5 ; Kyle Winston, MPH 3 ,4 ,5 ; Dana Goodenough, MPH 3 ,4 ,5 ; Alison M. Surveillance Summaries / July 30, 2026 / 75(5);1â19 Elizabeth T. Binder, MS 6 ; Andrea Cool, MPH 7 ; Donika Grandberry, MPH 8 ; Mitsuru Toda, PhD 1 ; Lalitha Gade, MPharm 1 ; Anastasia P.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-07-29T14:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
+### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026
+- Source: WHO Regional Office for Africa
+- Date: 2026-07-28T15:31+00:00
+- URL: https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3
 - Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- Summary: Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. The cumulative number of reported cases has exceeded the two previously documented Bundibugyo virus disease outbreaks, making this the largest outbreak caused by the Bundibugyo virus to date. These epidemiological trends underscore the need for strengthened surveillance, cross-border collaboration, and preparedness to rapidly detect and contain any international spread.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) | PubMed Ancient Pathogen Genomics | 2026-07-29T00:00 | Historical epidemiology / ancient disease / paleopathology
-  Genome-wide data from 36 individuals (spanning Lyalovo-Volosovo traditions, 6800-4800 cal BP) place the Sakhtysh population within the EHG cluster, with high genetic affinity to contemporaneous groups across northwestern Russia and the eastern Baltic. Specific alleles like B*27:05 are observed at high frequencies (~ 50%), despite being relatively rare in modern populations, suggesting shifts in selective pressures. We report HLA genotypes for 27 Sakhtysh individuals, representing the first true HLA calls from ancient hunter-gatherers.
-- [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) | CDC MMWR | 2026-07-28T17:00+00:00 | Occupational and environmental epidemiology
-  Sajewski, PhD 1 ,2 ; Carolyn Mackey, MPH 3 ,4 ,5 ; Stepy Thomas, MSPH 3 ,4 ,5 ; Kyle Winston, MPH 3 ,4 ,5 ; Dana Goodenough, MPH 3 ,4 ,5 ; Alison M. Surveillance Summaries / July 30, 2026 / 75(5);1â19 Elizabeth T. Binder, MS 6 ; Andrea Cool, MPH 7 ; Donika Grandberry, MPH 8 ; Mitsuru Toda, PhD 1 ; Lalitha Gade, MPharm 1 ; Anastasia P.
-- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) | WHO Regional Office for Africa | 2026-07-28T15:31+00:00 | Outbreaks and emerging infections
-  Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. The cumulative number of reported cases has exceeded the two previously documented Bundibugyo virus disease outbreaks, making this the largest outbreak caused by the Bundibugyo virus to date. These epidemiological trends underscore the need for strengthened surveillance, cross-border collaboration, and preparedness to rapidly detect and contain any international spread.
 - [Leprosy-Related Stigma and Social Representations Among Persons Affected by Leprosy and Primary Healthcare Professionals: A Structural Analysis in the Brazilian Amazon.](https://pubmed.ncbi.nlm.nih.gov/42502128/) | PubMed Historical Pathogen Case Studies | 2026-07-25T00:00 | Historical epidemiology / ancient disease / paleopathology
   An exploratory mixed-methods design combined structured questionnaires with a Free Word Association Test to investigate shared meanings of leprosy among 34 persons affected by leprosy (age available for 23 participants; range, 20-85 years) and 19 primary healthcare professionals. These results suggest that stigma in leprosy cannot be reduced to insufficient knowledge alone, but should instead be understood as a biosocial phenomenon produced through the interaction of social meanings, embodied experience, and institutional conditions. Although most affected participants recognized that leprosy is curable, substantial knowledge gaps were identified, particularly regarding transmission pathways.
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) | WHO Regional Office for Africa | 2026-07-24T07:27+00:00 | Outbreaks and emerging infections
   🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo: Communities remained highly engaged throughout the outbreak, but continued to raise important questions about transmission, symptoms, care pathways, and supportive treatment. Narratives suggesting that the outbreak was politically or financially motivated persisted, alongside misinformation about medicines and traditional remedies, increasing the risk of delayed care-seeking and self-medication. The report highlights that widespread awareness of the outbreak has not yet translated into the practical understanding needed to seek timely care and fully cooperate with response efforts.
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-07-22T00:00 | Outbreaks and emerging infections
+  FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-21T17:36+02:00 | Policy, surveillance, and public health infrastructure
   Limited usable detail remained after boilerplate cleanup.
 - [Dengue Outbreak in Myanmar’s Rakhine State Kills Three, Over 150 Infected](https://www.bnionline.net/en/news/dengue-outbreak-myanmars-rakhine-state-kills-three-over-150-infected) | Burma News International | 2026-07-31T13:00+00:00 | Outbreaks and emerging infections
   Dengue transmission remains a recurring health threat in western Myanmar, where Arakan (Rakhine) State recorded 2,452 cases and eight deaths in 2025. Burma News International (BNI) is a network of 15 independent media and news organizations based in and around Burma At least three people have died, and 158 cases of dengue fever have been recorded in territories controlled by the Arakan Army (AA) in Arakan (Rakhine) State, local health authorities announced on July 30. The fatalities include a 17-month-old toddler from Ramree Township, alongside two adults—aged 27 and 36—from Waithali Village in Mrauk-U Township.
 - [Ebola outbreak in DR Congo surges, cases climb to 3,553 with 1,558 deaths](https://mezha.net/eng/bukvy/597e550d_ebola_outbreak_in/) | Межа. Новини України. | 2026-07-31T12:20+00:00 | Outbreaks and emerging infections
-  Currently, the largest outbreak after this event remains the 2014–2016 West Africa outbreak, which ended with over 28,600 cases and 11,325 deaths. According to the World Health Organization, since mid-May there have been at least 3,553 confirmed cases and no fewer than 1,558 deaths. The first 1,000 cases were recorded within the first 40 days after the response was activated, according to the U.S.
+  Limited detail was available from feed metadata alone.
 - [DR Congo records world’s second-largest Ebola outbreak as infections rise](https://sana.sy/en/health/2333331/) | سانا | 2026-07-31T11:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak is second-largest on record, latest data shows](https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-outbreak-now-second-largest-record-data-shows-2026-07-31/) | Reuters | 2026-07-31T10:59+00:00 | Outbreaks and emerging infections
@@ -474,7 +470,11 @@ Search window: 7 day(s) ending 2026-07-31
   Limited detail was available from feed metadata alone.
 - [Ebola 'rapidly spreading' in DR Congo as death toll tops 1,500](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFZVQ1pVcGZ4RkN4OVpRSnRoNjBqSXRoZDJ0WmlYMlllUjNMY1llTzVpX1ZLN2RrZWdsWlBzdWRobThTTW1iWDB3VDJLLWJjdWVRQzJaOTh0R091bmZVdmhtcjNCenBVdjA2Z2NwRV9NdmhubmFzekVqbGtZNDJPVUMtMVk0ZkpoeXlrTkEzV05uUVk0VnRoak9sczFiQXg5VUVkd9IBqgFBVV95cUxPS3pOWk1lN2VNOENXcnREUlF5dmt1bk9fM1BlV1N4TkpOblNfcFRBS0NtamN4SkhJSmo4QTlIWUZyR2Izb2Q0WXVXQnZLekl5QnpKSWFNOVhNSUtMWFFLLVZINDBFMGhCTlE5V2V4Sk9zYUtnblEyanRPTFVoYWRXV0dIT2w0elRGV2dfelM2WXd0RmRucWQxS21qWjl0b1dydE91ZFQ1VW5EZw?oc=5) | A News | 2026-07-30T20:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola Outbreak Is Now the Second-Deadliest Ever, and in Record Time](https://news.google.com/rss/articles/CBMifEFVX3lxTFBURTE2S2VEY1ZwZkRMbURmbTE4d09rWmhfcng1SWNKREhQT0YtbmlkdnVJUEliSmdWZGJOb1RoQXQtaVNkY0c5VEtXYVBsNjFGMzJVYlFMbmZ3dUQ5N3hNRTRKbUFyODJXVFRNR1BUMmRRcnpUelBIZU9ZcW4?oc=5) | The New York Times | 2026-07-30T19:40+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Cyclospora infections increasing in 2 US outbreaks](https://www.cidrap.umn.edu/cyclospora/cyclospora-infections-increasing-2-us-outbreaks) | CIDRAP | 2026-07-30T19:30+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa CDC chief says ‘no magical solution’ for intensifying deadly Ebola outbreak](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1I2clNmN05jNHRkVzVrODhCTU1KMEpDRVJtbEdWLU9GX2xGVFhEX2p4aGhhV3NITUM0V2FSY2MwTEFXc0tLYkhGanVMOVdseXMzV1B6S1Z5RUV1TG1FbmxJTmE4Z0wwY0FLckE3VFZiRF9tSmpndVNuUzFuYVJ5NHRHLVdRdVBtZGVJM1VPb01KZnNjUmtWYk1ndmwwWVp0M2g5bmUtNndzenhuNFE?oc=5) | CIDRAP | 2026-07-30T19:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
