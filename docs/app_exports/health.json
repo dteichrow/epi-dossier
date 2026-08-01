@@ -8,26 +8,34 @@
       "CNN",
       "Guardian",
       "NBC News",
+      "NPR",
       "New York Times",
       "PBS",
       "Reuters",
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 332,
+    "metadata_only_count": 331,
     "sources_cached": 0,
-    "sources_failed": 0,
-    "sources_live": 365,
+    "sources_failed": 1,
+    "sources_live": 362,
     "story_count_change": 8,
-    "wrapper_only_count": 13
+    "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 365,
+    "live": 362,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-01T00:17:20",
-  "source_failures": []
+  "generated_at": "2026-08-01T00:21:32",
+  "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    }
+  ]
 }

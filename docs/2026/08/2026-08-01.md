@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-01
-Generated at: 2026-08-01T00:17
+Generated at: 2026-08-01T00:21
 Search window: 7 day(s) ending 2026-08-01
 
 ## Executive scan
@@ -12,13 +12,14 @@ Search window: 7 day(s) ending 2026-08-01
 - [Granulomatous inflammation in histopathological samples: examining the aetiological spectrum, diagnostic challenges, and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/42535881/) (PubMed Infectious Disease Search; 2026-07-31T00:00; Major epidemiology studies; relevance 5/5)
 - [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR; 2026-07-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies; 2026-07-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (307), Policy, surveillance, and public health infrastructure (43), Major epidemiology studies (7)
+- Category mix: Outbreaks and emerging infections (304), Policy, surveillance, and public health infrastructure (43), Major epidemiology studies (7)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 110 item(s) across 72 source(s).
-- Baseline snapshot created with 110 clustered item(s) across 72 source(s).
+- Newly tracked story cluster: 109 item(s) across 72 source(s).
+- Baseline snapshot created with 109 clustered item(s) across 72 source(s).
 - 매일경제 now includes deaths or fatal cases in the story frame.
 - 매일경제 now includes quarantine language.
 
@@ -31,8 +32,8 @@ Search window: 7 day(s) ending 2026-08-01
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 161 item(s) across 96 source(s).
-- Baseline snapshot created with 161 clustered item(s) across 96 source(s).
+- Newly tracked story cluster: 159 item(s) across 96 source(s).
+- Baseline snapshot created with 159 clustered item(s) across 96 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Measles transmission and vaccination
@@ -50,15 +51,15 @@ Search window: 7 day(s) ending 2026-08-01
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 161 item(s) across 96 source(s); 4 official/primary-source item(s).
+- Topic size: 159 item(s) across 96 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-31T00:00)
-- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. An update on the Cyclospora outbreak available here .
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Is the cyclosporiasis outbreak slowing? Test-makers are hopeful](https://www.theguardian.com/science/2026/jul/31/cyclosporiasis-outbreak-testing) (The Guardian)
+- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Is the cyclosporiasis outbreak slowing? Test-makers are hopeful](https://www.theguardian.com/science/2026/jul/31/cyclosporiasis-outbreak-testing) (The Guardian); [Cyclosporiasis cases in Michigan rise to 10,773 in ongoing outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-rise-10773-ongoing-outbreak-2026-07-31/) (Reuters); [Michigan continues to be hardest-hit of 45 states facing a cyclosporiasis outbreak](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-outbreak-july-31/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 110 item(s) across 72 source(s); 3 official/primary-source item(s).
+- Topic size: 109 item(s) across 72 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
 - Detailed note: This epidemic surpassed the 2018-2020 epidemic (3481 confirmed cases and 2,299 deaths), which was the previous largest outbreak in the Democratic Congo based on the number of confirmed cases. Among them, 1,556 people died, with a fatality rate of 44.1%. Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [The number of confirmed Ebola cases in the Democratic Republic of the Congo in Africa has exceeded 3..](https://www.mk.co.kr/en/world/12114229) (매일경제); [DR Congo Ebola Outbreak Surges to Second-Largest in History](https://www.chosun.com/english/world-en/2026/08/01/6SDEQ6RMGBAIFLERHWUWHX5DBE/) (조선일보)
@@ -77,7 +78,7 @@ Search window: 7 day(s) ending 2026-08-01
 - Topic size: 7 item(s) across 5 source(s); 4 official/primary-source item(s).
 - Lead item: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR, 2026-07-30T17:00+00:00)
 - Detailed note: Sajewski, PhD 1 ,2 ; Carolyn Mackey, MPH 3 ,4 ,5 ; Stepy Thomas, MSPH 3 ,4 ,5 ; Kyle Winston, MPH 3 ,4 ,5 ; Dana Goodenough, MPH 3 ,4 ,5 ; Alison M. Weekly / July 30, 2026 / 75(29);377â383 Reese Tierney, MPH 1 ; Robin Pendley Louis, DrPH 1 ; David J. Surveillance Summaries / July 30, 2026 / 75(5);1â19 Elizabeth T.
-- Evidence notes: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR); [Informal PrEP: Rethinking approaches to pharmaceutical access and HIV prevention pathways.](https://pubmed.ncbi.nlm.nih.gov/42533522/) (PubMed Infectious Disease Search); [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR); [Suspected Ebola case is being monitored at a London hospital after 'exposure in the Democratic Republic of the Congo'](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2VzWHh6U0lPaEduUTl6LUtDQV9HWmg2RW5FQ0Q0anVaUTJvdzFNZkc2VGlZVjVtTkFLYlFJOWhXdnpUbm5yWlAxeTVTd01mODlSVXFSdmpTYWJNb1J0WWpuVktJdDZXOG9oTzhNbENpYzg3UWE5d0JOWS1ZSkNoSGRXUjBxUzMyYVN2NzVzQW5rNUR4d0ZaWVBveVVDZEQ3RG16bzlYQUNKN1pDZm9zclhnT1VmcXdXTWdPbmViRWZEVEE2c29zNWJmb2lHYmPSAdQBQVVfeXFMUFFOUVlxMmlUVXV0ZTFfZlczZ0hCV3JPcmx2RkF5MTM0QnN4cEZsbVhJUjh0UDJIVE1laFlDSUJWbVpsRl9DdlpGZDc1bkFhYnN3U0dFMFh6WVRPYlBoS1Vwd0JvcjdCMGdlZ0U4VkduYl9scWg4eHA3eFpFSnU2Q3ljT3ExUTI4ekFGUnEyQmhxTS1xNGR3WjRnQnFveWU2MG9UVVFTal90bEFuZ2VqZ1hoM3N5bmk5VHBBWlJyRFloYWZFUVExLVVXMEdxQ1JjbW1XeTM?oc=5) (Daily Mail); [Exploring the impact of event-related and personal vulnerability characteristics on mental health after pandemic-related trauma exposure.](https://pubmed.ncbi.nlm.nih.gov/42535779/) (PubMed Infectious Disease Search)
+- Evidence notes: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR); [Informal PrEP: Rethinking approaches to pharmaceutical access and HIV prevention pathways.](https://pubmed.ncbi.nlm.nih.gov/42533522/) (PubMed Infectious Disease Search); [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR); [Suspected Ebola case is being monitored at a London hospital after 'exposure in the Democratic Republic of the Congo'](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2VzWHh6U0lPaEduUTl6LUtDQV9HWmg2RW5FQ0Q0anVaUTJvdzFNZkc2VGlZVjVtTkFLYlFJOWhXdnpUbm5yWlAxeTVTd01mODlSVXFSdmpTYWJNb1J0WWpuVktJdDZXOG9oTzhNbENpYzg3UWE5d0JOWS1ZSkNoSGRXUjBxUzMyYVN2NzVzQW5rNUR4d0ZaWVBveVVDZEQ3RG16bzlYQUNKN1pDZm9zclhnT1VmcXdXTWdPbmViRWZEVEE2c29zNWJmb2lHYmPSAdQBQVVfeXFMUFFOUVlxMmlUVXV0ZTFfZlczZ0hCV3JPcmx2RkF5MTM0QnN4cEZsbVhJUjh0UDJIVE1laFlDSUJWbVpsRl9DdlpGZDc1bkFhYnN3U0dFMFh6WVRPYlBoS1Vwd0JvcjdCMGdlZ0U4VkduYl9scWg4eHA3eFpFSnU2Q3ljT3ExUTI4ekFGUnEyQmhxTS1xNGR3WjRnQnFveWU2MG9UVVFTal90bEFuZ2VqZ1hoM3N5bmk5VHBBWlJyRFloYWZFUVExLVVXMEdxQ1JjbW1XeTM?oc=5) (dailymail.com); [Exploring the impact of event-related and personal vulnerability characteristics on mental health after pandemic-related trauma exposure.](https://pubmed.ncbi.nlm.nih.gov/42535779/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -437,12 +438,6 @@ Search window: 7 day(s) ending 2026-08-01
 
 
 ## Other notable readings
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) | FDA Foodborne Outbreaks | 2026-07-29T14:00 | Outbreaks and emerging infections
-  FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-07-29T14:00 | Outbreaks and emerging infections
-  FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
-- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) | FDA Foodborne Outbreaks | 2026-07-29T14:00 | Outbreaks and emerging infections
-  FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
 - [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) | PubMed Ancient Pathogen Genomics | 2026-07-29T00:00 | Historical epidemiology / ancient disease / paleopathology
   Genome-wide data from 36 individuals (spanning Lyalovo-Volosovo traditions, 6800-4800 cal BP) place the Sakhtysh population within the EHG cluster, with high genetic affinity to contemporaneous groups across northwestern Russia and the eastern Baltic. Specific alleles like B*27:05 are observed at high frequencies (~ 50%), despite being relatively rare in modern populations, suggesting shifts in selective pressures. We report HLA genotypes for 27 Sakhtysh individuals, representing the first true HLA calls from ancient hunter-gatherers.
 - [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) | CDC MMWR | 2026-07-28T17:00+00:00 | Occupational and environmental epidemiology
@@ -451,6 +446,8 @@ Search window: 7 day(s) ending 2026-08-01
   Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. The cumulative number of reported cases has exceeded the two previously documented Bundibugyo virus disease outbreaks, making this the largest outbreak caused by the Bundibugyo virus to date. These epidemiological trends underscore the need for strengthened surveillance, cross-border collaboration, and preparedness to rapidly detect and contain any international spread.
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) | WHO Regional Office for Africa | 2026-07-24T07:27+00:00 | Outbreaks and emerging infections
   🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo: Communities remained highly engaged throughout the outbreak, but continued to raise important questions about transmission, symptoms, care pathways, and supportive treatment. Narratives suggesting that the outbreak was politically or financially motivated persisted, alongside misinformation about medicines and traditional remedies, increasing the risk of delayed care-seeking and self-medication. The report highlights that widespread awareness of the outbreak has not yet translated into the practical understanding needed to seek timely care and fully cooperate with response efforts.
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-07-22T00:00 | Outbreaks and emerging infections
+  FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-21T17:36+02:00 | Policy, surveillance, and public health infrastructure
   Limited usable detail remained after boilerplate cleanup.
 - [The number of confirmed Ebola cases in the Democratic Republic of the Congo in Africa has exceeded 3..](https://www.mk.co.kr/en/world/12114229) | 매일경제 | 2026-08-01T04:40+00:00 | Outbreaks and emerging infections
@@ -477,6 +474,10 @@ Search window: 7 day(s) ending 2026-08-01
   Limited detail was available from feed metadata alone.
 - [Texas Confirms a Measles Outbreak in Montgomery County After a Traveler Infected Four Unvaccinated Residents](https://www.inkl.com/glance/news/texas-confirms-a-measles-outbreak-in-montgomery-county-after-a-traveler-infected-four-unvaccinated-residents) | inkl | 2026-07-31T16:00+00:00 | Outbreaks and emerging infections
   The Montgomery County Public Health District reported the cases the week of July 20, 2026, and issued a local health alert on July 23. Symptoms begin 7 to 21 days after exposure, starting with high fever, cough, runny nose, and red, watery eyes, followed a few days later by a flat red rash that starts on the face and moves down the body. Four linked cases meet the standard federal definition of an outbreak: three or more related cases.
+- [East Africa: U.S. Senators Urge Rubio to Address Impact of Ebola Outbreak on Women](https://news.google.com/rss/articles/CBMiW0FVX3lxTE42VERGdWxuWFF0YVQ5V0t0WXhuam5qOTRJWmFPUzVhamwyVkFWdU16ZDVIU05HNW5meVZaeV9vR0E4T2xVak5NR3ItOVQwS3hMV2R5aFJuM0d6UUE?oc=5) | allAfrica.com | 2026-07-31T15:57+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak in DR Congo exceeds 3,500 cases](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlJzeEJRVGlxQXZCT2JfeFhkcG5BaHBIX2VIZVdNaWZ3V01CNXk0WDc4MllaUGxMd0I2d25WTGxLM2RJRDIzWXFVYmNadUFQXzZaQXFIU25mMWV2TnUtVkNpOWRnTGRqb0w4TjA5Ujk0Z29WbFhUMlNPb2VpckRGaTlaZEFHckxWLU1Na1h4cVNfd1pvUU1zZVBsLU1wOVJxR2V6VXpueV9YUQ?oc=5) | Free Malaysia Today | 2026-07-31T15:19+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Granulomatous inflammation in histopathological samples: examining the aetiological spectrum, diagnostic challenges, and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/42535881/)
