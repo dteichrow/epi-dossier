@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-01
-Generated at: 2026-08-01T00:21
+Generated at: 2026-08-01T00:25
 Search window: 7 day(s) ending 2026-08-01
 
 ## Executive scan
@@ -18,8 +18,8 @@ Search window: 7 day(s) ending 2026-08-01
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 109 item(s) across 72 source(s).
-- Baseline snapshot created with 109 clustered item(s) across 72 source(s).
+- Newly tracked story cluster: 110 item(s) across 72 source(s).
+- Baseline snapshot created with 110 clustered item(s) across 72 source(s).
 - 매일경제 now includes deaths or fatal cases in the story frame.
 - 매일경제 now includes quarantine language.
 
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-08-01
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 159 item(s) across 96 source(s).
-- Baseline snapshot created with 159 clustered item(s) across 96 source(s).
+- Newly tracked story cluster: 158 item(s) across 95 source(s).
+- Baseline snapshot created with 158 clustered item(s) across 95 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Measles transmission and vaccination
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-08-01
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 159 item(s) across 96 source(s); 2 official/primary-source item(s).
+- Topic size: 158 item(s) across 95 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-31T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Is the cyclosporiasis outbreak slowing? Test-makers are hopeful](https://www.theguardian.com/science/2026/jul/31/cyclosporiasis-outbreak-testing) (The Guardian); [Cyclosporiasis cases in Michigan rise to 10,773 in ongoing outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-rise-10773-ongoing-outbreak-2026-07-31/) (Reuters); [Michigan continues to be hardest-hit of 45 states facing a cyclosporiasis outbreak](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-outbreak-july-31/) (CBS News)
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-08-01
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 109 item(s) across 72 source(s); 3 official/primary-source item(s).
+- Topic size: 110 item(s) across 72 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
 - Detailed note: This epidemic surpassed the 2018-2020 epidemic (3481 confirmed cases and 2,299 deaths), which was the previous largest outbreak in the Democratic Congo based on the number of confirmed cases. Among them, 1,556 people died, with a fatality rate of 44.1%. Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [The number of confirmed Ebola cases in the Democratic Republic of the Congo in Africa has exceeded 3..](https://www.mk.co.kr/en/world/12114229) (매일경제); [DR Congo Ebola Outbreak Surges to Second-Largest in History](https://www.chosun.com/english/world-en/2026/08/01/6SDEQ6RMGBAIFLERHWUWHX5DBE/) (조선일보)
@@ -78,7 +78,7 @@ Search window: 7 day(s) ending 2026-08-01
 - Topic size: 7 item(s) across 5 source(s); 4 official/primary-source item(s).
 - Lead item: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR, 2026-07-30T17:00+00:00)
 - Detailed note: Sajewski, PhD 1 ,2 ; Carolyn Mackey, MPH 3 ,4 ,5 ; Stepy Thomas, MSPH 3 ,4 ,5 ; Kyle Winston, MPH 3 ,4 ,5 ; Dana Goodenough, MPH 3 ,4 ,5 ; Alison M. Weekly / July 30, 2026 / 75(29);377â383 Reese Tierney, MPH 1 ; Robin Pendley Louis, DrPH 1 ; David J. Surveillance Summaries / July 30, 2026 / 75(5);1â19 Elizabeth T.
-- Evidence notes: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR); [Informal PrEP: Rethinking approaches to pharmaceutical access and HIV prevention pathways.](https://pubmed.ncbi.nlm.nih.gov/42533522/) (PubMed Infectious Disease Search); [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR); [Suspected Ebola case is being monitored at a London hospital after 'exposure in the Democratic Republic of the Congo'](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2VzWHh6U0lPaEduUTl6LUtDQV9HWmg2RW5FQ0Q0anVaUTJvdzFNZkc2VGlZVjVtTkFLYlFJOWhXdnpUbm5yWlAxeTVTd01mODlSVXFSdmpTYWJNb1J0WWpuVktJdDZXOG9oTzhNbENpYzg3UWE5d0JOWS1ZSkNoSGRXUjBxUzMyYVN2NzVzQW5rNUR4d0ZaWVBveVVDZEQ3RG16bzlYQUNKN1pDZm9zclhnT1VmcXdXTWdPbmViRWZEVEE2c29zNWJmb2lHYmPSAdQBQVVfeXFMUFFOUVlxMmlUVXV0ZTFfZlczZ0hCV3JPcmx2RkF5MTM0QnN4cEZsbVhJUjh0UDJIVE1laFlDSUJWbVpsRl9DdlpGZDc1bkFhYnN3U0dFMFh6WVRPYlBoS1Vwd0JvcjdCMGdlZ0U4VkduYl9scWg4eHA3eFpFSnU2Q3ljT3ExUTI4ekFGUnEyQmhxTS1xNGR3WjRnQnFveWU2MG9UVVFTal90bEFuZ2VqZ1hoM3N5bmk5VHBBWlJyRFloYWZFUVExLVVXMEdxQ1JjbW1XeTM?oc=5) (dailymail.com); [Exploring the impact of event-related and personal vulnerability characteristics on mental health after pandemic-related trauma exposure.](https://pubmed.ncbi.nlm.nih.gov/42535779/) (PubMed Infectious Disease Search)
+- Evidence notes: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR); [Informal PrEP: Rethinking approaches to pharmaceutical access and HIV prevention pathways.](https://pubmed.ncbi.nlm.nih.gov/42533522/) (PubMed Infectious Disease Search); [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) (CDC MMWR); [Suspected Ebola case is being monitored at a London hospital after 'exposure in the Democratic Republic of the Congo'](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2VzWHh6U0lPaEduUTl6LUtDQV9HWmg2RW5FQ0Q0anVaUTJvdzFNZkc2VGlZVjVtTkFLYlFJOWhXdnpUbm5yWlAxeTVTd01mODlSVXFSdmpTYWJNb1J0WWpuVktJdDZXOG9oTzhNbENpYzg3UWE5d0JOWS1ZSkNoSGRXUjBxUzMyYVN2NzVzQW5rNUR4d0ZaWVBveVVDZEQ3RG16bzlYQUNKN1pDZm9zclhnT1VmcXdXTWdPbmViRWZEVEE2c29zNWJmb2lHYmPSAdQBQVVfeXFMUFFOUVlxMmlUVXV0ZTFfZlczZ0hCV3JPcmx2RkF5MTM0QnN4cEZsbVhJUjh0UDJIVE1laFlDSUJWbVpsRl9DdlpGZDc1bkFhYnN3U0dFMFh6WVRPYlBoS1Vwd0JvcjdCMGdlZ0U4VkduYl9scWg4eHA3eFpFSnU2Q3ljT3ExUTI4ekFGUnEyQmhxTS1xNGR3WjRnQnFveWU2MG9UVVFTal90bEFuZ2VqZ1hoM3N5bmk5VHBBWlJyRFloYWZFUVExLVVXMEdxQ1JjbW1XeTM?oc=5) (Daily Mail); [Exploring the impact of event-related and personal vulnerability characteristics on mental health after pandemic-related trauma exposure.](https://pubmed.ncbi.nlm.nih.gov/42535779/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -452,7 +452,7 @@ Search window: 7 day(s) ending 2026-08-01
   Limited usable detail remained after boilerplate cleanup.
 - [The number of confirmed Ebola cases in the Democratic Republic of the Congo in Africa has exceeded 3..](https://www.mk.co.kr/en/world/12114229) | 매일경제 | 2026-08-01T04:40+00:00 | Outbreaks and emerging infections
   This epidemic surpassed the 2018-2020 epidemic (3481 confirmed cases and 2,299 deaths), which was the previous largest outbreak in the Democratic Congo based on the number of confirmed cases. Among them, 1,556 people died, with a fatality rate of 44.1%. Currently, 807 people are being quarantined or hospitalized, and 626 have been cured.
-- [Ebola is putting millions of children at risk](https://www.warchild.org.uk/news/ebola-putting-millions-children-risk) | War Child | 2026-08-01T02:26+00:00 | Outbreaks and emerging infections
+- [Ebola is putting millions of children at risk](https://www.warchild.org.uk/news/ebola-putting-millions-children-risk) | warchild.org.uk | 2026-08-01T02:26+00:00 | Outbreaks and emerging infections
   Our work What we do Where we work Quality and standards Our policies and reports Who we are What we stand for Our history Our people Our network and partners Work for us Get involved Music Gaming Fundraise for us Other ways to give Partner with us Shop Our work Expand dropdown What we do Where we work Quality and standards Our policies and reports Who we are Expand dropdown What we stand for Our history Our people Our network and partners Work for us Get involved Expand dropdown Music Gaming Fundraise for us Other ways to give Partner with us Shop Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Outbreak Surges to Second-Largest in History](https://www.chosun.com/english/world-en/2026/08/01/6SDEQ6RMGBAIFLERHWUWHX5DBE/) | 조선일보 | 2026-08-01T02:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -466,6 +466,8 @@ Search window: 7 day(s) ending 2026-08-01
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak tops 3 500 cases](https://www.news24.com/world/africa/dr-congo-ebola-outbreak-tops-3-500-cases-20260731-0903) | News24 | 2026-07-31T18:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Congo’s Ebola outbreak now second largest on record, data shows](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkpXX3J3eC10SjV5MzBLbHFMeXg4SHFJUXhvUlNRbTNyX2VULTRMN1lOUVJXTG9wZFFPc2hHTlZLSklQUXR6SkhrdE95d2ZDVFNOcVNZQlhiTC1GWTBGWTRINlR4U2FUVDZodWhnckVFVTJWc3lUVU5DV204Tk5VVFlKazNxNHUwU2dMWFNmRXBwd1NUTGtjbA?oc=5) | cnbcafrica.com | 2026-07-31T17:25+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Documentaries on Ebola Outbreaks and Lessons Learned](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMDFMV1VNX2dnLWh6QW9Fd1BMSGZPdURPZ3o3ZmZhUTh1NVJQTXJUZHdfWTdpUHhfN1htbDJWZWpjTE9KbnpYTkFIZXJscGdhM3Z0ZUF0UmZubVFJeFpZcTYxS1JCWFZETGRYN0tJZFV3c2hYa281SVQ0UXF5UjBkWHJhQ1FRVGpPTG96cmQ1ME1FVzhEOVhIbzBXTXk0ZDdOdDVEYmc2NmpwTkZEcTFV?oc=5) | PBS | 2026-07-31T16:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak started at least in January, report shows](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZF9yZE1YbG42YUlHeldiSkRPUzdwZ2FPbnNzSndDRXVsNW5LS2hCZnF2M2NoSzhSUXJJemdpOFZXc09IcUFpeHRSQ3hxZ2RnaFdRWm1TN045VGRBeDEtY3FqOTVkSHpkTTMyWUpHNXg0b1BaMmoySkRPaXkwY3pKV1JocDFaY0lZYUZpNlNXR1FWLW42Nm9fSU94QkxWaE1xc1RlLUNMZmtpUWphYTJxdnFBclkyUm1CX3UwdU1fcWZTMHNiWENz?oc=5) | Reuters | 2026-07-31T16:11+00:00 | Outbreaks and emerging infections
@@ -475,8 +477,6 @@ Search window: 7 day(s) ending 2026-08-01
 - [Texas Confirms a Measles Outbreak in Montgomery County After a Traveler Infected Four Unvaccinated Residents](https://www.inkl.com/glance/news/texas-confirms-a-measles-outbreak-in-montgomery-county-after-a-traveler-infected-four-unvaccinated-residents) | inkl | 2026-07-31T16:00+00:00 | Outbreaks and emerging infections
   The Montgomery County Public Health District reported the cases the week of July 20, 2026, and issued a local health alert on July 23. Symptoms begin 7 to 21 days after exposure, starting with high fever, cough, runny nose, and red, watery eyes, followed a few days later by a flat red rash that starts on the face and moves down the body. Four linked cases meet the standard federal definition of an outbreak: three or more related cases.
 - [East Africa: U.S. Senators Urge Rubio to Address Impact of Ebola Outbreak on Women](https://news.google.com/rss/articles/CBMiW0FVX3lxTE42VERGdWxuWFF0YVQ5V0t0WXhuam5qOTRJWmFPUzVhamwyVkFWdU16ZDVIU05HNW5meVZaeV9vR0E4T2xVak5NR3ItOVQwS3hMV2R5aFJuM0d6UUE?oc=5) | allAfrica.com | 2026-07-31T15:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo exceeds 3,500 cases](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlJzeEJRVGlxQXZCT2JfeFhkcG5BaHBIX2VIZVdNaWZ3V01CNXk0WDc4MllaUGxMd0I2d25WTGxLM2RJRDIzWXFVYmNadUFQXzZaQXFIU25mMWV2TnUtVkNpOWRnTGRqb0w4TjA5Ujk0Z29WbFhUMlNPb2VpckRGaTlaZEFHckxWLU1Na1h4cVNfd1pvUU1zZVBsLU1wOVJxR2V6VXpueV9YUQ?oc=5) | Free Malaysia Today | 2026-07-31T15:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
