@@ -1,24 +1,24 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
       "CBS News",
       "CIDRAP",
       "CNN",
-      "NBC News",
       "NPR",
       "New York Times",
       "PBS",
       "Reuters",
-      "STAT"
+      "STAT",
+      "Sky News"
     ],
-    "metadata_only_count": 310,
+    "metadata_only_count": 308,
     "sources_cached": 0,
-    "sources_failed": 2,
+    "sources_failed": 0,
     "sources_live": 337,
     "story_count_change": 8,
-    "wrapper_only_count": 11
+    "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
@@ -27,19 +27,6 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-02T02:08:43",
-  "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
-    },
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases",
-      "required": true,
-      "source": "Michigan Department of Health and Human Services Infectious Disease Updates",
-      "source_type": "html_list"
-    }
-  ]
+  "generated_at": "2026-08-02T02:17:16",
+  "source_failures": []
 }
