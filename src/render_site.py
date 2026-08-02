@@ -1817,7 +1817,11 @@ def collect_outbreak_metric_candidates(story: dict[str, Any], items: list[dict[s
         text = source["text"]
         for pattern in patterns:
             for match in re.finditer(pattern, text, flags=re.I):
-                if metric_context_looks_historical(text, match.start(), match.end()) or metric_context_looks_incremental(text, match.start(), match.end()):
+                if (
+                    metric_context_looks_historical(text, match.start(), match.end())
+                    or metric_context_looks_date(text, match.start(), match.end())
+                    or metric_context_looks_incremental(text, match.start(), match.end())
+                ):
                     continue
                 qualifier = metric_display_qualifier(match.groupdict().get("qualifier", ""), text, match.start(), match.end())
                 value = format_metric_value(qualifier, match.group("number"))
@@ -1931,6 +1935,7 @@ def metric_source_reports_authority_count(
         r"\b(?:congo|drc|health ministry|ministry of health|health authorities|authorities|government|officials)\s+(?:says?|said|reported|recorded|confirmed|announced)\b",
         r"\b(?:according to|citing)\s+(?:congo|drc|the health ministry|the ministry of health|health authorities|authorities|officials|government|who)\b",
         r"\b(?:who|africa cdc|cdc|ecdc)\s+(?:says?|said|reported|confirmed)\b",
+        r"\b(?:un|united nations)\s+(?:health\s+)?agency\s+(?:says?|said|reported|confirmed)\b",
         r"\blatest government data\b",
     ]
     return any(re.search(pattern, text) for pattern in authority_patterns)
@@ -2045,18 +2050,39 @@ def metric_context_looks_historical(text: str, start: int, end: int) -> bool:
     return any(token in context for token in ("2007", "2014", "2016", "first identified", "past outbreaks", "historical"))
 
 
+def metric_context_looks_date(text: str, start: int, end: int) -> bool:
+    matched_text = text[start:end]
+    number_match = re.search(r"\d{4}", matched_text)
+    if number_match is None:
+        return False
+    number = int(number_match.group(0))
+    if not 1900 <= number <= 2100:
+        return False
+    before = text[max(0, start - 60) : start].lower()
+    return bool(re.search(r"\b(?:data\s+)?as\s+of\b.{0,32}$", before))
+
+
 def metric_context_looks_incremental(text: str, start: int, end: int) -> bool:
     before = text[max(0, start - 80) : start].lower()
     after = text[end : min(len(text), end + 60)].lower()
+    matched_text = text[start:end].lower()
     sentence_start = max(text.rfind(".", 0, start), text.rfind(";", 0, start), text.rfind(":", 0, start)) + 1
     sentence_before = text[sentence_start:start].lower()
     prior_incremental_count = re.search(r"\b(?:an?\s+)?(?:additional|new)\s+\d[\d,]*\b", sentence_before)
+    prior_new_case_count = re.search(
+        r"\b\d[\d,]*\s+(?:new|additional)\s+(?:(?:suspected|probable|confirmed|reported)\s+)?cases?\b",
+        sentence_before,
+    )
     prior_cumulative_total = re.search(r"\b(?:cumulative|total)\b", sentence_before)
     return bool(
         re.search(r"\b(?:an?\s+)?(?:additional|new)\s*$", before)
         or re.search(r"\b(?:increase|increased|increase\s+of|added)\s+(?:of\s+)?$", before)
+        or re.search(
+            r"\b(?:new|additional)\s+(?:(?:suspected|probable|confirmed|reported)\s+)?(?:cases?|deaths?|fatalities)\b",
+            matched_text,
+        )
         or re.match(r"\s+(?:new|additional)\s+(?:confirmed\s+|reported\s+)?(?:cases?|deaths?|fatalities)\b", after)
-        or (prior_incremental_count and not prior_cumulative_total)
+        or ((prior_incremental_count or prior_new_case_count) and not prior_cumulative_total)
     )
 
 

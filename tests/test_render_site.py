@@ -320,9 +320,9 @@ def test_render_story_dashboard_accepts_authority_citing_count_headline():
         "lead_title": "Ebola outbreak updates",
         "lead_url": "https://example.com/lead",
         "lead_source": "Health desk",
-        "item_count": 1,
-        "source_count": 1,
-        "official_item_ids": [],
+        "item_count": 2,
+        "source_count": 2,
+        "official_item_ids": ["dated_report"],
         "press_item_ids": ["authority_count"],
         "publisher_names": ["U.S. News & World Report"],
         "freshness_counts": {"live": 1},
@@ -425,6 +425,68 @@ def test_dashboard_prefers_report_grade_total_over_local_official_suboutbreak():
     assert "<strong>20</strong>" not in content
     assert "Report-grade wire case count from Reuters" in content
     assert not render_site.metric_candidate_is_dashboard_authoritative(warning_candidate)
+
+
+def test_dashboard_uses_who_total_not_date_or_weekly_increment():
+    story = {
+        "display_title": "Ebola virus disease",
+        "lead_title": "Ebola outbreak updates",
+        "lead_url": "https://example.com/lead",
+        "lead_source": "Health desk",
+        "item_count": 1,
+        "source_count": 1,
+        "official_item_ids": [],
+        "press_item_ids": ["who_total"],
+        "publisher_names": ["Example News"],
+        "freshness_counts": {"live": 1},
+        "latest_update_summary": "WHO figures were reported.",
+        "latest_update_bullets": [],
+        "related_references": [],
+        "first_seen_at": "2026-08-02T10:50:00",
+        "latest_updated_at": "2026-08-02T10:50:00",
+        "timeline": [],
+    }
+    items_by_id = {
+        "dated_report": {
+            "title": "WHO weekly report 11, Data as of 26 July 2026 Although no new cases have been reported",
+            "preferred_url": "https://example.com/dated-report",
+            "publisher_name": "WHO",
+            "published_at": "2026-07-28T15:31+00:00",
+            "summary": "The report describes regional spread risk but does not publish a total in this text.",
+            "official": True,
+            "source_confidence": "official_agency",
+            "link_quality": "resolved_article",
+            "country": "Democratic Republic of the Congo",
+            "freshness_state": "live",
+        },
+        "who_total": {
+            "title": "WHO says DR Congo facing largest Ebola outbreak on record, data as of 31 July 2026",
+            "preferred_url": "https://example.com/who-total",
+            "publisher_name": "Example News",
+            "published_at": "2026-08-02T10:50+00:00",
+            "summary": (
+                "The UN health agency said that as of Thursday, 3,605 confirmed cases and 1,587 deaths had been recorded. "
+                "The WHO said the past week saw 567 new confirmed cases and 296 deaths."
+            ),
+            "source_confidence": "general_outlet",
+            "publisher_tier": "general",
+            "link_quality": "resolved_article",
+            "country": "Democratic Republic of the Congo",
+            "freshness_state": "live",
+        }
+    }
+
+    case_candidates = render_site.collect_outbreak_metric_candidates(story, list(items_by_id.values()), "cases")
+    death_candidates = render_site.collect_outbreak_metric_candidates(story, list(items_by_id.values()), "deaths")
+    content = render_story_page(story, items_by_id, date(2026, 8, 2), datetime(2026, 8, 2, 11, 0))
+
+    assert {candidate["numeric_value"] for candidate in case_candidates} == {3605}
+    assert {candidate["numeric_value"] for candidate in death_candidates} == {1587}
+    assert "<strong>3,605</strong>" in content
+    assert "<strong>1,587</strong>" in content
+    assert "<strong>567</strong>" not in content
+    assert "<strong>296</strong>" not in content
+    assert "Authority-citing public report from Example News" in content
 
 
 def test_render_story_dashboard_override_supersedes_stale_official_counts(tmp_path, monkeypatch):
