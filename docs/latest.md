@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-02
-Generated at: 2026-08-02T16:19
+Generated at: 2026-08-02T16:24
 Search window: 7 day(s) ending 2026-08-02
 
 ## Executive scan
@@ -12,21 +12,21 @@ Search window: 7 day(s) ending 2026-08-02
 - [Granulomatous inflammation in histopathological samples: examining the aetiological spectrum, diagnostic challenges, and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/42535881/) (PubMed Infectious Disease Search; 2026-07-31T00:00; Major epidemiology studies; relevance 5/5)
 - [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR; 2026-07-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies; 2026-07-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (302), Policy, surveillance, and public health infrastructure (39), Major epidemiology studies (6)
+- Category mix: Outbreaks and emerging infections (301), Policy, surveillance, and public health infrastructure (39), Major epidemiology studies (6)
 - Source health: 2 source(s) failed during collection: Africa CDC, Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 118 item(s) across 83 source(s).
-- Baseline snapshot created with 118 clustered item(s) across 83 source(s).
+- Newly tracked story cluster: 119 item(s) across 84 source(s).
+- Baseline snapshot created with 119 clustered item(s) across 84 source(s).
 - الإذاعة الجزائرية now includes deaths or fatal cases in the story frame.
 - الإذاعة الجزائرية now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 137 item(s) across 85 source(s).
-- Baseline snapshot created with 137 clustered item(s) across 85 source(s).
+- Newly tracked story cluster: 135 item(s) across 82 source(s).
+- Baseline snapshot created with 135 clustered item(s) across 82 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Measles transmission and vaccination
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-08-02
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 137 item(s) across 85 source(s); 2 official/primary-source item(s).
+- Topic size: 135 item(s) across 82 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-31T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Infectious disease physician on what you should know about the cyclosporiasis outbreak](https://www.cbsnews.com/baltimore/video/infectious-disease-physician-on-what-you-should-know-about-the-cyclosporiasis-outbreak/) (CBS News); [Where the Cyclospora crisis sits among the worst U.S. foodborne outbreaks](https://www.axios.com/2026/08/01/cyclospora-lettuce-outbreak-foodborne-illness-record) (Axios); [Is the cyclosporiasis outbreak slowing? Test-makers are hopeful](https://www.theguardian.com/science/2026/jul/31/cyclosporiasis-outbreak-testing) (The Guardian)
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-08-02
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 118 item(s) across 83 source(s); 3 official/primary-source item(s).
+- Topic size: 119 item(s) across 84 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
 - Detailed note: The deadliest outbreak in the DRC resulted in nearly 2,300 deaths out of 3,500 identified cases between 2018 and 2020. As of Friday, 3,532 Ebola cases had been confirmed across five wilayas of the country, including 1,556 deaths, according to data published by the DRC authorities. Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by...
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Ebola: Unprecedented Outbreak in DR Congo With Over 3,500 Cases](http://news.radioalgerie.dz/en/node/91627) (الإذاعة الجزائرية); [Ebola outbreak 'intensifying'](https://tribune.net.ph/2026/08/02/ebola-outbreak-intensifying) (tribune.net.ph)
