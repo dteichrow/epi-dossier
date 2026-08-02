@@ -399,11 +399,11 @@ diseases:
     latest_outbreak:
       label: 2026 Bundibugyo Ebola outbreak
       period: "April 2026-present"
-      location: "Ituri Province, DRC, with imported cases reported in Kampala, Uganda"
-      summary: "Africa CDC declared the ongoing Bundibugyo ebolavirus disease outbreak affecting DRC and Uganda a Public Health Emergency of Continental Security on 18 May 2026, reporting about 395 suspected cases and 106 associated deaths in DRC and two cases with one death in Kampala, Uganda."
-      source_name: "Africa CDC PHECS declaration"
-      source_url: "https://africacdc.org/news-item/africa-cdc-declares-the-ongoing-bundibugyo-ebola-outbreak-a-public-health-emergency-of-continental-security/"
-      as_of: "2026-05-18"
+      location: "DRC, Uganda, and France"
+      summary: "WHO Regional Office for Africa Report 11, data as of 26 July 2026, lists 3,262 confirmed cases and 1,437 confirmed deaths in DRC, 20 confirmed cases and two confirmed deaths in Uganda, and one confirmed case in France. Africa CDC declared a Public Health Emergency of Continental Security for the outbreak on 18 May 2026."
+      source_name: "WHO Regional Office for Africa Report 11"
+      source_url: "https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3"
+      as_of: "2026-07-26"
     field_guide_links:
       - label: "CDC overview"
         url: "https://www.cdc.gov/ebola/about/index.html"

@@ -489,6 +489,36 @@ def test_dashboard_uses_who_total_not_date_or_weekly_increment():
     assert "Authority-citing public report from Example News" in content
 
 
+def test_dashboard_recognizes_past_tense_drc_count_attribution():
+    text = "As of July 30, the DRC had reported 3,605 confirmed cases and 1,587 deaths."
+    source = {
+        "text": text,
+        "source_kind": "general_outlet",
+        "source_status": "Media report",
+    }
+
+    assert render_site.metric_source_reports_authority_count(source, metric_start=text.index("3,605"))
+    assert render_site.metric_source_reports_authority_count(source, metric_start=text.index("1,587"))
+
+
+def test_affected_country_extraction_includes_france():
+    story = {
+        "country": "Democratic Republic of the Congo / Uganda",
+        "related_references": [
+            {
+                "latest_outbreak": {
+                    "location": "DRC, Uganda, and France",
+                    "summary": "The report lists one confirmed case in France.",
+                }
+            }
+        ],
+    }
+
+    countries = render_site.infer_affected_countries(story, [])
+
+    assert countries["value"] == "DRC; Uganda; France"
+
+
 def test_render_story_dashboard_override_supersedes_stale_official_counts(tmp_path, monkeypatch):
     override_path = tmp_path / "outbreak_dashboard_overrides.yml"
     override_path.write_text(

@@ -138,5 +138,7 @@ def test_ebola_reference_sheet_tracks_current_bundibugyo_outbreak_data():
     ebola = references["Ebola virus disease"]
 
     assert "bundibugyo" in {alias.lower() for alias in ebola.aliases}
-    assert ebola.latest_outbreak.as_of == "2026-05-18"
+    assert ebola.latest_outbreak.as_of == "2026-07-26"
+    assert "3,262 confirmed cases" in ebola.latest_outbreak.summary
+    assert "1,437 confirmed deaths" in ebola.latest_outbreak.summary
     assert "Public Health Emergency of Continental Security" in ebola.latest_outbreak.summary

@@ -1932,7 +1932,7 @@ def metric_source_reports_authority_count(
         # authority-citing surveillance count.
         text = text[max(0, int(metric_start) - 140) : int(metric_start)]
     authority_patterns = [
-        r"\b(?:congo|drc|health ministry|ministry of health|health authorities|authorities|government|officials)\s+(?:says?|said|reported|recorded|confirmed|announced)\b",
+        r"\b(?:congo|drc|health ministry|ministry of health|health authorities|authorities|government|officials)(?:\s+(?:has|had))?\s+(?:says?|said|reported|recorded|confirmed|announced)\b",
         r"\b(?:according to|citing)\s+(?:congo|drc|the health ministry|the ministry of health|health authorities|authorities|officials|government|who)\b",
         r"\b(?:who|africa cdc|cdc|ecdc)\s+(?:says?|said|reported|confirmed)\b",
         r"\b(?:un|united nations)\s+(?:health\s+)?agency\s+(?:says?|said|reported|confirmed)\b",
@@ -2218,6 +2218,7 @@ def extract_country_mentions(text: str) -> list[str]:
         (r"\bSouth Sudan\b", "South Sudan"),
         (r"\bRwanda\b", "Rwanda"),
         (r"\bKenya\b", "Kenya"),
+        (r"\bFrance\b", "France"),
     ]:
         if re.search(pattern, text, flags=re.I):
             mentions.append(label)
