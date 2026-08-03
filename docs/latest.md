@@ -1,39 +1,38 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-03
-Generated at: 2026-08-03T00:47
+Generated at: 2026-08-03T01:17
 Search window: 7 day(s) ending 2026-08-03
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-03T07:45+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-03T07:45+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-03T08:14+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-03T08:02+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) (WHO Regional Office for Africa; 2026-07-31T19:19+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [NATIONAL HEALTH ACCOUNTS ESTIMATES FOR ZAMBIA 2022- 2024](https://www.afro.who.int/publications/national-health-accounts-estimates-zambia-2022-2024) (WHO Regional Office for Africa; 2026-07-31T13:53+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-07-31T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Granulomatous inflammation in histopathological samples: examining the aetiological spectrum, diagnostic challenges, and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/42535881/) (PubMed Infectious Disease Search; 2026-07-31T00:00; Major epidemiology studies; relevance 5/5)
 - [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR; 2026-07-30T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [The genomic identity of early smallpox in South America.](https://pubmed.ncbi.nlm.nih.gov/42531397/) (PubMed Historical Pathogen Case Studies; 2026-07-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (296), Policy, surveillance, and public health infrastructure (39), Major epidemiology studies (7)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (295), Policy, surveillance, and public health infrastructure (39), Major epidemiology studies (7)
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 79 item(s) across 67 source(s).
-- Baseline snapshot created with 79 clustered item(s) across 67 source(s).
+- Newly tracked story cluster: 74 item(s) across 63 source(s).
+- Baseline snapshot created with 74 clustered item(s) across 63 source(s).
 - streamlinefeed.co.ke now explicitly uses investigation or monitoring language.
 - streamlinefeed.co.ke now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 132 item(s) across 83 source(s).
-- Baseline snapshot created with 132 clustered item(s) across 83 source(s).
+- Newly tracked story cluster: 136 item(s) across 84 source(s).
+- Baseline snapshot created with 136 clustered item(s) across 84 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 116 item(s) across 84 source(s).
-- Baseline snapshot created with 116 clustered item(s) across 84 source(s).
-- The New Indian Express now includes deaths or fatal cases in the story frame.
+- Newly tracked story cluster: 116 item(s) across 82 source(s).
+- Baseline snapshot created with 116 clustered item(s) across 82 source(s).
+- ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR)
@@ -50,24 +49,24 @@ Search window: 7 day(s) ending 2026-08-03
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 132 item(s) across 83 source(s); 2 official/primary-source item(s).
+- Topic size: 136 item(s) across 84 source(s); 4 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-07-31T00:00)
-- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Cyclospora outbreak creates surprising business boom for one local lettuce farm](https://apnews.com/video/cyclospora-outbreak-creates-surprising-business-boom-for-one-local-lettuce-farm-53f8679e5ab64295925dfd08cf71ab51) (AP News); [Infectious disease physician on what you should know about the cyclosporiasis outbreak](https://www.cbsnews.com/baltimore/video/infectious-disease-physician-on-what-you-should-know-about-the-cyclosporiasis-outbreak/) (CBS News); [Where the Cyclospora crisis sits among the worst U.S. foodborne outbreaks](https://www.axios.com/2026/08/01/cyclospora-lettuce-outbreak-foodborne-illness-record) (Axios)
+- Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. An update on the Cyclospora outbreak available here .
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Cyclospora outbreak creates surprising business boom for one local lettuce farm](https://apnews.com/video/cyclospora-outbreak-creates-surprising-business-boom-for-one-local-lettuce-farm-53f8679e5ab64295925dfd08cf71ab51) (apnews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 116 item(s) across 84 source(s); 3 official/primary-source item(s).
+- Topic size: 116 item(s) across 82 source(s); 3 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa, 2026-07-28T15:31+00:00)
 - Detailed note: While there was an average of 3.1 maternal deaths weekly this year before the outbreak, that jumped to 5.8 deaths from May 25 to July 19. Among those, the deaths outside health centers have also jumped from 9.1% to 17.4% within the same period, UNFPA data shows. Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [More pregnant women are dying in Congo as they avoid hospitals over Ebola](https://www.newindianexpress.com/world/2026/Aug/03/more-pregnant-women-are-dying-in-congo-as-they-avoid-hospitals-over-ebola) (The New Indian Express); [Challenges involved in containing the fast-growing Ebola outbreak in Congo | The Hindu - Internatio­nal](https://www.pressreader.com/india/the-hindu-international-9bn2/20260803/282252377331495) (PressReader)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 11, Data as of 26 July 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [More pregnant women are dying in Congo as they avoid hospitals over Ebola - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/pregnant-women-dying-congo-avoid-hospitals-ebola-135316943) (ABC News - Breaking News, Latest News and Videos); [Challenges involved in containing the fast-growing Ebola outbreak in Congo | The Hindu - Internatio­nal](https://www.pressreader.com/india/the-hindu-international-9bn2/20260803/282252377331495) (PressReader)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 79 item(s) across 67 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-03T07:45+00:00)
+- Topic size: 74 item(s) across 63 source(s); 1 official/primary-source item(s).
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-03T08:02+00:00)
 - Detailed note: Amid a catastrophic outbreak recording over 2,370 cases, US Health Secretary Robert F. Under intense national pressure as the United States battles its worst measles outbreak in 35 years, Health and Human Services (HHS) Secretary Robert F. Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [US Health Secretary RFK Jr. Retreats on Vaccines Amid Historic Measles Crisis](https://streamlinefeed.co.ke/news/us-health-secretary-rfk-jr-retreats-on-vaccines-amid-historic-measles-crisis) (streamlinefeed.co.ke); [RFK Jr. defends handling of measles outbreak](https://www.cnn.com/2026/08/02/us/video/22859480-sotu-rfk-measles-vrtc) (CNN); [RFK Jr tells US families to vaccinate children against measles amid outbreak](https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination) (The Guardian); [US officials focus on identification and rapid action as measles cases rise](https://www.theguardian.com/us-news/2026/aug/02/us-measles-cases-outbreak) (The Guardian)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -337,7 +336,7 @@ Search window: 7 day(s) ending 2026-08-03
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-03T07:45+00:00
+- Date: 2026-08-03T08:14+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
@@ -347,7 +346,7 @@ Search window: 7 day(s) ending 2026-08-03
 
 ### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-03T07:45+00:00
+- Date: 2026-08-03T08:02+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
@@ -437,6 +436,12 @@ Search window: 7 day(s) ending 2026-08-03
 
 
 ## Other notable readings
+- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) | FDA Foodborne Outbreaks | 2026-07-29T14:00 | Outbreaks and emerging infections
+  FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-07-29T14:00 | Outbreaks and emerging infections
+  FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
+- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) | FDA Foodborne Outbreaks | 2026-07-29T14:00 | Outbreaks and emerging infections
+  FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
 - [Ancient genomics study reveals low HLA diversity in eastern hunter-gatherers.](https://pubmed.ncbi.nlm.nih.gov/42527941/) | PubMed Ancient Pathogen Genomics | 2026-07-29T00:00 | Historical epidemiology / ancient disease / paleopathology
   Genome-wide data from 36 individuals (spanning Lyalovo-Volosovo traditions, 6800-4800 cal BP) place the Sakhtysh population within the EHG cluster, with high genetic affinity to contemporaneous groups across northwestern Russia and the eastern Baltic. Specific alleles like B*27:05 are observed at high frequencies (~ 50%), despite being relatively rare in modern populations, suggesting shifts in selective pressures. We report HLA genotypes for 27 Sakhtysh individuals, representing the first true HLA calls from ancient hunter-gatherers.
 - [Surveillance Summaries: Active Surveillance for Invasive Mold Disease](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766089) | CDC MMWR | 2026-07-28T17:00+00:00 | Occupational and environmental epidemiology
@@ -445,21 +450,19 @@ Search window: 7 day(s) ending 2026-08-03
   Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. The cumulative number of reported cases has exceeded the two previously documented Bundibugyo virus disease outbreaks, making this the largest outbreak caused by the Bundibugyo virus to date. These epidemiological trends underscore the need for strengthened surveillance, cross-border collaboration, and preparedness to rapidly detect and contain any international spread.
 - [Infodemic Trends Report- Special issue on the Ebola Bundibugyo virus disease 01–30 June 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/infodemic-trends-report-special-issue-ebola-bundibugyo-virus-disease-01-30-june-2026) | WHO Regional Office for Africa | 2026-07-24T07:27+00:00 | Outbreaks and emerging infections
   🗓 Reporting period: 1–30 June 2026 📌 Key highlights: 🦠 Bundibugyo Ebola Virus Disease (BVD), Democratic Republic of the Congo: Communities remained highly engaged throughout the outbreak, but continued to raise important questions about transmission, symptoms, care pathways, and supportive treatment. Narratives suggesting that the outbreak was politically or financially motivated persisted, alongside misinformation about medicines and traditional remedies, increasing the risk of delayed care-seeking and self-medication. The report highlights that widespread awareness of the outbreak has not yet translated into the practical understanding needed to seek timely care and fully cooperate with response efforts.
-- [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-07-22T00:00 | Outbreaks and emerging infections
-  FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-07-21T17:36+02:00 | Policy, surveillance, and public health infrastructure
   Limited usable detail remained after boilerplate cleanup.
 - [US Health Secretary RFK Jr. Retreats on Vaccines Amid Historic Measles Crisis](https://streamlinefeed.co.ke/news/us-health-secretary-rfk-jr-retreats-on-vaccines-amid-historic-measles-crisis) | streamlinefeed.co.ke | 2026-08-03T06:23+00:00 | Outbreaks and emerging infections
   Amid a catastrophic outbreak recording over 2,370 cases, US Health Secretary Robert F. Under intense national pressure as the United States battles its worst measles outbreak in 35 years, Health and Human Services (HHS) Secretary Robert F. The World Health Organization (WHO) and regional bodies like the Kenya Medical Research Institute (KEMRI) are closely monitoring the fallout, as vaccine hesitancy exported from US political discourse routinely metastasizes into African public health networks, undermining fragile childhood immunization campaigns.
-- [More pregnant women are dying in Congo as they avoid hospitals over Ebola](https://www.newindianexpress.com/world/2026/Aug/03/more-pregnant-women-are-dying-in-congo-as-they-avoid-hospitals-over-ebola) | The New Indian Express | 2026-08-03T05:33+00:00 | Outbreaks and emerging infections
-  While there was an average of 3.1 maternal deaths weekly this year before the outbreak, that jumped to 5.8 deaths from May 25 to July 19. Among those, the deaths outside health centers have also jumped from 9.1% to 17.4% within the same period, UNFPA data shows. As Congo battles the fastest-growing Ebola outbreak on record, with more than 1,600 confirmed deaths, health and aid workers are warning of a shadow crisis as pregnant women avoid hospitals and the country's already high maternal mortality rate climbs even more.
+- [More pregnant women are dying in Congo as they avoid hospitals over Ebola - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/pregnant-women-dying-congo-avoid-hospitals-ebola-135316943) | ABC News - Breaking News, Latest News and Videos | 2026-08-03T06:16+00:00 | Outbreaks and emerging infections
+  While there was an average of 3.1 maternal deaths weekly this year before the outbreak, that jumped to 5.8 deaths from May 25 to July 19. Among those, the deaths outside health centers have also jumped from 9.1% to 17.4% within the same period, UNFPA data shows. Around 180,000 pregnancy deaths are recorded every year across the continent.
 - [Australia confirms first mass death of seabirds from H5N1 bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/australia-confirms-first-mass-mortality-event-h5-bird-flu-2026-08-03/) | Reuters | 2026-08-03T02:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Challenges involved in containing the fast-growing Ebola outbreak in Congo | The Hindu - Internatio­nal](https://www.pressreader.com/india/the-hindu-international-9bn2/20260803/282252377331495) | PressReader | 2026-08-03T00:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola: Unprecedented Outbreak in DR Congo With Over 3,500 Cases](http://news.radioalgerie.dz/en/node/91627) | news.radioalgerie.dz | 2026-08-02T22:23+00:00 | Outbreaks and emerging infections
+- [Ebola: Unprecedented Outbreak in DR Congo With Over 3,500 Cases](http://news.radioalgerie.dz/en/node/91627) | الإذاعة الجزائرية | 2026-08-02T22:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Cyclospora outbreak creates surprising business boom for one local lettuce farm](https://apnews.com/video/cyclospora-outbreak-creates-surprising-business-boom-for-one-local-lettuce-farm-53f8679e5ab64295925dfd08cf71ab51) | AP News | 2026-08-02T18:57+00:00 | Outbreaks and emerging infections
+- [Cyclospora outbreak creates surprising business boom for one local lettuce farm](https://apnews.com/video/cyclospora-outbreak-creates-surprising-business-boom-for-one-local-lettuce-farm-53f8679e5ab64295925dfd08cf71ab51) | apnews.com | 2026-08-02T18:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [RFK Jr. defends handling of measles outbreak](https://www.cnn.com/2026/08/02/us/video/22859480-sotu-rfk-measles-vrtc) | CNN | 2026-08-02T18:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -472,10 +475,6 @@ Search window: 7 day(s) ending 2026-08-03
 - [DR Congo Ebola Outbreak Becomes World’s Second Largest As Death Toll Surpasses 1,500](https://www.healthandme.com/health-news/dr-congo-ebola-outbreak-becomes-worlds-second-largest-as-death-toll-surpasses-1500-article-155232556) | Health and Me | 2026-08-02T15:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO warns of intensifying Ebola outbreak in DR Congo as cases spread to five provinces](https://www.thehindubusinessline.com/news/who-warns-of-intensifying-ebola-outbreak-in-dr-congo-as-cases-spread-to-five-provinces/article71297845.ece) | BusinessLine | 2026-08-02T13:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO Warns Ebola Outbreak in DR Congo Remains Out of Control](https://www.newsmobile.in/world/who-warns-ebola-outbreak-in-dr-congo-remains-out-of-control/) | News Mobile | 2026-08-02T13:19+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO: Ebola outbreak in the Democratic Republic of Congo is the largest in history, 1,587 people died](https://voi.id/en/news/587834) | voi.id | 2026-08-02T12:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -558,7 +557,6 @@ Search window: 7 day(s) ending 2026-08-03
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
