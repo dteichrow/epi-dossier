@@ -1,7 +1,8 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -14,27 +15,27 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 305,
+    "metadata_only_count": 295,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 329,
+    "sources_live": 321,
     "story_count_change": 6,
-    "wrapper_only_count": 11
+    "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 329,
+    "live": 321,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-03T12:12:15",
+  "generated_at": "2026-08-03T12:17:25",
   "source_failures": [
     {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
+      "error": "404 Client Error: Not Found for url: https://news.google.com/rss/search?q=%28outbreak+OR+cholera+OR+dengue+OR+measles+OR+nipah+OR+polio+OR+avian+influenza+OR+h5n1+OR+tuberculosis+OR+health+alert%29+India+-hantavirus+-cruise+-ship+when:7d&hl=en-US&gl=US&ceid=US:en",
+      "required": true,
+      "source": "Google News India Outbreaks",
+      "source_type": "rss"
     }
   ]
 }
