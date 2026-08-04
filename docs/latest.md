@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-04
-Generated at: 2026-08-04T09:05
+Generated at: 2026-08-04T09:10
 Search window: 7 day(s) ending 2026-08-04
 
 ## Executive scan
@@ -12,14 +12,22 @@ Search window: 7 day(s) ending 2026-08-04
 - [Between the hype and harm: does artificial intelligence in health offer solace or further exclusion for marginalised populations in Sub-Saharan Africa? A scoping review.](https://pubmed.ncbi.nlm.nih.gov/42544917/) (PubMed Infectious Disease Search; 2026-08-03T00:00; Major epidemiology studies; relevance 5/5)
 - [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/) (PubMed Historical Pathogen Case Studies; 2026-08-03T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) (WHO Regional Office for Africa; 2026-07-31T19:19+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (173), Policy, surveillance, and public health infrastructure (36), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (172), Policy, surveillance, and public health infrastructure (35), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
+### Ebola virus disease
+- Lead item: [Congo’s Ebola Outbreak Tops 1,700 Deaths as Bundibugyo Strain Fuels Crisis](https://lavocedinewyork.com/en/news/2026/08/04/congos-ebola-outbreak-tops-1700-deaths-as-bundibugyo-strain-fuels-crisis/) (La Voce di New York)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Bangladesh Sangbad Sangstha (BSS) now explicitly uses investigation or monitoring language.
+- Bangladesh Sangbad Sangstha (BSS) now reports conflict over body retrieval or burial practices.
+- La Voce di New York now includes deaths or fatal cases in the story frame.
+
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 122 item(s) across 88 source(s).
-- Baseline snapshot created with 122 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 120 item(s) across 85 source(s).
+- Baseline snapshot created with 120 clustered item(s) across 85 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 - CBS News now includes deaths or fatal cases in the story frame.
 
@@ -32,26 +40,20 @@ Search window: 7 day(s) ending 2026-08-04
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 73 item(s) across 63 source(s).
-- Baseline snapshot created with 73 clustered item(s) across 63 source(s).
-- Reuters now foregrounds vaccination or vaccine policy in the story.
+- Newly tracked story cluster: 73 item(s) across 62 source(s).
+- Baseline snapshot created with 73 clustered item(s) across 62 source(s).
+- The New York Times now foregrounds vaccination or vaccine policy in the story.
 
 ### Occupational and environmental epidemiology
 - Lead item: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR)
-- Newly tracked story cluster: 6 item(s) across 6 source(s).
-- Baseline snapshot created with 6 clustered item(s) across 6 source(s).
+- Newly tracked story cluster: 5 item(s) across 5 source(s).
+- Baseline snapshot created with 5 clustered item(s) across 5 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
-
-### Historical epidemiology and ancient pathogens
-- Lead item: [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 5 item(s) across 2 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 2 source(s).
-- PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 122 item(s) across 88 source(s); 2 official/primary-source item(s).
+- Topic size: 120 item(s) across 85 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-03T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Cyclospora cases climb to 995 in Illinois amid national outbreak](https://www.cbsnews.com/chicago/news/cyclospora-cases-illinois-august-4/) (CBS News); [2 deaths reported in cyclosporiasis outbreak, health officials say](https://www.cbsnews.com/video/2-deaths-reported-in-cyclosporiasis-outbreak-health-officials-say/) (CBS News); [Two deaths confirmed in connection to Cyclosporiasis outbreak in U.S.](https://www.cbsnews.com/newyork/video/two-deaths-confirmed-in-connection-to-cyclosporiasis-outbreak-in-u-s/) (CBS News)
@@ -59,18 +61,18 @@ Search window: 7 day(s) ending 2026-08-04
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 73 item(s) across 63 source(s); 1 official/primary-source item(s).
+- Topic size: 73 item(s) across 62 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-04T16:05+00:00)
 - Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [New Mexico's 2025 measles outbreak cost $5.4 million](https://www.cidrap.umn.edu/measles/new-mexicos-2025-measles-outbreak-cost-54-million) (CIDRAP); [First measles case in "recent memory" confirmed in Lehigh Valley, Pennsylvania](https://www.cbsnews.com/philadelphia/news/measles-in-lehigh-valley/) (CBS News); [A single US measles outbreak can cost millions of dollars, study estimates](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3Y0SFc3Yzc2aFJhREFHOGRNTjB1ZWhMRExSWmdpQVBTbkdINGdnYUlNUEc4bGRIc2JBNFVDM19yTnMzbGpqdGNkN2pheE8wUmd6RUEzcF9na0ctVVphN3FBdU9FMFd2NEpwYTdDOE9fQnZ5WG9Oa3NxSjQ5VnphQU1NcXgzOWk1X3hEOUZaa29KVjNhQXhhdUNxTTZlZGJsSVdfTUVGd3NQUDdtZkI4UDRKZFczUmdxeE1qWUh4WkVXSkd5TVAxX9IByAFBVV95cUxNS3Y0SFc3Yzc2aFJhREFHOGRNTjB1ZWhMRExSWmdpQVBTbkdINGdnYUlNUEc4bGRIc2JBNFVDM19yTnMzbGpqdGNkN2pheE8wUmd6RUEzcF9na0ctVVphN3FBdU9FMFd2NEpwYTdDOE9fQnZ5WG9Oa3NxSjQ5VnphQU1NcXgzOWk1X3hEOUZaa29KVjNhQXhhdUNxTTZlZGJsSVdfTUVGd3NQUDdtZkI4UDRKZFczUmdxeE1qWUh4WkVXSkd5TVAxXw?oc=5) (Devdiscourse); [US officials focus on identification and rapid action as measles cases rise](https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5) (The Guardian)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [New Mexico's 2025 measles outbreak cost $5.4 million](https://www.cidrap.umn.edu/measles/new-mexicos-2025-measles-outbreak-cost-54-million) (CIDRAP); [First measles case in "recent memory" confirmed in Lehigh Valley, Pennsylvania](https://www.cbsnews.com/philadelphia/news/measles-in-lehigh-valley/) (CBS News); [A single US measles outbreak can cost millions of dollars, study estimates](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTJCeWoyMEptWkJCRVJZOWZ3SGlXbHJnWTRuckwxR09UWEgwQkNUSHdObG5FRXl2bEg0M3FXMS1FMXZzaDhweUJZcTJVWjVteFR2eDk3SVFXSTEzV3kxNkJFd3dwSjE3WnNzNnhaY0VzcHgtVWhSZndTWFJIcmpoMUhGNU1WblRyTDZVcTUxbDJCZTZwMWJBa3pPSWF6LWRsRTMwckNrclVOdnZKUFQtRlFkNEdmTThwNFJtQUdn?oc=5) (Reuters); [Quebec’s latest measles outbreak is over after no cases reported in over a month](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQU9TU1NyWUtVMkFWbXhZMHMyNGd3ZDRiOFUyX2FnSzhKTVYwb3A2ZmZzOEpGc1ZmeDgtazN4ckhlbHZWdHAzLTRXcTlONDdsUC01WUZtbEhNQUE5RjFSMHJOVmJyQl9OUUpLcGVSWm04X0Q2ampFcFlSeW9pNGJNTWtwLTIxVU1feEE?oc=5) (CBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 6 item(s) across 6 source(s); 2 official/primary-source item(s).
+- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
 - Lead item: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR, 2026-07-30T17:00+00:00)
 - Detailed note: Weekly / July 30, 2026 / 75(29);377â383 Reese Tierney, MPH 1 ; Robin Pendley Louis, DrPH 1 ; David J. Overall Salmonella incidence in the Foodborne Diseases Active Surveillance Network catchment area remained stable during 2004–2024, but diagnostic patterns shifted substantially. Although informal PrEP access raises public health concerns, particularly around suboptimal dosing and the potential emergence of...
-- Evidence notes: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR); [Informal PrEP: Rethinking approaches to pharmaceutical access and HIV prevention pathways.](https://pubmed.ncbi.nlm.nih.gov/42533522/) (PubMed Infectious Disease Search); [Congo Ebola response hit by worker protests over late pay](https://www.internazionale.it/ultime-notizie-reuters/2026/08/04/congo-ebola-response-hit-by-worker-protests-over-late-pay) (Internazionale); [Suspected Ebola case is being monitored at a London hospital after 'exposure in the Democratic Republic of the Congo'](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2VzWHh6U0lPaEduUTl6LUtDQV9HWmg2RW5FQ0Q0anVaUTJvdzFNZkc2VGlZVjVtTkFLYlFJOWhXdnpUbm5yWlAxeTVTd01mODlSVXFSdmpTYWJNb1J0WWpuVktJdDZXOG9oTzhNbENpYzg3UWE5d0JOWS1ZSkNoSGRXUjBxUzMyYVN2NzVzQW5rNUR4d0ZaWVBveVVDZEQ3RG16bzlYQUNKN1pDZm9zclhnT1VmcXdXTWdPbmViRWZEVEE2c29zNWJmb2lHYmPSAdQBQVVfeXFMUFFOUVlxMmlUVXV0ZTFfZlczZ0hCV3JPcmx2RkF5MTM0QnN4cEZsbVhJUjh0UDJIVE1laFlDSUJWbVpsRl9DdlpGZDc1bkFhYnN3U0dFMFh6WVRPYlBoS1Vwd0JvcjdCMGdlZ0U4VkduYl9scWg4eHA3eFpFSnU2Q3ljT3ExUTI4ekFGUnEyQmhxTS1xNGR3WjRnQnFveWU2MG9UVVFTal90bEFuZ2VqZ1hoM3N5bmk5VHBBWlJyRFloYWZFUVExLVVXMEdxQ1JjbW1XeTM?oc=5) (Daily Mail); [Health officials probe 8 Legionnaires’ cases at Thornville nursing home](https://cwcolumbus.com/news/local/health-officials-probe-8-legionnaires-cases-at-thornville-nursing-home-lancaster-pneumonia-water-droplets-filters-fairfield-county-commissioner) (cwcolumbus.com)
+- Evidence notes: [Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111) (CDC MMWR); [Informal PrEP: Rethinking approaches to pharmaceutical access and HIV prevention pathways.](https://pubmed.ncbi.nlm.nih.gov/42533522/) (PubMed Infectious Disease Search); [Suspected Ebola case is being monitored at a London hospital after 'exposure in the Democratic Republic of the Congo'](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2VzWHh6U0lPaEduUTl6LUtDQV9HWmg2RW5FQ0Q0anVaUTJvdzFNZkc2VGlZVjVtTkFLYlFJOWhXdnpUbm5yWlAxeTVTd01mODlSVXFSdmpTYWJNb1J0WWpuVktJdDZXOG9oTzhNbENpYzg3UWE5d0JOWS1ZSkNoSGRXUjBxUzMyYVN2NzVzQW5rNUR4d0ZaWVBveVVDZEQ3RG16bzlYQUNKN1pDZm9zclhnT1VmcXdXTWdPbmViRWZEVEE2c29zNWJmb2lHYmPSAdQBQVVfeXFMUFFOUVlxMmlUVXV0ZTFfZlczZ0hCV3JPcmx2RkF5MTM0QnN4cEZsbVhJUjh0UDJIVE1laFlDSUJWbVpsRl9DdlpGZDc1bkFhYnN3U0dFMFh6WVRPYlBoS1Vwd0JvcjdCMGdlZ0U4VkduYl9scWg4eHA3eFpFSnU2Q3ljT3ExUTI4ekFGUnEyQmhxTS1xNGR3WjRnQnFveWU2MG9UVVFTal90bEFuZ2VqZ1hoM3N5bmk5VHBBWlJyRFloYWZFUVExLVVXMEdxQ1JjbW1XeTM?oc=5) (dailymail.com); [Health officials probe 8 Legionnaires’ cases at Thornville nursing home](https://cwcolumbus.com/news/local/health-officials-probe-8-legionnaires-cases-at-thornville-nursing-home-lancaster-pneumonia-water-droplets-filters-fairfield-county-commissioner) (cwcolumbus.com); [Source of exposure for Legionnaires' disease cluster in New York City 'eliminated': Health officials - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipwFBVV95cUxOclIxcHR5MU1ZVUVTbzZzZWVOVW5ZRl8yb0hETGExdUtXbFpZeVBMQjNDd0poTFRncXYxWEtfU29BY1hDbjZRNUVVUnJmaVktMXNlNHVUT3JadTJ6aUQtY2lodzVDMlZIY0ppbmtFUmYxLTdra3hDSnp0VEFIYk9lbjJrQmNSWVl3REk1bUFsZUN4OEtIOWFtbHBwWU1PZnpqdG40dHBvY9IBrAFBVV95cUxQdXhCYVRGWVZMa1BxYi1JNjViSDhZOElqZE5jM1hNM3UxaXpxeFpUU3NlTFdadHNCNGNoSzdMNURHVnVGOTVGSjVnSDg4SnVKRmM3Z192c1pQcDg5cDd5em43bm5VTWxWQnJaYzhDcm5MNWg3TEZJTk1hTlU5MndBRU5obzZFSmlXTEJCa3VsOVdxYU1EamZTNFhmdTIwaGo4QlFjRDd5SURtWVp3?oc=5) (ABC News - Breaking News, Latest News and Videos)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -94,7 +96,7 @@ Search window: 7 day(s) ending 2026-08-04
 - Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa, 2026-08-03T11:19+00:00)
 - Detailed note: Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems...
-- Evidence notes: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa); [MSU researchers explore wastewater testing amid cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0hZN21taVJ1VUdmTVRiUXpzbWdmWkVZY1gtS0t1SnFNMTZhb01ieldqUFVCQzBTdm45M2NJOWFRYUlCcWtYTHZTSGtwRWlKT1RzVXhrVEJrNXU4VHlrTHBjZUFrem83blJhdHFoVDdBeEtGQlA0bWZ2eHVkdHpSc3hjWFBTNU1mZzU4ejJSaGlST1RYUnkzUV90VXpqX3VSSHfSAbYBQVVfeXFMUDZsbHZWb3liRFpid3ZzR2dSN3VkcFJoNnNIeGVYanZJVVNQdlhyYWNQQTZqSjIxNFMwY3VnSUNxQ2xJVHpaRzBtTmJoNmt0WXFlLTdzczA1X0pVR3N1SlVncFNWdldJcEZ0QW9HbU0wbnM4TW92NlluRTFGdm0xcDJfQ3d4YkVoUER6Z21UbWt4eUFpXzB4OWlqZ1o0TENCTWVVLVVtV0N5QlhlRGhTTFAybTh5RUE?oc=5) (WILX); [MSU researchers to explore wastewater studies for cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMijAJBVV95cUxPcnRoV3BDSUdwQTVISzJtZUtSRk5HMUJRVVpsRjdLRHJVQlpNSHVRa1FFcFNlTEl2RDdIa3pkaTAyMU0xTElHdS1YbHZOcUl0ZEk5bEJFajVaZUVOWG1na1FRRW8xMFFRVW1DSTVrNXdYOXVfdUFxdHl5UzRJQ0hiWXdCMU15MTJUTDVBS1dWcGdRWUNOcW50ZXd5MlplQzNnNm9faW1WWkF4dzExSnNxejMtaU0zT0NQWVo4T2J3SWJvNGFtbVFUMEs5cWp6ZUhHaWFZdjhBNGcxbkxjTDltRzducUlKeFB4R20zOWZReEtTU3lZRTV5YWJtLU1uR1BTczN3V1E0WWcxY1dN?oc=5) (WPBN); [WHO: Afghanistan reports 15 polio cases in 2026](https://amu.tv/249084/) (Amu TV)
+- Evidence notes: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa); [MSU researchers explore wastewater testing amid cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0hZN21taVJ1VUdmTVRiUXpzbWdmWkVZY1gtS0t1SnFNMTZhb01ieldqUFVCQzBTdm45M2NJOWFRYUlCcWtYTHZTSGtwRWlKT1RzVXhrVEJrNXU4VHlrTHBjZUFrem83blJhdHFoVDdBeEtGQlA0bWZ2eHVkdHpSc3hjWFBTNU1mZzU4ejJSaGlST1RYUnkzUV90VXpqX3VSSHfSAbYBQVVfeXFMUDZsbHZWb3liRFpid3ZzR2dSN3VkcFJoNnNIeGVYanZJVVNQdlhyYWNQQTZqSjIxNFMwY3VnSUNxQ2xJVHpaRzBtTmJoNmt0WXFlLTdzczA1X0pVR3N1SlVncFNWdldJcEZ0QW9HbU0wbnM4TW92NlluRTFGdm0xcDJfQ3d4YkVoUER6Z21UbWt4eUFpXzB4OWlqZ1o0TENCTWVVLVVtV0N5QlhlRGhTTFAybTh5RUE?oc=5) (WILX); [MSU researchers to explore wastewater studies for cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMijAJBVV95cUxPcnRoV3BDSUdwQTVISzJtZUtSRk5HMUJRVVpsRjdLRHJVQlpNSHVRa1FFcFNlTEl2RDdIa3pkaTAyMU0xTElHdS1YbHZOcUl0ZEk5bEJFajVaZUVOWG1na1FRRW8xMFFRVW1DSTVrNXdYOXVfdUFxdHl5UzRJQ0hiWXdCMU15MTJUTDVBS1dWcGdRWUNOcW50ZXd5MlplQzNnNm9faW1WWkF4dzExSnNxejMtaU0zT0NQWVo4T2J3SWJvNGFtbVFUMEs5cWp6ZUhHaWFZdjhBNGcxbkxjTDltRzducUlKeFB4R20zOWZReEtTU3lZRTV5YWJtLU1uR1BTczN3V1E0WWcxY1dN?oc=5) (upnorthlive.com); [WHO: Afghanistan reports 15 polio cases in 2026](https://amu.tv/249084/) (Amu TV)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -450,10 +452,10 @@ Search window: 7 day(s) ending 2026-08-04
   FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
 - [Congo’s Ebola Outbreak Tops 1,700 Deaths as Bundibugyo Strain Fuels Crisis](https://lavocedinewyork.com/en/news/2026/08/04/congos-ebola-outbreak-tops-1700-deaths-as-bundibugyo-strain-fuels-crisis/) | La Voce di New York | 2026-08-04T15:19+00:00 | Outbreaks and emerging infections
   Reuters reported that the epidemic is the second-largest and fastest-spreading Ebola outbreak on record, with 3,748 confirmed cases and 1,657 deaths recorded by WHO as of Aug. WHO had reported 2,124 confirmed cases and 828 deaths in Congo as of July 15, meaning the official count has more than doubled in less than three weeks. According to the latest government update cited by The Associated Press, 3,802 cases have been recorded, including 1,707 deaths.
+- [Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges](https://www.sun-sentinel.com/2026/08/04/ebola-eastern-congo-outbreak-surges/) | sun-sentinel.com | 2026-08-04T14:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Cyclospora cases climb to 995 in Illinois amid national outbreak](https://www.cbsnews.com/chicago/news/cyclospora-cases-illinois-august-4/) | CBS News | 2026-08-04T14:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola response hit by worker protests over late pay](https://www.internazionale.it/ultime-notizie-reuters/2026/08/04/congo-ebola-response-hit-by-worker-protests-over-late-pay) | Internazionale | 2026-08-04T13:49+00:00 | Outbreaks and emerging infections
-  DAKAR, Aug 4 (Reuters) - Ebola response workers in eastern Congo have staged protests this week to call for the government to pay salaries and allowances that they say are nearly three months overdue, as security incidents continue to hamper efforts to contain the outbreak. • Dozens of health workers gathered outside Ebola treatment centres in Bunia, Rwampara and Mongbwalu, all in Ituri province, on Sunday and Monday, calling for immediate payment of the salaries and allowances, protesters said. • In the protest in Mongbwalu on Monday, police dispersed demonstrators after they caused a disruption outside a hospital, local authorities and a protester said.
 - [New Mexico's 2025 measles outbreak cost $5.4 million](https://www.cidrap.umn.edu/measles/new-mexicos-2025-measles-outbreak-cost-54-million) | CIDRAP | 2026-08-04T13:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO pleads for more support to tackle Ebola outbreak](https://www.bssnews.net/news/411691) | Bangladesh Sangbad Sangstha (BSS) | 2026-08-04T12:35+00:00 | Outbreaks and emerging infections
@@ -464,7 +466,9 @@ Search window: 7 day(s) ending 2026-08-04
   Limited detail was available from feed metadata alone.
 - [Cyclospora outbreak deaths raise alarm for people with underlying conditions](https://www.newsnationnow.com/health/cyclospora-outbreak-deaths-salad-lettuce/) | NewsNation | 2026-08-04T10:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Cyclospora outbreak causes first two deaths](https://www.axios.com/2026/08/03/cyclospora-outbreak-deaths-illness-symptoms) | Axios | 2026-08-04T09:15+00:00 | Outbreaks and emerging infections
+- [Cyclospora outbreak causes first two deaths](https://www.axios.com/2026/08/03/cyclospora-outbreak-deaths-illness-symptoms) | axios.com | 2026-08-04T09:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Michigan confirms two deaths in cyclospora outbreak](https://www.nbcnews.com/video/shorts/michigan-confirms-two-deaths-in-cyclospora-outbreak-267723333566) | NBC News | 2026-08-04T05:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [First measles case in "recent memory" confirmed in Lehigh Valley, Pennsylvania](https://www.cbsnews.com/philadelphia/news/measles-in-lehigh-valley/) | CBS News | 2026-08-04T02:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -475,8 +479,6 @@ Search window: 7 day(s) ending 2026-08-04
 - [News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak](https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak) | PBS | 2026-08-03T22:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Michigan officials confirm first 2 deaths in cyclosporiasis outbreak](https://www.newsnationnow.com/health/2-dead-from-cyclosporiasis-in-michigan-officials-confirm/) | NewsNation | 2026-08-03T21:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [A single US measles outbreak can cost millions of dollars, study estimates](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3Y0SFc3Yzc2aFJhREFHOGRNTjB1ZWhMRExSWmdpQVBTbkdINGdnYUlNUEc4bGRIc2JBNFVDM19yTnMzbGpqdGNkN2pheE8wUmd6RUEzcF9na0ctVVphN3FBdU9FMFd2NEpwYTdDOE9fQnZ5WG9Oa3NxSjQ5VnphQU1NcXgzOWk1X3hEOUZaa29KVjNhQXhhdUNxTTZlZGJsSVdfTUVGd3NQUDdtZkI4UDRKZFczUmdxeE1qWUh4WkVXSkd5TVAxX9IByAFBVV95cUxNS3Y0SFc3Yzc2aFJhREFHOGRNTjB1ZWhMRExSWmdpQVBTbkdINGdnYUlNUEc4bGRIc2JBNFVDM19yTnMzbGpqdGNkN2pheE8wUmd6RUEzcF9na0ctVVphN3FBdU9FMFd2NEpwYTdDOE9fQnZ5WG9Oa3NxSjQ5VnphQU1NcXgzOWk1X3hEOUZaa29KVjNhQXhhdUNxTTZlZGJsSVdfTUVGd3NQUDdtZkI4UDRKZFczUmdxeE1qWUh4WkVXSkd5TVAxXw?oc=5) | Devdiscourse | 2026-08-03T21:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
