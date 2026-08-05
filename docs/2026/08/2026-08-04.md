@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-04
-Generated at: 2026-08-04T17:58
+Generated at: 2026-08-04T18:06
 Search window: 7 day(s) ending 2026-08-04
 
 ## Executive scan
@@ -12,14 +12,22 @@ Search window: 7 day(s) ending 2026-08-04
 - [Between the hype and harm: does artificial intelligence in health offer solace or further exclusion for marginalised populations in Sub-Saharan Africa? A scoping review.](https://pubmed.ncbi.nlm.nih.gov/42544917/) (PubMed Infectious Disease Search; 2026-08-03T00:00; Major epidemiology studies; relevance 5/5)
 - [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/) (PubMed Historical Pathogen Case Studies; 2026-08-03T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) (WHO Regional Office for Africa; 2026-07-31T19:19+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (174), Policy, surveillance, and public health infrastructure (41), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (175), Policy, surveillance, and public health infrastructure (40), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
+### Ebola virus disease
+- Lead item: [At Least 930 People Have Died In Congo’s Ebola Outbreak](https://www.thebrasilians.com/at-least-930-people-have-died-in-congos-ebola-outbreak/) (The Brasilians)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Bangladesh Sangbad Sangstha (BSS) now explicitly uses investigation or monitoring language.
+- Bangladesh Sangbad Sangstha (BSS) now reports conflict over body retrieval or burial practices.
+- The Brasilians now includes deaths or fatal cases in the story frame.
+
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 121 item(s) across 82 source(s).
-- Baseline snapshot created with 121 clustered item(s) across 82 source(s).
+- Newly tracked story cluster: 119 item(s) across 81 source(s).
+- Baseline snapshot created with 119 clustered item(s) across 81 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 - Axios now includes deaths or fatal cases in the story frame.
 
@@ -32,8 +40,8 @@ Search window: 7 day(s) ending 2026-08-04
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 82 item(s) across 66 source(s).
-- Baseline snapshot created with 82 clustered item(s) across 66 source(s).
+- Newly tracked story cluster: 84 item(s) across 67 source(s).
+- Baseline snapshot created with 84 clustered item(s) across 67 source(s).
 - Los Banos Enterprise now explicitly uses investigation or monitoring language.
 
 ### Occupational and environmental epidemiology
@@ -42,16 +50,10 @@ Search window: 7 day(s) ending 2026-08-04
 - Baseline snapshot created with 5 clustered item(s) across 5 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
-### Historical epidemiology and ancient pathogens
-- Lead item: [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 5 item(s) across 2 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 2 source(s).
-- PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
-
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 121 item(s) across 82 source(s); 2 official/primary-source item(s).
+- Topic size: 119 item(s) across 81 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-04T00:00)
 - Detailed note: FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1392: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [C.D.C. Expands Cyclospora Outbreak to Six More States](https://www.nytimes.com/2026/08/04/well/eat/cdc-cyclospora-outbreak-15-states.html) (The New York Times); [At least 101 cyclosporiasis cases reported in Pennsylvania as outbreak grows, health officials say](https://www.cbsnews.com/philadelphia/video/at-least-101-cyclosporiasis-cases-reported-in-pennsylvania-as-outbreak-grows-health-officials-say/) (CBS News); [Michigan health official details effort to mitigate cyclosporiasis outbreak](https://www.cbsnews.com/video/michigan-health-official-details-effort-mitigate-cyclosporiasis-outbreak/) (CBS News)
@@ -59,10 +61,10 @@ Search window: 7 day(s) ending 2026-08-04
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 82 item(s) across 66 source(s); 1 official/primary-source item(s).
+- Topic size: 84 item(s) across 67 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-05T00:58+00:00)
 - Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Maryland resident test positive for measles, 13 cases in state confirmed in 2026](https://www.cbsnews.com/baltimore/news/maryland-resident-test-positive-measles-13-cases-maryland-confirmed-2026/) (CBS News); [New Mexico's 2025 measles outbreak cost $5.4 million](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWNkNzJLYWNkbmdGVlluVkFGbWlHTlVzdmdGNHdnV2VXblhCX1dGOWFHQ1U0WWY3MER2UDJGWEoyN2FUV2ZKa29KSDhOODlTUTFnOE5sVE9FaWEwazlSSkhHcGNDdHNvV2p0d3l0cFRaYlc4aDRMMm9FVENGcFViR0NpbHNPVEtUcUFucQ?oc=5) (CIDRAP); [First measles case in "recent memory" confirmed in Lehigh Valley, Pennsylvania](https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR29iQnljUllvZGREaWE2c3h4OGRZMlZkSjJhVk1oU1JXRnlfWjI3SWVJMzljbGc5MHNXeEIwaGRBZmYtYmJZX1dKQ2gxMlA0VmNDTG1xTzQ1b2lPNloyNXNYV3VxdHowcXNtSTBLYmRsVHh6MEE?oc=5) (CBS News); [Merced County Monitoring Farmworkers Exposed to Measles During Arizona Outbreak](https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWJLUFF2WkZhRC14T2dHMHFRYUlIdk43VkZBdUZhenBSMEFyeHR2SFEwU0hYT1VPOFpVdzYtUlRhbFRTTGxKWU1POUJSLTV0ZlBoLURSR2g1b0diSlJiWS1VdUFwMUZnUVN5UGM0eVVOcEI0RTZjakpKd3JNVzJFaGV1Wi1tZm5DX3NISHNJYi1CZG5RdDh5aWtpM0duc0tJVnJNMlJOSlhOak9IS2ZvR0EtdmxEcUota2F2d185YUlnMG5NaUFv?oc=5) (Los Banos Enterprise)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [New Mexico's measles outbreak cost $5.4 million, CDC finds](https://www.cbsnews.com/video/new-mexicos-measles-outbreak-cost-54-million-cdc-finds/) (CBS News); [Maryland resident test positive for measles, 13 cases in state confirmed in 2026](https://www.cbsnews.com/baltimore/news/maryland-resident-test-positive-measles-13-cases-maryland-confirmed-2026/) (CBS News); [New Mexico's 2025 measles outbreak cost $5.4 million](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWNkNzJLYWNkbmdGVlluVkFGbWlHTlVzdmdGNHdnV2VXblhCX1dGOWFHQ1U0WWY3MER2UDJGWEoyN2FUV2ZKa29KSDhOODlTUTFnOE5sVE9FaWEwazlSSkhHcGNDdHNvV2p0d3l0cFRaYlc4aDRMMm9FVENGcFViR0NpbHNPVEtUcUFucQ?oc=5) (CIDRAP); [First measles case in "recent memory" confirmed in Lehigh Valley, Pennsylvania](https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR29iQnljUllvZGREaWE2c3h4OGRZMlZkSjJhVk1oU1JXRnlfWjI3SWVJMzljbGc5MHNXeEIwaGRBZmYtYmJZX1dKQ2gxMlA0VmNDTG1xTzQ1b2lPNloyNXNYV3VxdHowcXNtSTBLYmRsVHh6MEE?oc=5) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -450,6 +452,8 @@ Search window: 7 day(s) ending 2026-08-04
   FDA lists reference 1392 with date posted 7/22/2026. Reported total case count: 93. Product linked to illnesses: Not Yet Identified.
 - [C.D.C. Expands Cyclospora Outbreak to Six More States](https://www.nytimes.com/2026/08/04/well/eat/cdc-cyclospora-outbreak-15-states.html) | The New York Times | 2026-08-04T23:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [New Mexico's measles outbreak cost $5.4 million, CDC finds](https://www.cbsnews.com/video/new-mexicos-measles-outbreak-cost-54-million-cdc-finds/) | CBS News | 2026-08-04T22:19+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
 - [Maryland resident test positive for measles, 13 cases in state confirmed in 2026](https://www.cbsnews.com/baltimore/news/maryland-resident-test-positive-measles-13-cases-maryland-confirmed-2026/) | CBS News | 2026-08-04T21:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [At least 101 cyclosporiasis cases reported in Pennsylvania as outbreak grows, health officials say](https://www.cbsnews.com/philadelphia/video/at-least-101-cyclosporiasis-cases-reported-in-pennsylvania-as-outbreak-grows-health-officials-say/) | CBS News | 2026-08-04T21:31+00:00 | Outbreaks and emerging infections
@@ -462,10 +466,10 @@ Search window: 7 day(s) ending 2026-08-04
   Limited detail was available from feed metadata alone.
 - [Cyclosporiasis cases in Michigan climb to 11,508 in ongoing outbreak](https://www.reuters.com/legal/litigation/cyclosporiasis-cases-michigan-climb-11508-ongoing-outbreak-2026-08-04/) | Reuters | 2026-08-04T19:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Health Canada authorizes mRNA vaccine trial for Ebola virus causing huge outbreak in Congo](https://www.cbc.ca/news/health/ebola-vaccine-trial-health-canada-moderna-9.7295616) | CBC | 2026-08-04T19:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Cyclospora outbreak causes first two deaths](https://www.axios.com/2026/08/03/cyclospora-outbreak-deaths-illness-symptoms) | Axios | 2026-08-04T17:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Climate change is shifting malaria activity in Africa](https://www.cidrap.umn.edu/malaria/climate-change-shifting-malaria-activity-africa) | CIDRAP | 2026-08-04T16:43+00:00 | Outbreaks and emerging infections
-  At the same time, climate change likely averted a comparable number of cases in West Africa, where temperatures are increasing to a point that it's hot enough to reduce transmission. A recent study in Nature finds that rising temperatures have likely increased malaria in high-elevation East and southern Africa, where the weather is typically cooler. Limited detail was available from feed metadata alone.
 - [New Mexico's 2025 measles outbreak cost $5.4 million](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWNkNzJLYWNkbmdGVlluVkFGbWlHTlVzdmdGNHdnV2VXblhCX1dGOWFHQ1U0WWY3MER2UDJGWEoyN2FUV2ZKa29KSDhOODlTUTFnOE5sVE9FaWEwazlSSkhHcGNDdHNvV2p0d3l0cFRaYlc4aDRMMm9FVENGcFViR0NpbHNPVEtUcUFucQ?oc=5) | CIDRAP | 2026-08-04T13:39+00:00 | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 - [WHO pleads for more support to tackle Ebola outbreak](https://www.bssnews.net/news/411691) | Bangladesh Sangbad Sangstha (BSS) | 2026-08-04T12:35+00:00 | Outbreaks and emerging infections
@@ -475,8 +479,6 @@ Search window: 7 day(s) ending 2026-08-04
 - [Merced County Monitoring Farmworkers Exposed to Measles During Arizona Outbreak](https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWJLUFF2WkZhRC14T2dHMHFRYUlIdk43VkZBdUZhenBSMEFyeHR2SFEwU0hYT1VPOFpVdzYtUlRhbFRTTGxKWU1POUJSLTV0ZlBoLURSR2g1b0diSlJiWS1VdUFwMUZnUVN5UGM0eVVOcEI0RTZjakpKd3JNVzJFaGV1Wi1tZm5DX3NISHNJYi1CZG5RdDh5aWtpM0duc0tJVnJNMlJOSlhOak9IS2ZvR0EtdmxEcUota2F2d185YUlnMG5NaUFv?oc=5) | Los Banos Enterprise | 2026-08-04T00:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [First deaths related to cyclosporiasis outbreak reported in Michigan](https://www.washingtonpost.com/health/2026/08/03/two-cyclospora-related-deaths-reported-michigan/) | The Washington Post | 2026-08-03T23:42+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [Michigan reports 2 cyclosporiasis deaths as cases top 18,000 nationwide](https://www.cbsnews.com/video/michigan-reports-2-cyclosporiasis-deaths-as-cases-top-18000-nationwide/) | CBS News | 2026-08-03T23:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
