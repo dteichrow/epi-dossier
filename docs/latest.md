@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-05
-Generated at: 2026-08-05T15:19
+Generated at: 2026-08-05T15:25
 Search window: 7 day(s) ending 2026-08-05
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-05
 - [Beyond the surface: A review of current and potential micro-CT applications in paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42551142/) (PubMed Historical Epidemiology; 2026-08-04T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa; 2026-08-03T11:19+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/) (PubMed Historical Pathogen Case Studies; 2026-08-03T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (186), Policy, surveillance, and public health infrastructure (31), Historical epidemiology / ancient disease / paleopathology (5)
+- Category mix: Outbreaks and emerging infections (188), Policy, surveillance, and public health infrastructure (32), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 2 source(s) failed during collection: Africa CDC, Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-08-05
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 73 item(s) across 57 source(s).
-- Baseline snapshot created with 73 clustered item(s) across 57 source(s).
+- Newly tracked story cluster: 74 item(s) across 58 source(s).
+- Baseline snapshot created with 74 clustered item(s) across 58 source(s).
 - Los Banos Enterprise now explicitly uses investigation or monitoring language.
 - The New York Times now foregrounds vaccination or vaccine policy in the story.
 
@@ -47,14 +47,14 @@ Search window: 7 day(s) ending 2026-08-05
 
 ### Cyclosporiasis
 - Lead item: [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks)
-- Newly tracked story cluster: 131 item(s) across 92 source(s).
-- Baseline snapshot created with 131 clustered item(s) across 92 source(s).
+- Newly tracked story cluster: 133 item(s) across 93 source(s).
+- Baseline snapshot created with 133 clustered item(s) across 93 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 131 item(s) across 92 source(s); 2 official/primary-source item(s).
+- Topic size: 133 item(s) across 93 source(s); 2 official/primary-source item(s).
 - Lead item: [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks, 2026-08-05T00:00)
 - Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The health department labels these counts preliminary.
 - Evidence notes: [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclosporiasis outbreak sends local Illinois farms' lettuce sales skyrocketing](https://www.cbsnews.com/chicago/news/cyclosporiasis-local-farms-lettuce-sales/) (cbsnews.com); [Cyclospora Outbreak Tips Struggling Salad Chain Into Bankruptcy](https://www.bloomberg.com/news/articles/2026-08-05/cyclospora-outbreak-tips-struggling-salad-chain-into-bankruptcy) (Bloomberg.com); [Salad Chain to Wind Down Following Industry Cyclosporiasis Outbreak](https://www.wsj.com/pro/bankruptcy/salad-chain-to-wind-down-following-industry-cyclosporiasis-outbreak-6879f59a) (WSJ)
@@ -62,7 +62,7 @@ Search window: 7 day(s) ending 2026-08-05
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 73 item(s) across 57 source(s); 1 official/primary-source item(s).
+- Topic size: 74 item(s) across 58 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-05T22:17+00:00)
 - Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Merced County Monitoring Farmworkers Exposed to Measles During Arizona Outbreak](https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWJLUFF2WkZhRC14T2dHMHFRYUlIdk43VkZBdUZhenBSMEFyeHR2SFEwU0hYT1VPOFpVdzYtUlRhbFRTTGxKWU1POUJSLTV0ZlBoLURSR2g1b0diSlJiWS1VdUFwMUZnUVN5UGM0eVVOcEI0RTZjakpKd3JNVzJFaGV1Wi1tZm5DX3NISHNJYi1CZG5RdDh5aWtpM0duc0tJVnJNMlJOSlhOak9IS2ZvR0EtdmxEcUota2F2d185YUlnMG5NaUFv?oc=5) (Los Banos Enterprise); [A single US measles outbreak can cost millions of dollars, study estimates](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3Y0SFc3Yzc2aFJhREFHOGRNTjB1ZWhMRExSWmdpQVBTbkdINGdnYUlNUEc4bGRIc2JBNFVDM19yTnMzbGpqdGNkN2pheE8wUmd6RUEzcF9na0ctVVphN3FBdU9FMFd2NEpwYTdDOE9fQnZ5WG9Oa3NxSjQ5VnphQU1NcXgzOWk1X3hEOUZaa29KVjNhQXhhdUNxTTZlZGJsSVdfTUVGd3NQUDdtZkI4UDRKZFczUmdxeE1qWUh4WkVXSkd5TVAxX9IByAFBVV95cUxNS3Y0SFc3Yzc2aFJhREFHOGRNTjB1ZWhMRExSWmdpQVBTbkdINGdnYUlNUEc4bGRIc2JBNFVDM19yTnMzbGpqdGNkN2pheE8wUmd6RUEzcF9na0ctVVphN3FBdU9FMFd2NEpwYTdDOE9fQnZ5WG9Oa3NxSjQ5VnphQU1NcXgzOWk1X3hEOUZaa29KVjNhQXhhdUNxTTZlZGJsSVdfTUVGd3NQUDdtZkI4UDRKZFczUmdxeE1qWUh4WkVXSkd5TVAxXw?oc=5) (Devdiscourse); [US officials focus on identification and rapid action as measles cases rise](https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5) (The Guardian); [Quebec’s latest measles outbreak is over after no cases reported in over a month](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQU9TU1NyWUtVMkFWbXhZMHMyNGd3ZDRiOFUyX2FnSzhKTVYwb3A2ZmZzOEpGc1ZmeDgtazN4ckhlbHZWdHAzLTRXcTlONDdsUC01WUZtbEhNQUE5RjFSMHJOVmJyQl9OUUpLcGVSWm04X0Q2ampFcFlSeW9pNGJNTWtwLTIxVU1feEE?oc=5) (CBC)
