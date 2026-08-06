@@ -1,18 +1,19 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-06
-Generated at: 2026-08-06T00:18
+Generated at: 2026-08-06T00:26
 Search window: 7 day(s) ending 2026-08-06
 
 ## Executive scan
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-06T07:25+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-06T07:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-06T07:06+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-08-05T09:30; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-08-05T09:30; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks; 2026-08-05T09:30; Outbreaks and emerging infections; relevance 5/5)
+- [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-08-05T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-05T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Vacancy: Public Health Support Officer – Disease Control (Data Management Assistant) G7](https://www.afro.who.int/countries/lesotho/publication/vacancy-public-health-support-officer-disease-control-data-management-assistant-g7) (WHO Regional Office for Africa; 2026-08-04T14:55+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa; 2026-08-03T11:19+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (182), Policy, surveillance, and public health infrastructure (28), Virology and pathogen evolution (3)
+- [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) (WHO Regional Office for Africa; 2026-07-31T19:19+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [NATIONAL HEALTH ACCOUNTS ESTIMATES FOR ZAMBIA 2022- 2024](https://www.afro.who.int/publications/national-health-accounts-estimates-zambia-2022-2024) (WHO Regional Office for Africa; 2026-07-31T13:53+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (181), Policy, surveillance, and public health infrastructure (27), Major epidemiology studies (3)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Polio and wastewater surveillance
@@ -24,15 +25,21 @@ Search window: 7 day(s) ending 2026-08-06
 
 ### Cyclosporiasis
 - Lead item: [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks)
-- Newly tracked story cluster: 130 item(s) across 91 source(s).
-- Baseline snapshot created with 130 clustered item(s) across 91 source(s).
+- Newly tracked story cluster: 129 item(s) across 91 source(s).
+- Baseline snapshot created with 129 clustered item(s) across 91 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 69 item(s) across 57 source(s).
-- Baseline snapshot created with 69 clustered item(s) across 57 source(s).
+- Newly tracked story cluster: 68 item(s) across 57 source(s).
+- Baseline snapshot created with 68 clustered item(s) across 57 source(s).
 - Los Banos Enterprise now explicitly uses investigation or monitoring language.
+
+### Ebola virus disease
+- Lead item: [U.S. doubles Ebola funding to $512 million as Africa battles its second-largest outbreak ever](https://africa.businessinsider.com/local/markets/us-doubles-ebola-funding-to-dollar512-million-as-africa-battles-its-second-largest/t466gb4) (Business Insider Africa)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Business Insider Africa now foregrounds vaccination or vaccine policy in the story.
 
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) (WHO Regional Office for Africa)
@@ -43,26 +50,18 @@ Search window: 7 day(s) ending 2026-08-06
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 130 item(s) across 91 source(s); 4 official/primary-source item(s).
-- Lead item: [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks, 2026-08-05T09:30)
+- Topic size: 129 item(s) across 91 source(s); 2 official/primary-source item(s).
+- Lead item: [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks, 2026-08-05T00:00)
 - Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The health department labels these counts preliminary.
-- Evidence notes: [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclosporiasis outbreak linked to shredded iceberg lettuce expands to 15 states - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-outbreak-linked-shredded-iceberg-lettuce-expands-15/story?id\=135408609) (ABC News - Breaking News, Latest News and Videos)
+- Evidence notes: [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclosporiasis outbreak linked to shredded iceberg lettuce expands to 15 states - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-outbreak-linked-shredded-iceberg-lettuce-expands-15/story?id\=135408609) (ABC News - Breaking News, Latest News and Videos); [Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says](https://www.cbsnews.com/news/cyclospora-iceberg-lettuce-states/) (CBS News); [CDC expands largest known cyclosporiasis outbreak to 15 states](https://www.washingtonpost.com/health/2026/08/04/cdc-expands-largest-known-cyclospora-outbreak-15-states/) (The Washington Post)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 69 item(s) across 57 source(s); 1 official/primary-source item(s).
+- Topic size: 68 item(s) across 57 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-06T07:16+00:00)
 - Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [New Mexico's measles outbreak cost $5.4 million, CDC finds](https://www.cbsnews.com/video/new-mexicos-measles-outbreak-cost-54-million-cdc-finds/) (CBS News); [New Mexico's 2025 measles outbreak cost $5.4 million](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWNkNzJLYWNkbmdGVlluVkFGbWlHTlVzdmdGNHdnV2VXblhCX1dGOWFHQ1U0WWY3MER2UDJGWEoyN2FUV2ZKa29KSDhOODlTUTFnOE5sVE9FaWEwazlSSkhHcGNDdHNvV2p0d3l0cFRaYlc4aDRMMm9FVENGcFViR0NpbHNPVEtUcUFucQ?oc=5) (CIDRAP); [First measles case in "recent memory" confirmed in Lehigh Valley, Pennsylvania](https://news.google.com/rss/articles/CBMidkFVX3lxTE1pR29iQnljUllvZGREaWE2c3h4OGRZMlZkSjJhVk1oU1JXRnlfWjI3SWVJMzljbGc5MHNXeEIwaGRBZmYtYmJZX1dKQ2gxMlA0VmNDTG1xTzQ1b2lPNloyNXNYV3VxdHowcXNtSTBLYmRsVHh6MEE?oc=5) (CBS News); [Merced County Monitoring Farmworkers Exposed to Measles During Arizona Outbreak](https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWJLUFF2WkZhRC14T2dHMHFRYUlIdk43VkZBdUZhenBSMEFyeHR2SFEwU0hYT1VPOFpVdzYtUlRhbFRTTGxKWU1POUJSLTV0ZlBoLURSR2g1b0diSlJiWS1VdUFwMUZnUVN5UGM0eVVOcEI0RTZjakpKd3JNVzJFaGV1Wi1tZm5DX3NISHNJYi1CZG5RdDh5aWtpM0duc0tJVnJNMlJOSlhOak9IS2ZvR0EtdmxEcUota2F2d185YUlnMG5NaUFv?oc=5) (Los Banos Enterprise)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Miscellaneous signals
-- Topic size: 4 item(s) across 3 source(s); 3 official/primary-source item(s).
-- Lead item: [Vacancy: Public Health Support Officer – Disease Control (Data Management Assistant) G7](https://www.afro.who.int/countries/lesotho/publication/vacancy-public-health-support-officer-disease-control-data-management-assistant-g7) (WHO Regional Office for Africa, 2026-08-04T14:55+00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Vacancy: Public Health Support Officer – Disease Control (Data Management Assistant) G7](https://www.afro.who.int/countries/lesotho/publication/vacancy-public-health-support-officer-disease-control-data-management-assistant-g7) (WHO Regional Office for Africa); [US commits additional $242 million to combat Ebola in DRC and Uganda](https://www.kbc.co.ke/us-commits-additional-242-million-to-combat-ebola-in-drc-and-uganda/) (KBC Digital); [Pathogenicity and virulence of Crimean-Congo hemorrhagic fever virus: From enzootic maintenance to severe human disease.](https://pubmed.ncbi.nlm.nih.gov/42555543/) (PubMed Infectious Disease Search); [Application of an extended information-motivation-behavioral skills model to predict HPV vaccine acceptability among Chinese gay, bisexual, and other men who have sex with men.](https://pubmed.ncbi.nlm.nih.gov/42550689/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -75,12 +74,20 @@ Search window: 7 day(s) ending 2026-08-06
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
 - Lead item: [U.S. doubles Ebola funding to $512 million as Africa battles its second-largest outbreak ever](https://africa.businessinsider.com/local/markets/us-doubles-ebola-funding-to-dollar512-million-as-africa-battles-its-second-largest/t466gb4) (Business Insider Africa, 2026-08-06T06:00+00:00)
-- Detailed note: American aid has supported over 180 health facilities and delivered nearly 300 tons of medical supplies, despite challenges. By pledging an additional $242 million, the United States is nearly doubling its previous support to combat what is now the second-largest outbreak of the disease in history.
-- Evidence notes: [U.S. doubles Ebola funding to $512 million as Africa battles its second-largest outbreak ever](https://africa.businessinsider.com/local/markets/us-doubles-ebola-funding-to-dollar512-million-as-africa-battles-its-second-largest/t466gb4) (Business Insider Africa); [WHO pleads for more support to tackle Ebola outbreak](https://www.japantimes.co.jp/news/2026/08/05/world/science-health/who-support-ebola-outbreak/) (The Japan Times)
+- Detailed note: The United States has announced an additional $242 million (about KSh31.3 billion) to strengthen Ebola response and preparedness efforts in the Democratic Republic of the Congo (DRC) and Uganda, significantly increasing support for one of Africa’s fastest-growing Ebola outbreaks. The assistance has also helped procure and distribute nearly 300 metric tonnes of essential medical and infection-prevention supplies...
+- Evidence notes: [U.S. doubles Ebola funding to $512 million as Africa battles its second-largest outbreak ever](https://africa.businessinsider.com/local/markets/us-doubles-ebola-funding-to-dollar512-million-as-africa-battles-its-second-largest/t466gb4) (Business Insider Africa); [US commits additional $242 million to combat Ebola in DRC and Uganda](https://www.kbc.co.ke/us-commits-additional-242-million-to-combat-ebola-in-drc-and-uganda/) (KBC Digital); [WHO pleads for more support to tackle Ebola outbreak](https://www.japantimes.co.jp/news/2026/08/05/world/science-health/who-support-ebola-outbreak/) (The Japan Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
+
+### Miscellaneous signals
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [Vacancy: Public Health Support Officer – Disease Control (Data Management Assistant) G7](https://www.afro.who.int/countries/lesotho/publication/vacancy-public-health-support-officer-disease-control-data-management-assistant-g7) (WHO Regional Office for Africa, 2026-08-04T14:55+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Vacancy: Public Health Support Officer – Disease Control (Data Management Assistant) G7](https://www.afro.who.int/countries/lesotho/publication/vacancy-public-health-support-officer-disease-control-data-management-assistant-g7) (WHO Regional Office for Africa); [Pathogenicity and virulence of Crimean-Congo hemorrhagic fever virus: From enzootic maintenance to severe human disease.](https://pubmed.ncbi.nlm.nih.gov/42555543/) (PubMed Infectious Disease Search); [Application of an extended information-motivation-behavioral skills model to predict HPV vaccine acceptability among Chinese gay, bisexual, and other men who have sex with men.](https://pubmed.ncbi.nlm.nih.gov/42550689/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### COVID-19 and SARS-CoV-2
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -328,6 +335,16 @@ Search window: 7 day(s) ending 2026-08-06
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
+- Source: Texas Department of State Health Services News
+- Date: 2026-08-06T07:25+00:00
+- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Source: Texas Department of State Health Services News
 - Date: 2026-08-06T07:16+00:00
@@ -338,42 +355,12 @@ Search window: 7 day(s) ending 2026-08-06
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
-- Source: Texas Department of State Health Services News
-- Date: 2026-08-06T07:06+00:00
-- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### FDA outbreak investigation 1398: Cyclospora
 - Source: FDA Foodborne Outbreaks
-- Date: 2026-08-05T09:30
+- Date: 2026-08-05T00:00
 - URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
 - Category: Outbreaks and emerging infections
 - Summary: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. Product linked to illnesses: Not Yet Identified.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-05T09:30
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-05T09:30
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -428,17 +415,35 @@ Search window: 7 day(s) ending 2026-08-06
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### U.S. doubles Ebola funding to $512 million as Africa battles its second-largest outbreak ever
+- Source: Business Insider Africa
+- Date: 2026-08-06T06:00+00:00
+- URL: https://africa.businessinsider.com/local/markets/us-doubles-ebola-funding-to-dollar512-million-as-africa-battles-its-second-largest/t466gb4
+- Category: Outbreaks and emerging infections
+- Summary: American aid has supported over 180 health facilities and delivered nearly 300 tons of medical supplies, despite challenges. By pledging an additional $242 million, the United States is nearly doubling its previous support to combat what is now the second-largest outbreak of the disease in history. Containment efforts are hindered by delayed virus detection, weak surveillance, armed conflict, and the lack vaccines.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### US commits additional $242 million to combat Ebola in DRC and Uganda
+- Source: KBC Digital
+- Date: 2026-08-06T05:34+00:00
+- URL: https://www.kbc.co.ke/us-commits-additional-242-million-to-combat-ebola-in-drc-and-uganda/
+- Category: Outbreaks and emerging infections
+- Summary: The United States has announced an additional $242 million (about KSh31.3 billion) to strengthen Ebola response and preparedness efforts in the Democratic Republic of the Congo (DRC) and Uganda, significantly increasing support for one of Africa’s fastest-growing Ebola outbreaks. The assistance has also helped procure and distribute nearly 300 metric tonnes of essential medical and infection-prevention supplies while supporting more than 180 health facilities across affected areas. Over 8.6 million health screenings have also been conducted through the response.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [U.S. doubles Ebola funding to $512 million as Africa battles its second-largest outbreak ever](https://africa.businessinsider.com/local/markets/us-doubles-ebola-funding-to-dollar512-million-as-africa-battles-its-second-largest/t466gb4) | Business Insider Africa | 2026-08-06T06:00+00:00 | Outbreaks and emerging infections
-  American aid has supported over 180 health facilities and delivered nearly 300 tons of medical supplies, despite challenges. By pledging an additional $242 million, the United States is nearly doubling its previous support to combat what is now the second-largest outbreak of the disease in history. Containment efforts are hindered by delayed virus detection, weak surveillance, armed conflict, and the lack vaccines.
-- [US commits additional $242 million to combat Ebola in DRC and Uganda](https://www.kbc.co.ke/us-commits-additional-242-million-to-combat-ebola-in-drc-and-uganda/) | KBC Digital | 2026-08-06T05:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Cyclosporiasis outbreak linked to shredded iceberg lettuce expands to 15 states - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/cyclosporiasis-outbreak-linked-shredded-iceberg-lettuce-expands-15/story?id\=135408609) | ABC News - Breaking News, Latest News and Videos | 2026-08-06T00:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says](https://www.cbsnews.com/news/cyclospora-iceberg-lettuce-states/) | CBS News | 2026-08-06T00:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [CDC expands largest known cyclosporiasis outbreak to 15 states](https://www.washingtonpost.com/health/2026/08/04/cdc-expands-largest-known-cyclospora-outbreak-15-states/) | The Washington Post | 2026-08-05T03:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO pleads for more support to tackle Ebola outbreak](https://www.japantimes.co.jp/news/2026/08/05/world/science-health/who-support-ebola-outbreak/) | The Japan Times | 2026-08-05T01:58+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states, including Arkansas and Missouri](https://www.theguardian.com/us-news/2026/aug/04/cyclosporiasis-outbreak-15-states-cdc) | The Guardian | 2026-08-05T01:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -469,6 +474,8 @@ Search window: 7 day(s) ending 2026-08-06
 - [Michigan reports 2 cyclosporiasis deaths as cases top 18,000 nationwide](https://www.cbsnews.com/video/michigan-reports-2-cyclosporiasis-deaths-as-cases-top-18000-nationwide/) | CBS News | 2026-08-03T23:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Michigan officials confirm first 2 deaths in cyclosporiasis outbreak](https://www.newsnationnow.com/health/2-dead-from-cyclosporiasis-in-michigan-officials-confirm/) | NewsNation | 2026-08-03T21:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [A single US measles outbreak can cost millions of dollars, study estimates](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3Y0SFc3Yzc2aFJhREFHOGRNTjB1ZWhMRExSWmdpQVBTbkdINGdnYUlNUEc4bGRIc2JBNFVDM19yTnMzbGpqdGNkN2pheE8wUmd6RUEzcF9na0ctVVphN3FBdU9FMFd2NEpwYTdDOE9fQnZ5WG9Oa3NxSjQ5VnphQU1NcXgzOWk1X3hEOUZaa29KVjNhQXhhdUNxTTZlZGJsSVdfTUVGd3NQUDdtZkI4UDRKZFczUmdxeE1qWUh4WkVXSkd5TVAxX9IByAFBVV95cUxNS3Y0SFc3Yzc2aFJhREFHOGRNTjB1ZWhMRExSWmdpQVBTbkdINGdnYUlNUEc4bGRIc2JBNFVDM19yTnMzbGpqdGNkN2pheE8wUmd6RUEzcF9na0ctVVphN3FBdU9FMFd2NEpwYTdDOE9fQnZ5WG9Oa3NxSjQ5VnphQU1NcXgzOWk1X3hEOUZaa29KVjNhQXhhdUNxTTZlZGJsSVdfTUVGd3NQUDdtZkI4UDRKZFczUmdxeE1qWUh4WkVXSkd5TVAxXw?oc=5) | Devdiscourse | 2026-08-03T21:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
