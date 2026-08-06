@@ -6,25 +6,25 @@
       "CIDRAP",
       "CNN",
       "Guardian",
-      "New York Times",
+      "NBC News",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 211,
+    "metadata_only_count": 206,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 235,
+    "sources_live": 230,
     "story_count_change": 8,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 235,
+    "live": 230,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-05T17:18:44",
+  "generated_at": "2026-08-05T18:06:04",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
