@@ -1,5 +1,5 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -14,27 +14,20 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 284,
+    "metadata_only_count": 277,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 300,
-    "story_count_change": 6,
-    "wrapper_only_count": 6
+    "sources_failed": 0,
+    "sources_live": 296,
+    "story_count_change": 7,
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 300,
+    "live": 296,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-06T21:17:45",
-  "source_failures": [
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://lucascountyhealth.com/cyclo/",
-      "required": true,
-      "source": "Toledo-Lucas County Health Department Cyclosporiasis Update",
-      "source_type": "html_page"
-    }
-  ]
+  "generated_at": "2026-08-06T22:17:41",
+  "source_failures": []
 }
