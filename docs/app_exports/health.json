@@ -13,20 +13,20 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 290,
+    "metadata_only_count": 286,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 310,
-    "story_count_change": 8,
+    "sources_live": 307,
+    "story_count_change": 7,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 310,
+    "live": 307,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-07T12:17:18",
+  "generated_at": "2026-08-07T13:17:21",
   "source_failures": []
 }
