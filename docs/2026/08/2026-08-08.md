@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-08
-Generated at: 2026-08-08T14:17
+Generated at: 2026-08-08T14:22
 Search window: 7 day(s) ending 2026-08-08
 
 ## Executive scan
@@ -11,8 +11,9 @@ Search window: 7 day(s) ending 2026-08-08
 - [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Rare primary bone tuberculosis associated with ruxolitinib therapy: A case report and literature review.](https://pubmed.ncbi.nlm.nih.gov/42566613/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa; 2026-08-06T14:34+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-08-06T09:30; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (264), Policy, surveillance, and public health infrastructure (21), Virology and pathogen evolution (5)
+- [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) (PubMed Historical Pathogen Case Studies; 2026-08-05T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (262), Policy, surveillance, and public health infrastructure (21), Virology and pathogen evolution (5)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -38,8 +39,8 @@ Search window: 7 day(s) ending 2026-08-08
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 117 item(s) across 83 source(s).
-- Baseline snapshot created with 117 clustered item(s) across 83 source(s).
+- Newly tracked story cluster: 115 item(s) across 81 source(s).
+- Baseline snapshot created with 115 clustered item(s) across 81 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Tuberculosis and antimicrobial resistance
@@ -51,10 +52,10 @@ Search window: 7 day(s) ending 2026-08-08
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 117 item(s) across 83 source(s); 4 official/primary-source item(s).
+- Topic size: 115 item(s) across 81 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-07T00:00)
-- Detailed note: FDA lists reference 1143 with date posted 3/1/2023. Reported total case count: 10. An update on the Cyclospora outbreak available here .
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) (CBS News)
+- Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) (CBS News); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News); [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://www.nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -406,19 +407,19 @@ Search window: 7 day(s) ending 2026-08-08
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-06T09:30
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+### Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-08-05T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42568929/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: The corresponding decreases in incidence and mortality rates were 16.8 (-172.17 to 138.57) and 5.88 (-34.85 to 23.16) per 100 000. Compared with scenarios in which US DAH was low but other funds were high, a combination of high US DAH, high funding from other donors and high GHES (one unit above their means) was associated with a 6.5% (95% Confidence Interval (CI) -73.6% to 49.6%) and a 14.6% (-86% to 60.8%) reduction in TB incidence and mortality, respectively. Total annual TB-specific DAH in Africa increased from US$4.4 million in 1990 to US$168.7 million in 2022.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 ### FDA outbreak investigation 1398: Cyclospora
 - Source: FDA Foodborne Outbreaks
-- Date: 2026-08-06T09:30
+- Date: 2026-08-05T00:00
 - URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
 - Category: Outbreaks and emerging infections
 - Summary: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. Product linked to illnesses: Not Yet Identified.
@@ -426,22 +427,18 @@ Search window: 7 day(s) ending 2026-08-08
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-06T09:30
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+### 'They (researchers) don't have to justify their presence, why do we have to justify ours?': The political economy of community advisory boards in tuberculosis research.
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-08-04T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42561792/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: This qualitative study draws on 28 semi-structured interviews with TB advocates, community engagement practitioners, and TB CABs representatives across countries and levels of global health governance. However, sustaining these activist ambitions remained precarious as TB CABs were under-resourced and their knowledge transmission emphasised the technical over the radical, narrowing engagement into more operational and manageable forms. As the CAB model became increasingly institutionalised as a formal engagement mechanism, they were intended to become sites for nurturing TB advocates and enabling their participation in research decision-making.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) | PubMed Historical Pathogen Case Studies | 2026-08-05T00:00 | Historical epidemiology / ancient disease / paleopathology
-  The corresponding decreases in incidence and mortality rates were 16.8 (-172.17 to 138.57) and 5.88 (-34.85 to 23.16) per 100 000. Compared with scenarios in which US DAH was low but other funds were high, a combination of high US DAH, high funding from other donors and high GHES (one unit above their means) was associated with a 6.5% (95% Confidence Interval (CI) -73.6% to 49.6%) and a 14.6% (-86% to 60.8%) reduction in TB incidence and mortality, respectively. Total annual TB-specific DAH in Africa increased from US$4.4 million in 1990 to US$168.7 million in 2022.
-- ['They (researchers) don't have to justify their presence, why do we have to justify ours?': The political economy of community advisory boards in tuberculosis research.](https://pubmed.ncbi.nlm.nih.gov/42561792/) | PubMed Historical Pathogen Case Studies | 2026-08-04T00:00 | Historical epidemiology / ancient disease / paleopathology
-  This qualitative study draws on 28 semi-structured interviews with TB advocates, community engagement practitioners, and TB CABs representatives across countries and levels of global health governance. However, sustaining these activist ambitions remained precarious as TB CABs were under-resourced and their knowledge transmission emphasised the technical over the radical, narrowing engagement into more operational and manageable forms. As the CAB model became increasingly institutionalised as a formal engagement mechanism, they were intended to become sites for nurturing TB advocates and enabling their participation in research decision-making.
 - [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) | WHO Regional Office for Africa | 2026-08-03T11:19+00:00 | Outbreaks and emerging infections
   Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems strengthening, disease prevention and control, immunization, emergency preparedness and response, and public health intelligence. The publication also highlights WHO Zambia’s collaboration with Government, development partners, civil society, and communities to advance Universal Health Coverage, health emergency preparedness, and improved health outcomes for all Zambians.
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) | WHO Regional Office for Africa | 2026-07-31T19:19+00:00 | Outbreaks and emerging infections
@@ -477,6 +474,10 @@ Search window: 7 day(s) ending 2026-08-08
 - [DRC Ebola outbreak tops 4,000 cases as Africa CDC and UNICEF raise response concerns](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDhzakZEN2xQSWJNYVNsTl9KTUdDMC1xVkF4SmR0SGlmWTEwWkdhVEFYYlVwc1RxMHh0NlkzU3VabVQxZkhiaDlOVElXSC1qX3FudHpiUVFmN1kzS2xRaDNQMDZBRmk2UTBDX053VVJWN0FVUVJGVUI0eFEzQkRKblhDMzVHc1MtUUduLUd2SmJHWjRyNlAtMnhQMmYycDB6UU1sR1J5OFM0ZTJDRjBpeUVJeUZkR1U?oc=5) | news.cgtn.com | 2026-08-07T05:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC, WHO urge urgent action as DRC Ebola outbreak worsens](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3NtYzRPYVpQaWV0b3lTeENFVE44ckFTRXBCVmdINDc3LXBkSXFJeVA3cjNqV2hDSUJ4c29xTkdTdGpLMG9OTEc4Sm1hc01hTHlPUHhBN0xZYUJ3emV4Y2VYd1h5Z0dZMnVnTHdIR0l6dHdadnNkWWl4b0RhaTYtZE5YWWtpUFY2eUNzMHVuRVhZZlg2NGl1aVpOekpFRjR3VGRB?oc=5) | PM News Nigeria | 2026-08-07T04:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) | CBS News | 2026-08-06T21:47+00:00 | Policy, surveillance, and public health infrastructure
+  Limited detail was available from feed metadata alone.
+- [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) | NBC News | 2026-08-06T21:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
