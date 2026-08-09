@@ -1,78 +1,46 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-09
-Generated at: 2026-08-09T09:24
+Generated at: 2026-08-09T09:58
 Search window: 7 day(s) ending 2026-08-09
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-09T16:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-09T16:13+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-09T16:48+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-09T16:43+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Jalapeños That Have Been Recalled Due To Possible Salmonella Contaminationpha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766199) (CDC Travel Health Notices; 2026-08-08T16:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [WHO guidelines on leishmaniases: treatment of visceral leishmaniasis and post-kala-azar dermal leishmaniasis in eastern Africa and South-East Asia](https://www.afro.who.int/countries/chad/publication/who-guidelines-leishmaniases-treatment-visceral-leishmaniasis-and-post-kala-azar-dermal) (WHO Regional Office for Africa; 2026-08-08T03:37+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-07T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Rare primary bone tuberculosis associated with ruxolitinib therapy: A case report and literature review.](https://pubmed.ncbi.nlm.nih.gov/42566613/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa; 2026-08-06T14:34+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) (PubMed Historical Pathogen Case Studies; 2026-08-05T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (250), Policy, surveillance, and public health infrastructure (20), Virology and pathogen evolution (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (13), Historical epidemiology / ancient disease / paleopathology (9), Policy, surveillance, and public health infrastructure (7)
+- Source health: 34 source(s) failed during collection: Nigeria Centre for Disease Control, Google News Outbreaks, Google News Major Outbreak Desks, Google News Global Health Reporting, Google News Hantavirus and Cruise Outbreaks, plus 29 more.
 
 ## Ongoing stories and what changed
-### Measles transmission and vaccination
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 73 item(s) across 57 source(s).
-- Baseline snapshot created with 73 clustered item(s) across 57 source(s).
-- ABC30 Fresno now explicitly uses investigation or monitoring language.
-- Anadolu Ajansı now includes deaths or fatal cases in the story frame.
-- Anadolu Ajansı now foregrounds vaccination or vaccine policy in the story.
-
-### Ebola virus disease
-- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 77 item(s) across 55 source(s).
-- Baseline snapshot created with 77 clustered item(s) across 55 source(s).
-- Bozeman Daily Chronicle now includes quarantine language.
-- The Spokesman-Review now foregrounds vaccination or vaccine policy in the story.
-
-### Polio and wastewater surveillance
-- Lead item: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
-- msutoday.msu.edu now brings wastewater surveillance into the story.
-
-### Cyclosporiasis
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 112 item(s) across 80 source(s).
-- Baseline snapshot created with 112 clustered item(s) across 80 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
-
 ### Tuberculosis and antimicrobial resistance
 - Lead item: [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) (PubMed Historical Pathogen Case Studies)
 - Newly tracked story cluster: 5 item(s) across 2 source(s).
 - Baseline snapshot created with 5 clustered item(s) across 2 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
+### Historical epidemiology and ancient pathogens
+- Lead item: [Eponymous Osseous Signs in Congenital Syphilis: A Narrative Historical Review.](https://pubmed.ncbi.nlm.nih.gov/42560072/) (PubMed Historical Pathogen Case Studies)
+- Newly tracked story cluster: 5 item(s) across 2 source(s).
+- Baseline snapshot created with 5 clustered item(s) across 2 source(s).
+- PubMed Historical Pathogen Case Studies now foregrounds vaccination or vaccine policy in the story.
+
+### Cyclosporiasis
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+
 
 ## Major topics
-### Cyclosporiasis
-- Topic size: 112 item(s) across 80 source(s); 2 official/primary-source item(s).
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-07T00:00)
-- Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) (CBS News); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News); [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://www.nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238) (NBC News)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Ebola virus disease
-- Topic size: 77 item(s) across 55 source(s); 1 official/primary-source item(s).
-- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa, 2026-08-06T14:34+00:00)
-- Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [No Ebola cases found on quarantined river boat, Congo authorities say](https://www.bozemandailychronicle.com/wire/international/no-ebola-cases-found-on-quarantined-river-boat-congo-authorities-say/article_8c51c62c-2684-5916-9890-d3ccbefa4f80.html) (Bozeman Daily Chronicle); [Ebola cases in DR Congo surpass 4,000 as outbreak becomes fastest-spreading on record](https://eastleighvoice.co.ke/democratic-republic-of-congo/388504/ebola-cases-in-dr-congo-surpass-4000-as-outbreak-becomes-fastest-spreading-on-record) (The Eastleigh Voice); [Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens](https://www.spokesman.com/stories/2026/aug/07/ebola-response-turns-to-merck-vaccine-gilead-drug-/) (The Spokesman-Review); [DR Congo: Ebola outbreak tops 4,000 confirmed cases](https://outbreaknewstoday.substack.com/p/dr-congo-ebola-outbreak-tops-4000) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Measles transmission and vaccination
-- Topic size: 73 item(s) across 57 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-09T16:13+00:00)
-- Detailed note: In the same period, authorities recorded 988 new suspected cases and 75 laboratory-confirmed infections, bringing the total to 136,320 and 17,115, respectively. The total number of measles-linked fatalities rose to 873, including 98 deaths since mid-March of this year, according to data from the Directorate General of Health Service (DGHS). People who were at Universal Studios Hollywood during the identified...
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Death toll rises to 873 as 6 more children die of measles-like symptoms in Bangladesh](https://www.aa.com.tr/en/asia-pacific/death-toll-rises-to-873-as-6-more-children-die-of-measles-like-symptoms-in-bangladesh/4022469) (Anadolu Ajansı); [CDC adds almost 100 new cases to expanding US measles outbreak](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVVUMFRRaXk2TEhNcDdZdDdJNFoyT0dxTjBXd05KQzJxbWhvbjBmUm1KNGFfMGJPLXh3ZDJkZE1GaW9lOTY4dHo2c3RFSWtqRnpHMmpXOXdyS3NZN24yMHU3LXd0X29mdHVQSlZrcE5rOW1pcVlJa0FkUVBZcmxhSUd3S3RTVDVYcENURzl5QkJmYmFWUEd1eEpR?oc=5) (CIDRAP); [Measles cases continue to drop in Manitoba, with just 2 confirmed in July](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeElzLTMtamIxRnFLTU9id0tpSkdGVHM1a21qYUFILTR6YmV0WllpcWxlS0Z5em9lZ0p4OGpvcWJoTmxhdFcwWUxwQVEzVVZLQ2xrRGpxVjAwQWUwOXpTZlBhVFBzamsxdXg2aTZOSkxGYlFVemk3UEdxcG14NXRrM3NOczg?oc=5) (CBC); [What Happens After a Measles Exposure? Symptoms,…](https://www.inkl.com/news/what-happens-after-a-measles-exposure-symptoms-timing-and-when-to-seek-care-following-the-universal-studios-warning) (inkl)
+### Miscellaneous signals
+- Topic size: 10 item(s) across 5 source(s); 10 official/primary-source item(s).
+- Lead item: [FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Jalapeños That Have Been Recalled Due To Possible Salmonella Contaminationpha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766199) (CDC Travel Health Notices, 2026-08-08T16:00+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Jalapeños That Have Been Recalled Due To Possible Salmonella Contaminationpha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766199) (CDC Travel Health Notices); [WHO guidelines on leishmaniases: treatment of visceral leishmaniasis and post-kala-azar dermal leishmaniasis in eastern Africa and South-East Asia](https://www.afro.who.int/countries/chad/publication/who-guidelines-leishmaniases-treatment-visceral-leishmaniasis-and-post-kala-azar-dermal) (WHO Regional Office for Africa); [The S32 amino acid deletion in the GP5 protein modulates the infectivity of porcine reproductive and respiratory syndrome virus.](https://pubmed.ncbi.nlm.nih.gov/42559914/) (PubMed Infectious Disease Search); [FSIS Issues Public Health Alert for Chicken Salad Product that May Be Contaminated with Listeriapha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766123) (CDC Travel Health Notices); [As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation](https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -84,21 +52,37 @@ Search window: 7 day(s) ending 2026-08-09
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Polio and wastewater surveillance
-- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
-- Lead item: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa, 2026-08-03T11:19+00:00)
-- Detailed note: Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems...
-- Evidence notes: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa); [MSU researchers explore wastewater testing for cyclospora outbreak](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUVtZ3BjTWtOb0VHa0g0eTlBQ0VSdlhjbVM2Tmx2ek5XWjZ2MlpKMFRlSHJyU1hvM1ZiMm81WGxNTk45VHNJamhQX1BEeGc0RXU3Nm5hQjJMSk5JcThOOWFTelVMOVdSbS0xSmlJTkdtN21zTlZaZGRtWk1hQ3lSd19Qbw?oc=5) (msutoday.msu.edu); [MSU researchers to explore wastewater studies for cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMikAJBVV95cUxON2ZXdkxJcTFqUlFCdktJUW1hTWFTSkpvbmNoc3JlZ3JwMlE5emxHWkhpanVRV0l5ZXNxN0ZiTFZOUU15RXEtc05QUUlsTW5fVlFoSjJLZkNPckVlOTBxdUo0aFVaYS1JbG1jOFF6bEpFQ19WalhTY0dSaHg5bmtiQWVfSE5OMGFRSGdVVGpkQ0R3QVh2RGpERzd1ODhzSmtqNWtkZnBtVXBEYmFJcllDY2RtZzV2VWhucGs4RHd6ZmQ0ZWNMZFpVN0dWMEo4MHdxeWJ0bnNfU0Z4dlNMaEtQZ2N2cHVINHVPemxRdHBWTnlzcmFzX0w2d05OWnZKNnBzdjg5c1lYTlIwSlpZUDI0NA?oc=5) (midmichigannow.com); [MSU researchers explore wastewater testing amid cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0hZN21taVJ1VUdmTVRiUXpzbWdmWkVZY1gtS0t1SnFNMTZhb01ieldqUFVCQzBTdm45M2NJOWFRYUlCcWtYTHZTSGtwRWlKT1RzVXhrVEJrNXU4VHlrTHBjZUFrem83blJhdHFoVDdBeEtGQlA0bWZ2eHVkdHpSc3hjWFBTNU1mZzU4ejJSaGlST1RYUnkzUV90VXpqX3VSSHfSAbYBQVVfeXFMUDZsbHZWb3liRFpid3ZzR2dSN3VkcFJoNnNIeGVYanZJVVNQdlhyYWNQQTZqSjIxNFMwY3VnSUNxQ2xJVHpaRzBtTmJoNmt0WXFlLTdzczA1X0pVR3N1SlVncFNWdldJcEZ0QW9HbU0wbnM4TW92NlluRTFGdm0xcDJfQ3d4YkVoUER6Z21UbWt4eUFpXzB4OWlqZ1o0TENCTWVVLVVtV0N5QlhlRGhTTFAybTh5RUE?oc=5) (WILX)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+### Historical epidemiology and ancient pathogens
+- Topic size: 5 item(s) across 2 source(s); 5 official/primary-source item(s).
+- Lead item: [Eponymous Osseous Signs in Congenital Syphilis: A Narrative Historical Review.](https://pubmed.ncbi.nlm.nih.gov/42560072/) (PubMed Historical Pathogen Case Studies, 2026-08-06T00:00)
+- Detailed note: In multivariate analysis, historical smallpox vaccination was associated with higher titers at > 2 years (OR = 5.37; 95% CI, 1.31-22.00; P = .020), whilst previous mpox was marginally associated (OR = 2.08; 95% CI, .94-4.62; P = .073). At IC50 previous mpox was associated with positive titers (68.75% vs 47.62%; P = .042), with univariate analysis associating higher titers at 6 months to higher titers at > 2 years...
+- Evidence notes: [Eponymous Osseous Signs in Congenital Syphilis: A Narrative Historical Review.](https://pubmed.ncbi.nlm.nih.gov/42560072/) (PubMed Historical Pathogen Case Studies); ['Certainly not in the heterosexual public eye': Qualitative study of the contexts of syphilis transmission among heterosexually-identifying people in England.](https://pubmed.ncbi.nlm.nih.gov/42556825/) (PubMed Historical Pathogen Case Studies); [Beyond the surface: A review of current and potential micro-CT applications in paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42551142/) (PubMed Historical Epidemiology); [A Reexamination of Dr. Masanao Goto's Leprosy Treatment in Hawai'i: New Insights from Japanese and Hawaiian Sources.](https://pubmed.ncbi.nlm.nih.gov/42559480/) (PubMed Historical Pathogen Case Studies); [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/) (PubMed Historical Pathogen Case Studies)
+- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms. It also has value for historical epidemiology and blog-idea generation.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Avian influenza and H5N1
-- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
-- Lead item: [4 new human H9N2 avian flu cases in China as Australia sees more H5N1 in wild birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/4-new-human-h9n2-avian-flu-cases-china-australia-sees-more-h5n1-wild-birds) (CIDRAP, 2026-08-04T19:24+00:00)
-- Detailed note: The case-patients include a 3-year-old girl from Gansu province, a 12-year-old boy from Jiangsu province, a 72-year-old woman from Jiangxi province, and a 58-year-old woman from Yunnan province. There have been 20 known human infections of H9N2 over the past six months, including 12 on mainland China, one each in Hong Kong and Taiwan, and one case in Italy.
-- Evidence notes: [4 new human H9N2 avian flu cases in China as Australia sees more H5N1 in wild birds](https://www.cidrap.umn.edu/avian-influenza-bird-flu/4-new-human-h9n2-avian-flu-cases-china-australia-sees-more-h5n1-wild-birds) (CIDRAP); [Australia confirms first mass death of seabirds from H5N1 bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/australia-confirms-first-mass-mortality-event-h5-bird-flu-2026-08-03/) (Reuters); [Vietnam intensifies fight against avian influenza](https://avinews.com/en/vietnam-intensifies-fight-against-avian-influenza/) (avinews.com)
+### Cyclosporiasis
+- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-07T00:00)
+- Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The response to the current large outbreak is a communications failure, not a failure of the investigation.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [CIDRAP Op-Ed: The Cyclospora outbreak was, and still is, a communications failure](https://www.cidrap.umn.edu/cyclospora/cidrap-op-ed-cyclospora-outbreak-was-and-still-communications-failure) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-09T16:43+00:00)
+- Detailed note: The report comes as emerging infectious diseases such as COVID-19, H5N1 avian influenza, and measles challenge public health systems. Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [GAO to HHS: Work with other agencies to strengthen US ability to detect emerging diseases](https://www.cidrap.umn.edu/biosecurity-issues/gao-hhs-work-other-agencies-strengthen-us-ability-detect-emerging-diseases) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) (WHO Regional Office for Africa, 2026-07-31T19:19+00:00)
+- Detailed note: Cumulatively from weeks 1 to 26, the WHO AFR influenza laboratory network has tested 37,617 sentinel surveillance specimens for SARS-CoV-2, of which 1,031 were positive for SARS-CoV-2 (cumulative positivity rate 2.7%). SARS CoV-2 In Epiweek 26, of the 1,274 specimens processed by 18 laboratories in the African Region, a total of 58 specimens tested positive for SARS-CoV-2 (positivity of 4.6%). CIDRAP Director...
+- Evidence notes: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) (WHO Regional Office for Africa); [COVID is still here. Is the pandemic?](https://www.cidrap.umn.edu/covid-19/covid-still-here-pandemic) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
 ## Last major outbreaks on file
@@ -340,7 +324,7 @@ Search window: 7 day(s) ending 2026-08-09
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-09T16:16+00:00
+- Date: 2026-08-09T16:48+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
@@ -350,10 +334,20 @@ Search window: 7 day(s) ending 2026-08-09
 
 ### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-09T16:13+00:00
+- Date: 2026-08-09T16:43+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Jalapeños That Have Been Recalled Due To Possible Salmonella Contaminationpha
+- Source: CDC Travel Health Notices
+- Date: 2026-08-08T16:00+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766199
+- Category: Outbreaks and emerging infections
+- Summary: Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for meat and poultry products containing FDA-regulated jalapeños...
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -408,78 +402,68 @@ Search window: 7 day(s) ending 2026-08-09
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-08-05T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42568929/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: The corresponding decreases in incidence and mortality rates were 16.8 (-172.17 to 138.57) and 5.88 (-34.85 to 23.16) per 100 000. Compared with scenarios in which US DAH was low but other funds were high, a combination of high US DAH, high funding from other donors and high GHES (one unit above their means) was associated with a 6.5% (95% Confidence Interval (CI) -73.6% to 49.6%) and a 14.6% (-86% to 60.8%) reduction in TB incidence and mortality, respectively. Total annual TB-specific DAH in Africa increased from US$4.4 million in 1990 to US$168.7 million in 2022.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1398: Cyclospora
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-05T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. Product linked to illnesses: Not Yet Identified.
+### The S32 amino acid deletion in the GP5 protein modulates the infectivity of porcine reproductive and respiratory syndrome virus.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-08-06T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42559914/
+- Category: Major epidemiology studies
+- Summary: Sequence analysis identified a unique deletion of the serine residue at position 32 (S32) in the GP5 protein. We found that JX2015-△S32 showed reduced propagation in Marc-145 cells and decreased sensitivity to neutralization by MLV-derived anti-PRRSV positive serum, but exhibited enhance replication in primary porcine alveolar macrophages (PAMs) compared to its parental strain JX2015. The isolate exhibited moderate pathogenicity in piglets and clustered within the same sub-lineage as NADC30.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### 'They (researchers) don't have to justify their presence, why do we have to justify ours?': The political economy of community advisory boards in tuberculosis research.
+### Eponymous Osseous Signs in Congenital Syphilis: A Narrative Historical Review.
 - Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-08-04T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42561792/
+- Date: 2026-08-06T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42560072/
 - Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: This qualitative study draws on 28 semi-structured interviews with TB advocates, community engagement practitioners, and TB CABs representatives across countries and levels of global health governance. However, sustaining these activist ambitions remained precarious as TB CABs were under-resourced and their knowledge transmission emphasised the technical over the radical, narrowing engagement into more operational and manageable forms. As the CAB model became increasingly institutionalised as a formal engagement mechanism, they were intended to become sites for nurturing TB advocates and enabling their participation in research decision-making.
+- Summary: Six eponyms met inclusion criteria: Parrot (1871), Fournier (1887), Fraenkel (1897), Wimberger (1925), Du Bois (1926), and Higoumenakis (1928). We reviewed the origins and early clinical descriptions of eponymous osseous signs of congenital syphilis between 1871 and 1928 and to outline their present-day relevance. Eponyms were included only when they appeared in at least two sources beyond the original report.
 - Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) | PubMed Historical Pathogen Case Studies | 2026-08-05T00:00 | Historical epidemiology / ancient disease / paleopathology
+  The corresponding decreases in incidence and mortality rates were 16.8 (-172.17 to 138.57) and 5.88 (-34.85 to 23.16) per 100 000. Compared with scenarios in which US DAH was low but other funds were high, a combination of high US DAH, high funding from other donors and high GHES (one unit above their means) was associated with a 6.5% (95% Confidence Interval (CI) -73.6% to 49.6%) and a 14.6% (-86% to 60.8%) reduction in TB incidence and mortality, respectively. Total annual TB-specific DAH in Africa increased from US$4.4 million in 1990 to US$168.7 million in 2022.
+- [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-08-05T00:00 | Outbreaks and emerging infections
+  FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. Product linked to illnesses: Not Yet Identified.
+- [Heterologous prime-boost vaccination against H5 avian influenza: Safety and immunogenicity of a MF59-adjuvanted, cell-culture derived H5N6 vaccine.](https://pubmed.ncbi.nlm.nih.gov/42555510/) | PubMed Infectious Disease Search | 2026-08-05T00:00 | Major epidemiology studies
+  Immunogenicity was assessed by hemagglutination inhibition (HI) and microneutralization (MN) assays against the priming (H5N1) and booster (H5N6) strains on Days 1, 8, 22, 43, and 202. Heterologous H5N1 responses were robust in primed subjects (Day 43 HI GMTs: 333-343; seroconversion rates >89%) but minimal in unprimed subjects, with responses persisting to Day 202. Among 258 exposed participants, primed subjects (Groups 1 and 2) showed higher HI geometric mean titers against both strains than unprimed (Group 3) subjects, with MN responses similarly enhanced.
+- ['Certainly not in the heterosexual public eye': Qualitative study of the contexts of syphilis transmission among heterosexually-identifying people in England.](https://pubmed.ncbi.nlm.nih.gov/42556825/) | PubMed Historical Pathogen Case Studies | 2026-08-05T00:00 | Historical epidemiology / ancient disease / paleopathology
+  Service user and HCP data were triangulated to compare perspectives and enhance credibility.ResultsNineteen service users (53% male, 74% White British) and seven HCPs were interviewed. Participants were recruited from sexual health services across three regions in England between December 2023 and September 2024. Many heterosexual individuals perceived low STI risk due to few partners, presumed exclusivity, or isolated changes in behaviour.
+- [Beyond the surface: A review of current and potential micro-CT applications in paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42551142/) | PubMed Historical Epidemiology | 2026-08-04T00:00 | Historical epidemiology / ancient disease / paleopathology
+  We reviewed articles published 2015-2025 in the International Journal of Paleopathology and International Journal of Osteoarchaeology, supplemented by the Journal of Archaeological Science and Journal of Archaeological Science: Reports (2015-2025) and five frequently cited mummy studies (2010-2025). Articles were categorized by how micro-CT was used (active use versus referencing or recommending it) and by anatomical and pathological focus; reporting of acquisition and reconstruction parameters was also evaluated. Across all journals, micro-CT was used predominantly to image bone, with little application to soft tissue, infectious disease, or malignancy, and parameter reporting was inconsistent across studies.
+- ['They (researchers) don't have to justify their presence, why do we have to justify ours?': The political economy of community advisory boards in tuberculosis research.](https://pubmed.ncbi.nlm.nih.gov/42561792/) | PubMed Historical Pathogen Case Studies | 2026-08-04T00:00 | Historical epidemiology / ancient disease / paleopathology
+  This qualitative study draws on 28 semi-structured interviews with TB advocates, community engagement practitioners, and TB CABs representatives across countries and levels of global health governance. However, sustaining these activist ambitions remained precarious as TB CABs were under-resourced and their knowledge transmission emphasised the technical over the radical, narrowing engagement into more operational and manageable forms. As the CAB model became increasingly institutionalised as a formal engagement mechanism, they were intended to become sites for nurturing TB advocates and enabling their participation in research decision-making.
 - [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) | WHO Regional Office for Africa | 2026-08-03T11:19+00:00 | Outbreaks and emerging infections
   Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems strengthening, disease prevention and control, immunization, emergency preparedness and response, and public health intelligence. The publication also highlights WHO Zambia’s collaboration with Government, development partners, civil society, and communities to advance Universal Health Coverage, health emergency preparedness, and improved health outcomes for all Zambians.
+- [A Reexamination of Dr. Masanao Goto's Leprosy Treatment in Hawai'i: New Insights from Japanese and Hawaiian Sources.](https://pubmed.ncbi.nlm.nih.gov/42559480/) | PubMed Historical Pathogen Case Studies | 2026-08-03T00:00 | Historical epidemiology / ancient disease / paleopathology
+  Patient support, however, was a powerful force, culminating in an 1894 petition from 861 Kalaupapa residents to appoint him their permanent physician. Utilizing previously under-examined Japanese sources-including family records and hospital documents-alongside Hawaiian and English archives, this historical research analyzes Goto's work in Hawai'i (1885-1895) and the dynamics of cross-cultural medical encounters. While initially supported by the Kalākaua administration, his work later clashed with the "reformist" Board of Health following the political upheaval of 1887.
+- [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/) | PubMed Historical Pathogen Case Studies | 2026-08-03T00:00 | Historical epidemiology / ancient disease / paleopathology
+  In multivariate analysis, historical smallpox vaccination was associated with higher titers at > 2 years (OR = 5.37; 95% CI, 1.31-22.00; P = .020), whilst previous mpox was marginally associated (OR = 2.08; 95% CI, .94-4.62; P = .073). At IC50 previous mpox was associated with positive titers (68.75% vs 47.62%; P = .042), with univariate analysis associating higher titers at 6 months to higher titers at > 2 years (odds ratio [OR] = 6.45; 95% confidence interval [CI], 1.89-22.07; P = .003). At > 2 years from mpox or vaccination, 22 of 90 (24.44%) and 53 of 90 (58.8%) had positive nAb titers, respectively, at IC90 and IC50.
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) | WHO Regional Office for Africa | 2026-07-31T19:19+00:00 | Outbreaks and emerging infections
   Cumulatively from weeks 1 to 26, the WHO AFR influenza laboratory network has tested 37,617 sentinel surveillance specimens for SARS-CoV-2, of which 1,031 were positive for SARS-CoV-2 (cumulative positivity rate 2.7%). SARS CoV-2 In Epiweek 26, of the 1,274 specimens processed by 18 laboratories in the African Region, a total of 58 specimens tested positive for SARS-CoV-2 (positivity of 4.6%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 36), Influenza A (H3) (n = 73), Influenza A (subtyping not performed) (n = 4), Influenza B (lineage not determined) (n = 6), and Influenza B (Victoria) (n = 59).
 - [NATIONAL HEALTH ACCOUNTS ESTIMATES FOR ZAMBIA 2022- 2024](https://www.afro.who.int/publications/national-health-accounts-estimates-zambia-2022-2024) | WHO Regional Office for Africa | 2026-07-31T13:53+00:00 | Outbreaks and emerging infections
   Findings show that Total Health Expenditure increased from ZMW 24.9 billion in 2022 to ZMW 32.3 billion in 2024, with current health expenditure accounting for over 95% of total spending. The report also highlights increased investment in preventive and public health interventions, while infectious diseases, especially HIV/AIDS, remained the largest drivers of disease-related spending. Government remained a major source of health financing, while development partners continued to support key priority programmes, particularly HIV, tuberculosis, and malaria.
-- [Death toll rises to 873 as 6 more children die of measles-like symptoms in Bangladesh](https://www.aa.com.tr/en/asia-pacific/death-toll-rises-to-873-as-6-more-children-die-of-measles-like-symptoms-in-bangladesh/4022469) | Anadolu Ajansı | 2026-08-09T12:20+00:00 | Outbreaks and emerging infections
-  In the same period, authorities recorded 988 new suspected cases and 75 laboratory-confirmed infections, bringing the total to 136,320 and 17,115, respectively. The total number of measles-linked fatalities rose to 873, including 98 deaths since mid-March of this year, according to data from the Directorate General of Health Service (DGHS). The Health Ministry has vaccinated more than 18.48 million children since April 5.
-- [No Ebola cases found on quarantined river boat, Congo authorities say](https://www.bozemandailychronicle.com/wire/international/no-ebola-cases-found-on-quarantined-river-boat-congo-authorities-say/article_8c51c62c-2684-5916-9890-d3ccbefa4f80.html) | Bozeman Daily Chronicle | 2026-08-09T12:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola cases in DR Congo surpass 4,000 as outbreak becomes fastest-spreading on record](https://eastleighvoice.co.ke/democratic-republic-of-congo/388504/ebola-cases-in-dr-congo-surpass-4000-as-outbreak-becomes-fastest-spreading-on-record) | The Eastleigh Voice | 2026-08-09T09:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens](https://www.spokesman.com/stories/2026/aug/07/ebola-response-turns-to-merck-vaccine-gilead-drug-/) | The Spokesman-Review | 2026-08-08T01:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo: Ebola outbreak tops 4,000 confirmed cases](https://outbreaknewstoday.substack.com/p/dr-congo-ebola-outbreak-tops-4000) | Outbreak News Today | 2026-08-08T00:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [CDC adds almost 100 new cases to expanding US measles outbreak](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVVUMFRRaXk2TEhNcDdZdDdJNFoyT0dxTjBXd05KQzJxbWhvbjBmUm1KNGFfMGJPLXh3ZDJkZE1GaW9lOTY4dHo2c3RFSWtqRnpHMmpXOXdyS3NZN24yMHU3LXd0X29mdHVQSlZrcE5rOW1pcVlJa0FkUVBZcmxhSUd3S3RTVDVYcENURzl5QkJmYmFWUEd1eEpR?oc=5) | CIDRAP | 2026-08-07T19:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO, Africa CDC urge scale-up of efforts to contain Ebola outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmdhUVlZZGU1YXlicHAxZ215Y3FFUUdxc0N4ck9HWGRLcU1aVFdJbUxTT3MyckZiRl96cWVJSGdLUDhDdEozdDFiT0VzQ1pOalN6aHo5YkNjU3RqZjU1NHRSc0VXeWd2SW9Qbl9XSG52YV9QeGdmVVN6WGVZd1ItNXpHamhRYTlwb2pSMEVESmJFMmc?oc=5) | CIDRAP | 2026-08-07T19:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2VzREN2Q1pOMl9OM1Mwd3BwajJnNmNXVVkyZS1MYkE0TGZsaE5zd1VXbFl4NmM4a3otOTFORFRjOG5rellhSmhuWVdHQjdURl8xTnJPMXM5Ullwd3NWaEU3b2JDcmxRdWdXZkJadzhObGI0eTliQW1Xd09KaE5VUF9zTDFvaUJMSldzV3hfa3RyQk0?oc=5) | Courthouse News | 2026-08-07T18:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa CDC calls for village-level response to contain Ebola outbreak in DR Congo](https://eastleighvoice.co.ke/democratic-republic-of-congo/388097/africa-cdc-calls-for-village-level-response-to-contain-ebola-outbreak-in-dr-congo?amp\=1) | The Eastleigh Voice | 2026-08-07T17:46+00:00 | Outbreaks and emerging infections
-  WHO recommends Ervebo vaccine trial as DRC Ebola cases surpass 4,000 The priorities also entail safeguarding the planned reopening of schools next month, accelerating critical research and development of Ebola vaccines and therapeutics, and intensifying essential cross-border cooperation. Continue with a related story, or tap the speaker icon on the next page to listen. Limited detail was available from feed metadata alone.
-- [Measles cases continue to drop in Manitoba, with just 2 confirmed in July](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeElzLTMtamIxRnFLTU9id0tpSkdGVHM1a21qYUFILTR6YmV0WllpcWxlS0Z5em9lZ0p4OGpvcWJoTmxhdFcwWUxwQVEzVVZLQ2xrRGpxVjAwQWUwOXpTZlBhVFBzamsxdXg2aTZOSkxGYlFVemk3UEdxcG14NXRrM3NOczg?oc=5) | CBC | 2026-08-07T16:51+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola virus behind massive outbreak in DRC could be mutating, officials say](https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYmtqdWFvVXpFVUNjMDlpS1IxTXRTRms0Ym5wVW1RME5YbXZsVzdWQjdqQi02U0E5M3Z5Uy12MDAxdHMtekpJLUp0eTd0MWxsN0FTNEc4QXRpb3FQejhJei03V09xbzFjWjg1V1BTUFRoRVF2YmpMNzFB?oc=5) | The Guardian | 2026-08-07T09:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo escalates Ebola response as record outbreak spreads](https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3dTS1FBNW9OWVNiV3JUaUJXTGcxdEdpS2RXQVVHZVBfd3d2WVZralhiRldweDJZMzZRVVZjSndvQjdSSkRKNG43dVY4eXZrQ0RLcmlMbGw0cnROQ1hhenFOWUVabnFpaDd1ZkptUWlPeHZKYkdkRUtMUE15cTlBNFJoMENsZ0hvUzRZajYwbFptMUliV0gwc3BoQQ?oc=5) | Jefferson City News Tribune | 2026-08-07T09:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa CDC, WHO warn DRC Ebola outbreak outpacing response as cases surge](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSV9sNlFrdFZ4SXVWcGR0MFdDMWl5YjdNQUZwbV9laE1nUko1OEhqN1ZMT1hPNHp3SkxsRThObmpNWk8yWmlVU3V2N0hFd25NbG5SMFIwS2Q3ZS1raVJZSGVfV0E4azhsT2o0bWR1N3NoV2VfNXBGekVBeXE1UWtPWVNGSnM1OHlaOVhuaHNBZ2UtbGVuWmlGaGMtSXlwYlloWWl2UlZoTk1CTXJyQmhGcF9fbThqbkYwa1Bobmw4M0YtNFVjbGx1VmtMWVE0cWg0TlRwQjUxOGNOZk0?oc=5) | The Eastleigh Voice | 2026-08-07T08:49+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo’s Ebola outbreak surpasses 4,000 cases](https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEQ5QTQzSjdodnFmcXdOTFNwSklNdlYwUmhyQW92R193TE5wdU9XVW1YSldfVS1lSkRuSDJmS0pSZkVFZnFRcVg3Y09Zc0taOEZxQjdPOUpIMUZ6cjVzeU91aXF1NUp0NUlNa3lmUGNwNTNaWktQZ2ZaeUZTMUFNd0NENA?oc=5) | sightmagazine.com.au | 2026-08-07T08:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [What Happens After a Measles Exposure? Symptoms,…](https://www.inkl.com/news/what-happens-after-a-measles-exposure-symptoms-timing-and-when-to-seek-care-following-the-universal-studios-warning) | inkl | 2026-08-07T07:00+00:00 | Outbreaks and emerging infections
-  People who were at Universal Studios Hollywood during the identified exposure period may be at risk of developing measles for 7 to 21 days after exposure . Los Angeles County health officials are warning people who visited Universal Studios Hollywood on July 26 that they may have been exposed to measles after an infectious person spent several hours at the theme park. People who do not know whether they are protected, or who are unvaccinated, may face a higher risk of infection.
-- [Congo Ebola outbreak tops 4,000 cases, 1,850 deaths](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kU1NUM0Y2UEtoQmpEUzAwdmVSRUc5Q280eDhIcjlHRDNubDhzUGI1c0VGejlLQkNlVy1mLW9RdWc2Ty1fZmVCZHZxUXkzT25MeXVjTFRYenV1Yl8yRjVN?oc=5) | The Jerusalem Post | 2026-08-07T06:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DRC Ebola outbreak tops 4,000 cases as Africa CDC and UNICEF raise response concerns](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDhzakZEN2xQSWJNYVNsTl9KTUdDMC1xVkF4SmR0SGlmWTEwWkdhVEFYYlVwc1RxMHh0NlkzU3VabVQxZkhiaDlOVElXSC1qX3FudHpiUVFmN1kzS2xRaDNQMDZBRmk2UTBDX053VVJWN0FVUVJGVUI0eFEzQkRKblhDMzVHc1MtUUduLUd2SmJHWjRyNlAtMnhQMmYycDB6UU1sR1J5OFM0ZTJDRjBpeUVJeUZkR1U?oc=5) | news.cgtn.com | 2026-08-07T05:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [FSIS Issues Public Health Alert for Chicken Salad Product that May Be Contaminated with Listeriapha](https://tools.cdc.gov/api/embed/downloader/download.asp?m=316422&c=766123) | CDC Travel Health Notices | 2026-07-30T16:00+00:00 | Outbreaks and emerging infections
+  WASHINGTON, JUL 30, 2026 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for Curry Chicken Salad due to concerns that...
+- [As sustained heatwaves increase the risk of infectious diseases across Europe, ECDC scales up action and calls for cooperation](https://www.ecdc.europa.eu/en/news-events/sustained-heatwaves-increase-risk-infectious-diseases-across-europe-ecdc-scales-action) | ECDC News | 2026-07-29T12:30+02:00 | Policy, surveillance, and public health infrastructure
+  The risk of catching some infectious diseases is growing amidst longer, warmer summers across Europe, making close cooperation across borders and sectors vital to predict, prevent, and respond effectively, ECDC said today.
+- [World Hepatitis Day 2026: Ensuring that life-saving interventions are accessible to everyone who needs them is a common challenge](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-ensuring-life-saving-interventions-are-accessible-everyone-who) | ECDC News | 2026-07-28T08:37+02:00 | Policy, surveillance, and public health infrastructure
+  World Hepatitis Day is an opportunity to raise awareness of the risk of contracting hepatitis and the health threats it can bring, while at the same time recognising the progress Europe has made to strengthen prevention.
+- [World Hepatitis Day 2026: Despite progress towards eliminating hepatitis in Europe, gaps in prevention measures keep 2030 targets out of reach](https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2026-despite-progress-towards-eliminating-hepatitis-europe-gaps) | ECDC News | 2026-07-28T08:00+02:00 | Policy, surveillance, and public health infrastructure
+  While Europe has made steady progress in preventing hepatitis B and C the region is set to miss the 2030 target to eliminate viral hepatitis as a public health threat.
+- [GAO to HHS: Work with other agencies to strengthen US ability to detect emerging diseases](https://www.cidrap.umn.edu/biosecurity-issues/gao-hhs-work-other-agencies-strengthen-us-ability-detect-emerging-diseases) | CIDRAP | 2026-08-04T15:28-05:00 | Outbreaks and emerging infections
+  The report comes as emerging infectious diseases such as COVID-19, H5N1 avian influenza, and measles challenge public health systems.
+- [Quick takes: Plea for PAHO support, another death in NYC Legionnaires outbreak, frozen blueberry recall](https://www.cidrap.umn.edu/legionella/quick-takes-plea-paho-support-another-death-nyc-legionnaires-outbreak-frozen-blueberry) | CIDRAP | 2026-07-31T13:19-05:00 | Outbreaks and emerging infections
+  The NYC Health Department has confirmed a 7th death in a Legionnaires disease outbreak on Manhattan’s Upper East Side.
+- [CIDRAP Op-Ed: The Cyclospora outbreak was, and still is, a communications failure](https://www.cidrap.umn.edu/cyclospora/cidrap-op-ed-cyclospora-outbreak-was-and-still-communications-failure) | CIDRAP | 2026-07-27T11:16-05:00 | Outbreaks and emerging infections
+  The response to the current large outbreak is a communications failure, not a failure of the investigation.
+- [Pathogenicity and virulence of Crimean-Congo hemorrhagic fever virus: From enzootic maintenance to severe human disease.](https://pubmed.ncbi.nlm.nih.gov/42555543/) | PubMed Infectious Disease Search | 2026-08-05T00:00 | Major epidemiology studies
+  While infection in most vertebrates is asymptomatic, human disease ranges from mild illness to fulminant hemorrhagic fever with vascular leak, multiorgan failure, coagulopathy, and shock, with case-fatality rates up to 30% and no licensed countermeasures. We highlight host and viral factors driving infection in ticks, intermediate hosts, and humans, including entry, immune evasion, and mechanisms underlying severe disease. We also identify key knowledge gaps and research priorities to advance understanding of CCHFV pathogenesis and inform strategies to mitigate severe disease.
+- [COVID is still here. Is the pandemic?](https://www.cidrap.umn.edu/covid-19/covid-still-here-pandemic) | CIDRAP | 2026-07-31T08:16-05:00 | Outbreaks and emerging infections
+  CIDRAP Director Michael Osterholm explains what makes a pandemic, if we’re still in one, and what gives a pathogen pandemic potential.
 
 ## Papers worth saving
 - [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/)
@@ -494,18 +478,60 @@ Search window: 7 day(s) ending 2026-08-09
   Journal/preprint server: Medicine
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42566613/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42566613/
+- [The S32 amino acid deletion in the GP5 protein modulates the infectivity of porcine reproductive and respiratory syndrome virus.](https://pubmed.ncbi.nlm.nih.gov/42559914/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21505594.2026.2711509
+  Journal/preprint server: Virulence
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42559914/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42559914/
+- [Eponymous Osseous Signs in Congenital Syphilis: A Narrative Historical Review.](https://pubmed.ncbi.nlm.nih.gov/42560072/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1097/OLQ.0000000000002387
+  Journal/preprint server: Sexually transmitted diseases
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42560072/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42560072/
 - [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1136/bmjph-2026-005035
   Journal/preprint server: BMJ public health
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42568929/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42568929/
+- [Heterologous prime-boost vaccination against H5 avian influenza: Safety and immunogenicity of a MF59-adjuvanted, cell-culture derived H5N6 vaccine.](https://pubmed.ncbi.nlm.nih.gov/42555510/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2712791
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42555510/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42555510/
+- ['Certainly not in the heterosexual public eye': Qualitative study of the contexts of syphilis transmission among heterosexually-identifying people in England.](https://pubmed.ncbi.nlm.nih.gov/42556825/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1177/09564624261474911
+  Journal/preprint server: International journal of STD & AIDS
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42556825/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42556825/
+- [Beyond the surface: A review of current and potential micro-CT applications in paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42551142/)
+  Source: PubMed Historical Epidemiology
+  DOI: 10.1016/j.ijpp.2026.06.005
+  Journal/preprint server: International journal of paleopathology
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42551142/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42551142/
 - ['They (researchers) don't have to justify their presence, why do we have to justify ours?': The political economy of community advisory boards in tuberculosis research.](https://pubmed.ncbi.nlm.nih.gov/42561792/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1016/j.socscimed.2026.119662
   Journal/preprint server: Social science & medicine (1982)
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42561792/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42561792/
+- [A Reexamination of Dr. Masanao Goto's Leprosy Treatment in Hawai'i: New Insights from Japanese and Hawaiian Sources.](https://pubmed.ncbi.nlm.nih.gov/42559480/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.62547/CTHG4748
+  Journal/preprint server: Hawai'i journal of health & social welfare
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42559480/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42559480/
+- [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1093/infdis/jiag009
+  Journal/preprint server: The Journal of infectious diseases
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/41492703/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/41492703/
 - [Pathogenicity and virulence of Crimean-Congo hemorrhagic fever virus: From enzootic maintenance to severe human disease.](https://pubmed.ncbi.nlm.nih.gov/42555543/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21505594.2026.2709250
@@ -518,12 +544,23 @@ Search window: 7 day(s) ending 2026-08-09
   Hospital stays shortened by 60% (10 versus 25 days; p < 0.01), and adherence climbed from 70% to 95.2% (p < 0.01). Conventional treatment runs 18-24 months, costs US$7,142-9,000 per patient, and succeeds in only 59% of cases. BPaL achieved 77.4% treatment success (65/84 patients) compared with 59% in historical controls (p < 0.01).
 - [Rare primary bone tuberculosis associated with ruxolitinib therapy: A case report and literature review.](https://pubmed.ncbi.nlm.nih.gov/42566613/) | PubMed Historical Pathogen Case Studies
   Standard four-drug antituberculosis therapy was administered once daily: isoniazid 200 mg, rifampicin 450 mg, pyrazinamide 1125 mg, and ethambutol 625 mg, while ruxolitinib was continued for the underlying myeloproliferative disorder. Follow-up MRI examinations of the right humeral head and sacroiliac joints at 4 and 5 months post-tuberculosis treatment revealed a marked reduction in lesion size and decreased edema at both sites, consistent with an effective therapeutic response.. A 68-year-old female patient had been taking ruxolitinib for over 2 years for primary thrombocythaemia and developed recurrent high fever without other localizing symptoms.
+- [Eponymous Osseous Signs in Congenital Syphilis: A Narrative Historical Review.](https://pubmed.ncbi.nlm.nih.gov/42560072/) | PubMed Historical Pathogen Case Studies
+  Six eponyms met inclusion criteria: Parrot (1871), Fournier (1887), Fraenkel (1897), Wimberger (1925), Du Bois (1926), and Higoumenakis (1928). We reviewed the origins and early clinical descriptions of eponymous osseous signs of congenital syphilis between 1871 and 1928 and to outline their present-day relevance. Eponyms were included only when they appeared in at least two sources beyond the original report.
 - [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) | PubMed Historical Pathogen Case Studies
   The corresponding decreases in incidence and mortality rates were 16.8 (-172.17 to 138.57) and 5.88 (-34.85 to 23.16) per 100 000. Compared with scenarios in which US DAH was low but other funds were high, a combination of high US DAH, high funding from other donors and high GHES (one unit above their means) was associated with a 6.5% (95% Confidence Interval (CI) -73.6% to 49.6%) and a 14.6% (-86% to 60.8%) reduction in TB incidence and mortality, respectively. Total annual TB-specific DAH in Africa increased from US$4.4 million in 1990 to US$168.7 million in 2022.
+- ['Certainly not in the heterosexual public eye': Qualitative study of the contexts of syphilis transmission among heterosexually-identifying people in England.](https://pubmed.ncbi.nlm.nih.gov/42556825/) | PubMed Historical Pathogen Case Studies
+  Service user and HCP data were triangulated to compare perspectives and enhance credibility.ResultsNineteen service users (53% male, 74% White British) and seven HCPs were interviewed. Participants were recruited from sexual health services across three regions in England between December 2023 and September 2024. Many heterosexual individuals perceived low STI risk due to few partners, presumed exclusivity, or isolated changes in behaviour.
+- [Beyond the surface: A review of current and potential micro-CT applications in paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42551142/) | PubMed Historical Epidemiology
+  We reviewed articles published 2015-2025 in the International Journal of Paleopathology and International Journal of Osteoarchaeology, supplemented by the Journal of Archaeological Science and Journal of Archaeological Science: Reports (2015-2025) and five frequently cited mummy studies (2010-2025). Articles were categorized by how micro-CT was used (active use versus referencing or recommending it) and by anatomical and pathological focus; reporting of acquisition and reconstruction parameters was also evaluated. Across all journals, micro-CT was used predominantly to image bone, with little application to soft tissue, infectious disease, or malignancy, and parameter reporting was inconsistent across studies.
 - ['They (researchers) don't have to justify their presence, why do we have to justify ours?': The political economy of community advisory boards in tuberculosis research.](https://pubmed.ncbi.nlm.nih.gov/42561792/) | PubMed Historical Pathogen Case Studies
   This qualitative study draws on 28 semi-structured interviews with TB advocates, community engagement practitioners, and TB CABs representatives across countries and levels of global health governance. However, sustaining these activist ambitions remained precarious as TB CABs were under-resourced and their knowledge transmission emphasised the technical over the radical, narrowing engagement into more operational and manageable forms. As the CAB model became increasingly institutionalised as a formal engagement mechanism, they were intended to become sites for nurturing TB advocates and enabling their participation in research decision-making.
+- [A Reexamination of Dr. Masanao Goto's Leprosy Treatment in Hawai'i: New Insights from Japanese and Hawaiian Sources.](https://pubmed.ncbi.nlm.nih.gov/42559480/) | PubMed Historical Pathogen Case Studies
+  Patient support, however, was a powerful force, culminating in an 1894 petition from 861 Kalaupapa residents to appoint him their permanent physician. Utilizing previously under-examined Japanese sources-including family records and hospital documents-alongside Hawaiian and English archives, this historical research analyzes Goto's work in Hawai'i (1885-1895) and the dynamics of cross-cultural medical encounters. While initially supported by the Kalākaua administration, his work later clashed with the "reformist" Board of Health following the political upheaval of 1887.
+- [A Humoral Dilemma: Reassessing Monkeypox Virus Neutralizing Antibodies at More Than 2 Years From Mpox or Modified Vaccinia Ankara-Bavarian Nordic Vaccination.](https://pubmed.ncbi.nlm.nih.gov/41492703/) | PubMed Historical Pathogen Case Studies
+  In multivariate analysis, historical smallpox vaccination was associated with higher titers at > 2 years (OR = 5.37; 95% CI, 1.31-22.00; P = .020), whilst previous mpox was marginally associated (OR = 2.08; 95% CI, .94-4.62; P = .073). At IC50 previous mpox was associated with positive titers (68.75% vs 47.62%; P = .042), with univariate analysis associating higher titers at 6 months to higher titers at > 2 years (odds ratio [OR] = 6.45; 95% confidence interval [CI], 1.89-22.07; P = .003). At > 2 years from mpox or vaccination, 22 of 90 (24.44%) and 53 of 90 (58.8%) had positive nAb titers, respectively, at IC90 and IC50.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
+- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
