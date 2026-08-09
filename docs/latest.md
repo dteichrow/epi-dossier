@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-08
-Generated at: 2026-08-08T16:55
+Generated at: 2026-08-08T17:01
 Search window: 7 day(s) ending 2026-08-08
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-08
 - [Rare primary bone tuberculosis associated with ruxolitinib therapy: A case report and literature review.](https://pubmed.ncbi.nlm.nih.gov/42566613/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa; 2026-08-06T14:34+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) (PubMed Historical Pathogen Case Studies; 2026-08-05T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (22), Virology and pathogen evolution (5)
+- Category mix: Outbreaks and emerging infections (252), Policy, surveillance, and public health infrastructure (22), Virology and pathogen evolution (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -32,15 +32,15 @@ Search window: 7 day(s) ending 2026-08-08
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 111 item(s) across 79 source(s).
-- Baseline snapshot created with 111 clustered item(s) across 79 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- Newly tracked story cluster: 112 item(s) across 80 source(s).
+- Baseline snapshot created with 112 clustered item(s) across 80 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 84 item(s) across 60 source(s).
-- Baseline snapshot created with 84 clustered item(s) across 60 source(s).
-- The Spokesman-Review now foregrounds vaccination or vaccine policy in the story.
+- Newly tracked story cluster: 84 item(s) across 61 source(s).
+- Baseline snapshot created with 84 clustered item(s) across 61 source(s).
+- spokesman.com now foregrounds vaccination or vaccine policy in the story.
 
 ### Tuberculosis and antimicrobial resistance
 - Lead item: [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) (PubMed Historical Pathogen Case Studies)
@@ -51,18 +51,18 @@ Search window: 7 day(s) ending 2026-08-08
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 111 item(s) across 79 source(s); 1 official/primary-source item(s).
+- Topic size: 112 item(s) across 80 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-07T00:00)
-- Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) (CBS News); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News); [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://www.nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238) (NBC News); [‘The worst is behind us’: Cyclospora outbreak seems to be slowing in Michigan](https://www.cidrap.umn.edu/cyclospora/worst-behind-us-cyclospora-outbreak-seems-be-slowing-michigan) (CIDRAP)
+- Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) (CBS News); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News); [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://www.nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 84 item(s) across 60 source(s); 1 official/primary-source item(s).
+- Topic size: 84 item(s) across 61 source(s); 1 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa, 2026-08-06T14:34+00:00)
 - Detailed note: WHO recommends Ervebo vaccine trial as DRC Ebola cases surpass 4,000 The priorities also entail safeguarding the planned reopening of schools next month, accelerating critical research and development of Ebola vaccines and therapeutics, and intensifying essential cross-border cooperation. Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens](https://www.spokesman.com/stories/2026/aug/07/ebola-response-turns-to-merck-vaccine-gilead-drug-/) (The Spokesman-Review); [DR Congo: Ebola outbreak tops 4,000 confirmed cases](https://outbreaknewstoday.substack.com/p/dr-congo-ebola-outbreak-tops-4000) (Outbreak News Today); [WHO, Africa CDC urge scale-up of efforts to contain Ebola outbreak](https://www.cidrap.umn.edu/ebola/who-africa-cdc-urge-scale-efforts-contain-ebola-outbreak) (CIDRAP); [WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2VzREN2Q1pOMl9OM1Mwd3BwajJnNmNXVVkyZS1MYkE0TGZsaE5zd1VXbFl4NmM4a3otOTFORFRjOG5rellhSmhuWVdHQjdURl8xTnJPMXM5Ullwd3NWaEU3b2JDcmxRdWdXZkJadzhObGI0eTliQW1Xd09KaE5VUF9zTDFvaUJMSldzV3hfa3RyQk0?oc=5) (Courthouse News)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens](https://www.spokesman.com/stories/2026/aug/07/ebola-response-turns-to-merck-vaccine-gilead-drug-/) (spokesman.com); [DR Congo: Ebola outbreak tops 4,000 confirmed cases](https://outbreaknewstoday.substack.com/p/dr-congo-ebola-outbreak-tops-4000) (outbreaknewstoday.substack.com); [WHO, Africa CDC urge scale-up of efforts to contain Ebola outbreak](https://www.cidrap.umn.edu/ebola/who-africa-cdc-urge-scale-efforts-contain-ebola-outbreak) (CIDRAP); [WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2VzREN2Q1pOMl9OM1Mwd3BwajJnNmNXVVkyZS1MYkE0TGZsaE5zd1VXbFl4NmM4a3otOTFORFRjOG5rellhSmhuWVdHQjdURl8xTnJPMXM5Ullwd3NWaEU3b2JDcmxRdWdXZkJadzhObGI0eTliQW1Xd09KaE5VUF9zTDFvaUJMSldzV3hfa3RyQk0?oc=5) (Courthouse News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -416,6 +416,16 @@ Search window: 7 day(s) ending 2026-08-08
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1398: Cyclospora
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-08-05T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. Product linked to illnesses: Not Yet Identified.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### 'They (researchers) don't have to justify their presence, why do we have to justify ours?': The political economy of community advisory boards in tuberculosis research.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-08-04T00:00
@@ -426,25 +436,17 @@ Search window: 7 day(s) ending 2026-08-08
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)
-- Source: WHO Regional Office for Africa
-- Date: 2026-08-03T11:19+00:00
-- URL: https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026
-- Category: Outbreaks and emerging infections
-- Summary: Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems strengthening, disease prevention and control, immunization, emergency preparedness and response, and public health intelligence. The publication also highlights WHO Zambia’s collaboration with Government, development partners, civil society, and communities to advance Universal Health Coverage, health emergency preparedness, and improved health outcomes for all Zambians.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) | WHO Regional Office for Africa | 2026-08-03T11:19+00:00 | Outbreaks and emerging infections
+  Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems strengthening, disease prevention and control, immunization, emergency preparedness and response, and public health intelligence. The publication also highlights WHO Zambia’s collaboration with Government, development partners, civil society, and communities to advance Universal Health Coverage, health emergency preparedness, and improved health outcomes for all Zambians.
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) | WHO Regional Office for Africa | 2026-07-31T19:19+00:00 | Outbreaks and emerging infections
   Cumulatively from weeks 1 to 26, the WHO AFR influenza laboratory network has tested 37,617 sentinel surveillance specimens for SARS-CoV-2, of which 1,031 were positive for SARS-CoV-2 (cumulative positivity rate 2.7%). SARS CoV-2 In Epiweek 26, of the 1,274 specimens processed by 18 laboratories in the African Region, a total of 58 specimens tested positive for SARS-CoV-2 (positivity of 4.6%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 36), Influenza A (H3) (n = 73), Influenza A (subtyping not performed) (n = 4), Influenza B (lineage not determined) (n = 6), and Influenza B (Victoria) (n = 59).
 - [NATIONAL HEALTH ACCOUNTS ESTIMATES FOR ZAMBIA 2022- 2024](https://www.afro.who.int/publications/national-health-accounts-estimates-zambia-2022-2024) | WHO Regional Office for Africa | 2026-07-31T13:53+00:00 | Outbreaks and emerging infections
   Findings show that Total Health Expenditure increased from ZMW 24.9 billion in 2022 to ZMW 32.3 billion in 2024, with current health expenditure accounting for over 95% of total spending. The report also highlights increased investment in preventive and public health interventions, while infectious diseases, especially HIV/AIDS, remained the largest drivers of disease-related spending. Government remained a major source of health financing, while development partners continued to support key priority programmes, particularly HIV, tuberculosis, and malaria.
-- [Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens](https://www.spokesman.com/stories/2026/aug/07/ebola-response-turns-to-merck-vaccine-gilead-drug-/) | The Spokesman-Review | 2026-08-08T01:46+00:00 | Outbreaks and emerging infections
+- [Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens](https://www.spokesman.com/stories/2026/aug/07/ebola-response-turns-to-merck-vaccine-gilead-drug-/) | spokesman.com | 2026-08-08T01:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo: Ebola outbreak tops 4,000 confirmed cases](https://outbreaknewstoday.substack.com/p/dr-congo-ebola-outbreak-tops-4000) | Outbreak News Today | 2026-08-08T00:01+00:00 | Outbreaks and emerging infections
+- [DR Congo: Ebola outbreak tops 4,000 confirmed cases](https://outbreaknewstoday.substack.com/p/dr-congo-ebola-outbreak-tops-4000) | outbreaknewstoday.substack.com | 2026-08-08T00:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [CDC adds almost 100 new cases to expanding US measles outbreak](https://www.cidrap.umn.edu/measles/cdc-adds-almost-100-new-cases-expanding-us-measles-outbreak) | CIDRAP | 2026-08-07T19:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -475,8 +477,6 @@ Search window: 7 day(s) ending 2026-08-08
 - [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) | CBS News | 2026-08-06T21:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) | NBC News | 2026-08-06T21:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://www.nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238) | NBC News | 2026-08-06T20:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
