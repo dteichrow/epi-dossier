@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-09
-Generated at: 2026-08-09T01:17
+Generated at: 2026-08-09T01:23
 Search window: 7 day(s) ending 2026-08-09
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-08-09
 - [Rare primary bone tuberculosis associated with ruxolitinib therapy: A case report and literature review.](https://pubmed.ncbi.nlm.nih.gov/42566613/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa; 2026-08-06T14:34+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) (PubMed Historical Pathogen Case Studies; 2026-08-05T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (250), Policy, surveillance, and public health infrastructure (20), Virology and pathogen evolution (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (20), Virology and pathogen evolution (5)
+- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, Michigan Department of Health and Human Services Infectious Disease Updates.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
@@ -33,8 +33,8 @@ Search window: 7 day(s) ending 2026-08-09
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 109 item(s) across 79 source(s).
-- Baseline snapshot created with 109 clustered item(s) across 79 source(s).
+- Newly tracked story cluster: 110 item(s) across 80 source(s).
+- Baseline snapshot created with 110 clustered item(s) across 80 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
@@ -52,10 +52,10 @@ Search window: 7 day(s) ending 2026-08-09
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 109 item(s) across 79 source(s); 2 official/primary-source item(s).
+- Topic size: 110 item(s) across 80 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-07T00:00)
 - Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News); [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://www.nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238) (NBC News); [‘The worst is behind us’: Cyclospora outbreak seems to be slowing in Michigan](https://www.cidrap.umn.edu/cyclospora/worst-behind-us-cyclospora-outbreak-seems-be-slowing-michigan) (CIDRAP)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) (CBS News); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News); [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://www.nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -469,7 +469,7 @@ Search window: 7 day(s) ending 2026-08-09
   Limited detail was available from feed metadata alone.
 - [What Happens After a Measles Exposure? Symptoms,…](https://www.inkl.com/news/what-happens-after-a-measles-exposure-symptoms-timing-and-when-to-seek-care-following-the-universal-studios-warning) | inkl | 2026-08-07T07:00+00:00 | Outbreaks and emerging infections
   People who were at Universal Studios Hollywood during the identified exposure period may be at risk of developing measles for 7 to 21 days after exposure . Los Angeles County health officials are warning people who visited Universal Studios Hollywood on July 26 that they may have been exposed to measles after an infectious person spent several hours at the theme park. People who do not know whether they are protected, or who are unvaccinated, may face a higher risk of infection.
-- [Congo Ebola outbreak tops 4,000 cases, 1,850 deaths](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kU1NUM0Y2UEtoQmpEUzAwdmVSRUc5Q280eDhIcjlHRDNubDhzUGI1c0VGejlLQkNlVy1mLW9RdWc2Ty1fZmVCZHZxUXkzT25MeXVjTFRYenV1Yl8yRjVN?oc=5) | The Jerusalem Post | 2026-08-07T06:22+00:00 | Outbreaks and emerging infections
+- [Congo Ebola outbreak tops 4,000 cases, 1,850 deaths](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kU1NUM0Y2UEtoQmpEUzAwdmVSRUc5Q280eDhIcjlHRDNubDhzUGI1c0VGejlLQkNlVy1mLW9RdWc2Ty1fZmVCZHZxUXkzT25MeXVjTFRYenV1Yl8yRjVN?oc=5) | jpost.com | 2026-08-07T06:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DRC Ebola outbreak tops 4,000 cases as Africa CDC and UNICEF raise response concerns](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDhzakZEN2xQSWJNYVNsTl9KTUdDMC1xVkF4SmR0SGlmWTEwWkdhVEFYYlVwc1RxMHh0NlkzU3VabVQxZkhiaDlOVElXSC1qX3FudHpiUVFmN1kzS2xRaDNQMDZBRmk2UTBDX053VVJWN0FVUVJGVUI0eFEzQkRKblhDMzVHc1MtUUduLUd2SmJHWjRyNlAtMnhQMmYycDB6UU1sR1J5OFM0ZTJDRjBpeUVJeUZkR1U?oc=5) | news.cgtn.com | 2026-08-07T05:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -477,7 +477,7 @@ Search window: 7 day(s) ending 2026-08-09
   dengue University of the Philippines
 - [Africa CDC, WHO urge urgent action as DRC Ebola outbreak worsens](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3NtYzRPYVpQaWV0b3lTeENFVE44ckFTRXBCVmdINDc3LXBkSXFJeVA3cjNqV2hDSUJ4c29xTkdTdGpLMG9OTEc4Sm1hc01hTHlPUHhBN0xZYUJ3emV4Y2VYd1h5Z0dZMnVnTHdIR0l6dHdadnNkWWl4b0RhaTYtZE5YWWtpUFY2eUNzMHVuRVhZZlg2NGl1aVpOekpFRjR3VGRB?oc=5) | PM News Nigeria | 2026-08-07T04:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) | NBC News | 2026-08-06T21:30+00:00 | Outbreaks and emerging infections
+- [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://www.cbsnews.com/texas/video/cdc-reports-salmonella-cases-tied-to-jalapenos-as-cyclospora-outbreak-grows/) | CBS News | 2026-08-06T21:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
