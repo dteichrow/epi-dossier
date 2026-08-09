@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-09
-Generated at: 2026-08-09T09:20
+Generated at: 2026-08-09T09:24
 Search window: 7 day(s) ending 2026-08-09
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-09
 - [Rare primary bone tuberculosis associated with ruxolitinib therapy: A case report and literature review.](https://pubmed.ncbi.nlm.nih.gov/42566613/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa; 2026-08-06T14:34+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) (PubMed Historical Pathogen Case Studies; 2026-08-05T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (249), Policy, surveillance, and public health infrastructure (20), Virology and pathogen evolution (5)
+- Category mix: Outbreaks and emerging infections (250), Policy, surveillance, and public health infrastructure (20), Virology and pathogen evolution (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -26,8 +26,8 @@ Search window: 7 day(s) ending 2026-08-09
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 76 item(s) across 54 source(s).
-- Baseline snapshot created with 76 clustered item(s) across 54 source(s).
+- Newly tracked story cluster: 77 item(s) across 55 source(s).
+- Baseline snapshot created with 77 clustered item(s) across 55 source(s).
 - Bozeman Daily Chronicle now includes quarantine language.
 - The Spokesman-Review now foregrounds vaccination or vaccine policy in the story.
 
@@ -36,7 +36,7 @@ Search window: 7 day(s) ending 2026-08-09
 - Newly tracked story cluster: 4 item(s) across 4 source(s).
 - Baseline snapshot created with 4 clustered item(s) across 4 source(s).
 - WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
-- Michigan State University now brings wastewater surveillance into the story.
+- msutoday.msu.edu now brings wastewater surveillance into the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
@@ -61,7 +61,7 @@ Search window: 7 day(s) ending 2026-08-09
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 76 item(s) across 54 source(s); 1 official/primary-source item(s).
+- Topic size: 77 item(s) across 55 source(s); 1 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa, 2026-08-06T14:34+00:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [No Ebola cases found on quarantined river boat, Congo authorities say](https://www.bozemandailychronicle.com/wire/international/no-ebola-cases-found-on-quarantined-river-boat-congo-authorities-say/article_8c51c62c-2684-5916-9890-d3ccbefa4f80.html) (Bozeman Daily Chronicle); [Ebola cases in DR Congo surpass 4,000 as outbreak becomes fastest-spreading on record](https://eastleighvoice.co.ke/democratic-republic-of-congo/388504/ebola-cases-in-dr-congo-surpass-4000-as-outbreak-becomes-fastest-spreading-on-record) (The Eastleigh Voice); [Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens](https://www.spokesman.com/stories/2026/aug/07/ebola-response-turns-to-merck-vaccine-gilead-drug-/) (The Spokesman-Review); [DR Congo: Ebola outbreak tops 4,000 confirmed cases](https://outbreaknewstoday.substack.com/p/dr-congo-ebola-outbreak-tops-4000) (Outbreak News Today)
@@ -88,7 +88,7 @@ Search window: 7 day(s) ending 2026-08-09
 - Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa, 2026-08-03T11:19+00:00)
 - Detailed note: Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems...
-- Evidence notes: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa); [MSU researchers explore wastewater testing for cyclospora outbreak](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUVtZ3BjTWtOb0VHa0g0eTlBQ0VSdlhjbVM2Tmx2ek5XWjZ2MlpKMFRlSHJyU1hvM1ZiMm81WGxNTk45VHNJamhQX1BEeGc0RXU3Nm5hQjJMSk5JcThOOWFTelVMOVdSbS0xSmlJTkdtN21zTlZaZGRtWk1hQ3lSd19Qbw?oc=5) (Michigan State University); [MSU researchers to explore wastewater studies for cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMikAJBVV95cUxON2ZXdkxJcTFqUlFCdktJUW1hTWFTSkpvbmNoc3JlZ3JwMlE5emxHWkhpanVRV0l5ZXNxN0ZiTFZOUU15RXEtc05QUUlsTW5fVlFoSjJLZkNPckVlOTBxdUo0aFVaYS1JbG1jOFF6bEpFQ19WalhTY0dSaHg5bmtiQWVfSE5OMGFRSGdVVGpkQ0R3QVh2RGpERzd1ODhzSmtqNWtkZnBtVXBEYmFJcllDY2RtZzV2VWhucGs4RHd6ZmQ0ZWNMZFpVN0dWMEo4MHdxeWJ0bnNfU0Z4dlNMaEtQZ2N2cHVINHVPemxRdHBWTnlzcmFzX0w2d05OWnZKNnBzdjg5c1lYTlIwSlpZUDI0NA?oc=5) (WSMH); [MSU researchers explore wastewater testing amid cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0hZN21taVJ1VUdmTVRiUXpzbWdmWkVZY1gtS0t1SnFNMTZhb01ieldqUFVCQzBTdm45M2NJOWFRYUlCcWtYTHZTSGtwRWlKT1RzVXhrVEJrNXU4VHlrTHBjZUFrem83blJhdHFoVDdBeEtGQlA0bWZ2eHVkdHpSc3hjWFBTNU1mZzU4ejJSaGlST1RYUnkzUV90VXpqX3VSSHfSAbYBQVVfeXFMUDZsbHZWb3liRFpid3ZzR2dSN3VkcFJoNnNIeGVYanZJVVNQdlhyYWNQQTZqSjIxNFMwY3VnSUNxQ2xJVHpaRzBtTmJoNmt0WXFlLTdzczA1X0pVR3N1SlVncFNWdldJcEZ0QW9HbU0wbnM4TW92NlluRTFGdm0xcDJfQ3d4YkVoUER6Z21UbWt4eUFpXzB4OWlqZ1o0TENCTWVVLVVtV0N5QlhlRGhTTFAybTh5RUE?oc=5) (WILX)
+- Evidence notes: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa); [MSU researchers explore wastewater testing for cyclospora outbreak](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUVtZ3BjTWtOb0VHa0g0eTlBQ0VSdlhjbVM2Tmx2ek5XWjZ2MlpKMFRlSHJyU1hvM1ZiMm81WGxNTk45VHNJamhQX1BEeGc0RXU3Nm5hQjJMSk5JcThOOWFTelVMOVdSbS0xSmlJTkdtN21zTlZaZGRtWk1hQ3lSd19Qbw?oc=5) (msutoday.msu.edu); [MSU researchers to explore wastewater studies for cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMikAJBVV95cUxON2ZXdkxJcTFqUlFCdktJUW1hTWFTSkpvbmNoc3JlZ3JwMlE5emxHWkhpanVRV0l5ZXNxN0ZiTFZOUU15RXEtc05QUUlsTW5fVlFoSjJLZkNPckVlOTBxdUo0aFVaYS1JbG1jOFF6bEpFQ19WalhTY0dSaHg5bmtiQWVfSE5OMGFRSGdVVGpkQ0R3QVh2RGpERzd1ODhzSmtqNWtkZnBtVXBEYmFJcllDY2RtZzV2VWhucGs4RHd6ZmQ0ZWNMZFpVN0dWMEo4MHdxeWJ0bnNfU0Z4dlNMaEtQZ2N2cHVINHVPemxRdHBWTnlzcmFzX0w2d05OWnZKNnBzdjg5c1lYTlIwSlpZUDI0NA?oc=5) (midmichigannow.com); [MSU researchers explore wastewater testing amid cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0hZN21taVJ1VUdmTVRiUXpzbWdmWkVZY1gtS0t1SnFNMTZhb01ieldqUFVCQzBTdm45M2NJOWFRYUlCcWtYTHZTSGtwRWlKT1RzVXhrVEJrNXU4VHlrTHBjZUFrem83blJhdHFoVDdBeEtGQlA0bWZ2eHVkdHpSc3hjWFBTNU1mZzU4ejJSaGlST1RYUnkzUV90VXpqX3VSSHfSAbYBQVVfeXFMUDZsbHZWb3liRFpid3ZzR2dSN3VkcFJoNnNIeGVYanZJVVNQdlhyYWNQQTZqSjIxNFMwY3VnSUNxQ2xJVHpaRzBtTmJoNmt0WXFlLTdzczA1X0pVR3N1SlVncFNWdldJcEZ0QW9HbU0wbnM4TW92NlluRTFGdm0xcDJfQ3d4YkVoUER6Z21UbWt4eUFpXzB4OWlqZ1o0TENCTWVVLVVtV0N5QlhlRGhTTFAybTh5RUE?oc=5) (WILX)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -460,7 +460,7 @@ Search window: 7 day(s) ending 2026-08-09
   Limited detail was available from feed metadata alone.
 - [WHO, Africa CDC urge scale-up of efforts to contain Ebola outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmdhUVlZZGU1YXlicHAxZ215Y3FFUUdxc0N4ck9HWGRLcU1aVFdJbUxTT3MyckZiRl96cWVJSGdLUDhDdEozdDFiT0VzQ1pOalN6aHo5YkNjU3RqZjU1NHRSc0VXeWd2SW9Qbl9XSG52YV9QeGdmVVN6WGVZd1ItNXpHamhRYTlwb2pSMEVESmJFMmc?oc=5) | CIDRAP | 2026-08-07T19:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2VzREN2Q1pOMl9OM1Mwd3BwajJnNmNXVVkyZS1MYkE0TGZsaE5zd1VXbFl4NmM4a3otOTFORFRjOG5rellhSmhuWVdHQjdURl8xTnJPMXM5Ullwd3NWaEU3b2JDcmxRdWdXZkJadzhObGI0eTliQW1Xd09KaE5VUF9zTDFvaUJMSldzV3hfa3RyQk0?oc=5) | courthousenews.com | 2026-08-07T18:23+00:00 | Outbreaks and emerging infections
+- [WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2VzREN2Q1pOMl9OM1Mwd3BwajJnNmNXVVkyZS1MYkE0TGZsaE5zd1VXbFl4NmM4a3otOTFORFRjOG5rellhSmhuWVdHQjdURl8xTnJPMXM5Ullwd3NWaEU3b2JDcmxRdWdXZkJadzhObGI0eTliQW1Xd09KaE5VUF9zTDFvaUJMSldzV3hfa3RyQk0?oc=5) | Courthouse News | 2026-08-07T18:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC calls for village-level response to contain Ebola outbreak in DR Congo](https://eastleighvoice.co.ke/democratic-republic-of-congo/388097/africa-cdc-calls-for-village-level-response-to-contain-ebola-outbreak-in-dr-congo?amp\=1) | The Eastleigh Voice | 2026-08-07T17:46+00:00 | Outbreaks and emerging infections
   WHO recommends Ervebo vaccine trial as DRC Ebola cases surpass 4,000 The priorities also entail safeguarding the planned reopening of schools next month, accelerating critical research and development of Ebola vaccines and therapeutics, and intensifying essential cross-border cooperation. Continue with a related story, or tap the speaker icon on the next page to listen. Limited detail was available from feed metadata alone.
