@@ -1,5 +1,5 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -14,81 +14,20 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 201,
+    "metadata_only_count": 234,
     "sources_cached": 0,
-    "sources_failed": 10,
-    "sources_live": 221,
+    "sources_failed": 0,
+    "sources_live": 256,
     "story_count_change": 6,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 221,
+    "live": 256,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-10T13:05:39",
-  "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=outbreak+OR+%22infectious+disease%22+OR+hantavirus+OR+measles+OR+norovirus+OR+dengue+OR+cholera+OR+mpox+OR+polio+OR+tuberculosis&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Outbreaks",
-      "source_type": "rss"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28outbreak+OR+%22infectious+disease%22+OR+hantavirus+OR+measles+OR+cholera+OR+mpox+OR+polio+OR+tuberculosis+OR+H5N1+OR+dengue%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+%22Sky+News%22+OR+STAT+OR+NPR+OR+CBC+OR+%22Washington+Post%22+OR+%22Wall+Street+Journal%22+OR+Guardian+OR+%22Financial+Times%22+OR+Bloomberg+OR+NBC+OR+CBS+OR+ABC+OR+Axios+OR+Politico%29&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Major Outbreak Desks",
-      "source_type": "rss"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28public+health+OR+surveillance+OR+outbreak+OR+vaccine+policy+OR+wastewater+OR+antimicrobial+resistance%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+STAT+OR+NPR+OR+CBC+OR+%22Washington+Post%22+OR+%22Wall+Street+Journal%22+OR+Guardian+OR+%22Financial+Times%22+OR+Bloomberg+OR+NBC+OR+CBS+OR+ABC+OR+Axios+OR+Politico%29&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Global Health Reporting",
-      "source_type": "rss"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28hantavirus+OR+%22andes+virus%22%29+OR+%28%22cruise+ship%22+AND+%28outbreak+OR+quarantine+OR+evacuation+OR+transmission%29%29&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Hantavirus and Cruise Outbreaks",
-      "source_type": "rss"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28hantavirus+OR+%22andes+virus%22+OR+%22cruise+ship%22+OR+Hondius%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+%22Sky+News%22+OR+Guardian+OR+NPR+OR+PBS+OR+Euronews+OR+CNN+OR+NBC+OR+ABC+OR+CBS+OR+CP24+OR+CIDRAP%29&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Hantavirus Major Publisher Watch",
-      "source_type": "rss"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28hantavirus+OR+%22andes+virus%22+OR+Hondius+OR+%22cruise+ship%22%29+%28%22Sky+News%22+OR+site%3Anews.sky.com%29&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Sky Hantavirus Watch",
-      "source_type": "rss"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22avian+influenza%22+OR+H5N1+OR+%22SARS-CoV-2%22+OR+virology+OR+%22genomic+surveillance%22+OR+wastewater&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Virology",
-      "source_type": "rss"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28dengue+OR+chikungunya+OR+%22yellow+fever%22+OR+Oropouche+OR+malaria+OR+%22Rift+Valley+fever%22%29+%28outbreak+OR+surge+OR+cluster+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Vector-borne Outbreaks",
-      "source_type": "rss"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28hantavirus+OR+Ebola+OR+Bundibugyo+OR+Marburg+OR+Lassa+OR+Nipah+OR+anthrax+OR+%22Rift+Valley+fever%22+OR+%22Crimean-Congo%22+OR+%22viral+hemorrhagic+fever%22+OR+%22viral+haemorrhagic+fever%22%29+%28outbreak+OR+cluster+OR+spillover+OR+surveillance+OR+%22health+emergency%22+OR+%22contact+tracing%22+OR+%22treatment+center%22+OR+%22treatment+centre%22+OR+burial+OR+bodies+OR+burned+OR+stormed%29+when:14d&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Hemorrhagic Fever and Zoonoses",
-      "source_type": "rss"
-    }
-  ]
+  "generated_at": "2026-08-10T13:17:07",
+  "source_failures": []
 }
