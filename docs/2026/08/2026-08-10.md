@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-10
-Generated at: 2026-08-10T10:58
+Generated at: 2026-08-10T11:02
 Search window: 7 day(s) ending 2026-08-10
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-10
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-07T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Rare primary bone tuberculosis associated with ruxolitinib therapy: A case report and literature review.](https://pubmed.ncbi.nlm.nih.gov/42566613/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (233), Policy, surveillance, and public health infrastructure (23), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (234), Policy, surveillance, and public health infrastructure (24), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -25,14 +25,14 @@ Search window: 7 day(s) ending 2026-08-10
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 111 item(s) across 90 source(s).
-- Baseline snapshot created with 111 clustered item(s) across 90 source(s).
+- Newly tracked story cluster: 113 item(s) across 92 source(s).
+- Baseline snapshot created with 113 clustered item(s) across 92 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 74 item(s) across 56 source(s).
-- Baseline snapshot created with 74 clustered item(s) across 56 source(s).
+- Newly tracked story cluster: 74 item(s) across 54 source(s).
+- Baseline snapshot created with 74 clustered item(s) across 54 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Tuberculosis and antimicrobial resistance
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-08-10
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 111 item(s) across 90 source(s); 2 official/primary-source item(s).
+- Topic size: 113 item(s) across 92 source(s); 2 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-07T00:00)
 - Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News); [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXJuX2VJclJJTUcxMXpZN2N4V3k5OGFmc0dNN1FMWlFBVmFUdnRPZFM0bUJYS1R4a0wzY2VkVFB3MkFkdmdvM0xEM1d1YmFTbWNYdzQwanNpMDFFZEZvVFE4cnlnRUFYb0NRQmJoSjNrSUxnV0NXQ0Nhc3RsWWhMV3g2R3hXN093ZHJKMEtaOTN0ZFJDbFJkOWloUXdkdUVuV2RWaWMxQ2pkUGdiTWRv?oc=5) (NBC News); [‘The worst is behind us’: Cyclospora outbreak seems to be slowing in Michigan](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWNXQjd2T1Exd0RZdkJxQ0UxOE43TS01RjhxbDRzRUpqY1RucDEydW1FWXZvZ3lZNy1FYW1zZFZwT3NEc0lwcUdPc3lVNVVoR042bmFVOVFob3RaYlN5eHpPYXUtZXNFRVotQ3NicHdnVzEzZjVhNzh3NDZpaVkzXzBFUGdEcjVBeU04N3FicXFjYVVqdXVvTVU0SWlRMG04?oc=5) (CIDRAP)
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-08-10
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 74 item(s) across 56 source(s); 2 official/primary-source item(s).
+- Topic size: 74 item(s) across 54 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-10T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 10/08/2026](https://reliefweb.int/map/uganda/democratic-republic-congo-uganda-ebola-bundibugyo-virus-disease-outbreak-and-eu-response-dg-echo-daily-map-10082026) (ReliefWeb); [WHO says Congo's fast-moving Ebola outbreak started months before it was declared - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/congos-ebola-outbreak-started-months-declared-135515958) (ABC News - Breaking News, Latest News and Videos); [Congo Ebola outbreak began in February, making it fastest-growing on record](https://www.indiatoday.in/world/story/congo-ebola-outbreak-began-in-february-who-says-as-bundibugyo-cases-surge-ptag-2968014-2026-08-10) (India Today)
@@ -459,24 +459,24 @@ Search window: 7 day(s) ending 2026-08-10
   Limited detail was available from feed metadata alone.
 - [No Ebola cases found on quarantined river boat, Congo authorities say](https://www.statesman.com/news/world/article/no-ebola-cases-found-on-quarantined-river-boat-22380698.php) | Austin American-Statesman | 2026-08-09T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [WHO recommends Ervebo vaccine trial as DRC Ebola cases surpass 4,000](https://eastleighvoice.co.ke/news/388259/who-recommends-ervebo-vaccine-trial-as-drc-ebola-cases-surpass-4000?amp\=1) | The Eastleigh Voice | 2026-08-08T08:14+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola in DR Congo: Childhood deaths climb as hopes grow over new vaccine](https://eastleighvoice.co.ke/regional/388180/ebola-in-dr-congo-childhood-deaths-climb-as-hopes-grow-over-new-vaccine?amp\=1) | The Eastleigh Voice | 2026-08-08T07:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [CDC adds almost 100 new cases to expanding US measles outbreak](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVVUMFRRaXk2TEhNcDdZdDdJNFoyT0dxTjBXd05KQzJxbWhvbjBmUm1KNGFfMGJPLXh3ZDJkZE1GaW9lOTY4dHo2c3RFSWtqRnpHMmpXOXdyS3NZN24yMHU3LXd0X29mdHVQSlZrcE5rOW1pcVlJa0FkUVBZcmxhSUd3S3RTVDVYcENURzl5QkJmYmFWUEd1eEpR?oc=5) | CIDRAP | 2026-08-07T19:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO, Africa CDC urge scale-up of efforts to contain Ebola outbreak](https://www.cidrap.umn.edu/ebola/who-africa-cdc-urge-scale-efforts-contain-ebola-outbreak) | CIDRAP | 2026-08-07T19:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak](https://www.courthousenews.com/who-urges-ervebo-vaccine-trial-in-dr-congo-ebola-outbreak/) | Courthouse News | 2026-08-07T18:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine](https://news.un.org/en/story/2026/08/1168100) | UN News | 2026-08-07T18:18+00:00 | Outbreaks and emerging infections
+- [Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine](https://news.un.org/en/story/2026/08/1168100) | news.un.org | 2026-08-07T18:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC calls for village-level response to contain Ebola outbreak in DR Congo](https://eastleighvoice.co.ke/democratic-republic-of-congo/388097/africa-cdc-calls-for-village-level-response-to-contain-ebola-outbreak-in-dr-congo) | The Eastleigh Voice | 2026-08-07T17:46+00:00 | Outbreaks and emerging infections
   WHO recommends Ervebo vaccine trial as DRC Ebola cases surpass 4,000 The priorities also entail safeguarding the planned reopening of schools next month, accelerating critical research and development of Ebola vaccines and therapeutics, and intensifying essential cross-border cooperation. Continue with a related story, or tap the speaker icon on the next page to listen. Limited detail was available from feed metadata alone.
-- [Ebola death toll tops 1.800 in DRC](https://www.france24.com/en/ebola-death-toll-tops-1-800-in-drc) | France 24 | 2026-08-07T07:52+00:00 | Outbreaks and emerging infections
+- [Ebola death toll tops 1.800 in DRC](https://www.france24.com/en/ebola-death-toll-tops-1-800-in-drc) | france24.com | 2026-08-07T07:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What Happens After a Measles Exposure? Symptoms,…](https://www.inkl.com/news/what-happens-after-a-measles-exposure-symptoms-timing-and-when-to-seek-care-following-the-universal-studios-warning) | inkl | 2026-08-07T07:00+00:00 | Outbreaks and emerging infections
   People who were at Universal Studios Hollywood during the identified exposure period may be at risk of developing measles for 7 to 21 days after exposure . Los Angeles County health officials are warning people who visited Universal Studios Hollywood on July 26 that they may have been exposed to measles after an infectious person spent several hours at the theme park. People who do not know whether they are protected, or who are unvaccinated, may face a higher risk of infection.
-- [Congo Ebola outbreak tops 4,000 cases, 1,850 deaths](https://www.jpost.com/international/article-904848) | The Jerusalem Post | 2026-08-07T06:22+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo's Ebola outbreak surpasses 4,000 cases](https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-infections-rise-above-4000-first-time-outbreak-2026-08-07/) | Reuters | 2026-08-07T05:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/)
