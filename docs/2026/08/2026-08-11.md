@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-11
-Generated at: 2026-08-11T13:24
+Generated at: 2026-08-11T13:29
 Search window: 7 day(s) ending 2026-08-11
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-11
 - [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News; 2026-08-10T16:05+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [A narrative review of the epidemiological and mechanistic associations between ABO blood groups and diseases: focusing on cardiovascular diseases, cancers, diabetes, malaria, COVID-19 and rheumatic diseases.](https://pubmed.ncbi.nlm.nih.gov/42574721/) (PubMed Infectious Disease Search; 2026-08-10T00:00; Major epidemiology studies; relevance 5/5)
 - [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (251), Policy, surveillance, and public health infrastructure (27), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (253), Policy, surveillance, and public health infrastructure (27), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -45,8 +45,8 @@ Search window: 7 day(s) ending 2026-08-11
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 94 item(s) across 71 source(s).
-- Baseline snapshot created with 94 clustered item(s) across 71 source(s).
+- Newly tracked story cluster: 95 item(s) across 71 source(s).
+- Baseline snapshot created with 95 clustered item(s) across 71 source(s).
 - The Washington Post now includes deaths or fatal cases in the story frame.
 
 
@@ -60,7 +60,7 @@ Search window: 7 day(s) ending 2026-08-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 94 item(s) across 71 source(s); 2 official/primary-source item(s).
+- Topic size: 95 item(s) across 71 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-10T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Ebola deaths surpass 2,000 in Democratic Republic of Congo](https://www.washingtonpost.com/world/2026/08/11/death-toll-surpasses-2000-second-largest-ebola-outbreak-record/) (The Washington Post); [Today in Africa: DR Congo Ebola outbreak, Sudan school crisis, Somalia malnutrition funding cuts](https://www.okayafrica.com/today-in-africa-august-11-2026-dr-congo-ebola-outbreak-points-to-animal-to-human-transmission-sudans-war-leaves-8-million-children-out-of-school/1437431) (OkayAfrica); [More than 2,000 people have died from the Ebola outbreak in the Democratic Republic of the Congo](https://ua.news/en/world/u-dr-kongo-vid-spalakhu-eboli-pomerli-ponad-2-tisiachi-liudei) (UA.NEWS)
@@ -68,7 +68,7 @@ Search window: 7 day(s) ending 2026-08-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 71 item(s) across 57 source(s); 2 official/primary-source item(s).
+- Topic size: 72 item(s) across 58 source(s); 2 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-11T20:22+00:00)
 - Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Florida pediatricians push back against Trump's vaccine order, saying it will worsen measles outbreak in the state](https://www.cbsnews.com/miami/news/florida-pediatricians-trump-vaccine-executive-order/) (CBS News); [It's a "matter of time" before Pittsburgh sees measles cases, doctor says](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1N6WlNMVVNTQlBTNlBiV3ljSzNEUk1nWkc2MWtrRGdSOFZRY3BZUXNVYUVMX1V2RHViUHpDamZDdDRKZTh2QmIwT1cyV1hLVGNuT1VoN2ZZWmNCaS05c0pCdzNFemZ2eDZhVk1zWGx4dkd0NzZodW9Kdl9Ma3lxNG9vRmNvXzlZTzVvSTJTSkN1eU0?oc=5) (CBS News); [Measles Cases Hit 22-Year High in Americas as PAHO Urges Urgent Vaccination](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWtGMmZtT19kOTBKZG1RaFR1NGNBZHVVTVBLMC1MVE9QNkx1emVYODgzTDJKOXYxTEFPUlZ2V0RzVnY4bUxyb1ZLQVZnT3phUXdDTWRpd3MxWGVPOUIyR1pGLUpQTmx3UmFvZVRROF9KQ201QW9XM3lpSHNZNF82ZjBINzh3SVVEOEszX0pjRkZFRGdfVUhDZV9lZG5McnJtcUZ5Y29sY1hXME1OQlRDUWhjblVsX05u?oc=5) (fundsforNGOs News); [PAHO Urges Stronger Vaccination as Measles Cases Surge Across the Americas](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHR6MHdaNV9qRnE1dkFBd0RtcGhGSE5iTDRYQ2lDMldUSlBoNEo3QnJLbDE1UFJOZ0EwSkpsX183X2ZpcVlHbFh0ZDJYOHdacVZkbnJsOXZaSzhTLWxRaExacWJhQU1EN3prVFFLWFNwNVZwVmNGWjNUSFFNVVlET2owNWVFWXFaWGVEZFp1SUNjajNDVklubGJ5TEJvdVJiSzJnZVVMd2pBUkJLSTBYQnZBWmhCbFE?oc=5) (fundsforNGOs News)
@@ -457,7 +457,7 @@ Search window: 7 day(s) ending 2026-08-11
   Limited detail was available from feed metadata alone.
 - [More than 2,000 people have died from the Ebola outbreak in the Democratic Republic of the Congo](https://ua.news/en/world/u-dr-kongo-vid-spalakhu-eboli-pomerli-ponad-2-tisiachi-liudei) | UA.NEWS | 2026-08-11T18:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo says 2,000 people have died in history's fastest-growing Ebola outbreak](https://www.oskaloosa.com/news/national_news/congo-says-2-000-people-have-died-in-historys-fastest-growing-ebola-outbreak/article_7d7003a6-d46b-5266-a3d5-d40a94176cae.html) | Oskaloosa Herald | 2026-08-11T18:02+00:00 | Outbreaks and emerging infections
+- [Congo says 2,000 people have died in history's fastest-growing Ebola outbreak](https://www.record-eagle.com/ap/international/congo-says-2-000-people-have-died-in-historys-fastest-growing-ebola-outbreak/article_4dd4033b-3fa2-5c75-8d86-5361c9108843.html) | Traverse City Record-Eagle | 2026-08-11T18:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Fastest-growing Ebola outbreak in history has claimed 2,000 lives. Here's why it is hard to contain](https://www.pbs.org/newshour/health/fastest-growing-ebola-outbreak-in-history-has-claimed-2000-lives-heres-why-it-is-hard-to-contain) | PBS | 2026-08-11T17:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -471,7 +471,7 @@ Search window: 7 day(s) ending 2026-08-11
   Limited detail was available from feed metadata alone.
 - [Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record](https://www.djournal.com/news/nation-world/congo-says-2-000-people-have-died-in-its-ebola-outbreak-the-fastest-growing-on/article_b18fe2f9-9e25-5e54-839f-ef0fdc80c326.html) | Northeast Mississippi Daily Journal | 2026-08-11T14:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bundibugyo virus continues to outpace us, WHO warns as DR Congo Ebola deaths surge](https://eastleighvoice.co.ke/democratic-republic-of-congo/388873/bundibugyo-virus-continues-to-outpace-us-who-warns-as-dr-congo-ebola-deaths-surge?amp\=1) | The Eastleigh Voice | 2026-08-11T13:14+00:00 | Outbreaks and emerging infections
+- [Bundibugyo virus continues to outpace us, WHO warns as DR Congo Ebola deaths surge](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZFM1SVNxbk1uVU5aOGxfQVR2UkxqM3ltUzUtTjJ5MWNlaHFfMGhxVXZRS0FMd2Z4dEZBVU1YSjZHV2QtYUdKN25nQk96azdfMWs2UE1ubVRXWkEtMU94Skt0Q2hnTG1qeG03RW5nVEpyd1lSY0p4STdkOWYwenpSUXFYMkE1bHlBOW5OeXZxSTRBVEZZQmhocVhkN3ptYTZBMjJyYjVRTDhHdl9iZFAwVjNJQ3Q1bDZsTzZRRjYxSExEMXpNenotX085cU5xZlJrWS1jN1M3WUduYy1OYXUwSWhDd20zd2M?oc=5) | The Eastleigh Voice | 2026-08-11T13:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo kills more than 2,000](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHdoOWYwMFJiR0hXT3dDOEg0UkhhSlFzdmpSMlhWMFlCa1pnWHE0bURhMEJuclU2Tjh0VFhPTDluNlRHSklTaUpDWjlRSkV2cHpLMHlLbktqWGdNcDE5TkFFR2ZhUm5TMlU4RThsalVXMDVYVnMzY1ZRZFQxU3UzT3l1V1VDZ1hVVjVXU0RuZw?oc=5) | yahoo.com | 2026-08-11T12:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
