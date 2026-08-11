@@ -12,8 +12,7 @@ Search window: 7 day(s) ending 2026-08-11
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-10T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [A narrative review of the epidemiological and mechanistic associations between ABO blood groups and diseases: focusing on cardiovascular diseases, cancers, diabetes, malaria, COVID-19 and rheumatic diseases.](https://pubmed.ncbi.nlm.nih.gov/42574721/) (PubMed Infectious Disease Search; 2026-08-10T00:00; Major epidemiology studies; relevance 5/5)
 - [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) (PubMed Historical Pathogen Case Studies; 2026-08-07T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (233), Policy, surveillance, and public health infrastructure (27), Historical epidemiology / ancient disease / paleopathology (3)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (235), Policy, surveillance, and public health infrastructure (27), Historical epidemiology / ancient disease / paleopathology (3)
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
@@ -39,8 +38,8 @@ Search window: 7 day(s) ending 2026-08-11
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 112 item(s) across 86 source(s).
-- Baseline snapshot created with 112 clustered item(s) across 86 source(s).
+- Newly tracked story cluster: 114 item(s) across 86 source(s).
+- Baseline snapshot created with 114 clustered item(s) across 86 source(s).
 - FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Ebola virus disease
@@ -52,10 +51,10 @@ Search window: 7 day(s) ending 2026-08-11
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 112 item(s) across 86 source(s); 2 official/primary-source item(s).
+- Topic size: 114 item(s) across 86 source(s); 4 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-10T00:00)
-- Detailed note: FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [Why Taylor Farms is facing scrutiny over salmonella and cyclospora outbreaks](https://www.cbsnews.com/news/taylor-farms-salmonella-cyclospora-outbreaks/) (CBS News); [CDC reports Salmonella cases tied to jalapenos as cyclospora outbreak grows](https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01aV3JSYmZ6N21RQkZnX1FSNGFHbWdHcjAzMXQyUG5xQlhYWlNoc1hKRldpNUV6TWRtd2h6UC1KdnVuYkhwRklxc2xGMWwwYUo2cmE5Wm9Ua0FBd1FzYWlSZm5fZGxOQW9hdW5Na25RTm5aX2hMaGZrcVF4SkFpZjExSklBWVFacGZmNjNyWjVXZTlFa29tMjZlS3BKc3FRdEE5MkdHeVdpaW0zUFJCY1dn?oc=5) (CBS News); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News)
+- Detailed note: FDA lists reference 1143 with date posted 3/1/2023. Reported total case count: 10. An update on the Cyclospora outbreak available here .
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Why Taylor Farms is facing scrutiny over salmonella and cyclospora outbreaks](https://www.cbsnews.com/news/taylor-farms-salmonella-cyclospora-outbreaks/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -439,10 +438,14 @@ Search window: 7 day(s) ending 2026-08-11
 
 
 ## Other notable readings
+- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) | FDA Foodborne Outbreaks | 2026-08-06T09:30 | Outbreaks and emerging infections
+  FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-08-06T09:30 | Outbreaks and emerging infections
+  FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. Product linked to illnesses: Not Yet Identified.
+- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) | FDA Foodborne Outbreaks | 2026-08-06T09:30 | Outbreaks and emerging infections
+  FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
 - [Temporal trends and associations between domestic public health spending, donor funding and tuberculosis outcomes in Africa: a serial cross-sectional study (1990-2022).](https://pubmed.ncbi.nlm.nih.gov/42568929/) | PubMed Historical Pathogen Case Studies | 2026-08-05T00:00 | Historical epidemiology / ancient disease / paleopathology
   The corresponding decreases in incidence and mortality rates were 16.8 (-172.17 to 138.57) and 5.88 (-34.85 to 23.16) per 100 000. Compared with scenarios in which US DAH was low but other funds were high, a combination of high US DAH, high funding from other donors and high GHES (one unit above their means) was associated with a 6.5% (95% Confidence Interval (CI) -73.6% to 49.6%) and a 14.6% (-86% to 60.8%) reduction in TB incidence and mortality, respectively. Total annual TB-specific DAH in Africa increased from US$4.4 million in 1990 to US$168.7 million in 2022.
-- [FDA outbreak investigation 1398: Cyclospora](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) | FDA Foodborne Outbreaks | 2026-08-05T00:00 | Outbreaks and emerging infections
-  FDA lists reference 1398 with date posted 8/5/2026. Reported total case count: 10. Product linked to illnesses: Not Yet Identified.
 - [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) | WHO Regional Office for Africa | 2026-08-03T11:19+00:00 | Outbreaks and emerging infections
   Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems strengthening, disease prevention and control, immunization, emergency preparedness and response, and public health intelligence. The publication also highlights WHO Zambia’s collaboration with Government, development partners, civil society, and communities to advance Universal Health Coverage, health emergency preparedness, and improved health outcomes for all Zambians.
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) | WHO Regional Office for Africa | 2026-07-31T19:19+00:00 | Outbreaks and emerging infections
@@ -451,8 +454,6 @@ Search window: 7 day(s) ending 2026-08-11
   The highest number of infections has been reported from the Western Province, which accounts for 52.96 percent of all reported cases. Health authorities said 65 dengue-related deaths have been recorded during the same period. The upward trend has continued into August, with 4,959 cases reported during the first few days of the month alone.
 - [‘Drops take seconds but change a life for ever’: the women saving India’s remotest people from polio](https://www.theguardian.com/global-development/2026/aug/11/health-disease-polio-vaccination-india-immunisation-women-remote-children-kashmir) | The Guardian | 2026-08-11T06:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hong Kong outbreak analysis reveals growing role of norovirus](https://www.foodsafetynews.com/2026/08/hong-kong-outbreak-analysis-reveals-growing-role-of-norovirus/) | foodsafetynews.com | 2026-08-11T04:05+00:00 | Outbreaks and emerging infections
-  From 2016 to 2025, Hong Kong recorded 1,964 outbreaks affecting 7,758 people. Most of them were small in scale, with 88 percent involving five or fewer cases. Food poisoning outbreaks peaked in May and June because of warmer conditions favoring bacterial growth, while norovirus outbreaks were more common in winter.
 - [Early Ebola cases in DRC wrongly diagnosed as malaria and typhoid: WHO](https://www.trtafrika.com/english/article/5c0d66742add) | TRT Afrika | 2026-08-10T22:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [It's a "matter of time" before Pittsburgh sees measles cases, doctor says](https://www.cbsnews.com/pittsburgh/news/pennsylvania-measles-pittsburgh-allegheny-county/) | CBS News | 2026-08-10T22:13+00:00 | Outbreaks and emerging infections
@@ -477,8 +478,6 @@ Search window: 7 day(s) ending 2026-08-11
   Limited detail was available from feed metadata alone.
 - [Over 100 fall ill with Hepatitis A in Sirsa village; two girls on ventilator](https://health.economictimes.indiatimes.com/amp/news/industry/over-100-fall-ill-with-hepatitis-a-in-sirsa-village-two-girls-on-ventilator/133077350) | ET HealthWorld | 2026-08-10T01:58+00:00 | Outbreaks and emerging infections
   Of these, 216 were found to be suspected cases, while 45 patients have been admitted to hospitals. The health department has collected samples from 540 people in the village over the past five days. In case you want to opt out, please click "Do Not Sell or Share My Personal Information" link in the footer of this page.
-- [NIH Director Dr. Jay Bhattacharya says "I trust the science" on childhood vaccines amid measles outbreak](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTVphVGtlMUdBUEp5bEFfLWJfUGlSbVA5R3VpVjlqWm9KTjhoTzFDRVNBUmRNNVp5ZklGNDJRVllTRHU5OW92bnRISlVacFhjdExXazFQSjV2Mm4ydmg0amhFUFpucThVeUJYdk9tSQ?oc=5) | CBS News | 2026-08-09T19:41+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [A narrative review of the epidemiological and mechanistic associations between ABO blood groups and diseases: focusing on cardiovascular diseases, cancers, diabetes, malaria, COVID-19 and rheumatic diseases.](https://pubmed.ncbi.nlm.nih.gov/42574721/)
