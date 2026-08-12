@@ -15,9 +15,9 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 270,
+    "metadata_only_count": 271,
     "sources_cached": 0,
-    "sources_failed": 3,
+    "sources_failed": 2,
     "sources_live": 297,
     "story_count_change": 8,
     "wrapper_only_count": 8
@@ -29,7 +29,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-12T16:12:44",
+  "generated_at": "2026-08-12T16:18:11",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
@@ -42,12 +42,6 @@
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
     }
   ]
 }
