@@ -1,18 +1,19 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-12
-Generated at: 2026-08-12T22:17
+Generated at: 2026-08-12T22:22
 Search window: 7 day(s) ending 2026-08-12
 
 ## Executive scan
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-13T05:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-13T05:14+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-08-12T09:30; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks; 2026-08-12T09:30; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-12T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search; 2026-08-12T00:00; Major epidemiology studies; relevance 5/5)
 - [Structure and Membrane Interactions of Two Helices from Mycobacterium tuberculosis FtsL, One Transmembrane and One Amphipathic.](https://pubmed.ncbi.nlm.nih.gov/42584571/) (PubMed Historical Pathogen Case Studies; 2026-08-12T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (240), Policy, surveillance, and public health infrastructure (39), Historical epidemiology / ancient disease / paleopathology (8)
+- [WHO Sierra Leone Second Quarter 2026 Results Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-second-quarter-2026-results-newsletter) (WHO Regional Office for Africa; 2026-08-11T11:00+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News; 2026-08-10T16:05+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (237), Policy, surveillance, and public health infrastructure (39), Historical epidemiology / ancient disease / paleopathology (8)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Tuberculosis and antimicrobial resistance
@@ -37,32 +38,32 @@ Search window: 7 day(s) ending 2026-08-12
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
-- Lead item: [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks)
-- Newly tracked story cluster: 106 item(s) across 83 source(s).
-- Baseline snapshot created with 106 clustered item(s) across 83 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
+- Newly tracked story cluster: 104 item(s) across 82 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 82 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 90 item(s) across 73 source(s).
-- Baseline snapshot created with 90 clustered item(s) across 73 source(s).
+- Newly tracked story cluster: 88 item(s) across 71 source(s).
+- Baseline snapshot created with 88 clustered item(s) across 71 source(s).
 - Modern Ghana now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 106 item(s) across 83 source(s); 3 official/primary-source item(s).
-- Lead item: [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks, 2026-08-12T09:30)
-- Detailed note: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . The health department labels these counts preliminary.
-- Evidence notes: [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Farm linked to cyclosporiasis outbreak has not been inspected since 2019](https://www.cbsnews.com/video/farm-linked-cyclosporiasis-outbreak-not-inspected-since-2019/) (CBS News); [Lettuce prices plunged 16% as the cyclosporiasis outbreak rattled consumers](https://www.nbcnews.com/business/economy/lettuce-prices-plunged-16-cyclosporiasis-outbreak-rattled-consumers-rcna592099) (nbcnews.com)
+- Topic size: 104 item(s) across 82 source(s); 1 official/primary-source item(s).
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-12T00:00)
+- Detailed note: The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Farm linked to cyclosporiasis outbreak has not been inspected since 2019](https://www.cbsnews.com/video/farm-linked-cyclosporiasis-outbreak-not-inspected-since-2019/) (CBS News); [Lettuce prices plunged 16% as the cyclosporiasis outbreak rattled consumers](https://www.nbcnews.com/business/economy/lettuce-prices-plunged-16-cyclosporiasis-outbreak-rattled-consumers-rcna592099) (nbcnews.com); [More than 24,000 cyclosporiasis infections reported as new cases appear to slow: CDC](https://abcnews.com/Health/24000-cyclosporiasis-infections-reported-new-cases-slow-cdc/story?id\=135514625) (abcnews.com); [Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets](https://news.google.com/rss/articles/CBMikgFBVV95cUxPalR5Wk9qM00xN1l0MTRfeGVtUXJsVEpfZGtEN0xDSlJ6aUxUejJGcGJsRGFGVXFsVktGT1hWcGhRV3JSanFJOHlndmhkc2hncXpYMmN3YTZUWG0wOUxfa1JvdXdqSkhtZ2U2YmQzZDBkYVM0dmlqMi03SXNZZHQzbVhrVkY3VTVwOXE0MlFzbHNFZw?oc=5) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 90 item(s) across 73 source(s); 2 official/primary-source item(s).
+- Topic size: 88 item(s) across 71 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-12T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [WHO Warns DRC Ebola Outbreak Could Surpass 2014–2016 West African Epidemic](https://dmarketforces.com/who-warns-drc-ebola-outbreak-could-surpass-2014-2016-west-african-epidemic/) (MarketForces Africa); [WHO aims to reverse DR Congo Ebola outbreak in 3 months](https://www.jamaicaobserver.com/2026/08/12/aims-reverse-dr-congo-ebola-outbreak-3-months/) (Jamaica Observer); [WHO Warns Congo Ebola Outbreak “Fastest-Moving” Yet](https://thedeepdive.ca/congo-ebola-outbreak-who-warning/) (the deep dive)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [WHO Warns DRC Ebola Outbreak Could Surpass 2014–2016 West African Epidemic](https://dmarketforces.com/who-warns-drc-ebola-outbreak-could-surpass-2014-2016-west-african-epidemic/) (MarketForces Africa); [WHO Warns Congo Ebola Outbreak “Fastest-Moving” Yet](https://thedeepdive.ca/congo-ebola-outbreak-who-warning/) (the deep dive); [WHO warns of a record-breaking Ebola outbreak in the Congo](https://www.yahoo.com/news/world/articles/warns-record-breaking-ebola-outbreak-190330814.html) (Yahoo)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -366,26 +367,6 @@ Search window: 7 day(s) ending 2026-08-12
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-12T09:30
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-12T09:30
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Toledo-Lucas County Health Department Cyclosporiasis Update
 - Source: Toledo-Lucas County Health Department Cyclosporiasis Update
 - Date: 2026-08-12T00:00
@@ -436,12 +417,28 @@ Search window: 7 day(s) ending 2026-08-12
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### A narrative review of the epidemiological and mechanistic associations between ABO blood groups and diseases: focusing on cardiovascular diseases, cancers, diabetes, malaria, COVID-19 and rheumatic diseases.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-08-10T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42574721/
+- Category: Major epidemiology studies
+- Summary: In oncology, ABO influences susceptibility and prognosis in various cancers, with type A linked to increased gastric cancer risk (pooled OR≈1.2). The potential of ABO typing as a biomarker for risk stratification in personalized medicine warrants investigation in large, multi‑ethnic prospective studies. During COVID‑19, type A was linked to higher susceptibility and severity, whereas type O appeared mildly protective, though associations exhibited substantial heterogeneity across populations, viral variants, and vaccination contexts.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### [Historical reflections on smallpox, science and health: an interview with Tania Fernandes].
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-08-07T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42585442/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: Notable topics include the institutionalization of the smallpox vaccine, the eradication of smallpox, the role of health surveillance and the historical and contemporary challenges faced by marginalized communities. The interview also addresses strategies adopted during the vaccination process, scientific debates that influenced health policy, and the importance of understanding public health through an interdisciplinary approach. This interview with retired Casa de Oswaldo Cruz/Fiocruz researcher Tania Maria Dias Fernandes explores her academic trajectory, which covers studies on the history of science, public health and vaccines.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [A narrative review of the epidemiological and mechanistic associations between ABO blood groups and diseases: focusing on cardiovascular diseases, cancers, diabetes, malaria, COVID-19 and rheumatic diseases.](https://pubmed.ncbi.nlm.nih.gov/42574721/) | PubMed Infectious Disease Search | 2026-08-10T00:00 | Major epidemiology studies
-  In oncology, ABO influences susceptibility and prognosis in various cancers, with type A linked to increased gastric cancer risk (pooled OR≈1.2). The potential of ABO typing as a biomarker for risk stratification in personalized medicine warrants investigation in large, multi‑ethnic prospective studies. During COVID‑19, type A was linked to higher susceptibility and severity, whereas type O appeared mildly protective, though associations exhibited substantial heterogeneity across populations, viral variants, and vaccination contexts.
-- [[Historical reflections on smallpox, science and health: an interview with Tania Fernandes].](https://pubmed.ncbi.nlm.nih.gov/42585442/) | PubMed Historical Pathogen Case Studies | 2026-08-07T00:00 | Historical epidemiology / ancient disease / paleopathology
-  Notable topics include the institutionalization of the smallpox vaccine, the eradication of smallpox, the role of health surveillance and the historical and contemporary challenges faced by marginalized communities. The interview also addresses strategies adopted during the vaccination process, scientific debates that influenced health policy, and the importance of understanding public health through an interdisciplinary approach. This interview with retired Casa de Oswaldo Cruz/Fiocruz researcher Tania Maria Dias Fernandes explores her academic trajectory, which covers studies on the history of science, public health and vaccines.
 - [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) | PubMed Historical Pathogen Case Studies | 2026-08-07T00:00 | Historical epidemiology / ancient disease / paleopathology
   Hospital stays shortened by 60% (10 versus 25 days; p < 0.01), and adherence climbed from 70% to 95.2% (p < 0.01). Conventional treatment runs 18-24 months, costs US$7,142-9,000 per patient, and succeeds in only 59% of cases. BPaL achieved 77.4% treatment success (65/84 patients) compared with 59% in historical controls (p < 0.01).
 - [In arms and on slides: slavery-related interests in the dissemination of smallpox vaccine in Brazil and Angola, 1804-1810.](https://pubmed.ncbi.nlm.nih.gov/42585445/) | PubMed Historical Pathogen Case Studies | 2026-08-07T00:00 | Historical epidemiology / ancient disease / paleopathology
@@ -462,8 +459,6 @@ Search window: 7 day(s) ending 2026-08-12
   Limited detail was available from feed metadata alone.
 - [Farm linked to cyclosporiasis outbreak has not been inspected since 2019](https://www.cbsnews.com/video/farm-linked-cyclosporiasis-outbreak-not-inspected-since-2019/) | CBS News | 2026-08-12T20:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO aims to reverse DR Congo Ebola outbreak in 3 months](https://www.jamaicaobserver.com/2026/08/12/aims-reverse-dr-congo-ebola-outbreak-3-months/) | Jamaica Observer | 2026-08-12T20:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO Warns Congo Ebola Outbreak “Fastest-Moving” Yet](https://thedeepdive.ca/congo-ebola-outbreak-who-warning/) | the deep dive | 2026-08-12T20:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO warns of a record-breaking Ebola outbreak in the Congo](https://www.yahoo.com/news/world/articles/warns-record-breaking-ebola-outbreak-190330814.html) | Yahoo | 2026-08-12T19:03+00:00 | Outbreaks and emerging infections
@@ -477,6 +472,12 @@ Search window: 7 day(s) ending 2026-08-12
 - [WHO says Congo’s Ebola outbreak is on track to eclipse the deadliest 1 in history](https://community.triblive.com/news/4113790) | TribLIVE.com | 2026-08-12T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [RFK Jr. Stirred Vaccine Fears in Pennsylvania Years Before Measles Outbreak](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcG5rVmt4VDVQM0gxSUYxVkI0QU1oZFhJSHZyU3d4SVVjREtRYUNMTmNRM194S2tCRUhfQXRDUlBrS1R5SFhMeGRDZjNIMjc5bDV2ZHE5NkZlYjhDU2JIeXpYbWNlVk9GczZKZ0RSVFBwRzgzTi1YTkhIX2otWVcyRFYwZ0lTeVJYdlE?oc=5) | The New York Times | 2026-08-12T15:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Race to find Ebola vaccine as DR Congo outbreak kills more than 2,000](https://www.modernghana.com/news/1518545/race-to-find-ebola-vaccine-as-dr-congo-outbreak.html) | Modern Ghana | 2026-08-12T13:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DRC health workers struggle with surging Ebola cases](https://www.bastillepost.com/global/article/6076359-drc-health-workers-struggle-with-surging-ebola-cases) | 巴士的報 | 2026-08-12T11:07+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola death toll in Congo over 2,000](https://www.arkansasonline.com/news/2026/aug/12/ebola-death-toll-in-congo-over-2000/) | The Arkansas Democrat-Gazette | 2026-08-12T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
