@@ -1,9 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-13
-Generated at: 2026-08-13T09:58
+Generated at: 2026-08-13T10:07
 Search window: 7 day(s) ending 2026-08-13
 
 ## Executive scan
+- [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR; 2026-08-13T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-13T16:57+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-13T16:51+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-13T00:00; Outbreaks and emerging infections; relevance 5/5)
@@ -11,8 +12,7 @@ Search window: 7 day(s) ending 2026-08-13
 - [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search; 2026-08-12T00:00; Major epidemiology studies; relevance 5/5)
 - [Structure and Membrane Interactions of Two Helices from Mycobacterium tuberculosis FtsL, One Transmembrane and One Amphipathic.](https://pubmed.ncbi.nlm.nih.gov/42584571/) (PubMed Historical Pathogen Case Studies; 2026-08-12T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News; 2026-08-10T16:05+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [A narrative review of the epidemiological and mechanistic associations between ABO blood groups and diseases: focusing on cardiovascular diseases, cancers, diabetes, malaria, COVID-19 and rheumatic diseases.](https://pubmed.ncbi.nlm.nih.gov/42574721/) (PubMed Infectious Disease Search; 2026-08-10T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (248), Policy, surveillance, and public health infrastructure (29), Historical epidemiology / ancient disease / paleopathology (6)
+- Category mix: Outbreaks and emerging infections (249), Policy, surveillance, and public health infrastructure (28), Historical epidemiology / ancient disease / paleopathology (6)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -32,34 +32,34 @@ Search window: 7 day(s) ending 2026-08-13
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 104 item(s) across 78 source(s).
-- Baseline snapshot created with 104 clustered item(s) across 78 source(s).
+- Newly tracked story cluster: 103 item(s) across 77 source(s).
+- Baseline snapshot created with 103 clustered item(s) across 77 source(s).
 - The News International now includes deaths or fatal cases in the story frame.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 96 item(s) across 74 source(s).
-- Baseline snapshot created with 96 clustered item(s) across 74 source(s).
+- Newly tracked story cluster: 96 item(s) across 76 source(s).
+- Baseline snapshot created with 96 clustered item(s) across 76 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 69 item(s) across 57 source(s).
-- Baseline snapshot created with 69 clustered item(s) across 57 source(s).
+- Newly tracked story cluster: 70 item(s) across 58 source(s).
+- Baseline snapshot created with 70 clustered item(s) across 58 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 104 item(s) across 78 source(s); 2 official/primary-source item(s).
+- Topic size: 103 item(s) across 77 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-12T17:36+02:00)
 - Detailed note: The reports showed that it has killed over 2,100 people out of more than 4,500 cases; moreover, the death toll has been reached three times faster than in the 2014 and 2016. Ebola outbreak in the DR Congo has spread to a sixth province Africa CDC Director-General Jean Kaseya reportedly announced today that Congo’s Ebola outbreak has spread to a sixth province following a death in the previously unaffected...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [DRC’s fast-growing Ebola outbreak spreads to sixth province](https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province) (theguardian.com); [Congo Ebola Outbreak reaches sixth province amid rising death toll: What to know](https://www.thenews.com.pk/latest/1412191-congo-ebola-outbreak-reaches-sixth-province-amid-rising-death-toll-what-to-know) (The News International); [Fastest-growing Ebola outbreak spreads to previously unaffected area](https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638) (Sky News World)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [DRC’s fast-growing Ebola outbreak spreads to sixth province](https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province) (The Guardian); [Congo Ebola Outbreak reaches sixth province amid rising death toll: What to know](https://www.thenews.com.pk/latest/1412191-congo-ebola-outbreak-reaches-sixth-province-amid-rising-death-toll-what-to-know) (The News International); [Fastest-growing Ebola outbreak spreads to previously unaffected area](https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638) (Sky News World)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 96 item(s) across 74 source(s); 1 official/primary-source item(s).
+- Topic size: 96 item(s) across 76 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-13T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Michigan cyclosporiasis cases rise 11% in a week to nearly 14,000](https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-records-1400-more-cases-cyclosporiasis-week-health-officials-say-2026-08-13/) (Reuters); [Lettuce prices plunged 16% as the cyclosporiasis outbreak rattled consumers](https://www.nbcnews.com/business/economy/lettuce-prices-plunged-16-cyclosporiasis-outbreak-rattled-consumers-rcna592099) (NBC News); [Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets](https://www.cbsnews.com/news/taylor-farms-mexico-fda-inspection-cyclosporiasis-outbreak/) (CBS News); [Why Taylor Farms is facing scrutiny over salmonella and cyclospora outbreaks](https://www.cbsnews.com/news/taylor-farms-salmonella-cyclospora-outbreaks/) (CBS News)
@@ -67,7 +67,7 @@ Search window: 7 day(s) ending 2026-08-13
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 69 item(s) across 57 source(s); 3 official/primary-source item(s).
+- Topic size: 70 item(s) across 58 source(s); 3 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-13T16:51+00:00)
 - Detailed note: With measles resurgent and full vaccination coverage stagnating at just 55% nationally and as low as 26% in some states - the country faces recurrent epidemics it cannot withstand. Protecting Somali children through timely vaccination, strengthened surveillance, and data-driven decision-making must be treated as an urgent health security imperative. Denos su opinión sobre sus experiencias con las instalaciones,...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search); [Manitoba measles cases hit lowest point in over a year, but experts warn infections could spike again](https://news.google.com/rss/articles/CBMigAFBVV95cUxPaG9XSFM2RGVuTUJfNVhGWnVMcTNxS2lWWm9KLWNVV0RoQnZ4Ti1CUGxiOXgtQnFrcXpyYXFsdWtUZk13MmlhbnR1UlNEWGVaRzlkNDE3ejVlQjluRHZzN3pTWW1BbjVJa0xhSjl5aHducmxpTUJqSloyd25RRkpBcA?oc=5) (CBC); [As measles outbreaks grow in the U.S., maps and charts show a record number of cases](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) (CBS News); [RFK Jr. Stirred Vaccine Fears in Pennsylvania Years Before Measles Outbreak](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcG5rVmt4VDVQM0gxSUYxVkI0QU1oZFhJSHZyU3d4SVVjREtRYUNMTmNRM194S2tCRUhfQXRDUlBrS1R5SFhMeGRDZjNIMjc5bDV2ZHE5NkZlYjhDU2JIeXpYbWNlVk9GczZKZ0RSVFBwRzgzTi1YTkhIX2otWVcyRFYwZ0lTeVJYdlE?oc=5) (The New York Times)
@@ -77,8 +77,8 @@ Search window: 7 day(s) ending 2026-08-13
 ### Polio and wastewater surveillance
 - Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
 - Lead item: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa, 2026-08-03T11:19+00:00)
-- Detailed note: Since 2023, the institutions have worked together to strengthen safety systems, improve risk management and address recommendations from international assessments. Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning,...
-- Evidence notes: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa); [Indonesia secures global recognition for safe poliovirus containment](https://www.who.int/indonesia/news/detail/13-08-2026-indonesia-secures-global-recognition-for-safe-poliovirus-containment) (World Health Organization (WHO)); [‘The payment is small and the paths are steep’: the women saving India’s remotest people from polio](https://www.theguardian.com/global-development/2026/aug/11/health-disease-polio-vaccination-india-immunisation-women-remote-children-kashmir) (theguardian.com); [MSU researchers explore wastewater testing for cyclospora outbreak](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUVtZ3BjTWtOb0VHa0g0eTlBQ0VSdlhjbVM2Tmx2ek5XWjZ2MlpKMFRlSHJyU1hvM1ZiMm81WGxNTk45VHNJamhQX1BEeGc0RXU3Nm5hQjJMSk5JcThOOWFTelVMOVdSbS0xSmlJTkdtN21zTlZaZGRtWk1hQ3lSd19Qbw?oc=5) (Michigan State University)
+- Detailed note: Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems...
+- Evidence notes: [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) (WHO Regional Office for Africa); [‘The payment is small and the paths are steep’: the women saving India’s remotest people from polio](https://www.theguardian.com/global-development/2026/aug/11/health-disease-polio-vaccination-india-immunisation-women-remote-children-kashmir) (The Guardian); [Indonesia secures global recognition for safe poliovirus containment](https://www.who.int/indonesia/news/detail/13-08-2026-indonesia-secures-global-recognition-for-safe-poliovirus-containment) (World Health Organization (WHO)); [MSU researchers explore wastewater testing for cyclospora outbreak](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUVtZ3BjTWtOb0VHa0g0eTlBQ0VSdlhjbVM2Tmx2ek5XWjZ2MlpKMFRlSHJyU1hvM1ZiMm81WGxNTk45VHNJamhQX1BEeGc0RXU3Nm5hQjJMSk5JcThOOWFTelVMOVdSbS0xSmlJTkdtN21zTlZaZGRtWk1hQ3lSd19Qbw?oc=5) (Michigan State University)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -336,6 +336,16 @@ Search window: 7 day(s) ending 2026-08-13
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025
+- Source: CDC MMWR
+- Date: 2026-08-13T17:00+00:00
+- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231
+- Category: Occupational and environmental epidemiology
+- Summary: Weekly / August 13, 2026 / 75(31);398â402 Sean Sweeney, MS 1, *; Ayla Bullock, MPH 2, *; Michael Reiskind, PhD 3 ; Angela Newnam 4 ; Jonathan Kanipe 4 ; Melissa S. Boyce, MD 2 ; North Carolina Biltmore Forest Study Team ( View author affiliations ) Lyme disease, the most frequently reported vectorborne disease in the United States, is emerging beyond the regions of the Northeast and upper Midwest where it has historically been considered endemic, with increasing transmission in southern Appalachia. Community-based tick surveillance conducted at residential properties in the town of Biltmore Forest, North Carolina, identified blacklegged ticks ( Ixodes scapularis ) as the predominant tick species.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
 - Date: 2026-08-13T16:57+00:00
@@ -426,18 +436,10 @@ Search window: 7 day(s) ending 2026-08-13
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-08-07T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42566457/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Hospital stays shortened by 60% (10 versus 25 days; p < 0.01), and adherence climbed from 70% to 95.2% (p < 0.01). Conventional treatment runs 18-24 months, costs US$7,142-9,000 per patient, and succeeds in only 59% of cases. BPaL achieved 77.4% treatment success (65/84 patients) compared with 59% in historical controls (p < 0.01).
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Catalysing tuberculosis elimination in Indonesia: Health economic and policy insights from the BPaL regimen.](https://pubmed.ncbi.nlm.nih.gov/42566457/) | PubMed Historical Pathogen Case Studies | 2026-08-07T00:00 | Historical epidemiology / ancient disease / paleopathology
+  Hospital stays shortened by 60% (10 versus 25 days; p < 0.01), and adherence climbed from 70% to 95.2% (p < 0.01). Conventional treatment runs 18-24 months, costs US$7,142-9,000 per patient, and succeeds in only 59% of cases. BPaL achieved 77.4% treatment success (65/84 patients) compared with 59% in historical controls (p < 0.01).
 - [In arms and on slides: slavery-related interests in the dissemination of smallpox vaccine in Brazil and Angola, 1804-1810.](https://pubmed.ncbi.nlm.nih.gov/42585445/) | PubMed Historical Pathogen Case Studies | 2026-08-07T00:00 | Historical epidemiology / ancient disease / paleopathology
   This article discusses the intersections between vaccination and slavery in colonial Brazil, highlighting the arrival of the smallpox vaccine in Bahia and its spread to other regions of the Portuguese Empire including its holdings in Africa. These activities reveal the initiative of slave owners in the search for solutions against smallpox, highlighting the complex relationships between slavery, science and health. We highlight the story of enslaved boys, who were primarily inoculated and vaccinated between the late eighteenth and early nineteenth centuries, through analysis of bibliographical and documentary sources that illustrate the actions of historical figures such as Felisberto Caldeira Brant, Francisco da Cunha Menezes and Francisco Ignácio Sequeira Nobre.
 - [Rare primary bone tuberculosis associated with ruxolitinib therapy: A case report and literature review.](https://pubmed.ncbi.nlm.nih.gov/42566613/) | PubMed Historical Pathogen Case Studies | 2026-08-07T00:00 | Historical epidemiology / ancient disease / paleopathology
@@ -448,7 +450,7 @@ Search window: 7 day(s) ending 2026-08-13
   Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems strengthening, disease prevention and control, immunization, emergency preparedness and response, and public health intelligence. The publication also highlights WHO Zambia’s collaboration with Government, development partners, civil society, and communities to advance Universal Health Coverage, health emergency preparedness, and improved health outcomes for all Zambians.
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 26, June 22 to 28 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-26-june-22-28) | WHO Regional Office for Africa | 2026-07-31T19:19+00:00 | Outbreaks and emerging infections
   Cumulatively from weeks 1 to 26, the WHO AFR influenza laboratory network has tested 37,617 sentinel surveillance specimens for SARS-CoV-2, of which 1,031 were positive for SARS-CoV-2 (cumulative positivity rate 2.7%). SARS CoV-2 In Epiweek 26, of the 1,274 specimens processed by 18 laboratories in the African Region, a total of 58 specimens tested positive for SARS-CoV-2 (positivity of 4.6%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 36), Influenza A (H3) (n = 73), Influenza A (subtyping not performed) (n = 4), Influenza B (lineage not determined) (n = 6), and Influenza B (Victoria) (n = 59).
-- [DRC’s fast-growing Ebola outbreak spreads to sixth province](https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province) | theguardian.com | 2026-08-13T16:42+00:00 | Outbreaks and emerging infections
+- [DRC’s fast-growing Ebola outbreak spreads to sixth province](https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province) | The Guardian | 2026-08-13T16:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Michigan cyclosporiasis cases rise 11% in a week to nearly 14,000](https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-records-1400-more-cases-cyclosporiasis-week-health-officials-say-2026-08-13/) | Reuters | 2026-08-13T16:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,17 +458,17 @@ Search window: 7 day(s) ending 2026-08-13
   The reports showed that it has killed over 2,100 people out of more than 4,500 cases; moreover, the death toll has been reached three times faster than in the 2014 and 2016. Ebola outbreak in the DR Congo has spread to a sixth province Africa CDC Director-General Jean Kaseya reportedly announced today that Congo’s Ebola outbreak has spread to a sixth province following a death in the previously unaffected Bas-Uele province. Health authorities have cautioned that between 60% and 70% of new cases are recorded outside contacts being monitored.
 - [Fastest-growing Ebola outbreak spreads to previously unaffected area](https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638) | Sky News World | 2026-08-13T15:31+01:00 | Outbreaks and emerging infections
   DR Congo's Ebola outbreak has spread to a sixth province after a death was recorded in the previously unaffected Bas-Uele province.
+- [Congo’s fastest-growing Ebola outbreak reaches a sixth province](https://www.tribdem.com/news/health/congo-s-fastest-growing-ebola-outbreak-reaches-a-sixth-province/article_452d84b7-f749-57b6-aad5-de50cb9cf092.html) | The Tribune-Democrat | 2026-08-13T14:26+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Spreads to Sixth Congo Province, Africa CDC Says](https://www.bloomberg.com/news/articles/2026-08-13/ebola-outbreak-spreads-to-sixth-congo-province-africa-cdc-says) | Bloomberg.com | 2026-08-13T14:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo government fails to control Ebola outbreak](https://socialistworker.co.uk/international/congo-government-fails-to-control-ebola-outbreak/) | Socialist Worker | 2026-08-13T13:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak on track to be deadliest ever, WHO chief says. #Ebola #DRC #BBCNews](https://www.modernghana.com/videonews/bbc/1/698682) | Modern Ghana | 2026-08-13T13:18+00:00 | Outbreaks and emerging infections
   #Ebola #DRC #BBCNews Modern Ghana
-- [Indonesia secures global recognition for safe poliovirus containment](https://www.who.int/indonesia/news/detail/13-08-2026-indonesia-secures-global-recognition-for-safe-poliovirus-containment) | World Health Organization (WHO) | 2026-08-13T11:27+00:00 | Outbreaks and emerging infections
-  Since 2023, the institutions have worked together to strengthen safety systems, improve risk management and address recommendations from international assessments. These efforts led to Indonesia receiving an Interim Certificate of Containment in 2025 and then progressing to full certification. This year, Bio Farma, the country's vaccine manufacturer, received an internationally recognized Certificate of Containment from the Global Certification Commission for the Eradication of Poliomyelitis.
-- [Ebola Outbreak Explodes In DR Congo, Death Toll Tops 2,000 Across Five Provinces](https://www.wionews.com/videos/ebola-outbreak-explodes-in-dr-congo-death-toll-tops-2-000-across-five-provinces-1786617957184) | wionews.com | 2026-08-13T10:46+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak Explodes In DR Congo, Death Toll Tops 2,000 Across Five Provinces](https://www.wionews.com/videos/ebola-outbreak-explodes-in-dr-congo-death-toll-tops-2-000-across-five-provinces-1786617957184) | WION | 2026-08-13T10:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo’s Ebola outbreak is on track to surpass the deadliest one in history, WHO chief says](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHFVRkNSQk1hOVMteVVxRGwyelNwNG1zNkpDcmhEMlZvNTczbjNCVndpYVhfTENLMGhDbDlubGNCLUZMXzNoWVFMNDF3LUNGUkdnMVZVbUhRY2lFclppZVNlZHo4TU5NejQ2NmFWcVpjUG44SFFITG9fSWVOQnZhR2lkMjMzOXZSQTNubE1UQkQzRDdSWGZXUDJLV3FoVnp5S1hRcEpsaw?oc=5) | Austin American-Statesman | 2026-08-13T10:16+00:00 | Outbreaks and emerging infections
+- [Congo’s Ebola outbreak is on track to surpass the deadliest one in history, WHO chief says](https://www.statesman.com/news/world/article/who-says-congo-s-ebola-outbreak-is-on-track-to-22385162.php) | Austin American-Statesman | 2026-08-13T10:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Manitoba measles cases hit lowest point in over a year, but experts warn infections could spike again](https://news.google.com/rss/articles/CBMigAFBVV95cUxPaG9XSFM2RGVuTUJfNVhGWnVMcTNxS2lWWm9KLWNVV0RoQnZ4Ti1CUGxiOXgtQnFrcXpyYXFsdWtUZk13MmlhbnR1UlNEWGVaRzlkNDE3ejVlQjluRHZzN3pTWW1BbjVJa0xhSjl5aHducmxpTUJqSloyd25RRkpBcA?oc=5) | CBC | 2026-08-13T10:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -475,8 +477,6 @@ Search window: 7 day(s) ending 2026-08-13
 - [Explainer: Why DR Congo's Ebola outbreak is spreading faster -- and deadlier](https://news.google.com/rss/articles/CBMifEFVX3lxTE1rM0NybURyQ2p1TGN0X29HT0NaVHEtRGNwd1dWWEVhdVpjaWNhdTU1Y2xPRW1nSm9wcncycEpZaVE3UmdCYkhfb3NlSDF1V2Y4ZzB5YnNUR0I2YmVLTDJScUR2bk9OOWtlOGoyR0o0MGlYSmIwajZIRzJKd1g?oc=5) | Xinhua | 2026-08-13T06:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak second-largest on record: WHO](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlRhNVhqX192S0VIQzFPMVItTUtLWUh0YlkyMmhsSTExUmRfbzBEWDFwTkhTVl9RY0E2cl9GNHd0MnpmandZSkJwMnVVRmh5TVBEM0toelRlbXVpLWgybnNPcS1xR2pseUVTbFJvV0IybER6LWpTNEt1TkZWV2FtUVpXMnZTSC0zVzB1TnRuaWhScHN1NFN0UmFIUUdfTDB5V1g1cXg0aw?oc=5) | 巴士的報 | 2026-08-13T05:21+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [WHO Sets 3-Month Goal To Bring Congo Ebola Outbreak Under Control](https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmh5QVVkQnBwcmd2TVNtR0s3UWctR1FPZmNWVlhiTjFEcHBfQk1mUjNLWEJteUxsVzd5aHI0bnFXV0ZlZVZLeWRCR2diVmdOeHdJaFAxMG53VEwtWDB2TUVjWkdTY0t6RV9PdVJPWUUyY2VLNFg5clptLVZPVFZPODdOTjdncXkyenItem4tbVZLcjlZRS1j?oc=5) | NDTV | 2026-08-13T04:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -542,6 +542,8 @@ Search window: 7 day(s) ending 2026-08-13
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42580511/
 
 ## Historical epi / weird epi corner
+- [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) | CDC MMWR
+  Weekly / August 13, 2026 / 75(31);398â402 Sean Sweeney, MS 1, *; Ayla Bullock, MPH 2, *; Michael Reiskind, PhD 3 ; Angela Newnam 4 ; Jonathan Kanipe 4 ; Melissa S. Boyce, MD 2 ; North Carolina Biltmore Forest Study Team ( View author affiliations ) Lyme disease, the most frequently reported vectorborne disease in the United States, is emerging beyond the regions of the Northeast and upper Midwest where it has historically been considered endemic, with increasing transmission in southern Appalachia. Community-based tick surveillance conducted at residential properties in the town of Biltmore Forest, North Carolina, identified blacklegged ticks ( Ixodes scapularis ) as the predominant tick species.
 - [Structure and Membrane Interactions of Two Helices from Mycobacterium tuberculosis FtsL, One Transmembrane and One Amphipathic.](https://pubmed.ncbi.nlm.nih.gov/42584571/) | PubMed Historical Pathogen Case Studies
   Amino-acid-specific 15N-labeled oriented-sample ssNMR spectra in POPC/POPG (4:1 molar ratio) membranes uniquely defined the orientation of the TM helix (residues 124-144), including a 16° tilt, but constrained only the amphipathic helix (residues 101-114) to a 90° tilt, leaving ambiguity in helical rotation and membrane burial depth. The final structure of FtsL101-146 was refined by restrained molecular dynamics simulations in a POPC/POPG bilayer and further validated by 13C-13C correlation magic-angle-spinning NMR. Together, these results demonstrate that the amphipathic helix of FtsL functions as a membrane-interacting element that stabilizes the protein in the membrane environment and mediates the recruitment of downstream proteins to the divisome for Mtb cell division.
 - [[Historical reflections on smallpox, science and health: an interview with Tania Fernandes].](https://pubmed.ncbi.nlm.nih.gov/42585442/) | PubMed Historical Pathogen Case Studies
