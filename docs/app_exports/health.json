@@ -8,34 +8,45 @@
       "CBS News",
       "CIDRAP",
       "CNN",
-      "Guardian",
       "NBC News",
       "New York Times",
       "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 269,
+    "metadata_only_count": 265,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 296,
-    "story_count_change": 8,
+    "sources_failed": 5,
+    "sources_live": 292,
+    "story_count_change": 7,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 296,
+    "live": 292,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-12T16:20:46",
+  "generated_at": "2026-08-12T17:10:31",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
       "required": true,
       "source": "Africa CDC",
       "source_type": "rss"
+    },
+    {
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "required": true,
+      "source": "medRxiv Infectious Disease",
+      "source_type": "medrxiv"
     },
     {
       "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
