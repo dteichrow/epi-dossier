@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-12
-Generated at: 2026-08-12T23:55
+Generated at: 2026-08-12T23:59
 Search window: 7 day(s) ending 2026-08-12
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-12
 - [Structure and Membrane Interactions of Two Helices from Mycobacterium tuberculosis FtsL, One Transmembrane and One Amphipathic.](https://pubmed.ncbi.nlm.nih.gov/42584571/) (PubMed Historical Pathogen Case Studies; 2026-08-12T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [WHO Sierra Leone Second Quarter 2026 Results Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-second-quarter-2026-results-newsletter) (WHO Regional Office for Africa; 2026-08-11T11:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News; 2026-08-10T16:05+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (239), Policy, surveillance, and public health infrastructure (40), Historical epidemiology / ancient disease / paleopathology (8)
+- Category mix: Outbreaks and emerging infections (242), Policy, surveillance, and public health infrastructure (39), Historical epidemiology / ancient disease / paleopathology (8)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -39,20 +39,20 @@ Search window: 7 day(s) ending 2026-08-12
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 103 item(s) across 80 source(s).
-- Baseline snapshot created with 103 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 106 item(s) across 82 source(s).
+- Baseline snapshot created with 106 clustered item(s) across 82 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 92 item(s) across 73 source(s).
-- Baseline snapshot created with 92 clustered item(s) across 73 source(s).
+- Newly tracked story cluster: 91 item(s) across 70 source(s).
+- Baseline snapshot created with 91 clustered item(s) across 70 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 103 item(s) across 80 source(s); 1 official/primary-source item(s).
+- Topic size: 106 item(s) across 82 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-12T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Farm linked to cyclosporiasis outbreak has not been inspected since 2019](https://www.cbsnews.com/video/farm-linked-cyclosporiasis-outbreak-not-inspected-since-2019/) (CBS News); [Lettuce prices plunged 16% as the cyclosporiasis outbreak rattled consumers](https://www.nbcnews.com/business/economy/lettuce-prices-plunged-16-cyclosporiasis-outbreak-rattled-consumers-rcna592099) (NBC News); [More than 24,000 cyclosporiasis infections reported as new cases appear to slow: CDC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/24000-cyclosporiasis-infections-reported-new-cases-slow-cdc/story?id\=135514625) (ABC News - Breaking News, Latest News and Videos); [Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets](https://news.google.com/rss/articles/CBMikgFBVV95cUxPalR5Wk9qM00xN1l0MTRfeGVtUXJsVEpfZGtEN0xDSlJ6aUxUejJGcGJsRGFGVXFsVktGT1hWcGhRV3JSanFJOHlndmhkc2hncXpYMmN3YTZUWG0wOUxfa1JvdXdqSkhtZ2U2YmQzZDBkYVM0dmlqMi03SXNZZHQzbVhrVkY3VTVwOXE0MlFzbHNFZw?oc=5) (CBS News)
@@ -60,10 +60,10 @@ Search window: 7 day(s) ending 2026-08-12
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 92 item(s) across 73 source(s); 2 official/primary-source item(s).
+- Topic size: 91 item(s) across 70 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-12T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [WHO Warns DRC Ebola Outbreak Could Surpass 2014–2016 West African Epidemic](https://dmarketforces.com/who-warns-drc-ebola-outbreak-could-surpass-2014-2016-west-african-epidemic/) (MarketForces Africa); [Congo families mourn as Ebola outbreak accelerates, in photos](https://www.dailyindependent.com/national/congo-families-mourn-as-ebola-outbreak-accelerates-in-photos/article_b70394be-58bc-5bb4-ae21-048273fc0927.html) (The Daily Independent); [WHO aims to reverse DR Congo Ebola outbreak in 3 months](https://www.jamaicaobserver.com/2026/08/12/aims-reverse-dr-congo-ebola-outbreak-3-months/) (Jamaica Observer)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [WHO Warns DRC Ebola Outbreak Could Surpass 2014–2016 West African Epidemic](https://dmarketforces.com/who-warns-drc-ebola-outbreak-could-surpass-2014-2016-west-african-epidemic/) (MarketForces Africa); [Congo families mourn as Ebola outbreak accelerates, in photos](https://www.dailyindependent.com/national/congo-families-mourn-as-ebola-outbreak-accelerates-in-photos/article_b70394be-58bc-5bb4-ae21-048273fc0927.html) (The Daily Independent); [WHO Warns Congo Ebola Outbreak “Fastest-Moving” Yet](https://thedeepdive.ca/congo-ebola-outbreak-who-warning/) (the deep dive)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -95,7 +95,7 @@ Search window: 7 day(s) ending 2026-08-12
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-13T06:53+00:00)
 - Detailed note: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and...
-- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [Should I be worried about the hantavirus outbreak?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQME9jMlNLYVpMVS1aQ0thMTBFSTJ5azlaeU5zOXlJMnNVNklQZkRSUThmdlJlM3ptUWJsenVrUEpLV0I5eklxendqQzdYaFVfejI0N3Utc1dNUFJ0Ykd4SFhyVTgzY3hRSTUxU3NLZlh2T3l0VnMyaDdWLW1LYk01ckZHeHIzMW1o?oc=5) (VCU Health)
+- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [Should I be worried about the hantavirus outbreak?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQME9jMlNLYVpMVS1aQ0thMTBFSTJ5azlaeU5zOXlJMnNVNklQZkRSUThmdlJlM3ptUWJsenVrUEpLV0I5eklxendqQzdYaFVfejI0N3Utc1dNUFJ0Ykd4SFhyVTgzY3hRSTUxU3NLZlh2T3l0VnMyaDdWLW1LYk01ckZHeHIzMW1o?oc=5) (vcuhealth.org)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -461,8 +461,6 @@ Search window: 7 day(s) ending 2026-08-12
   Limited detail was available from feed metadata alone.
 - [Farm linked to cyclosporiasis outbreak has not been inspected since 2019](https://www.cbsnews.com/video/farm-linked-cyclosporiasis-outbreak-not-inspected-since-2019/) | CBS News | 2026-08-12T20:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO aims to reverse DR Congo Ebola outbreak in 3 months](https://www.jamaicaobserver.com/2026/08/12/aims-reverse-dr-congo-ebola-outbreak-3-months/) | Jamaica Observer | 2026-08-12T20:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [WHO Warns Congo Ebola Outbreak “Fastest-Moving” Yet](https://thedeepdive.ca/congo-ebola-outbreak-who-warning/) | the deep dive | 2026-08-12T20:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO warns of a record-breaking Ebola outbreak in the Congo](https://www.yahoo.com/news/world/articles/warns-record-breaking-ebola-outbreak-190330814.html) | Yahoo | 2026-08-12T19:03+00:00 | Outbreaks and emerging infections
@@ -477,7 +475,9 @@ Search window: 7 day(s) ending 2026-08-12
   Limited detail was available from feed metadata alone.
 - [WHO says Congo’s Ebola outbreak is on track to surpass the deadliest one in history - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-ebola-outbreak-track-surpass-deadliest-history-135580129) | ABC News - Breaking News, Latest News and Videos | 2026-08-12T16:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Race to find Ebola vaccine as DR Congo outbreak kills more than 2,000](https://www.modernghana.com/news/1518545/race-to-find-ebola-vaccine-as-dr-congo-outbreak.html) | Modern Ghana | 2026-08-12T13:00+00:00 | Outbreaks and emerging infections
+- [WHO says Congo’s Ebola outbreak is on track to eclipse the deadliest 1 in history](https://community.triblive.com/news/4113790) | TribLIVE.com | 2026-08-12T16:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Race to find Ebola vaccine as DR Congo outbreak kills more than 2,000](https://www.rfi.fr/en/africa/20260812-race-to-find-ebola-vaccine-as-dr-congo-outbreak-kills-more-than-2-000) | RFI | 2026-08-12T11:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
