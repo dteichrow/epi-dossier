@@ -14,7 +14,7 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 265,
+    "metadata_only_count": 264,
     "sources_cached": 0,
     "sources_failed": 5,
     "sources_live": 292,
@@ -28,7 +28,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-12T17:10:31",
+  "generated_at": "2026-08-12T17:18:32",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
