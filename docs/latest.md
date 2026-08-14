@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-14
-Generated at: 2026-08-14T16:30
+Generated at: 2026-08-14T16:45
 Search window: 7 day(s) ending 2026-08-14
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-08-14
 - [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search; 2026-08-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR; 2026-08-13T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search; 2026-08-12T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (271), Policy, surveillance, and public health infrastructure (31), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (269), Policy, surveillance, and public health infrastructure (31), Major epidemiology studies (2)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 102 item(s) across 80 source(s).
-- Baseline snapshot created with 102 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 100 item(s) across 80 source(s).
+- Baseline snapshot created with 100 clustered item(s) across 80 source(s).
 - India Tribune - Chicago now includes deaths or fatal cases in the story frame.
 - India Tribune - Chicago now foregrounds vaccination or vaccine policy in the story.
 
@@ -32,8 +32,8 @@ Search window: 7 day(s) ending 2026-08-14
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 102 item(s) across 79 source(s).
-- Baseline snapshot created with 102 clustered item(s) across 79 source(s).
+- Newly tracked story cluster: 102 item(s) across 77 source(s).
+- Baseline snapshot created with 102 clustered item(s) across 77 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Hantavirus and cruise-ship outbreak
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-08-14
 
 ## Major topics
 ### Cyclosporiasis
-- Topic size: 102 item(s) across 79 source(s); 1 official/primary-source item(s).
+- Topic size: 102 item(s) across 77 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-14T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak](https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/) (The Washington Post); [Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?](https://www.nytimes.com/2026/08/14/well/eat/cyclospora-lettuce-jalapenos-produce-safe.html) (The New York Times); [Sen. Warren demands answers from RFK Jr. over 'calamitous' response to cyclosporiasis outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Politics/sen-warren-demands-answers-rfk-jr-calamitous-response/story?id\=135633761) (ABC News - Breaking News, Latest News and Videos); [Best-by dates of recalled iceberg lettuce linked to massive Cyclospora outbreak have passed, says FDA](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1g1a1Z3dXpTeV9CY2JnRlA4QXpkNUNQOUQ3TktINmFKdzZVSDF6Wlo4S0xGNDhDUU1JaHJTMlJmUGtVWjJGODlXVTRfMzVJbEdkbk5oWUd3WTlwME1jTjJTeUFfbmJDb0lZdzV2WVRvR3RRbmwwTzlKTFItZEp2Nlg0aER0RWZuc0FRV1BLWUV0b3hDYWZ2VUFNV2taWmZ4czNNd1pTMjlHdEs3MHl2MzBET1ZaeEJSOUNCNFl4MmhIVGc?oc=5) (CIDRAP)
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-08-14
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 102 item(s) across 80 source(s); 2 official/primary-source item(s).
+- Topic size: 100 item(s) across 80 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: A total of 2,184 deaths have been recorded among confirmed cases, putting the overall case fatality rate at 46.8 per cent. Kinshasa, Aug 14 (IANS) The ongoing Ebola outbreak in the Democratic Republic of the Congo (DRC) has spread to a sixth province, with confirmed cases rising to 4,665, the government said Friday. Although no new international spread has been detected, continued transmission indicates that the...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Ebola outbreak reaches sixth province in DR Congo as cases top 4,600: Official - India Tribune](https://www.indiatribune.com/public/ebola-outbreak-reaches-sixth-province-in-dr-congo-as-cases-top-4600-official) (India Tribune - Chicago); [Congo: Ebola cases rising at record pace](https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053) (dw.com); [Deadly Ebola outbreak spreads to sixth province in DRC – FRCN HQ](https://radionigeria.gov.ng/2026/08/14/deadly-ebola-outbreak-spreads-to-sixth-province-in-drc/) (FRCN HQ)
@@ -80,7 +80,7 @@ Search window: 7 day(s) ending 2026-08-14
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
 - Lead item: [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR, 2026-08-13T17:00+00:00)
 - Detailed note: Weekly / August 13, 2026 / 75(31);398â402 Sean Sweeney, MS 1, *; Ayla Bullock, MPH 2, *; Michael Reiskind, PhD 3 ; Angela Newnam 4 ; Jonathan Kanipe 4 ; Melissa S. Boyce, MD 2 ; North Carolina Biltmore Forest Study Team ( View author affiliations ) Lyme disease, the most frequently reported vectorborne disease in the United States, is emerging beyond the regions of the Northeast and upper Midwest where it has...
-- Evidence notes: [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR); [Ninth person dies from Legionnaires’ disease cluster in Upper East Side – surpassing last year’s Harlem outbreak death toll](https://nypost.com/2026/08/14/us-news/ninth-person-dies-from-legionnaires-disease-cluster-in-upper-east-side-surpassing-last-years-harlem-outbreak-death-toll/) (New York Post)
+- Evidence notes: [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR); [Ninth person dies from Legionnaires’ disease cluster in Upper East Side – surpassing last year’s Harlem outbreak death toll](https://nypost.com/2026/08/14/us-news/ninth-person-dies-from-legionnaires-disease-cluster-in-upper-east-side-surpassing-last-years-harlem-outbreak-death-toll/) (nypost.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -434,10 +434,10 @@ Search window: 7 day(s) ending 2026-08-14
 ## Other notable readings
 - [WHO Zambia Newsletter – Second Quarter 2026 (April–June 2026)](https://www.afro.who.int/publications/who-zambia-newsletter-second-quarter-2026-april-june-2026) | WHO Regional Office for Africa | 2026-08-03T11:19+00:00 | Outbreaks and emerging infections
   Featured interventions include support for polio vaccination campaigns, Ebola preparedness and simulation exercises, cholera prevention, digital health transformation, health workforce development, primary health care investment planning, noncommunicable disease surveillance, and strengthening health security systems. It showcases progress across leadership and partnership engagement, health systems strengthening, disease prevention and control, immunization, emergency preparedness and response, and public health intelligence. The publication also highlights WHO Zambia’s collaboration with Government, development partners, civil society, and communities to advance Universal Health Coverage, health emergency preparedness, and improved health outcomes for all Zambians.
+- [FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak](https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/) | The Washington Post | 2026-08-14T23:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches sixth province in DR Congo as cases top 4,600: Official - India Tribune](https://www.indiatribune.com/public/ebola-outbreak-reaches-sixth-province-in-dr-congo-as-cases-top-4600-official) | India Tribune - Chicago | 2026-08-14T22:41+00:00 | Outbreaks and emerging infections
   A total of 2,184 deaths have been recorded among confirmed cases, putting the overall case fatality rate at 46.8 per cent. Kinshasa, Aug 14 (IANS) The ongoing Ebola outbreak in the Democratic Republic of the Congo (DRC) has spread to a sixth province, with confirmed cases rising to 4,665, the government said Friday. Highlighting Ervebo's potential cross-protection and the current emergency context, Kaseya stressed that deployment of this vaccine is a strategic approach to reduce severe illness and deaths.
-- [FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak](https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/) | The Washington Post | 2026-08-14T22:07+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?](https://www.nytimes.com/2026/08/14/well/eat/cyclospora-lettuce-jalapenos-produce-safe.html) | The New York Times | 2026-08-14T20:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [With 101 new cases, US measles total tops 2,500](https://www.cidrap.umn.edu/measles/101-new-cases-us-measles-total-tops-2500) | CIDRAP | 2026-08-14T19:26+00:00 | Outbreaks and emerging infections
@@ -458,7 +458,7 @@ Search window: 7 day(s) ending 2026-08-14
   Limited detail was available from feed metadata alone.
 - [2026 Oregon measles cases have already far surpassed 2024 peak](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDVXT19qVU5hTk1hVk81bTNzSWhkTkdOOWJRQlVFTVhBQTdTLVlNS2hjaUhQY1daaVhPUnFtTWNPOThfY0RkZXZaTm12T1hxM2VBQnVqd2tfS1VoenVvZmJFeW9Qdm9mOWZJeW91UGZQZlhuQ1RveHVJSHB2OVZEMTRJVXBEVjVDQWFwNw?oc=5) | Axios | 2026-08-14T13:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [MSF warns Ebola response could overshadow measles, cholera outbreaks in DRC](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDJqWlViekxDSjNCUmlfajR4b0k1bWR3QVp3aUJRbUZvRDU3Z0pXdWp6VmxUODFhTnZvOW9iS21TMkNRR2NTUk1tb0xvLU1qVnQ2emdQemFKWktVUzVlUEtqSmZ0aGV1cDlFem0wcUE5YU8yVVB1YU8xVUtERXk3ek02a3hOOWdQREUzbHF5dEd3X2tOOEQzc042bG1jdnJwY3RmT21xRnMzNXlRaEJaZmxScEdwLUcz?oc=5) | eastleighvoice.co.ke | 2026-08-14T13:17+00:00 | Outbreaks and emerging infections
+- [MSF warns Ebola response could overshadow measles, cholera outbreaks in DRC](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDJqWlViekxDSjNCUmlfajR4b0k1bWR3QVp3aUJRbUZvRDU3Z0pXdWp6VmxUODFhTnZvOW9iS21TMkNRR2NTUk1tb0xvLU1qVnQ2emdQemFKWktVUzVlUEtqSmZ0aGV1cDlFem0wcUE5YU8yVVB1YU8xVUtERXk3ek02a3hOOWdQREUzbHF5dEd3X2tOOEQzc042bG1jdnJwY3RmT21xRnMzNXlRaEJaZmxScEdwLUcz?oc=5) | The Eastleigh Voice | 2026-08-14T13:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Animal-to-human spillover behind Ebola outbreak in Africa](https://www.plataformamedia.com/en/2026/08/14/ebola-outbreak-caused-by-new-animal-transmission/) | Plataforma Media | 2026-08-14T11:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -466,12 +466,12 @@ Search window: 7 day(s) ending 2026-08-14
   Limited detail was available from feed metadata alone.
 - [Congo’s Ebola outbreak on track to become deadliest in history](https://www.pressreader.com/canada/times-colonist/20260814/281711211477165) | PressReader | 2026-08-14T10:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Oxfam warns of 'lack of resources' in Ebola outbreak](https://www.bbc.co.uk/news/articles/c3r02y5q51ro) | BBC | 2026-08-14T05:08+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Uganda seizes passports of 3 Taiwanese nationals in suspected retaliation over Ebola travel ban](https://www.pulse.ug/story/uganda-seizes-passports-of-3-taiwanese-nationals-in-suspected-retaliation-over-ebola-travel-ban-2026081317133482028) | Pulse Uganda | 2026-08-14T04:43+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola is driving up maternal deaths as pregnant women in Congo avoid hospitals](https://www.japantimes.co.jp/news/2026/08/14/world/science-health/ebola-maternal-deaths-pregnancy-congo/) | The Japan Times | 2026-08-14T02:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola in Congo Reaches Sixth Province, 2,100 Dead](https://srpske.rs/en/news/svet/2026/08/14/ebola-outbreak-congo-reaches-sixth-province) | srpske.rs | 2026-08-14T00:46+00:00 | Outbreaks and emerging infections
+  When we reported on this outbreak on August 7 , the official count stood at 4,053 confirmed cases and 1,850 deaths, with the virus present in five provinces. According to the latest figures from the Congolese government, the Democratic Republic of Congo has recorded more than 4,500 cases and over 2,100 deaths . That death toll was reached almost three times faster than in the West African outbreak of 2014 to 2016, which killed more than 11,000 people and still stands as the deadliest Ebola outbreak on record.
 
 ## Papers worth saving
 - [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/)
