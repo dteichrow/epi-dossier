@@ -2,6 +2,7 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -15,7 +16,7 @@
     ],
     "metadata_only_count": 285,
     "sources_cached": 0,
-    "sources_failed": 3,
+    "sources_failed": 2,
     "sources_live": 306,
     "story_count_change": 5,
     "wrapper_only_count": 11
@@ -27,7 +28,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-14T12:22:55",
+  "generated_at": "2026-08-14T12:54:42",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
@@ -36,16 +37,10 @@
       "source_type": "html_list"
     },
     {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/medrxiv/2026-08-06/2026-08-14",
       "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/biorxiv/2026-08-06/2026-08-14",
-      "required": true,
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
+      "source": "medRxiv Infectious Disease",
+      "source_type": "medrxiv"
     }
   ]
 }
