@@ -1,10 +1,11 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
       "CBS News",
       "CIDRAP",
+      "CNN",
       "Guardian",
       "NBC News",
       "NPR",
@@ -12,45 +13,20 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 283,
+    "metadata_only_count": 284,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 304,
+    "sources_failed": 0,
+    "sources_live": 305,
     "story_count_change": 6,
     "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 304,
+    "live": 305,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-14T11:03:16",
-  "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/medrxiv/2026-08-06/2026-08-14",
-      "required": true,
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/biorxiv/2026-08-06/2026-08-14",
-      "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/biorxiv/2026-08-06/2026-08-14",
-      "required": true,
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
-    }
-  ]
+  "generated_at": "2026-08-14T11:18:43",
+  "source_failures": []
 }
