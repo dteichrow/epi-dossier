@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-13
-Generated at: 2026-08-13T22:59
+Generated at: 2026-08-13T23:02
 Search window: 7 day(s) ending 2026-08-13
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-08-13
 - [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search; 2026-08-12T00:00; Major epidemiology studies; relevance 5/5)
 - [Structure and Membrane Interactions of Two Helices from Mycobacterium tuberculosis FtsL, One Transmembrane and One Amphipathic.](https://pubmed.ncbi.nlm.nih.gov/42584571/) (PubMed Historical Pathogen Case Studies; 2026-08-12T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News; 2026-08-10T16:05+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (248), Policy, surveillance, and public health infrastructure (30), Historical epidemiology / ancient disease / paleopathology (6)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (249), Policy, surveillance, and public health infrastructure (30), Historical epidemiology / ancient disease / paleopathology (6)
+- Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### COVID-19 and SARS-CoV-2
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-08-13
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 96 item(s) across 72 source(s).
-- Baseline snapshot created with 96 clustered item(s) across 72 source(s).
+- Newly tracked story cluster: 97 item(s) across 73 source(s).
+- Baseline snapshot created with 97 clustered item(s) across 73 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Cyclosporiasis
@@ -50,9 +50,9 @@ Search window: 7 day(s) ending 2026-08-13
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 96 item(s) across 72 source(s); 2 official/primary-source item(s).
+- Topic size: 97 item(s) across 73 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-12T17:36+02:00)
-- Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
+- Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic. Euronews investigates Make it Work Smart Regions Featured...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [It’ll take at least 6 months to contain Ebola outbreak in Congo: experts](https://www.cbc.ca/player/play/video/9.7306622) (CBC); [Ebola Outbreak in DR Congo Kills More Than 2,000 as Cases Surge](https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1c3BieVZwSzhIZ2ZXTW8tQy1rTmNJclpSM0ZUVm5UeXhzaHg2RkhCUFl6bXUxUHJId284R09xbDdTT2RhYjJMSE1DbHlvSE5OVUZyUS1CcjJsMHNzRFo4bmx6WW1oUQ?oc=5) (Межа. Новини України.); [WHO Chief: ‘Congo Ebola Outbreak to be Worst Ever’](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlUtc2pVekVzb2tSZXV4VnpwNzlMWDFKbXc4ZmR4TDhfbnNGb2JRS2tDc2JhMm1WQUh2VGZxRml5dFF0UHV0RnpPWnlRLU01WHQzT2dnZDltRENqY0RocE9yeVhVbl9BQzQ3UVhYa2ltYWV1VmQyVXAzdVFGLWtIUEh0ZzdVaWptMmdJbzltamdfWGRUSXBhZlIxZmNBNDVX?oc=5) (EMJ)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
@@ -462,7 +462,7 @@ Search window: 7 day(s) ending 2026-08-13
 - [WHO Chief: ‘Congo Ebola Outbreak to be Worst Ever’](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlUtc2pVekVzb2tSZXV4VnpwNzlMWDFKbXc4ZmR4TDhfbnNGb2JRS2tDc2JhMm1WQUh2VGZxRml5dFF0UHV0RnpPWnlRLU01WHQzT2dnZDltRENqY0RocE9yeVhVbl9BQzQ3UVhYa2ltYWV1VmQyVXAzdVFGLWtIUEh0ZzdVaWptMmdJbzltamdfWGRUSXBhZlIxZmNBNDVX?oc=5) | EMJ | 2026-08-13T20:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak spreads to sixth DR Congo province, Africa CDC says](https://www.euronews.com/health/2026/08/13/ebola-spreads-to-sixth-dr-congo-province-raising-fears-it-could-spread-to-south-sudan) | euronews.com | 2026-08-13T19:13+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+  Euronews investigates Make it Work Smart Regions Featured Europe Today Euronews' flagship morning TV show with the news and insights that drive Europe, live from Brussels every morning at 08.00. In each episode, two political heavyweights from across the EU face off to propose a diversity of opinions and spark conversations around the most important issues of EU affairs and the wider European political life. The Ring The Ring is Euronews’ weekly political showdown, where Europe’s toughest debates meet their boldest voices.
 - [Congo’s fastest-growing Ebola outbreak reaches a sixth province](https://www.record-eagle.com/ap/international/congo-s-fastest-growing-ebola-outbreak-reaches-a-sixth-province/article_13af9905-4aa1-5e52-a4d5-a442883ebd26.html) | Traverse City Record-Eagle | 2026-08-13T18:24+00:00 | Outbreaks and emerging infections
   Updated: August 13, 2026 @ 4:34 pm Limited detail was available from feed metadata alone.
 - [Ebola outbreak on track to be deadliest ever](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTDlJWjBIR3c3ek9JYzdEeUtHQ0QwTGNnOW8tNGpfYTk2eUpuM21Ea3ZONGxNR2VSSUVEV0FWUHlORjhiZDk2VWRRc3FhZXVNeWN2WTc3bWNKUQ?oc=5) | BBC | 2026-08-13T17:16+00:00 | Outbreaks and emerging infections
