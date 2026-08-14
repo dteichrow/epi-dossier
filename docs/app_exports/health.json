@@ -8,17 +8,17 @@
       "CNN",
       "Guardian",
       "NBC News",
+      "NPR",
       "New York Times",
       "PBS",
-      "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 268,
+    "metadata_only_count": 266,
     "sources_cached": 0,
-    "sources_failed": 2,
+    "sources_failed": 3,
     "sources_live": 291,
-    "story_count_change": 5,
-    "wrapper_only_count": 12
+    "story_count_change": 6,
+    "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
@@ -27,8 +27,14 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-14T01:19:18",
+  "generated_at": "2026-08-14T02:00:44",
   "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
     {
       "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
       "required": true,
