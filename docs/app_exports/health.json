@@ -7,38 +7,34 @@
       "CBS News",
       "CIDRAP",
       "CNN",
+      "Guardian",
       "NBC News",
       "NPR",
       "New York Times",
-      "PBS"
+      "PBS",
+      "Reuters"
     ],
-    "metadata_only_count": 281,
+    "metadata_only_count": 282,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 300,
+    "sources_failed": 3,
+    "sources_live": 303,
     "story_count_change": 5,
-    "wrapper_only_count": 9
+    "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 300,
+    "live": 303,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-14T13:53:17",
+  "generated_at": "2026-08-14T14:03:06",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
-    },
-    {
-      "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/medrxiv/2026-08-06/2026-08-14",
-      "required": true,
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
     },
     {
       "error": "500 Server Error: Internal Server Error for url: https://api.biorxiv.org/details/biorxiv/2026-08-06/2026-08-14",
