@@ -1,21 +1,20 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
       "CBS News",
       "CIDRAP",
       "CNN",
-      "Guardian",
       "NBC News",
       "New York Times",
       "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 260,
+    "metadata_only_count": 263,
     "sources_cached": 0,
-    "sources_failed": 2,
+    "sources_failed": 1,
     "sources_live": 291,
     "story_count_change": 7,
     "wrapper_only_count": 10
@@ -27,19 +26,13 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-13T22:19:20",
+  "generated_at": "2026-08-13T22:59:07",
   "source_failures": [
     {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
     }
   ]
 }
