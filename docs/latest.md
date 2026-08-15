@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-15
-Generated at: 2026-08-15T16:32
+Generated at: 2026-08-15T16:42
 Search window: 7 day(s) ending 2026-08-15
 
 ## Executive scan
@@ -12,28 +12,28 @@ Search window: 7 day(s) ending 2026-08-15
 - [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search; 2026-08-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR; 2026-08-13T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search; 2026-08-12T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (285), Policy, surveillance, and public health infrastructure (28), Occupational and environmental epidemiology (3)
-- Source health: 5 source(s) failed during collection: Nigeria Centre for Disease Control, FDA Foodborne Outbreaks, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
+- Category mix: Outbreaks and emerging infections (286), Policy, surveillance, and public health infrastructure (28), Occupational and environmental epidemiology (3)
+- Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 112 item(s) across 79 source(s).
-- Baseline snapshot created with 112 clustered item(s) across 79 source(s).
-- newsghana.com.gh now includes deaths or fatal cases in the story frame.
-- newsghana.com.gh now foregrounds vaccination or vaccine policy in the story.
+- Newly tracked story cluster: 113 item(s) across 81 source(s).
+- Baseline snapshot created with 113 clustered item(s) across 81 source(s).
+- News Ghana now includes deaths or fatal cases in the story frame.
+- News Ghana now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 88 item(s) across 72 source(s).
-- Baseline snapshot created with 88 clustered item(s) across 72 source(s).
+- Newly tracked story cluster: 89 item(s) across 73 source(s).
+- Baseline snapshot created with 89 clustered item(s) across 73 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 106 item(s) across 81 source(s).
-- Baseline snapshot created with 106 clustered item(s) across 81 source(s).
+- Newly tracked story cluster: 105 item(s) across 82 source(s).
+- Baseline snapshot created with 105 clustered item(s) across 82 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Hantavirus and cruise-ship outbreak
@@ -51,23 +51,23 @@ Search window: 7 day(s) ending 2026-08-15
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 112 item(s) across 79 source(s); 2 official/primary-source item(s).
+- Topic size: 113 item(s) across 81 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing](https://www.arabnews.pk/node/2654784/world) (Arab News PK); [DRC Requests 100,000 Ebola Vaccine Doses as Deaths Pass 2,000](https://newsghana.com.gh/drc-requests-100000-ebola-vaccine-doses-as-deaths-pass-2000/) (newsghana.com.gh); [Fastest-growing Ebola outbreak through the eyes of Canadian aid workers](https://www.castanet.net/news/Canada/628139/Fastest-growing-Ebola-outbreak-through-the-eyes-of-Canadian-aid-workers) (Castanet)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing](https://www.arabnews.pk/node/2654784/world) (Arab News PK); [DRC Requests 100,000 Ebola Vaccine Doses as Deaths Pass 2,000](https://newsghana.com.gh/drc-requests-100000-ebola-vaccine-doses-as-deaths-pass-2000/) (News Ghana); [Fastest-growing Ebola outbreak through the eyes of Canadian aid workers](https://www.castanet.net/news/Canada/628139/Fastest-growing-Ebola-outbreak-through-the-eyes-of-Canadian-aid-workers) (Castanet)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 106 item(s) across 81 source(s); 1 official/primary-source item(s).
+- Topic size: 105 item(s) across 82 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-14T00:00)
 - Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Sen. Warren demands answers from RFK Jr. over 'calamitous' response to cyclosporiasis outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Politics/sen-warren-demands-answers-rfk-jr-calamitous-response/story?id\=135633761) (ABC News - Breaking News, Latest News and Videos); [FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak](https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/) (The Washington Post); [Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHZFU2dLZkVYYVh6U3lYWUhGdDJKa3laeTNMT3hQbk9zZHVZLXRabXJDM2o0eXZoaDRqY21iYTdEdWwxYmhZQllGRHFsZ0pvRTdEWDNaWlRYYXdUT3FBUmRFZDB3ajdMZXBBTnZGTW9LSGM0bFN5bHN6VjBxM3NqNEc2OG0wMTZYdVFVZFZ0M25lcTdq?oc=5) (The New York Times); [Cyclosporiasis outbreak is a test for agencies where Trump made cuts : Trump's Terms](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlZKMjBUMGtEWVI2V3h2SmlCWjdtWTl0OGhTTi1Cd1ZSWkZQUExHNnRRQVFicklfekVDTk1nUjZ0UEM0Qm85NGxLOGQ3WTNwUVBEWm5SSU9WSVloZUEyUmtWV3FfVzNYWFMyNHdrRjNyMmdDVHdsOTU1NEI2ckZLSTBrX3RINEVCNEdDVmtRaUluTjF2NHlnZzdiU1FndzRaWXFCcFdqWGRlZ0lyLUNVSkh4dw?oc=5) (NPR)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Sen. Warren demands answers from RFK Jr. over 'calamitous' response to cyclosporiasis outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Politics/sen-warren-demands-answers-rfk-jr-calamitous-response/story?id\=135633761) (ABC News - Breaking News, Latest News and Videos); [FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak](https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/) (The Washington Post); [Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHZFU2dLZkVYYVh6U3lYWUhGdDJKa3laeTNMT3hQbk9zZHVZLXRabXJDM2o0eXZoaDRqY21iYTdEdWwxYmhZQllGRHFsZ0pvRTdEWDNaWlRYYXdUT3FBUmRFZDB3ajdMZXBBTnZGTW9LSGM0bFN5bHN6VjBxM3NqNEc2OG0wMTZYdVFVZFZ0M25lcTdq?oc=5) (The New York Times); [Cyclosporiasis outbreak is a test for agencies where Trump made cuts : Trump's Terms](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlZKMjBUMGtEWVI2V3h2SmlCWjdtWTl0OGhTTi1Cd1ZSWkZQUExHNnRRQVFicklfekVDTk1nUjZ0UEM0Qm85NGxLOGQ3WTNwUVBEWm5SSU9WSVloZUEyUmtWV3FfVzNYWFMyNHdrRjNyMmdDVHdsOTU1NEI2ckZLSTBrX3RINEVCNEdDVmtRaUluTjF2NHlnZzdiU1FndzRaWXFCcFdqWGRlZ0lyLUNVSkh4dw?oc=5) (NPR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 88 item(s) across 72 source(s); 3 official/primary-source item(s).
+- Topic size: 89 item(s) across 73 source(s); 3 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-15T23:28+00:00)
 - Detailed note: Additionally, 91% (30/33) of studies provided data on subsequent transmission generations, leading to 812 measles cases traced back to vaccinated individuals, with a median of 4 (IQR: 1, 10) cases per vaccinated transmitter. Vaccinated transmitters in eliminated areas were older (median age of 19 years (IQR: 3, 21)) than those in non-eliminated areas (median age 16 years; IQR 13, 18) ( p = 0.12). With measles...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search); [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search); [Video Measles cases reach highest level since 1991 - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/135672004/) (ABC News - Breaking News, Latest News and Videos); [MSF warns Ebola response could overshadow measles, cholera outbreaks in DRC](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDJqWlViekxDSjNCUmlfajR4b0k1bWR3QVp3aUJRbUZvRDU3Z0pXdWp6VmxUODFhTnZvOW9iS21TMkNRR2NTUk1tb0xvLU1qVnQ2emdQemFKWktVUzVlUEtqSmZ0aGV1cDlFem0wcUE5YU8yVVB1YU8xVUtERXk3ek02a3hOOWdQREUzbHF5dEd3X2tOOEQzc042bG1jdnJwY3RmT21xRnMzNXlRaEJaZmxScEdwLUcz?oc=5) (The Eastleigh Voice)
@@ -446,7 +446,7 @@ Search window: 7 day(s) ending 2026-08-15
   Limited detail was available from feed metadata alone.
 - [Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing](https://www.arabnews.pk/node/2654784/world) | Arab News PK | 2026-08-15T14:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DRC Requests 100,000 Ebola Vaccine Doses as Deaths Pass 2,000](https://newsghana.com.gh/drc-requests-100000-ebola-vaccine-doses-as-deaths-pass-2000/) | newsghana.com.gh | 2026-08-15T14:26+00:00 | Outbreaks and emerging infections
+- [DRC Requests 100,000 Ebola Vaccine Doses as Deaths Pass 2,000](https://newsghana.com.gh/drc-requests-100000-ebola-vaccine-doses-as-deaths-pass-2000/) | News Ghana | 2026-08-15T14:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Fastest-growing Ebola outbreak through the eyes of Canadian aid workers](https://www.castanet.net/news/Canada/628139/Fastest-growing-Ebola-outbreak-through-the-eyes-of-Canadian-aid-workers) | Castanet | 2026-08-15T14:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -454,13 +454,13 @@ Search window: 7 day(s) ending 2026-08-15
   Limited detail was available from feed metadata alone.
 - [WHO warns of Ebola outbreak spreading in Congo, vaccine trials make new progress](https://vovworld.vn/news/who-warns-of-ebola-outbreak-spreading-in-congo-vaccine-trials-make-new-progress-2458218.vov5) | VOV World | 2026-08-15T08:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo: Ebola cases rising at record pace](https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053) | dw.com | 2026-08-15T07:40+00:00 | Outbreaks and emerging infections
+- [Congo: Ebola cases rising at record pace](https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053) | DW.com | 2026-08-15T07:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa CDC urges vaccine deployment for Ebola outbreak in DR Congo](https://news.cgtn.com/news/2026-08-15/Africa-CDC-urges-vaccine-deployment-for-Ebola-outbreak-in-DR-Congo-1PCBdOCtaJW/p.html) | news.cgtn.com | 2026-08-15T03:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [National Dengue Review 2026 identifies priorities to strengthen Sri Lanka's dengue preparedness and response](https://www.who.int/srilanka/news/detail/14-08-2026-national-dengue-review-2026-identifies-priorities-to-strengthen-sri-lanka-s-dengue-preparedness-and-response) | World Health Organization (WHO) | 2026-08-15T01:31+00:00 | Outbreaks and emerging infections
   Dengue fever was first serologically confirmed in the country in 1962, and by the 1960s and 1970s transmission had been documented in major urban centres across the island. Today, Sri Lanka is home to at least 48 identified Aedes mosquito species, including Aedes aegypti and Aedes albopictus, the two principal vectors responsible for dengue transmission. The review provided an important platform to analyse the current dengue situation, share field experiences from across the country, identify operational gaps, and strengthen coordination among partners working to reduce the burden of dengue in Sri Lanka.
-- [FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak](https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/) | The Washington Post | 2026-08-15T00:36+00:00 | Outbreaks and emerging infections
+- [FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak](https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/) | The Washington Post | 2026-08-15T00:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [UN holds emergency meeting on African Ebola outbreak | WORLD](https://wng.org/sift/un-emergency-ebola-meeting-1786739746) | wng.org | 2026-08-14T23:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
