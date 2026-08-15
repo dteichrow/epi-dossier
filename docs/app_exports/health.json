@@ -13,12 +13,12 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 282,
+    "metadata_only_count": 281,
     "sources_cached": 0,
-    "sources_failed": 5,
+    "sources_failed": 4,
     "sources_live": 303,
     "story_count_change": 5,
-    "wrapper_only_count": 11
+    "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
@@ -27,7 +27,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-15T00:50:59",
+  "generated_at": "2026-08-15T00:58:08",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
@@ -52,12 +52,6 @@
       "required": true,
       "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
       "source_type": "biorxiv"
-    },
-    {
-      "error": "404 Client Error: Not Found for url: https://news.google.com/rss/search?q=%28%22New+York+State+Department+of+Health%22+OR+NYSDOH+OR+%22New+York+health+department%22%29+%28outbreak+OR+measles+OR+polio+OR+avian+influenza+OR+wastewater+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News New York Public Health",
-      "source_type": "rss"
     }
   ]
 }
