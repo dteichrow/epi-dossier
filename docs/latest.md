@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-15
-Generated at: 2026-08-15T21:42
+Generated at: 2026-08-15T21:45
 Search window: 7 day(s) ending 2026-08-15
 
 ## Executive scan
@@ -18,15 +18,15 @@ Search window: 7 day(s) ending 2026-08-15
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 113 item(s) across 80 source(s).
-- Baseline snapshot created with 113 clustered item(s) across 80 source(s).
+- Newly tracked story cluster: 114 item(s) across 81 source(s).
+- Baseline snapshot created with 114 clustered item(s) across 81 source(s).
 - NewsGhana now includes deaths or fatal cases in the story frame.
 - NewsGhana now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 89 item(s) across 73 source(s).
-- Baseline snapshot created with 89 clustered item(s) across 73 source(s).
+- Newly tracked story cluster: 88 item(s) across 72 source(s).
+- Baseline snapshot created with 88 clustered item(s) across 72 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
@@ -51,7 +51,7 @@ Search window: 7 day(s) ending 2026-08-15
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 113 item(s) across 80 source(s); 2 official/primary-source item(s).
+- Topic size: 114 item(s) across 81 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Fastest-growing Ebola outbreak through the eyes of Canadian aid workers](https://vancouver.citynews.ca/2026/08/15/fastest-growing-ebola-outbreak-through-the-eyes-of-canadian-aid-workers/) (CityNews Vancouver); [New Congolese health zone affected by Ebola as infections surge](https://www.aa.com.tr/en/health/new-congolese-health-zone-affected-by-ebola-as-infections-surge/4028404) (aa.com.tr); [Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing](https://www.arabnews.pk/node/2654784/world) (Arab News PK)
@@ -67,7 +67,7 @@ Search window: 7 day(s) ending 2026-08-15
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 89 item(s) across 73 source(s); 3 official/primary-source item(s).
+- Topic size: 88 item(s) across 72 source(s); 3 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-16T04:30+00:00)
 - Detailed note: Additionally, 91% (30/33) of studies provided data on subsequent transmission generations, leading to 812 measles cases traced back to vaccinated individuals, with a median of 4 (IQR: 1, 10) cases per vaccinated transmitter. Vaccinated transmitters in eliminated areas were older (median age of 19 years (IQR: 3, 21)) than those in non-eliminated areas (median age 16 years; IQR 13, 18) ( p = 0.12). With measles...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search); [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search); [Video Measles cases reach highest level since 1991 - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/135672004/) (ABC News - Breaking News, Latest News and Videos); [With 101 new cases, US measles total tops 2,500](https://news.google.com/rss/articles/CBMigAFBVV95cUxONFBUQlRyd01rRkVkbEpJUl9aNnM0c0R5dTJXeVBsSzdFYzNQbFFZaFN5a2YybGRINkVOa2s1emZEcmZnUUs4OFVOWTNWNXNLZjZrdXB4NGlvTlhJZ2N1Z2VMcG9lYVFCeFRFZzR1UlQ5S054LXd0WEdwaUY4NjZnTg?oc=5) (CIDRAP)
