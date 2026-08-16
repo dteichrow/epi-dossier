@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-16
-Generated at: 2026-08-16T10:51
+Generated at: 2026-08-16T11:05
 Search window: 7 day(s) ending 2026-08-16
 
 ## Executive scan
@@ -25,15 +25,15 @@ Search window: 7 day(s) ending 2026-08-16
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 83 item(s) across 69 source(s).
-- Baseline snapshot created with 83 clustered item(s) across 69 source(s).
+- Newly tracked story cluster: 84 item(s) across 70 source(s).
+- Baseline snapshot created with 84 clustered item(s) across 70 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 102 item(s) across 78 source(s).
-- Baseline snapshot created with 102 clustered item(s) across 78 source(s).
+- Newly tracked story cluster: 101 item(s) across 78 source(s).
+- Baseline snapshot created with 101 clustered item(s) across 78 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Hantavirus and cruise-ship outbreak
@@ -59,7 +59,7 @@ Search window: 7 day(s) ending 2026-08-16
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 102 item(s) across 78 source(s); 1 official/primary-source item(s).
+- Topic size: 101 item(s) across 78 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-14T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak](https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/) (The Washington Post); [Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHZFU2dLZkVYYVh6U3lYWUhGdDJKa3laeTNMT3hQbk9zZHVZLXRabXJDM2o0eXZoaDRqY21iYTdEdWwxYmhZQllGRHFsZ0pvRTdEWDNaWlRYYXdUT3FBUmRFZDB3ajdMZXBBTnZGTW9LSGM0bFN5bHN6VjBxM3NqNEc2OG0wMTZYdVFVZFZ0M25lcTdq?oc=5) (The New York Times); [Best-by dates of recalled iceberg lettuce linked to massive Cyclospora outbreak have passed, says FDA](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1g1a1Z3dXpTeV9CY2JnRlA4QXpkNUNQOUQ3TktINmFKdzZVSDF6Wlo4S0xGNDhDUU1JaHJTMlJmUGtVWjJGODlXVTRfMzVJbEdkbk5oWUd3WTlwME1jTjJTeUFfbmJDb0lZdzV2WVRvR3RRbmwwTzlKTFItZEp2Nlg0aER0RWZuc0FRV1BLWUV0b3hDYWZ2VUFNV2taWmZ4czNNd1pTMjlHdEs3MHl2MzBET1ZaeEJSOUNCNFl4MmhIVGc?oc=5) (CIDRAP); [2 more states added to cyclospora outbreak linked to lettuce](https://news.google.com/rss/articles/CBMifEFVX3lxTFBoWUs0Y2RsLTEteDE2Q2VUMG1oNkdYOF9ENEJwVWRmMndqR25maFBrbXpTc2kxeGo4TURlWDYzbFhpelFXYVNCdlJMbXpva2t0dXZtTlFiOHJCdnkycEdmdlV1SFNYQlB0WG5VYm1IOV9VcXdWYjRTcUV0SFPSAYIBQVVfeXFMTVR3U3B5X1BzRGJMaVFSclpwa0VMNUtfaW1fNmVFeGFmZ05nQmhfdHEwS21odkNlRlhZeWtSN3JzSTVQV2JoSVpwS1RPSkdPWk9ZTlZrVjBYbFkzbGRVeVBvU2dtRl9HQkQ2elpLZjktVzNtNFpVbjE0MXRyMzIySFlHdw?oc=5) (NewsNation)
@@ -67,7 +67,7 @@ Search window: 7 day(s) ending 2026-08-16
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 83 item(s) across 69 source(s); 3 official/primary-source item(s).
+- Topic size: 84 item(s) across 70 source(s); 3 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-16T17:50+00:00)
 - Detailed note: Additionally, 91% (30/33) of studies provided data on subsequent transmission generations, leading to 812 measles cases traced back to vaccinated individuals, with a median of 4 (IQR: 1, 10) cases per vaccinated transmitter. Vaccinated transmitters in eliminated areas were older (median age of 19 years (IQR: 3, 21)) than those in non-eliminated areas (median age 16 years; IQR 13, 18) ( p = 0.12). With measles...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search); [Somalia's lifeline: Digitalization and AI.](https://pubmed.ncbi.nlm.nih.gov/42583880/) (PubMed Infectious Disease Search); [With 101 new cases, US measles total tops 2,500](https://news.google.com/rss/articles/CBMigAFBVV95cUxONFBUQlRyd01rRkVkbEpJUl9aNnM0c0R5dTJXeVBsSzdFYzNQbFFZaFN5a2YybGRINkVOa2s1emZEcmZnUUs4OFVOWTNWNXNLZjZrdXB4NGlvTlhJZ2N1Z2VMcG9lYVFCeFRFZzR1UlQ5S054LXd0WEdwaUY4NjZnTg?oc=5) (CIDRAP); [MSF warns Ebola response could overshadow measles, cholera outbreaks in DRC](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDJqWlViekxDSjNCUmlfajR4b0k1bWR3QVp3aUJRbUZvRDU3Z0pXdWp6VmxUODFhTnZvOW9iS21TMkNRR2NTUk1tb0xvLU1qVnQ2emdQemFKWktVUzVlUEtqSmZ0aGV1cDlFem0wcUE5YU8yVVB1YU8xVUtERXk3ek02a3hOOWdQREUzbHF5dEd3X2tOOEQzc042bG1jdnJwY3RmT21xRnMzNXlRaEJaZmxScEdwLUcz?oc=5) (The Eastleigh Voice)
@@ -474,9 +474,9 @@ Search window: 7 day(s) ending 2026-08-16
   Limited detail was available from feed metadata alone.
 - [2 more deaths reported in Upper East Side Legionnaires' cluster, bringing total to 9, health officials say](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ25udWROckJHM05tdWM0a3A4VWJrTTM4OHFFTTVnQ09GNkVxNTJWV3lSbTJKbVE3VTVadDRaN1lzaW0xTVVWQVVwQmJMUk1neWl5a0JhalYtUUU5OGVZc2VhaF95MDBuR0tOWW1fai1VbjEzVThKVGRkYURhSTNCQVk2b0RsaDEtVElrT1VrRGFkS00ySFE?oc=5) | CBS News | 2026-08-14T20:49+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Congo says Ebola outbreak spreads to northeastern Bas-Uele province](https://www.cnbcafrica.com/2026/congo-says-ebola-outbreak-spreads-to-northeastern-bas-uele-province) | CNBC Africa | 2026-08-14T20:48+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHZFU2dLZkVYYVh6U3lYWUhGdDJKa3laeTNMT3hQbk9zZHVZLXRabXJDM2o0eXZoaDRqY21iYTdEdWwxYmhZQllGRHFsZ0pvRTdEWDNaWlRYYXdUT3FBUmRFZDB3ajdMZXBBTnZGTW9LSGM0bFN5bHN6VjBxM3NqNEc2OG0wMTZYdVFVZFZ0M25lcTdq?oc=5) | The New York Times | 2026-08-14T20:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [With 101 new cases, US measles total tops 2,500](https://news.google.com/rss/articles/CBMigAFBVV95cUxONFBUQlRyd01rRkVkbEpJUl9aNnM0c0R5dTJXeVBsSzdFYzNQbFFZaFN5a2YybGRINkVOa2s1emZEcmZnUUs4OFVOWTNWNXNLZjZrdXB4NGlvTlhJZ2N1Z2VMcG9lYVFCeFRFZzR1UlQ5S054LXd0WEdwaUY4NjZnTg?oc=5) | CIDRAP | 2026-08-14T19:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
