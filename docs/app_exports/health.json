@@ -8,7 +8,6 @@
       "CNN",
       "Guardian",
       "NBC News",
-      "NPR",
       "New York Times",
       "PBS",
       "Reuters"
@@ -18,7 +17,7 @@
     "sources_failed": 0,
     "sources_live": 289,
     "story_count_change": 5,
-    "wrapper_only_count": 10
+    "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
@@ -27,6 +26,6 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-17T08:17:25",
+  "generated_at": "2026-08-17T09:17:23",
   "source_failures": []
 }
