@@ -3,29 +3,29 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
+      "CBS News",
       "CIDRAP",
       "CNN",
       "Guardian",
-      "NBC News",
       "NPR",
       "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 268,
+    "metadata_only_count": 278,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 291,
+    "sources_live": 301,
     "story_count_change": 5,
-    "wrapper_only_count": 6
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 291,
+    "live": 301,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-17T13:17:40",
+  "generated_at": "2026-08-17T14:17:13",
   "source_failures": []
 }
