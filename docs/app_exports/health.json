@@ -7,25 +7,26 @@
       "CIDRAP",
       "CNN",
       "Guardian",
+      "NBC News",
       "NPR",
       "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 278,
+    "metadata_only_count": 277,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 302,
+    "sources_live": 301,
     "story_count_change": 6,
-    "wrapper_only_count": 5
+    "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 302,
+    "live": 301,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-17T15:17:53",
+  "generated_at": "2026-08-17T16:17:16",
   "source_failures": []
 }
