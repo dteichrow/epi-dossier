@@ -15,17 +15,17 @@
     "metadata_only_count": 278,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 301,
-    "story_count_change": 5,
-    "wrapper_only_count": 7
+    "sources_live": 302,
+    "story_count_change": 6,
+    "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 301,
+    "live": 302,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-17T14:17:13",
+  "generated_at": "2026-08-17T15:17:53",
   "source_failures": []
 }
