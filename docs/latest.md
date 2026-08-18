@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-17
-Generated at: 2026-08-17T23:17
+Generated at: 2026-08-17T23:21
 Search window: 7 day(s) ending 2026-08-17
 
 ## Executive scan
@@ -12,13 +12,14 @@ Search window: 7 day(s) ending 2026-08-17
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News; 2026-08-14T12:13+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search; 2026-08-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR; 2026-08-13T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (259), Policy, surveillance, and public health infrastructure (26), Occupational and environmental epidemiology (3)
+- Category mix: Outbreaks and emerging infections (257), Policy, surveillance, and public health infrastructure (26), Occupational and environmental epidemiology (3)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 81 item(s) across 67 source(s).
-- Baseline snapshot created with 81 clustered item(s) across 67 source(s).
+- Newly tracked story cluster: 80 item(s) across 66 source(s).
+- Baseline snapshot created with 80 clustered item(s) across 66 source(s).
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
@@ -30,9 +31,9 @@ Search window: 7 day(s) ending 2026-08-17
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 81 item(s) across 65 source(s).
-- Baseline snapshot created with 81 clustered item(s) across 65 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+- Newly tracked story cluster: 80 item(s) across 65 source(s).
+- Baseline snapshot created with 80 clustered item(s) across 65 source(s).
+- The New York Times now includes deaths or fatal cases in the story frame.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
@@ -44,7 +45,7 @@ Search window: 7 day(s) ending 2026-08-17
 - Lead item: [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR)
 - Newly tracked story cluster: 3 item(s) across 3 source(s).
 - Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- CBS News now includes deaths or fatal cases in the story frame.
+- cbsnews.com now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
@@ -57,18 +58,18 @@ Search window: 7 day(s) ending 2026-08-17
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 81 item(s) across 67 source(s); 2 official/primary-source item(s).
+- Topic size: 80 item(s) across 66 source(s); 2 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-18T06:15+00:00)
 - Detailed note: Additionally, 91% (30/33) of studies provided data on subsequent transmission generations, leading to 812 measles cases traced back to vaccinated individuals, with a median of 4 (IQR: 1, 10) cases per vaccinated transmitter. Vaccinated transmitters in eliminated areas were older (median age of 19 years (IQR: 3, 21)) than those in non-eliminated areas (median age 16 years; IQR 13, 18) ( p = 0.12). Denos su opinión...
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search); [As measles outbreaks grow in the U.S., maps and charts show a record number of cases](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) (CBS News); [The threat of more, expanded measles outbreaks looms with start of school](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWJwZUhKQlZoM2RFclFOMFVfby1yRlREMUowaGE5clY2V1BRR01OLUo0TnBiMHVHWUxTY19uaGEzWWRMNkJMcWdpTnFnTEdDdlJabndLc3k5T2drdGdnLUJ5eVUySXUxandlOVV3S0VoTVpYN1RQZWY1a2p6RVNSd3FvRjBFNWo1ZkZqRTlKZ2Vqa0ozQ3ZF?oc=5) (CIDRAP); [Surge in measles cases risks 'horrific' health consequences: immunologist](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXBPZUFNZjlSLW1EeFZHUDdvVzRXSm5LNjJMY1JSNE9IQzRxcy0xeDdmUXMxVUpWUXkybVlaRkRwaWRMQThUekV2ZTRGNW5vSFFmMVFIWWFXRjgyV0w1VGRKN2l0MmRSaGtfaU9ZQXUwUnJONmcwSExCVjZmRkxPQktWNnZ3T2JvYXhRUXYwOFNZOWJyRnN1TFRCdjgwLVhBZHV1ODVRdHNIZw?oc=5) (CBC)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search); [The threat of more, expanded measles outbreaks looms with start of school](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWJwZUhKQlZoM2RFclFOMFVfby1yRlREMUowaGE5clY2V1BRR01OLUo0TnBiMHVHWUxTY19uaGEzWWRMNkJMcWdpTnFnTEdDdlJabndLc3k5T2drdGdnLUJ5eVUySXUxandlOVV3S0VoTVpYN1RQZWY1a2p6RVNSd3FvRjBFNWo1ZkZqRTlKZ2Vqa0ozQ3ZF?oc=5) (CIDRAP); [With 101 new cases, US measles total tops 2,500](https://news.google.com/rss/articles/CBMigAFBVV95cUxONFBUQlRyd01rRkVkbEpJUl9aNnM0c0R5dTJXeVBsSzdFYzNQbFFZaFN5a2YybGRINkVOa2s1emZEcmZnUUs4OFVOWTNWNXNLZjZrdXB4NGlvTlhJZ2N1Z2VMcG9lYVFCeFRFZzR1UlQ5S054LXd0WEdwaUY4NjZnTg?oc=5) (CIDRAP); [US CDC records more than 2,500 measles cases so far in 2026](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzlZdWxLRUl5YTdrc0xaTVNmakh2Rml6MGs3aXo1Q1FUaFVUcENac3d3STVMN3dXQmxMeFNYcXFYNV9VNmpMUlZaN0tSY1BpWkJEVjU2QnVtaDVKV3ZBR3N6c0RRQTFoS3VuOTU3YWFibmpsWHJIZnNKWVlBYUs0YUFvSEs5Q0twU1VPajNZQk8yX1RZaE9Lc1BnaENKV0ZuckhOMWZpcU1MM3JZ?oc=5) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 81 item(s) across 65 source(s); 3 official/primary-source item(s).
+- Topic size: 80 item(s) across 65 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-17T00:00)
-- Detailed note: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Best-by dates of recalled iceberg lettuce linked to massive Cyclospora outbreak have passed, says FDA](https://www.cidrap.umn.edu/cyclospora/best-dates-recalled-iceberg-lettuce-linked-massive-cyclospora-outbreak-have-passed-says) (CIDRAP); [Michigan cyclosporiasis outbreak tops 13,900 cases](https://www.cbsnews.com/detroit/video/michigan-cyclosporiasis-outbreak-tops-13900-cases/) (CBS News)
+- Detailed note: The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Best-by dates of recalled iceberg lettuce linked to massive Cyclospora outbreak have passed, says FDA](https://www.cidrap.umn.edu/cyclospora/best-dates-recalled-iceberg-lettuce-linked-massive-cyclospora-outbreak-have-passed-says) (CIDRAP); [Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight](https://www.nbcnews.com/health/health-news/cyclospora-salmonella-outbreaks-put-produce-mexico-spotlight-rcna591236) (NBC News); [‘The worst is behind us’: Cyclospora outbreak seems to be slowing in Michigan](https://www.cidrap.umn.edu/cyclospora/worst-behind-us-cyclospora-outbreak-seems-be-slowing-michigan) (CIDRAP); [Michigan lifts lettuce warning as state’s cyclosporiasis cases fall](https://www.nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -84,7 +85,7 @@ Search window: 7 day(s) ending 2026-08-17
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR, 2026-08-13T17:00+00:00)
 - Detailed note: Weekly / August 13, 2026 / 75(31);398â402 Sean Sweeney, MS 1, *; Ayla Bullock, MPH 2, *; Michael Reiskind, PhD 3 ; Angela Newnam 4 ; Jonathan Kanipe 4 ; Melissa S. Boyce, MD 2 ; North Carolina Biltmore Forest Study Team ( View author affiliations ) Lyme disease, the most frequently reported vectorborne disease in the United States, is emerging beyond the regions of the Northeast and upper Midwest where it has...
-- Evidence notes: [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR); [2 more deaths reported in Upper East Side Legionnaires' cluster, bringing total to 9, health officials say](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ25udWROckJHM05tdWM0a3A4VWJrTTM4OHFFTTVnQ09GNkVxNTJWV3lSbTJKbVE3VTVadDRaN1lzaW0xTVVWQVVwQmJMUk1neWl5a0JhalYtUUU5OGVZc2VhaF95MDBuR0tOWW1fai1VbjEzVThKVGRkYURhSTNCQVk2b0RsaDEtVElrT1VrRGFkS00ySFE?oc=5) (CBS News); [Ninth person dies from Legionnaires’ disease cluster in Upper East Side – surpassing last year’s Harlem outbreak death toll](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObkxsZ0k2aVpUdVFyTmlzYldtbXNIVHB4SHlqU3ViM2N4WjZMakF2eUZ3bTlNMkFkbHpRSUdTU3NGSGFDVWFHWGF0MTdjQ0RueTRsTWtNLTRidW5EWXJKTExnZ1hIelpKNWFYWG4wWTM3cWdwa2g0Nl9OM25PVnM2ZmJVYW9tUklqZy1CZ243TWZjZVFfUHNOMmQwZzd0MzRIU1ZMT1NsN2tkbk1OZUZkcmc2TTB6TTVNUVEwTk9DeEhyYUpXczAxMnlPQmZmNTdGLVlXLVpQdTZvRmc4eXgyZXZIdEh3Sjc1aGVUMllqYw?oc=5) (nypost.com)
+- Evidence notes: [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR); [Ninth person dies from Legionnaires’ disease cluster in Upper East Side – surpassing last year’s Harlem outbreak death toll](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObkxsZ0k2aVpUdVFyTmlzYldtbXNIVHB4SHlqU3ViM2N4WjZMakF2eUZ3bTlNMkFkbHpRSUdTU3NGSGFDVWFHWGF0MTdjQ0RueTRsTWtNLTRidW5EWXJKTExnZ1hIelpKNWFYWG4wWTM3cWdwa2g0Nl9OM25PVnM2ZmJVYW9tUklqZy1CZ243TWZjZVFfUHNOMmQwZzd0MzRIU1ZMT1NsN2tkbk1OZUZkcmc2TTB6TTVNUVEwTk9DeEhyYUpXczAxMnlPQmZmNTdGLVlXLVpQdTZvRmc4eXgyZXZIdEh3Sjc1aGVUMllqYw?oc=5) (nypost.com); [2 more deaths reported in Upper East Side Legionnaires' cluster, bringing total to 9, health officials say](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ25udWROckJHM05tdWM0a3A4VWJrTTM4OHFFTTVnQ09GNkVxNTJWV3lSbTJKbVE3VTVadDRaN1lzaW0xTVVWQVVwQmJMUk1neWl5a0JhalYtUUU5OGVZc2VhaF95MDBuR0tOWW1fai1VbjEzVThKVGRkYURhSTNCQVk2b0RsaDEtVElrT1VrRGFkS00ySFE?oc=5) (cbsnews.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -414,32 +415,28 @@ Search window: 7 day(s) ending 2026-08-17
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-12T09:30
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+### Chikungunya virus disease worldwide overview
+- Source: ECDC News
+- Date: 2026-08-10T16:05+02:00
+- URL: https://www.ecdc.europa.eu/en/chikungunya-monthly
+- Category: Policy, surveillance, and public health infrastructure
+- Summary: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-12T09:30
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
+### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026
+- Source: WHO Regional Office for Africa
+- Date: 2026-08-06T14:34+00:00
+- URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5
 - Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- Summary: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic. Since its detection only a few months ago, the epidemic has grown at an exceptional rate, highlighting its intensity and the challenges facing response efforts.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
-- [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) | ECDC News | 2026-08-10T16:05+02:00 | Policy, surveillance, and public health infrastructure
-  Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe
-- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) | WHO Regional Office for Africa | 2026-08-06T14:34+00:00 | Outbreaks and emerging infections
-  Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic. Since its detection only a few months ago, the epidemic has grown at an exceptional rate, highlighting its intensity and the challenges facing response efforts.
 - [Ebola outbreak in Congo kills more than 2,300](https://www.donga.com/en/article/all/20260818/6351406/1) | 동아일보 | 2026-08-17T23:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How Congo’s Ebola outbreak became the second-most lethal on record](https://www.cnbcafrica.com/2026/how-congos-ebola-outbreak-became-the-second-most-lethal-on-record) | CNBC Africa | 2026-08-17T23:06+00:00 | Outbreaks and emerging infections
@@ -452,11 +449,9 @@ Search window: 7 day(s) ending 2026-08-17
   Limited detail was available from feed metadata alone.
 - [Today in Africa: DR Congo Ebola outbreak becomes deadliest, Cameroon wins first WAFCON title](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEFhUEpNU0pOV241X0ZlZlRvbVFPTmh6UFFnaW9CSVprR3dWd3dCTWJpNXRCWEVRZ0RRY09QdUR5OEtTY1BlMTg2WFppdlJnLXZpekppVURYZUprNlNwN2VraGFDVTNqbjVtTWhkRjZBYmRxRGtFTDkxZWI3b0RSRFQ3RGFucTJ4TWMzOGtDUzNqR1dpUDRfbGZIbHVpdWFRSkVteGdTN0VDSGZ5RUgwV0w3UjdXQ0JKX3pOd2FUQ0xXOGtpdlZicm5sc1YySXpUZjU1d295T2R3d2dRa0hZZDVYTWNiaFhLd0tz?oc=5) | OkayAfrica | 2026-08-17T18:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [As measles outbreaks grow in the U.S., maps and charts show a record number of cases](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) | CBS News | 2026-08-17T17:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [The threat of more, expanded measles outbreaks looms with start of school](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWJwZUhKQlZoM2RFclFOMFVfby1yRlREMUowaGE5clY2V1BRR01OLUo0TnBiMHVHWUxTY19uaGEzWWRMNkJMcWdpTnFnTEdDdlJabndLc3k5T2drdGdnLUJ5eVUySXUxandlOVV3S0VoTVpYN1RQZWY1a2p6RVNSd3FvRjBFNWo1ZkZqRTlKZ2Vqa0ozQ3ZF?oc=5) | CIDRAP | 2026-08-17T17:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Mumbai Monsoon Health Alert: Malaria Cases Rise 11.4%, H1N1 Surges Over Fourfold As Dengue And Covid Decline](https://www.freepressjournal.in/mumbai/mumbai-monsoon-health-alert-malaria-cases-rise-114-h1n1-surges-over-fourfold-as-dengue-and-covid-decline) | Free Press Journal | 2026-08-17T16:50+00:00 | Outbreaks and emerging infections
+- [Mumbai Monsoon Health Alert: Malaria Cases Rise 11.4%, H1N1 Surges Over Fourfold As Dengue And Covid Decline](https://www.freepressjournal.in/mumbai/mumbai-monsoon-health-alert-malaria-cases-rise-114-h1n1-surges-over-fourfold-as-dengue-and-covid-decline) | freepressjournal.in | 2026-08-17T16:50+00:00 | Outbreaks and emerging infections
   Dengue cases fell by 11.3%, from 1,217 to 1,079, while chikungunya declined sharply by 88.2%, from 279 to 33. Mumbai Records Over 3,000 Malaria Cases Between June And August Between June 1 and August 15, Mumbai recorded 3,177 malaria cases, compared to 2,852 during the same period in 2025. Leptospirosis cases dropped by 41.3%, from 322 to 189, while gastroenteritis cases declined by 23%, from 2,274 to 1,752.
 - [Ebola outbreak in Democratic Republic of Congo kills 2,325 people](https://news.google.com/rss/articles/CBMickFVX3lxTFB5ZmtaaXEwQzlRdkVQX1Q3aEpGa2FIMUJVRG9vQlh0cEFsQ0NRb2hBTW14N3RIYzY0bVllUjdBYUJJeGZhaUlyaVhCaUFqRTc4T1k1N0VxSUpmempXRl9aU0RQdDU1SzRHdXVrQkdvWEJqUQ?oc=5) | GBC Ghana Online | 2026-08-17T15:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -468,13 +463,19 @@ Search window: 7 day(s) ending 2026-08-17
   Limited detail was available from feed metadata alone.
 - [Congo’s fast-moving Ebola outbreak becomes the country's worst with over 2,300 dead](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ1NIQUN0RVd4c2gyTldEQlU3NUV5bktyWGpmWG5tSUg3V2gyRFZiOTFtcDR4SXhtblZOMkRNcFZtM1dKWWh3X0YyTjE2aHZsUDRjYnNjc0QtRWt1VGNRZzAwTWllOS1vYUtiZ0VZdjdGVUZreHdyQlZHZ1haLXVVWEQ4SmxMNWNxWlpnNUJPOXZhelJEbUZ0QUYzU0Iwa2VHck5yeFdUOElPTnR5ZW02eTZPclVLeWR3MXZPQVUwdVl4MEwyRlFaSVBDclFaakFFeUhzSVo1R01BeC1SQ3QtYmFoa2YxVTRGRTlvNnFPMk5CSWhaaUE5eU16dEZVS2tuTE9fUXFmTXA?oc=5) | Oskaloosa Herald | 2026-08-17T14:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak Becomes Deadliest Ever In Congo](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSGpITnpvNmVGUDROelpZUmhwRk1FdlpUMmVpX1hKczJqY0dJUlAza2VfekdHUjdRZHRxSUpQUkxXQjdIRjZYX0lUUGlGNVc3cFllV0pSc3A5cXo5dkVKWjVibjBwb0xndGo1cTVvSkJINDRycmtvWUdib3d4YmxzOWN4bEl4QUN5d1NTVThxcVhYcmZ1OEZVWTFvVUw0Njg?oc=5) | WBZ NewsRadio 1030 | 2026-08-17T12:26+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak now DR Congo's deadliest ever](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHdGTXc1RjU4S3pTQVY5RmN2ZHJxanh5VlZwUkx2ZmpmX0dsUkVpZnJINGJIRDdNeEJzUnhlLXVZY0NDZDJ1c0tuQzdKTHB3azZya0RMOFJsMWJuX1ZHZVc0b2k1ME12SGY2U1gxbml4b2ltcWlwT2RfLU5GZXFFTzVtR2RYSm9BblJQZk5WemjSAZYBQVVfeXFMTTNCWkhNaUlZM1RTZ09tTUxXVHhMbU1JQkdqR21FNGRDbks1VkV3ajVLeUdCUmtfX1U5WDdVckNEZHNSMVRZN3BCSF9jUzRuV05KSVZtT2VpM0dSS1dsYlFYMG9ORWpXaXlOa1IzY1NnOU1Bbl83ZGJ6cU85aFJab2hzSUdmeXF2TDc0QlgtTjhkQ1hGQjln?oc=5) | The Korea Times | 2026-08-17T11:48+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak now DR Congo's deadliest ever](https://news.google.com/rss/articles/CBMijgFBVV95cUxOaEFnVXFta0NwS1JJNzJ6cW5oT2VuWlM0UTYzbkszZkdOVmhlV2gzazFVRko3TWdxTnRpbmpjRExKTFBLSVZQdFctVkNBSEs3ZnRrTnVES1cwSjhfRkx2d3R3M3hZVjVNUEFDRnp6T3RFSXBYNF9jZFQwUFZDVlU2TlZ4cVNJR3RYaWZPSEVn?oc=5) | bangkokpost.com | 2026-08-17T10:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Outbreak Surpasses 4,000 Cases To Become Deadliest In History](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFBjOEFmVjBNeGJZR1VZRGN3RkJQTzlxcU9LLW1SV2NORG82alZLTnZRN0RNZ1dJNnVySldTWTEyTGo0M0xzVDBMMDNRUy12RGp1V0ZkMHJUWlFNRHlZUEozUWlOVVZvUXlZY05HRE9YVWxfYUFON3B1b181WlFHYzFrSXg3dHpmOERQNnU4dGJaajNtQlE4OElvWUFhckl2SHhmbHRJSFg?oc=5) | streamlinefeed.co.ke | 2026-08-17T10:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Surge in measles cases risks 'horrific' health consequences: immunologist](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXBPZUFNZjlSLW1EeFZHUDdvVzRXSm5LNjJMY1JSNE9IQzRxcy0xeDdmUXMxVUpWUXkybVlaRkRwaWRMQThUekV2ZTRGNW5vSFFmMVFIWWFXRjgyV0w1VGRKN2l0MmRSaGtfaU9ZQXUwUnJONmcwSExCVjZmRkxPQktWNnZ3T2JvYXhRUXYwOFNZOWJyRnN1TFRCdjgwLVhBZHV1ODVRdHNIZw?oc=5) | CBC | 2026-08-17T08:00+00:00 | Outbreaks and emerging infections
+- [DR Congo Ebola outbreak becomes country’s deadliest on record](https://news.google.com/rss/articles/CBMijAFBVV95cUxQd05IVV8zWWk1VVdfNGpXVnJkaUNJMFFEcExVOU9feFU4blVnX0FXOW0xYVdJT2ZDdFJvdVl0aktlY2ViQVNwN2h1UTl4OVA1XzhMM3QxdHNDeG5pNEo1dnRtaHg4cWIxRUYzQllkZDhoTDJyY2x5djNkLWJCNFQwdTctVThpZXdnenhpNw?oc=5) | novanews.co.za | 2026-08-17T09:26+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo govt says Ebola outbreak now deadliest ever](https://news.google.com/rss/articles/CBMibkFVX3lxTE5YYXFwd19CYnlxSjhHazY4c3UxTjNMVzhDY0lQUlN0aXlFbGJYRkMzNzZ1Vk9EVmlOMGlsajJUckg2Z1NzbTM2clJHak5nV2lEb1NRNmFqSlJ5UDVWVEhPX2hBMUNtVXFqaHdtR0pR?oc=5) | news.cgtn.com | 2026-08-17T07:38+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak in Democratic Republic of Congo becomes deadliest in its history](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcXNOLS1BcjBKNWpMLUVmejZHWWk5amRtS0EzZzlyUlY5clJibUJhMlFBa1FhRDY3eXFWX2RIMkhnZWF3X3Q1c295a092bEsyS2JmQjdDcFVMUDQxU1lDVEhHaWtDd29GUVdnRkxmU19nYWhYVVZtSUduU2l0aV95YmhiVXEyRUZxUXlEZ295UUgwcWJ3VTZvYnFn?oc=5) | independent.co.uk | 2026-08-17T06:45+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [The Ebola outbreak in the Congo has officially become the deadliest, surpassing the previous toll of 2,299 victims](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOXZvYzNJNkZKV3p6cFR1SDk0ZFM3Ul9DWUZkcFhtVE10MDU1RkNJbTE4UW16ampaT1EtU3NmbGZzMy1FdXNobkxqd3RqRU1uWjBWd0ZtMjRsSDNzb2RxQ0VlOGVhelM3Nm14a3ZqMC12NHNDdHBtbElTVTk1alNjQmJLNU5UYnZfdUpWekItZ2xLRE43bmNQSjdjNkxuNVJ3dVFmbGFxaVVqYV94QkFHNnkxSXZjbl8wRFdvMWJZRzdRNDZ1Q19hN29ZV3VyWnZ6?oc=5) | Українські Національні Новини (УНН) | 2026-08-17T04:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak Becomes Congo’s Deadliest as UN Warns Virus Is ‘Winning’](https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHJ0STBMLWpQeEotd1FzVkFVOWJFbHN0UVBUeDV1b1hrVm9IRzZyTURxOHBraEdjS002Yy1vZGkzb3l6NVZvWlhQNjVIczQ5ZzZFQURkV2tlNGd2X241Ni1iLURQVlJvd0ZvMFpTdDVNTlI0RFRaSGdrQ3B6cm9rTkllNm5Pa2E1N3kyb1V3eTJja2FoUUxBZG1lb3F0ZFRoa09Odm5udkpTUzJDdV9ZZEdCck5RN1FCczdiS0tDVGNWcDZo?oc=5) | Bloomberg.com | 2026-08-17T03:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
