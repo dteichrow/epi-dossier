@@ -6,32 +6,27 @@
       "CBS News",
       "CIDRAP",
       "CNN",
+      "Guardian",
       "NBC News",
       "NPR",
+      "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 293,
+    "metadata_only_count": 296,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 314,
+    "sources_failed": 0,
+    "sources_live": 319,
     "story_count_change": 6,
-    "wrapper_only_count": 5
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 314,
+    "live": 319,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-18T13:39:09",
-  "source_failures": [
-    {
-      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
-      "required": false,
-      "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
-    }
-  ]
+  "generated_at": "2026-08-18T14:17:00",
+  "source_failures": []
 }
