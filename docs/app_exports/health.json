@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -8,27 +8,31 @@
       "CNN",
       "Guardian",
       "NBC News",
-      "NPR",
-      "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 277,
+    "metadata_only_count": 280,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 298,
+    "sources_failed": 2,
+    "sources_live": 301,
     "story_count_change": 6,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 298,
+    "live": 301,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-18T10:24:15",
+  "generated_at": "2026-08-18T10:42:14",
   "source_failures": [
+    {
+      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))",
+      "required": true,
+      "source": "Africa CDC",
+      "source_type": "rss"
+    },
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
