@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-17
-Generated at: 2026-08-17T17:08
+Generated at: 2026-08-17T17:17
 Search window: 7 day(s) ending 2026-08-17
 
 ## Executive scan
@@ -12,8 +12,7 @@ Search window: 7 day(s) ending 2026-08-17
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News; 2026-08-14T12:13+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search; 2026-08-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766231) (CDC MMWR; 2026-08-13T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (267), Policy, surveillance, and public health infrastructure (28), Major epidemiology studies (3)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (270), Policy, surveillance, and public health infrastructure (28), Major epidemiology studies (3)
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
@@ -25,15 +24,15 @@ Search window: 7 day(s) ending 2026-08-17
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 120 item(s) across 88 source(s).
-- Baseline snapshot created with 120 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 120 item(s) across 87 source(s).
+- Baseline snapshot created with 120 clustered item(s) across 87 source(s).
 - Washington Examiner now includes deaths or fatal cases in the story frame.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 84 item(s) across 68 source(s).
-- Baseline snapshot created with 84 clustered item(s) across 68 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- Newly tracked story cluster: 87 item(s) across 69 source(s).
+- Baseline snapshot created with 87 clustered item(s) across 69 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
@@ -50,10 +49,18 @@ Search window: 7 day(s) ending 2026-08-17
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 120 item(s) across 88 source(s); 2 official/primary-source item(s).
+- Topic size: 120 item(s) across 87 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Ebola outbreak claims 2,325 lives in Democratic Republic of Congo](https://www.nst.com.my/world/world/2026/08/1513354/ebola-outbreak-claims-2325-lives-democratic-republic-congo) (NST Online); [How Congo's Ebola outbreak became the second-most lethal on record](https://www.thehindu.com/sci-tech/health/how-congos-ebola-outbreak-became-the-second-most-lethal-on-record/article71357924.ece) (The Hindu); [Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46%](https://www.cidrap.umn.edu/ebola/ebola-outbreak-now-deadliest-ever-dr-congo-death-rate-reaches-46) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Cyclosporiasis
+- Topic size: 87 item(s) across 69 source(s); 3 official/primary-source item(s).
+- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-17T00:00)
+- Detailed note: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . The health department labels these counts preliminary.
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Cyclospora outbreak highlights risks of information vacuums](https://www.axios.com/communicators-pro/2026/08/17/cyclospora-outbreak-crisis-communications-strategy) (Axios); [Best-by dates of recalled iceberg lettuce linked to massive Cyclospora outbreak have passed, says FDA](https://www.cidrap.umn.edu/cyclospora/best-dates-recalled-iceberg-lettuce-linked-massive-cyclospora-outbreak-have-passed-says) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -62,14 +69,6 @@ Search window: 7 day(s) ending 2026-08-17
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-18T00:07+00:00)
 - Detailed note: Additionally, 91% (30/33) of studies provided data on subsequent transmission generations, leading to 812 measles cases traced back to vaccinated individuals, with a median of 4 (IQR: 1, 10) cases per vaccinated transmitter. Vaccinated transmitters in eliminated areas were older (median age of 19 years (IQR: 3, 21)) than those in non-eliminated areas (median age 16 years; IQR 13, 18) ( p = 0.12). Denos su opinión...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search); [As measles outbreaks grow in the U.S., maps and charts show a record number of cases](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) (CBS News); [The threat of more, expanded measles outbreaks looms with start of school](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWJwZUhKQlZoM2RFclFOMFVfby1yRlREMUowaGE5clY2V1BRR01OLUo0TnBiMHVHWUxTY19uaGEzWWRMNkJMcWdpTnFnTEdDdlJabndLc3k5T2drdGdnLUJ5eVUySXUxandlOVV3S0VoTVpYN1RQZWY1a2p6RVNSd3FvRjBFNWo1ZkZqRTlKZ2Vqa0ozQ3ZF?oc=5) (CIDRAP); [Surge in measles cases risks 'horrific' health consequences: immunologist](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXBPZUFNZjlSLW1EeFZHUDdvVzRXSm5LNjJMY1JSNE9IQzRxcy0xeDdmUXMxVUpWUXkybVlaRkRwaWRMQThUekV2ZTRGNW5vSFFmMVFIWWFXRjgyV0w1VGRKN2l0MmRSaGtfaU9ZQXUwUnJONmcwSExCVjZmRkxPQktWNnZ3T2JvYXhRUXYwOFNZOWJyRnN1TFRCdjgwLVhBZHV1ODVRdHNIZw?oc=5) (CBC)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Cyclosporiasis
-- Topic size: 84 item(s) across 68 source(s); 1 official/primary-source item(s).
-- Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-17T00:00)
-- Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclospora outbreak highlights risks of information vacuums](https://www.axios.com/communicators-pro/2026/08/17/cyclospora-outbreak-crisis-communications-strategy) (Axios); [Best-by dates of recalled iceberg lettuce linked to massive Cyclospora outbreak have passed, says FDA](https://www.cidrap.umn.edu/cyclospora/best-dates-recalled-iceberg-lettuce-linked-massive-cyclospora-outbreak-have-passed-says) (CIDRAP); [Michigan cyclosporiasis outbreak tops 13,900 cases](https://www.cbsnews.com/detroit/video/michigan-cyclosporiasis-outbreak-tops-13900-cases/) (CBS News); [Michigan cyclosporiasis outbreak tops 13,900 cases; 35 additional hospitalizations in past week](https://www.cbsnews.com/detroit/news/michigan-cyclosporiasis-outbreak-tops-13900-cases/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -415,28 +414,32 @@ Search window: 7 day(s) ending 2026-08-17
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Chikungunya virus disease worldwide overview
-- Source: ECDC News
-- Date: 2026-08-10T16:05+02:00
-- URL: https://www.ecdc.europa.eu/en/chikungunya-monthly
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe
+### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-08-12T09:30
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026
-- Source: WHO Regional Office for Africa
-- Date: 2026-08-06T14:34+00:00
-- URL: https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5
+### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-08-12T09:30
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
 - Category: Outbreaks and emerging infections
-- Summary: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic. Since its detection only a few months ago, the epidemic has grown at an exceptional rate, highlighting its intensity and the challenges facing response efforts.
+- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 
 ## Other notable readings
+- [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) | ECDC News | 2026-08-10T16:05+02:00 | Policy, surveillance, and public health infrastructure
+  Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) | WHO Regional Office for Africa | 2026-08-06T14:34+00:00 | Outbreaks and emerging infections
+  Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic. Since its detection only a few months ago, the epidemic has grown at an exceptional rate, highlighting its intensity and the challenges facing response efforts.
 - [Ebola outbreak claims 2,325 lives in Democratic Republic of Congo](https://www.nst.com.my/world/world/2026/08/1513354/ebola-outbreak-claims-2325-lives-democratic-republic-congo) | NST Online | 2026-08-17T22:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How Congo's Ebola outbreak became the second-most lethal on record](https://www.thehindu.com/sci-tech/health/how-congos-ebola-outbreak-became-the-second-most-lethal-on-record/article71357924.ece) | The Hindu | 2026-08-17T20:44+00:00 | Outbreaks and emerging infections
@@ -459,8 +462,6 @@ Search window: 7 day(s) ending 2026-08-17
   Limited detail was available from feed metadata alone.
 - [Democratic Republic of Congo’s Ebola outbreak is now the deadliest in its history](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkZxRVprOFduaFprcnE3a2dmbGVxcEFWbERTcDNUM2ltMGh3clpDelhXTXZWR0hSc2U0aG91dXR0Y0VoaFl2SXF2X2c3SFZhUmRGbGhjMHRQUTRsU0hXTzdjdWl3TlRBcjJZQVdhZFJEYVlfQWFZcEphX1RfTDE5ZTJWX0djeDIxQThCbVY4V1B1M25MVHpsVTk3RXg0REdxbEZSZ0V6eWpCOXhxeXlqUXpQWnBmNHY1WnZiME9vdUdQRGhGZUI0?oc=5) | Radio-Canada | 2026-08-17T15:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo’s fast-moving Ebola outbreak becomes the country's worst with over 2,300 dead - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnk4aENHbGcxeWx0dHRraHJOVnlWc21BY0xjRm14REdzQkNyZl92U2o3STVpOEg4TWVfQ2VUbW5ZcEpSeUJOUzhacXlGOFVudjBUX0h6eEMtbENtalRRY1otakF5bmdKbHFCWXZhdGNDb01heWxubnlGc2tFamhKbllWV2k5V0VWN0JkTmtqbXRBSHphWHVlazFMVE81ekpCSDJadW5hSnV1VEXSAbABQVVfeXFMTmt1eDdhWXJ6SXU3RVJVYnAwcGVRME4zeTgyYzlzQVNGTlJiLUFvczhVNHA1M0dBaFNEOXlVV0FYb3FzQ0QtWnQ2cGdiN1lQTG9aekZiWlRURTRsamttT0dSTUtPZVlJZFNQaEtRVS1XbVR3dmFpNHI1cmhDSHhab0VpUm9BZENCRGhrblZvMV9kQ280VkF3c0VNNXFaQ1lFUld0MlBtWHRhZkt2LVR5Njc?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-08-17T15:18+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [What is Ebola and why is the outbreak in DRC causing so much concern?](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGxqOFgtdjJGWDF2WU5WMExiNTNEbS1Ib3gzTDJMVEVSajl5dG5YbC16ZDE0Z2FyUkNHTEdXVUVyUzNQaEhuT01nSWY4cUdzdzEzS3paemlZTU1McHI5MDZJVEhGeUJFSXZNdlVDTWRkTVdyM29HSHJVaVJGVWlDd1RGWHZwdEgtaDd5MHVxX3lHTXZfU3hFeWg3elJMc2VuYlgwTUtCTG9fekM2djZ3bF94VkszTG8?oc=5) | The Guardian | 2026-08-17T15:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak becomes Congo’s deadliest as UN warns virus is ‘winning’](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU5WRUdVQkRQaEdVcUMtQzFfZEIxUFlDWFZtODBTRUZlLWM2TW43WVFFWTQwdkdlUE9KZHd4SzZ3a1RwSDFVMWFucU9PNTdLOTNXWjM0eHFsTWpfcC1WMXY4RXR4M01lZU5iejNadm1qQXVDNHhUMWh1YmoycGl1cmFnZnh0YTVPU3JnZi1nSGVaT2NTRVNjT3JfRVJuWHREQjA0WjBB?oc=5) | The Straits Times | 2026-08-17T15:13+00:00 | Outbreaks and emerging infections
@@ -474,8 +475,6 @@ Search window: 7 day(s) ending 2026-08-17
 - [Congo Ebola Outbreak Surpasses 4,000 Cases To Become Deadliest In History](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFBjOEFmVjBNeGJZR1VZRGN3RkJQTzlxcU9LLW1SV2NORG82alZLTnZRN0RNZ1dJNnVySldTWTEyTGo0M0xzVDBMMDNRUy12RGp1V0ZkMHJUWlFNRHlZUEozUWlOVVZvUXlZY05HRE9YVWxfYUFON3B1b181WlFHYzFrSXg3dHpmOERQNnU4dGJaajNtQlE4OElvWUFhckl2SHhmbHRJSFg?oc=5) | streamlinefeed.co.ke | 2026-08-17T10:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Outbreak Now At Its Deadliest-Ever, Says DR Congo](https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0wyTno1SmFVMjJ4TFBHS1BHZlRLc3ltVy15bHZvLWI5NFQ0aF9LcUpQV0E5MHlnYm02UEdiVzVTWllna1dXWENZZjZVNy1CeEVVekc5cTByNmt1bDUxRC1XU0FRR1BWNWtMZ2Yyc0ExamNTZmtWM1BVa0lpZHRTWkxxNXEtdmRyQXdlbG5IVUxPN1BlR2Jsbg?oc=5) | Channels Television | 2026-08-17T09:36+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo’s Ebola outbreak becomes deadliest in country’s history](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sTkU3b29tZU1WZ0lHWDl4QnN5aUM4cF9rNVJWdFlQM3loSjhWaG5QbUlScm0yM2xSNU1YeExXdndSdm53b01EYU5n?oc=5) | سانا | 2026-08-17T08:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
