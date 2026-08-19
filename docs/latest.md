@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-19
-Generated at: 2026-08-19T00:59
+Generated at: 2026-08-19T01:03
 Search window: 7 day(s) ending 2026-08-19
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-19
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-14T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News; 2026-08-14T12:13+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Do vaccinated cases transmit measles? A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42599107/) (PubMed Infectious Disease Search; 2026-08-14T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (285), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (6)
+- Category mix: Outbreaks and emerging infections (285), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (6)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-08-19
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 129 item(s) across 88 source(s).
-- Baseline snapshot created with 129 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 128 item(s) across 89 source(s).
+- Baseline snapshot created with 128 clustered item(s) across 89 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Cyclosporiasis
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-08-19
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 129 item(s) across 88 source(s); 2 official/primary-source item(s).
+- Topic size: 128 item(s) across 89 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Attempts to curb Ebola cases in DR Congo fail with more than 5,000 confirmed](https://www.france24.com/en/africa/20260819-attempts-to-curb-ebola-cases-in-dr-congo-fail-with-more-than-5-000-confirmed) (France 24); [WHO sounds global alarm as DR Congo Ebola outbreak passes 5,000 cases](https://news.az/news/who-sounds-global-alarm-as-dr-congo-ebola-outbreak-passes-5-000-cases) (Latest news from Azerbaijan); [DR Congo Ebola outbreak remains global health emergency as cases surge](https://www.bignewsnetwork.com/news/279251112/dr-congo-ebola-outbreak-remains-global-health-emergency-as-cases-surge) (Big News Network.com)
@@ -447,7 +447,7 @@ Search window: 7 day(s) ending 2026-08-19
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo far from under control: WHO](https://www.bastillepost.com/global/article/6091130-ebola-outbreak-in-dr-congo-far-from-under-control-who) | bastillepost.com | 2026-08-19T03:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO says DR Congo Ebola outbreak far from under control](https://www.freemalaysiatoday.com/category/world/2026/08/19/who-says-dr-congo-ebola-outbreak-far-from-under-control) | Free Malaysia Today | 2026-08-19T03:31+00:00 | Outbreaks and emerging infections
+- [WHO: Ebola outbreak in DR Congo far from under control](https://www.chinadailyasia.com/article/638128) | chinadailyasia.com | 2026-08-19T02:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO Chief: Ebola outbreak in DR Congo is "Far From Under Control"](https://sharjah24.ae/en/Articles/2026/08/18/WHO-Chief-Ebola-outbreak-in-DR-Congo-is-Far-From-Under-Control) | Sharjah24 | 2026-08-18T23:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
