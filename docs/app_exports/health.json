@@ -8,24 +8,24 @@
       "CNN",
       "Guardian",
       "NBC News",
-      "New York Times",
+      "NPR",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 298,
+    "metadata_only_count": 303,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 325,
+    "sources_live": 329,
     "story_count_change": 6,
-    "wrapper_only_count": 11
+    "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 325,
+    "live": 329,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-19T14:40:03",
+  "generated_at": "2026-08-19T15:17:15",
   "source_failures": []
 }
