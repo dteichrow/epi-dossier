@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -13,20 +13,33 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 297,
+    "metadata_only_count": 293,
     "sources_cached": 0,
-    "sources_failed": 0,
-    "sources_live": 323,
+    "sources_failed": 2,
+    "sources_live": 319,
     "story_count_change": 6,
-    "wrapper_only_count": 9
+    "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 323,
+    "live": 319,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-19T11:17:21",
-  "source_failures": []
+  "generated_at": "2026-08-19T11:57:00",
+  "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.michigan.gov', port=443): Read timed out. (read timeout=20)",
+      "required": true,
+      "source": "Michigan Department of Health and Human Services Infectious Disease Updates",
+      "source_type": "html_list"
+    }
+  ]
 }
