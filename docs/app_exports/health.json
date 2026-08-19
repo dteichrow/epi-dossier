@@ -1,11 +1,12 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
+      "CNN",
       "Guardian",
       "NBC News",
       "NPR",
@@ -13,99 +14,20 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 237,
+    "metadata_only_count": 287,
     "sources_cached": 0,
-    "sources_failed": 13,
-    "sources_live": 262,
+    "sources_failed": 0,
+    "sources_live": 312,
     "story_count_change": 6,
-    "wrapper_only_count": 10
+    "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 262,
+    "live": 312,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-19T08:40:53",
-  "source_failures": [
-    {
-      "error": "HTTPSConnectionPool(host='www.michigan.gov', port=443): Max retries exceeded with url: /mdhhs/keep-mi-healthy/infectious-diseases (Caused by NameResolutionError(\"HTTPSConnection(host='www.michigan.gov', port=443): Failed to resolve 'www.michigan.gov' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Michigan Department of Health and Human Services Infectious Disease Updates",
-      "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='lucascountyhealth.com', port=443): Max retries exceeded with url: /cyclo/ (Caused by NameResolutionError(\"HTTPSConnection(host='lucascountyhealth.com', port=443): Failed to resolve 'lucascountyhealth.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Toledo-Lucas County Health Department Cyclosporiasis Update",
-      "source_type": "html_page"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=outbreak+OR+%22infectious+disease%22+OR+hantavirus+OR+measles+OR+norovirus+OR+dengue+OR+cholera+OR+mpox+OR+polio+OR+tuberculosis&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Outbreaks",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28outbreak+OR+%22infectious+disease%22+OR+hantavirus+OR+measles+OR+cholera+OR+mpox+OR+polio+OR+tuberculosis+OR+H5N1+OR+dengue%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+%22Sky+News%22+OR+STAT+OR+NPR+OR+CBC+OR+%22Washington+Post%22+OR+%22Wall+Street+Journal%22+OR+Guardian+OR+%22Financial+Times%22+OR+Bloomberg+OR+NBC+OR+CBS+OR+ABC+OR+Axios+OR+Politico%29&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Major Outbreak Desks",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28public+health+OR+surveillance+OR+outbreak+OR+vaccine+policy+OR+wastewater+OR+antimicrobial+resistance%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+STAT+OR+NPR+OR+CBC+OR+%22Washington+Post%22+OR+%22Wall+Street+Journal%22+OR+Guardian+OR+%22Financial+Times%22+OR+Bloomberg+OR+NBC+OR+CBS+OR+ABC+OR+Axios+OR+Politico%29&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Global Health Reporting",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28hantavirus+OR+%22andes+virus%22%29+OR+%28%22cruise+ship%22+AND+%28outbreak+OR+quarantine+OR+evacuation+OR+transmission%29%29&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Hantavirus and Cruise Outbreaks",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28hantavirus+OR+%22andes+virus%22+OR+%22cruise+ship%22+OR+Hondius%29+%28Reuters+OR+%22Associated+Press%22+OR+%22New+York+Times%22+OR+BBC+OR+%22Sky+News%22+OR+Guardian+OR+NPR+OR+PBS+OR+Euronews+OR+CNN+OR+NBC+OR+ABC+OR+CBS+OR+CP24+OR+CIDRAP%29&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Hantavirus Major Publisher Watch",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28hantavirus+OR+%22andes+virus%22+OR+Hondius+OR+%22cruise+ship%22%29+%28%22Sky+News%22+OR+site%3Anews.sky.com%29&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Sky Hantavirus Watch",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22avian+influenza%22+OR+H5N1+OR+%22SARS-CoV-2%22+OR+virology+OR+%22genomic+surveillance%22+OR+wastewater&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Virology",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28dengue+OR+chikungunya+OR+%22yellow+fever%22+OR+Oropouche+OR+malaria+OR+%22Rift+Valley+fever%22%29+%28outbreak+OR+surge+OR+cluster+OR+surveillance%29&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Vector-borne Outbreaks",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28hantavirus+OR+Ebola+OR+Bundibugyo+OR+Marburg+OR+Lassa+OR+Nipah+OR+anthrax+OR+%22Rift+Valley+fever%22+OR+%22Crimean-Congo%22+OR+%22viral+hemorrhagic+fever%22+OR+%22viral+haemorrhagic+fever%22%29+%28outbreak+OR+cluster+OR+spillover+OR+surveillance+OR+%22health+emergency%22+OR+%22contact+tracing%22+OR+%22treatment+center%22+OR+%22treatment+centre%22+OR+burial+OR+bodies+OR+burned+OR+stormed%29+when:14d&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Hemorrhagic Fever and Zoonoses",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28Ebola+OR+Bundibugyo%29+%28%22treatment+center%22+OR+%22treatment+centre%22+OR+clinic+OR+hospital+OR+ward+OR+burial+OR+bodies+OR+body+OR+%22safe+burial%22+OR+%22traditional+burial%22+OR+burned+OR+burnt+OR+%22set+on+fire%22+OR+stormed+OR+attack+OR+retrieve+OR+retrieved%29+%28DRC+OR+Congo+OR+Ituri+OR+Mongbwalu+OR+Rwampara%29+when:21d&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Ebola Burial and Treatment Response",
-      "source_type": "rss"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%28%22public+health+emergency%22+OR+%22health+emergency%22+OR+%22disease+outbreak%22+OR+%22unknown+illness%22+OR+%22mystery+illness%22%29+%28confirmed+OR+suspected+OR+deaths+OR+%22contact+tracing%22+OR+%22health+workers%22+OR+%22case+fatality%22+OR+%22rapid+response%22%29+when:7d&hl=en-US&gl=US&ceid=US:en (Caused by NameResolutionError(\"HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-      "required": true,
-      "source": "Google News Active Outbreak Alerts",
-      "source_type": "rss"
-    }
-  ]
+  "generated_at": "2026-08-19T09:17:02",
+  "source_failures": []
 }
