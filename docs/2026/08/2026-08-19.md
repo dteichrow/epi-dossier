@@ -1,37 +1,37 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-19
-Generated at: 2026-08-19T13:50
+Generated at: 2026-08-19T13:57
 Search window: 7 day(s) ending 2026-08-19
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-19T20:37+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-19T20:34+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-19T20:56+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-19T20:49+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-19T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Tuberculosis disease and infection among household contacts of bacteriologically confirmed vs unconfirmed tuberculosis in Cambodia: considerations for optimising contact investigation and preventive treatment.](https://pubmed.ncbi.nlm.nih.gov/42615857/) (PubMed Infectious Disease Search; 2026-08-19T00:00; Major epidemiology studies; relevance 5/5)
 - [Towards ending tuberculosis in South Africa: an uncertainty analysis of the programmes and factors most critical to future declines.](https://pubmed.ncbi.nlm.nih.gov/42609173/) (PubMed Infectious Disease Search; 2026-08-18T00:00; Major epidemiology studies; relevance 5/5)
 - [The 1820 Mallorca plague was not a classic bubonic outbreak.](https://pubmed.ncbi.nlm.nih.gov/42607223/) (PubMed Historical Pathogen Case Studies; 2026-08-17T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-14T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News; 2026-08-14T12:13+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (288), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (6)
+- Category mix: Outbreaks and emerging infections (292), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (6)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 126 item(s) across 83 source(s).
-- Baseline snapshot created with 126 clustered item(s) across 83 source(s).
+- Newly tracked story cluster: 132 item(s) across 90 source(s).
+- Baseline snapshot created with 132 clustered item(s) across 90 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 104 item(s) across 89 source(s).
-- Baseline snapshot created with 104 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 105 item(s) across 92 source(s).
+- Baseline snapshot created with 105 clustered item(s) across 92 source(s).
 - Axios now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 70 item(s) across 53 source(s).
-- Baseline snapshot created with 70 clustered item(s) across 53 source(s).
+- Newly tracked story cluster: 69 item(s) across 52 source(s).
+- Baseline snapshot created with 69 clustered item(s) across 52 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### COVID-19 and SARS-CoV-2
@@ -49,7 +49,7 @@ Search window: 7 day(s) ending 2026-08-19
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 126 item(s) across 83 source(s); 2 official/primary-source item(s).
+- Topic size: 132 item(s) across 90 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Ebola cases in DR Congo top 5,000 – Africa CDC](https://punchng.com/ebola-cases-in-dr-congo-top-5000-africa-cdc/) (Punch Newspapers); [Congo’s Ebola outbreak reaches 5,000 cases as death toll rises](https://nypost.com/2026/08/19/world-news/congos-ebola-outbreak-reaches-5000-cases-as-death-toll-rises/) (New York Post); [The battle to contain DRC’s deadliest Ebola outbreak](https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWDczejBaaGtCWXZVMGtLeUNOcDI4b3NKVXpaZlNuRE9yYktKVGt2TW1UakJJRDJSS0VWdzFvc05YdWxTR3VJZVpDNTNKYkpUNDRrYlVzNFBGaXVSYjFNbW1kaVR2alZKOGY5Yg?oc=5) (CNN)
@@ -57,15 +57,15 @@ Search window: 7 day(s) ending 2026-08-19
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 104 item(s) across 89 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-19T20:34+00:00)
+- Topic size: 105 item(s) across 92 source(s); 1 official/primary-source item(s).
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-19T20:49+00:00)
 - Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Measles case confirmed in Orange County; exposure warnings issued at multiple restaurants, public spaces](https://www.cbsnews.com/losangeles/news/measles-orange-county-exposure-warning-august-19/) (CBS News); [Utah's vaccine exemptions spiked amid measles outbreak](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NyQjVkY3NIYm5FNXNYWFJyU1dvRHpPT0JoQzRrczVzNmU2eVBnYXBYeGtCdlFKMzFmQXFTektET3lCcG9PWDVGeEVsU2ZTY09wd1ItZkxWUjRfUG1kWXFvbmFyaC1WQ2ZDcDFlWlk2bndldWlUTzYzVzJvWjRXTVlPd0VqLWlzV1BTem9heXMxM3RmR1g3eDVlaDdfRGg2Ulh5YUZjQTVEdw?oc=5) (Axios); [The threat of more, expanded measles outbreaks looms with start of school](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWJwZUhKQlZoM2RFclFOMFVfby1yRlREMUowaGE5clY2V1BRR01OLUo0TnBiMHVHWUxTY19uaGEzWWRMNkJMcWdpTnFnTEdDdlJabndLc3k5T2drdGdnLUJ5eVUySXUxandlOVV3S0VoTVpYN1RQZWY1a2p6RVNSd3FvRjBFNWo1ZkZqRTlKZ2Vqa0ozQ3ZF?oc=5) (CIDRAP); [As measles outbreaks grow in the U.S., maps and charts show a record number of cases](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) (CBS News)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Measles case confirmed in Orange County; exposure warnings issued at multiple restaurants, public spaces](https://www.cbsnews.com/losangeles/news/measles-orange-county-exposure-warning-august-19/) (CBS News); [As measles outbreaks grow in the U.S., maps and charts show a record number of cases](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) (CBS News); [Utah's vaccine exemptions spiked amid measles outbreak](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NyQjVkY3NIYm5FNXNYWFJyU1dvRHpPT0JoQzRrczVzNmU2eVBnYXBYeGtCdlFKMzFmQXFTektET3lCcG9PWDVGeEVsU2ZTY09wd1ItZkxWUjRfUG1kWXFvbmFyaC1WQ2ZDcDFlWlk2bndldWlUTzYzVzJvWjRXTVlPd0VqLWlzV1BTem9heXMxM3RmR1g3eDVlaDdfRGg2Ulh5YUZjQTVEdw?oc=5) (Axios); [The threat of more, expanded measles outbreaks looms with start of school](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWJwZUhKQlZoM2RFclFOMFVfby1yRlREMUowaGE5clY2V1BRR01OLUo0TnBiMHVHWUxTY19uaGEzWWRMNkJMcWdpTnFnTEdDdlJabndLc3k5T2drdGdnLUJ5eVUySXUxandlOVV3S0VoTVpYN1RQZWY1a2p6RVNSd3FvRjBFNWo1ZkZqRTlKZ2Vqa0ozQ3ZF?oc=5) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 70 item(s) across 53 source(s); 1 official/primary-source item(s).
+- Topic size: 69 item(s) across 52 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-19T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclospora cases in US near 16K, CDC says](https://www.newsnationnow.com/health/cyclospora-cases-us-nearing-16000-cdc/) (NewsNation); [Cyclospora outbreak: Are you avoiding lettuce this summer?](https://www.axios.com/local/austin/2026/08/19/cyclospora-outbreak-fda-taylor-farms-lettuce-summer-texas-vegetables) (Axios); [Salad companies brace for low earnings after cyclospora outbreak](https://www.cbsnews.com/video/salad-companies-brace-for-low-earnings-after-cyclospora-outbreak/) (CBS News); [Cyclosporiasis cases in US climb to 15,716, CDC says](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-us-climb-15716-cdc-says-2026-08-18/) (Reuters)
@@ -82,7 +82,7 @@ Search window: 7 day(s) ending 2026-08-19
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-19T20:37+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-19T20:56+00:00)
 - Detailed note: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and...
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News); [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -336,7 +336,7 @@ Search window: 7 day(s) ending 2026-08-19
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-19T20:37+00:00
+- Date: 2026-08-19T20:56+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
@@ -346,7 +346,7 @@ Search window: 7 day(s) ending 2026-08-19
 
 ### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-19T20:34+00:00
+- Date: 2026-08-19T20:49+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
@@ -448,6 +448,8 @@ Search window: 7 day(s) ending 2026-08-19
   Limited detail was available from feed metadata alone.
 - [Cyclospora outbreak: Are you avoiding lettuce this summer?](https://www.axios.com/local/austin/2026/08/19/cyclospora-outbreak-fda-taylor-farms-lettuce-summer-texas-vegetables) | Axios | 2026-08-19T17:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [As measles outbreaks grow in the U.S., maps and charts show a record number of cases](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) | CBS News | 2026-08-19T13:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Salad companies brace for low earnings after cyclospora outbreak](https://www.cbsnews.com/video/salad-companies-brace-for-low-earnings-after-cyclospora-outbreak/) | CBS News | 2026-08-19T13:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Utah's vaccine exemptions spiked amid measles outbreak](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NyQjVkY3NIYm5FNXNYWFJyU1dvRHpPT0JoQzRrczVzNmU2eVBnYXBYeGtCdlFKMzFmQXFTektET3lCcG9PWDVGeEVsU2ZTY09wd1ItZkxWUjRfUG1kWXFvbmFyaC1WQ2ZDcDFlWlk2bndldWlUTzYzVzJvWjRXTVlPd0VqLWlzV1BTem9heXMxM3RmR1g3eDVlaDdfRGg2Ulh5YUZjQTVEdw?oc=5) | Axios | 2026-08-19T12:28+00:00 | Outbreaks and emerging infections
@@ -456,7 +458,9 @@ Search window: 7 day(s) ending 2026-08-19
   Limited detail was available from feed metadata alone.
 - [CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbjhrSXk5N050MzMwOFlsa053OUpaOGNtYnEtLXBjRDJ0eG1aZ01EeG9kYWFaMVBpVGpxYUxORkV6SDNkM1B2UFZBcGNWaEFvNG83NUdqYm92MlNRLS1zRlA2V0Z1eV9iNUlLQjlNSGRqbkY4ZmxobzdWbldNcXBudC1NczY0RkJDeHBlU0F4aThoZUZmUDc2SHBNT05DVGctT0FGREtLY29GZUYzY0HSAbMBQVVfeXFMTXFnUksta0FSUTNuYXVCVzRvS2V3S3VnbkdhY0N1dmhfX20yUlpZMmltVEYwcGZIanl2alVrLWpIQi1uUl9rbHllN2hHTUE0Q2h3OHR3Nkc0Tk5BRDB3Tnoza3V2bnlVUnJNVEhmTVRPbFhTOGtSMDFqaUhBMlNzaXU4eEtHZkhMNnh1UmtfN0VmS1RWT3dycmgwR1FxbmhCU3NWR2FyalhORnRDekUtUjU0TnM?oc=5) | ABC News - Breaking News, Latest News and Videos | 2026-08-19T10:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola cases in Congo exceed 5,000, WHO warns of global emergency](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnl4VXNTVWdRdHpndVgtZTRnbWVWMWo5dUgxUWZHSVVEeElRd3JVY3oxRlIybjBSVHBXdkVCZ1J5YXlUWUZOTXA3LXNtVC1QaERQamhzc1Jaa0pXVThOZk1fdVZlam1mdTVjZHNvb2dBR3JiU0F5aTE4QjJUOWxLWVZCUUpHbjkxaEo3djUzUy1SVWdYYTJVNWt1ZXI3NmE3OGc?oc=5) | vovworld.vn | 2026-08-19T09:53+00:00 | Outbreaks and emerging infections
+- [Ebola cases in Congo exceed 5,000, WHO warns of global emergency](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnl4VXNTVWdRdHpndVgtZTRnbWVWMWo5dUgxUWZHSVVEeElRd3JVY3oxRlIybjBSVHBXdkVCZ1J5YXlUWUZOTXA3LXNtVC1QaERQamhzc1Jaa0pXVThOZk1fdVZlam1mdTVjZHNvb2dBR3JiU0F5aTE4QjJUOWxLWVZCUUpHbjkxaEo3djUzUy1SVWdYYTJVNWt1ZXI3NmE3OGc?oc=5) | VOV World | 2026-08-19T09:53+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola outbreak tops 5,000 cases amid rapid spread](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3VaMmRZcHZvZlpvRXVla1pKVENUMHpOQU8zWnBpRmhfYVhZZU9uOWNWVVRSaEVycDNYdDhlR2gxY2JYVzFxWjJQRE8wVlRBcTR3bXN0eEJTLXdGaHBnSUVEQlVCUU9HV2tTOG02MGdSQUdPMVMxUENRWldHZ1RkTFN5bGJYOGNXZjVOeEVOOUQ4V2NPSm05OWkwTQ?oc=5) | United News of Bangladesh | 2026-08-19T09:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Congo cases surpass 5,000 as record-setting pace of spread continues](https://news.google.com/rss/articles/CBMikwFBVV95cUxPY055WFgxMGhZUUQwSVh2TzVaaW5Ld1VwWmlPZjRVdWpSRDBlQ0UxM0hJN2NNdXdDVzhlUW1tSHk1dXcyR0YtYWE3YksxbUtwb3kyU09md2g4RFNSbjVMNGZEb3JNT1o2QS1ocF8talpCOEJTcG1jZHpLa0l6MEE3Q210WUVCV01leWc1Y3dRMXlFb3M?oc=5) | CBS News | 2026-08-19T09:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -471,10 +475,6 @@ Search window: 7 day(s) ending 2026-08-19
 - [DR Congo Ebola outbreak remains global health emergency as cases surge](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbFFMdTZzaWxuN3FpU3ZoRy1SVkdDTFFBcVN1M1pSTHJxd2I3ZFRlbGhiYjN2cHpJd3JvM242TzdBVnFyTDRMYy1QeDZNekdlZGFCcVJfdHNkRko1TTdrOWZ5cTRXQTFXUHBsVmFHQ1piSElTdkRWXzNBYXFaTmh5RlpodGd2QQ?oc=5) | Xinhua | 2026-08-19T07:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Attempts to curb Ebola cases in DR Congo fail with more than 5,000 confirmed](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEh1VVBYMGFpcV9vYjBpRDhnR0Z3UWFMdEM1eXNLSGVxbXRuMERXUFB1Nndwb1k5N1FZa0Z2T1VEcHVXRUFELVc2QTNVSUFCam9JS1M1dG1WVTM4bEpGbkRBOUY4UC03ZDBkY1l2NzAyNjRzN0NlQUdKTHN3SVBEWXljRGdOWGdhQThtUXpYTU9Vel9CdG53MGEzejhQREZ2dDhZVkNRU3FBUnVTT0tuWHRWVVBydk1pU3FRMw?oc=5) | France 24 | 2026-08-19T06:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo far from under control: WHO](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0piNWRGR0JoSHJ5MG1qTF83SEZvN0VGQXVoWFZJT0xwWm9FcUhMdjJkWVpVYkUxSE1FUGI3QWY5bE43NnNVMFY1dVVpMGRTaGswWWhEclN2VW1zTmZ0dHhvUy1SeXFjdFBEQk1mMzJhWGpLYmMwRnVIQk1xQ0l1NHh0WnRJRDhLQ0NuX2pvbFlEUUplMGh6QVJtbC1MeWt2dUNMa0lnZFc?oc=5) | bastillepost.com | 2026-08-19T03:51+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [UNICEF Democratic Republic of the Congo Humanitarian Situation Report No. 2 – Ebola Outbreak (Bundibugyo Virus), 31 July 2026](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPN2tsYXNMZWZpbXoySURma3ZMOFhrYmlSMHNVVGsyaW51MElvQVJXaE5sV2FJZFdhNzQ0X3g1RmotSWd0TUJCVHZ6Y21NSTdobEFESFN2aE5BNWtIOGllUjBQVVE3YlNPZlVneDFQdjQwaFlZX0VlRDhhdkdQNFpPN1ZYbFRaTnVpVnFnSDJaeC1WUTNKQWNGOVR4ZG9uYXhsYWxsY0RudTk3YURfdXF2TnNRcm1JWGxwLVY3YTZqMG1UNlpiWU9pN2l0b2hKclBVRi1nX05WYWZyV3Rod0htc3dLWVpveHhVMkNOMGtuWUNJN2xMeWZIZ0pwQQ?oc=5) | ReliefWeb | 2026-08-19T01:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
