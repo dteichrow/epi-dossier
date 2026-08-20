@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -15,26 +15,32 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 286,
+    "metadata_only_count": 285,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 303,
+    "sources_failed": 2,
+    "sources_live": 302,
     "story_count_change": 5,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 303,
+    "live": 302,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-20T08:11:52",
+  "generated_at": "2026-08-20T08:15:22",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.oregon.gov', port=443): Max retries exceeded with url: /oha/erd/pages/news-releases.aspx (Caused by NewConnectionError(\"HTTPSConnection(host='www.oregon.gov', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+      "required": true,
+      "source": "Oregon Health Authority News Releases",
       "source_type": "html_list"
     }
   ]
