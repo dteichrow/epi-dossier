@@ -1,18 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-20
-Generated at: 2026-08-20T02:50
+Generated at: 2026-08-20T02:56
 Search window: 7 day(s) ending 2026-08-20
 
 ## Executive scan
+- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-20T09:49+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-20T09:46+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-20T09:34+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-19T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Tuberculosis disease and infection among household contacts of bacteriologically confirmed vs unconfirmed tuberculosis in Cambodia: considerations for optimising contact investigation and preventive treatment.](https://pubmed.ncbi.nlm.nih.gov/42615857/) (PubMed Infectious Disease Search; 2026-08-19T00:00; Major epidemiology studies; relevance 5/5)
 - [The 1820 Mallorca plague was not a classic bubonic outbreak.](https://pubmed.ncbi.nlm.nih.gov/42607223/) (PubMed Historical Pathogen Case Studies; 2026-08-17T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-14T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News; 2026-08-14T12:13+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa; 2026-08-11T13:52+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (282), Policy, surveillance, and public health infrastructure (24), Virology and pathogen evolution (1)
+- Category mix: Outbreaks and emerging infections (279), Policy, surveillance, and public health infrastructure (24), Virology and pathogen evolution (1)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -25,8 +25,8 @@ Search window: 7 day(s) ending 2026-08-20
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 124 item(s) across 87 source(s).
-- Baseline snapshot created with 124 clustered item(s) across 87 source(s).
+- Newly tracked story cluster: 122 item(s) across 87 source(s).
+- Baseline snapshot created with 122 clustered item(s) across 87 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
@@ -37,14 +37,14 @@ Search window: 7 day(s) ending 2026-08-20
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 65 item(s) across 51 source(s).
-- Baseline snapshot created with 65 clustered item(s) across 51 source(s).
+- Newly tracked story cluster: 64 item(s) across 49 source(s).
+- Baseline snapshot created with 64 clustered item(s) across 49 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 124 item(s) across 87 source(s); 2 official/primary-source item(s).
+- Topic size: 122 item(s) across 87 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: Since External Situation Report #12, an additional 579 confirmed cases and 304 confirmed deaths have been reported, bringing the cumulative total to 4,381 confirmed cases and 2,011 confirmed deaths as of 9 August 2026, corresponding to a case fatality ratio of 45.9%. Ituri remains the epicentre, accounting for 85.8% of cumulative cases and 80.6% of cumulative deaths.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [Congolese officials say Ebola outbreak continues to grow](https://www.npr.org/2026/08/20/nx-s1-5937866/congolese-officials-say-ebola-outbreak-continues-to-grow) (NPR); [CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/ebola-outbreak-risks-becoming-deadliest-record-irc-warns/story?id\=133305446) (ABC News - Breaking News, Latest News and Videos); [Ebola is spreading faster beyond Congo epicentre, straining outbreak response](https://www.straitstimes.com/world/ebola-is-spreading-faster-beyond-congo-epicentre-straining-outbreak-response) (The Straits Times)
@@ -53,14 +53,14 @@ Search window: 7 day(s) ending 2026-08-20
 
 ### Measles transmission and vaccination
 - Topic size: 109 item(s) across 90 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-20T09:34+00:00)
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-20T09:49+00:00)
 - Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Increased number of measles cases in Winelands Districts](https://novanews.co.za/worcesterstandard/increased-number-of-measles-cases-in-winelands-districts/) (novanews.co.za); [Measles case confirmed in Orange County; exposure warnings issued at multiple restaurants, public spaces](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDRyaTdQZFY1WkFNQnNSbEEwdTFaSWw3a2p0a3VQR0pqdklUY28tcjN4a2N2dE9BN3pmOGhfTi1KOFFjd2RJR2NnT20wTXpKd0lZRjJ4d0lva0J2dEwzT1RzNFBNVjdlYnR6WWdKQl90SW05c1ZtcU1UQkhxNmJuN1JKR2JfVUE1ZGhxcVE5OU4zdnc?oc=5) (CBS News); [Utah's vaccine exemptions spiked amid measles outbreak](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NyQjVkY3NIYm5FNXNYWFJyU1dvRHpPT0JoQzRrczVzNmU2eVBnYXBYeGtCdlFKMzFmQXFTektET3lCcG9PWDVGeEVsU2ZTY09wd1ItZkxWUjRfUG1kWXFvbmFyaC1WQ2ZDcDFlWlk2bndldWlUTzYzVzJvWjRXTVlPd0VqLWlzV1BTem9heXMxM3RmR1g3eDVlaDdfRGg2Ulh5YUZjQTVEdw?oc=5) (Axios); [The threat of more, expanded measles outbreaks looms with start of school](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWJwZUhKQlZoM2RFclFOMFVfby1yRlREMUowaGE5clY2V1BRR01OLUo0TnBiMHVHWUxTY19uaGEzWWRMNkJMcWdpTnFnTEdDdlJabndLc3k5T2drdGdnLUJ5eVUySXUxandlOVV3S0VoTVpYN1RQZWY1a2p6RVNSd3FvRjBFNWo1ZkZqRTlKZ2Vqa0ozQ3ZF?oc=5) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 65 item(s) across 51 source(s); 1 official/primary-source item(s).
+- Topic size: 64 item(s) across 49 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-19T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclospora cases in US near 16K, CDC says](https://www.newsnationnow.com/health/cyclospora-cases-us-nearing-16000-cdc/) (NewsNation); [Cyclosporiasis cases in US climb to 15,716, CDC says](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-us-climb-15716-cdc-says-2026-08-18/) (Reuters); [Best-by dates of recalled iceberg lettuce linked to massive Cyclospora outbreak have passed, says FDA](https://www.cidrap.umn.edu/cyclospora/best-dates-recalled-iceberg-lettuce-linked-massive-cyclospora-outbreak-have-passed-says) (CIDRAP); [2 more states added to cyclospora outbreak linked to lettuce](https://www.newsnationnow.com/health/2-states-added-cyclospora-outbreak/) (NewsNation)
@@ -329,20 +329,20 @@ Search window: 7 day(s) ending 2026-08-20
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
-### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
+### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-20T09:46+00:00
-- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
+- Date: 2026-08-20T09:49+00:00
+- URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
+### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-20T09:34+00:00
-- URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
+- Date: 2026-08-20T09:46+00:00
+- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
