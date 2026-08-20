@@ -1,102 +1,89 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-20
-Generated at: 2026-08-20T07:17
+Generated at: 2026-08-20T07:33
 Search window: 7 day(s) ending 2026-08-20
 
 ## Executive scan
+- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-20T14:33+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-20T14:16+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-20T14:13+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa; 2026-08-20T11:39+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News; 2026-08-20T13:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-08-19T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-19T00:00; Outbreaks and emerging infections; relevance 5/5)
-- [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks; 2026-08-19T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Tuberculosis disease and infection among household contacts of bacteriologically confirmed vs unconfirmed tuberculosis in Cambodia: considerations for optimising contact investigation and preventive treatment.](https://pubmed.ncbi.nlm.nih.gov/42615857/) (PubMed Infectious Disease Search; 2026-08-19T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (270), Policy, surveillance, and public health infrastructure (25), Historical epidemiology / ancient disease / paleopathology (1)
+- [The ongoing challenge of Clostridioides difficile infection in Austria: economic evaluation of two recommended treatment pathways.](https://pubmed.ncbi.nlm.nih.gov/42619425/) (PubMed Infectious Disease Search; 2026-08-19T00:00; Major epidemiology studies; relevance 5/5)
+- [FDA outbreak investigation 1394: E. coli") O103:H25](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks; 2026-08-19T00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Policy, surveillance, and public health infrastructure (8), Outbreaks and emerging infections (8), Major epidemiology studies (4)
+- Source health: 34 source(s) failed during collection: Nigeria Centre for Disease Control, Google News Outbreaks, Google News Major Outbreak Desks, Google News Global Health Reporting, Google News Hantavirus and Cruise Outbreaks, plus 29 more.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 115 item(s) across 77 source(s).
-- Baseline snapshot created with 115 clustered item(s) across 77 source(s).
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- The Sun Malaysia now foregrounds vaccination or vaccine policy in the story.
+- CIDRAP now foregrounds vaccination or vaccine policy in the story.
 
 ### Hantavirus and cruise-ship outbreak
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 5 item(s) across 3 source(s).
-- Baseline snapshot created with 5 clustered item(s) across 3 source(s).
+- Newly tracked story cluster: 4 item(s) across 2 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 2 source(s).
 - Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
-- ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
 
-### Polio and wastewater surveillance
-- Lead item: [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Baseline snapshot created with 4 clustered item(s) across 4 source(s).
-- WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
-- Wastewater Digest now brings wastewater surveillance into the story.
-
-### Measles transmission and vaccination
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 101 item(s) across 83 source(s).
-- Baseline snapshot created with 101 clustered item(s) across 83 source(s).
-- Axios now foregrounds vaccination or vaccine policy in the story.
-
-### Cyclosporiasis
-- Lead item: [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks)
-- Newly tracked story cluster: 66 item(s) across 50 source(s).
-- Baseline snapshot created with 66 clustered item(s) across 50 source(s).
-- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
+### COVID-19 and SARS-CoV-2
+- Lead item: [Towards ending tuberculosis in South Africa: an uncertainty analysis of the programmes and factors most critical to future declines.](https://pubmed.ncbi.nlm.nih.gov/42609173/) (PubMed Infectious Disease Search)
+- Newly tracked story cluster: 2 item(s) across 1 source(s).
+- Baseline snapshot created with 2 clustered item(s) across 1 source(s).
+- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
-### Ebola virus disease
-- Topic size: 115 item(s) across 77 source(s); 2 official/primary-source item(s).
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
-- Detailed note: Since External Situation Report #12, an additional 579 confirmed cases and 304 confirmed deaths have been reported, bringing the cumulative total to 4,381 confirmed cases and 2,011 confirmed deaths as of 9 August 2026, corresponding to a case fatality ratio of 45.9%. Ituri remains the epicentre, accounting for 85.8% of cumulative cases and 80.6% of cumulative deaths.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [DR Congo receives 70,000 Ervebo vaccine doses amid ongoing Ebola outbreak](https://thesun.my/news/world-news/dr-congo-receives-70000-ervebo-vaccine-doses-amid-ongoing-ebola-outbreak/) (The Sun Malaysia); [Congo gets 70,000 Ervebo doses as Ebola outbreak surges](https://www.indiatoday.in/world/story/congo-ebola-outbreak-who-sends-70000-ervebo-vaccine-doses-ptag-2975884-2026-08-20) (India Today); [Congo to receive 70,000 Ebola vaccine doses as authorities battle fast-spreading outbreak](https://www.emirates247.com/health/congo-to-receive-70000-ebola-vaccine-doses-as-authorities-battle-fast-spreading-outbreak/4750) (Emirates 24|7)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Measles transmission and vaccination
-- Topic size: 101 item(s) across 83 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-20T14:13+00:00)
-- Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Increased number of measles cases in Winelands Districts](https://novanews.co.za/worcesterstandard/increased-number-of-measles-cases-in-winelands-districts/) (novanews.co.za); [Measles case confirmed in Orange County; exposure warnings issued at multiple restaurants, public spaces](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDRyaTdQZFY1WkFNQnNSbEEwdTFaSWw3a2p0a3VQR0pqdklUY28tcjN4a2N2dE9BN3pmOGhfTi1KOFFjd2RJR2NnT20wTXpKd0lZRjJ4d0lva0J2dEwzT1RzNFBNVjdlYnR6WWdKQl90SW05c1ZtcU1UQkhxNmJuN1JKR2JfVUE1ZGhxcVE5OU4zdnc?oc=5) (CBS News); [As measles outbreaks grow in the U.S., maps and charts show a record number of cases](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) (CBS News); [Utah's vaccine exemptions spiked amid measles outbreak](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NyQjVkY3NIYm5FNXNYWFJyU1dvRHpPT0JoQzRrczVzNmU2eVBnYXBYeGtCdlFKMzFmQXFTektET3lCcG9PWDVGeEVsU2ZTY09wd1ItZkxWUjRfUG1kWXFvbmFyaC1WQ2ZDcDFlWlk2bndldWlUTzYzVzJvWjRXTVlPd0VqLWlzV1BTem9heXMxM3RmR1g3eDVlaDdfRGg2Ulh5YUZjQTVEdw?oc=5) (Axios)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Cyclosporiasis
-- Topic size: 66 item(s) across 50 source(s); 3 official/primary-source item(s).
-- Lead item: [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks, 2026-08-19T00:00)
-- Detailed note: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . The health department labels these counts preliminary.
-- Evidence notes: [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/michigan-health-officials-people-resume-regular-lettuce-eating/story?id\=135432137) (ABC News - Breaking News, Latest News and Videos); [Cyclospora cases in US near 16K, CDC says](https://www.newsnationnow.com/health/cyclospora-cases-us-nearing-16000-cdc/) (NewsNation)
+### Miscellaneous signals
+- Topic size: 6 item(s) across 5 source(s); 6 official/primary-source item(s).
+- Lead item: [The ongoing challenge of Clostridioides difficile infection in Austria: economic evaluation of two recommended treatment pathways.](https://pubmed.ncbi.nlm.nih.gov/42619425/) (PubMed Infectious Disease Search, 2026-08-19T00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [The ongoing challenge of Clostridioides difficile infection in Austria: economic evaluation of two recommended treatment pathways.](https://pubmed.ncbi.nlm.nih.gov/42619425/) (PubMed Infectious Disease Search); [FDA outbreak investigation 1394: E. coli") O103:H25](https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks) (FDA Foodborne Outbreaks); [WHO Sierra Leone Second Quarter 2026 Results Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-second-quarter-2026-results-newsletter) (WHO Regional Office for Africa); [MDHHS confirms detection of influenza A H1N2 variant (8/14/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/08/14/mdhhs-confirms-detection-of-influenza-a-h1n2-variant-in-michigan-resident) (Michigan Department of Health and Human Services Infectious Disease Updates); [Influenza Cases Widespread in California](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-086.aspx) (California Department of Public Health News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 5 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-20T14:16+00:00)
 - Detailed note: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and...
-- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News); [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News); [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5) (ABC News - Breaking News, Latest News and Videos)
+- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News); [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News); [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Ebola virus disease
+- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
+- Detailed note: Since External Situation Report #12, an additional 579 confirmed cases and 304 confirmed deaths have been reported, bringing the cumulative total to 4,381 confirmed cases and 2,011 confirmed deaths as of 9 August 2026, corresponding to a case fatality ratio of 45.9%. As of August 13, Michigan, the epicenter of this summer’s outbreak, has reported 13,909 cases , 314 hospitalizations, and two deaths. DRC officials...
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [Quick takes: Nominee for FDA director, Ebola cases hit 5,000, Cyclospora outbreak slows but cases top 15,000](https://www.cidrap.umn.edu/public-health/quick-takes-nominee-fda-director-ebola-cases-hit-5000-cyclospora-outbreak-slows-cases) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### Measles transmission and vaccination
+- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-20T14:33+00:00)
+- Detailed note: We also cover a new FDA-approved mRNA flu vaccine, AAP flu vaccine recs, and a review of the US's measles elimination status. Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy](https://www.cidrap.umn.edu/childhood-vaccines/executive-order-confirmed-director-and-20-straight-months-measles-state-us) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
+
+### COVID-19 and SARS-CoV-2
+- Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
+- Lead item: [Towards ending tuberculosis in South Africa: an uncertainty analysis of the programmes and factors most critical to future declines.](https://pubmed.ncbi.nlm.nih.gov/42609173/) (PubMed Infectious Disease Search, 2026-08-18T00:00)
+- Detailed note: Adult TB incidence and mortality rates in South Africa were projected to decline by 46% (95% uncertainty interval [UI]: 17-69%) and 54% (95% UI: 21-84%) respectively by 2030, relative to 2015. The parameters most strongly associated with future TB incidence were the increase in microbiological testing in symptomatic individuals due to near-point-of-care/tongue swab (NPOC/TS) testing (PRCC = -0.67), reductions in...
+- Evidence notes: [Towards ending tuberculosis in South Africa: an uncertainty analysis of the programmes and factors most critical to future declines.](https://pubmed.ncbi.nlm.nih.gov/42609173/) (PubMed Infectious Disease Search); [Gut microbiome signatures during acute infection are associated with long COVID.](https://pubmed.ncbi.nlm.nih.gov/42615987/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It may influence public-health messaging, travel guidance, or risk framing. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 ### Polio and wastewater surveillance
-- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
 - Lead item: [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa, 2026-08-20T11:39+00:00)
 - Detailed note: mongem@who.int Thu, 20/08/2026 - 12:39 The Bulletin provides standardized updates on eSURV/ISS implementation, key performance indicators in WHO AFRO, aiding stakeholders in monitoring active surveillance progress, addressing gaps, and guiding evidence-based decisions at regional and national, and subnational levels. Download the bulletin (3.64 MB) Related Health Topics Polio
-- Evidence notes: [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa); [5 African Countries Halt Polio Outbreaks, Marking Progress Toward Eradication](https://africa.dailynewsegypt.com/5-african-countries-halt-polio-outbreaks-marking-progress-toward-eradication/) (DNE Africa); [Five African countries end polio outbreaks - WHO | Regional Office for Africa](https://www.afro.who.int/news/five-african-countries-end-polio-outbreaks) (WHO); [MSU researchers explore wastewater surveillance to track cyclospora outbreak](https://www.wwdmag.com/wastewater-treatment/news/55396525/msu-researchers-explore-wastewater-surveillance-to-track-cyclospora-outbreak) (Wastewater Digest)
+- Evidence notes: [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Avian influenza and H5N1
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Cambodia confirms human H5N1 avian flu case as H5N1 hits more Utah egg farms](https://www.cidrap.umn.edu/avian-influenza-bird-flu/cambodia-confirms-human-h5n1-avian-flu-case-h5n1-hits-more-utah-egg-farms) (CIDRAP, 2026-08-16T21:09+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Cambodia confirms human H5N1 avian flu case as H5N1 hits more Utah egg farms](https://www.cidrap.umn.edu/avian-influenza-bird-flu/cambodia-confirms-human-h5n1-avian-flu-case-h5n1-hits-more-utah-egg-farms) (CIDRAP); [The threat the H5N1 avian flu poses to Australia and New Zealand’s unique wildlife](https://www.npr.org/2026/08/18/nx-s1-5929107/the-threat-the-h5n1-avian-flu-poses-to-australia-and-new-zealands-unique-wildlife) (NPR)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -336,20 +323,20 @@ Search window: 7 day(s) ending 2026-08-20
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
-### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
+### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-20T14:16+00:00
-- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
+- Date: 2026-08-20T14:33+00:00
+- URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
+### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-20T14:13+00:00
-- URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
+- Date: 2026-08-20T14:16+00:00
+- URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
@@ -376,32 +363,12 @@ Search window: 7 day(s) ending 2026-08-20
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-19T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Toledo-Lucas County Health Department Cyclosporiasis Update
 - Source: Toledo-Lucas County Health Department Cyclosporiasis Update
 - Date: 2026-08-19T00:00
 - URL: https://lucascountyhealth.com/cyclo/
 - Category: Outbreaks and emerging infections
 - Summary: Lucas County Positive Cases: 1,291; Northwest Ohio Positive Cases: 3,364. The health department labels these counts preliminary. Last update: 8/19/26.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
-- Source: FDA Foodborne Outbreaks
-- Date: 2026-08-19T00:00
-- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
-- Category: Outbreaks and emerging infections
-- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -416,6 +383,36 @@ Search window: 7 day(s) ending 2026-08-20
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### The ongoing challenge of Clostridioides difficile infection in Austria: economic evaluation of two recommended treatment pathways.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-08-19T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42619425/
+- Category: Major epidemiology studies
+- Summary: Average lifetime costs per patient were 4,026.86€for the ÖGGH pathway and 4,082.90€for the reference pathway, yielding incremental savings of -56.04€. 6.89) and 0.20 life years gained (10.75 vs. In Austria, national surveillance data report 769 severe CDI cases in 2024, indicating a substantial disease burden.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1394: E. coli") O103:H25
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-08-19T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1394 with date posted 8/19/2026. Reported total case count: 18. Product linked to illnesses: Not Yet Identified.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Towards ending tuberculosis in South Africa: an uncertainty analysis of the programmes and factors most critical to future declines.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-08-18T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42609173/
+- Category: Major epidemiology studies
+- Summary: Adult TB incidence and mortality rates in South Africa were projected to decline by 46% (95% uncertainty interval [UI]: 17-69%) and 54% (95% UI: 21-84%) respectively by 2030, relative to 2015. The parameters most strongly associated with future TB incidence were the increase in microbiological testing in symptomatic individuals due to near-point-of-care/tongue swab (NPOC/TS) testing (PRCC = -0.67), reductions in social contact rates post-COVID (PRCC = -0.61), the probability of sputum testing in symptomatic individuals in the absence of NPOC/TS testing (PRCC = -0.39), and the efficacy of TB preventive therapy (PRCC = -0.35). The WHO End Tuberculosis (TB) strategy targets 80% and 90% reductions in TB incidence and mortality, respectively, between 2015 and 2030.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### The 1820 Mallorca plague was not a classic bubonic outbreak.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-08-17T00:00
@@ -426,57 +423,29 @@ Search window: 7 day(s) ending 2026-08-20
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Ebola disease outbreak in the Democratic Republic of the Congo and Uganda
-- Source: ECDC News
-- Date: 2026-08-14T17:36+02:00
-- URL: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: Limited usable detail remained after boilerplate cleanup.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | ECDC News | 2026-08-14T17:36+02:00 | Policy, surveillance, and public health infrastructure
+  Limited usable detail remained after boilerplate cleanup.
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) | ECDC News | 2026-08-14T12:13+02:00 | Policy, surveillance, and public health infrastructure
   Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe EU/EEA countries report case based data to ECDC on diagnosed mpox cases. For case numbers by countries, Western Balkans and Türkiye are included.
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) | WHO Regional Office for Africa | 2026-08-11T13:52+00:00 | Outbreaks and emerging infections
   Since External Situation Report #12, an additional 579 confirmed cases and 304 confirmed deaths have been reported, bringing the cumulative total to 4,381 confirmed cases and 2,011 confirmed deaths as of 9 August 2026, corresponding to a case fatality ratio of 45.9%. Ituri remains the epicentre, accounting for 85.8% of cumulative cases and 80.6% of cumulative deaths.
+- [WHO Sierra Leone Second Quarter 2026 Results Newsletter](https://www.afro.who.int/countries/sierra-leone/publication/who-sierra-leone-second-quarter-2026-results-newsletter) | WHO Regional Office for Africa | 2026-08-11T11:00+00:00 | Outbreaks and emerging infections
+  This edition of our Results Newsletter highlights major milestones, including the activation of Triple Zero Taskforces in all 16 districts, training of 508 health workers in postpartum haemorrhage management, treatment of more than 1.8 million people for schistosomiasis, strengthened Ebola and Mpox preparedness, and advocacy efforts to advance sustainable health financing and universal health coverage. Read the full newsletter to discover how partnerships, innovation, and frontline action are helping to strengthen health systems and save lives across Sierra Leone.
 - [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) | ECDC News | 2026-08-10T16:05+02:00 | Policy, surveillance, and public health infrastructure
   Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe
-- [DR Congo receives 70,000 Ervebo vaccine doses amid ongoing Ebola outbreak](https://thesun.my/news/world-news/dr-congo-receives-70000-ervebo-vaccine-doses-amid-ongoing-ebola-outbreak/) | The Sun Malaysia | 2026-08-20T12:54+00:00 | Outbreaks and emerging infections
+- [Quick takes: Nominee for FDA director, Ebola cases hit 5,000, Cyclospora outbreak slows but cases top 15,000](https://www.cidrap.umn.edu/public-health/quick-takes-nominee-fda-director-ebola-cases-hit-5000-cyclospora-outbreak-slows-cases) | CIDRAP | 2026-08-19T12:55-05:00 | Outbreaks and emerging infections
+  As of August 13, Michigan, the epicenter of this summer’s outbreak, has reported 13,909 cases , 314 hospitalizations, and two deaths. DRC officials say 5,021 cases, including 2,378 deaths, have been recorded in the past three months as an outbreak of Bundibugyo strain Ebola has become intractable in Ituri province. Yesterday the Centers for Disease Control and Prevention (CDC) added 1,821 infections to its 2026 Cyclospora total, raising it to 15,716—compared with 1,180 cases through August last year.
+- [An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy](https://www.cidrap.umn.edu/childhood-vaccines/executive-order-confirmed-director-and-20-straight-months-measles-state-us) | CIDRAP | 2026-08-13T14:57-05:00 | Outbreaks and emerging infections
+  We also cover a new FDA-approved mRNA flu vaccine, AAP flu vaccine recs, and a review of the US's measles elimination status.
+- [Gut microbiome signatures during acute infection are associated with long COVID.](https://pubmed.ncbi.nlm.nih.gov/42615987/) | PubMed Infectious Disease Search | 2026-08-19T00:00 | Major epidemiology studies
+  We conducted a longitudinal cohort study involving 799 outpatient participants tested for SARS-CoV-2 due to similar symptom presentation, including 380 SARS-CoV-2 positive and 419 negative individuals. However, the temporal changes in the gut microbiome between the acute (0-1 month) and post-acute (1-2 months) phases were similar across the three cohorts. Long COVID (LC) manifests in 10%-30% of non-hospitalized individuals post-SARS-CoV-2 infection, leading to significant morbidity.
+- [MDHHS confirms detection of influenza A H1N2 variant (8/14/2026)](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/08/14/mdhhs-confirms-detection-of-influenza-a-h1n2-variant-in-michigan-resident) | Michigan Department of Health and Human Services Infectious Disease Updates | 2026-08-14T00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo gets 70,000 Ervebo doses as Ebola outbreak surges](https://www.indiatoday.in/world/story/congo-ebola-outbreak-who-sends-70000-ervebo-vaccine-doses-ptag-2975884-2026-08-20) | India Today | 2026-08-20T11:52+00:00 | Outbreaks and emerging infections
+- [Influenza Cases Widespread in California](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-086.aspx) | California Department of Public Health News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
-- [Congo to receive 70,000 Ebola vaccine doses as authorities battle fast-spreading outbreak](https://www.emirates247.com/health/congo-to-receive-70000-ebola-vaccine-doses-as-authorities-battle-fast-spreading-outbreak/4750) | Emirates 24|7 | 2026-08-20T11:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak remains global health emergency as cases surge](https://eastleighvoice.co.ke/regional/391814/dr-congo-ebola-outbreak-remains-global-health-emergency-as-cases-surge?amp\=1) | The Eastleigh Voice | 2026-08-20T09:05+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congolese officials say Ebola outbreak continues to grow](https://www.npr.org/2026/08/20/nx-s1-5937866/congolese-officials-say-ebola-outbreak-continues-to-grow) | NPR | 2026-08-20T08:45+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/michigan-health-officials-people-resume-regular-lettuce-eating/story?id\=135432137) | ABC News - Breaking News, Latest News and Videos | 2026-08-20T08:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Increased number of measles cases in Winelands Districts](https://novanews.co.za/worcesterstandard/increased-number-of-measles-cases-in-winelands-districts/) | novanews.co.za | 2026-08-20T07:24+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo outpaces efforts to contain it | DW News](https://www.modernghana.com/videonews/dw/1/702458) | Modern Ghana | 2026-08-20T07:04+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/ebola-outbreak-risks-becoming-deadliest-record-irc-warns/story?id\=133305446) | ABC News - Breaking News, Latest News and Videos | 2026-08-20T06:16+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo’s Ebola outbreak reaches 5,000 cases](https://www.timesdaily.com/life/health/congo-s-ebola-outbreak-reaches-5-000-cases/article_2f2b0119-5272-458e-9385-f0ba826515a6.html) | timesdaily.com | 2026-08-20T05:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Is Spreading Faster Beyond Congo Epicenter, Straining Outbreak Response](https://www.bloomberg.com/news/articles/2026-08-20/congo-ebola-outbreak-spreads-beyond-ituri-as-cases-rise-in-north-kivu) | Bloomberg.com | 2026-08-20T01:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola cases in DR Congo top 5,000 – Africa health agency](https://globalnation.inquirer.net/335323/ebola-cases-in-dr-congo-top-5000-africa-health-agency) | Inquirer.net | 2026-08-20T01:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo Ebola outbreak reaches 5,000 cases as spread outpaces efforts to contain it](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVhxak5pOFlidmZmVkJWWGE2Y253dzJWNVNPUUs1cmxDaDBOQ3JfZ0ZocDlvVDlteWV4YUhlUGh0NTdJaFFzMlBlWHNsTFNTSHl6LTNzcWRRLVB3d01qRWdKc2k2U0ZkUExmSkZzb29TNkR2c244c01TSFhUTmpOcG95dE8yMGRFbl9RcmZ0dzV6ZTZQb1U3UFhxU0RINUVKUVFOQnpTWWpyaDJXanY4eU8xb2RwWWV2WHc?oc=5) | Global News | 2026-08-19T22:31+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo's Largest Ebola Outbreak Tops 5,000 Cases as Death Toll Exceeds 2,300](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUzVUVXdqenI1VHdVU2t5RFo2d2ZBTlFnb3BpM052NlhzTXhHWHg3VUd5QzhpOW5rOVpyajU1VVN5SFlTU1hXZXlxZ3BYbjU4aWdyVkNYdmw4OWFhQnF3dW5uRzZqekZmVm15VXlSZWZzMmQwSHZHQW9aQVI0UV85c2gxLVdHTFZVbEt4UV93MWZyTzVrRVVoR3NuR2FVVDJpMjJWMlZCN09MVTNjTFNyLUxNLU4?oc=5) | Discover Magazine | 2026-08-19T22:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [5 African Countries Halt Polio Outbreaks, Marking Progress Toward Eradication](https://africa.dailynewsegypt.com/5-african-countries-halt-polio-outbreaks-marking-progress-toward-eradication/) | DNE Africa | 2026-08-19T21:59+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Worst Ebola outbreak in DR Congo’s history spreads fast amid chaos](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbHFneGdNTksydjJ1WkZKSTRYdDlxNkd4V1MzdTh0X1pVaWhiQ196X1M3MzlCalBQS1JRVFlKZ1REcjNnT3dXcExkVWdLaVdwYmN1b1BvMWdCWWFtTVJOeG9nQVZTQkXSAVxBVV95cUxNTmpGa3cwVGE5NUdsS3laMTk0TTNya0JnNFhGX1BHcVZndTBuaE85blB1cFFObFZfYU5xSVFZb2g5Wm1mLXkxSDJaWWhPTzRLbkV1a2FXS244a2lmZQ?oc=5) | Modern Ghana | 2026-08-19T21:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in Congo is far from being under control, says WHO chief](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUw4cTFXdUZrRXF2SlpZTzBEamJfUDJqMFNnZUZSZW56WnVpWU05cURidXZtQ2tlb1Y3WmRYSDVMWGZFZE8wZ0tGZUZWMVBmOEdLV19iT2k3Mk02OEc5akR2VmNvalVSeDl2bHZlUTZBOUhnUWRScGppSVNoLU5kakh1RTc0S0NVZkJZZXdOTlMxRG9sUEJta1lyNnJaLTZqMXVZQXNzTTRFZXRfZWJWOFFPYnJFemxBQmxFRW9YOFNnWlnSAcMBQVVfeXFMUHVMOHExV3VGa0VxdkpaWU8wRGpiX1AyajBTZ2VGUmVuelp1aVlNOXFEYnV2bUNrZW9WN1pkWEg1TFhmRWRPMGdLRmVGVjFQZjhHS1dfYk9pNzJNNjhHOWpEdlZjb2pVUng5dmx2ZVE2QTlIZ1FkUnBqaUlTaC1OZGpIdUU3NEtDVWZCWWV3Tk5TMURvbFBCbWtZcjZyWi02ajF1WUFzc000RWV0X2ViVjhRT2JyRXpsQUJsRUVvWDhTZ1pZ?oc=5) | Qatar Tribune | 2026-08-19T21:00+00:00 | Outbreaks and emerging infections
+- [CDPH Releases Reports on Healthcare-Associated Infections, Influenza Vaccination Rates Among Healthcare Personnel](https://www.cdph.ca.gov/Programs/OPA/Pages/NR16-082.aspx) | California Department of Public Health News | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -486,12 +455,30 @@ Search window: 7 day(s) ending 2026-08-20
   Journal/preprint server: Annals of medicine
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42615857/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42615857/
+- [The ongoing challenge of Clostridioides difficile infection in Austria: economic evaluation of two recommended treatment pathways.](https://pubmed.ncbi.nlm.nih.gov/42619425/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/13696998.2026.2718661
+  Journal/preprint server: Journal of medical economics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42619425/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42619425/
+- [Towards ending tuberculosis in South Africa: an uncertainty analysis of the programmes and factors most critical to future declines.](https://pubmed.ncbi.nlm.nih.gov/42609173/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/16549716.2026.2710936
+  Journal/preprint server: Global health action
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42609173/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42609173/
 - [The 1820 Mallorca plague was not a classic bubonic outbreak.](https://pubmed.ncbi.nlm.nih.gov/42607223/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1073/pnas.2536892123
   Journal/preprint server: Proceedings of the National Academy of Sciences of the United States of America
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42607223/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42607223/
+- [Gut microbiome signatures during acute infection are associated with long COVID.](https://pubmed.ncbi.nlm.nih.gov/42615987/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/19490976.2026.2718581
+  Journal/preprint server: Gut microbes
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42615987/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42615987/
 
 ## Historical epi / weird epi corner
 - [The 1820 Mallorca plague was not a classic bubonic outbreak.](https://pubmed.ncbi.nlm.nih.gov/42607223/) | PubMed Historical Pathogen Case Studies
@@ -499,5 +486,6 @@ Search window: 7 day(s) ending 2026-08-20
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
+- Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
