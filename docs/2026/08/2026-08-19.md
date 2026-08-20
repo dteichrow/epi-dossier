@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-19
-Generated at: 2026-08-19T22:45
+Generated at: 2026-08-19T22:55
 Search window: 7 day(s) ending 2026-08-19
 
 ## Executive scan
@@ -12,14 +12,14 @@ Search window: 7 day(s) ending 2026-08-19
 - [The 1820 Mallorca plague was not a classic bubonic outbreak.](https://pubmed.ncbi.nlm.nih.gov/42607223/) (PubMed Historical Pathogen Case Studies; 2026-08-17T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-14T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News; 2026-08-14T12:13+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (272), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (6)
+- Category mix: Outbreaks and emerging infections (278), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (6)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 120 item(s) across 85 source(s).
-- Baseline snapshot created with 120 clustered item(s) across 85 source(s).
+- Newly tracked story cluster: 127 item(s) across 90 source(s).
+- Baseline snapshot created with 127 clustered item(s) across 90 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Measles transmission and vaccination
@@ -49,10 +49,10 @@ Search window: 7 day(s) ending 2026-08-19
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 120 item(s) across 85 source(s); 2 official/primary-source item(s).
+- Topic size: 127 item(s) across 90 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: Although no new international spread has been detected, continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk of regional and international spread. It is now the largest BVD outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa epidemic.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Congo Ebola outbreak reaches 5,000 cases as spread outpaces efforts to contain it](https://globalnews.ca/video/12027722/congo-ebola-outbreak-reaches-5000-cases-as-spread-outpaces-efforts-to-contain-it/) (globalnews.ca); [Worst Ebola outbreak in DR Congo’s history spreads fast amid chaos](https://www.modernghana.com/videonews/aljazeera/1/702257) (Modern Ghana); [Ebola outbreak in Congo is far from being under control, says WHO chief](https://www.qatar-tribune.com/article/249544/world/ebola-outbreak-in-congo-is-far-from-being-under-control-says-who-chief/amp) (Qatar Tribune)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 12, Data as of 02 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-5) (WHO Regional Office for Africa); [Congo Ebola outbreak reaches 5,000 cases as spread outpaces efforts to contain it](https://globalnews.ca/video/12027722/congo-ebola-outbreak-reaches-5000-cases-as-spread-outpaces-efforts-to-contain-it/) (globalnews.ca); [Worst Ebola outbreak in DR Congo’s history spreads fast amid chaos](https://www.modernghana.com/videonews/aljazeera/1/702257) (Modern Ghana); [DR Congo Ebola outbreak remains global health emergency as cases surge](https://www.socialnews.xyz/2026/08/19/dr-congo-ebola-outbreak-remains-global-health-emergency-as-cases-surge/) (Social News XYZ)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -442,8 +442,6 @@ Search window: 7 day(s) ending 2026-08-19
   Limited detail was available from feed metadata alone.
 - [Worst Ebola outbreak in DR Congo’s history spreads fast amid chaos](https://www.modernghana.com/videonews/aljazeera/1/702257) | Modern Ghana | 2026-08-19T21:52+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in Congo is far from being under control, says WHO chief](https://www.qatar-tribune.com/article/249544/world/ebola-outbreak-in-congo-is-far-from-being-under-control-says-who-chief/amp) | Qatar Tribune | 2026-08-19T21:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Measles case confirmed in Orange County; exposure warnings issued at multiple restaurants, public spaces](https://www.cbsnews.com/losangeles/news/measles-orange-county-exposure-warning-august-19/) | CBS News | 2026-08-19T20:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Cyclospora cases in US near 16K, CDC says](https://www.newsnationnow.com/health/cyclospora-cases-us-nearing-16000-cdc/) | NewsNation | 2026-08-19T19:06+00:00 | Policy, surveillance, and public health infrastructure
@@ -464,17 +462,19 @@ Search window: 7 day(s) ending 2026-08-19
   Limited detail was available from feed metadata alone.
 - [Ebola cases in Congo exceed 5,000, WHO warns of global emergency](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnl4VXNTVWdRdHpndVgtZTRnbWVWMWo5dUgxUWZHSVVEeElRd3JVY3oxRlIybjBSVHBXdkVCZ1J5YXlUWUZOTXA3LXNtVC1QaERQamhzc1Jaa0pXVThOZk1fdVZlam1mdTVjZHNvb2dBR3JiU0F5aTE4QjJUOWxLWVZCUUpHbjkxaEo3djUzUy1SVWdYYTJVNWt1ZXI3NmE3OGc?oc=5) | VOV World | 2026-08-19T09:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Qa1hieU1FMkpFZ1pRTTlDY2FSYXRoc1FGS3FhLUhKTWJRanFtZDR5Z0RzUUVoclFGZGFxX25BTTF3blZlWEhTMEtZelZhSkQ3WVY3UHFRU1U3XzFNbHZZWksxZnlYNkNpcGhHZW9yd2c?oc=5) | NPR | 2026-08-19T09:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Congo’s Ebola outbreak reaches 5,000 cases as it outpaces response efforts at unprecedented speed](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUndRVDFXSGZBSXRsel9yVWJuazR0S3MycnBDZFA5ZTc5MFRrSDBXTkgtNjZPQXVjZzFXQy14NjVLbzBpWHVNM2JaNjFsaUdVTE42WUNYcmg5Nk1UNnUzZFprOVRmWlRsMFpzSGswTk54cHR6OVl6bTFGcEg3ck9uR3U3cndPQkdiQlRqbWVPNEhjY05VdDBOWGJINE04WVlZbk9mMjQySHRuNmxwMzYzQ2NJS0E0c0gxZF9WN3VaMGdpZVN2XzhuYVNONDJ1SUpyMzJpSy1lWnJGRVgxQVByOGRObVJGSTFpNF9lQzlJYktkbkl2V3FLMWlZN3NnQWM?oc=5) | The Tribune-Democrat | 2026-08-19T09:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Congo cases surpass 5,000 as record-setting pace of spread continues](https://news.google.com/rss/articles/CBMikwFBVV95cUxPY055WFgxMGhZUUQwSVh2TzVaaW5Ld1VwWmlPZjRVdWpSRDBlQ0UxM0hJN2NNdXdDVzhlUW1tSHk1dXcyR0YtYWE3YksxbUtwb3kyU09md2g4RFNSbjVMNGZEb3JNT1o2QS1ocF8talpCOEJTcG1jZHpLa0l6MEE3Q210WUVCV01leWc1Y3dRMXlFb3M?oc=5) | CBS News | 2026-08-19T09:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [What made Congo’s Ebola outbreak so deadly and quick to spread?](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRHZHT0Zic0RnTk5aZTN3UnlBc1RKVUFDbktNYW5oQXI2Z19KNDNFcm5jbi1aM0g2aEtsYi1rV1BmVnlNRC1RNlNKZ2JYVE5NNXFGdDNhemFVNnRlS1Foak5VZlFOMUpqTGdWcmJHazhxRkNpaTd5VWVTa0hvNHhBVjRGTURjMmdLdGVuY0w4M3JTSWdrYWlFUWJ2ZjZCSlhvbXhheDNjOVRVd3JCQ2hYLUt1RS10S2pQaTdOUS11U2lWRkpmaHFZWEhkU3hWekljMjV6VtIB2gFBVV95cUxOVGJEMndGT3N4Z3Z0ekdsYVZ0MU5XVXlwOEVqdEdabjJsWXlJZmxWanZJWWhFM2JpVWVPOVp2amRSdzZLNnFYQklsaXd5VGhncFM5b2gtYjB0NGVKUnVXc3B3akhHLXNUZ1l5eU1BXzRJdTBXOXFLZnIwNUU5aXlDbXRzYXktS2dVUkVETTJYSmhvbjVwVXNVNHFDVFZBNkNMXzlUejVtNDlDTzA1WkhZOVo1NDFILWpLd2o5WmFkSVpBS243bEp0d2tOV0hRbG5QTDZSbGVvQ0JHdw?oc=5) | The Australian | 2026-08-19T09:08+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola outbreak hits 5,000 cases as it outpaces response efforts](https://news.google.com/rss/articles/CBMizwFBVV95cUxOV19rMWxpTWFCdGRXVnhLN2pPR0xuQ281VXdPTHJoMS00ZEpnMGYtaUF3NXhRenlLTmtudjB6NTFxNWdEd0g4SHRjRFJhVEZPbm54am9EcTdNNnAwSDVMQzZ4NFN6a2R1bXpoaTRBR1Zjb3dqWnlTekhQWEcycWVsa0gycloyMERDNWtWUm41aXdHcDZKbExVc2k3cExYS05BWElLLUgzcThXbTg4SjRVNWNfVmhyMW1sckFOVzVCREJ6c0ZQY3FkVXAtTnVVMDDSAdQBQVVfeXFMTkpkR1JxcGFnTTlyV0lKZVhJZk9JZFZPYnlQZldsWGRzVEp2Y095MG9jWGl4UVdwSVhnVUJ3SVJfRVpERmNMcC10U3lXakJYblVnS3dUQWUxSzZGRHNoNkpLN0w1QnJnbW13U3FjWGhEaXpiMHF1dUpBc0o5THg0eU03ZWhPRkdONVA2dVpsQUl6YklwNGVBRkRneGtqM3ZMRzgwbzYzTW0tMk9keTI0RE01akJxdUtuOEpwSXJqc0NFbk9URGVIbmNIVGFfU1l5NVAteFU?oc=5) | Business Standard | 2026-08-19T09:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola cases top 5,000 as outbreak spreads in DR Congo](https://news.google.com/rss/articles/CBMiSkFVX3lxTE50TU1yXzN6ZjdDaHp0TlBUZFhaTHBZeTluRDBRUXVpNjNacUZRcXdFQWlpQzR0X0tYc0N4RjhWM0d1el9EalR4YTFB?oc=5) | سانا | 2026-08-19T08:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola in the Democratic Republic of Congo: What's going on and why is the outbreak so alarming?](https://news.google.com/rss/articles/CBMia0FVX3lxTFBaVlhadjhfMkdXZXJsVFV1WXJ1OVU2TW5BVE00ajZiU3ZmdEN0MkFVTm9PQTdralh2WE9QUlZIQkxvQmh1YUVXQ3RqNEZ1REliRjJibndKSWpnLXAyVTYtYTQ1RkVRM3BqZGpz?oc=5) | CBC | 2026-08-19T08:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Attempts to curb Ebola cases in DR Congo fail with more than 5,000 confirmed](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEh1VVBYMGFpcV9vYjBpRDhnR0Z3UWFMdEM1eXNLSGVxbXRuMERXUFB1Nndwb1k5N1FZa0Z2T1VEcHVXRUFELVc2QTNVSUFCam9JS1M1dG1WVTM4bEpGbkRBOUY4UC03ZDBkY1l2NzAyNjRzN0NlQUdKTHN3SVBEWXljRGdOWGdhQThtUXpYTU9Vel9CdG53MGEzejhQREZ2dDhZVkNRU3FBUnVTT0tuWHRWVVBydk1pU3FRMw?oc=5) | France 24 | 2026-08-19T06:43+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [UNICEF Democratic Republic of the Congo Humanitarian Situation Report No. 2 – Ebola Outbreak (Bundibugyo Virus), 31 July 2026](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPN2tsYXNMZWZpbXoySURma3ZMOFhrYmlSMHNVVGsyaW51MElvQVJXaE5sV2FJZFdhNzQ0X3g1RmotSWd0TUJCVHZ6Y21NSTdobEFESFN2aE5BNWtIOGllUjBQVVE3YlNPZlVneDFQdjQwaFlZX0VlRDhhdkdQNFpPN1ZYbFRaTnVpVnFnSDJaeC1WUTNKQWNGOVR4ZG9uYXhsYWxsY0RudTk3YURfdXF2TnNRcm1JWGxwLVY3YTZqMG1UNlpiWU9pN2l0b2hKclBVRi1nX05WYWZyV3Rod0htc3dLWVpveHhVMkNOMGtuWUNJN2xMeWZIZ0pwQQ?oc=5) | ReliefWeb | 2026-08-19T01:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
