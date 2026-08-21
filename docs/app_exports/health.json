@@ -1,5 +1,5 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -14,45 +14,27 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 309,
-    "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 331,
+    "metadata_only_count": 310,
+    "sources_cached": 5,
+    "sources_failed": 1,
+    "sources_live": 327,
     "story_count_change": 7,
     "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 331,
-    "refresh_cache": 0,
+    "live": 327,
+    "refresh_cache": 5,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-21T03:47:46",
+  "generated_at": "2026-08-21T03:56:36",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-08-13/2026-08-21",
-      "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-08-13/2026-08-21",
-      "required": true,
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
     }
   ]
 }
