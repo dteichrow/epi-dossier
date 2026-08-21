@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-21
-Generated at: 2026-08-21T02:54
+Generated at: 2026-08-21T02:58
 Search window: 7 day(s) ending 2026-08-21
 
 ## Executive scan
@@ -13,13 +13,13 @@ Search window: 7 day(s) ending 2026-08-21
 - [Diphtheria in Switzerland, 1877-2022: long-term epidemiology and the impact of mid-20th-century vaccination programs.](https://pubmed.ncbi.nlm.nih.gov/42623711/) (PubMed Historical Epidemiology; 2026-08-20T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Characterization and pathogenicity of single-farm-isolated PRRSV 1 and PRRSV 2 strain in China.](https://pubmed.ncbi.nlm.nih.gov/42622495/) (PubMed Infectious Disease Search; 2026-08-20T00:00; Major epidemiology studies; relevance 5/5)
 - Category mix: Outbreaks and emerging infections (301), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (4)
-- Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 128 item(s) across 84 source(s).
-- Baseline snapshot created with 128 clustered item(s) across 84 source(s).
+- Newly tracked story cluster: 128 item(s) across 85 source(s).
+- Baseline snapshot created with 128 clustered item(s) across 85 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - allAfrica.com now foregrounds vaccination or vaccine policy in the story.
 
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-08-21
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 128 item(s) across 84 source(s); 2 official/primary-source item(s).
+- Topic size: 128 item(s) across 85 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-14T17:36+02:00)
 - Detailed note: Since External Situation Report #12, an additional 579 confirmed cases and 304 confirmed deaths have been reported, bringing the cumulative total to 4,381 confirmed cases and 2,011 confirmed deaths as of 9 August 2026, corresponding to a case fatality ratio of 45.9%. Ituri remains the epicentre, accounting for 85.8% of cumulative cases and 80.6% of cumulative deaths.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [Ebola outbreak in Congo spreading exponentially as death toll surpasses 2,500, UN coordinator says](https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-outbreak-congo-spreading-exponentially-death-toll-surpasses-2500-un-2026-08-21/) (Reuters); [[JUST IN] DR Congo Ebola Outbreak ‘Growing Exponentially’— UN](https://www.channelstv.com/2026/08/21/just-in-dr-congo-ebola-outbreak-growing-exponentially-un/) (Channels Television); [Ebola outbreak: five big questions](https://www.theguardian.com/global-development/2026/aug/21/ebola-outbreak-five-big-questions) (The Guardian)
