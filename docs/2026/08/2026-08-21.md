@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-21
-Generated at: 2026-08-21T07:59
+Generated at: 2026-08-21T08:03
 Search window: 7 day(s) ending 2026-08-21
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-21
 - [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa; 2026-08-20T11:39+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News; 2026-08-20T13:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Diphtheria in Switzerland, 1877-2022: long-term epidemiology and the impact of mid-20th-century vaccination programs.](https://pubmed.ncbi.nlm.nih.gov/42623711/) (PubMed Historical Epidemiology; 2026-08-20T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (298), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (299), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -36,8 +36,8 @@ Search window: 7 day(s) ending 2026-08-21
 
 ### Dengue and arboviruses
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR)
-- Newly tracked story cluster: 16 item(s) across 16 source(s).
-- Baseline snapshot created with 16 clustered item(s) across 16 source(s).
+- Newly tracked story cluster: 15 item(s) across 15 source(s).
+- Baseline snapshot created with 15 clustered item(s) across 15 source(s).
 - Hindustan Times now foregrounds vaccination or vaccine policy in the story.
 
 ### COVID-19 and SARS-CoV-2
@@ -73,10 +73,10 @@ Search window: 7 day(s) ending 2026-08-21
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 16 item(s) across 16 source(s); 1 official/primary-source item(s).
+- Topic size: 15 item(s) across 15 source(s); 1 official/primary-source item(s).
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR, 2026-08-20T17:00+00:00)
 - Detailed note: This report describes dengue cases reported in Naoero during 2025.
-- Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR); [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters); [Southwest France steps up mosquito control after 20 chikungunya cases](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFlmUGw5QUp5dXF5b3BwaGM0RUNZNUJQWkxOblQ1bEhwcno2Z3M1a2kza2w4M3lsVEd5TFo4NGhjLWxZTWlYSjc4YmhMTWZOTFRxRTRVcC1JczJpTi1nMGNpVnNWQ1E5cEVXWWw1SGRYMHFRczczUFd1OGZhWHBuVTJQcmVXOVY5YnZrYkplWWFfSS0wU0Z3ZDU2T09HTTVocF9FVFViVlFCSWhzQk90QQ?oc=5) (RFI); [Sri Lanka reports downward trend in dengue](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-downward-trend) (Outbreak News Today); [India's first dengue vaccine is an important step, not a standalone solution | Hindustan Times](https://www.hindustantimes.com/ht-insight/public-health/indias-first-dengue-vaccine-is-an-important-step-not-a-standalone-solution-101787302973841.html) (Hindustan Times)
+- Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR); [Southwest France steps up mosquito control after 20 chikungunya cases](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFlmUGw5QUp5dXF5b3BwaGM0RUNZNUJQWkxOblQ1bEhwcno2Z3M1a2kza2w4M3lsVEd5TFo4NGhjLWxZTWlYSjc4YmhMTWZOTFRxRTRVcC1JczJpTi1nMGNpVnNWQ1E5cEVXWWw1SGRYMHFRczczUFd1OGZhWHBuVTJQcmVXOVY5YnZrYkplWWFfSS0wU0Z3ZDU2T09HTTVocF9FVFViVlFCSWhzQk90QQ?oc=5) (RFI); [Sri Lanka reports downward trend in dengue](https://outbreaknewstoday.substack.com/p/sri-lanka-reports-downward-trend) (Outbreak News Today); [India's first dengue vaccine is an important step, not a standalone solution | Hindustan Times](https://www.hindustantimes.com/ht-insight/public-health/indias-first-dengue-vaccine-is-an-important-step-not-a-standalone-solution-101787302973841.html) (Hindustan Times); [Nepal reports 2,844 dengue cases as infections spread nationwide](https://freepresskashmir.news/2026/08/20/nepal-reports-2844-dengue-cases-as-infections-spread-nationwide/) (Free Press Kashmir)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
