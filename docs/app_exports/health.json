@@ -13,12 +13,12 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 305,
+    "metadata_only_count": 306,
     "sources_cached": 0,
     "sources_failed": 4,
     "sources_live": 327,
     "story_count_change": 6,
-    "wrapper_only_count": 12
+    "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
@@ -27,7 +27,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-21T11:57:30",
+  "generated_at": "2026-08-21T12:03:33",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
@@ -36,19 +36,19 @@
       "source_type": "html_list"
     },
     {
-      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/medrxiv/2026-08-13/2026-08-21",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "required": true,
       "source": "medRxiv Infectious Disease",
       "source_type": "medrxiv"
     },
     {
-      "error": "503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-08-13/2026-08-21",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "required": true,
       "source": "bioRxiv Infectious Disease",
       "source_type": "biorxiv"
     },
     {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "required": true,
       "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
       "source_type": "biorxiv"

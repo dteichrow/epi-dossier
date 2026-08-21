@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-21
-Generated at: 2026-08-21T11:57
+Generated at: 2026-08-21T12:03
 Search window: 7 day(s) ending 2026-08-21
 
 ## Executive scan
@@ -18,21 +18,21 @@ Search window: 7 day(s) ending 2026-08-21
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 131 item(s) across 89 source(s).
-- Baseline snapshot created with 131 clustered item(s) across 89 source(s).
+- Newly tracked story cluster: 132 item(s) across 91 source(s).
+- Baseline snapshot created with 132 clustered item(s) across 91 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Bizcommunity now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 94 item(s) across 81 source(s).
-- Baseline snapshot created with 94 clustered item(s) across 81 source(s).
+- Newly tracked story cluster: 93 item(s) across 82 source(s).
+- Baseline snapshot created with 93 clustered item(s) across 82 source(s).
 - BBC now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 67 item(s) across 54 source(s).
-- Baseline snapshot created with 67 clustered item(s) across 54 source(s).
+- Newly tracked story cluster: 68 item(s) across 53 source(s).
+- Baseline snapshot created with 68 clustered item(s) across 53 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Dengue and arboviruses
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-08-21
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 131 item(s) across 89 source(s); 2 official/primary-source item(s).
+- Topic size: 132 item(s) across 91 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-21T17:36+02:00)
 - Detailed note: Since External Situation Report #12, an additional 579 confirmed cases and 304 confirmed deaths have been reported, bringing the cumulative total to 4,381 confirmed cases and 2,011 confirmed deaths as of 9 August 2026, corresponding to a case fatality ratio of 45.9%. Ituri remains the epicentre, accounting for 85.8% of cumulative cases and 80.6% of cumulative deaths.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [Here’s data that shows Congo’s Ebola outbreak is on track to surpass history’s largest](https://www.washingtonpost.com/world/2026/08/21/ebola-congo-bundibugyo/074ea2da-9d6a-11f1-9cc4-2dc9b46e2d5c_story.html) (The Washington Post); [Congo's Ebola Outbreak 'Growing Exponentially,' Warns UN Official](https://www.commondreams.org/news/congo-ebola-outbreak) (Common Dreams); [Deadliest Ebola outbreak in Congo gets 70k Merck vaccine boost](https://www.bizcommunity.com/article/deadliest-ebola-outbreak-in-congo-gets-70k-merck-vaccine-boost-742082a) (Bizcommunity)
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-08-21
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 94 item(s) across 81 source(s); 1 official/primary-source item(s).
+- Topic size: 93 item(s) across 82 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-21T18:49+00:00)
 - Detailed note: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Measles outbreak in Worcestershire exposes hospital vaccine gaps](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRaEluY184UXA3cS1rZmpkdkFDbS1jdzVubU9pMkJ0Mko1TVdtMkxnbUY1Nk94SEtMMjFzWDRwVFhYeGQ5eHRMTGV0cG16SS1QVGNCbnNwZ01DZw?oc=5) (BBC); [Each measles case in 2025 US outbreak cost almost $60,000, study estimates, or $134 million total](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXFCQUJ3aVdNT2duSkJxeUlDVG9JVVJFNW0wd2FaRnZDa1NER0MwQ0J3UDFiMXZHR0VsTmstc0pGdDdJeUVvdWFCblZCU2dsZm5PQmNNc0xzbGtNSUJnT29QTWpuTkFPejN0RHJ4Y1lwc3lwcVljLTA5aF92T0tSUUJxRTFrY213Y2NQeU1fNmluLUNsdXZzS0tuSWR6ZjAzX1VMcjlkNVA3b01HXzN4R3dKSGdna01xRU9QVTJITjNmZw?oc=5) (CIDRAP); [Increased number of measles cases in Winelands Districts](https://news.google.com/rss/articles/CBMinwFBVV95cUxQekp5dHV6QWYtN3JJR1U0d3lUNnVaTlByb1ZhUnY2RTMtRmhxcy1vTkVEQmY2UmItZUZxV1lUTEtyWmRXU19KczJ6TERUVXVXSzBtdGdKVTNpQ1ZKMW95ekQxcnJjTDZGUjFpMXJYM2JWb0J5M2luLWdfcVo0d0Nta2NoQm02dTNFWERyNGZjVnR1UmJnM1p4Q2xadjlCR28?oc=5) (novanews.co.za); [Measles case confirmed in Orange County; exposure warnings issued at multiple restaurants, public spaces](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDRyaTdQZFY1WkFNQnNSbEEwdTFaSWw3a2p0a3VQR0pqdklUY28tcjN4a2N2dE9BN3pmOGhfTi1KOFFjd2RJR2NnT20wTXpKd0lZRjJ4d0lva0J2dEwzT1RzNFBNVjdlYnR6WWdKQl90SW05c1ZtcU1UQkhxNmJuN1JKR2JfVUE1ZGhxcVE5OU4zdnc?oc=5) (CBS News)
@@ -66,7 +66,7 @@ Search window: 7 day(s) ending 2026-08-21
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 67 item(s) across 54 source(s); 1 official/primary-source item(s).
+- Topic size: 68 item(s) across 53 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-21T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Record cyclosporiasis outbreak tests the response of a 'weakened' health system](https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ?oc=5) (NPR); [Michigan cyclosporiasis outbreak slowing, but cases still being reported](https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2MtenkxV0VUWjlxNktHdmhpSXhnd1RiX3Z4c0VyQjNJYXBDOVc0anBNcVJRdVg5X1VoOVo2X0ZBN3ZKUTR3Y2JWbHZaZmQyMzdCWlZmOFpCMGlfd3hYT3Q5TExzYlhLdlI1SVB1bHA3RFhHZDVXcUtiYXpWY0h0QmxJdnF1YXRYc2JKVkp1ZE5KUQ?oc=5) (CBS News); [Cyclosporiasis cases in US climb to 15,716, CDC says](https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1QzZW9oU1ZSZDUyTUlSUFZDYTBlLUZDZURwMlVmWTFuNUFvMXVnZXFrTXNZejJpN3I1S3FxSkNwLW5fSzY1OFJ3OS1xWi0wdzY3OVdYQ21ZM0FxQk9LeUNsMW1OYlhVOGVCR3cxeUZlUkh6N1d5aVJNamVmUmdtXzhJQ3hJUnJMZUNpN2J1dzl5cDZpNTVFS0xtOHIxUTJyVTdwc0tiNk5heWV5N0otN0N6WGxBbmc?oc=5) (Reuters); [2 more states added to cyclospora outbreak linked to lettuce](https://news.google.com/rss/articles/CBMifEFVX3lxTFBoWUs0Y2RsLTEteDE2Q2VUMG1oNkdYOF9ENEJwVWRmMndqR25maFBrbXpTc2kxeGo4TURlWDYzbFhpelFXYVNCdlJMbXpva2t0dXZtTlFiOHJCdnkycEdmdlV1SFNYQlB0WG5VYm1IOV9VcXdWYjRTcUV0SFPSAYIBQVVfeXFMTVR3U3B5X1BzRGJMaVFSclpwa0VMNUtfaW1fNmVFeGFmZ05nQmhfdHEwS21odkNlRlhZeWtSN3JzSTVQV2JoSVpwS1RPSkdPWk9ZTlZrVjBYbFkzbGRVeVBvU2dtRl9HQkQ2elpLZjktVzNtNFpVbjE0MXRyMzIySFlHdw?oc=5) (NewsNation)
@@ -461,6 +461,8 @@ Search window: 7 day(s) ending 2026-08-21
   Limited detail was available from feed metadata alone.
 - [Ebola spreading exponentially in Congo as death toll tops 2,500, UN says](https://www.internazionale.it/ultime-notizie-reuters/2026/08/21/ebola-spreading-exponentially-in-congo-as-death-toll-tops-2-500-un-says) | Internazionale | 2026-08-21T12:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [2,500 dead and rising - UN says DR Congo Ebola outbreak 'growing exponentially' - Africa - World](https://english.ahram.org.eg/NewsContent/2/10/575018/World/Africa/,-dead-and-rising--UN-says-DR-Congo-Ebola-outbreak.aspx) | Ahram Online | 2026-08-21T12:05+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Video. DR Congo Ebola outbreak 'growing exponentially,' UN warns](https://www.euronews.com/video/2026/08/21/ebola-outbreak-in-democratic-republic-of-the-congo-growing-exponentially-un-warns) | Euronews.com | 2026-08-21T11:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo spreading exponentially as death toll surpasses 2,500, UN coordinator says](https://whbl.com/2026/08/21/ebola-outbreak-in-congo-spreading-exponentially-as-death-toll-surpasses-2500-un-coordinator-says/) | whbl.com | 2026-08-21T10:13+00:00 | Outbreaks and emerging infections
@@ -471,11 +473,9 @@ Search window: 7 day(s) ending 2026-08-21
   Limited detail was available from feed metadata alone.
 - [As Congo’s Ebola outbreak worsens, Ottawa faces criticism for stepping back](https://www.theglobeandmail.com/world/article-as-congos-ebola-outbreak-worsens-ottawa-faces-calls-for-more-help/) | The Globe and Mail | 2026-08-21T09:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak in Congo Kills 2,478, Deadliest in History](https://srpske.rs/en/news/svet/2026/08/21/ebola-outbreak-congo-deadliest-in-history) | srpske.rs | 2026-08-21T08:23+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak in Congo Kills 2,478, Deadliest in History](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTdVc2p4eHU3SmVGc01LTUFFSEVqRUhCVi1rZUZxeUxsZVo4SnJXcThheVd4WDdvR0prSm1oY2JGRW9mTk4yTmlnZWhCR2hUck9tQ29BYk5WWXQxOE40cUZtRnlIZFAyWUVyaG1oQ3ZqRkpGSWVMdW9EOUJ6VzNvbWttbkNRMV9CUnVJ?oc=5) | srpske.rs | 2026-08-21T08:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Gets 70,000 Ebola Vaccines as Outbreak Death Toll Rises](https://news.google.com/rss/articles/CBMia0FVX3lxTFA5b0F0czlhQlZEWTdlZFdsaVZVSnhpUmZ0UzNrYzhIanFfUjhyT3E2VEdRSllLb3lxeHM4UzhfTEZKdkVhM3E4Vkl1ck95SXJtQXY4UlhBZDNBcHdUcWIycFd4QjRINjFLUFJN?oc=5) | allAfrica.com | 2026-08-21T08:13+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo receives 70,000 Ebola vaccine doses as Bundibugyo outbreak spreads](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVRjQzBRYlpTV2NiRWhxZG5wSXJYRGluNF81ME1BWWxlanFRLU80LUJBTTBBTHZsM2M3aXJBQmF1aHd2QU1KS25DeHVoY09VTEFoM1FjT3FBRkJNTm03VUxKczBLSjlEcGhfaXZtQy1vSDh6cGxrTFN0ekxXWldGdXcwY21ZLXNlZTA4TEtZaTc0eUtvUWdGNDF6YzZXdktnRFpBVUxMRGtuLW9VTVAzNnhB?oc=5) | The European Sting | 2026-08-21T06:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
