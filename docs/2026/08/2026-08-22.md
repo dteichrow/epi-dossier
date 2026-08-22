@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-22
-Generated at: 2026-08-22T11:49
+Generated at: 2026-08-22T11:54
 Search window: 7 day(s) ending 2026-08-22
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-08-22
 - [Monkeypox Virus Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766283) (CDC MMWR; 2026-08-20T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa; 2026-08-20T11:39+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News; 2026-08-20T13:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (302), Policy, surveillance, and public health infrastructure (17), Occupational and environmental epidemiology (2)
+- Category mix: Outbreaks and emerging infections (301), Policy, surveillance, and public health infrastructure (17), Occupational and environmental epidemiology (2)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -33,14 +33,14 @@ Search window: 7 day(s) ending 2026-08-22
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 100 item(s) across 88 source(s).
-- Baseline snapshot created with 100 clustered item(s) across 88 source(s).
+- Newly tracked story cluster: 100 item(s) across 87 source(s).
+- Baseline snapshot created with 100 clustered item(s) across 87 source(s).
 - BBC now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 61 item(s) across 46 source(s).
-- Baseline snapshot created with 61 clustered item(s) across 46 source(s).
+- Newly tracked story cluster: 60 item(s) across 44 source(s).
+- Baseline snapshot created with 60 clustered item(s) across 44 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Dengue and arboviruses
@@ -60,7 +60,7 @@ Search window: 7 day(s) ending 2026-08-22
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 100 item(s) across 88 source(s); 1 official/primary-source item(s).
+- Topic size: 100 item(s) across 87 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-22T18:39+00:00)
 - Detailed note: Anyone potentially exposed should watch for fever or an unexplained rash for 7 to 21 days after exposure, and those who remain symptom-free after 21 days are no longer considered at risk, health officials said. to midnight, Fire and Ice restaurant in Anaheim from 5 to 8 p.m., and The Escape Game Orange from 8 to 11 p.m. Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [CDC adds 211 new cases to accelerating US measles outbreak](https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdGazR5bFV2M1ZncEN5ZlZ3V2ZsaVpVYTNVYVE4MkQwS3hsMTRLQnYwT0xEQUJ3Sm5rUmRIVlN4VFhuZXZmdnFnVDFnYUZlOWxOcUV4QVhzM05Nd2RZVkpvSDE4UHFMMml3Nmd5NEZTd3BoRzFtLW9FRUxkaEJCdC1JQTNzc0o2YXZJZ1FaSkJ5ek9D?oc=5) (CIDRAP); [Measles outbreak exposes hospital vaccination gaps](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRaEluY184UXA3cS1rZmpkdkFDbS1jdzVubU9pMkJ0Mko1TVdtMkxnbUY1Nk94SEtMMjFzWDRwVFhYeGQ5eHRMTGV0cG16SS1QVGNCbnNwZ01DZw?oc=5) (BBC); [Orange County Measles Case Triggers Exposure Warnings](https://hoodline.com/2026/08/orange-county-measles-case-sparks-exposure-alerts-at-anaheim-fountain-valley-sites/) (Hoodline); [Each measles case in 2025 US outbreak cost almost $60,000, study estimates, or $134 million total](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXFCQUJ3aVdNT2duSkJxeUlDVG9JVVJFNW0wd2FaRnZDa1NER0MwQ0J3UDFiMXZHR0VsTmstc0pGdDdJeUVvdWFCblZCU2dsZm5PQmNNc0xzbGtNSUJnT29QTWpuTkFPejN0RHJ4Y1lwc3lwcVljLTA5aF92T0tSUUJxRTFrY213Y2NQeU1fNmluLUNsdXZzS0tuSWR6ZjAzX1VMcjlkNVA3b01HXzN4R3dKSGdna01xRU9QVTJITjNmZw?oc=5) (CIDRAP)
@@ -68,7 +68,7 @@ Search window: 7 day(s) ending 2026-08-22
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 61 item(s) across 46 source(s); 1 official/primary-source item(s).
+- Topic size: 60 item(s) across 44 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-21T00:00)
 - Detailed note: New data suggest cyclosporiasis cases are slowing Scientific American The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/michigan-health-officials-people-resume-regular-lettuce-eating/story?id\=135432137) (ABC News - Breaking News, Latest News and Videos); [Is lettuce safe to eat yet? New data suggest cyclosporiasis cases are slowing](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTAyTWtjcnZXcGlaV2hCcUY1QllueGg2YXRhdWNiNDRaUmIyV0pqRllrMTRuYzNhMVczZDNvTG8wS3VxaE5GU3ZVNHRCOE96R042TGdSOUNpWV9WRjM2TkFXZDAwZjdVTGpOSGxOb09Kb1FYRUZlVlBoYkh4ZWxRRWsySjQ5Rm9uX1d3SWZWMmpjRGpEVmNXSEIta1lpSzdhSEM1amhVNndmSEt5M0o0Y3RjSUJ2STBPSFNEMk5n?oc=5) (Scientific American); [Michigan reports about 3% weekly rise in cyclosporiasis cases as outbreak begins to slow](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpDa3lkZ00zSmF6MjdkRU1ERFZiS1psN2VKdk83LW1HVlZGZlVMWnJHTUhWbHE4X3dLU2dpZHhyVnpxY19CQnBBeEg3R2t3cTU0WWhYNUFuYk1IZVA3MktKTW5YcE5aVkZKWjRiQ09XRTJaRWFINGZMMVItanFTYTZvZlBKSENYRTJlSk1tN0hPcEVKMGVHR0x6elVPVTRrVWxYbVBRNFhHY2g5UGtDQzR6VVFpZWdmMFhQWDlMWmFfc2lNdTVZSkFPTTZqNXp3bjM4bFhvaTdKSm8?oc=5) (Reuters); [Record cyclosporiasis outbreak tests the response of a 'weakened' health system](https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ?oc=5) (NPR)
@@ -78,8 +78,8 @@ Search window: 7 day(s) ending 2026-08-22
 ### Dengue and arboviruses
 - Topic size: 13 item(s) across 13 source(s); 1 official/primary-source item(s).
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR, 2026-08-20T17:00+00:00)
-- Detailed note: This report describes dengue cases reported in Naoero during 2025.
-- Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR); [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters); [BMC death data throws up major mismatch in malaria, dengue figures](https://news.google.com/rss/articles/CBMinAFBVV95cUxNWG5FNjNOa3YxUFhWWDczcVg3Y2lESG5RQk4yTWtDUWVxcXBKWWgtMW4tVzFZbnlkcUJkZXQ2cE5hR1hZY0VGSEZpUmZMUXppTEp1Z25mSUxaT0o3WjFiZ0c3MW9xSU9nejVNOExkZzh5NWNjRkFCQUlJMUppZTlNTnY4Tll4aWdCTlRyNS1PWFIwUTBvRHotbDBVRW7SAaMBQVVfeXFMTTBHWWZZejlqb0o0RExGWFhTUnRNX0hBWDNjQkRIZDhIcTZ5SFJrVm0zSkh6YTlxdEV6dWkwSXNiRlZzNHFsMFpYNnNXOHpieHNrMGJwN1BJOGVGcWpuM2o4YVBTQVRzb0V0dS0xQ3dybE9la3FGS0ozTEs4LWU0dHowSnV3VDBYQUE5N09pQ2VpOUphWTJ1MUtJcXMtb0FCeVBxRQ?oc=5) (The Indian Express); [Nepal reports 2,844 dengue cases as infections spread nationwide](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1lxUDZoVHNfME5rd0pSTHk0Y3Y4dFRfcXZBdDRqSGlxdktlR2RZZVdEVmZGRUEyRGFDckJyRDlCN2J4d1RqVjd2SlJHLXJ3aFBEYnJHNGtSWE83RHZnT2UtQ3NSSV9XUHpwaWRpSkVISXFwWHRDbW4zbkFfOXlVeEhEM0lWVXhtdHl4Q3dSSHZnU3ZXcEpmTXhEd1M0VnNFZTh5TGw1SDDSAa4BQVVfeXFMT1lhVGJJb1ZmT1RaVkZYTF9RejNTWUpoSWNiVDAtWHN0VlVSZW5KOXVyc1paLTdNWk9xYjdMbGRWa041RTQ4cGNkUUpERWpEdG9IaGFuSE83ZWtlOUp0b05tam45a1ByMm5IZTl4S1ExR01iWkJTLXpBOHQtMDcyZ19qaXNBTHZycE44NFRNdk5NMXBBS0dURENCR0oxSk55VndvcHJZeTVhR0FPcTFB?oc=5) (Free Press Kashmir); [Severe Dengue Outbreak in South Asia: Death Toll in Bangladesh Reaches 76](https://news.google.com/rss/articles/CBMibkFVX3lxTE1GT2RWZnBfdUhUZnZ2YU4wMVlmLWFVWlBKaG1vQ3Z4ckVVVjVJWlpobzRFaFprQU1JcG5nZlUxcVY0MEUwbGlpWXJVYU9nU3A4MG11dS1iSzV6S2ItMVpUYkZvUDZrc0ZSeXJvOERR?oc=5) (news.cgtn.com)
+- Detailed note: Weekly / August 20, 2026 / 75(32);413â415 Liliana Sánchez-González, MD 1 ; Dezheen Zebari, DO 2 ; Marquita Detenamo 3 ; Susana Nakalevu, MD 2 ; Christal Teabuge 3 ; Iivan Aingimea 3 ; Viachaslau Markau, MD 2 ; Andrew Samuel, MD 2 ; Gilberto A. In 2025, a total of 1,402 suspected dengue cases (477 of which were confirmed), were reported in Naoero; young children were disproportionately affected, including two...
+- Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR); [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters); [Dengue cases surge across Nashik district](https://timesofindia.indiatimes.com/city/nashik/dengue-cases-surge-across-nashik-district/articleshow/133428896.cms) (The Times of India); [BMC death data throws up major mismatch in malaria, dengue figures](https://news.google.com/rss/articles/CBMinAFBVV95cUxNWG5FNjNOa3YxUFhWWDczcVg3Y2lESG5RQk4yTWtDUWVxcXBKWWgtMW4tVzFZbnlkcUJkZXQ2cE5hR1hZY0VGSEZpUmZMUXppTEp1Z25mSUxaT0o3WjFiZ0c3MW9xSU9nejVNOExkZzh5NWNjRkFCQUlJMUppZTlNTnY4Tll4aWdCTlRyNS1PWFIwUTBvRHotbDBVRW7SAaMBQVVfeXFMTTBHWWZZejlqb0o0RExGWFhTUnRNX0hBWDNjQkRIZDhIcTZ5SFJrVm0zSkh6YTlxdEV6dWkwSXNiRlZzNHFsMFpYNnNXOHpieHNrMGJwN1BJOGVGcWpuM2o4YVBTQVRzb0V0dS0xQ3dybE9la3FGS0ozTEs4LWU0dHowSnV3VDBYQUE5N09pQ2VpOUphWTJ1MUtJcXMtb0FCeVBxRQ?oc=5) (The Indian Express); [Nepal reports 2,844 dengue cases as infections spread nationwide](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1lxUDZoVHNfME5rd0pSTHk0Y3Y4dFRfcXZBdDRqSGlxdktlR2RZZVdEVmZGRUEyRGFDckJyRDlCN2J4d1RqVjd2SlJHLXJ3aFBEYnJHNGtSWE83RHZnT2UtQ3NSSV9XUHpwaWRpSkVISXFwWHRDbW4zbkFfOXlVeEhEM0lWVXhtdHl4Q3dSSHZnU3ZXcEpmTXhEd1M0VnNFZTh5TGw1SDDSAa4BQVVfeXFMT1lhVGJJb1ZmT1RaVkZYTF9RejNTWUpoSWNiVDAtWHN0VlVSZW5KOXVyc1paLTdNWk9xYjdMbGRWa041RTQ4cGNkUUpERWpEdG9IaGFuSE83ZWtlOUp0b05tam45a1ByMm5IZTl4S1ExR01iWkJTLXpBOHQtMDcyZ19qaXNBTHZycE44NFRNdk5NMXBBS0dURENCR0oxSk55VndvcHJZeTVhR0FPcTFB?oc=5) (Free Press Kashmir)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -382,7 +382,7 @@ Search window: 7 day(s) ending 2026-08-22
 - Date: 2026-08-20T17:00+00:00
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284
 - Category: Occupational and environmental epidemiology
-- Summary: This report describes dengue cases reported in Naoero during 2025.
+- Summary: Weekly / August 20, 2026 / 75(32);413â415 Liliana Sánchez-González, MD 1 ; Dezheen Zebari, DO 2 ; Marquita Detenamo 3 ; Susana Nakalevu, MD 2 ; Christal Teabuge 3 ; Iivan Aingimea 3 ; Viachaslau Markau, MD 2 ; Andrew Samuel, MD 2 ; Gilberto A. In 2025, a total of 1,402 suspected dengue cases (477 of which were confirmed), were reported in Naoero; young children were disproportionately affected, including two pediatric deaths. Adams, DVM 1 ; Gabriela Paz-Bailey, MD 1 ; Angelique Makutu, MD 2 ( View author affiliations ) Eleven Pacific Island countries, including Naoero (population approximately 11,000), reported dengue outbreaks in 2025.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
