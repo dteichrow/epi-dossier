@@ -13,21 +13,21 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 286,
+    "metadata_only_count": 295,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 306,
+    "sources_live": 317,
     "story_count_change": 6,
-    "wrapper_only_count": 9
+    "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 306,
+    "live": 317,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-23T06:02:58",
+  "generated_at": "2026-08-23T06:09:34",
   "source_failures": [
     {
       "error": "504 Server Error: Gateway Time-out for url: https://www.afro.who.int/rss.xml",
