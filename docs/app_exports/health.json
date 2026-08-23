@@ -13,27 +13,33 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 274,
+    "metadata_only_count": 295,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 298,
-    "story_count_change": 6,
-    "wrapper_only_count": 9
+    "sources_failed": 2,
+    "sources_live": 319,
+    "story_count_change": 7,
+    "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 298,
+    "live": 319,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-23T09:17:52",
+  "generated_at": "2026-08-23T09:42:06",
   "source_failures": [
     {
-      "error": "504 Server Error: Gateway Time-out for url: https://www.afro.who.int/rss.xml",
+      "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
+      "required": false,
+      "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
       "required": true,
-      "source": "WHO Regional Office for Africa",
-      "source_type": "rss"
+      "source": "California Department of Public Health News",
+      "source_type": "html_list"
     }
   ]
 }
