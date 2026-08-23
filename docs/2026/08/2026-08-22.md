@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-22
-Generated at: 2026-08-22T22:04
+Generated at: 2026-08-22T22:08
 Search window: 7 day(s) ending 2026-08-22
 
 ## Executive scan
@@ -9,17 +9,17 @@ Search window: 7 day(s) ending 2026-08-22
 - [Genomic insights into pre-antibiotic osteomyelitis pathogens and their link to current resistant hospital strains.](https://pubmed.ncbi.nlm.nih.gov/42632420/) (PubMed Ancient Pathogen Genomics; 2026-08-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-21T00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR; 2026-08-20T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Monkeypox Virus Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766283) (CDC MMWR; 2026-08-20T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa; 2026-08-20T11:39+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (294), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (3)
+- [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News; 2026-08-20T13:39+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [Diphtheria in Switzerland, 1877-2022: long-term epidemiology and the impact of mid-20th-century vaccination programs.](https://pubmed.ncbi.nlm.nih.gov/42623711/) (PubMed Historical Epidemiology; 2026-08-20T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (286), Policy, surveillance, and public health infrastructure (17), Historical epidemiology / ancient disease / paleopathology (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 136 item(s) across 97 source(s).
-- Baseline snapshot created with 136 clustered item(s) across 97 source(s).
+- Newly tracked story cluster: 137 item(s) across 98 source(s).
+- Baseline snapshot created with 137 clustered item(s) across 98 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - The Globe and Mail now includes quarantine language.
 - facebook.com now foregrounds vaccination or vaccine policy in the story.
@@ -43,16 +43,16 @@ Search window: 7 day(s) ending 2026-08-22
 - Baseline snapshot created with 61 clustered item(s) across 45 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
-### Dengue and arboviruses
-- Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR)
-- Newly tracked story cluster: 13 item(s) across 13 source(s).
-- Baseline snapshot created with 13 clustered item(s) across 13 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+### Hantavirus and cruise-ship outbreak
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
+- Newly tracked story cluster: 4 item(s) across 2 source(s).
+- Baseline snapshot created with 4 clustered item(s) across 2 source(s).
+- Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 136 item(s) across 97 source(s); 2 official/primary-source item(s).
+- Topic size: 137 item(s) across 98 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-21T17:36+02:00)
 - Detailed note: Since External Situation Report #12, an additional 579 confirmed cases and 304 confirmed deaths have been reported, bringing the cumulative total to 4,381 confirmed cases and 2,011 confirmed deaths as of 9 August 2026, corresponding to a case fatality ratio of 45.9%. Ituri remains the epicentre, accounting for 85.8% of cumulative cases and 80.6% of cumulative deaths.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [DR Congo Receives First Ervebo Shipment as Ebola Outbreak May Triple](https://mezha.net/eng/bukvy/56440ccd_dr_congo_receives/) (Межа. Новини України.); [DR Congo Ebola cases top 5,300 as UN warns outbreak "growing exponentially"](https://news.az/news/dr-congo-ebola-cases-top-5-300-as-un-warns-outbreak-growing-exponentially) (Latest news from Azerbaijan); [Ebola quarantine hinders response amid fastest-growing outbreak, aid workers say](https://www.theglobeandmail.com/canada/article-ebola-quarantine-hinders-response-amid-fastest-growing-outbreak-aid/) (The Globe and Mail)
@@ -75,14 +75,6 @@ Search window: 7 day(s) ending 2026-08-22
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Dengue and arboviruses
-- Topic size: 13 item(s) across 13 source(s); 1 official/primary-source item(s).
-- Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR, 2026-08-20T17:00+00:00)
-- Detailed note: Weekly / August 20, 2026 / 75(32);413â415 Liliana Sánchez-González, MD 1 ; Dezheen Zebari, DO 2 ; Marquita Detenamo 3 ; Susana Nakalevu, MD 2 ; Christal Teabuge 3 ; Iivan Aingimea 3 ; Viachaslau Markau, MD 2 ; Andrew Samuel, MD 2 ; Gilberto A. In 2025, a total of 1,402 suspected dengue cases (477 of which were confirmed), were reported in Naoero; young children were disproportionately affected, including two...
-- Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR); [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters); [Poonam Dhillon Health Update: Veteran Actress Hospitalised in Mumbai, Diagnosed With Dengue](https://www.latestly.com/entertainment/bollywood/poonam-dhillon-health-update-veteran-actress-hospitalised-in-mumbai-diagnosed-with-dengue-7571221.html/amp) (LatestLY); [BMC death data throws up major mismatch in malaria, dengue figures](https://news.google.com/rss/articles/CBMinAFBVV95cUxNWG5FNjNOa3YxUFhWWDczcVg3Y2lESG5RQk4yTWtDUWVxcXBKWWgtMW4tVzFZbnlkcUJkZXQ2cE5hR1hZY0VGSEZpUmZMUXppTEp1Z25mSUxaT0o3WjFiZ0c3MW9xSU9nejVNOExkZzh5NWNjRkFCQUlJMUppZTlNTnY4Tll4aWdCTlRyNS1PWFIwUTBvRHotbDBVRW7SAaMBQVVfeXFMTTBHWWZZejlqb0o0RExGWFhTUnRNX0hBWDNjQkRIZDhIcTZ5SFJrVm0zSkh6YTlxdEV6dWkwSXNiRlZzNHFsMFpYNnNXOHpieHNrMGJwN1BJOGVGcWpuM2o4YVBTQVRzb0V0dS0xQ3dybE9la3FGS0ozTEs4LWU0dHowSnV3VDBYQUE5N09pQ2VpOUphWTJ1MUtJcXMtb0FCeVBxRQ?oc=5) (The Indian Express); [Nepal reports 2,844 dengue cases as infections spread nationwide](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1lxUDZoVHNfME5rd0pSTHk0Y3Y4dFRfcXZBdDRqSGlxdktlR2RZZVdEVmZGRUEyRGFDckJyRDlCN2J4d1RqVjd2SlJHLXJ3aFBEYnJHNGtSWE83RHZnT2UtQ3NSSV9XUHpwaWRpSkVISXFwWHRDbW4zbkFfOXlVeEhEM0lWVXhtdHl4Q3dSSHZnU3ZXcEpmTXhEd1M0VnNFZTh5TGw1SDDSAa4BQVVfeXFMT1lhVGJJb1ZmT1RaVkZYTF9RejNTWUpoSWNiVDAtWHN0VlVSZW5KOXVyc1paLTdNWk9xYjdMbGRWa041RTQ4cGNkUUpERWpEdG9IaGFuSE83ZWtlOUp0b05tam45a1ByMm5IZTl4S1ExR01iWkJTLXpBOHQtMDcyZ19qaXNBTHZycE44NFRNdk5NMXBBS0dURENCR0oxSk55VndvcHJZeTVhR0FPcTFB?oc=5) (Free Press Kashmir)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 4 item(s) across 2 source(s); 4 official/primary-source item(s).
 - Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-23T05:03+00:00)
@@ -98,6 +90,14 @@ Search window: 7 day(s) ending 2026-08-22
 - Evidence notes: [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) (WHO Regional Office for Africa); [Five African countries mark end of polio outbreak: WHO](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEtNUGg4dG9PbWdXdXNUTGptMHZaQzJ2dE5LNDRhY2NOOGJXMTV6Y0VHTnNFNWZKakVWTkdKNXBDbU80cWZHdXVOc0swYjNIMjYtSXliVEpSV0MwWlZuS25uYlRMNkpNZDhlZENGbTE2U0lzYmVqRWxuWHIxTERKZ09JaUtNOFV4MEx3WldDNG5VQXduVUHSAaMBQVVfeXFMUENpYVhINVFrREpxQ3ZLazh0N2JUT0JlV3NENTM0Vk8xNDJfblRaQlBEdkJuUnowUDlHa3FPdjVLbGdmTVhEV2w3YUhrZmtyZ0w2OEhXU1F0NlY2cEp4cHM3V043OGVxcXVlZ0VnVXd3eVo3Q3pnTm5YSEhZdEFzM2tlVnZnNzQ4LXlubVhmVkRKV2JraG95R2tpWlcxVjFJb0tBWQ?oc=5) (Down To Earth); [Bangor wastewater tests positive for measles](https://www.newscentermaine.com/video/news/measles-water-6pm/97-292f0b59-e4a6-410b-8ef5-9ee99369382a) (newscentermaine.com); [Five African countries end polio outbreaks - WHO | Regional Office for Africa](https://news.google.com/rss/articles/CBMifEFVX3lxTE53bU82MTFFaTktdGFoY1luUFowMF8wdTZnV0ZJQUJLbFlNVGZVc0FJbkxNUTBySGhDRnFMdVcwYWlsM2JIZk5lTWI4a2pMaGUyUFF1T2c0VDQxbTRxNV9Cekl1NDZJU2JQd1hiMXp1bW40cmlPUFNJYlQ1Rk4?oc=5) (WHO)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters, 2026-08-21T03:01+00:00)
+- Detailed note: Cluster remains active across 3 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters); [Dengue cases surge across Nashik district](https://timesofindia.indiatimes.com/city/nashik/dengue-cases-surge-across-nashik-district/articleshow/133428896.cms) (The Times of India); [Poonam Dhillon Health Update: Veteran Actress Hospitalised in Mumbai, Diagnosed With Dengue](https://www.latestly.com/entertainment/bollywood/poonam-dhillon-health-update-veteran-actress-hospitalised-in-mumbai-diagnosed-with-dengue-7571221.html/amp) (LatestLY)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -387,26 +387,6 @@ Search window: 7 day(s) ending 2026-08-22
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Notes from the Field: Dengue Outbreak
-- Source: CDC MMWR
-- Date: 2026-08-20T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284
-- Category: Occupational and environmental epidemiology
-- Summary: Weekly / August 20, 2026 / 75(32);413â415 Liliana Sánchez-González, MD 1 ; Dezheen Zebari, DO 2 ; Marquita Detenamo 3 ; Susana Nakalevu, MD 2 ; Christal Teabuge 3 ; Iivan Aingimea 3 ; Viachaslau Markau, MD 2 ; Andrew Samuel, MD 2 ; Gilberto A. In 2025, a total of 1,402 suspected dengue cases (477 of which were confirmed), were reported in Naoero; young children were disproportionately affected, including two pediatric deaths. Adams, DVM 1 ; Gabriela Paz-Bailey, MD 1 ; Angelique Makutu, MD 2 ( View author affiliations ) Eleven Pacific Island countries, including Naoero (population approximately 11,000), reported dengue outbreaks in 2025.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Monkeypox Virus Surveillance
-- Source: CDC MMWR
-- Date: 2026-08-20T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766283
-- Category: Occupational and environmental epidemiology
-- Summary: Weekly / August 20, 2026 / 75(32);406â412 Ryan Sandford, MPH 1 ,2 ; Alexandra Tuttle, MPH 1 ; Leah Aeschleman, MPH 1 ,2 ; Crystal M. Unvaccinated patients accounted for 76.1% of cases and had 9.7 times the odds of hospitalization, as did those who completed the 2-dose JYNNEOS vaccination series. The number of reported cases of MPXV infection during September–October 2025 was double that during the same period in 2024, although cases returned to background levels by December 2025.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Electronic Surveillance monthlly bulletin (July 2026).
 - Source: WHO Regional Office for Africa
 - Date: 2026-08-20T11:39+00:00
@@ -437,12 +417,28 @@ Search window: 7 day(s) ending 2026-08-22
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Tuberculosis prevention in low- and middle-income settings in the Asia-Pacific region, a qualitative scoping review.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-08-20T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42622242/
+- Category: Major epidemiology studies
+- Summary: Tuberculosis (TB) is a leading cause of death globally, with most new TB cases notified in the Asia-Pacific region. Of 1745 articles identified, 40 were included in this review. A scoping review was conducted using the Arksey and O'Malley framework and includes qualitative studies published in the Asia-Pacific region between 2015 and 2025.
+- Why it matters: Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### The 1820 Mallorca plague was not a classic bubonic outbreak.
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-08-17T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42607223/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: Using a previously unexamined primary source consisting of daily counts of deaths, we combine historical analysis with a Bayesian epidemiological model to estimate the basic reproduction number ([Formula: see text]), the mean infectious period, and the case-fatality ratio in the towns of Son Servera and Capdepera (Mallorca, Spain). Our results show stark contrasts between the two towns: Son Servera exhibited a higher transmission potential ([Formula: see text]) and longer infectious period ([Formula: see text]2.8 d) than Capdepera ([Formula: see text]; [Formula: see text]2.0 d). The overall case-fatality rate of 78%-together with short infectious periods and historical descriptions of rapid clinical decline-strongly suggests that pneumonic and septicemic forms contributed substantially to transmission, challenging earlier interpretations centered on bubonic plague and rodent-borne spread.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [Tuberculosis prevention in low- and middle-income settings in the Asia-Pacific region, a qualitative scoping review.](https://pubmed.ncbi.nlm.nih.gov/42622242/) | PubMed Infectious Disease Search | 2026-08-20T00:00 | Major epidemiology studies
-  Tuberculosis (TB) is a leading cause of death globally, with most new TB cases notified in the Asia-Pacific region. Of 1745 articles identified, 40 were included in this review. A scoping review was conducted using the Arksey and O'Malley framework and includes qualitative studies published in the Asia-Pacific region between 2015 and 2025.
-- [The 1820 Mallorca plague was not a classic bubonic outbreak.](https://pubmed.ncbi.nlm.nih.gov/42607223/) | PubMed Historical Pathogen Case Studies | 2026-08-17T00:00 | Historical epidemiology / ancient disease / paleopathology
-  Using a previously unexamined primary source consisting of daily counts of deaths, we combine historical analysis with a Bayesian epidemiological model to estimate the basic reproduction number ([Formula: see text]), the mean infectious period, and the case-fatality ratio in the towns of Son Servera and Capdepera (Mallorca, Spain). Our results show stark contrasts between the two towns: Son Servera exhibited a higher transmission potential ([Formula: see text]) and longer infectious period ([Formula: see text]2.8 d) than Capdepera ([Formula: see text]; [Formula: see text]2.0 d). The overall case-fatality rate of 78%-together with short infectious periods and historical descriptions of rapid clinical decline-strongly suggests that pneumonic and septicemic forms contributed substantially to transmission, challenging earlier interpretations centered on bubonic plague and rodent-borne spread.
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) | ECDC News | 2026-08-14T12:13+02:00 | Policy, surveillance, and public health infrastructure
   Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe EU/EEA countries report case based data to ECDC on diagnosed mpox cases. For case numbers by countries, Western Balkans and Türkiye are included.
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) | WHO Regional Office for Africa | 2026-08-11T13:52+00:00 | Outbreaks and emerging infections
@@ -478,6 +474,10 @@ Search window: 7 day(s) ending 2026-08-22
 - [DR Congo receives 1st batch of vaccines to contain Ebola outbreak](https://tribune.com.pk/story/2625252/dr-congo-receives-1st-batch-of-vaccines-to-contain-ebola-outbreak) | The Express Tribune | 2026-08-22T09:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola frontline workers missing wages as outbreak spreads ‘exponentially’](https://www.theguardian.com/world/2026/aug/22/ebola-drc-democratic-republic-congo-health-workers-unpaid-wages) | The Guardian | 2026-08-22T09:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [This news report details the recent, record-breaking Ebola outbreak in the Democratic Republic of Congo (DRC), the fastest in the disease's history. The video explains that the current crisis is fundamentally different from the previous pandemic, as it is currently](https://www.facebook.com/deutschewellenews/videos/the-ebola-outbreak-that-was-declared-in-the-drc-in-may-is-now-the-fastest-spread/4462365257335225/) | facebook.com | 2026-08-22T06:31+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Second deadliest Ebola outbreak on record spreads across the eastern Congo](https://www.wsws.org/en/articles/2026/08/22/ycoa-a22.html) | World Socialist Web Site | 2026-08-22T00:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
