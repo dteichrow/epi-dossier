@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-25
-Generated at: 2026-08-25T10:06
+Generated at: 2026-08-25T10:11
 Search window: 7 day(s) ending 2026-08-25
 
 ## Executive scan
@@ -12,21 +12,21 @@ Search window: 7 day(s) ending 2026-08-25
 - [Genomic insights into pre-antibiotic osteomyelitis pathogens and their link to current resistant hospital strains.](https://pubmed.ncbi.nlm.nih.gov/42632420/) (PubMed Ancient Pathogen Genomics; 2026-08-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR; 2026-08-20T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (302), Policy, surveillance, and public health infrastructure (13), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (303), Policy, surveillance, and public health infrastructure (14), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 140 item(s) across 117 source(s).
-- Baseline snapshot created with 140 clustered item(s) across 117 source(s).
-- Honolulu Star-Advertiser now includes deaths or fatal cases in the story frame.
+- Newly tracked story cluster: 144 item(s) across 121 source(s).
+- Baseline snapshot created with 144 clustered item(s) across 121 source(s).
+- ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 97 item(s) across 68 source(s).
-- Baseline snapshot created with 97 clustered item(s) across 68 source(s).
+- Newly tracked story cluster: 95 item(s) across 67 source(s).
+- Baseline snapshot created with 95 clustered item(s) across 67 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Cyclosporiasis
@@ -50,15 +50,15 @@ Search window: 7 day(s) ending 2026-08-25
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 140 item(s) across 117 source(s); 3 official/primary-source item(s).
+- Topic size: 144 item(s) across 121 source(s); 3 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-25T17:02+00:00)
 - Detailed note: RD-annual-report-2025-2026.pdf (3.44 MB) Read the report online The Region faced multiple converging health challenges rarely encountered simultaneously, including the first-ever outbreak of Marburg virus disease in Ethiopia, the sixteenth Ebola virus disease outbreak in the Democratic Republic of the Congo and a multi-country Rift Valley fever event in Mauritania and Senegal, alongside sustained cholera, mpox...
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa); [How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.](https://pubmed.ncbi.nlm.nih.gov/42638279/) (PubMed Infectious Disease Search); [Pennsylvania reports first U.S. measles deaths in 2026 as outbreak grows](https://www.staradvertiser.com/2026/08/25/breaking-news/pennsylvania-reports-first-u-s-measles-deaths-in-2026-as-outbreak-grows/) (Honolulu Star-Advertiser); [2 people die from measles in Pennsylvania, marking state's first deaths in 35 years - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/2-people-die-measles-pennsylvania/story?id\=135932723) (ABC News - Breaking News, Latest News and Videos)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa); [How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.](https://pubmed.ncbi.nlm.nih.gov/42638279/) (PubMed Infectious Disease Search); [2 people die from measles in Pennsylvania, marking state's first deaths in 35 years - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/2-people-die-measles-pennsylvania/story?id\=135932723) (ABC News - Breaking News, Latest News and Videos); [2 measles-related deaths reported in Pennsylvania, the state’s first in 35 years](https://www.washingtonpost.com/health/2026/08/25/2-measles-related-deaths-reported-pennsylvania-states-first-35-years/) (The Washington Post)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 97 item(s) across 68 source(s); 2 official/primary-source item(s).
+- Topic size: 95 item(s) across 67 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-21T17:36+02:00)
 - Detailed note: Since External Situation Report #13, an additional 640 confirmed cases and 367 confirmed deaths have been reported, reflecting continued sustained transmission and high mortality. The crude case fatality ratio (CFR) has increased from 45.9% to 47.4%, continuing the upward trend observed over several weeks.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 14, Data as of 16 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [WHO Issues New Measures to Contain Ebola Bundibugyo Outbreak in DR Congo](https://www.tvcnews.tv/who-issues-new-measures-to-contain-ebola-bundibugyo-outbreak-in-dr-congo/) (TVC News); [Deaths of pregnant women double during fastest-growing Ebola outbreak in history in DR Congo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGdTQWVaTUZhRWNMQnZJMGE5UXEyc2x5b3FYSW5lcy1DN05zeWJHOEM5Q04wSjlER0pQdXpkcjF3WTFuMXg1UmNyUUxjaHpBS3BsR0tjZDRCMXRPSXVhdjJaWUVzTnJSUE9BZGE2d09hUEVQZzVJRTJ3M1lvWS10NG5QTGdIWjBKOG5XQVU3THF4ZlJIb1RuQVllalNtcnhoZzh1Y1pWVVJLQmc?oc=5) (The Independent); [WHO issues updated temporary recommendations for Ebola outbreak in DR Congo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDdYQUMzcEhJVDZqLXNVSkF4VkRIXzZ5UDlDUHB3R25jVjZoX0F6dUFJSEpHb3pMRTQwMHZ5M1poOHNxNkpzQzdQS2U2TVNkZlhOdU9rRVZfeUlwenFiV1phcWQ4T0Y2MnZZX2xfVVU5Yl9IbHR3NlNHNlFna3h4d2ZueXRFaGE0dC1ESUw0NHpta0VUSGwwNHJXRnU2aXlQZ05BLVFqZV9CbkZwYTU0dGVXVjhObVlueHQ0NVNVMlNlVFl3VFE?oc=5) (巴士的報)
@@ -447,8 +447,6 @@ Search window: 7 day(s) ending 2026-08-25
   Since External Situation Report #13, an additional 640 confirmed cases and 367 confirmed deaths have been reported, reflecting continued sustained transmission and high mortality. The crude case fatality ratio (CFR) has increased from 45.9% to 47.4%, continuing the upward trend observed over several weeks.
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) | ECDC News | 2026-08-14T12:13+02:00 | Policy, surveillance, and public health infrastructure
   Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe EU/EEA countries report case based data to ECDC on diagnosed mpox cases. For case numbers by countries, Western Balkans and Türkiye are included.
-- [Pennsylvania reports first U.S. measles deaths in 2026 as outbreak grows](https://www.staradvertiser.com/2026/08/25/breaking-news/pennsylvania-reports-first-u-s-measles-deaths-in-2026-as-outbreak-grows/) | Honolulu Star-Advertiser | 2026-08-25T16:49+00:00 | Outbreaks and emerging infections
-  measles deaths in 2026 as outbreak grows Honolulu Star-Advertiser
 - [2 people die from measles in Pennsylvania, marking state's first deaths in 35 years - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/2-people-die-measles-pennsylvania/story?id\=135932723) | ABC News - Breaking News, Latest News and Videos | 2026-08-25T16:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [2 measles-related deaths reported in Pennsylvania, the state’s first in 35 years](https://www.washingtonpost.com/health/2026/08/25/2-measles-related-deaths-reported-pennsylvania-states-first-35-years/) | The Washington Post | 2026-08-25T16:35+00:00 | Outbreaks and emerging infections
@@ -458,6 +456,8 @@ Search window: 7 day(s) ending 2026-08-25
 - [2 measles deaths reported by Pennsylvania Department of Health](https://www.cbsnews.com/pittsburgh/video/2-measles-deaths-reported-by-pennsylvania-department-of-health/) | CBS News | 2026-08-25T16:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Two unvaccinated people die of measles in Pennsylvania outbreak, health officials say](https://www.nbcnews.com/health/health-news/measles-pennsylvania-deaths-two-outbreak-rfk-jr-rcna594296) | NBC News | 2026-08-25T16:02+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Pennsylvania reports first U.S. measles deaths this year as outbreak grows](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-reports-two-deaths-measles-health-department-says-2026-08-25/) | Reuters | 2026-08-25T16:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [In Pennsylvania, 2 Measles Deaths Are Reported](https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html) | The New York Times | 2026-08-25T15:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
