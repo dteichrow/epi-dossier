@@ -1,11 +1,11 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-25
-Generated at: 2026-08-25T06:18
+Generated at: 2026-08-25T06:58
 Search window: 7 day(s) ending 2026-08-25
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-25T13:10+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-25T13:06+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-25T13:58+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; 2026-08-25T13:44+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa; 2026-08-25T08:40+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-24T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.](https://pubmed.ncbi.nlm.nih.gov/42638279/) (PubMed Infectious Disease Search; 2026-08-24T00:00; Major epidemiology studies; relevance 5/5)
@@ -16,29 +16,30 @@ Search window: 7 day(s) ending 2026-08-25
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
+- Newly tracked story cluster: 118 item(s) across 104 source(s).
+- Baseline snapshot created with 118 clustered item(s) across 104 source(s).
+- CNN now includes deaths or fatal cases in the story frame.
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
+
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 103 item(s) across 72 source(s).
-- Baseline snapshot created with 103 clustered item(s) across 72 source(s).
+- Newly tracked story cluster: 104 item(s) across 74 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 74 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Joburg ETC now foregrounds vaccination or vaccine policy in the story.
 
-### Measles transmission and vaccination
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 114 item(s) across 99 source(s).
-- Baseline snapshot created with 114 clustered item(s) across 99 source(s).
-- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 50 item(s) across 39 source(s).
-- Baseline snapshot created with 50 clustered item(s) across 39 source(s).
+- Newly tracked story cluster: 49 item(s) across 39 source(s).
+- Baseline snapshot created with 49 clustered item(s) across 39 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Dengue and arboviruses
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR)
-- Newly tracked story cluster: 18 item(s) across 15 source(s).
-- Baseline snapshot created with 18 clustered item(s) across 15 source(s).
+- Newly tracked story cluster: 14 item(s) across 12 source(s).
+- Baseline snapshot created with 14 clustered item(s) across 12 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 ### Polio and wastewater surveillance
@@ -50,23 +51,23 @@ Search window: 7 day(s) ending 2026-08-25
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 114 item(s) across 99 source(s); 3 official/primary-source item(s).
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-25T13:06+00:00)
+- Topic size: 118 item(s) across 104 source(s); 3 official/primary-source item(s).
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-25T13:44+00:00)
 - Detailed note: RD-annual-report-2025-2026.pdf (3.44 MB) Read the report online The Region faced multiple converging health challenges rarely encountered simultaneously, including the first-ever outbreak of Marburg virus disease in Ethiopia, the sixteenth Ebola virus disease outbreak in the Democratic Republic of the Congo and a multi-country Rift Valley fever event in Mauritania and Senegal, alongside sustained cholera, mpox...
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa); [How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.](https://pubmed.ncbi.nlm.nih.gov/42638279/) (PubMed Infectious Disease Search); [Video Measles outbreak in Maryland - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/135930281/) (ABC News - Breaking News, Latest News and Videos); [14 new measles cases reported in Maryland](https://www.cbsnews.com/baltimore/video/14-new-measles-cases-reported-in-maryland/) (CBS News)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa); [How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.](https://pubmed.ncbi.nlm.nih.gov/42638279/) (PubMed Infectious Disease Search); [Two people in Pennsylvania have died from measles](https://www.cnn.com/2026/08/25/health/measles-deaths-pennsylvania) (CNN); [Two die of measles in Pennsylvania outbreak, health officials say](https://www.nbcnews.com/health/health-news/measles-pennsylvania-deaths-two-outbreak-rfk-jr-rcna594296) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 103 item(s) across 72 source(s); 2 official/primary-source item(s).
+- Topic size: 104 item(s) across 74 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-21T17:36+02:00)
 - Detailed note: Since External Situation Report #13, an additional 640 confirmed cases and 367 confirmed deaths have been reported, reflecting continued sustained transmission and high mortality. The crude case fatality ratio (CFR) has increased from 45.9% to 47.4%, continuing the upward trend observed over several weeks.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 14, Data as of 16 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [Ebola vaccines arrive in DRC as Bundibugyo outbreak spreads across provinces](https://www.joburgetc.com/health/ebola-vaccines-arrive-drc-bundibugyo-outbreak/) (Joburg ETC); [Deaths of pregnant women double during fastest-growing Ebola outbreak in history in DR Congo](https://www.independent.co.uk/news/world/africa/ebola-death-outbreak-congo-women-pregnant-aid-b3038140.html) (The Independent); [WHO issues updated temporary recommendations for Ebola outbreak in DR Congo](https://www.bastillepost.com/global/article/6105086-who-issues-updated-temporary-recommendations-for-ebola-outbreak-in-dr-congo) (bastillepost.com)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 14, Data as of 16 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [Ebola vaccines arrive in DRC as Bundibugyo outbreak spreads across provinces](https://www.joburgetc.com/health/ebola-vaccines-arrive-drc-bundibugyo-outbreak/) (Joburg ETC); [Deaths of pregnant women double during fastest-growing Ebola outbreak in history in DR Congo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGdTQWVaTUZhRWNMQnZJMGE5UXEyc2x5b3FYSW5lcy1DN05zeWJHOEM5Q04wSjlER0pQdXpkcjF3WTFuMXg1UmNyUUxjaHpBS3BsR0tjZDRCMXRPSXVhdjJaWUVzTnJSUE9BZGE2d09hUEVQZzVJRTJ3M1lvWS10NG5QTGdIWjBKOG5XQVU3THF4ZlJIb1RuQVllalNtcnhoZzh1Y1pWVVJLQmc?oc=5) (The Independent); [WHO issues updated temporary recommendations for Ebola outbreak in DR Congo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDdYQUMzcEhJVDZqLXNVSkF4VkRIXzZ5UDlDUHB3R25jVjZoX0F6dUFJSEpHb3pMRTQwMHZ5M1poOHNxNkpzQzdQS2U2TVNkZlhOdU9rRVZfeUlwenFiV1phcWQ4T0Y2MnZZX2xfVVU5Yl9IbHR3NlNHNlFna3h4d2ZueXRFaGE0dC1ESUw0NHpta0VUSGwwNHJXRnU2aXlQZ05BLVFqZV9CbkZwYTU0dGVXVjhObVlueHQ0NVNVMlNlVFl3VFE?oc=5) (bastillepost.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 50 item(s) across 39 source(s); 1 official/primary-source item(s).
+- Topic size: 49 item(s) across 39 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-24T00:00)
 - Detailed note: The health department labels these counts preliminary.
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Michigan reports about 3% weekly rise in cyclosporiasis cases as outbreak begins to slow](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpDa3lkZ00zSmF6MjdkRU1ERFZiS1psN2VKdk83LW1HVlZGZlVMWnJHTUhWbHE4X3dLU2dpZHhyVnpxY19CQnBBeEg3R2t3cTU0WWhYNUFuYk1IZVA3MktKTW5YcE5aVkZKWjRiQ09XRTJaRWFINGZMMVItanFTYTZvZlBKSENYRTJlSk1tN0hPcEVKMGVHR0x6elVPVTRrVWxYbVBRNFhHY2g5UGtDQzR6VVFpZWdmMFhQWDlMWmFfc2lNdTVZSkFPTTZqNXp3bjM4bFhvaTdKSm8?oc=5) (Reuters); [Record cyclosporiasis outbreak tests the response of a 'weakened' health system](https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ?oc=5) (NPR); [Michigan cyclosporiasis outbreak slowing, but cases still being reported](https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2MtenkxV0VUWjlxNktHdmhpSXhnd1RiX3Z4c0VyQjNJYXBDOVc0anBNcVJRdVg5X1VoOVo2X0ZBN3ZKUTR3Y2JWbHZaZmQyMzdCWlZmOFpCMGlfd3hYT3Q5TExzYlhLdlI1SVB1bHA3RFhHZDVXcUtiYXpWY0h0QmxJdnF1YXRYc2JKVkp1ZE5KUQ?oc=5) (CBS News); [Best-by dates of recalled iceberg lettuce linked to massive Cyclospora outbreak have passed, says FDA](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1g1a1Z3dXpTeV9CY2JnRlA4QXpkNUNQOUQ3TktINmFKdzZVSDF6Wlo4S0xGNDhDUU1JaHJTMlJmUGtVWjJGODlXVTRfMzVJbEdkbk5oWUd3WTlwME1jTjJTeUFfbmJDb0lZdzV2WVRvR3RRbmwwTzlKTFItZEp2Nlg0aER0RWZuc0FRV1BLWUV0b3hDYWZ2VUFNV2taWmZ4czNNd1pTMjlHdEs3MHl2MzBET1ZaeEJSOUNCNFl4MmhIVGc?oc=5) (CIDRAP)
@@ -74,10 +75,10 @@ Search window: 7 day(s) ending 2026-08-25
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 18 item(s) across 15 source(s); 1 official/primary-source item(s).
+- Topic size: 14 item(s) across 12 source(s); 1 official/primary-source item(s).
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR, 2026-08-20T17:00+00:00)
 - Detailed note: Weekly / August 20, 2026 / 75(32);413â415 Liliana Sánchez-González, MD 1 ; Dezheen Zebari, DO 2 ; Marquita Detenamo 3 ; Susana Nakalevu, MD 2 ; Christal Teabuge 3 ; Iivan Aingimea 3 ; Viachaslau Markau, MD 2 ; Andrew Samuel, MD 2 ; Gilberto A. In 2025, a total of 1,402 suspected dengue cases (477 of which were confirmed), were reported in Naoero; young children were disproportionately affected, including two...
-- Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR); [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters); [World Mosquito Day: AMMREN calls for stronger action against malaria as Africa records 94% of global cases](https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1NBU3dyc0Q4QkhxVC1aQWdnVmVsSVFEck5rQzRKakhYVkI2WDRYUUdXckIwbERLN1JSc2ZUMTdxY0w0OFd2bm5EU3JxUUlRLVVLOW5vSk5jX1hRYUJyU01rYnlwUWV0VXF6UWM4dVdZUXlvcGo4TmZ3ZkloaEJOaksxa1B1NWZ1LXBSalVqbEI4WlI4bC13SkpXeGNua19kb3pOSlF1c1ZsVHpYM0J4YXRTbnJWaWxsSjhJcm9xMWJYYUJuMGNRYXhEU1I?oc=5) (Adomonline.com); [Noida Schools on Alert Amid Spike in Swine Flu, Dengue Cases; Parents Advised to Keep Sick Children Home](https://www.latestly.com/india/news/noida-schools-on-alert-amid-spike-in-swine-flu-dengue-cases-parents-advised-to-keep-sick-children-home-7574917.html) (LatestLY); [Sri Lanka National Dengue Control Unit: Weekly Dengue Update, Week 33 (10th – 16th August 2026)](https://reliefweb.int/report/sri-lanka/sri-lanka-national-dengue-control-unit-weekly-dengue-update-week-33-10th-16th-august-2026) (ReliefWeb)
+- Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR); [Khulna BNP to stand beside people in tackling dengue outbreak](https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtUGxRM05BRXpJRmxTYU5yUzlKN0FnMmV1SzJNNHJzNzZSRG05cnpTM3M4TzFkZjNWYWpLQVZXcWRuVGxXUHJ1bTBVM29TRUdF?oc=5) (Bangladesh Sangbad Sangstha (BSS)); [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters); [World Mosquito Day: AMMREN calls for stronger action against malaria as Africa records 94% of global cases](https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1NBU3dyc0Q4QkhxVC1aQWdnVmVsSVFEck5rQzRKakhYVkI2WDRYUUdXckIwbERLN1JSc2ZUMTdxY0w0OFd2bm5EU3JxUUlRLVVLOW5vSk5jX1hRYUJyU01rYnlwUWV0VXF6UWM4dVdZUXlvcGo4TmZ3ZkloaEJOaksxa1B1NWZ1LXBSalVqbEI4WlI4bC13SkpXeGNua19kb3pOSlF1c1ZsVHpYM0J4YXRTbnJWaWxsSjhJcm9xMWJYYUJuMGNRYXhEU1I?oc=5) (Adomonline.com); [Florida Sees 23 Locally Acquired Dengue Cases This Year: Why A Tropical Virus Is Spreading In The US?](https://www.healthandme.com/health-news/florida-sees-23-locally-acquired-dengue-cases-this-year-why-a-tropical-virus-is-spreading-in-the-us-article-155983417) (Health and Me)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -91,7 +92,7 @@ Search window: 7 day(s) ending 2026-08-25
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-25T13:10+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-25T13:58+00:00)
 - Detailed note: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and...
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News); [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
@@ -337,7 +338,7 @@ Search window: 7 day(s) ending 2026-08-25
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-25T13:10+00:00
+- Date: 2026-08-25T13:58+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
@@ -347,7 +348,7 @@ Search window: 7 day(s) ending 2026-08-25
 
 ### News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-25T13:06+00:00
+- Date: 2026-08-25T13:44+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
@@ -447,6 +448,12 @@ Search window: 7 day(s) ending 2026-08-25
   Since External Situation Report #13, an additional 640 confirmed cases and 367 confirmed deaths have been reported, reflecting continued sustained transmission and high mortality. The crude case fatality ratio (CFR) has increased from 45.9% to 47.4%, continuing the upward trend observed over several weeks.
 - [Surveillance of Mpox in the EU/EEA, monthly report](https://www.ecdc.europa.eu/en/publications-data/surveillance-mpox-eueea-monthly-report) | ECDC News | 2026-08-14T12:13+02:00 | Policy, surveillance, and public health infrastructure
   Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe EU/EEA countries report case based data to ECDC on diagnosed mpox cases. For case numbers by countries, Western Balkans and Türkiye are included.
+- [Two people in Pennsylvania have died from measles](https://www.cnn.com/2026/08/25/health/measles-deaths-pennsylvania) | CNN | 2026-08-25T13:50+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Two die of measles in Pennsylvania outbreak, health officials say](https://www.nbcnews.com/health/health-news/measles-pennsylvania-deaths-two-outbreak-rfk-jr-rcna594296) | NBC News | 2026-08-25T13:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [2 measles deaths reported in Lancaster County](https://www.cbsnews.com/philadelphia/video/2-measles-deaths-reported-in-lancaster-county/) | CBS News | 2026-08-25T13:29+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola vaccines arrive in DRC as Bundibugyo outbreak spreads across provinces](https://www.joburgetc.com/health/ebola-vaccines-arrive-drc-bundibugyo-outbreak/) | Joburg ETC | 2026-08-25T12:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Video Measles outbreak in Maryland - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/135930281/) | ABC News - Breaking News, Latest News and Videos | 2026-08-25T11:44+00:00 | Outbreaks and emerging infections
@@ -455,9 +462,9 @@ Search window: 7 day(s) ending 2026-08-25
   Limited detail was available from feed metadata alone.
 - [14 new measles cases reported in Maryland](https://www.cbsnews.com/baltimore/video/14-new-measles-cases-reported-in-maryland/) | CBS News | 2026-08-25T10:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Deaths of pregnant women double during fastest-growing Ebola outbreak in history in DR Congo](https://www.independent.co.uk/news/world/africa/ebola-death-outbreak-congo-women-pregnant-aid-b3038140.html) | The Independent | 2026-08-25T09:18+00:00 | Outbreaks and emerging infections
+- [Deaths of pregnant women double during fastest-growing Ebola outbreak in history in DR Congo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGdTQWVaTUZhRWNMQnZJMGE5UXEyc2x5b3FYSW5lcy1DN05zeWJHOEM5Q04wSjlER0pQdXpkcjF3WTFuMXg1UmNyUUxjaHpBS3BsR0tjZDRCMXRPSXVhdjJaWUVzTnJSUE9BZGE2d09hUEVQZzVJRTJ3M1lvWS10NG5QTGdIWjBKOG5XQVU3THF4ZlJIb1RuQVllalNtcnhoZzh1Y1pWVVJLQmc?oc=5) | The Independent | 2026-08-25T09:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO issues updated temporary recommendations for Ebola outbreak in DR Congo](https://www.bastillepost.com/global/article/6105086-who-issues-updated-temporary-recommendations-for-ebola-outbreak-in-dr-congo) | bastillepost.com | 2026-08-25T08:47+00:00 | Outbreaks and emerging infections
+- [WHO issues updated temporary recommendations for Ebola outbreak in DR Congo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDdYQUMzcEhJVDZqLXNVSkF4VkRIXzZ5UDlDUHB3R25jVjZoX0F6dUFJSEpHb3pMRTQwMHZ5M1poOHNxNkpzQzdQS2U2TVNkZlhOdU9rRVZfeUlwenFiV1phcWQ4T0Y2MnZZX2xfVVU5Yl9IbHR3NlNHNlFna3h4d2ZueXRFaGE0dC1ESUw0NHpta0VUSGwwNHJXRnU2aXlQZ05BLVFqZV9CbkZwYTU0dGVXVjhObVlueHQ0NVNVMlNlVFl3VFE?oc=5) | bastillepost.com | 2026-08-25T08:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [South Sudan steps up Ebola preparedness as DRC outbreak raises border concerns](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXVXN2SGtkc1ZfN1Y2ejNNUkg4Qi12TFJjdlh2LXBZeTZYUTNFSFhva0JkTno5amxMQ0dqVVlvSjVaNVhhdFdTc3ZtVHBHaUlWeUNqSS1aRnZUS0t0XzA5SWVn?oc=5) | SKNVibes | 2026-08-25T03:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -470,12 +477,6 @@ Search window: 7 day(s) ending 2026-08-25
 - [Fighting measles is expensive. See what it cost to contain 10 cases.](https://www.washingtonpost.com/health/interactive/2026/08/24/fighting-measles-is-expensive-see-what-it-cost-contain-10-cases/) | The Washington Post | 2026-08-24T17:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak still not under control in DR Congo](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXFtcmM4RWxRM1hhV1hWUVRKNlZ3eFlsc25kRl9oeEstZmlrZlEzOVZPbDc2djN2YVMzX0xaQnlMNUhBZ3pYTlNrcmFROXJmbjV5UGh1OVVnTGhVVGV1QTdia3RQbUp1SHRUc0Y0V3h1MWJBM3AyODF5QUdiODhwTGdXVjEzbjVZcTNaZkZkTEFTZ1NoUkluT2pUN3JNQzFZSGNLWFpJclB1S3docWlucE1uY2RTM2ZqeGc?oc=5) | Evangelical Focus | 2026-08-24T16:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [The Holy Father Calls for Aid as Ebola Outbreak Claims Lives in Central Africa](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEFHYkhjUVU1YTRtRXQxWVpyLXRQTHN3SlVXQXY4LWtjejIxWmg4RElwODREWHV0UVNTZUt0Y2V4TkU5a1o1VGpkNVN5YkdiLXdmbUk2aUMwTmN1OHk4bUkxM1RJV2VnVlk5ODBHRWVBVzlaMEh6YTdmVG4zWENNYUs1cFpBMUxmVFUySHRSMGZwLUp0MnVINDhOVTlJc0xSZ1pkRHpybHZHemxsd2N0dTdJWQ?oc=5) | Relevant Radio | 2026-08-24T15:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Area doctors brace for more measles as Pa. cases surge](https://www.monvalleyindependent.com/2026/08/24/area-doctors-brace-for-more-measles-as-pa-cases-surge/) | Mon Valley Independent | 2026-08-24T14:24+00:00 | Outbreaks and emerging infections
-  cases surge Mon Valley Independent
-- [Congo’s Ebola outbreak records one of its highest weekly death tolls yet](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWxfRlF2Smh0N0NOczJzT1VMVzE1THN2Q2ItRW1PbXQ4dV90dlc1dXlzQWJzNTRyQlFxbEJxb1NqU2FmWEt0eFN6NVVhNVFXZDVWekgxM0NDSVNtX1BwOEFicEUwekFqUHhNZXdqc29uQll6d2dXZ0J4dEcySzNHS0pudGFJbUtGVXdlenBPVE1lRmEwdHpLdVU5ZF9BdGtWWGozelVZU280c3N2R3ZuNEE2dkZMT0xMNmxIZFRB?oc=5) | The Seattle Times | 2026-08-24T13:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
