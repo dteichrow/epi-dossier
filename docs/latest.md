@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-25
-Generated at: 2026-08-25T06:10
+Generated at: 2026-08-25T06:17
 Search window: 7 day(s) ending 2026-08-25
 
 ## Executive scan
@@ -11,9 +11,8 @@ Search window: 7 day(s) ending 2026-08-25
 - [How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.](https://pubmed.ncbi.nlm.nih.gov/42638279/) (PubMed Infectious Disease Search; 2026-08-24T00:00; Major epidemiology studies; relevance 5/5)
 - [Genomic insights into pre-antibiotic osteomyelitis pathogens and their link to current resistant hospital strains.](https://pubmed.ncbi.nlm.nih.gov/42632420/) (PubMed Ancient Pathogen Genomics; 2026-08-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR; 2026-08-20T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (281), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks; 2026-08-21T00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (286), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
@@ -25,15 +24,15 @@ Search window: 7 day(s) ending 2026-08-25
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 111 item(s) across 97 source(s).
-- Baseline snapshot created with 111 clustered item(s) across 97 source(s).
+- Newly tracked story cluster: 114 item(s) across 99 source(s).
+- Baseline snapshot created with 114 clustered item(s) across 99 source(s).
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 51 item(s) across 41 source(s).
-- Baseline snapshot created with 51 clustered item(s) across 41 source(s).
-- Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
+- Newly tracked story cluster: 53 item(s) across 42 source(s).
+- Baseline snapshot created with 53 clustered item(s) across 42 source(s).
+- FDA Foodborne Outbreaks now explicitly uses investigation or monitoring language.
 
 ### Dengue and arboviruses
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR)
@@ -50,7 +49,7 @@ Search window: 7 day(s) ending 2026-08-25
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 111 item(s) across 97 source(s); 3 official/primary-source item(s).
+- Topic size: 114 item(s) across 99 source(s); 3 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-25T13:06+00:00)
 - Detailed note: RD-annual-report-2025-2026.pdf (3.44 MB) Read the report online The Region faced multiple converging health challenges rarely encountered simultaneously, including the first-ever outbreak of Marburg virus disease in Ethiopia, the sixteenth Ebola virus disease outbreak in the Democratic Republic of the Congo and a multi-country Rift Valley fever event in Mauritania and Senegal, alongside sustained cholera, mpox...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa); [How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.](https://pubmed.ncbi.nlm.nih.gov/42638279/) (PubMed Infectious Disease Search); [Video Measles outbreak in Maryland - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/135930281/) (ABC News - Breaking News, Latest News and Videos); [14 new measles cases reported in Maryland](https://www.cbsnews.com/baltimore/video/14-new-measles-cases-reported-in-maryland/) (CBS News)
@@ -66,10 +65,10 @@ Search window: 7 day(s) ending 2026-08-25
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 51 item(s) across 41 source(s); 1 official/primary-source item(s).
+- Topic size: 53 item(s) across 42 source(s); 3 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-08-24T00:00)
-- Detailed note: New data suggest cyclosporiasis cases are slowing Scientific American The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Is lettuce safe to eat yet? New data suggest cyclosporiasis cases are slowing](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTAyTWtjcnZXcGlaV2hCcUY1QllueGg2YXRhdWNiNDRaUmIyV0pqRllrMTRuYzNhMVczZDNvTG8wS3VxaE5GU3ZVNHRCOE96R042TGdSOUNpWV9WRjM2TkFXZDAwZjdVTGpOSGxOb09Kb1FYRUZlVlBoYkh4ZWxRRWsySjQ5Rm9uX1d3SWZWMmpjRGpEVmNXSEIta1lpSzdhSEM1amhVNndmSEt5M0o0Y3RjSUJ2STBPSFNEMk5n?oc=5) (Scientific American); [Michigan reports about 3% weekly rise in cyclosporiasis cases as outbreak begins to slow](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpDa3lkZ00zSmF6MjdkRU1ERFZiS1psN2VKdk83LW1HVlZGZlVMWnJHTUhWbHE4X3dLU2dpZHhyVnpxY19CQnBBeEg3R2t3cTU0WWhYNUFuYk1IZVA3MktKTW5YcE5aVkZKWjRiQ09XRTJaRWFINGZMMVItanFTYTZvZlBKSENYRTJlSk1tN0hPcEVKMGVHR0x6elVPVTRrVWxYbVBRNFhHY2g5UGtDQzR6VVFpZWdmMFhQWDlMWmFfc2lNdTVZSkFPTTZqNXp3bjM4bFhvaTdKSm8?oc=5) (Reuters); [Record cyclosporiasis outbreak tests the response of a 'weakened' health system](https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ?oc=5) (NPR); [Michigan cyclosporiasis outbreak slowing, but cases still being reported](https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2MtenkxV0VUWjlxNktHdmhpSXhnd1RiX3Z4c0VyQjNJYXBDOVc0anBNcVJRdVg5X1VoOVo2X0ZBN3ZKUTR3Y2JWbHZaZmQyMzdCWlZmOFpCMGlfd3hYT3Q5TExzYlhLdlI1SVB1bHA3RFhHZDVXcUtiYXpWY0h0QmxJdnF1YXRYc2JKVkp1ZE5KUQ?oc=5) (CBS News)
+- Detailed note: FDA lists reference 1143 with date posted 3/1/2023. New data suggest cyclosporiasis cases are slowing Scientific American An update on the Cyclospora outbreak available here .
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023) (FDA Foodborne Outbreaks); [FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022) (FDA Foodborne Outbreaks); [Is lettuce safe to eat yet? New data suggest cyclosporiasis cases are slowing](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTAyTWtjcnZXcGlaV2hCcUY1QllueGg2YXRhdWNiNDRaUmIyV0pqRllrMTRuYzNhMVczZDNvTG8wS3VxaE5GU3ZVNHRCOE96R042TGdSOUNpWV9WRjM2TkFXZDAwZjdVTGpOSGxOb09Kb1FYRUZlVlBoYkh4ZWxRRWsySjQ5Rm9uX1d3SWZWMmpjRGpEVmNXSEIta1lpSzdhSEM1amhVNndmSEt5M0o0Y3RjSUJ2STBPSFNEMk5n?oc=5) (Scientific American); [Michigan reports about 3% weekly rise in cyclosporiasis cases as outbreak begins to slow](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpDa3lkZ00zSmF6MjdkRU1ERFZiS1psN2VKdk83LW1HVlZGZlVMWnJHTUhWbHE4X3dLU2dpZHhyVnpxY19CQnBBeEg3R2t3cTU0WWhYNUFuYk1IZVA3MktKTW5YcE5aVkZKWjRiQ09XRTJaRWFINGZMMVItanFTYTZvZlBKSENYRTJlSk1tN0hPcEVKMGVHR0x6elVPVTRrVWxYbVBRNFhHY2g5UGtDQzR6VVFpZWdmMFhQWDlMWmFfc2lNdTVZSkFPTTZqNXp3bjM4bFhvaTdKSm8?oc=5) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -405,6 +404,26 @@ Search window: 7 day(s) ending 2026-08-25
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
 - Relevance score: 5/5
 
+### FDA outbreak investigation 1143: Hepatitis A Virus linked to Frozen Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-08-21T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1143 with date posted 3/1/2023. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### FDA outbreak investigation 1066: Hepatitis A Virus linked to Strawberries
+- Source: FDA Foodborne Outbreaks
+- Date: 2026-08-21T00:00
+- URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022
+- Category: Outbreaks and emerging infections
+- Summary: FDA lists reference 1066 with date posted 6/1/2022. An update on the Cyclospora outbreak available here . Outbreak or event status: Ended See Advisory.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Notes from the Field: Dengue Outbreak
 - Source: CDC MMWR
 - Date: 2026-08-20T17:00+00:00
@@ -415,28 +434,12 @@ Search window: 7 day(s) ending 2026-08-25
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Monkeypox Virus Surveillance
-- Source: CDC MMWR
-- Date: 2026-08-20T17:00+00:00
-- URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766283
-- Category: Occupational and environmental epidemiology
-- Summary: Weekly / August 20, 2026 / 75(32);406â412 Ryan Sandford, MPH 1 ,2 ; Alexandra Tuttle, MPH 1 ; Leah Aeschleman, MPH 1 ,2 ; Crystal M. Unvaccinated patients accounted for 76.1% of cases and had 9.7 times the odds of hospitalization, as did those who completed the 2-dose JYNNEOS vaccination series. The number of reported cases of MPXV infection during September–October 2025 was double that during the same period in 2024, although cases returned to background levels by December 2025.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Electronic Surveillance monthlly bulletin (July 2026).
-- Source: WHO Regional Office for Africa
-- Date: 2026-08-20T11:39+00:00
-- URL: https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026
-- Category: Outbreaks and emerging infections
-- Summary: mongem@who.int Thu, 20/08/2026 - 12:39 The Bulletin provides standardized updates on eSURV/ISS implementation, key performance indicators in WHO AFRO, aiding stakeholders in monitoring active surveillance progress, addressing gaps, and guiding evidence-based decisions at regional and national, and subnational levels. Download the bulletin (3.64 MB) Related Health Topics Polio
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Monkeypox Virus Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766283) | CDC MMWR | 2026-08-20T17:00+00:00 | Occupational and environmental epidemiology
+  Weekly / August 20, 2026 / 75(32);406â412 Ryan Sandford, MPH 1 ,2 ; Alexandra Tuttle, MPH 1 ; Leah Aeschleman, MPH 1 ,2 ; Crystal M. Unvaccinated patients accounted for 76.1% of cases and had 9.7 times the odds of hospitalization, as did those who completed the 2-dose JYNNEOS vaccination series. The number of reported cases of MPXV infection during September–October 2025 was double that during the same period in 2024, although cases returned to background levels by December 2025.
+- [Electronic Surveillance monthlly bulletin (July 2026).](https://www.afro.who.int/publications/electronic-surveillance-monthlly-bulletin-july-2026) | WHO Regional Office for Africa | 2026-08-20T11:39+00:00 | Outbreaks and emerging infections
+  mongem@who.int Thu, 20/08/2026 - 12:39 The Bulletin provides standardized updates on eSURV/ISS implementation, key performance indicators in WHO AFRO, aiding stakeholders in monitoring active surveillance progress, addressing gaps, and guiding evidence-based decisions at regional and national, and subnational levels. Download the bulletin (3.64 MB) Related Health Topics Polio
 - [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) | ECDC News | 2026-08-20T13:39+02:00 | Policy, surveillance, and public health infrastructure
   Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe Ebola disease interim case definition for reporting in the EU/EEA Communication materials for the 2026 Ebola disease outbreak Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Questions and answers about the current outbreak of Ebola disease Questions and answers for healthcare professionals in Europe
 - [Diphtheria in Switzerland, 1877-2022: long-term epidemiology and the impact of mid-20th-century vaccination programs.](https://pubmed.ncbi.nlm.nih.gov/42623711/) | PubMed Historical Epidemiology | 2026-08-20T00:00 | Historical epidemiology / ancient disease / paleopathology
@@ -472,10 +475,6 @@ Search window: 7 day(s) ending 2026-08-25
 - [Ebola outbreak still not under control in DR Congo](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXFtcmM4RWxRM1hhV1hWUVRKNlZ3eFlsc25kRl9oeEstZmlrZlEzOVZPbDc2djN2YVMzX0xaQnlMNUhBZ3pYTlNrcmFROXJmbjV5UGh1OVVnTGhVVGV1QTdia3RQbUp1SHRUc0Y0V3h1MWJBM3AyODF5QUdiODhwTGdXVjEzbjVZcTNaZkZkTEFTZ1NoUkluT2pUN3JNQzFZSGNLWFpJclB1S3docWlucE1uY2RTM2ZqeGc?oc=5) | Evangelical Focus | 2026-08-24T16:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [The Holy Father Calls for Aid as Ebola Outbreak Claims Lives in Central Africa](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEFHYkhjUVU1YTRtRXQxWVpyLXRQTHN3SlVXQXY4LWtjejIxWmg4RElwODREWHV0UVNTZUt0Y2V4TkU5a1o1VGpkNVN5YkdiLXdmbUk2aUMwTmN1OHk4bUkxM1RJV2VnVlk5ODBHRWVBVzlaMEh6YTdmVG4zWENNYUs1cFpBMUxmVFUySHRSMGZwLUp0MnVINDhOVTlJc0xSZ1pkRHpybHZHemxsd2N0dTdJWQ?oc=5) | Relevant Radio | 2026-08-24T15:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Area doctors brace for more measles as Pa. cases surge](https://www.monvalleyindependent.com/2026/08/24/area-doctors-brace-for-more-measles-as-pa-cases-surge/) | Mon Valley Independent | 2026-08-24T14:24+00:00 | Outbreaks and emerging infections
-  cases surge Mon Valley Independent
-- [Congo’s Ebola outbreak records one of its highest weekly death tolls yet](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWxfRlF2Smh0N0NOczJzT1VMVzE1THN2Q2ItRW1PbXQ4dV90dlc1dXlzQWJzNTRyQlFxbEJxb1NqU2FmWEt0eFN6NVVhNVFXZDVWekgxM0NDSVNtX1BwOEFicEUwekFqUHhNZXdqc29uQll6d2dXZ0J4dEcySzNHS0pudGFJbUtGVXdlenBPVE1lRmEwdHpLdVU5ZF9BdGtWWGozelVZU280c3N2R3ZuNEE2dkZMT0xMNmxIZFRB?oc=5) | The Seattle Times | 2026-08-24T13:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
