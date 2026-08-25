@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-25
-Generated at: 2026-08-25T02:01
+Generated at: 2026-08-25T02:06
 Search window: 7 day(s) ending 2026-08-25
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-08-25
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-21T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR; 2026-08-20T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Monkeypox Virus Surveillance](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766283) (CDC MMWR; 2026-08-20T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (267), Policy, surveillance, and public health infrastructure (14), Historical epidemiology / ancient disease / paleopathology (2)
-- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, California Department of Public Health News.
+- Category mix: Outbreaks and emerging infections (270), Policy, surveillance, and public health infrastructure (14), Historical epidemiology / ancient disease / paleopathology (2)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Polio and wastewater surveillance
@@ -23,17 +23,17 @@ Search window: 7 day(s) ending 2026-08-25
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - newscentermaine.com now brings wastewater surveillance into the story.
 
+### Ebola virus disease
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 104 item(s) across 75 source(s).
+- Baseline snapshot created with 104 clustered item(s) across 75 source(s).
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
 - Newly tracked story cluster: 103 item(s) across 92 source(s).
 - Baseline snapshot created with 103 clustered item(s) across 92 source(s).
 - BBC now foregrounds vaccination or vaccine policy in the story.
-
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 102 item(s) across 74 source(s).
-- Baseline snapshot created with 102 clustered item(s) across 74 source(s).
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
@@ -43,25 +43,25 @@ Search window: 7 day(s) ending 2026-08-25
 
 ### Dengue and arboviruses
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR)
-- Newly tracked story cluster: 14 item(s) across 12 source(s).
-- Baseline snapshot created with 14 clustered item(s) across 12 source(s).
+- Newly tracked story cluster: 15 item(s) across 13 source(s).
+- Baseline snapshot created with 15 clustered item(s) across 13 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
+### Ebola virus disease
+- Topic size: 104 item(s) across 75 source(s); 2 official/primary-source item(s).
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-21T17:36+02:00)
+- Detailed note: Since External Situation Report #13, an additional 640 confirmed cases and 367 confirmed deaths have been reported, reflecting continued sustained transmission and high mortality. The crude case fatality ratio (CFR) has increased from 45.9% to 47.4%, continuing the upward trend observed over several weeks.
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 14, Data as of 16 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [WHO issues updated temporary recommendations for Ebola outbreak in DR Congo](https://www.bastillepost.com/global/article/6105086-who-issues-updated-temporary-recommendations-for-ebola-outbreak-in-dr-congo) (巴士的報); [South Sudan steps up Ebola preparedness as DRC outbreak raises border concerns](https://www.sknvibes.com/news/newsdetails.cfm/127802) (SKNVibes); [As DR Congo Ebola outbreak tops 5,500 cases, calls for more resources intensify](https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-tops-5500-cases-calls-more-resources-intensify) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Measles transmission and vaccination
 - Topic size: 103 item(s) across 92 source(s); 2 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, 2026-08-25T08:49+00:00)
 - Detailed note: RD-annual-report-2025-2026.pdf (3.44 MB) Read the report online The Region faced multiple converging health challenges rarely encountered simultaneously, including the first-ever outbreak of Marburg virus disease in Ethiopia, the sixteenth Ebola virus disease outbreak in the Democratic Republic of the Congo and a multi-country Rift Valley fever event in Mauritania and Senegal, alongside sustained cholera, mpox...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa); [Maryland health department declares measles outbreak in 3 counties as school year starts](https://www.cbsnews.com/baltimore/news/health-officials-declare-measles-outbreaks-in-three-counties-14-new-cases/) (CBS News); [Fighting measles is expensive. See what it cost to contain 10 cases.](https://www.washingtonpost.com/health/interactive/2026/08/24/fighting-measles-is-expensive-see-what-it-cost-contain-10-cases/) (The Washington Post); [CDC adds 211 new cases to accelerating US measles outbreak](https://www.cidrap.umn.edu/measles/cdc-adds-211-new-cases-accelerating-us-measles-outbreak) (CIDRAP)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Ebola virus disease
-- Topic size: 102 item(s) across 74 source(s); 2 official/primary-source item(s).
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-08-21T17:36+02:00)
-- Detailed note: Since External Situation Report #13, an additional 640 confirmed cases and 367 confirmed deaths have been reported, reflecting continued sustained transmission and high mortality. The crude case fatality ratio (CFR) has increased from 45.9% to 47.4%, continuing the upward trend observed over several weeks.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 14, Data as of 16 August 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [WHO issues updated temporary recommendations for Ebola outbreak in DR Congo](https://www.bastillepost.com/global/article/6105086-who-issues-updated-temporary-recommendations-for-ebola-outbreak-in-dr-congo) (巴士的報); [South Sudan steps up Ebola preparedness as DRC outbreak raises border concerns](https://www.sknvibes.com/news/newsdetails.cfm/127802) (SKNVibes); [As DR Congo Ebola outbreak tops 5,500 cases, calls for more resources intensify](https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-tops-5500-cases-calls-more-resources-intensify) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -74,7 +74,7 @@ Search window: 7 day(s) ending 2026-08-25
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 14 item(s) across 12 source(s); 1 official/primary-source item(s).
+- Topic size: 15 item(s) across 13 source(s); 1 official/primary-source item(s).
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR, 2026-08-20T17:00+00:00)
 - Detailed note: Weekly / August 20, 2026 / 75(32);413â415 Liliana Sánchez-González, MD 1 ; Dezheen Zebari, DO 2 ; Marquita Detenamo 3 ; Susana Nakalevu, MD 2 ; Christal Teabuge 3 ; Iivan Aingimea 3 ; Viachaslau Markau, MD 2 ; Andrew Samuel, MD 2 ; Gilberto A. In 2025, a total of 1,402 suspected dengue cases (477 of which were confirmed), were reported in Naoero; young children were disproportionately affected, including two...
 - Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284) (CDC MMWR); [Dengue cases surge in Malaysia's Klang Valley, says health ministry](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-cases-surge-malaysias-klang-valley-says-health-ministry-2026-08-21/) (Reuters); [World Mosquito Day: AMMREN calls for stronger action against malaria as Africa records 94% of global cases](https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1NBU3dyc0Q4QkhxVC1aQWdnVmVsSVFEck5rQzRKakhYVkI2WDRYUUdXckIwbERLN1JSc2ZUMTdxY0w0OFd2bm5EU3JxUUlRLVVLOW5vSk5jX1hRYUJyU01rYnlwUWV0VXF6UWM4dVdZUXlvcGo4TmZ3ZkloaEJOaksxa1B1NWZ1LXBSalVqbEI4WlI4bC13SkpXeGNua19kb3pOSlF1c1ZsVHpYM0J4YXRTbnJWaWxsSjhJcm9xMWJYYUJuMGNRYXhEU1I?oc=5) (Adomonline.com); [Noida Schools on Alert Amid Spike in Swine Flu, Dengue Cases; Parents Advised to Keep Sick Children Home](https://www.latestly.com/india/news/noida-schools-on-alert-amid-spike-in-swine-flu-dengue-cases-parents-advised-to-keep-sick-children-home-7574917.html) (LatestLY); [Sri Lanka National Dengue Control Unit: Weekly Dengue Update, Week 33 (10th – 16th August 2026)](https://reliefweb.int/report/sri-lanka/sri-lanka-national-dengue-control-unit-weekly-dengue-update-week-33-10th-16th-august-2026) (ReliefWeb)
@@ -453,8 +453,6 @@ Search window: 7 day(s) ending 2026-08-25
   Limited detail was available from feed metadata alone.
 - [As DR Congo Ebola outbreak tops 5,500 cases, calls for more resources intensify](https://www.cidrap.umn.edu/ebola/dr-congo-ebola-outbreak-tops-5500-cases-calls-more-resources-intensify) | CIDRAP | 2026-08-24T20:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Nearly one in two Ebola patients dying in DR Congo outbreak](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkx2Q3BjNXNGajJjM2lydHl3dnp4bHpvWFVlMENQdHktYXp0TDBaNXBraF9NZmVGZGdtZnVvOWFJNkxUNExfODIxbk9kVU03aWM2UTlRa2VBdzhWYnJKSzdDSy1YRjZVOGdheEo4Y005X2FocTRMcEtQaHFTYVBsMWY4TTVnRTU1bXp5a0RmWS1TRHo4SUQtZFJpLXNuVG80UkZ4M042LTdjRldidmFF0gG0AUFVX3lxTE1JcHVwMU9fTmRBSmxrU0FJY21na0hSVWZ2b3NpQTZPcUgydVJ0T2NXM0FXTklpUzlYSk5RNi1WeHR6bmZaZEJrZ3o3dldUdWhnR0hHdGZJUG5XTU53Vmt5TWhVdF9zR2xGT2ZJaXpBZHIwMFZiTWwxSnQwR3dyMk9CYnJWRVNObUhQemFTaXBWdVZjSkc3bnl6ODl5cWFsYVBrMVlSOVhlU21wV282bS1WMC1qVw?oc=5) | Al Jazeera | 2026-08-24T17:01+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Fighting measles is expensive. See what it cost to contain 10 cases.](https://www.washingtonpost.com/health/interactive/2026/08/24/fighting-measles-is-expensive-see-what-it-cost-contain-10-cases/) | The Washington Post | 2026-08-24T17:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak still not under control in DR Congo](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXFtcmM4RWxRM1hhV1hWUVRKNlZ3eFlsc25kRl9oeEstZmlrZlEzOVZPbDc2djN2YVMzX0xaQnlMNUhBZ3pYTlNrcmFROXJmbjV5UGh1OVVnTGhVVGV1QTdia3RQbUp1SHRUc0Y0V3h1MWJBM3AyODF5QUdiODhwTGdXVjEzbjVZcTNaZkZkTEFTZ1NoUkluT2pUN3JNQzFZSGNLWFpJclB1S3docWlucE1uY2RTM2ZqeGc?oc=5) | Evangelical Focus | 2026-08-24T16:00+00:00 | Outbreaks and emerging infections
@@ -476,6 +474,8 @@ Search window: 7 day(s) ending 2026-08-25
 - [DRC Ebola outbreak nears 4,000 cases as transmission outpaces response](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQVhlOVZZdnltWFpsNWZ5LThlbnZ2OGMzU09EbHlndFFOUjFyNWZIVTZSNC1QSlVpdVh4LTUzaVQ3RldkZmM5MlBVeVQ4X3Uzd0tBbU4zcU9FUDROQ2RCMEQtQ0pIR3RJeHBoVnVPQVJHNzhWbWs4RWF1Wm5YdHVkTmNZR0JWdEgzeXp1eFRPX01kUUxPX1JaWXRLQWZxVTIxQ1pnandqUlNBV0xrU0xxRmR3ZmhkeFctLU95SWRpMlR3TC1OR28tSFAzb19zaFV2QkVRYlZzZFVMQdIB3wFBVV95cUxNY3lwV24xbVFzZDlhTEJBLW9YRVFwVDdqc0p6dHhiZERqWFlzeFNaS2hOR3drdVBDMGlRODNEU2F2aVBjN1k1NXdOSzdLaFFCVVRaMVJBU21Sd0hVWXg0ZUhaQU9UOTFVQWhyR0FEWl90QzVWajkwcUxCcnlWcEwzMGkybzVFUzBqX09VcXU1MTRoSzVZWnBHS0hXVm56dmJGN0lzQnZNU0lTOVdfRzFOQWNDZEFVTU5Cc2tla0lsZXlfdGtJMXRGVjJPeVk0LWV5M3NWRW1XLUs0OW53RENB?oc=5) | standardmedia.co.ke | 2026-08-24T04:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Pope Leo urges global action to confront Congo’s Ebola outbreak](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2RSZDF3UEUzdDRZUlJZaHNlLUVYV1ZTTG9VVnRrRVJlUFhncUJzU0xWdWY4MTdFR1VETzF3bzJ4MGZ5ZkZPNzROOEJGSFlveE1hNjR1Z044NjNqYmJ0N2hLT19VcG9scnplYzh1dDIxZW5OckRWZjVILWVmM2ZGeDlzRmx2enlybkVfTXRXVklOZlA3eWVBZmxnQ2dwZjRPRFlIbFN0aFBSRThrSGZWVm00a1NTbGRBVVFZ?oc=5) | Honolulu Star-Advertiser | 2026-08-23T23:30+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo to receive 70,000 Ebola vaccine doses as record outbreak worsens](https://news.google.com/rss/articles/CBMic0FVX3lxTE9OSUlMd1c0dnFnQ3RHU2EtcnVrQ2ZJUEhJakgzRTVpam1tUDhFSmdKbHQyeUx5d0lxdzBELW01TW1jeW9kTWFrUnAzQ1hEYWU2MGFHdkFYcTg4S2FVaFBpaDR3cmNVOGxyaFpSZXVYbnRpSUE?oc=5) | AnewZ | 2026-08-23T16:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
