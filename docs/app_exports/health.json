@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -7,33 +7,38 @@
       "CIDRAP",
       "Guardian",
       "NBC News",
-      "NPR",
       "New York Times",
       "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 245,
-    "sources_cached": 5,
-    "sources_failed": 1,
-    "sources_live": 262,
-    "story_count_change": 7,
+    "metadata_only_count": 215,
+    "sources_cached": 0,
+    "sources_failed": 2,
+    "sources_live": 233,
+    "story_count_change": 6,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 262,
-    "refresh_cache": 5,
+    "live": 233,
+    "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-24T22:01:27",
+  "generated_at": "2026-08-24T22:04:59",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
+    },
+    {
+      "error": "503 Server Error: Service Unavailable for url: https://lucascountyhealth.com/cyclo/",
+      "required": true,
+      "source": "Toledo-Lucas County Health Department Cyclosporiasis Update",
+      "source_type": "html_page"
     }
   ]
 }
