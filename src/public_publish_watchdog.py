@@ -33,7 +33,7 @@ DEFAULT_GITHUB_REF = "main"
 DEFAULT_REMOTE_DISPATCH_COOLDOWN_MINUTES = 45
 DEFAULT_UMBRELLA_REPOSITORY = "dteichrow/dteichrow.github.io"
 DEFAULT_UMBRELLA_WORKFLOW = "deploy-pages.yml"
-DEFAULT_UMBRELLA_DISPATCH_COOLDOWN_MINUTES = 30
+DEFAULT_UMBRELLA_DISPATCH_COOLDOWN_MINUTES = 45
 DEFAULT_ENABLE_UMBRELLA_DISPATCH = True
 NAIVE_UTC_FUTURE_TOLERANCE = timedelta(minutes=5)
 
@@ -341,10 +341,9 @@ def request_github_actions_dispatch(
     remote_dispatch_cooldown_minutes: int,
     state_key: str,
     state_path: Path | None = None,
-    bypass_cooldown: bool = False,
     state_updates: dict[str, Any] | None = None,
 ) -> int:
-    if not bypass_cooldown and not github_dispatch_is_due(
+    if not github_dispatch_is_due(
         remote_dispatch_cooldown_minutes,
         state_key=state_key,
         state_path=state_path,
@@ -385,9 +384,7 @@ def request_umbrella_publish(
     state_path: Path | None = None,
     upstream_generated_at: str = "",
 ) -> int:
-    state = load_watchdog_state(state_path)
     artifact_key = "last_umbrella_artifact_generated_at"
-    artifact_is_new = bool(upstream_generated_at and state.get(artifact_key) != upstream_generated_at)
     return request_github_actions_dispatch(
         repository=os.environ.get("EPI_DOSSIER_WATCHDOG_UMBRELLA_REPOSITORY", DEFAULT_UMBRELLA_REPOSITORY),
         workflow=os.environ.get("EPI_DOSSIER_WATCHDOG_UMBRELLA_WORKFLOW", DEFAULT_UMBRELLA_WORKFLOW),
@@ -395,7 +392,6 @@ def request_umbrella_publish(
         remote_dispatch_cooldown_minutes=dispatch_cooldown_minutes,
         state_key="last_umbrella_dispatch_at",
         state_path=state_path,
-        bypass_cooldown=artifact_is_new,
         state_updates={artifact_key: upstream_generated_at} if upstream_generated_at else None,
     )
 

@@ -25,6 +25,10 @@ def test_watchdog_launch_agent_checks_the_live_export_and_dispatches_remotely():
     assert "EPI_DOSSIER_WATCHDOG_UPSTREAM_MANIFEST_URL" in content
     assert "EPI_DOSSIER_WATCHDOG_UMBRELLA_WORKFLOW" in content
     assert "<key>EPI_DOSSIER_WATCHDOG_STALE_MINUTES</key>\n      <string>35</string>" in content
+    assert "<key>EPI_DOSSIER_WATCHDOG_CHECK_NEW_ITEMS</key>\n      <string>false</string>" in content
+    assert "<key>EPI_DOSSIER_WATCHDOG_UMBRELLA_DISPATCH_COOLDOWN_MINUTES</key>\n      <string>45</string>" in content
+    assert "<dict><key>Minute</key><integer>17</integer></dict>" in content
+    assert "<dict><key>Minute</key><integer>47</integer></dict>" in content
 
 
 def test_manifest_age_minutes_handles_local_naive_generated_at():
@@ -212,7 +216,7 @@ def test_github_actions_recovery_dispatch_is_rate_limited(monkeypatch, tmp_path)
     assert public_publish_watchdog.load_watchdog_state(state_path)["last_github_actions_dispatch_at"]
 
 
-def test_umbrella_recovery_dispatch_has_an_independent_cooldown(monkeypatch, tmp_path):
+def test_umbrella_recovery_dispatch_respects_its_independent_cooldown(monkeypatch, tmp_path):
     calls = []
     state_path = tmp_path / "watchdog-state.json"
     monkeypatch.setattr(public_publish_watchdog, "run_github_actions_publish", lambda **kwargs: calls.append(kwargs) or 0)
@@ -233,11 +237,11 @@ def test_umbrella_recovery_dispatch_has_an_independent_cooldown(monkeypatch, tmp
         upstream_generated_at="2026-05-05T06:35:00",
     ) == 0
 
-    assert len(calls) == 2
+    assert len(calls) == 1
     assert calls[0]["repository"] == "dteichrow/dteichrow.github.io"
     assert calls[0]["workflow"] == "deploy-pages.yml"
     assert public_publish_watchdog.load_watchdog_state(state_path)["last_umbrella_dispatch_at"]
-    assert public_publish_watchdog.load_watchdog_state(state_path)["last_umbrella_artifact_generated_at"] == "2026-05-05T06:35:00"
+    assert public_publish_watchdog.load_watchdog_state(state_path)["last_umbrella_artifact_generated_at"] == "2026-05-05T06:30:00"
 
 
 def test_watchdog_can_skip_umbrella_dispatch_when_runner_has_no_cross_repo_credential(monkeypatch, tmp_path):

@@ -36,7 +36,9 @@
       <key>EPI_DOSSIER_WATCHDOG_UMBRELLA_WORKFLOW</key>
       <string>deploy-pages.yml</string>
       <key>EPI_DOSSIER_WATCHDOG_UMBRELLA_DISPATCH_COOLDOWN_MINUTES</key>
-      <string>30</string>
+      <string>45</string>
+      <key>EPI_DOSSIER_WATCHDOG_CHECK_NEW_ITEMS</key>
+      <string>false</string>
     </dict>
 
     <key>RunAtLoad</key>
@@ -44,12 +46,8 @@
 
     <key>StartCalendarInterval</key>
     <array>
-      <dict><key>Minute</key><integer>5</integer></dict>
-      <dict><key>Minute</key><integer>15</integer></dict>
-      <dict><key>Minute</key><integer>25</integer></dict>
-      <dict><key>Minute</key><integer>35</integer></dict>
-      <dict><key>Minute</key><integer>45</integer></dict>
-      <dict><key>Minute</key><integer>55</integer></dict>
+      <dict><key>Minute</key><integer>17</integer></dict>
+      <dict><key>Minute</key><integer>47</integer></dict>
     </array>
 
     <key>StandardOutPath</key>

@@ -10,13 +10,13 @@ overrides:
       note: "Multiple July 13 local reports cite Michigan health officials. The official source on file still reports 784 cases as of July 7; this reported figure awaits a newer official update."
   story_56666e9c6c86e976:
     source_name: WHO Regional Office for Africa
-    source_url: https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4
+    source_url: https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-7
     source_status: WHO situation report
-    as_of: "2026-08-09"
+    as_of: "2026-08-23"
     cases:
       label: Confirmed cases
-      value: "4,381"
-      note: "WHO Regional Office for Africa Report 13, data as of 2026-08-09: 4,381 confirmed cases in the Democratic Republic of the Congo."
+      value: "5,584"
+      note: "WHO Regional Office for Africa Report 15, data as of 2026-08-23: 5,584 confirmed cases in the Democratic Republic of the Congo."
     deaths:
-      value: "2,011"
-      note: "WHO Regional Office for Africa Report 13, data as of 2026-08-09: 2,011 confirmed deaths in the Democratic Republic of the Congo."
+      value: "2,680"
+      note: "WHO Regional Office for Africa Report 15, data as of 2026-08-23: 2,680 confirmed deaths in the Democratic Republic of the Congo."
