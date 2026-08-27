@@ -2,6 +2,7 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -14,28 +15,22 @@
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 267,
+    "metadata_only_count": 275,
     "sources_cached": 0,
-    "sources_failed": 6,
-    "sources_live": 290,
-    "story_count_change": 6,
-    "wrapper_only_count": 8
+    "sources_failed": 4,
+    "sources_live": 301,
+    "story_count_change": 7,
+    "wrapper_only_count": 13
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 290,
+    "live": 301,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-27T02:20:48",
+  "generated_at": "2026-08-27T03:20:25",
   "source_failures": [
-    {
-      "error": "503 Server Error: Service Unavailable for url: https://www.afro.who.int/rss.xml",
-      "required": true,
-      "source": "WHO Regional Office for Africa",
-      "source_type": "rss"
-    },
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
@@ -59,12 +54,6 @@
       "required": true,
       "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
       "source_type": "biorxiv"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
-      "required": true,
-      "source": "California Department of Public Health News",
-      "source_type": "html_list"
     }
   ]
 }
