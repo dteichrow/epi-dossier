@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -14,26 +14,56 @@
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 271,
+    "metadata_only_count": 267,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 296,
-    "story_count_change": 7,
-    "wrapper_only_count": 12
+    "sources_failed": 6,
+    "sources_live": 290,
+    "story_count_change": 6,
+    "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 296,
+    "live": 290,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-27T01:20:46",
+  "generated_at": "2026-08-27T02:20:48",
   "source_failures": [
+    {
+      "error": "503 Server Error: Service Unavailable for url: https://www.afro.who.int/rss.xml",
+      "required": true,
+      "source": "WHO Regional Office for Africa",
+      "source_type": "rss"
+    },
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Max retries exceeded with url: /details/medrxiv/2026-08-19/2026-08-27 (Caused by NewConnectionError(\"HTTPSConnection(host='api.biorxiv.org', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+      "required": true,
+      "source": "medRxiv Infectious Disease",
+      "source_type": "medrxiv"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Max retries exceeded with url: /details/biorxiv/2026-08-19/2026-08-27 (Caused by NewConnectionError(\"HTTPSConnection(host='api.biorxiv.org', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+      "required": true,
+      "source": "bioRxiv Infectious Disease",
+      "source_type": "biorxiv"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Max retries exceeded with url: /details/biorxiv/2026-08-19/2026-08-27 (Caused by NewConnectionError(\"HTTPSConnection(host='api.biorxiv.org', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+      "required": true,
+      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
+      "source_type": "biorxiv"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
+      "required": true,
+      "source": "California Department of Public Health News",
       "source_type": "html_list"
     }
   ]
