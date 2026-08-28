@@ -1,10 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-08-28
-Generated at: 2026-08-28T00:20
+Generated at: 2026-08-28T01:20
 Search window: 7 day(s) ending 2026-08-28
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-28T07:20+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-08-28T08:19+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766319) (CDC MMWR; 2026-08-27T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-08-27T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Surveillance for Asiatic filoviruses and zoonotic paramyxoviruses at a perceived wildlife-human interface.](https://pubmed.ncbi.nlm.nih.gov/42659624/) (PubMed Infectious Disease Search; 2026-08-27T00:00; Major epidemiology studies; relevance 5/5)
@@ -12,10 +12,18 @@ Search window: 7 day(s) ending 2026-08-28
 - [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa; 2026-08-25T08:40+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Temporal trends in unhealthy lifestyle behaviors among adults with diabetes in Iran: steps surveys, 2007-2021.](https://pubmed.ncbi.nlm.nih.gov/42656855/) (PubMed Infectious Disease Search; 2026-08-25T00:00; Major epidemiology studies; relevance 5/5)
 - [Genomic insights into pre-antibiotic osteomyelitis pathogens and their link to current resistant hospital strains.](https://pubmed.ncbi.nlm.nih.gov/42632420/) (PubMed Ancient Pathogen Genomics; 2026-08-22T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (277), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (279), Policy, surveillance, and public health infrastructure (15), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
+### Dengue and arboviruses
+- Lead item: [Indonesia braces for dengue surge as El Niño strikes](https://www.gavi.org/vaccineswork/indonesia-braces-dengue-surge-el-nino-strikes) (Gavi, the Vaccine Alliance)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
+- Gavi, the Vaccine Alliance now explicitly uses investigation or monitoring language.
+- Gavi, the Vaccine Alliance now includes deaths or fatal cases in the story frame.
+- Gavi, the Vaccine Alliance now foregrounds vaccination or vaccine policy in the story.
+
 ### Measles transmission and vaccination
 - Lead item: [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766319) (CDC MMWR)
 - Newly tracked story cluster: 143 item(s) across 109 source(s).
@@ -25,8 +33,8 @@ Search window: 7 day(s) ending 2026-08-28
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/democratic-republic-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 91 item(s) across 63 source(s).
-- Baseline snapshot created with 91 clustered item(s) across 63 source(s).
+- Newly tracked story cluster: 93 item(s) across 64 source(s).
+- Baseline snapshot created with 93 clustered item(s) across 64 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Traverse City Record-Eagle now foregrounds vaccination or vaccine policy in the story.
 
@@ -43,12 +51,6 @@ Search window: 7 day(s) ending 2026-08-28
 - Baseline snapshot created with 45 clustered item(s) across 39 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
-### Hantavirus and cruise-ship outbreak
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Baseline snapshot created with 3 clustered item(s) across 3 source(s).
-- Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
-
 
 ## Major topics
 ### Measles transmission and vaccination
@@ -60,7 +62,7 @@ Search window: 7 day(s) ending 2026-08-28
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 91 item(s) across 63 source(s); 2 official/primary-source item(s).
+- Topic size: 93 item(s) across 64 source(s); 2 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/democratic-republic-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic) (WHO Regional Office for Africa, 2026-08-26T22:21+00:00)
 - Detailed note: Since External Situation Report #14, a total of 563 new confirmed cases and 302 confirmed deaths have been reported, bringing the cumulative total to 5 584 confirmed cases, including 2 680 deaths. The number of affected health zones has increased from 55 to 57 across six provinces, with Viadana in Bas-Uélé and Mutwanga in Nord-Kivu being the most recently affected health zones.
 - Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/democratic-republic-congo/publication/ebola-bundibugyo-virus-disease-outbreak-democratic) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [DR Congo Ebola outbreak: Health workers vaccinated as virus spreads](https://www.modernghana.com/videonews/aljazeera/1/707225) (Modern Ghana); [Ebola outbreak sparks concern over school reopening in DR Congo](https://eastleighvoice.co.ke/regional/394494/ebola-outbreak-sparks-concern-over-school-reopening-in-dr-congo) (The Eastleigh Voice); [Congo's Ebola Outbreak Is Already A Record. It May Be Far Bigger, Africa CDC Says](https://www.ndtvprofit.com/science/congos-ebola-outbreak-is-already-a-record-it-may-be-far-bigger-africa-cdc-says-11969405) (NDTV Profit)
@@ -83,21 +85,21 @@ Search window: 7 day(s) ending 2026-08-28
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
+### Dengue and arboviruses
+- Topic size: 3 item(s) across 3 source(s); 0 official/primary-source item(s).
+- Lead item: [Indonesia braces for dengue surge as El Niño strikes](https://www.gavi.org/vaccineswork/indonesia-braces-dengue-surge-el-nino-strikes) (Gavi, the Vaccine Alliance, 2026-08-25T14:00+00:00)
+- Detailed note: As of May 2026, the Ministry of Health had recorded 39,672 cases and 105 deaths, and as El Niño intensifies, the number is expected to rise.</p><div><h4>Have you read?</h4><ul><li><a href="https://www.gavi.org/vaccineswork/strong-el-nino-coming-could-it-lead-more-disease-outbreaks" target="_blank" title="A strong El Niño is coming: could it lead to more disease outbreaks?" data-entity-type="node"...
+- Evidence notes: [Indonesia braces for dengue surge as El Niño strikes](https://www.gavi.org/vaccineswork/indonesia-braces-dengue-surge-el-nino-strikes) (Gavi, the Vaccine Alliance); [PMC standing committee orders daily anti-mosquito drives amid dengue & chikungunya fears, seeks quick dep](https://timesofindia.indiatimes.com/city/pune/pmc-standing-committee-orders-daily-anti-mosquito-drives-amid-dengue-chikungunya-fears-seeks-quick-deployment-of-265-employees/articleshow/133577640.cms) (The Times of India); [Tackling The Dengue Menace In Sri Lanka And The Global South – Analysis](https://www.eurasiareview.com/25082026-tackling-the-dengue-menace-in-sri-lanka-and-the-global-south-analysis/) (Eurasia Review)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
+
 ### Hantavirus and cruise-ship outbreak
-- Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-28T07:20+00:00)
-- Detailed note: By 2021 , the country had around 6,744 wildlife farms housing 1.8 million animals across 371 species. Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship...
-- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News); [Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia](https://medicalxpress.com/news/2026-08-hantavirus-exposure-wildlife-farmers-vietnam.html) (Medical Xpress)
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-08-28T08:19+00:00)
+- Detailed note: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Emerging threats Emerging threats Andes hantavirus outbreak in cruise ship Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Spotlight Questions and...
+- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
-
-### Historical epidemiology and ancient pathogens
-- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
-- Lead item: [Ebola is back — and the IMF’s relief fund is empty](https://www.japantimes.co.jp/commentary/2026/08/27/world/ebola-is-back/) (The Japan Times, 2026-08-27T04:04+00:00)
-- Detailed note: Cluster remains active across 2 related item(s), but usable factual summary text was limited after cleanup.
-- Evidence notes: [Ebola is back — and the IMF’s relief fund is empty](https://www.japantimes.co.jp/commentary/2026/08/27/world/ebola-is-back/) (The Japan Times); [Museveni, Ndayishimiye, Touadéra, Tshisekedi: ‘Ebola will be defeated village by village’](https://www.theafricareport.com/428630/museveni-ndayishimiye-touadera-tshisekedi-ebola-will-be-defeated-village-by-village/) (The Africa Report)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It also has value for historical epidemiology and blog-idea generation.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting.
 
 
 ## Last major outbreaks on file
@@ -339,7 +341,7 @@ Search window: 7 day(s) ending 2026-08-28
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-08-28T07:20+00:00
+- Date: 2026-08-28T08:19+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Denos su opinión sobre sus experiencias con las instalaciones, el personal, la comunicación y los servicios del DSHS. Provide feedback on your experience with DSHS facilities, staff, communication, and services. Learn more about the Sunset process and provide feedback.
@@ -455,8 +457,6 @@ Search window: 7 day(s) ending 2026-08-28
   Limited detail was available from feed metadata alone.
 - ['Real-life consequences': Pennsylvania Gov. Shapiro, RFK Jr. spar over measles-associated deaths - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Politics/real-life-consequences-pennsylvania-gov-shapiro-rfk-jr/story?id\=136013785) | ABC News - Breaking News, Latest News and Videos | 2026-08-28T01:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia](https://medicalxpress.com/news/2026-08-hantavirus-exposure-wildlife-farmers-vietnam.html) | Medical Xpress | 2026-08-28T01:00+00:00 | Outbreaks and emerging infections
-  By 2021 , the country had around 6,744 wildlife farms housing 1.8 million animals across 371 species. Although these farms support many families, they also bring people into close contact with wild animals. This creates opportunities for zoonotic diseases to spill over into humans.
 - [Congo begins vaccinations to fight the fastest-growing Ebola outbreak in history](https://www.record-eagle.com/ap/international/congo-begins-vaccinations-to-fight-the-fastest-growing-ebola-outbreak-in-history/article_9665aa78-73d9-5a22-b29a-72400b55c013.html) | Traverse City Record-Eagle | 2026-08-28T00:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Shapiro, RFK Jr. clash after Pennsylvania health officials report 2 measles-related deaths](https://www.cbsnews.com/philadelphia/news/pennsylvania-measles-deaths-shapiro-rfk-jr/) | CBS News | 2026-08-27T23:57+00:00 | Outbreaks and emerging infections
@@ -471,13 +471,15 @@ Search window: 7 day(s) ending 2026-08-28
   Limited detail was available from feed metadata alone.
 - [Shapiro won’t say who died of measles. RFK Jr. is exploiting it.](https://www.politico.com/news/2026/08/27/rfk-jr-josh-shapiro-pennsylvania-measles-deaths-01053553) | Politico | 2026-08-27T22:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [CDC Points to ‘Discrepancies’ Around Pennsylvania Measles Deaths](https://www.bloomberg.com/news/articles/2026-08-27/cdc-points-to-discrepancies-around-pennsylvania-measles-deaths) | Bloomberg | 2026-08-27T20:56+00:00 | Outbreaks and emerging infections
+- [CDC Points to ‘Discrepancies’ Around Pennsylvania Measles Deaths](https://www.bloomberg.com/news/articles/2026-08-27/cdc-points-to-discrepancies-around-pennsylvania-measles-deaths) | Bloomberg | 2026-08-27T22:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Newborn one of 2 measles-associated deaths in Pennsylvania](https://www.cidrap.umn.edu/measles/newborn-one-2-measles-associated-deaths-pennsylvania) | CIDRAP | 2026-08-27T20:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Infant dies in Pennsylvania measles outbreak as RFK Jr. questions cause](https://www.staradvertiser.com/2026/08/27/breaking-news/infant-dies-in-pennsylvania-measles-outbreak-as-rfk-jr-questions-cause/) | Honolulu Star-Advertiser | 2026-08-27T20:25+00:00 | Outbreaks and emerging infections
-  questions cause Honolulu Star-Advertiser
 - [Ebola outbreak officially ends in Uganda as CEPI announces new vaccine candidate](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXNwZlFmbFdEQ2tscU1yU2Rzd00tUjVhdjBjWGJQa05NalVWRjNpS21wYXpOaVpEVS12aVpzT1MyQi15QU9MOGk5ZXBBdlRtZmR6clc5dnQ3ek9ZMU5jeXZocEx3TnpMb1U2RU5iZ0k1SzdFS3dvRnZJZHNOQzJZQ2RVcnFrNmdseWo0YWNGY0NORXRfc0RYak1ELVRzRTVuS1pUNGQ5d0dFLVk?oc=5) | CIDRAP | 2026-08-27T20:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [UN appeals for $1.1bn to tackle fast-growing Ebola outbreak in DRC](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSnR2YmdscVYtbndaMXhJeFBYR00tazAyYVV6eldDTlJ3aVJIN2ZlZTBXOFVtTTRGYlNOUEZWS2E4MGRuS0hUX0JnZWJBTnhQUHlyYVdyNVYxTjBvSFl5Q2NZOUVmVXV0bEdkQnNWY1dfaVMtY2pWMk1pNU1DbVhXeG1FNWZZYjNGSDBQOHlSZG0zakxuSTNSc2FuZlhabFIxTmc?oc=5) | SABC News | 2026-08-27T18:42+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Parents and teachers in Congo urge delay of school resumption as Ebola outbreak rages on](https://news.google.com/rss/articles/CBMilgJBVV95cUxPVVZBMDljdldrOURUcVhlN0RjazlfZEZzM2V1LXBlVS02NGpuaG1DWVJ1SkNRaWotRTVVWHRtMmRlaEhzSkJYNnQ4eWJVQURNRi1qTlo0WjNWaGRRZy1qbnI5RnhQX29sOGNoUGNEcFVMaXBQazJnTHZERFd3aFR6NGF6SlVDWVJjUHhtcnBBSHl2SHE5cVdBWEoyeVhaLTU5Z05pX1Jhbi1QUDF0U3E0SlZleUg2Vk9jZ3BoYUVaLW1DVV9VZmVtS3B1dXdJb29mczdpZ20ycW9BMlUyd3NYTzdJQm90WHRLdWtnN2UyQ0NFalZDSlBZa3VTZ2RZNEZGS3d5WndLbUc4UWt5RjhRZmZBYTR6dw?oc=5) | Source ONE News | 2026-08-27T15:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
