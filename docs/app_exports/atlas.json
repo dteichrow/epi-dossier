@@ -1465,7 +1465,7 @@
       "related_stories": [
         {
           "display_title": "Malaria",
-          "latest_update_summary": "Baseline snapshot created with 12 clustered item(s) across 12 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 13 clustered item(s) across 13 source(s).",
           "story_id": "story_bd120a908eaabacf",
           "story_url": "stories/story_bd120a908eaabacf-malaria.html",
           "story_web_path": "stories/story_bd120a908eaabacf-malaria.html"
@@ -1865,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-08-30T00:50:05",
-  "run_id": "run_610158e5751da6ae"
+  "generated_at": "2026-08-30T01:50:15",
+  "run_id": "run_81e2b98c37e43716"
 }
