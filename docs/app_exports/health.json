@@ -1,9 +1,9 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "Associated Press",
       "BBC",
+      "CBS News",
       "CIDRAP",
       "CNN",
       "Guardian",
@@ -13,22 +13,28 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 274,
+    "metadata_only_count": 272,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 295,
-    "story_count_change": 8,
-    "wrapper_only_count": 12
+    "sources_failed": 2,
+    "sources_live": 290,
+    "story_count_change": 6,
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 295,
+    "live": 290,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-31T13:02:25",
+  "generated_at": "2026-08-31T13:50:43",
   "source_failures": [
+    {
+      "error": "502 Server Error: Bad Gateway for url: https://www.afro.who.int/rss.xml",
+      "required": true,
+      "source": "WHO Regional Office for Africa",
+      "source_type": "rss"
+    },
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
