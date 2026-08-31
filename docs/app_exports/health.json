@@ -3,8 +3,8 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
-      "CBS News",
       "CIDRAP",
+      "CNN",
       "Guardian",
       "NBC News",
       "NPR",
@@ -12,21 +12,21 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 242,
+    "metadata_only_count": 275,
     "sources_cached": 0,
-    "sources_failed": 3,
-    "sources_live": 260,
-    "story_count_change": 6,
+    "sources_failed": 2,
+    "sources_live": 295,
+    "story_count_change": 7,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 260,
+    "live": 295,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-31T15:51:18",
+  "generated_at": "2026-08-31T16:50:44",
   "source_failures": [
     {
       "error": "502 Server Error: Bad Gateway for url: https://www.afro.who.int/rss.xml",
@@ -38,12 +38,6 @@
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='doh.wa.gov', port=443): Read timed out. (read timeout=8)",
-      "required": true,
-      "source": "Washington State Department of Health Newsroom",
       "source_type": "html_list"
     }
   ]
