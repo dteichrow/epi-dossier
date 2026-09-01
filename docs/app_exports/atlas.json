@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 136 clustered item(s) across 104 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 132 clustered item(s) across 101 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1473,7 +1473,7 @@
       "related_stories": [
         {
           "display_title": "Malaria",
-          "latest_update_summary": "Baseline snapshot created with 10 clustered item(s) across 10 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 12 clustered item(s) across 12 source(s).",
           "story_id": "story_bd120a908eaabacf",
           "story_url": "stories/story_bd120a908eaabacf-malaria.html",
           "story_web_path": "stories/story_bd120a908eaabacf-malaria.html"
@@ -1873,6 +1873,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-09-01T01:37:10",
-  "run_id": "run_1f3180424651f769"
+  "generated_at": "2026-09-01T03:04:11",
+  "run_id": "run_66da2617ec069d1a"
 }
