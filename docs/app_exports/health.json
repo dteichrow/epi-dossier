@@ -1,5 +1,5 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "BBC",
@@ -12,33 +12,27 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 260,
+    "metadata_only_count": 257,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 281,
-    "story_count_change": 7,
+    "sources_failed": 1,
+    "sources_live": 277,
+    "story_count_change": 8,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 281,
+    "live": 277,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-01T10:51:01",
+  "generated_at": "2026-09-01T11:28:37",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.ecdc.europa.eu', port=443): Max retries exceeded with url: /en/taxonomy/term/1307/feed (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ecdc.europa.eu'. (_ssl.c:1010)\")))",
-      "required": true,
-      "source": "ECDC News",
-      "source_type": "rss"
     }
   ]
 }
