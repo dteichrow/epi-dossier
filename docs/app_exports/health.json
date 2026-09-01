@@ -2,7 +2,6 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "Associated Press",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -14,21 +13,21 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 268,
+    "metadata_only_count": 266,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 290,
+    "sources_live": 288,
     "story_count_change": 7,
-    "wrapper_only_count": 9
+    "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 290,
+    "live": 288,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-08-31T18:51:39",
+  "generated_at": "2026-08-31T19:51:01",
   "source_failures": [
     {
       "error": "502 Server Error: Bad Gateway for url: https://www.afro.who.int/rss.xml",
