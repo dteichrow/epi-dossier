@@ -14,21 +14,21 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 240,
+    "metadata_only_count": 233,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 260,
-    "story_count_change": 9,
-    "wrapper_only_count": 9
+    "sources_live": 252,
+    "story_count_change": 8,
+    "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 260,
+    "live": 252,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-01T19:20:03",
+  "generated_at": "2026-09-01T20:20:19",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
