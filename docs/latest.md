@@ -1,32 +1,32 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-02
-Generated at: 2026-09-02T00:20
+Generated at: 2026-09-02T01:20
 Search window: 7 day(s) ending 2026-09-02
 
 ## Executive scan
-- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-09-02T07:20+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
+- [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; 2026-09-02T08:05+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-09-01T20:01+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EARLY RELEASE: Notes from the Field: Characteristics and Monitoring of the 2026 Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo, August 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766344) (CDC MMWR; 2026-09-01T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-01T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Current and potential uses of drones in healthcare delivery in sub-Saharan Africa: a rapid scoping review.](https://pubmed.ncbi.nlm.nih.gov/42676300/) (PubMed Infectious Disease Search; 2026-09-01T00:00; Major epidemiology studies; relevance 5/5)
 - [Guardians' willingness to vaccinate primary and secondary school girls against human papillomavirus and associated factors in ethnic autonomous prefectures of Qinghai Province, China: A cross-sectional study based on the Health Belief Model and Theory of Planned Behavior.](https://pubmed.ncbi.nlm.nih.gov/42678389/) (PubMed Infectious Disease Search; 2026-09-01T00:00; Major epidemiology studies; relevance 5/5)
 - [Syphilis Pathogenesis: Host Interactions, Immune Evasion, and Persistence of Treponema pallidum.](https://pubmed.ncbi.nlm.nih.gov/42679849/) (PubMed Historical Pathogen Case Studies; 2026-09-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-08-31T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Highly pathogenic avian influenza viruses in mammals: host-range expansion and implications of milk-borne viral shedding.](https://pubmed.ncbi.nlm.nih.gov/42671199/) (PubMed Historical Pathogen Case Studies; 2026-08-31T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (222), Policy, surveillance, and public health infrastructure (27), Historical epidemiology / ancient disease / paleopathology (3)
-- Source health: 2 source(s) failed during collection: Africa CDC, Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (219), Policy, surveillance, and public health infrastructure (25), Historical epidemiology / ancient disease / paleopathology (3)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766319) (CDC MMWR)
-- Newly tracked story cluster: 128 item(s) across 105 source(s).
-- Baseline snapshot created with 128 clustered item(s) across 105 source(s).
+- Newly tracked story cluster: 126 item(s) across 101 source(s).
+- Baseline snapshot created with 126 clustered item(s) across 101 source(s).
 - CNN now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Malaria
 - Lead item: [IGFBP7 induces phenotypic shift from platelet-mediated autoagglutination to rosetting of Plasmodium knowlesi-infected erythrocytes.](https://pubmed.ncbi.nlm.nih.gov/42661346/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 8 item(s) across 8 source(s).
-- Baseline snapshot created with 8 clustered item(s) across 8 source(s).
+- Newly tracked story cluster: 9 item(s) across 9 source(s).
+- Baseline snapshot created with 9 clustered item(s) across 9 source(s).
 - facebook.com now explicitly uses investigation or monitoring language.
 - facebook.com now includes deaths or fatal cases in the story frame.
 
@@ -39,63 +39,63 @@ Search window: 7 day(s) ending 2026-09-02
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 63 item(s) across 50 source(s).
-- Baseline snapshot created with 63 clustered item(s) across 50 source(s).
+- Newly tracked story cluster: 60 item(s) across 50 source(s).
+- Baseline snapshot created with 60 clustered item(s) across 50 source(s).
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 40 item(s) across 34 source(s).
-- Baseline snapshot created with 40 clustered item(s) across 34 source(s).
+- Newly tracked story cluster: 41 item(s) across 36 source(s).
+- Baseline snapshot created with 41 clustered item(s) across 36 source(s).
 - Story tracking is now active for this cluster; future runs will report only new developments against this baseline.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 128 item(s) across 105 source(s); 3 official/primary-source item(s).
+- Topic size: 126 item(s) across 101 source(s); 3 official/primary-source item(s).
 - Lead item: [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766319) (CDC MMWR, 2026-08-27T17:00+00:00)
 - Detailed note: Mathis, MSPH 4 ; Kelley Raines, MPH 4 ; Dina Mistry, PhD 1 ; Laureen Mitchell, MSN 5 ; Taidy Perez, MPH 5 ; LaKita Johnson, MPH 5 ; Isaac Ghinai, MBBS 2 ; Matthew Biggerstaff, ScD 6 ; Katelyn M. RD-annual-report-2025-2026.pdf (3.44 MB) Read the report online The Region faced multiple converging health challenges rarely encountered simultaneously, including the first-ever outbreak of Marburg virus disease in...
-- Evidence notes: [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766319) (CDC MMWR); [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Trump’s new CDC director ordered delay in counting 2 measles-related deaths](https://www.cnn.com/2026/09/01/health/cdc-measles-deaths) (CNN); [The CDC hasn’t added 2 deaths to its measles database. Here’s why.](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUVZekc4UERTUzVPWHB1ZTg4Xy01cmVGLUd2cnBPLUs1RmRfNTMycTQzakNjNk9WWmxncl9zRHZvZlo1RGhpc044WGViVUNjZDNzRng1Zi1lSlVYX2EwU3FDSGJsdDhrX2FBZms4WTNvTjdjTEF0aVB2cU9JcTk0ZmlFdnlEbVlVM2dWLS1JTWhRNFBjS3AwaHZYcUkzU01tbFlUZ1RLeG54Ym9GaVFERHNTMA?oc=5) (The Washington Post)
+- Evidence notes: [Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766319) (CDC MMWR); [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Trump’s new CDC Director excludes PA deaths from measles update](https://www.cnn.com/2026/09/01/health/video/ebof-doctor-debra-houry-rfk-measles-deaths-shapiro-fabricated) (CNN); [Trump’s new CDC director ordered delay in counting 2 measles-related deaths](https://www.cnn.com/2026/09/01/health/cdc-measles-deaths) (CNN)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 63 item(s) across 50 source(s); 2 official/primary-source item(s).
+- Topic size: 60 item(s) across 50 source(s); 2 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-09-01T20:01+00:00)
 - Detailed note: Since External Situation Report #15, a further 516 confirmed cases and 270 confirmed deaths have been reported, bringing the cumulative total to 6100 confirmed cases, including 2950 deaths (CFR 48.4%), as of 30 August 2026. Ituri remains the epicentre, accounting for 82.2% of cumulative confirmed cases, although continued expansion in Nord-Kivu and Bas-Uélé underscores the increasingly dispersed geographic...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Number of Ebola Deaths in the Congo Rises to Over 3,000](https://www.bluewin.ch/en/news/number-of-ebola-deaths-in-the-congo-has-risen-to-over-3-000-li.3584651) (bluewin.ch); [UK pledges additional £50 million to help contain Ebola outbreak in Congo](https://www.straitstimes.com/world/europe/uk-pledges-additional-ps50-million-to-help-contain-ebola-outbreak-in-congo) (The Straits Times); [UK to almost triple funding to tackle DR Congo’s deadly Ebola outbreak](https://www.independent.co.uk/news/uk/politics/uk-ebola-congo-cases-aid-funding-b3042942.html) (The Independent)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo and Uganda](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Number of Ebola Deaths in the Congo Rises to Over 3,000](https://www.bluewin.ch/en/news/number-of-ebola-deaths-in-the-congo-has-risen-to-over-3-000-li.3584651) (bluewin.ch); [UK pledges additional £50 million to help contain Ebola outbreak in Congo](https://www.straitstimes.com/world/europe/uk-pledges-additional-ps50-million-to-help-contain-ebola-outbreak-in-congo) (The Straits Times); [UK to almost triple funding to tackle DR Congo’s deadly Ebola outbreak](https://uk.news.yahoo.com/uk-almost-triple-funding-tackle-184633190.html) (Yahoo News UK)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 40 item(s) across 34 source(s); 1 official/primary-source item(s).
+- Topic size: 41 item(s) across 36 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-09-01T00:00)
 - Detailed note: The health department labels these counts preliminary. coli, Salmonella, Cyclospora Food Poison Journal
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Is it safe to eat lettuce yet? What to know as cyclosporiasis outbreak lingers](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGFDYjY5RFlnRVU4Wm1HS0FrcTlUMWhjWDc3Mjc5UFF0cHZqWm84UGszdDhCWHBEdGZfRzBvYWZBSnJWQmU3cmRpZ1JCMkRoOWJrakJ1elRSWWRsalNYNC11OVhHbG1hdEVZbGNseTVTU0pkd1R2NWU0QmtMWUZGRFRIRTE?oc=5) (CNN); [Cyclospora lettuce outbreak now tied to 20 states](https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY?oc=5) (The Washington Post); [Trump's pick for FDA faces scrutiny after cyclospora outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aTnVsX3k0aTh2NUliZkJvUE5XSG1JSGx2NWM4NHROQ2dQcFlIOWZudWNJWW1MRGUyTVhvLUlwSTlhcG1aR1UtNkI3MW9aOG9yNExiX2lfdVdnalZn?oc=5) (BBC); [Michigan reports about 3% weekly rise in cyclosporiasis cases as outbreak begins to slow](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpDa3lkZ00zSmF6MjdkRU1ERFZiS1psN2VKdk83LW1HVlZGZlVMWnJHTUhWbHE4X3dLU2dpZHhyVnpxY19CQnBBeEg3R2t3cTU0WWhYNUFuYk1IZVA3MktKTW5YcE5aVkZKWjRiQ09XRTJaRWFINGZMMVItanFTYTZvZlBKSENYRTJlSk1tN0hPcEVKMGVHR0x6elVPVTRrVWxYbVBRNFhHY2g5UGtDQzR6VVFpZWdmMFhQWDlMWmFfc2lNdTVZSkFPTTZqNXp3bjM4bFhvaTdKSm8?oc=5) (Reuters)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Is it safe to eat lettuce yet? What to know as cyclosporiasis outbreak lingers](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGFDYjY5RFlnRVU4Wm1HS0FrcTlUMWhjWDc3Mjc5UFF0cHZqWm84UGszdDhCWHBEdGZfRzBvYWZBSnJWQmU3cmRpZ1JCMkRoOWJrakJ1elRSWWRsalNYNC11OVhHbG1hdEVZbGNseTVTU0pkd1R2NWU0QmtMWUZGRFRIRTE?oc=5) (CNN); [Cyclospora lettuce outbreak now tied to 20 states](https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY?oc=5) (The Washington Post); [Trump's pick for FDA faces scrutiny after cyclospora outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aTnVsX3k0aTh2NUliZkJvUE5XSG1JSGx2NWM4NHROQ2dQcFlIOWZudWNJWW1MRGUyTVhvLUlwSTlhcG1aR1UtNkI3MW9aOG9yNExiX2lfdVdnalZn?oc=5) (BBC); [CDC adds more than 3,000 new Cyclospora cases](https://news.google.com/rss/articles/CBMigwFBVV95cUxOd25ZV1N4S3hLN1ljeUMwYVBUOTVSVGlySHpWcUdiYlluRFgtUE5CZFBydGdtNDJIWXB2Z0lhOE50TEk1RW91SDlYV2xya0pTSWxBUnVuWmRZRGdwdnJST1Rsd3lHbWQ3ekMxbk9rSFJuWWtuUVVrTGRIWjBDMzl6LVZEaw?oc=5) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Malaria
-- Topic size: 8 item(s) across 8 source(s); 1 official/primary-source item(s).
+- Topic size: 9 item(s) across 9 source(s); 1 official/primary-source item(s).
 - Lead item: [IGFBP7 induces phenotypic shift from platelet-mediated autoagglutination to rosetting of Plasmodium knowlesi-infected erythrocytes.](https://pubmed.ncbi.nlm.nih.gov/42661346/) (PubMed Infectious Disease Search, 2026-08-27T00:00)
 - Detailed note: While mechanisms behind the malaria-induced acute thrombocytopenia remain to be fully deciphered, it is believed to be associated with the cytoadherence of Plasmodium -infected erythrocytes (IRBC) to platelets. Zoonotic malaria caused by Plasmodium knowlesi is an emerging infectious disease with persistent transmission in Southeast Asia over the past two decades.
-- Evidence notes: [IGFBP7 induces phenotypic shift from platelet-mediated autoagglutination to rosetting of Plasmodium knowlesi-infected erythrocytes.](https://pubmed.ncbi.nlm.nih.gov/42661346/) (PubMed Infectious Disease Search); [DW News. . Two members of staff at one of Europe’s busiest airports have died from a rare case of 'airport malaria', which is now under investigation by the local health authorities. #dwnews](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWEc0YWZqamJpZjYwMDJlQjFSVTNOQjg1bVROWGVqWkJOMUNBOGg2cGFYYmdEejdGV2Q5RVFBTExheW9mOHRHX2ptZTZjeEp4OFBSSEhmeXJNb0Z6RUFSVVE2UkQ1eXllZzN6c1FIR2RpbnlsWXpuaXRYcDFUOXp3bTd5RzJtaUw4R1ZYMHNaNWRYUHFMTEFTVWJMVmRMdnplMi1heE1WbU5LMzJvRW9TdUhEX3U0RzNTT3I5N2NReHFDN0dHNlBRSTNRNHYzcXpFSzBnQ2RQSktQU29ldlV3U1hR?oc=5) (facebook.com); [Officials urge calm after malaria outbreak kills two staff at Frankfurt airport](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVqQVZLakE5SkdkdkdMSDdJX2wzUFE3S2MxN2k1cGxGYU5QY0gwVjRzYklfazhJdXBPM2tGYmZfZDhWUWxiX3cwVVBCWnV5bVdHZkhrNXpPY0NYQ3NwazJ2bEJNN1Y0WVFfc2hNVGFnVjNLMUQ5bFdCYTZsRkZOdjlsY1ZWakZURVl4VTZIMTMtY1NkYWNTRHQzckgyYkNlVElWeDc0V1NyWkk?oc=5) (The Guardian); [Two Frankfurt Airport Workers Die In Rare Malaria Outbreak](https://www.aviationbusinessme.com/news/two-frankfurt-airport-workers-die-in-rare-malaria-outbreak) (Aviation Business Middle East); [German authorities monitor airport malaria outbreak after two deaths](https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0w1c0xRcklUOEpCTUhNWDl3Y3ZtQ0ZhSE1rNDJ4bTNoNnQ3ZVNrU1pEMzdaODFGdnUyVWQ5M3RRLXZIU1dubFBETTZaZHVPZjB2bFZCdWwxM1lrSEplbGMzLVJMSVJoWlZrR1hjSlV6R25Wa3RfRjlSSUxDd09Ecld0ZkdIZThyWFlPX2sxWkdrdzV2UHRDSDlGYWtCUlpiTFlrNDQwTHVrcGJZclRiZ2tRWmNqbllpX19kVWlnVHBweVMwSFBEMkFn?oc=5) (premiumtimesng.com)
+- Evidence notes: [IGFBP7 induces phenotypic shift from platelet-mediated autoagglutination to rosetting of Plasmodium knowlesi-infected erythrocytes.](https://pubmed.ncbi.nlm.nih.gov/42661346/) (PubMed Infectious Disease Search); [DW News. . Two members of staff at one of Europe’s busiest airports have died from a rare case of 'airport malaria', which is now under investigation by the local health authorities. #dwnews](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWEc0YWZqamJpZjYwMDJlQjFSVTNOQjg1bVROWGVqWkJOMUNBOGg2cGFYYmdEejdGV2Q5RVFBTExheW9mOHRHX2ptZTZjeEp4OFBSSEhmeXJNb0Z6RUFSVVE2UkQ1eXllZzN6c1FIR2RpbnlsWXpuaXRYcDFUOXp3bTd5RzJtaUw4R1ZYMHNaNWRYUHFMTEFTVWJMVmRMdnplMi1heE1WbU5LMzJvRW9TdUhEX3U0RzNTT3I5N2NReHFDN0dHNlBRSTNRNHYzcXpFSzBnQ2RQSktQU29ldlV3U1hR?oc=5) (facebook.com); [Officials urge calm after malaria outbreak kills two staff at Frankfurt airport](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVqQVZLakE5SkdkdkdMSDdJX2wzUFE3S2MxN2k1cGxGYU5QY0gwVjRzYklfazhJdXBPM2tGYmZfZDhWUWxiX3cwVVBCWnV5bVdHZkhrNXpPY0NYQ3NwazJ2bEJNN1Y0WVFfc2hNVGFnVjNLMUQ5bFdCYTZsRkZOdjlsY1ZWakZURVl4VTZIMTMtY1NkYWNTRHQzckgyYkNlVElWeDc0V1NyWkk?oc=5) (The Guardian); [Will India Be Malaria-Free By 2030? 160 Districts Report Zero Cases Over 3 Years; Burden Falls 80% In A Decade](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdWtJVnZlZE93bmlBRnJRcU9rSVBkT1NVRU9QRzduSlBfTDhXYjU4UXpkUnNrNk1fYWk5QTRJX1Z1bmVNRUFKVy12bnYzR2k4eVV0U1gtRUd5ajdXLXhpY3ROZ1ZQZjI0R0ItYi1GU1ZKNDNKbmFBdk5yUzIzSWlGX1h1clhxZFgtQmo1QVZhN2VzOERGV3pMd1p5TEF1emZaeU01U2RheGZIX3JMRjN1b1VLdWh1ejlsRmdrTzJrVENmenJkR1JIMThCTmVqUUhGOEhpSEQ1WUVydjRoMlhGZWFscEc0UkpzWjJqajNQai1hSWhnV1E5bA?oc=5) (Health and Me); [Two Frankfurt Airport Workers Die In Rare Malaria Outbreak](https://www.aviationbusinessme.com/news/two-frankfurt-airport-workers-die-in-rare-malaria-outbreak) (Aviation Business Middle East)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 3 item(s) across 3 source(s); 2 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-09-02T07:20+00:00)
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, 2026-09-02T08:05+00:00)
 - Detailed note: Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer Current threats Current threats Ebola disease outbreak in the Democratic Republic of the Congo and Uganda Weekly threats reports (CDTR) Spotlight Questions and answers about the...
 - Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea) (ECDC News); [WHO says suspected hantavirus cluster 'is not the start of a COVID pandemic' - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanBya3VnenlXNEprVzFhcGNBN1MwQ0VCSE9rU1dSRHp6THlLTElCZThJb0VvMW9xbVk3cnhYNUFBVTBPWHpkWDM1clBkaTRiNVIyQm0xLUhsYzh2X0x3dXBMN0xPVUtpa3FDQWgyZHFUc1ZNVUtMM0JiVW52OW1tS2ZaeEROeUVxYS1OX2NYcW1JVzBFbVU2X0lsMTNzdUp5azJLNUp1Y3FJNWvSAbABQVVfeXFMUFFXRG5FYW9leWxiQmVtVWlSY1FLd1kxWnFnS0NCMm1Ra0lsUnlxRmVoVmFJazVfSnNzQVctcEYwM0JhQVNBRnNMLUZrRkIwcFh2ZTlNeGxoYU9ic1BLemd0Q3hrMVpzQk42UUlkbENhaTFfZDJhYTRMVHYtbzhlVFdiUWhNNFoxekpOOUJDcGJkYW1oeGo0RW85bl9WZzBaeGpvejV6VGNnbVFKSS1OZlI?oc=5) (ABC News - Breaking News, Latest News and Videos)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Miscellaneous signals
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
-- Lead item: [Guardians' willingness to vaccinate primary and secondary school girls against human papillomavirus and associated factors in ethnic autonomous prefectures of Qinghai Province, China: A cross-sectional study based on the Health Belief Model and Theory of Planned Behavior.](https://pubmed.ncbi.nlm.nih.gov/42678389/) (PubMed Infectious Disease Search, 2026-09-01T00:00)
+- Topic size: 3 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [Current and potential uses of drones in healthcare delivery in sub-Saharan Africa: a rapid scoping review.](https://pubmed.ncbi.nlm.nih.gov/42676300/) (PubMed Infectious Disease Search, 2026-09-01T00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Guardians' willingness to vaccinate primary and secondary school girls against human papillomavirus and associated factors in ethnic autonomous prefectures of Qinghai Province, China: A cross-sectional study based on the Health Belief Model and Theory of Planned Behavior.](https://pubmed.ncbi.nlm.nih.gov/42678389/) (PubMed Infectious Disease Search); [Museveni, Ndayishimiye, Touadéra, Tshisekedi: ‘Ebola will be defeated village by village’](https://www.theafricareport.com/428630/museveni-ndayishimiye-touadera-tshisekedi-ebola-will-be-defeated-village-by-village/) (The Africa Report); [India Records 80% Decline In Malaria, Steps Up 2030 Elimination Drive](https://www.bwhealthcareworld.com/article/india-records-80-decline-in-malaria-steps-up-2030-elimination-drive-621280) (BW Healthcare World)
+- Evidence notes: [Current and potential uses of drones in healthcare delivery in sub-Saharan Africa: a rapid scoping review.](https://pubmed.ncbi.nlm.nih.gov/42676300/) (PubMed Infectious Disease Search); [Guardians' willingness to vaccinate primary and secondary school girls against human papillomavirus and associated factors in ethnic autonomous prefectures of Qinghai Province, China: A cross-sectional study based on the Health Belief Model and Theory of Planned Behavior.](https://pubmed.ncbi.nlm.nih.gov/42678389/) (PubMed Infectious Disease Search); [India Records 80% Decline In Malaria, Steps Up 2030 Elimination Drive](https://www.bwhealthcareworld.com/article/india-records-80-decline-in-malaria-steps-up-2030-elimination-drive-621280) (BW Healthcare World)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -339,7 +339,7 @@ Search window: 7 day(s) ending 2026-09-02
 ## Highest priority items
 ### News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
 - Source: Texas Department of State Health Services News
-- Date: 2026-09-02T07:20+00:00
+- Date: 2026-09-02T08:05+00:00
 - URL: https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius
 - Category: Policy, surveillance, and public health infrastructure
 - Summary: Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
@@ -373,6 +373,16 @@ Search window: 7 day(s) ending 2026-09-02
 - URL: https://lucascountyhealth.com/cyclo/
 - Category: Outbreaks and emerging infections
 - Summary: Lucas County Positive Cases: 1,300; Northwest Ohio Positive Cases: 3,407. The health department labels these counts preliminary. Last update: 9/1/26.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Current and potential uses of drones in healthcare delivery in sub-Saharan Africa: a rapid scoping review.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-09-01T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42676300/
+- Category: Major epidemiology studies
+- Summary: Twenty-nine papers met the inclusion criteria, covering 12 countries, although the evidence base was heavily concentrated in Ghana and included a mix of peer-reviewed articles, technical reports, and media or organisational sources. Drones have great potential for healthcare delivery in SSA, offering rapid, efficient, and cost-effective solutions that are transferable to non-communicable diseases (NCDs) and to potential and emerging applications such as vector surveillance and public health messaging. Drones show promise for improving healthcare logistics in underserved settings, but their long-term value depends on resolving regulatory, infrastructural, workforce, and financing constraints, and on generating stronger comparative generalisable evidence.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -427,18 +437,10 @@ Search window: 7 day(s) ending 2026-09-02
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Direct radiocarbon dating reveals medieval reuse at the prehistoric site of Grotta Romanelli (Castro, Apulia, Italy).
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-08-27T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42678352/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: The adult individual dates to the fourteenth to early fifteenth century AD (1302- 1369 and 1379-1411 cal AD, 95.4% probability), whereas the two infants date to the fifteenth century AD (1423-1455 and 1435-1489 cal AD, 95.4% probability). In contrast, human remains recovered from the cave have remained poorly understood, particularly because the chronology of the three best-preserved individuals, excavated between 1900 and 1904, has never been directly radiocarbon dated. The chronological ranges broadly overlap with periods of recurrent plague outbreaks in southern Italy, but any specific association between the burials and epidemic mortality needs further investigation.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Direct radiocarbon dating reveals medieval reuse at the prehistoric site of Grotta Romanelli (Castro, Apulia, Italy).](https://pubmed.ncbi.nlm.nih.gov/42678352/) | PubMed Historical Pathogen Case Studies | 2026-08-27T00:00 | Historical epidemiology / ancient disease / paleopathology
+  The adult individual dates to the fourteenth to early fifteenth century AD (1302- 1369 and 1379-1411 cal AD, 95.4% probability), whereas the two infants date to the fifteenth century AD (1423-1455 and 1435-1489 cal AD, 95.4% probability). In contrast, human remains recovered from the cave have remained poorly understood, particularly because the chronology of the three best-preserved individuals, excavated between 1900 and 1904, has never been directly radiocarbon dated. The chronological ranges broadly overlap with periods of recurrent plague outbreaks in southern Italy, but any specific association between the burials and epidemic mortality needs further investigation.
 - [IGFBP7 induces phenotypic shift from platelet-mediated autoagglutination to rosetting of Plasmodium knowlesi-infected erythrocytes.](https://pubmed.ncbi.nlm.nih.gov/42661346/) | PubMed Infectious Disease Search | 2026-08-27T00:00 | Major epidemiology studies
   While mechanisms behind the malaria-induced acute thrombocytopenia remain to be fully deciphered, it is believed to be associated with the cytoadherence of Plasmodium -infected erythrocytes (IRBC) to platelets. Zoonotic malaria caused by Plasmodium knowlesi is an emerging infectious disease with persistent transmission in Southeast Asia over the past two decades. falciparum , and investigated the relationship between IRBC autoagglutination and rosetting rates (another IRBC cytoadherence phenomenon).
 - [The work of the World Health Organization in the African Region: Report of the Regional Director: 1 July 2025–30 June 2026](https://www.afro.who.int/publications/work-world-health-organization-african-region-report-regional-director-1-july-2025-30) | WHO Regional Office for Africa | 2026-08-25T08:40+00:00 | Outbreaks and emerging infections
@@ -451,36 +453,40 @@ Search window: 7 day(s) ending 2026-09-02
   Limited detail was available from feed metadata alone.
 - [Number of Ebola Deaths in the Congo Rises to Over 3,000](https://www.bluewin.ch/en/news/number-of-ebola-deaths-in-the-congo-has-risen-to-over-3-000-li.3584651) | bluewin.ch | 2026-09-02T06:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Trump’s new CDC Director excludes PA deaths from measles update](https://www.cnn.com/2026/09/01/health/video/ebof-doctor-debra-houry-rfk-measles-deaths-shapiro-fabricated) | CNN | 2026-09-02T00:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [UK pledges additional £50 million to help contain Ebola outbreak in Congo](https://www.straitstimes.com/world/europe/uk-pledges-additional-ps50-million-to-help-contain-ebola-outbreak-in-congo) | The Straits Times | 2026-09-01T21:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [UK to almost triple funding to tackle DR Congo’s deadly Ebola outbreak](https://www.independent.co.uk/news/uk/politics/uk-ebola-congo-cases-aid-funding-b3042942.html) | The Independent | 2026-09-01T18:46+00:00 | Outbreaks and emerging infections
+- [UK to almost triple funding to tackle DR Congo’s deadly Ebola outbreak](https://uk.news.yahoo.com/uk-almost-triple-funding-tackle-184633190.html) | Yahoo News UK | 2026-09-01T18:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Trump’s new CDC director ordered delay in counting 2 measles-related deaths](https://www.cnn.com/2026/09/01/health/cdc-measles-deaths) | CNN | 2026-09-01T18:38+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026](https://www.cbsnews.com/news/measles-outbreak-us-map-2026/) | CBS News | 2026-09-01T18:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Today in Africa: Tanzania disputes Tim Draper island sale, DR Congo Ebola outbreak](https://www.okayafrica.com/today-in-africa-september-1-2026-american-billionaire-wants-to-sell-tanzania-island-he-doesnt-own-dr-congo-reopens-schools-amid-ebola-outbreak/1439193) | OkayAfrica | 2026-09-01T16:57+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Health Matters: Ebola outbreak reaches 6,000 confirmed cases in eastern Congo](https://globalnews.ca/video/12043403/health-matters-ebola-outbreak-reaches-6000-confirmed-cases/) | Global News | 2026-09-01T16:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo resumes schooling despite Ebola outbreak](https://ua.news/en/world/u-dr-kongo-vidnovili-navchannia-popri-spalakh-eboli) | UA.NEWS | 2026-09-01T16:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Schools reopen despite concerns amid Congo's Ebola outbreak](https://www.cbc.ca/news/health/ebola-congo-school-9.7328035) | CBC | 2026-09-01T16:23+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator – Virtual Briefing to Member States on the Ebola outbreak in the Democratic Republic of the Congo, 1 September 2026](https://reliefweb.int/report/democratic-republic-congo/mr-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-virtual-briefing-member-states-ebola-outbreak-democratic-republic-congo-1-september-2026) | ReliefWeb | 2026-09-01T16:05+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [The CDC hasn’t added 2 deaths to its measles database. Here’s why.](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUVZekc4UERTUzVPWHB1ZTg4Xy01cmVGLUd2cnBPLUs1RmRfNTMycTQzakNjNk9WWmxncl9zRHZvZlo1RGhpc044WGViVUNjZDNzRng1Zi1lSlVYX2EwU3FDSGJsdDhrX2FBZms4WTNvTjdjTEF0aVB2cU9JcTk0ZmlFdnlEbVlVM2dWLS1JTWhRNFBjS3AwaHZYcUkzU01tbFlUZ1RLeG54Ym9GaVFERHNTMA?oc=5) | The Washington Post | 2026-09-01T06:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak raises concerns in the Democratic Republic of Congo; WHO warns of deteriorating situation](https://www.voiceofemirates.com/en/health/2026/09/01/ebola-outbreak-raises-concerns-in-the-democratic-republic-of-congo-who-warns-of-deteriorating-situation/) | صوت الإمارات | 2026-09-01T05:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo authorities report more than 6,000 confirmed Ebola cases and nearly 3,000 deaths - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/wireStory/congo-authorities-report-6000-confirmed-ebola-cases-3000-136086056) | ABC News - Breaking News, Latest News and Videos | 2026-09-01T04:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id\=133061121) | ABC News - Breaking News, Latest News and Videos | 2026-09-01T02:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [C.D.C. Director Challenges Pennsylvania’s Report of Two Measles Deaths](https://news.google.com/rss/articles/CBMioAFBVV95cUxObnRPRGVhLUpYSW1ZNkNOUW10alFRdFRhSEI5ZFlvdnhrMkZObVM5SjBFUmF5aV9EOWJ4Ymp6V0d1NHhfVlMzSW5MYS03TkR1d1lVdXVtS3VsNnBDZlk1eFhNQy1HYXZGQl9idFliRGFmU0RQZkJCZVlyVXBzMko3RGdsNGF4SVZrNmVUT2xRMGYxZk04d3lIZFV4b0txWWNH?oc=5) | The New York Times | 2026-08-31T22:35+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [US health officials exclude measles-related deaths in Pennsylvania from counts | US healthcare](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5) | The Guardian | 2026-08-31T20:31+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Health Ministry investigating another suspected Ebola case after traveler returns from DR Congo](https://www.jpost.com/health-and-wellness/article-907180) | The Jerusalem Post | 2026-08-31T19:26+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Conflicting information continues in measles-associated death of Pennsylvania newborn](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkdPZ19TeVdMUllJMzBMY2VtMkF5ZFhSbTM2MDZ6bW81OUdwcG14TVVfb2ZRZUdWdWQtOVp3dTJXeTJUUzZ3aWQ1ZTJ1SGJvSmUxai1UVzJxcmlZTlBYZVAzUWZxTTRkM1JycWlYWVQyUzQtU1hjSkNwQk9kRHE1bFBjNVVWZjZaT1JKRjFjdVk4d1ctRm9CTXhTd045ZlJ5RE9lMDFIQTRTTURfOHNaWGpUOS0?oc=5) | CIDRAP | 2026-08-31T17:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [Current and potential uses of drones in healthcare delivery in sub-Saharan Africa: a rapid scoping review.](https://pubmed.ncbi.nlm.nih.gov/42676300/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/16549716.2026.2719410
+  Journal/preprint server: Global health action
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42676300/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42676300/
 - [Guardians' willingness to vaccinate primary and secondary school girls against human papillomavirus and associated factors in ethnic autonomous prefectures of Qinghai Province, China: A cross-sectional study based on the Health Belief Model and Theory of Planned Behavior.](https://pubmed.ncbi.nlm.nih.gov/42678389/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/21645515.2026.2725492
