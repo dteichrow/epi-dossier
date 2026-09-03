@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 115 clustered item(s) across 94 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 112 clustered item(s) across 90 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -628,7 +628,7 @@
       "related_stories": [
         {
           "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 5 clustered item(s) across 5 source(s).",
           "story_id": "story_28a91c6d89267872",
           "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
           "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
@@ -1833,6 +1833,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-09-03T12:21:38",
-  "run_id": "run_9d93695b9b248e04"
+  "generated_at": "2026-09-03T13:20:15",
+  "run_id": "run_d2f29305a58fb3c4"
 }
