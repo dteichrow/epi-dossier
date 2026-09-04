@@ -7,28 +7,27 @@
       "CBS News",
       "CIDRAP",
       "CNN",
-      "Guardian",
       "NBC News",
       "NPR",
       "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 238,
+    "metadata_only_count": 237,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 257,
+    "sources_live": 255,
     "story_count_change": 6,
-    "wrapper_only_count": 8
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 257,
+    "live": 255,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-03T21:20:20",
+  "generated_at": "2026-09-03T22:21:03",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
