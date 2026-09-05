@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 142 clustered item(s) across 110 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 139 clustered item(s) across 110 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -628,7 +628,7 @@
       "related_stories": [
         {
           "display_title": "Avian influenza and H5N1",
-          "latest_update_summary": "Baseline snapshot created with 4 clustered item(s) across 4 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 3 clustered item(s) across 3 source(s).",
           "story_id": "story_28a91c6d89267872",
           "story_url": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html",
           "story_web_path": "stories/story_28a91c6d89267872-avian-influenza-and-h5n1.html"
@@ -1279,7 +1279,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Baseline snapshot created with 27 clustered item(s) across 19 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 28 clustered item(s) across 20 source(s).",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1449,7 +1449,7 @@
       "related_stories": [
         {
           "display_title": "Malaria",
-          "latest_update_summary": "Baseline snapshot created with 10 clustered item(s) across 10 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 9 clustered item(s) across 9 source(s).",
           "story_id": "story_bd120a908eaabacf",
           "story_url": "stories/story_bd120a908eaabacf-malaria.html",
           "story_web_path": "stories/story_bd120a908eaabacf-malaria.html"
@@ -1849,6 +1849,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-09-04T16:23:31",
-  "run_id": "run_e4eecd2bfcb1508a"
+  "generated_at": "2026-09-04T17:20:29",
+  "run_id": "run_28279f3e5f9df894"
 }
