@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Baseline snapshot created with 135 clustered item(s) across 98 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 137 clustered item(s) across 104 source(s).",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1271,7 +1271,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Baseline snapshot created with 30 clustered item(s) across 21 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 31 clustered item(s) across 23 source(s).",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1441,7 +1441,7 @@
       "related_stories": [
         {
           "display_title": "Malaria",
-          "latest_update_summary": "Baseline snapshot created with 7 clustered item(s) across 7 source(s).",
+          "latest_update_summary": "Baseline snapshot created with 9 clustered item(s) across 9 source(s).",
           "story_id": "story_bd120a908eaabacf",
           "story_url": "stories/story_bd120a908eaabacf-malaria.html",
           "story_web_path": "stories/story_bd120a908eaabacf-malaria.html"
@@ -1841,6 +1841,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-09-06T21:31:47",
-  "run_id": "run_dbb009d0416b77ac"
+  "generated_at": "2026-09-07T02:44:22",
+  "run_id": "run_c4c8092f24796a70"
 }
