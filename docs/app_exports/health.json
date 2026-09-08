@@ -1,9 +1,10 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
       "BBC",
+      "CBS News",
       "CIDRAP",
       "CNN",
       "Guardian",
@@ -12,33 +13,27 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 259,
+    "metadata_only_count": 257,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 275,
+    "sources_failed": 1,
+    "sources_live": 273,
     "story_count_change": 5,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 275,
+    "live": 273,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-07T18:12:47",
+  "generated_at": "2026-09-07T23:33:59",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
     }
   ]
 }
