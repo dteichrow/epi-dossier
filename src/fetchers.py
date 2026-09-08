@@ -601,13 +601,15 @@ def enrich_item_text(item: Item, logger: logging.Logger) -> Item:
     if "html" not in content_type:
         return item
     item.extracted_text = extract_page_text(response.text).strip()
+    from .parsers import extract_publication_date
+    last_modified=response.headers.get('last-modified')
+    if last_modified:
+        try:item.metadata['source_last_modified_at']=parsedate_to_datetime(last_modified).isoformat()
+        except (TypeError, ValueError, OverflowError):pass
     if not item.published_at:
-        last_modified = response.headers.get("last-modified")
-        if last_modified:
-            try:
-                item.published_at = parsedate_to_datetime(last_modified)
-            except (TypeError, ValueError):
-                pass
+        item.published_at=extract_publication_date(response.text)
+        item.metadata['publication_date_source']='explicit page metadata' if item.published_at else 'unknown'
+    item.metadata['last_retrieved_at']=datetime.now(UTC).isoformat()
     return item
 
 

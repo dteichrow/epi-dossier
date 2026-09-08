@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Any
 
 from .database import SeenItemsDB
+from .public_contracts import normalize_snapshot
 from .main import parse_target_date, run_once
 from .outbreak_dashboard_quality import build_report as build_outbreak_dashboard_report
 from .outbreak_dashboard_quality import run_quality_checks as run_outbreak_dashboard_quality_checks
@@ -87,6 +88,7 @@ def main(argv: list[str] | None = None) -> int:
     publication_snapshot["stories"] = deepcopy(story_records)
     publication_snapshot["story_count"] = len(story_records)
     publication_snapshot["reference"] = deepcopy(reference_records)
+    publication_snapshot = normalize_snapshot(publication_snapshot)
     reader_html = payload["html_output"]
     html_validation_issues = payload.get("html_validation_issues") or validate_reader_story_sections(reader_html, story_records)
     db = SeenItemsDB()
@@ -766,7 +768,7 @@ def write_public_exports(
 ) -> None:
     public_dir = Path(docs_dir(deploy_dir)) / "app_exports"
     public_dir.mkdir(parents=True, exist_ok=True)
-    public_latest = transform_public_payload(deepcopy(latest_snapshot))
+    public_latest = transform_public_payload(normalize_snapshot(latest_snapshot))
     public_story_items = build_public_story_items(public_latest, story_items_by_id or {})
     public_latest["story_items"] = public_story_items
     public_latest["story_item_count"] = len(public_story_items)

@@ -365,3 +365,26 @@ def is_boilerplate(text: str) -> bool:
     if len(set(text.split())) < 8 and len(text.split()) > 12:
         return True
     return False
+
+
+def extract_publication_date(html_text: str):
+    """Only explicit publication metadata is admissible; HTTP modification is not."""
+    import json
+    soup=BeautifulSoup(html_text,'html.parser')
+    for selector in ['meta[property="article:published_time"]','meta[name="citation_publication_date"]','meta[name="datePublished"]','meta[itemprop="datePublished"]','time[itemprop="datePublished"]']:
+        node=soup.select_one(selector)
+        if node:
+            value=node.get('content') or node.get('datetime') or node.get_text(' ',strip=True)
+            parsed=parse_datetime(value)
+            if parsed:return parsed
+    for node in soup.select('script[type="application/ld+json"]'):
+        try:payload=json.loads(node.string or node.get_text())
+        except (ValueError,TypeError):continue
+        queue=payload if isinstance(payload,list) else [payload]
+        for entry in queue:
+            if not isinstance(entry,dict):continue
+            if '@graph' in entry and isinstance(entry['@graph'],list):queue.extend(entry['@graph'])
+            if 'datePublished' in entry:
+                parsed=parse_datetime(entry['datePublished'])
+                if parsed:return parsed
+    return None

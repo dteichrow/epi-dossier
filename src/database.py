@@ -232,6 +232,7 @@ class SeenItemsDB:
             (item_id,),
         ).fetchone()
         first_seen_at = existing["first_seen_at"] if existing else seen_at
+        payload["first_discovered_at"] = first_seen_at
         self.connection.execute(
             """
             INSERT OR REPLACE INTO app_feed_items(

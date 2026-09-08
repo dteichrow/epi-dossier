@@ -1,4 +1,5 @@
 from __future__ import annotations
+from .public_contracts import item_date_label, public_summary
 
 import html
 import json
@@ -1543,7 +1544,7 @@ def render_public_research_card(item: dict[str, Any]) -> str:
         f'<p><strong>Source:</strong> {escape(source_label)}</p>'
         f'{f"<p><strong>Why it matters:</strong> {escape(why_it_matters)}</p>" if why_it_matters else ""}'
         f'{f"<p><strong>Evidence caveat:</strong> {escape(caveats)}</p>" if caveats else ""}'
-        f'<div class="meta-row"><span class="badge">{escape(item.get("published_at", "Unknown"))}</span><span class="badge">{escape(freshness)}</span>{f"<span class=\"badge\">DOI: {escape(doi)}</span>" if doi else ""}{f"<a class=\"link-pill\" href=\"{escape_attr(abstract_url)}\">Abstract</a>" if abstract_url else ""}</div>'
+        f'<div class="meta-row"><span class="badge">{escape(item_date_label(item))}</span><span class="badge">{escape(freshness)}</span>{f"<span class=\"badge\">DOI: {escape(doi)}</span>" if doi else ""}{f"<a class=\"link-pill\" href=\"{escape_attr(abstract_url)}\">Abstract</a>" if abstract_url else ""}</div>'
         f"</article>"
     )
 
@@ -1571,7 +1572,7 @@ def render_public_item_card(item: dict[str, Any]) -> str:
         f'<div class="kicker">{escape(public_item_kicker(item))}</div>'
         f'<h3><a href="{escape_attr(item.get("preferred_url") or item.get("source_url", ""))}">{escape(item.get("title", ""))}</a></h3>'
         f'<p>{escape(item.get("summary", ""))}</p>'
-        f'<div class="meta-row"><span class="badge">{escape(item.get("publisher_name", item.get("source", "Unknown")))}</span><span class="badge">{escape(item.get("region", ""))}</span><span class="badge">{escape(item.get("published_at", "Unknown"))}</span><span class="badge">{escape(source_confidence)}</span><span class="badge">{escape(freshness)}</span><span class="badge">{escape(quality)}</span></div>'
+        f'<div class="meta-row"><span class="badge">{escape(item.get("publisher_name", item.get("source", "Unknown")))}</span><span class="badge">{escape(item.get("region", ""))}</span><span class="badge">{escape(item_date_label(item))}</span><span class="badge">{escape(source_confidence)}</span><span class="badge">{escape(freshness)}</span><span class="badge">{escape(quality)}</span></div>'
         f"</article>"
     )
 
@@ -2512,7 +2513,7 @@ def render_story_item_card(item: dict[str, Any], label: str) -> str:
         f'<h3><a href="{escape_attr(item.get("preferred_url") or item.get("source_url", ""))}">{escape(item.get("title", ""))}</a></h3>'
         f"{location_line}"
         f"{summary_html}"
-        f'<div class="meta-row"><span class="badge">{escape(item.get("publisher_name", item.get("display_source", "Unknown")))}</span>{source_kind_badge}{source_confidence_badge}{access_badge}{freshness_badge}<span class="badge">{escape(region)}</span><span class="badge">{escape(item.get("published_at", "Unknown"))}</span><span class="badge">{link_quality_label}</span>{metadata_badge}</div>'
+        f'<div class="meta-row"><span class="badge">{escape(item.get("publisher_name", item.get("display_source", "Unknown")))}</span>{source_kind_badge}{source_confidence_badge}{access_badge}{freshness_badge}<span class="badge">{escape(region)}</span><span class="badge">{escape(item_date_label(item))}</span><span class="badge">{link_quality_label}</span>{metadata_badge}</div>'
         f"</article>"
     )
 
