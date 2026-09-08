@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 from datetime import date, datetime
 import json
+import re
 from pathlib import Path
 import shutil
 from .public_contracts import normalize_snapshot, public_summary, item_date_label
@@ -17,6 +18,24 @@ from .render_site import (
     items_for_edition,
 )
 from .utils import load_editions_config
+
+
+def refresh_archived_palette(document: str) -> str:
+    """Update retired design colours without rewriting archived reporting."""
+    replacements = {
+        "#35552b": "#61436e",
+        "#173226": "#30233c",
+        "#376846": "#65477a",
+        "#d8f1dc": "#eee0f5",
+        "#9fd0aa": "#cbb0df",
+    }
+    document = re.sub(
+        r"#[0-9a-fA-F]{6}\b",
+        lambda match: replacements.get(match[0].lower(), match[0]),
+        document,
+    )
+    document = re.sub(r"rgba\(\s*60\s*,\s*88\s*,\s*48\s*,", "rgba(97,67,110,", document)
+    return re.sub(r"rgba\(\s*31\s*,\s*42\s*,\s*45\s*,", "rgba(32,33,39,", document)
 
 
 def rebuild(source_docs: Path, output_dir: Path):
@@ -133,8 +152,12 @@ def rebuild(source_docs: Path, output_dir: Path):
     # rebuild. Remove processing notices without inventing historical updates.
     from bs4 import BeautifulSoup
 
-    for path in output_dir.rglob("*.html"):
+    for path in list(output_dir.rglob("*.html")) + list(output_dir.rglob("*.svg")):
         original = path.read_text()
+        refreshed = refresh_archived_palette(original)
+        if refreshed != original:
+            path.write_text(refreshed)
+            original = refreshed
         if not any(
             term in original.lower()
             for term in (

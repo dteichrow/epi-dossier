@@ -12,17 +12,17 @@ THEMES = {
         "gold": "#d8aa46",
     },
     "vector": {
-        "bg_a": "#173226",
-        "bg_b": "#376846",
-        "accent": "#d8f1dc",
-        "signal": "#9fd0aa",
+        "bg_a": "#30233c",
+        "bg_b": "#65477a",
+        "accent": "#eee0f5",
+        "signal": "#cbb0df",
         "gold": "#d4b15a",
     },
     "enteric": {
         "bg_a": "#17394a",
         "bg_b": "#2a6278",
-        "accent": "#d7f0f6",
-        "signal": "#8ac7da",
+        "accent": "#e0e1ed",
+        "signal": "#9ca0c8",
         "gold": "#e3bf67",
     },
     "hemorrhagic": {
