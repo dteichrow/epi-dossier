@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Any
 
 from .database import SeenItemsDB
+from .public_contracts import coverage_geography, public_summary, COUNTRY_REGIONS, infer_country
 from .render_markdown import StoryUpdate, build_topic_groups, build_topic_synopsis, classify_topic
 from .utils import (
     EditionConfig,
@@ -251,8 +252,14 @@ def build_item_records(items: list[Item], exported_at: str) -> list[dict[str, An
                 "source_cached_at": item.metadata.get("source_cached_at"),
                 "source_cache_age_hours": item.metadata.get("source_cache_age_hours"),
                 "published_at": format_timestamp(item.published_at),
+                "source_published_at": item.published_at.isoformat() if item.published_at else None,
+                "publication_date_source": item.metadata.get("publication_date_source", "source record" if item.published_at else "unknown"),
+                "source_last_modified_at": item.metadata.get("source_last_modified_at"),
+                "first_discovered_at": item.metadata.get("first_discovered_at"),
+                "last_retrieved_at": item.metadata.get("last_retrieved_at") or item.metadata.get("source_cached_at"),
+                "exported_at": exported_at,
                 "category": item.category,
-                "region": infer_region(item),
+                "region": COUNTRY_REGIONS.get(infer_country(item), infer_region(item)),
                 "country": infer_country(item),
                 "local_signal": has_local_signal(item),
                 "topic_name": topic_name,
@@ -611,8 +618,8 @@ def build_story_records(
                 "lead_url": snapshot["lead_url"],
                 "lead_source": snapshot["lead_source"],
                 "latest_timestamp": snapshot["latest_timestamp"],
-                "latest_update_summary": latest_update_summary if update else previous_story_summary,
-                "latest_update_bullets": latest_update_bullets if update else previous_story_bullets,
+                "latest_update_summary": public_summary(latest_update_summary if update else previous_story_summary, snapshot["lead_title"]),
+                "latest_update_bullets": [public_summary(b, snapshot["lead_title"]) for b in (latest_update_bullets if update else previous_story_bullets)],
                 "new_since_last_refresh": bool(update and update.bullets),
                 "source_count": len(snapshot["source_names"]),
                 "item_count": snapshot["cluster_size"],
@@ -630,8 +637,7 @@ def build_story_records(
                 "what_happened": snapshot["lead_title"],
                 "why_it_matters": infer_story_why_it_matters(story_items),
                 "current_status_summary": humanize_story_status(story_status),
-                "primary_region": infer_story_primary_region(story_items),
-                "country": infer_story_primary_country(story_items),
+                **coverage_geography(story_items, infer_country, infer_region),
                 "evidence_type": infer_story_evidence_type(story_items),
                 "publisher_family_count": count_high_signal_publishers(story_items),
                 "first_seen_at": existing_timeline[0]["generated_at"] if existing_timeline else exported_at,
@@ -788,75 +794,13 @@ def infer_story_why_it_matters(items: list[Item]) -> str:
     return "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."
 
 
-def infer_story_primary_region(items: list[Item]) -> str:
-    if not items:
-        return ""
-    counts: dict[str, int] = {}
-    for item in items:
-        region = infer_region(item)
-        counts[region] = counts.get(region, 0) + 1
-    return max(counts.items(), key=lambda pair: pair[1])[0]
+def infer_story_primary_region(items):
+    return coverage_geography(items, infer_country, infer_region)["primary_region"]
 
 
-def infer_country(item: Item) -> str:
-    # Publisher domains describe where an outlet is based, not where an outbreak
-    # occurred. Geography therefore comes from the report text, except for named
-    # official state and local public-health sources whose jurisdiction is clear.
-    official_source = item.source.lower()
-    if item.official and any(
-        marker in official_source
-        for marker in (
-            "michigan department of health",
-            "toledo-lucas county health",
-            "ohio department of health",
-        )
-    ):
-        return "United States"
 
-    text = " ".join([item.title.lower(), item.summary.lower()])
-    country_map = {
-        "Democratic Republic of the Congo": (r"\bdemocratic republic of (?:the )?congo\b", r"\bdrc\b", r"\bdr congo\b", r"\bcongo\b", r"\bituri\b", r"\bnorth kivu\b", r"\bbunia\b", r"\bkinshasa\b"),
-        "Uganda": (r"\buganda\b", r"\bkampala\b"),
-        "South Sudan": (r"\bsouth sudan\b",),
-        "Rwanda": (r"\brwanda\b",),
-        "Sierra Leone": (r"\bsierra leone\b",),
-        "Liberia": (r"\bliberia\b",),
-        "Guinea": (r"\bguinea\b",),
-        "Nigeria": (r"\bnigeria\b",),
-        "Kenya": (r"\bkenya\b",),
-        "Tanzania": (r"\btanzania\b",),
-        "Ethiopia": (r"\bethiopia\b",),
-        "Ghana": (r"\bghana\b",),
-        "United Kingdom": (r"\bunited kingdom\b", r"\bbritain\b", r"\bbritish\b", r"(?<!\w)uk(?!\w)"),
-        "Spain": (r"\bspain\b", r"\bcanary islands\b", r"\btenerife\b"),
-        "Cape Verde": (r"\bcape verde\b",),
-        "United States": (r"\bunited states\b", r"(?<!\w)u\.?s\.?a?(?!\w)", r"\bcalifornia\b", r"\bnew york\b", r"\btexas\b", r"\bmichigan\b", r"\bohio\b", r"\bwashington state\b", r"\boregon\b"),
-        "Canada": (r"\bcanada\b",),
-        "India": (r"\bindia\b",),
-        "Brazil": (r"\bbrazil\b",),
-    }
-    matches: list[str] = []
-    for country, patterns in country_map.items():
-        if any(re.search(pattern, text, flags=re.IGNORECASE) for pattern in patterns):
-            matches.append(country)
-    if len(matches) > 1:
-        return " / ".join(matches[:2])
-    if matches:
-        return matches[0]
-    return ""
-
-
-def infer_story_primary_country(items: list[Item]) -> str:
-    official_countries = [infer_country(item) for item in items if item.official and infer_country(item)]
-    if official_countries:
-        return max(official_countries, key=official_countries.count)
-
-    counts: dict[str, int] = {}
-    for item in items:
-        country = infer_country(item)
-        if country:
-            counts[country] = counts.get(country, 0) + 1
-    return max(counts.items(), key=lambda pair: pair[1])[0] if counts else ""
+def infer_story_primary_country(items):
+    return coverage_geography(items, infer_country, infer_region)["country"]
 
 
 def infer_story_evidence_type(items: list[Item]) -> str:
@@ -1031,9 +975,10 @@ def persist_items(db: SeenItemsDB, records: list[dict[str, Any]], previous_items
     for record in records:
         item_id = record["item_id"]
         previous = previous_items.get(item_id)
+        record["first_discovered_at"]=(previous or {}).get("first_discovered_at") or record.get("first_discovered_at") or exported_at
         previous_updated_at = previous.get("updated_at") if previous else exported_at
-        fingerprint = content_hash(record, ignore_keys={"updated_at"})
-        previous_hash = content_hash(previous, ignore_keys={"updated_at"}) if previous else None
+        fingerprint = content_hash(record, ignore_keys={"updated_at", "exported_at", "last_retrieved_at", "first_discovered_at"})
+        previous_hash = content_hash(previous, ignore_keys={"updated_at", "exported_at", "last_retrieved_at", "first_discovered_at"}) if previous else None
         if previous_hash == fingerprint:
             record["updated_at"] = previous_updated_at
         else:
@@ -1048,8 +993,8 @@ def persist_topics(db: SeenItemsDB, records: list[dict[str, Any]], previous_topi
         topic_id = record["topic_id"]
         previous = previous_topics.get(topic_id)
         previous_updated_at = previous.get("updated_at") if previous else exported_at
-        fingerprint = content_hash(record, ignore_keys={"updated_at"})
-        previous_hash = content_hash(previous, ignore_keys={"updated_at"}) if previous else None
+        fingerprint = content_hash(record, ignore_keys={"updated_at", "exported_at", "last_retrieved_at", "first_discovered_at"})
+        previous_hash = content_hash(previous, ignore_keys={"updated_at", "exported_at", "last_retrieved_at", "first_discovered_at"}) if previous else None
         if previous_hash == fingerprint:
             record["updated_at"] = previous_updated_at
         else:

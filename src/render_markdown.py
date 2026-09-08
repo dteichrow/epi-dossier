@@ -596,14 +596,14 @@ def build_story_update(topic_name: str, items: list[Item], snapshot: dict, previ
 
 def build_baseline_story_bullets(snapshot: dict) -> list[str]:
     bullets = [
-        f"Baseline snapshot created with {snapshot['cluster_size']} clustered item(s) across {len(snapshot['source_names'])} source(s).",
+        f"Monitoring: {snapshot['lead_title']}",
     ]
     for flag in snapshot["flags"][:3]:
         message = format_story_flag_message(flag, snapshot)
         if message:
             bullets.append(message)
     if len(bullets) == 1:
-        bullets.append("Story tracking is now active for this cluster; future runs will report only new developments against this baseline.")
+        bullets.append("The linked sources provide the current reporting record; this entry does not establish a new development.")
     return bullets
 
 

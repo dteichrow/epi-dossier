@@ -174,3 +174,17 @@ This is a working personal research/publication system, not a packaged commercia
 The closest analogy in clinical evidence work is the front half of an evidence product: define the monitored domain, ingest imperfect real-world/public source material, structure it, check reliability, and produce an artifact that a reader can inspect rather than blindly trust.
 
 For newsroom-style review, the relevant quality bar is evidence traceability rather than polish. Dashboard counts must be sourced to official surveillance, authority-citing public reports, or explicit curated overrides; degraded source refreshes are exposed in public health exports and on the Newsdesk home instead of being silently treated as complete surveillance.
+
+## Public evidence contracts (September 2026)
+
+`src/public_contracts.py` owns the date, geography, and summary contracts used by public exports. Publication time (`source_published_at`), first discovery (`first_discovered_at`), last retrieval (`last_retrieved_at`), and HTTP modification (`source_last_modified_at`) are separate. Unknown publication dates are null in the explicit field. HTTP Last-Modified is never promoted to publication time. Country and region use the same source records; multiple regions remain explicit and are coverage descriptions, not geocoded case counts.
+
+Re-render a cached public export with current contracts without collecting or sending anything:
+
+```sh
+python -m src.rebuild_public --source-docs docs --output-dir /tmp/newsdesk-reviewed/docs
+```
+
+The command preserves the original collection timestamp, supplies contract version 2, clears legacy HTML publication dates whose provenance is unavailable, and removes processing notices from public summaries. Legacy reported dates remain in a separately named field; missing first-discovery times are not guessed. The umbrella website calls this renderer in an isolated temporary directory before import.
+
+Regression coverage is in `tests/test_public_contracts.py`, alongside existing collection, export, database, and renderer tests. No database migration, credential change, email send, or new paid service is required.

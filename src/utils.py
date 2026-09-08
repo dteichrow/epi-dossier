@@ -966,20 +966,15 @@ def list_briefing_archives(include_date: date | None = None) -> list[ArchiveEntr
 
 
 def infer_region(item: Item) -> str:
-    text = " ".join(
-        [
-            item.title.lower(),
-            item.summary.lower(),
-            item.category.lower(),
-            item.source.lower(),
-            (item.publisher or "").lower(),
-            item.url.lower(),
-        ]
-    )
-    for region, keywords in REGION_KEYWORDS.items():
-        if any(text_contains_keyword(text, keyword) for keyword in keywords):
-            return region
-    return "Cross-region / unassigned"
+    # Publisher names, domains, generic counties, and CDC mentions are not geography.
+    text=" ".join([item.title.lower(),item.summary.lower()])
+    excluded={"county","cdc","mmwr","washington","port"}
+    regions=[region for region,keywords in REGION_KEYWORDS.items()
+             if any(text_contains_keyword(text,k) for k in keywords if k not in excluded)]
+    geographic=[region for region in regions if region!="Global / Maritime"]
+    if len(geographic)>1:return "Multi-region"
+    if geographic:return geographic[0]
+    return "Global / Maritime" if "Global / Maritime" in regions else "Cross-region / unassigned"
 
 
 def has_local_signal(item: Item) -> bool:
