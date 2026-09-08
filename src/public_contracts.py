@@ -113,6 +113,16 @@ def item_date_label(item):
     return publication
 
 
+def collection_date_label(value):
+    if not value:
+        return "Collection date not established"
+    try:
+        date = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        return "Collection updated " + date.strftime("%b %d, %Y").replace(" 0", " ")
+    except ValueError:
+        return "Collection date not established"
+
+
 def infer_country(item) -> str:
     # Publisher domains describe where an outlet is based, not where an outbreak
     # occurred. Geography therefore comes from the report text, except for named
@@ -124,6 +134,7 @@ def infer_country(item) -> str:
             "michigan department of health",
             "toledo-lucas county health",
             "ohio department of health",
+            "florida department of health",
         )
     ):
         return "United States"
@@ -165,6 +176,7 @@ def infer_country(item) -> str:
             r"\bcalifornia\b",
             r"\bnew york\b",
             r"\btexas\b",
+            r"\bflorida\b",
             r"\bmichigan\b",
             r"\bohio\b",
             r"\bwashington state\b",
