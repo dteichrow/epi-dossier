@@ -788,7 +788,7 @@ def infer_story_why_it_matters(items: list[Item]) -> str:
     official_count = sum(1 for item in items if item.official)
     publisher_count = len({item.publisher_name for item in items if not item.official})
     if official_count and publisher_count:
-        return f"This story has both official follow-up and broad publisher corroboration across {publisher_count} newsroom source(s)."
+        return f"This story combines official reporting with coverage from {publisher_count} newsroom source(s)."
     if official_count:
         return "This file matters because official outbreak tracking remains active even if publisher coverage is thin."
     return "This file matters because newsroom follow-up suggests the story is still moving even without a fresh official update."

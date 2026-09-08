@@ -4,10 +4,25 @@ from src.public_contracts import (
     infer_country,
     normalize_snapshot,
     item_date_label,
+    collection_date_label,
 )
 from src.utils import Item, infer_region
 from src.parsers import extract_publication_date
 from src.fetchers import enrich_item_text
+
+
+def test_florida_official_geography_is_retained_in_dengue_story():
+    item = Item(title="Florida Surgeon General reminds Floridians about dengue", source="Florida Department of Health Press Releases", url="https://www.floridahealth.gov/", category="Outbreaks", official=True)
+    result = coverage_geography([item], infer_country, infer_region)
+    assert result["country"] == "United States"
+    assert result["primary_region"] == "North America"
+    item.official = False
+    assert infer_country(item) == "United States"
+
+
+def test_collection_label_is_distinct_from_source_publication():
+    assert collection_date_label("2026-09-08T08:10:37") == "Collection updated Sep 8, 2026"
+    assert collection_date_label(None) == "Collection date not established"
 
 
 def test_http_modification_never_becomes_publication(monkeypatch):
@@ -91,6 +106,7 @@ def test_legacy_rebuild_preserves_unknowns_and_does_not_fake_freshness():
             {
                 "item_ids": ["x"],
                 "lead_title": "Cholera in Uganda",
+                "why_it_matters": "This story has broad publisher corroboration.",
                 "latest_update_summary": "Baseline snapshot created; story tracking is now active.",
             }
         ],
@@ -103,6 +119,7 @@ def test_legacy_rebuild_preserves_unknowns_and_does_not_fake_freshness():
     assert item["last_retrieved_at"] == "2026-09-01T00:00:00"
     assert upgraded["generated_at"] == original["generated_at"]
     assert upgraded["stories"][0]["country"] == "Uganda"
+    assert upgraded["stories"][0]["why_it_matters"] == "This story has publisher coverage."
     assert upgraded["stories"][0]["primary_region"] == "Africa"
     assert (
         upgraded["stories"][0]["latest_update_summary"]

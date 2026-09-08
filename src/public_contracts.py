@@ -69,6 +69,7 @@ def coverage_geography(items, country_for, region_for):
 
 def public_summary(text, lead_title=""):
     value = re.sub(r"\s+", " ", str(text or "")).strip()
+    value = value.replace("broad publisher corroboration", "publisher coverage")
     internal = (
         "baseline snapshot created",
         "story tracking is now active",
@@ -113,6 +114,16 @@ def item_date_label(item):
     return publication
 
 
+def collection_date_label(value):
+    if not value:
+        return "Collection date not established"
+    try:
+        date = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        return "Collection updated " + date.strftime("%b %d, %Y").replace(" 0", " ")
+    except ValueError:
+        return "Collection date not established"
+
+
 def infer_country(item) -> str:
     # Publisher domains describe where an outlet is based, not where an outbreak
     # occurred. Geography therefore comes from the report text, except for named
@@ -124,6 +135,7 @@ def infer_country(item) -> str:
             "michigan department of health",
             "toledo-lucas county health",
             "ohio department of health",
+            "florida department of health",
         )
     ):
         return "United States"
@@ -165,6 +177,7 @@ def infer_country(item) -> str:
             r"\bcalifornia\b",
             r"\bnew york\b",
             r"\btexas\b",
+            r"\bflorida\b",
             r"\bmichigan\b",
             r"\bohio\b",
             r"\bwashington state\b",
@@ -247,7 +260,7 @@ def normalize_snapshot(snapshot):
         )
         story_items = [models[id] for id in ids if id in models]
         story.update(coverage_geography(story_items, infer_country, infer_region))
-        for key in ("latest_update_summary", "current_status_summary", "what_happened"):
+        for key in ("latest_update_summary", "current_status_summary", "what_happened", "why_it_matters"):
             if key in story:
                 story[key] = public_summary(
                     story[key],

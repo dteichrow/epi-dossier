@@ -1,5 +1,5 @@
 from __future__ import annotations
-from .public_contracts import item_date_label, public_summary
+from .public_contracts import item_date_label, public_summary, collection_date_label
 
 import html
 import json
@@ -432,9 +432,9 @@ def render_public_homepage(
         <h1>The Pathogen Dispatch</h1>
         <p class="subtitle">A source-first infectious disease newsroom for reporters, editors, and public-health analysts who need to know what changed, how trustworthy it is, and where to click next.</p>
         <div class="meta-row">
-          <span class="badge accent">{latest_snapshot.get("story_count", 0)} active file(s)</span>
-          <span class="badge">{latest_snapshot.get("item_count", 0)} current item(s)</span>
-          <span class="badge">Updated {escape(latest_snapshot.get("generated_at", "Unknown"))}</span>
+          <span class="badge accent">{latest_snapshot.get("story_count", 0)} monitored stories</span>
+          <span class="badge">{latest_snapshot.get("item_count", 0)} source records</span>
+          <span class="badge">{escape(collection_date_label(latest_snapshot.get("generated_at")))}</span>
         </div>
       </section>
       {render_source_health_notice(latest_snapshot)}
