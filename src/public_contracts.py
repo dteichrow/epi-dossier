@@ -69,6 +69,7 @@ def coverage_geography(items, country_for, region_for):
 
 def public_summary(text, lead_title=""):
     value = re.sub(r"\s+", " ", str(text or "")).strip()
+    value = value.replace("broad publisher corroboration", "publisher coverage")
     internal = (
         "baseline snapshot created",
         "story tracking is now active",
@@ -259,7 +260,7 @@ def normalize_snapshot(snapshot):
         )
         story_items = [models[id] for id in ids if id in models]
         story.update(coverage_geography(story_items, infer_country, infer_region))
-        for key in ("latest_update_summary", "current_status_summary", "what_happened"):
+        for key in ("latest_update_summary", "current_status_summary", "what_happened", "why_it_matters"):
             if key in story:
                 story[key] = public_summary(
                     story[key],

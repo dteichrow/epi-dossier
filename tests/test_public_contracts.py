@@ -106,6 +106,7 @@ def test_legacy_rebuild_preserves_unknowns_and_does_not_fake_freshness():
             {
                 "item_ids": ["x"],
                 "lead_title": "Cholera in Uganda",
+                "why_it_matters": "This story has broad publisher corroboration.",
                 "latest_update_summary": "Baseline snapshot created; story tracking is now active.",
             }
         ],
@@ -118,6 +119,7 @@ def test_legacy_rebuild_preserves_unknowns_and_does_not_fake_freshness():
     assert item["last_retrieved_at"] == "2026-09-01T00:00:00"
     assert upgraded["generated_at"] == original["generated_at"]
     assert upgraded["stories"][0]["country"] == "Uganda"
+    assert upgraded["stories"][0]["why_it_matters"] == "This story has publisher coverage."
     assert upgraded["stories"][0]["primary_region"] == "Africa"
     assert (
         upgraded["stories"][0]["latest_update_summary"]
