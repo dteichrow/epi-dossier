@@ -9,23 +9,24 @@
       "Guardian",
       "NBC News",
       "New York Times",
+      "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 237,
+    "metadata_only_count": 240,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 254,
+    "sources_live": 256,
     "story_count_change": 6,
-    "wrapper_only_count": 8
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 254,
+    "live": 256,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-08T18:50:17",
+  "generated_at": "2026-09-08T19:50:25",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
