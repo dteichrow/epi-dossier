@@ -1,40 +1,37 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
       "CBS News",
       "CIDRAP",
+      "Guardian",
+      "NBC News",
+      "NPR",
       "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 124,
+    "metadata_only_count": 210,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 138,
+    "sources_failed": 1,
+    "sources_live": 228,
     "story_count_change": 6,
-    "wrapper_only_count": 6
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 138,
+    "live": 228,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-09T07:38:20",
+  "generated_at": "2026-09-09T13:57:23",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
-      "source_type": "html_list"
-    },
-    {
-      "error": "HTTPSConnectionPool(host='www.dshs.texas.gov', port=443): Read timed out. (read timeout=8)",
-      "required": true,
-      "source": "Texas Department of State Health Services News",
       "source_type": "html_list"
     }
   ]
