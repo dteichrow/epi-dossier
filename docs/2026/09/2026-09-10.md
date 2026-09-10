@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-10
-Generated at: 2026-09-10T13:21
+Generated at: 2026-09-10T14:21
 Search window: 7 day(s) ending 2026-09-10
 
 ## Executive scan
@@ -12,27 +12,27 @@ Search window: 7 day(s) ending 2026-09-10
 - [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases; 2026-09-04T12:38-04:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-02T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-09-01T20:01+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (183), Policy, surveillance, and public health infrastructure (10), Occupational and environmental epidemiology (4)
+- Category mix: Outbreaks and emerging infections (182), Policy, surveillance, and public health infrastructure (11), Occupational and environmental epidemiology (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 91 item(s) across 78 source(s).
+- Newly tracked story cluster: 88 item(s) across 76 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - NBC News now includes deaths or fatal cases in the story frame.
 - South Asian Herald now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 49 item(s) across 39 source(s).
+- Newly tracked story cluster: 49 item(s) across 38 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - The Diplomat – Asia-Pacific Current Affairs Magazine now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
 - Lead item: [Advances in mosquito gut microbiota: Mechanisms of regulating pathogen transmission and applications in vector control.](https://pubmed.ncbi.nlm.nih.gov/42717435/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 22 item(s) across 21 source(s).
+- Newly tracked story cluster: 23 item(s) across 22 source(s).
 - Monitoring: Advances in mosquito gut microbiota: Mechanisms of regulating pathogen transmission and applications in vector control.
 - the-star.co.ke now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
@@ -46,14 +46,14 @@ Search window: 7 day(s) ending 2026-09-10
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 28 item(s) across 26 source(s).
+- Newly tracked story cluster: 30 item(s) across 29 source(s).
 - Monitoring: Toledo-Lucas County Health Department Cyclosporiasis Update
-- Food Safety Magazine now explicitly uses investigation or monitoring language.
+- food-safety.com now explicitly uses investigation or monitoring language.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 91 item(s) across 78 source(s); 1 official/primary-source item(s).
+- Topic size: 88 item(s) across 76 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: She is one of thousands of children sickened by a measles outbreak that is sweeping across the South Asian country and has killed hundreds of children following setbacks to the national vaccine program. I saw that those children also had red rashes on their bodies, sores in their mouths and fevers,” Akhter told The Associated Press at Dhaka Shishu Hospital. Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Bangladesh to Resume Nationwide Measles Vaccination Campaign from Sept. 25](https://southasianherald.com/bangladesh-to-resume-nationwide-measles-vaccination-campaign-from-sept-25/) (South Asian Herald); [Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak](https://www.nbcnews.com/world/asia/bangladesh-measles-outbreak-kills-nearly-1000-rcna596960) (NBC News); [Coroner releases details on 2 infant deaths in Pennsylvania measles outbreak](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWENvZWtocHZYbHU3QThtWEtjajlidWhvSVA0SVg5TlZjUEZnRXpBQURYc2U5Y2w5N25CQ040VjFBd0JPVHZTMUZpeEluVEM0Nk55cTZROS1uU2F0Rm1PX0pxWWl4RUlDM0xER0U4ZFIwSnlNX1d4Y2FJMEg0ZTJrMVdpYWROQjRZ?oc=5) (CBS News); [Bangladesh in grips of world's worst measles outbreak, with 1,000 dead in last 6 months](https://www.cbc.ca/news/health/bangladesh-worst-measles-outbreak-9.7337063) (CBC)
@@ -61,26 +61,26 @@ Search window: 7 day(s) ending 2026-09-10
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 49 item(s) across 39 source(s); 2 official/primary-source item(s).
+- Topic size: 49 item(s) across 38 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-07T17:36+02:00)
 - Detailed note: Since External Situation Report #15, a further 516 confirmed cases and 270 confirmed deaths have been reported, bringing the cumulative total to 6100 confirmed cases, including 2950 deaths (CFR 48.4%), as of 30 August 2026. During the 2014-2016 West African Ebola outbreak , which caused approximately 11,325 deaths and more than 28,600 cases, China emerged as an unexpectedly prominent donor. More than 6,700 people...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Why Is China Less Active in the 2026 Ebola Epidemic? - The Diplomat – Asia-Pacific Current Affairs Magazine](https://thediplomat.com/2026/09/why-is-china-less-active-in-the-2026-ebola-epidemic/) (The Diplomat – Asia-Pacific Current Affairs Magazine); [Ebola outbreak in DR Congo expands to new health zone, bringing total to 61: WHO](https://www.aa.com.tr/en/africa/ebola-outbreak-in-dr-congo-expands-to-new-health-zone-bringing-total-to-61-who/4053454) (Anadolu Ajansı); [Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (European Centre for Disease Prevention and Control (ECDC))
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Africa's top health body warns Congo’s Ebola outbreak is rapidly spreading beyond epicenter - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/africas-top-health-body-warns-congos-ebola-outbreak-136345198) (ABC News - Breaking News, Latest News and Videos); [Why Is China Less Active in the 2026 Ebola Epidemic? - The Diplomat – Asia-Pacific Current Affairs Magazine](https://thediplomat.com/2026/09/why-is-china-less-active-in-the-2026-ebola-epidemic/) (The Diplomat – Asia-Pacific Current Affairs Magazine); [Ebola outbreak in DR Congo expands to new health zone, bringing total to 61: WHO](https://www.aa.com.tr/en/africa/ebola-outbreak-in-dr-congo-expands-to-new-health-zone-bringing-total-to-61-who/4053454) (Anadolu Ajansı)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 28 item(s) across 26 source(s); 1 official/primary-source item(s).
+- Topic size: 30 item(s) across 29 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-09-02T00:00)
 - Detailed note: Where outbreak stands in Michigan Lansing State Journal The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/09/10/federal-officials-poised-declare-end-uss-largest-known-cyclosporiasis-outbreak/) (The Washington Post); [Public Health Alerts: Cyclosporiasis outbreak in Michigan, May–July 2026—an interim report](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ2tfMGNrLXpPTDlIZ0txYmtmUElXOTQxU2JMQmVDNjBwR2VMVlBQeDlCS3VMSURaR2xqSGROSThyVDRPZTczTnEzck1vUkRSOEltdER0azdpOWdvLXJjVjVja1g5UHkxM2lDdEp5VzRkSzg3Tmd6RVRZOV9oSGRoOGNoM09xeFY4TWZIOXpJb0ppQkRzMkFidGwxTWZTbnljUVJ0T0pobjVFcktNXzhwUmZiWlcybEY4YUprakdaV28?oc=5) (CIDRAP); [Cyclosporiasis cases falling. Where outbreak stands in Michigan](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeGFLdWsxamxZQnJjNVdUU0RhVVdvS0l6YXlLZXJnWm9QdjM1clJqY1V2d1AzM05NamRnTnNUM2JYVHJVdFQzZTZSMkpXNFVodDRGNHh3czhpdEsyNlhHT1JlQklscEl6Ql9ab2QtcnUwMS1BcmZZNE9vZG1yWGJkazI4ZHJlZTVpM2tEMEtpdFF3VjhtQ2QtalRESkxVcWZSN1VCUGFLcVFvbFRWVXlCOGMtVlVuTlQ5UEEwWFVBYkJBazF4bS1XWWY1cWFUUm5XUXU5emJUTUZncXpWb3Fr?oc=5) (Lansing State Journal); [Cyclosporiasis Outbreak Over After Parasite Sparked Mass Lettuce Angst](https://www.forbes.com/sites/maryroeloffs/2026/09/10/historic-cyclosporiasis-outbreak-being-declared-over-report-says/) (Forbes)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclospora outbreak to be declared over](https://www.cnn.com/2026/09/10/health/cyclospora-outbreak-over) (CNN); [Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/09/10/federal-officials-poised-declare-end-uss-largest-known-cyclosporiasis-outbreak/) (The Washington Post); [Public Health Alerts: Cyclosporiasis outbreak in Michigan, May–July 2026—an interim report](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ2tfMGNrLXpPTDlIZ0txYmtmUElXOTQxU2JMQmVDNjBwR2VMVlBQeDlCS3VMSURaR2xqSGROSThyVDRPZTczTnEzck1vUkRSOEltdER0azdpOWdvLXJjVjVja1g5UHkxM2lDdEp5VzRkSzg3Tmd6RVRZOV9oSGRoOGNoM09xeFY4TWZIOXpJb0ppQkRzMkFidGwxTWZTbnljUVJ0T0pobjVFcktNXzhwUmZiWlcybEY4YUprakdaV28?oc=5) (CIDRAP); [Cyclosporiasis cases falling. Where outbreak stands in Michigan](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeGFLdWsxamxZQnJjNVdUU0RhVVdvS0l6YXlLZXJnWm9QdjM1clJqY1V2d1AzM05NamRnTnNUM2JYVHJVdFQzZTZSMkpXNFVodDRGNHh3czhpdEsyNlhHT1JlQklscEl6Ql9ab2QtcnUwMS1BcmZZNE9vZG1yWGJkazI4ZHJlZTVpM2tEMEtpdFF3VjhtQ2QtalRESkxVcWZSN1VCUGFLcVFvbFRWVXlCOGMtVlVuTlQ5UEEwWFVBYkJBazF4bS1XWWY1cWFUUm5XUXU5emJUTUZncXpWb3Fr?oc=5) (Lansing State Journal)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 22 item(s) across 21 source(s); 2 official/primary-source item(s).
+- Topic size: 23 item(s) across 22 source(s); 2 official/primary-source item(s).
 - Lead item: [Advances in mosquito gut microbiota: Mechanisms of regulating pathogen transmission and applications in vector control.](https://pubmed.ncbi.nlm.nih.gov/42717435/) (PubMed Infectious Disease Search, 2026-09-09T00:00)
 - Detailed note: In large-scale field trials, this strategy achieved a 77.1% reduction in dengue incidence and an 86.2% reduction in dengue-related hospitalizations. To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . We analyze constraints including temperature sensitivity, viral evolutionary escape, and ecological safety risks, and propose future...
-- Evidence notes: [Advances in mosquito gut microbiota: Mechanisms of regulating pathogen transmission and applications in vector control.](https://pubmed.ncbi.nlm.nih.gov/42717435/) (PubMed Infectious Disease Search); [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Dengue outbreak now hits Kenya, 5 deaths reported](https://news.google.com/rss/articles/CBMilgFBVV95cUxPODRNcF9CU1RRR2wtYUI1N05yOXNKeFRtNHd4Y3o5WUNjTHc3MjhTcmVyUzV4QWsyV3Q4aEZ3Y0ljOXA3VS16YWhmeUdNLU10ai1KNTFaQnhrZ0oxNlBrZ21XQ3NRRExTc0dNTlo3TEhmMTVPN09FLU95V1YwNjVuOGFzX2xDTkJwdDJIdlVhNjRPQXN4Smc?oc=5) (the-star.co.ke); [Five suspected dengue deaths reported as Kenya outbreak reaches 1,678 cases](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWm45RFFUZVp2VWpXZTYzTDhPdVpGT0FsS1R3VDladU9DNWZVak55dUQ4SG5DUU1MYlh3My1GeWZxYmo4aG9aQmprTWR1ek5nM25JanVzcmRELXRJY2hocXFMMTlZdVNZVkh5WklMa0tvSEFRZHp0R1VYTV9LSDlPcS0zTVJ2ZlBiWjVTWXFiVnlnNzVZanBBOWxMWkJEcnJnbFM0cUotRUE1Zi1uOFZ4MVlYY1dRVDTSAbwBQVVfeXFMUFl3cFJHcjJkbnBWR2p0enV1QWNpSzl4WGowSXlyTEJfVFhSVnhsM1VzWDI2Y2dlQktvMDBudldMTi1IS0t1TDBhejA5Yjl3Uml4Z0F0cnJEX1BxTWJWV1k5TXRlZXZBd3FOWjhsN0N4Znc2R0YxTEEzM2RVWi1aczFrNzh0akh4bl9WZHpCem5WeDdrNFNUeWFxc08wOFh5TEZkeGlmSkZkeW0zR0hnY0szVUUteWp0VzZGbjI?oc=5) (freepresskashmir.news); [Co-Diagnostics Deploys Vector Smart PCR Labs in Florida and Indiana Amid 73 Local Dengue Cases](https://clpmag.com/disease-states/infectious-diseases/emerging-zoonotic-diseases/co-diagnostics-vector-smart-pcr-labs-florida-indiana-dengue-surveillance/) (Clinical Lab Products)
+- Evidence notes: [Advances in mosquito gut microbiota: Mechanisms of regulating pathogen transmission and applications in vector control.](https://pubmed.ncbi.nlm.nih.gov/42717435/) (PubMed Infectious Disease Search); [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Dengue outbreak now hits Kenya, 5 deaths reported](https://news.google.com/rss/articles/CBMilgFBVV95cUxPODRNcF9CU1RRR2wtYUI1N05yOXNKeFRtNHd4Y3o5WUNjTHc3MjhTcmVyUzV4QWsyV3Q4aEZ3Y0ljOXA3VS16YWhmeUdNLU10ai1KNTFaQnhrZ0oxNlBrZ21XQ3NRRExTc0dNTlo3TEhmMTVPN09FLU95V1YwNjVuOGFzX2xDTkJwdDJIdlVhNjRPQXN4Smc?oc=5) (the-star.co.ke); [Five suspected dengue deaths reported as Kenya outbreak reaches 1,678 cases](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWm45RFFUZVp2VWpXZTYzTDhPdVpGT0FsS1R3VDladU9DNWZVak55dUQ4SG5DUU1MYlh3My1GeWZxYmo4aG9aQmprTWR1ek5nM25JanVzcmRELXRJY2hocXFMMTlZdVNZVkh5WklMa0tvSEFRZHp0R1VYTV9LSDlPcS0zTVJ2ZlBiWjVTWXFiVnlnNzVZanBBOWxMWkJEcnJnbFM0cUotRUE1Zi1uOFZ4MVlYY1dRVDTSAbwBQVVfeXFMUFl3cFJHcjJkbnBWR2p0enV1QWNpSzl4WGowSXlyTEJfVFhSVnhsM1VzWDI2Y2dlQktvMDBudldMTi1IS0t1TDBhejA5Yjl3Uml4Z0F0cnJEX1BxTWJWV1k5TXRlZXZBd3FOWjhsN0N4Znc2R0YxTEEzM2RVWi1aczFrNzh0akh4bl9WZHpCem5WeDdrNFNUeWFxc08wOFh5TEZkeGlmSkZkeW0zR0hnY0szVUUteWp0VzZGbjI?oc=5) (Free Press Kashmir); [Co-Diagnostics Deploys Vector Smart PCR Labs in Florida and Indiana Amid 73 Local Dengue Cases](https://clpmag.com/disease-states/infectious-diseases/emerging-zoonotic-diseases/co-diagnostics-vector-smart-pcr-labs-florida-indiana-dengue-surveillance/) (Clinical Lab Products)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -440,7 +440,11 @@ Search window: 7 day(s) ending 2026-09-10
 
 
 ## Other notable readings
-- [Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/09/10/federal-officials-poised-declare-end-uss-largest-known-cyclosporiasis-outbreak/) | The Washington Post | 2026-09-10T19:17+00:00 | Outbreaks and emerging infections
+- [Cyclospora outbreak to be declared over](https://www.cnn.com/2026/09/10/health/cyclospora-outbreak-over) | CNN | 2026-09-10T21:08+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak](https://www.washingtonpost.com/health/2026/09/10/federal-officials-poised-declare-end-uss-largest-known-cyclosporiasis-outbreak/) | The Washington Post | 2026-09-10T21:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa's top health body warns Congo’s Ebola outbreak is rapidly spreading beyond epicenter - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/africas-top-health-body-warns-congos-ebola-outbreak-136345198) | ABC News - Breaking News, Latest News and Videos | 2026-09-10T19:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Why Is China Less Active in the 2026 Ebola Epidemic? - The Diplomat – Asia-Pacific Current Affairs Magazine](https://thediplomat.com/2026/09/why-is-china-less-active-in-the-2026-ebola-epidemic/) | The Diplomat – Asia-Pacific Current Affairs Magazine | 2026-09-10T16:17+00:00 | Outbreaks and emerging infections
   During the 2014-2016 West African Ebola outbreak , which caused approximately 11,325 deaths and more than 28,600 cases, China emerged as an unexpectedly prominent donor. More than 6,700 people had been infected and more than 3,200 had died by September 2026. Ebola was first detected in Guinea in March 2014, and by April, China had sent 4 million yuan worth of assistance.
@@ -448,9 +452,7 @@ Search window: 7 day(s) ending 2026-09-10
   Limited detail was available from feed metadata alone.
 - [Bangladesh to Resume Nationwide Measles Vaccination Campaign from Sept. 25](https://southasianherald.com/bangladesh-to-resume-nationwide-measles-vaccination-campaign-from-sept-25/) | South Asian Herald | 2026-09-10T15:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) | European Centre for Disease Prevention and Control (ECDC) | 2026-09-10T15:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Confirmed Ebola cases top 6,700 in DR Congo as severe hunger hampers outbreak response](https://www.bastillepost.com/global/article/6144828-confirmed-ebola-cases-top-6700-in-dr-congo-as-severe-hunger-hampers-outbreak-response) | bastillepost.com | 2026-09-10T05:29+00:00 | Outbreaks and emerging infections
+- [Confirmed Ebola cases top 6,700 in DR Congo as severe hunger hampers outbreak response](https://www.bastillepost.com/global/article/6144828-confirmed-ebola-cases-top-6700-in-dr-congo-as-severe-hunger-hampers-outbreak-response) | 巴士的報 | 2026-09-10T05:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak](https://www.nbcnews.com/world/asia/bangladesh-measles-outbreak-kills-nearly-1000-rcna596960) | NBC News | 2026-09-10T03:59+00:00 | Outbreaks and emerging infections
   She is one of thousands of children sickened by a measles outbreak that is sweeping across the South Asian country and has killed hundreds of children following setbacks to the national vaccine program. I saw that those children also had red rashes on their bodies, sores in their mouths and fevers,” Akhter told The Associated Press at Dhaka Shishu Hospital. Ramisa’s mother, Ranu Akhter, traveled hundreds of miles after doctors in eastern Bangladesh referred her to a specialized child hospital in Dhaka to seek treatment for the life-threatening condition.
@@ -462,13 +464,9 @@ Search window: 7 day(s) ending 2026-09-10
   Limited detail was available from feed metadata alone.
 - [Congolese, South Sudanese flee DRC to Ibba County amid Ebola fears](https://www.eyeradio.org/congolese-south-sudanese-flee-drc-to-ibba-county-amid-ebola-fears/) | Eye Radio | 2026-09-09T17:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5) | Reuters | 2026-09-09T16:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Whatever happened to the measles outbreak that shocked a country this year?](https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTFObHpsOE5mbmdqb3NtcHIxRkdPcFZzZ0gwdDJlNFlfQ0J2bkNyTXFETWNaUUFuU0Q3cVo2R21NZjhuYXh0VzRFWm5WYUh4WHZlTVhDS0FDUC1TYzZZalctN3BsMWRmTHVMVGNKdDhFajc4TlFzWkwwZ2t5Vm5vS1NRdGtwbE55a3c?oc=5) | NPR | 2026-09-09T13:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo: Community fatality rate reaches 75%](https://vovworld.vn/news/ebola-outbreak-in-dr-congo-community-fatality-rate-reaches-75-2464202.vov5) | VOV World | 2026-09-09T12:16+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Bangladesh fights world's worst measles outbreak after vaccine gaps](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JeGxJY0pmT0tmdy13enNtN2t2Q2Z1dFEyTGFkMTFlOHBYakJfOUJ0SG9sbmN4YmprRV9qUEdYendPbmpDZWV3MmRYc2NGVW5EN0pLNHpSVGJBZWI1NHdaVTJkdzA0bVE?oc=5) | Reuters | 2026-09-09T10:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How a Driver’s Sudden Death Triggered Ebola Panic in Congo](https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html) | The New York Times | 2026-09-09T09:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -479,6 +477,8 @@ Search window: 7 day(s) ending 2026-09-10
 - [How Uganda ended its Bundibugyo Ebola outbreak](https://www.gavi.org/vaccineswork/how-uganda-ended-its-bundibugyo-ebola-outbreak) | Gavi, the Vaccine Alliance | 2026-09-08T10:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [APTOPIX Congo Ebola Burial Teams](https://www.bdtonline.com/sports/pro_sports/aptopix-congo-ebola-burial-teams/image_7991c615-b6ed-5000-bfc9-8294af30e43b.html) | Bluefield Daily Telegraph | 2026-09-07T21:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO coordinates expansion of Ebola treatment centre in DR Congo as death toll climbs](https://www.africanews.com/2026/09/07/who-coordinates-expansion-of-ebola-treatment-centre-in-dr-congo-as-death-toll-climbs/) | africanews.com | 2026-09-07T17:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
