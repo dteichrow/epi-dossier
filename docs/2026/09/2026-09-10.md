@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-10
-Generated at: 2026-09-10T09:21
+Generated at: 2026-09-10T09:25
 Search window: 7 day(s) ending 2026-09-10
 
 ## Executive scan
@@ -12,13 +12,13 @@ Search window: 7 day(s) ending 2026-09-10
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-09-01T20:01+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (193), Policy, surveillance, and public health infrastructure (11), Occupational and environmental epidemiology (2)
-- Source health: 2 source(s) failed during collection: Africa CDC, Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (190), Policy, surveillance, and public health infrastructure (11), Occupational and environmental epidemiology (2)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 96 item(s) across 83 source(s).
+- Newly tracked story cluster: 95 item(s) across 82 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - NBC News now includes deaths or fatal cases in the story frame.
 - NBC News now foregrounds vaccination or vaccine policy in the story.
@@ -32,7 +32,7 @@ Search window: 7 day(s) ending 2026-09-10
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 53 item(s) across 43 source(s).
+- Newly tracked story cluster: 51 item(s) across 41 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -45,7 +45,7 @@ Search window: 7 day(s) ending 2026-09-10
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 96 item(s) across 83 source(s); 1 official/primary-source item(s).
+- Topic size: 95 item(s) across 82 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: She is one of thousands of children sickened by a measles outbreak that is sweeping across the South Asian country and has killed hundreds of children following setbacks to the national vaccine program. I saw that those children also had red rashes on their bodies, sores in their mouths and fevers,” Akhter told The Associated Press at Dhaka Shishu Hospital. Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak](https://www.nbcnews.com/world/asia/bangladesh-measles-outbreak-kills-nearly-1000-rcna596960) (NBC News); [Coroner releases details on 2 infant deaths in Pennsylvania measles outbreak](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWENvZWtocHZYbHU3QThtWEtjajlidWhvSVA0SVg5TlZjUEZnRXpBQURYc2U5Y2w5N25CQ040VjFBd0JPVHZTMUZpeEluVEM0Nk55cTZROS1uU2F0Rm1PX0pxWWl4RUlDM0xER0U4ZFIwSnlNX1d4Y2FJMEg0ZTJrMVdpYWROQjRZ?oc=5) (CBS News); [Bangladesh in grips of world's worst measles outbreak, with 1,000 dead in last 6 months](https://www.cbc.ca/news/health/bangladesh-worst-measles-outbreak-9.7337063) (CBC); [Whatever happened to the measles outbreak that shocked a country this year?](https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTFObHpsOE5mbmdqb3NtcHIxRkdPcFZzZ0gwdDJlNFlfQ0J2bkNyTXFETWNaUUFuU0Q3cVo2R21NZjhuYXh0VzRFWm5WYUh4WHZlTVhDS0FDUC1TYzZZalctN3BsMWRmTHVMVGNKdDhFajc4TlFzWkwwZ2t5Vm5vS1NRdGtwbE55a3c?oc=5) (NPR)
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-09-10
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 53 item(s) across 43 source(s); 2 official/primary-source item(s).
+- Topic size: 51 item(s) across 41 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-07T17:36+02:00)
 - Detailed note: Since External Situation Report #15, a further 516 confirmed cases and 270 confirmed deaths have been reported, bringing the cumulative total to 6100 confirmed cases, including 2950 deaths (CFR 48.4%), as of 30 August 2026. Ituri remains the epicentre, accounting for 82.2% of cumulative confirmed cases, although continued expansion in Nord-Kivu and Bas-Uélé underscores the increasingly dispersed geographic...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (European Centre for Disease Prevention and Control (ECDC)); [Confirmed Ebola cases top 6,700 in DR Congo as severe hunger hampers outbreak response](https://www.bastillepost.com/global/article/6144828-confirmed-ebola-cases-top-6700-in-dr-congo-as-severe-hunger-hampers-outbreak-response) (bastillepost.com); [DR Congo battles record Ebola outbreak; hospital supplies running short](https://www.mnnonline.org/?post_type\=news\&p\=223999) (mnnonline.org)
@@ -462,8 +462,6 @@ Search window: 7 day(s) ending 2026-09-10
   Limited detail was available from feed metadata alone.
 - [How Uganda ended its Bundibugyo Ebola outbreak](https://www.gavi.org/vaccineswork/how-uganda-ended-its-bundibugyo-ebola-outbreak) | Gavi, the Vaccine Alliance | 2026-09-08T10:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO coordinates extension of Ebola treatment centre in DR Congo](https://www.myanmaritv.com/news/who-coordinates-extension-ebola-treatment-centre-dr-congo) | Myanmar International TV | 2026-09-08T04:17+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak shows no signs of slowing; find out how you can help from Griffin](https://www.griffindailynews.com/news/congos-ebola-outbreak-shows-no-signs-of-slowing-find-out-how-you-can-help-from/article_eb50d911-1b8d-59ff-8292-b7a9b084c285.html) | Griffin Daily News | 2026-09-08T04:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [APTOPIX Congo Ebola Burial Teams](https://www.bdtonline.com/sports/pro_sports/aptopix-congo-ebola-burial-teams/image_7991c615-b6ed-5000-bfc9-8294af30e43b.html) | Bluefield Daily Telegraph | 2026-09-07T21:13+00:00 | Outbreaks and emerging infections
@@ -471,6 +469,8 @@ Search window: 7 day(s) ending 2026-09-10
 - [WHO coordinates expansion of Ebola treatment centre in DR Congo as death toll climbs](https://www.africanews.com/2026/09/07/who-coordinates-expansion-of-ebola-treatment-centre-in-dr-congo-as-death-toll-climbs/) | africanews.com | 2026-09-07T17:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Adapting care to an evolving Ebola outbreak in the Democratic Republic of the Congo - WHO | Regional Office for Africa](https://www.afro.who.int/countries/democratic-republic-of-congo/news/adapting-care-evolving-ebola-outbreak-democratic-republic-congo) | WHO | 2026-09-07T14:32+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [VIDEO: Democratic Republic of Congo suffers deadly Ebola outbreak - ABC News & Headlines – Australian Broadcasting Corporation](https://www.abc.net.au/news/2026-09-07/democratic-republic-of-congo-suffers-deadly-ebola-outbreak/107125814) | ABC News & Headlines – Australian Broadcasting Corporation | 2026-09-07T10:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -490,9 +490,9 @@ Search window: 7 day(s) ending 2026-09-10
 ## Historical epi / weird epi corner
 - [APTOPIX Congo Ebola Burial Teams](https://www.bdtonline.com/sports/pro_sports/aptopix-congo-ebola-burial-teams/image_7991c615-b6ed-5000-bfc9-8294af30e43b.html) | Bluefield Daily Telegraph
   Limited detail was available from feed metadata alone.
-- [Congo’s Ebola burial teams battle community anger, fatigue and fear of infection](https://www.ncnewsonline.com/news/national/congo-s-ebola-burial-teams-battle-community-anger-fatigue-and-fear-of-infection/article_86fe32ab-e747-5e0f-bfcf-73d0e37252ec.html) | New Castle News
-  Limited detail was available from feed metadata alone.
 - [Congo’s Ebola burial teams battle community anger, fatigue and fear of infection - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-ebola-burial-teams-battle-community-anger-fatigue-136247959) | ABC News - Breaking News, Latest News and Videos
+  Limited detail was available from feed metadata alone.
+- [Congo’s Ebola burial teams battle community anger, fatigue and fear of infection](https://www.tdtnews.com/news/nation_world/article_5a00c615-5d58-5a25-b027-9600b7dc97d1.html) | Temple Daily Telegram
   Limited detail was available from feed metadata alone.
 - [DR Congo: Ebola burial teams race against time](https://www.france24.com/en/video/20260905-dr-congo-ebola-burial-teams-race-against-time) | France 24
   Limited detail was available from feed metadata alone.
