@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-10
-Generated at: 2026-09-10T21:03
+Generated at: 2026-09-10T21:37
 Search window: 7 day(s) ending 2026-09-10
 
 ## Executive scan
@@ -12,20 +12,20 @@ Search window: 7 day(s) ending 2026-09-10
 - [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-09-07T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases; 2026-09-04T12:38-04:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-02T00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (183), Policy, surveillance, and public health infrastructure (9), Occupational and environmental epidemiology (4)
+- Category mix: Outbreaks and emerging infections (180), Policy, surveillance, and public health infrastructure (9), Occupational and environmental epidemiology (4)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 86 item(s) across 72 source(s).
+- Newly tracked story cluster: 86 item(s) across 73 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - NBC News now includes deaths or fatal cases in the story frame.
 - South Asian Herald now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 48 item(s) across 38 source(s).
+- Newly tracked story cluster: 46 item(s) across 36 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - The Diplomat – Asia-Pacific Current Affairs Magazine now foregrounds vaccination or vaccine policy in the story.
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-09-10
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 86 item(s) across 72 source(s); 1 official/primary-source item(s).
+- Topic size: 86 item(s) across 73 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: She is one of thousands of children sickened by a measles outbreak that is sweeping across the South Asian country and has killed hundreds of children following setbacks to the national vaccine program. I saw that those children also had red rashes on their bodies, sores in their mouths and fevers,” Akhter told The Associated Press at Dhaka Shishu Hospital. Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Bangladesh to Resume Nationwide Measles Vaccination Campaign from Sept. 25](https://southasianherald.com/bangladesh-to-resume-nationwide-measles-vaccination-campaign-from-sept-25/) (South Asian Herald); [Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak](https://www.nbcnews.com/world/asia/bangladesh-measles-outbreak-kills-nearly-1000-rcna596960) (NBC News); [Coroner releases details on 2 infant deaths in Pennsylvania measles outbreak](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWENvZWtocHZYbHU3QThtWEtjajlidWhvSVA0SVg5TlZjUEZnRXpBQURYc2U5Y2w5N25CQ040VjFBd0JPVHZTMUZpeEluVEM0Nk55cTZROS1uU2F0Rm1PX0pxWWl4RUlDM0xER0U4ZFIwSnlNX1d4Y2FJMEg0ZTJrMVdpYWROQjRZ?oc=5) (CBS News); [Bangladesh in grips of world's worst measles outbreak, with 1,000 dead in last 6 months](https://www.cbc.ca/news/health/bangladesh-worst-measles-outbreak-9.7337063) (CBC)
@@ -61,7 +61,7 @@ Search window: 7 day(s) ending 2026-09-10
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 48 item(s) across 38 source(s); 2 official/primary-source item(s).
+- Topic size: 46 item(s) across 36 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-07T17:36+02:00)
 - Detailed note: Since External Situation Report #15, a further 516 confirmed cases and 270 confirmed deaths have been reported, bringing the cumulative total to 6100 confirmed cases, including 2950 deaths (CFR 48.4%), as of 30 August 2026. 8, including 3,310 deaths and 1,611 recoveries, with the case fatality rate standing at 48.4 percent. During the 2014-2016 West African Ebola outbreak , which caused approximately 11,325...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola spreads to new province in DR Congo](https://english.news.cn/20260911/71510404bb2c4292a63333ae77b7cd29/c.html) (Xinhua); [Africa's top health body warns Congo’s Ebola outbreak is rapidly spreading beyond epicenter - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/africas-top-health-body-warns-congos-ebola-outbreak-136345198) (ABC News - Breaking News, Latest News and Videos); [Africa's top health body warns Congo’s Ebola outbreak is rapidly spreading beyond epicenter](https://www.ottumwacourier.com/news/national_news/africas-top-health-body-warns-congo-s-ebola-outbreak-is-rapidly-spreading-beyond-epicenter/article_44198189-d445-561a-aae2-5ffd7a6d150d.html) (Ottumwa Courier)
@@ -92,12 +92,12 @@ Search window: 7 day(s) ending 2026-09-10
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Hantavirus and cruise-ship outbreak
+### Miscellaneous signals
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, Unknown)
-- Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5) (ABC News - Breaking News, Latest News and Videos)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Lead item: [Congolese, South Sudanese flee DRC to Ibba County amid Ebola fears](https://www.eyeradio.org/congolese-south-sudanese-flee-drc-to-ibba-county-amid-ebola-fears/) (Eye Radio, 2026-09-09T17:02+00:00)
+- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
+- Evidence notes: [Congolese, South Sudanese flee DRC to Ibba County amid Ebola fears](https://www.eyeradio.org/congolese-south-sudanese-flee-drc-to-ibba-county-amid-ebola-fears/) (Eye Radio); [Premature mortality and years of potential productive life lost due to HPV-attributable cancers in Brazil and Mexico: 2011 Versus 2023.](https://pubmed.ncbi.nlm.nih.gov/42714298/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 
@@ -458,8 +458,6 @@ Search window: 7 day(s) ending 2026-09-10
   Limited detail was available from feed metadata alone.
 - [Bangladesh to Resume Nationwide Measles Vaccination Campaign from Sept. 25](https://southasianherald.com/bangladesh-to-resume-nationwide-measles-vaccination-campaign-from-sept-25/) | South Asian Herald | 2026-09-10T15:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Confirmed Ebola cases top 6,700 in DR Congo as severe hunger hampers outbreak response](https://www.bastillepost.com/global/article/6144828-confirmed-ebola-cases-top-6700-in-dr-congo-as-severe-hunger-hampers-outbreak-response) | 巴士的報 | 2026-09-10T05:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak](https://www.nbcnews.com/world/asia/bangladesh-measles-outbreak-kills-nearly-1000-rcna596960) | NBC News | 2026-09-10T03:59+00:00 | Outbreaks and emerging infections
   She is one of thousands of children sickened by a measles outbreak that is sweeping across the South Asian country and has killed hundreds of children following setbacks to the national vaccine program. I saw that those children also had red rashes on their bodies, sores in their mouths and fevers,” Akhter told The Associated Press at Dhaka Shishu Hospital. Ramisa’s mother, Ranu Akhter, traveled hundreds of miles after doctors in eastern Bangladesh referred her to a specialized child hospital in Dhaka to seek treatment for the life-threatening condition.
 - [Coroner releases details on 2 infant deaths in Pennsylvania measles outbreak](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWENvZWtocHZYbHU3QThtWEtjajlidWhvSVA0SVg5TlZjUEZnRXpBQURYc2U5Y2w5N25CQ040VjFBd0JPVHZTMUZpeEluVEM0Nk55cTZROS1uU2F0Rm1PX0pxWWl4RUlDM0xER0U4ZFIwSnlNX1d4Y2FJMEg0ZTJrMVdpYWROQjRZ?oc=5) | CBS News | 2026-09-10T00:57+00:00 | Outbreaks and emerging infections
@@ -479,6 +477,8 @@ Search window: 7 day(s) ending 2026-09-10
 - [How a Driver’s Sudden Death Triggered Ebola Panic in Congo](https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html) | The New York Times | 2026-09-09T09:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Food Aid Key to Fighting Ebola Outbreak in DR Congo, Says WFP](https://allafrica.com/view/group/main/main/id/00098052.html) | allAfrica.com | 2026-09-09T08:26+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5) | Reuters | 2026-09-09T06:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -504,7 +504,7 @@ Search window: 7 day(s) ending 2026-09-10
 ## Historical epi / weird epi corner
 - [Intensity-dependent associations of physical activity and cardiorespiratory fitness with hair cortisol concentrations in the context of lifetime air pollution exposure.](https://pubmed.ncbi.nlm.nih.gov/42721376/) | PubMed Infectious Disease Search
   Vigorous physical activity was positively associated with HCC in both self-reported (LTEQ: B = 0.010, p = 0.042) and objectively measured data (Fitbit: B = 0.006, p = 0.044). VO 2 peak was initially associated with higher HCC (B = 0.019, p = 0.041), but this association was attenuated after inclusion of vigorous physical activity. Lifetime exposure to particulate matter (PM 2.5 and PM 10 ) and nitrogen dioxide (NO 2 ) was estimated from residential histories and historical air pollution models.
-- [APTOPIX Congo Ebola Burial Teams](https://www.daytondailynews.com/nation-world/aptopix-congo-ebola-burial-teams/image_2e44342a-e116-518e-8e1e-b5b63fd8c94a.html) | Dayton Daily News
+- [APTOPIX Congo Ebola Burial Teams](https://www.daytondailynews.com/nation-world/aptopix-congo-ebola-burial-teams/image_2e44342a-e116-518e-8e1e-b5b63fd8c94a.html) | daytondailynews.com
   Limited detail was available from feed metadata alone.
 - [Congo’s Ebola burial teams battle community anger, fatigue and fear of infection](https://www.seattletimes.com/seattle-news/health/congos-ebola-burial-teams-battle-community-anger-fatigue-and-fear-of-infection/) | The Seattle Times
   Limited detail was available from feed metadata alone.
