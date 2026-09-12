@@ -5,7 +5,6 @@
       "ABC News",
       "CBS News",
       "CIDRAP",
-      "Guardian",
       "NPR",
       "New York Times",
       "Reuters"
@@ -24,7 +23,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-12T10:22:05",
+  "generated_at": "2026-09-12T11:21:29",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
