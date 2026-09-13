@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-13
-Generated at: 2026-09-13T05:34
+Generated at: 2026-09-13T05:44
 Search window: 7 day(s) ending 2026-09-13
 
 ## Executive scan
@@ -12,13 +12,13 @@ Search window: 7 day(s) ending 2026-09-13
 - [Notes from the Field: Characteristics and Monitoring of the 2026 Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo, August 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766344) (CDC MMWR; 2026-09-10T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Intensity-dependent associations of physical activity and cardiorespiratory fitness with hair cortisol concentrations in the context of lifetime air pollution exposure.](https://pubmed.ncbi.nlm.nih.gov/42721376/) (PubMed Infectious Disease Search; 2026-09-10T00:00; Major epidemiology studies; relevance 5/5)
 - [Surveillance Summaries: Causes of Death Among Stillbirths and Children Aged 5 Years in Africa and South Asia - Child Health and Mortality Prevention Surveillance, Seven Countries, 2016-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766389) (CDC MMWR; 2026-09-08T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (211), Policy, surveillance, and public health infrastructure (21), Occupational and environmental epidemiology (14)
+- Category mix: Outbreaks and emerging infections (209), Policy, surveillance, and public health infrastructure (22), Occupational and environmental epidemiology (14)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Measles as tracer and tugboat: Why eradication can strengthen immunization systems.](https://pubmed.ncbi.nlm.nih.gov/42730634/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 95 item(s) across 81 source(s).
+- Newly tracked story cluster: 94 item(s) across 81 source(s).
 - Monitoring: Measles as tracer and tugboat: Why eradication can strengthen immunization systems.
 - NPR now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
@@ -46,12 +46,12 @@ Search window: 7 day(s) ending 2026-09-13
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
 - Newly tracked story cluster: 21 item(s) across 16 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend
-- tampabay28.com now includes deaths or fatal cases in the story frame.
+- Tampa Bay 28 now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 95 item(s) across 81 source(s); 2 official/primary-source item(s).
+- Topic size: 94 item(s) across 81 source(s); 2 official/primary-source item(s).
 - Lead item: [Measles as tracer and tugboat: Why eradication can strengthen immunization systems.](https://pubmed.ncbi.nlm.nih.gov/42730634/) (PubMed Infectious Disease Search, 2026-09-12T00:00)
 - Detailed note: is acting to halt measles; outbreak up to 676 cases The Daily Item Because of its extraordinary transmissibility, it functions both as a tracer of weaknesses in immunization systems and public health infrastructure, and as a potential tugboat for strengthening them.The Immunization Agenda 2030 highlights strong immunization systems, equitable service delivery, and effective surveillance as foundations for...
 - Evidence notes: [Measles as tracer and tugboat: Why eradication can strengthen immunization systems.](https://pubmed.ncbi.nlm.nih.gov/42730634/) (PubMed Infectious Disease Search); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Jefferson County Coroner reports county's first measles-related death](https://www.cbsnews.com/pittsburgh/news/jefferson-county-measles-related-death-report/) (CBS News); [Health secretary: Measles vaccinations show Pa. is acting to halt measles; outbreak up to 676 cases](https://news.google.com/rss/articles/CBMihgJBVV95cUxQNXF0V1V3LWN5ZVFGTDVhSm9QazZSajQxSVJUNUI1Q2lETWV5eTU4Vnh4bTJobFBDUm10cU1YWTI2Z2NuZ1RpZUcySmZ6RG5XOWpXN2lxbm9SX2lUc3VURGlyYy1UMkhTdWJrSm9rMVRHaEZma3pmOWhmQ3RGbnZPcE1IN0s0QnZWemhRdC1CVkRDQkx4cS1iMDFQQmxsMkpfalh3Vk1zUnNJVUxYbVN6TFBzcUtQMW1KU1JkRHJ1cVpHNVpMQzAtR2VTS1UxXzdJTzVqSjlLcmNTSjVEcm1SSHVZTHdxM1Fyam5HeENFUFlGeFRQVEdpMXRBODBDaWdTSkRHMzVB?oc=5) (The Daily Item); [As outbreak intensifies, Pennsylvania surpasses all U.S. states in measles cases and hospitalizations](https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2x4aG1mN05NQm42NVdWVlctZFFVa1I2TXllSVc2MzhpQWxDLVR3Vk9pRXJRbVhDWGhNQ1pydWhpazVBTnlJR0xxZW5tcEVjQlNYSEVPNG9ZRjRXMk5mYnI3TFdfaHNDTDcweGlqNmgzclZCOXlva2s1eUFxQWIza1VSRVlHcU44azhNekpQeHlXTjRqUk8xNWI3dWNKSXBQMzNoR0ZHbktvNHEtWUhV?oc=5) (Pittsburgh Post-Gazette)
@@ -62,7 +62,7 @@ Search window: 7 day(s) ending 2026-09-13
 - Topic size: 57 item(s) across 51 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-11T17:36+02:00)
 - Detailed note: Since External Situation Report #15, a further 516 confirmed cases and 270 confirmed deaths have been reported, bringing the cumulative total to 6100 confirmed cases, including 2950 deaths (CFR 48.4%), as of 30 August 2026. Ituri remains the epicentre, accounting for 82.2% of cumulative confirmed cases, although continued expansion in Nord-Kivu and Bas-Uélé underscores the increasingly dispersed geographic...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola case detected in north-western province far from epicentre, official says](https://sundayworld.co.za/africa/ebola-case-detected-in-north-western-province-far-from-epicentre-official-says/) (sundayworld.co.za); [DR Congo's worst Ebola epidemic ever passes 7,000 cases - Africa - World](https://english.ahram.org.eg/News/576572.aspx) (Ahram Online); [DR Congo Says Ebola Outbreak Is ‘Under Control’, But WHO Warns Virus Is Still Spreading: 7,000 Cases, 3,398 Dead](https://www.healthandme.com/health-news/dr-congo-says-ebola-outbreak-is-under-control-but-who-warns-virus-is-still-spreading-7000-cases-3398-dead-article-156150126) (Health and Me)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 16, Data as of 30 August 2026](https://www.afro.who.int/countries/uganda/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola case detected in north-western province far from epicentre, official says](https://sundayworld.co.za/africa/ebola-case-detected-in-north-western-province-far-from-epicentre-official-says/) (sundayworld.co.za); [DR Congo's worst Ebola epidemic ever passes 7,000 cases - Africa - World](https://english.ahram.org.eg/News/576572.aspx) (english.ahram.org.eg); [DR Congo Says Ebola Outbreak Is ‘Under Control’, But WHO Warns Virus Is Still Spreading: 7,000 Cases, 3,398 Dead](https://www.healthandme.com/health-news/dr-congo-says-ebola-outbreak-is-under-control-but-who-warns-virus-is-still-spreading-7000-cases-3398-dead-article-156150126) (Health and Me)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -448,7 +448,7 @@ Search window: 7 day(s) ending 2026-09-13
   Limited detail was available from feed metadata alone.
 - [Jefferson County Coroner reports county's first measles-related death](https://www.cbsnews.com/pittsburgh/news/jefferson-county-measles-related-death-report/) | CBS News | 2026-09-13T11:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo's worst Ebola epidemic ever passes 7,000 cases - Africa - World](https://english.ahram.org.eg/News/576572.aspx) | Ahram Online | 2026-09-13T10:01+00:00 | Outbreaks and emerging infections
+- [DR Congo's worst Ebola epidemic ever passes 7,000 cases - Africa - World](https://english.ahram.org.eg/News/576572.aspx) | english.ahram.org.eg | 2026-09-13T10:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Says Ebola Outbreak Is ‘Under Control’, But WHO Warns Virus Is Still Spreading: 7,000 Cases, 3,398 Dead](https://www.healthandme.com/health-news/dr-congo-says-ebola-outbreak-is-under-control-but-who-warns-virus-is-still-spreading-7000-cases-3398-dead-article-156150126) | Health and Me | 2026-09-13T09:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -464,7 +464,7 @@ Search window: 7 day(s) ending 2026-09-13
   Limited detail was available from feed metadata alone.
 - [DRC EBOLA OUTBREAK SURPASSES 7,000 CASES, DEATH TOLL NEARS 3,400](https://crimefightersng.com/news/drc-ebola-outbreak-surpasses-7000-cases-death-toll-nears-3400) | crimefightersng.com | 2026-09-12T18:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola infections top 7,000 in Congo as virus spreads to new province](https://www.timesofisrael.com/ebola-infections-top-7000-in-congo-as-virus-spreads-to-new-province/) | The Times of Israel | 2026-09-12T18:42+00:00 | Outbreaks and emerging infections
+- [Ebola infections top 7,000 in Congo as virus spreads to new province](https://www.timesofisrael.com/ebola-infections-top-7000-in-congo-as-virus-spreads-to-new-province/) | timesofisrael.com | 2026-09-12T18:42+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What we know about the spread of Ebola amid growing outbreak in DRC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/spread-ebola-amid-growing-outbreak-drc/story?id\=133511612) | ABC News - Breaking News, Latest News and Videos | 2026-09-12T18:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -476,7 +476,7 @@ Search window: 7 day(s) ending 2026-09-13
   Limited detail was available from feed metadata alone.
 - [Ebola Cases Surge in Democratic Republic of Congo](https://www.devdiscourse.com/article/health/3976376-ebola-cases-surge-in-democratic-republic-of-congo?amp) | Devdiscourse | 2026-09-12T13:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo says Ebola outbreak ‘under control’ despite persistent risks](https://www.chinadailyhk.com/article/639493) | chinadailyhk | 2026-09-12T13:01+00:00 | Outbreaks and emerging infections
+- [DR Congo says Ebola outbreak ‘under control’ despite persistent risks](https://www.chinadailyhk.com/hk/article/639493) | chinadailyhk | 2026-09-12T13:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -502,7 +502,7 @@ Search window: 7 day(s) ending 2026-09-13
 ## Historical epi / weird epi corner
 - [Intensity-dependent associations of physical activity and cardiorespiratory fitness with hair cortisol concentrations in the context of lifetime air pollution exposure.](https://pubmed.ncbi.nlm.nih.gov/42721376/) | PubMed Infectious Disease Search
   Vigorous physical activity was positively associated with HCC in both self-reported (LTEQ: B = 0.010, p = 0.042) and objectively measured data (Fitbit: B = 0.006, p = 0.044). VO 2 peak was initially associated with higher HCC (B = 0.019, p = 0.041), but this association was attenuated after inclusion of vigorous physical activity. Lifetime exposure to particulate matter (PM 2.5 and PM 10 ) and nitrogen dioxide (NO 2 ) was estimated from residential histories and historical air pollution models.
-- [Congo’s Ebola burial teams battle community anger, fatigue and fear of infection](https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1JsUjBKMjc4T1l1R2VwQy05c3dSYnRCaXhaRHJfa0E3bk5fZi1UTm42cGVyYloyNTk3cWp5aWJ5R19iUnFHWkl1YWxTaWtqbmtObEJ3MnFZVGlzZFI4d2tGWkRlRVlNNDdZQ3dJalA1LXZtaXo1eHpOSDRYVmNaQXU4RnB5YkJlQUN4cmF3VDdKWFNPWGRMb3Nn?oc=5) | washingtontimes.com
+- [Congo’s Ebola burial teams battle community anger, fatigue and fear of infection](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRm90QXM1SThTZnRyWlVhOGRsZXJ4VDZVY2tnbFUxTExwOTRjbFdRSDB6aHhQcllBb1RodXoycmEtQkdwSWhQZnIwNURhNGlXN3VGTmlSSTVyc1hnOFROQkVXa01zMl9ueUNJVHRTVFZrSnUtLUhkeUUtWjNvRmR4UWliTlFwZy0taHRTR3lmc2NKb3oxM0UtVldrTGppNmZlN0tkSm94X25IUHV3eXZZa05uNmNWanNxQXp4WDNvMEtLWnBsWDUw?oc=5) | The Seattle Times
   Limited detail was available from feed metadata alone.
 - [Congo Ebola Burial Teams](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWI2YWYtRkt4WEhPcFFZblVOUy1zbEpXZUp5NTh3NG9NRnIxODNQTmRXWERtdzZNcXhpc0NheUhZRDR1S2swcW8tTHhlUFdlNzhNMzB0akxQbHlvVk5VT1FRTTFfVWVlaFVnQ3BRZ0RhTnpleEtBbVFsVFB4b3ZDWnAxN096N2N0anJybjNyTkFzX3RuUXZiaFphcWhOeDJrYUlqbzdaNTh6UQ?oc=5) | The Killeen Daily Herald
   Limited detail was available from feed metadata alone.
