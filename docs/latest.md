@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-13
-Generated at: 2026-09-13T16:20
+Generated at: 2026-09-13T17:13
 Search window: 7 day(s) ending 2026-09-13
 
 ## Executive scan
@@ -12,15 +12,15 @@ Search window: 7 day(s) ending 2026-09-13
 - [Notes from the Field: Characteristics and Monitoring of the 2026 Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo, August 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766344) (CDC MMWR; 2026-09-10T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Intensity-dependent associations of physical activity and cardiorespiratory fitness with hair cortisol concentrations in the context of lifetime air pollution exposure.](https://pubmed.ncbi.nlm.nih.gov/42721376/) (PubMed Infectious Disease Search; 2026-09-10T00:00; Major epidemiology studies; relevance 5/5)
 - [Surveillance Summaries: Causes of Death Among Stillbirths and Children Aged 5 Years in Africa and South Asia - Child Health and Mortality Prevention Surveillance, Seven Countries, 2016-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766389) (CDC MMWR; 2026-09-08T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (206), Policy, surveillance, and public health infrastructure (35), Occupational and environmental epidemiology (15)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (194), Policy, surveillance, and public health infrastructure (39), Occupational and environmental epidemiology (15)
+- Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [Measles as tracer and tugboat: Why eradication can strengthen immunization systems.](https://pubmed.ncbi.nlm.nih.gov/42730634/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 99 item(s) across 79 source(s).
+- Newly tracked story cluster: 94 item(s) across 75 source(s).
 - Monitoring: Measles as tracer and tugboat: Why eradication can strengthen immunization systems.
-- The New York Times now includes deaths or fatal cases in the story frame.
+- NPR now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 ### Occupational and environmental epidemiology
@@ -38,23 +38,23 @@ Search window: 7 day(s) ending 2026-09-13
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 57 item(s) across 52 source(s).
+- Newly tracked story cluster: 55 item(s) across 50 source(s).
 - Monitoring: Toledo-Lucas County Health Department Cyclosporiasis Update
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 24 item(s) across 20 source(s).
+- Newly tracked story cluster: 23 item(s) across 20 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend
 - Tampa Bay 28 now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 99 item(s) across 79 source(s); 2 official/primary-source item(s).
+- Topic size: 94 item(s) across 75 source(s); 2 official/primary-source item(s).
 - Lead item: [Measles as tracer and tugboat: Why eradication can strengthen immunization systems.](https://pubmed.ncbi.nlm.nih.gov/42730634/) (PubMed Infectious Disease Search, 2026-09-12T00:00)
 - Detailed note: Because of its extraordinary transmissibility, it functions both as a tracer of weaknesses in immunization systems and public health infrastructure, and as a potential tugboat for strengthening them.The Immunization Agenda 2030 highlights strong immunization systems, equitable service delivery, and effective surveillance as foundations for controlling vaccine-preventable diseases. Large outbreaks reflect...
-- Evidence notes: [Measles as tracer and tugboat: Why eradication can strengthen immunization systems.](https://pubmed.ncbi.nlm.nih.gov/42730634/) (PubMed Infectious Disease Search); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Another measles-related death reported in Pennsylvania as outbreak grows - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/measles-related-death-reported-pennsylvania-outbreak-grows/story?id\=136410532) (ABC News - Breaking News, Latest News and Videos); [Pennsylvania Records Third Measles Death Amid CDC Pushback](https://www.bloomberg.com/news/articles/2026-09-13/pennsylvania-records-third-measles-death-amid-cdc-pushback) (Bloomberg.com); [Adult woman dies of measles complications in growing Pennsylvania outbreak](https://www.cnn.com/2026/09/13/health/measles-death-pennsylvania) (CNN)
+- Evidence notes: [Measles as tracer and tugboat: Why eradication can strengthen immunization systems.](https://pubmed.ncbi.nlm.nih.gov/42730634/) (PubMed Infectious Disease Search); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Video Growing Pennsylvania measles outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/136410716/) (ABC News - Breaking News, Latest News and Videos); [Pennsylvania says an unvaccinated woman has died from measles-related complications](https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications) (NPR); [Another measles-related death reported in Pennsylvania as outbreak grows - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/measles-related-death-reported-pennsylvania-outbreak-grows/story?id\=136410532) (ABC News - Breaking News, Latest News and Videos)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -67,18 +67,18 @@ Search window: 7 day(s) ending 2026-09-13
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 57 item(s) across 52 source(s); 1 official/primary-source item(s).
+- Topic size: 55 item(s) across 50 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-09-11T00:00)
 - Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclospora: largest US outbreak of explosive diarrhoea parasite is over, health officials say](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tb2ZlYldYTVQyYnpFenB1dGFyWm1lQ1RORUJtSDF1Y2VpdW9YQzBEdkx1SDlfd3h6Tl92TVdtMGs3OUhfUEh0b0ZsZFhwLVlTNTBTZlE2UDhCZw?oc=5) (BBC); [Large cyclosporiasis outbreak tied to lettuce is over, federal officials say](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnVEa0hRVlotd0lvYUE3azNxdUxmX0taOWV4OG12MEZBcXlnT002bkFXMUtqaThuXy1EcG1FVWNnUkdOSW15WnJ3SVpMSERnV3R6cm03Zk1tVW9FOTVneFlLRjQ3Z3Fpc0Y2N3J3OHkzdTJsb3RMeFI4Y0hReE5VNWhvYTNDdkdtVGFfZ2dkUGxFcXduM0h5Uk16dTBkei12TGlVOWFmSXdfcWl4UnJkREFjeWZyQ0lUdHFORXpidw?oc=5) (The Washington Post); [US officials declare multi-state cyclospora outbreak over](https://news.google.com/rss/articles/CBMie0FVX3lxTFBkQkVZYTdubkNxeE9fSWxPSXZCcWJzTTJiazdEVFhOQUlYWFA5bGRRRXhkYnk5MVRXalk2bFM2XzVKNWM0VUtxcHVYU1lsTlQwRWdia2ZSby1XalBRbEIteTJkOVlaOUh1RVhwbXlsellDekx2MDNUOTgtWQ?oc=5) (The Guardian); [Record-setting cyclospora outbreak is over, U.S. health officials declare](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemk2VzNTc3pDVzl6ajBKU2k4Qk81NTVkMTAtazNLZzdWQXNzVlBwNXlKX3o3Snp4OEJWQ0RRdjN6SkNtekFqZ1NPWEtFaEpaM0lNU3NVTnE3QmNjY3EyNjNhUTVBUDRjdWVfcVItQXVKYmc?oc=5) (CBS News)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Large cyclosporiasis outbreak tied to lettuce is over, federal officials say](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnVEa0hRVlotd0lvYUE3azNxdUxmX0taOWV4OG12MEZBcXlnT002bkFXMUtqaThuXy1EcG1FVWNnUkdOSW15WnJ3SVpMSERnV3R6cm03Zk1tVW9FOTVneFlLRjQ3Z3Fpc0Y2N3J3OHkzdTJsb3RMeFI4Y0hReE5VNWhvYTNDdkdtVGFfZ2dkUGxFcXduM0h5Uk16dTBkei12TGlVOWFmSXdfcWl4UnJkREFjeWZyQ0lUdHFORXpidw?oc=5) (The Washington Post); [US officials declare multi-state cyclospora outbreak over](https://news.google.com/rss/articles/CBMie0FVX3lxTFBkQkVZYTdubkNxeE9fSWxPSXZCcWJzTTJiazdEVFhOQUlYWFA5bGRRRXhkYnk5MVRXalk2bFM2XzVKNWM0VUtxcHVYU1lsTlQwRWdia2ZSby1XalBRbEIteTJkOVlaOUh1RVhwbXlsellDekx2MDNUOTgtWQ?oc=5) (The Guardian); [U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown](https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzFxTWRncTlid3k2WGc3Z0dVdTZ0cndPNDh2YTlwYW1WYkEwS2R6TmFIeWlYcm00VGV6RWxfY1VpWVBKRzVPZkJ5OHJiQU9aQzd6NEVYUkpNWE5MR0VyX091OVRlTGRDWjBHUEtCdnJhdVFGbEtNeFFJLW1yaDB4RWFYbXY1TUZfNDNvLXZ2Y3ZDX2hRQ0ZKYWlVWkIybjkteURZQlc4NjR0UWs3SDdvMEk4RUt5VkFvNUZ2Rzh3WEYxaHFjQUFkTnk3TnJaNUU?oc=5) (PBS); [U.S. Officials Announce Cyclospora Outbreak Is Over](https://news.google.com/rss/articles/CBMifkFVX3lxTE1sQzdXTEd2NzlMVnlZR2ZUaElJU1VMbzNxcDJ4c1lwcVN4MldpS2pkd1hhNEFxdXdsdGsxX1puOWRycm5XQlRrUzhZUERNdjFoWHRYRTlMQ3NaTEIwMXI1M1pZQW1teHh5d2NFd1FGR3BHOTFMc1ZxMW9pVmhzdw?oc=5) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 24 item(s) across 20 source(s); 1 official/primary-source item(s).
+- Topic size: 23 item(s) across 20 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Hillsborough County is currently experiencing an unusual increase in locally acquired dengue infections .
-- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Dengue cases near 100 in Hillsborough County](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVQybjJ4MVo2NElFeHNrLTNKWmpHQTg3TVpaOWQyX042d2NWekMxYXhLQjVnNEl4Wkx1azhkQmtrWVZTaUtGbXBia3JGOTU1cW0zb1BHbkZnMEJ1cjRNM1JsREVwYnIyV19LNlR5ZTdwNnRoTmZJQW5vWFFSd1AwYUh6c1lxUVNYZFFESnlCazZPTS1YamRHcA?oc=5) (Axios); [Hillsborough County ramps up response to dengue fever outbreak](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUUwLUU1Q0dMaGs4YVRqUzZlTU43U0tlMXU2c3FMbmcxZ2ZVMmw2dENjeXpoNjlZTVZmMzN5U25HU1RTeExVdUh0eEkwQVk5SGVVZVk2VXBvOENzcV82U3pHUmRKdDVwXzVrNkNOaFlGaUwzcnhDdlRld182Ui1NenQxUHNuRkZSWUNtcDROR0hvMU5yQkVpSWpzYTdUeEdka3BaOFZod0hFb0k2ZHNYVExmLUlZRDlnNGhvZ28tZw?oc=5) (wtsp.com); [Opinion: The 2026 El Niño phenomenon and its impact on dengue outbreaks](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlpmZ3k1Y1VVcDBuWUV1WC1UTEV1Z2NvcUZvMElyamhFdWJGc2UzY29MZG45azNYdkE4WTFrUG0zeGprQTBfVXYtYXpWaDctSWtxZUp0OWFQOFRCM0xYeTgxQ2U2NlBBdm1aNW5hcldqem5DaXpNUkstMXVLeGRjMHd4WjNDd2N2alRwd2Vva1g5eV96UEotaW11WDVwS0VzTDdyZ3V2M0NuSnFXOXZEVzJOczRpZVVBZENEZA?oc=5) (KLSE Screener); [Chennai sees rise in fever cases, dengue infections](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFgtQk90VWc4eUpUSGJDU20ydTJlQkFOdTVuLVI4RTc0TVBtQjRHTkdiRFhVMG9FVlIwaks3czNlRXc5SHB1TUs4bjZyUV9TNUZZcVJPUU0ySGU3Z0tSUEFPRUtEU1J0ZHpiSG13NG1iMU1yd18wdmhaRjJ0N0NHSzNweEFaLVcyTk5CZmt5amRuSmRCclln0gGcAUFVX3lxTFBfRHBsMzl3cTlSVkdWR2swZ2VuYUF1LTNyZXpLT2F3OVF1bVRMQWd5c2N2bnM4d3pheGlBbDJQaGt3cXpTaU92M05Rd0Y3SWV4REtDWHg5U0doanlHTWt6ci1mdm40eGdOMktpNHdRbFBKcTlwRUJNVWNpeHZQMGpiaHhlY0QxckMzZ0hPbUVWNUdNUjdrdE9sQnBwVQ?oc=5) (madhyamamonline.com)
+- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Precautions Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Hillsborough County ramps up response to dengue fever outbreak](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUUwLUU1Q0dMaGs4YVRqUzZlTU43U0tlMXU2c3FMbmcxZ2ZVMmw2dENjeXpoNjlZTVZmMzN5U25HU1RTeExVdUh0eEkwQVk5SGVVZVk2VXBvOENzcV82U3pHUmRKdDVwXzVrNkNOaFlGaUwzcnhDdlRld182Ui1NenQxUHNuRkZSWUNtcDROR0hvMU5yQkVpSWpzYTdUeEdka3BaOFZod0hFb0k2ZHNYVExmLUlZRDlnNGhvZ28tZw?oc=5) (wtsp.com); [Opinion: The 2026 El Niño phenomenon and its impact on dengue outbreaks](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlpmZ3k1Y1VVcDBuWUV1WC1UTEV1Z2NvcUZvMElyamhFdWJGc2UzY29MZG45azNYdkE4WTFrUG0zeGprQTBfVXYtYXpWaDctSWtxZUp0OWFQOFRCM0xYeTgxQ2U2NlBBdm1aNW5hcldqem5DaXpNUkstMXVLeGRjMHd4WjNDd2N2alRwd2Vva1g5eV96UEotaW11WDVwS0VzTDdyZ3V2M0NuSnFXOXZEVzJOczRpZVVBZENEZA?oc=5) (KLSE Screener); [Chennai sees rise in fever cases, dengue infections](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFgtQk90VWc4eUpUSGJDU20ydTJlQkFOdTVuLVI4RTc0TVBtQjRHTkdiRFhVMG9FVlIwaks3czNlRXc5SHB1TUs4bjZyUV9TNUZZcVJPUU0ySGU3Z0tSUEFPRUtEU1J0ZHpiSG13NG1iMU1yd18wdmhaRjJ0N0NHSzNweEFaLVcyTk5CZmt5amRuSmRCclln0gGcAUFVX3lxTFBfRHBsMzl3cTlSVkdWR2swZ2VuYUF1LTNyZXpLT2F3OVF1bVRMQWd5c2N2bnM4d3pheGlBbDJQaGt3cXpTaU92M05Rd0Y3SWV4REtDWHg5U0doanlHTWt6ci1mdm40eGdOMktpNHdRbFBKcTlwRUJNVWNpeHZQMGpiaHhlY0QxckMzZ0hPbUVWNUdNUjdrdE9sQnBwVQ?oc=5) (madhyamamonline.com); [Could a mosquito bite be fatal? Hillsborough health officials probe death amid historic dengue outbreak](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQkQ1T3JLSDFqa0l5QXZjVWhLZkVkZWE4a1JTNmFyUGE5NjVEUURvaktINWI0azJjMU02emNOdFB3OUhYOXp0ZTNFREpkeTExYlJwZVNfek5zSUMtdzU0WDRqaDRhWnRSQ19wZWVzNGZkenpuODl2MUtYZ0lDZDFuUHpCV1p3STNQMDdOWVpXcjVvRnIwTC1oNVdOTzlJcHg0dTcyWlN6VTI4SklYdUprenNVa0tnelhkTnN3YWxNdVNIME80bDhRZHN6UVRacUlERkVDb2cwc0pfYThHNElIYVdWVFpKN0N2SldqWFgtWEZ0QTJUNFE3NmN6cm1FVFUwYnNIcldTTXlNOFludXlR?oc=5) (Tampa Bay 28)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -444,9 +444,11 @@ Search window: 7 day(s) ending 2026-09-13
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
-- [Another measles-related death reported in Pennsylvania as outbreak grows - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/measles-related-death-reported-pennsylvania-outbreak-grows/story?id\=136410532) | ABC News - Breaking News, Latest News and Videos | 2026-09-13T22:35+00:00 | Outbreaks and emerging infections
+- [Video Growing Pennsylvania measles outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/video/136410716/) | ABC News - Breaking News, Latest News and Videos | 2026-09-13T23:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Pennsylvania Records Third Measles Death Amid CDC Pushback](https://www.bloomberg.com/news/articles/2026-09-13/pennsylvania-records-third-measles-death-amid-cdc-pushback) | Bloomberg.com | 2026-09-13T21:16+00:00 | Outbreaks and emerging infections
+- [Pennsylvania says an unvaccinated woman has died from measles-related complications](https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications) | NPR | 2026-09-13T23:23+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Another measles-related death reported in Pennsylvania as outbreak grows - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/US/measles-related-death-reported-pennsylvania-outbreak-grows/story?id\=136410532) | ABC News - Breaking News, Latest News and Videos | 2026-09-13T22:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Adult woman dies of measles complications in growing Pennsylvania outbreak](https://www.cnn.com/2026/09/13/health/measles-death-pennsylvania) | CNN | 2026-09-13T20:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -475,8 +477,6 @@ Search window: 7 day(s) ending 2026-09-13
 - [DRC EBOLA OUTBREAK SURPASSES 7,000 CASES, DEATH TOLL NEARS 3,400](https://crimefightersng.com/news/drc-ebola-outbreak-surpasses-7000-cases-death-toll-nears-3400) | crimefightersng.com | 2026-09-12T18:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola infections top 7,000 in Congo as virus spreads to new province](https://www.timesofisrael.com/ebola-infections-top-7000-in-congo-as-virus-spreads-to-new-province/) | The Times of Israel | 2026-09-12T18:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [More than 7,000 confirmed cases in Congo’s Ebola outbreak](https://www.spokesman.com/stories/2026/sep/12/more-than-7000-confirmed-cases-in-congos-ebola-out/) | spokesman.com | 2026-09-12T18:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
