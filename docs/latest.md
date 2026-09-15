@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-14
-Generated at: 2026-09-14T20:50
+Generated at: 2026-09-14T21:49
 Search window: 7 day(s) ending 2026-09-14
 
 ## Executive scan
@@ -12,22 +12,22 @@ Search window: 7 day(s) ending 2026-09-14
 - [Intensity-dependent associations of physical activity and cardiorespiratory fitness with hair cortisol concentrations in the context of lifetime air pollution exposure.](https://pubmed.ncbi.nlm.nih.gov/42721376/) (PubMed Infectious Disease Search; 2026-09-10T00:00; Major epidemiology studies; relevance 5/5)
 - [Surveillance Summaries: Causes of Death Among Stillbirths and Children Aged 5 Years in Africa and South Asia - Child Health and Mortality Prevention Surveillance, Seven Countries, 2016-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766389) (CDC MMWR; 2026-09-08T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 17, Data as of 06 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa; 2026-09-08T06:51+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (222), Policy, surveillance, and public health infrastructure (27), Occupational and environmental epidemiology (19)
+- Category mix: Outbreaks and emerging infections (212), Policy, surveillance, and public health infrastructure (28), Occupational and environmental epidemiology (18)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 115 item(s) across 96 source(s).
+- Newly tracked story cluster: 112 item(s) across 96 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - The Guardian now includes deaths or fatal cases in the story frame.
-- CNN now foregrounds vaccination or vaccine policy in the story.
+- edition.cnn.com now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 61 item(s) across 54 source(s).
+- Newly tracked story cluster: 59 item(s) across 53 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
-- weeklytimesnow.com.au now reports conflict over body retrieval or burial practices.
+- The Weekly Times now reports conflict over body retrieval or burial practices.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
@@ -39,37 +39,37 @@ Search window: 7 day(s) ending 2026-09-14
 
 ### Occupational and environmental epidemiology
 - Lead item: [Caregiving experiences, challenges and needs of mothers for their young children who are HIV exposed and uninfected from Worcester, South Africa - A qualitative exploration through the nurturing care framework.](https://pubmed.ncbi.nlm.nih.gov/42726939/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 20 item(s) across 11 source(s).
+- Newly tracked story cluster: 19 item(s) across 11 source(s).
 - Monitoring: Caregiving experiences, challenges and needs of mothers for their young children who are HIV exposed and uninfected from Worcester, South Africa - A qualitative exploration through the nurturing care framework.
 - CDC MMWR now explicitly uses investigation or monitoring language.
 - CDC MMWR now includes deaths or fatal cases in the story frame.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 44 item(s) across 40 source(s).
+- Newly tracked story cluster: 40 item(s) across 37 source(s).
 - Monitoring: Toledo-Lucas County Health Department Cyclosporiasis Update
-- Medical Economics now includes deaths or fatal cases in the story frame.
+- medicaleconomics.com now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 115 item(s) across 96 source(s); 1 official/primary-source item(s).
+- Topic size: 112 item(s) across 96 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Unvaccinated woman is third measles-related death in Pennsylvania](https://edition.cnn.com/2026/09/14/health/video/unvaccinated-woman-is-third-measles-related-death-in-pennsylvania-digvid-vrtc) (CNN); [Officials investigating 3rd potential measles-related death in Pennsylvania](https://www.cbsnews.com/philadelphia/video/officials-investigating-3rd-potential-measles-related-death-in-pennsylvania/) (CBS News); [Trump administration changes how it counts measles deaths amid Pennsylvania outbreak](https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania) (The Guardian); [Pennsylvania records third death from ongoing measles outbreak, officials say](https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2dHT08zblkxTUVPdWpUR0sxYTY5dnJKR0ZKN1JSOENjOUtJRGVTLVgtWk9VZWhjcDlPT1pZUnVUSFdnVWJ5cEk5R1VhVFRBQ2pKZ29zQ0E3dVg5YnlRVUYydXFFWTVSeFg1YWJyM25EbW9COVVFaE9xYUw2SXM1OHRNRUFxbWFUSlRwRHhoQWFpV3ZGcUZfVTBSV2VjLVM1VTVNVFBIdzUtSDYtaWYxMFZaR2tVTDJTWGpRTw?oc=5) (CBS News)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Unvaccinated woman is third measles-related death in Pennsylvania](https://edition.cnn.com/2026/09/14/health/video/unvaccinated-woman-is-third-measles-related-death-in-pennsylvania-digvid-vrtc) (edition.cnn.com); [Officials investigating 3rd potential measles-related death in Pennsylvania](https://www.cbsnews.com/philadelphia/video/officials-investigating-3rd-potential-measles-related-death-in-pennsylvania/) (CBS News); [Trump administration changes how it counts measles deaths amid Pennsylvania outbreak](https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania) (The Guardian); [Pennsylvania records third death from ongoing measles outbreak, officials say](https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2dHT08zblkxTUVPdWpUR0sxYTY5dnJKR0ZKN1JSOENjOUtJRGVTLVgtWk9VZWhjcDlPT1pZUnVUSFdnVWJ5cEk5R1VhVFRBQ2pKZ29zQ0E3dVg5YnlRVUYydXFFWTVSeFg1YWJyM25EbW9COVVFaE9xYUw2SXM1OHRNRUFxbWFUSlRwRHhoQWFpV3ZGcUZfVTBSV2VjLVM1VTVNVFBIdzUtSDYtaWYxMFZaR2tVTDJTWGpRTw?oc=5) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 61 item(s) across 54 source(s); 2 official/primary-source item(s).
+- Topic size: 59 item(s) across 53 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-14T17:36+02:00)
 - Detailed note: Since External Situation Report #16, a further 586 confirmed cases and 276 confirmed deaths have been reported, bringing the cumulative total to 6686 confirmed cases, including 3226 deaths [case fatality ratio (CFR) 48.3%], as of 6 September 2026. Ituri accounts for 80.2% of cumulative confirmed cases, down from 82.2% in the previous update, while Nord-Kivu has now surpassed 1000 cumulative cases.
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 17, Data as of 06 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa); [Ebola burial teams are facing attacks in Congo’s Butembo](https://www.weeklytimesnow.com.au/news/national/ebola-burial-teams-are-facing-attacks-in-congos-butembo/video/618b1caf67d27ebcd120aac23968c2cd) (weeklytimesnow.com.au); [DRC Ebola Outbreak Surpasses 7,000 Cases as Bundibugyo Strain Tests Health Defences](https://streamlinefeed.co.ke/news/drc-ebola-outbreak-surpasses-7000-cases-bundibugyo-strain) (streamlinefeed.co.ke); [DRC Ebola Outbreak Passes 7,000 Cases as Officials Report Peak](https://streamlinefeed.co.ke/news/drc-ebola-outbreak-passes-7000-cases-as-officials-report-peak) (streamlinefeed.co.ke)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 17, Data as of 06 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-0) (WHO Regional Office for Africa); [Ebola outbreak in DR Congo grows to 7,200 cases as government officials suggest transmission has peaked](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-grows-7200-cases-government-officials-suggest-transmission-has-peaked) (CIDRAP); [Ebola burial teams are facing attacks in Congo’s Butembo](https://www.weeklytimesnow.com.au/news/national/ebola-burial-teams-are-facing-attacks-in-congos-butembo/video/618b1caf67d27ebcd120aac23968c2cd) (The Weekly Times); [DRC Ebola Outbreak Passes 7,000 Cases as Officials Report Peak](https://streamlinefeed.co.ke/news/drc-ebola-outbreak-passes-7000-cases-as-officials-report-peak) (streamlinefeed.co.ke)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 44 item(s) across 40 source(s); 1 official/primary-source item(s).
+- Topic size: 40 item(s) across 37 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-09-11T00:00)
 - Detailed note: The health department labels these counts preliminary. Michigan hardest hit Detroit Free Press
 - Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [US officials declare multi-state cyclospora outbreak over](https://news.google.com/rss/articles/CBMie0FVX3lxTFBkQkVZYTdubkNxeE9fSWxPSXZCcWJzTTJiazdEVFhOQUlYWFA5bGRRRXhkYnk5MVRXalk2bFM2XzVKNWM0VUtxcHVYU1lsTlQwRWdia2ZSby1XalBRbEIteTJkOVlaOUh1RVhwbXlsellDekx2MDNUOTgtWQ?oc=5) (The Guardian); [US declares end of largest recorded cyclosporiasis outbreak](https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09VN1ZRWGprdy1ndG9qTEVXVVkxVXN0SE96eDZJU1BDVFF5T1RHR2I2TGU1Z3lsc1FIWU9vdTgtanZ5VlZOZkYtQWVubkNHMDFBR0F1SUwzbUxIMnJjUmFEU2xWQ3dIZEx6UlRhcmhkQXZhUEtucEk5dzlpV0dIUGZNemxzY0l4U1luTlpTRklTYjQ3X2VhQXRlaTV4UjAxYUVxblNodGduX2o0WExvSFdhQWxKNXJMZGRKR0NCVHZOR1FwYldr?oc=5) (Reuters); [U.S. Officials Announce Cyclospora Outbreak Is Over](https://news.google.com/rss/articles/CBMifkFVX3lxTE1sQzdXTEd2NzlMVnlZR2ZUaElJU1VMbzNxcDJ4c1lwcVN4MldpS2pkd1hhNEFxdXdsdGsxX1puOWRycm5XQlRrUzhZUERNdjFoWHRYRTlMQ3NaTEIwMXI1M1pZQW1teHh5d2NFd1FGR3BHOTFMc1ZxMW9pVmhzdw?oc=5) (The New York Times); [Cyclosporiasis outbreak exposes a weakened US public health system](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDZZOHlLM1lKb25DaF95QzRydUtlNUhZOWV6ZkptUXkxemFmeVluLUZHWHliZm9ZMzRpYThDajk5cTZEUmJ0bFpWUEJpMHpXR0JpSmNQR3R0b2tiMmYtSC1DSzZPZmNqcF84UnF1X0RjY1RFSW5HOEFSdC1xdDFtenNTaGZSdlRsbjRuMm03cGNMdTVZUjR5V0FaaEw5dzc5cG5TeWRsTDdjejlnN1BvR296c19ub1I4?oc=5) (Reuters)
@@ -85,7 +85,7 @@ Search window: 7 day(s) ending 2026-09-14
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Occupational and environmental epidemiology
-- Topic size: 20 item(s) across 11 source(s); 5 official/primary-source item(s).
+- Topic size: 19 item(s) across 11 source(s); 5 official/primary-source item(s).
 - Lead item: [Caregiving experiences, challenges and needs of mothers for their young children who are HIV exposed and uninfected from Worcester, South Africa - A qualitative exploration through the nurturing care framework.](https://pubmed.ncbi.nlm.nih.gov/42726939/) (PubMed Infectious Disease Search, 2026-09-11T00:00)
 - Detailed note: Harris, PhD 4 ,5 ; Brittany Gianetti, PhD 4 ; Mary Boyd, MD 6 ; Benon Kwesiga, MPH 2 ; Richard Migisha, MPH 2 ; Sharon Namasambi, MPH 2 ; Richard Ssekitoleko, MMed 7 ; Bernard Lubwama, MPH 8 ; Atek Kagirita, MPH 8 ; Charles Olaro, MMed 9 ; Diana Atwine, MMed 9 ; Chris Baryomunsi, PhD 9 ; Uganda Ebola Response Team; Uganda Case Investigation Team ( View author affiliations ) Clinical and epidemiologic descriptions...
 - Evidence notes: [Caregiving experiences, challenges and needs of mothers for their young children who are HIV exposed and uninfected from Worcester, South Africa - A qualitative exploration through the nurturing care framework.](https://pubmed.ncbi.nlm.nih.gov/42726939/) (PubMed Infectious Disease Search); [Notes from the Field: Clinical Characteristics of Patients with Ebola Disease Caused by Bundibugyo Virus](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766398) (CDC MMWR); [Notes from the Field: Characteristics and Monitoring of the 2026 Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo, August 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766344) (CDC MMWR); [Intensity-dependent associations of physical activity and cardiorespiratory fitness with hair cortisol concentrations in the context of lifetime air pollution exposure.](https://pubmed.ncbi.nlm.nih.gov/42721376/) (PubMed Infectious Disease Search); [Surveillance Summaries: Causes of Death Among Stillbirths and Children Aged 5 Years in Africa and South Asia - Child Health and Mortality Prevention Surveillance, Seven Countries, 2016-2024](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766389) (CDC MMWR)
@@ -442,21 +442,17 @@ Search window: 7 day(s) ending 2026-09-14
 ## Other notable readings
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
-- [Unvaccinated woman is third measles-related death in Pennsylvania](https://edition.cnn.com/2026/09/14/health/video/unvaccinated-woman-is-third-measles-related-death-in-pennsylvania-digvid-vrtc) | CNN | 2026-09-14T22:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Cooling towers linked to Bronx Legionnaires' disease cluster must be cleaned by the end of Monday, NYC officials say](https://www.cbsnews.com/newyork/news/bronx-legionnaires-disease-cluster-cooling-towers-cleaning/) | CBS News | 2026-09-14T21:55+00:00 | Occupational and environmental epidemiology
+- [Unvaccinated woman is third measles-related death in Pennsylvania](https://edition.cnn.com/2026/09/14/health/video/unvaccinated-woman-is-third-measles-related-death-in-pennsylvania-digvid-vrtc) | edition.cnn.com | 2026-09-14T22:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Officials investigating 3rd potential measles-related death in Pennsylvania](https://www.cbsnews.com/philadelphia/video/officials-investigating-3rd-potential-measles-related-death-in-pennsylvania/) | CBS News | 2026-09-14T21:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Trump administration changes how it counts measles deaths amid Pennsylvania outbreak](https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania) | The Guardian | 2026-09-14T20:35+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola burial teams are facing attacks in Congo’s Butembo](https://www.weeklytimesnow.com.au/news/national/ebola-burial-teams-are-facing-attacks-in-congos-butembo/video/618b1caf67d27ebcd120aac23968c2cd) | weeklytimesnow.com.au | 2026-09-14T14:30+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak in DR Congo grows to 7,200 cases as government officials suggest transmission has peaked](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-grows-7200-cases-government-officials-suggest-transmission-has-peaked) | CIDRAP | 2026-09-14T20:25+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola burial teams are facing attacks in Congo’s Butembo](https://www.weeklytimesnow.com.au/news/national/ebola-burial-teams-are-facing-attacks-in-congos-butembo/video/618b1caf67d27ebcd120aac23968c2cd) | The Weekly Times | 2026-09-14T14:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Pennsylvania records third death from ongoing measles outbreak, officials say](https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2dHT08zblkxTUVPdWpUR0sxYTY5dnJKR0ZKN1JSOENjOUtJRGVTLVgtWk9VZWhjcDlPT1pZUnVUSFdnVWJ5cEk5R1VhVFRBQ2pKZ29zQ0E3dVg5YnlRVUYydXFFWTVSeFg1YWJyM25EbW9COVVFaE9xYUw2SXM1OHRNRUFxbWFUSlRwRHhoQWFpV3ZGcUZfVTBSV2VjLVM1VTVNVFBIdzUtSDYtaWYxMFZaR2tVTDJTWGpRTw?oc=5) | CBS News | 2026-09-14T13:11+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Pennsylvania records third measles-related death amid outbreak](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdDkzUzJxeXVIcGh6YTNtWjNjbHFhcFF0Wm9tYWRvUDJXWXZSM3VzbEYwZkRWVzFDV3A5cjg5LUNBWW5wUy1PbzhQWTNpRmlibEl3MmVCQ280Q01ETW5UVTJzUGQzV1NXRUV3UDRXcjA3YzFncTJkX2tWenBKNE5IeVc3QXBJU2l2MXcyckQ5dXI1LU44ZldTdVdGeHBJM2s2MnZzcGs2Vy15VV9jSXFYSA?oc=5) | STAT | 2026-09-14T11:53+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DRC Ebola Outbreak Surpasses 7,000 Cases as Bundibugyo Strain Tests Health Defences](https://streamlinefeed.co.ke/news/drc-ebola-outbreak-surpasses-7000-cases-bundibugyo-strain) | streamlinefeed.co.ke | 2026-09-14T10:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DRC Ebola Outbreak Passes 7,000 Cases as Officials Report Peak](https://streamlinefeed.co.ke/news/drc-ebola-outbreak-passes-7000-cases-as-officials-report-peak) | streamlinefeed.co.ke | 2026-09-14T10:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -472,13 +468,17 @@ Search window: 7 day(s) ending 2026-09-14
   Limited detail was available from feed metadata alone.
 - [Bronx Legionnaires' disease outbreak prompts NYC health officials to order the cleaning of 10 cooling towers](https://news.google.com/rss/articles/CBMingFBVV95cUxPaWNBbWducXFQRm8zRkJCdEgxUTFNX0FySk51Z3BMaW5keGpKMXRZVWw4OVgtSXVuMHRYVHkwQVdpWFZkYi0zTlNSbjFYREl1bWxmeXg0eGNnbHp4clgxVk1HVGxHeWp1TDk1WUpQVmt2ZTZkWW5lT1NLYUY1NjlHTWpkR19MaUl2S1FSR3RmYW5zQzR1elZ1czg3aWVMZw?oc=5) | CBS News | 2026-09-13T22:53+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Pennsylvania officials report state’s 3rd death involving measles](https://news.google.com/rss/articles/CBMijgFBVV95cUxORXhJMHlEdU9IWFExY3VoWDN6dDYyR2NGTFJvakNjSUhrOGRsZWdwUTIxQzFiSnlBejI0YndKbEFjRE1yR1V0RFdnb1c0VjNkUmkzN2xYZHVFejhYMFZwS2V4RmVGQ0N0bXVPZmZfV1pMX2dOaF9zdWdGS2NUMUNiOTNHMXMtQWlLZm9VUXZB?oc=5) | wbal.com | 2026-09-13T22:39+00:00 | Outbreaks and emerging infections
+- [Pennsylvania officials report state’s 3rd death involving measles](https://news.google.com/rss/articles/CBMijgFBVV95cUxORXhJMHlEdU9IWFExY3VoWDN6dDYyR2NGTFJvakNjSUhrOGRsZWdwUTIxQzFiSnlBejI0YndKbEFjRE1yR1V0RFdnb1c0VjNkUmkzN2xYZHVFejhYMFZwS2V4RmVGQ0N0bXVPZmZfV1pMX2dOaF9zdWdGS2NUMUNiOTNHMXMtQWlLZm9VUXZB?oc=5) | WBAL News Radio | 2026-09-13T22:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Unvaccinated Woman Likely Died of Measles Complications, Pa. County Coroner Says](https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHBRLXdTaHlBME5FWTZRczVDSEdleGdNTXdMMXl2UVZzSktyUE1LVEVyQ1ZnX1V4aTBOOHJLZHp1cWNqaFY3OGFXZFNxdUtTWFQ3WVZ1VU1LRlpZV29jZE5xU3gyQ0xxVTgzLUNoRXNwcEdmQTBjVDFjb2tQZ09qaHFQY0hjYTYycXlLZTZ5ZG92MUNSbEE?oc=5) | The New York Times | 2026-09-13T19:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Pennsylvania woman dies from measles complications, state’s third death this year](https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3BQR2VTbG5qMUlnMWpjSl9rM053TUROZXljTE15UlN1ZjRpWWNuSnlSS0s4RXF4TkRDTmRoWWx0dExWX2RLN3dleWdVcjZRUHhqeTBmeFpES2pPY0dOTEZjN3lMRjQ1ZklZMzh2TlR3VVdsdVNsOFZSWXRPZUh1bWlDMm5OdDJRd0gyOVVR?oc=5) | NBC News | 2026-09-13T17:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Pennsylvania reports apparent third measles-related death amid outbreak](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDVpcGoyaXZid19Nb0RNSXNTWUJ2NmVGSE96dnNMM0x5QjFVNEZSelRVU3J2cHR4UFk3WFJFMVRrY3JvNmR4NDg3TjN5czZPVVA4UTNlTHRTVlc5dXg4eU11TnFDLWxWTzNrMlNaTU5LM1Rzd1ZraFlnTU8yVkU1LVRZYmNkcmFnVmE4aUthZHNYLVk?oc=5) | The Guardian | 2026-09-13T17:46+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola case detected in north-western province far from epicentre, official says](https://sundayworld.co.za/africa/ebola-case-detected-in-north-western-province-far-from-epicentre-official-says/) | sundayworld.co.za | 2026-09-13T12:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola Outbreak Tops 7,000 Cases, 3,398 Dead](https://srpske.rs/en/news/nauka/2026/09/13/congo-ebola-outbreak-tops-7000-cases-3398-deaths) | srpske.rs | 2026-09-13T09:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -504,7 +504,7 @@ Search window: 7 day(s) ending 2026-09-14
 ## Historical epi / weird epi corner
 - [Intensity-dependent associations of physical activity and cardiorespiratory fitness with hair cortisol concentrations in the context of lifetime air pollution exposure.](https://pubmed.ncbi.nlm.nih.gov/42721376/) | PubMed Infectious Disease Search
   Vigorous physical activity was positively associated with HCC in both self-reported (LTEQ: B = 0.010, p = 0.042) and objectively measured data (Fitbit: B = 0.006, p = 0.044). VO 2 peak was initially associated with higher HCC (B = 0.019, p = 0.041), but this association was attenuated after inclusion of vigorous physical activity. Lifetime exposure to particulate matter (PM 2.5 and PM 10 ) and nitrogen dioxide (NO 2 ) was estimated from residential histories and historical air pollution models.
-- [Ebola burial teams are facing attacks in Congo’s Butembo](https://www.weeklytimesnow.com.au/news/national/ebola-burial-teams-are-facing-attacks-in-congos-butembo/video/618b1caf67d27ebcd120aac23968c2cd) | weeklytimesnow.com.au
+- [Ebola burial teams are facing attacks in Congo’s Butembo](https://www.weeklytimesnow.com.au/news/national/ebola-burial-teams-are-facing-attacks-in-congos-butembo/video/618b1caf67d27ebcd120aac23968c2cd) | The Weekly Times
   Limited detail was available from feed metadata alone.
 - [Congo’s Ebola burial teams battle community anger, fatigue and fear of infection](https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEY4cG5kQmVGWEpvMnJMcHptRTRBZmk3Y25wb2xtRFpha0dLWG1RUkFidjNCZGNGNG5rM2hEZDRfcnZVTmc4ZEdvVTNndVFCRW92ZjFVVHVYbVZPTzFCRm5sNnJsd3hhTTNiZlF6WnJoR3p2VVc1ejFzU1E4Q2c5b3NlaHdaT0o1ZW1qQWFKYTNCUjdY?oc=5) | AP News
   Limited detail was available from feed metadata alone.
