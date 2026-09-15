@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-15
-Generated at: 2026-09-15T12:50
+Generated at: 2026-09-15T13:50
 Search window: 7 day(s) ending 2026-09-15
 
 ## Executive scan
@@ -12,17 +12,10 @@ Search window: 7 day(s) ending 2026-09-15
 - [Caregiving experiences, challenges and needs of mothers for their young children who are HIV exposed and uninfected from Worcester, South Africa - A qualitative exploration through the nurturing care framework.](https://pubmed.ncbi.nlm.nih.gov/42726939/) (PubMed Infectious Disease Search; 2026-09-11T00:00; Major epidemiology studies; relevance 5/5)
 - [Notes from the Field: Clinical Characteristics of Patients with Ebola Disease Caused by Bundibugyo Virus](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766398) (CDC MMWR; 2026-09-10T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Notes from the Field: Characteristics and Monitoring of the 2026 Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo, August 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766344) (CDC MMWR; 2026-09-10T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (221), Policy, surveillance, and public health infrastructure (34), Occupational and environmental epidemiology (18)
+- Category mix: Outbreaks and emerging infections (226), Policy, surveillance, and public health infrastructure (34), Occupational and environmental epidemiology (18)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
-### Measles transmission and vaccination
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 115 item(s) across 88 source(s).
-- Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
-- The Washington Post now includes deaths or fatal cases in the story frame.
-- CBS News now foregrounds vaccination or vaccine policy in the story.
-
 ### Occupational and environmental epidemiology
 - Lead item: [EARLY RELEASE: Notes from the Field: The First 100 Days of Five Ebola Outbreaks - Democratic Republic of the Congo, Uganda, and West Africa, 2007-2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766447) (CDC MMWR)
 - Newly tracked story cluster: 20 item(s) across 10 source(s).
@@ -30,9 +23,15 @@ Search window: 7 day(s) ending 2026-09-15
 - CDC MMWR now explicitly uses investigation or monitoring language.
 - CDC MMWR now includes deaths or fatal cases in the story frame.
 
+### Measles transmission and vaccination
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
+- Newly tracked story cluster: 123 item(s) across 96 source(s).
+- Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
+- The Washington Post now includes deaths or fatal cases in the story frame.
+
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 71 item(s) across 61 source(s).
+- Newly tracked story cluster: 69 item(s) across 59 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -44,25 +43,25 @@ Search window: 7 day(s) ending 2026-09-15
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 24 item(s) across 20 source(s).
+- Newly tracked story cluster: 23 item(s) across 19 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - News18 now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 115 item(s) across 88 source(s); 1 official/primary-source item(s).
+- Topic size: 123 item(s) across 96 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Pennsylvania teen died of ‘rare and severe’ complication of measles, coroner says](https://www.washingtonpost.com/health/2026/09/15/pennsylvania-teen-died-rare-severe-complication-measles-coroner-says/) (The Washington Post); [Pennsylvania Officials Report Fourth Measles Death, as Outbreak Grows](https://www.nytimes.com/2026/09/15/well/pennsylvania-measles-death.html) (The New York Times); [Fourth Measles-Related Death Reported in Pennsylvania](https://www.wsj.com/us-news/fourth-measles-related-death-reported-in-pennsylvania-2ab55b17) (WSJ); [New Measles Deaths Send US Fatality Total to Highest in Decades](https://www.bloomberg.com/news/articles/2026-09-15/new-measles-deaths-send-us-fatality-total-to-highest-in-decades) (Bloomberg.com)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Pennsylvania officials report fourth measles-associated death in 'surge' of cases](https://www.bbc.co.uk/news/articles/c8zxz31pdn46o) (BBC); [Pennsylvania teen died of ‘rare and severe’ complication of measles, coroner says](https://www.washingtonpost.com/health/2026/09/15/pennsylvania-teen-died-rare-severe-complication-measles-coroner-says/) (The Washington Post); [CDC’s new tracking method for measles deaths puzzles experts](https://www.cidrap.umn.edu/measles/cdc-s-new-tracking-method-measles-deaths-puzzles-experts) (CIDRAP); [How hospitals, clinics in Pennsylvania are responding to the measles outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/hospitals-clinics-pennsylvania-responding-amid-measles-outbreak/story?id\=136457764) (ABC News - Breaking News, Latest News and Videos)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 71 item(s) across 61 source(s); 2 official/primary-source item(s).
+- Topic size: 69 item(s) across 59 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-15T17:36+02:00)
-- Detailed note: Since External Situation Report #17, a further 572 confirmed cases and 284l confirmed deaths have been reported, bringing the cumulative total to 7258 confirmed cases, including 3510 deaths [case fatality ratio (CFR) 48.4%], as of 13 September 2026. Ituri remains the principal focus but its relative contribution continues to decline, accounting for 78.0% of cumulative confirmed cases, while transmission continues...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 18, Data as of 13 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [UN issues grave warning over DR Congo’s deadly Ebola outbreak](https://www.independent.co.uk/bulletin/news/ebola-dr-congo-outbreak-united-nations-b3050733.html) (The Independent); [UN warns DR Congo’s deadly Ebola outbreak still ‘massive’ – and will take months to fight](https://www.independent.co.uk/news/world/africa/ebola-congo-ourbreak-virus-un-aid-b3050588.html) (The Independent); [Ebola responders grapple with widening outbreak in DR Congo](https://news.un.org/en/story/2026/09/1168338) (UN News)
+- Detailed note: Since External Situation Report #17, a further 572 confirmed cases and 284l confirmed deaths have been reported, bringing the cumulative total to 7258 confirmed cases, including 3510 deaths [case fatality ratio (CFR) 48.4%], as of 13 September 2026. Olivier le Polain, head of the WHO's epidemiology and analytics response unit, said that as of September 12, authorities had recorded 7,200 cases in seven provinces...
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 18, Data as of 13 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa); [DR Congo Ebola outbreak still spreading fast in key province: WHO](https://citizen.digital/article/dr-congo-ebola-outbreak-still-spreading-fast-in-key-province-who-n390236) (Citizen Digital); [DRC EBOLA OUTBREAK SURPASSES 7,000 CASES, DEATH TOLL NEARS 3,400](https://crimefightersng.com/news/drc-ebola-outbreak-surpasses-7000-cases-death-toll-nears-3400) (crimefightersng.com); [UN issues grave warning over DR Congo’s deadly Ebola outbreak](https://www.independent.co.uk/bulletin/news/ebola-dr-congo-outbreak-united-nations-b3050733.html) (The Independent)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -75,7 +74,7 @@ Search window: 7 day(s) ending 2026-09-15
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 24 item(s) across 20 source(s); 1 official/primary-source item(s).
+- Topic size: 23 item(s) across 19 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . 14, 2026 shows a wholesale market for mosquito nets in Narayanganj, Bangladesh. Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend.
 - Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Dengue cases near 100 in Hillsborough County](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVQybjJ4MVo2NElFeHNrLTNKWmpHQTg3TVpaOWQyX042d2NWekMxYXhLQjVnNEl4Wkx1azhkQmtrWVZTaUtGbXBia3JGOTU1cW0zb1BHbkZnMEJ1cjRNM1JsREVwYnIyV19LNlR5ZTdwNnRoTmZJQW5vWFFSd1AwYUh6c1lxUVNYZFFESnlCazZPTS1YamRHcA?oc=5) (Axios); [Hillsborough County ramps up response to dengue fever outbreak](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUUwLUU1Q0dMaGs4YVRqUzZlTU43U0tlMXU2c3FMbmcxZ2ZVMmw2dENjeXpoNjlZTVZmMzN5U25HU1RTeExVdUh0eEkwQVk5SGVVZVk2VXBvOENzcV82U3pHUmRKdDVwXzVrNkNOaFlGaUwzcnhDdlRld182Ui1NenQxUHNuRkZSWUNtcDROR0hvMU5yQkVpSWpzYTdUeEdka3BaOFZod0hFb0k2ZHNYVExmLUlZRDlnNGhvZ28tZw?oc=5) (wtsp.com); [Bangladesh sees rising demand for protective products amid ongoing dengue outbreak](https://english.news.cn/asiapacific/20260915/3adc1ab7fb984a43b111fb29f03c4b1d/c.html) (Xinhua); [India’s First Indigenous Dengue Vaccine Could Arrive By 2027, ICMR Reveals: What Is DengiAll?](https://www.news18.com/amp/lifestyle/health-and-fitness/indias-first-indigenous-dengue-vaccine-could-arrive-by-2027-icmr-reveals-what-is-dengiall-10330393.html) (News18)
@@ -444,13 +443,23 @@ Search window: 7 day(s) ending 2026-09-15
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
-- [Pennsylvania teen died of ‘rare and severe’ complication of measles, coroner says](https://www.washingtonpost.com/health/2026/09/15/pennsylvania-teen-died-rare-severe-complication-measles-coroner-says/) | The Washington Post | 2026-09-15T19:47+00:00 | Outbreaks and emerging infections
+- [Pennsylvania officials report fourth measles-associated death in 'surge' of cases](https://www.bbc.co.uk/news/articles/c8zxz31pdn46o) | BBC | 2026-09-15T20:47+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Pennsylvania teen died of ‘rare and severe’ complication of measles, coroner says](https://www.washingtonpost.com/health/2026/09/15/pennsylvania-teen-died-rare-severe-complication-measles-coroner-says/) | The Washington Post | 2026-09-15T20:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak still spreading fast in key province: WHO](https://citizen.digital/article/dr-congo-ebola-outbreak-still-spreading-fast-in-key-province-who-n390236) | Citizen Digital | 2026-09-15T20:37+00:00 | Outbreaks and emerging infections
+  Olivier le Polain, head of the WHO's epidemiology and analytics response unit, said that as of September 12, authorities had recorded 7,200 cases in seven provinces with 3,475 deaths. "However, there are other areas like in Butembo in North Kivu where we're seeing the numbers come up." Le Polain said the number of new cases and deaths per week had doubled in the past two weeks in North Kivu. A member of the Doctors Without Border (MSF) personnel at the Elikya clinic Ebola treatment center in the eastern Democratic Republic of the Congo, on June 5, 2026.
+- [DRC EBOLA OUTBREAK SURPASSES 7,000 CASES, DEATH TOLL NEARS 3,400](https://crimefightersng.com/news/drc-ebola-outbreak-surpasses-7000-cases-death-toll-nears-3400) | crimefightersng.com | 2026-09-15T19:58+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [CDC’s new tracking method for measles deaths puzzles experts](https://www.cidrap.umn.edu/measles/cdc-s-new-tracking-method-measles-deaths-puzzles-experts) | CIDRAP | 2026-09-15T19:56+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [How hospitals, clinics in Pennsylvania are responding to the measles outbreak - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/hospitals-clinics-pennsylvania-responding-amid-measles-outbreak/story?id\=136457764) | ABC News - Breaking News, Latest News and Videos | 2026-09-15T19:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Pennsylvania Officials Report Fourth Measles Death, as Outbreak Grows](https://www.nytimes.com/2026/09/15/well/pennsylvania-measles-death.html) | The New York Times | 2026-09-15T19:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Fourth Measles-Related Death Reported in Pennsylvania](https://www.wsj.com/us-news/fourth-measles-related-death-reported-in-pennsylvania-2ab55b17) | WSJ | 2026-09-15T19:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [New Measles Deaths Send US Fatality Total to Highest in Decades](https://www.bloomberg.com/news/articles/2026-09-15/new-measles-deaths-send-us-fatality-total-to-highest-in-decades) | Bloomberg.com | 2026-09-15T18:47+00:00 | Outbreaks and emerging infections
+- [Pennsylvania reports fourth measles-related death in a month](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzZLOWhGci05cndhRkdOT01SZzl2dUQ4a1BRbXBHd0NhNE5JUU5ySm5aRkRseXlrRG5FbEhaSk1vVFdEUUdTMDU5NFl2TENydTB3NTc3UG1KSGhPYTlDSWtKNE1OS3dIejN4RGpYNXl4dWJER19EdmN4Y0UxVVBSWXMyX3VmazlWdE1LZ1hMQ2pTWWtLY0R2TEFMcm95MllCS3c?oc=5) | UA.NEWS | 2026-09-15T19:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [UN issues grave warning over DR Congo’s deadly Ebola outbreak](https://www.independent.co.uk/bulletin/news/ebola-dr-congo-outbreak-united-nations-b3050733.html) | The Independent | 2026-09-15T17:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -460,23 +469,13 @@ Search window: 7 day(s) ending 2026-09-15
   Limited detail was available from feed metadata alone.
 - [Ebola responders grapple with widening outbreak in DR Congo](https://news.un.org/en/story/2026/09/1168338) | UN News | 2026-09-15T14:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak still spreading fast in key province: WHO](https://www.arabnews.com/world/dr-congo-ebola-outbreak-still-spreading-fast-in-key-province-who-3001816) | Arab News | 2026-09-15T14:04+00:00 | Outbreaks and emerging infections
+- [DR Congo Ebola Outbreak Shows Signs Of Easing As UN Urges Continued Vigilance](https://www.arise.tv/dr-congo-ebola-outbreak-shows-signs-of-easing-as-un-urges-continued-vigilance/) | Arise News | 2026-09-15T14:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [About 48% of confirmed Ebola cases in Congo have ended in death. NanoViricides' oral trial is set to start next week.](https://www.stocktitan.net/news/NNVC/clinical-trial-of-the-oral-drug-nv-387-to-treat-ebola-to-start-next-b56a79u9m3ru.html) | Stock Titan | 2026-09-15T13:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [UN says Ebola outbreak in eastern Congo shows progress but remains massive](https://www.kiprinform.com/en/news/un-says-ebola-outbreak-in-eastern-congo-shows-progress-but-remains-massive/) | Cyprus Inform | 2026-09-15T12:47+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [South Sudan forms Ebola task force amid regional outbreak threats](https://www.sudanspost.com/south-sudan-forms-ebola-task-force-amid-regional-outbreak-threats/) | Sudans Post | 2026-09-15T12:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [UN says Ebola outbreak in Congo remains massive, still growing](https://thefinancialexpress.com.bd/africa/un-says-ebola-outbreak-in-congo-remains-massive-still-growing) | The Financial Express | 2026-09-15T11:06+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [NYC health officials to hold town hall on deadly Legionnaires' disease cluster](https://www.cbsnews.com/newyork/news/legionnaires-disease-nyc-cluster-bronx/) | CBS News | 2026-09-15T11:06+00:00 | Occupational and environmental epidemiology
-  Limited detail was available from feed metadata alone.
-- [Third person dies in Pennsylvania measles outbreak](https://news.google.com/rss/articles/CBMiogFBVV95cUxObXBadkE3R253SnFmTWMwaENtTmlKOW5uVGN3QkJwdFk0RW5qTm9BVkJYUWtVcWpmd2I1LUhXVkc5ZEdGRUhFNU1DQkQxRWxSZ0ptVkNnOGtaVENHREFndjBXZVlUUEx6T0cwZHpEZ1ROZ2ktNDgwNVlaQ3BrN3BwdXdlTi1rUWt5WVR1LUctVmlsNTIwdVFBbllTMElvZTh3a3c?oc=5) | NBC News | 2026-09-15T11:03+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Efforts Show Promise in Fighting Congo's Ebola Outbreak](https://www.devdiscourse.com/article/health/3977413-efforts-show-promise-in-fighting-congos-ebola-outbreak) | Devdiscourse | 2026-09-15T10:58+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DRC has peaked, say authorities, as infection rates slow](https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnFIeWdrZGxWUGFCWWtWbk9IVWR6SUM0ZUMwZl9PdkZ5NkNvVGJ1RFR2ZEpmamJxUWxORmtnUEV2aG4yd21jVk1aMHYweW9qdWVQb0xfVXVzRkxhX1hZX29tcDB3SVpMbkF1aWZXaW9JTVFXdnhMeWJzcm5Id250cEFjcTVZbnRWalpnRmpSQnFOSlFXRU5rRWpjN1g0VS1TV0lqN3RPTHp3eVo4dVZMdkZBUGRYYWwwaFplb0c3VllzUFdLbzFqZVZUSQ?oc=5) | The Guardian | 2026-09-15T04:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -526,7 +525,7 @@ Search window: 7 day(s) ending 2026-09-15
   Limited detail was available from feed metadata alone.
 - [In Congo’s Ebola epicenter, a burial team works under threats and a ticking clock](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUkxNTB4bklnTHRKLVNWWXVnV1FlTFZDM3V1RkJFTUdRQVl0MHdTOFVxV3Jaa3NudXh0cWN3NkxLQTlaODl2QmV4cll6VEROUFFzRTNJWjJIN1llNHdWdXZ4T2hyYUd3TGVWbnZScXBUVURrOURJWVp0VldCRFVPc3RLbXV2RjhqRUcyeFA1Nmxrbm9VNnpfR3FaZFRRUzBEd21wS1NyUGo4VDBIT2pSOTRCM2dqR1pNNzJkYlJKS2NoN0NuRHFSNnltOWlYeE1RSDlv?oc=5) | AP News
   Limited detail was available from feed metadata alone.
-- [DR Congo: Ebola burial teams race against time](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWNGQXdCS0JuVldFVE5iak9oMUhWQ2RyRUU1eTlPanI2X2daR2p0RlZRVGdDeVRZdjBVM2Jwd2Fwd3Nwa0V6a2V4QUFqVWIyT3dINGgyWHc3U2hWcC1qS2lyS25QcDhIdlFNckhsTmRnRGVfUWlJdjk3TjdNWjA3ODVNRFRiY3ZRc2s4T3dWa01XUQ?oc=5) | France 24
+- [DR Congo: Ebola burial teams race against time](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWNGQXdCS0JuVldFVE5iak9oMUhWQ2RyRUU1eTlPanI2X2daR2p0RlZRVGdDeVRZdjBVM2Jwd2Fwd3Nwa0V6a2V4QUFqVWIyT3dINGgyWHc3U2hWcC1qS2lyS25QcDhIdlFNckhsTmRnRGVfUWlJdjk3TjdNWjA3ODVNRFRiY3ZRc2s4T3dWa01XUQ?oc=5) | france24.com
   Limited detail was available from feed metadata alone.
 - [Ebola burial team in DRC works under threats as virus continues to spread](https://news.google.com/rss/articles/CBMisgFBVV95cUxNN1BwVGpwaVE0a0ozblRRUVR1c1dEcmVQREVXaTI3MHJIM044SGRPbWdONnczdEVQLW5JUGtoTmdqSGhRdWFRNnpsMG9xbUE4TkR6SnJ0LThSd3IxVmNpbVVaYzZiU2lMN0FaenlfeG9LNzl1YV9TOHM2bnVTQVhRT1B2ekxOY2RTYnlURlV4aEZVTzlkdjhFeGpESjhlbEdfQXFfOHRYUUtnRFk4Wnc0V1pR0gG3AUFVX3lxTFBaenU4OEZGVDU5dnZGTWNmRG1leUtoOGRkNzJvOHJBOEtVaXBkN2t4cGs4dFBUZm92dXI0REFPT0pHdE1MSV9rbnJHRUR4T0FscUtDYjhRLTY1Wmdqa3A3OVdCUm9WXzhqUEg0dF84XzVtcEk4VVVTRWJJMEw0UGNDNmRheGtJaHFnRHE0djZHazFPMWlMS3ZMa2hrd1pQcWtKWWc0cmY3REZPM2xDOHNTaWRGbGNvaw?oc=5) | africanews.com
   Limited detail was available from feed metadata alone.
