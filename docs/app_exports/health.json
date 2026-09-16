@@ -3,34 +3,34 @@
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
-      "BBC",
       "CBS News",
       "CIDRAP",
       "CNN",
       "Guardian",
       "NBC News",
+      "NPR",
       "New York Times",
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 264,
+    "metadata_only_count": 260,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 282,
+    "sources_live": 278,
     "story_count_change": 6,
     "wrapper_only_count": 6
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 282,
+    "live": 278,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-15T17:21:13",
+  "generated_at": "2026-09-15T17:49:04",
   "source_failures": [
     {
-      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
+      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))",
       "required": true,
       "source": "Africa CDC",
       "source_type": "rss"
