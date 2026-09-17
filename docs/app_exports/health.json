@@ -9,9 +9,7 @@
       "CNN",
       "Guardian",
       "NBC News",
-      "NPR",
       "New York Times",
-      "PBS",
       "Reuters",
       "STAT",
       "Sky News"
@@ -30,7 +28,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-17T15:20:43",
+  "generated_at": "2026-09-17T15:28:16",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
