@@ -1,5 +1,5 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -13,47 +13,30 @@
       "New York Times",
       "PBS",
       "Reuters",
+      "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 268,
+    "metadata_only_count": 262,
     "sources_cached": 0,
-    "sources_failed": 4,
-    "sources_live": 286,
+    "sources_failed": 1,
+    "sources_live": 280,
     "story_count_change": 7,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 286,
+    "live": 280,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-16T19:28:02",
+  "generated_at": "2026-09-16T21:03:22",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
-    },
-    {
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "required": true,
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
-    },
-    {
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
-    },
-    {
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "required": true,
-      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
-      "source_type": "biorxiv"
     }
   ]
 }
