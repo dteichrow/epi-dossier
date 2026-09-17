@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -18,7 +18,7 @@
     ],
     "metadata_only_count": 254,
     "sources_cached": 0,
-    "sources_failed": 1,
+    "sources_failed": 4,
     "sources_live": 272,
     "story_count_change": 6,
     "wrapper_only_count": 5
@@ -30,13 +30,31 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-17T04:19:04",
+  "generated_at": "2026-09-17T05:18:30",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
+    },
+    {
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "required": true,
+      "source": "medRxiv Infectious Disease",
+      "source_type": "medrxiv"
+    },
+    {
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "required": true,
+      "source": "bioRxiv Infectious Disease",
+      "source_type": "biorxiv"
+    },
+    {
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "required": true,
+      "source": "bioRxiv Ancient Pathogen and Archaeogenetics",
+      "source_type": "biorxiv"
     }
   ]
 }
