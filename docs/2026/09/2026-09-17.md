@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-17
-Generated at: 2026-09-17T12:17
+Generated at: 2026-09-17T12:20
 Search window: 7 day(s) ending 2026-09-17
 
 ## Executive scan
@@ -12,13 +12,13 @@ Search window: 7 day(s) ending 2026-09-17
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 18, Data as of 13 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-3) (WHO Regional Office for Africa; 2026-09-15T15:26+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-11T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Caregiving experiences, challenges and needs of mothers for their young children who are HIV exposed and uninfected from Worcester, South Africa - A qualitative exploration through the nurturing care framework.](https://pubmed.ncbi.nlm.nih.gov/42726939/) (PubMed Infectious Disease Search; 2026-09-11T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (235), Policy, surveillance, and public health infrastructure (36), Occupational and environmental epidemiology (14)
+- Category mix: Outbreaks and emerging infections (229), Policy, surveillance, and public health infrastructure (36), Occupational and environmental epidemiology (14)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 134 item(s) across 109 source(s).
+- Newly tracked story cluster: 133 item(s) across 108 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - Bhaskar English now includes deaths or fatal cases in the story frame.
 - Bhaskar English now foregrounds vaccination or vaccine policy in the story.
@@ -37,7 +37,7 @@ Search window: 7 day(s) ending 2026-09-17
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 24 item(s) across 19 source(s).
+- Newly tracked story cluster: 19 item(s) across 15 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - Yemen Online now includes deaths or fatal cases in the story frame.
 
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-09-17
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 134 item(s) across 109 source(s); 1 official/primary-source item(s).
+- Topic size: 133 item(s) across 108 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: More than 19.8 million children in the country have already been vaccinated, but some 1,000 new suspected cases are still being reported every day. Bangladesh Measles Outbreak: WHO & Unicef Warning | Children Deaths Amist the worsening measles outbreak in Bangladesh more than 1,000 children have lost their lives, even as authorities race to contain the disease through one of the country's largest emergency...
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Pennsylvania asks CDC for emergency help as measles outbreak spreads](https://www.theguardian.com/us-news/2026/sep/17/pennsylvania-cdc-help-measles) (The Guardian); [Bangladesh measles outbreak kills over 1,000 children: Cases cross 1.94 lakh and rising despite mass vaccin...](https://www.bhaskarenglish.in/international/news/bangladesh-measles-outbreak-who-unicef-warning-children-deaths-139059383.html) (Bhaskar English); [With US measles deaths on the rise, local officials are stepping in where RFK Jr won’t](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVS1HbVdyc3hyM3NmWW9HX1Vpb1Z0LXduUHpFZkFQZzhwNmc4UVZtc1VaUnBPd1J4NXpJY2dtSE5wWU10VktFeW1mWHlqNWgzSEV3MUYyV0lkNkg1WHVmLTBaZ1RMMWdmOWNMcVViSm12ZjB5Q1BuTEFreWRpYThoY1JZUWNyX0ZRUGZFM1B0cw?oc=5) (The Guardian); [Bangladesh measles outbreak kills more than 1,000 children despite vaccine efforts](https://www.bbc.com/news/articles/c6kgw1983ky9o) (BBC)
@@ -74,7 +74,7 @@ Search window: 7 day(s) ending 2026-09-17
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 24 item(s) across 19 source(s); 1 official/primary-source item(s).
+- Topic size: 19 item(s) across 15 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend.
 - Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Dengue deaths, cases hit yearly high](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFhaZ3lFVkF2QWRBSTVDTndOTUU1cS1ZeTFjZFloVXAzZFY2QzlYUllqSmd6VnhKQTcxdnFaY3Zua1NnSEt2MnBWLWV6OVpnWlZVcFpNeDQ4TVAtMTdTOVBOWVRUWWdKSjc2Q2Y5cWdrYTUxUFpmM2JuNElYeWJkc0czVnpTWDJYUWNfNVBBR1cxdFRyaGhKTA?oc=5) (thedailystar.net); [Florida dengue cases rise to 111, Hillsborough County adds 36](https://news.google.com/rss/articles/CBMifkFVX3lxTE1zQ0x4a21WZmNiZzBmSkJXdi1ZUXZidTc2ZlBUemFwS0VjZm44cmpmU0RXQVk3WENQam5YVEo1TFRfa0dvd3N5NnV4eGsta2Z2UmhFSUZoVldlbVB4eWVtd3dYNDNuT0ZienM5M3l4M0xiZ19iWHFpbjh4Ql9NQQ?oc=5) (Outbreak News Today); [WHO Warns Renewed Fighting in Yemen Risks Surge in Malnutrition, Cholera , Dengue](https://yemenonline.info/special-reports/13774) (Yemen Online); [94 dengue cases reported in Gwalior: Health department sets up isolation wards at Morar and 1000-Bed Hospital](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREdTbjNTc1lGeW54ZGxyTVJDeTVhcnhVV3VjT3JIaGxDS1Nnb2VDLWcxYWlpQVRQLVZlanFjc1ZsYVNZOEVwUGl5cjVKdDRvQVlpN2xQN1pWNFRLbWd1aENBd3VpdFNieVFxUzNpQ3h1STVQMElFU2g2NUhtUzNmamRxd19wY1dhOHc1VWU3dHoyNEMwdG55UXRoaE9FdHpXZG5WcHpNaV9uZUpxVjYtUmc3OEhDWUUwcEEtUGhGSlQ3ejJGWmROedIBzgFBVV95cUxNeUpxNXhEWjk1TV9naDRybWhNN3JYOC1xR3NqLTBZM1NBVHVfVXNEYWtJQ2UwVlhKaXpsNkRYTzhlRU9Pa3JVQlpUSHFmUFdRTlh1d2M5czM3aTZVMWRyU3lLUDB4WTc0R2x0WWM4VzRXRjNkR25yek1fTGtDS25NSk93UkJZRXdGNXZEU2Z0VElWQjJlSV94OXcwTmUycUZ6dkNjLU9pWmdteE9XZXlJZGxYdEFVMmpUN0RNNmtjakdqNGdHemdjVDBLQnBqdw?oc=5) (Bhaskar English)
