@@ -6,7 +6,6 @@
       "BBC",
       "CBS News",
       "CIDRAP",
-      "CNN",
       "Guardian",
       "NBC News",
       "NPR",
@@ -16,21 +15,21 @@
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 273,
+    "metadata_only_count": 278,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 290,
+    "sources_live": 295,
     "story_count_change": 6,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 290,
+    "live": 295,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-18T04:10:58",
+  "generated_at": "2026-09-18T04:51:36",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
