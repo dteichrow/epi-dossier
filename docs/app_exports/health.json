@@ -11,8 +11,7 @@
       "NBC News",
       "NPR",
       "New York Times",
-      "PBS",
-      "Reuters"
+      "PBS"
     ],
     "metadata_only_count": 243,
     "sources_cached": 0,
@@ -28,7 +27,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-20T07:15:05",
+  "generated_at": "2026-09-20T08:20:32",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
