@@ -14,33 +14,33 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 248,
+    "metadata_only_count": 242,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 268,
+    "sources_live": 261,
     "story_count_change": 7,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 268,
+    "live": 261,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-20T16:16:37",
+  "generated_at": "2026-09-20T17:22:05",
   "source_failures": [
-    {
-      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "Africa CDC",
-      "source_type": "rss"
-    },
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
       "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "required": true,
+      "source": "bioRxiv Infectious Disease",
+      "source_type": "biorxiv"
     }
   ]
 }
