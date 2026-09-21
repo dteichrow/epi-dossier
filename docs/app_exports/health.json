@@ -17,18 +17,18 @@
     "metadata_only_count": 239,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 259,
+    "sources_live": 261,
     "story_count_change": 7,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 259,
+    "live": 261,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-21T05:21:47",
+  "generated_at": "2026-09-21T06:21:59",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
@@ -37,10 +37,10 @@
       "source_type": "html_list"
     },
     {
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
       "required": true,
-      "source": "bioRxiv Infectious Disease",
-      "source_type": "biorxiv"
+      "source": "medRxiv Infectious Disease",
+      "source_type": "medrxiv"
     }
   ]
 }
