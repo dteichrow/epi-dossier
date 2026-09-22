@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-22
-Generated at: 2026-09-22T05:50
+Generated at: 2026-09-22T06:27
 Search window: 7 day(s) ending 2026-09-22
 
 ## Executive scan
@@ -12,16 +12,16 @@ Search window: 7 day(s) ending 2026-09-22
 - [Cervicothoracic Tuberculous Spondylitis in a Toddler: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42762044/) (PubMed Historical Pathogen Case Studies; 2026-09-18T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Meningeal inflammation (Serpens endocrania) and intrathoracic chronic disease in 1st century A.D. Roman Near-East (Qumran): From paleopathology to clinical practice.](https://pubmed.ncbi.nlm.nih.gov/42753872/) (PubMed Historical Epidemiology; 2026-09-17T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Postcard from the field: Supporting outbreak preparedness in South Sudan - two EPIET fellows in the field](https://www.ecdc.europa.eu/en/news-events/postcard-field-supporting-outbreak-preparedness-south-sudan-two-epiet-fellows-field) (ECDC News; 2026-09-16T13:34+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (202), Policy, surveillance, and public health infrastructure (28), Historical epidemiology / ancient disease / paleopathology (5)
-- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (201), Policy, surveillance, and public health infrastructure (28), Historical epidemiology / ancient disease / paleopathology (5)
+- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, Michigan Department of Health and Human Services Infectious Disease Updates.
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 106 item(s) across 80 source(s).
+- Newly tracked story cluster: 105 item(s) across 81 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - The Guardian now includes deaths or fatal cases in the story frame.
-- The New York Times now foregrounds vaccination or vaccine policy in the story.
+- CBS News now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
@@ -53,10 +53,10 @@ Search window: 7 day(s) ending 2026-09-22
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 106 item(s) across 80 source(s); 1 official/primary-source item(s).
+- Topic size: 105 item(s) across 81 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
-- Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Why the CDC is excluding measles deaths in Pennsylvania even as outbreak appears to be ‘accelerating’](https://www.theguardian.com/us-news/2026/sep/22/cdc-pennsylvania-measles-death-outbreak) (The Guardian); [Pennsylvania Measles Outbreak Leads to an Increase in Vaccinations](https://www.nytimes.com/2026/09/20/us/measles-pennsylvania.html) (The New York Times); [Cassidy says Trump needs to be "radically honest" on vaccines amid measles outbreak](https://news.google.com/rss/articles/CBMic0FVX3lxTFBhRWNYNjcxdUxzSlFvZnMwZ3BiV01oT21YOUx4UzU5NFJrbmhBZDVsV1RENkphU0VONHF2aGNBUGNJdTJHcFlKeU5zMXp3M1pHU1NkQkFhd2pHVVN3Ymx5bFQ0MFlpNmw0dHhwZkVMSmJwVUE?oc=5) (CBS News); [The escalating standoff between the CDC and Pennsylvania over measles deaths](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTBPd1Rrbk5wTXZjaGF2OWItUDdINXMwaUhGOUFiVkUtckg5X2ZzOEJreGdfeDI4c01JZThUZnNhR3l2eV9VVmowXzJsN0cwZDBZeDIyV2lFNDVGZ2UzRTRkX3IzOWR2Z3JOcDlDLUJIVzRVN1VCVnBWUmtOVURmTWxSZHBWZTVud2xlLW12MWp0N0pnSzRsaUdB?oc=5) (NBC News)
+- Detailed note: beef expands City & State Pennsylvania Learn more about the Sunset process and provide feedback.
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Why the CDC is excluding measles deaths in Pennsylvania even as outbreak appears to be ‘accelerating’](https://www.theguardian.com/us-news/2026/sep/22/cdc-pennsylvania-measles-death-outbreak) (The Guardian); [Pa. Measles Outbreak Met With Both Defiance and a Rush to Vaccinate](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWFQ2Ym1idE1DeUdJR3g4b3dJVzlWUG1kTTJCb1pEOGpPRXRBT1NvQXJXYUQ4ajk2c0QyX3VzOFpMQWxYcERMbWhUeDNOdmRab09WeUVqUGJaVnJLcjRrUlNUTnVfN0JwcHJkUkNrOEw?oc=5) (The New York Times); [Cassidy says Trump needs to be "radically honest" on vaccines amid measles outbreak](https://news.google.com/rss/articles/CBMic0FVX3lxTFBhRWNYNjcxdUxzSlFvZnMwZ3BiV01oT21YOUx4UzU5NFJrbmhBZDVsV1RENkphU0VONHF2aGNBUGNJdTJHcFlKeU5zMXp3M1pHU1NkQkFhd2pHVVN3Ymx5bFQ0MFlpNmw0dHhwZkVMSmJwVUE?oc=5) (CBS News); [The escalating standoff between the CDC and Pennsylvania over measles deaths](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTBPd1Rrbk5wTXZjaGF2OWItUDdINXMwaUhGOUFiVkUtckg5X2ZzOEJreGdfeDI4c01JZThUZnNhR3l2eV9VVmowXzJsN0cwZDBZeDIyV2lFNDVGZ2UzRTRkX3IzOWR2Z3JOcDlDLUJIVzRVN1VCVnBWUmtOVURmTWxSZHBWZTVud2xlLW12MWp0N0pnSzRsaUdB?oc=5) (NBC News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -452,13 +452,13 @@ Search window: 7 day(s) ending 2026-09-22
   Limited detail was available from feed metadata alone.
 - [Congo rolls out Canadian-developed vaccine to fight Ebola outbreak](https://www.theglobeandmail.com/world/article-congo-rolls-out-canadian-developed-vaccine-to-fight-ebola-outbreak/) | The Globe and Mail | 2026-09-22T01:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Pennsylvania Measles Outbreak Leads to an Increase in Vaccinations](https://www.nytimes.com/2026/09/20/us/measles-pennsylvania.html) | The New York Times | 2026-09-21T21:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Costa Rica Hepatitis A Outbreak Tops 770 Cases as CDC Posts Travel Notice Centered on San José Province](https://www.medicaldaily.com/costa-rica-hepatitis-outbreak-cdc-travel-notice-san-jose-478883) | Medical Daily | 2026-09-21T16:45+00:00 | Policy, surveillance, and public health infrastructure
   Nitazenes Implicated in 76 Scottish Deaths in 2024 Are Turning Up in Counterfeit Pills from Europe to Louisiana Nitazenes, implicated in 76 Scottish drug deaths, now appear in fake pills across Europe and the U.S. Mississippi Awards $104 Million in Federal Rural Health Grants for Technology, Telehealth, and Care Gaps Across 167 Projects Mississippi awarded more than $104 million in federal rural health grants across 167 projects. Four to Six Daily Whole Grain Servings Tied to Modest Cholesterol and Blood Pressure Gains in 87 Trials A review of 87 trials found that 4 to 6 daily servings of whole grains modestly improved cholesterol, blood pressure, and weight what it means for you.
 - [EU sends experts to Congo as Ebola outbreak continues; Congo receives vaccines for clinical trials](https://www.euronews.com/health/2026/09/21/eu-sends-experts-to-congo-as-ebola-outbreak-continues-congo-receives-vaccines-for-clinical) | Euronews.com | 2026-09-21T15:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Response Shows Progress, but Outbreak Remains a Continental Emergency, African Scientists Say](https://reliefweb.int/report/democratic-republic-congo/ebola-response-shows-progress-outbreak-remains-continental-emergency-african-scientists-say) | ReliefWeb | 2026-09-21T08:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Pa. Measles Outbreak Met With Both Defiance and a Rush to Vaccinate](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWFQ2Ym1idE1DeUdJR3g4b3dJVzlWUG1kTTJCb1pEOGpPRXRBT1NvQXJXYUQ4ajk2c0QyX3VzOFpMQWxYcERMbWhUeDNOdmRab09WeUVqUGJaVnJLcjRrUlNUTnVfN0JwcHJkUkNrOEw?oc=5) | The New York Times | 2026-09-21T07:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola in DR Congo: “The outbreak is not shrinking — it is moving”](https://www.doctorswithoutborders.org/latest/ebola-dr-congo-outbreak-not-shrinking-it-moving) | Doctors Without Borders | 2026-09-21T00:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -472,14 +472,14 @@ Search window: 7 day(s) ending 2026-09-22
   Limited detail was available from feed metadata alone.
 - [DR Congo rolls out Ebola vaccine for health workers as death toll rises](https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises) | Al Jazeera | 2026-09-20T05:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak](https://kdhnews.com/news/world/congo-begins-ebola-vaccinations-for-health-workers-in-the-epicenter-of-the-outbreak/article_86ce62be-7f9d-557a-9641-419828353543.html) | The Killeen Daily Herald | 2026-09-19T22:19+00:00 | Outbreaks and emerging infections
+- [Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak](https://www.bozemandailychronicle.com/wire/international/congo-begins-ebola-vaccinations-for-health-workers-in-the-epicenter-of-the-outbreak/article_ab324488-e738-55b6-96b9-f7cb071ca9b7.html) | Bozeman Daily Chronicle | 2026-09-19T17:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [The escalating standoff between the CDC and Pennsylvania over measles deaths](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTBPd1Rrbk5wTXZjaGF2OWItUDdINXMwaUhGOUFiVkUtckg5X2ZzOEJreGdfeDI4c01JZThUZnNhR3l2eV9VVmowXzJsN0cwZDBZeDIyV2lFNDVGZ2UzRTRkX3IzOWR2Z3JOcDlDLUJIVzRVN1VCVnBWUmtOVURmTWxSZHBWZTVud2xlLW12MWp0N0pnSzRsaUdB?oc=5) | NBC News | 2026-09-19T12:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak reaches new areas in Democratic Republic of Congo](https://www.france24.com/en/ebola-outbreak-reaches-new-areas-in-democratic-republic-of-congo) | France 24 | 2026-09-19T09:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Worst Ebola outbreak spreading to new areas, not slowing, medical charity warns](https://trtafrika.com/english/article/30fb9ad1e2f0?utm_source\=f76d084d04e7\&utm_medium\=internal\&utm_campaign\=recommended\&utm_content\=inline) | TRT Afrika | 2026-09-18T20:31+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [As PA measles cases skyrocket, Shapiro-RFK Jr. beef expands](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVE5WQUsxWDMtWU40eFhqMF83Q2pJakVobjA1aVpJNjc3TkhneDN0V3ZDMGlGZmtoRlJjTFVYT3RERU9jUzgzRG5Pbk53RkNob1U2aUhGa2JkS1BJc0VQQUE4WFFMbk1kNGg2WTB3MDR0Q25uU19pQmo2UVRGazZ2bm5ZN3h4SmlJVHVhYzJHS3NPX3NRS0pZSmZvV3pYaHBkaTlvRS1ySmJWaFFra19J?oc=5) | City & State Pennsylvania | 2026-09-18T22:41+00:00 | Outbreaks and emerging infections
+  beef expands City & State Pennsylvania
 
 ## Papers worth saving
 - [Projected spatial distribution and geographic shifts of suitable habitats for two major plague vectors under climate and land-use change in Qinghai, China.](https://pubmed.ncbi.nlm.nih.gov/42763008/)
@@ -538,7 +538,7 @@ Search window: 7 day(s) ending 2026-09-22
   Particular emphasis is placed on formulations supported by in vivo efficacy, clinical investigation or regulatoryapproval, highlighting advances in tuberculosis, chronic bacterial infections, viral respiratory diseases and pulmonary fungal infections. We trace the evolution of antimicrobial DPIs from early aerosolized therapies to contemporary engineered systems, integratingdisease targets, pharmacological agents, particle and formulation engineering, inhaler technologies, patents, clinical development andregulatory milestones. This review examines the historical evolution, pharmacological landscape, particle engineering technologies, translational challenges, and clinical progress of antibacterial, antiviral, and antifungal DPIs.
 - [Congo Ebola Burial Teams](https://news.google.com/rss/articles/CBMimAFBVV95cUxObUJiaS04TDFuUG0tN1FXZlBmY1BlSW1FUGtPbzVGaUIxUkJiakl6ZGt0eUtweXJ0alpPaVpvUmdBeGpBU0I1aEE5WklmSlp2THNpblc5WllUZ3I0cmFaM0tuOGw3X2RUYjZkRmVTb00xeEg4eFZ4LW9hSjVDNlBSWTdnaE1CcmlMY1kyd2luV2ZybDRLX05OcQ?oc=5) | TelegraphHerald.com
   Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak spreads to 7th province](https://www.freemalaysiatoday.com/category/world/2026/09/11/dr-congo-ebola-outbreak-spreads-to-7th-province) | freemalaysiatoday.com
+- [DR Congo Ebola outbreak spreads to 7th province](https://www.freemalaysiatoday.com/category/world/2026/09/11/dr-congo-ebola-outbreak-spreads-to-7th-province) | Free Malaysia Today
   The current outbreak in the DRC has killed 3,310 people out of 6,843 confirmed cases, according to the latest figures from the Congolese authorities. It began in northeastern Ituri province and spread to conflict-plagued, remote eastern and northern regions where armed groups have roamed for decades, the presence of the state is weak, and health infrastructure is largely lacking. Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
