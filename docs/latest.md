@@ -1,18 +1,18 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-23
-Generated at: 2026-09-23T14:21
+Generated at: 2026-09-23T15:17
 Search window: 7 day(s) ending 2026-09-23
 
 ## Executive scan
 - [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-09-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa; 2026-09-23T15:10+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-23T00:00; Outbreaks and emerging infections; relevance 5/5)
+- [George Russell Dartnell (1799-1878): an Irish military surgeon in the Victorian empire.](https://pubmed.ncbi.nlm.nih.gov/42776455/) (PubMed Historical Pathogen Case Studies; 2026-09-23T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- [[From Count Gustav Chorinsky (1868) to King Ludwig II. of Bavaria (1886) : Cyanide, progressive paralysis & "paranoia"].](https://pubmed.ncbi.nlm.nih.gov/42776382/) (PubMed Historical Pathogen Case Studies; 2026-09-23T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa; 2026-09-22T14:14+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Hantavirus preparedness at human-rodent interfaces: lessons from China's HFRS control and Andes virus transmission in mobile populations.](https://pubmed.ncbi.nlm.nih.gov/42773773/) (PubMed Infectious Disease Search; 2026-09-22T00:00; Major epidemiology studies; relevance 5/5)
 - [Differential glycosylation in the envelope glycoprotein enhances DC-SIGN-mediated cell entry of the West African Ebolavirus Makona.](https://pubmed.ncbi.nlm.nih.gov/42770795/) (PubMed Infectious Disease Search; 2026-09-22T00:00; Major epidemiology studies; relevance 5/5)
-- [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News; 2026-09-21T09:02+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Projected spatial distribution and geographic shifts of suitable habitats for two major plague vectors under climate and land-use change in Qinghai, China.](https://pubmed.ncbi.nlm.nih.gov/42763008/) (PubMed Historical Pathogen Case Studies; 2026-09-19T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (216), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (4)
+- Category mix: Outbreaks and emerging infections (213), Policy, surveillance, and public health infrastructure (25), Historical epidemiology / ancient disease / paleopathology (5)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
@@ -24,30 +24,29 @@ Search window: 7 day(s) ending 2026-09-23
 - PubMed Infectious Disease Search now mentions possible human-to-human transmission.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
-### Measles transmission and vaccination
-- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 111 item(s) across 93 source(s).
-- Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
-- The Conversation now includes deaths or fatal cases in the story frame.
-- The Conversation now foregrounds vaccination or vaccine policy in the story.
-
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 74 item(s) across 59 source(s).
+- Newly tracked story cluster: 72 item(s) across 58 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now mentions possible human-to-human transmission.
 
 ### Historical epidemiology and ancient pathogens
 - Lead item: [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 4 item(s) across 3 source(s).
+- Newly tracked story cluster: 6 item(s) across 3 source(s).
 - Monitoring: BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)
 - PubMed Historical Pathogen Case Studies now explicitly uses investigation or monitoring language.
 - PubMed Historical Epidemiology now includes deaths or fatal cases in the story frame.
 
+### Measles transmission and vaccination
+- Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
+- Newly tracked story cluster: 111 item(s) across 93 source(s).
+- Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
+- The Guardian now includes deaths or fatal cases in the story frame.
+
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 28 item(s) across 23 source(s).
+- Newly tracked story cluster: 27 item(s) across 22 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - Reuters now foregrounds vaccination or vaccine policy in the story.
 
@@ -56,13 +55,13 @@ Search window: 7 day(s) ending 2026-09-23
 ### Measles transmission and vaccination
 - Topic size: 111 item(s) across 93 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
-- Detailed note: Between March 15 and September 6 2026, Bangladesh reported 92 suspected measles cases per 100,000 population and 11 confirmed measles cases per 100,000 population, based on an estimated national population of 178 million. Almost 900 people in Bangladesh are suspected to have died in a measles outbreak that began in March. Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [US CDC confirms first measles-related death of 2026, does not disclose state](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-first-measles-related-death-2026-09-23/) (Reuters); [CDC updates measles death toll to one, despite Pennsylvania’s higher tally](https://www.washingtonpost.com/health/2026/09/23/cdc-updates-measles-death-toll-one-despite-pennsylvanias-higher-tally/) (The Washington Post); [CDC Adds First Measles-Related Death After Pennsylvania Dispute](https://www.bloomberg.com/news/articles/2026-09-23/cdc-adds-first-measles-related-death-after-pennsylvania-dispute) (Bloomberg.com); [Measles outbreak in Chicago shelter cost nearly $9 million, CDC estimates](https://www.cidrap.umn.edu/measles/measles-outbreak-chicago-shelter-cost-nearly-9-million-cdc-estimates) (CIDRAP)
+- Detailed note: surpass 800 as outbreak continues to surge Pittsburgh Post-Gazette Learn more about the Sunset process and provide feedback.
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Measles cases in Pa. surpass 800 as outbreak continues to surge](https://www.post-gazette.com/news/health/2026/09/23/measles-cases-pa/stories/202609230058) (Pittsburgh Post-Gazette); [CDC reports first measles death in 2026 amid confusion over Pennsylvania cases](https://www.nbcnews.com/health/health-news/cdc-reports-first-measles-death-2026-pennsylvania-outbreak-rfk-jr-rcna599499) (NBC News); [CDC updates measles death toll to one, despite Pennsylvania’s higher tally](https://www.washingtonpost.com/health/2026/09/23/cdc-updates-measles-death-toll-one-despite-pennsylvanias-higher-tally/) (The Washington Post); [US CDC confirms first measles-related death of 2026, does not disclose state](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-first-measles-related-death-2026-09-23/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 74 item(s) across 59 source(s); 5 official/primary-source item(s).
+- Topic size: 72 item(s) across 58 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-23T17:36+02:00)
 - Detailed note: Since External Situation Report #18, a further 475 confirmed cases and 222 confirmed deaths have been reported, bringing the cumulative total to 7733 confirmed cases, including 3732 deaths [crude case fatality ratio (CFR 48.3%)], as of 20 September 2026. During the 2013-2016 West African Ebola virus (EBOV) Makona epidemic, genomic surveillance identified an A82V substitution in the viral glycoprotein (GP) early...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [Differential glycosylation in the envelope glycoprotein enhances DC-SIGN-mediated cell entry of the West African Ebolavirus Makona.](https://pubmed.ncbi.nlm.nih.gov/42770795/) (PubMed Infectious Disease Search); [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News); [Postcard from the field: Supporting outbreak preparedness in South Sudan - two EPIET fellows in the field](https://www.ecdc.europa.eu/en/news-events/postcard-field-supporting-outbreak-preparedness-south-sudan-two-epiet-fellows-field) (ECDC News)
@@ -70,10 +69,10 @@ Search window: 7 day(s) ending 2026-09-23
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 28 item(s) across 23 source(s); 1 official/primary-source item(s).
+- Topic size: 27 item(s) across 22 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend.
-- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Dr Reddy's signs India distribution deal for Takeda's Qdenga dengue vaccine](https://www.reuters.com/business/healthcare-pharmaceuticals/indias-dr-reddys-inks-distribution-agreement-with-takeda-dengue-vaccine-india-2026-09-18/) (Reuters); [Florida dengue cases rise to 111, Hillsborough County adds 36](https://news.google.com/rss/articles/CBMifkFVX3lxTE1zQ0x4a21WZmNiZzBmSkJXdi1ZUXZidTc2ZlBUemFwS0VjZm44cmpmU0RXQVk3WENQam5YVEo1TFRfa0dvd3N5NnV4eGsta2Z2UmhFSUZoVldlbVB4eWVtd3dYNDNuT0ZienM5M3l4M0xiZ19iWHFpbjh4Ql9NQQ?oc=5) (Outbreak News Today); [Hillsborough County fights historic Dengue outbreak as mosquitoes thrive in heat](https://www.tampabay28.com/news/anchors-report/hillsborough-county-fights-historic-dengue-outbreak-as-mosquitoes-thrive-in-heat) (Tampa Bay 28); [Four north districts in Tamil Nadu on alert amid spike in dengue cases](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdHZlTERRbDU0QnZzR2Q2Ullfbko5a2tPcWdVbXJYOWJZcjFqZWRNXzE1cVhUTkJOS2lQcUwxOElKa0w5M2Nyb1J6RjJCajFqQ3Q0SnJBN1pwYXc2M1Y2cU41cjF2THExVXRmLWxvN0RYd2hXc2xITnh3XzltRGtuT29uSGtNQk9sR3B2eHF6ZXYwQkJrNW1UVmJ5b1N6V0xKb1NtQmw2UVNDc0YwVEZhcUZMNGdObXh3eDh2QU1wWEdQN1Vld2M1UnZsN1dfS3FjNkE4aDd4bVV1cXfSAdsBQVVfeXFMTnR2ZUxEUWw1NEJ2c0dkNlJZX25KOWtrT3FnVW1yWDliWXIxamVkTV8xNXFYVE5CTktpUHFMMThJSmtMOTNjcm9SekYyQmoxakN0NEpyQTdacGF3NjNWNnFONXIxdkxxMVV0Zi1sbzdEWHdoV3NsSE54d185bURrbk9vbkhrTUJPbEdwdnhxemV2MEJCazVtVFZieW9TeldMSm9TbUJsNlFTQ3NGMFRGYXFGTDRnTm14d3g4dkFNcFhHUDdVZXdjNVJ2bDdXX0txYzZBOGg3eG1VdXF3?oc=5) (The New Indian Express)
+- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Dr Reddy's signs India distribution deal for Takeda's Qdenga dengue vaccine](https://www.reuters.com/business/healthcare-pharmaceuticals/indias-dr-reddys-inks-distribution-agreement-with-takeda-dengue-vaccine-india-2026-09-18/) (Reuters); [Florida dengue cases rise to 111, Hillsborough County adds 36](https://news.google.com/rss/articles/CBMifkFVX3lxTE1zQ0x4a21WZmNiZzBmSkJXdi1ZUXZidTc2ZlBUemFwS0VjZm44cmpmU0RXQVk3WENQam5YVEo1TFRfa0dvd3N5NnV4eGsta2Z2UmhFSUZoVldlbVB4eWVtd3dYNDNuT0ZienM5M3l4M0xiZ19iWHFpbjh4Ql9NQQ?oc=5) (Outbreak News Today); [Hillsborough County fights historic Dengue outbreak as mosquitoes thrive in heat](https://www.tampabay28.com/news/anchors-report/hillsborough-county-fights-historic-dengue-outbreak-as-mosquitoes-thrive-in-heat) (Tampa Bay 28); [Four north districts in Tamil Nadu on alert amid spike in dengue cases](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdHZlTERRbDU0QnZzR2Q2Ullfbko5a2tPcWdVbXJYOWJZcjFqZWRNXzE1cVhUTkJOS2lQcUwxOElKa0w5M2Nyb1J6RjJCajFqQ3Q0SnJBN1pwYXc2M1Y2cU41cjF2THExVXRmLWxvN0RYd2hXc2xITnh3XzltRGtuT29uSGtNQk9sR3B2eHF6ZXYwQkJrNW1UVmJ5b1N6V0xKb1NtQmw2UVNDc0YwVEZhcUZMNGdObXh3eDh2QU1wWEdQN1Vld2M1UnZsN1dfS3FjNkE4aDd4bVV1cXfSAdsBQVVfeXFMTnR2ZUxEUWw1NEJ2c0dkNlJZX25KOWtrT3FnVW1yWDliWXIxamVkTV8xNXFYVE5CTktpUHFMMThJSmtMOTNjcm9SekYyQmoxakN0NEpyQTdacGF3NjNWNnFONXIxdkxxMVV0Zi1sbzdEWHdoV3NsSE54d185bURrbk9vbkhrTUJPbEdwdnhxemV2MEJCazVtVFZieW9TeldMSm9TbUJsNlFTQ3NGMFRGYXFGTDRnTm14d3g4dkFNcFhHUDdVZXdjNVJ2bDdXX0txYzZBOGg3eG1VdXF3?oc=5) (newindianexpress.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -86,10 +85,10 @@ Search window: 7 day(s) ending 2026-09-23
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Historical epidemiology and ancient pathogens
-- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
+- Topic size: 6 item(s) across 3 source(s); 6 official/primary-source item(s).
 - Lead item: [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa, 2026-09-23T15:10+00:00)
 - Detailed note: Drawing on community feedback, perception surveys, qualitative assessments and social listening data collected between 23 July and 10 September 2026 , the analysis found that resistance to SDB is not simply about the burial protocol itself. 17.3% of the small sample), which is much higher than that detected in other studies of ancient populations. Among these 52 remains, we report nine cases of Serpens endocrania...
-- Evidence notes: [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa); [Projected spatial distribution and geographic shifts of suitable habitats for two major plague vectors under climate and land-use change in Qinghai, China.](https://pubmed.ncbi.nlm.nih.gov/42763008/) (PubMed Historical Pathogen Case Studies); [Cervicothoracic Tuberculous Spondylitis in a Toddler: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42762044/) (PubMed Historical Pathogen Case Studies); [Meningeal inflammation (Serpens endocrania) and intrathoracic chronic disease in 1st century A.D. Roman Near-East (Qumran): From paleopathology to clinical practice.](https://pubmed.ncbi.nlm.nih.gov/42753872/) (PubMed Historical Epidemiology)
+- Evidence notes: [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa); [George Russell Dartnell (1799-1878): an Irish military surgeon in the Victorian empire.](https://pubmed.ncbi.nlm.nih.gov/42776455/) (PubMed Historical Pathogen Case Studies); [[From Count Gustav Chorinsky (1868) to King Ludwig II. of Bavaria (1886) : Cyanide, progressive paralysis & "paranoia"].](https://pubmed.ncbi.nlm.nih.gov/42776382/) (PubMed Historical Pathogen Case Studies); [Projected spatial distribution and geographic shifts of suitable habitats for two major plague vectors under climate and land-use change in Qinghai, China.](https://pubmed.ncbi.nlm.nih.gov/42763008/) (PubMed Historical Pathogen Case Studies); [Cervicothoracic Tuberculous Spondylitis in a Toddler: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42762044/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
@@ -369,6 +368,26 @@ Search window: 7 day(s) ending 2026-09-23
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### George Russell Dartnell (1799-1878): an Irish military surgeon in the Victorian empire.
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-09-23T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42776455/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: In Canada from 1835 to 1843, he organised military medical services, treated civilian patients and created an unusually extensive visual record of Montreal, Penetanguishene, London and the routes between them. Dartnell was born and educated in Ireland before entering the British Army Medical Department in 1820. Dartnell's career illuminates the contribution of Irish medical training to nineteenth-century army medicine and the close relationship between clinical observation, administration and visual documentation.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### [From Count Gustav Chorinsky (1868) to King Ludwig II. of Bavaria (1886) : Cyanide, progressive paralysis & "paranoia"].
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-09-23T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42776382/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: In 1886, Gudden and other experts with similar prior experience were commissioned to assess king Ludwig II.; they described signs indicative of a severe illness and impending deterioration which mirrored those observed in the earlier case. Drawing upon two cases that appear to be entirely unrelated, this study explores the influence of prior personal experience and prevailing contemporary trends on the expert assessment of mental disorders. In 1867, Julie von Ebergenyi poisoned the wife of her lover, Count Gustav Chorinsky, at his behest.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-09-22T14:14+00:00
@@ -419,28 +438,12 @@ Search window: 7 day(s) ending 2026-09-23
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Cervicothoracic Tuberculous Spondylitis in a Toddler: A Case Report.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-09-18T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42762044/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Neurological status remained unchanged, but after 6 weeks, the allograft was displaced, resulting in kyphosis. Clinical Presentation A 20-month-old girl presented with torticollis without neurological deficits. In the postoperative course, close monitoring should be performed to detect progressive kyphosis in an early stage.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Meningeal inflammation (Serpens endocrania) and intrathoracic chronic disease in 1st century A.D. Roman Near-East (Qumran): From paleopathology to clinical practice.
-- Source: PubMed Historical Epidemiology
-- Date: 2026-09-17T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42753872/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: 17.3% of the small sample), which is much higher than that detected in other studies of ancient populations. Among these 52 remains, we report nine cases of Serpens endocrania (i.e. Among 1200 burials, excavations in the cemetery uncovered the remains of 52 individuals.
-- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Cervicothoracic Tuberculous Spondylitis in a Toddler: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42762044/) | PubMed Historical Pathogen Case Studies | 2026-09-18T00:00 | Historical epidemiology / ancient disease / paleopathology
+  Neurological status remained unchanged, but after 6 weeks, the allograft was displaced, resulting in kyphosis. Clinical Presentation A 20-month-old girl presented with torticollis without neurological deficits. In the postoperative course, close monitoring should be performed to detect progressive kyphosis in an early stage.
+- [Meningeal inflammation (Serpens endocrania) and intrathoracic chronic disease in 1st century A.D. Roman Near-East (Qumran): From paleopathology to clinical practice.](https://pubmed.ncbi.nlm.nih.gov/42753872/) | PubMed Historical Epidemiology | 2026-09-17T00:00 | Historical epidemiology / ancient disease / paleopathology
+  17.3% of the small sample), which is much higher than that detected in other studies of ancient populations. Among these 52 remains, we report nine cases of Serpens endocrania (i.e. Among 1200 burials, excavations in the cemetery uncovered the remains of 52 individuals.
 - [Postcard from the field: Supporting outbreak preparedness in South Sudan - two EPIET fellows in the field](https://www.ecdc.europa.eu/en/news-events/postcard-field-supporting-outbreak-preparedness-south-sudan-two-epiet-fellows-field) | ECDC News | 2026-09-16T13:34+02:00 | Policy, surveillance, and public health infrastructure
   In July and August, two fellows from ECDC’s long-standing European Programme for Intervention Epidemiology Training (EPIET) were deployed to South Sudan through the EU Health Task Force (EUHTF) and WHO’s Global Outbreak Alert and Response Network (GOARN), to support the country’s Ebola preparedness and strengthen surveillance.
 - [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) | Florida Department of Health Press Releases | 2026-09-04T12:38-04:00 | Policy, surveillance, and public health infrastructure
@@ -449,40 +452,48 @@ Search window: 7 day(s) ending 2026-09-23
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
-- [US CDC confirms first measles-related death of 2026, does not disclose state](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-first-measles-related-death-2026-09-23/) | Reuters | 2026-09-23T20:54+00:00 | Outbreaks and emerging infections
+- [Measles cases in Pa. surpass 800 as outbreak continues to surge](https://www.post-gazette.com/news/health/2026/09/23/measles-cases-pa/stories/202609230058) | Pittsburgh Post-Gazette | 2026-09-23T22:02+00:00 | Outbreaks and emerging infections
+  surpass 800 as outbreak continues to surge Pittsburgh Post-Gazette
+- [CDC reports first measles death in 2026 amid confusion over Pennsylvania cases](https://www.nbcnews.com/health/health-news/cdc-reports-first-measles-death-2026-pennsylvania-outbreak-rfk-jr-rcna599499) | NBC News | 2026-09-23T22:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [CDC updates measles death toll to one, despite Pennsylvania’s higher tally](https://www.washingtonpost.com/health/2026/09/23/cdc-updates-measles-death-toll-one-despite-pennsylvanias-higher-tally/) | The Washington Post | 2026-09-23T20:45+00:00 | Outbreaks and emerging infections
+- [CDC updates measles death toll to one, despite Pennsylvania’s higher tally](https://www.washingtonpost.com/health/2026/09/23/cdc-updates-measles-death-toll-one-despite-pennsylvanias-higher-tally/) | The Washington Post | 2026-09-23T21:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [US CDC confirms first measles-related death of 2026, does not disclose state](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-first-measles-related-death-2026-09-23/) | Reuters | 2026-09-23T20:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak in DR Congo approaches 7,800 cases](https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-approaches-7800-cases) | CIDRAP | 2026-09-23T20:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [CDC Adds First Measles-Related Death After Pennsylvania Dispute](https://www.bloomberg.com/news/articles/2026-09-23/cdc-adds-first-measles-related-death-after-pennsylvania-dispute) | Bloomberg.com | 2026-09-23T19:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Measles outbreak in Chicago shelter cost nearly $9 million, CDC estimates](https://www.cidrap.umn.edu/measles/measles-outbreak-chicago-shelter-cost-nearly-9-million-cdc-estimates) | CIDRAP | 2026-09-23T16:26+00:00 | Outbreaks and emerging infections
+- [Measles outbreak in Chicago shelter cost nearly $9 million, CDC estimates](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXpoWXdYc3VKZ3pLd0RpSzRfWl9jS2JsT3FfS3duaWw5NHlzZ2lEb25kRmF0RmFmNmF6WG9pZHFkc0J1aDJzTjNJeTBqdzZaTTMzMHF5S1FrLVJJS3lfbU0xbjhMYkd5Q2M2d2RZWFRjYnJVbFAxRDQtT3JUMnI0MEJTUjc4bHhIMzNvMjZaajFlLUt6Z2VTVUpSZGRRNzNwSVZsX0Z3?oc=5) | CIDRAP | 2026-09-23T16:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO reports shortage of medical staff during Ebola outbreak in DR Congo — Asharq Al-Awsat](https://ua.news/en/health/vooz-zaiavila-pro-defitsit-medikiv-pid-chas-spalakhu-eboli-v-dr-kongo-asharq-al-awsat) | UA.NEWS | 2026-09-23T15:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Pakistan: partnering with Rotary to protect millions of children from polio](https://www.emro.who.int/pak/pakistan-news/pakistan-partnering-with-rotary-to-protect-millions-of-children-from-polio.html) | emro.who.int | 2026-09-23T15:39+00:00 | Outbreaks and emerging infections
+  Photo credit: Suzanna Masih/WHO Pakistan 23 September 2026, Islamabad, Pakistan – “When we are working, we don’t see whether it is winter, summer, autumn or spring. In every season and in all weather conditions, we do our best to reach every child. This is why we go house to house to give polio drops,” says Fareeda.
 - [Reconciling Ebola response and community needs to prevent transmission - WHO | Regional Office for Africa](https://www.afro.who.int/countries/democratic-republic-of-congo/news/reconciling-ebola-response-and-community-needs-prevent-transmission) | WHO | 2026-09-23T13:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Nigeria on High Alert as Ebola Outbreak Continues in DR Congo](https://businesspost.ng/health/nigeria-on-high-alert-as-ebola-outbreak-continues-in-dr-congo/) | Business Post Nigeria | 2026-09-23T11:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO: Ebola Outbreak in DRC Uncontrolled Near South Sudan](https://dailybeirut.com/en/world/who-ebola-outbreak-in-drc-remains-uncontrolled-amid-border-proximity/) | dailybeirut.com | 2026-09-23T05:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak remains uncontrolled WHO](https://thepeninsulaqatar.com/article/23/09/2026/dr-congo-ebola-outbreak-remains-uncontrolled-who) | The Peninsula Qatar | 2026-09-23T02:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Bangladesh has lost 900 children to measles – a warning to other countries where vaccine rates have slipped](https://theconversation.com/bangladesh-has-lost-900-children-to-measles-a-warning-to-other-countries-where-vaccine-rates-have-slipped-292288) | The Conversation | 2026-09-22T14:43+00:00 | Outbreaks and emerging infections
-  Between March 15 and September 6 2026, Bangladesh reported 92 suspected measles cases per 100,000 population and 11 confirmed measles cases per 100,000 population, based on an estimated national population of 178 million. Almost 900 people in Bangladesh are suspected to have died in a measles outbreak that began in March. The country had hoped to eliminate measles and rubella by 2020 .
 - [Why the CDC is excluding measles deaths in Pennsylvania even as outbreak appears to be ‘accelerating’](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1VSdE1rMjZFcVJyTElhYWxsU21aRTBDYktwLXV1NG1zSkQ2R0wyNG4wWW1XcEQ3OW9iZ2w5LXJVQldNcVZtOTVPQnBCNzBSYkhPRlBiT3VReVc3VU01dGUwQk1Vbzdta2d2QVZ6dTdfX0NuLWdlRV92WXI0V1ZIOWNkVkR5WnFpLWFiNHFUQWs?oc=5) | The Guardian | 2026-09-22T11:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo rolls out Canadian-developed vaccine to fight Ebola outbreak](https://www.theglobeandmail.com/world/article-congo-rolls-out-canadian-developed-vaccine-to-fight-ebola-outbreak/) | The Globe and Mail | 2026-09-22T01:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Pennsylvania measles cases near 800 as outbreak grows](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkFvX0FoVW5uSmlNTVVabEIwRlY3TTBaQ0JrVWxDYUtSXzRyd3FneHJiaVppUTFmQXpieFVzWnFsdUxaWDRxeUZ4SHVaMFo2cThGVU0wZ1ZYTFpMSU5VV0JfQlF3RnF1Ni01SG5tZWswM0dGUndrQ3RkM2IyRTJUQzB2UGtINHZwLWduLUN6STJ4dXFrT1Z0MXR2R0lfaVkzaWxUNFBR?oc=5) | Reuters | 2026-09-21T18:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo faces unprecedented Ebola outbreak without approved vaccine protection](https://www.news-medical.net/news/20260921/Congo-faces-unprecedented-Ebola-outbreak-without-approved-vaccine-protection.aspx) | News-Medical | 2026-09-21T16:44+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [EU sends experts to Congo as Ebola outbreak continues; Congo receives vaccines for clinical trials](https://www.euronews.com/health/2026/09/21/eu-sends-experts-to-congo-as-ebola-outbreak-continues-congo-receives-vaccines-for-clinical) | Euronews.com | 2026-09-21T15:16+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [George Russell Dartnell (1799-1878): an Irish military surgeon in the Victorian empire.](https://pubmed.ncbi.nlm.nih.gov/42776455/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1007/s11845-026-04644-0
+  Journal/preprint server: Irish journal of medical science
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42776455/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42776455/
+- [[From Count Gustav Chorinsky (1868) to King Ludwig II. of Bavaria (1886) : Cyanide, progressive paralysis & "paranoia"].](https://pubmed.ncbi.nlm.nih.gov/42776382/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1007/s40211-026-00594-2
+  Journal/preprint server: Neuropsychiatrie : Klinik, Diagnostik, Therapie und Rehabilitation : Organ der Gesellschaft Osterreichischer Nervenarzte und Psychiater
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42776382/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42776382/
 - [Hantavirus preparedness at human-rodent interfaces: lessons from China's HFRS control and Andes virus transmission in mobile populations.](https://pubmed.ncbi.nlm.nih.gov/42773773/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/22221751.2026.2721722
@@ -529,6 +540,10 @@ Search window: 7 day(s) ending 2026-09-23
 ## Historical epi / weird epi corner
 - [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) | WHO Regional Office for Africa
   Drawing on community feedback, perception surveys, qualitative assessments and social listening data collected between 23 July and 10 September 2026 , the analysis found that resistance to SDB is not simply about the burial protocol itself. While 80–88% of respondents indicated they would accept a trained SDB team in personal protective equipment (PPE) , concerns remain around operational delays, family involvement, physical contact with the deceased, financial grievances and highly securitised approaches. These insights reinforce the importance of listening to communities, addressing operational barriers, and ensuring families and trusted local actors have a meaningful role in the burial process .
+- [George Russell Dartnell (1799-1878): an Irish military surgeon in the Victorian empire.](https://pubmed.ncbi.nlm.nih.gov/42776455/) | PubMed Historical Pathogen Case Studies
+  In Canada from 1835 to 1843, he organised military medical services, treated civilian patients and created an unusually extensive visual record of Montreal, Penetanguishene, London and the routes between them. Dartnell was born and educated in Ireland before entering the British Army Medical Department in 1820. Dartnell's career illuminates the contribution of Irish medical training to nineteenth-century army medicine and the close relationship between clinical observation, administration and visual documentation.
+- [[From Count Gustav Chorinsky (1868) to King Ludwig II. of Bavaria (1886) : Cyanide, progressive paralysis & "paranoia"].](https://pubmed.ncbi.nlm.nih.gov/42776382/) | PubMed Historical Pathogen Case Studies
+  In 1886, Gudden and other experts with similar prior experience were commissioned to assess king Ludwig II.; they described signs indicative of a severe illness and impending deterioration which mirrored those observed in the earlier case. Drawing upon two cases that appear to be entirely unrelated, this study explores the influence of prior personal experience and prevailing contemporary trends on the expert assessment of mental disorders. In 1867, Julie von Ebergenyi poisoned the wife of her lover, Count Gustav Chorinsky, at his behest.
 - [Projected spatial distribution and geographic shifts of suitable habitats for two major plague vectors under climate and land-use change in Qinghai, China.](https://pubmed.ncbi.nlm.nih.gov/42763008/) | PubMed Historical Pathogen Case Studies
   silantiewi) play important roles in plague transmission, and shifts in their suitable habitats may substantially increase the potential risk of plague spillover to humans. The findings provide scientific support for optimizing plague surveillance strategies and allocating prevention and control resources in Qinghai Province. Finally, by spatially overlaying population data, priority surveillance areas within newly emerging suitable habitats of plague vectors were identified.
 - [Cervicothoracic Tuberculous Spondylitis in a Toddler: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42762044/) | PubMed Historical Pathogen Case Studies
