@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-24
-Generated at: 2026-09-24T03:50
+Generated at: 2026-09-24T04:46
 Search window: 7 day(s) ending 2026-09-24
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-09-24
 - [[From Count Gustav Chorinsky (1868) to King Ludwig II. of Bavaria (1886) : Cyanide, progressive paralysis & "paranoia"].](https://pubmed.ncbi.nlm.nih.gov/42776382/) (PubMed Historical Pathogen Case Studies; 2026-09-23T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa; 2026-09-22T14:14+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Hantavirus preparedness at human-rodent interfaces: lessons from China's HFRS control and Andes virus transmission in mobile populations.](https://pubmed.ncbi.nlm.nih.gov/42773773/) (PubMed Infectious Disease Search; 2026-09-22T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (216), Policy, surveillance, and public health infrastructure (23), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (216), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (4)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
@@ -26,7 +26,7 @@ Search window: 7 day(s) ending 2026-09-24
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 115 item(s) across 97 source(s).
+- Newly tracked story cluster: 117 item(s) across 99 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - The Conversation now includes deaths or fatal cases in the story frame.
 - The Conversation now foregrounds vaccination or vaccine policy in the story.
@@ -47,17 +47,17 @@ Search window: 7 day(s) ending 2026-09-24
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 28 item(s) across 24 source(s).
+- Newly tracked story cluster: 26 item(s) across 22 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 115 item(s) across 97 source(s); 1 official/primary-source item(s).
+- Topic size: 117 item(s) across 99 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: surpass 800 as outbreak continues to surge Pittsburgh Post-Gazette Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Measles cases in Pa. surpass 800 as outbreak continues to surge](https://www.post-gazette.com/news/health/2026/09/23/measles-cases-pa/stories/202609230058) (Pittsburgh Post-Gazette); [CDC updates measles death toll to one, despite Pennsylvania’s higher tally](https://www.washingtonpost.com/health/2026/09/23/cdc-updates-measles-death-toll-one-despite-pennsylvanias-higher-tally/) (The Washington Post); [CDC reports first measles death amid confusion over Pennsylvania cases](https://www.nbcnews.com/health/health-news/cdc-reports-first-measles-death-2026-pennsylvania-outbreak-rfk-jr-rcna599499) (NBC News); [US CDC confirms first measles-related death of 2026, does not disclose state](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBOUG94WVAtSTFwTWhUOXB0MGtBelQxZ2g2R2J5YnlVMjJSdXd4U3pCQ3lkaWw1cVZiYUhOQ3VCYjJ3cEVGQTQ1cEhVY2lGTnNNN3RoZHE3OGwyanZOYmFQaWZvS0gzZVVsb09SWElTRDdWR2RZMXdNcnplTXZGdC1qQ2E1LV9zVFR5Z0VIdUJCZTBmNVFHcTA3VS13NjgtV3RQTVloOENnVW9GSVM1SFFkakJDQQ?oc=5) (Reuters)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [CDC updates measles death toll to one, despite Pennsylvania’s higher tally](https://www.washingtonpost.com/health/2026/09/23/cdc-updates-measles-death-toll-one-despite-pennsylvanias-higher-tally/) (The Washington Post); [Measles cases in Pa. surpass 800 as outbreak continues to surge](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUjZ6aFR4UTlSRWNIcU1zN2hwQkhmbWhIV2Z6WHlTaXZ6Mk50NkszTkxxdDRUbjVnVnNFMjB0dm5OTlo3MEdFTEpEZjhOSy1kZUpoU3l6UHBxendnT196LUlFUUN5b1VQSHNGbVJ1TlVqd211RnFrZ2pndDYzZUdnZDIyS0FYcm1qQlpJSVJnZm9FX3c?oc=5) (Pittsburgh Post-Gazette); [CDC reports first measles death amid confusion over Pennsylvania cases](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSk00R2szN1dzREtzOC1jU3V1NWI2dDZ6LUFQSndPaFZiQjJmSW14QzU4YjYyeEJBTmthZkZUVjNTWS04Sk40ckZpVUNWTGdEZ0htb3BQNi13Y0VkclBJdURvU2xhRFBaWVo0aF9PTUk0NlYyTDU1OE9xTDhodkZOTXFRU2xZSkJxS1B2RXI5QnJHd0JDYUdYNGIxVXptdjlwWENjek16WnlzTjlWcEszaE9QTk5ORVAzVXM4?oc=5) (NBC News); [US CDC confirms first measles-related death of 2026, does not disclose state](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBOUG94WVAtSTFwTWhUOXB0MGtBelQxZ2g2R2J5YnlVMjJSdXd4U3pCQ3lkaWw1cVZiYUhOQ3VCYjJ3cEVGQTQ1cEhVY2lGTnNNN3RoZHE3OGwyanZOYmFQaWZvS0gzZVVsb09SWElTRDdWR2RZMXdNcnplTXZGdC1qQ2E1LV9zVFR5Z0VIdUJCZTBmNVFHcTA3VS13NjgtV3RQTVloOENnVW9GSVM1SFFkakJDQQ?oc=5) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -70,10 +70,10 @@ Search window: 7 day(s) ending 2026-09-24
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 28 item(s) across 24 source(s); 1 official/primary-source item(s).
+- Topic size: 26 item(s) across 22 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend.
-- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Elderly Tampa woman dies amid Florida's second-worst dengue outbreak on record, health officials say](https://news.google.com/rss/articles/CBMiigFBVV95cUxQenN2QllHVGV6Z2x3ZWp4dUxoZFJiZVQwUXdHNnE1czVPblJVS3pZby01X0h1VWR5ejJrdkRockVna2NWUWpsc2g2MXllZ0ZfNkhQbVZJeDdZcXdhSHEza2NLS2pIaGt6ZzZzS2taRWtPcERneC1PaENZdHN5S1VuTHAydkJ3dWhXSnc?oc=5) (CBS News); [Pasco County Under State Of Emergency Declaration As Dengue Fever Outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1rS01WNFJfdTFBVFVwbkxzd2Jlcl9PSE1zNDNhMkJIcm0taGVpUHM3UXh1OExoR2tmMVlsUGtVT2hESGJTNXViWHVpTzVxUEwxclBsY19YQ1FEc1JSbU9wNHoyMVVpSV9LM3p1RDhtRTFjRE03X3ZvQTFSWkpoX1J5VnQ?oc=5) (AOL.com); [Map Shows Dengue Fever Cases in Each State as Florida Records First 2026 Death](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTW5CTlhlWjBqYUJtbWxGclhYTnBDdVpTcTQwSHJtRHJWSjF5WFQ0QmxPcUZXNDZJaXg1U0hfZjFoa2VGT0twVnlzNGYxbE1oVU9pTmowN1E0LTJ2bmNZR1dFc0Ztc2tmYUNnRmd2OHM4d2tvN2FadEtOQlpMMlZ2RnE5YkFhTVc0SnlOY2NYMHdYQWZhenZydzhud3JEX0VIcjZLcXdYYnNodGdneVE?oc=5) (Newsweek); [Tamil Nadu Districts On Alert Amid Dengue Spike: Why The Days After Fever Drops Are The Most Critical](https://www.ndtv.com/health/tamil-nadu-districts-on-alert-amid-dengue-spike-why-the-days-after-fever-drops-are-the-most-critical-12091424) (NDTV)
+- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Elderly Tampa woman dies amid Florida's second-worst dengue outbreak on record, health officials say](https://news.google.com/rss/articles/CBMiigFBVV95cUxQenN2QllHVGV6Z2x3ZWp4dUxoZFJiZVQwUXdHNnE1czVPblJVS3pZby01X0h1VWR5ejJrdkRockVna2NWUWpsc2g2MXllZ0ZfNkhQbVZJeDdZcXdhSHEza2NLS2pIaGt6ZzZzS2taRWtPcERneC1PaENZdHN5S1VuTHAydkJ3dWhXSnc?oc=5) (CBS News); [Pasco County Under State Of Emergency Declaration As Dengue Fever Outbreak](https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1rS01WNFJfdTFBVFVwbkxzd2Jlcl9PSE1zNDNhMkJIcm0taGVpUHM3UXh1OExoR2tmMVlsUGtVT2hESGJTNXViWHVpTzVxUEwxclBsY19YQ1FEc1JSbU9wNHoyMVVpSV9LM3p1RDhtRTFjRE03X3ZvQTFSWkpoX1J5VnQ?oc=5) (AOL.com); [Tamil Nadu Districts On Alert Amid Dengue Spike: Why The Days After Fever Drops Are The Most Critical](https://www.ndtv.com/health/tamil-nadu-districts-on-alert-amid-dengue-spike-why-the-days-after-fever-drops-are-the-most-critical-12091424) (NDTV); [Hillsborough County fights historic dengue outbreak as mosquitoes thrive in heat](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmdJZEFJbEdaSy1UaW9mU0tBOGpLOTAyQ2xqcGVoVFM5M2tYZ0ppYWFHc2UtbTk1WDVXbHhRU3BZMEJBSG9KU28tZzhMbFFYVThZU0UtLXdCNXlJTzZmVnNoRmRMT2pjRDEwM3ZZN3BXZjFpWWFrejQxdm1sRmI0ZkZZUXR4Tk9VY2txZ0ZtTDRlZlZjTExBNGJXNGtmeUZaVi1aTGQ3OW1HS2p0QUs1emV5WVdFNV9UOXhoUnNfUDdDQTQ3d0E?oc=5) (Tampa Bay 28)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -453,13 +453,15 @@ Search window: 7 day(s) ending 2026-09-24
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
-- [Measles cases in Pa. surpass 800 as outbreak continues to surge](https://www.post-gazette.com/news/health/2026/09/23/measles-cases-pa/stories/202609230058) | Pittsburgh Post-Gazette | 2026-09-24T10:03+00:00 | Outbreaks and emerging infections
-  surpass 800 as outbreak continues to surge Pittsburgh Post-Gazette
 - [Ebola: NCDC steps up border surveillance over DRC outbreak](https://tribuneonlineng.com/ebola-ncdc-steps-up-border-surveillance-over-drc-outbreak/) | Tribune Online | 2026-09-24T08:53+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola: US Supports DR Congo With Additional $267m To Combat Outbreak](https://www.channelstv.com/2026/09/24/ebola-us-supports-dr-congo-with-additional-267m-to-combat-outbreak/) | Channels Television | 2026-09-24T06:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [CDC updates measles death toll to one, despite Pennsylvania’s higher tally](https://www.washingtonpost.com/health/2026/09/23/cdc-updates-measles-death-toll-one-despite-pennsylvanias-higher-tally/) | The Washington Post | 2026-09-24T02:13+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [CDC reports first measles death amid confusion over Pennsylvania cases](https://www.nbcnews.com/health/health-news/cdc-reports-first-measles-death-2026-pennsylvania-outbreak-rfk-jr-rcna599499) | NBC News | 2026-09-23T22:02+00:00 | Outbreaks and emerging infections
+- [Measles cases in Pa. surpass 800 as outbreak continues to surge](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUjZ6aFR4UTlSRWNIcU1zN2hwQkhmbWhIV2Z6WHlTaXZ6Mk50NkszTkxxdDRUbjVnVnNFMjB0dm5OTlo3MEdFTEpEZjhOSy1kZUpoU3l6UHBxendnT196LUlFUUN5b1VQSHNGbVJ1TlVqd211RnFrZ2pndDYzZUdnZDIyS0FYcm1qQlpJSVJnZm9FX3c?oc=5) | Pittsburgh Post-Gazette | 2026-09-23T22:02+00:00 | Outbreaks and emerging infections
+  surpass 800 as outbreak continues to surge Pittsburgh Post-Gazette
+- [CDC reports first measles death amid confusion over Pennsylvania cases](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSk00R2szN1dzREtzOC1jU3V1NWI2dDZ6LUFQSndPaFZiQjJmSW14QzU4YjYyeEJBTmthZkZUVjNTWS04Sk40ckZpVUNWTGdEZ0htb3BQNi13Y0VkclBJdURvU2xhRFBaWVo0aF9PTUk0NlYyTDU1OE9xTDhodkZOTXFRU2xZSkJxS1B2RXI5QnJHd0JDYUdYNGIxVXptdjlwWENjek16WnlzTjlWcEszaE9QTk5ORVAzVXM4?oc=5) | NBC News | 2026-09-23T22:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US CDC confirms first measles-related death of 2026, does not disclose state](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBOUG94WVAtSTFwTWhUOXB0MGtBelQxZ2g2R2J5YnlVMjJSdXd4U3pCQ3lkaWw1cVZiYUhOQ3VCYjJ3cEVGQTQ1cEhVY2lGTnNNN3RoZHE3OGwyanZOYmFQaWZvS0gzZVVsb09SWElTRDdWR2RZMXdNcnplTXZGdC1qQ2E1LV9zVFR5Z0VIdUJCZTBmNVFHcTA3VS13NjgtV3RQTVloOENnVW9GSVM1SFFkakJDQQ?oc=5) | Reuters | 2026-09-23T20:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -478,8 +480,6 @@ Search window: 7 day(s) ending 2026-09-24
 - [Bangladesh has lost 900 children to measles – a warning to other countries where vaccine rates have slipped](https://theconversation.com/bangladesh-has-lost-900-children-to-measles-a-warning-to-other-countries-where-vaccine-rates-have-slipped-292288) | The Conversation | 2026-09-22T14:43+00:00 | Outbreaks and emerging infections
   Between March 15 and September 6 2026, Bangladesh reported 92 suspected measles cases per 100,000 population and 11 confirmed measles cases per 100,000 population, based on an estimated national population of 178 million. Almost 900 people in Bangladesh are suspected to have died in a measles outbreak that began in March. The country had hoped to eliminate measles and rubella by 2020 .
 - [Why the CDC is excluding measles deaths in Pennsylvania even as outbreak appears to be ‘accelerating’](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1VSdE1rMjZFcVJyTElhYWxsU21aRTBDYktwLXV1NG1zSkQ2R0wyNG4wWW1XcEQ3OW9iZ2w5LXJVQldNcVZtOTVPQnBCNzBSYkhPRlBiT3VReVc3VU01dGUwQk1Vbzdta2d2QVZ6dTdfX0NuLWdlRV92WXI0V1ZIOWNkVkR5WnFpLWFiNHFUQWs?oc=5) | The Guardian | 2026-09-22T11:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo rolls out Canadian-developed vaccine to fight Ebola outbreak](https://www.theglobeandmail.com/world/article-congo-rolls-out-canadian-developed-vaccine-to-fight-ebola-outbreak/) | The Globe and Mail | 2026-09-22T01:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
