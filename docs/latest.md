@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-25
-Generated at: 2026-09-25T04:42
+Generated at: 2026-09-25T05:33
 Search window: 7 day(s) ending 2026-09-25
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-09-25
 - [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa; 2026-09-23T15:10+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-23T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Near pan-alphavirus neutralization by an antibody-nanobody bispecific.](https://pubmed.ncbi.nlm.nih.gov/42778504/) (PubMed Infectious Disease Search; 2026-09-23T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (195), Policy, surveillance, and public health infrastructure (21), Occupational and environmental epidemiology (7)
+- Category mix: Outbreaks and emerging infections (198), Policy, surveillance, and public health infrastructure (23), Occupational and environmental epidemiology (7)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
@@ -26,17 +26,10 @@ Search window: 7 day(s) ending 2026-09-25
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 62 item(s) across 48 source(s).
+- Newly tracked story cluster: 64 item(s) across 50 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now mentions possible human-to-human transmission.
-
-### Dengue and arboviruses
-- Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 37 item(s) across 26 source(s).
-- Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
-- Outbreak News Today now includes deaths or fatal cases in the story frame.
-- Reuters now foregrounds vaccination or vaccine policy in the story.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
@@ -47,22 +40,28 @@ Search window: 7 day(s) ending 2026-09-25
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 103 item(s) across 82 source(s).
+- Newly tracked story cluster: 104 item(s) across 83 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - STAT now includes deaths or fatal cases in the story frame.
+
+### Dengue and arboviruses
+- Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
+- Newly tracked story cluster: 39 item(s) across 28 source(s).
+- Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
+- Reuters now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 103 item(s) across 82 source(s); 1 official/primary-source item(s).
+- Topic size: 104 item(s) across 83 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: surpass 800 as outbreak continues to surge Pittsburgh Post-Gazette Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The ‘died with’ vs. ‘died of’ measles discussion misses something very important](https://www.statnews.com/2026/09/25/died-with-not-from-measles-physicians-explain-death-certificate-rules/) (STAT); [RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count](https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/) (STAT); [Pennsylvania tops 800 measles cases as CDC acknowledges only 1 measles death](https://www.cidrap.umn.edu/measles/pennsylvania-tops-800-measles-cases-cdc-acknowledges-only-1-measles-death) (CIDRAP); [WHO South-East Asia immunization experts meet focuses on measles outbreaks and closing immunity gaps](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd3Zud2htMGx4UGpyRDZQT1dPbTNNZWVqTTdWZHVyMFpmZHV1OWE2OTNnZHVwY2p2U2JjMGNiUjJySk90ODI2czlYc01RMmE4OXBCbUItbmlndDctYV9JdnBYQTBQVmxhTzgtUHd0eTJEQVVfcUxxOFdHX05GYzJLdF8yT01WeWwtM1p3MUJKV0kzSnIzYWNEVzdwcFB3TlU2dFpPRHlVN1BmQjNzNVppdTlCbE44dlJZTWhodndvUzJIWVMwVU9nS2VkOHBLYV9Zd1V2WS1fUXVBNFlwZG1fTVc5akpwX29vSFJxMjVB?oc=5) (who.int)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The ‘died with’ vs. ‘died of’ measles discussion misses something very important](https://www.statnews.com/2026/09/25/died-with-not-from-measles-physicians-explain-death-certificate-rules/) (STAT); [RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count](https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/) (STAT); [Pennsylvania tops 800 measles cases as CDC acknowledges only 1 measles death](https://www.cidrap.umn.edu/measles/pennsylvania-tops-800-measles-cases-cdc-acknowledges-only-1-measles-death) (CIDRAP); [WHO South-East Asia immunization experts meet focuses on measles outbreaks and closing immunity gaps](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd3Zud2htMGx4UGpyRDZQT1dPbTNNZWVqTTdWZHVyMFpmZHV1OWE2OTNnZHVwY2p2U2JjMGNiUjJySk90ODI2czlYc01RMmE4OXBCbUItbmlndDctYV9JdnBYQTBQVmxhTzgtUHd0eTJEQVVfcUxxOFdHX05GYzJLdF8yT01WeWwtM1p3MUJKV0kzSnIzYWNEVzdwcFB3TlU2dFpPRHlVN1BmQjNzNVppdTlCbE44dlJZTWhodndvUzJIWVMwVU9nS2VkOHBLYV9Zd1V2WS1fUXVBNFlwZG1fTVc5akpwX29vSFJxMjVB?oc=5) (World Health Organization (WHO))
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 62 item(s) across 48 source(s); 5 official/primary-source item(s).
+- Topic size: 64 item(s) across 50 source(s); 5 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-23T17:36+02:00)
 - Detailed note: Since External Situation Report #18, a further 475 confirmed cases and 222 confirmed deaths have been reported, bringing the cumulative total to 7733 confirmed cases, including 3732 deaths [crude case fatality ratio (CFR 48.3%)], as of 20 September 2026. During the 2013-2016 West African Ebola virus (EBOV) Makona epidemic, genomic surveillance identified an A82V substitution in the viral glycoprotein (GP) early...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [Differential glycosylation in the envelope glycoprotein enhances DC-SIGN-mediated cell entry of the West African Ebolavirus Makona.](https://pubmed.ncbi.nlm.nih.gov/42770795/) (PubMed Infectious Disease Search); [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News); [Postcard from the field: Supporting outbreak preparedness in South Sudan - two EPIET fellows in the field](https://www.ecdc.europa.eu/en/news-events/postcard-field-supporting-outbreak-preparedness-south-sudan-two-epiet-fellows-field) (ECDC News)
@@ -70,10 +69,10 @@ Search window: 7 day(s) ending 2026-09-25
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 37 item(s) across 26 source(s); 1 official/primary-source item(s).
+- Topic size: 39 item(s) across 28 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: India has approved its first dengue vaccine, Qdenga, offering a new preventive measure against the disease which has caused hundreds of thousands of cases annually Published: September 25, 2026 12:49 PM IST Share × Email Facebook Twitter WhatsApp LinkedIn Telegram Reddit India has approved its first dengue vaccine, Qdenga, offering a new tool against the disease after decades of relying solely on mosquito control...
-- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Elderly Tampa woman dies amid Florida's second-worst dengue outbreak on record, health officials say](https://news.google.com/rss/articles/CBMiigFBVV95cUxQenN2QllHVGV6Z2x3ZWp4dUxoZFJiZVQwUXdHNnE1czVPblJVS3pZby01X0h1VWR5ejJrdkRockVna2NWUWpsc2g2MXllZ0ZfNkhQbVZJeDdZcXdhSHEza2NLS2pIaGt6ZzZzS2taRWtPcERneC1PaENZdHN5S1VuTHAydkJ3dWhXSnc?oc=5) (CBS News); [Florida confirms a death from dengue as the state struggles with one of its worst recent outbreaks](https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1lFQ2tpNUlDMXpxRmdOYVlKWWxQVkJ1YXZnNzMybEVQakE0c0Q0OUV5R00tUDVGMnRjcHBpWE4zQ2RndHlldlpLajJWYXZ3VGo4VVV3RWlUbVhtOU84b0VaQWF2eW40MWJDaU9kY2hyU1hBZGU1OEhZX2hNUUFCOUhTX1B1NFRJLTE4SnQ2OEZyVElXa2J5aDZCOXFYLWNtUHRfQ0Jwc2F2bDZ3ZGtUcGQ4WUY?oc=5) (Audacy); [Dr Reddy's signs India distribution deal for Takeda's Qdenga dengue vaccine](https://www.reuters.com/business/healthcare-pharmaceuticals/indias-dr-reddys-inks-distribution-agreement-with-takeda-dengue-vaccine-india-2026-09-18/) (Reuters); [India's 2027 dengue vaccine: Can it end the annual monsoon outbreak?](https://www.theweek.in/news/health/2026/09/25/indias-2027-dengue-vaccine-can-it-end-the-annual-monsoon-outbreak.html) (theweek.in)
+- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Elderly Tampa woman dies amid Florida's second-worst dengue outbreak on record, health officials say](https://news.google.com/rss/articles/CBMiigFBVV95cUxQenN2QllHVGV6Z2x3ZWp4dUxoZFJiZVQwUXdHNnE1czVPblJVS3pZby01X0h1VWR5ejJrdkRockVna2NWUWpsc2g2MXllZ0ZfNkhQbVZJeDdZcXdhSHEza2NLS2pIaGt6ZzZzS2taRWtPcERneC1PaENZdHN5S1VuTHAydkJ3dWhXSnc?oc=5) (CBS News); [Florida confirms a death from dengue as the state struggles with one of its worst recent outbreaks](https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1lFQ2tpNUlDMXpxRmdOYVlKWWxQVkJ1YXZnNzMybEVQakE0c0Q0OUV5R00tUDVGMnRjcHBpWE4zQ2RndHlldlpLajJWYXZ3VGo4VVV3RWlUbVhtOU84b0VaQWF2eW40MWJDaU9kY2hyU1hBZGU1OEhZX2hNUUFCOUhTX1B1NFRJLTE4SnQ2OEZyVElXa2J5aDZCOXFYLWNtUHRfQ0Jwc2F2bDZ3ZGtUcGQ4WUY?oc=5) (Audacy); [Dr Reddy's signs India distribution deal for Takeda's Qdenga dengue vaccine](https://www.reuters.com/business/healthcare-pharmaceuticals/indias-dr-reddys-inks-distribution-agreement-with-takeda-dengue-vaccine-india-2026-09-18/) (Reuters); [Dengue cases keep climbing in Florida. This is how to protect yourself](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSlZaY2N1VWtFZ1RXRGVjaG1qZlJaemJiQUpGR1FVcUx0Yi1iX2JXUmRjalpXWlZsSjVHUFp1UmNaRXFFUGNXdEZaRGJ5a05NRkppN3lOWWlubmxScUQzRDROaEJNQk9zelVTRnF6SVV6ZTJ2ZkhMYjhMRjlvdDhsaG92OXpNbW9WRVloZHVQU0toYmxKUDdMaHo0bFE1UDRnNlcwdVk4OWdTZTBZR2lVN1F4LTNKdWhwYnVBbnl0cHN1RldDYWtxdWtOa200U2YzbmVnRjctaUtDbEl4?oc=5) (Sarasota Herald-Tribune)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -479,7 +478,7 @@ Search window: 7 day(s) ending 2026-09-25
   Limited detail was available from feed metadata alone.
 - [DR Congo short of health workers as it battles 'out-of-control' Ebola outbreak](https://news.sky.com/story/dr-congo-short-of-health-workers-as-it-battles-out-of-control-ebola-outbreak-13591372) | Sky News | 2026-09-24T13:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [GT Exclusive: Chinese medical experts share frontline experience in tackling Africa’s second-largest Ebola outbreak](https://www.globaltimes.cn/page/202609/1371272.shtml) | globaltimes.cn | 2026-09-24T12:27+00:00 | Outbreaks and emerging infections
+- [GT Exclusive: Chinese medical experts share frontline experience in tackling Africa’s second-largest Ebola outbreak](https://www.globaltimes.cn/page/202609/1371272.shtml) | Global Times | 2026-09-24T12:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
