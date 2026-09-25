@@ -7,7 +7,6 @@
       "CBS News",
       "CIDRAP",
       "CNN",
-      "Guardian",
       "NBC News",
       "Reuters",
       "STAT"
@@ -26,7 +25,7 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-25T01:40:24",
+  "generated_at": "2026-09-25T02:46:24",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
