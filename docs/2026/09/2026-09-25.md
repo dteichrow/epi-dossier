@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-25
-Generated at: 2026-09-25T07:50
+Generated at: 2026-09-25T08:50
 Search window: 7 day(s) ending 2026-09-25
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-09-25
 - [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa; 2026-09-23T15:10+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-23T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Near pan-alphavirus neutralization by an antibody-nanobody bispecific.](https://pubmed.ncbi.nlm.nih.gov/42778504/) (PubMed Infectious Disease Search; 2026-09-23T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (197), Policy, surveillance, and public health infrastructure (22), Occupational and environmental epidemiology (7)
+- Category mix: Outbreaks and emerging infections (203), Policy, surveillance, and public health infrastructure (22), Occupational and environmental epidemiology (7)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
@@ -33,14 +33,14 @@ Search window: 7 day(s) ending 2026-09-25
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 11 item(s) across 11 source(s).
+- Newly tracked story cluster: 10 item(s) across 10 source(s).
 - Monitoring: Toledo-Lucas County Health Department Cyclosporiasis Update
-- medicaldaily.com now explicitly uses investigation or monitoring language.
+- Medical Daily now explicitly uses investigation or monitoring language.
 - Medical Economics now includes deaths or fatal cases in the story frame.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 102 item(s) across 81 source(s).
+- Newly tracked story cluster: 109 item(s) across 88 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - STAT now includes deaths or fatal cases in the story frame.
 
@@ -53,7 +53,7 @@ Search window: 7 day(s) ending 2026-09-25
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 102 item(s) across 81 source(s); 1 official/primary-source item(s).
+- Topic size: 109 item(s) across 88 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: surpass 800 as outbreak continues to surge Pittsburgh Post-Gazette Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [The ‘died with’ vs. ‘died of’ measles discussion misses something very important](https://www.statnews.com/2026/09/25/died-with-not-from-measles-physicians-explain-death-certificate-rules/) (STAT); [RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count](https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/) (STAT); [Pennsylvania tops 800 measles cases as CDC acknowledges only 1 measles death](https://www.cidrap.umn.edu/measles/pennsylvania-tops-800-measles-cases-cdc-acknowledges-only-1-measles-death) (CIDRAP); [Measles cases in Pa. surpass 800 as outbreak continues to surge](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUjZ6aFR4UTlSRWNIcU1zN2hwQkhmbWhIV2Z6WHlTaXZ6Mk50NkszTkxxdDRUbjVnVnNFMjB0dm5OTlo3MEdFTEpEZjhOSy1kZUpoU3l6UHBxendnT196LUlFUUN5b1VQSHNGbVJ1TlVqd211RnFrZ2pndDYzZUdnZDIyS0FYcm1qQlpJSVJnZm9FX3c?oc=5) (Pittsburgh Post-Gazette)
@@ -77,10 +77,10 @@ Search window: 7 day(s) ending 2026-09-25
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 11 item(s) across 11 source(s); 1 official/primary-source item(s).
+- Topic size: 10 item(s) across 10 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-09-23T00:00)
 - Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); ['Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BjODZZSDd0eHFXOVNIaGZpazY2OFZPWjJRUGpudU9hLXV5TExZUWhsS0xLeWFteG5ERlBSanh0TmJNTGRUVjR5cDllN1NWeUJsZUNJX1RkWkVuTGZRZW9jZ2Y1Q1lkSXB4LXdnTm1RZzJBQVNQdU0xWHY5YnFZQmx6bk5IRUVuLTg5LVdySWpKc1VrTDB1UkE4V0lmTlR6ZEVF0gGoAUFVX3lxTE1mcXJiOEhyZzVjUk9DeW80XzZ3VXdxUW9uekRkekZGbkJuMVFVSDQxUUkwUlpRUHdsMVRqVDkwODB3WFJFVnZJbkNaWWNoc3doTFU3dWUySml5cVZ1OUNoaERvcTRKd29mdEJINFZfWHlMQTdMWUJwajA5dWlLWkpYU1lWSEt6Q29US2RieHlPM1Zjb1RMbWh6M3pMejd1eEpWekVRZ3R3dw?oc=5) (ABC News - Breaking News, Latest News and Videos); [CDC Declares End to Cyclospora Parasite Outbreak](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0g5TTdqN1pwSUE2SzExLVo2N1paU3RFNzZJanlZdmNMVjdfa21IR0pIS3NBMHFvWHFPU2xDM0Zmbi1ydVRDSkNHQXlrYUtWanI0UDQ0YWt4VU52MDVPRjNITG45MjhFUTFSVjJEWmozelB6TEtNTE1hM2xNMTF1YWZuUQ?oc=5) (The Hoya); [US officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGMwR3AwQkJxR2Rnal9EaWprdTk2X2o3MTNGdDJyS2ZYNkN6YXhuTU11cndia3RfS0VUaTFzUnd6R3JURmNBUXlTSkFoand2VnUzZjNQa0R3VmpQdUtaTTlrNnQ1aTJNWURCWUNoNGs2TmlkOVhaYlBob01VbDZvVUtnaFVnTlFUU1hHT2RzOWNNWHFJM19nODdYaFZyMm15N0ozOEVxMFVQQnJjVlNn?oc=5) (6abc Philadelphia); [CDC Declares Lettuce-Linked Cyclospora Outbreak Over at 12,883 Illnesses in 21 States as FDA Investigation Continues](https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1luY1hhTkEwQ2V3Ukd3SzhjcnBhRmJBVnlidjFnWGppRFA1OTR3U1phaDJvNEVtUE9nQ01yOGJYNVhMSmN3YmtONFhOcEhZVkxyLTZaUnNiZnBuMmlHdDluMXdubFlyNEx5aFVudHcyS1g2bjJwN0tLZ1JQUzhvaWNOclhHQzRzTnhPUmFB?oc=5) (medicaldaily.com)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); ['Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BjODZZSDd0eHFXOVNIaGZpazY2OFZPWjJRUGpudU9hLXV5TExZUWhsS0xLeWFteG5ERlBSanh0TmJNTGRUVjR5cDllN1NWeUJsZUNJX1RkWkVuTGZRZW9jZ2Y1Q1lkSXB4LXdnTm1RZzJBQVNQdU0xWHY5YnFZQmx6bk5IRUVuLTg5LVdySWpKc1VrTDB1UkE4V0lmTlR6ZEVF0gGoAUFVX3lxTE1mcXJiOEhyZzVjUk9DeW80XzZ3VXdxUW9uekRkekZGbkJuMVFVSDQxUUkwUlpRUHdsMVRqVDkwODB3WFJFVnZJbkNaWWNoc3doTFU3dWUySml5cVZ1OUNoaERvcTRKd29mdEJINFZfWHlMQTdMWUJwajA5dWlLWkpYU1lWSEt6Q29US2RieHlPM1Zjb1RMbWh6M3pMejd1eEpWekVRZ3R3dw?oc=5) (ABC News - Breaking News, Latest News and Videos); [CDC Declares End to Cyclospora Parasite Outbreak](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0g5TTdqN1pwSUE2SzExLVo2N1paU3RFNzZJanlZdmNMVjdfa21IR0pIS3NBMHFvWHFPU2xDM0Zmbi1ydVRDSkNHQXlrYUtWanI0UDQ0YWt4VU52MDVPRjNITG45MjhFUTFSVjJEWmozelB6TEtNTE1hM2xNMTF1YWZuUQ?oc=5) (The Hoya); [CDC Declares Lettuce-Linked Cyclospora Outbreak Over at 12,883 Illnesses in 21 States as FDA Investigation Continues](https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1luY1hhTkEwQ2V3Ukd3SzhjcnBhRmJBVnlidjFnWGppRFA1OTR3U1phaDJvNEVtUE9nQ01yOGJYNVhMSmN3YmtONFhOcEhZVkxyLTZaUnNiZnBuMmlHdDluMXdubFlyNEx5aFVudHcyS1g2bjJwN0tLZ1JQUzhvaWNOclhHQzRzTnhPUmFB?oc=5) (Medical Daily); [First cyclospora deaths reported in Michigan; Medicare Advantage provider to pay $14.1M over false diagnosis codes; five insurers cover half of Medicaid's children — Morning Medical Update](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOd3NlNHpnbmFzZDZQdVdPTV9rRGhLMzQtaFpjdHMyU0w4NnB2N2Z1XzZlV3JmeFhNQmFNYWJWcURtVTF3Vlc3RUgtNzlONG03ZEE2ZUtGLThmUzV0Rzk5SXVOdTB6NEM2WC1VY0pGMXFNNUJLVDA1c1pmZnZYMHJ6WTRIcDN4ZjRQcWNDSVVQSmUtWmZoZWw3ZG1UZnc2aEhJTU1rUWo4R0hPN05pVWNObGJqR0JveGdLTXhMbS15S0FqeUxCTk9sN3lSMzczaDZteW9WcjFOaFlvdThjcXp6cWhzZ2tGNnlxOTE0dnY1enZQX2pPV3JTdXlVMTdnWmZvX1lXNXF2VDdOLTQ5eEJYQmM4VWg4dG9na1FKRU5qLVdxaXdHZFk3UEp0Q255OEVlYmJPNWJWQThLdjk5NTZfS2pxYw?oc=5) (Medical Economics)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -466,7 +466,7 @@ Search window: 7 day(s) ending 2026-09-25
   Limited detail was available from feed metadata alone.
 - [RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count](https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/) | STAT | 2026-09-25T08:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Moving target: Congo’s North Kivu province becomes new Ebola hotspot](https://www.internazionale.it/ultime-notizie-reuters/2026/09/25/moving-target-congo-s-north-kivu-province-becomes-new-ebola-hotspot) | Internazionale | 2026-09-25T06:09+00:00 | Outbreaks and emerging infections
+- [Moving target: Congo’s North Kivu province becomes new Ebola hotspot](https://www.internazionale.it/ultime-notizie-reuters/2026/09/25/moving-target-congo-s-north-kivu-province-becomes-new-ebola-hotspot) | internazionale.it | 2026-09-25T06:09+00:00 | Outbreaks and emerging infections
   By Gradel Muyisa Mumbere and Clement Bonnerot BUTEMBO, Democratic Republic of Congo, Sept 25 (Reuters) - All 29 beds were full this week at the Kitatumba Ebola treatment centre in Congos North Kivu province, where surging cases have overwhelmed health facilities even as the deadly virus shows signs of easing elsewhere. In one room, a critically ill patient lay on oxygen support, crying out as medical staff in masks, gloves and plastic aprons rushed past him at the centre in Butembo, a city of 2 million people. “There are sometimes patients who know they have Ebola but cannot find a bed.” City authorities announced the opening of two new treatment centres this week to deal with the demand, bringing the total to four.
 - [Congolese doctor dies of Ebola as cases surge beyond outbreak epicenter](https://ca.news.yahoo.com/congolese-doctor-dies-ebola-cases-060700822.html) | Yahoo News Canada | 2026-09-25T06:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -478,7 +478,7 @@ Search window: 7 day(s) ending 2026-09-25
   Limited detail was available from feed metadata alone.
 - [Why Ebola Cases Surged From 8 To 2,000 In DRC – Africa CDC](https://thewhistler.ng/why-ebola-cases-surged-from-8-to-2000-in-drc-africa-cdc/) | The Whistler Newspaper | 2026-09-24T17:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo short of health workers as it battles 'out-of-control' Ebola outbreak](https://news.sky.com/story/dr-congo-short-of-health-workers-as-it-battles-out-of-control-ebola-outbreak-13591372) | Sky News | 2026-09-24T13:01+00:00 | Outbreaks and emerging infections
+- [DR Congo short of health workers as it battles 'out-of-control' Ebola outbreak](https://news.sky.com/story/dr-congo-short-of-health-workers-as-it-battles-out-of-control-ebola-outbreak-13591372) | news.sky.com | 2026-09-24T13:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
