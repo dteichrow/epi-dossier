@@ -14,21 +14,21 @@
       "STAT",
       "Sky News"
     ],
-    "metadata_only_count": 226,
+    "metadata_only_count": 225,
     "sources_cached": 0,
     "sources_failed": 5,
-    "sources_live": 253,
+    "sources_live": 249,
     "story_count_change": 7,
     "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 253,
+    "live": 249,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-09-25T23:21:29",
+  "generated_at": "2026-09-26T00:20:38",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
