@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-26
-Generated at: 2026-09-26T07:45
+Generated at: 2026-09-26T08:50
 Search window: 7 day(s) ending 2026-09-26
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-09-26
 - [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-09-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa; 2026-09-23T15:10+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-23T00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (206), Policy, surveillance, and public health infrastructure (24), Occupational and environmental epidemiology (7)
+- Category mix: Outbreaks and emerging infections (182), Policy, surveillance, and public health infrastructure (24), Occupational and environmental epidemiology (7)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
@@ -25,19 +25,19 @@ Search window: 7 day(s) ending 2026-09-26
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 112 item(s) across 84 source(s).
+- Newly tracked story cluster: 114 item(s) across 87 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - STAT now includes deaths or fatal cases in the story frame.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 61 item(s) across 47 source(s).
+- Newly tracked story cluster: 44 item(s) across 33 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 38 item(s) across 28 source(s).
+- Newly tracked story cluster: 29 item(s) across 22 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-09-26
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 112 item(s) across 84 source(s); 1 official/primary-source item(s).
+- Topic size: 114 item(s) across 87 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday](https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads) (The Guardian); [US measles cases continue to climb, topping 3,600](https://www.cidrap.umn.edu/measles/us-measles-cases-continue-climb-topping-3600) (CIDRAP); [Illinois measles cases hit 23 in 2026, most from Douglas, Moultrie counties outbreak](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWk0RThhVV9PWDVfa3k0ZGlQU096MHF2SzZVbjlCWDNtb0lLaEJlREczOFl1U0RQOVV1eVdFM1A1UEtJT0RhR3haekNTSVhSeWYybXcyLXJSN0xEMTd5SUhuT1U3NFVvU0tWWk5HRWQ0Wl9uRmFRMWpTell6RjJiQ3QyYXI4V1RlWTNQQUJ6NVNiX2g2NG1KSEw3X2l4TUV3b3BN?oc=5) (CBS News); [The ‘died with’ vs. ‘died of’ measles discussion misses something very important](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDczTWdqaEpNMVBKS2ZSX0ZlTUJDUUgyemxKSWVSUXZfczZaY2Y4RXFNdFdpLUE2dXl5c0ZwUmlQVm9UZmJSa3ZuMnJfMkQ2TTdYRmNtQk5ITkliOE5tbUNHVHJ3V18zZjFVUXh2WEoxX21VbElWR09MWGhaNnNuZktDOFk3MlFsS0loWno5X3BkWlJwTkhuTWxrOXhrcUtvUGZGNkU4WENpUQ?oc=5) (STAT)
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-09-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 61 item(s) across 47 source(s); 4 official/primary-source item(s).
+- Topic size: 44 item(s) across 33 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-23T17:36+02:00)
 - Detailed note: Since External Situation Report #18, a further 475 confirmed cases and 222 confirmed deaths have been reported, bringing the cumulative total to 7733 confirmed cases, including 3732 deaths [crude case fatality ratio (CFR 48.3%)], as of 20 September 2026. Ituri remains the principal focus, although its relative contribution continues to decline, accounting for 76.9% of cumulative confirmed cases, while substantial...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News); [Postcard from the field: Supporting outbreak preparedness in South Sudan - two EPIET fellows in the field](https://www.ecdc.europa.eu/en/news-events/postcard-field-supporting-outbreak-preparedness-south-sudan-two-epiet-fellows-field) (ECDC News); [Ebola outbreak in Congo expands to two additional health zones: WHO](https://www.bastillepost.com/global/article/6195003-ebola-outbreak-in-congo-expands-to-two-additional-health-zones-who) (巴士的報)
@@ -66,7 +66,7 @@ Search window: 7 day(s) ending 2026-09-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 38 item(s) across 28 source(s); 1 official/primary-source item(s).
+- Topic size: 29 item(s) across 22 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend. This is how to protect yourself Sarasota Herald-Tribune
 - Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Florida counties declare emergency over ‘wildly unusual’ dengue outbreak](https://www.washingtonpost.com/nation/2026/09/25/florida-counties-declare-emergency-over-wildly-unusual-dengue-outbreak/) (The Washington Post); [Elderly Tampa woman dies amid Florida's second-worst dengue outbreak on record, health officials say](https://news.google.com/rss/articles/CBMiigFBVV95cUxQenN2QllHVGV6Z2x3ZWp4dUxoZFJiZVQwUXdHNnE1czVPblJVS3pZby01X0h1VWR5ejJrdkRockVna2NWUWpsc2g2MXllZ0ZfNkhQbVZJeDdZcXdhSHEza2NLS2pIaGt6ZzZzS2taRWtPcERneC1PaENZdHN5S1VuTHAydkJ3dWhXSnc?oc=5) (CBS News); [Florida dengue fever outbreak reaches 190 cases. Where it is spreading](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWdqTWE2U21jVXFsc3BuUnF5eUIwN2JjbUlVVzRIdXA3djktREp5Ul9oYmZZajRFSVFNWkpmSUNGdGhnemtDeERvSldNaEhQWGxnbjlac2pWUVh5Sk91eklGQ2JOYXVxeUFtQzFHbGg5QzAxWXk1NkVwVUV6a0NqN1pvNF9IcXlqWEI2ZHJvOGpkRWg5Yy1KZXl3VFNzRkhHRUdSd203YTQwYXpNbnNFRTJDdHlMOF9oOFk2ZktTdlFHTEY1ZmxCRUhB?oc=5) (Sarasota Herald-Tribune); [Florida: Polk County is the latest in the Tampa Bay area to report local transmission of dengue](https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ3pfeXdDSUhMbnA1Y1ExVjdNNzhuLU9CWFZ6R243a3l5ajZLNXA4M1FpRnlmRGFISWZYNG1IdHNqa0k1ZURaVGdKd01SbWU3RTJHYm5hSzFiSW4wa3RlMVhlSVpDZ1F6bTRpcXBfUW1veUdEQmQ4aFpHd0tJUlU?oc=5) (Outbreak News Today)
@@ -453,6 +453,8 @@ Search window: 7 day(s) ending 2026-09-26
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday](https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads) | The Guardian | 2026-09-26T14:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [UAE eases Ebola entry measures for Ugandan nationals](https://gulfnews.com/uae/health/uae-eases-ebola-entry-measures-for-ugandan-nationals-1.500688852) | Gulf News | 2026-09-26T12:50+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak in Congo expands to two additional health zones: WHO](https://www.bastillepost.com/global/article/6195003-ebola-outbreak-in-congo-expands-to-two-additional-health-zones-who) | 巴士的報 | 2026-09-26T11:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases near 8,000 as outbreak pushes across DRC](https://www.standardmedia.co.ke/amp/africa/article/2001558725/ebola-cases-near-8000-as-outbreak-pushes-across-drc) | standardmedia.co.ke | 2026-09-26T08:49+00:00 | Outbreaks and emerging infections
@@ -465,17 +467,15 @@ Search window: 7 day(s) ending 2026-09-26
   Limited detail was available from feed metadata alone.
 - [Ebola cases, deaths in DR Congo outbreak near 7,900 and 3,800 as virus spreads to 2 more health zones](https://www.cidrap.umn.edu/ebola/ebola-cases-deaths-dr-congo-outbreak-near-7900-and-3800-virus-spreads-2-more-health-zones) | CIDRAP | 2026-09-25T20:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak expands to 63 health zones in DR Congo](https://punchng.com/ebola-outbreak-expands-to-63-health-zones-in-dr-congo/) | punchng.com | 2026-09-25T20:21+00:00 | Outbreaks and emerging infections
+- [Congo Ebola contact tracing falls far short as outbreak spreads, Africa CDC chief says](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-contact-tracing-falls-far-short-outbreak-spreads-africa-cdc-chief-2026-09-25/) | Reuters | 2026-09-25T20:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO: Ebola outbreak spreads to more areas in DR Congo](https://sharjah24.ae/en/Articles/2026/09/25/WHO-Ebola-outbreak-spreads-to-more-areas-in-DR-Congo) | Sharjah24 | 2026-09-25T19:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Illinois measles cases hit 23 in 2026, most from Douglas, Moultrie counties outbreak](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWk0RThhVV9PWDVfa3k0ZGlQU096MHF2SzZVbjlCWDNtb0lLaEJlREczOFl1U0RQOVV1eVdFM1A1UEtJT0RhR3haekNTSVhSeWYybXcyLXJSN0xEMTd5SUhuT1U3NFVvU0tWWk5HRWQ0Wl9uRmFRMWpTell6RjJiQ3QyYXI4V1RlWTNQQUJ6NVNiX2g2NG1KSEw3X2l4TUV3b3BN?oc=5) | CBS News | 2026-09-25T18:26+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [WHO says Congo Ebola outbreak spreads to two new health zones](https://www.devdiscourse.com/article/international/3982704-who-says-congo-ebola-outbreak-spreads-to-two-new-health-zones) | Devdiscourse | 2026-09-25T17:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Africa gets $2.9 billion for Ebola response as cases surge in DRC](https://www.trtafrika.com/english/article/bb7a72cd368b) | TRT Afrika | 2026-09-25T15:57+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Congo’s Ebola outbreak spreads as North Kivu hospitals fill up](https://www.dailysabah.com/world/africa/congos-ebola-outbreak-spreads-as-north-kivu-hospitals-fill-up) | Daily Sabah | 2026-09-25T11:23+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [The ‘died with’ vs. ‘died of’ measles discussion misses something very important](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDczTWdqaEpNMVBKS2ZSX0ZlTUJDUUgyemxKSWVSUXZfczZaY2Y4RXFNdFdpLUE2dXl5c0ZwUmlQVm9UZmJSa3ZuMnJfMkQ2TTdYRmNtQk5ITkliOE5tbUNHVHJ3V18zZjFVUXh2WEoxX21VbElWR09MWGhaNnNuZktDOFk3MlFsS0loWno5X3BkWlJwTkhuTWxrOXhrcUtvUGZGNkU4WENpUQ?oc=5) | STAT | 2026-09-25T09:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -509,6 +509,12 @@ Search window: 7 day(s) ending 2026-09-26
   Journal/preprint server: Hypertension in pregnancy
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42773723/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42773723/
+- [What went wrong? A qualitative exploration of the determinants of poor adherence to antiretroviral therapy and retention in care among pregnant and postpartum women in the Uganda WiseMama trial.](https://pubmed.ncbi.nlm.nih.gov/42779011/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/17441692.2026.2736318
+  Journal/preprint server: Global public health
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42779011/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42779011/
 - [Vaccination coverage among migrant and refugee populations in Uganda: A narrative review of challenges and recommendations.](https://pubmed.ncbi.nlm.nih.gov/42776600/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/17441692.2026.2735676
