@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-26
-Generated at: 2026-09-26T22:15
+Generated at: 2026-09-26T23:20
 Search window: 7 day(s) ending 2026-09-26
 
 ## Executive scan
@@ -12,8 +12,8 @@ Search window: 7 day(s) ending 2026-09-26
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-23T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa; 2026-09-22T14:14+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News; 2026-09-21T09:02+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (208), Policy, surveillance, and public health infrastructure (22), Occupational and environmental epidemiology (7)
-- Source health: 5 source(s) failed during collection: Nigeria Centre for Disease Control, PubMed Infectious Disease Search, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
+- Category mix: Outbreaks and emerging infections (207), Policy, surveillance, and public health infrastructure (22), Occupational and environmental epidemiology (7)
+- Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### Cyclosporiasis
@@ -31,13 +31,13 @@ Search window: 7 day(s) ending 2026-09-26
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 63 item(s) across 50 source(s).
+- Newly tracked story cluster: 70 item(s) across 56 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 41 item(s) across 28 source(s).
+- Newly tracked story cluster: 33 item(s) across 23 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-09-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 63 item(s) across 50 source(s); 4 official/primary-source item(s).
+- Topic size: 70 item(s) across 56 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-23T17:36+02:00)
 - Detailed note: Since External Situation Report #18, a further 475 confirmed cases and 222 confirmed deaths have been reported, bringing the cumulative total to 7733 confirmed cases, including 3732 deaths [crude case fatality ratio (CFR 48.3%)], as of 20 September 2026. Ituri remains the principal focus, although its relative contribution continues to decline, accounting for 76.9% of cumulative confirmed cases, while substantial...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News); [Postcard from the field: Supporting outbreak preparedness in South Sudan - two EPIET fellows in the field](https://www.ecdc.europa.eu/en/news-events/postcard-field-supporting-outbreak-preparedness-south-sudan-two-epiet-fellows-field) (ECDC News); [Is Congo’s Ebola outbreak coming under control?](https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control) (NPR)
@@ -66,7 +66,7 @@ Search window: 7 day(s) ending 2026-09-26
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 41 item(s) across 28 source(s); 1 official/primary-source item(s).
+- Topic size: 33 item(s) across 23 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend. This is how to protect yourself Sarasota Herald-Tribune
 - Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Florida counties declare emergency over ‘wildly unusual’ dengue outbreak](https://www.washingtonpost.com/nation/2026/09/25/florida-counties-declare-emergency-over-wildly-unusual-dengue-outbreak/) (The Washington Post); [Florida dengue fever outbreak reaches 190 cases. Where it is spreading](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWdqTWE2U21jVXFsc3BuUnF5eUIwN2JjbUlVVzRIdXA3djktREp5Ul9oYmZZajRFSVFNWkpmSUNGdGhnemtDeERvSldNaEhQWGxnbjlac2pWUVh5Sk91eklGQ2JOYXVxeUFtQzFHbGg5QzAxWXk1NkVwVUV6a0NqN1pvNF9IcXlqWEI2ZHJvOGpkRWg5Yy1KZXl3VFNzRkhHRUdSd203YTQwYXpNbnNFRTJDdHlMOF9oOFk2ZktTdlFHTEY1ZmxCRUhB?oc=5) (Sarasota Herald-Tribune); [Elderly Tampa woman dies amid Florida's second-worst dengue outbreak on record, health officials say](https://news.google.com/rss/articles/CBMiigFBVV95cUxQenN2QllHVGV6Z2x3ZWp4dUxoZFJiZVQwUXdHNnE1czVPblJVS3pZby01X0h1VWR5ejJrdkRockVna2NWUWpsc2g2MXllZ0ZfNkhQbVZJeDdZcXdhSHEza2NLS2pIaGt6ZzZzS2taRWtPcERneC1PaENZdHN5S1VuTHAydkJ3dWhXSnc?oc=5) (CBS News); [Florida: Polk County is the latest in the Tampa Bay area to report local transmission of dengue](https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ3pfeXdDSUhMbnA1Y1ExVjdNNzhuLU9CWFZ6R243a3l5ajZLNXA4M1FpRnlmRGFISWZYNG1IdHNqa0k1ZURaVGdKd01SbWU3RTJHYm5hSzFiSW4wa3RlMVhlSVpDZ1F6bTRpcXBfUW1veUdEQmQ4aFpHd0tJUlU?oc=5) (Outbreak News Today)
@@ -457,11 +457,13 @@ Search window: 7 day(s) ending 2026-09-26
   Limited detail was available from feed metadata alone.
 - [Congo Ebola contact tracing falls far short as outbreak spreads](https://mjengohub.co.ke/articles/africa/congo-ebola-contact-tracing-falls-far-short-as-outbreak-spreads) | Mjengo Hub | 2026-09-26T15:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [UAE eases Ebola entry measures for Ugandan nationals](https://gulfnews.com/uae/health/uae-eases-ebola-entry-measures-for-ugandan-nationals-1.500688852) | Gulf News | 2026-09-26T12:50+00:00 | Outbreaks and emerging infections
+  Decision follows completion of the internationally established Ebola monitoring period Abu Dhabi: The National Emergency Crisis and Disaster Management Authority (NCEMA), in coordination with the Ministry of Health and Prevention (MoHAP) and the Federal Authority for Identity, Citizenship, Customs and Port Security (ICP), has announced that it is easing precautionary entry measures introduced in June 2026 for nationals of the Republic of Uganda in response to developments related to the Ebola virus. The UAE remains committed to safeguarding public health while ensuring that precautionary measures are proportionate to the assessed level of risk and responsive to developments in the epidemiological situation. Precautionary measures will remain subject to ongoing review and will be adjusted as necessary in accordance with evolving risk assessments and approved public health standards.
 - [Ebola outbreak in Congo expands to two additional health zones: WHO](https://www.bastillepost.com/global/article/6195003-ebola-outbreak-in-congo-expands-to-two-additional-health-zones-who) | bastillepost.com | 2026-09-26T11:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Senior Presidential Envoy backs emergency preparedness in South Sudan amid Ebola outbreaks in Uganda and DRC - WHO | Regional Office for Africa](https://www.afro.who.int/fr/node/23316?form\=FUNKUKTZPCK) | WHO | 2026-09-26T10:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak deepens as Congo fails to trace most contacts | Daily Sabah](https://www.dailysabah.com/world/africa/ebola-outbreak-deepens-as-congo-fails-to-trace-most-contacts) | dailysabah.com | 2026-09-26T09:16+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak deepens as Congo fails to trace most contacts | Daily Sabah](https://www.dailysabah.com/world/africa/ebola-outbreak-deepens-as-congo-fails-to-trace-most-contacts) | Daily Sabah | 2026-09-26T09:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola cases near 8,000 as outbreak pushes across DRC](https://www.standardmedia.co.ke/amp/business/africa/article/2001558725/ebola-cases-near-8000-as-outbreak-pushes-across-drc) | standardmedia.co.ke | 2026-09-26T08:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -471,11 +473,9 @@ Search window: 7 day(s) ending 2026-09-26
   Limited detail was available from feed metadata alone.
 - [Ebola Hemorrhagic Fever Outbreak in DRC (as at 17 August 2012) | OMS | Bureau régional pour l'Afrique - WHO | Regional Office for Africa](https://www.afro.who.int/fr/node/7496?form\=FUNKUKTZPCK) | WHO | 2026-09-26T01:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak: Can Africa hold the line after USAID cuts?](https://www.dw.com/en/ebola-outbreak-can-africa-hold-the-line-after-usaid-cuts/audio-77247442) | DW.com | 2026-09-25T23:07+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id\=134846473) | ABC News - Breaking News, Latest News and Videos | 2026-09-25T23:04+00:00 | Policy, surveillance, and public health infrastructure
-  Limited detail was available from feed metadata alone.
-- [What we know about the spread of Ebola amid growing outbreak in DRC - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/spread-ebola-amid-growing-outbreak-drc/story?id\=133511612) | ABC News - Breaking News, Latest News and Videos | 2026-09-25T21:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- ['Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/sharp-rise-cyclosporiasis-cases-uk-linked-mexico-travel/story?id\=135352242) | ABC News - Breaking News, Latest News and Videos | 2026-09-25T21:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
