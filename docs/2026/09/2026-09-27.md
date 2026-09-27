@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-09-27
-Generated at: 2026-09-27T03:20
+Generated at: 2026-09-27T03:46
 Search window: 7 day(s) ending 2026-09-27
 
 ## Executive scan
@@ -12,13 +12,13 @@ Search window: 7 day(s) ending 2026-09-27
 - [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-09-23T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) (WHO Regional Office for Africa; 2026-09-23T15:10+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update; 2026-09-23T00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (208), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (199), Policy, surveillance, and public health infrastructure (21), Occupational and environmental epidemiology (5)
 - Source health: 4 source(s) failed during collection: Nigeria Centre for Disease Control, medRxiv Infectious Disease, bioRxiv Infectious Disease, bioRxiv Ancient Pathogen and Archaeogenetics.
 
 ## Ongoing stories and what changed
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 15 item(s) across 13 source(s).
+- Newly tracked story cluster: 14 item(s) across 12 source(s).
 - Monitoring: Toledo-Lucas County Health Department Cyclosporiasis Update
 - Medical Daily now explicitly uses investigation or monitoring language.
 - Medical Economics now includes deaths or fatal cases in the story frame.
@@ -31,13 +31,13 @@ Search window: 7 day(s) ending 2026-09-27
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 66 item(s) across 53 source(s).
+- Newly tracked story cluster: 59 item(s) across 46 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 37 item(s) across 28 source(s).
+- Newly tracked story cluster: 35 item(s) across 26 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-09-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 66 item(s) across 53 source(s); 4 official/primary-source item(s).
+- Topic size: 59 item(s) across 46 source(s); 4 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-23T17:36+02:00)
 - Detailed note: Since External Situation Report #18, a further 475 confirmed cases and 222 confirmed deaths have been reported, bringing the cumulative total to 7733 confirmed cases, including 3732 deaths [crude case fatality ratio (CFR 48.3%)], as of 20 September 2026. Ituri remains the principal focus, although its relative contribution continues to decline, accounting for 76.9% of cumulative confirmed cases, while substantial...
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News); [Postcard from the field: Supporting outbreak preparedness in South Sudan - two EPIET fellows in the field](https://www.ecdc.europa.eu/en/news-events/postcard-field-supporting-outbreak-preparedness-south-sudan-two-epiet-fellows-field) (ECDC News); [Ebola outbreak spreading across Democratic Republic of Congo](https://www.cnn.com/2026/09/27/world/video/ebola-democratic-republic-of-congo-who-anna-halford-intv-092703aseg2cnni-world-fast) (CNN)
@@ -66,7 +66,7 @@ Search window: 7 day(s) ending 2026-09-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 37 item(s) across 28 source(s); 1 official/primary-source item(s).
+- Topic size: 35 item(s) across 26 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend. This is how to protect yourself Sarasota Herald-Tribune
 - Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Florida counties declare emergency over ‘wildly unusual’ dengue outbreak](https://www.washingtonpost.com/nation/2026/09/25/florida-counties-declare-emergency-over-wildly-unusual-dengue-outbreak/) (The Washington Post); [Florida dengue fever outbreak reaches 190 cases. Where it is spreading](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWdqTWE2U21jVXFsc3BuUnF5eUIwN2JjbUlVVzRIdXA3djktREp5Ul9oYmZZajRFSVFNWkpmSUNGdGhnemtDeERvSldNaEhQWGxnbjlac2pWUVh5Sk91eklGQ2JOYXVxeUFtQzFHbGg5QzAxWXk1NkVwVUV6a0NqN1pvNF9IcXlqWEI2ZHJvOGpkRWg5Yy1KZXl3VFNzRkhHRUdSd203YTQwYXpNbnNFRTJDdHlMOF9oOFk2ZktTdlFHTEY1ZmxCRUhB?oc=5) (Sarasota Herald-Tribune); [Elderly Tampa woman dies amid Florida's second-worst dengue outbreak on record, health officials say](https://news.google.com/rss/articles/CBMiigFBVV95cUxQenN2QllHVGV6Z2x3ZWp4dUxoZFJiZVQwUXdHNnE1czVPblJVS3pZby01X0h1VWR5ejJrdkRockVna2NWUWpsc2g2MXllZ0ZfNkhQbVZJeDdZcXdhSHEza2NLS2pIaGt6ZzZzS2taRWtPcERneC1PaENZdHN5S1VuTHAydkJ3dWhXSnc?oc=5) (CBS News); [Florida: Polk County is the latest in the Tampa Bay area to report local transmission of dengue](https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ3pfeXdDSUhMbnA1Y1ExVjdNNzhuLU9CWFZ6R243a3l5ajZLNXA4M1FpRnlmRGFISWZYNG1IdHNqa0k1ZURaVGdKd01SbWU3RTJHYm5hSzFiSW4wa3RlMVhlSVpDZ1F6bTRpcXBfUW1veUdEQmQ4aFpHd0tJUlU?oc=5) (Outbreak News Today)
@@ -74,10 +74,10 @@ Search window: 7 day(s) ending 2026-09-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 15 item(s) across 13 source(s); 1 official/primary-source item(s).
+- Topic size: 14 item(s) across 12 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-09-23T00:00)
 - Detailed note: The health department labels these counts preliminary.
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/michigan-health-officials-people-resume-regular-lettuce-eating/story?id\=135432137) (ABC News - Breaking News, Latest News and Videos); ['Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/sharp-rise-cyclosporiasis-cases-uk-linked-mexico-travel/story?id\=135352242) (ABC News - Breaking News, Latest News and Videos); [Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id\=134846473) (ABC News - Breaking News, Latest News and Videos); [Local health officials recount cyclospora outbreak](https://www.starbeacon.com/news/local-health-officials-recount-cyclospora-outbreak/article_444fb1b4-3f8a-4d4f-81aa-8a7202ff5388.html) (Star Beacon)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/michigan-health-officials-people-resume-regular-lettuce-eating/story?id\=135432137) (ABC News - Breaking News, Latest News and Videos); ['Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/sharp-rise-cyclosporiasis-cases-uk-linked-mexico-travel/story?id\=135352242) (ABC News - Breaking News, Latest News and Videos); [Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id\=134846473) (ABC News - Breaking News, Latest News and Videos); [Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know](https://abc30.com/story/taylor-farms-recalls-lettuce-27-states-amid-cyclosporiasis-outbreak-what-know/19542848/?userab\=kfsn_content_recs-582*variant_b_trending_kfsn-2513,kabc_content_recs-577*variant_a_control-2480,wls_content_recs-584*variant_a_control_wls-2516,wtvd_content_recs-585*variant_a_control_wtvd-2518,ktrk_content_recs-587*variant_b_trending_ktrk-2523,wpvi_content_recs-586*variant_a_control_wpvi-2520,otv_web_content_rec-539*variant_a_control-2267,otv_web_topic-580*variant_a_topic-2508,otv_search_page_design_unification-546*variant_b_search_redesign-2300,kgo_content_recs-583*variant_b_trending_kgo-2515,abcn_popular_reads_exp-542*variant_a_control-2287,otvlink_abcnnav-576*variant_a_control-2478\&userab\=kfsn_content_recs-582*variant_b_trending_kfsn-2513,kabc_content_recs-577*variant_a_control-2480,wls_content_recs-584*variant_a_control_wls-2516,wtvd_content_recs-585*variant_b_trending_wtvd-2519,ktrk_content_recs-587*variant_b_trending_ktrk-2523,wpvi_content_recs-586*variant_b_trending_wpvi-2521,otv_web_content_rec-539*variant_c_trending-2268,otv_web_topic-580*variant_b_topic_redesign-2509,follow_abcnews_otv_on_google-654*variant_a_control-3493,otv_search_page_design_unification-546*variant_b_search_redesign-2300,vertical_video_web-519*control-2163,follow_otv_on_google-683*variant_a_control-3659,abcn_popular_reads_exp_followup-648*variant_c_autotagswpopularity-3458,otv_mobile_web_content_recs-639*variant_a_control-3429,kgo_content_recs-583*variant_b_trending_kgo-2515,otvlink_abcnnav-576*variant_a_control-2478) (ABC30 Fresno)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -451,6 +451,8 @@ Search window: 7 day(s) ending 2026-09-27
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
+- [WHO warns of Karachi polio surge, extends travel restrictions on Pakistan](https://arynews.tv/who-warns-of-karachi-polio-surge-extends-travel-restrictions-on-pakistan) | ARYnews.tv | 2026-09-27T10:13+00:00 | Outbreaks and emerging infections
+  The WHO noted that Pakistan and Afghanistan pose a risk to each other due to continuous cross-border movement, which remains a primary driver of the virus’s spread. ISLAMABAD: The World Health Organization (WHO) has decided to retain international travel restrictions on Pakistan, ARY News reported. The spread of the poliovirus remains a threat to global public health, while the organization expressed grave concern over its continued transmission in Pakistan and Afghanistan.
 - [Ebola outbreak spreading across Democratic Republic of Congo](https://www.cnn.com/2026/09/27/world/video/ebola-democratic-republic-of-congo-who-anna-halford-intv-092703aseg2cnni-world-fast) | CNN | 2026-09-27T09:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [UAE lifts Ebola-related entry restrictions on Ugandans](https://www.independent.co.ug/uae-lifts-ebola-related-entry-restrictions-on-ugandans/) | The Independent Uganda | 2026-09-27T07:00+00:00 | Outbreaks and emerging infections
@@ -463,7 +465,7 @@ Search window: 7 day(s) ending 2026-09-27
   Limited detail was available from feed metadata alone.
 - ['Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/sharp-rise-cyclosporiasis-cases-uk-linked-mexico-travel/story?id\=135352242) | ABC News - Breaking News, Latest News and Videos | 2026-09-26T20:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [UAE allocates $10 million to fight Ebola outbreak in Africa](https://www.dubaieye1038.com/news/local/uae-allocates-10-million-to-fight-ebola-outbreak-in-africa/) | Dubai Eye 103.8 | 2026-09-26T18:25+00:00 | Outbreaks and emerging infections
+- [UAE allocates $10 million to fight Ebola outbreak in Africa](https://www.dubaieye1038.com/news/local/uae-allocates-10-million-to-fight-ebola-outbreak-in-africa/) | dubaieye1038.com | 2026-09-26T18:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [UAE allocates $10 million to tackle Ebola outbreak as it lifts Uganda travel restrictions](https://www.thenationalnews.com/news/uae/2026/09/26/uae-allocates-10-million-to-tackle-ebola-outbreak-as-it-lifts-uganda-travel-restrictions/) | thenationalnews.com | 2026-09-26T17:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -474,8 +476,6 @@ Search window: 7 day(s) ending 2026-09-27
 - [Ebola outbreak in Congo expands to two additional health zones: WHO](https://www.bastillepost.com/global/article/6195003-ebola-outbreak-in-congo-expands-to-two-additional-health-zones-who) | 巴士的報 | 2026-09-26T11:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Senior Presidential Envoy backs emergency preparedness in South Sudan amid Ebola outbreaks in Uganda and DRC - WHO | Regional Office for Africa](https://www.afro.who.int/fr/node/23316?form\=FUNKUKTZPCK) | WHO | 2026-09-26T10:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak deepens as Congo fails to trace most contacts | Daily Sabah](https://www.dailysabah.com/world/africa/ebola-outbreak-deepens-as-congo-fails-to-trace-most-contacts) | Daily Sabah | 2026-09-26T09:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
