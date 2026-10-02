@@ -1,21 +1,28 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-10-01
-Generated at: 2026-10-01T17:13
+Generated at: 2026-10-01T23:11
 Search window: 7 day(s) ending 2026-10-01
 
 ## Executive scan
 - [Unannounced Drills Using Patient Actors to Evaluate Health Care Facility Readiness for Infectious Disease Outbreaks - New Jersey, New York, and U.S. Virgin Islands, January-June 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766555) (CDC MMWR; 2026-10-01T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
 - [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News; 2026-10-01T17:26+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa; 2026-10-01T13:01+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Antimicrobial Resistance in Somalia: Policy Without Implementation in a Fragile Health System.](https://pubmed.ncbi.nlm.nih.gov/42822003/) (PubMed Infectious Disease Search; 2026-10-01T00:00; Major epidemiology studies; relevance 5/5)
 - [A Genetic Risk Variant Associated With the Risk of Primary Biliary Cholangitis Is Inherited From Neanderthals.](https://pubmed.ncbi.nlm.nih.gov/42773620/) (PubMed Ancient Pathogen Genomics; 2026-10-01T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
+- [[From sanatorium to lung centre: 80 years of tuberculosis history in Germany as reflected by the Lungenklinik Heckeshorn].](https://pubmed.ncbi.nlm.nih.gov/42815547/) (PubMed Historical Pathogen Case Studies; 2026-09-30T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766545) (CDC MMWR; 2026-09-29T17:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [The Kush Drug Epidemic in Sierra Leone: Public Health Implications, Socioeconomic Drivers and Health System Responses.](https://pubmed.ncbi.nlm.nih.gov/42812835/) (PubMed Infectious Disease Search; 2026-09-29T00:00; Major epidemiology studies; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-09-28T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Assessing coercive control in intimate partner relationships: psychometric validation and clinical thresholds of a French version of the Coercive Control Screening Scale (CCSS-F).](https://pubmed.ncbi.nlm.nih.gov/42804604/) (PubMed Infectious Disease Search; 2026-09-28T00:00; Major epidemiology studies; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (190), Policy, surveillance, and public health infrastructure (17), Occupational and environmental epidemiology (3)
+- Category mix: Outbreaks and emerging infections (199), Policy, surveillance, and public health infrastructure (18), Occupational and environmental epidemiology (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
+### Measles transmission and vaccination
+- Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 99 item(s) across 82 source(s).
+- Monitoring: Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin
+- The Straits Times now includes deaths or fatal cases in the story frame.
+- WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
+
 ### Dengue and arboviruses
 - Lead item: [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News)
 - Newly tracked story cluster: 39 item(s) across 31 source(s).
@@ -25,44 +32,38 @@ Search window: 7 day(s) ending 2026-10-01
 
 ### Occupational and environmental epidemiology
 - Lead item: [Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766545) (CDC MMWR)
-- Newly tracked story cluster: 5 item(s) across 5 source(s).
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
 - Monitoring: Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023
 - CDC MMWR now includes deaths or fatal cases in the story frame.
 - Yahoo now includes evacuation reporting.
 
-### Measles transmission and vaccination
-- Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 93 item(s) across 78 source(s).
-- Monitoring: Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin
-- WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
-
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 53 item(s) across 40 source(s).
+- Newly tracked story cluster: 55 item(s) across 39 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Cyclosporiasis
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update)
-- Newly tracked story cluster: 12 item(s) across 10 source(s).
+- Newly tracked story cluster: 14 item(s) across 11 source(s).
 - Monitoring: Toledo-Lucas County Health Department Cyclosporiasis Update
-- The linked sources provide the current reporting record; this entry does not establish a new development.
+- Medical Economics now includes deaths or fatal cases in the story frame.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 93 item(s) across 78 source(s); 2 official/primary-source item(s).
+- Topic size: 99 item(s) across 82 source(s); 2 official/primary-source item(s).
 - Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa, 2026-10-01T13:01+00:00)
-- Detailed note: As of 30 June, national coverage for the third dose of the pentavalent vaccine reached 92%, while HPV vaccination coverage reached 80%. EPI Bulletin Q1-Q2 2026.pdf (2.68 MB) Related Health Topics Immunization The bulletin also examines remaining gaps, particularly in second-dose measles-rubella vaccination and coverage across provinces and districts. Learn more about the Sunset process and provide feedback.
-- Evidence notes: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy](https://www.cidrap.umn.edu/vaccine-policy-update/long-covid-disputing-measles-deaths-and-newborns-without-rsv-protection-state) (CIDRAP); [Kids hit hard in deadly Jerusalem measles outbreak, report reveals](https://www.cidrap.umn.edu/measles/kids-hit-hard-deadly-jerusalem-measles-outbreak-report-reveals) (CIDRAP); [Pennsylvania reports 5th measles-associated death as outbreak continues](https://www.washingtonpost.com/health/2026/09/30/pennsylvania-reports-5th-measles-associated-death-outbreak-continues/) (The Washington Post)
+- Detailed note: Experts warn that recent rainfall and changing weather patterns prolong mosquito activity, increasing dengue spread nationwide beyond major cities, with 245 deaths and nearly 80,000 hospitalisations since January. As of 30 June, national coverage for the third dose of the pentavalent vaccine reached 92%, while HPV vaccination coverage reached 80%. EPI Bulletin Q1-Q2 2026.pdf (2.68 MB) Related Health Topics...
+- Evidence notes: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy](https://www.cidrap.umn.edu/vaccine-policy-update/long-covid-disputing-measles-deaths-and-newborns-without-rsv-protection-state) (CIDRAP); [Kids hit hard in deadly Jerusalem measles outbreak, report reveals](https://www.cidrap.umn.edu/measles/kids-hit-hard-deadly-jerusalem-measles-outbreak-report-reveals) (CIDRAP); [Dengue outbreak in Bangladesh could worsen after deadly September](https://www.straitstimes.com/asia/south-asia/dengue-outbreak-in-bangladesh-could-worsen-after-deadly-september) (The Straits Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 53 item(s) across 40 source(s); 3 official/primary-source item(s).
+- Topic size: 55 item(s) across 39 source(s); 3 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-09-28T17:36+02:00)
 - Detailed note: Since External Situation Report #18, a further 475 confirmed cases and 222 confirmed deaths have been reported, bringing the cumulative total to 7733 confirmed cases, including 3732 deaths [crude case fatality ratio (CFR 48.3%)], as of 20 September 2026. Ituri remains the principal focus, although its relative contribution continues to decline, accounting for 76.9% of cumulative confirmed cases, while substantial...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News); [Patient being evaluated for suspected case of Ebola, Montreal hospital says](https://www.cp24.com/news/canada/2026/10/01/patient-being-evaluated-for-suspected-case-of-ebola-montreal-hospital-says/) (CP24); [Ebola in DRC: Two confirmed cases in Sud-Ubangi amid doctors’ strike](https://beninwebtv.bj/en/ebola-in-drc-two-confirmed-cases-in-sud-ubangi-amid-doctors-strike/) (Benin Web TV)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4) (WHO Regional Office for Africa); [ECDC deploys experts to DRC to increase support amidst ongoing Ebola outbreak](https://www.ecdc.europa.eu/en/news-events/ecdc-deploys-experts-drc-increase-support-amidst-ongoing-ebola-outbreak) (ECDC News); [Suspected Ebola case at Montreal hospital turns out to be a false alarm](https://www.cbc.ca/news/canada/montreal/montreal-hospital-ebola-9.7366256) (CBC); [Ebola in DRC: Two confirmed cases in Sud-Ubangi amid doctors’ strike](https://beninwebtv.bj/en/ebola-in-drc-two-confirmed-cases-in-sud-ubangi-amid-doctors-strike/) (Benin Web TV)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -70,32 +71,32 @@ Search window: 7 day(s) ending 2026-10-01
 - Topic size: 39 item(s) across 31 source(s); 2 official/primary-source item(s).
 - Lead item: [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News, 2026-10-01T17:26+02:00)
 - Detailed note: A healthcare worker based in the DRC who tested positive for Bundibugyo virus on 29 September is being medically evacuated to the Netherlands to receive specialised care. Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR) Chikungunya virus disease Dengue Ebola disease Vibriosis West Nile virus infection ECDC guide to a healthy summer...
-- Evidence notes: [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Sri Lanka issues new guidelines to curb dengue, Chikungunya in schools](https://punjabnewsexpress.com/world/news/sri-lanka-issues-new-guidelines-to-curb-dengue-chikungunya-in-schools-288154) (Punjab News Express); [Elderly Tampa woman dies amid Florida's second-worst dengue outbreak on record, health officials say](https://news.google.com/rss/articles/CBMiigFBVV95cUxQenN2QllHVGV6Z2x3ZWp4dUxoZFJiZVQwUXdHNnE1czVPblJVS3pZby01X0h1VWR5ejJrdkRockVna2NWUWpsc2g2MXllZ0ZfNkhQbVZJeDdZcXdhSHEza2NLS2pIaGt6ZzZzS2taRWtPcERneC1PaENZdHN5S1VuTHAydkJ3dWhXSnc?oc=5) (CBS News); [Dengue fever outbreak in Florida: Symptoms, number of cases and locations where the mosquito-borne illness is](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdmFKMmF5bG5tVXNBYk9sNlZVNFlDVkJMOFEyMi1KTjFBZEpSM3M2TXVHZncweC1VTmFXQUNOd2tmUXdacFhKQUtmUnQ5S0RtcUtVVF93Y2VHRkFUODV4dkV0aWVEMlZtS0pXdjBxTGlyeURMRlFhNG5QZkpjaWR1NnRCMGFYZUs0WnEtcUdGLVR1Skh1NHN6Qk0zTEpuMWp4WkpncTR2TlI5UlduTjFUQ1N5R0tMYUp6WVEwdExOR1owZmVua19VMnFHOUpOdjVYT09RU2tycGF1cWxvYktVQjVJV0dhN1UwLTZwVk5EVdIBgwJBVV95cUxNbkxKejhtYzIzTEhYV2pidEZacjJROVA1d3JwVmZZRFdwREdmanJCODlSQldJWVQzd3pZQnNfcklVcXpMRXVyZWVKODExekIwdTEyYmxZdnJyRXJ1eGg2ejY0QWVtaENYLU1HNVZUZ2Nsbl9sUnR5VXlPLVdQNjhGQ0xFOFZFTFlXQjhlS2dRSjhCX0FZOVVUT3JCTXdxdWd3YWJ5U3MwTEUwRHVWU243ZWdpVnhTU2lPS1E1N1poRVdYLUtUbm9WY0k2c1hRQjZjNUo0V2xraU12V25GM29DSDEzTHltS3VWWVVBbjZxUkJrd25Zc2NrejZjTmF4RXFMWk9B?oc=5) (Diario AS)
+- Evidence notes: [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Sri Lanka issues new guidelines to curb dengue, Chikungunya in schools](https://punjabnewsexpress.com/world/news/sri-lanka-issues-new-guidelines-to-curb-dengue-chikungunya-in-schools-288154) (Punjab News Express); [Dengue fever outbreak prompts Florida counties to declare state of emergency](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2FrYjUya0ZxNXVyS05nNlVGeVozeG5VaUs5VGRFZ3BGR09hMTUzTG9wbHA0WXJLRXFkeXJhNlNoUGhXM1g4dEIxMTBVd1Rkak93QTVKUGhiSTF5RHRJd1JnSG5QQmR6cGFzWHFHOF9WWS13aERVMjhGSmVSdGtMUTI4MkJoYnpMaVRB?oc=5) (The Guardian); [Florida counties declare emergency over ‘wildly unusual’ dengue outbreak](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZMa1FVM3B1dzhnTHN6bW8zZW5XNGNmRXIydnZRX2FSX0s0ZWZzVUlEMDFzTFJEeWNhanVIeXF6Qi1Tdl9JcEJaMmJMb2NrVWk2Tjhhb0kzZ0F6ZUw2c2NQZlk5eEoxd2tqTzRoOGV2dEJncWs4S3N1d1ZBbnFkdW5YbDF4cl9GQVpqZXdVTWVHQ19sTzhyZU5lYjJBVGVzSkNmSzJBaTRlbGRxQkhsQTh5YVcxdHB3c0F0NQ?oc=5) (The Washington Post)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Cyclosporiasis
-- Topic size: 12 item(s) across 10 source(s); 1 official/primary-source item(s).
+- Topic size: 14 item(s) across 11 source(s); 1 official/primary-source item(s).
 - Lead item: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update, 2026-09-23T00:00)
 - Detailed note: The health department labels these counts preliminary. Here's where it is spreading ABC30 Fresno
-- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Cyclosporiasis cases in Michigan surpass 2,600, health officials say. Here's where it is spreading](https://news.google.com/rss/articles/CBMiigpBVV95cUxOaURvYVlyZG9ETGlNMm1fTXFSUTNqTFN6QXRxd1VZYUw1ODRFOU43aVdrV1g0Z2N4NkF4T1JzYmlZT2dwd0RId05CQlJEeVJLZFZNV0lSR3dFM0hlSWpiOGN5c1ZfZVJvMjlFVDYtQjBGQlo5dkdNdjZySjRBM0Y2MlhvT01uUVBvazhBLVE2clk4c2FrVjVkLXQ4QmxxaXA3VzRPRERfejVLeTNITm9jYkxPQmFqRWdJYzRkRkU0c2wtUUp1Ujgyc0JvNXFOcThVUmNrYVVha1BWMldzT255Rk1yeGdqelBLUHRRdjdzR1c0UVlnY1JZZzBOSWhieFQ0bnFDUHpQNjZlV3QtRDVmOGo4VWhqU251dVRDMGZodms1NjRkLWwzbXVMV2U3WUdtWWxXX2t0VlpEVXNiRV8tMnVIOTFIMnlQbnlrOG44TEE5TnF5ejE2NU8wOVFlbGlkTFZUdEQyZlBKdmhZdjYzMWhGb3dzRGtBWFc5ODVKWFd3aXpzclhQQVF0MkJLRHN0OVZRVjBuY1loY2F6ZzRxeGxYX1pCa3lMZFh1cVh2am9zNlpMdE43eXhqREJySHdxTmJUd0FhVGNBaHZOdllIQVhmUml6bEtrN19HN2dxY0ZKVDU5WGxHOF9UTDV1czY0VEs5OGdEeXZNN0tCdm9CaU9RcDVfVHRQMENBRExyWDNrRnNtN19qdkstd0IyZ2Y5SWdJcFlwanVhbllfNndiV3QzbndUZHYyS2tfX0d2VXlFbHN6TjM4VFJfaUwtOGtuSi0wNU9JcTc3ZmdfMG01Tjk0ZWFVZXAxRklUYTRGSzhzQ1B6RDU2Tm1xRXp2WFk5OTIzQlRNaE5JN0RXYWR3S3NGQWcwVlhKUW15NHhSQ2JYMTlUWVg2YU94X3FyT2NqNjFrM0FkZmRBLWVJTGhRM09jRkVvcXlzZ0F4dmp3RFlsNnJRNkNzM1N3VEJqMFN4YmJJX0xYTk5zcWRhV2VxSGVWWUtGbkxxdkF4UEhETUZ4N0haay1qM25LYWo1bTdvOVg1cWh3b1NtWHQwaUhqSUlVd1FXQ01QMl9mMFhjTU8zS0RsV1hlYzdYODNIRGxOd2NYbGpubG1NeXl0Nm5qc2MwbDdES1IwVTZGT3FKQ1NqZi1tLUY0QUxtcDdnVGc2OHM2QjlRQ3U0dDZ3SGdSNF9DR3ptdjBLa3pmQXRFYWg1Vk84Zk0zQW1VeHg3TW1tcjhfTEF3X3I0UFdFbEt5a0Y2YnNfb1E0a1hLVHItX0pKMTBfVGptalVOc3pSdEdVZ2JKQ0tBYnNXWWswZTlBc1M1WEVNcU5QNGIzdmNEbG4yT3FFdkVUaHI3dW1fN0NDQUo0NFNWcEJVV2ltWXNfNG5vNjgxNXpsYmFtbTZaaXFRMG9NTE8tcWVvQ3I1VDItTGdVSnBCRG55SFVFaEFXYzZDZnU3SDc3bC1Xbk4zckhDY1V6SE5tWC1qZkVyLUtWbTBlY2JJTnhkTDNocmtBckVEeUFncExKWEFicmJfMHNXLWhJd1NUOC1WbUF5Sm9WN0UyZjJLa1QybjdRMTBPYWNwRzFuakFwMU9BaXc5amtrUHFDeHp4aHdKUFRCRjBILXpTZ1FRV3lDd1ROTFFha1Jzb3lyWkx2R1RpYWMxUXBGZlVVUTN6eWNvdUVaWF9VOWh5c1EyYjVNZTg4Q1V3Z0c3dG94bzJVWlE?oc=5) (ABC30 Fresno); [Michigan’s historic cyclospora outbreak may be a warning of what’s ahead](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWDhoRENwQ3piNnA3bHBiYjRaenBZVGJJVkNuZWNiUkpOLWVIcUhLOVpyVFp2aFpxT25tYS1yZklsVHljOXduNFlzRGdFcVVOQ3FCVTY1VlJFXzY4T2Y4dlVVdFlZMERYVS1fZWtuYlUtYVJxVFUyTVZUTUdUX0Uwck96MXZkQktTcGo5ajVOd2EyVWNrYk9qNGIzSUdqWFljWUxWdDJaeDdSbW82ajlXRnlCTm93cklHV0lhQVh3?oc=5) (mlive.com); [Federal health officials have investigated 5 different clusters of cyclosporiasis cases, FDA says](https://abc7news.com/story/federal-health-officials-have-investigated-5-different-clusters-cyclosporiasis-cases-fda-says/19546134/?userab\=kfsn_content_recs-582*variant_b_trending_kfsn-2513,kabc_content_recs-577*variant_a_control-2480,wls_content_recs-584*variant_a_control_wls-2516,wtvd_content_recs-585*variant_b_trending_wtvd-2519,ktrk_content_recs-587*variant_a_control_ktrk-2522,wpvi_content_recs-586*variant_b_trending_wpvi-2521,otv_web_content_rec-539*variant_c_trending-2268,otv_web_topic-580*variant_b_topic_redesign-2509,follow_abcnews_otv_on_google-654*variant_a_control-3493,otv_search_page_design_unification-546*variant_b_search_redesign-2300,vertical_video_web-519*control-2163,abcn_popular_reads_exp_followup-648*variant_b_popularityonly-3457,otv_mobile_web_content_recs-639*variant_a_control-3429,kgo_content_recs-583*variant_a_control_kgo-2514,otvlink_abcnnav-576*variant_b_local-2479\&userab\=kfsn_content_recs-582*variant_b_trending_kfsn-2513,kabc_content_recs-577*variant_a_control-2480,wls_content_recs-584*variant_b_trending_wls-2517,wtvd_content_recs-585*variant_a_control_wtvd-2518,ktrk_content_recs-587*variant_a_control_ktrk-2522,wpvi_content_recs-586*variant_a_control_wpvi-2520,otv_web_content_rec-539*variant_c_trending-2268,otv_web_topic-580*variant_b_topic_redesign-2509,follow_abcnews_otv_on_google-654*variant_c_share_plus_google_button-3496,otv_search_page_design_unification-546*variant_b_search_redesign-2300,otv_web_live-581*variant_a_live-2510,follow_otv_on_google-683*variant_a_control-3659,abcn_popular_reads_exp_followup-648*variant_a_control-3455,otv_mobile_web_content_recs-639*variant_b_mobile_content_recs_enabled-3431,kgo_content_recs-583*variant_b_trending_kgo-2515,otvlink_abcnnav-576*variant_c_localnews-3316) (ABC7 San Francisco); [Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnh5TDV0UkZKRExZYzBtOGtpekp1TXFLUjJFQ2ZRZUJoSjVIUWdWQ1BUX3BrVWRaeTJRYk1SNzdsSXBKa0hUSlpkUlpIazkyb2FmSmZOSXRtaGdiYTcxNmlHOF9oYW9TTnlRQndRWE9KWHJBaDFJcWY0cV9rZXNHYllpSWphem9qU1F4MG0tMjlQc25qZkFBYnlnb28zdVZjWVRFakcyT1kwSUVp0gGyAUFVX3lxTE82cXNXNDFNT3NOdExUUm85aVRrX05kUkhacDh6S0I4Tkk4djRGRU1MMTFYOGZKZ0h6R0h5a0FoX0xXYWN3NXhHNktSM3RBenNRMWhsTTg2cVFMYWxyYnQ0NFVmd1NyNFlPTV9WVi1TcEVqUElwVWljMGdFUFRJSGZubEhoa3VRRk9tUG51ZjgyWVp1RXdwejJxN251ODh1SWtaVDF4MnplNnhoUXFMNjdxUXc?oc=5) (ABC News - Breaking News, Latest News and Videos)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Occupational and environmental epidemiology
-- Topic size: 5 item(s) across 5 source(s); 2 official/primary-source item(s).
-- Lead item: [Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766545) (CDC MMWR, 2026-09-29T17:00+00:00)
-- Detailed note: Method: Following forward-backward translation and expert panel review, 304 French-speaking women (18-70 years) were recruited, including 225 community participants and 79 women receiving hospital-based psychiatric care for documented intimate partner violence and trauma-related difficulties. ROC analyses indicated acceptable discriminatory accuracy (AUC ≈ .78) and supported an empirically derived cutoff score (>...
-- Evidence notes: [Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766545) (CDC MMWR); [Assessing coercive control in intimate partner relationships: psychometric validation and clinical thresholds of a French version of the Coercive Control Screening Scale (CCSS-F).](https://pubmed.ncbi.nlm.nih.gov/42804604/) (PubMed Infectious Disease Search); [Doctors Without Borders to evacuate worker who has contracted Ebola](https://www.yahoo.com/news/world/articles/doctors-without-borders-evacuate-worker-140338546.html) (Yahoo); [Source of South Bronx Legionnaires' disease cluster has been eliminated, health officials say](https://www.cbsnews.com/newyork/news/south-bronx-legionnaires-disease-cluster-source-eliminated/) (CBS News); [Congo Ebola outbreak tops 8,000 cases as health worker shortages worsen](https://www.nbcnews.com/world/africa/ebola-congo-outbreak-record-cases-health-worker-shortages-worsens-rcna600244) (NBC News)
+- Evidence notes: [Toledo-Lucas County Health Department Cyclosporiasis Update](https://lucascountyhealth.com/cyclo/) (Toledo-Lucas County Health Department Cyclosporiasis Update); [Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id\=134846473) (ABC News - Breaking News, Latest News and Videos); [Cyclosporiasis cases in Michigan surpass 2,600, health officials say. Here's where it is spreading](https://news.google.com/rss/articles/CBMiigpBVV95cUxOaURvYVlyZG9ETGlNMm1fTXFSUTNqTFN6QXRxd1VZYUw1ODRFOU43aVdrV1g0Z2N4NkF4T1JzYmlZT2dwd0RId05CQlJEeVJLZFZNV0lSR3dFM0hlSWpiOGN5c1ZfZVJvMjlFVDYtQjBGQlo5dkdNdjZySjRBM0Y2MlhvT01uUVBvazhBLVE2clk4c2FrVjVkLXQ4QmxxaXA3VzRPRERfejVLeTNITm9jYkxPQmFqRWdJYzRkRkU0c2wtUUp1Ujgyc0JvNXFOcThVUmNrYVVha1BWMldzT255Rk1yeGdqelBLUHRRdjdzR1c0UVlnY1JZZzBOSWhieFQ0bnFDUHpQNjZlV3QtRDVmOGo4VWhqU251dVRDMGZodms1NjRkLWwzbXVMV2U3WUdtWWxXX2t0VlpEVXNiRV8tMnVIOTFIMnlQbnlrOG44TEE5TnF5ejE2NU8wOVFlbGlkTFZUdEQyZlBKdmhZdjYzMWhGb3dzRGtBWFc5ODVKWFd3aXpzclhQQVF0MkJLRHN0OVZRVjBuY1loY2F6ZzRxeGxYX1pCa3lMZFh1cVh2am9zNlpMdE43eXhqREJySHdxTmJUd0FhVGNBaHZOdllIQVhmUml6bEtrN19HN2dxY0ZKVDU5WGxHOF9UTDV1czY0VEs5OGdEeXZNN0tCdm9CaU9RcDVfVHRQMENBRExyWDNrRnNtN19qdkstd0IyZ2Y5SWdJcFlwanVhbllfNndiV3QzbndUZHYyS2tfX0d2VXlFbHN6TjM4VFJfaUwtOGtuSi0wNU9JcTc3ZmdfMG01Tjk0ZWFVZXAxRklUYTRGSzhzQ1B6RDU2Tm1xRXp2WFk5OTIzQlRNaE5JN0RXYWR3S3NGQWcwVlhKUW15NHhSQ2JYMTlUWVg2YU94X3FyT2NqNjFrM0FkZmRBLWVJTGhRM09jRkVvcXlzZ0F4dmp3RFlsNnJRNkNzM1N3VEJqMFN4YmJJX0xYTk5zcWRhV2VxSGVWWUtGbkxxdkF4UEhETUZ4N0haay1qM25LYWo1bTdvOVg1cWh3b1NtWHQwaUhqSUlVd1FXQ01QMl9mMFhjTU8zS0RsV1hlYzdYODNIRGxOd2NYbGpubG1NeXl0Nm5qc2MwbDdES1IwVTZGT3FKQ1NqZi1tLUY0QUxtcDdnVGc2OHM2QjlRQ3U0dDZ3SGdSNF9DR3ptdjBLa3pmQXRFYWg1Vk84Zk0zQW1VeHg3TW1tcjhfTEF3X3I0UFdFbEt5a0Y2YnNfb1E0a1hLVHItX0pKMTBfVGptalVOc3pSdEdVZ2JKQ0tBYnNXWWswZTlBc1M1WEVNcU5QNGIzdmNEbG4yT3FFdkVUaHI3dW1fN0NDQUo0NFNWcEJVV2ltWXNfNG5vNjgxNXpsYmFtbTZaaXFRMG9NTE8tcWVvQ3I1VDItTGdVSnBCRG55SFVFaEFXYzZDZnU3SDc3bC1Xbk4zckhDY1V6SE5tWC1qZkVyLUtWbTBlY2JJTnhkTDNocmtBckVEeUFncExKWEFicmJfMHNXLWhJd1NUOC1WbUF5Sm9WN0UyZjJLa1QybjdRMTBPYWNwRzFuakFwMU9BaXc5amtrUHFDeHp4aHdKUFRCRjBILXpTZ1FRV3lDd1ROTFFha1Jzb3lyWkx2R1RpYWMxUXBGZlVVUTN6eWNvdUVaWF9VOWh5c1EyYjVNZTg4Q1V3Z0c3dG94bzJVWlE?oc=5) (ABC30 Fresno); [Michigan’s historic cyclospora outbreak may be a warning of what’s ahead](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWDhoRENwQ3piNnA3bHBiYjRaenBZVGJJVkNuZWNiUkpOLWVIcUhLOVpyVFp2aFpxT25tYS1yZklsVHljOXduNFlzRGdFcVVOQ3FCVTY1VlJFXzY4T2Y4dlVVdFlZMERYVS1fZWtuYlUtYVJxVFUyTVZUTUdUX0Uwck96MXZkQktTcGo5ajVOd2EyVWNrYk9qNGIzSUdqWFljWUxWdDJaeDdSbW82ajlXRnlCTm93cklHV0lhQVh3?oc=5) (MLive.com); [First cyclospora deaths reported in Michigan; Medicare Advantage provider to pay $14.1M over false diagnosis codes; five insurers cover half of Medicaid's children — Morning Medical Update](https://www.medicaleconomics.com/view/first-cyclospora-deaths-reported-in-michigan-medicare-advantage-provider-to-pay-14-1m-over-false-diagnosis-codes-five-insurers-cover-half-of-medicaid-s-children-morning-medical-update) (Medical Economics)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Avian influenza and H5N1
-- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
+- Topic size: 5 item(s) across 5 source(s); 1 official/primary-source item(s).
 - Lead item: [Unannounced Drills Using Patient Actors to Evaluate Health Care Facility Readiness for Infectious Disease Outbreaks - New Jersey, New York, and U.S. Virgin Islands, January-June 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766555) (CDC MMWR, 2026-10-01T17:00+00:00)
 - Detailed note: Zabar, MD 4 ; Jeffrey Wilhite, PhD 4 ; Lisa Altshuler, PhD 4 ; Jory Guttsman, MPA 3 ; John Kulin, DO 5 ; Samantha Burke 5 ; Laura Hillard, MA 3 ; Laura Alves, MHA 3 ; Tracey Capers 3 ; Kathleen Hanley 4 ; Colleen C. Gillespie 4 ; Vikramjit Mukherjee, MD 3 ,4 ( View author affiliations ) Unannounced drills using patient actors (mystery patients) have been used to evaluate health care facility management of...
-- Evidence notes: [Unannounced Drills Using Patient Actors to Evaluate Health Care Facility Readiness for Infectious Disease Outbreaks - New Jersey, New York, and U.S. Virgin Islands, January-June 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766555) (CDC MMWR); [Cambodia reports 6th H5N1 avian influenza case, the latest from Oddar Meanchey Province](https://outbreaknewstoday.substack.com/p/cambodia-reports-6th-h5n1-avian-influenza) (Outbreak News Today); [Guyana on alert for bird flu, amid outbreak in Suriname](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2FXRDJhSHlLVmVCUWcyNnMxb2g4WERMYXlMYW9RNGVoRkRFR0FwclJHUGdXbkctSjR1LU9xTDVueWU3X0x0dDZNQ3J2TXd3Zkx1LW96N3hlckxicDVVaVdlMXBfX0ZVRGZWRXVsOWJDY3lpdVZKZzA2ZmstcUx3RHkwVWtGaTM0M2JHOFhBM1hCQl9sLXJV?oc=5) (Demerara Waves Online News- Guyana); [Veterinary Experts Condemn Dangerously Lax Response to H5N1 Outbreak at Utah Mink Farm](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOTY4NjNuUkwyZXkzbXctTDFHdjQ0eTcxVVpaeUhTcnlkdGNobFpJbGphMUNjRk9JWktBUEc2QVpsbUxsNmxHWExtVUlHMHljVDNwUzZ3UGxzeHBxSEpyTEd1TjlVa3o5S1FtNFo5WXd4Z3IwSmZXa2hKYjVpMkFIWm9EcUJhdC04bVVOSQ?oc=5) (Center For A Humane Economy)
+- Evidence notes: [Unannounced Drills Using Patient Actors to Evaluate Health Care Facility Readiness for Infectious Disease Outbreaks - New Jersey, New York, and U.S. Virgin Islands, January-June 2026](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766555) (CDC MMWR); [Avian Flu H5N1 Case in Cambodia](https://globalriskatlas.com/en/avian-flu-h5n1-case-in-cambodia/) (globalriskatlas.com); [Guyana on alert for bird flu, amid outbreak in Suriname](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2FXRDJhSHlLVmVCUWcyNnMxb2g4WERMYXlMYW9RNGVoRkRFR0FwclJHUGdXbkctSjR1LU9xTDVueWU3X0x0dDZNQ3J2TXd3Zkx1LW96N3hlckxicDVVaVdlMXBfX0ZVRGZWRXVsOWJDY3lpdVZKZzA2ZmstcUx3RHkwVWtGaTM0M2JHOFhBM1hCQl9sLXJV?oc=5) (Demerara Waves Online News- Guyana); [Veterinary Experts Condemn Dangerously Lax Response to H5N1 Outbreak at Utah Mink Farm](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOTY4NjNuUkwyZXkzbXctTDFHdjQ0eTcxVVpaeUhTcnlkdGNobFpJbGphMUNjRk9JWktBUEc2QVpsbUxsNmxHWExtVUlHMHljVDNwUzZ3UGxzeHBxSEpyTEd1TjlVa3o5S1FtNFo5WXd4Z3IwSmZXa2hKYjVpMkFIWm9EcUJhdC04bVVOSQ?oc=5) (Center For A Humane Economy); [Cambodia reports 6th H5N1 avian influenza case, the latest from Oddar Meanchey Province](https://outbreaknewstoday.substack.com/p/cambodia-reports-6th-h5n1-avian-influenza) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Occupational and environmental epidemiology
+- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
+- Lead item: [Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766545) (CDC MMWR, 2026-09-29T17:00+00:00)
+- Detailed note: Cluster remains active across 4 related item(s), but usable factual summary text was limited after cleanup.
+- Evidence notes: [Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766545) (CDC MMWR); [Doctors Without Borders to evacuate worker who has contracted Ebola](https://www.yahoo.com/news/world/articles/doctors-without-borders-evacuate-worker-140338546.html) (Yahoo); [Source of South Bronx Legionnaires' disease cluster has been eliminated, health officials say](https://www.cbsnews.com/newyork/news/south-bronx-legionnaires-disease-cluster-source-eliminated/) (CBS News); [Congo Ebola outbreak tops 8,000 cases as health worker shortages worsen](https://www.nbcnews.com/world/africa/ebola-congo-outbreak-record-cases-health-worker-shortages-worsens-rcna600244) (NBC News)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 
@@ -366,12 +367,32 @@ Search window: 7 day(s) ending 2026-10-01
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### Antimicrobial Resistance in Somalia: Policy Without Implementation in a Fragile Health System.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-10-01T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42822003/
+- Category: Major epidemiology studies
+- Summary: While the world focuses on immediate crises, an estimated 8,400 deaths annually are directly attributed to AMR, with another 32,700 linked to AMR complications. These numbers place Somalia among the top 10 countries globally for AMR-related mortality, surpassing deaths from maternal disease, cardiovascular conditions, and infectious disease combined. We identify critical barriers: absent laboratory surveillance systems, inadequate infection prevention and control, lack of Water, Sanitation, and Hygiene (WASH) infrastructure, and missing community engagement strategies.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### A Genetic Risk Variant Associated With the Risk of Primary Biliary Cholangitis Is Inherited From Neanderthals.
 - Source: PubMed Ancient Pathogen Genomics
 - Date: 2026-10-01T00:00
 - URL: https://pubmed.ncbi.nlm.nih.gov/42773620/
 - Category: Historical epidemiology / ancient disease / paleopathology
 - Summary: Temporal analysis of the haplotype carrying rs12531711 revealed frequency increased substantially during the Bronze Age (5000-3000 BP), rising from 2.0% to 7.7% in Europe and 3.4% to 17.4% in Asia, before stabilizing. Genotype data from four PBC cohorts were analysed: CANUK (4615 cases, 9233 controls), OLD IT (444 cases, 901 controls), NEW IT (255 cases, 579 controls) and MAYO (891 cases, 621 controls). showed strong association in CANUK (p = 2.04 × 10 -26 ) and replicated across all validation cohorts.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### [From sanatorium to lung centre: 80 years of tuberculosis history in Germany as reflected by the Lungenklinik Heckeshorn].
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-09-30T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42815547/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: This article uses the 80th anniversary of the Lungenklinik Heckeshorn in 2027 to trace central trajectories of tuberculosis history in Germany from the sanatorium movement to modern specialised care. The site also illustrates the security-policy dimension of hospital history: the high-rise bunker at Heckeshorn was converted into an emergency hospital during the Cold War, linking medicine, civil defence and political context. Its history, however, is not over: in a low-incidence country, tuberculosis has become less frequent but diagnostically and therapeutically more demanding.
 - Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -386,16 +407,6 @@ Search window: 7 day(s) ending 2026-10-01
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### The Kush Drug Epidemic in Sierra Leone: Public Health Implications, Socioeconomic Drivers and Health System Responses.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-09-29T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42812835/
-- Category: Major epidemiology studies
-- Summary: A narrative review was conducted using structured searches of PubMed/MEDLINE, Scopus, Web of Science and Google Scholar (2016-2025). Addressing it requires integrated, evidence-informed strategies that strengthen health systems, expand community-based interventions, improve toxicological surveillance and enhance regional coordination under ECOWAS frameworks. Responses since 2024 have intensified but remain disproportionately focused on law enforcement, whereas prevention, treatment and workforce development remain critically under-resourced.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Ebola disease outbreak in the Democratic Republic of the Congo
 - Source: ECDC News
 - Date: 2026-09-28T17:36+02:00
@@ -404,16 +415,6 @@ Search window: 7 day(s) ending 2026-10-01
 - Summary: Limited usable detail remained after boilerplate cleanup.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
-### Assessing coercive control in intimate partner relationships: psychometric validation and clinical thresholds of a French version of the Coercive Control Screening Scale (CCSS-F).
-- Source: PubMed Infectious Disease Search
-- Date: 2026-09-28T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42804604/
-- Category: Major epidemiology studies
-- Summary: Method: Following forward-backward translation and expert panel review, 304 French-speaking women (18-70 years) were recruited, including 225 community participants and 79 women receiving hospital-based psychiatric care for documented intimate partner violence and trauma-related difficulties. ROC analyses indicated acceptable discriminatory accuracy (AUC ≈ .78) and supported an empirically derived cutoff score (> 34), representing the first internationally proposed screening threshold for the CCSS. Sustained exposure to intimidation, isolation, surveillance, and credible threat has been linked to post-traumatic stress disorder (PTSD), complex PTSD (CPTSD), and depressive symptomatology.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
 ### BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)
@@ -448,7 +449,9 @@ Search window: 7 day(s) ending 2026-10-01
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
-- [Patient being evaluated for suspected case of Ebola, Montreal hospital says](https://www.cp24.com/news/canada/2026/10/01/patient-being-evaluated-for-suspected-case-of-ebola-montreal-hospital-says/) | CP24 | 2026-10-01T21:35+00:00 | Outbreaks and emerging infections
+- [Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id\=134846473) | ABC News - Breaking News, Latest News and Videos | 2026-10-01T23:23+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Suspected Ebola case at Montreal hospital turns out to be a false alarm](https://www.cbc.ca/news/canada/montreal/montreal-hospital-ebola-9.7366256) | CBC | 2026-10-01T23:05+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy](https://www.cidrap.umn.edu/vaccine-policy-update/long-covid-disputing-measles-deaths-and-newborns-without-rsv-protection-state) | CIDRAP | 2026-10-01T21:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -456,52 +459,52 @@ Search window: 7 day(s) ending 2026-10-01
   Limited detail was available from feed metadata alone.
 - [Ebola in DRC: Two confirmed cases in Sud-Ubangi amid doctors’ strike](https://beninwebtv.bj/en/ebola-in-drc-two-confirmed-cases-in-sud-ubangi-amid-doctors-strike/) | Benin Web TV | 2026-10-01T19:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Doctors Without Borders to evacuate worker who has contracted Ebola](https://www.yahoo.com/news/world/articles/doctors-without-borders-evacuate-worker-140338546.html) | Yahoo | 2026-10-01T14:03+00:00 | Outbreaks and emerging infections
+- [MSF staff member tests positive for Ebola in Congo, aid organisation says](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVl9GR3lNU1BlX0tIQlBhcExURDMzWHF2c29Ca2s2WnRNcmRESU13ekg0Yk5PRWhuemZjV2NvZW5EU25DSVBtMlNObGZXMUN3RnJfcUdPZlVMRW1LWFJCXzBZLVBJUEM2WjVpVTg5eGF4V0dXbHR1ZFJtWWtXVG9WLS1BdG1wVzVNZDloUlBGSFdta0UySm9odkZ3c05tNnJMcFRqV2xXRWdQbUVLRVNJdFE1T3B0NWVCR3pSYm5ISGdSRlpmdTJWQ0FEZGREYzJ3eHJzWGFteHNBWkc2cEE?oc=5) | reuters.com | 2026-10-01T14:12+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [MSF staff member tests positive for Ebola in Congo, aid organization says](https://www.arabnews.com/world/msf-staff-member-tests-positive-for-ebola-in-congo-aid-organization-says-3004083) | Arab News | 2026-10-01T13:34+00:00 | Outbreaks and emerging infections
+- [Doctors Without Borders to evacuate worker who has contracted Ebola](https://www.yahoo.com/news/world/articles/doctors-without-borders-evacuate-worker-140338546.html) | Yahoo | 2026-10-01T14:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola response faces setback as transit centre burns down in DR Congo camp](https://news.un.org/en/story/2026/10/1168499) | UN News | 2026-10-01T12:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Medecins Sans Frontieres staff member tests positive for Ebola in Congo, MSF says](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3hIVTkzbjZtU0pLanQ1cy1ZbEhTSUtPbVlpb0ZzUURUNFJTcENmekxHNlNTaU1BU3lSZDNkX2V6b0sya29sMzFRTHJaTUlQVmcwdkJFWUgzcWdtOUl2a2FyZm81N0NBd2pJc2F2NDNDYXN3RkRNUXZ0REFjSEdxcXVEZUc?oc=5) | Yahoo News Singapore | 2026-10-01T11:44+00:00 | Outbreaks and emerging infections
+- [What will it take to end the Ebola disease outbreak in Democratic Republic of Congo?](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHBOSjdDV3pxY2lPNURucGNEQk1PZENiQ3hOSzF1ZGNHVExSZ05jQThMby1VLTFEb1cza0E1ZjlPNmJwaG01M0ZObVZLQmZjdUJfSTdyMFJad2VxRldXRTNYOFlPZDVjR21iSHRFcDBuR1R5MUpERE1qNmFQdThuZXVNXzRzdENHUC14VEw5ZkRLQXN6NDFqeTFzdGZwa01hRHRBQXAxZ3FaX2hKZTg0?oc=5) | africa.com | 2026-10-01T09:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [What will it take to end the Ebola disease outbreak in Democratic Republic of Congo?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVzQyWW9WbFpsN2F4Y2NSTTBXNEw3QnVUdnliZHNEbEpTQ1E5UlloUkk3aExDVGZJMUM2d0tUN2k0bzE2TXBqT004OHgtdGd1Sm1QR3ZnSkptWExBcm9LaURiZHhPbWg2ektnMGhueERHWnZjUWhvckNIcGZuWlBqZkZ0aUx1VG9ySHZ2OUk0V0dFSlRiVDJMYzBqZTcyekdvZDFXNS10UTczZw?oc=5) | Africa.com | 2026-10-01T09:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
+- [Dengue outbreak in Bangladesh could worsen after deadly September](https://www.straitstimes.com/asia/south-asia/dengue-outbreak-in-bangladesh-could-worsen-after-deadly-september) | The Straits Times | 2026-10-01T09:20+00:00 | Outbreaks and emerging infections
+  Experts warn that recent rainfall and changing weather patterns prolong mosquito activity, increasing dengue spread nationwide beyond major cities, with 245 deaths and nearly 80,000 hospitalisations since January. DHAKA – Bangladesh enters October facing a worsening dengue outbreak after its deadliest month in 2026 , as experts warned that weather conditions could fuel further spread, piling pressure on hospitals already fighting the world’s worst measles outbreak . Sign up now: Get insights on Asia's fast-moving developments The resurgence of dengue is straining Bangladeshi hospitals already battling the world’s worst measles outbreak.
 - [Pennsylvania reports 5th measles-associated death as outbreak continues](https://www.washingtonpost.com/health/2026/09/30/pennsylvania-reports-5th-measles-associated-death-outbreak-continues/) | The Washington Post | 2026-10-01T04:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Source of South Bronx Legionnaires' disease cluster has been eliminated, health officials say](https://www.cbsnews.com/newyork/news/south-bronx-legionnaires-disease-cluster-source-eliminated/) | CBS News | 2026-09-30T21:59+00:00 | Occupational and environmental epidemiology
   Limited detail was available from feed metadata alone.
-- [Pennsylvania reports 5th measles-related death in the state](https://www.nbcnews.com/health/health-news/pennsylvania-measles-death-5th-outbreak-state-cdc-2026-rcna600766) | NBC News | 2026-09-30T20:34+00:00 | Outbreaks and emerging infections
+- [Pennsylvania reports fifth measles-related death of the year amid outbreak](https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death) | The Guardian | 2026-09-30T20:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [5th measles-associated death reported in Pennsylvania, health officials say](https://www.cbsnews.com/philadelphia/news/measles-lancaster-pennsylvania-death/) | CBS News | 2026-09-30T19:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Georgia measles cases hit 21 in 2026, with 5 new cases connected to Jasper County family](https://www.cbsnews.com/atlanta/news/georgia-measles-cases-hit-21-in-2026-with-5-new-cases-connected-to-jasper-county-family/) | CBS News | 2026-09-30T18:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Scaling up to stay ahead of the Ebola outbreak - WHO | Regional Office for Africa](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGxpYU1kaWdMZlAzZ2JuSHVub0NsWlA2V2RGVVBPa2dxWXZnU0dpU0Q4eUgyVHBSeW05NnNLUkRCRlJ2N1VlanpkQndCU1hRdWRMOXlrSklIazc4ZWR5Nm1zZjItZVBRUlo5V0NBLS03aWg5dThlZmhtS0hUTlo3R1djRExhRFVDdll2aUJyRFFBWDRoSGwyLVBSbnk4LUJIVXdXeA?oc=5) | WHO | 2026-09-30T10:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [Antimicrobial Resistance in Somalia: Policy Without Implementation in a Fragile Health System.](https://pubmed.ncbi.nlm.nih.gov/42822003/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/23288604.2026.2712053
+  Journal/preprint server: Health systems and reform
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42822003/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42822003/
 - [A Genetic Risk Variant Associated With the Risk of Primary Biliary Cholangitis Is Inherited From Neanderthals.](https://pubmed.ncbi.nlm.nih.gov/42773620/)
   Source: PubMed Ancient Pathogen Genomics
   DOI: 10.1111/liv.70868
   Journal/preprint server: Liver international : official journal of the International Association for the Study of the Liver
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42773620/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42773620/
-- [The Kush Drug Epidemic in Sierra Leone: Public Health Implications, Socioeconomic Drivers and Health System Responses.](https://pubmed.ncbi.nlm.nih.gov/42812835/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1002/puh2.70388
-  Journal/preprint server: Public health challenges
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42812835/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42812835/
-- [Assessing coercive control in intimate partner relationships: psychometric validation and clinical thresholds of a French version of the Coercive Control Screening Scale (CCSS-F).](https://pubmed.ncbi.nlm.nih.gov/42804604/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1080/20008066.2026.2694186
-  Journal/preprint server: European journal of psychotraumatology
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42804604/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42804604/
+- [[From sanatorium to lung centre: 80 years of tuberculosis history in Germany as reflected by the Lungenklinik Heckeshorn].](https://pubmed.ncbi.nlm.nih.gov/42815547/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1055/a-2849-0253
+  Journal/preprint server: Pneumologie (Stuttgart, Germany)
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42815547/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42815547/
 
 ## Historical epi / weird epi corner
 - [A Genetic Risk Variant Associated With the Risk of Primary Biliary Cholangitis Is Inherited From Neanderthals.](https://pubmed.ncbi.nlm.nih.gov/42773620/) | PubMed Ancient Pathogen Genomics
   Temporal analysis of the haplotype carrying rs12531711 revealed frequency increased substantially during the Bronze Age (5000-3000 BP), rising from 2.0% to 7.7% in Europe and 3.4% to 17.4% in Asia, before stabilizing. Genotype data from four PBC cohorts were analysed: CANUK (4615 cases, 9233 controls), OLD IT (444 cases, 901 controls), NEW IT (255 cases, 579 controls) and MAYO (891 cases, 621 controls). showed strong association in CANUK (p = 2.04 × 10 -26 ) and replicated across all validation cohorts.
+- [[From sanatorium to lung centre: 80 years of tuberculosis history in Germany as reflected by the Lungenklinik Heckeshorn].](https://pubmed.ncbi.nlm.nih.gov/42815547/) | PubMed Historical Pathogen Case Studies
+  This article uses the 80th anniversary of the Lungenklinik Heckeshorn in 2027 to trace central trajectories of tuberculosis history in Germany from the sanatorium movement to modern specialised care. The site also illustrates the security-policy dimension of hospital history: the high-rise bunker at Heckeshorn was converted into an emergency hospital during the Cold War, linking medicine, civil defence and political context. Its history, however, is not over: in a low-incidence country, tuberculosis has become less frequent but diagnostically and therapeutically more demanding.
 - [BVD Safe and Dignified Burials (SDB) Community Perceptions in the Democratic Republic of the Congo (DRC)](https://www.afro.who.int/publications/bvd-safe-and-dignified-burials-sdb-community-perceptions-democratic-republic-congo-drc) | WHO Regional Office for Africa
   Drawing on community feedback, perception surveys, qualitative assessments and social listening data collected between 23 July and 10 September 2026 , the analysis found that resistance to SDB is not simply about the burial protocol itself. While 80–88% of respondents indicated they would accept a trained SDB team in personal protective equipment (PPE) , concerns remain around operational delays, family involvement, physical contact with the deceased, financial grievances and highly securitised approaches. These insights reinforce the importance of listening to communities, addressing operational barriers, and ensuring families and trusted local actors have a meaningful role in the burial process .
 
