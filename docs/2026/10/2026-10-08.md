@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-10-08
-Generated at: 2026-10-08T17:20
+Generated at: 2026-10-08T23:42
 Search window: 7 day(s) ending 2026-10-08
 
 ## Executive scan
@@ -12,27 +12,27 @@ Search window: 7 day(s) ending 2026-10-08
 - [EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance](https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial) (ECDC News; 2026-10-05T13:04+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News; 2026-10-01T17:26+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa; 2026-10-01T13:01+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (230), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (3)
+- Category mix: Outbreaks and emerging infections (224), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (3)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 68 item(s) across 52 source(s).
+- Newly tracked story cluster: 72 item(s) across 54 source(s).
 - Monitoring: EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - Anadolu Ajansı now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
 - Lead item: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News)
-- Newly tracked story cluster: 53 item(s) across 42 source(s).
+- Newly tracked story cluster: 52 item(s) across 42 source(s).
 - Monitoring: Chikungunya virus disease worldwide overview
 - ECDC News now includes evacuation reporting.
 - ECDC News currently frames broader public risk as low.
 
 ### Measles transmission and vaccination
 - Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 119 item(s) across 95 source(s).
+- Newly tracked story cluster: 107 item(s) across 86 source(s).
 - Monitoring: Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin
 - WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 
@@ -51,23 +51,23 @@ Search window: 7 day(s) ending 2026-10-08
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 119 item(s) across 95 source(s); 2 official/primary-source item(s).
+- Topic size: 107 item(s) across 86 source(s); 2 official/primary-source item(s).
 - Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa, 2026-10-01T13:01+00:00)
 - Detailed note: As of 30 June, national coverage for the third dose of the pentavalent vaccine reached 92%, while HPV vaccination coverage reached 80%. EPI Bulletin Q1-Q2 2026.pdf (2.68 MB) Related Health Topics Immunization The bulletin also examines remaining gaps, particularly in second-dose measles-rubella vaccination and coverage across provinces and districts. Learn more about the Sunset process and provide feedback.
-- Evidence notes: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [C.D.C. Offers States $100 Million in Measles Support as Cases Climb](https://www.nytimes.com/2026/10/08/well/measles-pennsylvania-new-york-cdc.html) (The New York Times); [Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2F6U28tR1JiWktqUTZBRnpGRkJKdEt6cEpxMHJwZG9acDF3bkNkeThlUVBINzZEYm9Bbm1iUGpiUXVhLXU5OUotNVFWVUN0Y3IxNnpHUnh5bGlUazlqeEtKNXI5Y19IenhDTHFLYTBfSHZVbWFmQ1NMYTNmSlVERVJ5VHZtY2xaRmRyR0RXZ3VSb1hrdndNMGtFX1hEVERTZ2pYT204UFVTd00?oc=5) (WSJ); [Pittsburgh-area health experts sound the alarm on measles outbreak](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmJqTzhqc3VfQU1wQzNYTXQwWTktWE85Q1BETWJzeEtUVmFUektmTmlfVkhfZnpoT2o5X0dacWVGc2RxdVlfZ28wTlZicjFKUW8yUU1jdjYtV0JpTF9UWjFOd2IyY0tDdlBCaEFPNjVxU3dnUm12UU9CeGpvM25PaUF2dDQySFl0SVdpSnUyQ0pGMFZGQTBuQWhvX1VzODBOc3NoaXhNSDFKQVMx?oc=5) (CBS News)
+- Evidence notes: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [C.D.C. Offers States $100 Million in Measles Support as Cases Climb](https://www.nytimes.com/2026/10/08/well/measles-pennsylvania-new-york-cdc.html) (The New York Times); [Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/health-officials-report-74-new-measles-cases-pennsylvania/story?id\=137091205) (ABC News - Breaking News, Latest News and Videos); [Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2F6U28tR1JiWktqUTZBRnpGRkJKdEt6cEpxMHJwZG9acDF3bkNkeThlUVBINzZEYm9Bbm1iUGpiUXVhLXU5OUotNVFWVUN0Y3IxNnpHUnh5bGlUazlqeEtKNXI5Y19IenhDTHFLYTBfSHZVbWFmQ1NMYTNmSlVERVJ5VHZtY2xaRmRyR0RXZ3VSb1hrdndNMGtFX1hEVERTZ2pYT204UFVTd00?oc=5) (WSJ)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 68 item(s) across 52 source(s); 2 official/primary-source item(s).
+- Topic size: 72 item(s) across 54 source(s); 2 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa, 2026-10-08T09:51+00:00)
 - Detailed note: In the last week ending 4 October 2026, a further 487 confirmed cases and 224 confirmed deaths were reported, increasing the cumulative total to 8603 confirmed cases, including 4148 deaths [crude case fatality ratio (CFR): 48.2%]. Ituri remains the principal focus, although its relative contribution continues to decline, accounting for 75.0% of cumulative confirmed cases, while substantial transmission continues...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Kenyan patient suspected of Ebola infection tests negative](https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative) (Al Jazeera); [Kenya Ebola outbreak: “We are exercising vigilance at the airport” — Deputy Health Minister](https://www.modernghana.com/videonews/joynews/2/731569) (Modern Ghana); [New Ebola vaccine enters clinical trials in Africa as DR Congo battles outbreak](https://aa.com.tr/en/africa/new-ebola-vaccine-enters-clinical-trials-in-africa-as-dr-congo-battles-outbreak/4082670) (Anadolu Ajansı)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Kenyan patient suspected of Ebola infection tests negative](https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative) (Al Jazeera); [Kenya Ebola outbreak: “We are exercising vigilance at the airport” — Deputy Health Minister](https://www.modernghana.com/videonews/joynews/2/731569) (Modern Ghana); [Ebola Outbreak: DRC Records 8,665 Cases, 4,178 Deaths as Kenya Reports Imported Case](https://freedomonline.com.ng/ebola-outbreak-drc-records-8665-cases-4178-deaths-as-kenya-reports-imported-case/) (Freedom Online)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 53 item(s) across 42 source(s); 5 official/primary-source item(s).
+- Topic size: 52 item(s) across 42 source(s); 5 official/primary-source item(s).
 - Lead item: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News, 2026-10-05T16:05+02:00)
 - Detailed note: A healthcare worker from Europe based in the DRC who tested positive for Bundibugyo virus on 29 September has been medically evacuated to receive specialised care. To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR)...
 - Evidence notes: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance](https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial) (ECDC News); [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News); [Dengue worldwide overview](https://www.ecdc.europa.eu/en/dengue-monthly) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
@@ -448,16 +448,20 @@ Search window: 7 day(s) ending 2026-10-08
   Limited detail was available from feed metadata alone.
 - [C.D.C. Offers States $100 Million in Measles Support as Cases Climb](https://www.nytimes.com/2026/10/08/well/measles-pennsylvania-new-york-cdc.html) | The New York Times | 2026-10-08T19:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [New Ebola vaccine enters clinical trials in Africa as DR Congo battles outbreak](https://aa.com.tr/en/africa/new-ebola-vaccine-enters-clinical-trials-in-africa-as-dr-congo-battles-outbreak/4082670) | Anadolu Ajansı | 2026-10-08T17:37+00:00 | Outbreaks and emerging infections
+- [Ebola Outbreak: DRC Records 8,665 Cases, 4,178 Deaths as Kenya Reports Imported Case](https://freedomonline.com.ng/ebola-outbreak-drc-records-8665-cases-4178-deaths-as-kenya-reports-imported-case/) | Freedom Online | 2026-10-08T18:22+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [New Ebola vaccine enters clinical trials in Africa as DR Congo battles outbreak](https://www.aa.com.tr/en/africa/new-ebola-vaccine-enters-clinical-trials-in-africa-as-dr-congo-battles-outbreak/4082670) | Anadolu Ajansı | 2026-10-08T17:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [In the shadow of Ebola: Scenes from the outbreak's frontlines](https://www.reuters.com/pictures/shadow-ebola-scenes-outbreaks-frontlines-2026-10-08/) | Reuters | 2026-10-08T16:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak: DRC Records 8,665 Cases, 4,178 Deaths as Kenya Reports Imported Case](https://freedomonline.com.ng/ebola-outbreak-drc-records-8665-cases-4178-deaths-as-kenya-reports-imported-case/) | Freedom Online | 2026-10-08T15:14+00:00 | Outbreaks and emerging infections
+- [Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/health-officials-report-74-new-measles-cases-pennsylvania/story?id\=137091205) | ABC News - Breaking News, Latest News and Videos | 2026-10-08T15:44+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola Surge: DRC reports 4,178 deaths; Kenya confirms first fatal case](https://pmnewsnigeria.com/2026/10/08/ebola-surge-drc-reports-4178-deaths-kenya-confirms-first-fatal-case/) | PM News Nigeria | 2026-10-08T12:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Why are dengue cases surging in Florida this year? An 'unlucky' combination of factors, experts say](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTDZWOVg3elBiU0t5OVZ3dTI4UWU3VV9yN2oxMFpZS3dtazd1VUVxTjVPZ1RObEVRSkxEQ2FDcWFVZ0NfREJzaU5mRGtqa3ItdnBldzVzQUpGZTNSOUtERURPajE5QjhpMk1tMjVrSUFGb0xvN0hvODZYd3NfQVNnS1JCTzdUU0dfTUhGbzJDLTF4M05WeW5ZbmM0T3hhVnQwUExYNTRCT2VFLVBocE82U1lmSVg0cE1BUVJITmQ2aUgtbm9ic3padDNvdnFzNUFKUHpHS1Z3LVNDTVkxZnEzUHRYRFBqbDlhUXhhZHV3?oc=5) | Live Science | 2026-10-08T10:00+00:00 | Outbreaks and emerging infections
-  An 'unlucky' combination of factors, experts say Live Science
+- [Kenya to seek US permission to use Laikipia Ebola isolation facility](https://nation.africa/kenya/health/kenya-to-seek-us-permission-to-use-laikipia-ebola-isolation-facility-5624052) | Daily Nation | 2026-10-08T10:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola Outbreak In Congo Escalates With New Hot Spots And Limited Support For Patients And Responders](https://www.ndtv.com/health/ebola-outbreak-in-congo-escalates-with-new-hot-spots-and-limited-support-for-patients-and-responders-12153739) | NDTV | 2026-10-08T05:38+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Why single Ebola death in Kenya has prompted fears of wider African spread](https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread) | Al Jazeera | 2026-10-08T05:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya conducts first Ebola burial as number of contacts linked to patient rises to 57](https://www.aa.com.tr/en/africa/kenya-conducts-first-ebola-burial-as-number-of-contacts-linked-to-patient-rises-to-57/4081605) | Anadolu Ajansı | 2026-10-07T23:47+00:00 | Outbreaks and emerging infections
@@ -472,11 +476,7 @@ Search window: 7 day(s) ending 2026-10-08
   Limited detail was available from feed metadata alone.
 - [Kenya races to trace all contacts after first Ebola death, WHO official says](https://news.un.org/en/story/2026/10/1168542) | UN News | 2026-10-07T14:23+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Strikes Kenya, 1 Dead, 10 Quarantined](https://taarifa.rw/2026/10/07/ebola-strikes-kenya-1-dead-10-quarantined/) | Taarifa Rwanda | 2026-10-07T13:39+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kenya Strengthens Ebola Preparedness and Contact Tracing](https://www.health.go.ke/kenya-strengthens-ebola-preparedness-and-contact-tracing) | health.go.ke | 2026-10-07T12:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow](https://news.google.com/rss/articles/CBMiW0FVX3lxTE40dGpnc2h2RU5lNVAzOXFOc0FkN0lpNUVXNUdOYWtHOVNfQmZaSHhEb21rSDVtQWk4eVlKMHNrUTVOdUUyN1NMNFdDeTQzSEZkSkw2bVYxZUpDQ0k?oc=5) | BBC | 2026-10-07T12:46+00:00 | Outbreaks and emerging infections
+- [Ebola Strikes Kenya, 1 Dead, 10 Quarantined](https://news.google.com/rss/articles/CBMifEFVX3lxTE5CbWNINGZmcG93clA1SVRFZ2QxeFp1U2ZLZEV5cy14TXliRl9zeGRkN1pXNldiOTd5Wko2YV85ejdQY0t6UE01TDViOVFsQllUZWYtVFVXUjVmN2RLTDJjX21YY2VpTHdfUW9sSXkyVHNISXZXRXdOOXdQU1rSAXxBVV95cUxOQm1jSDRmZnBvd3JQNUlURWdkMXhadVNmS2RFeXMteE15YkZfc3hkZDdaVzZXYjk3eVpKNmFfOXo3UGNLelBNNUw1YjlRbEJZVGVmLVRVV1I1ZjdkS0wyY19tWGNlaUx3X1FvbEl5MlRzSEl2V0V3Tjl3UFNa?oc=5) | Taarifa Rwanda | 2026-10-07T13:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
