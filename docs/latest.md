@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-10-10
-Generated at: 2026-10-10T17:15
+Generated at: 2026-10-10T23:26
 Search window: 7 day(s) ending 2026-10-10
 
 ## Executive scan
@@ -18,7 +18,7 @@ Search window: 7 day(s) ending 2026-10-10
 ## Ongoing stories and what changed
 ### Dengue and arboviruses
 - Lead item: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News)
-- Newly tracked story cluster: 47 item(s) across 36 source(s).
+- Newly tracked story cluster: 46 item(s) across 36 source(s).
 - Monitoring: Chikungunya virus disease worldwide overview
 - ECDC News now includes evacuation reporting.
 - ECDC News currently frames broader public risk as low.
@@ -26,13 +26,13 @@ Search window: 7 day(s) ending 2026-10-10
 
 ### Measles transmission and vaccination
 - Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 117 item(s) across 88 source(s).
+- Newly tracked story cluster: 120 item(s) across 87 source(s).
 - Monitoring: Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin
 - WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 70 item(s) across 57 source(s).
+- Newly tracked story cluster: 68 item(s) across 53 source(s).
 - Monitoring: EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -51,23 +51,23 @@ Search window: 7 day(s) ending 2026-10-10
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 117 item(s) across 88 source(s); 2 official/primary-source item(s).
+- Topic size: 120 item(s) across 87 source(s); 2 official/primary-source item(s).
 - Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa, 2026-10-01T13:01+00:00)
 - Detailed note: As of 30 June, national coverage for the third dose of the pentavalent vaccine reached 92%, while HPV vaccination coverage reached 80%. EPI Bulletin Q1-Q2 2026.pdf (2.68 MB) Related Health Topics Immunization The bulletin also examines remaining gaps, particularly in second-dose measles-rubella vaccination and coverage across provinces and districts. Learn more about the Sunset process and provide feedback.
-- Evidence notes: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Allegheny County's 2 measles cases connected to same school](https://www.cbsnews.com/pittsburgh/video/allegheny-countys-2-measles-cases-connected-to-same-school/) (CBS News); [Central Minnesota county reports "several cases of suspected measles"](https://www.cbsnews.com/minnesota/news/todd-county-several-suspected-measles-cases/) (CBS News); [With Pennsylvania leading the way, US measles cases top 4,000](https://www.cidrap.umn.edu/measles/pennsylvania-leading-way-us-measles-cases-top-4000) (CIDRAP)
+- Evidence notes: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Central Minnesota county reports "several cases of suspected measles"](https://www.cbsnews.com/minnesota/news/todd-county-several-suspected-measles-cases/) (CBS News); [With Pennsylvania leading the way, US measles cases top 4,000](https://www.cidrap.umn.edu/measles/pennsylvania-leading-way-us-measles-cases-top-4000) (CIDRAP); [Possible measles exposures reported in Chester County, Pennsylvania, as outbreak grows](https://www.cbsnews.com/philadelphia/news/pennsylvania-measles-kennett-square-west-grove/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 70 item(s) across 57 source(s); 2 official/primary-source item(s).
+- Topic size: 68 item(s) across 53 source(s); 2 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa, 2026-10-08T09:51+00:00)
 - Detailed note: In the last week ending 4 October 2026, a further 487 confirmed cases and 224 confirmed deaths were reported, increasing the cumulative total to 8603 confirmed cases, including 4148 deaths [crude case fatality ratio (CFR): 48.2%]. Ituri remains the principal focus, although its relative contribution continues to decline, accounting for 75.0% of cumulative confirmed cases, while substantial transmission continues...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Canada commits C$80 million to tackle Ebola outbreak in DR Congo](https://gazettengr.com/canada-commits-c80-million-to-tackle-ebola-outbreak-in-dr-congo/) (Peoples Gazette Nigeria); [South Sudan strengthens Ebola surveillance after Kenya confirms imported case](https://medafricatimes.com/47217-south-sudan-strengthens-ebola-surveillance-after-kenya-confirms-imported-case.html) (Medafrica Times); [2026 Ebola virus outbreak: Facts, FAQs, and how to help](https://www.worldvision.org/health-news-stories/2014-ebola-virus-outbreak-facts) (World Vision)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [Canada commits C$80 million to tackle Ebola outbreak in DR Congo](https://gazettengr.com/canada-commits-c80-million-to-tackle-ebola-outbreak-in-dr-congo/) (Peoples Gazette Nigeria); [South Sudan strengthens Ebola surveillance after Kenya confirms imported case](https://medafricatimes.com/47217-south-sudan-strengthens-ebola-surveillance-after-kenya-confirms-imported-case.html) (Medafrica Times); [Ebola in Kenya: PS Muthoni clarifies outbreak status amid hotel meeting suspension](https://peopledaily.digital/news/ebola-in-kenya-ps-muthoni-clarifies-outbreak-status-amid-hotel-meeting-suspension) (People Daily)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 47 item(s) across 36 source(s); 5 official/primary-source item(s).
+- Topic size: 46 item(s) across 36 source(s); 5 official/primary-source item(s).
 - Lead item: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News, 2026-10-05T16:05+02:00)
 - Detailed note: A healthcare worker from Europe based in the DRC who tested positive for Bundibugyo virus on 29 September has been medically evacuated to receive specialised care. To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR)...
 - Evidence notes: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance](https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial) (ECDC News); [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News); [Dengue worldwide overview](https://www.ecdc.europa.eu/en/dengue-monthly) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
@@ -448,11 +448,11 @@ Search window: 7 day(s) ending 2026-10-10
   Limited detail was available from feed metadata alone.
 - [South Sudan strengthens Ebola surveillance after Kenya confirms imported case](https://medafricatimes.com/47217-south-sudan-strengthens-ebola-surveillance-after-kenya-confirms-imported-case.html) | Medafrica Times | 2026-10-10T15:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola in Kenya: PS Muthoni clarifies outbreak status amid hotel meeting suspension](https://peopledaily.digital/news/ebola-in-kenya-ps-muthoni-clarifies-outbreak-status-amid-hotel-meeting-suspension) | People Daily | 2026-10-10T12:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [2026 Ebola virus outbreak: Facts, FAQs, and how to help](https://www.worldvision.org/health-news-stories/2014-ebola-virus-outbreak-facts) | World Vision | 2026-10-10T08:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [A race against time to prevent an outbreak follows Kenya's first Ebola death](https://www.rfi.fr/en/africa/20261010-a-race-against-time-to-prevent-an-outbreak-as-kenya-registers-first-ebola-case) | RFI | 2026-10-10T07:21+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Allegheny County's 2 measles cases connected to same school](https://www.cbsnews.com/pittsburgh/video/allegheny-countys-2-measles-cases-connected-to-same-school/) | CBS News | 2026-10-10T03:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Central Minnesota county reports "several cases of suspected measles"](https://www.cbsnews.com/minnesota/news/todd-county-several-suspected-measles-cases/) | CBS News | 2026-10-10T02:17+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -460,11 +460,11 @@ Search window: 7 day(s) ending 2026-10-10
   Limited detail was available from feed metadata alone.
 - [Possible measles exposures reported in Chester County, Pennsylvania, as outbreak grows](https://www.cbsnews.com/philadelphia/news/pennsylvania-measles-kennett-square-west-grove/) | CBS News | 2026-10-09T20:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [US measles cases rise to 4,080, CDC says](https://www.reuters.com/legal/litigation/us-measles-cases-rise-4080-cdc-says-2026-10-09/) | Reuters | 2026-10-09T17:45+00:00 | Outbreaks and emerging infections
+- [US measles cases rise to 4,080, CDC says](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZVZqTlVBQmVFWmM3am4tUVN5Uzc3Q3pGMDE4ZVBWdk95TllTOV9NZ29ldm1RdF9vdWNyRE5LOWVWVDBaZnRBRF9vbVc2c2Z6U2FTN0xJSG9oVmRQcF82VERxSDAtTUJkSkpDRDZhYzhudG9hRVd3N0lfbm04dmVKZVZORlBZaldaWXJFemZLU0NPUQ?oc=5) | Reuters | 2026-10-09T17:45+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) | CBS News | 2026-10-09T16:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [U.S. measles cases top 4,000, far surpassing last year's total, CDC says](https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xRmZYRVpNX0E5TGtldGpmZHpCTkpnQVQwdFVXQ0xNSEU3LVRNUWdpUnRwbkhIaGVvWFpoWkpFd2I1a0hRNk9OQkx1NUJnUXB1RVYwUUxnS1g4TG5sOHRaYjRnUVE5SnVP?oc=5) | CBS News | 2026-10-09T15:40+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Confirmed cases of Ebola in DRC reach 8,750 – Africa CDC - APAnews](https://apanews.net/confirmed-cases-of-ebola-in-drc-reach-8750-africa-cdc/) | APAnews - Agence de Presse Africaine | 2026-10-09T14:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Second case of measles confirmed in Allegheny County, health department confirms](https://news.google.com/rss/articles/CBMinwFBVV95cUxQclFfdzdwSUpWNTFONTRYWTRScFV3ZXFEYnpPWjZKWGc3TWpkeUJpbnVyUGFNUWhzZ2ZGODExcF9GeDFzd1lpR0NJRE16bm00M0RQNUJLYUZBVXYwLWlHVUxSYlBvcEd0Z25KX1BRbGxQRFlHTC0zOHdDMlBnMWhCV2lVWTZLY3p3ajdpeVJvR2xiY0preU1LeFIwRjhwYWc?oc=5) | CBS News | 2026-10-09T13:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -474,9 +474,9 @@ Search window: 7 day(s) ending 2026-10-10
   Limited detail was available from feed metadata alone.
 - [New York governor plans to seek federal help to tackle measles outbreak](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnhCN2hzWmFEOGt1bkRSTGRJYlpmVkQzLW4tNUc3N1VHMkR0TndnOEVwNW5CX3lIWEd3Zkc1MmFHVHZRbVZYbTZkSGtYaDdhM2NSRmpKT1JtNHR6cTA1dnozUG9VTE9abzlGdUNpNDZtSERDdkdPbk9PMThXUnZZd2tBUG41WmktTV96VENXZldlYzR6TTFhSmlqQ2JrbllYZ29Bemg4YjhhYUhPblhaRkRuMDk?oc=5) | Reuters | 2026-10-08T22:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [C.D.C. Offers States $100 Million in Measles Support as Cases Climb](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGl0Qzh0R0t1N2xKRGFXaXNjRnRaS250TC1pWkhtSm9taWxHUy0tXzZNeTNJT3k1cjV5SGdkamwwWVJMYWpFT3U5cXFpVmVkaFQxT2hPQWxLbmdfRlV0YVBaZDMyZXNHRWI5ZVA1ODJzNmxJMnY2RWZJRFJlNFRfR1FJRzE?oc=5) | The New York Times | 2026-10-08T19:38+00:00 | Outbreaks and emerging infections
+- [Kenya Ebola outbreak: “We are exercising vigilance at the airport” — Deputy Health Minister](https://www.modernghana.com/videonews/joynews/2/731569) | Modern Ghana | 2026-10-08T21:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Outbreak: DRC Records 8,665 Cases, 4,178 Deaths as Kenya Reports Imported Case](https://freedomonline.com.ng/ebola-outbreak-drc-records-8665-cases-4178-deaths-as-kenya-reports-imported-case/) | Freedom Online | 2026-10-08T18:22+00:00 | Outbreaks and emerging infections
+- [C.D.C. Offers States $100 Million in Measles Support as Cases Climb](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGl0Qzh0R0t1N2xKRGFXaXNjRnRaS250TC1pWkhtSm9taWxHUy0tXzZNeTNJT3k1cjV5SGdkamwwWVJMYWpFT3U5cXFpVmVkaFQxT2hPQWxLbmdfRlV0YVBaZDMyZXNHRWI5ZVA1ODJzNmxJMnY2RWZJRFJlNFRfR1FJRzE?oc=5) | The New York Times | 2026-10-08T19:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -506,7 +506,7 @@ Search window: 7 day(s) ending 2026-10-10
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42832628/
 
 ## Historical epi / weird epi corner
-- [Kenya conducts first Ebola burial as number of contacts linked to patient rises to 57](https://www.aa.com.tr/en/africa/kenya-conducts-first-ebola-burial-as-number-of-contacts-linked-to-patient-rises-to-57/4081605) | Anadolu Ajansı
+- [Kenya conducts first Ebola burial as number of contacts linked to patient rises to 57](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDZQVXpQZzJHM2JsQy1XSFhZTGQ3aklEeXlibklHQTVxTUlBOExrWWgxMTNhbjJCdmNvMG01RVNRVXlBR2plclZlMG1VRXFpUzN3eWp2bWtRcldkblhGaUozWGJSa2x5ZGdKVncyLVpVRkVwczExYXB4OXJFYnYzNUp5VDMxN19ycHdQdl9ITHFZNmtYaHBfUTNFNGE5S1RDdjh4cnRSRHZMdmpuNkRyY2dYUGM5NWxSam9yUHQxWkNmemc?oc=5) | Anadolu Ajansı
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
