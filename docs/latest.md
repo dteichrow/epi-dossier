@@ -1,9 +1,10 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-10-13
-Generated at: 2026-10-13T14:33
+Generated at: 2026-10-13T17:38
 Search window: 7 day(s) ending 2026-10-13
 
 ## Executive scan
+- [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/) (PubMed Historical Pathogen Case Studies; 2026-10-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/) (PubMed Historical Pathogen Case Studies; 2026-10-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News; 2026-10-12T17:36+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Assessment of Compliance With Infection Prevention Guidelines/Standard Precautions Among Healthcare Workers of Debark and Metema General Hospitals, Northwest Ethiopia.](https://pubmed.ncbi.nlm.nih.gov/42859582/) (PubMed Infectious Disease Search; 2026-10-09T00:00; Major epidemiology studies; relevance 5/5)
@@ -11,32 +12,30 @@ Search window: 7 day(s) ending 2026-10-13
 - [Collaborative surveillance implementation guide](https://www.afro.who.int/publications/collaborative-surveillance-implementation-guide) (WHO Regional Office for Africa; 2026-10-07T12:01+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Health Emergency Intelligence and Surveillance](https://www.afro.who.int/publications/health-emergency-intelligence-and-surveillance-quarter-three-report-2026) (WHO Regional Office for Africa; 2026-10-07T11:47+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News; 2026-10-05T16:05+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance](https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial) (ECDC News; 2026-10-05T13:04+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (234), Policy, surveillance, and public health infrastructure (10), Major epidemiology studies (1)
+- Category mix: Outbreaks and emerging infections (237), Policy, surveillance, and public health infrastructure (10), Historical epidemiology / ancient disease / paleopathology (2)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Dengue and arboviruses
 - Lead item: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News)
-- Newly tracked story cluster: 56 item(s) across 46 source(s).
+- Newly tracked story cluster: 57 item(s) across 47 source(s).
 - Monitoring: Chikungunya virus disease worldwide overview
 - ECDC News now includes evacuation reporting.
 - ECDC News currently frames broader public risk as low.
 - Reuters now foregrounds vaccination or vaccine policy in the story.
 
-### Measles transmission and vaccination
-- Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 124 item(s) across 96 source(s).
-- Monitoring: Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin
-- The Washington Post now includes deaths or fatal cases in the story frame.
-- WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
-
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 55 item(s) across 47 source(s).
+- Newly tracked story cluster: 57 item(s) across 50 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- Radiokaya now includes quarantine language.
+- Xinhua now foregrounds vaccination or vaccine policy in the story.
+
+### Measles transmission and vaccination
+- Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 124 item(s) across 92 source(s).
+- Monitoring: Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin
+- WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 
 ### Mpox
 - Lead item: [Health Emergency Intelligence and Surveillance](https://www.afro.who.int/publications/health-emergency-intelligence-and-surveillance-quarter-three-report-2026) (WHO Regional Office for Africa)
@@ -53,26 +52,26 @@ Search window: 7 day(s) ending 2026-10-13
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 124 item(s) across 96 source(s); 2 official/primary-source item(s).
+- Topic size: 124 item(s) across 92 source(s); 2 official/primary-source item(s).
 - Lead item: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa, 2026-10-01T13:01+00:00)
 - Detailed note: As of 30 June, national coverage for the third dose of the pentavalent vaccine reached 92%, while HPV vaccination coverage reached 80%. EPI Bulletin Q1-Q2 2026.pdf (2.68 MB) Related Health Topics Immunization The bulletin also examines remaining gaps, particularly in second-dose measles-rubella vaccination and coverage across provinces and districts. Learn more about the Sunset process and provide feedback.
-- Evidence notes: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [New Georgia measles case could be connected to Pennsylvania outbreak, officials say](https://www.cbsnews.com/atlanta/news/new-georgia-measles-case-could-be-connected-to-pennsylvania-outbreak-officials-say/) (CBS News); [Sixth suspected measles death announced in Pennsylvania](https://www.axios.com/local/philadelphia/2026/10/13/measles-pennsylvania-deaths-cases-franklin-county) (Axios); [Pennsylvania announces sixth death in measles outbreak as case numbers rise](https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death) (The Guardian)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Dengue and arboviruses
-- Topic size: 56 item(s) across 46 source(s); 4 official/primary-source item(s).
-- Lead item: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News, 2026-10-05T16:05+02:00)
-- Detailed note: A healthcare worker from Europe based in the DRC who tested positive for Bundibugyo virus on 29 September has been medically evacuated to receive specialised care. To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR)...
-- Evidence notes: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance](https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial) (ECDC News); [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Bangladesh considers dengue vaccine trials as outbreak worsens](https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-considers-dengue-vaccine-trials-outbreak-worsens-2026-10-06/) (Reuters)
+- Evidence notes: [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) (WHO Regional Office for Africa); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [What qualifies as a measles-associated death? Medical experts explain.](https://www.cbsnews.com/pittsburgh/news/pennsylvania-measles-associated-deaths-explained/) (CBS News); [What qualifies as a measles-associated death in Pennsylvania?](https://www.cbsnews.com/pittsburgh/video/what-qualifies-as-a-measles-associated-death-in-pennsylvania/) (CBS News); [New Georgia measles case could be connected to Pennsylvania outbreak, officials say](https://www.cbsnews.com/atlanta/news/new-georgia-measles-case-could-be-connected-to-pennsylvania-outbreak-officials-say/) (CBS News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 55 item(s) across 47 source(s); 2 official/primary-source item(s).
+- Topic size: 57 item(s) across 50 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-10-12T17:36+02:00)
 - Detailed note: In the last week ending 4 October 2026, a further 487 confirmed cases and 224 confirmed deaths were reported, increasing the cumulative total to 8603 confirmed cases, including 4148 deaths [crude case fatality ratio (CFR): 48.2%]. Ituri remains the principal focus, although its relative contribution continues to decline, accounting for 75.0% of cumulative confirmed cases, while substantial transmission continues...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [Congo's confirmed Ebola cases exceed 9,000 as containment efforts falter - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-confirmed-ebola-cases-exceed-9000-containment-efforts-137233349) (ABC News - Breaking News, Latest News and Videos); [Congo's confirmed Ebola cases exceed 9,000 as containment efforts falter](https://www.cp24.com/news/world/2026/10/13/congos-confirmed-ebola-cases-exceed-9000-as-containment-efforts-falter/) (CP24); [DR Congo Ebola outbreak passes 9,000 cases](https://thepeninsulaqatar.com/article/13/10/2026/dr-congo-ebola-outbreak-passes-9000-cases) (The Peninsula Qatar)
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 21, Data as of 04 October 2026](https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-5) (WHO Regional Office for Africa); [Congo's confirmed Ebola cases exceed 9,000 as containment efforts falter - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-confirmed-ebola-cases-exceed-9000-containment-efforts-137233349) (ABC News - Breaking News, Latest News and Videos); [Congo's confirmed Ebola cases exceed 9,000 as containment efforts falter](https://lancasteronline.com/news/health/congos-confirmed-ebola-cases-exceed-9-000-as-containment-efforts-falter/article_84f0c2d7-9adb-5f9f-8c35-2d559e6e15f0.html) (LancasterOnline); [Ebola cases top 9,000 in DR Congo outbreak](https://www.cidrap.umn.edu/ebola/ebola-cases-top-9000-dr-congo-outbreak) (CIDRAP)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Dengue and arboviruses
+- Topic size: 57 item(s) across 47 source(s); 4 official/primary-source item(s).
+- Lead item: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News, 2026-10-05T16:05+02:00)
+- Detailed note: A healthcare worker from Europe based in the DRC who tested positive for Bundibugyo virus on 29 September has been medically evacuated to receive specialised care. To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR)...
+- Evidence notes: [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance](https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial) (ECDC News); [Risk to general population remains very low following fourth imported Ebola case in Europe](https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Bangladesh considers dengue vaccine trials as outbreak worsens](https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-considers-dengue-vaccine-trials-outbreak-worsens-2026-10-06/) (Reuters)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -338,6 +337,16 @@ Search window: 7 day(s) ending 2026-10-13
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### Genomic diversity of human-associated Mycobacterium bovis in Canada.
+- Source: PubMed Historical Pathogen Case Studies
+- Date: 2026-10-13T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/42866990/
+- Category: Historical epidemiology / ancient disease / paleopathology
+- Summary: tuberculosis complex lineages La 1.7 and La 1.8. Of 74 study isolates, 69 (93%) were phenotypically sensitive to first-line drugs isoniazid, rifampin, and ethambutol. bovis (excluding BCG) isolates identified in public health laboratories across Canadian provinces between 2000 and 2025.
+- Why it matters: Comes from an official or primary-source channel. Useful for historical epidemiology or paleopathology coverage.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.
 - Source: PubMed Historical Pathogen Case Studies
 - Date: 2026-10-13T00:00
@@ -428,37 +437,35 @@ Search window: 7 day(s) ending 2026-10-13
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin
-- Source: WHO Regional Office for Africa
-- Date: 2026-10-01T13:01+00:00
-- URL: https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin
-- Category: Outbreaks and emerging infections
-- Summary: As of 30 June, national coverage for the third dose of the pentavalent vaccine reached 92%, while HPV vaccination coverage reached 80%. EPI Bulletin Q1-Q2 2026.pdf (2.68 MB) Related Health Topics Immunization The bulletin also examines remaining gaps, particularly in second-dose measles-rubella vaccination and coverage across provinces and districts.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Zimbabwe’s Expanded Programme on Immunization (EPI) Q1-Q2 2026 Bulletin](https://www.afro.who.int/countries/zimbabwe/publication/zimbabwes-expanded-programme-immunization-epi-q1-q2-2026-bulletin) | WHO Regional Office for Africa | 2026-10-01T13:01+00:00 | Outbreaks and emerging infections
+  As of 30 June, national coverage for the third dose of the pentavalent vaccine reached 92%, while HPV vaccination coverage reached 80%. EPI Bulletin Q1-Q2 2026.pdf (2.68 MB) Related Health Topics Immunization The bulletin also examines remaining gaps, particularly in second-dose measles-rubella vaccination and coverage across provinces and districts.
 - [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) | Florida Department of Health Press Releases | 2026-09-04T12:38-04:00 | Policy, surveillance, and public health infrastructure
   To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend. Hillsborough County is currently experiencing an unusual increase in locally acquired dengue infections .
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
+- [What qualifies as a measles-associated death? Medical experts explain.](https://www.cbsnews.com/pittsburgh/news/pennsylvania-measles-associated-deaths-explained/) | CBS News | 2026-10-13T22:40+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [What qualifies as a measles-associated death in Pennsylvania?](https://www.cbsnews.com/pittsburgh/video/what-qualifies-as-a-measles-associated-death-in-pennsylvania/) | CBS News | 2026-10-13T22:20+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Congo's confirmed Ebola cases exceed 9,000 as containment efforts falter - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/wireStory/congos-confirmed-ebola-cases-exceed-9000-containment-efforts-137233349) | ABC News - Breaking News, Latest News and Videos | 2026-10-13T21:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [New Georgia measles case could be connected to Pennsylvania outbreak, officials say](https://www.cbsnews.com/atlanta/news/new-georgia-measles-case-could-be-connected-to-pennsylvania-outbreak-officials-say/) | CBS News | 2026-10-13T20:29+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo's confirmed Ebola cases exceed 9,000 as containment efforts falter](https://www.cp24.com/news/world/2026/10/13/congos-confirmed-ebola-cases-exceed-9000-as-containment-efforts-falter/) | CP24 | 2026-10-13T18:48+00:00 | Outbreaks and emerging infections
+- [Congo's confirmed Ebola cases exceed 9,000 as containment efforts falter](https://lancasteronline.com/news/health/congos-confirmed-ebola-cases-exceed-9-000-as-containment-efforts-falter/article_84f0c2d7-9adb-5f9f-8c35-2d559e6e15f0.html) | LancasterOnline | 2026-10-13T20:03+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak passes 9,000 cases](https://thepeninsulaqatar.com/article/13/10/2026/dr-congo-ebola-outbreak-passes-9000-cases) | The Peninsula Qatar | 2026-10-13T18:39+00:00 | Outbreaks and emerging infections
+- [Ebola cases top 9,000 in DR Congo outbreak](https://www.cidrap.umn.edu/ebola/ebola-cases-top-9000-dr-congo-outbreak) | CIDRAP | 2026-10-13T19:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Sixth suspected measles death announced in Pennsylvania](https://www.axios.com/local/philadelphia/2026/10/13/measles-pennsylvania-deaths-cases-franklin-county) | Axios | 2026-10-13T18:09+00:00 | Outbreaks and emerging infections
+- [Sixth suspected measles death announced in Pennsylvania](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTV1X0l3SXA2M1ljZ043TnpHZmZNQ3RwWEh6bm1LS3RaVzZPMnBSekhEQ3JnX3EyZGNkZjdQeF90cVFPVEJuQV92VUt1QXBzREFWdTZ4TTVVUjRtNE9YRWFtYVNqVF83cy03R2ZFR2lXbjNMQ0JMMjlaLVM5MThsbWpENy11MmJCYlhNUG5valpuaEdHWkZaYV92VWlHeHNkREZN?oc=5) | Axios | 2026-10-13T18:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Pennsylvania announces sixth death in measles outbreak as case numbers rise](https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death) | The Guardian | 2026-10-13T18:06+00:00 | Outbreaks and emerging infections
+- [Pennsylvania announces sixth death in measles outbreak as case numbers rise](https://news.google.com/rss/articles/CBMihwFBVV95cUxQclNMUjBGVmx4QjBVdXI4WHh4VmYwaFVBbXNpb2d5SWxzM1BPY3BHYnphXzJFbkd3TEJYaUIzcXRRVk9MZWF0NWpoTTVCMVRibWNWd0FUeTV4eWJzM2NkMXoyeEk3NE1TcWxoTktNYjM3dDFsQjJpendKcV9QZVBvQXVrelJ1MGs?oc=5) | The Guardian | 2026-10-13T18:06+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Pennsylvania health officials report a sixth measles-related death](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXRJbFpyREo5WlRWeHlQV0YwamZwMl9DS0loQkpjSnJfYy01blpwVnp6RkRwMFdTUG1WOGJDWlVfajgweFM5NmJHdzRQUGpocU1VTTRIc3pMVnZhYm5OLTBzWWNCdEVKcGk4dnJzb1Z5ZGpGakt1SnlZVWpja1h4Y0Q5dWFQU2Y0ZHBtYnFpeUxqcTFGd0RpekJRUGxjMVlTV1FsVFA4VEhhWjMtUXdwbVVwYw?oc=5) | NBC News | 2026-10-13T17:21+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Roundup: DR Congo's Ebola cases top 9,000 as vaccine trial nears launch](https://english.news.cn/20261013/7777965f1d3840df95e962dd76254623/c.html) | Xinhua | 2026-10-13T15:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola death reported in Kenya as epidemic reaches 9,000 confirmed cases](https://www.wsws.org/en/articles/2026/10/13/ktrf-o13.html) | World Socialist Web Site | 2026-10-13T04:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -472,16 +479,14 @@ Search window: 7 day(s) ending 2026-10-13
   Limited detail was available from feed metadata alone.
 - [Pennsylvania coroner reports measles death, toll rises to six](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQmJCZXBmYXRRMGNLTWVkcWVJZ0dkbk1aTnB4U0hKSzAwUzRwSkpmbUFUbmVsT05aQ2UxQ25XaUtZOEJZMTRqaEs2Vy02ZXdMMXc2R1k4X1ZuemNTeFZsVVZIbV8zbDFsNDZIZ3JXbVlLRmpYcm9kWHNmeDk2QzRMTWduZHdTcUZLM0wwOFNsT1BCVlhBTlItd1lfTnlwYV9hVUNxamI4T1hrc0lXc1FUQ0ItdXEzbzlUZHlKLTZFZEh2MlVNbTI4eTZOclhOeWlrZ1BMdFpoUzRwN2JFYXc?oc=5) | Reuters | 2026-10-12T20:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [A sixth measles-related death is reported in Pennsylvania](https://news.google.com/rss/articles/CBMipgFBVV95cUxOU29EckJJbW1TUC1hVjQ3NmEyWTYycjRJNlBhNEhHcVBDSXRGX0NiQkNKYmFXZjRMYUNDMlNVeEZtMXRUYUdYTzhON0Y3RXF4czJKTWl0cDVVdHR3dWJHZTN0UkMyblpFYUUzbV9OTXVqUlgzOHNLU3Z1R0t3Yk43Y21LX2hFQ0dxU0tPbmZJbkdvLUFUaHA4MDdOTWJOZW1lRU5UTUNR?oc=5) | NBC News | 2026-10-12T18:46+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [As measles outbreaks grow in the U.S., maps and charts show a record number of cases in 2026](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUl9SNkNDNWZBT1Y5NVh0OGtLaTZuNHFyWkRxYXNFdks5SmtzOXp2Z1RFdnd2dW1EYWxhVmhYRWFyNzZVSmNMTlpPY0NFRzNBcTNYbC05YmdFQW5NUTBMZWVZSnNQNWZwNGc?oc=5) | CBS News | 2026-10-12T15:58+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [6th measles-associated death reported in Pennsylvania](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFJ4QS0tcUo4T0JGUjNlQ3FYV0NJU3JxX2ZHWUQ4OXdrMV9La0VhNmJVclE1U0VFRnlJOHlJaTNPWFdxTWhHMjZqMGxDRWkyRDM0S3BCMHRpLVp0VFl3WHpfQVlaUVQ2NUV6OWhEeEFOZHlsMU9OWkYxR3Z3dW9WeW5NUHFvSjZ6dHFPNk9EZzRxemVlcEJRN0RB?oc=5) | CBS News | 2026-10-12T15:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [PA measles outbreak; can measles exposure be fatal? What to know](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGhtUTlkcnBlWlE0cTd1TUtqZENld18xbUQ3NnFzS1A4WUhHdVVCOXV4MjE3QTloRElUWk9jUHBFeWVYVjM5LWN5eHJIS0hwUXl4alNWU1Q4Q0RCSDc5QUVVcDVYTm9wQkxxMVNZR1VYT3ZNbGtWdnpZSklIQUhJcUZMZUF2RDc2Y1dyNm5BQUZVaVkxV3MxUEhfVzAyZ19lOHA1ZjBtNkxSVExOdkZ6aVljSDhhd0ZSalZGcmJ3LWxmX1doOWZRMQ?oc=5) | Delawareonline.com | 2026-10-12T13:55+00:00 | Outbreaks and emerging infections
-  What to know Delawareonline.com
 
 ## Papers worth saving
+- [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/)
+  Source: PubMed Historical Pathogen Case Studies
+  DOI: 10.1128/spectrum.01485-26
+  Journal/preprint server: Microbiology spectrum
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42866990/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42866990/
 - [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1080/10410236.2026.2743158
@@ -496,11 +501,11 @@ Search window: 7 day(s) ending 2026-10-13
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42859582/
 
 ## Historical epi / weird epi corner
+- [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/) | PubMed Historical Pathogen Case Studies
+  tuberculosis complex lineages La 1.7 and La 1.8. Of 74 study isolates, 69 (93%) were phenotypically sensitive to first-line drugs isoniazid, rifampin, and ethambutol. bovis (excluding BCG) isolates identified in public health laboratories across Canadian provinces between 2000 and 2025.
 - [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/) | PubMed Historical Pathogen Case Studies
   123K980), we apply critical multimodal discourse analysis to explore how visual campaigns shaped public perceptions of health, risk, responsibility, and citizenship. This study investigates how visual materials used during tuberculosis (1930s-1940s) and COVID-19 in Turkey, supported and reflected evolving forms of biopolitical governance. While the mother figure remained central across both periods, her portrayal grew more emotionally complex during the COVID-19 pandemic.
 - [Kenya conducts first Ebola burial as number of contacts linked to patient rises to 57](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDZQVXpQZzJHM2JsQy1XSFhZTGQ3aklEeXlibklHQTVxTUlBOExrWWgxMTNhbjJCdmNvMG01RVNRVXlBR2plclZlMG1VRXFpUzN3eWp2bWtRcldkblhGaUozWGJSa2x5ZGdKVncyLVpVRkVwczExYXB4OXJFYnYzNUp5VDMxN19ycHdQdl9ITHFZNmtYaHBfUTNFNGE5S1RDdjh4cnRSRHZMdmpuNkRyY2dYUGM5NWxSam9yUHQxWkNmemc?oc=5) | Anadolu Ajansı
-  Limited detail was available from feed metadata alone.
-- [Historically Brutal Ebola Outbreak Crosses Border Into New Country](https://news.google.com/rss/articles/CBMingFBVV95cUxPUzVEM3N6Z0JfSlVNVW5vTE50NVBNcTdSbWRDWHJnelNHSEdZcGQyZFVURWpPb3hiQVI4dmotQk1yNDJLVVJLdFFMY3R3VnZ6YVVoRzR5akhFcEZ1V2NjRTJyQjJBLXJ0Vko5NTlBMDhYMUI1Z0JLZ0NsOExFdHAyQzNHdEhDcWpVbnZwY05WbVBYdkJVb3RJajJqVG51Zw?oc=5) | The Daily Wire
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
