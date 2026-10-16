@@ -1,7 +1,7 @@
 # Daily Infectious Disease & Epidemiology Dossier
-Date: 2026-10-15
-Generated at: 2026-10-15T21:27
-Search window: 7 day(s) ending 2026-10-15
+Date: 2026-10-16
+Generated at: 2026-10-16T02:19
+Search window: 7 day(s) ending 2026-10-16
 
 ## Executive scan
 - [Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649) (CDC MMWR; 2026-10-15T19:42+00:00; Occupational and environmental epidemiology; relevance 5/5)
@@ -12,41 +12,40 @@ Search window: 7 day(s) ending 2026-10-15
 - [Maternal social networks and child nutrition in Belagavi, India: opportunities and risks.](https://pubmed.ncbi.nlm.nih.gov/42873222/) (PubMed Infectious Disease Search; 2026-10-14T00:00; Major epidemiology studies; relevance 5/5)
 - [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/) (PubMed Historical Pathogen Case Studies; 2026-10-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/) (PubMed Historical Pathogen Case Studies; 2026-10-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (250), Policy, surveillance, and public health infrastructure (16), Major epidemiology studies (4)
-- Source health: 2 source(s) failed during collection: Africa CDC, Nigeria Centre for Disease Control.
+- Category mix: Outbreaks and emerging infections (244), Policy, surveillance, and public health infrastructure (17), Major epidemiology studies (5)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649) (CDC MMWR)
-- Newly tracked story cluster: 6 item(s) across 4 source(s).
+- Newly tracked story cluster: 7 item(s) across 4 source(s).
 - Monitoring: Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak
 - PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
-### Ebola virus disease
-- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 66 item(s) across 57 source(s).
-- Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- Radiokaya now includes quarantine language.
-
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 145 item(s) across 110 source(s).
+- Newly tracked story cluster: 140 item(s) across 110 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - PBS now foregrounds vaccination or vaccine policy in the story.
 
+### Ebola virus disease
+- Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
+- Newly tracked story cluster: 65 item(s) across 57 source(s).
+- Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+
 ### Dengue and arboviruses
 - Lead item: [Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650) (CDC MMWR)
-- Newly tracked story cluster: 50 item(s) across 38 source(s).
+- Newly tracked story cluster: 51 item(s) across 40 source(s).
 - Monitoring: Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025
 - Reuters now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 145 item(s) across 110 source(s); 1 official/primary-source item(s).
+- Topic size: 140 item(s) across 110 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Pennsylvania doctor urges vaccination as measles outbreak grows](https://www.pbs.org/newshour/show/pennsylvania-doctor-urges-vaccination-as-measles-outbreak-grows) (PBS); [CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania](https://www.nbcnews.com/health/health-news/cdc-measles-outbreak-pennsylvania-rkf-jr-rcna603665) (NBC News); [25 cases of measles identified in central, southeastern Minnesota, MDH says](https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2NuaGtzWHhHNkt6TFk3VWFGNE1hbmFkejNsVW9hcklvT1d0SmlEVnlCZWhvYXZHWHB5Q1h2RGdsVElhTlpNWHBPdGFFTnl5Z1NuNS16S3hWYVF2cnpsTktzTDZUd2hRUjBRbkVTLVN3Y1ZJN0RCdXFlQjFrV3ZQczItZ2RQWmNFUkdOQnh2VVRVdlNkdDY2YVVrYw?oc=5) (CBS News); [Explainer: How does the US count measles deaths?](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHBJU3JEMURSdWUzd2JYVW1IcXN3R0l0N2t4NFc2Z0VGV1dDbWx6c0EyTG5fZ1pvZ1BBdjNNU0h4S0sta0RiMlZURDVUNjRfV1JrbnNtR2haOWN5RzJ5UzJEZndlRjdQUFRQTk1mbmdrbzU5LXNFQmZ5eU82X2Q3OXpZQzcwMzJhLVRzTUd3?oc=5) (Reuters)
@@ -54,15 +53,15 @@ Search window: 7 day(s) ending 2026-10-15
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 66 item(s) across 57 source(s); 2 official/primary-source item(s).
+- Topic size: 65 item(s) across 57 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-10-14T17:36+02:00)
-- Detailed note: This increases the cumulative total to 9066 confirmed cases, including 4381 confirmed deaths [crude case fatality ratio (CFR) 48.3%] as of 11 October 2026. North Ubangi becomes the eighth province to be affected by the outbreak of the Bundibugyo species of Ebola, which was announced in mid-May and has become the second-largest Ebola outbreak on record, with more than 9,000 cases and more than 4,000 deaths...
-- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-weekly-external-situation-report) (WHO Regional Office for Africa); [Congo Ebola outbreak spreads to new province bordering Central African Republic](https://www.internazionale.it/ultime-notizie-reuters/2026/10/15/congo-ebola-outbreak-spreads-to-new-province-bordering-central-african-republic) (Internazionale); [Ebola reaches eighth province in DR Congo as officials report two North Ubangi cases](https://www.kiprinform.com/en/news/ebola-reaches-eighth-province-in-dr-congo-as-officials-report-two-north-ubangi-cases/) (Cyprus Inform); [Ebola outbreak in DR Congo spreads to eighth province — TimesLIVE](https://ua.news/en/world/spalakh-eboli-v-dr-kongo-poshirivsia-na-vosmu-provintsiiu-timeslive) (UA.NEWS)
+- Detailed note: This increases the cumulative total to 9066 confirmed cases, including 4381 confirmed deaths [crude case fatality ratio (CFR) 48.3%] as of 11 October 2026. Since External Situation Report #21, a total of 463 additional confirmed cases and 233 confirmed deaths have been reported.
+- Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-weekly-external-situation-report) (WHO Regional Office for Africa); [Congo Ebola outbreak spreads to eighth province bordering Central African Republic](https://freepresskashmir.news/2026/10/16/congo-ebola-outbreak-spreads-to-eighth-province-bordering-central-african-republic/) (Free Press Kashmir); [Congo Ebola Outbreak Spreads to North Ubangi Province Near Central African Republic](https://vohnetwork.com/news/global/congo-ebola-outbreak-spreads-to-north-ubangi-province-near-central-african-republic) (Voice of Healthcare); [Ebola reaches eighth province in DR Congo as officials report two North Ubangi cases](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVBRSlZLZFhBY0hvRHhrOG15bHRNNnEtNE9zVjh3enU4eGVkSHZBX2Z5SVNtNjBpOG11VDRqbVAxcEtQLUlpU2NqVktsSFdQUFJLaEtVekN2Mk9pdVpjSjRFNndJUlhGTEwwSXNMbjNHN3BKRlBtX3UwX3RSRnM2QUEtQkNlR05rWWxTb05JYjhLX2Z5b0I0Rm5Hd19pTEE1WlJUWnh3cXZIYWVnck02N3pQSE1wX0N4bzFOaw?oc=5) (Cyprus Inform)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 50 item(s) across 38 source(s); 5 official/primary-source item(s).
+- Topic size: 51 item(s) across 40 source(s); 5 official/primary-source item(s).
 - Lead item: [Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650) (CDC MMWR, 2026-10-15T19:42+00:00)
 - Detailed note: Weekly / October 15, 2026 / 75(40);607â608 Sarah Gallalee, PhD 1 ,2 ; Hannah M. Virgin Islands (USVI) experienced its first dengue virus outbreak in approximately a decade, including 263 confirmed cases and the territory’s first confirmed dengue virus–associated death since 2005. Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR)...
 - Evidence notes: [Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650) (CDC MMWR); [Record-high West Nile virus infections reported amid spread to new parts of Europe](https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe) (ECDC News); [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance](https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
@@ -70,28 +69,28 @@ Search window: 7 day(s) ending 2026-10-15
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
-- Topic size: 6 item(s) across 4 source(s); 6 official/primary-source item(s).
+- Topic size: 7 item(s) across 4 source(s); 7 official/primary-source item(s).
 - Lead item: [Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649) (CDC MMWR, 2026-10-15T19:42+00:00)
 - Detailed note: Weekly / October 15, 2026 / 75(40);601â606 Katherine Newell, DPhil 1 ,2 ; Elizabeth Ohlsen, MD 1 ; Kristen Moore 1 ; Sarah Aho, MPH 1 ; Louisa Castrodale, DVM 1 ; Joseph McLaughlin, MD 1 ( View author affiliations ) After a period of low U.S. Between October 2020 and May 2021, 30 healthy, SARS-CoV-2-naive adults received two doses of either 10 7 or 10 8 international units (IU) of MVA-SARS-2-S 28 days apart,...
 - Evidence notes: [Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649) (CDC MMWR); [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/) (PubMed Historical Pathogen Case Studies); [Collaborative surveillance implementation guide](https://www.afro.who.int/publications/collaborative-surveillance-implementation-guide) (WHO Regional Office for Africa); [Telehealth-related education and training: a systematic review of recent developments since the COVID-19 pandemic.](https://pubmed.ncbi.nlm.nih.gov/42878291/) (PubMed Infectious Disease Search); [Safety and immunogenicity of a first-generation modified vaccinia virus Ankara-vectored SARS-CoV-2 vaccine candidate with mRNA-based booster vaccination: A phase 1 trial.](https://pubmed.ncbi.nlm.nih.gov/42878689/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Miscellaneous signals
+### Hantavirus and cruise-ship outbreak
 - Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Maternal social networks and child nutrition in Belagavi, India: opportunities and risks.](https://pubmed.ncbi.nlm.nih.gov/42873222/) (PubMed Infectious Disease Search, 2026-10-14T00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [Maternal social networks and child nutrition in Belagavi, India: opportunities and risks.](https://pubmed.ncbi.nlm.nih.gov/42873222/) (PubMed Infectious Disease Search); [Ebola Spreads to Eighth Congo Province as Young Children Face Heavy Toll](https://www.bloomberg.com/news/articles/2026-10-15/ebola-spreads-to-eighth-congo-province-as-young-children-face-heavy-toll) (Bloomberg)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, Unknown)
+- Detailed note: Learn more about the Sunset process and provide feedback.
+- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5) (ABC News - Breaking News, Latest News and Videos)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Polio and wastewater surveillance
-- Topic size: 1 item(s) across 1 source(s); 0 official/primary-source item(s).
-- Lead item: [Doctors say a rare but fatal condition linked to measles is rising in Pakistan](https://www.gavi.org/vaccineswork/doctors-say-rare-fatal-measles-linked-condition-rising-pakistan) (Gavi, the Vaccine Alliance, 2026-10-15T15:22+00:00)
-- Detailed note: Based on our observations and information sharing by colleagues, the number of SSPE patients are on a noticeable rise,” said Dr Tipu Sultan, Senior Vice President of the Child Neurology Group of Pakistan.</p><p>“As long as measles cases continue to be reported, SSPE will continue to emerge unless high vaccination coverage is achieved,” he observed.</p><aside class="pquote"><blockquote><p>Public awareness to...
-- Evidence notes: [Doctors say a rare but fatal condition linked to measles is rising in Pakistan](https://www.gavi.org/vaccineswork/doctors-say-rare-fatal-measles-linked-condition-rising-pakistan) (Gavi, the Vaccine Alliance)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Source diversity is limited so corroboration is thin.
+### Tuberculosis and antimicrobial resistance
+- Topic size: 1 item(s) across 1 source(s); 1 official/primary-source item(s).
+- Lead item: [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/) (PubMed Historical Pathogen Case Studies, 2026-10-13T00:00)
+- Detailed note: tuberculosis complex lineages La 1.7 and La 1.8. Of 74 study isolates, 69 (93%) were phenotypically sensitive to first-line drugs isoniazid, rifampin, and ethambutol.
+- Evidence notes: [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/) (PubMed Historical Pathogen Case Studies)
+- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
 
 
 ## Last major outbreaks on file
@@ -443,35 +442,35 @@ Search window: 7 day(s) ending 2026-10-15
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) | Florida Department of Health Press Releases | Unknown | Policy, surveillance, and public health infrastructure
   Limited detail was available from feed metadata alone.
+- [Congo Ebola outbreak spreads to eighth province bordering Central African Republic](https://freepresskashmir.news/2026/10/16/congo-ebola-outbreak-spreads-to-eighth-province-bordering-central-african-republic/) | Free Press Kashmir | 2026-10-16T08:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola Outbreak Spreads to North Ubangi Province Near Central African Republic](https://vohnetwork.com/news/global/congo-ebola-outbreak-spreads-to-north-ubangi-province-near-central-african-republic) | Voice of Healthcare | 2026-10-16T05:09+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Pennsylvania doctor urges vaccination as measles outbreak grows](https://www.pbs.org/newshour/show/pennsylvania-doctor-urges-vaccination-as-measles-outbreak-grows) | PBS | 2026-10-15T22:40+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola Spreads to Eighth Congo Province as Young Children Face Heavy Toll](https://www.bloomberg.com/news/articles/2026-10-15/ebola-spreads-to-eighth-congo-province-as-young-children-face-heavy-toll) | Bloomberg | 2026-10-15T22:00+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo Ebola outbreak spreads to new province bordering Central African Republic](https://www.internazionale.it/ultime-notizie-reuters/2026/10/15/congo-ebola-outbreak-spreads-to-new-province-bordering-central-african-republic) | Internazionale | 2026-10-15T21:12+00:00 | Outbreaks and emerging infections
-  North Ubangi becomes the eighth province to be affected by the outbreak of the Bundibugyo species of Ebola, which was announced in mid-May and has become the second-largest Ebola outbreak on record, with more than 9,000 cases and more than 4,000 deaths confirmed. A health official in North Ubangi told Reuters on Thursday there had been a series of suspect deaths recently in a mining area in Wapinda health zone, close to the border with Bas-Uele, prompting samples to be analysed at a provincial laboratory and in Kinshasa. Ituri province remains the epicentre of the outbreak though cases have increased recently in North Kivu province.
 - [CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania](https://www.nbcnews.com/health/health-news/cdc-measles-outbreak-pennsylvania-rkf-jr-rcna603665) | NBC News | 2026-10-15T20:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [‘I ached so much’: Man describes bout with dengue fever contracted during Florida’s outbreak](https://www.cidrap.umn.edu/dengue/i-ached-so-much-man-describes-bout-dengue-fever-contracted-during-florida-s-outbreak) | CIDRAP | 2026-10-15T20:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola reaches eighth province in DR Congo as officials report two North Ubangi cases](https://www.kiprinform.com/en/news/ebola-reaches-eighth-province-in-dr-congo-as-officials-report-two-north-ubangi-cases/) | Cyprus Inform | 2026-10-15T19:49+00:00 | Outbreaks and emerging infections
+- [Ebola reaches eighth province in DR Congo as officials report two North Ubangi cases](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVBRSlZLZFhBY0hvRHhrOG15bHRNNnEtNE9zVjh3enU4eGVkSHZBX2Z5SVNtNjBpOG11VDRqbVAxcEtQLUlpU2NqVktsSFdQUFJLaEtVekN2Mk9pdVpjSjRFNndJUlhGTEwwSXNMbjNHN3BKRlBtX3UwX3RSRnM2QUEtQkNlR05rWWxTb05JYjhLX2Z5b0I0Rm5Hd19pTEE1WlJUWnh3cXZIYWVnck02N3pQSE1wX0N4bzFOaw?oc=5) | Cyprus Inform | 2026-10-15T19:49+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo spreads to eighth province — TimesLIVE](https://ua.news/en/world/spalakh-eboli-v-dr-kongo-poshirivsia-na-vosmu-provintsiiu-timeslive) | UA.NEWS | 2026-10-15T19:21+00:00 | Outbreaks and emerging infections
+- [Ebola outbreak in DR Congo spreads to new province bordering CAR](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeW1wSHBuSXA1eFJvbXk4SUtCaUVyMnIzT2J6bTNwb09XWUVNS1ZLN2xtLTEwWndJV0tWOVkxRFBkWkd5OXZuVkV4cGJISk5mR1JfZ0t4clAwMHhCUVVCaUhQVEk4aVNMSFhabjMxRmFCUU11TmpvNWR5V2Z3T29rTkRzazFhMnk0N1JNemN6RVMtbjFBQ2l1VWpIdnZEMnBJSHBKNHJ3?oc=5) | Africanews English | 2026-10-15T19:22+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak in DR Congo spreads to eighth province — TimesLIVE](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXJKWndSc01FYUk5SjhoLV9Ma1VuU3VmLWZYdTVJeWw4a0VKQ0lzaHExYi1Fa3FOZHA2M3J2QlVIaEx3UGR6MTJjRDlNUDVOZDJnUk9ZZ1ZGSUZ1QmlJVjNGZlZvOUtIN0J1dW00cmJCT01ZRnk4OVZBVWtUcjJ1RjVwd0o4cFRZWDJyUFNwaEVhMGx5empj?oc=5) | UA.NEWS | 2026-10-15T19:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [25 cases of measles identified in central, southeastern Minnesota, MDH says](https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2NuaGtzWHhHNkt6TFk3VWFGNE1hbmFkejNsVW9hcklvT1d0SmlEVnlCZWhvYXZHWHB5Q1h2RGdsVElhTlpNWHBPdGFFTnl5Z1NuNS16S3hWYVF2cnpsTktzTDZUd2hRUjBRbkVTLVN3Y1ZJN0RCdXFlQjFrV3ZQczItZ2RQWmNFUkdOQnh2VVRVdlNkdDY2YVVrYw?oc=5) | CBS News | 2026-10-15T18:37+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola confirmed in eighth province in Congo, sources say](https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHlPbWpmSFM2bldLdDVRQ29iRjBQcklJTTIzQjV2N3RhaTk5N2N4M182aEY2SUdOMHdjUzVENUxxTjRoSTY4VnNPdzFCWndDM0NMMWEwUFUyNDVKS29XX2xIeFd1MTVGZjM5VndOcTVTbFFFV1FtYnJpTnBtSkU1Mk12UFk4dUR6TlJrVHZCQTdPS2g5V0UyRktZbldxbnBDZDdIRkRfVUdUNXcyajdhdDc2Rm84MjZ6MnfSAboBQVVfeXFMTjh5T21qZkhTNm5XS3Q1UUNvYkYwUHJJSU0yM0I1djd0YWk5OTdjeDNfNmhGNklHTjB3Y1M1RDVMcU40aEk2OFZzT3cxQlp3QzNDTDFhMFBVMjQ1SktvV19sSHhXdTE1RmYzOVZ3TnE1U2xRRVdRbWJyaU5wbUpFNTJNdlBZOHVEek5Sa1R2QkE3T0toOVdFMkZLWW5XcW5wQ2Q3SEZEX1VHVDV3Mmo3YXQ3NkZvODI2ejJ3?oc=5) | Devdiscourse | 2026-10-15T18:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Doctors say a rare but fatal condition linked to measles is rising in Pakistan](https://www.gavi.org/vaccineswork/doctors-say-rare-fatal-measles-linked-condition-rising-pakistan) | Gavi, the Vaccine Alliance | 2026-10-15T15:22+00:00 | Outbreaks and emerging infections
-  Based on our observations and information sharing by colleagues, the number of SSPE patients are on a noticeable rise,” said Dr Tipu Sultan, Senior Vice President of the Child Neurology Group of Pakistan.</p><p>“As long as measles cases continue to be reported, SSPE will continue to emerge unless high vaccination coverage is achieved,” he observed.</p><aside class="pquote"><blockquote><p>Public awareness to increase vaccination coverage is the only bulwark against SSPE.</p></blockquote><p>- Dr Muhammad Hussain, Central Vice President Pakistan Paediatric Association (PPA)</p></aside><p>He said it was “unfortunate that some people still had reservations about vaccination,” adding that the persistent myth linking measles vaccination with autism had also affected vaccine acceptance and coverage.</p><h3>Worrying measles burden adds urgency</h3><p>According to the World Health Organization (WHO), Pakistan registered more than <a href="https://www.emro.who.int/pak/pakistan-news/pakistan-when-a-who-supported-measles-rubella-drive-also-protects-millions-from-polio.html">17,000 measles cases in 2025</a>, with an incidence rate of 66.65 cases per million people, reportedly above the threshold used to classify measles outbreaks as large and disruptive.</p><p>According to local news reports, a total of <a href="https://www.dawn.com/news/1995081">4,541 confirmed measles cases</a> were reported in the first quarter of 2026 in the country with 1,712 of them in Khyber Pakhtunkhwa. Research has shown that as many as <a href="https://www.gavi.org/vaccineswork/child-dies-complications-measles-years-after-infection-sspe-explained">1 in 10,000 measles survivors</a> will develop SSPE, with that number rising to 1 in 600 when the patient was under one year old when infected with measles.</p><p>Even considering those expectations, the situation in Khyber Pakhtunkhwa should be regarded as “a serious concern,” he said.</p><p>“I would rather say it has been emerging as an epidemic,” he added.</p><p>To substantiate his observation, Khalili said 90 confirmed cases of SSPE had been registered at his private healthcare facility in Peshawar over the course of the year to September, averaging around 10 cases a month.</p><p>Khalili said he had found two children from the same family affected by SSPE. More surprisingly, in one case, three children from a single Afghan family in Nowshera district had developed the disease.</p> <p>He called for establishing a dedicated SSPE registry, particularly at the district level, to accurately track the disease burden.</p><p>He isn’t the only physician worried about the frequency of recent SSPE diagnoses “We are facing an influx of SSPE patients as almost three to four children are arriving with SSPE complications on daily basis,” said Dr Amir Muhammad, Chairman Paediatrics Department Lady Reading Hospital (LRH), Khyber Pakhtunkhwa’s largest teaching hospital providing healthcare services to around 2.3 million patients annually.</p><p>Concerned over the increase in SSPE cases among children, Muhammad has approached Khyber Medical University (KMU) to conduct a scientific study to investigate possible reasons behind the rise in cases of the highly debilitating and often fatal disease.</p><p>A mutual support WhatsApp group founded by few concerned fathers of children affected by SSPE in Khyber Pakhtunkhwa in 2025 has grown to include 118 members over the past one and a half years.</p><p>The group, which call themselves “the SSPE Foundation,” recently organised the first-ever free medical camp for patients in Peshawar.
 - [Kenya quarantines 108 contacts linked to first Ebola case](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEpMVklPbEUxTUdKMEtrSlU3cXdUOHp3c1B0TUdrRnNac3FHUmdaTDZMZVlDdFNDdU1hVWpBUG5IVndkOF9HYzZxaUR5UTF0bFZadDR1QXFGdy1icDFxYV9BNFNhRFhOc0tnc1BaWDRiN3ZrcVBZNklqTVNMYUk3aWRhMXlHTmhGMUE?oc=5) | Radiokaya | 2026-10-15T14:33+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo-Kinshasa: DRC - Children, Disproportionately Affected Yet Left Behind in the Current Ebola Outbreak Response](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WOEx2YW5uVWdvUWNqamR4Z250b1lqOTdzUTVVUVhXYTZsbENZbW9Wb05xVFNQWnpxdHlKMTNYUV9jNU93WXZaaDF4NEhwVW45RldKNFEzaHdWUmM?oc=5) | allAfrica.com | 2026-10-15T12:28+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola death toll passes 4,400 in record-breaking outbreak](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVndkUjJEbEdFVC1vTk41c1ljd0d1QkJKVDFnRVhsZzJTdGNQWDFORkVoc29LcVRpMFQ0aTRTRG81Q2ZfMFVVNUhCVngza0ZZd3NYdHllemxTX0FsLWlPSk90TFJQXzJHRTl5QnItdFkxazdLUWFmSXpWTmRKX0hHbi1JeTlRZ2JRUmliak5XRnJBalUyUzdac3VSVXRjM1RQZUN1OTUtbXA0U1B1OHdGRUoyWEtOSU5KbTliUkx2aXp1QQ?oc=5) | Dubai Eye 103.8 | 2026-10-15T11:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo health workers call for nationwide strike amid Ebola outbreak](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0lnZXhKZGRpOUdCU2NlM0V6V28zTEplLXRxWGlMYWtxNFd4S2d2MmFYVTlzbm5JV0pJdXV3WmFNRUl3VWFJNnlJeXhsVFFYbktJemtIWjljUUVPSWRRTmdpMVM2em1Yc08xRkl1eTR3S2lHQmh1U3ZpNWptWWRkaW1TTy1oMUhvUzVGMFplU25PXy0xM0dvM29YNVNFalU4bVRWQkIwQVV3Y3h0TU5ma1dRbm1BWmhj0gFaQVVfeXFMT3NlM2hOcFFzeG9XaXJKNXFsRFNXTWJrQmxvZ0lqakFsRHRjLWI3azZ5MGphZXowekZSVjkxaVVCcEMzVDB2TG5OT1JzZFdMdExKdFJzamw5MWNB?oc=5) | Oman Observer | 2026-10-15T08:36+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Healthcare Workers Go on Strike Despite Ebola Outbreak in the Congo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFZEY1VwMzQycnlncThSWk5tMkVLWVFfY0Q3MkRRcURVUjZQdDFuTkRkT0gzNjYybUdvNmZuOVBHQ2otekZwd3BBODVUS1JnajZVNERBdmZtc3NTUXdvYUlfaG1DNDdFS05TeDFnOFBzeDJVR1ZrVW9aRWtfdnRoTTUyWDYydUZya2N1dWVZTV9kcFBKamRQcklZVVpYcGJ6bHo4T0VqdWwyZTMteEE?oc=5) | blue News | 2026-10-15T04:01+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Kenya’s Ebola cases test preparedness beyond Nairobi](https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUt2YzRfMFgxVnBsZDRsY0tEcm5leGhVOC1SVmQwUk5yOGRmMC1Yd09hV3lqU3Z1LXNTWFNOV0VDS3Fua1NZMUF3ZWl2WkduLUlNZHU0bzhYeUI2VEhlM3hGVF9nSjdBTDIwSXRvRHRVeE5sNkRzSmdsOGk0LTk5RDA3MDlJRzZ5Qlo3NUtBeFZaVW0xSEFHWdIBngFBVV95cUxNd3RJTU5TdGpYVlNGUjNzaThNTEhyRHVscUtRSnVCOW4tRjJ4Qnpfc3dIdDROWDJXUHl2dDczakJxNW52bGFXZkpFRXZEWkswRWdKNHp2S2hkV3hzOUQxQWl0cW9aOHU3akVXaVIwRW9jQzFlcHZmbXV6VFVRaUVRNFFRcHMzdHFEWklrZFVpWFRXaG9Ub2pxazB4TWswQQ?oc=5) | Al Jazeera | 2026-10-15T02:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -511,6 +510,12 @@ Search window: 7 day(s) ending 2026-10-15
   Journal/preprint server: Life science alliance
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42875173/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42875173/
+- [Severity-dependent and sex-biased dysregulation of A-to-I RNA editing in COVID-19 reveals CTSS as a key regulatory target.](https://pubmed.ncbi.nlm.nih.gov/42872762/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/15476286.2026.2736869
+  Journal/preprint server: RNA biology
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42872762/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42872762/
 
 ## Historical epi / weird epi corner
 - [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/) | PubMed Historical Pathogen Case Studies
