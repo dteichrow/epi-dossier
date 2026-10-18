@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-10-18
-Generated at: 2026-10-18T06:15
+Generated at: 2026-10-18T09:54
 Search window: 7 day(s) ending 2026-10-18
 
 ## Executive scan
@@ -12,26 +12,26 @@ Search window: 7 day(s) ending 2026-10-18
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-weekly-external-situation-report) (WHO Regional Office for Africa; 2026-10-14T08:27+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/) (PubMed Historical Pathogen Case Studies; 2026-10-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/) (PubMed Historical Pathogen Case Studies; 2026-10-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (229), Policy, surveillance, and public health infrastructure (23), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (225), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### COVID-19 and SARS-CoV-2
 - Lead item: [Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649) (CDC MMWR)
-- Newly tracked story cluster: 8 item(s) across 5 source(s).
+- Newly tracked story cluster: 7 item(s) across 4 source(s).
 - Monitoring: Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak
 - PubMed Infectious Disease Search now includes deaths or fatal cases in the story frame.
 - CDC MMWR now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 131 item(s) across 100 source(s).
+- Newly tracked story cluster: 128 item(s) across 99 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - PBS now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 68 item(s) across 51 source(s).
+- Newly tracked story cluster: 69 item(s) across 54 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
@@ -50,7 +50,7 @@ Search window: 7 day(s) ending 2026-10-18
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 131 item(s) across 100 source(s); 1 official/primary-source item(s).
+- Topic size: 128 item(s) across 99 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Second case of measles confirmed on Long Island, health officials say](https://www.cbsnews.com/newyork/video/second-case-of-measles-confirmed-on-long-island-health-officials-say/) (CBS News); [CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak](https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective) (The Guardian); [Bangladesh is battling measles. It's a 'real warning' to other nations](https://www.reuters.com/world/bangladesh-is-battling-measles-its-real-warning-other-nations-2026-10-17/) (Reuters); [Measles outbreak declared over in Manitoba](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjl2eXQzcjJsS2RWRmhuNkJmRXJoTmFpbVdnTjBDaDhZNS0tc1c2dl9vRnVQeE1XMlN5V1BqdW91TFozV0x4XzhhWWtiWm9rNnNPYWd5ZUVIcW9pMHpZZWlQdklUa19rSXpaVWp2QURXd3pfQUM3ZFc2WWtFN2RlSDhibjJsc00?oc=5) (CBC)
@@ -58,7 +58,7 @@ Search window: 7 day(s) ending 2026-10-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 68 item(s) across 51 source(s); 2 official/primary-source item(s).
+- Topic size: 69 item(s) across 54 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-10-14T17:36+02:00)
 - Detailed note: This increases the cumulative total to 9066 confirmed cases, including 4381 confirmed deaths [crude case fatality ratio (CFR) 48.3%] as of 11 October 2026. The latest situation report as of October 16 indicates 9,415 confirmed cases and 4,536 deaths in the DRC since the outbreak began. Since External Situation Report #21, a total of 463 additional confirmed cases and 233 confirmed deaths have been reported.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-weekly-external-situation-report) (WHO Regional Office for Africa); [DRC: Ebola spreads to Nord-Ubangi, eighth province affected](https://beninwebtv.bj/en/drc-ebola-spreads-to-nord-ubangi-eighth-province-affected/) (Bénin Web TV); [DRC confirms Ebola outbreak has spread to eighth province](https://www.channelafrica.co.za/channelafrica/news/drc-confirms-ebola-outbreak-has-spread-to-eighth-province/) (Channel Africa); [Tanzania tightens border controls as Ebola cases rise in Kenya](https://www.theeastafrican.co.ke/tea/news/east-africa/-tanzania-tightens-border-controls-as-ebola-cases-rise-in-kenya-5636248) (The EastAfrican)
@@ -74,12 +74,12 @@ Search window: 7 day(s) ending 2026-10-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
-- Topic size: 8 item(s) across 5 source(s); 7 official/primary-source item(s).
+- Topic size: 7 item(s) across 4 source(s); 7 official/primary-source item(s).
 - Lead item: [Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649) (CDC MMWR, 2026-10-15T19:42+00:00)
 - Detailed note: Over ten years, age and risk-based vaccination generated gross returns of $11.24 (VSL) and $5.69 (VSLY) per Australian dollar invested (net returns $10.24 and $4.69), with NMBs of $64.97 billion and $29.76 billion, averting 234,187 hospitalizations and 13,890 deaths. Weekly / October 15, 2026 / 75(40);601â606 Katherine Newell, DPhil 1 ,2 ; Elizabeth Ohlsen, MD 1 ; Kristen Moore 1 ; Sarah Aho, MPH 1 ; Louisa...
-- Evidence notes: [Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649) (CDC MMWR); [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/) (PubMed Historical Pathogen Case Studies); [Collaborative surveillance implementation guide](https://www.afro.who.int/publications/collaborative-surveillance-implementation-guide) (WHO Regional Office for Africa); [Ebola in Kenya: 3 lessons from DRC and Covid-19 as cases rise to 7](https://peopledaily.digital/insights/ebola-in-kenya-3-lessons-from-drc-and-covid-19-as-cases-rise-to-7) (People Daily); [The socioeconomic value of adult respiratory vaccination in Australia: a benefit-cost analysis.](https://pubmed.ncbi.nlm.nih.gov/42892738/) (PubMed Infectious Disease Search)
+- Evidence notes: [Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649) (CDC MMWR); [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/) (PubMed Historical Pathogen Case Studies); [Collaborative surveillance implementation guide](https://www.afro.who.int/publications/collaborative-surveillance-implementation-guide) (WHO Regional Office for Africa); [The socioeconomic value of adult respiratory vaccination in Australia: a benefit-cost analysis.](https://pubmed.ncbi.nlm.nih.gov/42892738/) (PubMed Infectious Disease Search); [A helminth-microbiota metabolic relay promotes disease tolerance.](https://pubmed.ncbi.nlm.nih.gov/42881529/) (PubMed Infectious Disease Search)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Mpox
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
@@ -457,8 +457,6 @@ Search window: 7 day(s) ending 2026-10-18
   Limited detail was available from feed metadata alone.
 - [Kenya’s Ebola cases rise to 7 after 4 more test positive](https://www.turkiyetoday.com/world/kenyas-ebola-cases-rise-to-7-after-4-more-test-positive-3230528) | Türkiye Today | 2026-10-18T06:50+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola in Kenya: 3 lessons from DRC and Covid-19 as cases rise to 7](https://peopledaily.digital/insights/ebola-in-kenya-3-lessons-from-drc-and-covid-19-as-cases-rise-to-7) | People Daily | 2026-10-18T05:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Congolese Church supports communities facing both war and Ebola outbreak](https://thecatholicherald.com/article/congolese-church-supports-communities-facing-both-war-and-ebola-outbreak) | The Catholic Herald | 2026-10-18T05:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [How prepared is Kenya for an Ebola outbreak?](https://globalnation.inquirer.net/342449/how-prepared-is-kenya-for-an-ebola-outbreak) | Inquirer.net | 2026-10-18T04:40+00:00 | Outbreaks and emerging infections
@@ -469,13 +467,15 @@ Search window: 7 day(s) ending 2026-10-18
   Limited detail was available from feed metadata alone.
 - [Kenya confirms four more Ebola cases, bringing total to seven](https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven) | Al Jazeera | 2026-10-17T16:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Kenya confirms four new Ebola cases, including three health workers](https://www.the-star.co.ke/news/2026-10-17-kenya-confirms-four-new-ebola-cases) | The Star, Kenya | 2026-10-17T14:53+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [1 in 4 Ebola deaths are children in Democratic Republic of Congo's worst outbreak](https://www.cbc.ca/news/health/ebola-congo-children-deaths-9.7384641) | CBC | 2026-10-17T13:02+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak spreading to Kenya exposes failures that put battle to contain virus at risk, experts warn](https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-congo-contact-tracing-b3067572.html) | The Independent | 2026-10-17T12:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak](https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective) | The Guardian | 2026-10-17T12:00+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Over 900 dengue fever cases recorded in North Darfur’s Tawila](https://sudantribune.com/article/320054) | Sudan Tribune | 2026-10-17T06:46+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak](https://www.africanews.com/2026/10/17/frontline-workers-in-drc-receive-ervebo-vaccine-amid-growing-ebola-outbreak/) | Africanews English | 2026-10-17T05:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
