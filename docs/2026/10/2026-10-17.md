@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-10-17
-Generated at: 2026-10-17T17:02
+Generated at: 2026-10-17T21:24
 Search window: 7 day(s) ending 2026-10-17
 
 ## Executive scan
@@ -12,7 +12,7 @@ Search window: 7 day(s) ending 2026-10-17
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-weekly-external-situation-report) (WHO Regional Office for Africa; 2026-10-14T08:27+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Genomic diversity of human-associated Mycobacterium bovis in Canada.](https://pubmed.ncbi.nlm.nih.gov/42866990/) (PubMed Historical Pathogen Case Studies; 2026-10-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Visual Biopolitics in Crisis: Multimodal Analysis of Tuberculosis in the Early Republican Period and COVID-19 Health Communication in Turkey.](https://pubmed.ncbi.nlm.nih.gov/42865246/) (PubMed Historical Pathogen Case Studies; 2026-10-13T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (238), Policy, surveillance, and public health infrastructure (21), Major epidemiology studies (5)
+- Category mix: Outbreaks and emerging infections (235), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (5)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
@@ -26,41 +26,41 @@ Search window: 7 day(s) ending 2026-10-17
 
 ### Ebola virus disease
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News)
-- Newly tracked story cluster: 63 item(s) across 48 source(s).
+- Newly tracked story cluster: 64 item(s) across 49 source(s).
 - Monitoring: Ebola disease outbreak in the Democratic Republic of the Congo
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- Africanews English now foregrounds vaccination or vaccine policy in the story.
+- CIDRAP now foregrounds vaccination or vaccine policy in the story.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 140 item(s) across 107 source(s).
+- Newly tracked story cluster: 135 item(s) across 103 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
-- PBS now foregrounds vaccination or vaccine policy in the story.
+- News From The States now foregrounds vaccination or vaccine policy in the story.
 
 ### Dengue and arboviruses
 - Lead item: [Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650) (CDC MMWR)
-- Newly tracked story cluster: 51 item(s) across 41 source(s).
+- Newly tracked story cluster: 52 item(s) across 41 source(s).
 - Monitoring: Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
-### Tuberculosis and antimicrobial resistance
-- Lead item: [Bayesian Estimates of Prevalence and Likelihood Ratio for Four Carcinosin Symptoms across Varied Clinical Conditions.](https://pubmed.ncbi.nlm.nih.gov/42887560/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 2 item(s) across 1 source(s).
-- Monitoring: Bayesian Estimates of Prevalence and Likelihood Ratio for Four Carcinosin Symptoms across Varied Clinical Conditions.
+### Mpox
+- Lead item: [Health Emergency Intelligence and Surveillance](https://www.afro.who.int/publications/health-emergency-intelligence-and-surveillance-quarter-three-report-2026) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Monitoring: Health Emergency Intelligence and Surveillance
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 140 item(s) across 107 source(s); 1 official/primary-source item(s).
+- Topic size: 135 item(s) across 103 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak](https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective) (The Guardian); [Bangladesh is battling measles. It's a 'real warning' to other nations](https://www.reuters.com/world/bangladesh-is-battling-measles-its-real-warning-other-nations-2026-10-17/) (Reuters); [Measles outbreak declared over in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-declared-over-9.7384397) (CBC); [More than 4,400 measles cases reported in US as CDC plans to send 'disease detective' to Pennsylvania - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/4400-measles-cases-reported-us-cdc-plans-send/story?id\=137315190) (ABC News - Breaking News, Latest News and Videos)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak](https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective) (The Guardian); [Bangladesh is battling measles. It's a 'real warning' to other nations](https://www.reuters.com/world/bangladesh-is-battling-measles-its-real-warning-other-nations-2026-10-17/) (Reuters); [Measles cases surpass 1,000 in Pennsylvania amid the state's largest outbreak in decades - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/measles-cases-surpass-1000-pennsylvania-outbreak-continues-spread/story?id\=137002024) (ABC News - Breaking News, Latest News and Videos); [Measles outbreak declared over in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-declared-over-9.7384397) (CBC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 63 item(s) across 48 source(s); 2 official/primary-source item(s).
+- Topic size: 64 item(s) across 49 source(s); 2 official/primary-source item(s).
 - Lead item: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News, 2026-10-14T17:36+02:00)
 - Detailed note: This increases the cumulative total to 9066 confirmed cases, including 4381 confirmed deaths [crude case fatality ratio (CFR) 48.3%] as of 11 October 2026. Since External Situation Report #21, a total of 463 additional confirmed cases and 233 confirmed deaths have been reported.
 - Evidence notes: [Ebola disease outbreak in the Democratic Republic of the Congo](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo Weekly External Situation Report 15, Data as of 23 August 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-weekly-external-situation-report) (WHO Regional Office for Africa); [Kenya Confirms Four New Ebola Cases](https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html) (The New York Times); [Kenya confirms four more Ebola cases, bringing total to seven](https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven) (Al Jazeera); [1 in 4 Ebola deaths are children in Democratic Republic of Congo's worst outbreak](https://www.cbc.ca/news/health/ebola-congo-children-deaths-9.7384641) (CBC)
@@ -68,7 +68,7 @@ Search window: 7 day(s) ending 2026-10-17
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 51 item(s) across 41 source(s); 5 official/primary-source item(s).
+- Topic size: 52 item(s) across 41 source(s); 5 official/primary-source item(s).
 - Lead item: [Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650) (CDC MMWR, 2026-10-15T19:42+00:00)
 - Detailed note: Weekly / October 15, 2026 / 75(40);607â608 Sarah Gallalee, PhD 1 ,2 ; Hannah M. Virgin Islands (USVI) experienced its first dengue virus outbreak in approximately a decade, including 263 confirmed cases and the territory’s first confirmed dengue virus–associated death since 2005. Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight Antimicrobial resistance (AMR)...
 - Evidence notes: [Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650) (CDC MMWR); [Record-high West Nile virus infections reported amid spread to new parts of Europe](https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe) (ECDC News); [Chikungunya virus disease worldwide overview](https://www.ecdc.europa.eu/en/chikungunya-monthly) (ECDC News); [EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance](https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
@@ -84,11 +84,11 @@ Search window: 7 day(s) ending 2026-10-17
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Mpox
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
+- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [Health Emergency Intelligence and Surveillance](https://www.afro.who.int/publications/health-emergency-intelligence-and-surveillance-quarter-three-report-2026) (WHO Regional Office for Africa, 2026-10-07T11:47+00:00)
 - Detailed note: Surveillance reaching every Member State 44 Member States participated in the IDSR assessment; weekly IDSR data completeness reached 94% by week 52, supported by 31 meningitis bulletins and dedicated outbreak analytics. Quality assured, performance measured 51 laboratories across 32 countries achieved an 89.4% detection success rate in the Mpox External Quality Assessment, demonstrating regional standardization...
-- Evidence notes: [Health Emergency Intelligence and Surveillance](https://www.afro.who.int/publications/health-emergency-intelligence-and-surveillance-quarter-three-report-2026) (WHO Regional Office for Africa); [Russia: 4 confirmed mpox cases reported in St. Petersburg](https://outbreaknewstoday.substack.com/p/russia-4-confirmed-mpox-cases-reported) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Evidence notes: [Health Emergency Intelligence and Surveillance](https://www.afro.who.int/publications/health-emergency-intelligence-and-surveillance-quarter-three-report-2026) (WHO Regional Office for Africa); [Russia: 4 confirmed mpox cases reported in St. Petersburg](https://outbreaknewstoday.substack.com/p/russia-4-confirmed-mpox-cases-reported) (Outbreak News Today); [Clade I Monkeypox Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IZXZGczIyczRIMklCMW1aQm1obU53WjlJYUY4bEVBRXJjMHBCcVRtdy1fVk1ZNWg4R3B3ZDNwREQ4TXdvVEw3M1dDZnA4Q0ZPeUtDajBFUGcwTVRObklzbWhzbHM5UQ?oc=5) (Centers for Disease Control and Prevention)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
@@ -463,21 +463,21 @@ Search window: 7 day(s) ending 2026-10-17
   Limited detail was available from feed metadata alone.
 - [Over 900 dengue fever cases recorded in North Darfur’s Tawila](https://sudantribune.com/article/320054) | Sudan Tribune | 2026-10-17T06:46+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak](https://www.africanews.com/2026/10/17/frontline-workers-in-drc-receive-ervebo-vaccine-amid-growing-ebola-outbreak/) | Africanews English | 2026-10-17T05:56+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [Bangladesh is battling measles. It's a 'real warning' to other nations](https://www.reuters.com/world/bangladesh-is-battling-measles-its-real-warning-other-nations-2026-10-17/) | Reuters | 2026-10-17T01:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Measles cases surpass 1,000 in Pennsylvania amid the state's largest outbreak in decades - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/measles-cases-surpass-1000-pennsylvania-outbreak-continues-spread/story?id\=137002024) | ABC News - Breaking News, Latest News and Videos | 2026-10-16T23:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Measles outbreak declared over in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-declared-over-9.7384397) | CBC | 2026-10-16T21:41+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [More than 4,400 measles cases reported in US as CDC plans to send 'disease detective' to Pennsylvania - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/4400-measles-cases-reported-us-cdc-plans-send/story?id\=137315190) | ABC News - Breaking News, Latest News and Videos | 2026-10-16T20:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kenya quarantines 108 contacts linked to first Ebola case](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEpMVklPbEUxTUdKMEtrSlU3cXdUOHp3c1B0TUdrRnNac3FHUmdaTDZMZVlDdFNDdU1hVWpBUG5IVndkOF9HYzZxaUR5UTF0bFZadDR1QXFGdy1icDFxYV9BNFNhRFhOc0tnc1BaWDRiN3ZrcVBZNklqTVNMYUk3aWRhMXlHTmhGMUE?oc=5) | Radiokaya | 2026-10-16T20:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [3rd person in Kenya tests positive for Ebola as DR Congo outbreak spreads to 8th province](https://www.cidrap.umn.edu/ebola/3rd-person-kenya-tests-positive-ebola-dr-congo-outbreak-spreads-8th-province) | CIDRAP | 2026-10-16T20:03+00:00 | Outbreaks and emerging infections
   So far, the virus has sickened 9,235 people and led to 4,444 deaths, according to the US Centers for Disease Control and Prevention (CDC). Yesterday, health officials reported that two cases of Ebola has been detected in an eighth province, North Ubangi. The 65-year-old woman—a close relative of the first two Ebola cases in the country—started quarantining prior to developing symptoms.
 - [Uganda confirms Ebola outbreak after Congolese man dies in Kampala](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEtnRDFTLWFaQ2VUcDIyVktaYS1pNXlVam9jWWxTNjVTdUE5V1RRNG1jQVBpZjJjM1llYmNvUTFhZ2VKTVoxb241WUpFUnY5aW1INDJ1OUc0UXRXRUN5ODU1UjNHdUFpcHJMeF9TaVpEMlRWMkRGX3BVWURsd2JTZHAzdzMyYmhBUFJXal9yLTcxUdIBlwFBVV95cUxQbzVqMl95SzE2djBpbzE0TnZtdXktbnZ1amladkEzaWJvcDVLR0YwWDVvTThXTkJWRTlwX3NIQzFETURHLVJ4NTVrSTJkdU0zbWFVWmE1NWZ1blpkSTBTOE9zaktuQ2tiaDdrTzRTZkVZejZVSXI0d1pUWmZOanUtd2dRX3UxNVpVd0FfTDFqelFNWU8wWFQ4?oc=5) | Eye Radio | 2026-10-16T19:24+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [US measles cases grow by 8% in 1 week for a total of 4,410 cases](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGRDdUVteEZlLU1EemFwUmRWZzR6Y0dBWkRSTE1NZ21ydzVldHBhWXl3dTBfa3A5dTFSMzl6OXNJUElmRG14M25tblRiamJoVGhUaHdEN2JzNXZGSmdZbGtaU29TS2JtMExfUUJmTjEzNDdPTktyUTFETHA5RDlrX1dqSE5xX19rV0E?oc=5) | CIDRAP | 2026-10-16T19:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Kenya records third Ebola case, linked to first patient who died](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXYzakJ3Vl9FWkRadk9COHQtUWNvVDU1bkR1elRQOVcyMmRQdHFwZlBQSGFUMF9YX2RTNGNCLTJsdlk3N1dLQW13NWdTX0ZvcS0zUUFHRXRjYW9GZ19NTXhEV29BcUhIcG5HV3RsXzIweDduSzFyLWtXU3ZXa1ZNUGwzSUNaank3S0p2cGppV1ZFU2Yt0gGaAUFVX3lxTFBTdldkV3haVjBlc3pxNWlmaklueExmOEZ3U1c3U0ZtWjM3VzBHT1dETF82ZDFjLWl2WnlwVEFNcUxidjZTTXN6aW55N2FndEtCaFd0bkZxQjlydGtRN1BoRnlxRFRmcnozNGV5eVVUMU40bEhpQnlZdVR6ZUpfY3hMYktEYXQ5aEVITVVHSVhRUm1yOTh1SnMzb2c?oc=5) | Al Jazeera | 2026-10-16T19:01+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Kenya confirms third Ebola case as health officials race to contain outbreak](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFZsc3B6am03YjlwSTFPQVhZWFdyNm5leWxMZldLU3RHVHdVMVRaMUxRWVg3ZzRxblVkalFxY3ZpX1ZubUtlVXlMQ1pMSVJDWm5XX0RGQ21pbElabWRGdzlhVWxoZ0cwRERvYlVrMDh1YmQzcWtXRWk0MUJHV1dlbTRBOGJYeEQ3bVR6NmoyMjdxRWxsN2V5RFNPY3RFeXYydi1wSFlhQjI3Wl8yZk0zcGxQRGNvUQ?oc=5) | Africanews English | 2026-10-16T17:38+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
