@@ -372,6 +372,7 @@ def write_public_surfaces(
     if dashboard_report["summary"]["errors"]:
         detail = "; ".join(
             f"{issue['story_id']} {issue['metric']}: {issue['message']}"
+            + (f" | {issue['evidence']}" if issue.get("evidence") else "")
             for issue in dashboard_report["issues"]
             if issue["severity"] == "error"
         )

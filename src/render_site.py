@@ -1729,6 +1729,7 @@ def dashboard_override_metric(override: dict[str, Any], metric_kind: str) -> dic
     result = {
         "value": normalize_whitespace(str(metric.get("value", ""))),
         "note": dashboard_override_metric_note(override, metric),
+        "source_date": normalize_whitespace(str(override.get("as_of", ""))),
     }
     if metric_kind == "cases":
         result["label"] = normalize_whitespace(str(metric.get("label") or "Reported cases"))
@@ -1783,7 +1784,11 @@ def infer_outbreak_metric(story: dict[str, Any], items: list[dict[str, Any]], me
         value = selected["value"]
         source = selected["source"]
         metric_label = selected["metric_label"]
-        result = {"value": value, "note": metric_note_for_source(source, metric_kind, metric_label)}
+        result = {
+            "value": value,
+            "note": metric_note_for_source(source, metric_kind, metric_label),
+            "source_date": str(source.get("date") or ""),
+        }
         if metric_kind == "cases":
             result["label"] = metric_label or "Cases"
         return result
@@ -1822,6 +1827,7 @@ def collect_outbreak_metric_candidates(story: dict[str, Any], items: list[dict[s
                     metric_context_looks_historical(text, match.start(), match.end())
                     or metric_context_looks_date(text, match.start(), match.end())
                     or metric_context_looks_incremental(text, match.start(), match.end())
+                    or metric_context_has_narrower_geography(story, text, match.start(), match.end())
                 ):
                     continue
                 qualifier = metric_display_qualifier(match.groupdict().get("qualifier", ""), text, match.start(), match.end())
@@ -1933,7 +1939,7 @@ def metric_source_reports_authority_count(
         # authority-citing surveillance count.
         text = text[max(0, int(metric_start) - 140) : int(metric_start)]
     authority_patterns = [
-        r"\b(?:congo|drc|health ministry|ministry of health|health authorities|authorities|government|officials)(?:\s+(?:has|had))?\s+(?:says?|said|reported|recorded|confirmed|announced)\b",
+        r"\b(?:congo|drc|health ministry|ministry of health|health authorities|authorities|government|officials)(?:\s+(?:has|have|had))?\s+(?:says?|said|reported|recorded|confirmed|announced)\b",
         r"\b(?:according to|citing)\s+(?:congo|drc|the health ministry|the ministry of health|health authorities|authorities|officials|government|who)\b",
         r"\b(?:who|africa cdc|cdc|ecdc)\s+(?:says?|said|reported|confirmed)\b",
         r"\b(?:un|united nations)\s+(?:health\s+)?agency\s+(?:says?|said|reported|confirmed)\b",
@@ -2074,7 +2080,10 @@ def metric_context_looks_incremental(text: str, start: int, end: int) -> bool:
         r"\b\d[\d,]*\s+(?:new|additional)\s+(?:(?:suspected|probable|confirmed|reported)\s+)?cases?\b",
         sentence_before,
     )
-    prior_cumulative_total = re.search(r"\b(?:cumulative|total)\b", sentence_before)
+    # "A total of 463 additional cases and 233 deaths" is still an increment.
+    # Only a transition after that increment can introduce a cumulative total.
+    incremental_end = max((match.end() for match in (prior_incremental_count, prior_new_case_count) if match), default=0)
+    prior_cumulative_total = re.search(r"\b(?:cumulative|total)\b", sentence_before[incremental_end:])
     return bool(
         re.search(r"\b(?:an?\s+)?(?:additional|new)\s*$", before)
         or re.search(r"\b(?:increase|increased|increase\s+of|added)\s+(?:of\s+)?$", before)
@@ -2085,6 +2094,31 @@ def metric_context_looks_incremental(text: str, start: int, end: int) -> bool:
         or re.match(r"\s+(?:new|additional)\s+(?:confirmed\s+|reported\s+)?(?:cases?|deaths?|fatalities)\b", after)
         or ((prior_incremental_count or prior_new_case_count) and not prior_cumulative_total)
     )
+
+
+def metric_context_has_narrower_geography(story: dict[str, Any], text: str, start: int, end: int) -> bool:
+    """Keep explicitly local counts out of a broader disease dashboard.
+
+    This is a conservative text guard, not a geographic inference: the source
+    must name the local jurisdiction, and a local topic must name it too.
+    """
+    sentence_start = max(text.rfind(".", 0, start), text.rfind(";", 0, start)) + 1
+    sentence_end = min((pos for mark in (".", ";") if (pos := text.find(mark, end)) >= 0), default=len(text))
+    sentence = text[sentence_start:sentence_end]
+    topic = " ".join(str(story.get(key) or "") for key in ("display_title", "topic_name", "country")).lower()
+    # Capitalized place names avoid treating "across eight provinces" as one
+    # subnational jurisdiction. Counts stay visible in the underlying evidence.
+    place = r"[A-Z][\w’'-]*(?:\s+[A-Z][\w’'-]*){0,4}"
+    jurisdiction = r"(?i:province|district|county|state|city|health zone)"
+    patterns = (
+        rf"(?i:\b(?:in|within|across)\s+(?:the\s+)?)(?P<place>{place})\s+{jurisdiction}\b",
+        rf"(?i:\b(?:in|within)\s+(?:the\s+)?){jurisdiction}(?i:\s+of\s+)(?P<place>{place})\b",
+    )
+    for pattern in patterns:
+        for match in re.finditer(pattern, sentence):
+            if not re.search(rf"(?<!\w){re.escape(match.group('place').lower())}(?!\w)", topic):
+                return True
+    return False
 
 
 def metric_display_qualifier(qualifier: str, text: str, start: int, end: int) -> str:

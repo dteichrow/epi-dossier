@@ -317,7 +317,9 @@ def validate_metric_against_candidates(
     if dashboard_value is None:
         return issues
 
-    dashboard_timestamp = dashboard_metric_timestamp(story, items, override, metric_kind, metric, authoritative)
+    # The renderer may have superseded a curated override. Validate the date of
+    # the selected source, not the discarded override or another equal count.
+    dashboard_timestamp = parse_datetime_value(metric.get("source_date", ""))
     for candidate in authoritative:
         candidate_timestamp = int(candidate.get("raw_timestamp") or 0)
         candidate_value = int(candidate.get("numeric_value") or 0)
@@ -333,30 +335,6 @@ def validate_metric_against_candidates(
             )
             break
     return issues
-
-
-def dashboard_metric_timestamp(
-    story: dict[str, Any],
-    items: list[dict[str, Any]],
-    override: dict[str, Any],
-    metric_kind: str,
-    metric: dict[str, str],
-    authoritative: list[dict[str, Any]],
-) -> int:
-    if isinstance(override.get(metric_kind), dict) and override.get(metric_kind, {}).get("value"):
-        return parse_datetime_value(str(override.get("as_of", "")))
-    dashboard_value = metric_number(metric.get("value"))
-    matching = [
-        candidate
-        for candidate in authoritative
-        if dashboard_value is not None and int(candidate.get("numeric_value") or 0) == dashboard_value
-    ]
-    if matching:
-        return max(int(candidate.get("raw_timestamp") or 0) for candidate in matching)
-    selected_candidates = authoritative or render_site.collect_outbreak_metric_candidates(story, items, metric_kind)
-    if selected_candidates:
-        return int(render_site.select_metric_candidate(selected_candidates).get("raw_timestamp") or 0)
-    return 0
 
 
 def candidate_recency_key(candidate: dict[str, Any]) -> tuple[int, int]:
