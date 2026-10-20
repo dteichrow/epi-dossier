@@ -108,7 +108,16 @@ For outbreak pages, compare the top dashboard against the newest supported item 
 - Metadata-only or aggregator-only count headlines do not become dashboard counts unless they pass the authority-citing rule or are curated in `config/outbreak_dashboard_overrides.yml`.
 - Overrides must include `source_name`, `source_url`, `source_status`, `as_of`, a numeric value, and a note for each overridden metric.
 - If a newer authority-citing count exceeds an override or rendered dashboard value, `src.outbreak_dashboard_quality` fails the build.
+- The comparison uses the selected metric's source date. A superseded override's date must not be attached to a newly selected report; a later report can revise a total downward.
+- Counts explicitly assigned to a named province, district, county, state, city, or health zone are withheld from broader topic dashboards unless that jurisdiction is named in the topic. This conservative text check does not establish complete geographic comparability; inspect the source before treating a media figure as a surveillance total.
+- Preserve lower-bound qualifiers and distinguish cumulative counts from reporting-period additions, including paired case/death increments introduced by “a total of.”
 - If a source refresh is degraded, the public Newsdesk home shows a source-health notice and the exported `health.json` carries the affected source list.
+
+### October 20, 2026 publishing regression
+
+Four consecutive public-publish runs failed after rendering the Ebola dashboard. A fresh collection reproduced the failure: an October 18 AP report carried by [SCMP](https://www.scmp.com/news/world/africa/article/3371328/dr-congos-fast-moving-ebola-outbreak-spreads-eighth-province) contained both outbreak-wide totals and two cases/one death in Nord-Ubangi province. The extractor recognized “has recorded” for the provincial figures but missed “authorities have recorded” for the broader totals. The recency selector then promoted the provincial figures. Separately, QA dated that selection using the superseded August override, producing misleading stale-count errors.
+
+The repair recognizes the plural auxiliary, excludes explicitly narrower geographic counts from broad dashboards, carries the selected source date into QA, and includes comparison evidence in build failures. A paired-increment regression found during the replay is also covered. The failed collection was replayed without refetching: all six generated story pages passed dashboard QA. Regression tests cover local counts, qualified totals, paired increments, downward revisions, and genuinely stale selections. The gate remains blocking; no outbreak counts were manually overwritten.
 
 ## Recovery
 

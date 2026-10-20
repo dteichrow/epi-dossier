@@ -2,6 +2,9 @@ from __future__ import annotations
 
 from pathlib import Path
 
+import pytest
+
+from src import render_site
 from src.outbreak_dashboard_quality import validate_overrides, validate_snapshot
 
 
@@ -184,6 +187,71 @@ def test_dashboard_override_requires_traceable_source() -> None:
     errors = [issue.message for issue in issues if issue.severity == "error"]
     assert "Dashboard override is missing source_url." in errors
     assert "Dashboard override is missing source_status." in errors
+
+
+@pytest.mark.parametrize("use_override", [False, True])
+def test_superseded_override_date_does_not_make_selected_report_stale(tmp_path: Path, use_override: bool) -> None:
+    """A later report may revise totals down; compare against its actual date."""
+    story = base_story()
+    story["official_item_ids"] = ["older", "selected"]
+    story["press_item_ids"] = []
+    items = [
+        {
+            "item_id": "older",
+            "title": "Ebola surveillance report",
+            "summary": "The cumulative total is 1,800 confirmed cases and 650 confirmed deaths.",
+            "published_at": "2026-07-10T00:00:00+00:00",
+            "official": True,
+        },
+        {
+            "item_id": "selected",
+            "title": "Ebola surveillance report",
+            "summary": "The revised cumulative total is 1,750 confirmed cases and 620 confirmed deaths.",
+            "published_at": "2026-07-14T00:00:00+00:00",
+            "official": True,
+        },
+    ]
+    override = {
+        "source_name": "Example health authority",
+        "source_url": "https://example.com/report",
+        "source_status": "Official report",
+        "as_of": "2026-07-08",
+        "cases": {"value": "1,700", "note": "Earlier confirmed total."},
+        "deaths": {"value": "600", "note": "Earlier confirmed total."},
+    }
+    overrides = {story["story_id"]: override} if use_override else {}
+    story_path = tmp_path / story["story_web_path"]
+    story_path.parent.mkdir(parents=True)
+    story_path.write_text(story_html(story["latest_updated_at"], "Confirmed cases", "1,750", "620"))
+
+    issues = validate_snapshot({"stories": [story], "items": items}, docs_root=tmp_path, overrides=overrides)
+
+    assert [issue for issue in issues if issue.severity == "error"] == []
+
+
+def test_quality_gate_still_rejects_a_genuinely_stale_selection(monkeypatch, tmp_path: Path) -> None:
+    story = base_story()
+    story["official_item_ids"] = ["latest"]
+    story["press_item_ids"] = []
+    items = [{
+        "item_id": "latest", "title": "Ebola surveillance report",
+        "summary": "The cumulative total is 1,800 confirmed cases and 650 confirmed deaths.",
+        "published_at": "2026-07-14T00:00:00+00:00", "official": True,
+    }]
+    # Simulate a renderer regression that selects an older source even though
+    # the snapshot contains a newer supported count. The gate must still fail.
+    monkeypatch.setattr(render_site, "outbreak_dashboard_metric", lambda *args: {
+        "value": "1,700" if args[-1] == "cases" else "600",
+        "label": "Confirmed cases" if args[-1] == "cases" else "Deaths",
+        "source_date": "2026-07-08T00:00:00+00:00",
+    })
+    story_path = tmp_path / story["story_web_path"]
+    story_path.parent.mkdir(parents=True)
+    story_path.write_text(story_html(story["latest_updated_at"], "Confirmed cases", "1,700", "600"))
+
+    issues = validate_snapshot({"stories": [story], "items": items}, docs_root=tmp_path)
+
+    assert {issue.metric for issue in issues if "lower than" in issue.message} == {"cases", "deaths"}
 
 
 def test_dashboard_quality_rejects_dashboard_on_non_outbreak_topic(tmp_path: Path) -> None:

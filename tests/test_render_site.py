@@ -788,6 +788,50 @@ def test_metric_candidates_exclude_incremental_and_other_disease_counts():
     assert death_values == {600}
 
 
+def test_outbreak_dashboard_does_not_promote_province_counts_to_outbreak_totals():
+    """Regression from the October 18 AP report carried by SCMP."""
+    story = {"display_title": "Ebola virus disease", "country": "Democratic Republic of the Congo"}
+    item = {
+        "title": "Ebola outbreak spreads to another province",
+        "summary": (
+            "Authorities have recorded at least 9,400 cases, including more than 4,500 deaths, in the outbreak. "
+            "The Health Ministry has recorded 2 cases, including 1 death, in Nord-Ubangi province."
+        ),
+        "published_at": "2026-10-18T18:36:00+00:00",
+        "publisher_name": "South China Morning Post",
+        "source_confidence": "general_outlet",
+    }
+    for kind, expected, number in [("cases", "At least 9,400", 9400), ("deaths", "More than 4,500", 4500)]:
+        candidates = render_site.collect_outbreak_metric_candidates(story, [item], kind)
+        assert {candidate["numeric_value"] for candidate in candidates} == {number}
+        assert all(render_site.metric_candidate_is_dashboard_authoritative(candidate) for candidate in candidates)
+        metric = render_site.infer_outbreak_metric(story, [item], kind)
+        assert metric["value"] == expected
+        assert metric["source_date"] == item["published_at"]
+
+    # If only the local update is available, do not invent an outbreak total.
+    item["summary"] = "The Health Ministry has recorded 2 cases, including 1 death, in Nord-Ubangi province."
+    assert render_site.infer_outbreak_metric(story, [item], "cases")["value"] == "Unknown"
+    assert render_site.infer_outbreak_metric(story, [item], "deaths")["value"] == "Unknown"
+    # A topic explicitly about this province can still show its own counts.
+    local_story = {**story, "display_title": "Ebola in Nord-Ubangi province"}
+    assert render_site.infer_outbreak_metric(local_story, [item], "cases")["value"] == "2"
+
+
+def test_incremental_total_does_not_override_cumulative_deaths():
+    story = {"display_title": "Ebola virus disease"}
+    item = {
+        "title": "Ebola situation report",
+        "summary": (
+            "The cumulative total is 9,066 confirmed cases, including 4,381 confirmed deaths. "
+            "Since the previous report, a total of 463 additional confirmed cases and 233 confirmed deaths have been reported."
+        ),
+        "official": True,
+    }
+    for kind, expected in [("cases", {9066}), ("deaths", {4381})]:
+        assert {c["numeric_value"] for c in render_site.collect_outbreak_metric_candidates(story, [item], kind)} == expected
+
+
 def test_render_story_page_keeps_real_summaries_for_aggregator_only_items():
     story = {
         "display_title": "Hantavirus and cruise-ship outbreak",
