@@ -14,21 +14,21 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 204,
+    "metadata_only_count": 219,
     "sources_cached": 0,
     "sources_failed": 2,
-    "sources_live": 227,
+    "sources_live": 241,
     "story_count_change": 6,
     "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 227,
+    "live": 241,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-10-24T06:22:12",
+  "generated_at": "2026-10-24T09:59:43",
   "source_failures": [
     {
       "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
