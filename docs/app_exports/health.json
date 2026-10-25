@@ -1,7 +1,8 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -14,9 +15,9 @@
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 221,
+    "metadata_only_count": 222,
     "sources_cached": 0,
-    "sources_failed": 2,
+    "sources_failed": 1,
     "sources_live": 244,
     "story_count_change": 6,
     "wrapper_only_count": 10
@@ -28,14 +29,8 @@
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-10-24T14:55:31",
+  "generated_at": "2026-10-24T17:20:40",
   "source_failures": [
-    {
-      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=20)",
-      "required": true,
-      "source": "Africa CDC",
-      "source_type": "rss"
-    },
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
