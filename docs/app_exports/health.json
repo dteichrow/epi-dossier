@@ -1,38 +1,43 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
       "BBC",
+      "CBS News",
       "CIDRAP",
-      "CNN",
       "Guardian",
       "NPR",
       "New York Times",
-      "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 206,
+    "metadata_only_count": 180,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 227,
+    "sources_failed": 2,
+    "sources_live": 202,
     "story_count_change": 6,
     "wrapper_only_count": 12
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 227,
+    "live": 202,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-10-27T09:33:59",
+  "generated_at": "2026-10-27T13:58:53",
   "source_failures": [
     {
       "error": "403 Client Error: Forbidden for url: https://www.ncdc.gov.ng/news/press",
       "required": false,
       "source": "Nigeria Centre for Disease Control",
+      "source_type": "html_list"
+    },
+    {
+      "error": "HTTPSConnectionPool(host='www.oregon.gov', port=443): Read timed out. (read timeout=8)",
+      "required": true,
+      "source": "Oregon Health Authority News Releases",
       "source_type": "html_list"
     }
   ]
