@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-10-27
-Generated at: 2026-10-27T13:58
+Generated at: 2026-10-27T17:30
 Search window: 7 day(s) ending 2026-10-27
 
 ## Executive scan
@@ -10,50 +10,50 @@ Search window: 7 day(s) ending 2026-10-27
 - [Ancient disease and One Health: Integrating ancient -omics and paleopathology to address contemporary infectious disease risks within One Paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42914765/) (PubMed Historical Epidemiology; 2026-10-23T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Respiratory infections season](https://www.ecdc.europa.eu/en/news-events/respiratory-infections-season) (ECDC News; 2026-10-22T11:59+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Protect yourself and others during the cold season](https://www.ecdc.europa.eu/en/news-events/protect-yourself-and-others-during-cold-season) (ECDC News; 2026-10-22T11:59+02:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [WasteFams: a database of protein families from global wastewater microbiomes.](https://pubmed.ncbi.nlm.nih.gov/42923064/) (PubMed Infectious Disease Search; 2026-10-22T00:00; Major epidemiology studies; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 41 October 5 to 11 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-41-october-5-11) (WHO Regional Office for Africa; 2026-10-21T14:34+00:00; Outbreaks and emerging infections; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (172), Policy, surveillance, and public health infrastructure (24), Major epidemiology studies (3)
-- Source health: 2 source(s) failed during collection: Nigeria Centre for Disease Control, Oregon Health Authority News Releases.
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 23, Data as of 19 October 2026](https://www.afro.who.int/countries/nigeria/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-10-21T13:33+00:00; Outbreaks and emerging infections; relevance 5/5)
+- Category mix: Outbreaks and emerging infections (205), Policy, surveillance, and public health infrastructure (27), Virology and pathogen evolution (3)
+- Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria](https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria) (ECDC News)
-- Newly tracked story cluster: 87 item(s) across 62 source(s).
+- Newly tracked story cluster: 113 item(s) across 79 source(s).
 - Monitoring: ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria
 - ECDC News now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 - ECDC News currently frames broader public risk as low.
 
 ### Polio and wastewater surveillance
-- Lead item: [WasteFams: a database of protein families from global wastewater microbiomes.](https://pubmed.ncbi.nlm.nih.gov/42923064/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 9 item(s) across 9 source(s).
-- Monitoring: WasteFams: a database of protein families from global wastewater microbiomes.
-- PubMed Infectious Disease Search now explicitly uses investigation or monitoring language.
+- Lead item: [WHO Zambia Newsletter – 3rd Quarter 2026 (Jul- Sept)](https://www.afro.who.int/countries/zambia/publication/who-zambia-newsletter-3rd-quarter-2026-jul-sept) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 5 item(s) across 5 source(s).
+- Monitoring: WHO Zambia Newsletter – 3rd Quarter 2026 (Jul- Sept)
+- Free Malaysia Today now includes deaths or fatal cases in the story frame.
 - WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
-- PubMed Infectious Disease Search now brings wastewater surveillance into the story.
+- World Health Organization (WHO) now brings wastewater surveillance into the story.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 72 item(s) across 60 source(s).
+- Newly tracked story cluster: 81 item(s) across 67 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
 ### Dengue and arboviruses
 - Lead item: [Record-high West Nile virus infections reported amid spread to new parts of Europe](https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe) (ECDC News)
-- Newly tracked story cluster: 22 item(s) across 19 source(s).
+- Newly tracked story cluster: 23 item(s) across 21 source(s).
 - Monitoring: Record-high West Nile virus infections reported amid spread to new parts of Europe
 - Anadolu Ajansı now includes deaths or fatal cases in the story frame.
 
 ### Avian influenza and H5N1
 - Lead item: [Ancient disease and One Health: Integrating ancient -omics and paleopathology to address contemporary infectious disease risks within One Paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42914765/) (PubMed Historical Epidemiology)
-- Newly tracked story cluster: 5 item(s) across 5 source(s).
+- Newly tracked story cluster: 7 item(s) across 7 source(s).
 - Monitoring: Ancient disease and One Health: Integrating ancient -omics and paleopathology to address contemporary infectious disease risks within One Paleopathology.
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 87 item(s) across 62 source(s); 6 official/primary-source item(s).
+- Topic size: 113 item(s) across 79 source(s); 6 official/primary-source item(s).
 - Lead item: [ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria](https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria) (ECDC News, 2026-10-27T15:46+01:00)
 - Detailed note: Since External Situation Report #22, an additional 572 confirmed cases and 265 confirmed deaths have been reported, bringing the cumulative total to 9637 confirmed cases, including 4646 confirmed deaths [crude case fatality ratio (CFR) 48.2%]. Ituri continues to account for the largest proportion of cumulative confirmed cases (72.7%), although its relative contribution is declining, while substantial transmission...
 - Evidence notes: [ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria](https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria) (ECDC News); [Importation of Ebola cases to Kenya and Nigeria: ECDC assesses the threat](https://www.ecdc.europa.eu/en/news-events/importation-ebola-cases-kenya-and-nigeria-ecdc-assesses-threat) (ECDC News); [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 23, Data as of 19 October 2026](https://www.afro.who.int/countries/nigeria/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [WHO Botswana Newsletter July](https://www.afro.who.int/countries/botswana/publication/who-botswana-newsletter-july-september-2026) (WHO Regional Office for Africa); [Ebola posters for Kenya in English and Kiswahili](https://www.afro.who.int/countries/kenya/publication/ebola-posters-kenya-english-and-kiswahili) (WHO Regional Office for Africa)
@@ -61,35 +61,35 @@ Search window: 7 day(s) ending 2026-10-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 72 item(s) across 60 source(s); 1 official/primary-source item(s).
+- Topic size: 81 item(s) across 67 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [New measles cases in Macon County connected with previously reported infection, health officials say](https://www.cbsnews.com/atlanta/news/new-measles-cases-in-macon-county-connected-with-previously-reported-infection-health-officials-say/) (CBS News); [United States reports most measles cases since 1991](https://www.washingtonpost.com/video/video/united-states-reports-most-measles-cases-since-1991/2026/10/27/8a76a714-673a-4761-8430-5db99b662e04_video.html) (The Washington Post); [Global measles cases in kids rose 40% from 2020 to 2023, study estimates](https://news.google.com/rss/articles/CBMimgFBVV95cUxORVRGaEdKeTRhbXVZdWtVaXZ2OHRldnoxVUNVRlhZRWExaS1ZNWc4RnB3dkZfUHNVQk5Wd2xOcU45aTFGUkwxaU85QzlleDdUWElIM1pseXhocjUzSlFSQmdZUVhrZVg3cnBDM2JyT3FVQVVOYnhtRG9xdUxtVWI2WTVrUGFPZlZrdDlqdUFiWjU5S21QdHFTNkNB?oc=5) (CIDRAP); [Pennsylvania measles cases rise to 1,360, state health department says](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUW9XNG1mcjNWNGVyZFRQN0QyUHJSMjZLQW9qZHZKVnJJT1B0YjlEdlVvZy01dkROSUVROUx0Y255RFZkcDdFQWthU3FXbjVzeERaMXBNajBxYXA2ejliaTJmUU53T1FhSVNBbjFEZ0c1anJXTTkwdXVFME5jVFAxcXpiT196UVJzVHF4bHotZ3AxYjZramlKZUdkanFPVU9ZTnA0dko1ODBGTGNFMlNROVNyY2Z0dUJYenc?oc=5) (Reuters)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [New measles cases in Macon County connected with previously reported infection, health officials say](https://www.cbsnews.com/atlanta/news/new-measles-cases-in-macon-county-connected-with-previously-reported-infection-health-officials-say/) (CBS News); [United States reports most measles cases since 1991](https://www.washingtonpost.com/video/video/united-states-reports-most-measles-cases-since-1991/2026/10/27/8a76a714-673a-4761-8430-5db99b662e04_video.html) (The Washington Post); [Global measles cases in kids rose 40% from 2020 to 2023, study estimates](https://news.google.com/rss/articles/CBMimgFBVV95cUxORVRGaEdKeTRhbXVZdWtVaXZ2OHRldnoxVUNVRlhZRWExaS1ZNWc4RnB3dkZfUHNVQk5Wd2xOcU45aTFGUkwxaU85QzlleDdUWElIM1pseXhocjUzSlFSQmdZUVhrZVg3cnBDM2JyT3FVQVVOYnhtRG9xdUxtVWI2WTVrUGFPZlZrdDlqdUFiWjU5S21QdHFTNkNB?oc=5) (CIDRAP); [U.S. measles cases more than double what they were last year as outbreak spreads](https://news.google.com/rss/articles/CBMif0FVX3lxTE10dmpQc05kNFNxUnFFY0tJLUtBNkhta21ZTl9SUEd4OGpZZ3czU0M2SUZnTGhzaG40VEJLVFhjN1lBODdROHJHRm8xTHFZNmVjNXJkMlQ1dlFCOFh0OS0ybHRMRmxTcjB1amtQaFZKVUFaRGJzWEw2SUhEVVpQeDQ?oc=5) (NPR)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 22 item(s) across 19 source(s); 2 official/primary-source item(s).
+- Topic size: 23 item(s) across 21 source(s); 2 official/primary-source item(s).
 - Lead item: [Record-high West Nile virus infections reported amid spread to new parts of Europe](https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe) (ECDC News, 2026-10-15T13:59+02:00)
 - Detailed note: There were 269 deaths and 66,423 dengue cases recorded in the corresponding period of 2025, according to directorate data. The Health Services Directorate under the Health and Family Welfare Ministry also reported 2,071 new cases of hospitalizations in the same period, bringing the caseload since this January to 128,237. Topics A-Z Public health topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Spotlight...
-- Evidence notes: [Record-high West Nile virus infections reported amid spread to new parts of Europe](https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [With 11 more fatalities, deaths in Bangladesh from dengue rise to 400](https://www.aa.com.tr/en/asia-pacific/with-11-more-fatalities-deaths-in-bangladesh-from-dengue-rise-to-400/4102432) (Anadolu Ajansı); [Dengue cases in Florida continued to climb after emergency declared](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHNwLVM1YmE3MGlGeVNZdnFmZTdZYUtFSVVtVUtvTW83dTZXWmhaWldJSDhOekRWOXdiSTNEejRkWmpOWm8wTWlJTHNjREladVhzSFRjYmdHaWhUUjhWTUR6LWlfSjJfTE8tSWtKSGdIOTZPclZSb1dRVTVEbjdIZmk1dXlYMk81R25VZHFRMUFyQUhXVDVjRVNZc05qd3ljeVc1b3BPQ1AwMXphYXM1Tw?oc=5) (The Washington Post); [New Florida counties report dengue cases as statewide total passes 400](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEFZRTk4dUpUbkE0R1FaY3dRX3VBVXNXRDQ1b3VVM2cxSkdsY0JTdVhpQjhyeTlWSzZfUGFlQWxZWHhZM0hFTm8tY2x6VFRvdUpjak9lWm1kNjFmYXJhWmJGWkY5TXBpS3JlT2NsWWZoY19rQzhUcmVBdlozV1Rndi1ZNnBvYjZiTkEyR2VpSWdtVjVZRWNuck1NekNzd2xSVTRxYUs1cVFncGg4c3Y0N25wN1Zmclpw0gG-AUFVX3lxTE5TbGotRDBFd2x3UmZhbThLTVp4X2hJc2wtUzBESW94aUZPY0dvWGtMWmkzako4ZGc3NGUxNldjcEFrNmViVDdqa3Z3ZnRMRE1VU1JKYXZPOGtGX3hraWoyV0tpWUxvbE41a3dxdFhXLWZEN2R1QVV5NmVmM0FJMk9fNlFVc25xSFdwM3FGVGF2VXBzRnJMQk9pZW9XNEFjdldpVXQzTXJTcVJISkxSUjdNY2lYeTBlNEE4V2o4VkE?oc=5) (The Hill)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Polio and wastewater surveillance
-- Topic size: 9 item(s) across 9 source(s); 2 official/primary-source item(s).
-- Lead item: [WasteFams: a database of protein families from global wastewater microbiomes.](https://pubmed.ncbi.nlm.nih.gov/42923064/) (PubMed Infectious Disease Search, 2026-10-22T00:00)
-- Detailed note: Integrating data from 580 metagenomes, 132 metatranscriptomes, and 1709 reference genomes (504 metagenomes, 129 metatranscriptomes, and 1151 reference genomes after filtering), WasteFams catalogs 3887 non-redundant protein families (containing ⪰100 members) derived from over 105 million predicted proteins. More than 380 health workers were trained in Ebola preparedness and response, simulation exercises tested...
-- Evidence notes: [WasteFams: a database of protein families from global wastewater microbiomes.](https://pubmed.ncbi.nlm.nih.gov/42923064/) (PubMed Infectious Disease Search); [WHO Zambia Newsletter – 3rd Quarter 2026 (Jul- Sept)](https://www.afro.who.int/countries/zambia/publication/who-zambia-newsletter-3rd-quarter-2026-jul-sept) (WHO Regional Office for Africa); [South Sudan reports ‘no wild’ polio cases since 2009, health officials say](https://news.google.com/rss/articles/CBMimAFBVV95cUxOODhETVZxUUtoMjJxN0RPVEVYUmp1WExzUGxpSENIcEhkeGx4R1RZUXNoQjhRb3h0blZETVdmejdyMG1NUG9ZTTVwT1p5MGR0cF9OQVJLRGl6R0lRTjFFcW1VSVkzYk9MTDMzYUpsd3pTMkh0eXJ5cEV0azREaUN2TXFhcUNoZF9LaUFZSVJoMW5FUE0zS3lCNNIBngFBVV95cUxOQklkcmtMZkNscGQ1eXNaNElzTVVpc3RLZndMRnhLV0JrLTlTMnZ3X0dOdnRXTVpjTVBtMlJPODRVaWhmTzdyQl8tWVpBNEFoTE5haU5EN05zVGtTVUVFZjFTZm9VeGdodzN6WU9JWUpfZFh0ZE8yenN5ZGI3SXdDWGlieEUwd2lVODQyTzUtdjJvaDJSM3Nkc0t4X0Q1QQ?oc=5) (Eye Radio); [Polio’s vanishing scars: Health workers warn complacency risks outbreaks](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUJ4alJoT3g2Qmp3UnpHNjlWY3Z6a3J2aWZUckRSd0hRT0N4Nk9USU1zSDRrdFpCanktQTFLeVBISWZnajJ0b0FRX1hIakdmMVhWRzJ6ZlF1Um9aUmpMT2JRSldBUVVHb3JZc1ljR2ppdmUtMmVGQzdLYl9yQ1NBTXJldkpoLWQ3dUZ3YmFaSHFEX09kcmhTWWFKX2lBT0dhRmZMLTFFSVNfcFUzeWxXX1BVZ2NwZzdzeGd3?oc=5) (The Eastleigh Voice); [World Polio Day 2026: Why India Must Stay Vigilant Despite Being Polio-Free](https://english.newstrack.com/health/world-polio-day-2026-why-india-must-stay-vigilant-despite-being-polio-free-642965) (Newstrack English)
+- Evidence notes: [Record-high West Nile virus infections reported amid spread to new parts of Europe](https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe) (ECDC News); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [With 11 more fatalities, deaths in Bangladesh from dengue rise to 400](https://www.aa.com.tr/en/asia-pacific/with-11-more-fatalities-deaths-in-bangladesh-from-dengue-rise-to-400/4102432) (Anadolu Ajansı); [Dengue cases in Florida continued to climb after emergency declared](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHNwLVM1YmE3MGlGeVNZdnFmZTdZYUtFSVVtVUtvTW83dTZXWmhaWldJSDhOekRWOXdiSTNEejRkWmpOWm8wTWlJTHNjREladVhzSFRjYmdHaWhUUjhWTUR6LWlfSjJfTE8tSWtKSGdIOTZPclZSb1dRVTVEbjdIZmk1dXlYMk81R25VZHFRMUFyQUhXVDVjRVNZc05qd3ljeVc1b3BPQ1AwMXphYXM1Tw?oc=5) (The Washington Post); [Over 900 dengue fever cases recorded in North Darfur’s Tawila](https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zU1hVal9JR0xfb2xSZVJ3bERJbTdNYXBuSkx6UXNHdE5TTkd2UzJSTE41NUg2eExsYVdIamRuRHZNOGR5TFFjTlpsR1JkQ2l3?oc=5) (Sudan Tribune)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Avian influenza and H5N1
-- Topic size: 5 item(s) across 5 source(s); 1 official/primary-source item(s).
+- Topic size: 7 item(s) across 7 source(s); 1 official/primary-source item(s).
 - Lead item: [Ancient disease and One Health: Integrating ancient -omics and paleopathology to address contemporary infectious disease risks within One Paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42914765/) (PubMed Historical Epidemiology, 2026-10-23T00:00)
 - Detailed note: We review published research and present two case studies on 1) recovering avian influenza virus sequences from formalin-fixed, ethanol-preserved tissues in wild waterfowl and 2) reconstructing oral microbiomes from dental calculus in California sea lions. We synthesize methodological challenges identified in the literature and use case studies to examine limitations associated with preservation, sample...
-- Evidence notes: [Ancient disease and One Health: Integrating ancient -omics and paleopathology to address contemporary infectious disease risks within One Paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42914765/) (PubMed Historical Epidemiology); [Bird flu outbreak at Utah mink farm sparks concerns about government response](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFFTM0N4bjVpWGMyaUJ3dFpkYUN1OGd6UUl2UE9uN1BheXJZVVVma2pQcmZ6LS1wbmNxVGZJRDFQeEIwVHdtbmFIWWZvOFZHcXVvNGVDbkw4N3c4Y09HUEVjYTBrejVJVUx6ODN3Y09BOG9SNHVwOWxzNVUxNnBUTGc1NUFYYjFBaEtUa3RmUF9DeWN0cnNV?oc=5) (The Guardian); [Washington Bird Flu Outbreak Reaches Eight Yakima Dairy Herds as Worker's Mild H5N1 Case Is Confirmed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlQ3N2JDS0hHbjdlR0hSY09BdmF0elVtclpzbUtOY01Gd0laYnVSdGpSektoZjBoNTdPWV9kQTZBNHlMR1lfVk9fVVFPNHhyNy1RblJOblVKb1ZtNTBreTc5Sy14bjRhZ3dSeFJSWVF0RU4xQzRIcTFyMlJLVDNaVGNDTmtNSjFUeGw3SlJhbkk?oc=5) (Medical Daily); [Concern grows for UNR's beloved Manzanita Lake geese amid bird flu outbreak | Local News | 2news.com](http://www.ktvn.com/news/local/concern-grows-for-unrs-beloved-manzanita-lake-geese-amid-bird-flu-outbreak/article_af025793-1dcf-406d-b0fb-9a3638009c10.html) (KTVN); [Utah Has No Plan to Cull Bird Flu Mink as Genomes Reveal a Mutation Also Found in Spain's Fur Farm Outbreak](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVUZ1UzBLNTRCSUdEcU41WGYzXzhsYW9jVUVrZXRheUZnR00wb3g3ZXpTb3hzaDdtRVdyZEdwaUhWUzN5bTBockdQa1JEOERSeEgzelJBNFFJOXJqZVRsWmduUXgwNGcxS3Jkd0ZXOGt0YzdCYlZBWVJLSlRUd3ctMjg3RW0zTWF6WXMtR0k5MW13OUxsNmRfd1FubHJGYXpFQVJNeVJNcUVlaE45NHBLcU45U2FsMWZDU1hNVGZ0VFBBWGRqOFh3S3RsOElQQmluQVVGODAtNTFQS2ZBbThVc2o2WGg0QjBvS1dr?oc=5) (Nature World News)
+- Evidence notes: [Ancient disease and One Health: Integrating ancient -omics and paleopathology to address contemporary infectious disease risks within One Paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42914765/) (PubMed Historical Epidemiology); [Bird flu outbreak at Utah mink farm sparks concerns about government response](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFFTM0N4bjVpWGMyaUJ3dFpkYUN1OGd6UUl2UE9uN1BheXJZVVVma2pQcmZ6LS1wbmNxVGZJRDFQeEIwVHdtbmFIWWZvOFZHcXVvNGVDbkw4N3c4Y09HUEVjYTBrejVJVUx6ODN3Y09BOG9SNHVwOWxzNVUxNnBUTGc1NUFYYjFBaEtUa3RmUF9DeWN0cnNV?oc=5) (The Guardian); [In Greenland, 4 polar bears test positive for H5N1 avian flu antibodies](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTU5LUF80TFEtRjh2emJmRVAtclJMWU9nbTNWRnpUTHhybkhjM0lQVjAzRGRRUWpkUmdNb2s3THlmWkx6dGVvMGw5TjJTZlJ0Uk5lUC04Zk95Y0dRb2lJVk1rbDhlUS11TjJkelNXcE42UHdHMXZDR0dHdUlrMnEtZlQ5d1ZDclY1aFFmZDVWUm5tdUp1U0tQQnRmYjM3SmpZbjVwbHlXM01PT1dzWWMwZ19pQlVzdw?oc=5) (CIDRAP); [Washington Bird Flu Outbreak Reaches Eight Yakima Dairy Herds as Worker's Mild H5N1 Case Is Confirmed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlQ3N2JDS0hHbjdlR0hSY09BdmF0elVtclpzbUtOY01Gd0laYnVSdGpSektoZjBoNTdPWV9kQTZBNHlMR1lfVk9fVVFPNHhyNy1RblJOblVKb1ZtNTBreTc5Sy14bjRhZ3dSeFJSWVF0RU4xQzRIcTFyMlJLVDNaVGNDTmtNSjFUeGw3SlJhbkk?oc=5) (Medical Daily); [Bird Flu Outbreak on Utah Mink Farm Lasts 2 Months, Raising Pandemic Fears](https://people.com/bird-flu-outbreak-on-utah-mink-farm-according-to-new-report-12195442) (People.com)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Polio and wastewater surveillance
+- Topic size: 5 item(s) across 5 source(s); 1 official/primary-source item(s).
+- Lead item: [WHO Zambia Newsletter – 3rd Quarter 2026 (Jul- Sept)](https://www.afro.who.int/countries/zambia/publication/who-zambia-newsletter-3rd-quarter-2026-jul-sept) (WHO Regional Office for Africa, 2026-10-20T14:28+00:00)
+- Detailed note: Bangladesh has struggled since March to contain the outbreak, which has killed more than 1,200 children and infected 220,000 people, making it the country’s deadliest in decades, according to the Directorate General of Health Services (DGHS). More than 380 health workers were trained in Ebola preparedness and response, simulation exercises tested readiness, and disease surveillance systems were strengthened...
+- Evidence notes: [WHO Zambia Newsletter – 3rd Quarter 2026 (Jul- Sept)](https://www.afro.who.int/countries/zambia/publication/who-zambia-newsletter-3rd-quarter-2026-jul-sept) (WHO Regional Office for Africa); [Bangladesh measles crisis ‘warning sign’ of other outbreaks](https://www.freemalaysiatoday.com/category/world/2026/10/26/bangladesh-measles-crisis-warning-sign-of-other-outbreaks) (Free Malaysia Today); [Saudi Arabia Reaffirms Commitment to Global Polio Eradication on World Polio Day](https://www.spa.gov.sa/en/N2709791) (وكالة الأنباء السعودية); [South Sudan reports ‘no wild’ polio cases since 2009, health officials say](https://news.google.com/rss/articles/CBMimAFBVV95cUxOODhETVZxUUtoMjJxN0RPVEVYUmp1WExzUGxpSENIcEhkeGx4R1RZUXNoQjhRb3h0blZETVdmejdyMG1NUG9ZTTVwT1p5MGR0cF9OQVJLRGl6R0lRTjFFcW1VSVkzYk9MTDMzYUpsd3pTMkh0eXJ5cEV0azREaUN2TXFhcUNoZF9LaUFZSVJoMW5FUE0zS3lCNNIBngFBVV95cUxOQklkcmtMZkNscGQ1eXNaNElzTVVpc3RLZndMRnhLV0JrLTlTMnZ3X0dOdnRXTVpjTVBtMlJPODRVaWhmTzdyQl8tWVpBNEFoTE5haU5EN05zVGtTVUVFZjFTZm9VeGdodzN6WU9JWUpfZFh0ZE8yenN5ZGI3SXdDWGlieEUwd2lVODQyTzUtdjJvaDJSM3Nkc0t4X0Q1QQ?oc=5) (Eye Radio); [How a polio outbreak transformed wastewater testing in the United Kingdom](https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUNrNHZQX1I1S1VacXFJbVUzMDRDRG9GQi0zSzBNQkp4VUQtYjl4RkJxMnZqZktONml4WldjbkVwdlYtUUNvS2ZVR0ttZmI5M0RBazh6dHE4REc5MlUydk9ReHROaGYydFVyVEUxR0t1YUJya3VJRWNxTndaZjdvVjNTZzEzTU5SV1VJMGFDd0ZNaTRZRVpEamR3VzNLaDBoaHJmSkFfeU52aEpLSjdXZUJwTjhQdWhzeEw0bkE2ZERmTE96aFgzTlpwWQ?oc=5) (World Health Organization (WHO))
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### COVID-19 and SARS-CoV-2
@@ -398,16 +398,6 @@ Search window: 7 day(s) ending 2026-10-27
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### WasteFams: a database of protein families from global wastewater microbiomes.
-- Source: PubMed Infectious Disease Search
-- Date: 2026-10-22T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/42923064/
-- Category: Major epidemiology studies
-- Summary: Integrating data from 580 metagenomes, 132 metatranscriptomes, and 1709 reference genomes (504 metagenomes, 129 metatranscriptomes, and 1151 reference genomes after filtering), WasteFams catalogs 3887 non-redundant protein families (containing ⪰100 members) derived from over 105 million predicted proteins. Wastewater surveillance has emerged as a critical tool for global epidemiology, yet the functional diversity of wastewater microbiomes remains poorly characterized at the protein level. As global initiatives increasingly leverage wastewater for public health and environmental insights, WasteFams can serve as a critical resource for discovering novel microbial functions, monitoring resistance mechanisms, and exploring the biotechnological potential of secondary metabolites within wastewater-engineered ecosystems.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 ### Respiratory virus surveillance in the WHO African Region Epidemiological Week 41 October 5 to 11 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-10-21T14:34+00:00
@@ -438,10 +428,18 @@ Search window: 7 day(s) ending 2026-10-27
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
+### WHO Zambia Newsletter – 3rd Quarter 2026 (Jul- Sept)
+- Source: WHO Regional Office for Africa
+- Date: 2026-10-20T14:28+00:00
+- URL: https://www.afro.who.int/countries/zambia/publication/who-zambia-newsletter-3rd-quarter-2026-jul-sept
+- Category: Outbreaks and emerging infections
+- Summary: More than 380 health workers were trained in Ebola preparedness and response, simulation exercises tested readiness, and disease surveillance systems were strengthened through epidemic intelligence and event-based surveillance training. Zambia completed the final round of its national polio vaccination campaign, reaching approximately 4.1 million children under five in six priority provinces. WHO supported completion of the national STEPS Survey on noncommunicable diseases and mental health risk factors across all ten provinces, generating critical evidence for future policies and investments.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 
 ## Other notable readings
-- [WHO Zambia Newsletter – 3rd Quarter 2026 (Jul- Sept)](https://www.afro.who.int/countries/zambia/publication/who-zambia-newsletter-3rd-quarter-2026-jul-sept) | WHO Regional Office for Africa | 2026-10-20T14:28+00:00 | Outbreaks and emerging infections
-  More than 380 health workers were trained in Ebola preparedness and response, simulation exercises tested readiness, and disease surveillance systems were strengthened through epidemic intelligence and event-based surveillance training. Zambia completed the final round of its national polio vaccination campaign, reaching approximately 4.1 million children under five in six priority provinces. WHO supported completion of the national STEPS Survey on noncommunicable diseases and mental health risk factors across all ten provinces, generating critical evidence for future policies and investments.
 - [Ebola posters for Kenya in English and Kiswahili](https://www.afro.who.int/countries/kenya/publication/ebola-posters-kenya-english-and-kiswahili) | WHO Regional Office for Africa | 2026-10-20T06:32+00:00 | Outbreaks and emerging infections
   The posters explain how Ebola spreads and its early symptoms, correct common myths, and cover contact tracing, safe and dignified burials, and the role of health workers, community health promoters and faith and community leaders. They also encourage people to stop stigma and to check facts before sharing information.
 - [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) | ECDC News | 2026-10-19T17:36+02:00 | Policy, surveillance, and public health infrastructure
@@ -462,9 +460,13 @@ Search window: 7 day(s) ending 2026-10-27
   Limited detail was available from feed metadata alone.
 - [Is Ebola under control in Kenya after nine cases confirmed?](https://www.bbc.com/news/articles/c693z948px0jo) | BBC | 2026-10-27T19:19+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Africa Ebola outbreak passes 10,000 confirmed cases](https://www.rte.ie/news/world/2026/1027/1597009-ebola-cases/) | RTE.ie | 2026-10-27T18:43+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola cases top 10,000 in Democratic Republic of Congo, as countries race to stop spread](https://www.cbc.ca/news/health/ebola-outbreak-10000-cases-9.7397981) | CBC | 2026-10-27T16:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [European health agency sends experts to Nigeria as Ebola cases spread](https://www.euronews.com/2026/10/27/european-disease-control-center-sends-experts-to-nigeria-while-ebola-cases-surpass-10000-i) | Euronews.com | 2026-10-27T16:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Africa's Ebola outbreak tops 10,000 cases, mainly in DR Congo](https://www.bignewsnetwork.com/news/279400147/africa-ebola-outbreak-tops-10000-cases-mainly-in-dr-congo) | Big News Network.com | 2026-10-27T15:45+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Africa's Ebola Outbreak Surpasses 10,000 Cases as WHO Warns of Cross-Border Spread](https://ng.headtopics.com/news/africa-s-ebola-outbreak-surpasses-10-000-cases-as-who-warns-89255676) | Head Topics | 2026-10-27T15:08+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -478,8 +480,6 @@ Search window: 7 day(s) ending 2026-10-27
   There were 269 deaths and 66,423 dengue cases recorded in the corresponding period of 2025, according to directorate data. The Health Services Directorate under the Health and Family Welfare Ministry also reported 2,071 new cases of hospitalizations in the same period, bringing the caseload since this January to 128,237. Bangladesh this year has started reporting a growing number of deaths from an increased number of hospitals.
 - [Ebola cases in Democratic Republic of Congo surpass 10,000 as nurse treating patients is killed by mob](https://news.sky.com/story/ebola-cases-in-democratic-republic-of-congo-surpass-10-000-as-nurse-treating-patients-is-killed-by-machete-wielding-mob-13604219) | Sky News | 2026-10-27T11:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo's Ebola cases surpass 10,000 as fears grow of wider African spread](https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-infections-surpass-10000-government-says-2026-10-27/) | Reuters | 2026-10-27T10:42+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
 - [Ancient disease and One Health: Integrating ancient -omics and paleopathology to address contemporary infectious disease risks within One Paleopathology.](https://pubmed.ncbi.nlm.nih.gov/42914765/)
@@ -488,12 +488,6 @@ Search window: 7 day(s) ending 2026-10-27
   Journal/preprint server: International journal of paleopathology
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42914765/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42914765/
-- [WasteFams: a database of protein families from global wastewater microbiomes.](https://pubmed.ncbi.nlm.nih.gov/42923064/)
-  Source: PubMed Infectious Disease Search
-  DOI: 10.1093/nargab/lqag127
-  Journal/preprint server: NAR genomics and bioinformatics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42923064/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42923064/
 - [High cardiometabolic burden among people with HIV and obesity in Peru.](https://pubmed.ncbi.nlm.nih.gov/42912411/)
   Source: PubMed Infectious Disease Search
   DOI: 10.1080/25787489.2026.2746807
