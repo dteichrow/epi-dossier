@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-11-02
-Generated at: 2026-11-02T11:47
+Generated at: 2026-11-02T18:18
 Search window: 7 day(s) ending 2026-11-02
 
 ## Executive scan
@@ -12,13 +12,13 @@ Search window: 7 day(s) ending 2026-11-02
 - [Plague in the modern world: Ecological persistence, epidemic containment, and the limits of public health preparedness.](https://pubmed.ncbi.nlm.nih.gov/42951599/) (PubMed Historical Pathogen Case Studies; 2026-10-28T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Real-world multicountry programmatic assessment of contact investigation for people with drug-resistant tuberculosis: evidence from five high-burden countries.](https://pubmed.ncbi.nlm.nih.gov/42951284/) (PubMed Historical Pathogen Case Studies; 2026-10-28T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria](https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria) (ECDC News; 2026-10-27T15:46+01:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (225), Policy, surveillance, and public health infrastructure (26), Historical epidemiology / ancient disease / paleopathology (4)
+- Category mix: Outbreaks and emerging infections (173), Policy, surveillance, and public health infrastructure (27), Historical epidemiology / ancient disease / paleopathology (4)
 - Source health: 1 source(s) failed during collection: Nigeria Centre for Disease Control.
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria](https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria) (ECDC News)
-- Newly tracked story cluster: 140 item(s) across 96 source(s).
+- Newly tracked story cluster: 101 item(s) across 80 source(s).
 - Monitoring: ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria
 - ECDC News now explicitly uses investigation or monitoring language.
 - Latin Times now includes deaths or fatal cases in the story frame.
@@ -34,54 +34,62 @@ Search window: 7 day(s) ending 2026-11-02
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 78 item(s) across 65 source(s).
+- Newly tracked story cluster: 62 item(s) across 52 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
-- The Guardian now foregrounds vaccination or vaccine policy in the story.
+- The linked sources provide the current reporting record; this entry does not establish a new development.
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 18 item(s) across 16 source(s).
+- Newly tracked story cluster: 19 item(s) across 18 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - Outbreak News Today now includes deaths or fatal cases in the story frame.
 
 ### Polio and wastewater surveillance
 - Lead item: [The Q3 Newsletter for 2026](https://www.afro.who.int/countries/nigeria/publication/q3-newsletter-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 5 item(s) across 4 source(s).
+- Newly tracked story cluster: 9 item(s) across 8 source(s).
 - Monitoring: The Q3 Newsletter for 2026
 - WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Ebola virus disease
-- Topic size: 140 item(s) across 96 source(s); 2 official/primary-source item(s).
+- Topic size: 101 item(s) across 80 source(s); 2 official/primary-source item(s).
 - Lead item: [ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria](https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria) (ECDC News, 2026-10-27T15:46+01:00)
 - Detailed note: With cases of Ebola disease caused by Bundibugyo virus recently detected in Kenya and Nigeria, ECDC reiterates the low risk for Europe while highlighting the need for preparedness. Following the emergence of Ebola disease in Kenya and Nigeria, and with the situation in the DRC remaining serious, ECDC is increasing its efforts to support investigations and local response by sending a team of ECDC experts to Nigeria.
-- Evidence notes: [ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria](https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria) (ECDC News); [Importation of Ebola cases to Kenya and Nigeria: ECDC assesses the threat](https://www.ecdc.europa.eu/en/news-events/importation-ebola-cases-kenya-and-nigeria-ecdc-assesses-threat) (ECDC News); [WHO chief: Ebola outbreak shows urgent need for pandemic treaty](https://www.euronews.com/2026/11/02/recent-virus-outbreaks-show-urgent-need-to-complete-pandemic-treaty-says-who-chief) (Euronews.com); [Ebola kills over 5,300 in fastest-growing outbreak on record](https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record) (Euronews.com); [Nigerian health chiefs confirm negative results in Ebola cases](https://www.modernghana.com/news/1541351/nigerian-health-chiefs-confirm-negative-results.amp) (Modern Ghana)
+- Evidence notes: [ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria](https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria) (ECDC News); [Importation of Ebola cases to Kenya and Nigeria: ECDC assesses the threat](https://www.ecdc.europa.eu/en/news-events/importation-ebola-cases-kenya-and-nigeria-ecdc-assesses-threat) (ECDC News); [Ebola outbreak kills more than 5,300 people: Africa CDC - Africa - World](https://english.ahram.org.eg/NewsContentP/2/581526/World/Ebola-outbreak-kills-more-than-,-people-Africa-CDC.aspx) (Ahram Online); [Ebola kills over 5,300 in fastest-growing outbreak on record](https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record) (Euronews.com); [Colombia's Ebola alert ends with four malaria diagnoses—one traveler died and another remains isolated in Cali](https://www.latintimes.com/colombia-rules-out-ebola-four-travelers-malaria-600808) (Latin Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Measles transmission and vaccination
-- Topic size: 78 item(s) across 65 source(s); 1 official/primary-source item(s).
+- Topic size: 62 item(s) across 52 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Measles cases rise in Helderberg and surrounding areas](https://bolanderlifestyle.co.za/news/2026-11-02-measles-cases-rise-in-helderberg-and-surrounding-areas/) (Bolander Lifestyle); [‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak](https://www.theguardian.com/us-news/2026/nov/02/pennsylvania-measles-outbreak-amish) (The Guardian); [Shapiro's strategy for tackling measles outbreak: Don't listen to RFK Jr.](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRzVm9MTDlMcDBCUkE0eHBocHhxTG5iSGxEOTh4REZZel9LMVQtRVZPUE5GcDRqN0NfT1JlNVlzbXpIQTFnNFhGN1FGcVhyckVqdHdtenQ4YTFlWlhUMlVxeFY0RWZZbW9FV0hOdERJeEtxNVkyUElwdFpLUW5yeWd0ZHRkaFEyVmlLVDVKSERqeUZKaFE?oc=5) (Politico); [US measles cases top 4,800 as the disease surges in multiple states](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdlpIczU1ZDd4VUJ5OXhtUUV2WTJoemo3VTI0VDN4eGVCR1AteVRReGhaNGljQ3FRaFhCWEV5RTJtc051aFFHaC1hbEFFRG1MS3NuWGFOVWI4TXhoOFltMGgwLWREMHcxUDNpLWkwV01PV1pCVFNHVy1CdnhmYjhPLUt3NF9PY0NWNGVvcDA0Mm1yekpkYUE?oc=5) (CIDRAP)
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [New York reports first measles death in more than 30 years](https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137) (NBC News); [Measles cases rise in Helderberg and surrounding areas](https://bolanderlifestyle.co.za/news/2026-11-02-measles-cases-rise-in-helderberg-and-surrounding-areas/) (Bolander Lifestyle); [‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak](https://www.theguardian.com/us-news/2026/nov/02/pennsylvania-measles-outbreak-amish) (The Guardian); [Shapiro's strategy for tackling measles outbreak: Don't listen to RFK Jr.](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRzVm9MTDlMcDBCUkE0eHBocHhxTG5iSGxEOTh4REZZel9LMVQtRVZPUE5GcDRqN0NfT1JlNVlzbXpIQTFnNFhGN1FGcVhyckVqdHdtenQ4YTFlWlhUMlVxeFY0RWZZbW9FV0hOdERJeEtxNVkyUElwdFpLUW5yeWd0ZHRkaFEyVmlLVDVKSERqeUZKaFE?oc=5) (Politico)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 18 item(s) across 16 source(s); 1 official/primary-source item(s).
+- Topic size: 19 item(s) across 18 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
 - Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend.
-- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Bangladesh death toll from dengue rises, unlikely to ease before December](https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-death-toll-dengue-rises-unlikely-ease-before-december-2026-10-31/) (Reuters); [Florida sees spike in dengue fever cases](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2VlbzRkanhOc3BhMkVWYmFDckhrSlFLZFVIREtfck5CZUhUcTl1Wl80Q2NJYWdZVFQ4dkJUa2JXUjB6SXpyS3Q5QjZKMVNjcHd2eVFLSkExdDBTNFloaVE1d19KQ3NNcEtORFN5TlBkanZOMlpfdlR6aHJ4TXlwMzV3VnFVeG5YV3AxSDhn?oc=5) (NPR); [Florida dengue cases surge to 485 in largest outbreak in US in decades](https://news.google.com/rss/articles/CBMingFBVV95cUxNa0phMzE0Mk5PSVR5ZU84N0Vlc2ZveWJmRFlMUEJld0F0MExQZk1aRERoSlBOc3ZFd1pYX3FxWmZlSFFnR0FxUnlaVFVRbVFYcUtMYlR4dm9sTXdNVmY5akJFTmV1VHRIcHVsS0dQczNGWmpJQktsVGg0WjhoVHZCbVMtWWRGa2FIWHlDUHktcjRZc05yRk4ydjlvRG9Wdw?oc=5) (Sarasota Herald-Tribune); [Bangladesh dengue: 136,929 cases, 427 deaths](https://news.google.com/rss/articles/CBMigAFBVV95cUxQU011NUxRQTJjdGxTLTRSYWRGVXFUdUUzOUEyVnVKX05sWjhrN182cUw1NS05RTJoeG1pekd4ZzNNblljdHBGeVcwUTR1bDFXQnJFUWJBMlJQQl81dHRVcVY5dTdEcTBDZ3BnZlZWOGd5WnR3dUpYSmtjN1B5czVWMA?oc=5) (Outbreak News Today)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [With 60 new cases in the past week, Florida’s dengue total jumps to 485](https://www.cidrap.umn.edu/dengue/60-new-cases-past-week-florida-s-dengue-total-jumps-485) (CIDRAP); [Bangladesh death toll from dengue rises, unlikely to ease before December](https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-death-toll-dengue-rises-unlikely-ease-before-december-2026-10-31/) (Reuters); [Florida sees spike in dengue fever cases](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2VlbzRkanhOc3BhMkVWYmFDckhrSlFLZFVIREtfck5CZUhUcTl1Wl80Q2NJYWdZVFQ4dkJUa2JXUjB6SXpyS3Q5QjZKMVNjcHd2eVFLSkExdDBTNFloaVE1d19KQ3NNcEtORFN5TlBkanZOMlpfdlR6aHJ4TXlwMzV3VnFVeG5YV3AxSDhn?oc=5) (NPR); [Florida dengue cases surge to 485 in largest outbreak in US in decades](https://news.google.com/rss/articles/CBMingFBVV95cUxNa0phMzE0Mk5PSVR5ZU84N0Vlc2ZveWJmRFlMUEJld0F0MExQZk1aRERoSlBOc3ZFd1pYX3FxWmZlSFFnR0FxUnlaVFVRbVFYcUtMYlR4dm9sTXdNVmY5akJFTmV1VHRIcHVsS0dQczNGWmpJQktsVGg0WjhoVHZCbVMtWWRGa2FIWHlDUHktcjRZc05yRk4ydjlvRG9Wdw?oc=5) (Sarasota Herald-Tribune)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Polio and wastewater surveillance
-- Topic size: 5 item(s) across 4 source(s); 2 official/primary-source item(s).
+- Topic size: 9 item(s) across 8 source(s); 2 official/primary-source item(s).
 - Lead item: [The Q3 Newsletter for 2026](https://www.afro.who.int/countries/nigeria/publication/q3-newsletter-2026) (WHO Regional Office for Africa, 2026-10-28T13:25+00:00)
-- Detailed note: Health topics All topics » A B C D E F G H I L M N O P R S T U V W Y Z Popular Coronavirus (COVID-19) Substance Abuse Ebola Disease Communicable Diseases HIV/AIDS Malaria Water Tuberculosis (TB) World Tuberculosis Day 2019 Countries All countries » A B C D E G K L M N R S T U Z News from countries WHO supports Angola in improving the quality of healthcare 02 Nov 2026 | Feature Story South Sudan conducts...
-- Evidence notes: [The Q3 Newsletter for 2026](https://www.afro.who.int/countries/nigeria/publication/q3-newsletter-2026) (WHO Regional Office for Africa); [Travel route of Kenya’s first Ebola case](https://www.afro.who.int/countries/kenya/publication/travel-route-kenyas-first-ebola-case) (WHO Regional Office for Africa); [South Sudan reports ‘no wild’ polio cases since 2009, health officials say](https://eyeradio.org/south-sudan-reports-no-wild-polio-cases-since-2009-health-officials-say/) (Eye Radio); [Pakistan launches polio vaccination drive to reach around 24 million children in 97 districts](https://www.arabnews.pk/pakistan/pakistan-launches-polio-vaccination-drive-to-reach-around-24-million-children-in-97-districts-3005851) (Arab News PK); [School building collapses, new polio cases expose vulnerability of children in Pakistan: Report](https://www.thehawk.in/news/world/school-building-collapses-new-polio-cases-expose-vulnerability-of-children-in-pakistan-report) (The Hawk)
+- Detailed note: Health topics All topics » A B C D E F G H I L M N O P R S T U V W Y Z Popular Coronavirus (COVID-19) Substance Abuse Ebola Disease Communicable Diseases HIV/AIDS Malaria Water Tuberculosis (TB) World Tuberculosis Day 2019 Countries All countries » A B C D E G K L M N R S T U Z News from countries WHO supports Angola in improving the quality of healthcare 02 Nov 2026 | Feature Story Yaws control efforts bring...
+- Evidence notes: [The Q3 Newsletter for 2026](https://www.afro.who.int/countries/nigeria/publication/q3-newsletter-2026) (WHO Regional Office for Africa); [Travel route of Kenya’s first Ebola case](https://www.afro.who.int/countries/kenya/publication/travel-route-kenyas-first-ebola-case) (WHO Regional Office for Africa); [South Sudan reports ‘no wild’ polio cases since 2009, health officials say](https://eyeradio.org/south-sudan-reports-no-wild-polio-cases-since-2009-health-officials-say/) (Eye Radio); [Pakistan launches polio vaccination drive to reach around 24 million children in 97 districts](https://www.arabnews.pk/pakistan/pakistan-launches-polio-vaccination-drive-to-reach-around-24-million-children-in-97-districts-3005851) (Arab News PK); [Polio vaccination campaign begins in Afghanistan, as cases surge - VOA](https://www.voanews.com/a/polio-vaccination-campaign-begins-in-afghanistan-as-cases-surge/8217898.html) (VOA - Voice of America English News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Occupational and environmental epidemiology
+- Topic size: 4 item(s) across 4 source(s); 2 official/primary-source item(s).
+- Lead item: [Notes from the Field: Use of Enhanced Surveillance to Detect Severe Group A Streptococcus Infections Among Persons Experiencing Homelessness - Missoula County, Montana, July 2024-September 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766756) (CDC MMWR, 2026-10-29T17:00+00:00)
+- Detailed note: Virological failure (0.6-0.8%), definitive discontinuation (4.3-6.3%), and complete injection coverage, defined as proportion of days covered (PDC) of 100% (83.4-87.2%) were similar across strata, suggesting that comorbidity burden alone should not preclude individualized use in routine care. Silva, PhD 3 ,4 ; Jeffry Mutuc, MD 3 ,4 ; Kirsten Edwards 5 ; Josy Jahnke 5 ; Pam Whitney, MPH 5 ; Michelle Mozer 1 ;...
+- Evidence notes: [Notes from the Field: Use of Enhanced Surveillance to Detect Severe Group A Streptococcus Infections Among Persons Experiencing Homelessness - Missoula County, Montana, July 2024-September 2025](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766756) (CDC MMWR); [Nigeria Ebola patient flown to Switzerland, Congo health worker killed as 4 countries deal with outbreak](https://www.cbc.ca/news/health/ebola-outbreak-countries-affected-9.7396192) (CBC); [Comorbidity burden and outcomes with long-acting cabotegravir plus rilpivirine in the RELATIVITY cohort.](https://pubmed.ncbi.nlm.nih.gov/42970448/) (PubMed Infectious Disease Search); [Nigerian Ebola Outbreak, Test Of Public Health Surveillance System](https://independent.ng/nigerian-ebola-outbreak-test-of-public-health-surveillance-system/) (Independent Newspaper Nigeria)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
@@ -91,14 +99,6 @@ Search window: 7 day(s) ending 2026-11-02
 - Evidence notes: [Tuberculosis incidence among household contacts of individuals with symptomatic and asymptomatic tuberculosis: A historical cohort study in the Western Cape province of South Africa.](https://pubmed.ncbi.nlm.nih.gov/42955911/) (PubMed Historical Pathogen Case Studies); [Plague in the modern world: Ecological persistence, epidemic containment, and the limits of public health preparedness.](https://pubmed.ncbi.nlm.nih.gov/42951599/) (PubMed Historical Pathogen Case Studies); [Real-world multicountry programmatic assessment of contact investigation for people with drug-resistant tuberculosis: evidence from five high-burden countries.](https://pubmed.ncbi.nlm.nih.gov/42951284/) (PubMed Historical Pathogen Case Studies); [Ancient Ecuadorian genomes reveal millennia of genetic continuity on the Pacific Coast of South America.](https://pubmed.ncbi.nlm.nih.gov/42948142/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Source diversity is limited so corroboration is thin.
-
-### COVID-19 and SARS-CoV-2
-- Topic size: 4 item(s) across 3 source(s); 4 official/primary-source item(s).
-- Lead item: [Coronavirus health beliefs and fetal health concerns: associations with preventive health behaviors during COVID-19.](https://pubmed.ncbi.nlm.nih.gov/42954319/) (PubMed Infectious Disease Search, 2026-10-29T00:00)
-- Detailed note: Cumulatively from weeks 1 to 41, the WHO AFR influenza laboratory network has tested 58,907 sentinel surveillance specimens for SARS-CoV-2, of which 1,537 were positive for SARS-CoV-2 (cumulative positivity rate 2.6%). In Epiweek 41, of the 1,250 specimens processed by 17 laboratories in the African Region, a total of 35 specimens tested positive for SARS-CoV-2 (positivity of 2.8%). During infectious disease...
-- Evidence notes: [Coronavirus health beliefs and fetal health concerns: associations with preventive health behaviors during COVID-19.](https://pubmed.ncbi.nlm.nih.gov/42954319/) (PubMed Infectious Disease Search); [Respiratory infections season](https://www.ecdc.europa.eu/en/news-events/respiratory-infections-season) (ECDC News); [Protect yourself and others during the cold season](https://www.ecdc.europa.eu/en/news-events/protect-yourself-and-others-during-cold-season) (ECDC News); [Respiratory virus surveillance in the WHO African Region Epidemiological Week 41 October 5 to 11 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-41-october-5-11) (WHO Regional Office for Africa)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 
 ## Last major outbreaks on file
@@ -433,7 +433,7 @@ Search window: 7 day(s) ending 2026-11-02
 - Date: 2026-10-26T10:41+00:00
 - URL: https://www.afro.who.int/countries/kenya/publication/travel-route-kenyas-first-ebola-case
 - Category: Outbreaks and emerging infections
-- Summary: Health topics All topics » A B C D E F G H I L M N O P R S T U V W Y Z Popular Coronavirus (COVID-19) Substance Abuse Ebola Disease Communicable Diseases HIV/AIDS Malaria Water Tuberculosis (TB) World Tuberculosis Day 2019 Countries All countries » A B C D E G K L M N R S T U Z News from countries WHO supports Angola in improving the quality of healthcare 02 Nov 2026 | Feature Story South Sudan conducts nationwide polio vaccination campaign targeting 3.9 million children 30 Oct 2026 | News Release Yaws control efforts bring hope to communities in Likouala 30 Oct 2026 | Feature Story From Vision to Investment: WHO Supports Malawi's Journey Toward a USD 438 Million Global Fund Investment 30 Oct 2026 | News Release No Child Too Far: How Malawi Reached Communities Beyond Roads, Rivers and Distance 30 Oct 2026 | News Release Spotlight Ethiopia Ethiopia hosts first Emergency Medical Teams global meeting in Africa 02 Nov 2026 | News Release Newsroom Media Centre Feature Stories News Releases Programmes and Clusters News Photo Stories Statements and commentaries Audio Photo galleries Headlines WHO supports Angola in improving the quality of healthcare 02 Nov 2026 | Feature Story Ethiopia hosts first Emergency Medical Teams global meeting in Africa 02 Nov 2026 | News Release South Sudan conducts nationwide polio vaccination campaign targeting 3.9 million children 30 Oct 2026 | News Release Yaws control efforts bring hope to communities in Likouala 30 Oct 2026 | Feature Story Ethiopia hosts first Emergency Medical Teams global meeting in Africa 02 Nov 2026 | News Release About us About WHO in the African region » About Us Contact us Governance Leadership Organizational structure Programmes and clusters Regional Director for Africa Accountability » Financial reports General Programme of Work Building a Healthier Africa, Together: A manifesto for transformation
+- Summary: Health topics All topics » A B C D E F G H I L M N O P R S T U V W Y Z Popular Coronavirus (COVID-19) Substance Abuse Ebola Disease Communicable Diseases HIV/AIDS Malaria Water Tuberculosis (TB) World Tuberculosis Day 2019 Countries All countries » A B C D E G K L M N R S T U Z News from countries WHO supports Angola in improving the quality of healthcare 02 Nov 2026 | Feature Story Yaws control efforts bring hope to communities in Likouala 30 Oct 2026 | Feature Story No Child Too Far: How Malawi Reached Communities Beyond Roads, Rivers and Distance 30 Oct 2026 | News Release From Outbreak Response to Long-Term Protection: Blantyre Achieves Full Coverage in Preventive Cholera Vaccination Campaign 30 Oct 2026 | News Release Spotlight Ethiopia Ethiopia hosts first Emergency Medical Teams global meeting in Africa 02 Nov 2026 | News Release Newsroom Media Centre Feature Stories News Releases Programmes and Clusters News Photo Stories Statements and commentaries Audio Photo galleries Headlines WHO supports Angola in improving the quality of healthcare 02 Nov 2026 | Feature Story WHO assesses health systems and emergency preparedness across three Liberian counties 02 Nov 2026 | Cluster/Departmental news Ethiopia hosts first Emergency Medical Teams global meeting in Africa 02 Nov 2026 | News Release South Sudan conducts nationwide polio vaccination campaign targeting 3.9 million children 30 Oct 2026 | News Release Ethiopia hosts first Emergency Medical Teams global meeting in Africa 02 Nov 2026 | News Release About us About WHO in the African region » About Us Contact us Governance Leadership Organizational structure Programmes and clusters Regional Director for Africa Accountability » Financial reports General Programme of Work Building a Healthier Africa, Together: A manifesto for transformation
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -454,13 +454,13 @@ Search window: 7 day(s) ending 2026-11-02
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
-- [WHO chief: Ebola outbreak shows urgent need for pandemic treaty](https://www.euronews.com/2026/11/02/recent-virus-outbreaks-show-urgent-need-to-complete-pandemic-treaty-says-who-chief) | Euronews.com | 2026-11-02T17:24+00:00 | Outbreaks and emerging infections
+- [New York reports first measles death in more than 30 years](https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137) | NBC News | 2026-11-02T23:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [With 60 new cases in the past week, Florida’s dengue total jumps to 485](https://www.cidrap.umn.edu/dengue/60-new-cases-past-week-florida-s-dengue-total-jumps-485) | CIDRAP | 2026-11-02T21:03+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Ebola outbreak kills more than 5,300 people: Africa CDC - Africa - World](https://english.ahram.org.eg/NewsContentP/2/581526/World/Ebola-outbreak-kills-more-than-,-people-Africa-CDC.aspx) | Ahram Online | 2026-11-02T19:20+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola kills over 5,300 in fastest-growing outbreak on record](https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record) | Euronews.com | 2026-11-02T16:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Nigerian health chiefs confirm negative results in Ebola cases](https://www.modernghana.com/news/1541351/nigerian-health-chiefs-confirm-negative-results.amp) | Modern Ghana | 2026-11-02T15:54+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak kills more than 5,300 people – Africa CDC](https://www.vanguardngr.com/2026/11/ebola-outbreak-kills-more-than-5300-people-africa-cdc/) | Vanguard News | 2026-11-02T15:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Colombia's Ebola alert ends with four malaria diagnoses—one traveler died and another remains isolated in Cali](https://www.latintimes.com/colombia-rules-out-ebola-four-travelers-malaria-600808) | Latin Times | 2026-11-02T15:04+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -468,13 +468,13 @@ Search window: 7 day(s) ending 2026-11-02
   Limited detail was available from feed metadata alone.
 - [‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak](https://www.theguardian.com/us-news/2026/nov/02/pennsylvania-measles-outbreak-amish) | The Guardian | 2026-11-02T13:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Nigerian health chiefs confirm negative results in Ebola cases](https://www.rfi.fr/en/africa/20261102-nigerian-health-chiefs-confirm-negative-results-in-ebola-cases) | RFI | 2026-11-02T13:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak: Kenya trip scuttles Tribe's tour of the West Indies with England Lions](https://www.espn.com.au/cricket/story/_/id/50357057/ebola-scare-kenya-trip-scuttles-asa-tribe-tour-west-indies-england-lions) | ESPN | 2026-11-02T12:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [UAE-India travel amid Ebola outbreak: Air Suvidha form now mandatory for all international passengers, here's what to know](https://www.businesstoday.in/india/story/uae-india-travel-amid-ebola-outbreak-air-suvidha-form-now-mandatory-for-all-international-passengers-heres-what-to-know-565182-2026-11-02) | Business Today | 2026-11-02T11:21+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak kills over 5,000 in DR Congo, 10,300 infected; cases reported in Kenya, Uganda and Nigeria](https://www.businesstoday.in/world/story/ebola-outbreak-kills-over-5000-in-dr-congo-10300-infected-cases-reported-in-kenya-uganda-and-nigeria-565154-2026-11-02) | Business Today | 2026-11-02T09:52+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kenya protests Saudi Arabia’s travel ban over Ebola outbreak](https://nairobilawmonthly.com/kenya-protests-saudi-arabias-travel-ban-over-ebola-outbreak/) | Nairobi Law Monthly | 2026-11-02T09:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [India makes Air Suvidha form mandatory for all international arrivals amid Ebola outbreak](https://m.economictimes.com/nri/latest-updates/india-makes-air-suvidha-form-mandatory-for-all-international-arrivals-amid-ebola-outbreak/articleshow/135450660.cms) | The Economic Times | 2026-11-02T08:26+00:00 | Outbreaks and emerging infections
   Some elections matter more than you know: No crop changed in the fields, yet sugar, coffee and soya got cheaper in a day You can buy a walkie-talkie online. Limited detail was available from feed metadata alone.
@@ -512,12 +512,18 @@ Search window: 7 day(s) ending 2026-11-02
   Journal/preprint server: PNAS nexus
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42948142/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42948142/
-- [Cost-effectiveness of recombinant influenza vaccine compared with standard-dose influenza vaccine among adults 50 years of age and older in Hong Kong.](https://pubmed.ncbi.nlm.nih.gov/42969388/)
+- [Comorbidity burden and outcomes with long-acting cabotegravir plus rilpivirine in the RELATIVITY cohort.](https://pubmed.ncbi.nlm.nih.gov/42970448/)
   Source: PubMed Infectious Disease Search
-  DOI: 10.1080/21645515.2026.2757415
-  Journal/preprint server: Human vaccines & immunotherapeutics
-  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42969388/
-  Source URL: https://pubmed.ncbi.nlm.nih.gov/42969388/
+  DOI: 10.1097/QAD.0000000000004607
+  Journal/preprint server: AIDS (London, England)
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42970448/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42970448/
+- [Hetrombopag in China: expanding indications, comparative positioning, and risk management](https://pubmed.ncbi.nlm.nih.gov/42970480/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/16078454.2026.2755117
+  Journal/preprint server: Hematology (Amsterdam, Netherlands)
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/42970480/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/42970480/
 
 ## Historical epi / weird epi corner
 - [Tuberculosis incidence among household contacts of individuals with symptomatic and asymptomatic tuberculosis: A historical cohort study in the Western Cape province of South Africa.](https://pubmed.ncbi.nlm.nih.gov/42955911/) | PubMed Historical Pathogen Case Studies
