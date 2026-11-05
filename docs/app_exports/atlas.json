@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Monitoring: ESWATINI LAUNCHES NATIONAL ACTION PLAN FOR HEALTH SECURITY",
+          "latest_update_summary": "Monitoring: Population level immunity to measles and rubella 5 years before and after the MR campaign in urban Vellore, South India.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1271,7 +1271,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend",
+          "latest_update_summary": "Monitoring: Toward a co-designed dengue early warning system in Vietnam: Stakeholder mapping and expectations in the Mekong Delta Region.",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1833,6 +1833,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-11-04T23:23:18",
-  "run_id": "run_accf11ffefab7705"
+  "generated_at": "2026-11-05T07:48:57",
+  "run_id": "run_b3cc1c1bca03d616"
 }
