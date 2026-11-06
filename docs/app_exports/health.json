@@ -14,20 +14,20 @@
       "Reuters",
       "STAT"
     ],
-    "metadata_only_count": 152,
+    "metadata_only_count": 162,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 169,
+    "sources_live": 179,
     "story_count_change": 6,
-    "wrapper_only_count": 8
+    "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 169,
+    "live": 179,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-05T18:23:00",
+  "generated_at": "2026-11-06T01:51:09",
   "source_failures": []
 }

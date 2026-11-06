@@ -347,7 +347,7 @@
       "related_stories": [
         {
           "display_title": "Measles transmission and vaccination",
-          "latest_update_summary": "Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....",
+          "latest_update_summary": "Monitoring: Population level immunity to measles and rubella 5 years before and after the MR campaign in urban Vellore, South India.",
           "story_id": "story_0cc2d5322bc76f8f",
           "story_url": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html",
           "story_web_path": "stories/story_0cc2d5322bc76f8f-measles-transmission-and-vaccination.html"
@@ -1865,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-11-05T18:23:00",
-  "run_id": "run_13e66fa840670e69"
+  "generated_at": "2026-11-06T01:51:09",
+  "run_id": "run_4d305e4acc297590"
 }
