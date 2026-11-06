@@ -11,23 +11,22 @@
       "NBC News",
       "NPR",
       "New York Times",
-      "Reuters",
-      "STAT"
+      "Reuters"
     ],
-    "metadata_only_count": 184,
+    "metadata_only_count": 192,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 199,
+    "sources_live": 209,
     "story_count_change": 6,
-    "wrapper_only_count": 7
+    "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 199,
+    "live": 209,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-06T09:29:15",
+  "generated_at": "2026-11-06T14:23:53",
   "source_failures": []
 }
