@@ -8,22 +8,23 @@
       "CNN",
       "NBC News",
       "New York Times",
-      "Reuters"
+      "Reuters",
+      "Sky News"
     ],
     "metadata_only_count": 202,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 222,
+    "sources_live": 221,
     "story_count_change": 6,
     "wrapper_only_count": 8
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 222,
+    "live": 221,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-08T10:32:01",
+  "generated_at": "2026-11-08T14:29:41",
   "source_failures": []
 }
