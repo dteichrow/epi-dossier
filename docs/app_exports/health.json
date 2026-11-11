@@ -10,20 +10,20 @@
       "New York Times",
       "Reuters"
     ],
-    "metadata_only_count": 173,
+    "metadata_only_count": 160,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 191,
+    "sources_live": 178,
     "story_count_change": 6,
     "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 191,
+    "live": 178,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-10T16:40:24",
+  "generated_at": "2026-11-10T23:11:19",
   "source_failures": []
 }
