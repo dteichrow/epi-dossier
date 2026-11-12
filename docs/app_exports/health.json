@@ -2,6 +2,7 @@
   "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "ABC News",
       "BBC",
       "CBS News",
       "CIDRAP",
@@ -12,24 +13,24 @@
     "metadata_only_count": 189,
     "sources_cached": 0,
     "sources_failed": 1,
-    "sources_live": 205,
-    "story_count_change": 4,
-    "wrapper_only_count": 4
+    "sources_live": 206,
+    "story_count_change": 5,
+    "wrapper_only_count": 5
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 205,
+    "live": 206,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-12T03:51:40",
+  "generated_at": "2026-11-12T11:54:46",
   "source_failures": [
     {
-      "error": "HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=20)",
+      "error": "HTTPSConnectionPool(host='www.cdph.ca.gov', port=443): Read timed out. (read timeout=8)",
       "required": true,
-      "source": "medRxiv Infectious Disease",
-      "source_type": "medrxiv"
+      "source": "California Department of Public Health News",
+      "source_type": "html_list"
     }
   ]
 }
