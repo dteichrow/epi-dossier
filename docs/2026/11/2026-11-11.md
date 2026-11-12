@@ -1,56 +1,56 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-11-11
-Generated at: 2026-11-11T14:19
+Generated at: 2026-11-11T19:22
 Search window: 7 day(s) ending 2026-11-11
 
 ## Executive scan
+- [Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-44-october-26) (WHO Regional Office for Africa; 2026-11-11T23:01+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.](https://pubmed.ncbi.nlm.nih.gov/43013798/) (PubMed Infectious Disease Search; 2026-11-11T00:00; Major epidemiology studies; relevance 5/5)
 - [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa; 2026-11-10T20:10+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.](https://pubmed.ncbi.nlm.nih.gov/43008033/) (PubMed Historical Pathogen Case Studies; 2026-11-10T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Changing Patterns of Extrapulmonary Tuberculosis Over 60 Years in a Brazilian University Hospital.](https://pubmed.ncbi.nlm.nih.gov/43003215/) (PubMed Historical Pathogen Case Studies; 2026-11-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766796) (CDC MMWR; 2026-11-05T18:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Respiratory virus surveillance in the WHO African Region Epidemiological Week 43, October 19 to 25 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-43-october-19) (WHO Regional Office for Africa; 2026-11-04T10:07+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [31st October 2026 | NCDC Working With Adamawa State To Investigate Suspected Ebola Disease Cases](https://www.ncdc.gov.ng/news/543/31st-october-2026-%7C-ncdc-working-with-adamawa-state-to-investigate-suspected-ebola-disease-cases) (Nigeria Centre for Disease Control; 2026-11-01T00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases; 2026-09-04T12:38-04:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News; Unknown; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (165), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (2)
+- Category mix: Outbreaks and emerging infections (159), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (4)
 
 ## Ongoing stories and what changed
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 94 item(s) across 82 source(s).
+- Newly tracked story cluster: 90 item(s) across 80 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - The New York Times now includes deaths or fatal cases in the story frame.
 - NBC News now foregrounds vaccination or vaccine policy in the story.
 
 ### Ebola virus disease
 - Lead item: [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 67 item(s) across 59 source(s).
+- Newly tracked story cluster: 65 item(s) across 56 source(s).
 - Monitoring: BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 20 item(s) across 18 source(s).
+- Newly tracked story cluster: 21 item(s) across 19 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
 ### Tuberculosis and antimicrobial resistance
-- Lead item: [Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.](https://pubmed.ncbi.nlm.nih.gov/43008033/) (PubMed Historical Pathogen Case Studies)
-- Newly tracked story cluster: 2 item(s) across 1 source(s).
-- Monitoring: Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.
+- Lead item: [Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.](https://pubmed.ncbi.nlm.nih.gov/43013798/) (PubMed Infectious Disease Search)
+- Newly tracked story cluster: 3 item(s) across 2 source(s).
+- Monitoring: Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.
 - PubMed Historical Pathogen Case Studies now includes deaths or fatal cases in the story frame.
 
-### Hantavirus and cruise-ship outbreak
-- Lead item: [Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766796) (CDC MMWR)
+### COVID-19 and SARS-CoV-2
+- Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-44-october-26) (WHO Regional Office for Africa)
 - Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Monitoring: Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel
-- Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
+- Monitoring: Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026
+- PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 94 item(s) across 82 source(s); 1 official/primary-source item(s).
+- Topic size: 90 item(s) across 80 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [U.S. may lose its measles elimination status after cases doubled in a year](https://www.cbsnews.com/video/measles-cases-are-on-the-rise-in-the-us/) (CBS News); [When Measles Came to an Amish Community, Many Suffered and One Died](https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2ZrenUxeFRUV0ZERVM3OXN6cTlTQ0REQ3RJWFJCTk9Od3c1Y3N2dEctcWZ2U3BIblh2TC14R09jNVFsWjE4NmtBZnRjN0c1MGs3Y04zcDRWUXJkQmo2ZlNtSFpsZnNkYkFqb1JZTWFWRjBmOGliTjktWHllV1lWcXFvSHRFQVVXRTV1Zw?oc=5) (The New York Times); [Measles cases explode amid declining vaccination rates](https://news.google.com/rss/articles/CBMirwFBVV95cUxObXJwVXA2MUJHcDZTaW9memR0XzhUZlBLUGVGM2pIaTZFeHdkYVBXb0xoTG1rLVBPckx5R3NwVzNKZldUQjNfRzJCWUJuSVByaWlRek16ODIzUmdId0JfS3FGemVTa0tWWGdqS0tkdW0talN4WW91Ry1HZUxJWXUxT1NHM19QZHl0bjJBZ0NlX0VsY2hkcnM3OUhvbDlTUmFTc0ltODJEV0lzTHMyd0Zv?oc=5) (NBC News); [Uganda Study Evaluates Measles Outbreak Dynamics in Refugee Hosting District](https://bioengineer.org/uganda-study-evaluates-measles-outbreak-dynamics-in-refugee-hosting-district/) (Bioengineer.org)
@@ -58,36 +58,36 @@ Search window: 7 day(s) ending 2026-11-11
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 67 item(s) across 59 source(s); 2 official/primary-source item(s).
+- Topic size: 65 item(s) across 56 source(s); 2 official/primary-source item(s).
 - Lead item: [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa, 2026-11-10T20:10+00:00)
 - Detailed note: Since External Situation Report #24, an additional 388 confirmed cases and 197 confirmed deaths have been reported, bringing the cumulative total to 10 920 confirmed cases, including 5 323 confirmed deaths [crude case fatality ratio (CFR) 48.7%]. Ituri continues to account for the largest proportion of cumulative confirmed cases (69.7%), although its relative contribution is declining, while Nord-Kivu (24.7% of...
-- Evidence notes: [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa); [31st October 2026 | NCDC Working With Adamawa State To Investigate Suspected Ebola Disease Cases](https://www.ncdc.gov.ng/news/543/31st-october-2026-%7C-ncdc-working-with-adamawa-state-to-investigate-suspected-ebola-disease-cases) (Nigeria Centre for Disease Control); [Number of Ebola Cases in Congo Surpasses 11,000](https://www.ntd.com/number-of-ebola-cases-in-congo-surpasses-11000-post_1184726.html) (NTD News); [Ebola tops 11,000 cases in Congo's deadliest outbreak](https://kdhnews.com/news/world/ebola-tops-11-000-cases-in-congos-deadliest-outbreak/article_22eb38cf-d77a-5cf1-a69e-126137ba4e49.html) (The Killeen Daily Herald); [NIGERIA NOT YET EBOLA-FREE, NCDC WARNS AS 28 CONTACTS REMAIN UNDER SURVEILLANCE](https://crimefightersng.com/news/nigeria-not-yet-ebola-free-ncdc-warns-as-28-contacts-remain-under-surveillance) (Crime Fighters)
+- Evidence notes: [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa); [31st October 2026 | NCDC Working With Adamawa State To Investigate Suspected Ebola Disease Cases](https://www.ncdc.gov.ng/news/543/31st-october-2026-%7C-ncdc-working-with-adamawa-state-to-investigate-suspected-ebola-disease-cases) (Nigeria Centre for Disease Control); [WHO chief Tedros commends Kenya for containing Ebola outbreak](https://peopledaily.digital/news/who-chief-tedros-commends-kenya-for-containing-ebola-outbreak) (People Daily); [Number of Ebola Cases in Congo Surpasses 11,000](https://www.ntd.com/number-of-ebola-cases-in-congo-surpasses-11000-post_1184726.html) (NTD News); [Ebola tops 11,000 cases in Congo's deadliest outbreak](https://kdhnews.com/news/world/ebola-tops-11-000-cases-in-congos-deadliest-outbreak/article_22eb38cf-d77a-5cf1-a69e-126137ba4e49.html) (The Killeen Daily Herald)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 20 item(s) across 18 source(s); 1 official/primary-source item(s).
+- Topic size: 21 item(s) across 19 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
-- Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend. state in decades cedarnews.net
-- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Her Death From Dengue May Signal That the Disease Is Here to Stay](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTBUSlFhMDlCZjZ0TFlhTG01Q1NrNjB3dFh6ZzBVclVYUlZrNktlVkVVMnpwN3FIblVyZnoycTFZTFVYVnk3VGJDVzdCa1FQZDhWSHk1VUMtZHQtYWxQamRpa0xUSzAxUDFNal9MNVdLQk1Pcm5uYUM0aTJsQWFkM0ZPV2pPWFVa?oc=5) (The New York Times); [DoH: Flu-like illnesses, dengue cases rise](https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdkhjSkZHVVFmcVFkb0pSTTN6OEF5NmVzYnlZVVpxODFmbXlhdldFSVhud3dDc1hENjhlQ2hReEowcVlUS0hsRVdHYUJWQ0hlU01lQVg2MmczbzVLeXo3ZGUzMkhjUV9YalFCMk5pUkxPR2dWZDBJbGVjbXJHc2s?oc=5) (Daily Tribune); [Florida’s dengue outbreak is now the largest in a U.S. state in decades](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHdOQmdzUDlKakZUSE9HV0ZIN3BTa2pYeS10RmR2RzNfSFliMmhjQldZM3FrRWlzTmFkWTBvazZWME02aTl1UFZjbGcyZ0lDWDU3NXFZWThTdTJ3VV9VT0J6MEptMDhfSWJ3WDkzVnJHNkpuRTJaZ0YzaEJCMDZYOG5abFpEYVZX?oc=5) (cedarnews.net); [Bangladesh dengue outbreak tops 150,000 cases](https://outbreaknewstoday.substack.com/p/bangladesh-dengue-outbreak-tops-150000) (Outbreak News Today)
+- Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend.
+- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Her Death From Dengue May Signal That the Disease Is Here to Stay](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTBUSlFhMDlCZjZ0TFlhTG01Q1NrNjB3dFh6ZzBVclVYUlZrNktlVkVVMnpwN3FIblVyZnoycTFZTFVYVnk3VGJDVzdCa1FQZDhWSHk1VUMtZHQtYWxQamRpa0xUSzAxUDFNal9MNVdLQk1Pcm5uYUM0aTJsQWFkM0ZPV2pPWFVa?oc=5) (The New York Times); [DoH: Flu-like illnesses, dengue cases rise](https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdkhjSkZHVVFmcVFkb0pSTTN6OEF5NmVzYnlZVVpxODFmbXlhdldFSVhud3dDc1hENjhlQ2hReEowcVlUS0hsRVdHYUJWQ0hlU01lQVg2MmczbzVLeXo3ZGUzMkhjUV9YalFCMk5pUkxPR2dWZDBJbGVjbXJHc2s?oc=5) (Daily Tribune); [Bangladesh dengue outbreak tops 150,000 cases](https://outbreaknewstoday.substack.com/p/bangladesh-dengue-outbreak-tops-150000) (Outbreak News Today); [Africa: Chad officials report dengue outbreak](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSV9hOEQydm90di1tSXBDRGxLS3diSVE3VktoZHBCMFFDSktWM1VYT3EzckxKNVExYldNLXpJSVdhYjhBaFB2bTJ1Z3pGVkdPdHI1dThGYjg0TWJ1N3N6Nmc3cHZKbjRLRGdjbGllQXVaQllPSFJJbFJpV0pFMGY4YkhR?oc=5) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Miscellaneous signals
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [UAE Lifts Ebola-Related Visa Suspension on Ugandans, But 21-Day Condition Remains](https://ugdiplomat.com/uae-lifts-ebola-related-visa-suspension-on-ugandans-but-21-day-condition-remains/) (UG Diplomat, 2026-11-11T08:56+00:00)
-- Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [UAE Lifts Ebola-Related Visa Suspension on Ugandans, But 21-Day Condition Remains](https://ugdiplomat.com/uae-lifts-ebola-related-visa-suspension-on-ugandans-but-21-day-condition-remains/) (UG Diplomat); [Prevalence and Profile of Undiagnosed Dementia in Brazil: A 5-Year Nationally Representative Analysis From the ELSI-Brazil.](https://pubmed.ncbi.nlm.nih.gov/42993913/) (PubMed Infectious Disease Search)
+### Tuberculosis and antimicrobial resistance
+- Topic size: 3 item(s) across 2 source(s); 3 official/primary-source item(s).
+- Lead item: [Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.](https://pubmed.ncbi.nlm.nih.gov/43013798/) (PubMed Infectious Disease Search, 2026-11-11T00:00)
+- Detailed note: By decade, meningoencephalitic TB decreased from 51 cases (15.06 per 1,000 departmental admissions) in 1965-1974 to 3 cases (1.26 per 1,000) in 2015-2024. Within meningoencephalitic TB, case fatality was 36.1% (35/97) before 1990 and 15.4% (6/39) thereafter. Most livestock studies used non-discriminatory tests (tuberculin skin tests, ELISA, or untyped PCR) and reported non-comparable reactor proportions of 1.2%...
+- Evidence notes: [Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.](https://pubmed.ncbi.nlm.nih.gov/43013798/) (PubMed Infectious Disease Search); [Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.](https://pubmed.ncbi.nlm.nih.gov/43008033/) (PubMed Historical Pathogen Case Studies); [Changing Patterns of Extrapulmonary Tuberculosis Over 60 Years in a Brazilian University Hospital.](https://pubmed.ncbi.nlm.nih.gov/43003215/) (PubMed Historical Pathogen Case Studies)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may shape how new evidence is framed before broader consensus forms.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Tuberculosis and antimicrobial resistance
-- Topic size: 2 item(s) across 1 source(s); 2 official/primary-source item(s).
-- Lead item: [Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.](https://pubmed.ncbi.nlm.nih.gov/43008033/) (PubMed Historical Pathogen Case Studies, 2026-11-10T00:00)
-- Detailed note: By decade, meningoencephalitic TB decreased from 51 cases (15.06 per 1,000 departmental admissions) in 1965-1974 to 3 cases (1.26 per 1,000) in 2015-2024. Within meningoencephalitic TB, case fatality was 36.1% (35/97) before 1990 and 15.4% (6/39) thereafter. Most livestock studies used non-discriminatory tests (tuberculin skin tests, ELISA, or untyped PCR) and reported non-comparable reactor proportions of 1.2%...
-- Evidence notes: [Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.](https://pubmed.ncbi.nlm.nih.gov/43008033/) (PubMed Historical Pathogen Case Studies); [Changing Patterns of Extrapulmonary Tuberculosis Over 60 Years in a Brazilian University Hospital.](https://pubmed.ncbi.nlm.nih.gov/43003215/) (PubMed Historical Pathogen Case Studies)
-- Why this topic matters now: It may shape how new evidence is framed before broader consensus forms.
-- Caveats / uncertainty: Source diversity is limited so corroboration is thin.
+### COVID-19 and SARS-CoV-2
+- Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
+- Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-44-october-26) (WHO Regional Office for Africa, 2026-11-11T23:01+00:00)
+- Detailed note: Cumulatively from weeks 1 to 44, the WHO AFR influenza laboratory network has tested 62,459 sentinel surveillance specimens for SARS-CoV-2, of which 1,611 were positive for SARS-CoV-2 (cumulative positivity rate 2.6%). SARS-CoV-2 In Epiweek 44, of the 770 specimens processed by 11 laboratories in the African Region, a total of 26 specimens tested positive for SARS-CoV-2 (positivity of 3.4%). This multicenter...
+- Evidence notes: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-44-october-26) (WHO Regional Office for Africa); [Effects of COVID-19 vaccination type and vaccination-infection interval on viral clearance dynamics in Omicron BA.5 patients at Guangzhou Fangcang shelter hospitals: A propensity score matched multicenter retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/43013717/) (PubMed Infectious Disease Search)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Hantavirus and cruise-ship outbreak
 - Topic size: 2 item(s) across 2 source(s); 2 official/primary-source item(s).
@@ -335,6 +335,26 @@ Search window: 7 day(s) ending 2026-11-11
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026
+- Source: WHO Regional Office for Africa
+- Date: 2026-11-11T23:01+00:00
+- URL: https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-44-october-26
+- Category: Outbreaks and emerging infections
+- Summary: Cumulatively from weeks 1 to 44, the WHO AFR influenza laboratory network has tested 62,459 sentinel surveillance specimens for SARS-CoV-2, of which 1,611 were positive for SARS-CoV-2 (cumulative positivity rate 2.6%). SARS-CoV-2 In Epiweek 44, of the 770 specimens processed by 11 laboratories in the African Region, a total of 26 specimens tested positive for SARS-CoV-2 (positivity of 3.4%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 24), Influenza A (H3) (n = 7), Influenza A (subtyping not performed) (n = 4), Influenza B (lineage not determined) (n = 18), and Influenza B (Victoria) (n = 24).
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-11-11T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/43013798/
+- Category: Major epidemiology studies
+- Summary: We analyzed TCR repertoires from sequential peripheral blood samples collected before and after relapses in 5 patients with MS. TCR antigen specificity was determined using exact matches to public databases and GLIPH2-based clustering, covering EBV, cytomegalovirus, influenza, Mycobacterium tuberculosis , and self-antigens. TCRs recognizing other viral antigens, including polyspecific TCRs with broad reactivity, displayed similar baseline enrichment and relapse-associated expansion patterns.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026
 - Source: WHO Regional Office for Africa
 - Date: 2026-11-10T20:10+00:00
@@ -371,16 +391,6 @@ Search window: 7 day(s) ending 2026-11-11
 - URL: https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766796
 - Category: Occupational and environmental epidemiology
 - Summary: This report describes cases of hantavirus among people on a cruise ship in the Atlantic Ocean.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Respiratory virus surveillance in the WHO African Region Epidemiological Week 43, October 19 to 25 2026
-- Source: WHO Regional Office for Africa
-- Date: 2026-11-04T10:07+00:00
-- URL: https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-43-october-19
-- Category: Outbreaks and emerging infections
-- Summary: Cumulatively from weeks 1 to 43, the WHO AFR influenza laboratory network has tested 60,910 sentinel surveillance specimens for SARS-CoV-2, of which 1,579 were positive for SARS-CoV-2 (cumulative positivity rate 2.6%) Week 43 October 19 to 25 2026 Related Health Topics Influenza SARS-CoV-2 In Epiweek 43, of the 622 specimens processed by 10 laboratories in the African Region, a total of 13 specimens tested positive for SARS-CoV-2 (positivity of 2.1%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 36), Influenza A (H3) (n = 5), Influenza A (subtyping not performed) (n = 8), Influenza B (lineage not determined) (n = 31), and Influenza B (Victoria) (n = 23).
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
@@ -425,41 +435,35 @@ Search window: 7 day(s) ending 2026-11-11
 - Caveats / uncertainty: Usable source detail was limited after cleanup. Publication timestamp was not reliably available.
 - Relevance score: 5/5
 
-### Number of Ebola Cases in Congo Surpasses 11,000
-- Source: NTD News
-- Date: 2026-11-11T21:13+00:00
-- URL: https://www.ntd.com/number-of-ebola-cases-in-congo-surpasses-11000-post_1184726.html
-- Category: Outbreaks and emerging infections
-- Summary: Limited detail was available from feed metadata alone.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response.
-- Caveats / uncertainty: Usable source detail was limited after cleanup.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [WHO chief Tedros commends Kenya for containing Ebola outbreak](https://peopledaily.digital/news/who-chief-tedros-commends-kenya-for-containing-ebola-outbreak) | People Daily | 2026-11-11T23:06+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Number of Ebola Cases in Congo Surpasses 11,000](https://www.ntd.com/number-of-ebola-cases-in-congo-surpasses-11000-post_1184726.html) | NTD News | 2026-11-11T21:13+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola tops 11,000 cases in Congo's deadliest outbreak](https://kdhnews.com/news/world/ebola-tops-11-000-cases-in-congos-deadliest-outbreak/article_22eb38cf-d77a-5cf1-a69e-126137ba4e49.html) | The Killeen Daily Herald | 2026-11-11T20:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [NIGERIA NOT YET EBOLA-FREE, NCDC WARNS AS 28 CONTACTS REMAIN UNDER SURVEILLANCE](https://crimefightersng.com/news/nigeria-not-yet-ebola-free-ncdc-warns-as-28-contacts-remain-under-surveillance) | Crime Fighters | 2026-11-11T17:12+00:00 | Outbreaks and emerging infections
+- [NIGERIA NOT YET EBOLA-FREE, NCDC WARNS AS 28 CONTACTS REMAIN UNDER SURVEILLANCE](https://crimefightersng.com/news/nigeria-not-yet-ebola-free-ncdc-warns-as-28-contacts-remain-under-surveillance) | Crime Fighters | 2026-11-11T18:48+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola Outbreak Surpasses 11,000 Cases And 5,300 Deaths](https://tippinsights.com/congo-ebola-outbreak-surpasses-11-000-cases-and-5-300-deaths/) | tippinsights | 2026-11-11T18:37+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Kenyans Count Down to Ebola Outbreak’s End](https://teen.gwnews.com/news-bytes/kenyans-count-down-to-ebola-outbreaks-end) | God's World News | 2026-11-11T17:30+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak exceeds 11,000 cases, causes 5,387 deaths](https://www.thehindu.com/news/international/dr-congo-ebola-outbreak-exceeds-11000-cases-causes-5387-deaths/article71691022.ece) | The Hindu | 2026-11-11T17:01+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola Outbreak Surpasses 11,000 Cases, Death Toll Exceeds 5,300](https://colombiaone.com/2026/11/11/dr-congo-ebola-outbreak-11000-cases-5300-deaths/) | ColombiaOne.com | 2026-11-11T16:34+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [UAE lifts visa ban on Ugandan nationals after Ebola outbreak](https://eastleighvoice.co.ke/uganda/422461/uae-lifts-visa-ban-on-ugandan-nationals-after-ebola-outbreak) | The Eastleigh Voice | 2026-11-11T16:17+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola outbreak crosses 11,000 cases: Should India worry as the deadly virus spreads beyond Congo? What we](https://timesofindia.indiatimes.com/health/ebola-outbreak-crosses-11000-cases-should-india-worry-as-the-deadly-virus-spreads-beyond-congo-what-we-need-to-know/articleshow/135743036.cms) | The Times of India | 2026-11-11T16:09+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Over 11,000 Ebola cases reported in Congo during country’s deadliest outbreak](https://nypost.com/2026/11/11/world-news/over-11000-ebola-cases-reported-in-congo-amid-countrys-deadliest-outbreak/) | New York Post | 2026-11-11T15:31+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 - [U.S. may lose its measles elimination status after cases doubled in a year](https://www.cbsnews.com/video/measles-cases-are-on-the-rise-in-the-us/) | CBS News | 2026-11-11T15:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola death toll climbs to 11,000 in Congo, as health officials warn of worsening outbreak](https://www.thenews.com.pk/latest/1423278-ebola-death-toll-climbs-to-11000-in-congo-as-health-officials-warn-of-worsening-outbreak) | The News International | 2026-11-11T15:15+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola in the DRC: 66 civilians killed, more than 1,000 contacts escape health monitoring](https://beninwebtv.com/en/ebola-in-the-drc-66-civilians-killed-more-than-1000-contacts-escape-health-monitoring/) | beninwebtv.com | 2026-11-11T14:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo suffers the worst Ebola outbreak in its history](https://voz.us/en/world/261111/1000493/democratic-republic-of-the-congo-worst-ebola-outbreak-history.html) | voz.us | 2026-11-11T14:33+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola cases surpass 11,000](https://www.theeastafrican.co.ke/tea/sustainability/health/congo-s-ebola-cases-surpass-11-000-5667118) | The EastAfrican | 2026-11-11T14:30+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo Ebola outbreak passes 11,000 cases, health ministry says](https://africa.dailynewsegypt.com/congo-ebola-outbreak-11000-cases/) | DNE Africa | 2026-11-11T14:07+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Kenya Discharges Last Ebola Patient, Begins 42-Day Countdown To End Outbreak](https://thetrumpet.ng/kenya-discharges-last-ebola-patient-42-day-countdown/) | The Trumpet Newspaper Nigeria | 2026-11-11T13:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -471,14 +475,16 @@ Search window: 7 day(s) ending 2026-11-11
   Limited detail was available from feed metadata alone.
 - [Deadliest Ebola outbreak in Congo’s history reaches 11,000 cases](https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases) | Euronews.com | 2026-11-11T10:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Duale announces end of Ebola Outbreak in Kenya](https://radiokaya.co.ke/duale-announces-end-of-ebola-outbreak-in-kenya/) | Radiokaya | 2026-11-11T10:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Kenya Declared Ebola-Free as All Seven Patients Recover, Duale Announces End of Outbreak](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjR5TF82YU5kaWozNFk5MmtEZE5SbVhfVjgtaS10cUpmOGhFaEEyMWZPZzNuNHZVQlUtemtFMzNLMXlxcWxweTZ6UVF0M0RoZC1SQlVRTFE1d2pQaFN0dmc3S0M1czNHelVQeXdINnQ1Mm04NV94YTM0R2dySHlwVWVNS1Vvc1NuQzVDQ2lKQmtNTGltdzVSUUtna2R5bzg1TXk2dElOeUlJdTdzLWl0aGtUYw?oc=5) | Kenya Insights | 2026-11-11T09:25+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [UAE Lifts Ebola-Related Visa Suspension on Ugandans, But 21-Day Condition Remains](https://ugdiplomat.com/uae-lifts-ebola-related-visa-suspension-on-ugandans-but-21-day-condition-remains/) | UG Diplomat | 2026-11-11T08:56+00:00 | Outbreaks and emerging infections
+- [Duale announces end of Ebola Outbreak in Kenya](https://news.google.com/rss/articles/CBMie0FVX3lxTE02OEkzdXVxRWVFRmx1TUdKMXRnYi14SzY1YUcxbmROejBKRHl5bmstcWRUbUQtMmNRdmFHRDhfeUgweUo2Z3l6VFl6azFFYXFwUzNXRnpObGtiWHNaM3JmMVZPNjlfRnBVRjZaOFRDejF3TGlIRjZneVAzWQ?oc=5) | Radiokaya | 2026-11-11T10:25+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.](https://pubmed.ncbi.nlm.nih.gov/43013798/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1212/NXI.0000000000200645
+  Journal/preprint server: Neurology(R) neuroimmunology & neuroinflammation
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/43013798/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/43013798/
 - [Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.](https://pubmed.ncbi.nlm.nih.gov/43008033/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.1371/journal.pntd.0014877
@@ -503,8 +509,16 @@ Search window: 7 day(s) ending 2026-11-11
   Journal/preprint server: Neurology
   Abstract link: https://pubmed.ncbi.nlm.nih.gov/42993913/
   Source URL: https://pubmed.ncbi.nlm.nih.gov/42993913/
+- [Effects of COVID-19 vaccination type and vaccination-infection interval on viral clearance dynamics in Omicron BA.5 patients at Guangzhou Fangcang shelter hospitals: A propensity score matched multicenter retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/43013717/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/21645515.2026.2731694
+  Journal/preprint server: Human vaccines & immunotherapeutics
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/43013717/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/43013717/
 
 ## Historical epi / weird epi corner
+- [Multiple Sclerosis Relapses Are Associated With EBV-Specific T-Cell Expansion Amid Broad Immune Activation.](https://pubmed.ncbi.nlm.nih.gov/43013798/) | PubMed Infectious Disease Search
+  We analyzed TCR repertoires from sequential peripheral blood samples collected before and after relapses in 5 patients with MS. TCR antigen specificity was determined using exact matches to public databases and GLIPH2-based clustering, covering EBV, cytomegalovirus, influenza, Mycobacterium tuberculosis , and self-antigens. TCRs recognizing other viral antigens, including polyspecific TCRs with broad reactivity, displayed similar baseline enrichment and relapse-associated expansion patterns.
 - [Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.](https://pubmed.ncbi.nlm.nih.gov/43008033/) | PubMed Historical Pathogen Case Studies
   Most livestock studies used non-discriminatory tests (tuberculin skin tests, ELISA, or untyped PCR) and reported non-comparable reactor proportions of 1.2% to 33.7%. Thirty-five studies met the inclusion criteria: 24 on prevalence in cattle/buffaloes, 10 on molecular diagnosis and characterisation in cattle, captive wildlife, and humans, and 1 specifically on molecular diagnosis and characterisation in humans. The few studies using species-level methods (Levels 1-2) confirmed M.
 - [Changing Patterns of Extrapulmonary Tuberculosis Over 60 Years in a Brazilian University Hospital.](https://pubmed.ncbi.nlm.nih.gov/43003215/) | PubMed Historical Pathogen Case Studies
