@@ -1,6 +1,6 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-11-13
-Generated at: 2026-11-13T14:10
+Generated at: 2026-11-13T18:42
 Search window: 7 day(s) ending 2026-11-13
 
 ## Executive scan
@@ -12,34 +12,27 @@ Search window: 7 day(s) ending 2026-11-13
 - [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa; 2026-11-10T20:10+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Zoonotic tuberculosis at the cattle-human-captive wildlife interface in Bangladesh: A systematic evidence map.](https://pubmed.ncbi.nlm.nih.gov/43008033/) (PubMed Historical Pathogen Case Studies; 2026-11-10T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Changing Patterns of Extrapulmonary Tuberculosis Over 60 Years in a Brazilian University Hospital.](https://pubmed.ncbi.nlm.nih.gov/43003215/) (PubMed Historical Pathogen Case Studies; 2026-11-09T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (167), Policy, surveillance, and public health infrastructure (22), Historical epidemiology / ancient disease / paleopathology (3)
+- Category mix: Outbreaks and emerging infections (166), Policy, surveillance, and public health infrastructure (20), Major epidemiology studies (3)
 
 ## Ongoing stories and what changed
 ### Ebola virus disease
 - Lead item: [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 76 item(s) across 63 source(s).
+- Newly tracked story cluster: 77 item(s) across 64 source(s).
 - Monitoring: BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026
 - WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
 - WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
-### Hantavirus and cruise-ship outbreak
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 4 item(s) across 4 source(s).
-- Monitoring: News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
-- Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
-- Medical Xpress now mentions possible human-to-human transmission.
-
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 90 item(s) across 83 source(s).
+- Newly tracked story cluster: 83 item(s) across 75 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
-- ABC News - Breaking News, Latest News and Videos now includes deaths or fatal cases in the story frame.
+- NBC News now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823) (CDC MMWR)
-- Newly tracked story cluster: 16 item(s) across 15 source(s).
+- Newly tracked story cluster: 19 item(s) across 18 source(s).
 - Monitoring: Notes from the Field: Dengue Outbreak
-- The linked sources provide the current reporting record; this entry does not establish a new development.
+- Facebook now includes deaths or fatal cases in the story frame.
 
 ### Tuberculosis and antimicrobial resistance
 - Lead item: [Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.](https://pubmed.ncbi.nlm.nih.gov/43020100/) (PubMed Historical Pathogen Case Studies)
@@ -47,18 +40,24 @@ Search window: 7 day(s) ending 2026-11-13
 - Monitoring: Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.
 - PubMed Historical Pathogen Case Studies now includes deaths or fatal cases in the story frame.
 
+### Hantavirus and cruise-ship outbreak
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News)
+- Newly tracked story cluster: 3 item(s) across 3 source(s).
+- Monitoring: News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....
+- Texas Department of State Health Services News now explicitly uses investigation or monitoring language.
+
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 90 item(s) across 83 source(s); 1 official/primary-source item(s).
+- Topic size: 83 item(s) across 75 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
-- Detailed note: Learn more about the Sunset process and provide feedback. health department announces Tioga Publishing
-- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/measles-cases-nationwide-top-5400-outbreaks-spread-us/story?id\=138108176) (ABC News - Breaking News, Latest News and Videos); [2 more people die of measles complications as US cases top 5,400](https://www.cidrap.umn.edu/measles/2-more-people-die-measles-complications-us-cases-top-5400) (CIDRAP); [Montour County resident died of measles, Pa. health department announces](https://www.tiogapublishing.com/news/state/montour-county-resident-died-of-measles-pa-health-department-announces/article_f74841a6-5097-5cb1-adcd-e468e79659db.html) (Tioga Publishing); [Michigan has 22 confirmed measles cases in 2026, according to the CDC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGphd01xSzA2UHhNUXRPU2FwTGpsaEd2eFBNcnpVS1JESkN6SnlZc2xkd19qSUVnM3IxaThZdWNlaFkyQnZfSngycms5ZGVKazM1WFVhSnE2Ry11VTBxS3N4S2dYVUc5cE9yR0pFX21NMVBKd0gxUDRkSnZCWHZrWWxSTnBoWDR0aTZLZXBn?oc=5) (CBS News)
+- Detailed note: Learn more about the Sunset process and provide feedback.
+- Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Michigan has 22 confirmed measles cases in 2026](https://www.cbsnews.com/detroit/video/michigan-has-22-confirmed-measles-cases-in-2026/) (CBS News); [U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin](https://www.nbcnews.com/health/health-news/us-measles-deaths-rise-10-new-reports-pennsylvania-wisconsin-rcna609245) (NBC News); [Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/measles-cases-nationwide-top-5400-outbreaks-spread-us/story?id\=138108176) (ABC News - Breaking News, Latest News and Videos); [2 more people die of measles complications as US cases top 5,400](https://www.cidrap.umn.edu/measles/2-more-people-die-measles-complications-us-cases-top-5400) (CIDRAP)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 76 item(s) across 63 source(s); 2 official/primary-source item(s).
+- Topic size: 77 item(s) across 64 source(s); 2 official/primary-source item(s).
 - Lead item: [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa, 2026-11-10T20:10+00:00)
 - Detailed note: Since External Situation Report #24, an additional 388 confirmed cases and 197 confirmed deaths have been reported, bringing the cumulative total to 10 920 confirmed cases, including 5 323 confirmed deaths [crude case fatality ratio (CFR) 48.7%]. Ituri continues to account for the largest proportion of cumulative confirmed cases (69.7%), although its relative contribution is declining, while Nord-Kivu (24.7% of...
 - Evidence notes: [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 25, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa); [31st October 2026 | NCDC Working With Adamawa State To Investigate Suspected Ebola Disease Cases](https://www.ncdc.gov.ng/news/543/31st-october-2026-%7C-ncdc-working-with-adamawa-state-to-investigate-suspected-ebola-disease-cases) (Nigeria Centre for Disease Control); [Ebola spreading in rural Congo, WHO warns](https://www.yahoo.com/news/world/articles/ebola-spreading-rural-congo-warns-123334560.html) (Yahoo); [WHO warns DR Congo Ebola outbreak remains "concerning" as violence disrupts response](https://www.bastillepost.com/global/article/6357064-who-warns-dr-congo-ebola-outbreak-remains-concerning-as-violence-disrupts-response) (巴士的報); [Roundup: WHO warns Ebola outbreak in DR Congo remains concerning amid rising infections, violence](https://english.news.cn/20261113/3413bc8f7390413491b82a02c3bf1cd7/c.html) (Xinhua)
@@ -66,7 +65,7 @@ Search window: 7 day(s) ending 2026-11-13
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 16 item(s) across 15 source(s); 3 official/primary-source item(s).
+- Topic size: 19 item(s) across 18 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823) (CDC MMWR, 2026-11-12T18:00+00:00)
 - Detailed note: This report describes a dengue outbreak in America Samoa that resulted in 1,048 confirmed cases and 371 hospitalizations during June 2025-August 2026. (https://doi.org/10.70962/jhi.20260072) shows that autoantibodies neutralizing type I IFNs (AAN-I-IFN) may underlie severe dengue in ∼14% (7/49) of cases in a cohort of Chinese patients. To date, 59 locally acquired dengue infections have been reported to the...
 - Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823) (CDC MMWR); [Severe dengue: Are type I interferon autoantibodies involved?](https://pubmed.ncbi.nlm.nih.gov/43018474/) (PubMed Infectious Disease Search); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [What to know about dengue fever as Florida reports more than 500 cases this year](https://www.pbs.org/newshour/health/what-to-know-about-dengue-fever-as-florida-reports-more-than-500-cases-this-year) (PBS); [Her Death From Dengue May Signal That the Disease Is Here to Stay](https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html) (The New York Times)
@@ -81,20 +80,20 @@ Search window: 7 day(s) ending 2026-11-13
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Hantavirus and cruise-ship outbreak
-- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
-- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, Unknown)
-- Detailed note: Learn more about the Sunset process and provide feedback.
-- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Andes hantavirus outbreak examined by scientists through its genome](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU25LTmJRblo2UjE5VFZjekRRYWZoUlNFUThqXzBERDdDZTM5S2FfN0xycWlnaDRsejQzZnI0eUxaT2NTQlBkVEtxVi1SUnpXUWhxTU9zcWQwSUtaV1N0WjRKN2JrSmZRZERwU1RrTkRiRGNxWlo2bDlsLWFSQmV5MHBQN0ExR3BkU2NUMF9IdjJCd3I5aXVpWVpUUFA5dDdrV0hBTHR6ZlhiMUllRUQxazVPenVSQkszdUQxOExHU2ZnY2lqZnlrTXVIMkVKNVJ0d2c?oc=5) (Le Monde.fr); [Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission](https://bioengineer.org/cruise-ship-outbreak-provides-further-evidence-of-andes-virus-human-transmission/) (Bioengineer.org); [Human-to-human hantavirus spread confirmed on cruise ship](https://news.google.com/rss/articles/CBMifEFVX3lxTE9qN2FHSG4wendjaTZSTVhVcVVHc1pGZkY1VmVwam1yOGpBT3BkRDlGWTFzT3Vua18zVFhDdXRKb0dXQmIzSkZSbC1NWmxZdGdGTUFONnpESmJrN0dFRzhQYmlDUFNaU19CVE54dlAtdmNXZENPX2pfVmE3QWY?oc=5) (Medical Xpress)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
 ### Miscellaneous signals
 - Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
 - Lead item: [UAE Lifts Ebola-Related Visa Suspension on Ugandans, But 21-Day Condition Remains](https://ugdiplomat.com/uae-lifts-ebola-related-visa-suspension-on-ugandans-but-21-day-condition-remains/) (UG Diplomat, 2026-11-11T08:56+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
 - Evidence notes: [UAE Lifts Ebola-Related Visa Suspension on Ugandans, But 21-Day Condition Remains](https://ugdiplomat.com/uae-lifts-ebola-related-visa-suspension-on-ugandans-but-21-day-condition-remains/) (UG Diplomat); [HPV knowledge and willingness to vaccinate among unvaccinated female college students: A cross-sectional comparison between a comprehensive university and a health vocational college in Fujian, China.](https://pubmed.ncbi.nlm.nih.gov/43019491/) (PubMed Infectious Disease Search); [Diphtheria in Thailand 2026](https://outbreaknewstoday.substack.com/p/diphtheria-in-thailand-2026) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Hantavirus and cruise-ship outbreak
+- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Lead item: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News, Unknown)
+- Detailed note: Learn more about the Sunset process and provide feedback.
+- Evidence notes: [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) (Texas Department of State Health Services News); [Andes hantavirus outbreak examined by scientists through its genome](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU25LTmJRblo2UjE5VFZjekRRYWZoUlNFUThqXzBERDdDZTM5S2FfN0xycWlnaDRsejQzZnI0eUxaT2NTQlBkVEtxVi1SUnpXUWhxTU9zcWQwSUtaV1N0WjRKN2JrSmZRZERwU1RrTkRiRGNxWlo2bDlsLWFSQmV5MHBQN0ExR3BkU2NUMF9IdjJCd3I5aXVpWVpUUFA5dDdrV0hBTHR6ZlhiMUllRUQxazVPenVSQkszdUQxOExHU2ZnY2lqZnlrTXVIMkVKNVJ0d2c?oc=5) (Le Monde.fr); [Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission](https://bioengineer.org/cruise-ship-outbreak-provides-further-evidence-of-andes-virus-human-transmission/) (Bioengineer.org)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 
@@ -443,18 +442,22 @@ Search window: 7 day(s) ending 2026-11-13
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
+- [Michigan has 22 confirmed measles cases in 2026](https://www.cbsnews.com/detroit/video/michigan-has-22-confirmed-measles-cases-in-2026/) | CBS News | 2026-11-13T22:36+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin](https://www.nbcnews.com/health/health-news/us-measles-deaths-rise-10-new-reports-pennsylvania-wisconsin-rcna609245) | NBC News | 2026-11-13T22:33+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News - Breaking News, Latest News and Videos](https://abcnews.com/Health/measles-cases-nationwide-top-5400-outbreaks-spread-us/story?id\=138108176) | ABC News - Breaking News, Latest News and Videos | 2026-11-13T21:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [2 more people die of measles complications as US cases top 5,400](https://www.cidrap.umn.edu/measles/2-more-people-die-measles-complications-us-cases-top-5400) | CIDRAP | 2026-11-13T21:51+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Montour County resident died of measles, Pa. health department announces](https://www.tiogapublishing.com/news/state/montour-county-resident-died-of-measles-pa-health-department-announces/article_f74841a6-5097-5cb1-adcd-e468e79659db.html) | Tioga Publishing | 2026-11-13T20:15+00:00 | Outbreaks and emerging infections
-  health department announces Tioga Publishing
 - [Michigan has 22 confirmed measles cases in 2026, according to the CDC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGphd01xSzA2UHhNUXRPU2FwTGpsaEd2eFBNcnpVS1JESkN6SnlZc2xkd19qSUVnM3IxaThZdWNlaFkyQnZfSngycms5ZGVKazM1WFVhSnE2Ry11VTBxS3N4S2dYVUc5cE9yR0pFX21NMVBKd0gxUDRkSnZCWHZrWWxSTnBoWDR0aTZLZXBn?oc=5) | CBS News | 2026-11-13T17:41+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Japan detects season’s second bird flu outbreak](https://www.freemalaysiatoday.com/category/world/2026/11/13/japan-detects-season-s-second-bird-flu-outbreak) | Free Malaysia Today | 2026-11-13T13:14+00:00 | Outbreaks and emerging infections
   Authorities will cull approximately 40,000 laying hens and dispose of their remains through incineration or burial to prevent further transmission. The outbreak was detected after the farmer reported unusual symptoms among the birds on Thursday, prompting an inspection and rapid testing that returned positive results. Limited detail was available from feed metadata alone.
 - [Ebola spreading in rural Congo, WHO warns](https://www.yahoo.com/news/world/articles/ebola-spreading-rural-congo-warns-123334560.html) | Yahoo | 2026-11-13T12:33+00:00 | Outbreaks and emerging infections
   Six months after the start of the outbreak, the number of cases in the original areas was declining, UN emergency relief coordinator Chikwe Ihekweazu said in Geneva. In some cases, only half the beds were occupied in the treatment centres in Bunia, he noted. He said the WHO was trying to become more agile so it could help people faster.
+- [Inside the measles outbreak in Pennsylvania](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnI1a2N5NlVYRGZlMV9yOG9sR3BfNkNtZm45cXFMRzVNNnk2QnpsUlB3M090R3gzYm4yRm5NQkRyV1BEUnY3WHFZNTlOSHFuTWR1ME5jbEVNeGZROHhYemo1X3dHZXZ3V3F0TEhtMThidC1rOWFJenBXNVFrODNwaGxSdWY0SU1aWGxXUHlrX1hxQnRwU3N4MA?oc=5) | NBC News | 2026-11-13T11:23+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [WHO warns DR Congo Ebola outbreak remains "concerning" as violence disrupts response](https://www.bastillepost.com/global/article/6357064-who-warns-dr-congo-ebola-outbreak-remains-concerning-as-violence-disrupts-response) | 巴士的報 | 2026-11-13T09:18+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Roundup: WHO warns Ebola outbreak in DR Congo remains concerning amid rising infections, violence](https://english.news.cn/20261113/3413bc8f7390413491b82a02c3bf1cd7/c.html) | Xinhua | 2026-11-13T09:08+00:00 | Outbreaks and emerging infections
@@ -463,20 +466,16 @@ Search window: 7 day(s) ending 2026-11-13
   Limited detail was available from feed metadata alone.
 - [Daily_Brief: Six embassies warn of high #Ebola outbreak risk in #South_Sudan, urge increased health funding](https://addisstandard.com/brief/n-61201/) | Addis Standard | 2026-11-13T05:55+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [U.S. Ebola Entry Ban Now Runs Into December as Uganda and South Sudan Stay Listed Without Active Cases](https://www.medicaldaily.com/cdc-renews-ebola-entry-ban-congo-uganda-south-sudan-481187) | Medical Daily | 2026-11-13T00:53+00:00 | Outbreaks and emerging infections
+- [U.S. Ebola Entry Ban Now Runs Into December as Uganda and South Sudan Stay Listed Without Active Cases](https://news.google.com/rss/articles/CBMikAFBVV95cUxQekxKb2dpeDNfRGVHZFZtN2xPYlZhNzJ0bWNJMXY5OXNEVW1obWdZeEpkRXpaaGl5VmpNa3FPRkV5bzhXRVRQWk9zUVRLeFpHSVExcnkwczVucy1yWU1RZzZhTS1zQjBWU1lBMlVqN1pjZ05QOExCNU14bWpzZEJCeENPajBBZXFVTmQ5cUlJM0Y?oc=5) | Medical Daily | 2026-11-13T00:53+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [What to know about dengue fever as Florida reports more than 500 cases this year](https://www.pbs.org/newshour/health/what-to-know-about-dengue-fever-as-florida-reports-more-than-500-cases-this-year) | PBS | 2026-11-13T00:31+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Polk County investigates measles exposures after second confirmed case](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVl83VHFEUjhPSWxZSmk1bmVRU2RzSWlGZzF0ai1aVWdUTmhHTFgwMkRzWElJWHgtRWg2ZGdWTm5QZ21UYmg5YVR6NjRkb0xvblFxNGg2d3FaOER6NHVMQk9TWHdrZUFrVXloMnk4d3l6MmVPZzExVkxfNEdHRmFJWjhkRzhteExUTmdGcjFkX3FUT0VGemlGZ21oUW5BSmFSN0hhbDNfdU5YR3JT?oc=5) | KCCI | 2026-11-13T00:11+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Ebola in Tshopo: 36 community volunteers trained in dignified and safe burials - ACP | Agence Congolaise de Presse](https://acp.cd/anglais/ebola-in-tshopo-36-community-volunteers-trained-in-dignified-and-safe-burials/) | ACP | 2026-11-12T22:39+00:00 | Outbreaks and emerging infections
+- [Ebola in Tshopo: 36 community volunteers trained in dignified and safe burials - ACP | Agence Congolaise de Presse](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUt1VlFQTnFyd0VwTnRjTVdTb1hzbEpVTDl4eXl0ZFRvZWk2Vnc2SVUxZS1HdlNVYnNyN1NmdTJWUm8zWm5BZVNDeFZUZkpraldrLWoyZl9Yb2xEU2pGWXhJT3VwSktvQ3dWeldYZ3B0ZDFjQkRUYnZsSjBiNmJTWG9jcndieENNWmE4NW53bks3ZFEwVml4NnlFU3JRM0VoQWp3?oc=5) | ACP | 2026-11-12T22:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Indiana measles outbreak reaches 153 cases, with more than half in northeast Indiana](https://news.google.com/rss/articles/CBMiowFBVV95cUxPVzA3dk9CX2JqeUN6QS1SbllCbE5kcVNLcGJrLW9malluTGpTQ0hRbnJPYi1xOGRfanNTS2IwdFdPRWwxeV92b3NwVzZWbkg2cDQ3eDFrbFVDMXFqOGlLSC1LZzk2bVhCNzQ1TTFyNVJfRnpRbUxXdkRmWUVtdjdhak5tVjZpQmtvZTgtekFTZUVDLWF0ZkxNUmxWemVVdk56X0p3?oc=5) | WOWO | 2026-11-12T20:54+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years](https://news.google.com/rss/articles/CBMidEFVX3lxTFBROTRrdm55TzlLU2F4aU1FeFd2dDduM0hWNTNyZTFPRDRQMnRRMm13SERhTnB5a2EwM1p3NG1kb25jUWNlTW1HWU1TTjNvOGNsQ29RUzJSMFhXdU5nbVlSeG9odFowUHNlYThIdGw5UGFJWHVq?oc=5) | The Guardian | 2026-11-12T20:21+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [South Africa’s Gauteng Province Announces 17 Malaria Deaths, 768 Cases In Nine Months, Urges Travel Precautions](https://saharareporters.com/2026/11/12/south-africas-gauteng-province-announces-17-malaria-deaths-768-cases-nine-months-urges) | Sahara Reporters | 2026-11-12T19:05+00:00 | Outbreaks and emerging infections
-  The department said Gauteng recorded 768 malaria cases and 17 deaths between January and September 2026, compared with 554 cases and six deaths during the corresponding period in 2025. In a media statement issued on Thursday, the department said 15 of the 17 people who died from malaria in 2026, representing 88.2 per cent, had travelled to countries within the Southern African Development Community (SADC) region. This represents a 38.6 per cent increase in reported cases, while the number of deaths also rose sharply.
 
 ## Papers worth saving
 - [Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.](https://pubmed.ncbi.nlm.nih.gov/43020100/)
@@ -527,7 +526,7 @@ Search window: 7 day(s) ending 2026-11-13
   By decade, meningoencephalitic TB decreased from 51 cases (15.06 per 1,000 departmental admissions) in 1965-1974 to 3 cases (1.26 per 1,000) in 2015-2024. Within meningoencephalitic TB, case fatality was 36.1% (35/97) before 1990 and 15.4% (6/39) thereafter. Among admissions in the historical study group, the proportion of meningoencephalitic TB was lower after 1990 (73.5% versus 22.4%; p<0.001), whereas the proportions of lymph node, pleural, and combined pulmonary and lymph node TB were higher.
 - [Japan detects season’s second bird flu outbreak](https://www.freemalaysiatoday.com/category/world/2026/11/13/japan-detects-season-s-second-bird-flu-outbreak) | Free Malaysia Today
   Authorities will cull approximately 40,000 laying hens and dispose of their remains through incineration or burial to prevent further transmission. The outbreak was detected after the farmer reported unusual symptoms among the birds on Thursday, prompting an inspection and rapid testing that returned positive results. Limited detail was available from feed metadata alone.
-- [Ebola in Tshopo: 36 community volunteers trained in dignified and safe burials - ACP | Agence Congolaise de Presse](https://acp.cd/anglais/ebola-in-tshopo-36-community-volunteers-trained-in-dignified-and-safe-burials/) | ACP
+- [Ebola in Tshopo: 36 community volunteers trained in dignified and safe burials - ACP | Agence Congolaise de Presse](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUt1VlFQTnFyd0VwTnRjTVdTb1hzbEpVTDl4eXl0ZFRvZWk2Vnc2SVUxZS1HdlNVYnNyN1NmdTJWUm8zWm5BZVNDeFZUZkpraldrLWoyZl9Yb2xEU2pGWXhJT3VwSktvQ3dWeldYZ3B0ZDFjQkRUYnZsSjBiNmJTWG9jcndieENNWmE4NW53bks3ZFEwVml4NnlFU3JRM0VoQWp3?oc=5) | ACP
   Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
