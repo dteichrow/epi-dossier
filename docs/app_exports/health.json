@@ -2,7 +2,9 @@
   "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
+      "ABC News",
       "BBC",
+      "CBS News",
       "CIDRAP",
       "Guardian",
       "NBC News",
@@ -13,17 +15,17 @@
     "metadata_only_count": 192,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 213,
-    "story_count_change": 5,
+    "sources_live": 216,
+    "story_count_change": 6,
     "wrapper_only_count": 7
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 213,
+    "live": 216,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-14T08:45:20",
+  "generated_at": "2026-11-14T13:27:04",
   "source_failures": []
 }
