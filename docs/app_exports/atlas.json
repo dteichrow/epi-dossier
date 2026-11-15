@@ -1303,7 +1303,7 @@
       "related_stories": [
         {
           "display_title": "Dengue and arboviruses",
-          "latest_update_summary": "Monitoring: Notes from the Field: Dengue Outbreak",
+          "latest_update_summary": "Monitoring: Genomic epidemiology of CHIKV during the largest outbreak in Mainland China",
           "story_id": "story_ccfeaff28d46baf6",
           "story_url": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html",
           "story_web_path": "stories/story_ccfeaff28d46baf6-dengue-and-arboviruses.html"
@@ -1865,6 +1865,6 @@
       "writing_state": "adjacent"
     }
   ],
-  "generated_at": "2026-11-14T17:19:47",
-  "run_id": "run_b12b9bdaf17539ab"
+  "generated_at": "2026-11-15T00:27:02",
+  "run_id": "run_43fa7af3928218f5"
 }
