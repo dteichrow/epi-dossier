@@ -1,5 +1,5 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
@@ -10,20 +10,27 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 169,
+    "metadata_only_count": 171,
     "sources_cached": 0,
-    "sources_failed": 0,
-    "sources_live": 192,
+    "sources_failed": 1,
+    "sources_live": 194,
     "story_count_change": 5,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 192,
+    "live": 194,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-15T13:02:21",
-  "source_failures": []
+  "generated_at": "2026-11-15T17:00:10",
+  "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://r.jina.ai/http://https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+      "required": true,
+      "source": "FDA Foodborne Outbreaks",
+      "source_type": "html_list"
+    }
+  ]
 }
