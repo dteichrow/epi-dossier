@@ -1,8 +1,8 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
-      "CBS News",
+      "ABC News",
       "CIDRAP",
       "CNN",
       "Guardian",
@@ -11,33 +11,20 @@
       "PBS",
       "Reuters"
     ],
-    "metadata_only_count": 157,
+    "metadata_only_count": 167,
     "sources_cached": 0,
-    "sources_failed": 2,
-    "sources_live": 179,
+    "sources_failed": 0,
+    "sources_live": 189,
     "story_count_change": 7,
     "wrapper_only_count": 9
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 179,
+    "live": 189,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-16T18:06:10",
-  "source_failures": [
-    {
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28cholera+OR+measles+OR+dengue+OR+malaria+OR+polio+OR+anthrax%29+%28Zimbabwe+OR+Zambia+OR+Mozambique+OR+Malawi+OR+Botswana+OR+Namibia+OR+South+Africa%29+-hantavirus+-cruise+-ship+when:14d&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Southern Africa Outbreaks",
-      "source_type": "rss"
-    },
-    {
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22history+of+medicine%22+disease+OR+%22historical+outbreak%22+OR+%22historical+public+health%22+OR+%22epidemic+history%22+OR+%22disease+history%22+archaeology&hl=en-US&gl=US&ceid=US:en",
-      "required": true,
-      "source": "Google News Historical Public Health",
-      "source_type": "rss"
-    }
-  ]
+  "generated_at": "2026-11-17T02:39:56",
+  "source_failures": []
 }
