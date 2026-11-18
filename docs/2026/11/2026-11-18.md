@@ -1,72 +1,70 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-11-18
-Generated at: 2026-11-18T02:43
+Generated at: 2026-11-18T11:26
 Search window: 7 day(s) ending 2026-11-18
 
 ## Executive scan
+- [Respiratory virus surveillance in the WHO African Region Epidemiological Week 45 November 2 to 8 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-45-november-2-8) (WHO Regional Office for Africa; 2026-11-18T17:36+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-11-18T17:31+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Análise da situação da resistência aos antimicrobianos em Angola no contexto “Uma Só Saúde”](https://www.afro.who.int/pt/countries/angola/publication/analise-da-situacao-da-resistencia-aos-antimicrobianos-em-angola-no-contexto-uma-so-saude) (WHO Regional Office for Africa; 2026-11-18T16:00+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Ethical and emotional complexity of verbal autopsy implementation in South Africa: a preliminary trauma-informed practice framework.](https://pubmed.ncbi.nlm.nih.gov/43046826/) (PubMed Infectious Disease Search; 2026-11-18T00:00; Major epidemiology studies; relevance 5/5)
 - [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) (ECDC News; 2026-11-17T17:36+01:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
 - [Redox metabolism at the host-pathogen interface in Mycobacterium tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/43043362/) (PubMed Infectious Disease Search; 2026-11-17T00:00; Major epidemiology studies; relevance 5/5)
 - [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa; 2026-11-16T13:50+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Changes in full vaccination coverage and in the gap between poor and non-poor households among children aged 12-23 months in the Democratic Republic of the Congo, 2013-14 to 2023-24: a comparison of two Demographic and Health surveys.](https://pubmed.ncbi.nlm.nih.gov/43036303/) (PubMed Infectious Disease Search; 2026-11-16T00:00; Major epidemiology studies; relevance 5/5)
-- [Six months on, accessing hard-to-reach communities key to halting Ebola outbreak](https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/) (Africa CDC; 2026-11-15T08:24+00:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823) (CDC MMWR; 2026-11-12T18:00+00:00; Occupational and environmental epidemiology; relevance 5/5)
-- [Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.](https://pubmed.ncbi.nlm.nih.gov/43020100/) (PubMed Historical Pathogen Case Studies; 2026-11-12T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (143), Policy, surveillance, and public health infrastructure (19), Major epidemiology studies (6)
+- Category mix: Outbreaks and emerging infections (135), Policy, surveillance, and public health infrastructure (22), Major epidemiology studies (6)
 
 ## Ongoing stories and what changed
+### Ebola virus disease
+- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 66 item(s) across 60 source(s).
+- Monitoring: EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+
 ### Measles transmission and vaccination
 - Lead item: [Changes in full vaccination coverage and in the gap between poor and non-poor households among children aged 12-23 months in the Democratic Republic of the Congo, 2013-14 to 2023-24: a comparison of two Demographic and Health surveys.](https://pubmed.ncbi.nlm.nih.gov/43036303/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 72 item(s) across 68 source(s).
+- Newly tracked story cluster: 63 item(s) across 58 source(s).
 - Monitoring: Changes in full vaccination coverage and in the gap between poor and non-poor households among children aged 12-23 months in the Democratic Republic of the Congo, 2013-14 to 2023-24: a comparison of two Demographic and Health surveys.
-- AFP.com now includes deaths or fatal cases in the story frame.
 - PubMed Infectious Disease Search now foregrounds vaccination or vaccine policy in the story.
-
-### Ebola virus disease
-- Lead item: [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) (ECDC News)
-- Newly tracked story cluster: 61 item(s) across 53 source(s).
-- Monitoring: Ebola disease: Multi-country outbreak 2026
-- WHO Regional Office for Africa now explicitly uses investigation or monitoring language.
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
 
 ### Dengue and arboviruses
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823) (CDC MMWR)
-- Newly tracked story cluster: 25 item(s) across 25 source(s).
+- Newly tracked story cluster: 20 item(s) across 20 source(s).
 - Monitoring: Notes from the Field: Dengue Outbreak
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
 ### Tuberculosis and antimicrobial resistance
-- Lead item: [Redox metabolism at the host-pathogen interface in Mycobacterium tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/43043362/) (PubMed Infectious Disease Search)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Monitoring: Redox metabolism at the host-pathogen interface in Mycobacterium tuberculosis.
-- The linked sources provide the current reporting record; this entry does not establish a new development.
+- Lead item: [Análise da situação da resistência aos antimicrobianos em Angola no contexto “Uma Só Saúde”](https://www.afro.who.int/pt/countries/angola/publication/analise-da-situacao-da-resistencia-aos-antimicrobianos-em-angola-no-contexto-uma-so-saude) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Monitoring: Análise da situação da resistência aos antimicrobianos em Angola no contexto “Uma Só Saúde”
+- WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 
-### COVID-19 and SARS-CoV-2
-- Lead item: [Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-44-october-26) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 2 item(s) across 2 source(s).
-- Monitoring: Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026
-- The linked sources provide the current reporting record; this entry does not establish a new development.
+### Polio and wastewater surveillance
+- Lead item: [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 4 item(s) across 4 source(s).
+- Monitoring: Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026
+- WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 
 
 ## Major topics
-### Measles transmission and vaccination
-- Topic size: 72 item(s) across 68 source(s); 2 official/primary-source item(s).
-- Lead item: [Changes in full vaccination coverage and in the gap between poor and non-poor households among children aged 12-23 months in the Democratic Republic of the Congo, 2013-14 to 2023-24: a comparison of two Demographic and Health surveys.](https://pubmed.ncbi.nlm.nih.gov/43036303/) (PubMed Infectious Disease Search, 2026-11-16T00:00)
-- Detailed note: Full vaccination fell from 45.3% (95% CI 42.1-48.5) to 21.0% (18.5-23.4), BCG from 83.4% to 69.2%, and DPT3 from 60.6% to 46.3%; children with no DPT dose rose from 18.9% to 33.5%. The full-vaccination gap was 16.0 points in 2013-14 and 12.4 in 2023-24 (change +3.6; 95% CI - 2.8 to +10.1; inconclusive). Learn more about the Sunset process and provide feedback.
-- Evidence notes: [Changes in full vaccination coverage and in the gap between poor and non-poor households among children aged 12-23 months in the Democratic Republic of the Congo, 2013-14 to 2023-24: a comparison of two Demographic and Health surveys.](https://pubmed.ncbi.nlm.nih.gov/43036303/) (PubMed Infectious Disease Search); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Bolivia, Mexico and U.S. Lose Measles Elimination Status](https://news.google.com/rss/articles/CBMifEFVX3lxTE9QSTV3UnNQLU5vV3doYWQtYWlOaXhCZjVvS0tycTYxckFOMjUtRER5dTVlazFKV3JwTG5WTUxRaDNOeFdGLW1heTJXdElIRzZJaHhsQ3FSeDJabXRjWlljZTUtMVpmdFJIMzNUd2lBeXVqZHM0S0pSdWR3Uzk?oc=5) (teleSUR English); [26 More Measles Cases in New York, but Outbreak Appears to Be Easing](https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html) (The New York Times); [The U.S. has officially lost its measles elimination status amid worst outbreak in 35 years](https://www.cbc.ca/news/health/u-s-loses-measles-elimination-status-9.7425114) (CBC)
+### Ebola virus disease
+- Topic size: 66 item(s) across 60 source(s); 3 official/primary-source item(s).
+- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-11-18T17:31+00:00)
+- Detailed note: Ituri continues to account for the largest proportion of cumulative confirmed cases (68.9%) and accounted for 227 of the 442 cases reported in week 46 (51.4%), while Nord-Kivu (25.3% of cumulative cases; CFR 55.4%) accounted for 169 (38.2%). During epidemiological week 46 (9 – 15 November 2026), 442 confirmed cases and 239 confirmed deaths were reported, compared with 458 cases and 228 deaths in week 45; the...
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) (ECDC News); [Six months on, accessing hard-to-reach communities key to halting Ebola outbreak](https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/) (Africa CDC); [Ebola outbreak in DR Congo remains global health emergency, WHO says](https://news.az/news/ebola-outbreak-in-dr-congo-remains-global-health-emergency-who-says) (Latest news from Azerbaijan); [WHO says Ebola outbreak in DR Congo remains public health emergency of international concern](https://www.anews.com.tr/africa/2026/11/18/who-says-ebola-outbreak-in-dr-congo-remains-public-health-emergency-of-international-concern) (A News)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Ebola virus disease
-- Topic size: 61 item(s) across 53 source(s); 3 official/primary-source item(s).
-- Lead item: [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) (ECDC News, 2026-11-17T17:36+01:00)
-- Detailed note: Since External Situation Report #25, an additional 388 confirmed cases and 197 confirmed deaths have been reported, bringing the cumulative total to 10 920 confirmed cases, including 5 323 confirmed deaths [crude case fatality ratio (CFR) 48.7%]. Ituri continues to account for the largest proportion of cumulative confirmed cases (69.7%), although its relative contribution is declining, while Nord-Kivu (24.7% of...
-- Evidence notes: [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) (ECDC News); [Six months on, accessing hard-to-reach communities key to halting Ebola outbreak](https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/) (Africa CDC); [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 26, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) (WHO Regional Office for Africa); [Human travel drove Ebola spread in DR Congo, outbreak reconstruction suggests](https://www.cidrap.umn.edu/ebola/human-travel-drove-ebola-spread-dr-congo-outbreak-reconstruction-suggests) (CIDRAP); [DR Congo Ebola outbreak more than doubles as WHO flags cross-border risk](https://tradersunion.com/news/geopolitics-trade/show/4292602-dr-congo-ebola-outbreak-risk/) (Traders Union)
+### Measles transmission and vaccination
+- Topic size: 63 item(s) across 58 source(s); 2 official/primary-source item(s).
+- Lead item: [Changes in full vaccination coverage and in the gap between poor and non-poor households among children aged 12-23 months in the Democratic Republic of the Congo, 2013-14 to 2023-24: a comparison of two Demographic and Health surveys.](https://pubmed.ncbi.nlm.nih.gov/43036303/) (PubMed Infectious Disease Search, 2026-11-16T00:00)
+- Detailed note: Full vaccination fell from 45.3% (95% CI 42.1-48.5) to 21.0% (18.5-23.4), BCG from 83.4% to 69.2%, and DPT3 from 60.6% to 46.3%; children with no DPT dose rose from 18.9% to 33.5%. The full-vaccination gap was 16.0 points in 2013-14 and 12.4 in 2023-24 (change +3.6; 95% CI - 2.8 to +10.1; inconclusive). Learn more about the Sunset process and provide feedback.
+- Evidence notes: [Changes in full vaccination coverage and in the gap between poor and non-poor households among children aged 12-23 months in the Democratic Republic of the Congo, 2013-14 to 2023-24: a comparison of two Demographic and Health surveys.](https://pubmed.ncbi.nlm.nih.gov/43036303/) (PubMed Infectious Disease Search); [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Why are measles cases soaring in the US?](https://www.france24.com/en/video/20261118-why-are-measles-cases-soaring-in-the-us) (France 24); [Pennsylvania's growing costs to contain measles outbreak](https://www.axios.com/local/philadelphia/2026/11/18/pennsylvania-measles-outbreak-johns-hopkins-university-cost-funding) (Axios); [26 More Measles Cases in New York, but Outbreak Appears to Be Easing](https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html) (The New York Times)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 25 item(s) across 25 source(s); 3 official/primary-source item(s).
+- Topic size: 20 item(s) across 20 source(s); 3 official/primary-source item(s).
 - Lead item: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823) (CDC MMWR, 2026-11-12T18:00+00:00)
 - Detailed note: This report describes a dengue outbreak in America Samoa that resulted in 1,048 confirmed cases and 371 hospitalizations during June 2025-August 2026. (https://doi.org/10.70962/jhi.20260072) shows that autoantibodies neutralizing type I IFNs (AAN-I-IFN) may underlie severe dengue in ∼14% (7/49) of cases in a cohort of Chinese patients. To date, 59 locally acquired dengue infections have been reported to the...
 - Evidence notes: [Notes from the Field: Dengue Outbreak](https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823) (CDC MMWR); [Severe dengue: Are type I interferon autoantibodies involved?](https://pubmed.ncbi.nlm.nih.gov/43018474/) (PubMed Infectious Disease Search); [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Her Death From Dengue May Signal That the Disease Is Here to Stay](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTBUSlFhMDlCZjZ0TFlhTG01Q1NrNjB3dFh6ZzBVclVYUlZrNktlVkVVMnpwN3FIblVyZnoycTFZTFVYVnk3VGJDVzdCa1FQZDhWSHk1VUMtZHQtYWxQamRpa0xUSzAxUDFNal9MNVdLQk1Pcm5uYUM0aTJsQWFkM0ZPV2pPWFVa?oc=5) (The New York Times); [Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNa1poSnl0TExRSWs3a3NhY0d3OTllRXN2UER4bDViTTcxeWVfSlRFV2xRdXlwaFdOdHJoZmJkSG9DanhUZWw1M0NFSF91SHJ6YWZsVUFROERyUEpZT3B6LXZsaVBvODRrN2tMc2VSdmpzVFJVLTRkWWJXS3ZIZUhXVXZPQW14ZWl4aXEyZlI3ZnctYVA5OFpIU09QemFfSzhiQ1FZU0RLb2RLb2RWVTRlT3EzLVZtUnFud3ExbW9wREtRbkRwRnpJR09qNnAwZlZ0aEVNTV9RZDU5MS1McTRLZXlQdDlGcFVESUVfNmtLUFZFY3pQbXJSN1BuWQ?oc=5) (Smithsonian Magazine)
@@ -74,27 +72,27 @@ Search window: 7 day(s) ending 2026-11-18
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Tuberculosis and antimicrobial resistance
-- Topic size: 3 item(s) across 3 source(s); 3 official/primary-source item(s).
-- Lead item: [Redox metabolism at the host-pathogen interface in Mycobacterium tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/43043362/) (PubMed Infectious Disease Search, 2026-11-17T00:00)
-- Detailed note: Between Aug 1, 2023, and Sept 28, 2024, 3936 screening camps were conducted (2046 [52·0%] control, 1890 [48·0%] intervention), screening 269 254 individuals. In the intention-to-treat analysis, camp positivity yield was 7% higher in the intervention group, but not statistically significant (adjusted risk ratio 1·07, 95% CI 0·94-1·22; p=0·27). Addis Ababa, 9 November 2026 The Africa Centres for Disease Control and...
-- Evidence notes: [Redox metabolism at the host-pathogen interface in Mycobacterium tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/43043362/) (PubMed Infectious Disease Search); [Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.](https://pubmed.ncbi.nlm.nih.gov/43020100/) (PubMed Historical Pathogen Case Studies); [AFRICA CDC WELCOMES THE APPOINTMENT OF DR MARK DYBUL AS EXECUTIVE DIRECTOR OF THE GLOBAL FUND AND CALLS FOR A NEW ERA OF AFRICAN OWNERSHIP AND HEALTH SOVEREIGNTY](https://africacdc.org/news-item/africa-cdc-welcomes-the-appointment-of-dr-mark-dybul-as-executive-director-of-the-global-fund-and-calls-for-a-new-era-of-african-ownership-and-health-sovereignty/) (Africa CDC)
+- Topic size: 4 item(s) across 4 source(s); 4 official/primary-source item(s).
+- Lead item: [Análise da situação da resistência aos antimicrobianos em Angola no contexto “Uma Só Saúde”](https://www.afro.who.int/pt/countries/angola/publication/analise-da-situacao-da-resistencia-aos-antimicrobianos-em-angola-no-contexto-uma-so-saude) (WHO Regional Office for Africa, 2026-11-18T16:00+00:00)
+- Detailed note: Between Aug 1, 2023, and Sept 28, 2024, 3936 screening camps were conducted (2046 [52·0%] control, 1890 [48·0%] intervention), screening 269 254 individuals. In the intention-to-treat analysis, camp positivity yield was 7% higher in the intervention group, but not statistically significant (adjusted risk ratio 1·07, 95% CI 0·94-1·22; p=0·27). Analysis of the situation regarding antimicrobial resistance in Angola...
+- Evidence notes: [Análise da situação da resistência aos antimicrobianos em Angola no contexto “Uma Só Saúde”](https://www.afro.who.int/pt/countries/angola/publication/analise-da-situacao-da-resistencia-aos-antimicrobianos-em-angola-no-contexto-uma-so-saude) (WHO Regional Office for Africa); [Redox metabolism at the host-pathogen interface in Mycobacterium tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/43043362/) (PubMed Infectious Disease Search); [Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.](https://pubmed.ncbi.nlm.nih.gov/43020100/) (PubMed Historical Pathogen Case Studies); [AFRICA CDC WELCOMES THE APPOINTMENT OF DR MARK DYBUL AS EXECUTIVE DIRECTOR OF THE GLOBAL FUND AND CALLS FOR A NEW ERA OF AFRICAN OWNERSHIP AND HEALTH SOVEREIGNTY](https://africacdc.org/news-item/africa-cdc-welcomes-the-appointment-of-dr-mark-dybul-as-executive-director-of-the-global-fund-and-calls-for-a-new-era-of-african-ownership-and-health-sovereignty/) (Africa CDC)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
-### Occupational and environmental epidemiology
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Ethical and emotional complexity of verbal autopsy implementation in South Africa: a preliminary trauma-informed practice framework.](https://pubmed.ncbi.nlm.nih.gov/43046826/) (PubMed Infectious Disease Search, 2026-11-18T00:00)
-- Detailed note: Verbal autopsy (VA) is used in mortality surveillance and civil registration where deaths lack medical certification. We interviewed 13 VA implementers: 8 interviewers and 5 in supervisory, coordination or related roles, across three rural and urban South African Population Research Infrastructure Network (SAPRIN) nodes.
-- Evidence notes: [Ethical and emotional complexity of verbal autopsy implementation in South Africa: a preliminary trauma-informed practice framework.](https://pubmed.ncbi.nlm.nih.gov/43046826/) (PubMed Infectious Disease Search); [Visiting restrictions at UHG due to norovirus outbreak](https://www.galwaydaily.com/news/visiting-restrictions-at-uhg-due-to-norovirus-outbreak/) (Galway Daily)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
+### Polio and wastewater surveillance
+- Topic size: 4 item(s) across 4 source(s); 1 official/primary-source item(s).
+- Lead item: [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa, 2026-11-16T13:50+00:00)
+- Detailed note: The July 2026 meeting of the RITAG for the WHO African Region was held against the backdrop of the ongoing Bundibugyo virus outbreak in the Democratic Republic of the Congo (DRC) and Uganda, and the release in mid-July of the WHO and UNICEF Estimates of National Immunization Coverage (WUENIC) for 2025. The second round, funded by the International Rescue Committee, aims to vaccinate more than 49,000 children...
+- Evidence notes: [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa); [Syria launches vaccination campaign to prevent polio outbreak in Deir ez-Zor Governorate](https://tanzaniatimes.net/syria-launches-vaccination-campaign-to-stop-polio-outbreak-in-deir-ez-zor/) (The Tanzania Times); [How AI is helping to reinforce polio surveillance in Africa - WHO | Regional Office for Africa](https://www.afro.who.int/news/how-ai-helping-reinforce-polio-surveillance-africa) (WHO); [Syria launches polio vaccination campaign to stop outbreak in Deir-ez-Zor](https://www.unicef.org/syria/press-releases/syria-launches-polio-vaccination-campaign-stop-outbreak-deir-ez-zor) (Unicef)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
-### Polio and wastewater surveillance
-- Topic size: 2 item(s) across 2 source(s); 1 official/primary-source item(s).
-- Lead item: [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa, 2026-11-16T13:50+00:00)
-- Detailed note: The July 2026 meeting of the RITAG for the WHO African Region was held against the backdrop of the ongoing Bundibugyo virus outbreak in the Democratic Republic of the Congo (DRC) and Uganda, and the release in mid-July of the WHO and UNICEF Estimates of National Immunization Coverage (WUENIC) for 2025. The meeting included updates on global and regional immunization progress; key vaccine-preventable diseases...
-- Evidence notes: [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa); [Quick takes: E coli death tied to pumpkin farm, US Salmonella outbreaks, 18 more polio cases](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXpWWmJtUkxKOUhXSFlXNWNEOXVEMEh4NmhVWGhvNUQwX005TG44RFh0cTktMTZZU3VFZlF1cWhuUEpSLTFKRkllQ3BsR2dXNlV4QjlxY1BDM2pqWVY0SHhxdDZveTJpVEhHaElnd3ZHbDBqWVlCcnNMaThfSVAtWm5HSVlUYVVJMHdRSkFHdy1KUnlpSHU3Um90aHRxYkxQQ0txVDhpMUJxZ2VidTh4Zk0ydVhMMTV6blE2Zg?oc=5) (CIDRAP)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+### Occupational and environmental epidemiology
+- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
+- Lead item: [Ethical and emotional complexity of verbal autopsy implementation in South Africa: a preliminary trauma-informed practice framework.](https://pubmed.ncbi.nlm.nih.gov/43046826/) (PubMed Infectious Disease Search, 2026-11-18T00:00)
+- Detailed note: Verbal autopsy (VA) is used in mortality surveillance and civil registration where deaths lack medical certification. We interviewed 13 VA implementers: 8 interviewers and 5 in supervisory, coordination or related roles, across three rural and urban South African Population Research Infrastructure Network (SAPRIN) nodes.
+- Evidence notes: [Ethical and emotional complexity of verbal autopsy implementation in South Africa: a preliminary trauma-informed practice framework.](https://pubmed.ncbi.nlm.nih.gov/43046826/) (PubMed Infectious Disease Search); [World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BTWZTYmx4RTFoNDhITjEyN3k1VUwyQ0xWN0c1eUh4Qk5TRlFodS1obi0zVk8xQ1YydmpTTVRxcE82Qm5lc0Q3VVVUcVZ0UG9UUlRTcElucw?oc=5) (UN News); [Hospital visits restricted after flu, norovirus outbreaks](https://www.rte.ie/news/regional/2026/1118/1599672-uhg-vomiting-bug-outbreak/) (RTE.ie)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 
@@ -335,6 +333,36 @@ Search window: 7 day(s) ending 2026-11-18
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
+### Respiratory virus surveillance in the WHO African Region Epidemiological Week 45 November 2 to 8 2026
+- Source: WHO Regional Office for Africa
+- Date: 2026-11-18T17:36+00:00
+- URL: https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-45-november-2-8
+- Category: Outbreaks and emerging infections
+- Summary: Cumulatively from weeks 1 to 45, the WHO AFR influenza laboratory network has tested 63,586 sentinel surveillance specimens for SARS-CoV-2, of which 1,635 were positive for SARS-CoV-2 (cumulative positivity rate 2.6%) Week 45 November 2 to 8 2026 Related Health Topics Influenza SARS-CoV-2 In Epiweek 45, of the 743 specimens processed by 10 laboratories in the African Region, a total of 24 specimens tested positive for SARS-CoV-2 (positivity of 3.2%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 19), Influenza A (H3) (n = 2), Influenza A (subtyping not performed) (n = 10), Influenza B (lineage not determined) (n = 48), and Influenza B (Victoria) (n = 14).
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026
+- Source: WHO Regional Office for Africa
+- Date: 2026-11-18T17:31+00:00
+- URL: https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation
+- Category: Outbreaks and emerging infections
+- Summary: Ituri continues to account for the largest proportion of cumulative confirmed cases (68.9%) and accounted for 227 of the 442 cases reported in week 46 (51.4%), while Nord-Kivu (25.3% of cumulative cases; CFR 55.4%) accounted for 169 (38.2%). During epidemiological week 46 (9 – 15 November 2026), 442 confirmed cases and 239 confirmed deaths were reported, compared with 458 cases and 228 deaths in week 45; the national seven-day average has remained between 62 and 65 cases per day, and a new health zone, Watsa in Haut-Uélé, reported its first confirmed cases. Since External Situation Report #26, (data as of 7 November), an additional 512 confirmed cases and 270 confirmed deaths have been reported between 8 and 15 November, of which 442 cases and 239 deaths during epidemiological week 46 (9 – 15 November).
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Análise da situação da resistência aos antimicrobianos em Angola no contexto “Uma Só Saúde”
+- Source: WHO Regional Office for Africa
+- Date: 2026-11-18T16:00+00:00
+- URL: https://www.afro.who.int/pt/countries/angola/publication/analise-da-situacao-da-resistencia-aos-antimicrobianos-em-angola-no-contexto-uma-so-saude
+- Category: Outbreaks and emerging infections
+- Summary: Analysis of the situation regarding antimicrobial resistance in Angola within the ‘One Health’ framework gamboo@who.int Wed, 18/11/2026 - 17:00 Antimicrobial resistance (AMR) poses a growing threat to public health in Angola, a situation exacerbated by various factors, notably unequal access to healthcare, limited access to water, basic sanitation and hygiene practices, low vaccination coverage, and the inappropriate use of antibiotics. This analysis, which adopts the ‘One Health’ approach, assesses the AMR situation across the human, animal and environmental health sectors, identifying key gaps and setting out strategic recommendations to strengthen prevention, surveillance, communication, governance and the responsible use of antimicrobials in the country. The report advocates a coordinated response across various sectors to protect lives, strengthen health systems and reduce the impact of AMR on Angola’s sustainable development.
+- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
 ### Ethical and emotional complexity of verbal autopsy implementation in South Africa: a preliminary trauma-informed practice framework.
 - Source: PubMed Infectious Disease Search
 - Date: 2026-11-18T00:00
@@ -405,40 +433,12 @@ Search window: 7 day(s) ending 2026-11-18
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.
-- Source: PubMed Historical Pathogen Case Studies
-- Date: 2026-11-12T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/43020100/
-- Category: Historical epidemiology / ancient disease / paleopathology
-- Summary: Between Aug 1, 2023, and Sept 28, 2024, 3936 screening camps were conducted (2046 [52·0%] control, 1890 [48·0%] intervention), screening 269 254 individuals. In the intention-to-treat analysis, camp positivity yield was 7% higher in the intervention group, but not statistically significant (adjusted risk ratio 1·07, 95% CI 0·94-1·22; p=0·27). 30 mobile x-ray van teams operating in 68 districts were randomised to transition from conventional site selection approaches (based on field team knowledge, experience, and historical data) to an AI-guided targeting strategy using the Mapping and Analysis for Tailored disease Control and Health system strengthening-Artificial Intelligence (MATCH-AI) software.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Severe dengue: Are type I interferon autoantibodies involved?
-- Source: PubMed Infectious Disease Search
-- Date: 2026-11-12T00:00
-- URL: https://pubmed.ncbi.nlm.nih.gov/43018474/
-- Category: Major epidemiology studies
-- Summary: (https://doi.org/10.70962/jhi.20260072) shows that autoantibodies neutralizing type I IFNs (AAN-I-IFN) may underlie severe dengue in ∼14% (7/49) of cases in a cohort of Chinese patients. Further studies of children and adults of different ancestries with silent, benign, and severe DENV infection are warranted. Dengue virus (DENV) is the most rapidly disseminating arbovirus worldwide.
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
-### Respiratory virus surveillance in the WHO African Region Epidemiological Week 44, October 26 to November 1 2026
-- Source: WHO Regional Office for Africa
-- Date: 2026-11-11T23:01+00:00
-- URL: https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-44-october-26
-- Category: Outbreaks and emerging infections
-- Summary: Cumulatively from weeks 1 to 44, the WHO AFR influenza laboratory network has tested 62,459 sentinel surveillance specimens for SARS-CoV-2, of which 1,611 were positive for SARS-CoV-2 (cumulative positivity rate 2.6%). SARS-CoV-2 In Epiweek 44, of the 770 specimens processed by 11 laboratories in the African Region, a total of 26 specimens tested positive for SARS-CoV-2 (positivity of 3.4%). The following influenza viruses were identified: Influenza A (H1N1)pdm09 (n = 24), Influenza A (H3) (n = 7), Influenza A (subtyping not performed) (n = 4), Influenza B (lineage not determined) (n = 18), and Influenza B (Victoria) (n = 24).
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
-- [BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Kenya | Nigeria - Weekly External Situation Report 26, Data as of 7 November 2026](https://www.afro.who.int/countries/kenya/publication/bundibugyo-virus-disease-outbreak-democratic-republic-congo-kenya-nigeria-weekly-external-situation) | WHO Regional Office for Africa | 2026-11-10T20:10+00:00 | Outbreaks and emerging infections
-  Since External Situation Report #25, an additional 388 confirmed cases and 197 confirmed deaths have been reported, bringing the cumulative total to 10 920 confirmed cases, including 5 323 confirmed deaths [crude case fatality ratio (CFR) 48.7%]. Ituri continues to account for the largest proportion of cumulative confirmed cases (69.7%), although its relative contribution is declining, while Nord-Kivu (24.7% of cumulative cases; CFR 54.8%) accounted for 46.1% of the cases reported since the previous report, almost as many as Ituri (47.2%). The importation events in Kenya and Nigeria remain contained: no new case has been reported in Kenya since 19 October, six of the seven surviving patients have been discharged and the last contacts will complete monitoring on 11 November, while no secondary case has been identified in Nigeria, where contact monitoring is expected to end on 13 November.
+- [Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.](https://pubmed.ncbi.nlm.nih.gov/43020100/) | PubMed Historical Pathogen Case Studies | 2026-11-12T00:00 | Historical epidemiology / ancient disease / paleopathology
+  Between Aug 1, 2023, and Sept 28, 2024, 3936 screening camps were conducted (2046 [52·0%] control, 1890 [48·0%] intervention), screening 269 254 individuals. In the intention-to-treat analysis, camp positivity yield was 7% higher in the intervention group, but not statistically significant (adjusted risk ratio 1·07, 95% CI 0·94-1·22; p=0·27). 30 mobile x-ray van teams operating in 68 districts were randomised to transition from conventional site selection approaches (based on field team knowledge, experience, and historical data) to an AI-guided targeting strategy using the Mapping and Analysis for Tailored disease Control and Health system strengthening-Artificial Intelligence (MATCH-AI) software.
+- [Severe dengue: Are type I interferon autoantibodies involved?](https://pubmed.ncbi.nlm.nih.gov/43018474/) | PubMed Infectious Disease Search | 2026-11-12T00:00 | Major epidemiology studies
+  (https://doi.org/10.70962/jhi.20260072) shows that autoantibodies neutralizing type I IFNs (AAN-I-IFN) may underlie severe dengue in ∼14% (7/49) of cases in a cohort of Chinese patients. Further studies of children and adults of different ancestries with silent, benign, and severe DENV infection are warranted. Dengue virus (DENV) is the most rapidly disseminating arbovirus worldwide.
 - [AFRICA CDC WELCOMES THE APPOINTMENT OF DR MARK DYBUL AS EXECUTIVE DIRECTOR OF THE GLOBAL FUND AND CALLS FOR A NEW ERA OF AFRICAN OWNERSHIP AND HEALTH SOVEREIGNTY](https://africacdc.org/news-item/africa-cdc-welcomes-the-appointment-of-dr-mark-dybul-as-executive-director-of-the-global-fund-and-calls-for-a-new-era-of-african-ownership-and-health-sovereignty/) | Africa CDC | 2026-11-08T21:13+00:00 | Policy, surveillance, and public health infrastructure
   Addis Ababa, 9 November 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes the appointment of Dr Mark Dybul as the next Executive Director of the Global Fund to Fight AIDS, Tuberculosis and Malaria and looks forward to deepening cooperation in support of Africa’s health priorities.
 - [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) | Florida Department of Health Press Releases | 2026-09-04T12:38-04:00 | Policy, surveillance, and public health infrastructure
@@ -447,35 +447,33 @@ Search window: 7 day(s) ending 2026-11-18
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
 - [News Release June 6, 2026 Hantavirus monitoring completed for Texas passengers from the MV Hondius The two Texas residents who were being monitored for hantavirus have successfully completed their .....](https://www.dshs.texas.gov/news-alerts/hantavirus-monitoring-completed-texas-passengers-mv-hondius) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
+- [Ebola outbreak in DR Congo remains global health emergency, WHO says](https://news.az/news/ebola-outbreak-in-dr-congo-remains-global-health-emergency-who-says) | Latest news from Azerbaijan | 2026-11-18T17:34+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO says Ebola outbreak in DR Congo remains public health emergency of international concern](https://www.anews.com.tr/africa/2026/11/18/who-says-ebola-outbreak-in-dr-congo-remains-public-health-emergency-of-international-concern) | A News | 2026-11-18T15:51+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [WHO keeps DR Congo Ebola outbreak an international health emergency](https://operativmm.az/en/post/who-keeps-dr-congo-ebola-outbreak-an-international-health-emergency/87518) | Operativ Məlumat Mərkəzi | 2026-11-18T15:13+00:00 | Policy, surveillance, and public health infrastructure
+  WHO keeps DR Congo Ebola outbreak an international health emergency Operativ Məlumat Mərkəzi
+- [Congo Bundibugyo Ebola Outbreak Surpasses Seven Thousand Cases Across Seven Provinces](https://bioengineer.org/congo-bundibugyo-ebola-outbreak-surpasses-seven-thousand-cases-across-seven-provinces/) | Bioengineer.org | 2026-11-18T14:12+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Why are measles cases soaring in the US?](https://www.france24.com/en/video/20261118-why-are-measles-cases-soaring-in-the-us) | France 24 | 2026-11-18T13:49+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [DR Congo Ebola outbreak remains uncontrolled as deaths exceed 5,500](https://www.itij.com/latest/news/dr-congo-ebola-outbreak-remains-uncontrolled-deaths-exceed-5500) | ITIJ | 2026-11-18T12:44+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Pennsylvania's growing costs to contain measles outbreak](https://www.axios.com/local/philadelphia/2026/11/18/pennsylvania-measles-outbreak-johns-hopkins-university-cost-funding) | Axios | 2026-11-18T11:11+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [26 More Measles Cases in New York, but Outbreak Appears to Be Easing](https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html) | The New York Times | 2026-11-18T09:48+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo's Ebola outbreak is spreading and killing at a record pace](https://www.gdnonline.com/Details/1413196) | Gulf Daily News (Bahrain) | 2026-11-18T09:15+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Bolivia, Mexico and U.S. Lose Measles Elimination Status](https://www.telesurenglish.net/bo-mx-us-lose-measles-elimination-status/) | teleSUR English | 2026-11-18T07:38+00:00 | Outbreaks and emerging infections
+  Lose Measles Elimination Status teleSUR English
 - [Shivraj Singh Chouhan will dedicate India's first indigenous H5N1 (Clade 2.3.2.1a) chicken vaccine to the nation on November 20](https://www.bignewsnetwork.com/news/279440238/shivraj-singh-chouhan-will-dedicate-india-first-indigenous-h5n1-clade-2321a-chicken-vaccine-to-the-nation-on-november-20) | Big News Network.com | 2026-11-18T07:03+00:00 | Outbreaks and emerging infections
   According to the World Health Organisation ( WHO), 1,003 human cases of H5N1 avian influenza have been reported in 25 countries, including India, since 2003, resulting in 479 deaths. In 2006, the bird flu outbreak caused an estimated direct and indirect loss of 2,200 to 3,000 crore. This vaccine, developed by the ICAR-National Institute of High-Security Animal Diseases, aims to address this need and provides protection against the H5N1 virus clade 2.3.2.1a currently circulating in the country.
-- [Bolivia, Mexico and U.S. Lose Measles Elimination Status](https://news.google.com/rss/articles/CBMifEFVX3lxTE9QSTV3UnNQLU5vV3doYWQtYWlOaXhCZjVvS0tycTYxckFOMjUtRER5dTVlazFKV3JwTG5WTUxRaDNOeFdGLW1heTJXdElIRzZJaHhsQ3FSeDJabXRjWlljZTUtMVpmdFJIMzNUd2lBeXVqZHM0S0pSdWR3Uzk?oc=5) | teleSUR English | 2026-11-18T06:40+00:00 | Outbreaks and emerging infections
-  Lose Measles Elimination Status teleSUR English
-- [26 More Measles Cases in New York, but Outbreak Appears to Be Easing](https://www.nytimes.com/2026/11/17/nyregion/new-york-state-measles-outbreak.html) | The New York Times | 2026-11-17T23:39+00:00 | Outbreaks and emerging infections
+- [The U.S. has officially lost its measles elimination status amid worst outbreak in 35 years](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbmpKNlNDWlRnb09YM0xJZFlpQWdZUU5JR09OUTgxZUJ2T1ZuVE83emRSb0JtMGRYLTVBd0V1eGdQUXFkQzdDTk5BdlZfaERMVkRkOWUtbE1lWDJGZHJYbjdLc2FmR0VHaTdaaHVvamVhcWhqU1VrZlYzb29SYkNEQk5PYw?oc=5) | CBC | 2026-11-17T22:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [The U.S. has officially lost its measles elimination status amid worst outbreak in 35 years](https://www.cbc.ca/news/health/u-s-loses-measles-elimination-status-9.7425114) | CBC | 2026-11-17T22:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Health Officials Warn of Growing Measles Outbreak in Northeast Indiana](https://www.wwbl.com/2026/11/17/health-officials-warn-of-growing-measles-outbreak-in-northeast-indiana/) | WWBL | 2026-11-17T22:27+00:00 | Outbreaks and emerging infections
+- [Health Officials Warn of Growing Measles Outbreak in Northeast Indiana](https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1dTVUIxVy1xWUlWaW9FMF9qZmhlR1RDT3R3WkVEbFBXUklLclg5c05nMmZGTzNicFdleU1hdWFtcmxwUG90OE1QTU9fR1VwSkFGY1NWc3FvQjEwbklNeDhRc1hzVmxURGFROUJCYjBfekxENmFmb1kyVWZlbnUtV3ZzWXpPM1RyOVpkNjZZMTJBeGVUNi11XzZLVEhISmpldTUzMVVR?oc=5) | WWBL | 2026-11-17T22:27+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Human travel drove Ebola spread in DR Congo, outbreak reconstruction suggests](https://www.cidrap.umn.edu/ebola/human-travel-drove-ebola-spread-dr-congo-outbreak-reconstruction-suggests) | CIDRAP | 2026-11-17T20:32+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola outbreak more than doubles as WHO flags cross-border risk](https://tradersunion.com/news/geopolitics-trade/show/4292602-dr-congo-ebola-outbreak-risk/) | Traders Union | 2026-11-17T20:27+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola Cases Double in DR Congo, Türk Warns on EU-Rwanda Plan](https://www.miragenews.com/ebola-cases-double-in-dr-congo-turk-warns-on-eu-1778950/) | Mirage News | 2026-11-17T19:50+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [US loses measles-free status as cases, deaths mount](https://news.google.com/rss/articles/CBMiekFVX3lxTE51TTJnVkUtWjlpd3BPUXhkbTBmWkhMczlGRUo5Q25WSFdIcFdIMXV3c2lpaFZEZXdOQnpIb1dnMkRHbGhldXdzVkNOdHZnOU9UVEJ2M0VZWml1T0FFNUIyZi04TTlLUU1CZmpYbVpIeG9jVzh5SDZYVVhR?oc=5) | AFP.com | 2026-11-17T19:49+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [US loses measles elimination status amid worst outbreak since 1991](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWJWZWI0Z0hHdVNYdHpHcXdvY0dZQTBiTG5ORUxsWld6S0pKZFM2UE1jZlhpang5Zmowdll6V0NfTDRvdlR3RzJaVE9ENDBlMWI4UzdkYVZzLUJWOUNxSVBRRGJVVjBqVVBzbFVyeVFPYk5zWUQ5QTkwM0F0ZngybGNicTJLdjZmS2xkMXNnRQ?oc=5) | The Guardian | 2026-11-17T16:16+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo's Ebola outbreak is spreading and killing at a record pace](https://thefinancialexpress.com.bd/health/congos-ebola-outbreak-is-spreading-and-killing-at-a-record-pace) | The Financial Express | 2026-11-17T16:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo’s Ebola Outbreak Is Spreading Faster Than Ever — and Killing at Record Pace](https://moderndiplomacy.eu/2026/11/17/congos-ebola-outbreak-is-spreading-faster-than-ever-and-killing-at-record-pace/) | Modern Diplomacy | 2026-11-17T15:34+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Radio Ebola: DR Congo children fight myths over the airwaves as outbreak reaches six months](https://www.independent.co.uk/news/world/africa/ebola-congo-six-months-radio-children-b3086362.html) | The Independent | 2026-11-17T14:29+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo Ebola Outbreak Tops 11,000 Cases, 5,500 Dead](https://www.jfeed.com/news-world/tongm5) | JFeed | 2026-11-17T14:14+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola Outbreak Records Over 5,500 Deaths in Six Months](https://vohnetwork.com/news/global/dr-congo-ebola-outbreak-escalates-with-over-5-500-deaths-reported-in-six-months) | Voice of Healthcare | 2026-11-17T12:10+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
@@ -527,10 +525,11 @@ Search window: 7 day(s) ending 2026-11-18
   Finally, we discuss therapeutic strategies targeting redox-dependent vulnerabilities in both the host and the pathogen, including modulation of macrophage bioenergetics, nuclear factor erythroid 2-related factor 2 (NRF2) signaling, ferroptosis, and mycobacterial respiration. This review discusses how redox cross talk integrates immune signaling with bacterial physiology through interconnected pathways involving iron metabolism, lipid peroxidation, mitochondrial bioenergetics, central carbon metabolism, and antioxidant defenses. Mycobacterium tuberculosis (Mtb) persists within the host despite robust immune responses and prolonged multidrug therapy, underscoring the need to better understand the mechanisms that drive persistence and treatment failure.
 - [Geographical targeting of active case-finding for tuberculosis in Pakistan using artificial intelligence software (SPOT-TB): a pragmatic, stepped wedge, cluster-randomised control trial.](https://pubmed.ncbi.nlm.nih.gov/43020100/) | PubMed Historical Pathogen Case Studies
   Between Aug 1, 2023, and Sept 28, 2024, 3936 screening camps were conducted (2046 [52·0%] control, 1890 [48·0%] intervention), screening 269 254 individuals. In the intention-to-treat analysis, camp positivity yield was 7% higher in the intervention group, but not statistically significant (adjusted risk ratio 1·07, 95% CI 0·94-1·22; p=0·27). 30 mobile x-ray van teams operating in 68 districts were randomised to transition from conventional site selection approaches (based on field team knowledge, experience, and historical data) to an AI-guided targeting strategy using the Mapping and Analysis for Tailored disease Control and Health system strengthening-Artificial Intelligence (MATCH-AI) software.
+- [Ebola burial teams in DRC work through health risks and prejudice](https://www.ghanaweb.com/GhanaHomePage/africa/Ebola-burial-teams-in-DRC-work-through-health-risks-and-prejudice-2061909) | GhanaWeb
+  Limited detail was available from feed metadata alone.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
-- Bird flu signal versus noise: separating livestock surveillance updates from true human-risk changes.
 - Occupational epidemiology angle: when workplace exposure reports become early-warning public-health signals.
 - Historical epi angle: how ancient-pathogen papers can sharpen modern outbreak interpretation.
 - Speculative: build a recurring segment on what official surveillance channels emphasized today versus what headlines emphasized.
