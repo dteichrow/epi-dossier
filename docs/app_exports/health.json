@@ -7,23 +7,24 @@
       "CIDRAP",
       "Guardian",
       "New York Times",
+      "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 174,
+    "metadata_only_count": 157,
     "sources_cached": 0,
     "sources_failed": 0,
-    "sources_live": 193,
-    "story_count_change": 7,
-    "wrapper_only_count": 9
+    "sources_live": 178,
+    "story_count_change": 8,
+    "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 193,
+    "live": 178,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-20T15:59:32",
+  "generated_at": "2026-11-20T22:59:56",
   "source_failures": []
 }
