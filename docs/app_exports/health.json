@@ -1,38 +1,30 @@
 {
-  "degraded": true,
+  "degraded": false,
   "editor_summary": {
     "major_publisher_families_seen": [
       "ABC News",
       "CBS News",
       "CIDRAP",
-      "Guardian",
       "NBC News",
       "New York Times",
       "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 187,
+    "metadata_only_count": 173,
     "sources_cached": 0,
-    "sources_failed": 1,
-    "sources_live": 204,
-    "story_count_change": 4,
-    "wrapper_only_count": 7
+    "sources_failed": 0,
+    "sources_live": 196,
+    "story_count_change": 5,
+    "wrapper_only_count": 11
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 204,
+    "live": 196,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-25T21:27:22",
-  "source_failures": [
-    {
-      "error": "502 Server Error: Bad Gateway for url: https://www.afro.who.int/rss.xml",
-      "required": true,
-      "source": "WHO Regional Office for Africa",
-      "source_type": "rss"
-    }
-  ]
+  "generated_at": "2026-11-26T07:45:44",
+  "source_failures": []
 }
