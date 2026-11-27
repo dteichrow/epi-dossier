@@ -1,28 +1,35 @@
 {
-  "degraded": false,
+  "degraded": true,
   "editor_summary": {
     "major_publisher_families_seen": [
       "CBS News",
       "CIDRAP",
       "NBC News",
-      "New York Times",
+      "PBS",
       "Reuters",
       "Sky News"
     ],
-    "metadata_only_count": 167,
+    "metadata_only_count": 171,
     "sources_cached": 0,
-    "sources_failed": 0,
-    "sources_live": 187,
-    "story_count_change": 5,
+    "sources_failed": 1,
+    "sources_live": 193,
+    "story_count_change": 6,
     "wrapper_only_count": 10
   },
   "freshness_summary": {
     "fallback_cache": 0,
-    "live": 187,
+    "live": 193,
     "refresh_cache": 0,
     "retained": 0,
     "unknown": 0
   },
-  "generated_at": "2026-11-27T01:03:56",
-  "source_failures": []
+  "generated_at": "2026-11-27T10:56:07",
+  "source_failures": [
+    {
+      "error": "403 Client Error: Forbidden for url: https://r.jina.ai/http://https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+      "required": true,
+      "source": "FDA Foodborne Outbreaks",
+      "source_type": "html_list"
+    }
+  ]
 }

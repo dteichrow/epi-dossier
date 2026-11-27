@@ -1,44 +1,43 @@
 # Daily Infectious Disease & Epidemiology Dossier
 Date: 2026-11-27
-Generated at: 2026-11-27T01:03
+Generated at: 2026-11-27T10:56
 Search window: 7 day(s) ending 2026-11-27
 
 ## Executive scan
-- [WHO Namibia Biennial Report 2024-2025](https://www.afro.who.int/countries/namibia/publication/who-namibia-biennial-report-2024-2025) (WHO Regional Office for Africa; 2026-11-25T15:02+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [WHO AFRO Polio Eradication Programme Bulletin (Q2, 2026)](https://www.afro.who.int/publications/who-afro-polio-eradication-programme-bulletin-q2-2026) (WHO Regional Office for Africa; 2026-11-27T16:06+00:00; Outbreaks and emerging infections; relevance 5/5)
+- [Zero-code deep learning platform for diagnosing tuberculosis and COVID-19 via chest X-ray findings.](https://pubmed.ncbi.nlm.nih.gov/43099781/) (PubMed Infectious Disease Search; 2026-11-26T00:00; Major epidemiology studies; relevance 5/5)
 - [Innovations in Tuberculosis Treatment Using Differentiated Service Delivery, North Central Nigeria, 2021-2022.](https://pubmed.ncbi.nlm.nih.gov/43077706/) (PubMed Historical Pathogen Case Studies; 2026-11-24T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [A novel patient with inherited TNF deficiency and tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/43076603/) (PubMed Infectious Disease Search; 2026-11-24T00:00; Major epidemiology studies; relevance 5/5)
 - [Persistent Profound Isolated T Cell Lymphopenia in a 74-Year-Old Man with Disseminated Mycobacterium bovis Infection.](https://pubmed.ncbi.nlm.nih.gov/43070540/) (PubMed Historical Pathogen Case Studies; 2026-11-23T00:00; Historical epidemiology / ancient disease / paleopathology; relevance 5/5)
 - [Respiratory virus surveillance in the WHO African Region Epidemiological Week 45 November 2 to 8 2026](https://www.afro.who.int/publications/respiratory-virus-surveillance-who-african-region-epidemiological-week-45-november-2-8) (WHO Regional Office for Africa; 2026-11-18T17:36+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa; 2026-11-18T17:31+00:00; Outbreaks and emerging infections; relevance 5/5)
 - [Análise da situação da resistência aos antimicrobianos em Angola no contexto “Uma Só Saúde”](https://www.afro.who.int/pt/countries/angola/publication/analise-da-situacao-da-resistencia-aos-antimicrobianos-em-angola-no-contexto-uma-so-saude) (WHO Regional Office for Africa; 2026-11-18T16:00+00:00; Outbreaks and emerging infections; relevance 5/5)
-- [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) (ECDC News; 2026-11-17T17:36+01:00; Policy, surveillance, and public health infrastructure; relevance 5/5)
-- Category mix: Outbreaks and emerging infections (171), Policy, surveillance, and public health infrastructure (13), Historical epidemiology / ancient disease / paleopathology (2)
+- Category mix: Outbreaks and emerging infections (170), Policy, surveillance, and public health infrastructure (17), Virology and pathogen evolution (2)
+- Source health: 1 source(s) failed during collection: FDA Foodborne Outbreaks.
 
 ## Ongoing stories and what changed
-### Ebola virus disease
-- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 52 item(s) across 50 source(s).
-- Monitoring: EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026
-- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
-- Common Dreams now includes evacuation reporting.
-- Tech Times now foregrounds vaccination or vaccine policy in the story.
-
 ### Polio and wastewater surveillance
-- Lead item: [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa)
-- Newly tracked story cluster: 3 item(s) across 3 source(s).
-- Monitoring: Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026
+- Lead item: [WHO AFRO Polio Eradication Programme Bulletin (Q2, 2026)](https://www.afro.who.int/publications/who-afro-polio-eradication-programme-bulletin-q2-2026) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 6 item(s) across 4 source(s).
+- Monitoring: WHO AFRO Polio Eradication Programme Bulletin (Q2, 2026)
 - WHO Regional Office for Africa now foregrounds vaccination or vaccine policy in the story.
 - Nature now brings wastewater surveillance into the story.
 
 ### Measles transmission and vaccination
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News)
-- Newly tracked story cluster: 102 item(s) across 86 source(s).
+- Newly tracked story cluster: 100 item(s) across 89 source(s).
 - Monitoring: News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
+### Ebola virus disease
+- Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa)
+- Newly tracked story cluster: 56 item(s) across 52 source(s).
+- Monitoring: EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026
+- WHO Regional Office for Africa now includes deaths or fatal cases in the story frame.
+
 ### Dengue and arboviruses
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases)
-- Newly tracked story cluster: 21 item(s) across 18 source(s).
+- Newly tracked story cluster: 21 item(s) across 19 source(s).
 - Monitoring: Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
 - The linked sources provide the current reporting record; this entry does not establish a new development.
 
@@ -51,7 +50,7 @@ Search window: 7 day(s) ending 2026-11-27
 
 ## Major topics
 ### Measles transmission and vaccination
-- Topic size: 102 item(s) across 86 source(s); 1 official/primary-source item(s).
+- Topic size: 100 item(s) across 89 source(s); 1 official/primary-source item(s).
 - Lead item: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News, Unknown)
 - Detailed note: state remains epicenter of measles outbreak Yahoo News Canada Learn more about the Sunset process and provide feedback.
 - Evidence notes: [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) (Texas Department of State Health Services News); [Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds](https://www.wsj.com/health/pennsylvania-races-to-stem-measles-outbreak-as-amish-wedding-season-draws-crowds-75e0d190) (WSJ); [Wisconsin measles outbreak grows to 918 cases, with third death reported](https://news.google.com/rss/articles/CBMirAFBVV95cUxOd1J3ZEdFZ2xBVmNMams5bmJwNnd2N3hZZ0Mtai02RVpzOWFEVEItWFFwa2owb01tTTlnUnVHLW1GVkQyb3pVTV9HWVNQc0J4Z3AzQ2hqWjU0V3JSOE5KNG9UOTJ0aC1MZ0NfMWY3R2lMWEFaeVctT2locld5bFpueGYtUW0yTTFTSERWUXJNTUNuVnBodWhBSU5CQWhQbVl0cHkzZWQwWUVzQ2tB0gGyAUFVX3lxTE0yc3pfUHlGRjU1ZG9CLWhOMXJqQ2REOHl0NE05N1BNRnhDSGRhVDRBVVlFUGF2U2tTc0g4N1ZUbnZGSHRpblFKT2JxQVJGTGk5RDRXQ1dCNHJYRWt4bmY1TlFIcjRDbDhZT2tqbGFkZHhvVS1fUXJIdlFpN3BCTUkzVnRRUkRhV3FsRWc2REtyMFI3dFBnSVNaSDFJYnFRU1ZJYnRIdVNUWC0tbHFmSmxkcmc?oc=5) (WIZM 92.3FM 106.7FM 1410AM); [Wisconsin reports 3rd measles death, as illnesses spread to the general public](https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZNQ1V3YTBhZVlUT3VyR2ZNZDduUjJDazUxd0lnUzJEVGJhWGZfdXVUdGM2MFlqbG1JdmFjejQ1SDlWV1B1ZTdRMENpNVJkOFZhaUR1NW9Fc1lYeTk0WXRibmcwclkxWVhaNE5TY0lGUjVnZWo4WTU3NklrZm5ycGwwTFpEMWFUajZJaG1WQ05QYzBYWk5fdjgxSFJtenJlYkJEdw?oc=5) (NBC News); [Wisconsin confirms its 3rd measles-related death as its 2026 case count reaches 920](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkh3c3RFaW9zYmZPbEJfOHNMNkdlekhxb2gzNDZPUXc3amlkcmp6SUpHeThTWHlGV0Q2ZVpXbXZQRHdzazFxSTFHTnZpOVJSWE05dlRmd2hHZVAtRVRSaTFMaW0wc3diN0tITFE2dFRRWW1Ja1VNb3pwX0pMLVprYXJoVXFMOXBCMUlxYlRwU2ZUUENCZFMzQWs3NFFjVVEwYUFSUG5TWVRuOWxYdzhQMlZBSlA4QQ?oc=5) (CIDRAP)
@@ -59,18 +58,26 @@ Search window: 7 day(s) ending 2026-11-27
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Ebola virus disease
-- Topic size: 52 item(s) across 50 source(s); 2 official/primary-source item(s).
+- Topic size: 56 item(s) across 52 source(s); 2 official/primary-source item(s).
 - Lead item: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa, 2026-11-18T17:31+00:00)
 - Detailed note: Ituri continues to account for the largest proportion of cumulative confirmed cases (68.9%) and accounted for 227 of the 442 cases reported in week 46 (51.4%), while Nord-Kivu (25.3% of cumulative cases; CFR 55.4%) accounted for 169 (38.2%). During epidemiological week 46 (9 – 15 November 2026), 442 confirmed cases and 239 confirmed deaths were reported, compared with 458 cases and 228 deaths in week 45; the...
-- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) (ECDC News); [Ebola cases cross 12,000 in DR Congo KIGALI, Rwanda – The number of confirmed Ebola cases in the Democratic Republic of Congo has crossed 12,000 since the outbreak declaration in May, official data showed on Thursday as health authorities struggle t](https://www.facebook.com/pnagovph/posts/ebola-cases-cross-12000-in-dr-congo-kigali-rwanda-the-number-of-confirmed-ebola/1574505734725875/) (Facebook); [Ebola outbreak fuels violence against women, girls in Congo](https://www.theeastafrican.co.ke/tea/sustainability/ebola-outbreak-fuels-violence-against-women-girls-in-congo-5685710) (The EastAfrican); [Congo Ebola Outbreak: Rebels Fight 15 Miles From Bunia, Home to Vaccine and Drug Trials](https://www.techtimes.com/articles/331618/20261126/congo-ebola-outbreak-rebels-fight-15-miles-bunia-home-vaccine-drug-trials.htm) (Tech Times)
+- Evidence notes: [EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 27, Data as of 15 November 2026](https://www.afro.who.int/countries/kenya/publication/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation) (WHO Regional Office for Africa); [Ebola disease: Multi-country outbreak 2026](https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026) (ECDC News); [Ugandan Study Outlines Stepped Care Mental Health Framework After Ebola Outbreak](https://bioengineer.org/ugandan-study-outlines-stepped-care-mental-health-framework-after-ebola-outbreak/) (Bioengineer.org); [Congo Ebola Outbreak: Deaths Near 6,000 as Fighting Spreads](https://www.eewmagazineonline.com/latest-news/2026/11/27/congo-ebola-outbreak-deaths-near-6000-fighting) (EEW Magazine); [Congo's Ebola Outbreak Just Passed 12,000 Cases — and the Fighting Is Evicting the People Fighting It](https://vocal.media/fyi/congos-ebola-outbreak-just-passed-12000-cases-and-the-fighting-is-evicting-the-people-fighting-it) (Vocal)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
 ### Dengue and arboviruses
-- Topic size: 21 item(s) across 18 source(s); 1 official/primary-source item(s).
+- Topic size: 21 item(s) across 19 source(s); 1 official/primary-source item(s).
 - Lead item: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases, 2026-09-04T12:38-04:00)
-- Detailed note: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . See where the outbreak spreading Sarasota Herald-Tribune Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend.
-- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Florida dengue cases hit 669. See where the outbreak spreading](https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0Qtb2c4YkdDYzgwSk9BOWVpN01xaVY3VkNPVlA2TUxDcGhtdVJvamtwVmctNHRueXozbTNyRFFHdk95V0NmMG9jTXpqaDdyRjRENVlvSVlDd1NDUnFPUUVzM01yS0h3bC1TaEZLVUg1SzBJdWZxd3B3bjVEeG9aQU9YamExYXZWdlBKOEZBMjVqdU5KV0pVdVhvU2J4Q2RRNjZ2eHBpY2NCQ1RabS1sSEdDSWxWdw?oc=5) (Sarasota Herald-Tribune); [Researchers estimate 34-fold rise in global dengue cases in past 35 years](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWNRWG1CTEhJekVfaGxQOXQtU1VUNndNNFdOQTNHU0pMYjhxemVwNDJLU1ZZTUhEcGNUdnM3UmpUMXgyUDFIczduTUJuaHRXV291Vjk0eVFLMTlNbUNvZVdzTUpQQWxYbEdWd0tuR2JleThFR3hsRWduSFMzcFRNYTlWWFpNTTI2MkJYV2FzYTJTc0xJb1VtSjlxRnZWTjNtbEg4?oc=5) (CIDRAP); [Sudan Dengue Outbreak Documents 13,371 Cases Across Ten States During Conflict](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEk4allSLXF3U3VqRXhjcHY5VGRyMmpad0g5MjhNMnAwUlBraVNYMzE0OE5JVW14ODgwbzNKZVdyQ0w2aVFRMlIwbXhYTHZNWGlfQWU1NEZucDNwOUlySTRqUTRaOXo1VlF5cEdSTUxibl9xaWU2cjZPMjhrRWZxb0l6elJYV3JQVFVjN04wOXBLNzdnOUQyTTJCMXAxN3pETThRaw?oc=5) (Bioengineer.org); [Machine Learning Classifies Dengue Warning Signs Using Routine Clinical Features in Nepal](https://bioengineer.org/machine-learning-classifies-dengue-warning-signs-using-routine-clinical-features-in-nepal/) (Bioengineer.org)
+- Detailed note: Thursday, November 26, 2026, 20:36 GMT+7 Da Nang City in central Vietnam recorded 2,219 new dengue fever cases last week, nearly 2,000 more than the previous week, prompting hospitals to add beds as health authorities warned residents not to ignore signs of severe illness. Da Nang has recorded 12,555 dengue cases since the beginning of 2026, up 3.7-fold from 3,384 cases during the same period last year. More than...
+- Evidence notes: [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) (Florida Department of Health Press Releases); [Da Nang dengue cases surge by 2,000 in just one week - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/da-nang-dengue-cases-surge-by-2000-in-just-one-week-103261126202543333.htm) (Tuoi Tre News); [Florida dengue cases hit 669. See where the outbreak spreading](https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0Qtb2c4YkdDYzgwSk9BOWVpN01xaVY3VkNPVlA2TUxDcGhtdVJvamtwVmctNHRueXozbTNyRFFHdk95V0NmMG9jTXpqaDdyRjRENVlvSVlDd1NDUnFPUUVzM01yS0h3bC1TaEZLVUg1SzBJdWZxd3B3bjVEeG9aQU9YamExYXZWdlBKOEZBMjVqdU5KV0pVdVhvU2J4Q2RRNjZ2eHBpY2NCQ1RabS1sSEdDSWxWdw?oc=5) (Sarasota Herald-Tribune); [Researchers estimate 34-fold rise in global dengue cases in past 35 years](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWNRWG1CTEhJekVfaGxQOXQtU1VUNndNNFdOQTNHU0pMYjhxemVwNDJLU1ZZTUhEcGNUdnM3UmpUMXgyUDFIczduTUJuaHRXV291Vjk0eVFLMTlNbUNvZVdzTUpQQWxYbEdWd0tuR2JleThFR3hsRWduSFMzcFRNYTlWWFpNTTI2MkJYV2FzYTJTc0xJb1VtSjlxRnZWTjNtbEg4?oc=5) (CIDRAP); [Alert for Kazakh tourists: Dengue cases surge in Vietnam’s Da Nang](https://qazinform.com/news/alert-for-kazakh-tourists-dengue-cases-surge-in-vietnams-da-nang-b04fb1) (Qazinform)
+- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
+- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+
+### Polio and wastewater surveillance
+- Topic size: 6 item(s) across 4 source(s); 2 official/primary-source item(s).
+- Lead item: [WHO AFRO Polio Eradication Programme Bulletin (Q2, 2026)](https://www.afro.who.int/publications/who-afro-polio-eradication-programme-bulletin-q2-2026) (WHO Regional Office for Africa, 2026-11-27T16:06+00:00)
+- Detailed note: The July 2026 meeting of the RITAG for the WHO African Region was held against the backdrop of the ongoing Bundibugyo virus outbreak in the Democratic Republic of the Congo (DRC) and Uganda, and the release in mid-July of the WHO and UNICEF Estimates of National Immunization Coverage (WUENIC) for 2025. The meeting included updates on global and regional immunization progress; key vaccine-preventable diseases...
+- Evidence notes: [WHO AFRO Polio Eradication Programme Bulletin (Q2, 2026)](https://www.afro.who.int/publications/who-afro-polio-eradication-programme-bulletin-q2-2026) (WHO Regional Office for Africa); [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa); [Wastewater sequencing enables scalable measles surveillance](https://www.nature.com/articles/s41591-026-04761-4) (Nature); [Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission](https://www.nature.com/articles/s41591-026-04754-3) (Nature); [Pakistan reports 10th polio case of 2026](https://outbreaknewstoday.substack.com/p/pakistan-reports-10th-polio-case) (Outbreak News Today)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
 - Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
 
@@ -83,20 +90,12 @@ Search window: 7 day(s) ending 2026-11-27
 - Caveats / uncertainty: These notes are limited to source text collected in this run.
 
 ### Miscellaneous signals
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
-- Lead item: [WHO Namibia Biennial Report 2024-2025](https://www.afro.who.int/countries/namibia/publication/who-namibia-biennial-report-2024-2025) (WHO Regional Office for Africa, 2026-11-25T15:02+00:00)
+- Topic size: 2 item(s) across 2 source(s); 0 official/primary-source item(s).
+- Lead item: [QATAR LIFTS EBOLA TRAVEL CURBS ON UGANDANS… Relief for Job Seekers, Students & Business Travellers](https://redpepper.co.ug/qatar-lifts-ebola-travel-curbs-on-ugandans-relief-for-job-seekers-students-business-travellers/153109/) (Red Pepper, 2026-11-23T15:03+00:00)
 - Detailed note: Several lower-volume signals passed the filters, but they do not resolve into one coherent topic cluster. Use the linked evidence notes directly rather than reading this as a single story.
-- Evidence notes: [WHO Namibia Biennial Report 2024-2025](https://www.afro.who.int/countries/namibia/publication/who-namibia-biennial-report-2024-2025) (WHO Regional Office for Africa); [QATAR LIFTS EBOLA TRAVEL CURBS ON UGANDANS… Relief for Job Seekers, Students & Business Travellers](https://redpepper.co.ug/qatar-lifts-ebola-travel-curbs-on-ugandans-relief-for-job-seekers-students-business-travellers/153109/) (Red Pepper); [‘We don’t want to lose our babies’: Gaza’s children caught in the grip of a meningitis outbreak](https://www.middleeasteye.net/news/gazas-children-caught-grip-meningitis-outbreak) (Middle East Eye)
+- Evidence notes: [QATAR LIFTS EBOLA TRAVEL CURBS ON UGANDANS… Relief for Job Seekers, Students & Business Travellers](https://redpepper.co.ug/qatar-lifts-ebola-travel-curbs-on-ugandans-relief-for-job-seekers-students-business-travellers/153109/) (Red Pepper); [‘We don’t want to lose our babies’: Gaza’s children caught in the grip of a meningitis outbreak](https://www.middleeasteye.net/news/gazas-children-caught-grip-meningitis-outbreak) (Middle East Eye)
 - Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
-
-### Polio and wastewater surveillance
-- Topic size: 3 item(s) across 3 source(s); 1 official/primary-source item(s).
-- Lead item: [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa, 2026-11-16T13:50+00:00)
-- Detailed note: Punjab: Over 23.3 million children across 38 districts Punjab: Over 23.3 million children across 38 districts Running from December 12 to 18, Pakistan’s third and final nationwide polio vaccination drive of 2026 aims to immunize over 45 million children under the age of five. According to the National Emergency Operations Centre (NEOC), the week-long campaign will span 167 districts and mobilize more than 400,000...
-- Evidence notes: [Report of the Regional Immunization Technical Advisory Group meeting, Addis Ababa, July 2026](https://www.afro.who.int/publications/report-regional-immunization-technical-advisory-group-meeting-addis-ababa-july-2026) (WHO Regional Office for Africa); [Pakistan reports 10th polio case of 2026](https://outbreaknewstoday.substack.com/p/pakistan-reports-10th-polio-case) (Outbreak News Today); [Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission](https://www.nature.com/articles/s41591-026-04754-3) (Nature)
-- Why this topic matters now: It affects how to interpret current surveillance or outbreak detection signals. It may influence public-health messaging, travel guidance, or risk framing.
-- Caveats / uncertainty: Several entries still rely on short feed metadata rather than full-text extraction.
+- Caveats / uncertainty: This cluster leans on secondary coverage rather than official primary-source reporting. Several entries still rely on short feed metadata rather than full-text extraction.
 
 
 ## Last major outbreaks on file
@@ -336,13 +335,23 @@ Search window: 7 day(s) ending 2026-11-27
   Desk note: This is exactly the kind of severe rural infectious-disease burden that can disappear if the intake is too urban and too English-headline dependent.
 
 ## Highest priority items
-### WHO Namibia Biennial Report 2024-2025
+### WHO AFRO Polio Eradication Programme Bulletin (Q2, 2026)
 - Source: WHO Regional Office for Africa
-- Date: 2026-11-25T15:02+00:00
-- URL: https://www.afro.who.int/countries/namibia/publication/who-namibia-biennial-report-2024-2025
+- Date: 2026-11-27T16:06+00:00
+- URL: https://www.afro.who.int/publications/who-afro-polio-eradication-programme-bulletin-q2-2026
 - Category: Outbreaks and emerging infections
-- Summary: Organized around WHO’s strategic priorities of Universal Health Coverage, Health Emergencies, and Promoting Healthier Lives, the report documents progress in improving access to quality health services, strengthening preparedness and response to public health emergencies, advancing mental health, road safety, tobacco control, health promotion, nutrition, maternal and child health, disease surveillance, digital health, and evidence-informed policymaking. The report highlights key achievements delivered in partnership with the Government of the Republic of Namibia, the Ministry of Health and Social Services, United Nations agencies, development partners, civil society and communities across the country. It further reflects WHO Namibia’s efforts in capacity-building, research, strategic communication, resource mobilization and multisectoral collaboration to advance resilient, equitable and people-centred health systems.
+- Summary: Download the bulletin to explore the work happening across the Region, the role of partnerships and country leadership, and how continued investments are helping reach more children, close immunity gaps and strengthen health systems.
 - Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
+- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
+- Relevance score: 5/5
+
+### Zero-code deep learning platform for diagnosing tuberculosis and COVID-19 via chest X-ray findings.
+- Source: PubMed Infectious Disease Search
+- Date: 2026-11-26T00:00
+- URL: https://pubmed.ncbi.nlm.nih.gov/43099781/
+- Category: Major epidemiology studies
+- Summary: Upon internal validation for 300 cases, the constructed model displayed a slight drop in performance, with the AUC and other metrics decreasing to 0.997 and 0.967, respectively. Orange data mining software was utilized for the implementation of a deep neural network for diagnostic purposes of 268 each for controls, TB, and COVID-19 cases, while extracting 100 cases from each class for further external validation. However, the AUC and accuracy dropped to 0.88 and 66% after external validation.
+- Why it matters: Comes from an official or primary-source channel.
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
@@ -426,27 +435,25 @@ Search window: 7 day(s) ending 2026-11-27
 - Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
 - Relevance score: 5/5
 
-### Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend
-- Source: Florida Department of Health Press Releases
-- Date: 2026-09-04T12:38-04:00
-- URL: https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/
-- Category: Policy, surveillance, and public health infrastructure
-- Summary: To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend. Hillsborough County is currently experiencing an unusual increase in locally acquired dengue infections .
-- Why it matters: Directly relevant to outbreak detection, transmission monitoring, or response. Comes from an official or primary-source channel.
-- Caveats / uncertainty: Summary stays within source text and metadata; no outside facts were added.
-- Relevance score: 5/5
-
 
 ## Other notable readings
+- [Florida Surgeon General Reminds Floridians to Take Steps Against Dengue Ahead of Labor Day Weekend](https://www.floridahealth.gov/2026/09/04/florida-surgeon-general-reminds-floridians-to-take-precautions-against-dengue-ahead-of-labor-day-weekend/) | Florida Department of Health Press Releases | 2026-09-04T12:38-04:00 | Policy, surveillance, and public health infrastructure
+  To date, 59 locally acquired dengue infections have been reported to the Florida Department of Health in Hillsborough County . Ladapo joined local officials in Hillsborough County to urge Floridians to take precautions against mosquito-borne illnesses as families prepare to spend more time outdoors over Labor Day weekend. Hillsborough County is currently experiencing an unusual increase in locally acquired dengue infections .
 - [News Release July 29, 2026 DSHS alerts clinicians, public about Montgomery County measles outbreak The Texas Department of State Health Services issued a health alert after four cases of measles were .....](https://www.dshs.texas.gov/news-alerts/dshs-alerts-clinicians-public-about-montgomery-county-measles-outbreak) | Texas Department of State Health Services News | Unknown | Policy, surveillance, and public health infrastructure
   Learn more about the Sunset process and provide feedback. Limited detail was available from feed metadata alone.
+- [Ugandan Study Outlines Stepped Care Mental Health Framework After Ebola Outbreak](https://bioengineer.org/ugandan-study-outlines-stepped-care-mental-health-framework-after-ebola-outbreak/) | Bioengineer.org | 2026-11-27T17:52+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo Ebola Outbreak: Deaths Near 6,000 as Fighting Spreads](https://www.eewmagazineonline.com/latest-news/2026/11/27/congo-ebola-outbreak-deaths-near-6000-fighting) | EEW Magazine | 2026-11-27T13:16+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo's Ebola Outbreak Just Passed 12,000 Cases — and the Fighting Is Evicting the People Fighting It](https://vocal.media/fyi/congos-ebola-outbreak-just-passed-12000-cases-and-the-fighting-is-evicting-the-people-fighting-it) | Vocal | 2026-11-27T13:10+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola cases cross 12,000 in DR Congo KIGALI, Rwanda – The number of confirmed Ebola cases in the Democratic Republic of Congo has crossed 12,000 since the outbreak declaration in May, official data showed on Thursday as health authorities struggle t](https://www.facebook.com/pnagovph/posts/ebola-cases-cross-12000-in-dr-congo-kigali-rwanda-the-number-of-confirmed-ebola/1574505734725875/) | Facebook | 2026-11-27T06:48+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Ebola outbreak fuels violence against women, girls in Congo](https://www.theeastafrican.co.ke/tea/sustainability/ebola-outbreak-fuels-violence-against-women-girls-in-congo-5685710) | The EastAfrican | 2026-11-27T05:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds](https://www.wsj.com/health/pennsylvania-races-to-stem-measles-outbreak-as-amish-wedding-season-draws-crowds-75e0d190) | WSJ | 2026-11-27T03:31+00:00 | Outbreaks and emerging infections
+- [Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Draws Crowds](https://www.wsj.com/health/pennsylvania-races-to-stem-measles-outbreak-as-amish-wedding-season-draws-crowds-75e0d190) | WSJ | 2026-11-27T01:00+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo Ebola Outbreak: Rebels Fight 15 Miles From Bunia, Home to Vaccine and Drug Trials](https://www.techtimes.com/articles/331618/20261126/congo-ebola-outbreak-rebels-fight-15-miles-bunia-home-vaccine-drug-trials.htm) | Tech Times | 2026-11-27T02:33+00:00 | Outbreaks and emerging infections
+- [Congo Ebola outbreak: 12,021 cases, 5,904 deaths](https://africa.dailynewsegypt.com/congo-ebola-outbreak-12000-cases/) | DNE Africa | 2026-11-26T21:14+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola Cases Top 12,000 as Fighting Forces Some Health Workers to Evacuate](https://www.commondreams.org/news/ebola-congo-outbreak) | Common Dreams | 2026-11-26T19:59+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
@@ -454,32 +461,30 @@ Search window: 7 day(s) ending 2026-11-27
   Limited detail was available from feed metadata alone.
 - [Congo's Ebola outbreak passes 12,000 confirmed cases and 5,904 deaths](https://mlq.ai/news/congos-ebola-outbreak-passes-12000-confirmed-cases-and-5904-deaths/) | MLQ.ai | 2026-11-26T19:39+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate](https://www.columbiamissourian.com/news/nation_world/ebola-outbreak-in-congo-reaches-12-000-cases-as-violence-forces-some-responders-to-evacuate/article_ffb532e3-18f5-5e68-92b9-f6db1c6e9f7b.html) | Columbia Missourian | 2026-11-26T18:32+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
+- [Congo’s Ebola cases exceed 12,000 as responders struggle to contain outbreak](https://www.cnbcafrica.com/2026/congos-ebola-cases-exceed-12000-as-responders-struggle-to-contain-outbreak) | CNBC Africa | 2026-11-26T16:41+00:00 | Outbreaks and emerging infections
+  Limited detail was available from feed metadata alone.
 - [Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows](https://www.cbc.ca/news/health/ebola-tops-12000-cases-outbreak-9.7436970) | CBC | 2026-11-26T15:22+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [WHO Pulls Its Ebola Team Out of Mongbwalu as Fighting Spreads Through Congo's Ituri Province](https://www.natureworldnews.com/articles/74085/20261126/who-pulls-its-ebola-team-out-mongbwalu-fighting-spreads-through-congos-ituri-province.htm) | Nature World News | 2026-11-26T15:08+00:00 | Outbreaks and emerging infections
   The withdrawal comes at a perilous moment: the outbreak, caused by the Bundibugyo strain of Ebola, has recorded more than 11,700 cases and about 5,700 deaths, according to the latest government data cited by the AP. By the AP's account, citing the latest government figures, the outbreak has passed 11,700 cases and around 5,700 deaths. Xinhua reported on 25 November that WHO and Africa CDC personnel were evacuated on Tuesday.
 - [Democratic Republic of Congo's confirmed Ebola cases top 12,000](https://en.yenisafak.com/world/democratic-republic-of-congos-confirmed-ebola-cases-top-12000-3726019) | Yeni Safak English | 2026-11-26T14:16+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
+- [Da Nang dengue cases surge by 2,000 in just one week - Tuoi Tre News | The News Gateway to Vietnam](https://news.tuoitre.vn/da-nang-dengue-cases-surge-by-2000-in-just-one-week-103261126202543333.htm) | Tuoi Tre News | 2026-11-26T13:36+00:00 | Outbreaks and emerging infections
+  Thursday, November 26, 2026, 20:36 GMT+7 Da Nang City in central Vietnam recorded 2,219 new dengue fever cases last week, nearly 2,000 more than the previous week, prompting hospitals to add beds as health authorities warned residents not to ignore signs of severe illness. Da Nang has recorded 12,555 dengue cases since the beginning of 2026, up 3.7-fold from 3,384 cases during the same period last year. Photo: Thu Thao Da Nang's Center for Disease Control (CDC) reported 2,219 dengue cases last week, up from 1,925 the week before.
 - [DRC Ebola outbreak continues to spread](https://news.sky.com/video/drc-ebola-outbreak-continues-to-spread-13616829) | Sky News | 2026-11-26T13:32+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
 - [DR Congo Ebola outbreak tops 12,000 cases amid fighting](https://sana.sy/en/health/2362072/) | سانا | 2026-11-26T11:56+00:00 | Outbreaks and emerging infections
   Limited detail was available from feed metadata alone.
-- [Congo confirms 12,000 cases as Ebola outbreak worsens due to conflict](https://www.thenews.com.pk/latest/1425226-congo-confirms-12000-cases-as-ebola-outbreak-worsens-due-to-conflict) | The News International | 2026-11-26T11:38+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak hits record scale in Congo as rebel fighting hampers containment](https://english.mathrubhumi.com/news/world/congo-ebola-outbreak-cases-rebel-fighting-2026-ptiqkmf710m) | Mathrubhumi English | 2026-11-26T09:47+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in DR Congo reaches 12,000 cases](https://www.breakingnews.ie/world/ebola-outbreak-in-dr-congo-reaches-12000-cases-1960200.html) | BreakingNews.ie | 2026-11-26T09:36+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Ebola outbreak in eastern Congo reaches 12,000 cases as violence forces some responders to evacuate](https://www.independent.co.uk/news/congo-b3091980.html) | The Independent | 2026-11-26T08:41+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east](https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east) | Al Jazeera | 2026-11-26T08:07+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Congo's Ebola cases exceed 12,000 as responders struggle to contain outbreak](https://international.astroawani.com/global-news/congos-ebola-cases-exceed-12000-responders-struggle-contain-outbreak) | Awani International | 2026-11-26T07:20+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
-- [Rebel clashes disrupt fight against Congo's deadliest Ebola outbreak](https://www.stuff.co.nz/world-news/361063823/rebel-clashes-disrupt-fight-against-congos-deadliest-ebola-outbreak) | Stuff | 2026-11-25T20:41+00:00 | Outbreaks and emerging infections
-  Limited detail was available from feed metadata alone.
 
 ## Papers worth saving
+- [Zero-code deep learning platform for diagnosing tuberculosis and COVID-19 via chest X-ray findings.](https://pubmed.ncbi.nlm.nih.gov/43099781/)
+  Source: PubMed Infectious Disease Search
+  DOI: 10.1080/19932820.2026.2768145
+  Journal/preprint server: The Libyan journal of medicine
+  Abstract link: https://pubmed.ncbi.nlm.nih.gov/43099781/
+  Source URL: https://pubmed.ncbi.nlm.nih.gov/43099781/
 - [Innovations in Tuberculosis Treatment Using Differentiated Service Delivery, North Central Nigeria, 2021-2022.](https://pubmed.ncbi.nlm.nih.gov/43077706/)
   Source: PubMed Historical Pathogen Case Studies
   DOI: 10.4269/ajtmh.26-0342
@@ -504,10 +509,8 @@ Search window: 7 day(s) ending 2026-11-27
   Treatment success was 82.5% (95% confidence limit [CL]: 79.8-84.9) in the DSD cohort and 81.5% (95% CL: 77.7-84.8) in the historical cohort. Patients with clinically diagnosed TB were significantly more likely to have unsuccessful treatment outcomes compared with those with bacteriologically confirmed TB (adjusted risk ratio: 1.82; 95% CL: 1.40-2.38). We implemented a DSD model for TB treatment at 30 health facilities in north central Nigeria from September 2021 through August 2022.
 - [Persistent Profound Isolated T Cell Lymphopenia in a 74-Year-Old Man with Disseminated Mycobacterium bovis Infection.](https://pubmed.ncbi.nlm.nih.gov/43070540/) | PubMed Historical Pathogen Case Studies
   CD4 count was 19 cells/µL (0.02 × 109/L) and CD8 count was 0.02 × 109/L at diagnosis. T cell depletion is a recognised phenomenon in tuberculosis, including in HIV-negative patients, and is thought to result from lymphocyte sequestration, chronic immune activation, and impaired lymphopoiesis (1, 2, 3). While these abnormalities are typically reversible with treatment, severe mycobacterial infection may also unmask an underlying immunodeficiency (1, 2, 4).
-- [Ebola burial teams struggle to keep pace with deaths in eastern Congo (Video)](https://www.socialnews.xyz/2026/11/25/ebola-burial-teams-struggle-to-keep-pace-with-deaths-in-eastern-congo-video/) | Social News XYZ
+- [Ebola burial teams in DRC work through health risks and prejudice](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHdkZVBZaVJxc3NOTGpTbFhRSzZQMThPNXBUYnNFbERpQnlSbzlXZHcweTZKZGs3NjJjYVBPRTBBNjIyaW4wdEZNby0zZ28za1VMa0t5MHRyUlVEQ2M2TmczTmxKN1IzM0szVTZMaGxhaDBqcFBoWFlKRXMyRV9OLU9QQ212ZG52bGp4OG14YmRIRE1qZmNJeXZFak9Pb2dQQXhXVDJsZ9IBrAFBVV95cUxOMkZCZ25NaUVNQW9CWHVXaWNuOGgzdnZNeU9FUU5UbTY1YkJfLV9LNF9hY2ZYZ0xSYmROZ2ZrME1GODU4dHEwbXFKYmJkcDBoY0lmMGE5UmNFaDY1QXNjZ2tYY09pN3JJMFRVWjI1R3BvcVpaemtwa1djVUxDLW1tWEJ3TmdwbmlfdDFablNqeEJvVEFjRkNaRG8zQ0MzaFo3M0ZNRUlIM3dFajJN?oc=5) | Africanews
   Limited detail was available from feed metadata alone.
-- [Ebola Fight Runs Up Against Customs, Rites In Remote DR Congo](https://ng.headtopics.com/news/ebola-fight-runs-up-against-customs-rites-in-remote-dr-90175006) | Head Topics
-  In this file photo taken on March 09, 2019 Health workers are seen inside the ‘red zone’ of an Ebola treatment centre, which was attacked in the early hours of the morning in Butembo. Burial ceremonies are conducted by specially trained health workers, anonymous in protective hazmat suits, some of whom locals allege are brought in from outside the community and do not speak the local languages. Victims of the highly contagious haemorrhagic fever, which spreads through direct contact with bodily fluids, must be interred in sealed body bags to prevent infection spreading from the corpse.
 
 ## Possible blog/video angles
 - Vaccination coverage versus outbreak control: what the day’s measles or vaccine items actually show.
